@@ -1,0 +1,55 @@
+Original Response:
+I spend too much time thinking about jokes. Allow me to start off your new year with this oldie;
+
+Milk production at a dairy farm was low, so the farmer wrote to the local university, asking for help from academia. A multidisciplinary team of professors was assembled, headed by a theoretical physicist, and two weeks of intensive on-site investigation took place. The scholars then returned to the university, notebooks crammed with data, where the task of writing the report was left to the team leader. Shortly thereafter the physicist returned to the farm, saying to the farmer "I have the solution, but it only works in the case of spherical cows in a vacuum." [[from wikipedia](http://en.wikipedia.org/wiki/Spherical_cow)]
+
+As this is /r/askscience, I feel a need to get a little more serious about this. If you take away bulges like arms, legs, wings and so on and dips like ears, lungs, and so on, you're left with a simple donut shape thanks to the digestive tract. Plants however don't have such a tract, so they could be described as spherical.
+
+Apart from the joke and the nerdish standpoint that its punch line might be incorrect, how accurate is this distinction? Are there insects without a digestive tract, or plants with a 'hole' in them for whatever reason? Bacteria and other small stuff doesn't have a tract, as far as I know, so what's the smallest critter that does have one? Or can somebody pin down what creature our primal ancestor was, i.e. who was the first to take a shit?
+
+Bonus points for anyone who can tell me how the circulatory system is involved in all this. Does or does it not go 'around' the digestive tract following the donut?
+
+Happy new year!
+Jellyfish are (macroscopically) genus zero.  They vomit used-up food out the same opening it went in.
+[Wikipedia disagrees](http://en.wikipedia.org/wiki/Starfish#Digestive_system) and talks about a mouth at one end and an anus at the other. It also mentions their circular system to loop around it all.
+
+Are you sure you meant starfish? Because if there is an animal only capable of vomiting, I'd be very much interested in it.
+How embarrassing. I typed "Starfish" while thinking "Jellyfish". Crazy high-level typo/thinko... Corrected.
+Plants have phloem and xylem.. which is a passive circulatory system..
+Cool, now also reading up on sea anemones. Funny to see they don't have a circulatory system. Clicking around a little it seems they're not really our ancestor though. They're from the [Cnidaria](http://en.wikipedia.org/wiki/Cnidaria) group, while most animals are from [Bilateria](http://en.wikipedia.org/wiki/Bilateria). The [Urbilaterian](http://en.wikipedia.org/wiki/Urbilaterian) would be the animal I was looking for, but the scientific community unfortunately simply doesn't seem to know what it was.
+
+I'm not saying jellyfish don't count against my argument though. Hoping somebody can also show me a toroidal plant to really get this idea out of my head. Pity the distinction animal / plant isn't as easy as it seemed at first hand.
+
+Furthermore, the [description of the gut](http://en.wikipedia.org/wiki/Gut_\(zoology\)) mentions some small bilaterians still don't have an anus. Got any idea which one? The Urbilaterian supposedly had a circular system, so I'm really curious which came first, the digestive tract or the circular system. If it was the circular system, are there animals where the digestive tract does not go 'through' this system, but passes alongside it? And if it was the digestive tract, it would've closed up again in some bilaterians after onset of the circular system. That doesn't seem to make sense either. Not that it really has to, naturally, but why would it do that?
+I knew plants had some form of a transport system, but I never knew it was circulatory. Can't really find a source explicitly mentioning it either, could you elaborate?
+Well its not exactly circulatory, but it does act as a system to transport materials around the plant (phloem) by demand/supply. While also having another system for water transport (xylem). You therefore could argue the phloem is a basic circulatory system except it only transports things to areas where its needed (new growth i.e. Leaves, roots, flowers etc.)
+&gt;Furthermore, the description of the gut mentions some small bilaterians still don't have an anus. Got any idea which one?
+
+[One example within the Deuterostomes.](http://en.wikipedia.org/wiki/Xenoturbella)
+
+&gt;[Cestodes have no mouths or guts, and the syncitial skin absorbs nutrients – mainly carbohydrates and amino acids – from the host, and also disguises it chemically to avoid attacks by the host's immune system.](http://en.wikipedia.org/wiki/Platyhelminthes#Cestoda)
+
+It could be argued, of course, that these species used to have a gut and lost it again in evolution.
+I am of genus 3, I think: Nostrils count too. 
+
+On certain occasions, there will be some passage from the ears to the throat system too, providing pressure relief through the sinuses.
+
+ I have heard of people pushing smoke out through their eyes, through the tear ducts - does that count? 
+
+Also: piercings.
+Both our nostrils connect to our digestive tract making humans at least genus three. And then there's our ears...
+
+Gastrulation is just the most obvious topological change; it's not the only one.
+[deleted]
+no.
+To continue the metaphor, nostrils and ears would be more like poking  holes from the top of the donut to the inner wall. Not so drastic considering we've removed everything else resembling a body. And since eustachian tubes developed from the first gill, we should technically be grouped with fish, no? Now we run the risk of becoming too specific.
+What about the [avian respiratory system](http://en.wikipedia.org/wiki/Bird_anatomy#Respiratory_system)?
+Some of the smaller flatworms have no digestive tract and absorb their food and oxygen htrough the skin - hence not donut like.
+
+Summary:
+Plants have phloem and xylem.. which is a passive circulatory system..
+It also mentions their circular system to loop around it all.
+Got any idea which one?
+Funny to see they don't have a circulatory system.
+And if it was the digestive tract, it would've closed up again in some bilaterians after onset of the circular system.
+Plants however don't have such a tract, so they could be described as spherical.

@@ -1,0 +1,5 @@
+I just got a new coffee maker that I keep at work (lab) and it's got a bunch of settings for varying the strength of the brew.
+I'm interested in putting it to the test to see how much stronger/weaker the coffee actually gets (wrt caffeine).
+I was thinking I could take samples from each strength setting on my coffee maker and then measure the intensity with a spec.
+I know the actual strength is going to depend on the beans but we always get the same stuff in my lab so I'm interested in figuring out the relative strength.
+I'm content making the assumption that caffeine is linearly related to the absorbance, so all I'm not really sure about is what wavelength I should measure at.

@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+How does a machine capture the existance of something smaller than an atom, that barely exists in time, and not just detect it but tells you something of its nature?
+
+You do not directly capture this information. Instead, you look for some sort of a signature that it was there - specifically what it decays into.
+
+Muons may be small, but they have a lot of energy and interact electromagnetically. As they travel through matter, they deposit energy through multiple electromagnetic interactions. You can detect this through something like a Geiger counter or a piece of silicon sensitive to this sort of energy deposit.
+
+There's two types of particles we detect.  Photons (neutral) by energy deposition into crystal calorimeters (charged particles will also deposit energy as well but will have a track).  Then there are charged particles that can have their path detected.  E.g., the charged particles could go through a gas and then ionize the gas as they pass through (creating ion pairs that will drift to wires held at specific voltages in a detector, that allow us to reconstruct the path).
+
+The hard part is determining what sort of charged particle went through your detector. Was it a proton? electron? pion?
+
+You also need to know the energy and momentum of the particle. This is the reason to create a strong magnetic field. The field will bend the trajectory of the particle and by measuring the curvature you can determine its momentum.
+
+You then use a bunch of constraints to simulate events, e.g., energy conservation (E^2 = m^2c^4 + p^2c^2), charge conservation, baryon conservation, lepton conservation, transverse energy conservation, etc.

@@ -1,0 +1,20 @@
+Original Response:
+I've had it!  Enough of this!
+
+What the heck is a virtual particle?
+
+Virtual photons are the force carrier of electromagnetism.  How can this be?  If two interacting electrons are repelling one another, are they emitting light?  Can we see the virtual photons?  How could photons possibly be emitted if the electrons are standing still?
+
+Please!  Tear asunder my misconceptions!  Explain the universe!
+[Have a read!](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/virtual-particles-what-are-they/)
+Think of the virtual particle more of a mathematical tool and less as a particle. It's not real, we never see them, and they don't actually fly through space. If they did, they'd be real particles!
+
+I call the virtual particle a mathematical tool because it never manifests itself in reality. It's a tool similar to complex numbers. We use them to do calculations, in fact we need them or else stuff doesn't make sense, but we never measure imaginary quantities. We call the tool a particle because they are solutions to the equations of motion that govern real particles. 
+
+What this tool lets us do is calculate forces and interaction between particles. Because this tool looks so much like a real particle, physicists tend to talk about them as if they're flying through space and whatnot. It's really just sloppiness on our part.
+Thank you for this, I'm a peasant and this is probably the first time it's been explained in a way that made intuitive sense to me.
+Thanks!  This will take a while ...
+
+Summary:
+What the heck is a virtual particle?
+If they did, they'd be real particles!

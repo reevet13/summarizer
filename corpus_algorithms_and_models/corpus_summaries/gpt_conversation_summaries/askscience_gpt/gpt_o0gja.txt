@@ -1,0 +1,3 @@
+It's easier to become multicellular. Single-celled organisms reproduce by mitosis, and if cells were to clump together as opposed to drifting apart, they would, in theory, form a multicellular organism.  
+Nope. You have a surface area to volume ratio, after a certain size diffusion is unable to adequately nourish the cell.  
+Big cells are diffusion limited. As you get bigger, volume increases at a far higher rate than surface area. A high surface area to volume ratio is needed to pass substances in and out of the cell effectively.

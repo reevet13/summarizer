@@ -1,0 +1,34 @@
+Original Response:
+When I put a bottle of water in my freezer and then take it out a few hours later it often hasn't turned to ice yet. When I hit the bottle into something then ice begins to form at the collision point until it fills the whole bottle. From what I've read this is known as supercooling. 
+
+[Example](http://www.youtube.com/watch?v=Xe8vJrIvDQM)
+
+I've seen videos of people opening and pouring out the supercooled water, which then turns to ice when it falls.
+
+[Example 2](http://www.youtube.com/watch?v=mkNs4bvhCt8)
+
+I though I would try this myself so I put 5 bottles of water in the freezer. I hit three of them to make sure they would turn to ice (which they did) then I poured the other 2 into cups, but they never turned to ice like in the videos I watched.
+
+I was just wondering why the two bottles that were poured out didn't freeze.
+Declaring myself the resident expert on supercooling, I have to say I'm pretty surprised. If the water in those bottles was legitimately supercooled, I'm surprised they didn't crystallize on pouring into a glass. Usually pouring is enough of a shock to promote crystal growth. Heck, its pretty tough just to open the bottles. Dust in the air, dust in the cup...
+
+It could've been a fluke. Crystallization is a randomized process, maybe you got the funny end of the distribution. I'd try it again. Supercooling can be very touchy and without the ability to measure the temperature in your freezer precisely it'll be tough to know if you've actually supercooled the water without wasting all your effort. Make sure you put all the bottles in the same place in your freezer and establish a protocol for how long it takes. Do everything in your power to make your procedure as systematic and consistent as possible.
+In AP chem in high school, my teacher let me and a few friends fuck around cause we'd finish labs early and had some time to waste.  One day we tried supercooling water.  We found that the impurities from it being tap water were enough to make supercooling next to impossible.  Deionized water worked pretty well though.  Overcooling would cause it to freeze instantly as well.  Moral of the story is that impurities in the water can make a big difference here, so if one brand isn't working, another might.
+
+If I had to guess about the not freezing, I'd say that the water is barely supercooled and warming up by the time it hits the cups, or the cups are warming it up enough to prevent freezing.  I'd try 2 things: 1. Let the water cool a little bit longer and 2. But the cup you're pouring the water into in the freezer beforehand.  If there's snow outside, you could even try putting some in the bowl as a seed crystal (a small piece of ice would work as well).
+
+Another thing is to make sure you're very careful when opening the bottle, as the slightest disturbance could cause it to crystallize on you (when I did it in High School, all I needed to do was tap the test tube lightly and it would instantly crystallize).
+
+EDIT:  Why the downvotes?  I gave legitimate explanations (and advice).  Try different brands of water, try freezing the bowl, try keeping it in the freezer longer, be careful when opening the bottle carefully.  Also, it wasn't like we just screwed around supercooling water, I had actually researched the stuff a bit before doing it.
+You need a nucleation point.  It's hard to convince a liquid to crystallize because you lose a lot of entropy, meaning your gibbs free energy increases.  (dG = dH - T*dS)  where G is gibbs, H is enthalpy (ie the heat of the reaction), S is entropy, T is temperature.  the leading d is short for delta, which means "change in"  So the change in gibb's free energy is proportional to the change in the enthalpy and entropy of a reaction at a given temperature.
+
+Entropy is the state of disorder, so according to this a higher state of disorder makes for a lower gibbs free energy, and statistically the lower energy state is the most likely phase to form.  Ice crystals have a lot more order in them than liquid water, so convincing a liquid to crystallize takes a bit of work.  If you have a nucleation point though you can speed up the process.  That's what striking the bottle, or adding a seed crystal does.  
+
+This is a very important process in the semiconducting industry, because that is how single crystal silicon gets made.  [Here](http://www.youtube.com/watch?v=cYj_vqcyI78) is a time lapse video of a silicon ingot being formed.  What you're seeing is the silicon chunks getting melted, then a small seed crystal is inserted to the top of the melt.  The seed is slowly rotated and removed, and you can see the relatively large ingot being drawn out with it.  This ingot is almost as perfect as we can make crystalline materials, which is crucial for solid state applications.
+If OP is using a thick warm glass with smaller amounts of water, the water may end up not being supercooled. For best effect, try freezing the glasses before you pour the water.
+
+Summary:
+If the water in those bottles was legitimately supercooled, I'm surprised they didn't crystallize on pouring into a glass.
+One day we tried supercooling water.
+But the cup you're pouring the water into in the freezer beforehand.
+I was just wondering why the two bottles that were poured out didn't freeze.

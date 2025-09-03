@@ -1,0 +1,9 @@
+Here is a summary of up to 250 words by selecting only sentences from the original text exactly as written:
+
+What I don't understand is how mixing one color with the other causes a change in the wavelength to create another color.
+
+The answer is it doesn't change the wavelengths. When you mix photons with wavelength of, say, 600 nm (red) with photons with wavelengths of 460 nm (blue), you have a mixture of a two photons.
+
+This mixture of photons excite your colour receptors in your eye in such a way that you perceive the colour magenta.
+
+As to the primary colours, I'll direct you to the wikipedia article on [cone cells](http://en.wikipedia.org/wiki/Cone_cell).

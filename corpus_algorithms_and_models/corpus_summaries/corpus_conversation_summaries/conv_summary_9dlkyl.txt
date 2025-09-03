@@ -1,0 +1,195 @@
+Original Response: 
+Hi All, Anthony Vapes back here with my review of the Ehpro Mod 101 Pro.
+Please see bottom for disclaimers and links.
+Note: This was not marked as a sample and should be the retail version
+
+
+ 
+##Introduction: 
+ 
+The Ehpro Mod 101 Pro is the latest mod from longtime vape manufacturer Ehpro.
+A company who gained popularity making mech clones and RDA clones and good ones many years ago, the past few years they have made original designed RDAs and mods.
+The Ehpro Mod 101 Pro is the follow up to their original Ehpro Mod 101.
+The Ehpro Mod 101 Pro is a single 2x700 battery (takes 21700, 20700, and 18650 with included adapter) mod rated at 75 watts (a bump up from 50 for the original 101) and is styled in the rare regulated tube.
+The only other one i can think of recently is the uwell nunchaku.
+It’s available in 4 colors Blue, SS, Black, and Rainbow.
+Heavengifts.com has them for 54.15 USD on preorder
+
+ 
+##Manufacturer's Specs: Mod
+
+
+* Dimension: 25 x 117.5mm 
+* Material: stainless steel 
+* Wattage: 5-75W 
+* Voltage: 0.5-8V 
+* Working Mode: TC(Ni/Ti/SS)/Bypass/VW
+* Resistance Range: 0.1-3oh
+* TC Range: 200-600°F/100-300°C 
+* Display Screen: 0.69inch 
+* Batteries Types: single 21700/20700/18650(with an adaptor)（no battery）
+* Exquisite pen-style TC MOD with 75W max output
+* Convenient one button operation
+* Stable and high performance working modes
+
+
+
+
+##Included in box:
+ 
+* 1 x Ehpro MOD 101 Pro(no battery)
+* 1 x Beauty Ring
+* 1 x 18650 Battery Adaptor
+* 1 x User Manual
+
+
+
+
+
+ 
+##Picture Album
+
+[album](https://imgur.com/a/Cc10x69) 
+
+
+
+##Initial Impressions and features
+
+When I first got this Mod, I was pretty impressed with it.
+It’s built really nicely, the pain job is nice, I have the rainbow it an looks almost anodized.
+Really beautiful mod.
+All the threading for the battery cap was nice.
+It’s a simple 1 button operation mod, personally I didn’t care for that but more on that later.
+This is also the time I’d talk about how the screen is small and just black and white but since there aren’t any direct competitors to it i’m aware of except the nunchaku which is 18650 battery only, I’m not bothered by the screen because no better options.
+Overall I really liked this from the start.
+## Other Usage Notes
+
+The mod uses a standard 5 click to turn on and off.
+The Menu system to me isn’t very good due to only having one button.
+3 clicks gets you into the menu then click to scroll up, if you want to scroll down click twice to change the scroll direction.
+In the menu you have power set (or temp temp set depending on mode) work mode set, calibration initialize and display mode set (flip screen).
+TO lock in your selection you just have to wait and not click anything.
+When selecting your work mode each other menu after sets up the settings.
+For example selecting TCR mode goes TCR value, Max Power, Temp.
+For modes the mod has SS, Ni200, Ti, Power, Bypass, and even though it’s not listed in their specs TCR mode.
+It’s way too clunky and slow for my tastes.
+Also adjusting the mod (for example adjusting power in power mode) you have to click 3 times, wait for it to accept power set, then adjust it.
+It really needed more than 1 button.
+The Ehpro Mod 101 Pro adjusts by .5 watt increments, not too bad at all but it’s a slow adjustment and if you pass the watts you want clicking twice to go backwards really gets old.
+It also does not round robin wattage.
+Just poorly executed in my opinion.
+The mod itself is built solid with no rattle at all, and has a good weight.
+Feels solid but not heavy.
+The Battery door is a standard battery cap on the bottom like the nunchaku.
+The paint looks nice and doesn't scratch off, and i have no visible wear on mine but didn't’ get to use it as much as I would have liked which i’ll explain below.
+I love the coloring on the Rainbow one.
+The fire button is nice and clicky and a decent size.
+It’s a simple round button on the backside of where the screen is.
+I would have preferred a better location like right above the screen.
+It works well and It never gets stuck or anything though which is as it should be.
+The 510 pin gave me no issues and every atomizer i used on it worked great with no gaps.
+The mod handles 25mm atomizer flush.
+Anything bigger will overhang.
+It also includes a beauty ring for 22mm atomizers.
+The screen is a small .69” black and white screen It’s ok no worse then the nunchaku which is it’s only competitor but still a better one would have been nice.
+Also for branding the mod itself is pretty nice overall and not heavily branded.
+On the bottom of the mod, the front has a mod 101 pro and the back has an ehpro.
+This mod does not have a USB port or any charging so an external charger is required.
+##Mod Performance
+
+Normally in this part I have charts breakdowns, thorough TC details all that good stuff, sadly for this one, we just get a story and a small amount of info.
+I didn’t get to use this mod nearly enough as I would have liked so I can't speak too much on it’s performance.
+The reason why is mine had “hot button” issues like a mech would.
+It wasn’t the button itself but it was the bottom battery cap at times and sometimes right above that on the tube.
+With every battery I tried, even with low watts and only when firing.
+Something is clearly wrong with the one I have and I did not want to put it through any testing due to that issue so i used it very little.
+Probably about as much as your typical youtuber (i kid it’s just a joke).
+Anyway I did try and do some minor temp control testing.
+SS316 wire as usual and TCR mode but even upping the TCR to 150 and the temp to 600F only gave me weak vapor and a temp protected.
+Doesn’t seem to work well at all in that regard.
+On top of that I’ve had terrible luck with these 101 mods.
+I never reviewed the ehpro 101D kit which came with the original 50 watt 18650/18350 ehpro 101 and the dripper 101 RDA.
+The reason being was the battery door piece that you have to tighten to connect the battery came jammed.
+I sent them [this video](https://youtu.be/SQ-Iynv2iEE) showing that and they said they would send a replacement and they never did and it’s been long enough that I can probably say there won’t be a replacement so that review won’t happen.
+Not sure what's going on there or if I have terrible luck with their products but either way I can only review what’s in my hand and sadly both these mods just don’t cut it due to their issues which is a shame because i’d love to see a good stick mod this the 101 pro that performs well and works.
+Not going to do a pros and cons so let's jump to the conclusion.
+##Conclusion
+ 
+So with all that said, do I recommend this mod or not?
+Obviously this is a no.
+Mine had a major issue with it and this is the 2nd time a 101 mod has had a major issue that prevented me from doing a thorough review.
+Obviously I can’t add this to my sheet as i can only review what's in my hand.
+As it stands now if you want a regulated adjustable stick mod, just get a nunchaku.
+My list of recs is linked below as well
+
+
+This is Anthony Vapes just keeping it honest, hopefully you all can say the same and i’ll catch you on my next review.
+##Product Disclaimer 
+This product was sent to me from Heavengifts.com 
+
+ 
+ 
+##Review Disclaimer
+Due to possible QC difference your experience may vary.
+##Reviewer Disclaimer
+
+I’ve been doing vape reviews since late 2016 and have done around 200 reviews to date.
+I enjoy helping vapers on forums as well and helping contribute to the great vape community.
+I’m not an “out of the box” reviewer.
+I do my best to be thorough at all times and have enough experience with many products to tell what’s good and what’s not.
+All mods get tested with an oscilloscope and stress tested and results are posted in my reviews.
+##Recommendations and Past Review Links
+
+written reviews list [here](https://www.reddit.com/r/electronic_cigarette/wiki/anthony_vapes_reviews)
+
+Youtube Channel [here](https://www.youtube.com/channel/UC89GbHGYh2xwLTvdTk1vgMw)  
+
+
+Spreadhseet of Recommendations [here](https://docs.google.com/spreadsheets/d/1c4MZ2xYBE-1-0A6rLYY46OHtzHCM-roJINpxghmhzXM/edit?usp=sharing)
+
+Best of 2018 so far list [here](https://www.reddit.com/r/electronic_cigarette/comments/8vjokk/anthony_vapes_best_products_of_2018_so_far/?st=jjafe9zh&amp;sh=4a9df4a4)
+
+Best of 2017 list [here](https://www.reddit.com/r/electronic_cigarette/comments/7pbq1y/anthony_vapes_best_of_2017/?st=jd1xm28v&amp;sh=beacf9bc)
+Hey long time no see!
+Lmao
+
+Damn that’s ridiculous on this mod.
+I love love love regulated tubes ever since the SVD and the provari (still two of my favorite mods) and I’m bummed out these have so many issues.
+As always, thanks for the review!!
+!
+LMAO right?
+and yeah i would love to see more tube mods for sure as well do good but the wait continues.
+Is it bad that I chuckled at the QC passed card when I went to look at the pictures after reading the review lol.
+LMAO it might as well just be a sticker.
+no idea how this mod passed QC.
+Right?
+Man I can believe you got multiple bum 101s.
+That’s some real bad quality control.
+yeah kinda sucks huh.
+i didn't even get to test 1 lol.
+That’s true but you did give the first one a review in this one I guess lol I’ll be sure not to get this one I think lmao.
+pretty much.
+came DOA never got a replacement, can't recommend lol.
+I’ll wait till Ehpro clones it.
+Wait...
+LMAO maybe infinite lol.
+
+Summary: 
+I love the coloring on the Rainbow one.
+no idea how this mod passed QC.
+##Conclusion
+ 
+So with all that said, do I recommend this mod or not?
+Overall I really liked this from the start.
+Lmao
+
+Damn that’s ridiculous on this mod.
+The Ehpro Mod 101 Pro is the follow up to their original Ehpro Mod 101.
+The mod handles 25mm atomizer flush.
+On the bottom of the mod, the front has a mod 101 pro and the back has an ehpro.
+The mod itself is built solid with no rattle at all, and has a good weight.
+Hi All, Anthony Vapes back here with my review of the Ehpro Mod 101 Pro.
+I’m not an “out of the box” reviewer.
+It really needed more than 1 button.
+On top of that I’ve had terrible luck with these 101 mods.
+i didn't even get to test 1 lol.

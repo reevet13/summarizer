@@ -1,0 +1,15 @@
+Original Response:
+Hey everyone!
+
+If you have a fixed volume of air that is at, say, 30 degrees Celsius. Will the ambient air temperature drop if the air is agitated with a fan? The flow of air from the fan will feel cold to the skin, but will the actual temperature of the volume of air drop? 
+
+Assume the fan is not generating any heat of it's own and that we're talking about a closed system.
+
+Thanks!
+The temperature will not cool down with a fan, in fact it will slightly increase due to the power consumption of the fan generating heat. (You can't assume this away; to move air you are performing work and that must consume energy that as a side effect will produce some heat).  With the fan it will feel cooler to the skin as (a) your body generates heat around you more than the area in the rest of the room, and (b) if you are sweating the air the air around you will be more humid.  
+
+So don't leave on fans in a room when you aren't in them if you are trying to cool the room down.  (Unless it is cooler outside the room and there is ventilation).
+Not to mention the fact that moving air has a higher coefficient of convection and the temperature difference between the skin's surface and the air is positive (forced convection being in play now).
+
+Summary:
+Assume the fan is not generating any heat of it's own and that we're talking about a closed system.

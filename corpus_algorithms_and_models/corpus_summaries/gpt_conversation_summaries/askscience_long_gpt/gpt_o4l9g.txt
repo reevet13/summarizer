@@ -1,0 +1,11 @@
+Yes, crude oil will contain some compounds which are edible and they would have the same approximate 9 Cal/g as other edible oils. However there are so many other toxic compounds in crude oil that they would need to be purified extensively (beyond normal refining) to isolate.
+
+There is evidence of metabolizable lipids in petroleum but these are 1) in an extreme minority and 2) likely produced by microbes living in the oil.
+
+There is tons of energy for microbes, assuming they have access to oxygen or another oxidant that they can use to react with the oil. This is why oil spills "naturally" break down over time (although some extremely recalcitrant chemicals in oil need to be photolysed before they're accessible for microbial oxidation).
+
+Crude oil has very little oxygen or nitrogen and consequently very few molecules of anything resembling the sugars or proteins that people consume. There are straight-chain alkanes which are similar to the saturated fatty acids that people eat, but they're missing the terminal carboxylic acid group so your body has no place to start breaking them down from (some ethers still remain, but most carboxylic acids are broken during oil formation).
+
+Drinking crude oil would kill you, but if you separated out all of the component parts you would find something edible. Not much, but some.
+
+Sugars, amino acids, and nitrogenous bases wouldn't be found in crude oil. They are somewhat fragile molecules that wouldn't survive the extreme heat and pressure under which it is formed, and I couldn't find any literature describing their presence.

@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the original text (up to 250 words):
+
+The only mod I ever ran on Minecraft was JourneyMaps because it really decreases frustration level and the game should come with it standard anyway.
+
+Minecraft from the Windows Store (Bedrock) is incompatible with Java. From being written in a different language... to various mechanics, it's just quite different to all but casual players.
+
+They're both the "real" minecraft, aimed at different audiences. But Bedrock has generally inferior gameplay, particularly to us veterans, but "stole" the flagship name rendering the original as the stepchild.
+
+For me, I would just like to be able to use JourneyMaps. Whether that is on a game written in Java or a game written in C++ is not so important to me.

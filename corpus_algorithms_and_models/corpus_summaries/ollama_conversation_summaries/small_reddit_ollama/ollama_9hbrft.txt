@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words), selecting only sentences copied verbatim from the original text:
+
+Ok so first off I want to state that I'm using a Ryzen 2600x and this don't have any integrated graphics or apu to use in place of a dedicated graphics card. Also, this is my first PC build so please bear with me.
+
+
+Now then, I'll be starting college pretty soon and still haven't completed my build. This poses a problem because I live fairly far from my college, about 3-4 hour drive, and I plan on taking the computer with me.
+
+
+And here's [my build](https://pcpartpicker.com/list/P8mm7W) in case you're interested.
+
+It’s an amd 2600 doesn’t have integrated graphics. If anything just buy a dirt cheap gpu off Craigslist and sell it when the other one gets in.
+
+How do I check if it does have an onboard graphics card and how would I use it? Just find the port on the board and plug the power cord/plug that fits?
+
+You will have to borrow a GPU or buy a cheap one to test with.

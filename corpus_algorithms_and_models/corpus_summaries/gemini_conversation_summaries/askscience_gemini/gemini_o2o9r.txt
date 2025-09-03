@@ -1,0 +1,12 @@
+Gas cars use a comparatively small battery to start the car and operate some electrical devices during operation.
+So let's see, the electric battery provides power to a motor which turns an alternator which charges the electric battery... no, I can't see any flaw in that process at all.
+If you have a source of mechanical motion, such as a gasoline engine, you can use an alternator to turn it into electricity.
+But there's no point in doing that if the mechanical motion came from that same electricity in the first place...
+Energy cannot be created or destroyed, only converted from one form to another.
+However, you lose some energy due to friction, heat, etc, so what is the point?
+I just figured, maybe you charge your car once over night, then, your range is extended amazingly by your alternator recharging your battery for you.
+What powers your alternator?
+The gasoline engine powers the alternator.
+The engine itself is powered by burning gasoline.
+The battery powers the electric motor, which moves the wheels.
+Regenerative braking works because it's only activated when the motors are not drawing power from the battery.

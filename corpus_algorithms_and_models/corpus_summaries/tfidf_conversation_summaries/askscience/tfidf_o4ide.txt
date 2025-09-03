@@ -1,0 +1,15 @@
+Original Response:
+Since 1996 Canada has used iron pennies plated with zinc and copper. I wanted to keep only my copper pennies and thought that putting a strong magnet in the pile would be an easy way to separate the iron from the copper. What I found was that not all the iron core pennies were attracted to the magnet and that even pennies minted in the same year are not necessarily all attracted to a magnetic field. Now I have three piles; copper, magnetic, non-magnetic ಠ_ಠ
+
+Why aren't all the iron core pennies attracted to a magnetic field?
+According to the [Royal Canadian Mint website](http://www.mint.ca/store/mint/learn/1-cent-5300004#1_1), pennies minted between 1997 and 1999 have zinc cores.
+
+If you're referring to the new pennies since 2000, whether the penny is ferromagnetic depends entirely on the type of steel used.
+Thank you for introducing the zinc pile. Would you mind elaborating on magnetic/non-magnetic steel? I'd really appreciate it.
+Ferromagnetism isn't my field, so I can't give you a detailed answer. The best guess I have is that the introduction of another element (in this case, carbon) can alter the [close packing structure](http://en.wikipedia.org/wiki/Sphere_packing) and the [exchange interaction](http://en.wikipedia.org/wiki/Exchange_interaction) of the material.
+
+Perhaps a material scientist can help me out here.
+All iron-core pennies ought to be attracted to the magnetic field, barring extreme circumstances [i.e., exceeding the Curie temperature].  However, apparently the Canadian Mint [also produced zinc-core pennies](http://en.wikipedia.org/wiki/Canadian_penny#Composition_throughout_history) from 2000-2009, except 2008.
+
+Summary:
+Since 1996 Canada has used iron pennies plated with zinc and copper.

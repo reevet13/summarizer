@@ -1,0 +1,20 @@
+Original Response:
+Don't try this at home, kids.
+
+One of my friends showed me this last night.  We melted down a bunch of candles and let them boil. Then, safely using oven mitts and tongs, moved the container of boiling wax to a deserted area.  Then using a pitcher mounted on the end of a broomstick, I poured ice water into the wax, producing a huge fireball.  It was pretty sweet. 
+
+I've taken basic chemistry for engineers, but I'm still not entirely sure how that happened.  Why did it explode? I feel like it has some similarity to a grease fire...
+Candle wax is very flamable. Looking around it appears that the flash point is a bit under 400 degrees. I would say that introducing the water lowers this so that the wax was already heated past its flash point, and boom.
+
+In this sense, yes, just like a grease fire.
+Speculation here from someone familiar with the physics involved. I think you hit the nail on the head with the "similar to a grease fire" idea, as it was my first thought when I read your title. You are pouring water into a boiling liquid that probably has a boiling point much higher than water. This  leads to the water vaporizing on contact violently quick, essentially exploding into steam, which then separates the wax into tiny particles that can vaporize more efficiently as well. Wax vapor (the fuel for a candle) then ignites into a fireball. The only thing unclear in your post is that you don't mention an ignition source. I'm fairly certain you would need a flame near this explosion of waxy awesomeness.
+Maybe the wax has a really low autoignition temperature?
+Autoignition temps tend to be very very high, and I'm pretty sure the wax would have been on fire long before water was poured on it.
+
+Here's a [video](http://www.youtube.com/watch?v=GovpDc-fyTQ) though and it's hard to say if the wax is on fire by itself or if the flames around it are keeping the vapor lit.
+I've done this a few times.  Fun, but very dangerous and gets wax everywhere.  Wax burns, its the fuel for candles and why wicks don't burn up so quickly.  However, it also needs to be in the presence of oxygen.  A spoonful of very hot melted wax only the surface can burn despite it all being very very hot.  Drop in a bit of water and the wax instantly vaporizes the water causing it to rapidly expand flinging wax everywhere.  This wax now has access to oxygen and the flame from the top layer causing a massive fireball.
+
+Summary:
+Wax vapor (the fuel for a candle) then ignites into a fireball.
+Candle wax is very flamable.
+I feel like it has some similarity to a grease fire...

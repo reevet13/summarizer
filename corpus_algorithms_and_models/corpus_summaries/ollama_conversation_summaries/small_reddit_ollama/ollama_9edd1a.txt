@@ -1,0 +1,30 @@
+Here are the extracted sentences:
+
+1. The pressure difference between inside and outside the space station is only one atmosphere.
+2. You wouldn't expect a 2 mm hole in the side of a submarine 10 m under water to cause rapid, catastrophic flooding either.
+3. It's counterintuitive.
+4. Having a larger ship doesn't mean there is more pressure, it just means that there's more air.
+5. The flow rate would be the same regardless of the ship size.
+6. This... isn't true. The vast majority of o-rings are made of various other rubbers.
+7. Viton is a fluoroelastomer that is safe for vacuum.
+8. So it's space rubber?
+9. Not the worst idea, getting a space flat is no fun, AAA takes forever to show up.
+10. Fill a balloon with water and poke a hole in it with a needle and you'll get a sense for why it took so long for the air to escape from the ISS.
+11. Heck, take two balloons filled with air, poke one down where the rubber is thick around nozzle and the other in the main body of the balloon.
+12. The size of the hole is only as important as the strength of the material the hole is in.
+13. This hole was drilled through metal so the metal wasn't going anywhere to allow the hole to expand.
+14. A piece of scotch tape on by the balloon, you can put a needle through the tape and balloon, the tape keeps the hole from expanding catastrophicly.
+15. Ah, so the bursting of the balloon is essentially caused by a chain reaction?
+16. As the hole gets larger, more air can be sucked out, widening the hole, etc.
+17. it has almost nothing to do with the air.
+18. when the ballon is inflated the rubber is stretched tightly (under tension). when you poke the balloon the tension rips the hole open.
+19. if you were to cut a balloon open and then stretch the sheet out the same amount and then poke it, it would also violently rip itself apart.
+20. The decompression knocks the shuttle he took to the station into it and causes a secondary explosion.
+21. I mean, I'm just trying to give him something easy that he can likely do to demonstrate that just because there's a whole in it, it doesn't mean that there's going to be catastrophic depressurization.
+22. Which, I mean, is obvious given that the ISS didn't depressurize instantly due to one small hole.
+23. You're pretty much right on. I don't work for our seals division (which supplies seals for Boeing and NASA) but have worked with them in my BU, which is medical applications.
+24. There are tons of rubbers that O-rings are made from, from 14B to chlorobutyl to viton, to ePTFE which is a great temperature resistant sealing material.
+25. It's also ridiculously expensive so its only used when temperature swings are at play.
+26. Viton/ePTFE would be my materials of choice here due to their fluoropolymer nature which is very temperature stable.
+
+Note: These sentences may not be a comprehensive summary of the original text, but rather a selection of key points and explanations related to the topic of pressure differences in space and the leakage of air from the International Space Station.

@@ -1,0 +1,7 @@
+Here is the extracted summary:
+
+You don't watch movies with a framerate of 24. In classical cinema, you have 72 pictures per second because the shutter is closed twice for each frame.
+
+On the other hand you have games running with 30 fps, although the screen is refreshed 60 times a second.
+
+I'm not sure what you're getting at but film cameras absolutely only close the shutter once per frame.

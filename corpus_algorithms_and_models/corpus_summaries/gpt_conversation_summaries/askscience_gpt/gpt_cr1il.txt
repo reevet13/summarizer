@@ -1,0 +1,20 @@
+A decent telescope (6-8 inches) can be a lot of fun. You can see neat stuff like Saturn's rings and Jupiter's moons, and also multicoloured double stars, globular clusters, galaxies, etc.
+
+You could probably measure the spectrum of a star by focusing it through a pair of binoculars (or a telescope) onto a prism, then shining the diffracted light from the prism into a digital camera, and writing some code to analyse the strength of each colour. I'm not sure how well this will work, but Isaac Newton did it (sans digital camera). Start with the sun (no telescope needed, just a prism), or Venus.
+
+You can measure the speed of light if you have an oscilloscope. There are actually some other neat things you can do with an oscilloscope; check out Clifford Stoll's TED talk. You can probably find an old one at an electronics hobby store.
+
+Another easy experiment: Young's double slit. Get a very sharp pin and make two holes very close together on a piece of paper, and shine a laser through them.
+
+Go see some fireworks. Watch for a flash, and time how long it takes for you to hear the sound. Sound travels at 1100 ft/sec roughly. Take the time you measure and multiply it by the speed of sound I've given you. Now you know how far away they are. Pull out the pocket spectroscope. Look at the fireworks through it. You can compare this with charts of spectrum given off by different elements. Now you know it's rough composition. Time how long it spends in flight before it reaches peak altitude. Measure the angle that the line of sight takes from your position to the firework at peak altitude. The distance of the site of the fireworks from where you are forms a triangle. You can now use basic trig to figure out the peak altitude.
+
+Knowing the peak altitude and the distance to the launch point, it's now a matter of pretty simple arithmetic to find the average speed that it travelled at. With some more data you can estimate how big of a charge was used to launch the firework.
+
+There you go, with maybe $30 in equipment, your own senses and a pocket calculator, you have determined:
+
+* The distance to the launch point
+* Peak altitude
+* Launch speed
+* Composition
+
+Honestly, I always find that amazing. And all that is done without even coming near the fireworks. All you're doing is watching them. You can derive so much information about them from such little effort.

@@ -1,0 +1,97 @@
+Original Response:
+I got this idea while exploring the 3 rules of thermodynamics, specially the second one, came up with a device, i know it can't work but i can't but my finger on the reason why.
+So the second rule states that heat cannot pass by itself from a cold object to a hotter one.
+
+[OK so here is the machine](http://imgur.com/p5gQX), a set of piping and 2 chambers thermally isolated from exterior, and a mirror to focus thermal radiation from the big tank of liquid to the small. Any diffused radiation will tend to equalize temperature in the liquid and the whole room but at the focal point there will tend to be higher temp.
+
+Possible logic error aside this temperature difference would create convection current and tend to create movement that can be tapped , turned to electricity and taken out of the system.
+
+I'm not thinking of a perpetual motion machine of the first kind but one of the second and i know that can't be right.
+
+Moved form r/Physics, realized that is not proper place
+
+EDITED for simplicity's sake:
+[Simpler version](http://imgur.com/bEJYd)
+Spherical shell with hot liquid having at the center a small ball with the same liquid connected through pipes, would the small sphere tend to be hotter due to concentrated thermal radiation if conduction / convection through pipes is minimized ? And if flow was allowed could convection movement be used to produce some energy ?
+
+As i said for this to work i must be missing something with radiation heat transfer or similar.
+The mirror will reflect thermal radiation both ways.  
+
+Suppose the small tank is hot.  Then it'll work like the headlights of a car.  The mirror will take the energy and send it to the big tank.
+
+Or am I missing something?
+&gt;So the second rule states that heat cannot pass by itself from a cold object to a hotter one.
+
+Eh-wha? How does the Second Law say that?
+It doesn't... entropy and heat are two very different things...
+It's the problem with entropy, if the heat would flow towards the hotter object entropy would drop and it cannot without exterior energy.
+[deleted]
+The room will reach thermal equilibrium rather quickly without new heat being added.  Quantumtroll below is correct in [stating](http://www.reddit.com/r/askscience/comments/cqbml/what_is_wrong_with_this_machine/c0uf9x3) that the mirror will simply reflect thermal radiation in both direct.
+
+Thermal radiation is almost negligible in these situation unless you are dealing with temperature in the thousand K +.   Using thermal radiation as a mode of heat transfer is essentially useless at low temperatures where you would have piping networks.
+
+edit: spelling
+Yes but i got that the thermal radiation tends to be more concentrated in the small object because it is in the focal point of the mirror, thinking of headlights, the filament is hotter then the surface lit, and if i light emitting surface of the bulbs temperature is in front of the headlight the spherical mirror surrounding the light bulb would tend to make it even hotter.
+I thought of this device to get some thoughts more clear in my head, will check and come back with a clearer statement.
+
+Edit:
+From [Wikipedia, second law page](http://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
+an isolated system which is not in equilibrium will tend to increase over time, approaching a maximum value at equilibrium.
+This machine tend to mentain a temperature difference instead of going towards equilibrium.
+This is a neat idea. To make it a more "theoretically pure" thought exercise, consider a perfectly reflecting ellipsoid. Then put a big black body at one focus, and a small black body at the other. Initially have them be the same temperature (say much higher than the mirror).
+
+Not sure how to resolve this one... something to think about all day.
+So i guess i have to brush up on heat amounts transfered by radiation. I was mainly testing the concept and not thought about actual amounts, considered the device perfect in all ways in the bounds of known laws, and wondered why i think i can break one.
+Right, stuff like that tend to keep me up some nights.
+[deleted]
+Exactly, what i said that due to the second rule the machine will not work, but the way heat radiation works it seems to maintain a temperature difference, I'm trying to exactly pinpoint WHY it does not work
+Considering the second version, the core and shell design:
+
+Every point on the inner surface of the sphere radiates energy in *every possible direction*.  So, there are no more photons which travel through the center of the interior of the sphere than any other point within the sphere.
+
+Consider a simpler version, a circle.  You can draw all kinds of chords--straight lines that go from one point on the circle to another--that do no go through the center.  So, imagine if you began to draw chords randomly through the inside of the circle.  The circle would not be any darker at the center because of some concentration of lines.  The inside of the circle would have a uniform shade, because every point would have a uniform density of lines drawn through it.  Spin the circle around an axis and you have a sphere, with the same interior uniformity.
+
+Another way to think of it: For any given point inside the sphere, the amount of radiant energy passing through it will be proportional to the surface area of the inner sphere to which it is exposed.  Well, for *any* point the exposed area is *all* of the interior surface.  So, no point will receive more radiant energy than any other.  
+
+Therefore, there is no reason why the core would be any warmer than the shell.
+
+(Still pondering a parabolic reflector and a two-tank system.)
+This is it, yes, I'm trying to make a model (hope Pov-Ray raytracer is up to it) to clear the light(radiation) energy density inside the sphere. I'm starting to wrap my head around the idea that it would be more uniform than i had thought.
+
+I was missing the surface does not radiate only along its normal but i felt that it would somehow balance out and still give higher energy density at the center.
+&gt;i felt that it would somehow balance out and still give higher energy density at the center.
+
+I think it's our experience with curved reflectors (and refractors) and sunlight such that leads us to these kinds of fallacies.  We forget that the sun is a unusual source of radiant energy.  It's so far away that over a small area (like the size of a magnifying glass) the radiant energy seems to be almost entirely parallel.  So, we unintentionally train our brains to think of radiant energy as moving in parallel lines, and other such orderly arrangements.
+Yes, but somehow the point stands, that there may be some shape / arrangement, as you said maybe with that reflector to obtain a higher energy density in some point of the device than in another.
+&gt;there may be some shape / arrangement... to obtain a higher energy density in some point of the device than in another.
+
+You're avoiding the terminology, but your goal is still a "perpetual motion machine" which, despite the name, is an arrangement which seeks to extract energy from nothing.  Which just makes no sense.  You cannot put two coins into a box and then pull three coins out.  No matter how you arrange the coins, there will only ever be two of them.
+Yes , read the initial post, i know energy should not be able to be extracted from something like this, that there must be a mistake somewhere, and if i cannot find it i am missing some vital information, but I'm trying to find out exactly what step of the thought train contains the problem, to find the exact hole in my judgment.
+Here is the simplest "thought experiment" version of the idea that I can think of, as well as a possible resolution:
+
+You have one large black body radiator with a surface area of 4 m^2, and a small black body radiator with a surface area of 1 m^2. Initially, they are both at 1000K. 
+
+In accordance with the [Stefan-Boltzmann law](http://en.wikipedia.org/wiki/Stefan%E2%80%93Boltzmann_law) the big black body will radiate 226.8 kW, and the small one will radiate 56.7 kW.
+
+Now we encase the two radiators in a perfectly reflecting ellipsoidal shell so that the radiation from one of the bodies is focused entirely on the other and vice-versa. 
+
+When they come to equilibirum, the smaller body will have to be hotter than the large one as they must both be radiating the same amount. How much hotter should depend on the heat capacity of the two radiators.
+
+Now, if you think of this closed system as consisting of just the two black body radiators, you might be tempted to say that entropy has decreased as they have been brought out of thermal equilibrium.
+
+However, you must also consider the radiation itself as part of the closed system! Calculating the entropy of the radiation appears to be an absolute mess, but I am pretty sure that if you do it correctly you will find that the entropy of the entire system increases as the distribution of photons being exchanged changes once the two radiators reach equilibrium.
+That seems to be the way to the answer, as i said further i intend to model the photon / energy distribution with a ray tracing program to make a better representation, i used wave (water-like) pictures/simulations until now but they don't seem to cut it.
+So, fun for the weekend.
+Reply, Part II.
+
+There is a higher density of radiant energy (ie, photons).  But that does not translate to a higher temperature, because there are just as many photons outbound as inbound.
+
+Summary:
+The mirror will reflect thermal radiation both ways.
+So, no point will receive more radiant energy than any other.
+So the second rule states that heat cannot pass by itself from a cold object to a hotter one.
+Initially have them be the same temperature (say much higher than the mirror).
+The circle would not be any darker at the center because of some concentration of lines.
+There is a higher density of radiant energy (ie, photons).
+&gt;So the second rule states that heat cannot pass by itself from a cold object to a hotter one.
+&gt;there may be some shape / arrangement... to obtain a higher energy density in some point of the device than in another.

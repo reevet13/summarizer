@@ -1,0 +1,5 @@
+Basically I have a very small solar powered toy car, but no sunshine in Scotland!
+It works with using regular bulbs, although barely does anything when using a 2.4V bulb to shine light on it.
+The amount of power LEDs emit is comparatively small to other light sources of similar intensities (such as incandescent light bulbs).
+Just use a high wattage light source.
+That is why regular bulbs work better.

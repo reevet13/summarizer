@@ -1,0 +1,17 @@
+Here are the selected sentences copied verbatim from the original text:
+
+As I understand, all particles are effectively waves until an observation forces the waveform to collapse, at which point it appears as a particle in the conventional sense.
+
+How does this relate to situations like the helmets of astronauts showing holes from high velocity particles after missions? The waveforms of these particles have apparently collapsed without an observation (although I guess there was ab observation of the helmet at some point after). Are these effectively "Schrodinger holes" which both exist and not until someone examines the helmet?
+
+Ehrenfest's theorem tells us that the expectation value of a wavefunction will equal the classical limit.
+
+An "observation" is just an interaction with some macroscopic object.
+
+Observation, is not "observation by a conscious observer". It is **any** interaction with an external system, where we ignore the evolution of that external system after the interaction. So the particles are effectively "observed" when they impact the helmet.
+
+Schrodinger's cat was never in a quantum state because it is too large a system to maintain quantum coherence for any meaningful amount of time.
+
+In some sense this idea, the idea of a quantum state as a state of knowledge, is a good way to think about things, once you understand that this state of knowledge is not like a classical probability distribution.
+
+We know that some interactions don't cause 'collapse'.

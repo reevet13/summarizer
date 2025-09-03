@@ -1,0 +1,10 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+It's pretty obvious how malwares on Android have gotten bad. They can be installed from everywhere not only google play store. Moving that option to developer settings will make it hard for non tech savvy users to install malwares outside of the play store.
+
+In case they want to install an apk, google should provide a link on how to enable the option with an explanation about the dangers of installing an app outside of play store.
+
+Edit: I don't understand how having a better security for Android is bad for it. In fact android has a bad reputation when it comes to security because of how easy it is to install malwares on it.
+No. It being in security is good.
+
+If you're already a tech savvy person then you'll know exactly how to enable that option.

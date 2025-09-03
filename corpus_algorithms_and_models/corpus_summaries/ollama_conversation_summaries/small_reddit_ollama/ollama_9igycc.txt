@@ -1,0 +1,17 @@
+Here is the extracted summary:
+
+Genetic engineering is now cheap, relatively simple, and pretty reliable - at least when done in a lab setting.
+
+Using a tool called CRISPR, researchers can access DNA in live cells, target specific strings of the DNA code to slice out, turn gene expression up or down, or even swap in new DNA.
+
+This means we can, theoretically, reverse genetic conditions, modify cell behaviors, and perhaps program the cells to better fight against disease.
+
+I am not aware of the latest in this field, which is a bit outside of my area of focus. There likely could be opportunities to use CRISPR to explore telomere biology and mechanisms of cellular aging.
+
+The problem of telomeres shortened by aging or chronic inflammation is that the shortening actually protects against cancer, since the highly mutated cells are unable to replicate.
+
+That said, CRISPR should be great to treat telomere diseases such as dyskeratosis, which are manifested early in life.
+
+Well CRISPR would introduce cells that live forever that end up being cancer. I don't think it can fix it because then you'd have so many cancer cells that you have to go back and try to kill.
+
+Cells aren't dividing much anyways, under physiological conditions.

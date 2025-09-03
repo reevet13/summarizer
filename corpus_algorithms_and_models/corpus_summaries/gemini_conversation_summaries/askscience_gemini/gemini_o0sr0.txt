@@ -1,0 +1,15 @@
+Who do you think makes, improves, and interprets those models?
+Meteorologists get a bad rap because many people don't realize that there are a dozen TYPES of them out there!
+So depending on what their role is, they need different qualifications, and you better believe that the bad ones will stick out like a sore thumb in certain sub professions!
+If you're a poor one, you're a dead one.
+Part of the human's job is to compare the different computer models to see which is the most likely outcome - they can be very different.
+Then those people also need to be trained in meteorology.
+Meteorologists still do quite a lot.
+A forecaster must be familiar with those strengths and weaknesses and how they apply to their region.
+A good forecast meteorologist will show more [forecast skill](http://en.wikipedia.org/wiki/Forecast_skill) than a poor one.
+While it is approximately true that *television* meteorologists often rely solely on computer-generated forecasts -- research meteorologists (atmospheric scientists) are constantly striving to improve the accuracy (spatial and temporal) of forecast models for a variety of phenomena.
+Operational meteorologists are responsible for issuing severe weather warnings.
+They interpret satellite and radar images to determine where/how quickly storms are moving to issue watches and warnings in the correct time fame.
+This is a fantastic answer.
+Models are not capable of resolving micro-scale time/space forecasts, the sort of which are absolutely quintessential for saving lives during severe weather events.
+A human is necessary to rapidly interpret real-time weather data when the public's safety is at hand.

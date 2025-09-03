@@ -1,0 +1,77 @@
+Original Response:
+I just saw this article (http://www.physorg.com/news/2012-01-pentagon-backed-cloak-clock.html) on the front page. In terms that someone who understands at least the basic principles of relativity, quantum mechanics, etc. can understand, how does this work?
+[deleted]
+It's a fascinatingly simple idea. 
+
+A light pulse has a certain bandwidth (i.e. it contains a bunch of different frequencies), which is larger the shorter the pulse is. 
+
+In this time-cloaking experiment, they "pull apart" this light pulse by accelerating the blue part of the spectrum and slowing down the red part of it, creating a spectral hole in the middle. This can be achieved by cleverly engineering an optical material's dispersion curve, i.e. the frequency-dependent refractive index experienced by the light pulse. 
+
+Now that you have that spectral hole, you can put an event inside which is now "cloaked" (not really, but ok). Put the pulse together afterwards by reversing the initial dispersion and it will now look like that event in the middle never happened, the light pulse comes out exactly like it went in.
+
+If you want more technical details, let me know.
+All due respect to PhysOrg... but it's a sensationalist bullshit title.
+
+"The fibre-based system steers light ‘around’ an event so that no evidence (a change in the temporal or spectral properties of the light beam) of the event is detectable, by speeding up and slowing down different parts of a light beam."
+
+The illusion works purely on manipulating the flow of light. There's no dimensional rift, there's no erasing of time. It's about perception, not [time warps](http://www.rockyhorror.com/participation/timewarp.php).
+
+Because fiber optics can carry multiple frequencies of light on the same physical medium, you can [split red and blue light streams with a special lens](http://www.nature.com/nature/journal/v481/n7379/carousel/nature10695-f2.2.jpg). This means they'll hit an observer's eye at different times. So after they parse it, if you look at a rainbow, ROYGBIV, light at the red end of the spectrum is 'heavier', it moves more slowly. At the blue end it's 'lighter', it moves more quickly. Now they can cancel the OYG portion. They're making those beams hit your eye (or in this case, a detection grid) out of synch. So instead the red stream will get confused with other background events going on at the time, etc.
+
+It's optical. The only reason time is mentioned is because there's a speed difference between the light frequencies.
+Does it annoy you as much as it annoys me that they're re-branding optical manipulation as time manipulation? All of the time is measurable, it's not like the act-or or the act-ee have any sort of time advantage, or are in any way out of synch except for optically.
+The previously demonstrated "optical cloak" works just in very limited ways, for a single frequency which is bent around a tiny, specially engineered object. It couldn't be farther from Harry Potter's cloak of invisibility, which would require a giant, perfect broadband "cloak". The new experiment is an exact temporal analogue of the spatial optical cloak. 
+
+So yes, I agree to a certain extent that current cloaking experiments—either spatial or now temporal—are a bit overhyped. 
+
+You're going a bit too far though, the PhysOrg description you quote is actually very accurate. And your description of what's going on stops making sense halfway through.
+I still fail to see how this would be different than looking at something like a harry potter cloak.
+No, not really. Optical manipulation *is* time manipulation whenever light pulses are used to measure time. In the current example, you can put a dispersive event in the middle of that spectral gap and still you'd never find out at the receiver. The event was cloaked in time. The researchers also provide use cases for this technique, eavesdropping, for example.
+Ah, I think you lost me there. Are you asking why this is supposed to be temporal as opposed to spatial (as in Harry Potter)?
+
+The (not very enlightening) answer is because the technique is happening in the temporal domain and not in the spatial domain. You wouldn't be able to use this to cloak any sort of stationary object, just an event happening during a very well defined (and currently extremely short) time period.
+"...whenever light pulses are used to measure time."
+
+Know a lot of people who measure time in light pulses? I prefer a Practical Cesium Atomic Clock myself, but when we switch over to a 'light pulse' standard, I'll be right there beside you!
+That's probably because I'm looking at it from the perspective of the medium, and you're looking at it from the perspective of the phenomenon. Given that I'm a layer 1 optical security specialist, and you're a quantum optics specialist, I'm not surprised. :)
+
+Pretend for a moment that you're the length of fiber. There is ZERO time manipulation going on. There are frequencies flowing at different rates through your medium, that's it.
+And what do you think is the principle behind the atomic clock? Yes, that's right, a frequency—optical, in the newest and most accurate clocks—measurement.
+
+Also, temporal measurement in the context of this experiment can refer to a stable time basis, which can be established via the clock rate of an optical transmission.
+And when frequencies travel at different speeds than normal, how is that not a time manipulation? I'm sorry to say it, but this cannot be argued from a physics point of view. Frequency and time in physics are inextricably linked. 
+
+It seems like you want to see this from some sort of time travel point of view. Would you, from this perspective, at least agree that I'm manipulating time by placing a heavy object next to you?
+If entropy continues and the expansion of space continues normally, how is that time manipulation? Layman here, genuinely curious.
+Ok what's the difference between that and just recording the frequencies, eliminating the ones you didn't like and re-emitting them? Isn't that just digital signal processing like your amplifier does with a low pass for your subwoofer?
+Thanks for all your answers FormerlyTurnipHugger :). Do you mind clarifying what you mean by masking an event over an object? I get confused trying to think about creating an event without masking an object first to create that event.
+From the way it sounds, if I'm reading FormerlyTurnipHugger's description correctly (and interpreting the original report correctly, which I probably am not), I might be able to describe a simple situation for you:
+
+Imagine an apple placed on a table. With this technique magnified to a much larger scale than it currently is, you could "cloak" the region and hide the fact that you stole the apple, at least temporarily. (And actually, I believe a better example would be the reverse: the table is empty and then suddenly an apple appears.)
+Let me try to answer that with another question: what's the difference between Harry Potter's optical cloak and just taking a picture of Harry and photoshopping him out?
+Time in physics needs a reference frame. If this reference frame in your experiment is given by oscillations of a light field then you can interpret a change of the frequency of these oscillations as a manipulation of time. 
+
+In this experiment that might seem a bit contrived so let me give you a different one. General relativity tells us that time is affected by massive objects. If you happen to live at a higher altitude than me, time is progressing slower for you than for me. You can "manipulate" your local time, for example, by standing next to a very massive object, or by jumping on an airplane. From my point of view (in my reference frame), you're now traveling back in time. That doesn't "change entropy and the expansion of space" either.
+Okay, after re-reading your other posts I see what you mean now. I was completely misinterpreting what was happening here.
+In a medium, light does not actually slow down, it just takes a longer path through constant absorption and emission, like a zigzagging down a path instead of going in a straight line, its not time manipulation, just regular old space manipulation.
+
+An interesting illusion though...
+Oh, the good old "light always travels at c" argument. People here use that a lot, including many panelists (especially when questions about slow light come up). I don't like this interpretation because it's misleading. A photon emerging from a medium is usually indistinguishable from the photon which entered the medium so it's meaningless to say "it's not the same photon".
+I wasnt disputing if the photon was the same energy going in as coming out, you said the photon slows down, therefore being dilated in time, which is incorrect, it just takes a path which is effectively longer, so no actual time dilation occurs.
+No, I didn't say that "the photon is being dilated in time".
+
+What I said is that if you use light pulses as your time reference, then delaying and speeding up a light pulse can be interpreted as manipulating time.
+
+And, besides, yes, I'm still maintaining that photons can be slowed down. They can even be stopped completely. It's not necessary and often not even helpful to insist on photons traveling at *c* (which is of course correct, but not phenomenologically important), but getting absorbed and reemitted constantly.
+Fair enough, suppose it makes it simpler that way, have an upvote and a nice day...
+
+Summary:
+The event was cloaked in time.
+"...whenever light pulses are used to measure time."
+Optical manipulation *is* time manipulation whenever light pulses are used to measure time.
+And when frequencies travel at different speeds than normal, how is that not a time manipulation?
+There is ZERO time manipulation going on.
+Know a lot of people who measure time in light pulses?
+The only reason time is mentioned is because there's a speed difference between the light frequencies.
+What I said is that if you use light pulses as your time reference, then delaying and speeding up a light pulse can be interpreted as manipulating time.
+No, I didn't say that "the photon is being dilated in time".

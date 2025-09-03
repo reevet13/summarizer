@@ -1,0 +1,39 @@
+Original Response:
+I read on wikipedia that the Big Bang started with an extremely hot and dense state. Given the new understandings of dark matter and dark energy that seems to give the universe a total energy of zero, does this require that the initial state was still extremely hot and dense or could the initial state be an unstable, cold nothing, that exploded to create matter, heat and leave negative energy?
+Is there a good website for the new understanding of how the universe started, in simple language?
+Dark matter and dark energy are not 'negative matter' or 'negative energy'. The energy content of the universe is not necessarily zero.
+[deleted]
+ICWYDT
+
+If one assumes that the total energy in the universe is zero, then there would have to be a way of having negative energy to balance all of the positive energy we observe (normal matter, dark energy, dark matter). The best theory I have seen is that you can write the expansion of space-time as being due to it having negative energy. All of the 'stuff' has positive energy, expanding space-time has negative energy.
+I am relying on the information from Lawrence Krauss, I don't claim to be an expert in this field. 
+
+https://www.youtube.com/watch?v=7ImvlS8PLIo
+
+at 32:45 he says that gravity has negative energy and that the total energy in the universe is zero.
+Krauss is describing one possible interpretation of current evidence. My favorite interpretation is that the (positive) energy content of the universe has been around for far longer than our observable universe, just in a different, undiscovered form.
+
+We do not have enough information to say for sure what happened before a time shortly after the Big Bang.
+You need the total energy to be 0 if you want a flat universe. Observation of the CMB indicates that that is the case.
+Could you quote a source for that statement? 
+
+I'm operating under the assumption that our best model for the large scale structure of the universe is the Friedmann-Lemaître-Robertson-Walker model. In order to have a flat universe, the [density parameter](http://en.wikipedia.org/wiki/Density_parameter#Density_parameter) of this model needs to be 1, which corresponds to an average (positive) energy density equivalent of roughly 5 atoms of hydrogen per cubic meter. 
+
+I could easily be wrong.
+sorry, which statement? that you need the total energy to be zero for a flat universe? or that we know we live in a flat universe?
+The idea that the energy is 0 for a flat universe comes from solving the Friedman's equation. The constant k from the geometry of the universe  (which is related to the density parameter k~\Omega-1 ) can be related to the negative value of the total energy of the system (~-E), so if \Omega is 1 then k is zero, so is the total energy.
+
+A pedagogical way to see it is for example a galaxy trying to escape the gravitational pull of another galaxy, if k=-1 then you have an open universe or positive energy, so the galaxy can escape, but with k=1 (E negative) the universe is closed so the galaxy is trapped in the gravitational pull. The case k=0 is the critical case for energy E=0.
+&gt;if \Omega is 1 then k is zero, so is the total energy.
+
+Why? The total energy density is Omega_tot = Omega_m + Omega_Lambda + Omega_r (but radiation can be neglected). The Omega_k term comes up in the Friedmann equation, but is not an energy density, it is simply 1 - Omega_tot. And the total energy density does not become zero if Omega_k vanishes. Omega_k is the only value here that is zero in a flat universe.
+you are missing the point here. These Omega's are the mass-energy densities of the fluxes involved (matter, radiation, etc) but the total energy of the system is not only the sum of those. You also need to take into account the effect of the gravitational energy, given by the left-hand-side of the Einstein equation, and not present in the stress-energy-momentum tensor, i.e. not present in the energy densities. 
+
+Try and visualize it like a normal Newtonian system, and rewrite the Friedman equations as E=T+V, with T given by the expansion of the universe, and V a gravitational potential produced by the total mass densities. You will see that for an adiabatic expansion, E is constant and proportional to -k (k is the curvature factor). That is why the total energy is zero.
+Yes, people keep saying things like that, but I have yet to see a derivation of the fact.
+
+Summary:
+Dark matter and dark energy are not 'negative matter' or 'negative energy'.
+that you need the total energy to be zero for a flat universe?
+not present in the energy densities.
+That is why the total energy is zero.

@@ -1,0 +1,19 @@
+Is it possible to construct an amateur radio observatory? For example, using spare parabolic dishes (DirecTV, etc). 
+
+What would I need to think about getting started? 
+
+Is this feasible? Thank you in advance. 
+
+These brothers succesfully listened in on the early space programs. 
+
+If that isn't enough for you, it is possible to build receivers to listen but in a city I doubt you will be able to cut through the clutter. 
+
+So far I can only find that the brothers purchased "surplus WWII US Army radio parts" for their initial investigation, and then eventually moved to "Reclaiming all the scrap metal and old pipes they could find, they enlisted the help of a dozen student volunteers and constructed a series of antennæ, eventually creating a super-dish with a diameter of 15m (50ft) and weighing one and a half tonnes." 
+
+You may want to try xposting to /r/amateurradio 
+
+Try [this](http://www.radio-astronomy.org/node/142) to get started in radio astronomy. 
+
+The SETI group has the radio spectrum pretty well covered. 
+
+This is perfect! [Here](http://www.aoc.nrao.edu/epo/teachers/ittybitty/procedure.html) is a materials list and instructions for building an Itty Bitty radio telescope using a DirecTV dish, linked from that page.

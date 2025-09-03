@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text:
+
+When it comes to logarithmically increasing/decreasing light our eyes do have a logarithmic response (like film) but our modern digital cameras do not (they are linear).
+
+This is why our eyes (and film) do so well with bright sunny days and beautiful sunsets while digital cameras and their digital photos struggled for years to beautifully and naturally render high contrast scenes.
+
+They overexpose too quickly.
+
+The flip side is that these linear CMOS sensors are better at seeing into the shadows and into low light - something our eyes and film struggles with.
+
+Film has a linear slope in the middle of the response curve but the portion referred to in my earlier comment, the shoulder, takes more and more light as it goes higher. That shoulder is indeed logarithmic.

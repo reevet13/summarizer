@@ -1,0 +1,12 @@
+Here are the sentences copied verbatim from the original text:
+
+* "Epic recently switched to input-based matchmaking instead, but the one concern I have there is the FOV slider on PC. Someone using a controller on PC still has an advantage if they have a wider FOV than those on console."
+* "**Yes.** You and your friends on Xbox can now squad together."
+* "Your Epic Friends List is accessible in-game on the top right."
+* "As far as I understand it, all of your personal Fortnite information (progress, skins, achievements, etc) are tied to your Epic Account. This is also how you can add/join friends. You're not adding their Xbox account to your friends list, you're adding their Epic account."
+* "I *believe* that an Epic Account is created behind the scenes when you first play Fortnite on console, so you *do* have one, you just aren't yet aware of it."
+* "Is this beta currently open for everyone? Also is there anything we have to do to obtain or allow the cross play functionality?"
+* "Ohhh well I'm not sure about that since I never used cross play. I think you just add whatever you want to play with and play"
+* "Makes sense. I just wonder how you'd retrieve it or login to it elsewhere, being that you don't know the name (with 100% certainty, at least) and password."
+* "Yea, all you have to do is go to settings on your PS4 (in the Fortnite app) and scroll down until you see cross platform. Make sure it’s enabled and add Xbox users through the epic friends section and you should be able to play no problem. That worked for me at least"
+* "If there's no matching account, then there's an on-screen prompt to sign in with an Epic account or create a new one."

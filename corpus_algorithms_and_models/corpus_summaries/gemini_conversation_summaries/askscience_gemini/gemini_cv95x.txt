@@ -1,0 +1,7 @@
+Your answer to the question would be right if it were an [elastic collision](http://en.wikipedia.org/wiki/Elastic_collision), a collision where the bullet would "bounce off" the block without losing any energy.
+The situation described, though, is that of a [perfectly inelastic collision](http://en.wikipedia.org/wiki/Inelastic_collision#Perfectly_inelastic_collision), where the bullet sticks into the block and travels with it.
+In this case, some of the energy is lost, and ends up as heat.
+As pointed out by pi3832v2, your description is not accurate.
+Momentum is not energy and one is not converted to the other.
+They have different units and obey different conservation laws.
+The explanation highlighted in blue in the OP's post is correct.

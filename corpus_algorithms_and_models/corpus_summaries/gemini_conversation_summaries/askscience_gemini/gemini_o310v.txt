@@ -1,0 +1,1 @@
+What is the total path of the light in the interferometer? The factory aligned collimator has a theoretical beam divergence of 0.049degrees. The beam path is about 40mm before it enters into our objective and through the microscope light train.

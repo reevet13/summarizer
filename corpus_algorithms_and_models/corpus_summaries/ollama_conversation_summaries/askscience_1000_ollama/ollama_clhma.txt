@@ -1,0 +1,11 @@
+Here is the summary:
+
+New propulsion theories are discussed.
+
+I've never understood this. Even if gases are exploding, there is no opposing force from space, so the rocket cannot move. The gases should just expand into space without any force acting on the rocket.
+
+Ah, I see. F=MA. With the brick, F is high due to high mass and non-zero acceleration. With the gas, mass is low but acceleration is very high, therefore a strong force is generated.
+
+You cannot use charged particles, for reasons that I hope are clear. You cannot use baryons, since they're heavy enough that you might as well fire hydrogen gas. And you cannot use any of the neutral mesons, because they decay. That leaves photons; use those and you've got yourself a solar sail.
+
+Better way of visualizing rocketry, is by net momentum.  In the absence of gravity, net momentum is constant.  You can get a rocket moving as the when the (low mass) gases are propelled downwards with high momentum, the rocket moves upward to keep the net momentum constant.

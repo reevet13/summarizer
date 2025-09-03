@@ -1,0 +1,36 @@
+Original Response:
+[deleted]
+Go to the federal reserve and look at their power meter
+&gt; This is just false.. If Bitcoin were used in the same scale as gold or the banking system, it would consume way more electricity.. 
+
+This is just false: "If Bitcoin were used in the same scale as gold or the banking system, it would consume way more electricity."
+
+Mining (which provides security) is independent from scale.  It is entirely possible to run the existing volume with a single mining computer.  It just wouldn't be very secure.
+this
+You have a basic misunderstanding of bitcoin.
+is flat wrong and a total misunderstanding of how bitcoin works
+You should do some basic research before you make comments like this.
+
+1. The Bitcoin network with a hash rate of 50mil TH/s processes the same number of transactions per-second as 5mil TH/s.
+
+2. The power usage to secure the Bitcoin network is completely and totally unrelated to it's future role as an anchor of trust for secondary layers of transaction which will make Bitcoin scale to levels that will make any amount of energy it uses a drop in the bucket compared to what it can potentially provide as useful services.
+If it's not secure, what's the point? And even at its best, you only get 7 transactions per second. Even if the lightning network worked, there wouldn't be enough capacity to open channels for everyone currently using actual currency.
+Fucking source it then dude. Show some proof. Or just down vote anyone who can disprove you.
+Except if it were used at the same scale, its price would be high, meaning more people would be attempting to mine it, making it kind of irrelevant that you could run the whole network on a raspberry pi if you were the only one attempting to do so.
+[removed]
+The current global power consumption for the servers that run bitcoin’s software is a minimum of 
+
+**2.55 gigawatts (GW)**, which amounts to energy consumption of **22 terawatt-hours (TWh) per year**—almost the same as Ireland. Google, by comparison, used **5.7 TWh worldwide in 2015**.
+
+*PWC - Bitcoin’ Growing Energy Problem, Alex de Vries – Joule, 2018*
+
+**Therefore, considering an average data centres consumption of  approximately 2000 TWh yearly, bitcoin mining consumes less that the 0.0365%.** 
+
+Contrary to popular belief, the majority of the bitcoin mining network is fuelled by renewable energy. As much as 75% of the network is run on cheap renewable electricity, mainly hydropower. 
+
+*'The Bitcoin Mining Network' report by Coinshares – 21 May 2018*
+
+Summary:
+If Bitcoin were used in the same scale as gold or the banking system, it would consume way more electricity..
+This is just false: "If Bitcoin were used in the same scale as gold or the banking system, it would consume way more electricity."
+Mining (which provides security) is independent from scale.

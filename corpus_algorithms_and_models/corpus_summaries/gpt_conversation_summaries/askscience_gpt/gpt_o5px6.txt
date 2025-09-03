@@ -1,0 +1,28 @@
+In lakes & pools, **full** kegs will sink . Like rocks. Rocks full of sorrow and wasted beer. I wouldn't expect the type of beer to make any difference, except on how angry you get when it's gone.
+
+The factors it depends on are:
+
+-Density of the keg (must be less than density of water)
+
+This can further be broken down:
+
+-Mass of the Keg  
+-Volume of the Keg
+
+Mass breaks down into:
+
+-Mass of beer inside keg  
+-Mass of empty keg  
+(M[beer] + M[emptykeg] = M[keg])
+
+and mass of beer inside keg is made of:
+
+-Density of beer  
+-Volume of beer  
+(Density x Volume = mass)  
+
+The volume of beer inside a full keg is 7.75 gal, or 29.33 L. The rest are properties of the beer or of the keg itself.
+
+For the keg to sink, the mass of water displaced must be less than or equal to the mass of the full keg. The mass of the water dispersed is 77.73kg. If the keg actually displaced 0.077m3 of water, then it would float, but because of the reason listed above for it to displace less, it likely wouldn't.
+
+If you were to try to sink it in sea water, it would displace 79.675 kg of water as salt water is denser than pure water so it is more likely to float, but again is at the mercy of the previously mentioned issues.

@@ -1,0 +1,51 @@
+Theoretically, yes. But it's going to be really hard. It would be kind of cool if your condom had little chambers separated by membranes. Inside the chambers were reagents for [ELISA](http://en.wikipedia.org/wiki/ELISA) assays for various germs, and the future technology included highly specific antibodies bound to trans-membrane proteins that could set off really good luciferase-type reactions inside each of the chambers (could be really small micelles). The outer membranes would have to be sturdy enough to keep all the ELISA packets from breaking up. The basement membrane would be your standard keep-the-AIDS away condom material. Patent pending.
+what would be the mechanism of signal amplification?
+It would just have to be sheer numbers of receptors. When the experiment is being done "in situ" as it were, you couldn't hope to be able to add a secondary.
+I am actually envisioning a different method. with the advent of real-time PCR, a number of fluors were invented that glow when they are close to each other but not when they are apart. If you were to cover the condom with antibodies that recognized different antigens and each had a different fluor attached to it, when both of them bound to an antigen, they would light up. Of course, this would require shining a specific wavelength of light on them, and all of this would detract from the act ("Honey, why are you shining that red light on your tallywhacker? And why is it glowing green?")
+Again tho, like mentioned above, it would be incredibly expensive for each condom...
+If this shows up in a science fiction novel, I want recognition lol
+[deleted]
+If this was possible, wouldn't it be possible to make a medicine on the same principles?
+[deleted]
+&gt;"Honey, why are you shining that red light
+
+It would probably be blue light to result in green fluorescence not red (stokes shift) :D
+Maybe a corollary to this, what about one that alerted you in some way, possibly with fluorescence, if the condom has been punctured or torn in any way? This to me seems like it would be more useful and would enhance your condom experience more.
+[deleted]
+[deleted]
+Just for the record, this would be bioluminescence, not immunofluorescence. You'd want to shine a laser/LED on your knob for the latter.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+I think it would actually be chemiluminescence as the reaction would be occurring in a chamber and not in the pathogen itself.
+[deleted]
+A due remark.
+[deleted]
+You're better off plopping the used condom in a big chamber and doing some sort of multiplex ELISA. The bad part is that you have to keep used condoms hanging around for a while. Pretty damn gross, but still beats having your urethra swabbed real hard.
+Are there any ethical implications for this?
+[deleted]
+as someone who has experienced a torn condom, I don't think that I would have noticed if it started glowing
+[deleted]
+&gt;Such a product is not possible at least in the near future
+
+is this conjecture or are you involved in material engineering or something?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+The major issue with this is their shelf life would be relatively short, you would need some mechanism to keep the reagents separated until you were finished with sex and normally these types of experiments are run with labelled secondary antibodies to improve specificity so you would need to keep the condom intact and gently remove it post-sex and then complete further experimentation. Also the mucus in the vagina will likely cause problems with antigen-antibody specificity. Lastly the condoms would be hella expensive. Cool idea though.
+We have the option of just peeing in a cup now. *Yay science!*
+Yeah, luminescence would never be quite enough.
+Even if someone made this, it would be like $400 per condom and you'd have to keep it refrigerated, and even then the shelf like might only be a few months.
+[deleted]
+Would the foreign antibodies not cause an adverse reaction for the infectee?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+So if you took the condom part out of the mix what is the practicality of creating a rapid swab test that did the same thing but in a nice disposable business card sized product? Something closer to a DNA microarray, with obviously different technology.
+Um, I don't want to admit my ignorance, but would it be possible for you to translate any of that to layman's terms? I'm not well versed in biology but am extremely interested in this answer, but I also do not have the time to research the vernacular.
+[deleted]
+[deleted]
+Regarding your view on the ergonomics of such a product, rather than

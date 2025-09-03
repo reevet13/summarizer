@@ -1,0 +1,46 @@
+Original Response:
+My understanding is that dimples on a surface can lower the effective air resistance of an object through boundary layer effects (for example around a golf ball).  Having felt a puck glide effortlessly over an air hockey table, I started to wonder if this air hockey table surface would "slide" through the air in the same way it slides against a puck.  Could a ball (or other object) cut more easily through the air if it was emitting many tiny jets of air across the entirety of its surface?
+You mean a board with tiny holes in it? That would case more drag.
+&gt; if it was emitting many tiny jets of air across the entirety of its surface?
+
+In order to do this, it would have to be sucking in an equal amount of air to that which it is emitting.
+I understand, but let's say for now that there is a compressed air tank inside the object.
+With air forced through the holes, but wrapped around the surface.
+The air coming out would cause turbulence and not the smooth layer you'd need.
+copy of my reply below 
+"The air coming out would cause turbulence and not the smooth layer you'd need."
+Not to sound like a 3rd grader, but why?  If we did not have the experimental evidence to contradict it, could't we make the same argument against golf ball dimples?
+Golf balls are dimples and not holes, the dimples in the ball are more like dips in the surface. You'd be better off surrounding an object with dimples if you wanted to reduce drag. The holes that the jets would be emitting from would cause a bigger disruption in the layer you're after. Add in the air coming out and it gets worse. You could make a hovercraft though using that principle. 
+
+
+http://entertainment.howstuffworks.com/sports/golf/basics/question37.htm
+I appreciate your comment, but I am not sure I see your argument.  From that link: "In some situations, a turbulent boundary layer reduces drag"? How does disrupting the layer make it worse?
+Yes, in fact the US navy uses a similar idea to make it's torpedos go faster. Here is an article on it
+
+http://www.popsci.com/scitech/article/2004-06/supercavitating-torpedo
+Thanks for the link, that is really interesting.  I wonder if it would provide any advantage in the air instead of under water (which is obviously much more viscous)
+Aircraft wings have been created with holes and plumbing to suck off the turbulent boundary layer of air near the skin  and promote laminar flow. This increased the wing efficiency. It was also impossible to keep clean.
+
+[F16 tests](http://www.nasa.gov/centers/dryden/pdf/88653main_H-2382.pdf)
+
+[research history](http://www.nasa.gov/centers/dryden/pdf/88792main_Laminar.pdf)
+Thanks!  The idea of sucking the boundary layer out through the perforations is really interesting, and that second link is an *amazing* reference.  30% reduction in fuel is a pretty amazing claim.  I am curious about something that I read in there though (just from the introduction): "the frictional force between the fluid and the surface, known as viscous drag, is much larger in a turbulent boundary layer than in a laminar one because of the momentum losses associated with the mixing action."  Why then do dimples help on a golf ball help it travel further?  Does it have something to do with the ratio of "skin drag" to "form drag" in a ball versus an aircraft wing?
+[This ](http://www.desy.de/user/projects/Physics/General/golf.html) says it's because while the dimples do add to drag the spinning causes lift which lengthens the balls trajectory.
+Thanks again!  There is so much incorrect information about this problem out there (just look at the howstuffworks linked above that claims the opposite about drag).  It makes a lot more sense now -- and thank you for referencing material with scientific citations I can go back to.
+Thanks for asking the question, I'd forgotten all about it until I read your post.
+Not necessarily true,
+
+
+http://www.popsci.com/scitech/article/2004-06/supercavitating-torpedo
+Your own linked article says that the dimples cause turbulence, and turbulence is a good thing in this case, decreasing the drag.
+Keep in mind that on an air hockey table, the cushion of air prevents friction between the puck and the table. The same thing occurs with a hovercraft, as well as the torpedo that highintensitycanada linked too.
+
+What would the "cushion of air" do for a wing/object moving through air? Not sure - where are the experts at?
+Tugrumpler had a nice reference to something similar for aircraft, and shot down the idea that dimples actually do reduce drag (and some great references).  I still think it is kind of an interesting question though.
+
+Summary:
+The air coming out would cause turbulence and not the smooth layer you'd need.
+Thanks for the link, that is really interesting.
+copy of my reply below 
+"The air coming out would cause turbulence and not the smooth layer you'd need."
+From that link: "In some situations, a turbulent boundary layer reduces drag"?

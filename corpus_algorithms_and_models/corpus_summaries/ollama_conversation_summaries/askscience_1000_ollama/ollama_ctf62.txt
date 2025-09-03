@@ -1,0 +1,17 @@
+Here is the summary of approximately 10% of the text (up to 250 words):
+
+Thanks!
+I've been wanting to read up on electrical engineering advancements; specifically in the field of propulsion systems and robotics. Is that still too broad?
+
+arXiv is a great place to start if they have what you're after:
+http://arxiv.org/
+
+Every one is recommending you look at Arvix. Don't do this.
+Arvix is a great way to kill time if you are already familiar with the field and can rapidly reject stuff as being stupid or irrelevant.
+
+What you should do is hunt for blogs in your field that discuss interesting papers, or for notes and slides from reading groups run by professor's working in the field. You get a prefiltered set of papers, cliff notes on why the work is cool, and if you're lucky a discussion about the important points.
+
+Get an account at a local university library. That should grant you online access to papers.
+I went to Queen's university and graduated a few years ago, but I can still open any journal's website, type "proxy.queensu.ca" after the top level domain name on any article, and get access. It's sweet.
+
+IEEE has a ton of journals with updates from EE.

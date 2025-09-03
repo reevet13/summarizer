@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+Looks like my pc fucked up. In idle I get 100 degrees temperature.
+I tried to turn off pc, and cool it. After an hour turned on - temperature 75. After 5 secs wen't to 85, 5 more and 95.
+What can be wrong? CPU fucked up?
+The stock cooler sucks quite a bit.
+Plus, your cooler probably isnt properly seated
+You can get plenty of low profile coolers for Mini ITX builds
+This one goes to 60 euro up here, in Poland.
+Got a website you buy from?
+Cryorig H7 wont fit in your case

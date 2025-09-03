@@ -1,0 +1,45 @@
+Original Response:
+If you converted the amount of energy used up by the average person's body into say, electrical power, how much would it add up to in terms of, let's say, number of fluorescent lightbulbs? Would a more sedentary or active lifestyle majorly impact this figure?
+Would it not be equivalent to the person's average caloric intake minus the caloric value of his waste products?  Assuming a steady weight, of course.
+Starting with the general 2000 calories per day rule, we can get an estimate, although this certainly depends on the person, as you suggested. 2000 calories is 8,368,000 Joules. Power is the amount of energy per time, so we divide this number by the number of seconds in a day: 24 hours x 60 min/hr x 60 s/min = 86400, resulting in a power of 96.9 Watts. Thus, the average human uses about as much energy over the course of a day as a 100 W lightbulb.
+Edit: Yes, this depends on how active or sedentary someone is, as well as other factors (age, gender, size, etc.)
+I don't have any source for this, but in my first year biochemistry class, I remember my prof telling us that an average individual (75 kg) at rest hydrolyzes 40 kg of ATP per day. I'm sure we could calculate the electrical potential by finding out how many ATP molecules are contained in 40 kg and how much kJ is released by each hydrolyzed bond (I think it's 20 kJ), but it's too early for that right now.
+Back-of-the-envelope: Assume 2500 calories per day in (male, 30 yo, active lifestyle), nothing out ("maximum case", basically), equals roughly 10.5 MJ. If we spread that out constantly over a day, that's about 120 Watts, or a bit more than a modern laptop computer. Mind you, this assumes that the waste products are completely void of energy.
+
+Yes, lifestyle definitely has an impact. More vigorous physical activity burns more energy, check out [this calculator](http://www.mayoclinic.com/health/calorie-calculator/NU00598) for example.
+Although ATP is widely used, it does not constitute 100% of our body's energy expenditure. DNA synthesis, for example, is driven by all four nucleoside triphosphates.
+Do indigestible materials get included in manufacturer's calorie counts?
+That squares with what I've seen of average human output.  I paid attention to "human power vehicles" for a while, and also to the electric power-assist bicycle movement.  I believe the power assist bicycle guys consider normal human power to be about 138 watts over the course of a bicycle ride.
+
+Lance Armstrong was able to ramp it up to half a horsepower during his races, but he'd be ~~completely wiped out~~ tired for hours after that.  Call his effort 343 watts in "race mode."  This is of course not his total energy output, but it is the effective work produced by his biggest muscles, and therefore his main effort.  
+
+There is also the difference between the energy we "consume" and how much "work" we put out.
+
+Another way to look at it is that we produce heat energy as a by product of our efforts.  We also move air (thus doing "work") in and out.  If we did nothing but lie in a hospital bed and breath, we'd move the air and give off heat.  We should be able to calculate the amount of "work" done at rest that way.
+[Not 100% spot on, but see here](http://www.scientificamerican.com/article.cfm?id=how-do-food-manufacturers):
+
+Initial calorie estimates come from actually burning the food and measuring how much heat it produces. So everything un-burnable would probable be considered indigestible. Nowadays it's more common to calculate the caloric content as a weighted average of the "components" of the food - protein, carbs, alcohol, and is adjusted for insoluble fiber.
+Since you used the word "probable", I'll clarify as "true by definition". :)
+
+When you burn something to measure calories, the usual procedure is to report heat generated per unit of "ash-free dry weight", that is, the weight of sample after water is removed via drying, and after the weight of the remaining ash is subtracted out.  The ash is often directly mapped in literature to "percent indigestible".
+(I meant "probably", of course)
+
+But is that true, in the sense of bioavailability? Does the body extract the same amount of energy from the food as burning it does?
+Bond-for-bond it's the same reaction releasing the same amount of energy.  
+
+Your question is more of an accounting/definitional one; the enzymes and systems needed to perform the reaction require substantial maintenance, are you looking at gross (bonds initially broken) or net (calories available for "work" after respiration costs are paid)?  Complicated, of course, by the fact that "net" can have several levels (simple and direct enzyme reaction-reversal costs, waste removal costs, long-term maintenance, etc.)
+
+Edit:  Ooh, I've missed something.  There are materials that burn that can't be digested by all animals.  Cellulose is big example - I wouldn't get much eating my fireplace logs.  So if we sum over all animals (e.g. include the animals that can digest the cellulose) it's bond-for-bond, but for humans you also have to subtract out insoluble but burnable fibrous stuff as well.  I haven't done this for human subjects, but for animals this is done by measure of fecal composition - specifically, burn the feces -fun! - and see what weight of stuff passed through that was still burnable.
+Your question was answered in [this](http://www.youtube.com/watch?v=0lTbQ4nPFjg#t=3m49s) amazing documentary. I urge everybody to watch it, really gives you a perspective on energy.
+&gt; There are materials that burn that can't be digested by all animals
+
+Yeah that's what I meant. Apparently, the so-called Atwater system corrects for that precisely by subtracting insoluble fibers. I was just wondering whether there's yet more variation than that.
+
+Summary:
+Thus, the average human uses about as much energy over the course of a day as a 100 W lightbulb.
+There are materials that burn that can't be digested by all animals.
+Bond-for-bond it's the same reaction releasing the same amount of energy.
+Does the body extract the same amount of energy from the food as burning it does?
+&gt; There are materials that burn that can't be digested by all animals
+
+Yeah that's what I meant.

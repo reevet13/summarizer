@@ -1,0 +1,15 @@
+Yes, he would feel centripetal forces pulling him apart with a strength dependent on the rate of his spin. Test this for yourself by standing up and spinning around real fast with your arms out. You will feel the blood rush to your hands and an outward force.
+
+As evidence, look at the Gemini 8 mission. The Agena rocket to which the Gemini was docked had a constantly firing thruster, inducing a spin. This was only noticed by Scott, who noted a drop in fuel. So, I'd take it from that that, no, one doesn't necessarily notice the spin, and may even miss the acceleration in space due to other disorienting factors, like being in microgravity.
+
+Each part of his body is experiencing a different acceleration dependent on the radius to the center of spin. Each part thus is in a non-inertial reference frame with respect to some fixed axis at the center.
+
+On the contrary, travelling in a straight line with a fixed velocity is an inertial reference frame, thus without something else to compare to you would not know you are moving.
+
+Well, according to Scott's account, by the time that they realized what was happening, they were already entering GLOC and experiencing blurred vision. On the ground, the surgeon evidently gave a warning, too, when he learned they were approaching one revolution per second.
+
+Supposing that the astronaut was in deep space, with no visible distant stars or galaxies for reference, he could still figure it out. Even if wasn't sensitive enough to feel the blood rushing to his limbs. All he'd have to do is let go of something small, let's say a peanut. If he's really "not spinning", then the peanut will just float there, at rest, in front of him (in physics-speak: he'd know he's in an inertial reference frame, because Newton's laws of motion hold true).
+
+If the astronaut is really spinning, the peanut will appear as if it's accelerating out of nowhere. This is because the peanut wants to keep flying in a straight line (from a distant, non-spinning observer's point of view). From the astronaut's point of view, the peanut would appear to fly out and curve away.
+
+While there is no way to answer whether an inertial frame of reference is moving at a constant velocity or whether everything else is moving relative to it, with a frame of reference that's accelerating (which includes rotating frames of reference), you can detect the acceleration. This is why you feel pushed/pulled to the side of your car when it turns, but

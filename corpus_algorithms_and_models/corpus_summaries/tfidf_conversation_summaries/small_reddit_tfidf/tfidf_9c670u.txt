@@ -1,0 +1,48 @@
+Original Response:
+Imagining a transaction with one input being singed is easy. The message is the the whole transaction. It's signed with the private key and the signature is the signed transaction itself. But what if we have 2 inputs with two different privkeys? Does each of them sign the transaction independently and then the 2 txs get "combined"? How does it work actually? What part of the transaction is signed with each input? Thanks.
+&gt; Does each of them sign the transaction independently and then the 2 txs get "combined"?
+
+No  
+You sign the unsigned transaction with one key, to create a partially signed transaction, then you sign the partially signed transaction with the other key  
+
+Play with the transaction functions at coinb.in to see this in practice
+Thanks for that! Does it matter which key you start with? And I heard that in the new Bitcoin Core 0.17 there will be a feature to broadcast PSBTs. What's the usecase for that? Thanks.
+&gt; Does it matter which key you start with?
+
+I'm fairly certain (somebody please correct me) that the order of signing does not matter  
+I think there was a wallet which required the inputs to be signed in order, or maybe it was a bug in an older version of coinb.in  
+
+&gt; PSBTs
+
+Awesome  
+
+&gt; usecase
+
+If two or more different people control the keys for the inputs, this allows the mempool to be used to distribute the incomplete transaction, and defines a common format  
+https://github.com/achow101/bips/blob/master/bip-0174.mediawiki  
+Ping /u/achow101
+Does that mean two completely unrelated transactions could be combined into one? For example me sending a mBTC for a donation and my friend buying a steam gift card? How much space on the blockchain/fees would that save?
+This is possible now, but requires an off-network communications channel for passing the transaction from signatory to signatory. Also, there is currently no common transaction format for a partially-signed TX. As the BIP says, different wallets have different formats  
+
+Could be useful for no-risk tumbling
+Interesting. If only Core implemented that though, wouldn't it still work only between Core wallets? Other clients don't know about it.
+&gt; I'm fairly certain (somebody please correct me) that the order of signing does not matter
+
+This is correct. The order of signing does not matter as signatures are never included in the data that is actually signed. What may matter is the order of signatures in an input. For example, multisig inputs require the signatures to be a particular order that matches the order of the public keys.
+
+&gt; If two or more different people control the keys for the inputs, this allows the mempool to be used to distribute the incomplete transaction, and defines a common format
+
+No, the mempool is not used to distribute the incomplete transactions. There is no defined method for transmitting a PSBT. PSBT is just a file format. PSBT does not involve the network at all.
+
+What PSBT allows you to do is create one blob of data which can be passed between participants in a transaction without requiring all participants to know a bunch of things about that transaction already when they sign. This is particularly useful for things like hardware wallets as a PSBT contains all of the information they need so the software does not need to do additional lookups to find the information necessary for signing.
+PSBT does not involve the steps where the inputs and outputs of the transaction are negotiated. You cannot combine multiple transactions without all parties involved in those transactions having to resign the new transaction. While you can combine transactions, you would need to have some other protocol to do that.
+
+PSBT only helps with the signing step where you can pass around a PSBT which contains all of the information necessary for signing.
+AFAIK, PSBT is currently only implemented in Core. So for right now, it is only really useful for Core. However, I know that other wallets such as Electrum are working on implementing PSBT into their software. Furthermore, I am also working on software to use PSBT with hardware wallets. So while this is still a Core only thing, it won't be for long.
+Thank you, for developing PSBT, and for your comments here
+
+Summary:
+What part of the transaction is signed with each input?
+&gt; Does it matter which key you start with?
+Does it matter which key you start with?
+&gt; Does each of them sign the transaction independently and then the 2 txs get "combined"?

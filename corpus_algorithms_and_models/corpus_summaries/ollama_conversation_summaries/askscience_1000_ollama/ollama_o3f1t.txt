@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+What are our realistic chances of fighting off global warming to allow human survival and prosperity post-2050, based on current trends?
+
+First - survival and prosperity are two dramatically different issues. The former isn't really in much doubt unless a number of implausible conditions were to occur, and the latter (if defined as GDP) is arguably being impacted negatively already.
+
+Can you try to be a little more specific?
+
+Second- the "chances" of avoiding a given threshold of warming are at this point political, economical, and perhaps engineering questions, rather than strictly scientific questions. How much warming we'll see is largely up to us.
+
+There are a number of assumptions we can make and then revisit the question.
+
+For example, you could rephrase the question like: "Assuming an equilibrium climate sensitivity of ~3°C (with a transient sensitivity of 1.3-2.6­°C), assuming that human prosperity will be significantly negatively impacted by more than 2°C warming, and assuming that we follow a BAU (business as usual) or worse emissions trajectory such as A1FI or RCP 8.5, by how much and how fast would we have to reduce emissions to not exceed the 2°C threshold?" 
+
+Or, another way of phrasing it: "Given the immense atmospheric lifetime of CO2 after a large carbon pulse, and given our current civilization's coastal habitation/infrastructure, etc., for how long and at what value can we hold atmospheric CO2 and still expect to retain sea levels like today's?"

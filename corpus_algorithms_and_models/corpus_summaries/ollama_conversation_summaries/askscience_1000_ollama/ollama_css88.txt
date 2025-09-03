@@ -1,0 +1,12 @@
+Here is the summary of up to 250 words:
+
+If you take time out of all the equations, do they just stop working? Is there another way to define them without time and still have them accurately describe or predict what we see?
+
+For many systems we have equations without a time component, and I guess you could pretend that time doesn't exist for the purposes of that analysis, but I don't think it'd gain you anything.
+
+One of the most basic equations we have is Newton's 2nd Law: f=ma. We see this in action because acceleration is the second *time* derivative of position.
+
+Photons travel only in spatial dimensions and have zero velocity in time.
+As you travel faster, your subjective experience tells you that time is slowing down for the rest of the Universe.
+
+See what you get when you put *c* in for *v* in the [time dilation equations](http://en.wikipedia.org/wiki/Time_dilation).

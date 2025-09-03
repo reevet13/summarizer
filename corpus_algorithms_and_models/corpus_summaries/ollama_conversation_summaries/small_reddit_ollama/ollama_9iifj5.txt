@@ -1,0 +1,13 @@
+Here is the summary of about 10% of the text:
+
+* "Still a classic is with Theo Fleury trying to wear a fans autographed jersey in the regular season haha."
+* "Yes! This is the first thing that came to my mind too. I remember watching that game as a kid."
+* "I don’t think want to bother with extra weight. Stars have had jersey issues in the past."
+* "What was the reason it was disallowed? I can’t remember if it’s because it was autographed or the wrong manufacturer."
+* "They probably have extras with - but not with names on them. If he realized he didn't like the fit early on during warm ups, they may have had time to quick make up one, but during the game it's a bit late."
+* "A few years back during an All Star game, they had the names on the jerseys, but not the C/A patches, so they were frantically sewing them on before the game"
+* "Many small time make big time. When you president, they see. When me equipment manager, they see. They see."
+* "I don’t think the officials ever disallowed it, but Theo handed it back when he realized it was autographed."
+* "The more you knoooooooooow"
+
+These sentences are selected from the original text exactly as written and return in order, separated by newlines.

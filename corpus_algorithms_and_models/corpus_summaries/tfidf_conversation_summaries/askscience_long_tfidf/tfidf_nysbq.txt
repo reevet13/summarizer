@@ -1,0 +1,69 @@
+Original Response:
+There is an upper limit to speed - we all know this. As objects approach C, space and time distort such that they cannot exceed that rate of motion.
+
+My question is, what would happen if you rotated a rigid disc large enough that even slight acceleration near the hub would imply higher-than-lightspeed velocities at the rim using Newtonian physics?
+
+Sub-questions: Would time distortion effects occur along a gradient from hub to rim? Would the decrease in length at high speeds cause the disc to shrink away from the size it would need to achieve light speed as fast as it approached it? Does my question make any sense?
+
+Thanks!
+The disc could not maintain structural integrity.
+
+http://www.reddit.com/r/askscience/comments/hoy7x/what_happens_to_a_rotating_sphere_when_its/
+[deleted]
+Right - I've heard of this solution. Thanks very much regardless. To hopefully clarify my question without seeming as arrogant as the guy in your linked question I am more precisely asking:
+
+Would relativistic contraction/time distortion in the obviously theoretical, but nonetheless (in my opinion) useful case of an infinitely rigid object occur at a rate that would prevent the object from reaching C anyway?
+Ignoring engineering challenges like the disk ripping apart, the thing would just get closer and closer to the speed of light at the edges without ever reaching it.
+What effects, specifically, would prevent it from reaching that speed?
+My lay expectation: the fact that motion/distortion in a material, even a rigid material, propagates at the speed of sound in that material; and the speed of sound is always going to be slower than the speed of light.
+Wouldn't really call it an effect, per se. It's the same thing that prevents something from continuously accelerating to the speed of light. To use an outdated analogy, the "relativistic mass" that increases with speed is manifested as a "relativistic moment of inertia" that gets bigger and bigger.
+Ohhh I think I can wrap my mind around that. Thanks for clearing up a question that has been floating around th back of my mind for years!
+It's not a useful case, because in the physical world you can't even *approach* infinite rigidity. The fact that things can't travel faster than the speed of light implies a hard upper limit to rigidity; the approximation of infinite rigidity is only useful in classical mechanics because no physical constraint prevents you from getting arbitrarily rigid objects.
+Infinitely rigid objects are impossible in special relativity.
+True. Special relativity and infinitely rigid objects are mutually exclusive: a universe can have either, but never both at the same time.
+An interesting thing to note is that that some "things" can move faster than light, such as the dot of a laser pointer. Of course this is because none of the light itself moves any faster, and no information can be sent from one point to the other faster than light.
+[deleted]
+so if i put a laser on a turnstile spinning at 1MHz and there is a circular wall a suitable distance away - the dot will move faster than light?
+The dot isn't exactly a tangible thing... think about a beam of light being more like a stream of water coming out of a super soaker. The dot you see is analogous to the splash the stream makes when it hits something, although instead of water, you're seeing photons. the point at which the laser collides with something is just a place, not a thing, and doesn't have it's own substance. You could measure that dot moving from one point to another at such a speed as to be going faster than light, but if you could see the beam itself, you'd see a spiraling pinwheel moving outwards from the point of origin at exactly the speed of light.
+What is relativistic mass and relativistic moments of inertia?
+Yeah, if the value 2pi\*(distance to wall)\*(frequency of rotation in Hz) is greater than 299 792 km/s. So for a wall 1 km away it would need to rotated at 47.7 KHz
+Can you elaborate on this a bit?
+When things go really fast, momentum is no longer mass times velocity, but instead has a Lorentz factor, which gets bigger the fast you go. The mass times the Lorentz factor is called the relativistic mass, and is how heavy the moving object seems to be to an external viewer. However, this quantity doesn't really have much physical meaning, so people stopped using it.
+
+Moment of inertia is the rotational version of mass: things with a lot of mass are hard to move, things with a high moment of inertia are hard to spin.
+Because if you had an infinitely rigid object you could swing it and make the ends move FTL. This breaks special relativity.
+I see, your comment was the turning point for me, didn't think I'd be grasping physics problems at 02:30 AM on a Sunday night!
+In that case, what happens to rotational speed along the disk surface? If the edge is approaching c, wouldn't there be a non-linear relationship between the speed along the disk radius? If so, this would potentially warp the disk, but I assume time dilation prevents that from happening...
+In an infinitely rigid object, the elastic modulus is infinite. The speed of sound is directly related to the elastic modulus, so it would also have to be infinite. Thus, you could send sound waves faster than the speed of light, which is clearly in violation of relativity, so an infinitely rigid object is therefore not a useful case to consider.
+[deleted]
+The "relativistic mass" would create a force on the moving body that would approach infinity as the end of the disc approached c.  Correct?
+http://en.wikipedia.org/wiki/Ehrenfest_paradox
+Defining rigidity in general relativity is an interesting (and complicated) proposition. [Here is a paper that tries to do that](http://arxiv.org/PS_cache/arxiv/pdf/0810/0810.0072v2.pdf). The last section discusses how this can happen. Unfortunately I don't really understand it myself and heard a talk on it a few years ago so I haven't been keeping up.
+[deleted]
+Hmmm, that's not a super satisfying response. I was imagining something relating to Lorentz transformations and intermolecular bonds.
+I don't know the details on the nanoscale, sorry.
+
+If a universe has infinitely rigid objects, that means the speed of light must be infinite, which in turn means that there is no special relativity (which depends on a finite speed of light).
+
+If a universe has special relativity, there is a finite speed of light, so objects cannot be infinitely rigid anymore.
+that's really not that fast!
+Well... think of it piece by piece then. In order for something to be infinitely rigid, each atom composing this object must remain in exactly the same position relative to all the other atoms. But information cannot travel faster than light, so when swinging such an object around at relativistic speeds, it should not be possible for atoms at one end of the object to remain static compared to the other end, because they don't yet know where the other atoms are.
+
+Uhm, I don't feel like I explained that very well.  
+There is a delay in information transfer, so how can the atoms at the edge of a giant wheel move perfectly rigidly when they don't even know that the wheel is meant to be turning yet?
+It would require and infinite amount of energy to supply the torque necessary to accelerate the disk.
+
+Think of it as an object moving straight. At the speed of light the energy required approaches infinity. Same is true but instead of "pushing" you are now "twisting" and instead of inertia you are overcoming moment of inertia.
+This makes sense. Infinite rigidity would mean faster than light signal transfer.
+No, that makes perfect sense. It's roughly where my thinking went, too, after I slept on it.
+Excellent. Relativity, clearly, isn't my field. But I'm gonna see what I can get from this. Thanks.
+
+Summary:
+Infinitely rigid objects are impossible in special relativity.
+If a universe has special relativity, there is a finite speed of light, so objects cannot be infinitely rigid anymore.
+Infinite rigidity would mean faster than light signal transfer.
+It's the same thing that prevents something from continuously accelerating to the speed of light.
+Think of it as an object moving straight.
+It's not a useful case, because in the physical world you can't even *approach* infinite rigidity.
+Because if you had an infinitely rigid object you could swing it and make the ends move FTL.
+What effects, specifically, would prevent it from reaching that speed?

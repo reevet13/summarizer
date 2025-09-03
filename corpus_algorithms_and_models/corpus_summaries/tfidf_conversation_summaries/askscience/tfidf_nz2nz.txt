@@ -1,0 +1,272 @@
+Original Response:
+In the media there has been numerous reports about how our environment is changing, which seems evident and indisputable. I have not ever seen any evidence to suggest that this was caused by human activity and in fact a few months ago it was suggested that we could be headed towards a small ice age because the suns activity was about to go to an all time low.
+
+In addition I have heard people make claims regarding the temperature on other planets in our solar system, suggesting that they follow our fluctuations, thus nullifying any correlation between human activities and climate change.
+
+Could someone please present the facts in an easily accesible format, preferably with links?
+Yep.
+
+[Wikipedia](http://en.wikipedia.org/wiki/Scientific_opinion_on_climate_change)
+
+[Primary source](http://www.ipcc.ch/publications_and_data/ar4/syr/en/mains2-2.html) (IPCC)
+I don't know how you could have _never seen_ the evidence suggesting climate change was partly caused by human activity, unless you've just been ignoring all scientific articles about it for the past 20 years.
+
+Currently people are consuming about [3 cubic miles of oil equivalent per year](http://en.wikipedia.org/wiki/Cubic_mile_of_oil), which adds about 36 billion metric tons of CO2 into the atmosphere that wasn't there before. In 2011, CO2 concentration was up to [390 ppm](http://co2now.org/), compared to around [270 ppm in preindustrial times](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/grnhse.html#c3). 
+
+Fortunately [CO2 has a pretty small effect on the temperature](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/humimp.html). If the Earth had no atmosphere at all, the average temperature would be about 60F (33C) lower than it is now, and of that CO2 contributes maybe 4F or 5F (2C or 3C). The revised IPCC climate sensitivity for CO2 is about [2.3C for doubling CO2 concentration to about 540 ppm](http://www.worldclimatereport.com/index.php/2011/11/08/a-new-lower-estimate-of-climate-sensitivity/). We're currently up by about .8C with a 44% increase.
+
+So it's only 0.8C, or around 1.4F increase so far, doesn't sound like a big deal. But [the poles heat up the most](http://data.giss.nasa.gov/cgi-bin/gistemp/do_nmap_test3.py?year_last=2011&amp;month_last=11&amp;sat=4&amp;sst=1&amp;type=anoms&amp;mean_gen=11&amp;year1=2011&amp;year2=2011&amp;base1=1951&amp;base2=1980&amp;radius=1200&amp;pol=reg), and they have a big effect on global weather. That's why scientists prefer to call it _climate change_ rather than _warming_, because it may not be that much warmer, but the weather effect can be significant.
+last year it was called global warming. now that it is obvious that the earth goes through cycles of hot and cold they are calling it climate change this year. what does that tell you about what they have to say?
+Here's a [summary of the science and the historic landmarks](http://www.reddit.com/r/askscience/comments/msekm/when_this_post_is_12_hours_old_i_will_be_at_a/c33h0cv) of anthropogenic climate change I wrote a while ago.
+
+We have tons of evidence that the currently observed warming is largely caused by human activity. The warming cannot be explained by natural factors (for example, the solar output has been stable or even declining in the past 3 decades while temperature has gone up) and it correlates very well with the increased CO2 in the atmosphere. Maybe most compelling is that we also see other fingerprints which indicate that the warming is due to a greenhouse effect: the upper atmosphere is cooling while the lower atmosphere is warming, and nighttime temperatures are rising faster than daytime temperatures.
+
+The next ice age will have to wait, btw. We expect that even a new [grand solar minimum will have only a very small cooling effect](http://www.realclimate.org/index.php/archives/2011/06/what-if-the-sun-went-into-a-new-grand-minimum/) which will be far outpaced by further anthropogenic warming.
+
+What "people" say about the climate of other planets is a bit of a distraction. Some of them may be warming but bear in mind that we know virtually nothing about them. This is one of my favorite climate denialist contradiction: Earth's climate is allegedly far too complicated for us to make any predictions but the "climate" on another planet about which we know next to nothing can be directly compared to ours. Laughable.
+There are facts that support both the AGW and non-AGW side, with the more key aspects still being heavily debated. There, however, is no conclusive proof to support the AGW theory, as it is mostly based on models and the 30-year correlation (1970-2000) between CO2 and global average temperature. So far these models have not shown any significant skill in predicting temperature rise, they for example failed to predict the recent 15-year period of little to no warming. They also have implicit unproven assumptions built in, such as a large positive water vapor/cloud feedback. No conclusive proof for an overall positive feedback currently exists, and it is one of the more uncertain areas of climate science. For example Lindzen and Choi (2011) as well as Spencer &amp; Braswell (2010 and 2011) have argued that the total feedback is negative, while for example Dessler (2010 and 2011) have disputed these claims. 
+
+Nevertheless, a significant positive feedback is required for CO2 to have any significant effect at all but a significant positive feedback would also make the climate highly unstable overall. In a natural system that does not change its temperature by more than several degrees over extremely long time periods this kind of a dominating positive feedback to temperatures is highly unlikely, but of course not impossible. 
+
+One of the key arguments used to support AGW is that the CO2/aerosol combination is presented as the only thing that could have affected the climate in a way that has been observed in the last 100 years or so. One such argument is the warming profile of the troposphere and stratosphere, which is claimed to be proof of the "human fingerprint" in warming. While this may be consistent with a CO2-induced warming, CO2 is not the only thing that can cause it. An increase in cloud cover as an example would have a similar effect, so the presence of such an effect is not definitive proof of anything.
+
+Solar activity is usually dismissed by the AGW side by referring to the very small TSI changes that occur during a solar cycle. It is true that the direct solar irradiance is not sufficient to change temperatures nearly as much as they have changed recently but TSI is only the direct effect. Indirect effects are usually dismissed by the AGW side because of lack of evidence or attempts to claim that solar activity has gone down for the last 30 years. In reality, however, solar activity [has not significantly dropped](http://woodfortrees.org/plot/sidc-ssn/from:1910/mean:12/normalise) before the previous cycle, which started in 1995. [Here's the list of solar cycles at wikipedia](http://en.wikipedia.org/wiki/List_of_solar_cycles) with some numbers that act as proxies for solar activity, and they say the same thing. 
+
+Several indirect solar effects have also been recently observed. As examples the thermosphere is known to contract and expand due to solar activity (this can affect atmospheric circulation and through that cloud cover), and a [fairly recent paper](http://www.nature.com/ngeo/journal/v4/n11/full/ngeo1282.html) from the UK Met Office demonstrates another indirect link between changes in the surface pressure and solar activity, in this case solar UV. Note that the paper states that this indirect effect has no relevance to global warming, but such major changes in circulation can easily affect the location or amount of cloud cover. This would've been impossible to explore in the study, as models are incapable of modeling cloud cover. In fact most of the theories considering indirect solar effects as a driving climate force specify changes in cloud cover as the end result.
+
+In addition to these possible indirect effects, some of the warming in the last 30 years may simply be natural oscillation (not all of it, though). In essence a [sine wave superimposed on a slowly increasing temperature trend](http://www.wolframalpha.com/input/?i=plot%28x%2F100%2B0.2sin%282pi*x%2F60%29%2C+x%2F100%29%2C+x+%3D+0+to+100). One such oscillation is the AMO (Atlantic Multidecadal Oscillation), [which has an extremely good correlation](http://woodfortrees.org/plot/hadcrut3vgl/from:1850/normalise/plot/esrl-amo/from:1850/normalise/plot/gistemp/from:1900/normalise) to the temperature record over the last 100+ years, and has also been argued by one of the recent Berkeley papers to have a very strong short-term correlation as well, though this short-term correlation has been disputed. 
+
+One further thing to consider is that the temperature increase from 1910-1940 is of equal speed and magnitude as that of the period from 1970-2000 while the CO2 rise really moved to high gear only after the middle of the century. Based on these 30-year cooling/warming periods (1910-1940, 1940-1970, 1970-2000) in addition to the lower solar activity the temperature is expected to stagnate for the next two decades at the very least (it has already been pretty flat for 2000-2010). It is actually a very interesting time for climate science, because CO2 levels are expected to continue rising while both the AMO and solar activity will be trending downwards. This should provide further evidence of the real causes of climate change.
+
+The claims about other planets are interesting, but ultimately unnecessary. Because of different atmospheric compositions it would be possible that the indirect solar effect has an effect on the other planets, but not on Earth. I have not explored these claims further for this reason, but they may provide further understanding of Sun's role and are thus an important avenue to explore.
+
+As for the little ice age you mention, it would not be a real ice age but probably at worst (if low solar activity continues for several cycles) we'd see temperatures drop to around somewhere where they were in the beginning of the previous century.
+Oh, nice, our most active climate misinformer is back from /r/climateskeptics with yet another misleading wall of text.
+
+To keep it short, [here's](http://www.reddit.com/r/askscience/comments/n9wmz/what_is_preventing_humancaused_climate_change/c37kdkm) our most recent (and link to previous) "discussion" showing the multiple flaws in your arguments.
+
+A short answer to your recurring but seemingly more recent talking points: Spencer and Braswell's paper is plainly wrong, not just "disputed". It was known to be wrong even before it was published. Lindzen and Choi have similarly been proven completely wrong. Incidentally, both Lindzen and Spencer are known AGW denialists paid by the fossil fuel lobby, via neoliberal "think" tanks. Spencer is even on the board of the infamous Marshall institute, a denialist frontrunner also known for lobbying for Tobacco companies against smoking regulations.
+
+On your long-term, supposed indirect effects of solar activity: Before 1970, the solar activity combined with comparatively little CO2 correlates nicely with temperature. You usually use this to show the sun's effect on climate. Past the 70s, the sun's activity has decreased but temperatures have gone up steeply. All of a sudden, apparently, this can well still be a solar effect, albeit an indirect one. Pray tell where this indirect effect was before the 70s if the correlation was so good. Does this mean there was no direct effect?
+I would also add [this link](http://www.skepticalscience.com/argument.php) for a very good place with answers based on peer-reviewed climate-science papers to some of the myths propagated by the denial machine!
+
+And from that list this one seems to cover a lot of the current question:
+
+http://www.skepticalscience.com/its-not-us-advanced.htm
+&gt;There are facts that support both the AGW and non-AGW side
+
+The first part of your sentence is true, but the second part is false.
+
+&gt;In essence a sine wave superimposed on a slowly increasing temperature trend. One such oscillation is the AMO (Atlantic Multidecadal Oscillation), which has an extremely good correlation to the temperature record over the last 100+ years
+
+It doesn't. The temperature trend for the AMO (if it is indeed a real oscillation, which is not yet certain) is flat, while temperatures have been increasing.
+
+&gt; One further thing to consider is that the temperature increase from 1910-1940 is of equal speed and magnitude as that of the period from 1970-2000 while the CO2 rise really moved to high gear only after the middle of the century.
+
+That is inaccurate. The 1970-2000 warming was higher.
+
+http://woodfortrees.org/plot/gistemp/from:1900/mean:12/plot/gistemp/from:1910/to:1940/trend/plot/gistemp/from:1970/to:2000/trend
+
+In any case, the effect of CO2 is not linear, and aerosols do have an impact, so it's not a valid argument to look at this and say "see, the two trends are too similar, it can't be CO2." That is simply not a logical argument.
+Climate change and global warming have been interchangeable for quite some time, but if you want to pin the blame for the increased official use of Climate Change blame Republican strategist Frank Luntz, who prepared a little propaganda HowTo for the Bush administration a few years back.
+
+So, the person who is mostly responsible for the change is someone from your camp. I guess that completely destroys your argument...
+&gt; Oh, nice, our most active climate misinformer is back from /r/climateskeptics with yet another misleading wall of text.
+
+Misinformer and misleading? You forgot denialist, big oil, vaccines and tobacco as well as right-wing and conservative.
+
+&gt; To keep it short, here's our most recent (and link to previous) "discussion" showing the multiple flaws in your arguments.
+
+This really is an excellent argument, but if you think that discussion showed any significant flaws in my arguments, green really must be blinding. Regardless, I invite everyone interested enough to review the arguments and counter-arguments and make up their own mind.
+
+&gt; A short answer to your recurring but seemingly more recent talking points: Spencer and Braswell's paper is plainly wrong, not just "disputed". It was known to be wrong even before it was published. Lindzen and Choi have similarly been proven completely wrong. Incidentally, both Lindzen and Spencer are known AGW denialists paid by the fossil fuel lobby, via neoliberal "think" tanks. Spencer is even on the board of the infamous Marshall institute, a denialist frontrunner also known for lobbying for Tobacco companies against smoking regulations.
+
+There we go, I was afraid you were going to leave the characteristic ad hominems out of the argument. You, however, forgot evolution and vaccines. Curiously, this paragraph contains no scientific content.
+
+&gt; On your long-term, supposed indirect effects of solar activity: Before 1970, the solar activity combined with comparatively little CO2 correlates nicely with temperature. You usually use this to show the sun's effect on climate. Past the 70s, the sun's activity has decreased but temperatures have gone up steeply. All of a sudden, apparently, this can well still be a solar effect, albeit an indirect one. Pray tell where this indirect effect was before the 70s if the correlation was so good. Does this mean there was no direct effect? 
+
+Now I'm really confused. Solar activity did not significantly decrease until solar cycle 23 (after the dip in solar cycle 20), which I'm sure you know but just choose to ignore. I'm sure we'll get back to [this](http://www.reddit.com/r/askscience/comments/mtocy/is_data_about_temperature_and_emissions_really/c33zc8s) if we continue the discussion of solar influences so anyone interested can just take a look at that comment thread.
+&gt; It doesn't. The temperature trend for the AMO (if it is indeed a real oscillation, which is not yet certain) is flat, while temperatures have been increasing.
+
+You really do persist in that misrepresentation, don't you? Do you understand what a linear trend superimposed on a sine wave means? Compare [temperature](http://www.woodfortrees.org/plot/hadcrut3vgl/from:1880/mean:60) with a very simple [function](http://www.wolframalpha.com/input/?i=plot+%28x-1880%29%2F100+%2B+0.3cos%282pi*%28x-1880%29%2F60%29%2C+x+%3D+1880+to+2000). In essence curve-fitting, but there's a physical basis for it in the form of AMO. The first term is the warming trend, and the second represents the oscillation. If this kind of oscillatory signal exists in the temperature record, the actual warming trend would be well under 1 degree celcius per century, hardly dangerous.
+
+&gt; That is inaccurate. The 1970-2000 warming was higher.
+
+[According to Phil Jones](http://news.bbc.co.uk/2/hi/8511670.stm), "The 1860-1880 period is also only 21 years in length. As for the two periods 1910-40 and 1975-1998 the warming rates are not statistically significantly different (see numbers below)."
+
+There is some difference, yes, but in essence they are of equal magnitude and speed.
+
+&gt; In any case, the effect of CO2 is not linear, and aerosols do have an impact, so it's not a valid argument to look at this and say "see, the two trends are too similar, it can't be CO2." That is simply not a logical argument.
+
+Of course not, and I never said as much. I just said that the similarity of the two warming periods is something to consider, especially considering the last 10-15 years of little to no warming which would fit with the 30-year cyclical warming/cooling trends. It is possible that the earlier warming was natural and the latter one CO2-induced and both just happened to be of a similar magnitude and speed.
+&gt; You forgot denialist
+
+Indeed. I prefer misinformer in your case though because you prefer to give your posts a flavour of "the science isn't settled", "there is a lot of doubt" instead of outright denialism.
+
+&gt; Curiously, this paragraph contains no scientific content.
+
+Neither does the Braswell paper. Even if it was correct, which it plainly is not, the results would not support your claims. The only reason you mention it at all is because you read (probably via Watts Up With That) the denialist propaganda cooked up by [Heartland institute's James Taylor in Forbes](http://mediamatters.org/blog/201108010025), which took Spencer's flawed "results" and blew them completely out of proportion. Even Spencer admits (while still believing that he's at least correct) that his results show nothing of that sort. Why do you keep mentioning a paper which has been shown wrong and does not even support your claims?
+
+And is it *not* true that Spencer and Lindzen have clear ties to the oil industry? Are you *not* concerned that a supposed climate scientist is *on the board* of a neoliberal institution with the sole goal to avoid any regulations? Do you not see a conflict of interest? Sure you could say, let's judge them on their science only, but that science is blatantly wrong, so what else can we judge them on?
+
+&gt; Now I'm really confused.
+
+I've asked you twice, you avoid to answer. Again: you cannot have it both ways, either the sun influences our climate directly, or mainly indirectly. Before the 70s, global warming correlates well with solar activity. This indicates, not surprisingly, and quite correctly, a direct influence of the sun on the climate. Past that time, solar activity goes down (we've had this before, stop talking about sun spots and please refer to TSI, which clearly shows a decrease) and temperatures go up strongly. You now claim that this could still be due to the sun, but now apparently it is due to some indirect effect. Once final time: where is this indirect effect before the 70s?
+"my camp". typical partisan douch cant comprehend that truely independent minds exists.
+It's not being partisan, you're the one who expressed disbelief about AGW and suggested that the change in terminology was some sort of evasive maneuver to avoid recognizing that "global warming" sometimes mean regional cooling.
+
+The fact is that the change in terminology was mostly the work of Republican strategists, who express the sames doubts as you.
+&gt;You really do persist in that misrepresentation, don't you?
+
+It's not a misrepresentation, it's reality. The AMO, if it doesn't turn out to be an artifact of AGW (a very real possibility), does not add temperature to the system, but simply moves it around. It cannot be used to explain the current warming trend.
+
+&gt;Compare temperature with a very simple function. In essence curve-fitting, but there's a physical basis for it in the form of AMO.
+
+I'm sorry, but that's not a scientific argument. You're basically looking for patterns to conform to your preconceived opinion. It's clear you decided some time ago that you didn't believe in AGW, and are now looking for validation where you can, even if it means ignoring basic scientific methods.
+
+Here is a comparison of the temp trend with the AMO. As you can see, the AMO trend is flat, while the temperature trend isn't. If AMO was a major driver, there wouldn't be such a trend. It's CO2. It's us.
+
+http://www.woodfortrees.org/plot/gistemp/from:1880/mean:12/plot/gistemp/from:1880/trend/plot/esrl-amo/mean:12/plot/esrl-amo/trend
+
+&gt;There is some difference, yes, but in essence they are of equal magnitude and speed.
+
+So then, you agree that Climategate is a fake scandal that was designed to discredit honest scientists, right? I'm going to hold you to that: if you quote Phil Jones, then you consider him a credible source. If you consider him a credible source, then you also accept that the current warming is due to anthropogenic CO2.
+
+If you *don't* believe that AGW is correct, then don't quote Phil Jones. It only makes you look like an opportunistic douche.
+
+&gt;Of course not, and I never said as much. I just said that the similarity of the two warming periods is something to consider
+
+You should have the courage to stand behind your assertions. Now it just looks as if you're trying to weasel your way out of a tight spot.
+
+&gt;especially considering the last 10-15 years of little to no warming
+
+Please stop making false assertions:
+
+http://www.woodfortrees.org/plot/gistemp/from:1996/plot/gistemp/from:1996/trend
+
+&gt;which would fit with the 30-year cyclical warming/cooling trends.
+
+Nope.
+
+&gt;It is possible that the earlier warming was natural and the latter one CO2-induced and both just happened to be of a similar magnitude and speed.
+
+It is also possible that the AMO is not a natural cycle, but an artifact of AGW.
+
+I guess we'll have to agree to disagree.
+&gt; oil industry, more ad hominems and red herrings
+
+While it is painfully obvious that political affiliations are something to consider especially in the field of climate science, using them as arguments against a study is still unscientific. In reverse, if governmental scientists (including universities funded by governments) do not continue to paint climate change as the worst disaster that has happened in a few millennia, their funding will dry out. I never bring this argument up because it isn't an argument.
+
+As far as the whole positive feedback debacle goes, could you provide links to studies establishing a definitive overall positive cloud feedback?
+
+&gt; I've asked you twice, you avoid to answer. Again: you cannot have it both ways, either the sun influences our climate directly, or mainly indirectly. Before the 70s, global warming correlates well with solar activity. This indicates, not surprisingly, and quite correctly, a direct influence of the sun on the climate. Past that time, solar activity goes down (we've had this before, stop talking about sun spots and please refer to TSI, which clearly shows a decrease) and temperatures go up strongly. You now claim that this could still be due to the sun, but now apparently it is due to some indirect effect. Once final time: where is this indirect effect before the 70s? 
+
+Your question makes no sense, because you assume without providing a link to anything (source of data) that the indirect effects did not exist before the 70s. You also demand that I don't use sunspot data, but direct TSI measurements were not available before the 70s (satellite era), and earlier reconstructions are based on solar proxies such as sunspot numbers. Thirdly, sunspots vary by quite a bit while TSI variance is much lower between solar cycles ([look at the peaks](http://woodfortrees.org/plot/sidc-ssn/from:1970/mean:12/normalise/plot/pmod/from:1970/mean:12/normalise)). So, to answer your question, the indirect effect has been there the entire time whereas the direct variation accounts for very little of the temperature changes. The variance between observed peaks is only about 0.1 W/m^2 (less than 0.1%) and only about 1 W/m^2 between peaks and troughs (around 1%), while the UV and EUV spectrum output can vary by as much as 30% (just as an example). I hope this answers the question?
+&gt; Here is a comparison of the temp trend with the AMO. As you can see, the AMO trend is flat, while the temperature trend isn't. If AMO was a major driver, there wouldn't be such a trend. It's CO2. It's us.
+
+So it appears you did not understand what I was saying. Fair enough.
+
+&gt; So then, you agree that Climategate is a fake scandal that was designed to discredit honest scientists, right? I'm going to hold you to that: if you quote Phil Jones, then you consider him a credible source. If you consider him a credible source, then you also accept that the current warming is due to anthropogenic CO2.
+
+&gt; If you don't believe that AGW is correct, then don't quote Phil Jones. It only makes you look like an opportunistic douche.
+
+I made a statement about the data, which you did not accept. Assuming that whatever I'd say next would be ignored I chose to quote someone I thought you'd trust who says the same thing. This does not mean that I agree with everything Jones says. It's like saying that I agree with everything Hitler did if I happened to think that Blitzkrieg was a reasonably good tactic for conquest.
+
+I quoted Phil Jones because I figured you'd consider him a credible source in this matter. If you think that makes me an opportunistic douche, I can't really say anything except that you're entitled to your opinion.
+
+&gt; Please stop making false assertions:
+
+Why did you choose 1996 as the start year? Regardless, I call a 1-degree trend per century little to no warming in the last 10-15 years, especially considering that the theory of AGW predicts an increasing rate of warming. Short-term trends like these are in any case meaningless. I could choose 2002 as the start year and get a neutral trend line.
+&gt;So it appears you did not understand what I was saying. Fair enough.
+
+No, I *do* understand what you're saying, it's simply that what you're saying is incorrect.
+
+It isn't natural cycles, because these trend flat, even the AMO, while temperatures trend up.
+
+&gt;This does not mean that I agree with everything Jones says.
+
+Of course not. You want to be able to pick and choose (i.e. "quote mine") in what he says in order to only use what suits your agenda, and discard what doesn't. Do you really think we're so dumb as not to see in your little game?
+
+&gt;It's like saying that I agree with everything Hitler did if I happened to think that Blitzkrieg was a reasonably good tactic for conquest.
+
+It's not like that at all. This is a false analogy, as in the case of Hitler it wasn't scientific endeavours, which are guided by logic and reason, but rather politics, which are motivated by the will to power.
+
+A much better example would have been to take a scientist who made some important discoveries but was wrong on other scientific subjects. Even Einstein couldn't agree with Quantum Physics ("God doesn't throw dice"), yet these have been mostly validated through experiment.
+
+Also, you just Godwin'ned the thread.
+
+&gt;Why did you choose 1996 as the start year?
+
+Because 15 years is usually a long enough period of time to establish a trend.
+
+&gt;Regardless, I call a 1-degree trend per century little to no warming
+
+What you call it is irrelevant, since you've already demonstrated your ignorance on the subject.
+
+&gt;especially considering that the theory of AGW predicts an increasing rate of warming
+
+Your delusion is based on the narrowness of your view. This GIF nicely demonstrates why looking at the short-term is doomed to failure. Thanks for giving me the opportunity to post it again!
+
+http://www.skepticalscience.com/pics/SkepticsvRealistsv3.gif
+
+&gt;Short-term trends like these are in any case meaningless.
+
+Then why did you mention it? Are you backtracking already?
+
+&gt;I could choose 2002 as the start year and get a neutral trend line.
+
+Or chose 2008 and get a dramatic warming, twice the expected rate...
+
+That is exactly the reason why 15+ years give a better indication of the current warming trend. Thanks for proving my point.
+So actually you are so moronic as to try to argue **without any link to actual peer-reviewed science** that:
+
+- 'it is the Sun' - debunked in detail and with actual peer-reviewed papers linked [here](http://www.skepticalscience.com/solar-activity-sunspots-global-warming-advanced.htm);
+
+
+- 'it is AMO/PDO' - debunked in detail [here](http://www.skepticalscience.com/Pacific-Decadal-Oscillation-advanced.htm) - and generally if you too stupid to understand that AMO and PDO do not alter the [directly-measured Earth heat anomaly](http://www.skepticalscience.com/graphics/Total_Heat_Content_2011_med.jpg) you are not fit for science !!!
+And here is a newer link with 'the big picture'
+
+http://www.skepticalscience.com/big-picture-global-warming.html
+
+note specifically the total Earth heat anomaly:
+
+http://www.skepticalscience.com/graphics.php?g=46
+&gt; While it is painfully obvious that political affiliations are something to consider especially in the field of climate science, using them as arguments against a study is still unscientific.
+
+That's interesting. If those affiliations (and I'd say it's primarily about financial motives, not political ones) are so important, why do you keep referring to those people with a clear agenda? they don't even hide that agenda, Spencer himself is maintaining a self image himself as free-market, anti-regulation libertarian. And again: I'm not using this as an argument, because the science has been shown wrong *in addition*.
+
+&gt; As far as the whole positive feedback debacle goes, could you provide links to studies establishing a definitive overall positive cloud feedback?
+
+No. But I can link you to the [IPCC AR4 section on clouds](http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch8s8-6-3-2.html). I'm not disputing that there is still uncertainty about the climate effect of clouds, I'm just saying that you're citing studies which (i) have been proven wrong, (ii) even if correct, wouldn't support your argument and (iii) have been written by paid deniers.
+
+&gt; So, to answer your question, the indirect effect has been there the entire time whereas the direct variation accounts for very little of the temperature changes.
+
+That's nonsense. Literally everyone in climate science assumes that there is a significant direct effect. By claiming it has to be mainly indirect (because you think the current warming is still being caused by the sun, whose activity is currently decreasing) you now have to assume that also previously good correlation between solar activity and climate has been due to your supposed indirect effect. This is exactly the fallacy I was trying to point out, you're now at odds with an even larger part of the climate science, including most of the skeptical community.
+
+Summary:
+You usually use this to show the sun's effect on climate.
+Before the 70s, global warming correlates well with solar activity.
+It's not like that at all.
+last year it was called global warming.
+Several indirect solar effects have also been recently observed.
+It cannot be used to explain the current warming trend.
+This does not mean that I agree with everything Jones says.
+It is also possible that the AMO is not a natural cycle, but an artifact of AGW.
+This should provide further evidence of the real causes of climate change.
+If you consider him a credible source, then you also accept that the current warming is due to anthropogenic CO2.
+So it appears you did not understand what I was saying.
+Pray tell where this indirect effect was before the 70s if the correlation was so good.
+Past the 70s, the sun's activity has decreased but temperatures have gone up steeply.
+It was known to be wrong even before it was published.
+The 1970-2000 warming was higher.
+In addition to these possible indirect effects, some of the warming in the last 30 years may simply be natural oscillation (not all of it, though).
+It is actually a very interesting time for climate science, because CO2 levels are expected to continue rising while both the AMO and solar activity will be trending downwards.
+&gt; So, to answer your question, the indirect effect has been there the entire time whereas the direct variation accounts for very little of the temperature changes.
+Once final time: where is this indirect effect before the 70s?
+Does this mean there was no direct effect?
+All of a sudden, apparently, this can well still be a solar effect, albeit an indirect one.
+It isn't natural cycles, because these trend flat, even the AMO, while temperatures trend up.
+It only makes you look like an opportunistic douche.
+So, to answer your question, the indirect effect has been there the entire time whereas the direct variation accounts for very little of the temperature changes.
+As you can see, the AMO trend is flat, while the temperature trend isn't.
+And again: I'm not using this as an argument, because the science has been shown wrong *in addition*.

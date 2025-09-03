@@ -1,0 +1,5 @@
+Genetic drift has a clear effect on small populations, by random chance certain alleles beneficial or not may get fixed or eliminated. Does population size dictate the intensity of natural selection?
+In larger populations, there is a larger gene pool, meaning that it would take more time for natural selection to show its affect and cause fixation of alleles than in a smaller population.
+TL;DR: Population size dictates the time it takes for natural selection to become evident in a population.
+I'm not sure if I understand exactly what you mean by the intensity of natural selection.
+A larger sample size means a greater probability that the sample is representative of the population; while it means more individuals with the dominant phenotype, it should also mean more individuals with the recessive phenotype.

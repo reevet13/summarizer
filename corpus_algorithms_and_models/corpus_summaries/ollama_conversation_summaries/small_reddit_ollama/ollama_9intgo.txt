@@ -1,0 +1,13 @@
+Here are the sentences copied verbatim from the original text:
+
+* "I never seen any other cashgrabbing, greedy fucking company like Rockstar."
+* "It wasn't Dice level good, it was merely ok."
+* "The improved visuals are mainly because PCs have much better CPUs, and that all PC gameplay videos are on beast builds. It wasn't a masterpiece port."
+* "Assuming that Rockstar want to add NVIDIA-specific features like RTX. They have historically never added GPU-specific features and considering they’re developing entirely for AMD GPUs in consoles right now... don’t hold your breath for RTX in RDR2."
+* "RTX isn't nVidia specific, tho knowing nVidia they will develop a gameworks enhanced version of it, but RTX in general works via Vulkan, all it requires is that RDR2 on the PC has both DX12 and Vulkan support which isn’t hard to implement."
+* "I think the number of people who buy the same game twice or thrice is *vastly* exaggerated. Most people play the game once and they are done."
+* "They'll probably release it on pc at some point hopefully. They know how to get people to double dip and purchase twice."
+* "It's a two years max wait, if they're doing the same as what they did to GTA V."
+* "Rockstar always focused on consoles first. They generally never cared for PC."
+* "Only after their PC ports started getting shit on for being huge messes, they start optimizing them better at the cost of delayed release dates, such as GTAV for PC."
+* "Its not confirmed to be the reason why the game is not on PC. It also assumes that Rockstar did have the intention of porting it to PC but couldn't, but Rockstar have gone on record to say the exact opposite."

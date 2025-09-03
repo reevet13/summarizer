@@ -1,0 +1,10 @@
+Yes, he would feel centripetal forces pulling him apart with a strength dependent on the rate of his spin.
+You will feel the blood rush to your hands and an outward force.
+Each part of his body is experiencing a different acceleration dependent on the radius to the center of spin.
+On the contrary, travelling in a straight line with a fixed velocity is an inertial reference frame, thus without something else to compare to you would not know you are moving.
+While there is no way to answer whether an inertial frame of reference is moving at a constant velocity or whether everything else is moving relative to it, with a frame of reference that's accelerating (which includes rotating frames of reference), you can detect the acceleration.
+This is why you feel pushed/pulled to the side of your car when it turns, but when it's going in a straight line at a constant speed you can read a book, bounce a basketball, etc. without worrying about how fast you're going.
+Since the astronaut is rotating, he would feel as though he were being pulled outward.
+He would also be able to test if he were spinning or not by drawing his arms and legs into his chest - if he was spinning, he could feel the forces acting to conserve angular momentum.
+To elaborate, you can't feel a constant velocity with no reference, but you can feel a constant acceleration (rotation is acceleration).
+Because velocity is a vector, and turning that vector is an acceleration even if the magnitude of the vector is the same.

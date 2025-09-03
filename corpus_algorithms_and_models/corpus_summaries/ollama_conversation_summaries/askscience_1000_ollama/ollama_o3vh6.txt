@@ -1,0 +1,12 @@
+Here is a summary of about 10% of the text:
+
+Adding lights together is additive - that is, the baseline is black and as you add lights, the colors approach white.
+
+Mixing paints together is subtractive - that is, the baseline is white and as you add ink, the colors approach black.
+
+To your eye it's the same, but a green wavelength of light can be very, very different than a mixture of blue and yellow light sources. From a science point of view, one is a single pure frequency while the other is a combination of several frequencies which *average* to the one you see.
+
+
+It sounds like you are on the right track. As all the frequencies of visible light are added together, we see this as white. Pigments work by absorbing light except the frequencies for whatever color they represent. Keep adding more pigments and eventually you get black, because it is trying to absorb all the frequencies of light.
+
+Because of the additive and subractive factors you have mentioned.

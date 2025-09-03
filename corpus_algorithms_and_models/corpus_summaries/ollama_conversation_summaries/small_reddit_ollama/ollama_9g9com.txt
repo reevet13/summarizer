@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+No game unless it is VR then still most likely not needs to be on 60 FPS. Fortnite more so. It can be ran perfectly on 30+ FPS without much difference. What does effects gameplay is dropping from 60 to 30 then going back up to 60. It is better just to cap your FPS at 30.
+
+It really doesn’t make a difference. You shouldn’t expect 60 FPS on a big server game using a laptop, even though it’s got a 1050.
+
+I also play 1600 by 1080 to help with fps
+
+Yeah, you gotta go into your windows settings and go to some hardware setting s and find the names for the GPUs, generally they are called 0 or 1. You then go to your task manager and it will tell you which GPU your tasks/apps are using.
+
+That helped a good bit thanks so much

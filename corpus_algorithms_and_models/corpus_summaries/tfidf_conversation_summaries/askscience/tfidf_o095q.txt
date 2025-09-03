@@ -1,0 +1,182 @@
+Original Response:
+There are several types of scars. As a wound heals, a few different proteins are present, including elastin, fibrin, and collagen. Collagen and elastic are found in your skin, and provide a scaffolding to which your cells can attach. Trauma disrupts this scaffolding, and part of the healing process involves rebuilding it. Most scars result from too much collagen being in the wound after the healing process is over. 
+
+EDIT: The [wikipedia](http://en.wikipedia.org/wiki/Scar) article has some good information. 
+
+EDIT2: cleaned up my response since so many people are seeing it
+like the keloid scars?
+a keloid scar is a scar that has so much collagen that it is raised way above the surrounding skin.
+never understood how they happen though. Serious injury? Or some sort of illness that can has them as a consequence?
+But what makes the scar keep its shape and color after multiple generations of cells? How do new cells in a fibrosis know how to arrange the collagen fibres if that information isn't in the DNA? Sorry if this is a stupid question, it's been a long time since my last biology class.
+The collagen and elastin create a mesh that the cells exist within. The cells may be replaced but to my knowledge the collagen/elastin mesh remains.
+They can actually come from a range of things...from a serious injury, to acne scars, to just popping up on their own.
+[deleted]
+"Keloid scars can occur on anyone, but they are most common in dark-skinned people.[6] Keloid scars can be caused by surgery, an accident, by acne or, sometimes, from body piercings. In some people, keloid scars form spontaneously. Although they can be a cosmetic problem, keloid scars are only inert masses of collagen and therefore completely harmless and non-cancerous. However, they can be itchy or painful in some individuals. They tend to be most common on the shoulders and chest."
+
+TL;DR:Basically some people have a genetic or otherwise predisposition to developing keloid scars. so when they encounter situations where they might scar they form keloid scars rather than more normal scars.
+Layman here.  This makes sense, as I remember reading something about the "custom organ printer" research that involved stripping an organ of all but its collagen framework and applying stem cells of some sort to the mesh.  You may be familiar with that research.
+[deleted]
+Yup. This technique has recently been applied to try to manufacture artificial organs, not sure how effective it was.
+[deleted]
+[deleted]
+[deleted]
+Are scars from burns this type of scar? Why do most burns cause raised scars?
+Out of curiosity, Dimp3s, how did you manage to get into your profession? I have been so interested in both sciences, but do not know how I would be able to merge them into a biomedical engineer.
+I'm just acting as a matchmaker: http://www.reddit.com/r/askscience/comments/o095q/since_we_are_constantly_generating_new_skin_cells/c3de2m4
+I literally just sent this guy a message. I saw his post a few moments a go.
+Alright, I just wanted to help out - I usually look at a thread and move on, and it looked like your previous comments in the thread were 20+ minutes old.  Thanks.
+not a problem. I went through the thread to see if anyone else added anything/if I got anything wrong with my posts.
+So is there any way to get rid of it?
+[deleted]
+The victims of the two atomic bombings were well known for the scars, which caused society to shun them.  The people were a reminder of the war, their loss, and the fact they were duped by a militaristic leadership.  After that leadership was gone these people remained, scarred badly and shunned because every Japanese person was reminded of the war years.
+While this would probably be more appropriate as a direct message, I know many colleges that offer Biomedical Engineering as a major, I remember meeting someone from Columbia who did Biomed Engineering and worked CTs.
+[deleted]
+Adding to Dimpl3s response: wounds heal by 2 methods, primary and secondary intention.  Primary intention healing occurs when the two sounds of a wound are approximated closely together and wounds will heal faster and better (more chance it will heal without a scar).  If skin is not brought close enough together, poor healing will result and a scar will most likely result.
+Is there a way to remove scars? Like acne scars? :/
+[deleted]
+I am a very pale individual (ginger) and every other cut I recieve is usually results in this raised scar that stays on my skin. Especially on my hands/knees. Any reason why one person could be more susceptible to keloid scars than the next?
+Is that the same for tattoos?
+[deleted]
+There is primary and secondary closures in wounds.  primary, the skin is re-approximated and the scar line is less noticeable, especially if sutured together and the edges of the skin line up.
+Secondary closure is when there is no re-approximation of the two edges.  When secondary closure occurs, it mostly fibroblasts and then stem cells in adnexal structures (hair follicles) becoming new epithelium.
+BUT TO ANSWER YOUR QUESTION, The important thing to know is that skin DOES constantly regenerate, however when the BASAL layer is gone it DOES NOT regenerate.
+[deleted]
+Veterinary pathologist in training here:  The scar (as Dimpl3s explained) is too much collagen.  When the tissue is injured fibroblasts respond by producing collagen (there are also inflammatory cells in the mix) to fill in the defect, usually in an organized fashion, but it can be disorganized depending on what type of forces are exerted on the wound.  The thick bundles of collagen (fibrous tissue) usually lacks a vascular supply (or has a very minimal vascular supply) giving a lighter appearance than the rest of the skin.  Any altered coloration (like in tattoos) is the result of macrophages (tissue white blood cells) containing melanin (brown) or the color of the tattoo ink used.
+[deleted]
+Well it is relevant as probably the only story historically that relates to a group of people with these scars.  It also points out that they were extreme and a trait of the use of atomic weapons, a big event in world history.
+[deleted]
+Is it possible to reduce or remove a scar by removing the scar tissue and stitch the wound together?
+High school senior here, looking to major in BME in the future. Some ridiculously interesting things have been done in the field. I'd be happy to show you some articles.
+[deleted]
+[deleted]
+Would it matter how big the scar is? If it's a big white linear scar then maybe it would become a smaller one? Assuming it wasn't stitched the first time.
+1. You can cut out a scar and reapproximate (bring together nicely) the skin with a neat stitch to minimize a scar.
+
+2. In large keloids (I'm not sure with acne scars), you can do intralesional steroid injections.  Steroids are anti-inflammatory and will inhibit the proliferation of fibroblasts, reduce collagen synthesis, and alter the make-up of matrix proteins.  Though I think it would work with acne scars, potent steroids are typically not used on the face.  The skin is thinner and subject to atrophy and pigment changes.  Though I guess with bad enough scars, a few white spots might be the better option in any case.
+Yes, but if done right the new scar could potentially be much, much less obvious.
+[deleted]
+An [artificial trachea was made quite successfully](http://yourlife.usatoday.com/health/story/2011/07/Patient-gets-worlds-first-artificial-trachea/49176868/1) using something similar to that method; they used plastic for the framework instead of leaving collagen there, however, I think.
+BME is becoming more common as its own major. I've seen BME graduates at my medical device company from Duke, Iowa, UC Irvine, and some others. Unfortunately, you learn a broad foundation of stuff, but you don't really get very deep in any one subject, so you'll have a lot to learn after graduating to be useful. Still, it's a good field to be in.
+[deleted]
+[deleted]
+Not really. Immune cells, namely macrophages, phagocytose (eat) and attempt to digest the insoluble tattoo ink as part of the normal immune response to foreign material. However, the macrophages cannot digest the pigment so they basically end up holding it in place in the dermis. Over time layers of skin build on top of it which causes the fading of the tattoo over time.
+Yes, sort of. This is called "secondary closure".
+
+As others have noted, if a wound closes due to second intention (never closed by primary closure - stitched) there is likely to be scar tissue.
+
+However, within one month of an injury, it's possible to use secondary closure. A surgeon can cut out unhealthy tissue, approximate the wound properly, and use sutures to close up the wound properly.
+
+This will decrease the incidence of infection and scar tissue, and promote healthy tissue growth.
+[deleted]
+The cells do not exist within the mesh, but on top of it. Collagen and elastin form the basal lamina, which is a membrane that sits between the epidermis and the underlying dermis.
+Could you use this principle to devise a tattoo ink that would completely fade away over time?
+[deleted]
+[deleted]
+[deleted]
+This is basically it.  My pathology class taught us that acute damage can be fixed and leave little to no scar.  The longer the damage takes to heal, the more it takes on a chronic type healing pattern.  In chronic damage healing, you put down a large amount of collagen type one, which once put down is effectively permanent.
+
+Unlike cells, collagen does not have significant turnover.  This is why tearing a ligament is so problematic, it doesn't easily heal.
+[deleted]
+There have been attempts at using different kinds of inks as well as very shallow tattoos. Both of which have been advertised as non permanent. I don't think either method really worked all that well or with any real consistency in their results. 
+
+There are also many forms of very short term temporary tattoos such as air brushing and henna tattoos.
+[deleted]
+[deleted]
+A professor at my old school was involved with making blood vessel scaffolding.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+&gt; Sorry if this is a stupid question
+
+No such thing as a stupid question, and if there was yours wouldn't be one :)
+[deleted]
+That's what the word on the street is. I cut my finger pretty bad and went to an occupational therapist for a couple months..massages were on our regiment.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+This might get buried but related question: is the process that makes a scar stay on your skin similar to that of a tattoo? I've always wondered how your skin holds the ink and it doesn't fade away after you lose some skin cells.
+So can somebody tell me about hypertrophic and keloid scarring? I've had many doctors tell me I'm prone to both, and the Internet has not proven a reliable source of information on either. I know these types of scars are treatable, but how are they formed I the first place?
+why is it all deleted?
+Is there any way i can look into this for my scars?
+[deleted]
+layman with anecdotal evidence warning:
+
+There's a product called Bio-oil which is really good.
+In regards to scars what are the benefits of bio-oil and anyone know the science behind how it works?
+Medical student here. The scaffolding is called the basement membrane, if this layer is disrupted the epidermal cells will grow back in a disorganized fashion. If it remains intact however there will be no scar formation as the epidermal cells retain the proper anchoring and differentiation signals to reform the uninterrupted surface.
+Source: http://bmezine.com/news/edit/A30205/arttatto.html
+
+Stages of Ink Dispersal:
+
+Initially ink is taken up by keratinocytes, and phagocytic cells (including fibroblasts, macrophages and mast cells).
+
+At one month the basement membrane of the epidermis (epidermal-dermal junction) is reforming and the basal cells contain ink. In the dermis, ink containing phagocytic cells are concentrated along the epidermal-dermal junction below a layer of granulation tissue that is surrounded by collagen. Ink is still being eliminated through the epidermis with ink present in keratinocytes, macrophages and fibroblasts.
+
+At two to three months the basement membrane of the epidermis is fully reformed, preventing any further loss of ink through the epidermis. Ink is now present in dermal fibroblasts. Most of these ink containing fibroblasts are located beneath a layer of fibrous tissue which has replaced the granulation tissue. A network of connective tissue surrounds and effectively traps these fibroblasts. It is assumed that these fibroblasts are the cells that give tattoos their lifespan.
+because you are using the term "scaffolding" your tag seems to apply all the more.
+The way skin works is like, for the lack of a better analogy, a brick wall. Each column constantly generates a brick at the bottom while the top one is shed off. Now let's say you lose an entire column of brick but it's a thin column. You'd use some cement (Fibrous tissue; mainly collagen) to pull them close together. Since it's so close together, from far away it won't look like a scar. That's the point of stitches too, bring the two columns close together so the skin can be able to cement the two sides together.
+
+Now let's say the injury caused a thick column of cells to be damaged, then there'd be much more fibrous tissue (cement) that would be used. This fibrous tissue can contract after a while and make the scar appear smaller, but the scar would still be present as it's quite a thick column of fibrous tissue.
+
+TL;DR new skin cells don't replace wounds, fibrous tissue does. Depending on the size of the wound, the scar becomes apparent or not.
+I recall hearing that blue is the most susceptible ink to the type of laser they use
+&gt;The longer the damage takes to heal, the more it takes on a chronic type healing pattern.
+
+Is this why Neosporin and such can help to prevent scars; because the antibiotics help the wound to heal faster since it doesn't have to fight off infection?
+Two sounds?
+[deleted]
+[Rochester Institute of Technology: Biomedical Engineering](http://www.rit.edu/kgcoe/biomedical/) my alma mater and had some friends in this program that really enjoyed it.
+[deleted]
+Your username is contradictory to your content.
+This technique is also being used to generate artificial tendons. Preliminary studies have shown faster healing from tears, and greater strength upon recovery than with traditional methods. (Another lab in my department is doing this as we speak)
+Burns? They do cause blisters, those are raised, but they are not scars, and I don't think it's common for them to form raised scars. I've had plenty of burns (even a third degree one when I was a kid) and none of them are raised. I do however have a raised scar on my shin from scratching a bug bite too much.
+Have you heard of [The skin cell gun](http://www.youtube.com/watch?v=eXO_ApjKPaI)
+Is there any reason why it wouldn't be advised to do a secondary closure more than a month after the injury?
+I think it has to do with how the wound heals. The human body heals so quickly that the skin cells form a diffrent texture than the rest of your body, sort of like how if you dont wear a cast your bones will heal wrong.
+Wake Forest's program is pretty awesome.  Dr. Atala has all sorts of DOD funding coming his way.
+[deleted]
+Yes.  Infections can prevent wound healing making scars more likely to form.  Wounds that are sewn together (primary intention) also heal better than wounds that are left open (secondary intention).  Also, picking at scabs will delay wound healing, potentially leading to scars.  So our mom's were right.
+Not sure what you mean.  You can look up different collagen types (1-4 are the main ones, but I believe there are actually more).  Scars are type one collagen.  You can also look into scar formation due to primary and secondary intention.
+
+I would also look into hypertrophic scars and keloids if you  have large, visible scars.  Not sure what you are looking for specifically however.  Could you be more specific?
+It says I can't watch it in my country so, no haven't heard of it
+Based on something I read, and an induction made following what you said: Are some scars the result of skin healing in a manner that prefers time over perfectibility? Usually in cases where the wound sounds are further apart, or the injury is deep etc.
+http://en.wikipedia.org/wiki/Skin_cell_gun
+That entails black by definition
+[deleted]
+I couldn't say. All I know is that I was taught "within one month" in my Sterile Techniques class.
+I have a hypertropic scar, and if what i gathered was an available technology in which stem cells are injected into a stripped scar, I was wondering where i might be able to look into this sort of thing. where to start? Just asking out on a limb
+Askscience is a heavily moderated community and comments such as jokes, insults, trolls, or other nonconstructive modes of communication are often deleted.
+Possible, but wounds create stem cells on there own.  You could get steroid injections to lower the scar size, or get the scar excised and re-sutured.  Steroid injections would be used during wound healing.  This would slow healing, but create a smaller scar than you already have.  The second option is expensive and a bit risky.  The first is less risky but could lead to discoloration or a lowered scar.  I'm no dermatologist however.  I would suggest you go see one.
+It does fade over a longer period of time (years), but a quick Google says "the ink particles are too large for the body to remove."
+Thanks redditer, you've definitely been informative
+
+Summary:
+why is it all deleted?
+Scars are type one collagen.
+I think it has to do with how the wound heals.
+Is there any way i can look into this for my scars?
+Steroid injections would be used during wound healing.
+Infections can prevent wound healing making scars more likely to form.
+Most scars result from too much collagen being in the wound after the healing process is over.
+There is primary and secondary closures in wounds.
+Is there a way to remove scars?
+Is that the same for tattoos?
+In some people, keloid scars form spontaneously.
+However, within one month of an injury, it's possible to use secondary closure.
+There are several types of scars.
+TL;DR new skin cells don't replace wounds, fibrous tissue does.
+Possible, but wounds create stem cells on there own.
+This is called "secondary closure".
+You can also look into scar formation due to primary and secondary intention.
+a keloid scar is a scar that has so much collagen that it is raised way above the surrounding skin.
+Are scars from burns this type of scar?
+The collagen and elastin create a mesh that the cells exist within.
+Would it matter how big the scar is?
+Now let's say the injury caused a thick column of cells to be damaged, then there'd be much more fibrous tissue (cement) that would be used.
+Is it possible to reduce or remove a scar by removing the scar tissue and stitch the wound together?
+The cells do not exist within the mesh, but on top of it.

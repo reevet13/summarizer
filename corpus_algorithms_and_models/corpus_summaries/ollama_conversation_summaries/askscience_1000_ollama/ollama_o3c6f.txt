@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+I'm a bit of a noob to science, so forgive me if this question is a little stupid.
+Im just wondering what would happen if 2 black holes in exactly equal size, but with opposing rotations were to meet.
+
+You're asking about a collision between two uncharged black holes with equal mass and opposite rotational angular momentum.
+Assuming they collided head on (which would be almost miraculous), you would get an uncharged black hole with double the mass and no angular momentum; i.e., not spinning.

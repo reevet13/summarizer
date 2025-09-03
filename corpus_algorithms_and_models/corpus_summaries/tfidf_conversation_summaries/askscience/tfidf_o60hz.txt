@@ -1,0 +1,13 @@
+Original Response:
+Carbonated water is CO2 dissolved into water.  When the CO2 [nucleates](http://en.wikipedia.org/wiki/Nucleation) it forms a bubble, which grows in size until its bouyancy is enough to lift it off the surface and 'fizz'.
+
+Nucleation is dependent on the surface (the wiki mentions high surface area and sharp corners).  So, say a cup is scratched - it may nucleate CO2 better.
+
+This is actually used to design fancy champagne glasses that have specific etched patterns so the bubbles stream off the glass in specific spots.
+Thanks for the answer! This would explain why cups with non smooth surfaces such as plastic cups would cause fizzy drinks to fizz more than a regular glass.
+Keep in mind that the nucleation sites are really small, and not something you would be able to tell with your fingers (or your eyes, most of the time).  I'm thinking nano- or micron-sized defects is about the range of nucleation sites (correct me if I'm wrong).  This is at least an order of magnitude smaller than the width of a human hair.
+
+There are materials called '[zeolites](http://en.wikipedia.org/wiki/Zeolite)' which are basically super-high surface area 'sponges'.  Well, anyways they're also called 'boiling chips' when you put them in water because when the water starts to boil, all the vapor nucleates from the pea-sized zeolite chunk and it bounces around spitting off bubbles
+
+Summary:
+So, say a cup is scratched - it may nucleate CO2 better.

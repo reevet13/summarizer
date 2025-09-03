@@ -1,0 +1,9 @@
+Here is a summary of your original text, up to 250 words:
+
+Hello asksci, I am reading an intro book on optics and it is discussing the polarization of light and unpolarized light.
+
+This sinusoidally varying electric field can be thought of as a length of rope held by two children at opposite ends. The children begin to displace the ends in such a way that the rope moves in a plane, either up and down, left and right, or at any angle in between.
+
+So with this in mind I think well if most light is naturally unpolarized then wouldn't a mix of all of the different angles eventually end up cancelling each other out?
+
+I'd like to think of polarized light as coming in two orthogonal basis and then all others combinations of the two, are all polarized light vectors the sum of basis components like force vectors?

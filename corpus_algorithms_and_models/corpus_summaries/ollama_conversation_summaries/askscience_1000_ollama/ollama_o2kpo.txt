@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the original text (up to 250 words):
+
+2000 calories per day rule: 8,368,000 Joules. Power is the amount of energy per time, so we divide this number by the number of seconds in a day: 24 hours x 60 min/hr x 60 s/min = 86400, resulting in a power of 96.9 Watts.
+
+Starting with the general 2000 calories per day rule, we can get an estimate, although this certainly depends on the person, as you suggested. 2000 calories is 8,368,000 Joules. Power is the amount of energy per time, so we divide this number by the number of seconds in a day: 24 hours x 60 min/hr x 60 s/min = 86400, resulting in a power of 96.9 Watts.
+
+Assuming a steady weight, of course.
+
+Back-of-the-envelope: Assume 2500 calories per day in (male, 30 yo, active lifestyle), nothing out ("maximum case", basically), equals roughly 10.5 MJ. If we spread that out constantly over a day, that's about 120 Watts, or a bit more than a modern laptop computer.
+
+Yes, lifestyle definitely has an impact. More vigorous physical activity burns more energy, check out [this calculator](http://www.mayoclinic.com/health/calorie-calculator/NU00598) for example.

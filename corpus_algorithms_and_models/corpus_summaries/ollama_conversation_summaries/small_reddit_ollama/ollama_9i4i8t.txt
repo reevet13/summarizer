@@ -1,0 +1,15 @@
+Here is the summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+Hello. Ive had my PC for nearly 4 years and I've encountered an issue that is driving me up the wall.
+
+Every time I am playing a relatively demanding game (Black Desert Online, Rainbow Six Seige) my PC will stop and freeze entirely with no forewarning after about an hour of playtime. No bluescreens, no error codes, no frame drops prior, no signs of hardware stress prior. Everything just stops, my computer stops responding entirely. Again, with no indication as to why.
+
+I suspect it may be something to do with my hard drive failing. My computer runs on a single 1TB HDD
+
+Off the top of my head, you are either overheating or your power supply is failing.
+
+I doubt your hard drive would cause you to crash once your game has started. Once you are gaming most of the game should be loaded in to RAM, which leads me to believe you are suffering from heat build up or your power supply is struggling to keep up as it slowly dies.
+
+How can I decrease temperatures? Im almost certain thats the issue. do I simply buy more fans and better cooling?
+
+Yes, that is exactly where you want to be. Be warned, it may take some trial and error.

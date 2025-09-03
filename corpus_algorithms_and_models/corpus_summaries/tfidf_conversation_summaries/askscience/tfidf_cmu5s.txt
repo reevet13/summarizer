@@ -1,0 +1,76 @@
+Original Response:
+Something I'm trying to understand about gravity, maybe this is a better way of asking. Imagine the earth is perfectly round except for one very massive mountain, if I stand on the opposite side of the world from the mountain, do i feel heavier, and if I stand right next to the mountain, do I feel lighter?
+At the center of the earth, you would feel weightlessness, because the mass surrounding you would be pulling on you equally in all directions.
+
+EDIT:  Actually, you would also still be feeling the gravity from the sun.
+
+However, you would also be feeling 362 GigaPascals (362,000,000,000 Pascals= 3,572,662 atmospheres) of pressure, due to the weight of everything crushing in on top of you.
+
+&gt; Imagine the earth is perfectly round except for one very massive mountain, if I stand on the opposite side of the world from the mountain, do i feel heavier, and if I stand right next to the mountain, do I feel lighter?
+
+Ok, this is a little different.  The simple answer is: Not that you would notice.
+
+If you compare the radius of the earth to the distance from the bottom of Challenger Deep (Deepest spot) to the summit of Everest, you come up with a ratio of 322:1 (The radius of earth is 321 times greater than the distance from deepest to highest.)  [Further discussion](http://www.bautforum.com/archive/index.php/t-33.html)
+
+Here's a [google search result](http://www.google.com/search?aq=0&amp;oq=gravity+difference&amp;sourceid=chrome&amp;ie=UTF-8&amp;q=gravity+differences+on+earth) with many articles discussing earth's gravity.
+If I dug a hole 1000 miles deep, stood at the bottom of the pit and dropped a ball, it would accelerate faster or slower then 9.81 m/s2?
+You can use Gauss' Law to calculate the strength of gravity at a particular radius *r* from the center of the earth.  You'll find that gravity increases linearly from *r = 0* to *r = r_e*, the surface of the earth, and then decreases quadratically as you move off into space.  
+
+The answer to your question is that the ball would accelerate *slower* than 9.8 m/s^2.
+Slower.  (I have not taken the time to calculate by how much, but it would be minuscule, probably below margin of error.)
+Fun fact: a straight tunnel connecting any two points on Earth would take 42 minutes to fall through.
+You would experience less gravitational force, so things would fall slower.  The idea is that for a spherical distribution of mass the effect of all of the mass at a greater radius than you cancels out.  Thus (ignoring variations in density) you would feel like you're standing on a planet with a 1000 mile smaller radius.  This [Wikibooks](http://en.wikibooks.org/wiki/A-level_Physics_%28Advancing_Physics%29/Gravitational_Forces) article explains it pretty well.  Mainly take a look at the graph at the bottom.
+But you would be orbiting the Sun hence be in free fall in respect to it. Microgravity would apply and the side closer to the sun would be drawn towards it with a tiny bit more force than your other side. Technically only a single point in respect to Earth's mass would be free of net gravity effect and everything around it would be gravitating towards it. The force would linearly grow as you got further from this point, assuming a uniform density of the planet, which it is not. Quasi-linear? If you extend your arm, I doubt you could feel the tug of that tiny force towards the center. The Sun and Jupiter would perturb you slightly as the planets keep moving. Anyway, it's been a while since my university physics class...
+So you're saying that because there is mass above your head pulling you upwards, this cancels out some of the mass below your feet pulling you downwards?
+[Gauss Law](http://en.wikipedia.org/wiki/Gauss%27s_law_for_gravity) (as Quantumtroll said), basically says that you are only affected by mass radially inward of your current location, if the mass is distributed with a spherical symmetry.  So g varies as a function of your location relative to the center of the earth (r) as
+
+g = 9.8 r/r_earth [m/s^2]  for r inside the earth, 
+
+and g = 9.8 r_earth^2/r^2 [m/s^2] for r outside the earth.
+
+So 1000 mi~ 1600 km inside the earth (earth radius is ~6400 km), the radius would be ~4800 km.  Hence g ~ 7.3 m/s^2.
+Yes, that's a valid way of looking at the scenario.
+No one wants to add "in a frictionless vacuum" because everyone wants to make the "your mom" joke once someone does.
+Assuming uniform density, if you catch my drift.
+What you feel are gradients, not the absolute values.
+This was actually the reason I asked the original question. They brought up the topic of a gravity train on QI last night and it got me thinking, if the train goes exactly through the core of the earth, what mass is responsibly for pulling you downward. A bit stupid but I didn't know if gravity concentrated itself toward a central point naturaly, or if it was just the combined effect of all the earths mass pulling you every which way that causes you to fall.
+It doesn't even have to go through the centre.
+
+Relevant to initial question: http://en.wikipedia.org/wiki/Shell_theorem
+Even more fun fact - this is also the orbital period about an Earth-mass point at a distance of the Earth's radius. (Or it's 1/2 of it - can't remember right now, as the alcohol has sapped my science skills).
+It would be 84 minutes, or the time it takes to fall through and back.
+Aaah, of course.
+Thanks for doin' the math :)
+I've always wondered this myself.
+
+If the Earth was influenced by no other outside forces (like the sun), and you were somehow protected (and not squashed by pressure) inside the Earth, would you feel yourself being ripped apart, so to speak?  Or would you feel nothing but weightlessness?
+This assumes the earth is uniformly dense - which it is not.  In fact, most of the mass is contained with in the dense core, and by digging a hole you are moving yourself closer to the core.  So while for a uniformly dense earth gravity would lessen as you go deeper, I believe for the actual earth it increases slightly down to the mid-mantle or so.
+You're absolutely right, in principle.  That's a questionable assumption.
+
+But...
+
+&gt; most of the mass is contained within the dense core
+
+Do you have any numbers to back this up?  *Most* is saying quite a lot, considering the relatively small volume of the core...
+Okay, I concede that I am not sure if the core is or is not greater than 50% of the earth's mass.  However, I do remember that acceleration due to gravity increases as you go down into the mantle, due to the high density of the core relative to the rest of the planet.  A great explanation, with figures of density, mass, and gravity as a function of r is given here: 
+
+http://typnet.net/Essays/EarthGrav.htm
+
+The relevant plot of gravity acceleration is here:
+
+http://typnet.net/Essays/EarthGravGraphics/Plot3.png
+
+The dashed line represents the uniform density Gauss's Law approximation.  
+
+So, we can see that while a uniform density earth would imply decreasing gravity with depth due to Gauss's Law, the actual earth exhibits increasing gravity with depth for depths less than 1/2 earth radius because of the high density core.  
+
+The end result is of course the same at the center: zero gravity.
+Awesome, thanks :)
+
+Summary:
+EDIT:  Actually, you would also still be feeling the gravity from the sun.
+This assumes the earth is uniformly dense - which it is not.
+The answer to your question is that the ball would accelerate *slower* than 9.8 m/s^2.
+The force would linearly grow as you got further from this point, assuming a uniform density of the planet, which it is not.
+Or would you feel nothing but weightlessness?
+But you would be orbiting the Sun hence be in free fall in respect to it.

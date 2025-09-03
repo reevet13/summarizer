@@ -1,0 +1,32 @@
+Here are the selected sentences:
+
+Some computer science courses seem to incorrectly imply that entropy represents the theoretical limit of compression, but that's simply wrong.
+
+If I give a stream of pseudorandom numbers to an entropic coding algorithm, no compression is achieved. However if you found the generating function of the pseudorandom sequence more or less equal to its Kolmogorov complexity, you have ideal compression.
+
+Now of course, Kolmogorov complexity isn't computable, but that doesn't mean we can't approach it, and achieve better compression algorithmically than entropically.
+
+You *can't* approach it with a generalized algorithm. If you're given some specific case, yes, you can usually find some way to take advantage of the structure to shorten compression. But there's no algorithm that compresses an *arbitrary* file better than the entropic limit.
+
+Entropy does not change if you apply an injective function to the variable, it cares only about *distribution* not about values. Kolmogorov complexity is defined for constants and it cares only about *values* not about distribution.
+
+And yes, choosing your alphabet is an assumption of the underlying structure. Encoding the file in a different alphabet might change the structure. But entropy is representation-independent, so an ideal entropic encoding won't care.
+
+PS. I did not downvote you. I am a grad student in complexity theory.
+
+But we do, all the time. The pixel prediction algorithms for image compression, and more advanced fractal compression techniques are by definition "algorithmic" compressions approaching the Kolmogorov complexity
+
+Actually they probably beat the Kolmogorov bounds as well. Image compression algorithms are typically lossy which is why you think they perform better than Shannon predicts.
+
+Here are ten numbers randomly sampled from 1-10,000, try to compress them:
+
+    4326
+    9196
+    7508
+    9969
+    5394
+    1200
+    8938
+    6906
+    5489
+    6614

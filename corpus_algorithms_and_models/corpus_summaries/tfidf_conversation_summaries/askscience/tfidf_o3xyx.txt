@@ -1,0 +1,64 @@
+Original Response:
+I recently watched a fascinating [documentary](http://www.bbc.co.uk/programmes/p00lysc9) about the building of a communications satellite. It had a section on the cooling systems, but it didn't make sense to me.
+
+There seemed to be a phase-change system in place, with the cooling of the hot, sun-facing side done on the cold, earth-facing side. Without air, how is a satellite cooled? Is it purely down to radiation? Is that the only way things cool in space?
+&gt;Is it purely down to radiation?
+
+Yes. Conduction through the satellite itself to the cold side where it then radiates away.
+[deleted]
+Without a tethered solution (which by the gives me an awesome reason to talk about space elevators and their potential for energy exchange, but I'll resist the temptation), yes, radiation is how you cool things in space.
+
+Play with [this equation](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/stefan.html). Stefan-Boltzmann Law. The Law is the law!
+&gt; which by the gives me an awesome reason to talk about space elevators and their potential for energy exchange
+
+Do continue!
+Its really another thread. I'll just say that the alternative to exchanging not just heat, but other forms of energy in space, is via a tether. Imagine a [highly thermally conductive material](http://en.wikipedia.org/wiki/List_of_thermal_conductivities) being connected to your satellite to something else. Now, [Fourier's law](http://stommel.tamu.edu/~baum/reid/book1/book/node100.html) is in play, much more so than Stefan-Boltzmann.
+
+We're talking Graphene and carbon nanotubes, the MOST thermally conductive materials we have... and also the perfect building blocks for a space elevator, a different kind of tether. Graphene has insane electrical transport because it is a semi-metal, or zero-gap semiconductor. Carbon nanotubes have semiconductor properties. So we're talking about the ability to move electricity, heat, and data using these materials, as well as physically ship things into space for pennies on the dollar of current costs.
+
+Ahem, but I digress.
+Yes, recall that there are three methods of heat transfer: conduction, convection and radiation. The first two require matter to be present in addition to the thing transferring the heat. Hence, in a vacuum, only radiation is possible.
+I imagine if a cooling system were required it would only be need for short periods of time and in certain conditions, so it would probably be a liquid nitrogen or some equivalent system contained on the satallite with a storage tank and small tubing grids like a standard radiator, and when the coolant runs out it is serviced or left to operate until it breaks down
+It's also a reason why space warfare will be pretty difficult with beam based weapons as you need a good way of dissipating waste heat from your weapons systems.
+
+[Link to people who have thought about quite a bit](http://www.projectrho.com/rocket/basicdesign.php#radiators)
+Cool, thanks.
+
+What was really impressive in the documentary was how perfectly everything was engineered and how thoroughly it was tested. Testing just one small system took months. After all, once it's launched, you can't make repairs!
+[deleted]
+The mass effect series puts a bit of thought into it as well, where one of the primary detection methods for ships in space is to find thermal signatures, so your ship, which has "cloaking" capabilities, has massive heat sinks inside to hide its heat signature from sensors. It mentions that most other ships route the heat to the skin and to fins/antennae that assist in dissipating. I was really quite impressed with the research the developers and writers put into it.
+Digress more, please! Or link to the thread you *should* start.  I've been an elevator fan ever since I read [Indistinguishable From Magic](http://www.baenebooks.com/chapters/0671876864/0671876864.htm).
+One of my favorite parts of that series is how it seems like they only use one instance of applied phlebotinum (a.k.a. "magic" a.k.a. element zero) and everything else logically follows from that, using science we are aware of now.
+
+I'd like to believe that it's exposing younger kids to hard-ish science in a way that makes them want to learn more.
+Follow up question: Could a satellite be cooled by a process similar to sweating?
+[deleted]
+[deleted]
+Heating and cooling satellites is actually a fairly complicated problem.  However, overheating is rarely one of them.  While waste heat generated inside the satellite has to be dissipated via radiation, solar heating is actually prevented by having reflective thermal shielding on the sides.  Solar panels are built to take the heat, so they do not have any kind of shielding.
+
+The heat that does get into the main body is distributed through ammonia filled heat pipes to keep the panels holding the electronics warm.  Satellites are designed to operate around 0C, but they can operate at a wide range of temperatures.
+Not long term.  Remember that satellites cannot (currently) be re-serviced.  If you were going to dump the waste heat into, say, water, and dump it into space, you could cool down the satellite quickly, but the volume required would be massive and unrealistic.
+Yes but then you would constantly need to resupply the substance that was evaporating away in order for the system to continue operating.
+
+An additional problem would arise considering when you sweat the heat exchange between your sweat and your skin causes the sweat to evaporate, carrying away some portion of heat with it.  It evaporates and presumably lowers in density compared to the surrounding environment and is carried away.  Figuring out a reliable way to carry away this heated gas in space is more complicated considering in microgravity things that are lower in density don't automatically separate.
+
+But this is all really a pointless thought process considering heat emission through evaporation of a substance is not really a viable means of radiating heat in space because of the previously stated need for constant substance resupply.
+Think about how thermoses work. They have a vacuum between the inner and outer parts. Near vacuums are terrible at moving heat, so they can keep warm things from losing heat to the outside world.
+This is referred to as transpiration cooling and is common in jet engine turbine blades using cool bypass air as a coolant. Satellites don't have luxury of exhaustible coolant, so yes it's possible but no it's not feasible.
+The one quibble I had was that they claim that mass drivers are effective at longer range than lasers, when it seems more probably that lasers would keep enough coherence to do damage far enough out that they become possible to dodge, whereas solid projectiles would be much slower and harder to hit with against moving targets.
+Yeah, but OP asked if there are other ways of cooling than radiation, so it's interesting to hear that there are. As you say it wouldn't be any good long term because it spends water/coolant, but maybe for peak use - like the space weapon mentioned in another post?
+
+Or maybe the vapor could somehow be captured after radiating the heat away? I guess vapor has a large surface area, which would be good for rapid radiation.
+When I say volume required would be unrealistic, I meant it.  [Attack Vector Tactical](http://en.wikipedia.org/wiki/Attack_Vector:_Tactical) handles this problem very well.
+
+Lets say you have 1 kg of water, stored as ice at 0C.  1 kilocalorie is enough to heat that block of ice 1 degree (assuming perfect transfer).  1 joule is 2.39×10−4 kcal.  1 joule is 1 watt per second.  The proposed block of ice can dissipate 100 kcal, so that is 418,410 joules, or ~ 420 kilowatt seconds.    Communication satellites are usually about run at about 15kw, so a kg of ice would last around 28 seconds.
+
+Summary:
+Is that the only way things cool in space?
+The Law is the law!
+Conduction through the satellite itself to the cold side where it then radiates away.
+Without air, how is a satellite cooled?
+Heating and cooling satellites is actually a fairly complicated problem.
+Is it purely down to radiation?
+I'll just say that the alternative to exchanging not just heat, but other forms of energy in space, is via a tether.
+Hence, in a vacuum, only radiation is possible.

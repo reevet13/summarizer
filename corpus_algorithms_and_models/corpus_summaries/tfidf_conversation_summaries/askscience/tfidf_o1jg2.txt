@@ -1,0 +1,18 @@
+Original Response:
+... How is this kinetic energy of the group of particles distributed about the average? Each particle surely doesn't have the same energy.
+
+If it's easier to answer, consider a group of identical particles: a pure substance like pure water or solid gold or iron.
+If we're talking about a classical gas, the particles will behave according to a [Maxwell-Boltzmann distribution](http://en.wikipedia.org/wiki/Maxwell-boltzmann_distribution).  (Shown is the distribution of speeds, but the distribution of kinetic energies would just be those values squared.)
+&gt;Temperature is said to be a measure of the average kinetic energy of a group of particles
+
+Well, not exactly.  This would be true if the group of particles you are looking at is at rest.  There is bulk/group velocity (think of fluid velocity, like a fluid moving in a pipe) and random/thermal veloctiy (what stores thermal energy).  Bulk velocity does not contribute to temperature.  For example in a supersonic nozzle, the thermal/pressure energy (enthalpy) is converted into velocity; the flow accelerates and becomes cooler.
+
+Furthermore, the definition of temperature is not that simple.  Temperature is really only defined in equilibrium, and is technically measured by comparing the equilibrium energy distribution to what the distribution would be at a given temperature.  So you'd say something is at 300K if it's energy distribution matches what the distribution should be for that substance at 300K.  In a non-equilibrium distribution, your method of measuring temperature would change the recorded temperature (emission spectra might not match what a thermocouple would say for example).
+
+There are also multiple "temperatures" you can measure.  For example, in gasses, there's a translational temperature, a rotational temperature (if it is mollecular), a vibrational temperature (if it is mollecular), and even electronic temperature (if electrons aren't in their ground state).  These temperatures don't necessarily have to be equal... for example in a shockwave the translational temperature will spike up quickly (it quickly achieves equilibrium and is almost always defined because it's in quasi-steady equilibrium), and drop as other energy modes start "turning on" and absorbing energy.  The distribution of energy for each mode is different, and depends on physical properties of the mollecules.  If you are interested [class notes](http://soliton.ae.gatech.edu/people/jseitzma/classes/ae6050/outline.pdf) from a class I took could be a good resource.
+What type of temperature is it that we refer to colloquially?
+When something is in equilibrium, all temperatures should be the same, although each will have its own distribution.
+
+Summary:
+... How is this kinetic energy of the group of particles distributed about the average?
+When something is in equilibrium, all temperatures should be the same, although each will have its own distribution.

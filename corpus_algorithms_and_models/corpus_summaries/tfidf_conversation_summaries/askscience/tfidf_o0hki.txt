@@ -1,0 +1,21 @@
+Original Response:
+I mean why are people scared of things such as clowns and such when they clearly know they're not in any real danger?
+Phobias are an overreaction of your sympathetic nervous system, which controls your fight-or-flight response. We have evolved to be cautious of situations that could cause danger, such as a nearby predator. Since it is a lot more costly to ignore a predator than run from nothing, there is a certain likelihood of real danger that we respond to (such as running from a noise if you think there is a 1 in 100 chance that it was made by a predator). Phobias are oversensitivities to stimuli that send you into a fight-or-flight response. Some of them are understandable (fear of snakes given that some are venomous), while some are farther from a normal response (such as a fear of clowns).
+Look at it this way:  in evolutionary terms, which is more likely to increase fitness, by which is meant the surviving  long enough to produce more offspring (on average) than one's neighbour?
+
+A) A fear of snakes, that leaves one unable to function around them, even though most are harmless, or
+
+B) A lack of any particular feeling about snakes, even though a lot of them can kill you.
+
+Evolution has often tended to prefer type I error over type II, as the first one might make life difficult, but the second can potentially end it.
+Phobias are formed as conditioned responses, in the same way John Watson created the phobia of 'white fluffy objects' in [Little Albert](http://www.psychology.sbc.edu/Little%20Albert.htm). To simplify it greatly, a phobia is created when negative associations are paired with a particular stimulus, like clowns or spiders. It is for this reason that phobias can be quite easy to get rid of, through the use of [systematic desensitisation](http://en.wikipedia.org/wiki/Systematic_desensitization).
+
+Phobias are simply a byproduct of our ability to learn. There's probably no evolutionary purpose behind the particular phobias that we develop, in the same way that there's no evolutionary purpose behind what kind of music we tend to enjoy, or what our favourite colours are. We learn these things through the experiences we have in our lives. 
+
+Some people do argue that some phobias are innate, but the evidence is currently shaky at best. We know at least that there is no evolved fear of specific things such as snakes or spiders in a strict sense (e.g. a fixed-action pattern), given that children have no qualms about playing with snakes or spiders and that the patterns of responses demonstrated in people when presented with these stimuli are not like standard instinctual responses. Instead some people argue that some associations come "[prepared](http://www.sciencedirect.com/science/article/pii/S0005789471800643)" , so the idea is that although learning is required for the phobia to develop, there is some evolutionary pressure to be able to quickly learn particular associations. Seligman's ideas of 'preparedness', however, were pretty quickly shot down by other researchers in the following years, but if you were looking for an evolutionary explanation for phobias, then the idea that some stimuli start off more salient than others would be the best place to start. 
+
+Before asking what the evolutionary purpose is for something though, it might be worthwhile to check whether the behavior is evolutionary or not.
+
+Summary:
+Phobias are oversensitivities to stimuli that send you into a fight-or-flight response.
+We learn these things through the experiences we have in our lives.

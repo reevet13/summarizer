@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the original text:
+
+Well, there's no evidence to suggest that cell phones *do* cause cancer, and there's no plausible mechanism (that I'm aware of) by which they could.
+Both cell phones and cordless phones transmit radio frequency (RF) signals, which is a form of non-ionizing radiation.
+Frequencies higher than the ultraviolet region (UV, x-ray, gamma, etc.) have enough energy that they can screw up molecules in your body.  Below this energy, it just doesn't happen.
+And RF signals are way, way below this energy.
+Check **[this](http://mynasadata.larc.nasa.gov/images/EM_Spectrum3-new.jpg)** out.  RF signals are in the "Radio" portion of the spectrum, all the way on the left.
+
+Let me know if you'd like me to extract more!

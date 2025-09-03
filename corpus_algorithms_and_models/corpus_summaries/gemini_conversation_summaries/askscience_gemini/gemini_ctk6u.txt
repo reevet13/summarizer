@@ -1,0 +1,8 @@
+No. Entanglement doesn't work that way.
+Entanglement more or less says, well... imagine you have two quantum coins A &amp; B, each in a superposition of both heads and tails.
+Entanglement is basically a way to remove some of those possibilities, so that instead it becomes, for example, a superposition of HH and TT.
+Correct. Entanglement effects are generally observed by, after the fact, bringing the entangled objects (or data about them) together.
+You don't alter spin, you determine the spin.
+The idea behind entanglement is that certain properties of a system have to be conserved.
+This is the information that travels faster than the speed of light.
+Einstein is safe because you can't transfer information via entangled particles.

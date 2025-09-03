@@ -1,0 +1,81 @@
+Original Response:
+Seems this could be multi-fold beneficial:  
+  
+1. Remove miners' incentive to use AsicBoost covertly, and without segwit-activation, thus increasing global segwit adoption.  
+  
+2. Desuade the transfer of hashpower to the BCH chain, possibly re-uniting the eco-system to some extent.  
+  
+3. Saving electricity costs and show the derisive media / eco-nauts that Bitcoin can make strides for sustainability.  
+  
+4. This could be a prime use-case for the B Foundation *see below  
+  
+
+  
+The only downside I can see is reduction of the irretrievable sunk cost due to electricity expenditure, but please contribute if I am missing something.  
+  
+The B Foundation twitter:  
+  
+https://twitter.com/TheB_Foundation  
+
+I've thrown together a quick poll on my twitter if you care to vote, but don't feel obliged:  
+   
+https://twitter.com/Jaw709/status/1046311678948904960  
+  
+______________________________________________________________  
+   
+edit: removed a snipe @BCH because we're all from the same genesis block after-all.
+The authors have already allowed the use under the Blockchain Defensive Patent License.
+open-source? no license? Can you post a link? Thank you
+https://www.asicboost.com/patent/
+yep, licensing.. This would be open-source, no cost-to-entry
+
+edit:  not licensed monetarily, you just have to surrender your patents to the "Blockchain Patent Defense License"
+It is no cost, as long as you stick to the terms of the BDPL - which basically means you don't attempt to sue any BDPL member for any other patent violations, and if you do, you lose your right to use the BDPL patents.
+
+This is better than open source. It's copy-left.
+The only cost to entry in this case is that you have to add your patents to the defensive pool. IMHO if we as a society have patents already this is the way to go. I'd rather have none but hey, take what you can get while fighting the big fights.
+Why are miners (not-segwit-activated) still using it covertly then?
+Because they are not willing to submit their own patents to the BDPL
+So it may still be worth-while for large segwit-activated mining pools with their own patents? hmmm  
+  
+Also as I say below:  
+  
+   *I don't know the large mining pools well enough to know the leverage of their existing patents, but certainly securing this patent and open-sourcing, would still be beneficial.* 
+
+It would still achieve all the checkpoints above with liberation from the "Blockchain Patent Defense License"
+I'm still in favor.. I don't know the large mining pools well enough to know the leverage of their existing patents, but certainly securing this patent and open-sourcing, would still be beneficial.
+No. Why would you want to give an even bigger advantage to someone who already has an advantage (state enforced monopoly)?
+
+The idea is to cripple those who are attempting to use the state to protect their own "inventions" whilst simultaneously stealing the work of others.
+Well we clearly disagree on this one. I would say the short-term (and long-term) gains by liberating this particular patent through crowd-sourcing, in this ecosystem and need for adoption, greatly out-weighs the longer-term ideological concerns. And purchasing is not stealing.. 
+  
+edit:  
+  
+Also, what if I have no patents to play quid-pro-quo with, can I use it for free? What's the threshold if I do? What patents are worthy? TRULY Open-source it AND remove all barriers to entry by crowd-funding its purchase.
+SegWit adoption has nothing to do with miners not using AsicBoost. SegWit adoption is low because large providers and wallet software still don't support it.
+
+People mine on BCH because it is profitable for them, not because they can't use AsicBoost or because they believe in "satoshi's vision". It is profitable for as long as the BCH propagandists can maintain the cult following.
+
+The BDPL is the right way forward for promoting innovation. It means people who want to work behind secrecy will get stung, whilst people who want to work as a community will reap the benefits. This is precisely what we need in Bitcoin.
+u/DisastrousCheesecake (in response to u/Jaw709):
+
+&gt; SegWit adoption has nothing to do with miners not using AsicBoost. SegWit adoption is low because large providers and wallet software still don't support it.
+&gt; 
+&gt; People mine on BCH because it is profitable for them, not because they can't use AsicBoost or because they believe in "satoshi's vision". It is profitable for as long as the BCH propagandists can maintain the *cul*t following.
+&gt; 
+&gt; The BDPL is the right way forward for promoting innovation. It means people who want to work behind secrecy will get stung, whilst people who want to work as a community will reap the benefits. This is precisely what we need in Bitcoin.
+
+Looks like certain moderators are secret members of that *cul*t and they want to protect it.
+If you have no patents, you can still use BDPL technologies, as long as there is a commitment that if you do get patents you also make them available under the same license.
+
+If you get patents and you wish to enforce them aggressively, you forfeit your right to use anything from the BDPL patent pool.
+"liberating" the patent is one thing, but you then need the resource to actually put the asics in peoples hands to make a difference, and by looking at the community breaks down over discussions of simple scaling solutions then it's not likey to happen. In the since you "liberated" the patent and now its all on on github to see, Chinese miners and hardware manufactures who already have the capability to produce the hardware are mass manufacturing  them for themselves or to the market at a premium
+
+Summary:
+SegWit adoption has nothing to do with miners not using AsicBoost.
+* 
+
+It would still achieve all the checkpoints above with liberation from the "Blockchain Patent Defense License"
+The authors have already allowed the use under the Blockchain Defensive Patent License.
+People mine on BCH because it is profitable for them, not because they can't use AsicBoost or because they believe in "satoshi's vision".
+SegWit adoption is low because large providers and wallet software still don't support it.

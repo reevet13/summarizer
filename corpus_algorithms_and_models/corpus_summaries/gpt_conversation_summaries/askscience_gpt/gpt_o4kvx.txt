@@ -1,0 +1,11 @@
+Hey I have used one of these and I am part of a group engineering and open hardware EEG. I can tell you it shows very generalized data which is fun for trivial tasks and biofeedback, but it isnt as versatile as something like the Emotiv headset. The Neurosky only measures the scalp in general and cannot differentiate any specific areas and to be quite honest it is amazingly uncomfortable. 
+
+When it is hooked up to a person it does really well at cancelling noise. I gutted a neurosky and it has decent filter and digital signal processing takes care of the rest. Its filter method is differential though and requires a clean lead on you ear to cancel the mainline noise. 
+
+With any electro-something-ography, you must be careful not to over-interpret. 
+
+Remember, these things tell you about where electrical potential differences occur... if you have lots of electrodes you can be quite specific about where & how much difference. With only one electrode pair & a huge space between them, this is exceptionally non-specific. 
+
+I would be hesitant to tell someone that a single electrode recording actually says anything about "how hard they're concentrating" 
+
+We aren't measuring potential difference per se in an electro encephalagraph. So the difference isn't measured from electrode to electrode. Instead we compare the electrode to ground to find the frequency at which the neurons are firing.

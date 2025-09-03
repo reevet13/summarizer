@@ -1,0 +1,162 @@
+Original Response: 
+[Nature Digital Medicine published our study last week, and it is open access](https://www.nature.com/articles/s41746-018-0040-6).
+This publication had some delay after the [FDA approved the AI-system, called IDx-DR, on April 11 of this year](https://www.fda.gov/newsevents/newsroom/pressannouncements/ucm604357.htm).
+After the approval, many physicians, scientists, and patients had questions about the safety of the AI system, its design, the design of the clinical trial, the trial results, as well as what the results mean for people with diabetes, for the healthcare system, and the future of AI in healthcare.
+Now, we are finally able to discuss these questions, and I thought a reddit AMA is the most appropriate place to do so.
+While this is a true AMA, I want to focus on the paper and the study.
+Questions about cost, pricing, market strategy, investing, and the like I consider to not be about the science, and are also under the highest regulatory scrutiny, so those will have to wait until a later AMA.
+I am a retinal specialist - a physician who specialized in ophthalmology and then did a fellowship in vitreoretinal surgery - who treats patients with retinal diseases and teaches medical students, residents, and fellows.
+I am also a machine learning and image analysis expert, with a MS in Computer Science focused on Artificial Intelligence, and  a PhD in image analysis - Jan Koenderink was one of my advisors.
+1989-1990 I was  postdoc in Tokyo, Japan, at the RIKEN neural networks research lab.
+I was one of the original contributors of ImageJ, a widely used open source image analysis app.
+I have published over 250 peer reviewed  journal papers (h-index 53) on AI, image analysis, and retina, am past Editor of the journals IEEE TMI and IOVS, and editor of Nature Scientific Reports, and have 17 patents and 5 patent applications in this area.
+I am the Watzke Professor of Ophthalmology and Visual Sciences, Electrical and Computer Engineering and Biomedical Engineering at the University of Iowa, and I am proud to say that my former graduate students are successful in AI all over the world.
+[More info on me on my faculty page](https://medicine.uiowa.edu/eye/abramoff).
+I also am Founder and President of [IDx](https://www.eyediagnosis.net/), the company that sponsored the study we will be discussing and that markets the AI system, and thus have a conflict of interest.
+FDA and other regulatory agencies - depending on where you are located - regulate what I can and cannot say about the AI system performance, and I will indicate when that is the case.
+[More info on the AI system, called labelling, here](https://docs.wixstatic.com/ugd/ea14f7_410f793af1504f46a9bf76d20a3b4d02.pdf).
+I'll be in and out for a good part of the day, AMA!
+So how does it work in practice?
+You feed the software a bunch of medical data and it spits out a probability of a positive diagnostic?
+This is how I saw it years ago.
+But it turns out for an autonomous diagnostic AI to be safe and effective, you need to take into account where it is used and how you acquire the "bunch of medical data".
+Because we focus on bringing specialty diagnostics to primary care it needs to work in primary care - with the staff already there.
+&amp;#x200B;
+
+So that actually required an assistive AI coupled with a robotic camera to help primary care staff that never took images of the eye before take high quality images.
+&amp;#x200B;
+
+Again because of the environment it will be used in, a probability output was not deemed appropriate, so it actually outputs a clinical decision with a referral recommendation.
+Wow, that's impressive.
+So you use the robotic system to get good quality data and it actually takes a decision.
+Further questions, does is it pose any issues with the doctors in primary care who might feel "overruled" by a machine?
+A cliche of GP is that they are their own boss and rather like the independence.
+Was it hard to get data for the machine learning part?
+No issues with primary care docs, because they typically feel uncomfortable making this decion.
+So they are used to referring these patients to specialists like me - and now they can do it while the patient is with them.
+That is why I used the term "diagnostic superpowers" for the primary care provider (can be RNPs also).
+&amp;#x200B;
+
+There are different views on the training data for machine learning - we focus on high quality data rather than large quantities of data - though we still used over 1 million samples to train the detectors.
+What if there is an eyedoctor present that disagrees with the AI?
+Is the doctor overruled?
+Are GPs, in general, rendered silent around your AI?
+They are effectively being rendered obsolete (and comparatively *dangerous*) means of diagnosis with the writing on the wall.
+How do GPs generally view the AI?
+I would imagine they'd be blown away at first and overwhelmed by the positive outcomes before the dawning realization hits that everyone's jobs have to shift entirely because of this kind of tech.
+Good question.
+The AI system is not perfect, just as doctors are not perfect - as you can see in the discussion section of the paper.
+SO this will happen.
+There are two real-world scenarios in which this can happen with the autonomous diagnostic AI as currently cleared:
+
+1. more than mild diabetic retinopathy is detected by the AI system, patient is therefore referred by primary care to an eye care specialist such as me, who then concludes the retina is normal - this will happen in about 9% of cases given the 90.7% specificity.
+Patient hears that everything is OK after all and that they need to be reexamined in 12 months (in the US at least)
+2. more than mild diabetic retinopathy is not detected by the AI system, patient is not referred and just happens to be examine by an eye care provider for another reason who discovers diabetic retinopathy.
+This will happen in about 13% of cases overall, given the 87.2% sensitivity, and we saw this in about 2.6% of cases with the worst disease given the 97.4% sensitivity to vision threatening disease.
+edited typo.
+I'm a FM doc-in-training.
+AI does not scare me.
+There is more than enough work to go around.
+At the end of the day, for me personally it is not about "getting the diagnosis right" but much more about the relationship with my patients and helping them through the various events and stages of their lives.
+An AI that takes over the 'hard medicine' part of my work would simply free me to work more on the relationship part, and helping my patients in-between times (you know, the hard stuff like actually changing diet and lifestyle).
+Hell, I might even be able to do housecalls, wouldn't that be amazing.
+An AI -- by definition -- will never take over the vitalist aspects of medical care, for those patients who want it.
+For the scientific/non-vitalist aspects of medical care, I'll take all the help I can get.
+That said, if you're a GP who only does algorithm medicine (as many are) yes, AI might be a concern.
+Most aren't concerned, but I feel that is because they do not appreciate the scale and capability of the technology at play.
+(Perhaps more importantly, where the technology will be in a few more years.)
+This is very interesting.
+Many people don’t understand that as a huge part of the role of a specialist is data collection.
+As a psychiatrist, interacting with the patient is so much of how I get data that I can’t see yet what kind of automation could replace my consults.
+Maybe a virtual reality approach, at some point.
+I can understand entirely the 'freeing you up to focus on the client relationship' aspect of things - however, the fact that you're there in the first place is the part that would shift.
+Social workers can take care of client's concerns when it comes to questions no one can answer as well as someone who spent 10 years in med school (perhaps better).
+I don't understand why this would or should scare GPs?
+First of all it still has to be administered by a GP and doctors (probably rightfully) have a cartel/monopoly on giving medical care and advice, by law.
+As a result this would only make GPs more productive and additionally able to focus more on the truly difficult cases or the ones requiring a lot of personal attention.
+Alternatively, it would help them spend more time hearing out patients that have complex problems and giving more personalized care while letting the bulk of ordinary cases be handled by this AI.
+Eventually if this was everywhere and made GPs much more efficeint, we would want a few less GPs but this is not a problem as there are way too few GPs at the moment anyway and this shortage is only growing.
+If this brings down the cost of healthcare, this is good for America and good for the world.
+Currently we have no idea what to do when the current population bubble all gets old and we don't have enough young people to take care of them.
+However if you make the labor of taking care of the elderly more affordable and more efficient, you don't need as many people to do it and thus our societies could continue to function.
+[removed]
+My wife is a psychiatrist so I will refrain from commenting!
+Good points!
+There's a lot of progress to be had, and hopefully with enough technology perhaps a 1:1 ratio between helpers and facilitators:patients or even better could result.
+&gt;  however, the fact that you're there in the first place is the part that would shift.
+Oh absolutely.
+I have no illusions about what my status or clientele will be once AI becomes the dominant prescriber and implementer of medical care.
+At the same time, however, AI cannot cover *everyone.
+*  There will always be a large population of technophobes, as well as people who live in areas too rural or poor to support the use of advanced technology.
+I didn't sign up for the paycheck, so at the end of the day if I'm paid in dollars, bitcoin, or fresh chicken eggs, I'll be perfectly happy.
+There is an innate human drive to seek counsel, solace, and healing from a doctor figure.
+This is at least thousands of years old.
+Considering the ability of (good) veterinarians to calm animals while working on them, it probably predates us as a species.
+Computers will never fill that niche, any more than ebooks will ever completely replace real books.
+Speaking of books, the market pricing of ebooks is the principle reason I am completely not afraid of AI.
+If you go on Amazon, the price of a Kindle book is often just a few pennies cheaper than the actual book.
+You can usually buy the used book for much cheaper.
+Ebooks should be almost free, but they are not, because of arbitrary fees set by publishing houses.
+AI medicine will also have very large fees associated with it.
+We will be able to provide medical care more effectively and more cheaply than we can right now, but the costs associated with technology-based medical care will be high.
+Very high.
+High enough that I'll always have a job and more work than I will ever accomplish.
+We're still trying to convince people to use *vaccines* which are a demonstrably safe form of medical care that has been around for a century.
+If this many people don't trust vaccines, how many more will be hesitant to trust a robot over a family doctor?
+OP said this a number of times throughout the AMA so i'll reiterate.
+This does something that the GP can't, it doesn't make the GP obsolete, it's a tool they use on the patient instead of sending them to a specialist.
+They couldn't diagnose these conditions in their office in the first place and now they can, so GPs are certainly better off.
+It can be argued that it could make specialists obsolete but for now it's a step to free up specialists to deal with, well... more specialized cases.
+If an AI could ever entirely replace a medical specialist then it's reasonable to assume that most human activity could be entirely replaced as well so there would probably be more pressing issues at that point.
+Well said.
+A small number of GPs do do the retinal exam in their practice, but the vast majority does not feel comfortable doing it.
+Maybe "diagnostic empowerment" for GPs is what it does.
+How does that compare with other diagnostic methods in terms of the amount of false positive/negative results?
+[removed]
+&gt;While the FDA trial was not designed to compare, here is what is in the paper:  
+&gt;  
+&gt;"The results of this study show that the AI system in a primary care setting robustly exceeded the pre-specified primary endpoint goals with a sensitivity of 87.2% (&gt;85%), a specificity of 90.7% (&gt;82.5%), and an imageability rate of 96.1%.
+Sensitivity is a patient safety criterion, because the AI system’s primary role is to identify those people with diabetes who are likely to have diabetic retinopathy that requires further evaluation by an eye care provider.
+Previous studies have shown that board-certified ophthalmologists that perform indirect ophthalmoscopy achieve an average sensitivity of 33%,\[27\] 34%,\[28\] or 73%\[9\]  compared to the same ETDRS standard."
+(quoting myself from another post)
+Sorry, I should have caught that from other posts.
+But still, those are benchmark numbers as I understand.
+Do we have data on the relative performance of your AI against doctors in general?
+Not going for criticism here, just wondering if we're looking against a benchmark or reported results.
+Not sure what you mean by benchmark.
+In our study we took a sample of 900 people with diabetes.
+Our paper cites studies of other sets of people with diabetes, showing how ophthalmologists perform (the 33%, 34%, 73% sensitivity) on detecting diabetic retinopathy according to the same reading center standard.
+Ophthalmologists are highly specialized physicians whose expertise it is to diagnose eye disease including diabetic retinopathy.
+There are studies of non-ophthalmologists performing similar tasks, and typically their performance is lower than that of ophthalmologists.
+Does that answer your question?
+Yes, I should have been more specific in my question.
+I was wondering how your results compared to the average opthamologist.
+But you answered it very well!
+Edit: A little typo.
+Why is your system contraindicated for women who are pregnant?
+Isn’t a camera the only patient facing part of the Dx apparatus?
+&gt; Why is your system contraindicated for women who are pregnant?
+Isn’t a camera the only patient facing part of the Dx apparatus?
+IDx-DR is intended to conform to the AAO preferred practice pattern for managing diabetic retinopathy.
+Gestational diabetes requires different management for diabetic retinopathy and the IDx-DR outputs do not align.
+
+Summary: 
+AI does not scare me.
+Yes, I should have been more specific in my question.
+I don't understand why this would or should scare GPs?
+How do GPs generally view the AI?
+This is how I saw it years ago.
+Sorry, I should have caught that from other posts.
+Maybe "diagnostic empowerment" for GPs is what it does.
+So they are used to referring these patients to specialists like me - and now they can do it while the patient is with them.
+But still, those are benchmark numbers as I understand.
+So how does it work in practice?
+I was wondering how your results compared to the average opthamologist.
+I'll be in and out for a good part of the day, AMA!
+Do we have data on the relative performance of your AI against doctors in general?
+For the scientific/non-vitalist aspects of medical care, I'll take all the help I can get.
+AI medicine will also have very large fees associated with it.
+But you answered it very well!
+Are GPs, in general, rendered silent around your AI?
+An AI -- by definition -- will never take over the vitalist aspects of medical care, for those patients who want it.
+That is why I used the term "diagnostic superpowers" for the primary care provider (can be RNPs also).

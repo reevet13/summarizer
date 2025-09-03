@@ -1,0 +1,64 @@
+Original Response:
+Tried to google it but didn't know exactly how to word the question to get a legit answer.
+
+Also, are there some objects that glow longer than others? 
+
+Thanks guys
+I believe the opposite happens when you put a glow in the dark toy in the light, it charges up.
+There is a phenomenon called [photobleaching](http://en.wikipedia.org/wiki/Photobleaching), in which a molecule is irreversibly altered under the presence of light such that its fluorescent property is lost. However, I'm unsure as to the applicability of this to phosphorescence.
+
+To answer your second question, yes, different phosphorescent molecules exhibit different [lifetimes](http://en.wikipedia.org/wiki/Fluorescent#Lifetime) and [quantum yields](http://en.wikipedia.org/wiki/Quantum_yield).
+Yes, but it depends on your toy.
+
+If its a glow stick then it is caused by chemiluminescence. A chemical reactions that produces mostly light and little heat. Warmer environments speed up the reaction that creates the light. If you heat up a glow stick it gets brighter, [but does not last as long.](http://www.youtube.com/watch?feature=player_detailpage&amp;v=RH8TcwsHsvc#t=123s)
+
+If it lights up in the dark time after time then the effect is called phosphorescence. These molecules absorb/emit light very slowly. Instead of doing it in the nanosecond span, it does it over minutes or hours. These molecules will degrade over time due to light. Have you ever seen the interior of a car that spent too many years in sun or plastic trash that has been outside of a few seasons? They loose color as they degrade. Same thing will happen if you leave it in the window sill too long. But, if you only show it in the dark it doesn't have any time to "charge" and won't glow. Gotta have fun some how. Don't really worry about it.
+&gt;for too long
+Thanks for your response but could you elaborate a bit more? 
+
+I have a ball we use to play fetch called "buddy glow ball" and I like to put it on the lamp lightbulb but I tend to forget its there (the lightbulb never gets too hot). My SO complains that its already beginning to lose its glow and I was curious about how much of a concern that should be and if its possible or if he's more likely imagining things. 
+
+I guess what I'm asking is if the molecules are altered quickly (within hours, days?) or slowly (weeks, years?) and how much a typical person could affect a typical glow-in-the-dark object
+So, the things that make a glow in the dark toy glow are called [phosphors](http://en.wikipedia.org/wiki/Phosphor#Glow-in-the-dark_toys). That's a generic term, but the most common one is Zinc sulfide with a 5 ppm copper activator.
+
+When you leave the toy in the light, [the energy is stored in a crystalline lattice](http://www.britannica.com/EBchecked/topic/351229/luminescence/68954/Centres-activators-coactivators-poisons). Closed system, photons flowing in and out, it should be pretty much permanent, right?
+
+Not exactly. It's that copper activator. Through repeated use it can experience polarization. I'm trying to remember if this is covered by [Fajans' rules](http://en.wikipedia.org/wiki/Fajans%27_rules) or if it's another issue all together. At any rate, the more energy you pass through the system, the more chances for polarization to happen.
+
+I would recommend a series of controlled experiments. A standard charge method, a small 'dark room' box, and weekly pictures. Two of the same toys, brand new, one being 'lamp charged' and the other as a control. Within a few months you should see the difference.
+Polarization of what? How does that affect it?
+As I said, the copper activator. If you read [the link](http://www.britannica.com/EBchecked/topic/351229/luminescence/68954/Centres-activators-coactivators-poisons) that I provided regarding the crystalline lattice, you'll see how it works.
+
+Any ion that needs to pass an electron in a recharging situation wants to be able freely pass them in every 'direction' within the lattice. If you instead build up extra charge density through polarization, you're moving more towards a covalent bond. You don't WANT stability in a matrix designed to pass electrons, so this is a bad thing.
+It's not the same phenomenon as, for example, overcharging a Ni-Cd battery. Every photon that your molecule absorbs has a chance of photobleaching it - a light-activated chemical reaction that changes the molecule such that it doesn't phosphoresce. So each time you put it under the light, it will degrade a little.
+
+I think your SO's concern is that if you leave it next to the lamp for so long, you're degrading the molecule for no gain, as it is likely fully "charged" - meaning the group of molecules have been excited to some steady state where the number of excitations matched the number of relaxations.
+
+As [mentioned by soft_ink below](http://www.reddit.com/user/soft_ink), you can play around with the kinetics by altering the temperature. To make it last longer you can decrease its temperature.
+
+[rrauwl](http://www.reddit.com/user/rrauwl) goes into more specifics into the common zinc sulfide / copper system. [This article](http://pubs.acs.org/doi/abs/10.1021/ed073p1048) describes a bit of the chemistry behind it.
+
+I'm getting ready for work right now. I'll provide a summary of the article when I have time.
+You can test this, if you have another of these toys, by keeping one half lit for a long time (a week? a month? something) and covering the other half, then seeing if you can notice a difference in the brightness of the two sides after a uniform charge.
+&gt;I think your SO's concern is that if you leave it next to the lamp for so long, you're degrading the molecule for no gain, as it is likely fully "charged" - meaning the group of molecules have been excited to some steady state where the number of excitations matched the number of relaxations.
+
+That is likely his concern. I don't know if you answered this already because I know nothing about chemistry but does that mean my SO is right?
+
+Sorry again if I'm sounding like an ass and asking an already answered question!
+No problem!
+
+Yes, your SO is right in that photobleaching (or phosphor degradation) is a real phenomenon and can cause your ball to lose its glow (as more and more molecules are rendered inactive). However, I don't know about the _rate_ at which this occurs - especially for your particular ball - so I can't comment on whether it is _significant enough to be a cause for concern_.
+
+So I'm afraid there's still plenty of room for disagreement! Sorry if I can't give you a definitive answer.
+Naw, that's just enough for him to feel justified in nagging me ;)
+
+I guess we'll have to test it out someday! Thanks so much for the info!
+
+Summary:
+So each time you put it under the light, it will degrade a little.
+That is likely his concern.
+I believe the opposite happens when you put a glow in the dark toy in the light, it charges up.
+These molecules will degrade over time due to light.
+These molecules absorb/emit light very slowly.
+If you heat up a glow stick it gets brighter, [but does not last as long.
+As I said, the copper activator.

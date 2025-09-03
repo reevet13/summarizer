@@ -1,0 +1,84 @@
+Original Response:
+Stop fucking around unless you want your Bitcoin to decrease in value.
+All the miners have upgraded already, so there's no more threat of a chain split.
+I'm curious as to how you know this ?
+Which part? I made two claims.
+Yes
+That all the miners have upgraded ...
+The part where you said "all the miners have upgraded already". 
+
+Afaik, recent count is 21% of nodes have upgraded. So I'm wondering how you seem to know more than others. 
+
+
+Also, a shitty habit, to make random claims, without including a source.
+Agreed, actually it is more dangerous everyone running the latest patch. What if there is an exploit in the 16.03 version.  I know it is minimal risk but there is still risk.
+We are at 46% for full BTC Core nodes. I did mine once the new version was posted on [bitcoin.org](https://bitcoin.org) You can see the stats [here](https://coin.dance/nodes) (quite a bit down the page).
+As of Sept 20th (4 days ago at time of writing), over 50% of the hashrate has upgraded. See the notice published by Bitcoin Core:
+
+[https://bitcoincore.org/en/2018/09/20/notice/](https://bitcoincore.org/en/2018/09/20/notice/)
+
+&amp;#x200B;
+
+&gt;At this time we believe over half of the Bitcoin hashrate has upgraded to patched nodes. We are unaware of any attempts to exploit this vulnerability.
+
+&amp;#x200B;
+
+&amp;#x200B;
+Hi, happy cake day!
+
+I never claimed that ALL nodes have upgraded, just that mining nodes have upgraded.
+
+My apologies for not including my source in the original comment. See the notice published by Bitcoin Core on Sept 20th, in which they've confirmed that over 50% of mining nodes have upgraded: [https://bitcoincore.org/en/2018/09/20/notice/](https://bitcoincore.org/en/2018/09/20/notice/)
+
+&gt;At this time we believe over half of the Bitcoin hashrate has upgraded to patched nodes. We are unaware of any attempts to exploit this vulnerability.
+
+Not that it matters, but you're doing the same thing you accused me of doing. You say that only 21% of nodes have upgraded. What's your source?
+Well, if someone wanted to attack they could still do some minor chain reorgs for unupgraded nodes
+That says 50%, you said all?
+dont trust, verify!
+Rounding
+Lol
+I misspoke. To clarify, it was 50% as of 4 days ago, I'm assuming that the number is much higher now. Regardless, &gt; 50% is all that's theoretically needed for safety.
+[deleted]
+He did do the same thing.. haha
+but the reason we need to upgrade in the first place is because we trusted the devs and not verify the code.
+You always can analyze the source code to check for exploits.
+I mean not the fix as such, just something else that has created a vulnerability in 16.x for instance.  
+The new exploit found was made in 2 minor versions before anyone spotted it.  I doubt simpletons like myself would spot zeroday exploits without spending all our time reviewing the code.
+Just seems safer if there is a spread of patched versions running rather than everyone running leading edge nodes.
+trivial for users running a full node to check source code /s
+"At this time we believe", should hardly be thrown around as something real or factual. It's literally just a guesstimate, or in more broad words, their opinion. 
+
+My 21% was older, from a source I had a few days ago. 
+
+https://bitnodes.earn.com/nodes/?q=Satoshi%3A0.16.3
+
+It's currently at 28.3% on the most recent update. 
+
+
+
+Down below on this second link you can see that 48% of all nodes are immune to the bug, so the fun is definitely far from over, given even beyond 50%, which we haven't reached yet, it still kinda sucks for the nodes that are exposed. Still weakens the network, if I understood the issue right. Cuts down all relevant nodes in half, in a way, correct me if that's wrong. 
+
+https://coin.dance/nodes#nodeVersions
+
+
+
+Huge fuckup by Core. Definitely makes you re-think original statements that were made confidently and clearly, that Bitcoin is immutable. Clearly it isn't really. 
+
+
+Sure, the worst is over now, probably, but who knows what's to come. If Core fuck ups another time like this, and some bug is found and not revealed, who knows what will happen. 
+
+
+e: thanks for the cake day, didn't even see. Do I get free Bitcoin now? :=)
+
+
+e2: I'm really not claiming to be all too deep in the issue. Truth is I was under the impression that nothing should ever be *REQUIRED*, because Bitcoin was supposed to be immutable. If adaptation by the network is a requirement, it's not immutable.
+I didn't claim it is trivial.
+
+Summary:
+That all the miners have upgraded ...
+You say that only 21% of nodes have upgraded.
+I didn't claim it is trivial.
+I never claimed that ALL nodes have upgraded, just that mining nodes have upgraded.
+My 21% was older, from a source I had a few days ago.
+That says 50%, you said all?

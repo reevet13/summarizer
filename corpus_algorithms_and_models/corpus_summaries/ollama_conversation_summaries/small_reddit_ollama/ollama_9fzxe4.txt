@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words:
+
+You may notice sometimes that there is a `#` symbol somewhere in the URL (web page address at the top of your web browser). It's known as an anchor. Notice when you click on a link in the index, it jumps a spot lower down and URL contains `#something` at the end.
+
+Browsers consider anchor links to be their own entry in the history record. So, when you go [back], it returns you to the previous state It will continue recording any number of anchor links clicked or entered consecutively as another state.
+
+Nasty websites can use this behavior to seemingly trap you into staying on their website by programmatically manipulating anchors; basically, simulating clicks on numerous anchors consecutively so that the browser "thinks" its going back through the history of anchors you clicked.
+
+There are other ways this can be done. Javascript is the programming language that implements dynamic functionality on a web page. There are built-in methods for manipulating and capturing the history state that are very useful for dynamic pages, but can be used to trap users a black hole of back-clicks.
+
+The best way to solve it from the user point of view, is to kill the process from the Task Manager (as from memory this won't trigger the unload event).

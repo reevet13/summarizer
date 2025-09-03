@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+I recently got this computer and I've been having this issue and I don't know how to fix it. I've looked it up in some forums online but I can't seem to find any solutions.
+
+So the issue is, if I have my computer's brightness set as let's say 0%, the lowest, whenever I open certain games the brightness changes to max.
+
+I've tried some games to see if it would be the game's issue (even tho I don't even that many installed right now) and the issue happens consistently in games like Overwatch and Dark Souls 3. It does NOT happen in games like Battlerite or Warframe. So it definitely doesn't happen in all games.
+
+In the video, the brightness is set to 0%, I alt-tab into Overwatch in fullscreen, the screen flashes and the brightness goes up, I change it to windowed mode and the brightness goes back down to 0%, now when it goes back to fullscreen it actually remains in 0%, I have to alt-tab back out and in again for it to happen again.
+
+Any help would be appreciated.

@@ -1,0 +1,23 @@
+Here is the extracted summary:
+
+CPU: i5 6500
+
+GPU: Zotac GTX1060 AMP edition
+
+Mobo: Gigabyte H170 ddr4
+
+Ram: Kingston ValueRam x1 8gb 2133mhz ddr4
+
+PSU: 500b EVGA Bronze
+
+Storage: Blue WD 1TB HDD &amp; 128gb Sandisk SSD
+
+You should get a 1080 or 1080ti for 4k60fps, everything else can probably stay, maybe get another stick of ram.
+
+Yeah, 600W is the recommended/minimum wattage for a 1080ti.
+
+At 4k I don't think so [i5 6500] may struggle on some CPU intensive games.
+
+At 4k the gpu will be the limiting factor so you'll be fine, but if you want more than 60fps you'll need a better cpu.
+
+It gets up to 85c under heavy load but that is okay.

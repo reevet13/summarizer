@@ -1,0 +1,9 @@
+Here is the summary:
+
+Everyone I've asked just got confused by my question, but hopefully I'm not crazy and someone can answer this for me.
+
+I've drawn up something to illustrate my problem: http://ft.trillian.im/amalehuman/64pcWumAS-YKQDguB6jF.jpg
+
+In the middle figure, I'm comparing two hypothetical settings that are far apart: 600 and 2 dpi. The 2 dpi setting uses more ink because the dots are bigger.
+
+If you replace the 2 dpi figure with 300 dpi (something draft mode uses typically), it would look not as jagged as 2 dpi, but it would will be more jagged than the 600 dpi—the staircase effect would be easier to see upon close inspection.

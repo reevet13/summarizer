@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+We can induce diseases in mice. Once a mouse has been engineered to develop a certain disease, we can use multiples of them to test how a disease responds to a therapy. Some drugs probably can work for animals and not humans only because we would not subject humans to the concentrations that they subject animals to.
+
+There is no need to go up the evolutionary chain. Drug discovery mostly chooses a set of models that most closely resemble the disease most easily and cheaply. The most valid uses of animals is for toxicology, of which the cardiac safety is usually done on dogs.
+
+Rats and humans are of course different! I am disinclined to believe in most animal models (particularly CNS) and only think of them as tools, not a predictor for clinical efficacy in humans.
+
+We don't actually understand what causes the disease. If you look at the top 20 most commonly prescribed meds, and what they are to treat, we can infer about what diseases we have.

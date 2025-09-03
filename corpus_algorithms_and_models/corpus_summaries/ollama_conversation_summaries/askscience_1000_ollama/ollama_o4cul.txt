@@ -1,0 +1,15 @@
+Here is the summary of up to 250 words by selecting only sentences from the original text exactly as written:
+
+Genetic drift has a clear effect on small populations, by random chance certain alleles beneficial or not may get fixed or eliminated.
+
+In larger populations, there is a larger gene pool, meaning that it would take more time for natural selection to show its affect and cause fixation of alleles than in a smaller population.
+
+Think about it in this way: There are two phenotypes in a bird species living in darker shrubbery. One phenotype is dark-feathered, while the other is light-colored feathers.
+
+In a larger population (say 35 dark-feathered birds and 15 light-feathered birds), it would take more time for the "light-feathered allele" to be removed from the population.
+
+Population size dictates the time it takes for natural selection to become evident in a population.
+
+Most of their offspring would wind up being heterozygous for the trait (Aa), and phenotypically, almost all of them would exhibit the dominant form of the trait; basically if everything happened perfectly you should always wind up with 25% of their offspring being homozygous recessive, 50% being heterozygous, and 25% being homozygous dominant.
+
+So let’s apply this to natural selection. Say for example we have a population of moths, and their wings can either be white or black; for the sake of the example let’s say that white wings are dominant (AA) and have historically been advantageous, while black wings are recessive (aa) and have been disadvantageous.

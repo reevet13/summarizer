@@ -1,0 +1,15 @@
+Here are the extracted sentences:
+
+* The photon always go at c. It’s not really that, but think of it like as it would go zig-zaggedly, bouncing on the medium’s molecule, and the denser the medium, the more zig-zagging…
+* The energy does not change at all.
+* You are thinking about it backwards. Let us say you walk normally, using X energy to go Y speed. Now walk in a pool with five feet of water. You use X energy, but you no longer go Y speed, because the water creates a resistance. The same thing goes for light.
+* Frequency of light stays the same when going from water to air.
+* Frequency = (velocity/wavelength); Both the velocity and wavelength reduce, such that the frequency is the same.
+* E = h x frequency, so the energy is also the same.
+* The speed of light is always constant. The reason it slows is because it interacts with the particles in the photons' way. "Bouncing off" between each atom at speed c.
+* When, in quantum mechanics, you think about individual counting events, there is most definitely a magnitude of the electric field. In a definite photon number state, the phase of the wave is completely uncertain not it's amplitude.
+* The trouble is that yeah, an index of refraction is a macroscopic quantity while on a fundamental microscopic level you'd have to quantize both the mater and the field.
+* You seem to be confusing, (or at least your explanation is confusing) the difference between *optical density* and *number density*. *Optical density* is a property involving the interaction between light and the matter it's traveling in. *Number density* is the average mass per unit volume, which is relatively independent of its optical properties.
+* Anyone who has ridden a bicycle into a strong headwind will appreciate and instinctively understand this fact..... when the wind stops, you will go much faster with the same energy.
+* This is how i think the waves look like right? They travel at the same speed but they need to travel longer in water?
+* Yeh, that picture is right, they oscillate up and down the same number of times per second but in this time they move less distance. This means a shorter wavelength (waves more bunched up).

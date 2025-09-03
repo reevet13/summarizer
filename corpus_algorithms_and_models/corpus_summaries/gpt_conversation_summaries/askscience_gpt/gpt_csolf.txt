@@ -1,0 +1,12 @@
+Not 100% sure, but my hypothesis is that when you remove the heat source, you also inadvertently are mixing the boiling water (which creates more steam).  
+When you heat something up to a temperature near the boiling point of water, bubbles of water vapor will form at nucleation sites and expand if the vapor pressure is greater than the outside pressure (~1 atm).  
+Nucleation sites help to overcome the surface tension of each bubble that makes it more difficult for bubbles to expand.  
+So by moving the water off the stovetop, you do two things.  
+First you give bubbles in the water easier access to nucleation sites to overcome the surface tension, and second through convection more bubbles get to the surface and can boil off more easily.  
+1) Active boiling agitates the water, resulting in continuous mixing between the hot and not-so-hot parts of the water, and preventing the hot water from simply rising to the surface.  
+If you remove the heat source, this stirring action is lessened dramatically and hot water rises to the top and stays there.  
+A layer of hot water at the surface causes more steam.  
+2) Water dissolved in air is invisible, it only becomes visible when there is too much for the air to hold, and it condenses out into tiny droplets that scatter the light: steam (or clouds!).  
+The water-holding capacity of air is very temperature dependent.  
+What you perceive as steam is not really steam, its tiny droplets of water, i.e. water vapor, in the air.  
+Steam, the gaseous form of water, would look just like the oxygen or nitrogen in the air all around us; you don't see it.

@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+I've made a server and cant forwards ports right now, so I resorted to Hamachi. Ive got the server up and running, I can join it through the LAN tab, but my friends are unable to see it there.
+
+You going to drop an IP or are you doing this as a private thing?
+
+Eventually it will be public, but until I can host from a different machine and protect my ip its private :P
+
+That sounds pretty cool! Best of luck testing it and getting it ready to host for the public!
+
+I got onto the community offline mode, teleported to desired location (Zelen) and walked around with the debug console, inputting coordinates.
+
+2584.04, 4995.23
+
+Restarting the server, saves my character and its not dying... at least not fast enough lol

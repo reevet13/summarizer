@@ -1,0 +1,15 @@
+Here is the summary:
+
+I heard it’s not a good idea to use my old hard drive into a new PC unless it’s completely empty.  I currently am using it to boot up Windows 10 on my old PC so I don’t know if I can wipe it clean before removing it. Is it okay if I just put it in my new PC as is and wipe it right away?
+
+Honestly, no need to wipe unless you want everything fresh.
+
+Are you trying to wipe data or the install of windows too for a fresh install?
+
+Not sure where you got that advice, but it's false. You can go ahead and just put it in the new computer as is and see if it'll boot into Windows.
+
+Yes. I always recommend clean installs after major hardware changes when possible.
+
+That is your own fault for not disconnecting your HDD while installing Windows to your SSD.
+
+It was a migration

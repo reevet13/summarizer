@@ -1,0 +1,4 @@
+What happens to the outer region of the disk?
+This question has been hurting my brain for three days.
+Please help.
+what you describe is the classic [Ehrenfest paradox](http://en.wikipedia.org/wiki/Ehrenfest_paradox).

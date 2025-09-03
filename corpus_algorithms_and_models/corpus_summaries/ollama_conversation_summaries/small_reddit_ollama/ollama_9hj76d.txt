@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words by selecting only sentences from the original text exactly as written:
+
+So I got a B360A and I got it all hooked up.
+
+However when windows 7 launches my mouse and keyboard stop working. Things I have tried include: Plugging in USB after starting comp Different ports Disable legacy in BIOS Run in safe mode disable driver signatures
+
+But still nothing is working. Anyone else have an idea? How would I go about getting those if my mouse/keyboard does not work so I cannot log into windows to go dload them?
+
+That is a very good question indeed, and my answer for that is going to have to be slipstreaming these drivers into an installation.
+
+I've never upgraded to 10, will I get an option to keep all my old files?

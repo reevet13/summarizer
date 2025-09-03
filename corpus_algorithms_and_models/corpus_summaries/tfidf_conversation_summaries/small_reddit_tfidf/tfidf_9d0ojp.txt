@@ -1,0 +1,36 @@
+Original Response:
+In the meta sense, nothing discourages me from playing than seeing a blatent hacker running around for hours, days, weeks in "competitive" modes completely unpunished. Reporting them clearly does nothing as you generally get a "thanks for the report" and they're back the next day. Just seems rather odd that in competitive modes there is zero consequence from what I've seen for cheating. Not sure if ArenaNet thinks they'll deal with this by addressing the exploits in the backend or they just don't have the bodies/tools to do something about this. 
+
+(admittedly we had a SoR thief teleporting around our keep and attacking from under the ground for around 5 hours today so I'm a lil salty)
+1. Few people report thinking it doesn't do anything.
+* Cheaters take ages to get detected and punished.
+* Cheaters go around saying reporting doesn't do anything.
+* People end up believing report doesn't do anything.
+* Goto 1.
+
+The only way to break this vicious cycle is making sure people know reporting works, for example, with messages telling players that someone they reported has been punished, and thanking them for their collaboration.
+Hardware bans and updating things to more easily detect them would help.
+You want to ban a player, not a (shared) computer!
+In fairness the majority of reports aren't actually hacks or cheats. I had about a dozen of people a year and half-two years ago report me for hacking a perma-evade build when I was trolling them flipping a camp. They all whispered me saying they reported me anyway and went nuts in map chat about 'this hacker'.
+I definitly think that this is one of the biggest problems. People that are salty and blindly report smbd else or people that report for example other ones for cheating, while they only have been afk. All of that results in a high amount of false reports and therefore Anet needs to check them manually and can't ban simply because smbd got reported like 20 times in one day.
+The only way to be able to report accurately is knowing exactly what all professions and their elite specializations can do. Whatever else they do that they are not supposed to do, that's cheating.
+
+But this game sucks at teaching any of that or showing what people is doing. In the death breakdown in PvP conditions aren't even tied to the skills that caused them, and WvW doesn't even have a death breakdown.
+The combat log doesn't help much either, even if you enable all checkboxes to show everything, and it stops recording after too few lines. An entire PvP match won't fit in the combat log.
+And there's nothing like replay recordings to be able to see things more carefully.
+
+Also, it's wise to record these false reports along their builds. A build that gets reported way too often across way too many players is more likely to be because it's powerful, or has some bug or weird trait interaction that triggers an unintended effect, or too obscure and people can't really see what it's happening, than everyone who happens to be using that build being particularly better at the game.
+Yah, don't get me wrong; there are wall and blink hackers. I've not run into a lot of them but I've seen evidence of people entering keeps and people in sPvP popping around maps outside of any skill ability. The only time I think I've run into is in sPvP there was a guy who I think could still see me when I was invisible as he seemed to be able to jump me when he shouldn't have been able to see me or even from his vantage even know I was there and a couple times seemed to target me while in stealth. But can't be 100% sure because someone on my team was streaming so he could have been stream sniping, or maybe just luck or knew exactly where I'd be enough to shadowstep burst on me blind. 
+
+The OP's case sounds like it was hacking, attacking under the floor or he'd found a glitch to enter. You use to be able to do that in SW for the Meta. Before mounts and they put up the invisible wall you could go off map and get under the floor of the vinewrath chamber and the lanes and shoot up through the floor. That wasn't a hack, it was a glitch though. Not saying that is any better exploiting a glitch but technically it isn't hacking.
+I think WoW uses community supervisors/moderators on their servers, not sure it that would work with GW2 and the mega server system. But, it would be a cheap way to police hacking. Of course maybe that would be abused IDK but it works for WoW from what I hear.
+...you didnt have a mini out did you? I've been accused of following someone "i shouldnt be able to" when the guy just had a mini going after him
+No, no mini. Could have been Legendary footfalls I guess but I've never had an issue with that any other time and don't recall seeing anyone else stealthed's footfalls. I think it was either a hack or maybe more likely he was stream sniping one of my teammates.
+If they are sharing a computer then they likely know said person is using cheats.
+"They" don't necessarily have to be the same people we talk about on this topic.
+
+Summary:
+Few people report thinking it doesn't do anything.
+* Cheaters go around saying reporting doesn't do anything.
+I think it was either a hack or maybe more likely he was stream sniping one of my teammates.
+* People end up believing report doesn't do anything.

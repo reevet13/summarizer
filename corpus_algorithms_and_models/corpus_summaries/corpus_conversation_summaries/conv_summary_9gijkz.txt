@@ -1,0 +1,81 @@
+Original Response: 
+I have a 2012 CBR250R.
+I'm going for maximum acceleration as our highways are 110km/h max.
+Thanks for the help, I've been riding for a while but never been into modifying unti now.
+Thanks.
+For more acceleration, use either a smaller sprocket at front or bigger sprocket at back - or maybe both if you're replacing both sprockets and chain at one
+
+EDIT:  Technical explanation, your gear ratio is number of teeth on back sprocket divided by teeth on front sprocket (like an R1 is 45/17 so 2.647).
+To get more acceleration, you want a higher ratio, so adding teeth on the back or removing from the front would do that.
+So using the R1, if you went and got a 16 teeth on front with 48 on back, your ratio would now be 3.000.
+So I guess what I'm after is this: the default is front 14 teeth and rear 38 teeth.
+If I were to go to 12 front and 54 rear (which looks like the modding max), what would my top speed drop down to?
+Holy moly that's a massive jump, it'd probably half your top speed!!
+To be honest, it's generally best to go max 1 down at front and up 2 or 3 at rear.
+Your speedo will be out of wack afterwards (aparently that's an easy fix).
+Also, a smaller front sprocket increases chain wear as it's stretched more in a tighter arc so more than 1 down would be bad for the chain and teeth.
+Going to a 13 front and 41 rear increases your ratio a good amount, will defo increase your lower end pull whilst shaving about 15km/h off your top speed, if you want a bit more than add teeth to the back but I wouldn't go down to a 12 front.
+You don't wanna be having your top speed as the speed you're gonna cruise at as that'd be bad for your engine and chain sitting at that much stress constantly.
+&amp;#x200B;
+Thank you so much that is EXTREMELY helpful!
+What do you think is a safe (for the longevity of the bike) cruising rev limit?
+Your bike will be like a piece of earthmoving equipment if you do that.
+If you must do this at all, try a 13 tooth on the front only which will give you a seven percent increase in revs across the speed range.
+But why do it at all?
+You want to ride at highway speed do you really want your engine pulling five hundred extra revs everywhere you go?
+You'll have too many gears at low speed and a very irritating bike all day long.
+Why not just use your lower gears to accelerate to highway speed, exactly as the manufacturer intended?
+Whilst cruising I like to sit just under where the bike is at it's max torque, so then the engine isn't overstressed nor lugging.
+Looking at the CBR250R that looks to be in the 6-7k range.
+I haven't rode a single cyclinder that's not a 125cc so not too sure what speed that'd be, especially with the larger gear ratio, but taking the teeth down to 13 front and 41 on rear for that extra lower oomph will probably put you at only 100km/h just above the 7k mark.
+Okay so my maximum speed is 90kmp/h, maybe once every 2 months I will travel at 110kmp/h for 2 hours.
+99% of the time I am under 70kmp/h and I really need the manoeuvrability.
+What are your thoughts on these circumstances?
+Thanks for your help man.
+Edit: I am also more than happy to shift gears more often.
+My CBR250R (2013) has sat on 7000rpm for about half of its 50000km, the other half has been idling at a red light or flogging it to the next one.
+From a 250 flogging enthusiast, I'd say just dump the clutch from a standstill if you want to take off quicker.
+A lower gear ratio will get you into the fat part of the rev range quicker but you can get there instantly anyway with the clutch, and after you get into peak torque the closer gearing is just about negligible.
+YES it will wear your clutch, but like I said, 50000km and still going strong.
+I'd say the swap isn't worth doing unless your chain is toast.
+Focus on what the bike is meant for, dragging pegs at 40km/h and using the money you save on fuel to save for something bigger.
+Just do 1 front tooth down.
+I did that on my 750 and loved it in the city.
+Changed it because I do more highway riding and lost 10mpg.
+Just 1 front down.
+And then use Waze to figure out what your speedometer reads at to know how fast you're going.
+For me, I was 7 mph high.
+Go here and check different ratios:
+
+https://www.gearingcommander.com/
+
+With 12/54, you will be at 82kph at 8500 RPM in 6th gear.
+This would be almost completely unusable where i live.
+Speed is measured at normally the front wheel.
+How would changing gear ratio change this?
+Because it's not normally measured at the front wheel anymore.
+it's measured by other means.
+That's why changing the gear ratio affects the speedo.
+This was apparently a thing years back but modern bikes don't measure that way anymore.
+Why?
+I don't know.
+But the first thing people do is get out Waze or a friend and get a speed reading at multiple speeds to figure out how much their speed gauge is off.
+I tried calculating it with a thing online and was still undershooting by 5mph.
+For 2 weeks I rode the speed limit and thought I was making good time lol.
+Wow I didn’t know this.
+I just looked it up.
+[Here ](https://www.motorbikefans.com/motorcycle-speedometer-wrong/) It says it can be in the gearbox.
+Well today I learned.
+Thanks.
+Yep 👍🏾.
+
+Summary: 
+I just looked it up.
+I have a 2012 CBR250R.
+Speed is measured at normally the front wheel.
+Just do 1 front tooth down.
+Wow I didn’t know this.
+I did that on my 750 and loved it in the city.
+That's why changing the gear ratio affects the speedo.
+How would changing gear ratio change this?
+Changed it because I do more highway riding and lost 10mpg.

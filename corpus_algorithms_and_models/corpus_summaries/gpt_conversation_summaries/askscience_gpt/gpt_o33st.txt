@@ -1,0 +1,19 @@
+The technological singularity is pure science fiction BS. There's no reason to believe it will ever come to pass. There's also no reason to believe true AI would ever come to pass. No body has any idea how human intelligence come about. All we have are **speculations** about brain size, complexity, etc... which does not tell us how to replicate it.
+
+The first "true AI" would still be far stupider than the average human.
+
+There are a variety of different notions of a technological singularity. Part of why people don't take the idea so seriously is precisely because a variety of different ideas. There are [three different broad suggested types of Singularities](http://yudkowsky.net/singularity/schools). What you are talking about is the third type, the I.J. Good/ Eliezer Yudkowsky sort of Singularity, where an AI bootstraps itself by self-modification to become successively more intelligent.
+
+This is in many respects the most plausible type of Singularity. However, there's very little to do about it. Even if one thinks that this sort of Singularity is likely, the main point of this sort is that it occurs quickly by a single entity. So while one could potentially take preventative steps (For example, giving a potential general AI internet access would be a bad idea.) there's nothing much to do once it happens.
+
+AI is in its infancy; there is much to learn about even the most basic things. This is no reason to assume that it will never get off the ground.
+
+No one has any idea how intelligence works. No one even has a definition of intelligence that everyone accepts. People in the AI field likes to redefine the term to suit what they think they can achieve. That's BS. You cannot make something you do not understand.
+
+There is a definition of AI that goes: "whatever the human mind can do that computers can't yet".
+
+One of the most practically successful areas of AI has been [neural networks](http://en.wikipedia.org/wiki/Neural_network). They've been used for a variety of uses. The coolest example I'm aware of is [classifying galaxies](ftp://ftp.cs.bham.ac.uk/pub/authors/W.B.Langdon/biblio/gecco2002/RWA280.pdf)(pdf).
+
+&gt;I didn't say AI will never be understood. All I am saying is that no body understands intelligence yet.
+
+And, in fact, there's every reason to believe we'll get there given the amount of progress we've made in scant decades

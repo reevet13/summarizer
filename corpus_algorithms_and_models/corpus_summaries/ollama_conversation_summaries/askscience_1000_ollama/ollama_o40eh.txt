@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text:
+
+Taking that point, assuming one could compress all the protons, neutrons, planets, stars, galaxies, etc into one ultramassive object.. how big would it be?
+
+You would make a black hole.  It would be a singularity and occupy zero space.
+
+Black holes indeed occupy zero space. [Link](http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/010912a.html). I would assume that the size of the black hole presented in that link is in fact the size of the event horizon, and not the size of the singularity itself.
+
+Semantics aside, it should be possible to have mass occupying zero space. If singularities do have infinite densities, the only way (that I can see) to have infinite density would be to have matter occupying zero space, since density is mass/volume.
+
+Subatomic particles in physical contact" isn't well-defined because as far as we know, the fundamental particles are point particles.

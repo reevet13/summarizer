@@ -1,0 +1,8 @@
+Gravity affects water the same way it affects solid matter.  
+When an object is in water the gravitational force on it is *exactly* the same. However, the water provides an extra upward force called buoyancy.  
+The reason for this is that as you get deeper the water pressure increases due to the weight of all the water above it. Thus the water pressure below the object will be higher than the pressure above the object. This results in a net upward force.  
+If the object is less dense than water itself then the buoyancy force is greater than the gravitational force and the object will rise.  
+Note that all this applies to air as well.  
+Gravity is the mutual attraction of matter. You experience this, as all of Earth's matter pull at you (you also pull at the Earth, but at such a small amount, that it's disregarded most of the time).  
+Now when you go underwater nothing changes. The Earth still pulls at you. What changes is your buoyancy.  
+When you go underwater, these cavities cause an upward force (see the [wikipedia page on buoyancy](http://en.wikipedia.org/wiki/Buoyancy) for more details) that counteracts gravity.

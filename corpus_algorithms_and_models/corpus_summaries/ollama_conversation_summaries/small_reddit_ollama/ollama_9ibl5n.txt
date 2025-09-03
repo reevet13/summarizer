@@ -1,0 +1,17 @@
+Here is the extracted summary:
+
+Really even if someone was able to access the full raw data they couldn't recreate the fingerprint.
+
+Unlike a password, matching fingerprints doesn't expect exact matches (it's going to look a bit different everytime you press your fleshy finger to the sensor) but is instead comparing features for a "close enough" match.
+
+With hashes, even a minute change results in a wildly different hash result.
+
+Often times these systems use a form of hierarchical clustering. Basically points on the finger are sampled and snapped to a whole region.
+
+That's actually kind of clever! Snapping them would allow some room for error when scanning, and since the template would be hashed there would no way to gain such data to try and reconstruct the fingerprint.
+
+A picture of a fingerprint could be made into a 3D print.
+
+To be honest saved as a "hash" is a bit of a blunt instrument I used to make thd point. Someone above gave a much better technical explanation.
+
+It's like a key. The lock doesnt give a shit if your not using an actual key. It just needs certain levers on the mechanism to be pushed to a pre set height.

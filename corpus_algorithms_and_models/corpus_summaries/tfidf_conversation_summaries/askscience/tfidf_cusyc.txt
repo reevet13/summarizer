@@ -1,0 +1,44 @@
+Original Response:
+Is there any research data suggesting such a thing? What I mean is, at what room temperature is the human body most efficient, eg. does not to sweat to cool itself down, and only needs to burn minimum energy.
+
+I would imagine this to change (downwards) with increasing level of activity.
+
+Thanks
+98.lol
+With or without clothes?
+Not sure if there's a scientific study on it, but from personal experience slightly colder is better for increased physical activity.  I'm a long distance runner and about 60F is perfect for me.
+
+The problem with the question (as it's framed) is that every human body is different.  I'm pretty skinny, so I probably like it a little warmer than the "average" human.
+Yes, and it depends on the human.
+
+**EDIT:** Plus, in contrast to the underwater (sea) creatures, we do not need to have a very specific temperature to survive, therefore our tolerance levels are higher. Water, due to its great thermal capacity, doesn't change its temperature as dramatically as in dry land, therefore organisms that live in it are not as adapted to temperature fluctuations.
+I think you mean 98.6, not 98.101.
+Ideally, the temperature for a human (T) scales proportionally to their volume (V) by T = (P/nR)V, where P is pressure, n is the number of moles of human, and R is the gas constant.  Bwahahaha.
+
+Just kidding, that was a little thermodynamics humor there.  There's certainly no commonly accepted "ideal" temperature, and the most comfortable temperature for you or anyone else (assuming you're human) depends not just upon what you're wearing, but humidity, wind speed, and light sources, among other things.  Heat being transferred in or out of your body is what makes you feel hot or cold, and there are many ways heat can be transferred: evaporative cooling by sweating (that gets less effective when it is humid), conduction into the air, radiative transfer by the sun or a nearby fire, etc.
+
+Let's say your in a room with still air, no light, no fire, and zero percent humidity, you're naked and you want to know where to turn the braille thermostat.  You dial it to 78 degrees because that's the temperature that'll keep you alive the longest... but is that really a life you want to prolong?  
+
+But seriously, a brief searching of scholar.google.com and the ISI web of knowledge didn't point to any promising leads in this area.  Sounds like there's room in the literature for you to write the first work.  Citation city, here you come!
+As long the body will be able to adapt to maintain about 36.7°C the temp is okay.
+adapting costs energy.
+I think everyone needs to use Celsius.
+That's not a problem in itself.
+[This](http://www.mediabistro.com/tvnewser/cbs/cbs_news_correspondent_shot_summer_story_last_winter_168924.asp#disqus_thread) video from a weatherman from CBS suggests 68 - 78 F (20 - 26°C) is the "Comfort Zone" (@ 1:43).
+
+I know it's not research data... but the video itself is pretty neat!
+You're asking for a specific number, but I think you should be more thinking in terms of a range. As well as all the variables that others have mentioned (humidity, convection, insulation), you also have to take into account biological variation. The "ideal" temperature at which my body performs and your's does is unlikely to be exactly the same. Sure, it's gonna be close, but not identical. A single example of this would be our enzymes: yes, you and I - at least in terms of the important ones necessary for basic functioning - have an identical suite of enzymes within our bodies, and each of these different enzymes have a specific temp range in which they work most efficiently, so there will not be temp variation between us at least in regards to the types of enzymes within our bodies; however, differing concentrations of these enzymes, differing (even slightly) chemical environments in which these enzymes find themselves, will make for a systemic ideal temp for your body and mine. Biological variation is very important to determining the optimum conditions for differing individuals within a species.
+
+Just to put it all in perspective, you would not expect the ideal temp for a person born and raised in Alaska and of Inuit heritage to be the same as a person born and raised in Sub-Saharan Africa and of Bantu heritage.
+[deleted]
+AFAIR. 
+23C at rest, 0% humidity. 28C in water.
+
+Can't remember where I learned that though.
+0% humidity will screw with you, though. Your nostrils will dry up in an hour.
+
+Summary:
+What I mean is, at what room temperature is the human body most efficient, eg.
+Yes, and it depends on the human.
+The "ideal" temperature at which my body performs and your's does is unlikely to be exactly the same.
+I know it's not research data... but the video itself is pretty neat!

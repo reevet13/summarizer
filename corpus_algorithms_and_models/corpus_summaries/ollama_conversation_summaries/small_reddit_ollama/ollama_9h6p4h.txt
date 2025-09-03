@@ -1,0 +1,9 @@
+Here are the extracted sentences:
+
+Hidden variables may not be impossible, but if they require a field that guides particles deterministically, shouldn't we be able to measure our movement through that field (the same way we should have been able to measure our movement through the luminiferous aether, if it existed)? Wouldn't that provide an absolute reference frame? I don't see how pilot wave theory can be made compatible with special relativity. Am I missing something?
+
+It does require a preferred frame, which means there is only one foliation into spacelike hypersurfaces over which the particle trajectories are actually classically deterministic (which is the essential promise of the interpretation). 
+
+If one could observe these trajectories, one could use these random zigs to figure out (by process of elimination) which frame was preferred. But it is also a requirement of the interpretation that one can't ever access these trajectories at the level of granularity required to achieve this.
+
+It is just a generic feature of pilot wave interpretations that the exact position of the hidden variables is experimentally underdetermined, only determined up to the standard decoherence limit.

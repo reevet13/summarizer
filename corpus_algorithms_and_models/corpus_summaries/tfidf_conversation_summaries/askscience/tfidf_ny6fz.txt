@@ -1,0 +1,23 @@
+Original Response:
+I know that sodium causes you to withold water in your body, causing you to weigh more but I was wondering if there was a rough guideline for how much water you'd retain per mg of sodium. Ex: you eat something that has 1000mg of sodium, ignoring the weight of the food and everything else, how much extra will you weigh from sodium causing you to retain water?
+
+Follow up: how long does your body retain sodium/ how do you drop the extra water?
+Very relative question as each and every person will have a wide response.  There are multiple factors from genetic to drug (even caffeine) that have an effect on water retention and Na.  As far as I'm aware though there's no clear cut numbers.
+
+I can give you a bit of interesting baseline though.  You have about 40% of body water as intracellular, another 40% stored as deposit, 15% as interstitial fluid (ISF), and about 5% as plasma volume (blood).  The fastest effect Na (sodium) will have on water is in the plasma volumes.  The reason is that water follows sodium, if you excrete sodium (urine) then more water will be pulled out to be excreted as well.  If you reabsorb more sodium then you retain more water generally.  Many drugs target this (such as diuretics like hydrochlorothiazide) to help with problems like hypertension (high blood pressure) and edema (swelling).  For this reason, your body will try to control sodium as you take more in but as you said, if you take in a lot of sodium you will retain water.  The amount though depends on many factors.  At a vascular level, it is a balance between hydrostatic pressure (think water pressure) and oncotic pressure (water moves to areas of high concentrations of things like protein).  So in your arteries and veins where you have plasma on one side and interstitial fluid on the other, the balance of fluid levels becomes very important.  Too much hydrostatic pressure in the capillaries or too little protein can push more fluid into the interstitial areas.  Your body works to keep this in balance and is part of the equation taken into account with sodium levels as well.  There's a lot more to this, but it's a complicated answer and I just threw in some things that might interest you.  I'm a med student, but if you want proof on anything I can probably find links somewhere online.
+[deleted]
+Sodium doesn't really make you retain water; the body regulates water by regulating sodium, using the [osmolarity](http://en.wikipedia.org/wiki/Osmolarity) of the plasma.
+
+Lets suppose you have consumed 1 litre of 3% solution of sodium ions. This contains 513 mmol/l of sodium.Lets further suppose that you are a 60Kg male with a starting normal sodium concentration of 140 mmol/l and an normal plasma osmolarity of 280 mosm/kg.
+
+The addition of the sodium solution will raise your plasma sodium by 513 - 140 divided by your total body water volume (approx 60% of weight) plus the one litre you have just added. This works out to roughly an increase in your plasma sodium concentration to 150mmol. This will increase your plasma osmolarity to 2X Na conc plus glucose plus urea  which will be roughly 310.
+
+This increase in your plasma osmolarity will stimulate osmoreceptors in your brain which will cause your pituitary to secrete antidiuretic hormone, leading your kidneys to reabsorb water and stimulate your thirst receptors leading you to drink more. The increase in water intake will bring the osmolarity down to normal.
+Further regulatory mechanisms will then cause you to pee out the excess sodium and water until you blood volume is also normal.
+
+You could calculate the amount of water you need to bring the osmolarity back to normal (which is what I think your question was); it will be the amount required to reduce the sodium concentration back to near normal and will therefore depend upon body weight, the current sodium concentration and the concentration of other osmotically active substances in the plasma.
+
+Summary:
+The fastest effect Na (sodium) will have on water is in the plasma volumes.
+The increase in water intake will bring the osmolarity down to normal.
+This works out to roughly an increase in your plasma sodium concentration to 150mmol.

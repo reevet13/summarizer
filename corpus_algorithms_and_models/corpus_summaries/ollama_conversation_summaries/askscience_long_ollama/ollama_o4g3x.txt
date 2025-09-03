@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+The energy from a fusion reaction is when two atoms slam together and a tiny amount of mass is turned into energy. But where does that tiny mass come from?
+
+You start with 4 protons. When two protons fuse, one of them almost immediately undergoes beta+ decay, which converts a proton to a neutron.
+
+Fusion releases the binding energy of atoms. In fact, all particles as they increase in mass are more stable. That is until you reach iron, elements the weight of iron and higher actually lose energy as they fuse.
+
+This is how the star remains powered, it releases the energy that is no longer needed to hold the atom together as photons.
+
+Once iron begins fusing it becomes a run away process, massive and energetic atoms continue fusing creating heavy elements until you reach the point of electron degeneracy (all the protons absorb electrons and become neutrons) this forms a neutron star which is much smaller in size than the original star.

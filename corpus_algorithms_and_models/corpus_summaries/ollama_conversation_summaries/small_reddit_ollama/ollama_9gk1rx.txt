@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+Hi,
+
+I am an IT Apprentice at a medium sized office, currently on my own as the rest of the department is on leave.
+
+This morning someone tried to print something that got stuck in the spooler queue and prevented everyone from printing.
+
+Fresh out of ideas I decided to restart the Printer Spooler on the server (Win server 2012).
+
+The service shut down fine but afer restarting it, it has been stuck on "Start Pending" for about 4 hours now.
+
+Is this normal for a service to take so long to restart? Could something be preventing it from restarting?
+
+I plan to stay late and restart the server this evening outside of office hours to see if the service will start on boot as usual. Is this advisable?

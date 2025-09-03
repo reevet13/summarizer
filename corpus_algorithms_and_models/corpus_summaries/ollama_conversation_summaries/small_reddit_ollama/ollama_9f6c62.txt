@@ -1,0 +1,19 @@
+Here is the extracted summary:
+
+Seriously a ton of users could make the switch without issue.
+
+Look at Chrome books, where most things are done through the web. The only real downside to most end users a system like Ubuntu or Mint has is the lack of MS Office. Whatever your opinions on Libre/Open Office may be, at a minimum there are massive formatting issues when translating between the formats, which would force many to use the web-based versions of Microsoft's product, or Google docs when collaborating with other people.
+
+These are the same issues chromebooks face.
+
+I think a big barrier to a lot of people is the stigma around Linux, and it's sad but a lot of the Linux community actively contribute to the stigma by going off on rants about FOSS, when most users just want a system that works.
+
+If only gaming and VR was as good on Linux as it is on Windows, I would've permanently switched over rather than having two machines.
+
+And Adobe's suite which 99% of the content creation industry uses. And for other people the lack of games.
+
+But then they'd have to run Linux.
+
+And that attitude is part of the stigma.
+
+Specialized software will always be an issue though unfortunately

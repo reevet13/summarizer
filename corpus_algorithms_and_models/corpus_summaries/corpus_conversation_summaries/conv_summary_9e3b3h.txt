@@ -1,0 +1,48 @@
+Original Response: 
+What?
+I think they're still testnet.
+I don't see any official announcement neither on their blog nor twitter.
+Their website is kinda vague though, nothing says that it runs on testnet, except that their wallet suggestions are "testnet wallets"
+We launched on mainnet today.
+Somebody just spotted it a bit earlier than we expected and made an announcement faster that us :) BTW - we have testnet label on our logo if you will go to testnet version.
+Maybe we need to make it more clear.
+About wallets - we have "mainnet" labels for wallets which are already launched on mainnet, so if you unable to see them then something is gone wrong.
+It will be really great if you can PM me about this so we will investigate!
+Ah I see.
+Congrats then and all the best :)  
+
+I was referring to the "testnet wallet" parts on the landing page (because the addition "testnet" wasn't making sense to me, if everything else on that page was about mainnet).
+When you click on the link, it's displayed with a clear distinction, as you said.
+Oh, now I see, we will fix it today!
+Thanks)
+The only useful feature would be to buy BTC with fiat that was sent directly to my LN channel or wallet.
+Why would I want to spend my BTC on shitcoins?
+How does a lightning exchange work?
+do you coordinate submarine swaps somehow?
+Do you have a stash of crypto that you allow those with lightning channels to buy, and deduct from that balance?
+Yep, right now we have a stash of altcoins so we can send to you immediately.
+Right now our top priority is to make backward exchange - so if you have altcoins you can top up your lightning wallet with them) We thinked about fiat, but it is not our top priority in next few weeks.
+Why can I only go from BTC to altcoins on the site?
+Our initial intent was to create exchange on which you can try lightning and to exchange really fast, because BTC transactions are slow.
+So we released it and now we will both talking with people and collecting feedback and work on adding backward exchanges.
+How can I top up a BTC LN channel with altcoins than as your UX doesn't show this possible?
+&gt;"so if you have altcoins you can top up your lightning wallet with them)"
+As I already said we will focus on implementing this in near future, but right now is not possible.
+ok, so this is truly a premature announcement.
+Thanks.
+Yeah , nothing to see here folks.
+You cannot buy BTC or even load a LN channel with this service .
+Merely a way to exchange your valuable BTC for shitcoins at this time.
+Wish it the other way around :P 
+i think that feature coming soon...
+Yep.
+Most valuable feature would be fiat to BTC LN channel therefore the exchange can amortize the onchain tx fee , second most valuable is altcoin to BTC LN channel.
+Yep, you are right, this is coming soon)
+wold love to dump some left over alts I have, and re-load my lightning-wallet.com :-)
+
+Summary: 
+&gt;"so if you have altcoins you can top up your lightning wallet with them)"
+How does a lightning exchange work?
+Why can I only go from BTC to altcoins on the site?
+I think they're still testnet.
+Oh, now I see, we will fix it today!

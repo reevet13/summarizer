@@ -1,0 +1,17 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+You sign the unsigned transaction with one key, to create a partially signed transaction, then you sign the partially signed transaction with the other key
+
+Play with the transaction functions at coinb.in to see this in practice
+Thanks for that! Does it matter which key you start with? And I heard that in the new Bitcoin Core 0.17 there will be a feature to broadcast PSBTs. What's the usecase for that? Thanks.
+
+I'm fairly certain (somebody please correct me) that the order of signing does not matter
+I think there was a wallet which required the inputs to be signed in order, or maybe it was a bug in an older version of coinb.in
+
+PSBTs
+
+Awesome  
+
+If two or more different people control the keys for the inputs, this allows the mempool to be used to distribute the incomplete transaction, and defines a common format
+https://github.com/achow101/bips/blob/master/bip-0174.mediawiki  
+Ping /u/achow101

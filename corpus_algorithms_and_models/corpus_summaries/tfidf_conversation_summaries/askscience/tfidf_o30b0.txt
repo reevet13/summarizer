@@ -1,0 +1,21 @@
+Original Response:
+The humming usually comes from the transformer, not the wires.
+When it's raining or snowing it's also quite often windy, and it's the wind that causes the power lines to hum.
+
+The phenomenon involved is called vortex shedding and is explained in textbooks on flow-structure interaction, such as that by Blevins, or [Wikipedia has quite a helpful animation](http://en.wikipedia.org/wiki/Vortex_shedding).
+
+Essentially, the flow around a circular cylinder (like the cross-section of a power line wire) is unstable and vortices are shed alternately from either side of the cylinder. You can hear these vortices as they represent periodic pressure fluctuations in the air, or sound. This also causes a periodic aerodynamic force on the wire, which causes it to vibrate. If the wind is strong enough then the amplitude of the pressure fluctuations can be loud enough for you to hear it.
+
+If ice forms on the power lines, a different situation can develop whereby the vibration is much stronger due to a positive feedback mechanism and the [power lines can visibly bounce up and down](http://www.youtube.com/watch?v=k5EQZd7YvXg). This is called galloping and the fluid dynamics are quite different.
+There wasn't really much wind to speak of. These are high voltage transmission lines if it helps.
+In that case it might be electrical in origin, but this would be beyond my area of expertise (I like fluid dynamics hence I went straight for a fluid dynamics explanation!) so somebody else would have to explain.
+
+Some Googling suggests that a [corona discharge](http://en.wikipedia.org/wiki/Corona_discharge) might cause audible noise near high voltage noise and that it may be exacerbated by humidity (hence why you notice it in rain or snow?).
+
+The way to tell whether the noise is fluid dynamic or electrical is that if it's electrical it will be at a constant, well-defined frequency related to the mains frequency of 50 or 60 Hz. If it's fluid dynamic related, the frequency is very often directly proportional to the wind speed (they are linked by a parameter called the Strouhal number) so the frequency you hear would tend to fluctuate rather than remain constant as the wind speed will tend to vary.
+&gt;The audible noise emitted from high-voltage lines is caused by the discharge of energy that occurs when the electrical field strength on the conductor surface is greater than the 'breakdown strength' (the field intensity necessary to start a flow of electric current) of the air surrounding the conductor. This discharge is also responsible for radio noise, a visible glow of light near the conductor, an energy loss known as corona loss and other phenomena associated with high-voltage lines.
+
+[Source](http://www.scientificamerican.com/article.cfm?id=what-causes-the-noise-emi)
+
+Summary:
+This is called galloping and the fluid dynamics are quite different.

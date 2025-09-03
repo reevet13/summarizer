@@ -1,0 +1,2 @@
+Basically, when you solve a problem in quantum field theory, you have to do something called Renormalization, which involves separating out the finite and infinite quantities, then subtracting off the infinities.
+What's interesting is that the experimental vacuum energy and the theoretical one differ by a factor of 10^120.

@@ -1,0 +1,23 @@
+Original Response:
+[deleted]
+I'm thinking not higher than on Earth on trampolines of similar dimensions, since the force propelling you upwards will be diminished by your lower weight on the moon effectively countering the effect of lower gravity.
+As the most likely limiting factor is the amount of energy your trampoline can handle, let's assume that a regular trampoline at maximum deformation on earth can push you up to 5 meters. As height grows linearly with potential energy, you can get the maximum height multiplying 5 meters by the ratio of the about  gravitational acceleration, which is about 4. Thus, with a commercial trampoline you can reach 20 meters. BTW, absence of air could let you reach almost infinite altitudes should you use a trampoline with higher deformation capacity.
+Could he jump off the moon without the trampoline? The escape velocity of the moon is roughly [2.4km/s](http://en.m.wikipedia.org/wiki/Escape_velocity). A quick search says no, but I would also like to know what the biggest moon/planet we could jump off into space is if someone could answer...
+Lower weight, but not lower mass and not lower jumping power from your legs.
+Yes, I suppose the power from his efforts would be proportionally higher. I don't know enough to make the calculations I guess.
+Check this [xkcd](http://xkcd.com/681/) about gravity wells, relevant information about escape velocity for different moons.
+Since there is no appreciable atmosphere to cause a terminal velocity, and assuming at every jump you add more energy with your legs than is taken from friction in the trampoline, and assuming your trampoline is strong and elastic enough, and assuming your body doesn't get crushed from the forces, you should be able to achieve escape velocity eventually.
+
+Edit: To answer the question: As high as your trampoline and body/leg strength will allow.
+[deleted]
+This is an interesting question, because the tension in the trampoline is somewhat caused by your relative weight, and weighing less on the moon would result in less tension. I'm assuming you can eventually jump higher if you kept going at it, but using actual data and then comparing it to on the moon would be interesting.
+Six times higher than Earth.
+&gt;you should be able to achieve escape velocity eventually.
+
+I'm gonna have nightmares about this :/
+I like how ridiculously low gravity the defined "surface" (IE top of the atmosphere) is for Saturn. After adding the radius of the planet, that's a pretty puny well.
+My uncle was able to strike the earth on our 4 ft high tramp.
+
+Summary:
+Could he jump off the moon without the trampoline?
+&gt;you should be able to achieve escape velocity eventually.

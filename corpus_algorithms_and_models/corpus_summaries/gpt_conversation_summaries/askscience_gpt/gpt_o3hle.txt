@@ -1,0 +1,9 @@
+When I put a bottle of water in my freezer and then take it out a few hours later it often hasn't turned to ice yet. When I hit the bottle into something then ice begins to form at the collision point until it fills the whole bottle. From what I've read this is known as supercooling.
+
+I was just wondering why the two bottles that were poured out didn't freeze. Declaring myself the resident expert on supercooling, I have to say I'm pretty surprised. If the water in those bottles was legitimately supercooled, I'm surprised they didn't crystallize on pouring into a glass. Usually pouring is enough of a shock to promote crystal growth.
+
+Supercooling can be very touchy and without the ability to measure the temperature in your freezer precisely it'll be tough to know if you've actually supercooled the water without wasting all your effort. Make sure you put all the bottles in the same place in your freezer and establish a protocol for how long it takes. Do everything in your power to make your procedure as systematic and consistent as possible.
+
+We found that the impurities from it being tap water were enough to make supercooling next to impossible. Deionized water worked pretty well though. Overcooling would cause it to freeze instantly as well. Moral of the story is that impurities in the water can make a big difference here, so if one brand isn't working, another might.
+
+You need a nucleation point. It's hard to convince a liquid to crystallize because you lose a lot of entropy, meaning your gibbs free energy increases. If you have a nucleation point though you can speed up the process. That's what striking the bottle, or adding a seed crystal does.

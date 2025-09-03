@@ -1,0 +1,14 @@
+Here are the extracted sentences:
+
+* No, it's an artificial software limitation. It gives one more reason for people to want a new machine.
+* Ars Technica has been writing in-depth articles documenting how iOS updates wreck old devices.
+* Sample article (many more are on the site for various devices): https://arstechnica.com/gadgets/2014/09/ios-8-on-the-iphone-4s-performance-isnt-the-only-problem/
+* https://arstechnica.com/gadgets/2014/11/ios-8-1-1-iphone-4s-and-ipad-2-a-little-faster-kind-of-sometimes/
+* It's still a real good Youtube machine.
+* Native YouTube app died a long time ago and using Safari would result in crashes due to 256MB of ram multiple years ago. No way that it runs better than a Fire 8 in 2018.
+* Installing Chrome would make no difference in browsing experience. "Browsers" for iOS are little more than Safari wrappers with bookmark/history syncing. The underlying rendering engine is exactly the same as Safari's.
+* And yet that is my experience watching my cameras on my network.
+* Clearer picture.
+* Faster rendering.
+* Better touchscreen response.
+* Evidence for this:

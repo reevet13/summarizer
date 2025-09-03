@@ -1,0 +1,9 @@
+Kinetic Energy is defined as --&gt; E=.5MV^2
+
+I calculate the Kinetic energy as (.5)(10)(20)^2 = 2000 Joules.
+
+I calculate the Kinetic energy of each as (.5)(10)(10)^2 = 500 Joules.
+
+Because they are equal in mass, they stop at collision and the Total energy of both masses when they collide will be 1000 Joules.
+
+In both senarios, you have a relative velocity of 20m/s comming to a complete stop yet in the second scenario you only have half the Kinetic Energy.

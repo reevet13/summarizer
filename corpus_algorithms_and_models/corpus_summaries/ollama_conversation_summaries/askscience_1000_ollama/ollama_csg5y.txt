@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+The boring part is that Maxwell's equations and the Lorentz force would be slightly modified so that the magnetic field would act sort of like an electric field does around an electron.
+
+A monopole would have magnetic field lines start or end at the monopole, depending on whether it is a positive/negative monopole (possibly they could be equivalently labeled north or south monopoles).
+
+Yes. One design could in principle use a magnetic monopole to create a magnetic field, have a wire loop rotate in that magnetic field in such a way that the magnetic flux changes with time (the loop shouldn't contain the monopole, but the loop should be rotating above the monopole). Then via Faraday's law an electric field is induced in the wire producing an AC current.
+
+Yes. It would induce a magnetic field in a ferromagnet, and depending on its sign be attracted/repeled to other magnetic materials. The equations of the attraction would differ slightly, as the force between two dipole magnets is complicated (depends on the gradient of the dot product of the magnetic field it is in and magnetic dipole moment). A magnetic monopole has a simpler movement; it is just experiences an acceleration along the direction of the magnetic field lines created by the other magnets.
+
+A magnetic charge in a magnetic field follows the direction of the field while an electric charge moves perpendicular to it. A magnetic charge in an electric field moves perpendicular to it, while an electric charge follows it.
+
+The magnetic field around a monopole is the same as an electric field around an electron.
+
+Yes. It's how you can use moving magnets to induce electricity and electricity to induce magnetism in certain materials. It's how electric engines can be used to both drive the vehicle and store energy while braking.

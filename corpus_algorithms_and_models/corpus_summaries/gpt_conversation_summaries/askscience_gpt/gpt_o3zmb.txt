@@ -1,0 +1,15 @@
+The bulk modulus (how much something compresses when it's squished) of water is 2.2 gigapascals, while the ocean depths are about 0.1 gigapascals. That means it compresses by about 5%.
+
+Practically speaking, the amount of force needed to compress water is so large that we tend to think of it as not being compressible at all. This is not literally true though and under extreme pressures (like at the bottom of the Marianas Trench) water will be compressed slightly.
+
+The neat thing about this is that lots of other substances compress more that water. So if you took, say, a chunk of Styrofoam and put it in the water, it would float. Drag it down 100 feet and it will float to the top. But drag it down far enough and the pressure will compress it until it is more dense than water and it will sink to the bottom.
+
+Theoretically. But the equilibrium would be unstable: a tiny nudge in either direction would send it up to the surface or down to the bottom.
+
+If we compress it isothermally from room-temperature, at about 1 GPa of pressure (145,000 psi) it will turn from liquid to Ice VI. Further compression would result in conversion to Ice VII, then Ice X, then Ice XI. Each of these 'ices' represent different arrangements of the water molecules within the solid lattice structure of ice.
+
+Pressure is absolutely required. Have a look at the [phase diagram](http://www.lsbu.ac.uk/water/phase.html) KevZero posted earlier. It shows that at fridge-freezer conditions, ice Ih is formed, but to produce the higher structures, you must hold your ice block above a certain pressure (very high) and within a specific temperature range which depends on the pressure.
+
+If the purpose of the water was for consumption on a space mission the compression wouldn't help you much. The expense of a launch can come down to its payload to fuel ratio, which depends on the mass of the payload (which would include the water).
+
+Hypothetically speaking, if you reduce the volume of space the water *must* use, you do end up in a net gain, even if the overall payload's mass is unchanged, though if you're using the "gained" space for more material, you're actually going to increase the payload by packing the water more efficiently. And on the reverse, if you reduce the overall size of the spacecraft because of the reduction in the size

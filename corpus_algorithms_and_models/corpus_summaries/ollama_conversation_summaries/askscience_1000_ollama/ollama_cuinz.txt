@@ -1,0 +1,13 @@
+Here is the summary of about 10% of the original text, up to 250 words:
+
+Gyroscopic forces are not required for a rider to balance a bicycle. The stability of a bicycle is determined by its geometry and the rider's ability to counteract tilting by steering.
+
+When you sit on a stationary bicycle, it is very difficult, if not impossible, to keep it from falling over. Yet, at speed, it is extremely easy to keep from falling over.
+
+The wheels do have a gyroscopic effect on the stability of the bike. The same is true for motorcycles, and if anyone has seen a motorcycle rider in full lean, they would know that simply steering cannot pull you out of something like that.
+
+If you are leaning right on a bicycle, the main reason you don't fall down is not gyroscopic forces, but the fact that you're (hopefully) turning right at the same time.
+
+Leaning right produces a rightward force that will cause you to fall down. This is simply a result of gravity and a lever (you and the bike are the arm, the tire-pavement interface is the fulcrum).
+
+Turning right produces centripetal forces on you, towards the left - enabled by the friction between the ground and the bike tires, the same "fulcrum" so to speak.

@@ -1,0 +1,19 @@
+The easy answer is that you did not enlarge the picture enough. If you blow it up, the moon will eventually cover the size you want it to on the picture. There is a much more complicated explaination involving FoV, focal lengths and sensor resolution. Feel free to reply if you are ready for some basic optics and camera technology.
+
+Geometric optics is a fun thing to learn, and can help you realize some things which might not be so apparently otherwise.
+
+The main principles to note are how to draw certain lines to find where an image forms.
+
+Assume you have a lens with a certain focal length.
+
+1) Parallel rays to the optic axis (that is going directly to the right or left) which hit the lens, will be bent to cross the focal point on the opposite side of the lens.
+
+2) Rays which pass through the center of the lens are not bent at all but continue going.
+
+If you draw lines using the first two rules, where they intersect should be where an image is formed.
+
+Notice that as you move your object further and further away, the size of the object (represented by the blue line on the right side) becomes smaller, and would decrease to a point when the object when to infinity (the line going through the center of the lens would be along the middle line / optical axis).
+
+In a camera, we will look at the fixed focal length lens (single lens) system, rather than a compound lens (for simplicity).
+
+Basically, most point and shoot (P&amp;S) cameras are incapable of zooming in far enough to resolve any meaningful detail in the moon. Different camera lenses have different fields of view; when you "zoom in" you are narrowing the field of view, allowing you to fill more of the camera frame with the object. Distance also plays a large role -- instead of zooming in to take a picture of a coin, you could walk closer and fill more of the frame in that way. But for all practical purposes you can't get closer to the moon. So you need to rely solely on your lens's field of view. Most P&amp;S camera are designed for things like taking party pictures, and snapshots of people no more than a few yards away. Because of this, camera makers give them a somewhat wide angle of view. A typical P&amp;S lens might for instance start at what we call 28mm. As a ballpark figure, that would probably let you take a picture of 6 or 7 people from no more than 10 feet.

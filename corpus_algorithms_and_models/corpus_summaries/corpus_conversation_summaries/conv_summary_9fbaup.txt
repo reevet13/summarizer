@@ -1,0 +1,158 @@
+Original Response: 
+I recently downloaded the bitpay app.
+Should I be worried?
+Anyone have any suggestions for wallets I can trust?
+It seems every wallet in existence is a scam...
+Samourai.
+Generally recommended wallets are:  
+
+&gt; Hardware wallet (highest security): Trezor or Ledger Nano S   
+
+&gt; Desktop wallet: Electrum   
+
+&gt; Android wallet: Samourai Wallet  
+
+&gt; iPhone wallet: GreenAddress.
+I second that.
+I just tried it, and although it looks OK, it doesn't have a required feature for me: Address book!
+I want to save contacts and be able to send them money without scanning the code!
+Am I the only one who likes this feature?
+Can anyone recommend a wallet that does this?
+Mycellium I think.
+They aren't as great.
+/u/samouraiwallet is this coming as a feature?
+Or has the user missed it?
+Thanks.
+Mycellium is super ugly and not user friendly at all.
+I want a wallet that I can show and my inexperienced friends can use without too much hustle.
+I don't want advanced features.
+I want a simple send/receive with address book :(
+
+Also better if it doesn't require pin to access it.
+It's just too much friction.
+Greenaddress.
+Electrum has a mobile app.
+Thanks!
+GreenAddress is OK, but the interface is a bit ugly, to be honest.
+I might use it.
+Electrum has too much friction.
+Honestly, they don't come as close as BitPay in terms of ease of use (specially for newbies).
+[removed]
+&gt; Scamourai Wallet does not deserve to be considered a Bitcoin wallet any more than Bch wallets do.
+Bch certainly is not BTC!
+UASF is not BTC either!
+Scamourai Wallet shilled for the UASF scam and ran a UASF node in the back end - not any Bitcoin Core version or any other software that follows the same consensus rules.
+Scamourai Wallet is just a scam, even worse than the Bch dishonest pretend-Bitcoin fork.
+Not only was UASF a dishonest pretend-Bitcoin fork, but users could also have their BTC (yes, BTC, not UASF shitcoins!)
+stolen by this wallet's centralized operators and/or their miner buddies.
+&gt; 
+&gt; Scamourai Wallet cannot be trusted.
+&gt; 
+&gt; Source:
+&gt; 
+&gt; https://np.reddit.com/r/Bitcoin/comments/8gkroh/samouraiwallet_aantonop_use_samouraiwallet_for/dydpkxb/?context=3
+&gt; 
+&gt; https://github.com/bcoin-org/bcoin/pull/205.
+Ugh.
+We really need a simple to use, newbie friendly, honest wallet...
+The fuck are you on about?
+The UASF won and became consensus.
+It's a ***positive*** thing that they supported it as ones of the first.
+Are you by chance pretending to not support BCH, to then sow division in the Bitcoin community?
+that's a bunch of ignorance.
+It doesn't matter at this point anyway, segwit is activated.
+Samourai wallet is ahead of the game.
+Mycelium fell a bit out of favor after they messed up fees and then added ads in their wallet.
+I think Greenaddress would be a better choice, and has IIRC an address book.
+Maybe give it a look - but make sure you understand their system with "2 out of 3" addresses.
+It's a bit different than other wallets and matters if you need to claim forks.
+Greenaddress.
+No, this encourages address reuse which is harmful for you and your counterparty.
+We will not implement such a feature.
+Instead we have implemented a privacy friendly contact list based on BIP47 called PayNyms.
+You can read about it here: paynym.is
+
+Hope this helps.
+Thanks for the reply!
+I just want to be able to send money to my friends by looking up their name in my address.
+If there's something harmful about it, I feel like someone has to figure it out.
+I took a quick look at PayNyms, but I didn't seem to be able to add someone with the name I chose.
+Am I wrong?
+I'd be happy to use Samourai Wallet if that's the case.
+&gt; Are you by chance pretending to not support BCH, to then sow division in the Bitcoin community?
+No.
+Are you by chance pretending to support Segwit and Bitcoin, to sow division in the Bitcoin community?
+Actually, we do know that UASF was definitely NOT about activating Segwit, and all about other things, such as scamming people.
+If there was just UASF (and no explicit agreement from miners to enforce Segwit), Segwit would not be safe to use (see here: https://np.reddit.com/r/Bitcoin/comments/9bc7r0/remember_this_post_one_year_later_and_bcore_hasnt/e52q3zg/?context=3).
+So I think I know the answer to that question.
+So I can just say:
+
+No, but I can prove that you are pretending to support Segwit and Bitcoin, to sow division in the Bitcoin community.
+u/bjandrus specifically asked for wallets which can be trusted and are not scams.
+You included Scamourai Wallet and Scamourai Wallet definitely cannot be trusted and they tried to scam their users before:
+
+https://np.reddit.com/r/Bitcoin/comments/9fbaup/bitpay_taken_down_from_the_play_store/e5w90u5/
+Troll^
+I would like to add Bitcoin Core to desktop for those who wants to help secure the network and have your own copy of the blockchain.
+This will take some time to download so if you're in a rush pick a light client.
+If your friends use Samourai or another compatible wallet, you can add their payment code (it begins with PM8T..) to your wallet and label it anything you wish.
+You can now easily send to them and even receive from them without needing to communicate addresses with each other or without revealing your entire wallet balance and history to them.
+SW.
+Thanks, that's cool.
+I feel like there's still a lot of friction to eliminate, though.
+I'll give it another try.
+I want something like this:
+
+You:
+
+Address book -&gt; new address -&gt; enters and and scan QR
+
+Your friend:
+
+Receive moneyy(shows QR) 
+
+
+And I mean, that QR can be that payment code instead of the real address, right?
+For me, that would be ideal, but I know that the technical side of it might be hard.
+But as an user, that's what I want.
+Easier to use means easier adoption.
+You're doing a great job.
+Thanks!
+I suspected that was why.
+Bitpay/Copay is hostile to Bitcoin.
+Their system doesn't even work for payments to most merchants.
+You should be generating unique payment addresses for each send and receive to protect your privacy and your friends/clients.
+Utility over aesthetic.
+Breadwallet is another option but not a great one .
+Samourai is the best choice out there.
+My concern is not only aesthetics.
+It's easy of use.
+I can generate interest in bitcoin among my friends if I have an incredibly user friendly and fast app.
+As secure, private, and awesome as Samourai Wallet is, I don't think they give me what I'm looking for.
+I just discovered that Bitpay is hostile to bitcoin, and that's why I'm looking for an alternative...
+But the app is as close as I've found to what I'm looking for.
+I don't think utility is incompatible with aesthetics and usability.
+Privacy is important.
+It's ultimately up to you.
+It's a little more ideal in my mind to have your friends send you a fresh payment address than keep sending to the same one.
+Agree.
+I used to be Mycellium's biggest shill.
+They were supposed to turn into what Samourai is now.
+
+Summary: 
+I suspected that was why.
+Anyone have any suggestions for wallets I can trust?
+But as an user, that's what I want.
+Samourai wallet is ahead of the game.
+I don't want advanced features.
+Am I the only one who likes this feature?
+&gt; 
+&gt; Scamourai Wallet cannot be trusted.
+I used to be Mycellium's biggest shill.
+Can anyone recommend a wallet that does this?
+It's ultimately up to you.
+It's just too much friction.
+I recently downloaded the bitpay app.
+Bitpay/Copay is hostile to Bitcoin.
+UASF is not BTC either!
+&gt; Scamourai Wallet does not deserve to be considered a Bitcoin wallet any more than Bch wallets do.

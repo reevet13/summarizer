@@ -1,0 +1,42 @@
+There's a lot more water in the corn and turkey than there is in the mashed potatoes.
+Microwaves heat food by exciting water molecules.
+Less water=less heat.
+Microwaves are [standing waves](http://en.wikipedia.org/wiki/Standing_waves), which mean that their peaks and valleys do not move.
+What this means in terms of the oven is that there will be areas of maximum energy and areas where the energy is zero.
+This will obviously cook food unevenly.
+Microwave ovens with turntables help to lessen the effect by moving the different parts of the food through the different parts of the waves.
+A good way to heat food more evenly is to turn the power level down and increase the cook time.
+Microwaves work by jiggling water molecules.
+The more moisture in the food the more there is to jiggle and generate heat.
+Additionally, the entire inside of the microwave is not bathed in a constant field.
+Rather, there are dead zones and power zones.
+This is why most microwaves rotate the food - so that it passes through the various zones.
+However, even then it is possible for food in certain areas to receive less microwaves than other areas.
+Solves some puzzling on my part, will have to cook food in stages to keep the heating even i guess.
+Thanks!
+Could you cite a source for that?
+The reason I ask is that the results of the corn and turkey cooking and the mashed potatoes not cooking is the same as you would expect from putting the food in a conventional oven.
+The mashed potatoes take more energy to heat because they have a very low surface area and have a good deal of fat in them, so I would not think that water content is an issue.
+i also believe that corn has the most water in it of the three because it is unprocessed plant matter that has (likely) initially been cooked in water.
+I am going to put this out here right now, because this is a common misconception about microwave ovens that is being given by every other person posting on this thread: Microwaves do not just affect water.
+They also affect sugars and fats as well.
+All three of those things become excited by microwaves in your oven.
+The reality is some foods take longer to cook than others, and microwaves do not cook food evenly.
+And you can measure the distance between two hot spots (two wave peaks - half wavelength), multiply it by the frequency (printed on the microwave) to get the speed of light.
+Neat, simple physics [experiment](http://www.physics.umd.edu/icpe/newsletters/n34/marshmal.htm).
+Wouldn't work if it was about how water was distributed in the food, as the other answers postulate, because water distribution has no relation to the speed of light.
+http://www.evilmadscientist.com/article.php/microappalam
+&gt;Microwaves work by jiggling polar molecules
+ftfy
+Thank you for correcting me...
+&gt; Microwave heating is more efficient on liquid water than on frozen water, where the movement of molecules is more restricted.
+It is also less efficient on fats and sugars (which have a smaller molecular dipole moment) than on liquid water.[10] **Microwave heating is sometimes explained as a resonance of water molecules, but this is incorrect: such resonance only occurs in water vapor at much higher frequencies, at about 20 GHz.**[11] Moreover, large industrial/commercial microwave ovens operating at the common large industrial-oven microwave heating frequency of 915 MHz—wavelength 328 millimetres (12.9 in)—also heat water and food perfectly well.[12]
+[deleted]
+While it is true that microwaves are absorbed by water molecules, which are polar, there's very little absorption by equal concentrations of other polar molecules... so it's misleading to try to equate water with any other polar molecules.
+Microwave ovens work because of the presence of water in food, and the vast majority of thermal heating in food is due to the excitation of microwaves absorbed by water molecules.
+While it is *technically* true that other polar molecules may absorb microwave radiation at 2.4 GHz, it is really irrelevant because *water* is much more effective at absorbing microwaves than anything else in your food.
+There are three reasons that microwave ovens do not cook food evenly :
+(1) is the penetration depth (the depth of maximum heating), which depends on the amount of water in the object.
+A thick slab of tofu would heat strongly in one part because the microwaves do not penetrate / heat all portions evenly.
+(2) The thermal conductivity of different foods is different -- it takes time for the region being effectively heated to spread into the non-heated regions.
+(3) The distribution of microwave radiation is not even throughout the volume

@@ -1,0 +1,10 @@
+Here is the extracted summary:
+
+Welcome to the daily Tech Support thread for /r/Apple.
+
+Should I get a MacBook Pro 2017 13 with a dual core i7 and 16gb of ram or should I opt for the 2018 MacBook Pro 13 with a quad core i5 instead and have 8gb of ram.
+I7 has multi threading, i5 does not.
+
+It depends on what you really do with the device. The quad core will help with rendering. I rather have the more ram though. Rendering is just really a waiting game.
+
+In what other cases would the quad core be helpful in?

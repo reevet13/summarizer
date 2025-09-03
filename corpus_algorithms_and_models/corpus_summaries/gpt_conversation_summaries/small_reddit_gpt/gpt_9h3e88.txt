@@ -1,0 +1,5 @@
+Youtube wants you to watch more vids, so it wouldn't make any sense for them to promote vids you wouldn't watch.
+
+The right wing slant of the Youtube recommendation algorithm [is](https://datasociety.net/output/alternative-influence/) [well](https://www.cjr.org/the_media_today/youtube-conspiracy-radicalization.php) [documented](https://www.theguardian.com/technology/2018/feb/02/how-youtubes-algorithm-distorts-truth).
+
+The article noted that the algorithm promotes sensationalist, divisive, clickbait-y type content and proceeds to give a single example of this (videos about Donald Trump, a person who is sensationalist and arguably to some, divisive).

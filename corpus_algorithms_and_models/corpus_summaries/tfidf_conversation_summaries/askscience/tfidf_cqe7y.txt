@@ -1,0 +1,51 @@
+Original Response:
+Instead of using radioactive markers and using chain termination to create copies of DNA that can then be sequenced, how close are we to taking a cell, pulling out the nucleus, sticking it under a scanning tunneling electron microscope, and getting a ticker-tape output: AAGCTTCGAGAA...
+
+Where in between those two are we?
+
+(as a starting point, I found this on wikipedia: http://en.wikipedia.org/wiki/Sequencing_by_ligation )
+There has been a metric shit ton of stuff written about new sequencing platforms and the race to the thousand-dollar genome, so I won't retype it all here. You'll want to look up some of the following:
+
+- so called "second-generation" sequencing, with platforms by 454, Illumina, life technologies (AB SoLiD), and Complete Genomics.
+
+- third-generation or single molecule sequencing platforms by Helicos and Pacific Biosciences.  These are closest to what you describe above, where you're reading from single molecules of DNA. (on the PacBio platform, you're actually watching a specially-modified polymerase incorporate labelled nucleotides, one at a time.
+
+The above are all either in use or in early previews. There are also technologies that are farther away, based on using nanopores.
+
+Look up some of these, do some reading, then come back if you have specific questions.
+Thanks for the term "second generation sequencing"; that turned up lots of useful info.
+
+of particular note were these two items: http://www.genetic-inference.co.uk/blog/?p=413
+
+http://www.genomics.purdue.edu/~ltl/data-web/2nd_gen_sequencing.pdf
+
+To summarize, they break the DNA to be sequenced into strands and amplify it (as they used to in the shotgun method), but now attach them all to a solid surface and sequence them all together at once.
+
+To do this, they flood the testing area with a mix of nucleotides that have a dyed group attached, which can then be excited with a laser and read. This dyed group can then be chopped off, leaving a regular-old nucleotide, allowing the process to be repeated for the next base in the sequence, without having to move or mess with the original strands.
+
+That's awesome!
+
+Part 3 of that genetic-inference blog post should be fascinating stuff; employing molecular tools to attach the labeled nucleotides (rather than just flooding the area and waiting for a spontaneous bond to occur) is..... just wow. o_o  (edit: I seem to be wrong on this bit, the 2nd-gen stuff does appear to be employing polymerase to bond the nucleotides as well (see the link below), goes to show how many years it's been since I looked at this process.)
+
+edit: this link provides animation to compare the older methods with the second-gen 454 and Illumina methods: http://www.wellcome.ac.uk/News/2009/Features/WTX056032.htm   
+
+Much more detailed; here's a specific question: how does the 454's method give off light when nucleotides are added to the sequence?  Is that a natural effect of the bonding process that being taken advantage of, or is 454 inducing it somehow?
+This is in the R&amp;D stages, and probably won't be feasible for a while, but it is still pretty cool:  http://www.phys.washington.edu/groups/nanopore/index.shtml
+
+I went to UW and am good friends with someone in this lab, it's a pretty cool process.
+Here, the term you're looking for is [Pyrosequencing](http://en.wikipedia.org/wiki/Pyrosequencing). 
+
+Also, I just remembered that [I wrote a post a while back about the PacBio system](http://chrisamiller.com/science/2010/02/10/third-gen-sequencing-pacific-biosciences/)
+
+Like I said, I'm happy to answer specific questions about any of this sequencing, but I'm far too lazy to type out an overview of the entire field.
+I actually work on a project where we stretch DNA out in a nano-sized channel, and then melt it slightly so that the AT bonds melt but the CG ones don't, and you get a 'barcode' of melted and unmelted bases. This lets you make maps of the DNA so you can see which gene is which.
+Is this similar to what [David Schwartz's group is doing](http://www.genetics.wisc.edu/user/68)?
+Similar.
+How do you get the DNA to stretch out along the nano-channel?  Charged particles in the channel, application of heat, or something?
+It's actually the natural state of a polymer when you remove one of its degrees of freedom. If it's in a channel that's on the same order as its persistence length, it stretches.
+thanks for both your replies!
+
+Summary:
+Look up some of these, do some reading, then come back if you have specific questions.
+Here, the term you're looking for is [Pyrosequencing](http://en.wikipedia.org/wiki/Pyrosequencing).
+(on the PacBio platform, you're actually watching a specially-modified polymerase incorporate labelled nucleotides, one at a time.

@@ -1,0 +1,31 @@
+Original Response:
+I was trying to imagine melted paper or trees lol
+Melted paper is certainly possible.
+Burning only happens in the presence of oxygen, so remove oxygen and heat anything high enough and it will melt.
+
+The factor which decides which materials behave which way in the presence of oxygen depends on which of the two phenomena requires the least amount of heating for any given material, as this is the one which will happen before the other has the chance to.
+
+For example, if a material would need to be 1000K to melt, but could burn at 700K when oxygen is present, it would burn before it melts, leaving you with the product of combustion.
+However, another material may melt at 700K and require a theoretical temperature of 1000K to burn it. In this case it would melt. The liquid may then burn at some temperature, which may not necessarily be the same temperature as the one theoretically needed to burn it.
+Wouldn’t there also be issues with the compounds in a material like paper degrading and chemical bonds breaking with enough heat applied even if oxygen isn’t available for combustion?
+What you would most likely see is that the intermolecular forces holding the polymer strands of the paper together would break first, which would cause the paper to melt.
+Then with more heat added the chemical bonds of each strand would start breaking down later.
+
+However, it is also entirely possible that for some polymer strands may be configured in such a way that the intermolecular bonds holding each strand together ‘outlast’ the chemical bonds of each individual strand. But this scenario is far less likely as generally the intermolecular bonds are far weaker.
+Sure.  The molten material you get won't be paper anymore, it will just have the same amount of each element in it.  It will have to be under considerable pressure, too.  The fixed carbon in paper will just sublimate if you keep heating it at 1atm pressure, and everything else will have boiled to gas before that happens anyway.
+Ok, this makes perfect sense. Thinking then about generating wood gasses by heating wood without exposing it to flame is this just a slow partial combustion or is it freeing the gasses by breaking the intermolecular bonds?
+If oxygen is present, the wood will be undergoing combustion and those gasses are carbon dioxide amongst a few others.
+
+If it is in a vacuum, you are melting and then evaporating the wood (you would need ridiculously high temperatures for this) and you would be getting gasses from breaking the intermolecular bonds of the chemicals that makes up wood.
+
+It may well be the case that you ionise the chemicals in the wood before they evaporate, I’m not 100% sure.
+[removed]
+I’m not talking about a hypothetical situation in a vacuum or trying to melt wood but instead the actual practice of heating wood to release combustible gasses, like if you were making charcoal.
+Okay so that’s just like my first example.
+This then wouldn’t really have much to do with intermolecular forces.
+In the case of combustion it is breaking and forming new chemical bonds
+That’s what I was checking on- basically if the gasses were already present and just captive in the material and released with application of heat or if it was an actual chemical reaction.
+
+Summary:
+In this case it would melt.
+In the case of combustion it is breaking and forming new chemical bonds.

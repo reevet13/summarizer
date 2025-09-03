@@ -1,0 +1,21 @@
+No, light always moves at *c*.
+
+However, a sufficiently massive star (or better yet, galaxy) distorts the geometry of space-time enough that lights path is changed (light always travels at *c* but also always follows the geometry of space-time).
+
+This can be seen in gravitational lensing.
+
+Light moves at the same speed (c) no matter how much energy it has.
+
+The light is always moving at c in a locally inertial reference frame, but that isn't what was asked.
+
+TL;DR, if you aren't sitting next to the star, then you will observe that it takes longer for light coming from a more massive star to reach than light coming from a less massive star at the same distance.
+
+In fact, as predicted and confirmed by Shapiro in the 60s, if you bounce a radar signal off Venus while the Sun is positioned so that the gravitational effect is the strongest, you find that it takes the light around 200 microseconds longer to complete the trip than it would if the Sun weren't there.
+
+It's essentially just a combination of gravitational time-dilation and lensing, and the effect these have on the speed of light as measured using coördinates far from the gravitational source.
+
+*Photons* always travel at c regardless of their environment, but the aggregate phenomenon we call "light" propagates at different speeds in different media.
+
+Yes and no.  Light always moves at *c* in a vacuum - that is true.
+
+When it passes through a medium it is the [refractive index](http://en.wikipedia.org/wiki/Refractive_index) that determines the angle the light moves at... and there is always some absorption involved.

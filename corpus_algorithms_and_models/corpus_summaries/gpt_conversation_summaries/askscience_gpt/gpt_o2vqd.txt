@@ -1,0 +1,13 @@
+Purely in theory, if actin & myosin were circular rather than linear, they would behave in a rotary fashion. This would be on a very small scale though.
+
+One thing to keep in mind is that within a sarcomere, there are myosin filaments facing both directions. Imagine your upper body is the myosin, and your outstretched arms are the myosin heads. You reach out & grab some actin on both sides, and pull *both* in towards your body.
+
+You could say the heads walk across the actin fibers, but you need to remember that the heads are connected to a longer filament. And at the other end of that filament are other filaments with heads facing the opposite direction.
+
+In reality, they're **both** sliding across one another, and the only motion that really matters is the shortening of the muscle.
+
+Take a look at [this image](http://www.scioly.org/w/images/d/df/Structure_of_Myofibril.gif) of a sarcomere, (forgive me if you know this already) which is the tiny, fundamental contractile unit of the muscle. Each muscle has thousands of these attached together & arranged in different ways.
+
+At both ends, myosin repeatedly grabs actin & pulls it towards the middle in a ratchet-like motion. Eventually the actin will collide in the middle (this can happen), but by that time the muscle has shortened to maybe half of its original length.
+
+To answer the 2nd part of your question, when the muscle relaxes, all the heads simply let go. Relaxation is a completely passive state, while in contraction, the action is always to 'shorten' the muscle.

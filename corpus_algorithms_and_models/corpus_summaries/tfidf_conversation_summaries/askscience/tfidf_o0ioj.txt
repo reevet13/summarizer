@@ -1,0 +1,12 @@
+Original Response:
+Does cooling lower the internal resistance and allow more charge to accumulate? What about during use do they perform better if very cold? Would this also help them to last longer, to perform more charge/discharge cycles?
+I was wondering about Ni-MH batteries that are usually taken out of the device to recharge them, but what about other types are their some general rules that apply to all types?
+No but Ni-MH batteries lose their charge more slowly if kept cold. Freezer cold helps them retain a charge longer while not in use. You are supposed to thaw them to room temp (70 F) before using them though. From personal use of such batteries in my off-grid home, I know that charging doesn't time alter based on temperature given the same batteries with same charge potential. The difference is in the self-discharge rate. Non-rechargeable batteries are much less affected by temp. (source http://www.greenbatteries.com/batterymyths.html#Freezer)
+This website actually does a fantastic job of explaining some of the things you were asking about:
+
+http://www.mpoweruk.com/performance.htm
+
+In a nutshell though, number of charge/discharge cycles has more to do with percentage of drain than temperature, at least for Li-Ion batteries.
+
+Summary:
+Freezer cold helps them retain a charge longer while not in use.

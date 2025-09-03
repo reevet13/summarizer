@@ -1,0 +1,12 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+It's not the nicotine. It's not the juice. Anytime I try to make these coils (5 wraps, 0.4 ohms), smoke between 20 and 60 watts, it burns. I can make Kanthal fine. I have SS 316L 22 AWG I can smoke at 55W. No issues.
+
+Something isn't right. Your numbers break physics.
+
+You either not using 22G, not using SS or have a bed connection.
+28g is the thinner one.
+
+A 10 wrap dual coil should give you .5ohms, and you could probably use 45-50W if your wicking is very good haha.
+
+Thanks for the reply! I wasn't sure what the heat flux reading meant. Good to know.

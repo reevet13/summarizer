@@ -1,0 +1,8 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+I boot up the disk with the installer, choose the SSD drive, click "next", then it performs the installation. After it's done it's going back to the installer like nothing happened.
+And then when I choose the SSD drive again, it says 
+"Windows cannot be installed to this disk. This computer's hardware may not support the booting to this disk. Ensure that the disk's controller is enabled in the bios menu"
+When you get to the choose where to install windows screen, select the partition and click delete, then if you want to have a big partition for windows, you can click the drive and then next, it will print saying it has to create a few more partitions for windows files and click ok
+I watched a video and the guy only deleted them.
+If you know which one is the one you are trying to install, you don’t need to

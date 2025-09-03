@@ -1,0 +1,26 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+MSI states the motherboard has a bios update allowing "raven ridge CPU" compatibility. Does that also mean it's compatible with the 2200G Apu?
+
+Build:
+
+* MSI B350 pro vdh
+* 2x4GB ddr4 2400MHz gskill Aegis RAM
+* 250GB 970 Evo m.2
+* 450w PSU
+
+You will need a updated bios for it to work. SInce you have a chip, upgrading it wont be a problem.
+
+For power consumption you should be under 100w.
+
+For linux make sure you running the latest kernel, there have been lots of amd gpu driver updates recently.
+
+I just checked the 660p. It looks pretty good but it seems like the memory module technology is inferior to the 970s. I don't know how it'll stand in the long term read/write game...
+
+The qlc will easily handle all the writes you will do, down worry about that.
+
+Its just a normal nvme drive, it will work like any other nvme drive, no special intel requrements.
+
+Thanks. I think you've just changed my mind.
+
+My final build will now be a R3 1200, 660p nvme with 512GB, 2x4GB RAM.

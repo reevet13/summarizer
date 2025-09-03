@@ -1,0 +1,35 @@
+Original Response:
+I spent most of today looking for an easy-to-use and ideally visual way to dork around with airplane shapes and mostly wound up frustrated. Am I missing something obvious, like a purpose-built model analyzer or high-quality smoke and wind support in Blender? Is this still a field dominated by $8000 software and GPL CLI PDE &amp; CFD solvers?
+Yeah, most computational fluid dynamics (CFD) programs are ridiculously expensive.
+
+I found [this](http://www.freefem.org/ff++/index.htm) free Finite Element Method (FEM) software; I'm not sure how well it will suit your needs.
+
+[Here](http://www.freecfd.com/) is a free CFD software. I haven't used either of the programs in the links I posted.
+I would've thought that such software would require a ridiculously beefy computer to run, or at least would need to run over a few weeks, in order to yield any results?
+http://www.caelinux.com/CMS/
+
+A Linux distro specialised on modeling. OpenFOAM is the CFD unit.
+I have a new 2.9 GHz Athlon II X3 and a GPU that I swear to god will eventually work under Ubuntu. I can handle beefy and I can handle waiting.
+Ooh. I might just VM that.
+
+I looked at OpenFOAM and spent rather a long time grumbling at its insistence on a three-month-old Ubuntu distro despite their *six years* of prior versions. For various reasons I'm not updating past Karmic. Do you have any idea how I could get OF 1.60 or earlier?
+It's not free, but it is really cheap, comparatively.
+
+http://www.x-plane.com/index_desktop.html
+
+You can create custom planes using simple shapes.
+
+May not do what you need, exactly, but it might be good enough.
+
+Last time I checked it was like $80.
+Ha! I didn't figure any flight sims would actually care about model shape. That's fantastic.
+Yeah, X=Plane kinda rocks.
+
+I just checked:  $29 for the full retail package.  The FAA certified version is an extra $500.
+Build 1.7 yourself? Havn't tried it, though
+
+http://www.openfoam.com/download/source.php
+
+Summary:
+I might just VM that.
+[Here](http://www.freecfd.com/) is a free CFD software.

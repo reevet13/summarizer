@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words:
+
+So a couple of days ago I bought an ASUS USB AC68 wifi adapter. At the time I was deciding between the USB and PCI-E versions but I stuck with this out of convenience.
+
+When I got home, I plugged it in, installed the drivers and it worked. However my download and upload speeds were much slower than expected.
+
+Is there a reason for the difference in speeds on Mac OS and windows? Should I exchange this for the PCI-E one?
+
+I have tried reinstalling the drivers, using the realtek driver, clearing my cache, turning off IPv6, and googling over and over with no results.
+
+If anyone can point me towards a good solution or explain what is going on, that would be amazing. I am pretty unfamiliar with how all this works.

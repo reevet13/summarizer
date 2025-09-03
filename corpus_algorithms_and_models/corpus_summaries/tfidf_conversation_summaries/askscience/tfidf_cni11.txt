@@ -1,0 +1,37 @@
+Original Response:
+I'm not sure what APA pages are but keep text to an absolute minimum.
+
+No one will read the text. Use diagrams that can be seen and understood from 1 metre away. Use text to annotate these diagrams and provide a few more details.
+It sounds like you're about to fall into one of the poster traps: treating it like a paper that is put onto a board.
+
+Basically, you want your paper to be a glorified abstract where each line of the abstract gets embellished into about a paragraph, at most. Try to keep the details as simple as possible.
+
+I don't know your field, but for example in my field, I see shit all the time like "The density of aphids as measured by cumulative aphid days after taking the area of aphid density under a curve over time was examined to see whether . . ."
+
+For a post, this sentence should just be "Aphid density was examined. . ."
+
+You're allowed a bit of leeway with accuracy and comprehensiveness. This especially goes for the intro part, which you should condense to 3-4 sentences max, and the methods, which I would try to condense to 2 sentences max. Many people whine at me when I tell them that, but those that follow my suggestions end up with award-winning posters (literally, a few times!).
+
+Your focus should be your figures. These should be BIG, readable, with short, clear, understandable axes. If you (the presenter) needs to be present for a newb to understand the figure, you need to figure out a better way to display the data. Bar graphs are better than line graphs are better than scatterplots are better than anything else. Any sort of 3d figure should be avoided if at all possible.
+
+Also, while we (humans) think a poster should read like a scientific paper, this is not always the case. One problem with arranging things this way is that conclusions end up on the far bottom right, which can be hard to read/notice in many poster session setups. I recommend putting your main results front and center, where people will notice them.
+
+Also, think of the poster more like a talk than a paper - keep specific methods with specific figures and interpretations, rather than having a comprehensive methods section before multiple figures before a comprehensive conclusions section. The latter way is way harder to follow than the former way. 
+
+Finally, you say you want to have 10 citations. This is overkill! I would keep it at &lt;3. Everyone knows that posters choose only the most important citations, no one is going to think you're a plagiarist. Also, citations take up valuable space. Keeping on the space issue, many people look at peers' posters and see their university's logo plastered all over the place, or a giant funding acknowledgement. I highly recommend asking yourself whether these are necessary.
+
+I hope these suggestions (which is all they are, not rules) are useful! Good luck!
+OK. Major paradigm shift. I've been preparing it as a paper that will go on the wall. (With color in my figures.) 
+
+So, you're saying I should generally give a summary walk-through to my conclusions including lots of images so people will be able to understand in a minimum of time. 
+
+My topic is philosophical, so I won't be able to reduce it down to just annotating diagrams, but I will cut it down as much as possible and then make the paper available to whoever wants it.
+Wow. This is exactly what I needed to hear. It is as if you were looking at my work when you described how it should not be done. I will be using your post as my guide.
+Poster sessions are normally quite informal, people walking around glancing at posters. You want to get their attention, get your conclusions across and if they are interested they can look closer or ask you questions.
+No prob! I learned a lot of this from going to talks on poster presentations - [this guy](http://www.swarthmore.edu/NatSci/cpurrin1/posteradvice.htm) has (indirectly, we've never really met) helped me a lot.  Good luck!
+
+Summary:
+I would keep it at &lt;3.
+I will be using your post as my guide.
+Your focus should be your figures.
+No one will read the text.

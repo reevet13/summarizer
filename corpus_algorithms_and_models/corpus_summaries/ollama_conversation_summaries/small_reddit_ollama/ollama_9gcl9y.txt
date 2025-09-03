@@ -1,0 +1,12 @@
+Here is the extracted summary:
+
+Over the course of the last few months, [sources had been rumbling](https://www.macrumors.com/2018/04/26/kuo-no-3d-touch-6-1-inch-2018-iphone/) leading up to the iPhone/Watch event that Apple would not be offering 3D Touch on the low-cost 6.1 inch iPhone.
+
+Alas, Apple announced at the event the all-new iPhone Xr with ['Haptic Touch'](https://www.theverge.com/circuitbreaker/2018/9/13/17854864/iphone-xs-max-3d-touch-waste-features-apple) – essentially long-press to reveal 3D Touch-like features. I believe the iPhone Xr will be the beta test for removing the 3D Touch hardware from future iPhones and Apple Watches.
+
+* Some of us * are aware of what it does and how it works, but there's no way to discover the feature if you don't know it exists. Sometimes menus just pop up.
+* On iOS 12, there is a new delay between 3D Touch-ing, let's say a home screen icon, and when the menu pops up. I believe this is Apple conditioning users for a future long-press. Just like the home button moved to solid-state, so too will 3D Touch (a long press).
+* The 3D Touch hardware requires extra layers and sensors on a phone and watch screen. This limits Apple's ability to do what it *loves* to do: make products thinner.
+* Most of all, Apple loves money. Removing the 3D Touch hardware from the phone reduces the cost of the device, even marginally and allows for greater profit.
+
+Let me know if you'd like me to summarize further!

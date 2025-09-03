@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+Hello guys, I have a problem configuring a raid0 setup.
+
+My motherboard is de SLI x99 Krait edition, and my windows 10 is installed on a m.2 drive on board.
+
+I followed the instructions I found online, set the bios (updated to last version) to RAID mode, CTR+I on restart, configured the raid and selected the drives, then exit.
+
+When I restart in RAID mode, I get a message of wrong booting device, but even selecting my os drive on the boot menu gets me the same message.
+
+Thank you!
+
+You can edit the registry to use RAID mode, or you could reinstall Windows in RAID mode from the start.
+
+Let me explain a little.

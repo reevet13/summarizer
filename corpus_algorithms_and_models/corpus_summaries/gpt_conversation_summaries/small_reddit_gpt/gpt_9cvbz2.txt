@@ -1,0 +1,11 @@
+This is exactly why I delete my accounts every 6-12 months. There always comes a point where there's too much identifiable information associated with my account from normal use.  
+Nope. Usernames are unique, even after deleting an account.  
+It's a small price to pay for improved anonymity.  
+There's nothing guaranteeing your anonymity. These are just steps to make it harder.  
+The chances of me letting enough identifying information slip in a 6 month period is significantly lower than if I kept my account across 5 years.  
+There is nothing associating Account #1 with Accounts #2, #3, #4, #5, or #6, so you're resetting the bar of "how much can I say until someone can patch together my identity" with each reset. The idea is to do the reset *before* someone can patch together your identity beyond a reasonable doubt.  
+The main thing is comments by deleted accounts show as authored by \[deleted\] to the general public. Only reddit has the comment archive, and I don't know enough about their backend if they keep track of which comments were by \[deleted\] accounts. That kind of info isn't public, and would require expensive legal action to get to.  
+Would regularly deleting posts help?  
+Yeah, but that is significantly more work. There's plugins to do it, but I'd rather just delete the account entirely.  
+It would be hard for anyone but Reddit to link multiple accounts. It's a risk reduction, even if it's not 100% bulletproof.  
+So this is how privacy dies, with Corporate investigations.

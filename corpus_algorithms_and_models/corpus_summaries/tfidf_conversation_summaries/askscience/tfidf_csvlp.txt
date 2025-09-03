@@ -1,0 +1,33 @@
+Original Response:
+Just saw the article about scientists detecting the cosmic signatures of buckyballs and explaining how these can form naturally inside carbon-heavy stars.
+
+http://www.bbc.co.uk/news/science-environment-10730280
+
+Are there any molecules that we can unmistakably detect from lightyears away that we're pretty sure can only be produced artificially?
+
+If so, could we (should we?) spread some of these molecules all over our solar system?
+I can't answer that question, but I can provide some somewhat related and interesting information.  [This paper](http://www.liebertonline.com/doi/abs/10.1089/ast.2006.6.901) is about searching for chiral molecules in space, which is generally evidence of life.  Unfortunately you'll need some access to the online journal to read it.
+there are some really cool things regarding this, and how it seems only one (left?) orientation of molecules seem to occur naturally
+There is no way we'd be able to spread a sufficient amount to be detected. 
+
+When astronomers talk about 'small amounts' of molecules being detected, it's still on the order of trillions and trillions of tons of the stuff.
+I very much doubt it, as that would be pretty strong evidence for extra-terrestrial intelligent life, and would have been a huge scientific discovery.  
+
+If one was found, people would likely quickly come up with theories for how it could be made naturally in some extreme/exotic environment that mimics how we make it artificially.
+
+Also it is pretty difficult to detect molecules from small-scale production in outer-space.  You need a sun-sized or bigger object that is comprised of a significant percentage of the molecules being this type to be able to discern its signal from the background noise.  Remember everything all the emission/absorption lines you see to detect the chemical composition will be Doppler shifted (and broadened) depending on its relative velocity to us and you will see the absorption/emission lines of all the molecules that are there.  Things like bucky-balls have such a nice symmetry that its easier to deduce their presence compared to other compounds.  E.g., if you looked at earth from light years away, I doubt you would be able to make out CFCs in our atmosphere as they are such a low quantities.
+
+That said there are people looking for extra-terrestrial life via a similar method.  Rather than looking for an individual type of molecule that can only be produced artificially, they look for atmospheres that have compositions that indicate the presence of life by the ratios of compounds that exist in significant fractions (and are able to be produced naturally).  [[1]](http://arxiv.org/abs/0710.1444).   
+Also people have tried detecting life on Earth from a similar technique using but with space fly-bys (only having to be "planetary distances away" rather than light-years), Sagan had a Nature paper on this. [[2]](http://www.nature.com/nature/journal/v365/n6448/abs/365715a0.html)
+[deleted]
+Here's the [full paper](http://www.liebertonline.com/doi/pdfplus/10.1089/ast.2006.6.901), btw.  I haven't made it through the paper yet, but it seems like you'd need stupendous amounts of biomass for this to work.
+Sure, we could detect them using spectroscopy, and that is the first thing that planet-hunting astrophysicists will be looking for when they find earth-like planets. :-)
+I know, I find molecules of acid lying around everywhere.
+Are you being sarcastic? Because you do find molecules of all kinds of acids, literally everywhere.
+
+Summary:
+orientation of molecules seem to occur naturally.
+http://www.bbc.co.uk/news/science-environment-10730280
+
+Are there any molecules that we can unmistakably detect from lightyears away that we're pretty sure can only be produced artificially?
+If so, could we (should we?)

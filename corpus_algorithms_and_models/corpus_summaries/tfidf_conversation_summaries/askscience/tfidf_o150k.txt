@@ -1,0 +1,38 @@
+Original Response:
+If the twins had sex with her at the same time, would there be any way to determine who is the father of the child? They have the same DNA - right?
+You are correct, identical twins share identical DNA, you can't tell the twins apart with a dna test, let alone their children!
+[deleted]
+I think this question has been asked before, and someone said something about epigenetic traits mumble mumble...
+You can tell them apart, although it would be difficult. Human have an extremely high mutation rate (on average 175 point mutations per haploid genome per generation); many of these mutations occur early in development, and thus will be unique mutations present in most if not all of the cells of one, but not both, of the identical twins. By looking at mutation hot spots, such as long di-nucleotide repeats, you should be able to discover the paternity of the child; however, it would be a surprisingly large amount of work.
+Can you explain the "175 point mutations per haploid genome generation." I'm confused as to what that means.
+we just had this discussion with my in-laws.  apparently, there were two sets of identical twins in our town who married-- two identical twin brothers married two identical twin sisters.  they built houses next to each other and lived a great life making light of the weirdness of it all throughout their lives into their eighties before passing.  
+
+We all sat around wondering things like this, and whether anyone ever got mixed up or if any of them tried to deceive each other out of curiosity.  also, if their children were identical as well and whether or not their could actually be identical twins from two different sets of parents or if the paternity could be proven.  
+
+Members of their families still own the homes and I am tempted to go knock on their doors and go interrogate them.
+Sorry, sure. First off, I probably shouldn't have said point mutation. I would call it a SNP, but  . . . well, never mind. 
+
+There are many different kinds of mutations, some times you change a single base pair to a different pair of bases, some times you chop a few base pairs out, sometimes you duplicate or delete whole chromosome arms, and sometimes you can do a ton of other things. The point is, each of the different types of mutation can happen at very different rates. I am only giving the rate of mutation for one particular kind of mutation, switching one base pair for an other. 
+
+Next we need to know that humans carry two copies of their genome, since we are diploid. Since people usually talk about the size of one copy of the human genome, ~3 billion base pairs, it makes sense to talk about the mutation rate per one copy of the human genome, rather than the total number of mutations a single offspring is likely to inherit. 
+
+Finally, we need to put mutation rate in units of time. There are several natural units of time to use, such as per cell replication or per year. The generation time seems like a natural unit for evolutionary biologists so I chose this unit (as did the paper that I'm pulling my number from). 
+
+Basically I was asserting (wrongly, more on that in a second) that there were 300 single base pair changes between offspring and their parents, (most of these would be differences between offspring and their father).
+
+However, I believe I was misremembered the number and that it was actually 75 mutations per-haploid genome (I think it was in a paper by Keightley titled something like "Direct estimation of something or other", but I can't seem to find it right now). Also, a more resent paper from Mike Lynch probably gives a better estimate that is smaller of 44 mutations per haploid genome.
+A moment's thought should make you realize that their children will not be identical, for the same reason why two (non-twin) children from the same set of parents are not identical.
+Identical twins have the same nuclear DNA but they don’t have the exact same mitochondrial DNA. Scientists actually use the term monozygotic (from one fertilized egg) instead of identical because of these differences. With that said, traditional, buccal swab, paternity testing focuses on nuclear DNA so it is not possible to determine which of them is the biological father of the child.
+*delurks*.
+
+This has actually happened, and they were unable to determine paternity.  If I'm reading the article correctly, they just went with the guy that the woman thought was the mother (which just goes to show how scientific the legal system isn't): http://abcnews.go.com/TheLaw/LegalCenter/daddy-paternity-battle-brothers/story?id=3195632#.TwOUtIGTPOk
+
+[Okay, technically this isn't a scientific answer, but it's so responsive I thought it would be okay.]
+
+*relurks*.
+
+Summary:
+Can you explain the "175 point mutations per haploid genome generation."
+First off, I probably shouldn't have said point mutation.
+Finally, we need to put mutation rate in units of time.
+If the twins had sex with her at the same time, would there be any way to determine who is the father of the child?

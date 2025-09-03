@@ -1,0 +1,31 @@
+Original Response:
+Earlier this summer, [NASA astronaut Scott Tingle](https://www.nasa.gov/astronauts/biographies/scott-d-tingle/) returned to Earth after spending 168 days living and working in low-Earth orbit aboard the International Space Station. During a six-month mission, Tingle and his crewmates completed hundreds of [experiments](https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=1673), welcomed four [cargo spacecraft](https://www.nasa.gov/feature/visiting-vehicle-launches-arrivals-and-departures/) delivering several tons of supplies and experiments, and performed [spacewalks](https://blogs.nasa.gov/spacestation/2018/05/17/captains-log-spacewalking/). To document the happenings aboard NASA’s orbiting laboratory, Tingle kept a journal that provides his real-time reflections about his first spaceflight, including this [Captain Log](https://nasa.tumblr.com/post/174436148699/astronaut-journal-entry-the-last-week) that mentions the five things he will miss about being in space. Starting at 3 p.m. EDT on Sept. 12, you can ask him anything about adjusting to being back on our home planet!
+ 
+Proof: https://twitter.com/NASA/status/1039228526619189251
+
+Thanks for joining today's AMA! I'm signing off, but appreciate all the fun questions!
+Not really about adjusting to earth but:
+I would think you try to exercise when able to in space to not lose too much muscle mass. How do you do that? Powerball? Elastic bands?
+Yes - we exercise for 2.5 hours every day while on International Space Station (ISS).    Our resistive exercise device (ARED) provides us with excellent weight training activity that minimizes bone loss and keeps our muscles conditioned.
+What if you've spent say 30 years in space - would this amount of exercise keep your body in reasonable shape indefinitely so you could still adjust to Earth's gravity in reasonable time?
+No expert, but I know they have major concerns with prolonged exposure to microgravity. Bone density loss, muscle wasting, loss in vascular tone, etc. but they’re very concerned with going blind. The small delicate eye muscles atrophy without being forced to resist pressure (gravity). It’s a scary, but interesting thing to look into.
+If anyone is wondering about the ARED and how it works [this is SED and the awesome guys at NASA showing it off.](https://youtu.be/05oOst9kZXQ)
+When doing calculations for a trip to Mars, do they account for the additional calories they need to bring along to compensate for the 2,5 hours’ worth of calories each astronaut  burns each day, in addition to ~2kCal just for sustainment?
+He said in another response that he still trained at a NASA gym for 7 weeks after he returned to get back to normal.
+Just gotta pack that Vitamin T and/or S.
+We’ll probably solve that problem with a centrifuge right?
+Doesn’t quite work. Would require a gigantic radius in order to properly mimic one g. And even then, the Coriolis effect creates a problem. Doesn’t work like in the movies.
+This answers my question: so far the tests show that ARED device completely preserves at least bone density, and probably does enough preservation of muscles too.
+eli5?
+[deleted]
+Like the Belters in The Expanse
+Wouldn’t it matter more about the speed of rotation rather than the radius? Higher speed = higher centrifugal force, no?
+Yeah, but coriolis effect means force at your feet will be different at your head. It would make you extremely sick.
+Never heard this, but interesting! Some quick googling leads me to believe that 2 rpm is the rotational period needed to offset the Coriolis effect and the associated nausea etc, so one rotation every 30 sec. And to produce that, the *radius* of rotation would have to be 224m, so yeah, definitely not feasible for a multitude of engineering reasons.
+[deleted]
+
+Summary:
+Doesn’t work like in the movies.
+Yes - we exercise for 2.5 hours every day while on International Space Station (ISS).
+Not really about adjusting to earth but:
+I would think you try to exercise when able to in space to not lose too much muscle mass.

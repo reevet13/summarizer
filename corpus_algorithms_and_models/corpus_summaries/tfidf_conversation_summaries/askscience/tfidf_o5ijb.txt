@@ -1,0 +1,32 @@
+Original Response:
+I know how a hard drive works (the extent of my knowledge is summed up in this excellent video http://www.youtube.com/watch?v=Wiy_eHdj8kg )... but when you hear a hard disk drive grinding, what am I actually hearing? Is it the actuator arm being driven back and forth? Some little relay somewhere? What is happening?
+I have not watched the video you linked, but you provided the correct answer: The "thinking" noise from your HDD comes from the arm moving rapidly across the disk platters to seek different tracks. Of course, the actual reading/writing of data produces no sound.
+
+In modern drives, the arm is moved around using an electromagnetic arrangement known as a "voice coil" or galvanometer. This allows highly precise and rapid seeks to the correct positions (remember the actuator has to constantly get the heads to the right place on a series of platters which are spinning at ~7k RPM). In more ancient drive designs, a stepper motor was used to move the arm around.
+
+The voice coil method is superior to the stepper motor design, as the voice coil uses a "feedback loop" to navigate the platter geometry. This allows it to actually go to the correct tracks, automatically compensating for things like thermal expansion and contraction in the metal components in the disk. The stepper motor can really just go to a bunch of predetermined positions and "hope" the track is found there. In old drives, the tracks were so wide that they usually were found in the expected place, but this is no good for the high track density of modern drives.
+
+The following is part of a larger excellent series on HDD technology, and contains detailed and interesting information about this sort of stuff: http://www.storagereview.com/guide/actActuator.html
+
+Note also that there is never any contact between the arm/head and the platters. Some people erroneously believe the "thinking" noise is such contact occurring. If it is, then the drive is about to fail: Such a condition is known as a "head crash", and is considered devastating. It will generally render the drive inoperable, and the data unrecoverable without sophisticated forensic techniques. The heads actually "float" at a distance above the platter which is measured in **nanometers**. When you consider the high spin and seek speeds of modern drives, the fact that you can bump a running drive without instantly causing a head crash blows my mind :)
+
+ --a lowly computer geek who loves knowing how everything works
+It's the very fast movement of the arm back and forth.  Likely the data that is being accessed is spread across the platters in a manner that causes the arm to essentially vibrate as it moves to the next section of the platters.  More to your question:  the arm is moved via electromagnetism, the non-head end of the arm has coils which are variably energized to cause movement against a magnet which is also mounted near that end of the arm.  As this energy conversion happens and the arm moves it makes that noise, more noticeably when the data being accessed causes rapid movement of the arm.
+I wondered if it was a stepper motor somewhere, because I know some/all floppy disks drives used stepper motors... but the stepper motors I have used only have like 200 positions, and I thought there is no way they could be used...
+
+So, do you have any thoughts on why the galvo is making noise? Obviously it's moving pretty quickly, but I would have thought it would need to be super rigid, so it wouldn't vibrate and make noise.
+Thanks for the answer. Like I asked the other guy, thoughts on why moving the arm makes noise?
+The noise comes from the fact that the theory of operation of the arm/galvo is actually pretty similar to that of a typical loudspeaker setup! In fact, the term "voice coil" comes from the construction of loudspeakers.
+
+Electrical fluctuations cause the coil to move. In the case of a speaker, the coil is attached to the membrane or cone (made of paper, plastic, or any number of more fancy materials) which moves and induces the vibrations in the air which we perceive as sounds.
+
+In the case of the hard drive, for any typical operation (loading an application, saving a document, etc) the drive may need to seek to **many** different tracks, causing the arm to move around **a lot**. The vibrations induced in the arm by these rapid movements are analogous to the sound-causing vibrations of the loudspeaker.
+
+So basically, the arm moves around so rapidly that it experiences small vibrations and functions as a little speaker :)
+I apologize, I didn't watch the video prior to responding.  I guess you are asking what makes that single 'click' as the arm is moved by the actuator.  On that I could only speculate.
+[deleted]
+
+Summary:
+Like I asked the other guy, thoughts on why moving the arm makes noise?
+In more ancient drive designs, a stepper motor was used to move the arm around.
+In modern drives, the arm is moved around using an electromagnetic arrangement known as a "voice coil" or galvanometer.

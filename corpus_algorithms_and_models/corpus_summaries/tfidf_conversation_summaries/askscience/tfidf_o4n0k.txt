@@ -1,0 +1,20 @@
+Original Response:
+[deleted]
+Well, a hard disk would have to involve a literal ceramic disk, and it definitely isn't that.
+I think it's more like an SSD with super fast load times, but the information isn't indexed very well, so that's why we are forgetful.
+Its none of those. The things you speak of are typically very serial in operation.. Generally speaking, bit by bit. Brains are massively parallel....  Lets pretend that we have a memory that is a brain harddrive - and we want to reference a particular file called "Orange". The harddrive brain would immediately activate all of the bits on the hd platter involving the Orange file - just by asking it "orange". Not only that, it will sub-activate spans of bits related to thing that are orangish.. Of course, to a certain limit... So in an instance, the whole concept of orange is "turned on" in what would be one clock tick (sorta)... 
+
+What you had for breakfast is stored as a collection of concepts strung together with common time bindings... You think "breakfast" and "this morning" - wham, those interweaved neurons turn on.. which in turn fires up the "cereal" neuron collection.. maybe the "toast" neurons fly into action.
+I think that thinking about it in terms of our usual computer hard drives is the wrong approach to begin with, regardless of what stipulations we put in place.
+[deleted]
+The way I've understood it is that our brains work more like Google. If you think of cars, you will probably pull up the specific bit you're looking for but you'll also get a lot of things that only relate tangentially. You may get memories of a girl that you drove home once and some tidbit you read once about a Ferrari. So, I suppose you could say it's more like distributed storage searchable by keywords (where the word might be a smell or an emotion)
+Human memory is biological. The others are based on doped silicon. It is like neither.
+
+But on a serious note, I am not sure it would be ethical to conduct experiments in which we cut off the feed of energy to the brain just to see how much memory is retained...
+Well, the thing is, computers are used often as an analogy for how memory works whilst the reality is reversed. The computer model is modeled on the human memory system.
+
+Depending on the type of memory system you specify the cognitive models vary. The most used representation of how the long term memory stores is as a semantic network. At the physical level it most likely is tied into the neural pathways between the brain cells.
+
+Summary:
+The computer model is modeled on the human memory system.
+The way I've understood it is that our brains work more like Google.

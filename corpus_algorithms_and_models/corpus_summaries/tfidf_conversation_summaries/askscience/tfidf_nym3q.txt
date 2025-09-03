@@ -1,0 +1,159 @@
+Original Response:
+Recently I watched a light and airy but still enjoyable (especially the music) documentary on Netflix entitled, "Cave of Forgotten Dreams".  I enjoyed but it I found more than some bits troubling.  
+
+The sculpture that they mention in the documentary is attributed to homo sapiens exclusively.  
+
+
+
+Question 1) How do we know this? 
+
+
+It seems to me we "know" this in the way we "knew" humans and neanderthals couldn't have interbred.  I am an RN by training but when  I took an elective cultural anthropology course in 1996 that was the hard "party" line and that opinion never sat well with me.  Last year or so it was shown that humans carry about 4% neanderthal DNA.  
+
+
+Question 2) How do we know neanderthals died out as opposed to being absorbed by the dominant and more successful breed?  This seems far more likely on its face to me.  
+
+Thanks!
+&gt;Question 1) How do we know this? 
+
+Tool sets.
+[Mousterian](http://en.wikipedia.org/wiki/Mousterian) tools were used by Neanderthals and are quite distinctive. 
+
+[Homo sapiens use Aurignacian.](http://en.wikipedia.org/wiki/Aurignacian).  All Neanderthal usage of Aurignacian appears after anatomically modern humans appear in Europe.
+
+&gt;**How do we know neanderthals died out** as opposed to being absorbed by the dominant and more successful breed? This seems far more likely on its face to me. 
+
+Well to answer that first part - because they're all dead.  Moreover, the genomic contribution of Neanderthals to the European genome is pretty small.  As to what happened to them, we dunno. Obviously there was some interbreeding, but for a 4% contribution of European genomic DNA, that doesn't really tell us how widespread it is.  We'd still have to know what % of DNA the Paleolithic humans contribute to modern European DNA (as opposed to Neolithic farmers from the Fertile Crescent that moved into the area after the last glacial maximum.) 
+
+But, iirc, there was a paper not too long ago that claimed that the previously speculated Neolithic intrusion into Europe wasn't as bad as previously thought and most Europeans can be traced back to Paleolithic populations.  In which case, Neanderthals were probably still out-competed and/or killed as opposed to being absorbed wholescale. 
+
+edit: a quick google finds this article:
+http://www.ncbi.nlm.nih.gov/pubmed/20087410
+That says that them paleolithic folks got their genetic asses handed to them by neolithic folks.  So if that were true, the 4% contribution to modern European genomes doesn't really tell us much.
+
+But Wikipedia:
+http://en.wikipedia.org/wiki/Genetic_history_of_Europe#Apparent_migrations_into_Europe
+Indicates that we still don't have a clear picture on Paleolithic vs. Neolithic contributions to modern Europeans, so yeah.
+Q1: The question is not impertinent. When a hominid site is worked, a complete census of fossils and artifacts is done. The cumulative info from these censuses shows that sapiens sites can readily be distinguished from neanderthalis sites, whether there is fossil material or not, solely on the basis of the tools which are completely different. So far, data has been consistent, as far as we can say, for common objects such as assorted tools. Where it gets slipperier is for rare objects, such as the "venus"-type figurines. We must reasonably assume they are the product of the site (and culture) where they were found, but we cannot exclude that some of the more unusual items might have, on some occasions, been traded across cultural, or even species lines. 
+
+However, to belong within the purview of scientific inquiry, a hypothesis must be testable. So far, the hypothesis of sapiens/neanderthalis trade is not supported by any clear evidence, and it is unclear how it could be tested. Perhaps later, with more and different data.
+
+2 - We know interbreeding was episodic and rare on the basis of how little Neanderthalian DNA was integrated in the Sapiens one. This is not the story of 2 lineages fusing, it is 2 trains crossing in the night. Same for the Denisovians by the way.
+Thanks, that's a lot of food for thought.  Now I have more questions.  This is a great subreddit.  I'll try to figure them out for myself/other places first but if that is to no avail I shall return!
+Thanks! 
+
+Follow up question - how does the small amount of neaderthal DNA indicate the rarity of breeding?  Wouldn't population size contribute to just how much Neanderthal DNA is present and wouldn't the ongoing population explosion of homo sapiens decrease the overall amount of Neanderthal DNA in the human genome?  The DNA samples taken to find Neanderthal DNA were from modern humans, I wonder what how much Neanderthal DNA we would find in humans 5,000, 10,000 and 20,000 years ago.  Thanks if you can answer this!
+Start from your fusion scenario, which would result in a 50-50 representation in modern humans. I cannot answer however because this is not a simple dilution scenario. One must also factor in selection effects which would retain favorable DNA and flush out unfavorable variations. A very tricky problem indeed.
+
+For reference, a simple dilution scenario would get you about 4% DNA in 5 generations from a single cross. There is obviously much more going on here than that.
+These questions are all based off of an idea that Neanderthals and modern humans were different lineages in some sense. But it seems likely to me that they aren't. There is not one characteristic that you can point to that differentiates a "human" from a "neanderthal". Any physical differences (brow ridges, occipital bun) between the two population is due to regional variation. 
+
+When I say regional variation, I mean that small populations in relative isolation tend to develop separate traits from the main group (how allopatric speciation occurs). However, European humans were not separate from the Africans (who have their own physical regional traits more closely resembling the ideal of 'modern' man) or the Asians (who have their own regional traits as well, like the notch in their cheek bones) or even the Indonesians (who have elongated crania, low sloping foreheads), but rather of the same species and connected by gene flow, which prevented speciation. Even modern skulls occasionally show  http://en.wikipedia.org/wiki/Multiregional_origin_of_modern_humans
+
+Essentially, neanderthals didn't die out and were not absorbed, just as pre-modern Asians or Indonesians or Africans didn't die out; they were all constantly interacting with each other. Evidence can be seen at crossroads areas. Dmanisi, in Georgia (Eurasia) is one of those places where pre-modern skulls have been found showing a mix of traits from all regions of the old world (Europe, Asia, Africa).
+&gt; These questions are all based off of an idea that Neanderthals and modern humans were different lineages in some sense. But it seems likely to me that they aren't.
+
+Yes they are:
+
+[A Proper Study for Mankind: Analogies From the Papionin Monkeys and Their Implications for Human Evolution (2001)](http://www.scribd.com/doc/62248733/A-Proper-Study-for-Mankind)
+
+&gt; Another source of phylogenetic uncertainty is the possibility of gene-ﬂow by occasional hybridization between hominins belonging to ecologically and adaptively distinct species or even genera. Although the evidence is unsatisfactorily sparse, it suggests that among catarrhines generally, regardless of major chromosomal rearrangements, intersterility is roughly proportional to time since cladogenetic separation. On a papionin analogy, especially the crossability of Papiohamadryas with Macacamulatta and Theropithecus gelada, crossing between extant hominine genera is unlikely to produce viable and fertile offspring,but any hominine species whose ancestries diverged less than 4 ma previously may well have been able to produce hybrid offspring that could, by backcrossing, introduce alien genes with the potential of spreading if advantageous. Selection against maladaptive traits would maintain adaptive complexes against occasional genetic inﬁltration, and **the latter does not justify reducing the hybridizing forms to a conspeciﬁc or congeneric rank.**
+
+---
+
+&gt; There is not one characteristic that you can point to that differentiates a "human" from a "neanderthal".
+
+Actually they had fundamentally different patterns of cognitive development:
+
+[Brain development after birth differs between Neanderthals and modern humans (2010)](http://www.cell.com/current-biology/abstract/S0960-9822%2810%2901282-0)
+
+&gt; The development of cognitive abilities during individual growth is linked to the maturation of the underlying neural circuitry: in humans, major internal brain reorganization has been documented until adolescence, and even subtle alterations of pre- and perinatal brain development have been linked to changes of the neural wiring pattern that affect behavior and cognition [9]. The uniquely modern human pattern of early brain development is particularly interesting in the light of the recent breakthroughs in the Neanderthal genome project [10], which identified genes relevant to cognition that are derived in living humans. We speculate that a shift away from the ancestral pattern of brain development occurring in early Homo sapiens underlies brain reorganization and that the associated cognitive differences made this growth pattern a target for positive selection in modern humans.
+
+
+And they differed more from humans than do any two human groups from one another (at least in terms of physical morphology):
+
+[Evolution of the base of the brain in highly encephalized human species (Dec 13, 2011)](http://www.scribd.com/doc/75596574/)
+
+&gt; Permutation tests of group membership (N=10.000) were used to statistically assess differences in Procrustes distance18, 19, 20 between non-allometric mean shapes of H. sapiens and other Homo species. Neanderthals differed significantly from the early Homo average and modern humans were highly significantly different from all other Homo species (Table 2). Procrustes distance (Table 2) quantifies the overall difference between means of registered landmark configurations17. **The average distance between means within modern human populations (d=0.037) was ~25% smaller than between modern humans and Neanderthals (d=0.049).** However, biological understanding of these quantitative results required detailed analysis of the corresponding visualizations of the involved anatomical structures presented in Figure 4.
+
+---
+
+You are, however, correct to point out that different human groups have different introgressed DNA:
+
+[Genetic and Phenotypic Consequences of Introgression Between Humans and Neanderthals (Nov 2011)](http://www.scribd.com/doc/73697960/)
+
+&gt; VII. Different Regions of the Neanderthal Genome are Found in Different Modern Humans
+Relevant:
+
+[Genetic and Phenotypic Consequences of Introgression Between Humans and Neanderthals (Nov 2011)](http://www.scribd.com/doc/73697960/)
+
+&gt; As information about the distribution of introgressed fragments of the Neanderthal genomes in present-day populations increases, these fragments too can be examined to see if they show signs that they have been swept up in frequency by natural selection. If some of them do, this will be prima facie evidence that these introgressed fragments have brought with them some adaptive advantage. Unlike the events that were examined in the Hawks et al. paper, these would be unequivocal selective sweeps.
+
+&gt; **Will some of these Neanderthal fragments be found to be important in cognition, language ability, and other higher brain functions?** To find out, it will be necessary to understand the human epigenome and transcriptome in detail, so that we can determine the true impact of both structural and regulatory genes on the development and function of the brain (Konopka and Geschwind, 2010). The results are likely to be complex. For example, a human-specific allele of ADRB2 appears to be associated with increased intelligence in a young cohort and decreased intelligence in an older cohort (Bochdanovits et al., 2008). Such findings, if they turn out to be common, would suggest that at least some of the alleles that affect cognitive function may not be unreservedly advantageous. They may have moved to intermediate frequencies because of balancing selection ( [Pritchard et al., 2010] and [Wills, 2011] ).
+[deleted]
+[deleted]
+&gt; the genomic contribution of Neanderthals to the European genome is pretty small.
+
+True, but it was also a very diverse contribution:
+
+[Genetic and Phenotypic Consequences of Introgression Between Humans and Neanderthals](http://www.scribd.com/doc/73697960/) (Nov 2011)
+
+&gt; VII. Different Regions of the Neanderthal Genome are Found in Different Modern Humans
+
+[...]
+
+&gt; As information about the distribution of introgressed fragments of the Neanderthal genomes in present-day populations increases, these fragments too can be examined to see if they show signs that they have been swept up in frequency by natural selection. If some of them do, this will be prima facie evidence that these introgressed fragments have brought with them some adaptive advantage. Unlike the events that were examined in the Hawks et al. paper, these would be unequivocal selective sweeps.
+
+&gt; **Will some of these Neanderthal fragments be found to be important in cognition, language ability, and other higher brain functions?** To find out, it will be necessary to understand the human epigenome and transcriptome in detail, so that we can determine the true impact of both structural and regulatory genes on the development and function of the brain (Konopka and Geschwind, 2010). The results are likely to be complex. For example, a human-specific allele of ADRB2 appears to be associated with increased intelligence in a young cohort and decreased intelligence in an older cohort (Bochdanovits et al., 2008). Such findings, if they turn out to be common, would suggest that at least some of the alleles that affect cognitive function may not be unreservedly advantageous. They may have moved to intermediate frequencies because of balancing selection ( [Pritchard et al., 2010] and [Wills, 2011] ).
+
+As well as, in part, a very specific one:
+
+[Origin and plasticity of MHC I-associated self-peptides](http://www.scribd.com/doc/72598298/) (Autoimmune Review, Nov 2011)
+
+&gt; In most modern human populations, the majority of MHC I alleles have been acquired by introgression from archaic humans (Neanderthals and Denisovans)
+
+The MHC does a bunch of different stuff:
+
+[Immune signalling in neural development, synaptic plasticity and disease](http://www.scribd.com/doc/72616574/) (Nature Reviews Neuroscience, 2004)
+
+&gt; Accumulating evidence indicates that neuronal MHC class I does not simply function in an immune capacity, but is also crucial for normal brain development, neuronal differentiation, synaptic plasticity and even behaviour.
+
+And the other, more locally admixed genes we acquired might code for important stuff too.
+&gt; Question 2) How do we know neanderthals died out as opposed to being absorbed by the dominant and more successful breed? This seems far more likely on its face to me. 
+
+This question is presenting a false dichotomy that doesn't exist in evolutionary terms.
+
+Neanderthals both "died out" and were "absorbed". There are no pureblood Neanderthals alive any more, but portions of their DNA live on inside those of us who have it.
+If anyone has taken advantage of [23andme.com](https://www.23andme.com/), they will tell you how much of your DNA is neanderthal. For those who are curious, I am 3%.
+The scientific community is the one that promotes the idea that they died out. Prior to the "absorbed" evidence the line was one day there was just a few neanderthals left and when they died there were no more.  But if they interbred with Homo Sapiens then that is an entirely different scenario.
+And now that we have contrary evidence, scientists don't adhere to that view any more, as the data does not support it.
+
+Do you understand how scientists view the world? They don't "believe" in things; they interpret what the data most likely tells them. Sometimes the methodology is wrong, sometimes the questions being asked are wrong, sometimes the pieces just haven't been put together yet, sometimes the tools to acquire the proper data haven't been used or don't exist yet, etc.
+
+Other than mathematical proofs, nothing in the real world has actually been proven (IIRC; there may be other categories of ideas that have been proven also). It's all just theories that have been borne out repeatedly by experimentation.
+One of us doesn't know much about how scientists think and it isn't me.  Go do some push ups.
+Well since you've decided to resort to a sort of implied ad hominem, I'll invite you to show me up by explaining to a meathead such as myself exactly how I'm wrong about how scientists think.
+[deleted]
+From what I read, the crossing amounts to one interbreeding (which led to an offspring who's descendants lived on in the gene pool) between human and neanderthal populations every 20-50 years.
+Still, I've read a paper which puts the amount of interbreeding required to get the known DNA exchange at about 1 hybridization per 20-50 years.
+Wow, thanks that's awesome.  I got [this](https://genographic.nationalgeographic.com/genographic/lan/en/participate.html) for my wife and I to trace some of our far reaching lineage.
+That would imply strong selection pressure for archaic MHC alleles.
+
+Summary:
+Neanderthals both "died out" and were "absorbed".
+Different Regions of the Neanderthal Genome are Found in Different Modern Humans.
+&gt; These questions are all based off of an idea that Neanderthals and modern humans were different lineages in some sense.
+**
+
+---
+
+&gt; There is not one characteristic that you can point to that differentiates a "human" from a "neanderthal".
+These questions are all based off of an idea that Neanderthals and modern humans were different lineages in some sense.
+&gt; Question 2) How do we know neanderthals died out as opposed to being absorbed by the dominant and more successful breed?
+There is not one characteristic that you can point to that differentiates a "human" from a "neanderthal".
+Question 2) How do we know neanderthals died out as opposed to being absorbed by the dominant and more successful breed?
+The results are likely to be complex.
+Question 1) How do we know this?
+This seems far more likely on its face to me.
+&gt; **Will some of these Neanderthal fragments be found to be important in cognition, language ability, and other higher brain functions?
+So if that were true, the 4% contribution to modern European genomes doesn't really tell us much.

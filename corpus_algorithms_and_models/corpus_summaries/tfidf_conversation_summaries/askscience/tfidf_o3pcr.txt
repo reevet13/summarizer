@@ -1,0 +1,11 @@
+Original Response:
+When trying to learn words in a foreign language, I am often making up mnemonics to remember such as a silly image, a link word, or even just a phrase or context to remember it in.  Why is this easier than just memorizing a word and its definition?
+The use of mnemonics such at those you describe are likely to work at a number of different levels. Firstly, when thinking about memory and learning, it is important to emphasise the role of attention. That is, when you *personally* create a mnemonic, you are assigning more attention to it which makes it more likely that it will be encoded. Using mnemonics also helps to link the new knowledge, to existing knowledge networks, or unique (and therefore memorable) identifiers. So instead of having to recall the new information from scratch, you can be prompted by its link with the existing knowledge structures, or those unique/memorable things that you will "never forget" (like the silly words). 
+
+There is a copious body of evidence that demonstrates that using mnemonics such as those you describe can assist in the recollection of new learning. Much of these principles are outlined in the [levels of processing](http://en.wikipedia.org/wiki/Levels-of-processing_effect) model of memory encoding (although I am not up to date on the current consensus on this model). In this model your use of mnemonics is an example of deep level processing.
+
+edit: spelling, emphasis
+Thanks for the explanation!
+
+Summary:
+The use of mnemonics such at those you describe are likely to work at a number of different levels.

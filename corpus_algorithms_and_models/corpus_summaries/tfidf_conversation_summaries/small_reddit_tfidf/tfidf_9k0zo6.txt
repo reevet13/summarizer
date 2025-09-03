@@ -1,0 +1,106 @@
+Original Response:
+Talk about your day. Anything goes, but subreddit rules still apply. Please be polite to each other!
+CPU: i7 3770s
+GPU:  Gtx 1070 8gb
+MOTHERBOARD: Gigabyte Z77
+RAM: 16gb 1600
+SSD: 240gb Sandisk + 120gb Samsung 750 eco
+ 
+Any pc nerds here can give advice on this build? First time building a pc so pardon me for asking.
+U want advice then call them pc nerds -_-
+Why do you need two separate SSD? 1 SSD and 1 HDD is more common. The HDD can be used for storage while the SSD can be used for speeding up boot times and for games that need the extra performance.
+Well it depends on what you want to do with the PC. Gaming? Processor may be a bit slow for that.
+That isn't much HDD space. 1 SSD and a larger normal drive like the other poster mentioned.
+CPU might bottleneck.Ram is...why so slow?Maybe 2k+?
+Fam you have 2 ssd's?? You should have one SSD for applications u use often and the OS and one HDD for your movies downloads games and all that. Are you using this com for gaming? If you want to cut costs can get a cheaper CPU, if you're using the computer for gaming, as an i7 is q overkill for most, if not all, games. If you plan to use it for work like rendering images processing videos or graphics or all that you can stay with the i7. GTX 1070 is a good choice for gaming rn cause the price is q good with their new release for RTX cards. 
+
+Plz no call us nerds is rood. I prefer the term "enthusiast"
+Why the CPU so old??
+times are changing liao
+
+nerd is no longer a derogatory term
+Sounds like you're buying from some independent builder who's mixing in old parts he can't get rid off.
+
+Most important part of any gaming PC is probably the graphics card. The 1070 is good and can run almost every game out there on high/maxed settings at 1080p.
+
+However, some parts are a bit old - the CPU is from 2012 for example. i7 might sound 'high-end' but I'm guessing a 2012 i7 is equivalent about equivalent to a 2014 i5. Should be enough for gaming but not very future proof.
+
+Also 1600 Mhz RAM? What year is this? Most RAM you buy now out there is at least 2400 Mhz.
+
+The SSD configuration (120GB + 240GB) is also a bit weird, but it should be enough for most of your games. If I was building a PC on my own I would go with 240 GB SSD + 1TB HDD though.
+I’ll change the mobo then. Do you recommend any mobo which is compatible with ddr4 ram and 7th gen intel?
+If someone calls me a pc nerd ill be honoured man.
+Ok youre a pc nerd.
+:)))))
+[deleted]
+There’s someone selling the cpu mobo and ram as a set on Carousell. I have the ssd and gpu from my previous desktop. Total cost will be about 900 dollars.
+as u/FuzzyPronoun has commented, the processor is old. It is a 3rd generation intel core processor from 2012.
+
+While the processor itself may still have reasonable computational power, being from 2012 it means that the mobo is also out of warranty and support. In case you didn't know, Intel have always been forcing users to change their mobos whenever they release a new processor generation, usually because they change the number of pin count on the processor itself. Also, that mobo uses DDR3 RAM. We are using DDR4 right now, and DDR4 is not backwards compatible. 
+
+PCThemes have [made available their price list over here](https://www.dropbox.com/sh/jkxeho7zgvpsnk4/AABkZc_oaTTSMW6e5GaT0_sXa?dl=0). All the hardware they're selling now are up to date, so they sell only mobos using DDR4 and DDR4 RAM. Your concern now should be getting a mobo that is right for you. 
+
+Intel Z-series mobo are the high end ones which offer more features like overclocking support. If you do not need to overclock, then there's no need to get a Z series mobo.
+
+I will still recommend heading over to HWZ hardware corner. The hardware gurus can be found there.
+[deleted]
+Do you think an i7 6700k would be fine? Or the 7700?
+[deleted]
+I’m not wealthy by any means. Just trying to save a bit of cash.
+[deleted]
+Makes sense. Where do you think I can go to to scout for those components?
+[deleted]
+Srs when the going gets tough in NS how do y’all motivate yourselves 
+
+Only thing keeping me going is that unit life might actually be decent
+Look around you, they can do it y nt u?
+I cut myself lol
+I just look forward to many many short term goals.
+
+1. Wake up. Look forward to admin time after lunch
+
+2. Look forward to admin time after dinner.
+
+3. Look forward to end of week.
+
+4. Look forward to meet gf/whatever hobbies/sleep
+Shit i gg ns soon and def not looking forward to it
+As cliché as it sounds, family. Think about the home cooked food you are gonna get at the end of the week.
+Being good friends with your unit/section mates makes all the difference.
+
+Laughing at the shit you're in, making fun of your encik together, and just helping each other out.
+[deleted]
+[removed]
+For those long outfields, remember that it does not last forever, it will end. There will be RTU. There will be sending arms. There will be bookout. If it's camp life that's tough, just think of the future, what you'll do when you ORD and how you plan to do it.
+Think of what you went through that made you stronger when in NS. For me, it was when i pushed through 32km for csb, continuing despite ankle sprain when i got painkiller jabs midway. And there was this one memory that i still remember, it was on the tonner when we were otw back to camp after long outfield in taiwan. Everyone was celebrating that we were returning back, but shortly after about 2-3minutes, everyone just fell asleep leaning on each other. I just looked at their camo faces,shagged af, dirty af but these were the people who pushed through the tough yet fun part with me. I will always remember the tonner ride
+Question: women with Caucasian boyfriends. What do y’all see in them you don’t see in local men?
+( ͡° ͜ʖ ͡°)
+
+
+
+am**DK**
+can make mixed babies
+nono, it is what OTHER people see in Caucasians that matters
+The soft power of their country of origin?
+Here we go again
+Does being Caucasian really even matter per se though? Many AMDK in Singapore really do in general tend to make good money and are often fairly successful, thus why they’re working in Singapore. Obviously not all, but the population definitely skews more to the successful side than a normal bell curve of a countries’ population. If there’s a bunch of women you know dating lazy poor ugly white dudes just because they’re white then you’d have to wonder why, but from everyone I know that’s not the case.
+It's not always soft.
+😏
+Caucasian don't ask this kind of questions.
+Differing views and priorities stimulate. Im sure the same convo about living with parents and cpf gets stale.
+This response is fucking gold, thank you.
+
+Summary:
+Also, that mobo uses DDR3 RAM.
+Look forward to end of week.
+Ok youre a pc nerd.
+U want advice then call them pc nerds -_-
+Why the CPU so old?
+Your concern now should be getting a mobo that is right for you.
+Look forward to admin time after dinner.
+Look forward to admin time after lunch
+
+2.
+1 SSD and 1 HDD is more common.
+I’ll change the mobo then.
+The SSD configuration (120GB + 240GB) is also a bit weird, but it should be enough for most of your games.

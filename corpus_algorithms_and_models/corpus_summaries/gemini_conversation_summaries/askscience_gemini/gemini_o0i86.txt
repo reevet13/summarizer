@@ -1,0 +1,5 @@
+Kinetic Energy is defined as --> E=.5MV^2
+
+I calculate the Kinetic energy as (.5)(10)(20)^2 = 2000 Joules.
+
+I calculate the Kinetic energy of each as (.5)(10)(10)^2 = 500 Joules.

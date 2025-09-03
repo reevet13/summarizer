@@ -1,0 +1,23 @@
+Basically, your question is "how do things stay in orbit," right?
+
+The short answer is because the things are moving really fast. Gravity pulls inward, but by the time the thing has been pulled towards the source, it's speed has moved it out of the way.
+
+Another way to say that, is the the centrifical force of the Earth in orbit around the Sun is the same as the gravitational pull of the Sun
+
+Try tying a small mass (an apple or something would do) to the end of a string, and whirl it around your head. Once you've got it going, try to hold your hand completely still and see what happens.
+
+The answer is (well...should be) that it keeps whirling for a little while, until air resistance slows it down and it falls.
+
+Because gravity is pulling on the Earth, the rules of Physics say that somthing must be countering that, or the Earth would, in fact fall into the Sun
+
+We think of gravity as "things fall towards masses," but that's not really correct. The correct interpretation is "a force is exerted on objects towards masses."
+
+In the case of the Earth, that force is basically exactly what it takes to stay in orbit.
+
+"An object in motion (being pulled by the sun) will remain in motion unless acted upon by another force" - Newtons 1st law
+
+Basically, it is because the orbiting body is in a state of constant free fall, but it is also moving in a perpendicular direction.
+
+The average distance from the Earth to the Sun is 93 million miles. The average distance from the Earth to the Moon is 220000 miles.
+
+The Moon's orbit around the Earth is a stable equilibrium.

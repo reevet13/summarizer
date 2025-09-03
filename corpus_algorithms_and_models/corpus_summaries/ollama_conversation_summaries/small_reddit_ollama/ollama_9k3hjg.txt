@@ -1,0 +1,21 @@
+Here are the selected sentences:
+
+I have STRIX 1080 (haven't overclocked) and I get more like 120 fps.
+
+Up to you if the extra couple hundred bucks is worth it.
+
+Also, I'd consider a better MOBO and RAM.
+
+Ryzen is really memory reliant and really loves the Samsung B die models.
+
+A KA once you're 1500 bucks in you may as well spend the extra 50 bucks
+
+No. Fast RAM with tweaked subtimings really makes a difference for CS:GO, Fortnite, and such e-sports games, since they are heavily CPU-bound.
+
+I literally went from 250 w/ occasional drops to stable 350+ FPS just by overclocking my DDR3 RAM from 1333 RAM to 2333,
+
+Now imagine the lofty heights you'd already be at with DDR4 ram and a current gen processor.
+
+The difference from normal 2133 to 3333 with tweaked timings is about as huge as the difference from normal 1333 to 2333 with shit timings.
+
+And as for the "lofty heights DDR4" bullshit you try to say here:

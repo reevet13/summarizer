@@ -1,0 +1,31 @@
+Original Response:
+So as far as I understand, inflation is a very, very, VERY fast expansion of the universe in a very short period of time after the big bang. It solves the problem of the smooth distribution of matter and energy in visible space.  
+But isn't inflation just constructed around the problem, that we can't explain this phenomenon ?  
+I also read that the background radiation can be "predicted" with the inflation model, but how can a model predict a seemingly random distribution so accurately ?  
+I also have never heard of any explanation why inflation should happen. Is it based on quantum laws ?
+The important features of the Cosmic Microwave Background are not random, though.  The CMB is remarkably relatively uniform, without strong large-scale features in it.  That plus the seemingly uniform distribution of matter necessitate explanation.
+
+You're right that inflation is constructed around the phenomenon.  It's the easiest way we know of for explaining the phenomena, but maybe it's not right.  Many theorists, both string and not string, are working on models where inflation is explained by some processes in quantum field theory and general relativity, and they are trying to generate predictions from these models.  (If you search the arXiv database for ["inflaton"](http://arxiv.org/find/all/1/all:+inflaton/0/1/0/all/0/1), you'll see many of their papers, but I don't do research in this area and don't know much more.)  Astrophysicists are also working on collecting more data on the CMB from the Planck telescope.
+Some of our models of the inflation are based on some quantum fields, but the theory is relatively complicated and somewhat blurry on details (hypothetical "inflatron fields" and stuff like that)... just to touch the question about quantum model of inflation.
+
+When we say, that "the theory predicts CMB fluctuations accurately", we don't mean, that we can reproduce the eact shape of the CMB fluctuations. It is just the statistical distribution of various quantities that you can calculate from it.
+
+And yes, the inflation model is just workaround, in a way. The basic problem is, that if we look in two opposite directions as far as we can see, the universe, or more precisely temperature of the CMB (and hence of the universe) seams to be the same. Nobody could think about any other reason for this to be true, than that those parts of the universe must have been in contact with each other and the temperature differences distributed uniformly. But if it took the light entire age of our universe to travel from that two points (that are on opposite sides of the sky) to travel to us, then you cannot see from one of the points to the other. Light just didn't have time to go that far. And if not even the light didn't have time to go that far, then how could the temperature be distributed uniformly? The easy answer is, that they used to be very close in the beginning, and then the inflation happened.
+
+But that's not the only reason for us to believe it. The universe is not only homogeneous and isotropic, but also flat (within precision of our measurements). There is also absolutely no reason for it to be _exactly_ flat. But locally (i.e., when you take small enough piece), even the most curved (hyper)surfaces are flat. And if entire observable universe used to be just very, very small piece of something bigger, that uniformly inflated, then it really should be flat.
+
+So _if_ the inflation model is true, it is, in fact problem, why we even have _any_ inhomogeneities in our universe. And the answer is, that the primorodial inhomogeneities were the quantum fluctuations of vacuum, which were expanded (literally) to astronomical sizes, and today we can see them as large scale structure of the universe.
+
+So you can see, that the inflation thery is very nice, and it explains lot of things. But it is still just a theory, that is quite difficult to test and the whole reason why everybody believes it is, that nobody could come up with anything better (there is just no need for better theory right now, with our level of knowledge).
+[deleted]
+so basically galaxy clusters are blown up quantum fluctuations ? Does that even make mathematical sense ? Also, does that not directly contradict the fact that quantum fluctuations are always in a balance (e.g. the old antimatter-matter problem)
+you did not answer the OP's question and you are wrong.
+
+(the dark energy is neither measure of "our ignorance about the universe" nor "force behind the accelerating expansion" - it's just a mislabeled integration constant in the equations that describe gravitation very precisely and that naturally lead to model of a universe that accelerates in expansion; we know about the expansion from other sources than the supernovae, they were just the first of the tools that helped us to measure the expansion precisely enough to include the dark energy; there is nothing to indicate that the universe has ever stopped expanding, but we have reasons to believe that it was expanding much faster in the beginning for reasons yet to be explained)
+not galaxy clusters. even bigger structures... those "strings" and "sheets" that you can see on 3D maps of universe like for example [this one](http://pil.phys.uniroma1.it/twiki/bin/view/Pil/GalaxyStructures) (each dot is one galaxy cluster there). clusters are result of gravitational collapse of individual small parts of this structure and they are still accreting (primarily) dark matter.
+
+Summary:
+So _if_ the inflation model is true, it is, in fact problem, why we even have _any_ inhomogeneities in our universe.
+But that's not the only reason for us to believe it.
+And if not even the light didn't have time to go that far, then how could the temperature be distributed uniformly?
+so basically galaxy clusters are blown up quantum fluctuations ?

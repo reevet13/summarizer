@@ -1,0 +1,13 @@
+As rrauwl pointed out, it does exist, but is just rare. You may be wondering why it is so rare so I'll try and answer that.
+
+Cancer is the result of many accumulated mutations over time, usually a result of small errors building up as a cell divides over its lifespan. It requires stimulation of many of the cell's growth signals and many negative checks on cell division to be knocked out before a cell begins proliferating uncontrollably. Every time a cell divides, there are a couple of errors in replicating the 3 billion base pairs in the human genome. These errors accumulate over time, leading to mutations that lead to cancer.
+
+However, as can be seen [here](http://en.wikipedia.org/wiki/Cardiac_muscle), "researchers estimated that a 20-year-old renews about 1% of heart muscle cells per year". Since cardiac muscle (heart cells) divide so slowly, there is not much risk for accumulated mutations, and thus even the few rare cases of heart cancer arise from other cancers spreading to the heart rather than originating in the heart. That's also why you see cancer frequently in places like the lung, where cells are damaged by smoke or other irritants, or the skin, both places where cells must be replenished daily (lots of dividing = more mutations). Hope that helps!
+
+The most common cancers in the brain are not cancers of neurons, but of the cells that support the neurons-- [glia](http://en.wikipedia.org/wiki/Neuroglia)
+
+Now going back to this confusion with heart cancer and brain cancer, the heart produces more free radicals than any other organ (due to the cells working tirelessly to produce energy for the organ, unlike most other organs). Therefore, it would produce more anti-oxidants to combat these free radicals made from the heart as by-products of metabolism.
+
+In addition, the brain is [immune privileged area](http://en.wikipedia.org/wiki/Immune_privilege) with limited access of many types of immune cells, including cells that fight cancer. This limited accessibility may contribute to the increased frequency of brain cancer.
+
+The reason that our cells replicate quickly is because it is necessary. Most epithelial tissues - skin, the lining of your GI tract, the lining of glands and ducts - is lost on use. For instance, most of what we consider "dust" in our houses is discarded epidermal tissue. The cells on the outside of your skin are dead and slough off constantly. It follows that quick division is necessary, else we'd just

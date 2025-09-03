@@ -1,0 +1,32 @@
+Original Response:
+I doubt it, conservation of energy and all that.
+Yes, for sure. Not only the heater, but everything you turn on ultimately coverts electricity to heat. A long, long time ago sunshine was converted to plant matter which was buried and converted to coal or natural gas. By using electricity in any form ([70% of which come from coal and gas in the US](http://en.wikipedia.org/wiki/Coal_power_in_the_United_States)) you are turning that ancient sunshine into heat.
+The issue isn't energy, it's entropy.  By turning on an electric heater, he's increasing the entropy of the universe: taking higher quality electric energy and converting it into the lowest quality energy of evenly distributed heat.
+The heater increases the entropy of a system faster when turned on than off, so yes.
+
+Mostly just in the fuel or electricity or whatever the energy source is.
+Every irreversible process increases entropy and accelerates heat death. Just being alive accelerates heat death.
+What he said, conservation of energy has nothing to do with the current theory of heat death of the universe.  What you should be looking at, rather, is the second law of thermodynamics which heavily paraphrased basically states that energy becomes less useful over time.
+How is the Heat Death theory plausible(correct?) since the universe is always expanding and everything will eventually be too far apart to retain any sort of heat?
+Heat isn't a property of things being close together, but merely a way of referring to their statistical speed distribution. Also, 'heat death' really refers to entropy approaching a maximum such that the universe's temperature can't be exploited to perform work, so stuff like life is impossible.
+This is true... However, the levels by which he is increasing the entropy are relatively insigificant.  Think about how much heat a star puts off
+Makes a bit more sense now, thank you.
+[deleted]
+Not if you take the long view.  Since the Earth will eventually be incinerated by the sun all of those fossil fuels would burn anyway in the distant future
+[deleted]
+[deleted]
+Considering that the sun will eventually expand in size and engulf the earth, it won't matter much in the long run or on a universal scale.  The main effect is that there will be radiated energy that leaves the solar system.
+&gt; Every irreversible process increases entropy and accelerates heat death. Just being alive accelerates heat death.
+
+I disagree.
+
+If I understand right, the date of heat death will be determined by when the last supermassive black holes evaporate.    The rate they'll evaporate depends on the background radiation in the universe -- the colder it is out there, the faster they'll evaporate.    So anything to warm up outerspace with a few extra infrared photons might delay rather than accelerate heat death.
+[deleted]
+I heard something about the earth not being engulfed at all due to the sun losing most of its mass in the red dwarf phase. The earth is supposed to move out to a safer cooler orbit around the bigger yet lighter(?) sun
+The Earths future is uncertain in that aspect. The orbit is slowly moving out, as the Sun radiates its mass away, but the Moon is also acting as a brake on the Earth. The latest is that, while the Earth is moving out it still isn't expected to be out past Mars and will still be engulfed by our Sun. On the off chance that doesn't happen, the atmosphere will still be ignited, the oceans boiled dry and the surface scorched as the Sun expands.
+
+Summary:
+Just being alive accelerates heat death.
+Every irreversible process increases entropy and accelerates heat death.
+The issue isn't energy, it's entropy.
+&gt; Every irreversible process increases entropy and accelerates heat death.

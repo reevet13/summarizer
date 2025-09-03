@@ -1,0 +1,13 @@
+Here is a summary of the text, extracted and returned verbatim:
+
+You have about 40% of body water as intracellular, another 40% stored as deposit, 15% as interstitial fluid (ISF), and about 5% as plasma volume (blood).
+
+The fastest effect Na (sodium) will have on water is in the plasma volumes. The reason is that water follows sodium, if you excrete sodium (urine) then more water will be pulled out to be excreted as well.
+
+Sodium doesn't really make you retain water; the body regulates water by regulating sodium, using the osmolarity of the plasma.
+
+Lets suppose you have consumed 1 litre of 3% solution of sodium ions. This contains 513 mmol/l of sodium.
+
+The addition of the sodium solution will raise your plasma sodium by 513 - 140 divided by your total body water volume (approx 60% of weight) plus the one litre you have just added.
+
+This increase in your plasma osmolarity will stimulate osmoreceptors in your brain which will cause your pituitary to secrete antidiuretic hormone, leading your kidneys to reabsorb water and stimulate your thirst receptors leading you to drink more.

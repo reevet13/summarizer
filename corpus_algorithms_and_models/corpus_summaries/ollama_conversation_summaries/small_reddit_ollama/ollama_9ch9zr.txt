@@ -1,0 +1,26 @@
+Here are the extracted sentences:
+
+I've put my PS4's IP into the DMZ. Didn't work.
+
+I've forwarded all the ports listed on portforward.com. Didn't work.
+
+I drilled a hole in my floor to run an ethernet cable directly into my router. Didn't work.
+
+I bought a new router. Didn't work.
+
+"It's a rental from my ISP and there are no identifying markers anywhere on it. No brand, no model, no serial number. All I can tell you is it kind of looks like a mini version of an original model Playstation 2."
+
+Call Comcast, tell them you need your gateway to be setup for bridge mode. Once you're in bridge mode your gateway will act as a general modem which will allow your router to do all the work.
+
+Do you have voice and internet or just internet? If the latter, just buy yourself a Motorola 6121/6141/6181 depending on your current speed.
+
+Does it stand straight up in a stand? Are the first 3 lights from the top to bottom labeled "Power" "Broadband" "Service"?
+
+I hate to ask, but can you give me a step by step guide?
+
+1. Log into the Calix.
+2. Find its LAN IP address and subnet mask.
+
+That's your LAN address
+
+Thats your LAN address

@@ -1,0 +1,55 @@
+Original Response:
+I assume it has to do with blood flow to the brain but I'm interested in the intricate biological reasons. IE: Why does your brain not register the events while your body still functions? Are certain systems shut down with the alcohol in your system?
+https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0B24mrZg1mlaAY2YxYWU3NzItMTkxMS00ODliLWExMmYtMDA5NDgzZDZiYmI1&amp;hl=en_US
+
+When i was curious about alcohol-related blackouts, i found this article on it. Don't know the actual link i found it under, so uploaded to Google Docs (had it saved).
+
+I belive it states in the article that alcohol blocks the formation of long term memories, effectively making you reliant on the roughly 30 second span of your short term memory (unless repetition is applied). Either way, you won't remember short term memories when you wake up in the morning.
+As far specific activity is concerned, this review mentioned that alcohol affects activity of certain neurotransmitter receptors.  As far as memory inhibition is concerned, I think one of its most relevant activities is as an agonist of the GABA(A) receptor [1].
+
+Source: [1] http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482489/
+Nothing to do with blood flow.
+
+The cop out answer would be, we don't know for certain. But it will basically go like this.
+
+A brain cell works via the separation of charged particles. When enough positively charged particles enter the cell, the cell produces an "action potential", a large electrical event that travels around the cell, and cause it to release chemicals onto other brain cells. (You can think of a brain cell (neuron) like a balloon. Positively charge particles entering the cell are like blowing the balloon up. When the balloon gets to a certain point, it pops = the action potential. And the the cycle starts again). Now why do positive charges enter the cell? Because another neuron releases a chemical (neurotransmitter) called glutamate (AKA MSG) that opens molecular holes in the walls of the cells (ion channels). These ion channels only allow the flow of a select few different ions. In the case of your standard neuron. There is lots of sodium outside the cell, but little inside. So Sodium ions move into the cell. And they are positive.
+
+There is also inhibitory information. This is mediated by either positive particles leaving the cell, or negative ones entering it (in our analogy, this is like someone sucking air out of the balloon). In this case, we (generally) are talking about the neurotransmitter GABA, and an ion channel that allows the flow of chloride ions. Which are negative.
+
+All brain cells are constantly integrating the amount of positive and negative ions flowing across their surface. And when the amount of positive ions reaches a threshold. Bang. Action potential.
+
+What ethanol does (as well as benzodiazepines, many anaesthetics, barbiturates and a few other things) is increase the affinity that GABA has for its ion channel (i.e. it binds more strongly, think of it like turning up the magnetic strength). This means that more ion channels open, and more chloride flows into the cell. This means that less cells fire action potentials.
+
+Brief, high frequency bursts of action potential generation are what (probably) form memories (cells that fire together, wire together). By increasing the action of GABA with ethanol, you decrease the frequency of action potentials. Which decreases the strength of memory formation. If you take a lot of alcohol, then you don't just slightly dampen the system, but you can also turn the whole thing off. You don't breath. You die.
+
+It's also worth noting that the hippocampus, an area of the brain highly related to memory, has a population of brain cells that as very very sensitive to the actions of GABA (dentate gyrus granule cells).
+
+TLDR: Ethanol enhances the action of a brain chemical that stops neurons from firing. Action potentials are required to form memories. Hence worse memories.
+Nice response, but it is too simple to say that action potentials are required for memory... of course they are, action potentials are essentially required for everything in the brain. 
+
+The more precise response involves the fact that alcohol disrupts memory consolidation in the brain by interfering with various molecular cascades that result following the action potential/firing of the neuron.
+Causation is always tricky to talk about. Here we have A-&gt;-B-&gt;C-&gt;D
+
+Action Potentials -&gt; LTP-like phenomena -&gt; Molecular stuff-&gt;Memory formation
+
+I was tempted to go into the fact that increased inhibitory tone will decrease the temporal accuracy of action potential generation (a la Hausser &amp; Clark 1997, Neuron), and hence if an STDP type mechanism is at play, then this will be fucked with too.
+
+But then it just starts to get a bit "ethanol makes the brain not work so good"...
+THe actual molecules that are required for memory formation are more critical components of the long term memory trace. Obviously action potentials are required for any activity... As a researcher in this field, I just disagree with your emphasis on APs instead of the molecular cascades that are initiated following activity induced plasticity. 
+
+It's like saying the brain is required for memory - of course it is.
+Yeah, but the molecular cascades are caused by NMDA-Rs.... Ca2+ all that jazz... and that is caused by glu release... and that by action potetials. Ethanol doesn't effect any of those to any significant extent until you get to leathal concentrations.
+
+This graph could be useful:
+http://www.erowid.org/chemicals/alcohol/images/alcohol_pharmacology1-1.png
+ Showing the rough range of estimated IC/EC50s for ethanol's targets. You can see AMPA, NMDA, KA receptors are way to low. The effect on (N-type) calcium channels is getting close. But unlikely.
+
+So. That limits us to GABA-A activation shutting down AP generation, or local shunts of EPSPs. Anything working on molecular cascades is downstream of that.
+
+Summary:
+Action potentials are required to form memories.
+(You can think of a brain cell (neuron) like a balloon.
+This means that less cells fire action potentials.
+Positively charge particles entering the cell are like blowing the balloon up.
+It's like saying the brain is required for memory - of course it is.
+This means that more ion channels open, and more chloride flows into the cell.

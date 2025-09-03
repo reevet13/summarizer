@@ -1,0 +1,8 @@
+Rotation does in fact produce time dilation.
+For the purposes that you are looking for though, it would not have the effect you want.
+Any time you have a time dilation it is in regards to a specific reference frame.
+What he means is that the ships do not rotate, but travel near c, so experience time dilation.
+The stations rotate in order to create similar time dilation, in order that their population all ages at the same rate.
+Others have pointed out that this is incorrect, but I'll add that we have actual evidence of time dilation due to rotation: GPS satellites rotate around the center of the Earth, and they experience time dilation, which their software has to correct.
+The rotation of satellites around the Earth is what gives them speed relative to a point on the surface, and that results in time dilation relative to those points.
+I had the same idea this morning so I googled - time dilation, artificial planets and found this thread.

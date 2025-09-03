@@ -1,0 +1,977 @@
+Original Response:
+A friend told me the following math problem:  
+
+
+Imagine you are walking to the bus stop. Your current position has a value of 1, the bus stop has a value of 0, and the distance between the two can be represented by a decimal. Before you reach the bus stop you must first reach half way to the bus stop (0.5), and then you must reach half way between that point and the bus stop (0.25), and then you must reach half way between that point and the bus stop (0.125) and so on and so on, I think you get the picture. If you must first pass an infinite number of places before reaching the bus stop, mathematically how do you actually reach it? 
+
+&amp;#x200B;
+
+If you continue this process infinitely, simple math would suggest that you will never reach the bus stop, but we know that we can reach it in a real world example. Is this because as numbers get very small they must approach a finite value?
+Why can't you go through these infinitely many "halves" in a finite amount of time? 
+
+Let's say, for simplicity, that you're running to the bus stop at a constant speed, and you stop when you suddenly hit the sign, or something. So, you're running from position 1 to position 0 (note, I reversed this), say the units are meters. If you're running at, say, 1m/s, then the time it takes for you to go the first half, from 1 to 1/2, will be 1/2 a second. The time it takes for you to go the second chunk, from 1/2 to 1/4 is 1/4 of a second. The time it takes to get from 1/4 to 1/8 is 1/8 of a second. This pattern continues. The time it takes you to get from the chunk 1/2^(n) to 1/2^(n+1) is 1/2^(n+1) of a second.
+
+What, then, is the total time of the trip? You would have to sum up all the times together. The times for each chunk are 1/2, 1/4, 1/8, 1/16, 1/32, etc seconds each, so the total time will be
+
+* 1/2 + 1/4 + 1/8 + 1/16 + 1/32 +...
+
+where the sum goes on infinitely. This is a very classic [Geometric Series](https://en.wikipedia.org/wiki/Geometric_series), and adds up to a finite value. That finite value, in this case, is 1. So after 1 second, you will have gone through all of these infinitely many halfway points and gotten to the end (which makes sense, because you're going 1 m/s for 1 meter). So, even though there are infinitely many halves to go through, it takes a finite amount of time to get through them all.
+
+This situation is also known as [Zeno's Paradox](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes).
+Doesn't it approach a finite value, not actually reach it?
+Cause it takes infinitely many steps and infinite by definition doesn't end.
+[removed]
+The sum of all numbers in the sequence is equal to 1. You're adding an infinite number of numbers, but the total sum is still equal to 1. You can find that by taking a limit, but this specific case does in fact properly equal 1.
+Theoretically, you are correct. However there is a big difference between actual infinity and our physical universe. At some point the increments of distance and time in the bus stop example become so small that they cannot be actually measured...something something Planck length... (sorry, I’m a mathematician, not a physicist). So our real-world observations will not line up with the theoretical math.
+So what about this: Every time you reach the next halfway point, you flip a switch that switches a light on or off (alternatingly). When you reach the bus stop, is the light on or off?
+By the definition of a convergent series, not by the common definition of addition.
+[removed]
+At a basic level, the concept of parity doesn't make sense after an infinite number of steps.
+One way to think about it is that there's no number less than one that is bigger than this series. For any number less than one you can show this series exceeds it at some point. If there's no number less than one that is bigger than this series, this series must equal one. I might have just made this more confusing. But that's how I think about limits.
+There's a difference between making an infinite amount of discrete actions and breaking down one action into an infinite number of divisions
+[removed]
+I was talking about it as a math problem, not as a physical problem but I believe ,as a platonist,  that math has real world implications.  Since one cannot take infinitly many steps, theirfore time itself must be quatumized aka their must be a smallest unit of time .
+The universe is not made up of Planck pixels. The Planck length is just the length scale at which our laws of physics break down. At such short distance and time scales, the uncertainty in momentum and energy becomes so huge that you are approaching black hole densities. Where quantum field theory relies on a flat spacetime, that can no longer be guaranteed. So yes, there's a lower measurement limit in our understanding of physics, it has no bearing on whether the universe is discrete or continuous.
+What does that even mean? A convergent series is addition. You're adding an infinite series together to make a finite value.
+It also helps to realize that there are also an infinite number of numbers between each halfway mark.
+If it approaches a finite values by a finite time, then it realizes that finite value in that time. 
+
+We can argue that this actually isn't the definition of infinity, and it is more subtle than this, but we'll gloss over that. Just because you have an infinite amount of things, doesn't mean you can't squeeze them all into a finite space. There is no end, but there is an "after" for them. There are infinitely many values in the sequence 1/2, 1/4, 1/8, 1/16, 1/32,... but these are all bigger than 0, so if we are at zero then we are "beyond" them. 
+
+Moreover, the universe isn't a computer game where you have to compute everything about every frame. It literally takes 0 time to go through each of these steps, so none of them have to be "done", we're just *describing* them using these infinite sums for our own understanding. Finally, it doesn't even make sense irl because you can't talk about infinitely fine slices of space or time this nonchalantly.
+[removed]
+There is no common definition of an infinite sum.
+Am not a physicist , So your saying physics breaks down when infinities are involved? 
+
+Are you also saying that their is no such thing as "planck" time ? Or that  at this time, we don't really know due to the measurement limit
+[removed]
+&gt;Are you also saying that their is no such thing as "planck" time ?
+
+There is such a thing as Planck time, it just doesn't mean what popular science articles try to say it is.
+By the classical definition, what you’re really doing is taking a limit. You construct a sequence of partial sums, call it Sn. S1 is just the first term, 1/2 in this case, S2 is the sum of the first 2 terms (3/4) S3 is the sum if the first 3 terms (7/8) and so on. The sum of the infinitely many values is the limit of the sequence Sn as n grows large.
+Just my GED opinion here but my guess is that you would never reach the end so it would be undefined. My reasoning is: 
+
+It takes 't' amount of time to flip the switch and you will do it an infinite number of times so you will spend an infinite amount of time flipping the switch (t x infinity).
+[removed]
+The problem arises when you try to shoehorn physical things like lightbulbs into abstract mathematics.
+
+Either it is a physical lightbulb, or it is a mathematical, abstract lightbulb.
+
+If it is a physical lightbulb, then its behavior is constrained by physics. At some point the switching back and forth will be rapid enough that the electric fields do not have time to propagate between the contacts and the lightbulb and drive a current; so there is a maximum upper limit to the rate at which bulbs switch on and off, which is set by the material properties of the bulb and the wire lengths etc. Once this maximum limit is reached, it will continue switching back and forth at that rate.
+
+Otherwise let's consider an abstract lightbulb that is not constrained by physics. Then the question reduces to asking: what is the limit of the sequence (0, 1, 0, 1, 0, 1...) at infinity? The answer is: "undefined". This is a clear, precise answer, and since it is not a physical lightbulb, this answer is perfectly acceptable.
+This is the [Thomson Lamp Paradox](https://en.wikipedia.org/wiki/Thomson%27s_lamp). There is a difference between the Zeno situation and Thomson's lamp. The main difference is that of convergence. Zeno's paradox represents a convergent sequence, and so we can talk about the end product. Convergence is basically synonymous with the existence of an end result. Thomson's Lamp represents something where there does not exist an end result.
+
+It's kinda like that joke about mathematicians going to a pub. The first orders a pint of beer. The second orders a half a pint. The third orders a quarter of a pint. Etc. The bartender then just pours two pints and gives it to them. This works because there is an convergent "end result" to this infinite process. If a similar situation happened, with a mathematician coming into the bar at faster, and faster rate, asking for the light to be on or off, then the bartender would just have to throw them out because there is no end result that they are all gravitating towards.
+
+So processes things like this are only mathematically valid if there is convergence. Of course, none of these things are physically valid, because you can't chop things up infinitely small like that. A similar situation is that it is mathematically valid to take a solid sphere, break it up into a few pieces and put it back together as two spheres of the same volume as the original one. Mathematically valid, but not physically.
+As the others say, this fundamentally changes the problem. You could see it this way: It takes a finite amount of time to flip the switch, and so it would suddenly take forever to reach the bus.
+
+Even if we consider the abstract, math-like situation where the flip is infinitely fast, you're basically asking if there is an odd or even number of terms in an infinite sum, which is like asking if infinity is an odd or even number. That doesn't make sense, since infinity isn't a number. It's like asking if the stegosaurus is an odd or even dinosaur.
+
+Still, it's a good demonstration of the counter-intuitiveness and basic difficulty of understanding infinity.
+I would disagree and say it's very commonly defined as a limit of partial sums.
+[removed]
+Physics continues functioning merrily. It is our understanding that breaks down, so we can't answer questions like "what is the energy" and so on. If you try to plug that length into our energy formula, it spits out meaningless or unphysical answers.
+
+There is such a thing as Planck time. I don't think the person to whom you are asking the question implied otherwise.
+[removed]
+[removed]
+[removed]
+The Zeno's one with the turtle only makes sense if you disregard every other variable or costant, and then focus on the one that interests you. Yeah we didint have the math to prove it, still for me personally it seems like a badly done one.
+[removed]
+[removed]
+[removed]
+Yes, it infinitely approaches 1 without reaching it throigh basic addition. The sum of all the numbers ultimately leads to (n-1)/n through direct addition, regardless of how large n is.
+
+Using some fun maths, you can instead convert that infinite sum into a simple formula, and cancel out the infinitely recurring fractions.  A simple way you look at it - set the first sum to a variable (x=1/2+1/4+1/8+...), pull out a common fraction (1/2) and get a second formula (x/2=1/4+1/8+1/16+...), and then solve for x (x - x/2=1/2) ,  (2x - x =1) , (x=1).
+
+I'm hoping nothing is wrong there, I'm still groggy and don't want ppl up my ass about maths.
+&gt; The problem arises when you try to shoehorn physical things like lightbulbs into abstract mathematics
+
+Imagine the series: 1/2 + 1/3 + 1/4 + 1/5 + 1/6 + 1/7...
+
+Does it end on an even or odd denominator? Even and odd aren't physical things.
+I thought i made up the term planck time but its an established term, when i said planck time , i meant a unit of time that is the smallest possible but not equal to zero or infinitesimal.
+[removed]
+[deleted]
+[removed]
+Your specific example sums up to infinity, so that's not a good example to use.
+
+https://en.m.wikipedia.org/wiki/Harmonic_series_(mathematics)
+Sure there is. Even when alternate summation methods are appropriate, there's a reason they're called "alternate."
+Do you have an infinite amount of time to flip the switch every halfway point?
+A brilliant,  easy to follow explanation.  thanks!
+Is this because it's somehow a divergent series?
+[deleted]
+Then the answer depends on what you mean by "smallest possible".
+
+For processes that take place over shorter timescales than the Planck time, our understanding breaks down. We cannot predict the results of an experiment that takes place over that timescale. In that sense, the Planck time is the "smallest possible" time, although it's not really a sharp boundary -- the lower and lower we go the worse our predictions get.
+
+If you are asking: is time discrete and pixellated? And if so, what is the smallest time step? Then the answer is -- we don't know. All our current highly successful theories of physics are built on the assumption that time is continuous and not discrete, so there is no smallest time step. (Otherwise it becomes mathematically complicated). We do know that the theories break down at some point, but if we ever have a complete theory of everything, then it is not known whether this final theory will feature discrete time.
+[removed]
+Same question with 1/2 - 1/3 + 1/4 - 1/5 + 1/6 - 1/7 or any other variant.
+That just goes to the second point they made. At that point it goes to abstract mathematics and has no really physical meeting. It's the same as asking "what is the largest integer?" It has no real meaning because by definition there can be no largest number.
+
+Asking if the "largest number" is even or odd goes against the axiom that there does not exist an upper bound to the number of integers. If you are working in a framework which is based on A, B, and C, asking yourself "how would this framework behave if A is false" is meaningless because if A is false, you are no longer working in the same framework.
+How is it defined? Does it end? 
+
+If it does, the answer is trivial, if it doesn't, the answer is undefined.
+CMS, ALICE, ATLAS, LHCb, neutrino, or a different experiment?
+CMS :-)
+Even if you ignored the ability to turn the light bulb on or off, you could with some time actually mathematically work out the number of halves that are physically possible to move through in any given distance.
+[removed]
+What if I say that there was not enough power in this whole world to power that thing for that long, despite the fact that we were alternating... Also, it would have been blown up due to heat or malfunctioned by that time...
+I believe what he's saying is the question "if there's an infinite number of steps, is the number of steps odd or even?" doesn't make any sense. Which you need an answer to in order to say something about the light switch.
+Just for clarity: the *finite sum* 1/2 + 1/4 + ... + 1/2^(n) can be rearranged and subtracted like you say (since it's just normal addition!) to give us a value of 1 - (1/2)^(n) for any finite n. Indeed, 
+
+1/2 = 1 - 1/2,
+
+1/2 + 1/4 = 3/4 = 1 - 1/4,
+
+1/2 + 1/4 + 1/8 = 7/8 = 1 - 1/8, etc.
+
+Now the *infinite* series is defined as the limit of all these partial sums. It is easy to see that the 1/2^(n) term can be made arbitrarily small; for any tiny distance d away from 0, we can make 1/2^(n) smaller than d by picking 2^(n) greater than 1/d, i.e., n greater than log_2(1/d) = -log(d)/log(2). So the limit is 1.
+Even if you can change the state of the lightbulb instantaneously (t=0), it's still undefined since infinity has no parity. In a (non-rigorous) nutshell, infinity = infinity +1 so if infinity is odd then (infinity +1) is even so then infinity is even.
+[removed]
+Eh, I'm not too sure this can be done meaningfully. Movement can occur on really small length scales -- we are already able to measure subatomic movements, and if you are liberal with the definition, much smaller movements. Even the Planck length isn't a limit, because it is only our understanding that breaks down at that point. If you ask the question: "Are movements smaller than the Planck length possible?" then the correct answer is not "no", the correct answer is "we don't know".
+That's a better way to think of it. Thank you :)
+Not reaching the end, or approaching a limit, is different than a limit not existing. Some common reasons a limit would not exist are it's not bounded (think f(x)=x, it just gets bigger as x gets bigger) or repeating series (1, 2, 3, 1, 2, 3, .... for example has multiple converging SUBseries but does not have a limit for the series as a whole)
+
+Also these concepts are definitely something that someone with a GED education could understand but math can be a bit counterintuitive and until you actually formally work out something, it can be easy to misunderstand or not totally grok a concept. I love the idea of people that haven't traditionally thought about these things pushing themselves to really think about the concepts.
+[removed]
+[removed]
+Which means that, of Zeno had explored his theory further, the outcome would be that movement is impossible.
+I was coming from a position that since one cannot take an infinite amount of step (only approach a value) that theirfor time has to be discrete . Obviously I can't test my hypothesis since I don't know physics but all your answers definitely gave me a deeper understanding in a subject I'm not familiar with.  Thank you. Now I know that planck time isn't what I meant. But it's an amazing concept.
+I don't see the distinction to be honest and I will argue there is no distinction.
+
+If I break down action A into discrete sub-actions D_1, D_2, ..., then there is no distinction between performing action A and performing actions D_1, D_2, .... They are both equivalent/identical.
+
+The resolution to this seeming paradox is that the sum of an infinite number of discrete values can be finite and hence the sum of an infinite number of discrete actions can result in one single finite action.
+[removed]
+[removed]
+From what I've heard before, isnt the infinite amount of numbers between 0 and 1 a larger amount than the intimate amount of whole numbers? Or am I way off?
+[removed]
+[removed]
+I completely agree, but that's not what the person I was responding to meant.
+It is neither convergent nor divergent. 
+
+Basically it is the sequence (-1)^i
+ as i -&gt; infinity which osccilates between -1 and 1 eternally if we only care about integers. If it allows Reals then it goes in a circle in the complex plane around 0 with radius 1
+You're right. The whole (or natural, as they're called) numbers have a certain (infinite) cardinality, which is often referred to as Aleph-0. The real numbers (which is the set of all possible numbers, decimals, the pi kind of strange numbers and all that) are more in number than this Aleph-0. This was proved by Georg Cantor, in what is called the Diagonal Argument. 
+
+The set of real numbers between 0 and 1 has the same size as the set of ALL possible real numbers (yes, this seems crazy, but it's true) so that number is indeed larger than the size of the set of all whole numbers.
+Bertrand Russell's history of western philosophy depicts a scene where a street orator is making this very point when his shoulder dislocated. He was then reassured by a doctor that since movement is impossible, then surely his shoulder was perfectly intact.
+[removed]
+[removed]
+[removed]
+[removed]
+Sort of. You're referring to the [cardinality](https://en.wikipedia.org/wiki/Cardinality) of the sets of those two types of numbers, which is basically the size of the sets. Whole numbers (integers) are [countable](https://en.wikipedia.org/wiki/Countable_set). Real numbers are [uncountable](https://en.wikipedia.org/wiki/Uncountable_set).
+
+The intuition is that you can "count" all of the whole numbers without skipping any if you have an infinite amount of time. I.e. if you start counting at 1, you can pick a number and know that eventually you'll reach it. You can't do that for real numbers.
+This is a perfect answer. Thank you.
+[removed]
+Wouldn't this imply that the concept of infinity is wholly dependant on semantics? If any finite action can be described as a set of infinite sub-actions, wouldn't the reverse also be true?
+Zenobia example is misleading though as he's using the wrong operation for the problem at hand. He should be subtracting the distance traveled, not dividing it. 
+
+Is the paradox exploring the lim-&gt; 0 function? Was Zeno close to discovering calculus?
+Correct.  The whole numbers are countably infinite.  The real numbers (and sets of all real numbers between two numbers, like 0 and 1) are uncountably infinite.
+That's what he concluded. But it misses the part where time can also be divided the same way. Yes, you have an infinite number of infinitely short distances to cover, but you also have an infinite number of infinitely short periods of time in which to do so.
+&gt; Same question 
+
+Not at all, silly sir. That's a Leibniz Series, you silly, silly, goose.
+[removed]
+[removed]
+Think of it this way
+
+Between 0-100 there are 100 whole numbers
+
+If we also include all 0.5 numbers, there are twice as many numbers between 0-100
+
+All fractions between 0-1 are 1 divided by one of these numbers. For the first set, there are 100 but for the second there are 200 fractional numbers. So if we limit the whole numbers 1-100 but say that the fractions can be 1/1.5, 1/2, 1/2.5 etc etc there are more numbers between 0-1 than whole numbers 1-100
+
+Its the same thing for infinity, just with way more numbers. Not all infinite sets are equal in size if that makes sense. Hopefully this helps but im not sure i explained myself well
+[removed]
+Adding to that, while irrational numbers are not countable the way that whole numbers are, that does not mean there are *more* irrational numbers than whole numbers.  They are both still infinite and not traditionally comparable.  All it is saying is that we can make up a rule where every rational number maps to a unique natural number, or every integer maps to a unique natural number, but we can't make up a similar rule for all irrational numbers.
+
+Edit for correctness: it's easy to map any irrational to some natural number, but we care about that natural number being unique in the mapping/one-to-one.
+[removed]
+Oh, I gotcha. Because every whole number has an inverse between 0-1 but not every decimal between 0-1 has a whole number inverse. 
+
+Thanks!
+[removed]
+[removed]
+[removed]
+Surely it all works out when you consider that you can also slice time into smaller and smaller pieces?
+
+Like, yeah, no matter how short the journey there will always be a smaller distance that needs to be covered first, but there’s also an equally small unit of time to do it *in,* so you’re fine, right?
+[removed]
+[removed]
+[removed]
+The definition of divergent is "not convergent", it can't be neither convergent nor divergent. Since it is definitely not convergent, it's divergent.
+[removed]
+There is no paradox
+
+&gt; If I break down action A into discrete sub-actions D\_1, D\_2, ..., then there is no distinction between performing action A and performing actions D\_1, D\_2, .... They are both equivalent/identical. 
+
+I should have worded what I said better, but here's what I was getting at:  
+
+
+Assume running to a bus stop is action A, where a1 is running halfway, a2 is running half the remaining distance, etc. Obviously performing all a\[1-infinity\] is identical to performing action A.
+
+If you have an infinite amount of discrete divisions b1, b2, b3 that doesn't mean that there is necessarily any action B which corresponds.
+
+There are some infinite series that have a definite value (1/2 + 1/4+ 1/8 ...) and there are some which don't (1-1+1-1+1...)
+
+In this case there's selection bias. You know that we can run to a bus stop, because we have observed that phenomenon. You also know that there's an infinite series which corresponds to it because it's intuitive and easy to visualize. Your mistake is that you assume another infinite series must have a distinct end result
+
+&amp;#x200B;
+[removed]
+Would it perhaps be possible to use Quantum Theory to describe the state of the light as a superposition of being on and off with a value of p(on)=0.5 and p(off)=0.5?
+[removed]
+[removed]
+&gt;if you disregard every other variable or constant, and then focus on the one that interests you
+
+What you just described is the principle of abstraction, which is one of the core principles that allows mathematics to work. Even numbers themselves are abstractions of real objects that disregard unneeded variables to simplify them into something workable. So.... yes.
+[removed]
+Yes, but in that specific case you have the math that shows that you overtake the turtle, you can even pinpoint when and where. You stopping time at every 1/2 doesn't change the eventuality you just create an infinite amount of points but all of them lead to the same result.
+
+Proven by math by limits.
+[removed]
+That was explicitly Zeno's goal. His paradoxes (yes, there were more than one) were designed to make the point that movement makes no logical sense, it leads to contradictions and things which are manifestly not true, therefore movement does not exist.
+/u/sarge21 helped explain the flaw in my post. I misinterpreted and thought that the argument was that there's a difference between an action and it's constituents.
+
+But rather the argument is that just because some finite actions can be decomposed into infinitely many discrete sub-actions, that doesn't mean that any infinite composition of finite actions can be composed into one single finite action.
+My favorite mathematicians walking into a bar joke: the first orders a pint of beer. The second orders two pints of beer. The third orders three pints of beer, and so on. The bartender grumbles "OK, I get the point", snatches everyone's mugs and drinks one-twelfth of a pint himself.
+Not really, because quantum indeterminacy isn't related to sequences that fail to converge.
+I never understood why this is a paradox. The infinite series approaches 1, but never arrives. The person walking 1 m/s is never constrained by that fact because at a constant speed you just blow through the infinitely large number of calculations at the end. And who is to saw he actually touched the sign? That type of measurement could never be made. 
+
+But the original post presumes you're spending a fixed time during each increasingly small distance, when in fact you're spending less and less time until you eventually stop or use blow through the limit.
+Yup. As the steps get infinitely small, the time it takes to cross them also gets infinitely small.
+If my understanding is correct, then adding finite amount of time to each step (no matter how long) in flipping the switch makes the series sum infinite.
+Reminds of me of the Horn of Gabriel. 
+
+The horn has finite volume, but infinite surface area.
+[removed]
+Not sure if this correct but I remember doing this proof in my undergrad 
+
+Sum from 1 to inf( 1/2^n ) = (1/2 + 1/4 + ...)
+
+Let S = Sum from 1 to inf( 1/2^n ) 
+
+S = (1/2)(1+1/2+ 1/4 +...)
+2S=(1+1/2+ 1/4 +...)
+2S-1=(1/2+ 1/4 +...)
+2S-1=S
+S-1=0
+S=1
+
+Expand to any sum in the form 1/n
+S=(1/n+1/n^2 +...)
+S=(1/n)(1+1/n+ 1/n^2 +...)
+S*n= 1+1/n+ 1/n^2 +...
+S*n -1= 1/n+ 1/n^2 +...
+S*n -1 = S
+S*n-S=1
+S(n-1)=1
+S=1/(n-1)
+
+
+The the trick of the proof is to recognize that you have the same sum on the right hand side after factoring out the fraction
+[removed]
+[removed]
+No, it's more like the [Grandi Series](https://en.wikipedia.org/wiki/Grandi%27s_series). Turning the light on is a +1, turning the light off is a -1. The sum then oscillates between 0 and 1. Some of the more creative ways of assigning a value to the Grandi Series are invalid because of [reasons Thomson laid out himself](https://en.wikipedia.org/wiki/Thomson%27s_lamp#Mathematical_series_analogy). If a sum diverges by going to infinity, then it is still a valid sum with a value. A sum is "invalid" if it never approaches any value, even infinity. 
+
+It's also actually a little bit like the [graph of sin(1/x)](https://www.desmos.com/calculator/t8hohza1hs), which can have some [weird properties](https://en.wikipedia.org/wiki/Topologist%27s_sine_curve).
+[removed]
+You'll never reach the bus stop, every step you only go halfway. Half of a quintillionth of a millimeter closer still puts you half of a quintillionth of a millimeter from the bus stop.
+[removed]
+[removed]
+I'm going to use the more standard form of 1+r+r^(2)+r^(3)+...=1/(1-r).
+
+What you have [is the idea of finding the value](https://en.wikipedia.org/wiki/Geometric_series#Formula), but a key, important part of this is [actually proving that S exists and is finite](https://en.wikipedia.org/wiki/Geometric_series#Proof_of_convergence). What you have done is show that if S exists and is finite, then it must be 1/(1-r), but there are cases where S is not finite. Take, for instance, r=2, which is the series 1+2+4+8+... In this case S is infinite, so it cannot equal 1/(1-2)=-1. But, given [different number systems with different geometries](https://en.wikipedia.org/wiki/P-adic_number), this S *is* finite and so it equals -1.
+[removed]
+[removed]
+[removed]
+How are they not comparable? We have a fairly straightforward and very natural ordering on cardinals.
+An "infinite sum" is understood to mean "the limit of the sum as you add on terms towards infinity".
+[removed]
+This kind of reminds me of the 
+
+.333333~ + .66666~ = 1
+
+Thing. Similar concept that infinite numbers when added together can equal a whole number. The way the above made sense in my head was to think of it like:
+
+1/3 = .33333~
+2/3= .66666~
+
+And because 1/3 + 2/3 = 1
+
+.33333~ + .66666~ must also = 1
+
+Might be basic to some in here, but that sort of blew my mind the first time I heard about it.
+
+P.S. I couldn’t figure out how to do the bar over the numbers on mobile so the “~” is meant to mean infinite.
+The only thing I’ve ever taken away from any discussion about Zeno’s paradox is that time and space must share either discrete units of measurement that correspond, or must both be infinitely divisible. 
+
+Otherwise you’d get a disconnect at the smallest units of distance and units of time. 
+
+Like, if the Planck length is the smallest unit of distance, then the smallest unit of time must be the time it takes to traverse one Planck length at c. 
+
+Perhaps that’s just really obvious and I’ve wasted everybody’s time.
+[removed]
+[removed]
+[removed]
+[removed]
+That's exactly what Zeno stated. Theory that Diogenes the dog elegantly disproved by standing up and walking up to Zeno.
+A negative one twevelth of a pint, so shouldn’t he Ben puking into the mug?
+Is there a definition for 0.000 ending in a 1 with an infinity of 0s or does that just make no sense?
+What about the plank length or whatever it’s called? Couldn’t the universe be broken down into tiny plank distance cubes like a big game of mine craft.
+[removed]
+It depends on the light bulb. If it's a florescent or another type with a significant start up time, it will appear to be off due to the fact that it was eventually in a state where the switch was being flipped faster than it could turn on. If the bulb has a negligible start up time, it will appear to be on due to our persistence of vision. 
+
+Our measurement of it affects our perception of it.
+[removed]
+Using the set of most commonly used mathematical axioms, this series is divergent.  There are other sets of axioms that can be used in which this series is convergent, and so it would make sense to assign a value to the final light, such as 1/2 or 1/4.  None of the possible sets of axioms is more or less correct than any other, it just changes the nature of what things like equality mean within that set of axioms, and there is usually a trade off between the "value" of the results that can be obtained.  Ie, within complex analysis, it would make sense to assign a value to the infinite sum of 1+2+3+4...=-1/12, and this ends up providing some pretty insane insights into the distributions of prime numbers among other things, but obviously conflicts with our "instinctual" idea of what the sum of the natural numbers would be.
+Doesn't the question state that he stops between each step? However small that stop is the total time adds up to infinity if I'm not mistaken.
+Niiiice, me too!
+[removed]
+[removed]
+How can one "get through" a set of something which has infinitely many elements?
+[removed]
+[removed]
+[removed]
+I remember learning about zenos paradox in my philosophy class recently, pretty interesting stuff.
+[removed]
+[removed]
+[removed]
+That always bothered me too. It seems like it’s a matter of the scale you choose to focus on. “How can it be 1 if I keep focusing on the halfing of halves?” Change your time scale to be 0 - 1, with increments of 1. Usually with things like these I figure I’m not “getting” something, but I can’t seem to find a satisfying answer.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+This is also my favourite version of the trolley problem. The trolley is going to go down an empty track, but you can flip it to a track with 1 person ties to it, next to 2 people, next to 3...
+
+Are you morally obligated to save 1/12 of a life?
+[removed]
+[removed]
+[removed]
+The correct answer is basically "that's the only way to make a length out of these 5 constants that we sort of arbitrarily picked so while that's roughly the scale we currently struggle to predict, it shouldn't have any physical meaning"
+even better, hadn't heard this version before :-D
+[removed]
+[removed]
+This is Zeno. They didn't have an understanding of limits; they barely had the idea of infinity and this kind of thought experiment is how the current ideas about limits came about. Before this, some people would assume any infinite series of finite terms added to infinity. This 'paradox' really just reveals the flaw in this reasoning.
+[removed]
+[removed]
+[removed]
+That’s calculus, right?
+
+Did the solution to Zeno’s Paradox really need to wait for calculus, or did someone earlier have a mathematical explanation?
+A more mathematical way to describe it would be the ancient Greeks didn’t know and infinite series can have a finite sum
+[removed]
+[removed]
+[removed]
+[removed]
+Or that, if you measure your speed in (marked) places passed per second, your speed in places passed per second goes to infinity as the distance between places approaches zero. Then you don't need all the other places in-between.
+[removed]
+[removed]
+[removed]
+*LHCb sees where the antimatter's gone, ALICE looks at collisions of lead ions. CMS and ATLAS are two of a kind, they're looking for whatever new particles they can find. The LHC accelerates the protons and the lead, and the things that it discovers will rock you in the head.*
+
+Sorry, your list just reminded me of old Youtube.
+I'm not sure what you mean. They were confused but both things they mentioned (convergent series and addition) have common definitions.
+[removed]
+Forgive my very simple brain, but isn't this the problem with going FTL? AS YOU GO INFINITELY FASTER TIME GOES INFINITELY SLOWER?
+[removed]
+They're not going faster in the example, they are just using more, smaller, sections of time to assign to each subdivision of distance. Atleast that's what I understood.
+Your speed isn't changing, it's just the distance you have to walk that gets smaller.
+Well, the Planck length does have some meaning... it's the length scale at which quantum fluctuations are strong enough that they are able to bend spacetime by themselves. It also features in string theory as the typical size of the strings.
+
+Our predictions genuinely start breaking down below this scale.
+[removed]
+[removed]
+Eh, whatevs. I interpreted that comment as "layman's intuitive definition of addition". If we start talking about actual mathematics, then of course all of these things have standard, uncontroversial definitions.
+[removed]
+[removed]
+So how do you pair the mappings?  You can't.  How can you compare them if you can't establish a relationship?
+[removed]
+After the one second, say after two seconds, you decide to say out loud the last number you added to the distance. What do you say
+[removed]
+You don't use the mappings to compare some set to another set, you use a mapping from one set to a cardinal to establish its cardinality. Then you can compare the cardinals with each other.
+
+We don't even need that either, because there is clearly a relationship. The simple fact that there does not exist a surjection N--&gt;R means that R is larger than N, because that's exactly how mathematicians define "larger." It exactly coincides with how we define size on finite values too, so it's not artificial or anything.
+[removed]
+[removed]
+Hey man, thanks for your reply. Out of curiosity, what is/are the branch(es) of math that deal with these topics?
+[removed]
+But even if you remove the countability distinction from it, it seems intuitive that there is still a significant mathematical difference between say, the number of whole numbers and the number of whole numbers divisible by 2. Both are countable, so that's not the deciding factor. Yet one is N (infinity) and the other is N/2... infinity/2, which is still infinite but in some meaningful way less than the other infinity. Or is all such distinction lost without the countable vs uncountable boundary?
+For no value of n does the sum of 1^n equal 2. The fact that there is a unique number that is never reached does not mean that you reach that number.
+[removed]
+Fermilab's Holometer experiment attempted to see if the universe was continuous or discrete (pixelated), but even though it had enough sensitivity to measure distortions caused by quanitization of space at the Planck length level, it didn't find any evidence the universe wasn't continuous and smooth.
+
+So either we're not pixelated (most likely), or the minimum length of space is far smaller than a Planck length.
+I feel like all you did was rephrase the problem and the actual answer would be in the explanation that allows you to say
+
+&gt; and adds up to a finite value
+[removed]
+[removed]
+I always remember this as Archimedes Golden Arrow or something similar? Same story except instead of the bus stop it's the kingdoms best Archer and the kingdoms fastest Calvary running away from the arrow or something. I'm sure it's the same thing though.
+The Planck length isn't the smallest unit of distance, it's just the unit of distance which comes naturally from the ratio of several universal constants.
+
+That is, no matter what system of measures you use, physics has several universal constants. Whether you're using Metric units or Imperial Units or Thargoid Traditional Measures, you'll get the same value of c, the same value for the permeability of vacuum, the same value of Planck's constant, etc. If you take a ratio of these fundamental physical constants such that it works out to units of speed, you get the Planck length.
+&gt;Adding to that, while irrational numbers are not countable the way that whole numbers are, that does not mean there are *more* irrational numbers than whole numbers.  
+
+That's actually more or less exactly what that means.
+
+The cardinality of the continuum is strictly larger than the cardinality of the natural numbers.
+That would be so huge if we discovered we are pixelated. Because then it would imply there is a minimum length we can't cut down even further, and that limitation, at least to me, feels like something that would suggest we are all living in a simulation in someone's really nice (but finite in memory and processing power) computer
+[removed]
+That was actually his point. The paradoxes were intended as a defense of the philosophy of Parmenides who did indeed say that movement and change is impossible (although his reasoning was metaphysical than mathematic).
+But doesn't Zeno's paradox as originally stated already more or less say that?
+
+It's an sum of infinitely many values and (according to Zeno) you never reach the destination (a finite value).
+Cardinality is one notion of size, and a convenient one for a variety of reasons.  It is not, however, the only one.
+
+In terms of cardinality, the whole numbers and just the even numbers have exactly the same size.  Its unintuitive, but so is infinity.  Keep in mind that "same size" means "for every unique natural you present me, I can provide you exactly one, unique, even natural to pair it with" and that _is_ true.  
+
+Having said that, "measure" is also a way to ... Well, measure size.  The open interval (0,1) has the same cardinality as the reals, but has measure 1, and so is in that sense smaller than them.
+Also possible is the simulation is capable of being aware of when extremely small values of time and space are being observed and providing higher resolution in only those instances. Like how video games use draw distances and mipmaps.
+Off. You just switched it on and off again infinite times. It broke a while ago buddy. It’s been off for ages.
+[removed]
+Except that those definitions are much closer to "this is the shortest distance than can possibly ever have any relevance to anyone ever" and "this is the smallest amount of time that can possibly be differentiated by any possible process", so you absolutely could say that something was half a Planck length, and it would be fine....
+[removed]
+[removed]
+Yeah, but the Greeks didn’t understand how that was possible, and that’s why they thought it was a paradox. Zeno thought you would never reach the destination, but now we have the math to easily prove that you do
+Nope. As I understand it, the closer you get to c, the more energy is required to accelerate. This keeps increasing until you need infinite energy to actually reach c.
+Could you explain this one for me?
+[removed]
+Wait, irrational or rational?
+
+Can't you use a Cantor pairing function to turn x is an element of N into two y,z are also elements of N; following that, y/z should cover the rationals?
+
+E: You're using R for reals, not rationals.  The reals are definitely bigger, because you specifically can't do what I just proposed above.
+The study of the cardinality of (in)finite sets comes up in a lot of different branches of mathematics, since set theory forms the basis of so many of them. 
+Just as an example, cardinalities are important in the theory of computation where they're used to show that the Halting Problem is undecidable.
+R is definitely reals, why do you think it means rationals?
+No, he's stealing their beer.  From their perspective, he's giving them negative beer.
+FYI the rationals are generally denoted by Q. But you're definitely right; that's exactly the argument you use to prove that Q is countable.
+[removed]
+[removed]
+Why should it? Not everything is a two-way consequence. For example, let's say any person who has his brains splattered over a wall is most probably dead, and that this is always true. The opposite won't necessarily be true.
+There's different symbols to write it too. A =&gt; B means if A happens, B must happen. But this does not imply that B =&gt; A.
+If B happening means A happens, and the reverse is true, then you write it A&lt;=&gt;B.
+[removed]
+Alternative statement:
+
+There is a difference between breaking down one action into a countably infinite number of divisions, and uncountably infinite divisions.
+Or, more cleanly:  The sum S for n=0 to infinity of (-1)^n is undefined, because the series is divergent.  (Wherein S=1 represents the light being on, and S=0 represents it being off).
+[removed]
+[removed]
+That doesn't make sense, as by definition an infinite sequence of 0s wouldn't have an end.
+Fun thing to think about in relation to zeno's paradox, the atoms and molecules that make us up can never actually touch anything. They can get close, but due to the magnetic field, they cannot touch. So, in line with Zeno's paradox, if you define "reaching a point" as touching that point, you actually never will.
+
+On an atomic scale, the closest you can ever get to touching someone else is when your DNA intertwines with someone elses when you have a child.
+[removed]
+Sure! Don't worry if you didn't get it, it's fairly advanced math, which is why it is used as a nice "in-joke"...
+
+Let's begin with a simple example: consider the series:
+
+1 + (1/2^2 ) + (1/3^2 ) + (1/4^2 ) + ... = 1 + 1/4 + 1/9 + 1/16 + ...
+
+If you know a little math, you will recognize this series. The result if adding up all the infinite terms is exactly equal to (pi^2 )/6, which is just a beautiful result.
+
+Now, imagine replacing the exponent in the denominator of each term. In the series we just saw, the exponent was 2. Let's ask the question -- what is the sum of the series, as a function of this exponent (call it s)? Clearly at s = 2, the sum is (pi^2 )/6 -- what is it at other values of s? This is called the Riemann zeta function. For s &gt; 1, it is defined this way:
+
+zeta(s) = 1 + (1/2^s ) + (1/3^s ) + (1/4^s ) + ...
+
+At all values s &gt; 1, the sum "converges" -- that is, it has a well-defined, finite value. Successive terms grow smaller and smaller. If you are patient enough you can get the answer to whatever precision you want by just punching in enough numbers on a calculator.
+
+At s &lt; 1, the sum **doesn't** "converge" -- it has no well-defined finite value. Even if you are infinitely patient, adding successive terms of the series will keep on making the sum larger and larger and there is no upper bound. This is easiest to see for negative s : imagine s = (-2), for example. Then the sum becomes 1 + 4 + 9 + 16 + ... which clearly keeps on growing larger and larger as you add more values.
+
+However, there is a piece of wizardry in mathematics called ["analytical continuation"](https://en.wikipedia.org/wiki/Analytic_continuation). Briefly the idea is this -- we know the value of the zeta function for several values of s (for example s = 2). We can then extend this "backward" to obtain a **unique, well-defined** value for the zeta function at s &lt; 1.
+
+Then, even though the sum 1 + 4 + 9 + 16 + ... is not well-defined, we can abuse the symbol "=". We claim that this sum "is equal to" the value of the Riemann zeta function at s = (-2) -- and, voila, where you first had an infinity, you have a useful number!
+
+And, using exactly the same trick, you can magically make the sum "1 + 2 + 3 + ..." well-defined -- by calculating the zeta function at s = (-1) ! Do you see how?
+
+As it happens, the value of the zeta function at (-1) is (-1/12), which explains why it is meaningful to write (1 + 2 + 3 + ...) "=" (-1/12), explaining the joke :-) Note that this needs to be used in the correct context, which is why I included the scare quotes around the equal to sign, otherwise people can misinterpret this.
+
+You could be forgiven for asking what value all this abstraction has in actual applications. You may be surprised to know that it actually appears in several theories in physics -- such as the explanation for the experimentally observed [Casimir effect](https://en.wikipedia.org/wiki/Casimir_effect), and more speculative models like string theory. In fact, the magical number (-1/12) is actually related to why many string theory models work only in exactly 26 dimensions -- not in 25 or 27 or any other number.
+Thank you for that. I didn’t mean to say it was, for the record. I just meant that if it were, then...
+
+But I appreciate the clarification.
+[removed]
+The Planck length isn't about space being discretized, it's about fundamental uncertainty limits, I thought?
+[removed]
+Mathematically, “0.000...1” would be the limit of
+
+    (1 / (10^x))
+
+As x goes to infinity.  This limit is 0, and it’s possible to prove that analytically in a general way, but that doesn’t really explain much.
+
+Another way to think about it is that two values A and B can be considered equal if there is no number C that can “fit between them” (`A &lt; C &lt; B` or `B &lt; C &lt; A`).  Because there is no fixed value larger than 0 and smaller than `(1 / (10^x))` for an arbitrarily large x, they *must* be equal.
+[removed]
+It does though, the same way that .99999 repeating = 1 (which it does, mathematically and realistically)
+[removed]
+Contrary to popular belief, there is nothing universally significant about the plank values. Things can be smaller than a plank length and intervals of time can be shorter than a plank second.
+[removed]
+Yeah that's what I had issue with, guy above me is the one that suggested there's no distinction between an infinite set of discrete actions and a single action being broken down into infinite sub-actions. I was just trying to point out the flaw in his logic. His statement leads to the idea that there's not really such a thing as infinity and its use is simply a less-than-accurate description of a single action every time, which obviously isn't the case.
+It's the difference between theoretical and practical application of math.
+So what you’re saying is some infinites are finite?
+[removed]
+[removed]
+... wow, that's so simple. I'd been wracking my brain trying to figure out the solution, logically, to that. How to get it to work in theory.
+No matter how many irrational numbers you find, I can find more rational numbers.  Between any two irrational numbers lie infinite rationals.  They have a different cardinality because of their countability, but that still does not imply more in the way that 8 is more than 5.
+Really, what trips up Zeno is that all he can really conclude is that there are an infinite number of ways to represent increments of distance because whatever unit of distance you're using can always be halved.   This does not imply that an infinite number of actions are required to traverse a finite distance.
+Reminds me of a story about a philosopher expounding about solipsism in his garden. He claims that nothing truly exists and his friend shouts, "I refute it thus!" before stubbing his toe on a rock.
+
+I can't remember who this was attributed to but I imagine it was apocryphal anyway
+I was scared of 2k or 2k+1, integer k answers due to the possibility that you could define odd as 'not even'.
+
+But I think that's actually a different, just as solid approach -- if even numbers are 2k and odd numbers are 2k+1, you're going to have to find an integer k s.t. 2k = infinity or 2k+1 = infinity. Integers are closed under multiplication and addition, so there is no such k. Therefore, infinity is neither even nor odd.
+
+(To anyone arguing about the physicality of the light bulb and light switch, you're dodging the actual question.)
+[removed]
+It's an infinite series, so any question regarding its ending state is meaningless.
+That's exactly what Zeno wanted to prove as he was a follower of Parmenides, who held that reality is one and change is impossible. While it may superficially appear otherwise, all of existence is in reality uniform and unchanging.
+I agree it's a solid approach but I was presenting it in a rough way, with algebraic manipulation of infinity as a quantity. Of course, that's not allowed, but the underlying idea works
+That's a much better way of saying what I meant, thank you!
+[removed]
+[removed]
+I remember seeing a numberphile video saying 1/2 + 1/4 + etc. Was -1/12. Didn't understand why though.
+[removed]
+Does this mean mathematics is dependent in some way, on speed?
+[removed]
+[removed]
+I hope this isn't a silly question, but wouldn't a minimum discrete unit of distance mean that the limitation of light speed would be contradicted? As in, for an object to traverse any distance, wouldn't it have to repeatedly travel in instantaneous jumps? Sounds cool, though. Now how do we just finesse those jumps so they're a bit further, like, oh, say 100 light years...
+&gt; Then the question reduces to asking: what is the limit of the sequence (0, 1, 0, 1, 0, 1...) at infinity?
+
+Or more strictly.  Asking "What value does the series (0, 1, 0, 1, 0, 1...) approach?" is a question too soon.  First you must ask "Does the series (0, 1, 0, 1, 0, 1...) approach a value?" 
+
+The answer is of course "No".
+[removed]
+I thought that was exactly what he was trying to prove or demonstrate -- that all motion is an illusion because motion is actually impossible.
+Oh, lol. I just know realized what you were trying to say. I thought you were arguing against what I replied with. 
+
+The easiest way to explain that the plank units aren’t the smallest units is to explain that the plank mass is around 20 micrograms. There are things that weigh much much less than that. Atoms for example.
+[removed]
+Is this what is meant by the philosopher who stated "...the infinite is possible at zombocom!"?
+[removed]
+That's how integration was introduced in my calculus class, as a way to measure the area under a graph. Divide it into an infinite number of slices and sum up the area of each. You still get a finite result because even though you are adding an infinite number of values, they are likewise infinitely small. Two infinities of the same degree can and do cancel each other out.
+Relativity is wrong?
+I wish refutations were still that theatrical, [featherless biped-style](https://www.laphamsquarterly.org/animals/miscellany/plato-and-diogenes-debate-featherless-bipeds).
+Does that conclusion account for the possibility of it not being a  regular grid?
+I think you're mistaken in saying that relativity is wrong. Relativity is limited in that it does not describe quantum behavior in the sub-atomic realm. It is, however, very useful, tested and "proven" in the realm in which it was intended to be applied. Just because the theory is not a universal field theory doesn't make it wrong. More generally, our current understanding of physics is not wrong; it is limited. And, spoiler alert: it always will be. As our understanding deepens, we'll be able to see further, to smaller/bigger scales. It's turtles all the way down!
+The very short version is, there is a sense in which 1+2+3+... corresponds to -1/12. It's not equal to it under most reasonable definitions of what this summation means but if you wanted to give it any sort of finite value then -1/12th would be the most reasonable. There's a lot of problematic "proofs" of this however. Mathologer made a good (but long) video on it [here](https://youtu.be/YuIIjLr6vUA). It's long but not difficult, there's just a lot to be said.
+It was supposedly Samuel Johnson making a point against Bishop Berkeley arguing for the nonexistence of matter.
+
+...or something else. I had a philosophy professor who attributed it to David Hume, so it's at least, um, anecdotally apocryphal...
+
+https://askaphilosopher.org/2015/10/13/when-dr-johnson-kicked-the-stone/
+[removed]
+[removed]
+[removed]
+Isn't 1/x as long as x can't equal zero something that never dies, it just fades away?
+Great explanation of how infinitesimally small,  infinite steps, and a finite distance are one lens through which to see the situation Something to consider:  if the traveler (the one traveling one meter) is oblivious to the way you are dividing their travel, they can simply see:  first half:  ½ second.   second half: ½ second. A constant travel rate holds in each lens. and this helps see, in detail, the "other perspective." 
+
+&amp;#x200B;
+To continue their argument; wrong as in 'doesn't contain the necessary pieces' or 'limited' as you put it.   
+
+And that's exactly why paradoxes will never stop being important to scientific discovery. In it's most basic form, a paradox is simply 2 things that don't add up, which is the first observation. It may be turtles all the way down, but it's paradoxes all the way up.
+&gt;No matter how many irrational numbers you find, I can find more rational numbers.
+
+That's just not true. If you find all rational numbers, I can find more irrational numbers. If you find all irrational numbers, you can't find any more rational numbers.
+It's entirely possible to have sequences like (0,0,0,...,1) with an infinitely long string of 0s before the 1. These transfinite sequences are used all the time in set theory as a natural extension of the usual natural-number-indexed sequences. The reason these are not used in decimal expansions of real numbers is because, well, there's no convincing reason to use them. The real numbers as a system are useful and mathematically interesting; any number system where 0.000...1 represented a well-defined value not equal to 0 would not be the real numbers, and would probably not be as useful or interesting.
+This is the only part of the simulation theory I find interesting. If reality is projected and we're just a screen, well that doesn't mean much. Light is a projection, nothing new there.  
+
+However, if things like the split-screen experiment are possible simply because the universe doesn't bother resolving unwitnessed events, that's huge.
+[removed]
+[removed]
+I really like your explanation. Bravo! Thank you.
+"More" and "larger" refer to concepts that deal with finite magnitudes. You can extend those concepts to infinite sets if you want, but infinite sets don't really have a defined magnitude, so those concepts don't really work the same way.
+You can't find all of either set. Its not even meaningful to discuss either set in those terms. That's why the idea of "more" doesn't really work here. You need to understand cardinality.
+[removed]
+I think you're taking things a little literally. Zeno had certainly walked across a room, seen an arrow reach its target, however else you want to phrase the problem. He didn't actually think you wouldn't reach your destination.  He was purposefully trying to show the absurdity of these thought exercises.
+No, it is like that one graph where it curves at an infinitely lower slope but never hits the integer, which is in this case, the bus stop.
+You can find a function that maps elements, so you absolutely can compare cardinalities.
+
+In fact, the proofs I'm familiar with that prove the irrationals have the CoC do so by demonstrating that there are fewer rationals than irrationals.
+
+Additionally to that, the point of cantors theorem is the relationship between countable and uncountable infinities: that the CoC has the cardinality of the powerset of a countably infinite set and that powersets are always larger.
+
+The fact that one is larger than the other, and specifically has more elements, is embedded in their definition.
+&gt;This situation is also known as Zeno's Paradox.
+
+Zeno's Paradox is based on a lack of understanding and has been completely resolved by the field of Calculus, though.
+[removed]
+Cardinality is really the same concept as the normal, intuitive definition of the size of finite sets. Whenever you say a finite set A has size n you are implicitly saying that there exists a bijection A--&gt;n, where n is the nth ordinal. Cardinality of infinite sets is the same thing; it's not a different concept, you just stop restricting your domain of discourse to finite sets alone. So when you say that some infinite set A is larger than some other infinite set B then that makes complete sense even if you haven't defined cardinality, because there is really no other natural way to define size.
+[removed]
+[removed]
+[removed]
+Wouldn't it work if distances were discrete but time was continuous?
+Only if you could have fractional times. But that would imply that there were real world times smaller than the unit you chose to divide. If there weren’t, then your physical distance must not be the smallest physical distance. 
+
+Dunno. I’m just an accountant. It seems to me that Zeno’s
+Paradox allows one to arrive through intuition st the idea that time and space are inextricably linked.  That’s the coolest thing I’ve discovered on my own.
+[removed]
+[removed]
+[removed]
+It depends a lot on what you mean. In the standard interpretation of the definition of real numbers it's not clear what question you're even asking.   
+
+
+However, there are non-standard reals which allow for things like infinitesimals. I'm reasonably certain that in that non-standard model one can make sense of your idea. Levi-Civita fields look a lot like what you are discribing. Though I'm a lot more comfortable with the ([https://en.wikipedia.org/wiki/Hyperreal\_number](https://en.wikipedia.org/wiki/Hyperreal_number))\[hyperreals\] as they allow for ease of doing calculus with them.
+Only if that's the interpretation of that collection of symbols. Non-standard analysis gives another interpretation which doesn't agree with that. Allowing infinitesimals is complicated to do from a formal perspective, but I've always felt it's no less intuitive than the standard reals.
+Or, simply that there *does* exist a smallest possible unit, between which you either move or do not move.  
+
+I like to think there's a mathematical basis for this too, since 1/9 is 0.1 repeating, 7/9 is 0.7 repeating, and so on.. so 9/9 is 0.9 repeating, but is clearly 1.
+[removed]
+so if you add up all the whole numbers to infinity is it actually equal to -1/12 or is it only under very odd circumstances?
+What if there were infinite bus stops?
+[removed]
+[removed]
+[removed]
+[removed]
+Adding all the whole numbers does not get you -1/12 it gets you inifnity, in the above case they are just extending the definition of a function to a domain where it dosent really make sense. Kind of like how a geometric sequence is divergent if the ratio is larger than 1, but you can still pretend it equals 1/(1-r)
+It would just mean that time is an illusion, and we are all stuck in a series of infinitely small moments.
+
+Movement includes both time and space, remember. Time is the 4th dimension thru which we all travel in the same direction, tho not necessarily at the same speed.
+Yeah. Here's a good way of looking at it.
+
+Picture all the natural numbers: 1, 2, 3, 54656, ...
+
+Now flip them all around, so you get 0.1, 0.2, 0.3, 0.54656, ...
+
+Seems like that's all the numbers between 0 and 1, right? Nope. See, there are also *irrational numbers*, things like the square root of two, which is actually impossible to represent as a finite decimal. √2 = 1.41421356237..., and it just goes on forever, never repeating or forming a pattern of any kind. There's no equivalent natural number that can flip around to replace something like (1-√2). That's where all the "extra numbers" come from.
+[removed]
+No, Zeno's paradox was part of showing how our perception of reality is different than reality. Motion is impossible yet I seem to have moved, therefore my perception is wrong. It's part of a lot of Greek philosophies that our perceptions are flawed and not a good source of truth. It's hardly all Greek philosophers, but a sizeable number.
+By progressing through those elements at an equally fast rate.
+
+From a mathematical standpoint, it's interesting, but from reality, you hit the planck distance and you cannot halve the remaining distance anymore. You then cross the final planck-length distance and end up at your destination.
+[removed]
+A shortcut way to conceptually resolve this paradox is to consider that the amount of time needed to traverse each successive half approaches zero just as fast as the halves get smaller. You can accordingly travel an infinite number of successively smaller halves in an infinitely small amount of time.
+By taking infinitesimal time to do most of the actions, or by performing them in parallel.
+[removed]
+[removed]
+[removed]
+[removed]
+No that’s exactly why it’s a paradox, not an attempt to show the absurdity of thought exercises. He had clearly walked across a room and knows its possible, however, the math shows it shouldn’t be possible. Hence, a paradox.
+What's divergent?
+So it works the same way with the 2 guys in a bar. 
+
+The 1st guys orders 1 glass while the 2nd orders the half and then infinite number of other guys order half of what the past guy has ordered. And so the bartender gave them 2 glasses.
+Next you'll tell me Schroedinger actually thought the cat was alive and dead. In both cases they were showing how you can thought exercises to extreme levels. There's no actual paradox with Zeno, it's easily refuted. I mean this is in the intro paragraph in the Wikipedia entry.
+#The light is off.  
+
+This is simple to answer if you have any experience with lightbulbs.  Quickly flipping them on and off repeatedly will damage them.  So, as you go along doing so an infinite number of times, you will eventually reach the point where you've broken the bulb and it will just always stay off, regardless of which position the switch is in.  Ergo, the light will be off.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[deleted]
+the math of the greeks was based in geometry. Which is fine because you can find a geometric solution to most math problems.   
+
+
+One thing geometry is not very good at is dealing with dynamic processes. If you look at Zenos paradox, try to visualize it and solve it geometrically you might very much assume it's a real paradox...
+Interesting link, it to took a bit of time to apply this reasoning to the tortoise problem.
+
+But I don’t get the time argument, seems horseshit.
+While I agree with the other replies that yes, your statement is true, I'd say that in practical terms, infinite is infinite.  If it we a race, each team adding another number and then the other responding, neither team would win.  In both scenarios, 0-1 and all integers, there is never an end, so to say one is bigger than the other is a purely mathmatical construct.
+Are you moving the goalposts on purpose, and misquoting Wikipedia to win an internet argument?
+
+What’s being debated here is whether Zeno thought it was a paradox. Not whether it is, in fact, a paradox (which it clearly isn’t). And the resounding answer is yes - he thought it was a paradox because he lacked the mathematical tools to resolve it.
+
+It’s hilarious that you cite Wikipedia and apparently haven’t read through the first paragraph:
+
+&gt;	Zeno's paradoxes are a set of philosophical problems generally thought to have been devised by Greek philosopher Zeno of Elea to support Parmenides' doctrine that contrary to the evidence of one's senses, the belief in plurality and change is mistaken, and in particular that motion is nothing but an illusion.
+
+But hey, Wikipedia, right? Let’s turn to another [source](https://plato.stanford.edu/entries/paradox-zeno/):
+
+&gt;	Zeno sought to defend Parmenides by attacking his critics. Parmenides rejected pluralism and the reality of any kind of change: for him all was one indivisible, unchanging reality, and any appearances to the contrary were illusions, to be dispelled by reason and revelation. Not surprisingly, this philosophy found many critics, who ridiculed the suggestion; after all it flies in the face of some of our most basic beliefs about the world. [...]
+&gt;	In response to this criticism Zeno did something that may sound obvious, but which had a profound impact on Greek philosophy that is felt to this day: he attempted to show that equal absurdities followed logically from the denial of Parmenides’ views. You think that there are many things? Then you must conclude that everything is both infinitely small and infinitely big! You think that motion is infinitely divisible? Then it follows that nothing moves! (This is what a ‘paradox’ is: a demonstration that a contradiction or absurd consequence follows from apparently reasonable assumptions.)
+But it's not and it's not meant to be. You don't have to try to explain it to me, I fully understand it and have been familiar with it for decades.
+[removed]
+The part where it's a paradox is probably the assumption that it actually adds up to a finite value.  You'd have to spend infinite time to prove it which you can't. Therefore it should never even be considered. 
+
+We are treating infinity like it's finite and something that exists when we shouldn't.
+
+
+P.S. I really don't know anything about math, but want somebody to expand on this. (Cunninghams Law)
+No, I wouldn't quite put it that way, because that makes it sound as if mathematics itself gives you different answers depending on "circumstance". That's not correct.
+
+Here's how I would put it: the sum of an infinite series is a subtle thing. It is always well-defined for convergent series and has nice reasonable properties -- for example you can shuffle around any of the terms. But the sum of a divergent series can be defined in a few different ways that may lack these nice properties.
+
+Taking one approach, it is clear that the sum of all integers diverges -- I can always take enough integers for the sum to be greater than whatever finite number you give me. In that sense the sum is "equal to" infinity.
+
+Another way of defining that sum is to take the analytic continuation of a function where it is defined, and then pretend that the functional form holds even where the function is not defined. Using this approach the sum of all the integers is "equal to" (-1/12).
+
+It's the definition of "sum", not the definition of "equal to", that changes. I glossed over that in my original explanation.
+
+The amazing thing is that this other definition of sum turns out to be not only physically meaningful, it can be measured experimentally.
+[removed]
+I've heard that argument before, but I've never understood what problem would actually be solved.
+
+&gt; Like, if the Planck length is the smallest unit of distance, then the smallest unit of time must be the time it takes to traverse one Planck length at c.
+
+So what happens over the smallest unit of time when something's travelling at less than *c*?
+[removed]
+[removed]
+This is similar to the solution to the Painter's Paradox of [Gabriel's Horn](https://en.wikipedia.org/wiki/Gabriel%27s_Horn).
+
+&gt; Since the horn has finite volume but infinite surface area, there is an apparent paradox that the horn could be filled with a finite quantity of paint, and yet that paint would not be sufficient to coat its inner surface. The "paradox" is resolved by realizing that a finite amount of paint can in fact coat an infinite surface area — it simply needs to get thinner at a fast enough rate. (Much like the series 1/2N gets smaller fast enough that its sum is finite.) In the case where the horn is filled with paint, this thinning is accomplished by the increasing reduction in diameter of the throat of the horn.
+[removed]
+At least some Greeks did some measurements of the world (e.g. the radius of earth), during the middle ages most "insights" regarding our world were introspection or scripture based.
+That's how integration was introduced by Newton, its inventor, in [Principia Mathematica](https://www.intmath.com/blog/mathematics/what-did-newton-originally-say-about-integration-4878).
+[removed]
+[removed]
+Reminds me of the Mathematician vs Engineer joke:
+
+A mathematician and an engineer are sitting at a table drinking when a very beautiful woman walks in and sits down at the bar.
+
+The mathematician sighs. "I'd like to talk to her, but first I have to cover half the distance between where we are and where she is, then half of the distance that remains, then half of that distance, and so on. The series is infinite. There'll always be some finite distance between us."
+
+The engineer gets up and starts walking. "Ah, well, I figure I can get close enough for all practical purposes."
+I'm not sure I follow how the Halting Problem use cardinality? 
+
+Isn't it a proof by contradiction, where for any halting determination algorithm, it is shown how to construct a program that forces the halting determination algorithm to give the wrong answer? I don't see what part uses cardinality.
+[removed]
+This reminds me of [Cantor's Diagonalization Argument](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument), which inadvertently demonstrates that there is no such number by trying to enumerate all the real numbers. Every real number can be seen as having an infinite number of digits after the decimal, even if all the digits past a certain point are 0. Therefore, no real number has a "last" digit, and therefore we cannot set the "last" digit to any particular value (1 or otherwise).
+"Die geometrische Reihe konvergiert
+Gegen 1 durch 1-x
+Aber nur wenn das Quadrat von x kleiner als 1 ist
+Ansonsten konvergiert da nix."
+[removed]
+Nope it doesn't mean that time is an illusion IN THAT SENSE. These infinitely small moments are "only" a mathematical tool.
+[removed]
+[removed]
+What do you mean by "basic level"?
+So if you add all real numbers between 1 and 2 (that's a shitload of numbers) to the set of all real numbers between 0 and 1, you still won't increase the amount of numbers you started with? That seems crazy indeed.
+A divergent infinite series is one that doesn't converge to some finite value
+There are different proofs for showing that the halting problem is undecidable. A proof I know uses reduction of the diagonal language to the halting problem. For that language, you can show it's undecidable via set cardinality.
+
+Another great use of set cardinality in that field is to show that undecidable problems must exist. It's quite simple: You show that the number of problems (which are each represented by a language) is not countable while the number of Turing machines (problem solvers) is. As each solver solves exactly one problem, there are more problems than we can solve using our computing methods.
+Not just 1 and 2, but also 2 and 3, and 3 and 4 and so on... till the known infinity of whole numbers. Each of the individual sets has as its size the same "number", and you just added that number to itself infinitely many times, BUT SOMEHOW ENDED UP WITH THE SAME NUMBER! The math of infinities is very crazy and runs incredibly counter-intuitive to the way we learn to count as children :).
+If the set of whole numbers fits within the set of natural numbers, then is that enough to show that one has a higher cardinality than the other?
+My question was about physics, and your answer was about math, so you didn't really answer the question. Nevermind though, it was actually a lot simpler than I thought. Even if you have an ideal switch that can flip on and off instantly, a wire with zero impedance, and an ideal lightbulb that can handle an infinite amount of voltage, you are still limited by the speed of light. Once the switching reaches a certain frequency the electromagnetic field propagation will not be fast enough to reach the bulb and the bulb will remain off.
+[removed]
+[removed]
+[removed]
+[removed]
+Lol this topic sounds so interesting *in general* but Calc 2 was still like getting my teeth pulled.
+Thanks, I was about to write something similar, I was perplexed that no one mentioned it earlier. 
+
+There were two opposing opinions amongst Greek philosophers. One exemplified by Zeno, Parmenides and the other Eleatic philosophers that change was impossible, that there existed no void. And another exemplified by Heraclitus that change was constantly happened, "that a man does not step in the same river twice" and such.
+
+It is unfortunate that we are not educated in thinking like the old philosophers where physics and maths were married with philosophy.
+
+Many of the paradoxes we know come are in some ways polemical thought experiments meant to deny the wisdom of rival schools of philosophy.
+[removed]
+I mean the cat is *literally* alive and dead in Quantum Mechanics. Like that’s not a thought experiment, that’s what we believe reality is.... are you just arguing to argue man? Why even bring a subject as complex as QM when it’s clear you only know the term Shroedinger’s Cat and know nothing about collapsing probability waves that explain the thought experiment?
+I neither offered a proof nor considered whether there are extensions beyond the integers.
+[removed]
+Except that the words we use for size all refer to a thing's finite extent. If I add an element to a finite set, I can say that the new set is larger than the old set. You can't do that with infinite sets. The set of positive integers is the same cardinality as the set of positive and negatives. The problem is that you can't treat infinity like a number, because it isn't one. Cardinality is the natural extension of our concept of size, but infinities don't play by the same rules as finite numbers.
+
+&gt;Cardinality is really the same concept as the normal, intuitive definition of the size of finite sets. Whenever you say a finite set A has size n you are implicitly saying that there exists a bijection A--&gt;n, where n is the nth ordinal. 
+
+No you aren't. That's a far more general understanding size than most people commonly use.
+I'm not making a mathematical point, I'm making a linguistic conceptual one. The English words relating to magnitude are most commonly associated with ideas relating to finite amounts. You can't treat infinity or infinite sets with the same rules as you do finite sets, so the common understanding of these terms doesn't map directly onto infinite sets. 
+
+If mathematicians choose to use common English words for magnitude to describe infinite sets, that's fine, but it's a technical usage that diverges from the common one.
+By hitting that Planck-length distance it is implied that there are actually NOT infinitely many half-distances.
+That isn’t actually a particularly abstract understanding of size. If you count objects in a collection, then you’re implicitly using the definition of cardinality.
+In physics, there are not. In math, there are. We live in a world that uses physics, not pure math.
+I see. I understand you didn't offer proof, nor would I ask that much. But what about the "extensions beyond integers", what would those be, would you care to explain, at a basic level?
+
+&amp;#x200B;
+
+Thank you.
+Yeah, like I said, not all Greek philosophers. But the introspection based strain of Christian thought owes  its origins to Greek philosophy as well. Neoplatonism was a huge influence on early Christian thinkers.
+The status of "completed this segment" is a status which can be shared as a single status stcked on top of an infinite number of events.
+
+The status is "was this distance covered in X time?" - so the status for all slices of time passed for a given distance is complete for all subdivisions. regardless of how many (infinite) subdivisions you make of a given slice of time.
+Wait, is this true though? Wiki: Unlike some other Planck units, such as Planck length, Planck mass is not a fundamental lower or upper bound; instead, Planck mass is a unit of mass defined using only what Max Planck considered fundamental and universal units
+All planck units are 
+
+&gt;	defined using only what Max Planck considered fundamental and universal units.
+
+That is I the purpose of Planck units. I don’t know too much about it, but from my understanding, it allows you to do math without units.
+Yeah, but you are also using additional concepts that don't apply to infinite sets.
+[deleted]
+Also, how would you even count the numbers between 0 and 1? Would it just be .1, .01, .001, .0001 etc.
+Who says they need to be in order of size? If you don't count irrationals and repeating decimals, you can go 0.1, 0.2, 0.3, ... 0.9, 0.01, 0.11, 0.21, 0.31, ... 0.91, 0.02, ... 0.89, 0.99, 0.001, 0.101, ... and get all of them.
+[Infinitesimals are indeed valid!](https://en.m.wikipedia.org/wiki/Hyperreal_number)!
+
+Keep a few things in mind though:
+
+An infinitely small number is not necessarily the smallest number. If we say some number x is infinitesimal, x/2 is another infinitesimal, and so is x/3, and so one. You could also have a number be infinitesimally small compared to an infinitesimal, and so on. Hyperreal numbers have this branching hierarchy all the way down, and up into infinite values as well.
+
+Another thing is that numbers, from the conventional views of most mathematicians and scientists, have no real world meaning in and if themselves. Some people believe numbers exist out there, such as mathematical Platonists. But most view math very differently. Maths some would say is a language, a way of talking about things that happens to have rigor built in. Some say maths is more of just an extended and particular sort of logic, we are drawing conclusions from axioms after all, but maths has special assumptions logic does not. Some also argue maths is like a story or a game, where we are defining different rules and playing by them to see what happens. And you can have entirely different rules to found maths, so there isn't one superior game so to speak. Mathematical truth is not contingent on physical reality in most conceptions, nor visa versa.
+
+So, there are hyperreals which contain infinitesimals, but no really interesting and consistent systems that extend the integers or the reals contain a "smallest number" (to my knowledge). Also it's maths so none of it has an intrinsic physical meaning according to most.
+
+Make of that what you will.
+[removed]
+[removed]
+If math has no real tie to physical world, how is it that physicists discover things based on pure math, then end is proving it true with experimentation? Or like with Euler's formula and imaginary numbers, how is it that a mathematical relationship ends up being coincidentally used to describe all wave-like phenomena, but not until 100-200 years later when people realized what the formula means in relation to physics?
+That is a very good, and reasonable, question to pose to someone who is not a mathematical Platonists. I think it depends on what you mean by "no tie", and what you are calling "pure math".
+
+First of all, if anything is predicted by pure maths, it is already true by that formal system, and experiment is unnecessary. What will happen, however, is that scientists will develop an intuition of physical phenomenon from working with and trying to conceptualize and understand them, and then will take a leap based off a simple assumption or assumptions and develop the math based of those assumptions (like in Special Relaitvity, Einstein could tell from experiment and his intuition that the relativity of velocity and the constancy of the speed of light were simultaneously true, so he worked forwards from those assumptions and found the math that described that sort of system).
+
+For the Euler's formula example, you're asking more about the unreasonable effectiveness of maths in the field of science I think, which is an interesting and ongoing area of debate. Why does maths best phenomenon, and not some other system or language or whatever you call it? Why when we take what we know and extend with mathematics do we get often very reliable new info? Perhaps it is because math is strongly related to logic, and we are more or less just logically extending from simple assumptions. If you moreso meant how do mathematical structures invented a hundred or more years ago not find their real use until much later, yet still do eventually find use, remember that there are a lot of maths that doesn't one day connect, and we have being toying with stuff for millennia. Look at many of the abstract algebra systems which exist and find no particular use value, they are just pretty. Maybe one day they will all find use, but it is no guarantee, and if we keep inventing maths, and maths is formal systems, sometimes those systems will describe things that actually happen by sheer numbers alone. Though maybe resorting to probability to explain the effectiveness of maths is circular hehe
+For some reason, our universe appears to follow laws that can be described mathematically. While mathematics itself can exist independent of reality, physical reality seems to depend on mathematical structure.
+That's why math seems like magic to me. Maybe we are  just "extending our logic", but it appears to me that the only reason our logic can be applied to understanding the laws of the universe is because the universe is built off of the same logic, and we can comprehend logic because we are part of the universe. I like thinking of the development of math as a journey to discover how the universe was created, because it makes it way more interesting and it actually makes more sense than explaining it as "oh it just happens to work out that way because we can use logic".
+Mathematics proposes systems that may or may not exist in the real world. When physicists discover things from math, it’s because they picked a mathematical system (model), tested how closely it adheres to the real world system, and decided it was a good model. Sometimes they are right on the mark, and everything that’s true in the model is true in the real world. Sometimes they are wrong about the model, and at some point realize they need to pick a different one.
+Words and language can be used to describe the world and universe around us, math is similar in that it allows us to describe and predict how the universe functions.
+[removed]
+[removed]
+[removed]
+[removed]
+This is something I see too rarely explained and this is nicely explained.
+[removed]
+[removed]
+"Maths" is the accepted word in most dialects of British English. I'd advise being less angry about things you don't know much about.
+Might be noteworthy to accentuate that they exist in non-standard math. Almost all number systems which are actually used by mathematicians do not validate infinitesimals but instead rely on epsilon-delta limits.
+This is something that has been discussed quite a lot. Some see it as miraculous.
+
+https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences
+
+
+Some, like Quine, see math as being justified just that extent that it underpins physics.
+
+https://www.jstor.org/stable/25171232
+
+In general though, ask yourself how you would describe the universe if not mathematically. Say you had some other system that conforms well to how reality works. Wouldn't that just be another way to do math?
+
+Still another way to think about it is that we can only reason about the universe in ways that we can reason about the universe. If the universe required some descriptive method that is wholly inaccessible to the human mind, we wouldn't be able to describe it (not entirely impossible). We can describe math though, so if there are some parts of the universe that an be described by math, math seems to the reasonable tool we should use to describe it.
+[removed]
+[removed]
+&gt; If math has no real tie to physical world, how is it that physicists discover things based on pure math, then end is proving it true with experimentation?
+
+Saying it has no tie is not correct.  The more correct way to say it would be a 'loose tie'.  For instance, the Ideal Gas Law is PV=nRT.  But, gases aren't always ideal, so to speak.  But many times it's close enough.
+[removed]
+[removed]
+[removed]
+Hmm your conclusion appears invalid to me, because what is used to describe something is not equivalent to the thing described, the existence of apples does in no way relate or depend on the linguistic description and invention of the word "apple".
+There are philosophers who do think you can describe the universe without Math, for example the philosopher Hartry Field to demonstrate this, [formulated Newtonian Gravitational Theory without using mathematical entities at all  
+](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198777915.001.0001/acprof-9780198777915-chapter-8).
+[removed]
+I don't really understand how math can be said to be invented and merely used to describe the universe. Does that mean there may be other ways that can also describe the universe? I mean 1+1 is always 2 no matter whether we're here to see it or not. Obviously we invented the framework and the methods that we use, but the actual facts of math have always been there.
+I thought that story goes that Newton and Leibniz used infinitesimal for their calculus, but with no real justification. In the 19th century, mathematicians sought to rigorify calculus into the field we know now as real analysis. And in real analysis infinitesimals play no part. I think non-standard analysis may have use of infinitesimals.
+Historically your story is accurate. Unjustified Infinitesimals -&gt; Epsilon Dela definition of Limits -&gt; Standard Analysis -&gt; Nonstandard Analysis, including the Hyperreals.
+It does mean that there are or at least could be other ways to describe the universe. I mean, language has described the universe without formal maths for years, unless you are being as vague as all counting is maths, in which case then I would say that that has more to do with how our brains are hardwired.
+
+Also, I don't understand what you mean with your 1+1=2. If you define what 1, 1, and 2 are, then it is by rote definition that 1+1=2. It is similar to the fact that "All bachelors are unmarried" is true. Sure, but it is a tautology, a bachelor is by definition an unmarried person. 2 is by definition the successor to 1, and +1 is by definition that act of applying the successor operation ones. I agree that the universe behaves consistently even outside of our observation, but as soon as you apply mathematical description to it, that is tantamount to acting as if it is observed.
+[removed]
+I think this is more a case of "Math without numbers", rather that "Science without numbers". In other words, as far as I am concerned, standard mathematical entities (such as numbers) are just imperfect representations of mathematical ideas which may find expression, and even more precise expression, in other ways.
+[removed]
+
+Summary:
+Turning the light on is a +1, turning the light off is a -1.
+The sum of all numbers in the sequence is equal to 1.
+The whole numbers are countably infinite.
+There is such a thing as Planck time.
+You just switched it on and off again infinite times.
+If it approaches a finite values by a finite time, then it realizes that finite value in that time.
+You can't do that with infinite sets.
+That finite value, in this case, is 1.
+But that's how I think about limits.
+You can't do that for real numbers.
+Still another way to think about it is that we can only reason about the universe in ways that we can reason about the universe.
+That was actually his point.
+A divergent infinite series is one that doesn't converge to some finite value.
+So the limit is 1.
+If you find all rational numbers, I can find more irrational numbers.
+then the correct answer is not "no", the correct answer is "we don't know".
+Also, how would you even count the numbers between 0 and 1?
+Or am I way off?
+Make of that what you will.
+Seems like that's all the numbers between 0 and 1, right?
+There is no common definition of an infinite sum.
+Doesn't it approach a finite value, not actually reach it?
+Asking "What value does the series (0, 1, 0, 1, 0, 1...) approach?"
+In that sense the sum is "equal to" infinity.
+That doesn't make sense, since infinity isn't a number.
+A =&gt; B means if A happens, B must happen.
+You think that there are many things?
+Also, I don't understand what you mean with your 1+1=2.
+I just meant that if it were, then...
+I really like your explanation.
+Adding to that, while irrational numbers are not countable the way that whole numbers are, that does not mean there are *more* irrational numbers than whole numbers.
+The problem is that you can't treat infinity like a number, because it isn't one.
+In physics, there are not.
+It is not, however, the only one.
+I don't see what part uses cardinality.
+Not all infinite sets are equal in size if that makes sense.
+So, even though there are infinitely many halves to go through, it takes a finite amount of time to get through them all.
+It has no real meaning because by definition there can be no largest number.
+What does that even mean?
+Are you also saying that their is no such thing as "planck" time ?
+So what you’re saying is some infinites are finite?
+There is no end, but there is an "after" for them.
+You're adding an infinite series together to make a finite value.
+Because every whole number has an inverse between 0-1 but not every decimal between 0-1 has a whole number inverse.
+If you find all irrational numbers, you can't find any more rational numbers.
+That's actually more or less exactly what that means.
+You would have to sum up all the times together.
+The infinite series approaches 1, but never arrives.
+You can extend those concepts to infinite sets if you want, but infinite sets don't really have a defined magnitude, so those concepts don't really work the same way.
+Is this because as numbers get very small they must approach a finite value?
+What if there were infinite bus stops?
+The fact that there is a unique number that is never reached does not mean that you reach that number.
+Wouldn't that just be another way to do math?
+That is I the purpose of Planck units.
+Using this approach the sum of all the integers is "equal to" (-1/12).
+Even the Planck length isn't a limit, because it is only our understanding that breaks down at that point.
+How can one "get through" a set of something which has infinitely many elements?
+Why can't you go through these infinitely many "halves" in a finite amount of time?
+If my understanding is correct, then adding finite amount of time to each step (no matter how long) in flipping the switch makes the series sum infinite.
+I just know realized what you were trying to say.
+It's the definition of "sum", not the definition of "equal to", that changes.
+A sum is "invalid" if it never approaches any value, even infinity.
+As the steps get infinitely small, the time it takes to cross them also gets infinitely small.
+That's why the idea of "more" doesn't really work here.
+The definition of divergent is "not convergent", it can't be neither convergent nor divergent.
+The real numbers (and sets of all real numbers between two numbers, like 0 and 1) are uncountably infinite.
+If there's no number less than one that is bigger than this series, this series must equal one.
+It does mean that there are or at least could be other ways to describe the universe.
+I never understood why this is a paradox.
+You need to understand cardinality.
+That's a better way to think of it.
+If you are asking: is time discrete and pixellated?
+That doesn't make sense, as by definition an infinite sequence of 0s wouldn't have an end.
+That's why math seems like magic to me.
+That's a much better way of saying what I meant, thank you!
+A more mathematical way to describe it would be the ancient Greeks didn’t know and infinite series can have a finite sum.
+&gt;Are you also saying that their is no such thing as "planck" time ?
+Does that mean there may be other ways that can also describe the universe?
+Mathematically valid, but not physically.
+Yeah, but you are also using additional concepts that don't apply to infinite sets.
+&gt;Adding to that, while irrational numbers are not countable the way that whole numbers are, that does not mean there are *more* irrational numbers than whole numbers.
+And if so, what is the smallest time step?
+Wouldn't it work if distances were discrete but time was continuous?
+A convergent series is addition.
+So processes things like this are only mathematically valid if there is convergence.
+Could you explain this one for me?
+(Much like the series 1/2N gets smaller fast enough that its sum is finite.)
+Here's how I would put it: the sum of an infinite series is a subtle thing.
+It is our understanding that breaks down, so we can't answer questions like "what is the energy" and so on.
+The part where it's a paradox is probably the assumption that it actually adds up to a finite value.
+This does not imply that an infinite number of actions are required to traverse a finite distance.
+This works because there is an convergent "end result" to this infinite process.
+That's exactly what Zeno stated.
+Divide it into an infinite number of slices and sum up the area of each.
+First you must ask "Does the series (0, 1, 0, 1, 0, 1...) approach a value?"
+The sum then oscillates between 0 and 1.
+It depends a lot on what you mean.
+You can't find all of either set.
+Nope it doesn't mean that time is an illusion IN THAT SENSE.
+Or that  at this time, we don't really know due to the measurement limit.
+It's turtles all the way down!
+However there is a big difference between actual infinity and our physical universe.
+At s &lt; 1, the sum **doesn't** "converge" -- it has no well-defined finite value.
+Now the *infinite* series is defined as the limit of all these partial sums.
+If any finite action can be described as a set of infinite sub-actions, wouldn't the reverse also be true?
+But many times it's close enough.
+I believe what he's saying is the question "if there's an infinite number of steps, is the number of steps odd or even?"

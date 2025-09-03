@@ -1,0 +1,13 @@
+Here is the summary of up to 250 words:
+
+As stated during the Minecon livestream, the update with pandas, bamboo, scaffolding, cat update, and taiga update is coming this holiday season. The Village &amp; Pillage stuff will be coming early next year.
+
+Are we sure it is 1.14 this year and not 1.13.X? Yeah it's definitely big enough to be a new version. It's bigger than 1.12 was
+
+Either way we're speculating until there's official confirmation. They released fireworks in time for 2012's Xmas in update 1.4.**6**, so if they want to do a small holidays release it's definitely possible it will be in 1.3.2+.
+
+I speak with Dinnerbone and Grum all the time. They communicate with us server software developers and we share our fixes with them all the time.
+
+This is one awesome detail about the Minecraft developer community. Some Mojang devs sit right there with us.
+
+They do get some help from the community from time to time, actually. For example, some of Minecraft's lighting and grass features were originally from the "BetterLight" mod.

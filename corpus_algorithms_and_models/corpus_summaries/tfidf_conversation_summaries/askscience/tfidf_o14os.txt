@@ -1,0 +1,33 @@
+Original Response:
+Hello scientists,
+
+Is it possible to trap photons within a bubble, then move the bubble to another location and allow the recipient to pop the bubble to view the photons?
+
+It would be like taking a picture, except you deliver the actual photons. You could then view the scene as if you were there in person, especially if you also light some well selected scented candles...
+
+Also, could the bubble trap a laser without over-heating? This could be useful for situations when you need to fire a laser beam at a target that cannot be hit in a straight line. I would like to input my laser beam into a bubble, then fly the bubble into a position where it could fire the beam.
+
+Thanks.
+No, this is not possible at any large scale (at extremely small scales photons have been delayed by having their wave-front reversed, or by being passed through novel metamaterials, but this does not accomplish what you are asking).
+
+For simplicity - let's keep this at visible light...
+
+First, the photons are moving at *c* in your *bubble* (which is obviously not a real bubble since bubbles are for the most part transparent - so I think you mean *sphere*). In order to stay within the sphere the sphere must be reflective to that frequency of light.  There is no such thing as a 100% reflective *material* (the best mirrors to date are 99.999% reflective) - thus the photons are quickly absorbed by the sphere material itself (e.g., conversion to heat).
+So if I understand correctly, if a surface were 100% reflective it would be possible to trap photons, but for the moment there is nothing capable of containing them indefinitely?
+If a surface is 100% reflective to the frequency of light - then it would be possible to trap the light.
+
+But don't waste time trying to think about this because there is no such *physical* material.  
+
+In fact, this is exactly how most gas lasers work.  Take a HeNe laser for example.  Energy is pumped into the tube (usually by a flash lamp or RF source) which excites the gas... raises the energy level, and when the level steps back down photons are released.
+
+Now... those photons are just like a regular light bulb - they go in all directions.  However, a few of them travel exactly parallel to the ends of the laser tube.
+
+At one end is a 99.999% reflective mirror.  At the other end is a 99.998% reflective mirror.
+
+The mirrors bounce the photons back and forth as more and more get added to those going exactly parallel.  At the point where they become powerful enough, they break through that .001% less mirrored end as a perfectly coherent beam of light.
+
+So the very concept you are thinking of is exactly what is used to make gas lasers lase - and the fact that there is no perfect reflector is what produces the beam itself.
+
+Summary:
+At the other end is a 99.998% reflective mirror.
+At one end is a 99.999% reflective mirror.

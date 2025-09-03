@@ -1,0 +1,16 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+Hey Ditto CCATCH *KBLOINK*
+I think you just found out the name of the new critter
+Kbloink, the bouncy changeling pokemon.
+Can't go leaking dex entries like that gosh man
+Says the guy who recorded and posted Kbloinks backstory for everyone to see
+
+“Meltan” and honestly that’s a way better name than what we’ve thought of
+You forgot the tail
+I was considering adding it but I assumed most people didn't know about it so I didn't bother
+
+It's saved as such, sure, but I'm not sure what the `struct` for wild Pokémon looks like in Go. Perhaps the easiest way to represent it in the code is to have it as a separate species and have an evolution hook tied to the capture event.
+
+I think the problem is that if you want to make a new pokemon with a little blob body it is going to resemble ditto to some degree.
+It may be related to Ditto but I don't think it is a ditto.

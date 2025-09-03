@@ -1,0 +1,10 @@
+No one will read the text.
+Basically, you want your paper to be a glorified abstract where each line of the abstract gets embellished into about a paragraph, at most.
+You're allowed a bit of leeway with accuracy and comprehensiveness.
+Your focus should be your figures.
+Bar graphs are better than line graphs are better than scatterplots are better than anything else.
+I recommend putting your main results front and center, where people will notice them.
+Also, think of the poster more like a talk than a paper - keep specific methods with specific figures and interpretations, rather than having a comprehensive methods section before multiple figures before a comprehensive conclusions section.
+This is overkill!
+Poster sessions are normally quite informal, people walking around glancing at posters.
+You want to get their attention, get your conclusions across and if they are interested they can look closer or ask you questions.

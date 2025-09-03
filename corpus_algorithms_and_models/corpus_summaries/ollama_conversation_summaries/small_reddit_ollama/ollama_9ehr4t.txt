@@ -1,0 +1,25 @@
+Here are the selected sentences from the original text:
+
+As I understand it, you could detect individual discrete photon energy packets arriving at a detector at various times from a spiraling (accelerating) charge in a cyclotron.
+
+Does this discrete particle aspect indicate that there are instances in time when the accelerating charge is not producing a photon?
+
+The "emission time" is not well-defined enough for such a statement.
+
+Photon emission time may be knowable, but current technology can't determine it in this situation
+
+Photons are emitted, and you can measure individual photons, but it doesn't make sense to ask for a precise time of their emission.
+
+It is similar to asking about a precise position of an electron in an atom: It simply doesn't exist as single value.
+
+The number of photons being emitted isn't even well-defined, let alone their time of emission.
+
+What I think noun_exchanger wants to know is if it's possible to measure the time interval of this EMP on a quantum scale from a single charge.
+
+I'm not concerned with when or how many photons are being produced by a single electron circling around in a cyclotron, I just want to know if the gif is consistent with the photon nature of EM radiation.
+
+Photons are discrete energy chunks... and the gif would be presenting continuous oscillations in the EM field if it showed a charged accelerating around in a circle pattern.
+
+If the gif showed an electron circling around in a cyclotron and it showed this same EM wave producing mechanism, it would be showing continuous waves being emitted… which seems to be inconsistent with discrete photon behavior.
+
+The gif (along with any visual representation of QM) does not accurately represent what is going on.

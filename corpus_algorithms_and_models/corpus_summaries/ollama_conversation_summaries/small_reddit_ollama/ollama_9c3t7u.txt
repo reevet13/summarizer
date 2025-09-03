@@ -1,0 +1,15 @@
+Here is the summary of about 10% of the text or up to 250 words:
+
+Thunderbolt is available on non-Apple PCs and has been for several years if that is what you are asking.
+
+You need an expensive Intel chip at both ends of the thunderbolt connection, which is the problem intel promised to fix
+
+I don't understand what that has to do with the title? Thunderbolt has always been open to all companies AFAIK outside short term launch exclusives. So the only point here is that the licensing fee is gone? That amount to a couple bucks per device at most.
+
+removing the license would also make it way easier to develop your own controller, making it possible to actually implement in AMD setups
+
+Which is why most aren’t using it.
+
+we’re talking about Thunderbolt on AMD Chips and without licensing fees.
+
+Stop spreading fud. How hasn't it been beneficiary to be able to have e-GPU or an array of monitors off one port? The mobile APUs on the AMD side have been pretty robust even before Ryzen.

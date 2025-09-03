@@ -1,0 +1,3 @@
+Information theory is largely about encoding and decoding complex data across different domains.
+
+It is not entirely clear to me how you would apply information theory in this situation. Perhaps you could elaborate a little more about the situations you believe information theory would help you?

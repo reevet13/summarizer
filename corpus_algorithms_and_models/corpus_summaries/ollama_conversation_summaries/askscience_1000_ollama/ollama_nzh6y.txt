@@ -1,0 +1,31 @@
+Here is the extracted summary:
+
+I imagine precise calculations of planet orbits use center of mass of solar system as the coordinate origin. Let's also do that here.
+
+What would be the major contribution of the movement? Perturbation from the moon?
+
+I am satisfied with an order-of-magnitude answer. As a blind guess, anywhere between 10m to 1000km seems pretty reasonable to me.
+
+The sun moves too, you know. If we take the sun as moving 223,600 meters per second, or 223.6km/s, and presume the earth is in a stable orbit, we can then use math for the figures.
+
+To simplify, you are approximately 7 billion kilometres (4.381b miles) from where you were last year.
+
+As you suggested, the earth goes around the sun in 365.256363 days. So the centre of Earth would be in approximately the same position, relative to the Sun. However you would be  .256363 of an earth rotation away. This could be several thousand km.
+
+You'd be 0.256363 times the circumference of the Earth away from where you were last year. Depending on your latitude, this could be up to 10,000 km.
+
+Please don't be so condescending- we're not all scientists in here. Sometimes you have to ask a question in the only way you know how in order to get an answer that satisfies your curiosity.
+
+Doesn't that just mean the sun itself, therefore the center of the solar system, is moving?
+
+So this effect contributes to a latitude-dependent difference in position of 1000km in order of magnitude. What if I am located at north pole? What will be causing the position difference?
+
+I believe (not an expert) that yes, given my assumptions above, the north and south poles would be in the same place.  Though, like I said, you would be rotated 90 degrees from where you were facing previously.
+
+Every body in the solar system is moving in response to forces exerted by every other body. The barycenter depends on distance and position, and as planets orbit at different rates and have different orbital characteristics, it's a lot more complex than it might seem.
+
+only if the sun is used as our frame of reference.
+
+can I ask where did you get 365.256363 days as the number of days in a year? I've always thought it was 365.242..
+
+The absolutely wonderful [HORIZONS](http://ssd.jpl.nasa.gov/horizons.cgi) web interface tells me that the center of the Earth will have drifted close to 1.8 million kilometers, in reference to the Solar System Barycenter. That's a lot.

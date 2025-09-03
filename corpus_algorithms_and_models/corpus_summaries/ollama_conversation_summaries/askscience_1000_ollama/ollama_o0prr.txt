@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+The Nile flows upwards at an average speed of 4 knots, 7.4 km/h. That's your y vector. If you're trying to go straight across that's your x vector. Use the Pythagorean Theorem and solve for your resultant vector. That's the speed and direction you'd have to travel at to go straight across.
+
+You'd have to supply the x value by the way. And as for a sailboat doing this, most likely considering sailboats aren't completely slow, the fastest reportedly being able to achieve 51 knots. But depending on the flow of the river's speed and direction, more or less energy than cruising speed will be required.
+
+Sailboats can sail at a decent clip in any direction at least ~ 25 degrees from the direction wind is coming from.

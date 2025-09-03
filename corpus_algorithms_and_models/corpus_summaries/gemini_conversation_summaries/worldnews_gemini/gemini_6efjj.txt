@@ -1,0 +1,55 @@
+You gotta think, how effective can this be?
+Whats the good of reading 300 million people's email?
+Not only is it a breach of civil liberties but its a pointless breach.
+Oh, it's pretty effective alright.
+How?
+Simple: Don't read it.
+But archive everything.
+Storage space is cheap, and the NSA has a BIG budget.
+Then if anyone ever seriously challenges you, just grep your archives.
+You're bound to find something that can be used to at least make them look bad -- *or worse*.
+There is an unlisted Port in Windows server and Windows XP that is address at the Kernal level.
+The NSA can burrow into your computer and keylog without you knowing.
+The reason why no one has found this is that they haven't looked hard enough at monitoring CPU cycles.. or should I say missing cycles.
+The trick is.. when you have been bugged.. you won't know it.
+If you have a webcam and mic on you PC you offer them video access of who is at your computer...
+How do I know this..
+You don't have the need to know...
+You just need to know that no one is safe.
+Nah.
+I'm not saying this is an issue.
+They will never have the manpower to track each of us individually.
+It's all fear tactics, to make you think you're under constant surveillance.
+Keep using Google.
+I know I will.
+I agree that mics and webcams shouldn't be left unattended/plugged in when not in active use.
+And having built-in mics and webcams like in new iMacs, that's just fucking irresponsible.
+Even if the vendor doesn't do anything fishy, anybody who roots your box can.
+They can even use the webcam while your monitor is off and your iMac *seems* to be in sleep mode, and they can film you banging your neighbor or smoking weed, or jacking off, and yes, they can probably sell it as porn on the Internet.
+[Rule 34](http://www.urbandictionary.com/define.php?term=Rule%2034).
+If you must buy an iMac, tape a foldable flap over the webcam, and flip it down when not in use.
+The inbuilt microphone is trickier: Either you crack the case and disconnect it or if that's too fancy for you, you could take a drill to the mic (but don't go in too deep, just enough so that the mic stops working).
+Then buy an external mic and unplug it when not in use.
+I will be very brief.
+First, netstat will tell you what active connections you have to any site on the net.
+Second, your task manager will tell you what programs are running.
+If you do not see an open connection to a strange IP address and you do not see a program open which is actively interfacing with your mic/webcam -- then there is nothing to fear.
+I could debunk this further, but to do so is a waste of time.
+Suffice to say that this entire concept is nonsense.
+EDIT: I did not expect this to start such a thread.... soooo...
+Ok look people, believe in all the conspiracy theories you want, but lets look at this REASONABLY.
+If you have a webcam attached to your computer like say via USB port -- how on earth is someone going to be watching you from it?
+Well first off if you notice that there is POWER going to the webcam -- and you know there is no program running that is using it -- wont you be a bit suspicious?
+Wouldn't you, in such a situation start monitoring your RAM for processes running which are using your webcam, and if you are the least bit tech savvy wont you eventually figure out that some program is using your webcam without your permission, and wouldn't that make you curious enough to research it further?
+The NSA isn't having live people read it.
+They archive them and then use a search engine to find keywords, then they read the emails that get flagged by their search engine.
+Is what I'd guess.
+Make sure you don't drop your tinfoil hat while you drill through the microphone!
+This sounds a little extreme.
+What exactly are you doing on your Mac to warrant these measures?
+Just do like CarlH said above... netstat and task manager.
+Netstat can even see boxp working I believe.
+Oh yes, you're right.
+Of course.
+Of course netstat is infallible, even if an attacker has root access.
+Of course [you're entirely safe on your Windows OS](http://www.heise.de/tp/r4/artikel/5/5263/1.

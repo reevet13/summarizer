@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+The array modifier basically copies your build in a certain direction a certain number of times. Very useful for nether tunnels but also useful for quickly building walls etc.
+
+It is possible to add offset to multiple directions so diagonal builds are possible (e.g. a nether tunnel that goes upwards or sideways). And of course breaking blocks is also supported for if you make a mistake.
+
+Never seen anything else like this before!
+
+That's epic. Does it also have keybinds to quickswitch axis, modes and so on? That would make some ninja building awesomeness.
+
+Yes exactly that. As for why you would want to build a tunnel in the nether instead of the overworld, every block you travel in the nether is equivalent to 8 in the overworld. So if you have two portals 8000 blocks apart in the overworld it would only be 1000 blocks between them in the nether making travel much faster.

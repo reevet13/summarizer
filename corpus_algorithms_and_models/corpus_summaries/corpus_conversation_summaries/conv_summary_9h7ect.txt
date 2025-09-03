@@ -1,0 +1,87 @@
+Original Response: 
+Thanks for this post.
+We encourage redditors / bitcoiners reading here today to [sign up for an account at Kraken if you're interested](https://support.kraken.com/hc/en-us/articles/226090548-How-to-create-an-account-on-Kraken).
+Note: Security being an important thing, here's a good security ranking of exchanges -- [https://medium.com/@hacken/crypto-exchanges-cybersecurity-score-review-by-cer-ad76efb34463](https://medium.com/@hacken/crypto-exchanges-cybersecurity-score-review-by-cer-ad76efb34463) Another view:  [https://platform.cryptoexchangeranks.com/](https://platform.cryptoexchangeranks.com/)
+
+Here's a transparent ranking of exchanges by 24hour volume (not CMC - this data is adjusted to exclude faked volume) -- [https://www.blockchaintransparency.org/exchangerankings/](https://www.blockchaintransparency.org/exchangerankings/)
+
+Kraken is currently in the top 5 per 24hr volume and is considered 1st by security ranking, and we will continue to work to make our platform better for our clients.
+Please feel free to submit your ideas to us in a ticket at: [support.kraken.com](https://support.kraken.com) \-- or should you need to escalate an existing ticket, please feel free to utilize the following resource which will alert our team: [https://np.reddit.com/r/KrakenSupport/comments/6n4qfn/new\_way\_to\_escalate\_your\_kraken\_support\_ticket/](https://www.reddit.com/r/KrakenSupport/comments/6n4qfn/new_way_to_escalate_your_kraken_support_ticket/)
+
+Recent developments:
+
+[https://blog.kraken.com/post/1833/kraken-expands-over-the-counter-otc-block-trading-service/](https://blog.kraken.com/post/1833/kraken-expands-over-the-counter-otc-block-trading-service/)
+
+Please feel free to ask us any OTC and / or Tier 4 / Corporate question in your ticket also should you have an inquiry on how-to.
+We are happy to help.
+Considered first by security rating?
+Could you post a source on this?
+I would love to learn about the rankings, and also the security procedures that make kraken so secure.
+I saw coinbase did a video showing their security practices - I'd love to see informational literature or media.
+Hi!
+I've always always wanted to get in on that USD:XMR pairing you've offered for so long but I'm in Canada.
+Are there any legal ways of me accessing that trade?
+login page not compatible w password manager... first security flaw.
+Hey /u/RussianGunOwner \~ to answer your question:
+
+&amp;#x200B;
+
+\&gt; *Considered first by security rating?
+*
+
+\&gt; *Could you post a source on this?
+*
+
+&amp;#x200B;
+
+Sure, the source used for that claim is here (as noted in above comment, but here below specific to your question):
+
+[https://medium.com/@hacken/crypto-exchanges-cybersecurity-score-review-by-cer-ad76efb34463](https://medium.com/@hacken/crypto-exchanges-cybersecurity-score-review-by-cer-ad76efb34463)
+
+&amp;#x200B;
+
+You will see their rationale, but if you want to see a more dynamic view which uses a bunch of factors to rate exchanges more or less in real time, this may be a good place to review: [https://platform.cryptoexchangeranks.com/](https://platform.cryptoexchangeranks.com/)
+
+The blockchaintransparency site previously cited describes volume related issues and is displaying to show real as opposed to faked-out volume.
+Security is important to us (we do it well, but don't rest on our laurels with respect to that) and we are always looking for ways to enhance and improve our service.
+Please feel free to contact us here: [support.kraken.com](https://support.kraken.com/)
+
+&amp;#x200B;
+TL;DR yes!
+We recently enhanced our service for Canadians.
+We think / hope you will enjoy the new improvements we have tailored to you and our CAD specialists can walk you through it.
+Once you have balance in your account by whatever way you'd like and have XMR balance, you can trade on that or other pairs (see also the various pairs here: [https://www.kraken.com/help/fees](https://www.kraken.com/help/fees)).
+You can open a ticket with us at [support.kraken.com](https://support.kraken.com) for further info, or alternatively, use this: [https://np.reddit.com/r/KrakenSupport/comments/6n4qfn/new\_way\_to\_escalate\_your\_kraken\_support\_ticket/](https://www.reddit.com/r/KrakenSupport/comments/6n4qfn/new_way_to_escalate_your_kraken_support_ticket/)
+Hi, we have a 2FA support article for you here: [https://support.kraken.com/hc/en-us/sections/360000174486-Guides-to-setup-Two-factor-Authentication-2FA-on-your-Kraken-account](https://support.kraken.com/hc/en-us/sections/360000174486-Guides-to-setup-Two-factor-Authentication-2FA-on-your-Kraken-account)
+
+&amp;#x200B;
+
+There are various pages there to address any 2FA question.
+If you have an inquiry or suggestion regarding password managers specifically, please pass them along to us in a ticket at: support.kraken.com 
+
+&amp;#x200B;
+Personally I thought the review wasn't that bad.
+Sounds great!
+Thanks!
+Does Kraken compromise their clients security by forcing users to give up private information like address, identification?
+No, we don't compromise client security.
+Actually, the level of information you give to us, and the verification level you go up to, is up to you.
+But if you want to get to Kraken's Tier 3, there is identity required.
+For Tiers 0 - 2, less information is needed.
+You can see the details here: [https://support.kraken.com/hc/en-us/articles/201352206-What-are-the-Verification-Tiers-](https://support.kraken.com/hc/en-us/articles/201352206-What-are-the-Verification-Tiers-)
+
+&amp;#x200B;
+
+At no point in the process (regardless of Tier or information submitted) is any client's security compromised.
+We take security seriously.
+
+Summary: 
+Considered first by security rating?
+No, we don't compromise client security.
+Please feel free to contact us here: [support.kraken.com](https://support.kraken.com/)
+
+&amp;#x200B;
+Could you post a source on this?
+*
+
+\&gt; *Could you post a source on this?

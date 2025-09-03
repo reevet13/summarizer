@@ -1,0 +1,11 @@
+The only solidly established theory that deals with gravity is general relativity, which is a theory *of* gravity, more so than a theory that leads to gravity from more fundamental principles.  
+The best theory we have regarding gravity is Einstein's general theory of relativity, which says that gravity is the curvature of space-time induced by the presence of energy, momentum, mass, et cetera.  
+"why" is always a tricky question with fundamental physics.  We can say with high precision *how* gravity works (in that it's an effect of the curvature of spacetime), but answering *why* gravity follows those rules instead of some other rules is a crapshoot.  
+What you refer to as the 'math checking out', is incre-fucking-dibly important, and in certain cases, *the only* criterion. Case in point : GR doesnt fit well with quantum field theories and the Standard model of particle physics, but we use it anyway, because it *works*.  
+If a good String theory is found, it will mean that we would then have a single set of postulates that can be used to derive both GR and the Standard model, as opposed to the two mutually incompatible sets of postulates we have now.  
+A physical theory is more like a an Ikea manual than a Zen tome. It tells you what to do and gets your job done.  
+Gravitational Waves are one of the many many predictions made by General Relativity, which is the current mathematical framework for understanding gravity.  
+Mass is a form of energy, and General Relativity states that concentrations of energy determine the curvature of space-time.  
+Relativity explains gravity between large (macro) sized objects. The standard model and quantum physics explain the weak, strong and electromagnetic forces that act between atoms - but not gravity.  
+String Theory is one of the quantum gravity theories.  
+Imagine space-time as a sheet. A heavy mass on the table causes it to bend under the mass. Stuff moving across the sheet is therefore affected by the curve in the sheet. That's basically how relativity says gravity works.

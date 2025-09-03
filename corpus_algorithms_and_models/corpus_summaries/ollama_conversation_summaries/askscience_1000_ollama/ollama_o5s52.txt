@@ -1,0 +1,7 @@
+Here is the extracted summary:
+
+Students fill a graduated cylinder with water.  They then insert another tube, open at both ends, into the water.  By raising and lowering the open tube they can change the length of the pipe (which is a closed pipe due to the water at the bottom).  Using a tuning fork, they can create a wave inside the pipe and adjust the height until they hear a maximum at the first harmonic.
+
+Knowing that the first harmonic is Length of pipe = 1/4 wavelength for a closed pipe, they can find the total wavelength.  Combined with the frequency of the tuning fork, they can find velocity.
+
+The 2/5*Diameter seems to be the height above the end of the tube that you are required to place the fork.

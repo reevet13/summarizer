@@ -1,0 +1,8 @@
+I would like to know what the experts has to say about it.
+Friction forces are very important in this case.
+What you want to add to your calculation is how smoothly your bullet cuts through the air, or the [ballistic coefficient](http://en.wikipedia.org/wiki/Ballistic_coefficient) of the projectile.
+From these calculations, I get that energy is null at about *1.7 km*.
+This is a gross overestimate because I neglected solid friction from the air on the bullet which should become more important at slow speeds.
+Yes, solid friction would bring the maximum height down because it would be more energy loss for the bullet
+Another way to approach this is to add a force term for friction proportional to the negative velocity.
+Using my numerical solution, I calculated the height to be 4.3 km (this is using a drag coefficient of 0.1.

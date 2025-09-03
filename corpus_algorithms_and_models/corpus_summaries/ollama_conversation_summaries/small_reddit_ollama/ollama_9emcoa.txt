@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+About 2 months ago I dissasembled my dad's old PC, and it had a 320 GB drive.
+
+My friend is really tight on storage on his PC, and I want to give him this drive, but before that I want to wipe it. Problem is, it has a virus on it (Same virus that made headlines in 2016 that infected a ton of hospitals and requested "ransom" to unlock it). How do I wipe it without nuking my own hard drive?
+
+You won't
+
+Load Ubuntu on a USB, remove your hard drive, and replace it with your dad's. Then just do your wiping
+
+It has windows on it, can I just use the windows wiping tools instead?
+
+Won't be good enough.
+
+Aight thanks

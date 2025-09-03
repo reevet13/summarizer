@@ -1,0 +1,16 @@
+A [null hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) is really useful when you are using statistical tests to determine significance.
+The null hypothesis (H_0) is that the initial blood sugar - blood sugar after giving the drug = 0.
+The p-value and t-test tell you with a certain confidence level whether there is a difference.
+It is important conceptually from a statistical perspective.
+When you perform your t-test you reject the null hypothesis with 95% confidence (or whatever yours is), statistically you are looking at one mean and saying that you are pretty sure the location of a second mean is not the same as the first.
+There is always a null hypothesis.
+No.
+You have a null and an alternative.
+You can only reject H0.
+When H0 is rejected, you are only left with H1.
+**But that doesn't mean you accept H1**.
+There is no accepting.
+Only rejecting (in nearly all cases).
+The (very) short answer is: you can _only_ reject the null.
+You can't accept it.
+You also can't reject or accept the alternative.

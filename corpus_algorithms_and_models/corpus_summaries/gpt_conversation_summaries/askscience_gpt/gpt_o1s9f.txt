@@ -1,0 +1,13 @@
+I don't know if the potential of [sodium phenylsulfamate](http://www.chemspider.com/Chemical-Structure.8411556.html) as a sugar substitute has been investigated so far but after comparing and contrasting the binding of [sodium cyclamate](http://www.elmhurst.edu/~chm/vchembook/549cyclamate.html), which is a cyclohexane ring containing derivative of sulfamic acid, and [saccharin](http://www.elmhurst.edu/~chm/vchembook/549saccharin.html), which contains a benzene ring, to a simplified model of a sweetness receptor I'm wondering if sodium phenylsulfamate could be used in such a way. 
+
+Apparently it has been tested. The second hit on googling "sodium phenylsulfamate" is [Synthesis and taste properties of sodium monosubstituted phenylsulfamates](http://www.sciencedirect.com/science/article/pii/0308814694901937)
+
+tl;dr- it possesses only a sweet aftertaste. derivative compounds were almost all bitter, and none were only sweet.
+
+I know you were thinking that since we know the sweet receptor structure, and we have some things that bind weakly to it, why can't we just predict the perfect structure to make the perfect sugar substitute? In theory this should be possible, but our current theories just can't make these predictions yet, so all you can do is test everything and hope to get lucky.
+
+I can only read the abstract of that paper but they did actually test sodium N-phenylsulfamate or only some of its derivatives? 
+
+I'm wondering why the substitution of a cyclohexane ring with a benzene one can cause such dramatic effects.
+
+The oxidation state of sulfur is 4 if R=alkyl (a sulfonamide) or 6 if R=OR (a sulfamate). Same as the difference between an amide and a carbamate. IANA biochemist but I imagine this would be a whole different story biologically.

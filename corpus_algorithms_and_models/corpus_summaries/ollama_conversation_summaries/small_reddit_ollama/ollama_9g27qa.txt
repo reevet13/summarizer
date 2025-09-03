@@ -1,0 +1,12 @@
+Here is the summary:
+
+Yes, it is in block. I'll try to change it and see if it works
+if you upload it ill have a look at it
+I renamed the folder to blocks, but it still doesn't work...
+full path must be   pack/assets/minecraft/textures/block/birch_sapling.png
+ok
+Um... how could I upload it ?
+It's pack\\minecraft\\textures\\blocks\\birch\_sapling for me
+Oh maybe it has something to do with the model...
+mediafire
+yes.. if you have a custom model it would change the texture location

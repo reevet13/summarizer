@@ -1,0 +1,7 @@
+Here are the selected sentences from the original text:
+
+Electricity is trying to move from higher potential to lower potential (volts). Let's say you shake a soda can, that pressure is high potential. So when you open the can, the soda comes violently shooting out onto the floor, right? But once it's on the floor it does... It does nothing, it just sits there, because it is at the same potential as the environment now.
+
+Hotwork involves using special non-conductive boom lifts, ladders, or even flying in on a helicopter. These are separating the worker from touching the ground (Earth is always 0 volts potential), and when they come near the wire they use a special stick to bond themselves to the wire, that clamp-looking thing that it arcs to.
+
+If you are doing your work from a helicopter and are obviously NOT grounded; why do you need the stick/;clamp before you work?

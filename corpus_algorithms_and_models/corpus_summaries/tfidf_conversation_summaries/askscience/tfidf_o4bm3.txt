@@ -1,0 +1,44 @@
+Original Response:
+How big would our planet be? If that is to insignificant what about the milkyway galaxy?
+
+What about if our galaxy were the size of a basketball, how big would the planet be?
+[deleted]
+[deleted]
+The earth would be about a hundred-billionth of an angstrom, and an atom is about one angstrom. The galaxy would be about 327 nanometers, which is the size of some viruses.
+I'm going to replace universe with observable universe, since there's no reason to believe the universe as a whole is finite.
+
+A regulation basketball has a radius of about 12 cm, so if the observable universe were the size of a basketball, then Earth would have a radius of about [1/500000 that of a proton](http://www.wolframalpha.com/input/?i=proton+radius+%2F+%28%28radius+of+earth+%2F+radius+of+observable+universe%29+*+12+cm%29).
+
+If the radius of the Milky Way were 12 cm, then the radius of Earth would be about [1.8 times that of a proton](http://www.wolframalpha.com/input/?i=%28%28radius+of+earth+%2F+radius+of+milky+way%29+*+12+cm%29+%2F+proton+radius).
+
+[edit] Corrected basketball radius.
+Have a look at this. http://scaleofuniverse.com/
+Give a man a fish and you feed him for a day...
+
+http://www.wolframalpha.com/input/?i=radius+of+earth+%2F+radius+of+universe
+
+This means the ratio of sizes is 1.4x10^-20.
+
+You can confirm all these calculations by searching (perhaps google or wikipedia) for the appropriate values and dividing.
+
+So take that ratio and multiply by whatever object you want. Say a basketball?  5 inches?
+
+5 * this = 7.2 x 10^-20.
+
+So if the observable universe were 5 inches in radius, the earth would be approximately 7.2x10^-20 inches in radius. Convert that to femtometers: 1.8288 × 10-6 femtometers
+
+( [how did I do that?](http://www.google.com/search?q=7.2+x+10^-20+to+femtometers) )
+
+Which is much smaller than the radius of a hydrogen atom.
+
+Follow this procedure to get any result you want.
+
+**NOTE**
+
+It's not that I dislike calculation questions, or want to be a "let me google that for you" kind of guy, it's just that my field Computer Science, has spent decades of time, piles of money, and many many grad students on solving the text recognition, semantic parsing, and networking challenges to make these queries possible. Please take advantage of them, it makes me happy.
+I think you have the diameter instead of the radius.
+Actually; I misread Wikipedia's regulation circumference as being the diameter.
+
+Summary:
+What about if our galaxy were the size of a basketball, how big would the planet be?
+How big would our planet be?

@@ -1,0 +1,19 @@
+There is not zero gravity between the Earth and the Moon. The Earth's gravity still has a fairly strong influence there. Orbiting vehicles are in freefall, so that's why astronauts experience "weightlessness". The technical term is microgravity.
+
+Gravity actually spreads out everywhere, just like light, - but at some point is so small as to not be measurable (or detectable). Gravity travels at *c* just like light.
+
+As per expansion - expansion happens to massive objects at massive distances. At local distances gravity keeps things bound. This is why our solar system is bound (is stronger than the force of expansion in that region), our galaxy is bound, and why it moves with a local group of galaxies.
+
+There is an [L1](http://en.wikipedia.org/wiki/Lagrangian_point#L1) point in the Earth-Moon system where their gravity cancel out. But you are correct in that this is only a single spot between them. Everywhere else, gravity will matter.
+
+Gravity does not stop.
+
+If you're asking why astronauts experience weightlessness in earth's orbit, it's because they're... well, orbiting around the earth. [NASA's website explains this quite well](http://www.nasa.gov/centers/glenn/shuttlestation/station/microgex.html).
+
+All objects exert a force of gravity on each other that is directly proportional to the mass of the objects and inversely proportional to the square of the distance. Thus, if you double the distance, for example, the force is reduced by a factor of 4.
+
+How do we know? Because the universal law of gravitation describes simply the motion of the planets, objects in motion, and weight on earth. With it you can make very accurate predictions about baseballs, and satellites and moons.
+
+Gravity doesn't ever stop, you just don't feel it unless there's something pushing back against you.
+
+Gravitational force is a vector quantity. Therefore it has both magnitude and direction.

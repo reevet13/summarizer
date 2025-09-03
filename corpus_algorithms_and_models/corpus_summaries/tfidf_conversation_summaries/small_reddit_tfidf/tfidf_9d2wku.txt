@@ -1,0 +1,133 @@
+Original Response:
+I was recently thinking about how much better computers have gotten in the past few decades, and wondered if nuclear power plants had improved along the same rate of improvement. I chose 1986 because of the Chernobyl incident, but I'm kind of talking about all types of nuclear power not just the Chernobyl type of reactor. (Also I'm surprised there isn't a Nuclear flair)
+Engineering?
+
+Chernobyl was based on a stupid reactor type that is not built any more. In addition the operators were actively overriding multiple safety rules and mechanisms - something that won't happen any more because we have an example how that can end. Another accident like Fukushima is not completely impossible if something really bad happens (like one of the most violent earthquakes and tsunamis in recorded history). Chernobyl will stay a unique event.
+
+It is very difficult and problematic to assign numbers to big accidents. They are so rare that there is not enough data to determine it experimentally.
+Chernobyl was also compounded by a lack of a containment building, something the Fukushima plant had - and Fukushima was built 1967-1971. 
+
+Worrying about the safety of nuclear power because of Chernobyl is like worrying about the safety of cars because of a Model T Ford driven by a drunk driver.
+Wasn't the protective wall of Fukushima also grossly undersized which had been warned about?
+They built Fukushima on a fault. And the flood walls way too low for a building that usually operates for 50+ years.
+
+I blame it on their ingrained fatalistic culture.
+The seawall at the plant was 5 meters high and in 2008, engineers warned that a 10 meter high tsunami was possible within the reactor's lifetime, but the company said the probability was too low. The tsunami that hit was 14 meters high, so even the increased wall wouldn't have helped.
+Fukushima is a great example of nuclear safety: the plant had countless safety violations, was hit by a massive earthquake followed by several huge waves of a tsunami, the emergency generators failed.... it was just the worst case scenario, really. 
+
+The Japanese have been criticised for hiding the scale of issues, with international reports including things like "it could cause up to 200 deaths from cancer" and similar. There are about 500 disaster related deaths reported so far, but that includes deaths from anything related, including workplace accidents or people who died during the evacuation in a car accident. 
+
+In other words, the worst of the worst case nuclear disaster that has happened once in the past decade and was caused by every possible issue is about as a decade of coal mining deaths in America.
+&gt; with international reports including things like "it could cause up to 200 deaths from cancer" and similar.
+
+Compared to 20,000 from the tsunami. In a country that is well aware of tsunamis.
+
+Or compared to ~3000 who [die from pollution from coal power plants](https://www.forbes.com/sites/jamesconca/2012/06/10/energys-deathprint-a-price-always-paid/) - every day.
+
+Yes, given how much went wrong with the earthquake and Fukushima the damage is quite small.
+The tsunami Wall was originally based on certain historical estimates. As new models for wave runup were made, they twice upgraded the height of the wall to exceed the computer model estimates of the worst tsunami run up. 
+
+In 2009 they actually had a new wave model that almost perfectly predicted the 2011 tsunami. It seemed so extreme they had an independent performing a study to confirm it before they upgraded the tsunami wall again. That study was complete the week before the Fukushima accident, there wasn’t any time to act on it. 
+
+In my opinion, after the 2009 analysis, they should have implemented or been forced to implement comprehensive compensatory actions to ensure adequate core cooling even if there was a large water run up event. They didn’t consider the possibility that the emergency batteries could be flooded, which greatly complicated the event. Their severe accident guidelines also were not in accordance with industry standards and not maintained, something that the chair of the boiling water reactor emergency procedure committee told me last month was a huge shock to him. He ended up going to japan for 4 months to help them stabilize the plant.
+Deaths caused are not the only metric of a nuclear disaster. Do coal accidents render large areas of inhabited urban land unsafe for extended periods? I suppose Centralia is an example of that, but I think the Fukushima exclusion zone is much larger.
+
+[Fukushima exclusion zone](https://blog.safecast.org/2013/12/current-fukushima-exclusion-zone-map/)
+
+Edit: I understand that global warming is a problem that needs to be addressed, and that nuclear power may be an important part of that. But dismissing the Fukushima accident because of the small number of deaths is ignoring the 150,000 people permanently displaced from their homes and the large exclusion zone that won't be lived on again for over 100 years.
+&gt; Do coal accidents render large areas of inhabited urban land unsafe for extended periods? 
+
+[No, not the accidents. Just good ol' normal operations will do that.](https://en.wikipedia.org/wiki/Sea_level_rise)
+
+But really, coal plants should have exclusion zones around them, they just don't for political reasons.
+Hey,
+
+one thing that always baffled me about Fukushima is that they didn't install catalytic converters to counter hydrogen build-up.  I always thought that particular problem with zirconium clad fuel elements had been identified after TMI and basically been addressed globally.
+
+Do you have any info why this wasn't done at the Fukushima plant?
+
+Cheers,
+
+Michael
+Boiling water reactor Mark I and II containment systems are innerted with nitrogen so that they cannot have an explosion inside the containment. And they didn’t. The explosions were due to the containment to being operated over 3 times their design pressure while being overheated, causing leaks. The hydrogen that leaked out is what exploded. But these weren’t containment system explosions. 
+
+Post TMI didn’t require passive hydrogen converters. You needed approved hydrogen control systems. For the older bwrs you inerted the containment, and you had to be able to utilize vent/purge of the containment to prevent exceeding the detonation limit. Mark 3 bwrs and the ice condenser PWR plants had to use hydrogen preigniters and recombiners, along with limits on hydrogen generating materials. Large dry PWR containments had no special limits but did require vent and purge capability, as those units should not be building up enough explosive capability to damage the containment. 
+
+This is all about the containment though. It doesn’t address hydrogen leaks from the containment. 
+
+After Fukushima, foreign plants started requiring passive hydrogen recombiners, but that’s not universal.
+Thanks for the answer.  Looks like the situation is more complex and multi-faceted than my cursory research had led me to believe.
+
+Cheers,
+
+Michael
+u/Hiddencamper said upthread that the company didn't "say no" but was waiting for independent confirmation before extending the wall again.
+To be specific, they said “no, until we verify it”. While I’m not sure we will know the 100% truth, I would suspect if I was in management at the time I would be frustrated that we’ve already done previous upgrades on the wall and it wasn’t enough, and would want a definitive height so that we wouldn’t have to waste money doing this 2-3-4 more times.
+That makes sense.
+
+BTW, thanks for all the info you posted in this thread, I'm fascinated by this subject, and I really appreciate the time you spent sharing with everyone.
+I operate a nuclear plant that came online around then. 
+
+Here’s the main difference. My unit requires active power to sustain critical safety functions, and we have events that require human action within 2-10 minutes. The plant has a slew of automatic safety systems, but they are dumb systems that trigger on specific signals and have no ability to monitor the overall health of the plant and make intelligent decisions, they are only there to deal with immediate plant stabilization until us operators can take control. 
+
+Meanwhile, new plants are walkaway safe for days or weeks, and in certain cases, indefinitely. They require little or no electrical power to perform critical safety functions, and can be made safe using pre built external fire truck hookups. 
+
+Please feel free to ask questions.
+Is it possible to retrofit reactors like the one you're describing with more modern control systems?  What are the major hurdles involved in your opinion?
+What happens if you don't respond within 10 minutes?
+Depends on the event. For a large break LOCA I’m supposed to have RHR heat exchangers in service within 10 minutes to remove decay heat and maintain containment pressure/temperature within limits.
+
+For a non complicated event you may not need to do anything. Plant scrams and self stabilized. 
+
+It’s all very event based. Additionally, while safety analysis assumes no operator actions for 10-30 minutes and only minimal actions after that, operators can perform more effective mitigation actions by being able to diagnose the event. So an example, is if you blow a reactor coolant pump seal, you’ll have a small LOCA, causing a high drywall pressure eccs initiation signal. The operators can diagnose this event and isolate the pump loop and stop the leak, preventing the eccs from initiating. The plant stays safe with no human action, but with human action you have a much less significant transient, no cold water injection of lower quality water, no loss of non vital systems due to load shedding and emergency response sequencer logic. 
+
+Boiling water reactors in particular also have 90-120 second time critical actions in the event the reactor does not shutdown when required, which is to prevent significant core damaging oscillations and instability. 
+
+I’ve seen 16 scrams, and only 1 required significant operator actions to stabilize the plant. Typically you just watch the plant take care of itself and take the follow up actions.
+It’s not really feasible. For non safety control systems, putting digital upgrades in can easily run 15-20 million. Safety related digital systems with logic controls is far far more expensive. Another issue is you need more data from the plant for a control system to make smart decisions. Our last digital upgrade reused most of the old instruments and cabling, if we wanted to get more data to it to make smarter decisions we were looking at large increases in price. Instead we found relationships between various parameters that allowed us to indirectly infer reactor power (rather than directly sending a reactor power signal to our feed water system) and gave us similar functionality. 
+
+But the regulatory requirements, data and inputs required, and testing puts these types of upgrades out of reach for economic purposes. Additionally generation 2 reactors are not designed with passive safety features. That means you need pumps to work, valves to operate, which may require human intervention if the automatic controls fail (which they do from time to time). In a plant with passive safety functions, you generally only need one or two things to work and you get hours or days before you have to make major decisions or intervene. In active safety plants, like all generation 2 plants, you can uncover the core and breach the reactor vessel in 45 minutes to 2 hours depending on plant type, so if a valve motor fails you don’t have passive safety backing you up until you can fix it. You need an operator to go out there and manually open it. 
+
+Just a quick chat about digital systems, the software quality assurance and digital system integration requirements are very challenging, and even non safety systems can require extensive paperwork and testing. The fear with these systems is that a software flaw is a design flaw, and the error it causes will happen simultaneously in all redundant channels of the system at the same time when it is triggered. The potential for common cause failure frightens the us nuclear regulatory commission and is why many plants stopped doing digital upgrades and instead pay large sums of money to get old 1970s solid state circuit cards refurbished.
+So why is Nuclear still so Taboo if they are so much safer nowadays?
+They aren’t taboo. They are uneconomical in most places. It costs so much to build nuclear units that it doesn’t make short term sense, even when nuclear is the better long term option, and that’s especially true in merchant markets. 
+
+At least in the us, the huge increase in “fracking” and the US becoming a major natgas producer has shifted the market. the expanded use of natgas plants (especially combined cycle plants which are 50-60% cycle efficiency) has driven electricity costs low enough that coal and nuclear struggle in both short and long term cost projections. Additionally there is much less risk to building a natgas unit compared to a nuclear unit. It takes 3-5 years to build a 1 Gw combined cycle natgas plant which can be operated with less than 50 total staff and costs 4 billion usd. A 2 GW nuclear plant may come online in 8-12 years, with significant regulatory hurdles, 16-22 billion usd cost, and 800 staff. So there’s a huge difference there and that’s before you even consider the long term costs of spent fuel management and site disposal. You take on huge liabilities before the unit is even finished building. 
+
+Economics have killed nuclear. The taboo has mostly gone away in most of the US. And overseas we are seeing a lot of nuclear expansion.
+&gt; 1 Gw combined cycle natgas plant which can be operated with less than 50 total staff [...]. A 2 GW nuclear plant [...] 800 staff. 
+
+Wow.  I had no idea that staffing requirements were *that* much larger for nukes.  What's the rough breakdown between physical/engineering requirements and regulatory requirements here (for staff)?
+
+I'd always assumed staffing requirements for nuclear plants would be somewhat higher, but factor of 8 (for equal power) is way out of the range I would have guessed.
+
+
+Cheers,
+
+Michael
+Well....typically the largest driver for staffing is meeting minimum ops/security staffing, and having sufficient staff for emergency response purposes. Emergency response requirements drives a large amount of minimum staffing. Those positions are used and needed for other stuff though. 
+
+It’s really hard to say without going into the nitty gritty details. From a pure legal perspective, you have to maintain the stuff above. Minimum operations staffing is typically 3 senior reactor operators, a shift technical advisor/engineer, at least 3 field operators, 2 rad techs, a chemistry tech, and 1 or 2 maintenance techs. Like that’s bare minimum. Plus you also need a fire brigade staffed (we use field operators for it at my station, but it’s different everywhere). 
+
+But you have a ton of required maintenance you have to do, much of which is regulatory driven. You have Engineering, which you need a full time technical staff because you literally can’t change lightbulb designs without a 100 page change package (seriously.....took a colleague of mine almost 2 months to change the approved design for light bulbs in the plant to switch to LEDs). Then you get new regulatory stuff, or INPO/fleet requirements and projects, and it becomes overwhelming. 
+
+One big thing that hurts, is the nrc has kind of extended their oversight outside of the reactor system. Example: if you have a turbine control valve fail which causes a reactor scram, the nrc can give you violations for that. Even though the plant is designed to be safe in that condition explicitly, the fact that you failed to do adequate preventative maintenance on a power generation asset which led to a reactor scram is a violation of maintenance rule. You never lost a safety function, never lost operability if any license required system, but it’s still an issue. So you have all this required preventative maintenance you have to do in the power production side of the plant which anywhere else you would just run to failure or until a major scheduled maintenance outage.
+I see, that makes a lot of sense.
+
+I do wonder why the "green energy" crowd never pushes nuclear though.  Id think that at this point, emitting carbon is worse for us than generating nuclear waste.
+
+Summary:
+You needed approved hydrogen control systems.
+I operate a nuclear plant that came online around then.
+A 2 GW nuclear plant [...] 800 staff.
+Additionally generation 2 reactors are not designed with passive safety features.
+Another issue is you need more data from the plant for a control system to make smart decisions.
+It’s all very event based.
+Deaths caused are not the only metric of a nuclear disaster.
+&gt; 1 Gw combined cycle natgas plant which can be operated with less than 50 total staff [...].
+But you have a ton of required maintenance you have to do, much of which is regulatory driven.
+But these weren’t containment system explosions.
+The explosions were due to the containment to being operated over 3 times their design pressure while being overheated, causing leaks.
+It doesn’t address hydrogen leaks from the containment.
+Do you have any info why this wasn't done at the Fukushima plant?
+Plant scrams and self stabilized.

@@ -1,0 +1,62 @@
+Original Response:
+[deleted]
+For now yes.
+
+Until big brother cracks down on who subscribes to VPN...
+Can't I just leave my network insecure? How would they know if I downloaded or my neighbour.
+In this situation, they would come after you, the person who signed up for the internet service. It would be an interesting lawsuit if you claim it was not me. Your router could track which computer downloaded what.
+Came to say this. I had to get a VPN for work because we needed our stuff to have some type of protection because it was government clients. Ever since then I’ve used VPNs on my phone and computers at home. It’s extremely rare that I pirate stuff now, really the only stuff I pirate is things like music I’ve already bought but can’t find the cd.
+If it's your network then you are responsible for anything illegal that happens on it; according to the article
+Crazy, wouldn't that be like me getting blamed if someone stole my unlocked truck and took it on a rampage?
+You can spoof MAC addresses.
+More or less.
+
+Laws are f u n
+Yah that's not going to happen.
+Once movie and other companies that care about copyrighted material see that everyone is torrenting via  VPNs, they will ask the government to get them a list of VPN users.
+maybe its more like if you don't store a firearm properly and someone steals it and kills someone. its your gun and someone got shot with it, you are responsible.
+Or the equivalent of you stored it properly but someone stole it anyways and went on a rampage
+That just moves the goal post. What guarantee do you have that your information isn't being sold to, or just given. to the lawyers.
+
+&amp;#x200B;
+
+$5000 is the maximum that they can come after you unless it's for commercial use. The cost to go after you is more. If I were you I would offer to settle for $1 with no admission of guilt. It will cost them more than $1 to cash the $1 check. The only thing they have on you is the IP. Even if it is fixed they can't prove that it wasn't your neighbor using your wifi.
+Yah that won't happen, its completely impractical. You do realize there are business needs served by VPN.
+You are not responsible for the act of another even if they happen to be using your property. Just imagine how many landlords would be in prison because someone was killed on their property. An IP address is just that an IP address. The MAC address that is being used is the cable/telephone companies equipment. If anybody should be responsible in that case would be the ISP since the IP really belongs to them. 
+
+&amp;#x200B;
+
+&amp;#x200B;
+It's the cable/telcos network. Your IP is [192.168.xxx.xxx](https://192.168.xxx.xxx) or [10.xxx.xxx.xxx](https://10.xxx.xxx.xxx).
+That would make your ISP responsible. I mean seriously when you subscribe to a service are you given access to the contract that stipulates that they have the right to distribute that particular material.
+I don't think you understand the purpose of a VPN. It offers no protection other than directing (possibly secure) traffic through another IP. That other IP knows your IP and often a cookie can be set that tells the outside world whether you are using the VPN or not. Unless you clear cookies before and after the torrent. This is a simple example since I don't want to go into all the details on how someone can track you if they put enough energy and money into the effort. 
+
+One last thing. Windows 10 will tell Microsoft  through it's telemetry and leave a detailed footprint of your VPN use.
+And how are they supposed to do that?
+I won't say it won't happen(cuz the world moves way too fast).
+
+But yes, one could get a VPN hosted in a country that doesn't have much ties to the country('s government) trying to pry.
+At this point I just won't consume content and some buildings might get molotovs thrown at them.
+Sadly in civil court, you are often found responsible . You clearly did not read the article. Here a quote from the Lawer of the suing party:
+
+'If we send you a notice telling you that your internet account is being used illegally and you do nothing to stop it from being used illegally, then you become primarily liable'
+
+
+I also suggest reading article by Micheal Geist and Voltage Pictures.
+Won't happen and cant' really be stopped.
+Maybe don't use Windows
+I read the article. I've been to civil court in more occasions than I care to count for multiple reasons. I am an owner or have a lease or a rental and when something illegal happens I am not held responsible if I was not the one doing the act. A lawyer can say what ever they want when it's not your lawyer. They will even try to trick you into saying certain words that imply that you are guilty. The fact that someone gives you a general warning does not make you liable. You can't just call the police and hold them responsible for any future break-ins to your property even in civil court. Even if you see someone staking out your house. 
+
+I read, and read, Micheal Geist and as of yet I have seen no article which claims that you can be accused of an event and then held liable just because you were already accused.
+My only point is that you can identify someone using a VPN by other means.
+I hope you are right and we don't go the path of civil pursuit for piracy like in the USA.
+I am explaining the current situation. The US has been trying to get their system adopted for a very long time. It was in the TPP and now it has been included in the Mexico USA agreement that they are trying to include into NAFTA. If they succeed then we will find ourselves in the same boat.
+
+Summary:
+An IP address is just that an IP address.
+The only thing they have on you is the IP.
+You are not responsible for the act of another even if they happen to be using your property.
+That would make your ISP responsible.
+Yah that's not going to happen.
+Won't happen and cant' really be stopped.
+The cost to go after you is more.

@@ -1,0 +1,11 @@
+Building a battery from fruit may be easy, but will require enormous amount of fruit to power your laptop. If you come around a magnet, powerful enough, building a dynamo might be better idea. It is also easy to control the power and voltage. In addition to the magnet you will need a lot of thin metal wire which will cost you some money in those time. Dynamo will produce ac voltage. Of course the voltage won't be 120 or 240 volts, what your power adapter expects, so you will have to modify it for your new voltage. You will get some spare wire there! Building a dc generator is slightly harder. I am no expert to decide what is easier: to modify your adapter or to produce a dc generator.
+
+A dynamo is unlikely. The quality of magnets at that time was not good enough. Highly magnetic materials were not the most widely available, and lodestone is not easy to work with. Creation of a magnet by magnetizing an Iron bar with lodestone would not result in an overly magnetic bar, and probably not one of suitable strength. The dynamo would end up being very bulky and probably have somewhat unsteady voltage.
+
+A voltaic pile is easier to build, but would not last long under the demands of a laptop. Since Volta's original pile consisted of metal sheets separated by acid soaked cloth, this could easily be built, but you would have no way of measuring the voltage coming off before plugging in your device, so use would be risky. The same holds true for the dynamo as well, so the whole idea is a bit sketchy.
+
+Lead, copper and sulphuric acid are all ancient tech - that's enough to build a rough lead acid cell which will give you 2V per cell. 10 of those in series and you've got 20V DC which is close enough to the 19V DC most laptops take for it not to matter. Current only needs to be sufficent, if it's capable of supplying more current it won't do any harm (ie laptops don't require current regulation).
+
+A lot of electronics these days accept anything from 120AC to 240AC at 50-60Hz. I've seen even wider ranges too, like from 90-250AC with corresponding wider acceptable frequencies. So, depending on the OP's charger, it might be even easier than you think. AC voltages can be easily changed with simple transformers, and the power adapter will be expecting it anyway, so that's definitely the way to go.
+
+You'd need a whole bunch of tools

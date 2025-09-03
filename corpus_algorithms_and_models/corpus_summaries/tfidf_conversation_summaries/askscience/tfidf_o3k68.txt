@@ -1,0 +1,34 @@
+Original Response:
+[deleted]
+[deleted]
+[Fetal hemoglobin (HbF)](http://en.wikipedia.org/wiki/Hbf) binds O2 with a higher affinity than the adult form.  This is allows O2 to be transferred from the mother's bloodstream to the fetus's.  The fetal hemoglobin needs to pick up any available O2 in order to transfer it into fetal circulation.  The source of fetal O2 is the maternal bloodstream.  Since the pO2 in the mother's blood is lower than in the lungs, the fetal hemoglobin must "try harder" to pick up anything that is available.   It is also necessary for the fetus's hemoglobin to have a higher affinity than the mother so that O2 will transfer from her hemoglobin to the fetus's.  
+
+Early in my education, I was confused into thinking that a higher affinity for O2 is better (in adults), but in many ways it is not beneficial.  You want the O2 to get off of the hemoglobin and be delivered to your tissue before it gets back to your lungs.
+[deleted]
+For hemoglobin to do its job, it has to do two things: bind oxygen and release oxygen.  To really understand this, you need to understand the [oxygen-hemoglobin dissociation curve](http://en.wikipedia.org/wiki/Oxygen%E2%80%93haemoglobin_dissociation_curve)
+
+Fetal hemoglobin can bind oxygen at a lower oxygen concentration.  This helps it bind oxygen at the lower concentrations found in the placenta.  In order to release its oxygen, the surrounding oxygen level must get quite low.
+
+In adults, we breathe air and subject our blood to higher oxygen levels.  Our hemoglobin binds at a higher oxygen concentration.  But it also releases its oxygen at a higher concentration.  This allows us to deliver oxygen to our tissues effectively.
+
+If adults had only fetal hemoglobin, most of the oxygen breathed in would never be released from hemoglobin.  It would continue to circulate and would be inefficient.
+Everyone's already given a correct answer, but I thought I'd chime in with how I explain it to the classes I teach.
+
+Imagine hemoglobin is Scrooge, and oxygen is money.  Scrooge really really really likes money and thus, doesn't give any of his to anyone else.  This is a bad thing because everyone else needs the money.
+
+Same thing with hemoglobin.  The higher its affinity for oxygen, the less likely it is to release it to the tissues that need it.
+[deleted]
+[deleted]
+With all due respect, I'd honestly be offended at having the oxygen-hemoglobin dissociation curve and the underlying principle(s) be explained in terms of Scrooge and how much he likes money (I've taken undergrad biochemistry). Why do you teach it that way? Are students unable to understand things without these silly, simplified, and often incomplete and/or inaccurate analogies? I usually stop coming to class in favor of reading proper textbook explanations when confronted with such analogies. I'm not a five year old.
+Just to add, haemoglobin is complexed with BPG in blood when in the deoxygenated form - without BPG presence Hb is much less likely to release O2 (only 8% is released under physiological conditions, according to my lectures).
+
+Hb is really good at carrying oxygen already, what is important is releasing it at the right time.
+How does this play into the delicate balance between CO and O2 affinity in hemoglobin as well as the distribution of O2 to organs? I was under the impression that O2 affinity in hemoglobin wasn't stronger because it would be more difficult to detatch the O2 to the cells that required it.
+Because for every person like you, there is another who is not perfect.
+I definitely don't think I'm perfect (edit: far from it, of course, I don't know why you decided to insinuate I did), just that, at a certain point, one loses out on more than is gained with such analogies. I didn't mean to be insulting and was asking sincerely since obviously you're the more educated and experienced one out of the two of us.
+
+Summary:
+Our hemoglobin binds at a higher oxygen concentration.
+The higher its affinity for oxygen, the less likely it is to release it to the tissues that need it.
+[Fetal hemoglobin (HbF)](http://en.wikipedia.org/wiki/Hbf) binds O2 with a higher affinity than the adult form.
+Imagine hemoglobin is Scrooge, and oxygen is money.

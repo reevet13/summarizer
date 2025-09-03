@@ -1,0 +1,9 @@
+Here is the summary of up to 250 words:
+
+You're wearing your earphones out in the rain, and are doing any activity that builds static electricity. [That static electricity could be delivered via your earbuds](http://support.apple.com/kb/TS2729). Of course, this could also happen on a dry day, and with many static electricity generating activities, a dry environment will make it happen faster!
+
+Could the shock be damaging? Not to you, but possibly to motherboard components that you touch!
+
+You're wearing your ear buds in the rain, and you get an electric shock from a lightning strike. Of course, the likelihood that wearing earbuds would impact how a lightning strike goes down [is pretty out there](http://news.cnet.com/8301-17852_3-10268484-71.html). Sadly, [when you win the lightning lottery](http://www.lightningsafety.noaa.gov/medical.htm) it's probably due to the fact that you're standing out in the rain in a high risk area, rather than the fact that you're bopping around to your tunes.
+
+It would have to be a perfect storm (damp skin that reduces resistance from the normal 100K to 200K Ohms to around 1K Ohms, exposed wiring, a faulty device, etc) to do real damage to a human being.

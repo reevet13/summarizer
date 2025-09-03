@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+I bought some upgrades for my PC yesterday. I'm still waiting for the AM4 bracket for my Corsair H115i, so I thought I'd ask which PSU I should use for this build.
+
+The PSU's I have at home are the following:
+**EVGA G2 750W**
+**Corsair RM850X**
+**EVGA G2 1300W**
+
+I guess I should state the full specs of the PC:
+R7 2700X, 16GB RAM, two SSD's, two HDD's, one M2 SSD, GTX 1080 Ti, two AIO coolers (H115i (CPU) + X62 (GPU)) and a couple of extra fans.
+
+I actually have 12x RM850X, 6x EVGA G2 1300W and a single EVGA G2 750W.

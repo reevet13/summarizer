@@ -1,0 +1,17 @@
+Here is a summary of the text in 10% or less, approximately 250 words:
+
+The odds change according to how likely a horse is to win.
+
+If the number on the left is lower than the number on the right (5-20), that specific team or individual is largely favored. Conversely, if the team or individual has a lower chance of winning, the payout would be higher.
+
+Odds are calculated by bookies to give them the best shot at making money regardless of which way people bet.
+
+For events like football games, the odds are calculated to try to get people to bet such that the bookies get the same amount of money regardless of the outcome of the event.
+
+In an ideal situation, all the money that the losers lose is exactly the same amount as the winners win, and the house walks away with whatever percentage they take from every bet. There's no risk.
+
+The odds for parimutuel betting (e.g. horse races) are calculated based on how much money goes on each horse. The actual payouts depend on all of the bets once the betting is closed.
+
+If you pick a horse that most people didn't, and it wins, then you have a lot of losers and only a few winners, and you get a big payout. Similarly, if you pick a horse that most people also picked, and it wins, then you have a lot of winners splitting the money of a few losers.
+
+There is no way to calculate odds exactly like with a die; they are estimated based on past performance.

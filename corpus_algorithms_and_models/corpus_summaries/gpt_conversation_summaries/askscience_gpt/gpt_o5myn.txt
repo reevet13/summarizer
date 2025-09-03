@@ -1,0 +1,11 @@
+I was thinking I could take samples from each strength setting on my coffee maker and then measure the intensity with a spec. I know the actual strength is going to depend on the beans but we always get the same stuff in my lab so I'm interested in figuring out the relative strength. I'm content making the assumption that caffeine is linearly related to the absorbance, so all I'm not really sure about is what wavelength I should measure at. Any thoughts?
+
+According to [this paper](http://pubs.acs.org/doi/pdf/10.1021/jf011702q), they tested absorbance of ~~240~~ 280 nm light and it decreases as the roast darkens.
+
+[Here's a website](http://web2.slc.qc.ca/jmc/w04/caffeine/the%20caffeine%20on%20the%20web.htm) that performed a similar measurement. They did calibration measurements for various caffeine concentrations to establish a baseline, and it looks like they were seeing caffeine absorption in the 225nm - 350 nm range ([seen here](http://web2.slc.qc.ca/jmc/w04/caffeine/The%20Caffeine%20on%20the%20web_files/image008.gif)).
+
+Most modern spectrophotometers have a scan function that will take readings across a range of wavelengths, for example 200-600 nm, and then produce a print-out. The peaks on the print-out represent the wavelengths at which the solution has the highest absorbance. Some solutions may have only one peak, while others may have two or more. Anyway, do a spectra scan and pick the wavelength that produces the highest absorbance, that's a good starting point. Full strength coffee is pretty dark, I'd recommend starting with a diluted solution because you don't want to operate above the linear range of the spec.
+
+Most aromatic compounds absorb strongly at 280 nm. Aromatics compounds were named as such because of their strong smell, so measuring at 280 nm measures most directly the concentration of chemicals that contribute to smell, and therefore taste. 
+
+If you want to get an accurate measure of just caffeine content you should use an LC or HPLC. Most of the compounds in coffee will have broad peaks in a spectrophotometer which will interfere, but if you spike the coffee with some dissolved pure caffeine you can get a very accurate idea of where it elutes. That said if you want to get an rough idea of "strength" a spectrophotometer would be fine.

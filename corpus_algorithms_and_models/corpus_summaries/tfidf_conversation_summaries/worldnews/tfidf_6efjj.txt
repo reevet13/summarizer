@@ -1,0 +1,472 @@
+Original Response:
+And the NSA pretty much owns Google, so yeah.
+
+"In your computerz, spying on u"
+You gotta think, how effective can this be? Whats the good of reading 300 million people's email? Not only is it a breach of civil liberties but its a pointless breach.
+
+Unless their just going for people with a special skin color or the name Husain, but I guess that still makes it a pointless breach.
+&gt; It writes that the personal computer firewall software products from MacAfee, Symantec and Zone Alarm all "...facilitate Microsoft's NSA-controlled remote admin access via IP/TCP ports 1024 through 1030... without security flag."
+
+Without security flag??  Why, that sounds just technical enough that it **must** be true!
+Use [PF](http://www.openbsd.org/faq/pf/index.html) as your firewall and [GPG](http://gnupg.org/) to secure email. 'Nuff said.
+
+PS: However, if you're using Windows, then even the above won't protect you, as was [already known in **1999**](http://www.heise.de/tp/r4/artikel/5/5263/1.html).
+So use [a safe OS](http://www.openbsd.org/). Think Linux is safe? [Think again](http://marc.info/?l=openbsd-misc&amp;m=114233317926101&amp;w=2). Let me put it like this: There's a good chance that the NSA *loves* those video card vendors pushing closed source [binary blob drivers on Linux users](http://kerneltrap.org/node/7228).
+
+PPS: Oh, and [by the way](http://www.openbsd.org/images/tshirt-7b.jpg). (Yes, there is a [T-shirt](http://www.openbsd.org/tshirts.html#7).)
+
+PPPS: For the truly paranoid^Wsecurity conscious, try buying your hardware directly from China, through non-US retail channels. Especially if your mainboard has on-board Ethernet. Because, gee, what could possibly go wrong with that?
+Oh, it's pretty effective alright. 
+
+How? Simple: Don't read it. But archive everything. Storage space is cheap, and the NSA has a BIG budget.
+
+Then if anyone ever seriously challenges you, just grep your archives. You're bound to find something that can be used to at least make them look bad -- *or worse*.
+There is an unlisted Port in Windows server and Windows XP that is address at the Kernal level. The NSA can burrow into your computer and keylog without you knowing. The reason why no one has found this is that they haven't looked hard enough at monitoring CPU cycles.. or should I say missing cycles. The trick is.. when you have been bugged.. you won't know it. If you have a webcam and mic on you PC you offer them video access of who is at your computer...
+
+How do I know this.. You don't have the need to know... You just need to know that no one is safe.
+[deleted]
+Perhaps a SYN without the need of an ACK?  Or am I talking out my ACk here?
+*'Nuff said* followed by two (edit: *three*!) postscripts is just fucking lying.
+LOL. :) I salute you, Sir! :D
+
+PS: It's three now. ;-)
+Best comment on the site:
+
+&gt;So lets say we /dont/ have /any/ firewall installed. Would the NSA still be able to see our stuff, or do they need the firewall there to act as a trojan of sorts for them?
+&lt;obvious&gt; Google keeps track of everything! &lt;/obvious&gt;
+Care to suggest any alternatives?
+Nah. I'm not saying this is an issue. They will never have the manpower to track each of us individually. It's all fear tactics, to make you think you're under constant surveillance. 
+
+Keep using Google. I know I will.
+I agree that mics and webcams shouldn't be left unattended/plugged in when not in active use. And having built-in mics and webcams like in new iMacs, that's just fucking irresponsible. Even if the vendor doesn't do anything fishy, anybody who roots your box can. They can even use the webcam while your monitor is off and your iMac *seems* to be in sleep mode, and they can film you banging your neighbor or smoking weed, or jacking off, and yes, they can probably sell it as porn on the Internet. [Rule 34](http://www.urbandictionary.com/define.php?term=Rule%2034). 
+
+If you must buy an iMac, tape a foldable flap over the webcam, and flip it down when not in use. The inbuilt microphone is trickier: Either you crack the case and disconnect it or if that's too fancy for you, you could take a drill to the mic (but don't go in too deep, just enough so that the mic stops working). Then buy an external mic and unplug it when not in use.
+What about Comodo? Not that I do anything that would remotely interest the NSA (or women, for that matter)...
+I will be very brief. First, netstat will tell you what active connections you have to any site on the net. Second, your task manager will tell you what programs are running.
+
+If you do not see an open connection to a strange IP address and you do not see a program open which is actively interfacing with your mic/webcam -- then there is nothing to fear.
+
+I could debunk this further, but to do so is a waste of time. Suffice to say that this entire concept is nonsense.
+
+EDIT: I did not expect this to start such a thread.... soooo...
+
+Ok look people, believe in all the conspiracy theories you want, but lets look at this REASONABLY.
+
+If you have a webcam attached to your computer like say via USB port -- how on earth is someone going to be watching you from it? Well first off if you notice that there is POWER going to the webcam -- and you know there is no program running that is using it -- wont you be a bit suspicious?
+
+Wouldn't you, in such a situation start monitoring your RAM for processes running which are using your webcam, and if you are the least bit tech savvy wont you eventually figure out that some program is using your webcam without your permission, and wouldn't that make you curious enough to research it further?
+The NSA isn't having live people read it. They archive them and  then use a search engine to find keywords, then they read the emails that get flagged by their search engine.
+
+Is what I'd guess.
+Make sure you don't drop your tinfoil hat while you drill through the microphone!  This sounds a little extreme.  What exactly are you doing on your Mac to warrant these measures?
+
+Just do like CarlH said above... netstat and task manager.  Netstat can even see boxp working I believe.
+Oh yes, you're right. Of course.
+
+Of course netstat is infallible, even if an attacker has root access.
+
+Of course [you're entirely safe on your Windows OS](http://www.heise.de/tp/r4/artikel/5/5263/1.html) \*\*cough\*\* did you say "task manager" \*\*cough\*\*, and Windows task manager cannot possibly be fooled, like, ever.
+
+And to top it off, it would of course be entirely impossible to have a tiny program running on a chip that's fucking soldered to the mainboard, and has fucking hardware access to your onboard ethernet, bypassing the OS entirely. Yes, that's impossible. It cannot be done.
+
+So don't waste your time furrowing your pretty little foreheads. Anything who claims otherwise is talking nonsense, because CarlH has said so. Nothing to see here, move along, move along.
+[deleted]
+*sigh*
+
+Either you're right - the Government has, without it being leaked, managed to install backdoors in all modern video cards / Proprietary linux drivers, and built a huge filtering / archiving system to trap all that data.
+
+Or you and Theo de Raadt are a little bit paranoid, the government are as inept as we think they are, and the Linux user is moderately safe.
+
+Of course the NSA are going to try to develop the means to access any computer, it's part of their remit to have an effective arsenal of tools at their disposal, but this is a joke.
+
+Oh, and is it you that's been selling Chinese graphics cards on Ebay?
+That's not nearly as dumb a comment as one might think. In fact, the existing backdoor probably makes it easier to take over your box than it would be with no firewall at all.
+
+Think about it this way: Screw around a lot without a rubber and you might contract HIV/AIDS pretty soon. But use a rubber that's *impregnated* with a certain strand of HIV and your chances are even worse.
+good links to these articles - thanks for that!
+don't worry - these people watch FOX "news" and believe it is actual news and not an entertainment/propaganda show.
+I'm not sure you understand what the [threat model](http://en.wikipedia.org/wiki/Threat_model) is here. Actually, second thought, I'm absolutely sure you *don't* understand the threat model that's applicable here. [Eve](http://en.wikipedia.org/wiki/Alice_and_Bob#List_of_characters) is not some random script kiddie trying to beef up their botnet. Eve is *the NSA, caprice*? 
+
+Instead of your weak "tinfoil" ad-hom go read [Schneier](http://www.counterpane.com/crypto-gram.html) for a few months before pos(t)ing again on such topics.
+
+On the other hand, do as you please. You get the security you deserve. Yes, your lack of even a bare minimum grasp of ICT security may have astounded me, but come to think of it, there's probably even a reason why I'm at least [Security+](http://en.wikipedia.org/wiki/Security+#Security.2B) certified and you're not.
+Wish I could say this stuff is wing-nut bullshit...but I have first hand knowledge of..similar stuff.  Lets just say that you aren't gonna hide from NSA if they want you,the last paragraph be damned.
+You are correct.  The government cannot possibly monitor everyone.  The idea is to make people think that they are being monitored, and that alone has the effect of stifling dissent.
+
+Read "The End of America:  Letter of Warning to a Young Patriot" by Naomi Wolf for more info...
+Actually, I use a custom-built Linux firewall server (with no binary blob drivers) in front of my network, and regularly monitor traffic to ensure I know that none of my PCs are asking around on the net for someone to give them commands.
+
+My Windows PCs can be as NSA-rooted as they like. If the NSA has no way of talking to them, I'm not concerned.
+
+Of course, like your third postscript suggests, I am still potentially vulnerable on the hardware level of that Linux box. But I think the possibility of that sort of thing passing under everyone's radar for all these years is remote due to logistical challenges and also because it is an ancient and decrepit machine built before there was the technology available to hide these sorts of things.
+;-) No. Haven't tried to sell anything on ebay in a long time. I despise ebay.
+Are they trying to say it only effects 'xp' and not 'vista'?  If so does this not scream, some inside scare job by microsoft to get everyone to upgrade before the deadline?
+According to the information available on ECHELON, that's pretty much what they do... cast a wide net with keyword searches, and follow up with actual responses to messages with a high score.
+What would be interesting to see is whether they are only searching for national security keywords, or are logging/archiving things pertaining to domestic crimes... even though they can't share a lot of domestic crime stuff with other branches right now (Patriot Act says it has to be connected to terrorism in at least some sensible way), they someday may be allowed to, and then will be able to hand over all their information on a "silver platter" to state and local authorities.
+Um, evidence? Anyone? Bueller?
+
+This isn't Wikipedia; the mere fact that a citation exists, which itself merely links back to an anonymous post that also provides no evidence, doesn't mean the allegation has been even slightly substantiated, much less proven. 
+
+I remember the story about Hushmail handing over someone's private data a while back ... But hell, they did it just by being asked. That's a far cry from "The Fedz pwn ur puterz!"
+They also have the master keys for all ssh and ssl keys.  Its built into the protocol that the NSA has the master key.
+
+Have fun doing shit you think is secure online!   :)
+Don't forget about the attack that [Ken Thompson][back] suggested. Even a compiler can't be trusted unless you write it yourself.
+
+[back]: http://en.wikipedia.org/wiki/Backdoor_%28computing%29#Reflections_on_Trusting_Trust
+
+EDIT: fixed the URL, thanks ropers
+http://en.wikipedia.org/wiki/Information_Awareness_Office
+
+http://en.wikipedia.org/wiki/ECHELON
+
+http://en.wikipedia.org/wiki/Carnivore_%28FBI%29
+
+http://en.wikipedia.org/wiki/Magic_Lantern_%28software%29
+
+How sure are you about that?  Or did I miss sarcasm again?
+Oh how I love the "you're screwed and there's nothing you can do about it" field of reporting... At least if they follow me in real life I can [look at their shoes](http://www.moreintelligentlife.com/node/897)!
+No.  Just no.  Public key cryptography doesn't work that way; if all SSH and SSL/TLS sessions were also being encrypted to some "master key", then that means every SSH and SSL implementation would need to
+
+ 1. Possess the public component of this master key, which would be visible in the source code, and
+ 2. Encrypt messages to this key, which cannot be somehow hidden "within the protocol" – it would be blatantly obvious if this were happening
+
+So again, no.  GPG, OpenSSH, OpenSSL, and so on are just fine.
+If videocards collected information and sent it to the NSA servers (or any other servers), there would be a ton of evidence.
+Nope.  You sound like some nerd whos been 
+using secure keys b/c you think theyre secure, prepare to have your brain melt: 
+
+http://en.wikipedia.org/wiki/NSA_Suite_A
+
+http://it.slashdot.org/article.pl?sid=07/11/15/184204
+
+NSA writes in backdoors into the security specs themselves.  Since they designed the random number generators, they give themselves the master key to all random number generators (or put in known vulnerabilities).   And so anything using these NSA spec'ed out generators, is instantly hackable by the NSA.
+
+Please stop spreading your bad info.
+pfsense FTW. freebsd bitches...
+Edit: Here's a quick link for your reference: [Covert Channels](http://en.wikipedia.org/wiki/Covert_channel)
+
+I'd also like to point out that while you may be monitoring for traffic to see if your PCs are 'asking aroud the net for someone to give them commands', you have to understand that covert channel communications can be extremely covert.
+
+A simple example is using the dead space in icmp packets to send a single 1 or 0 out per packet. Can you move a dvd that way? No, but you can sure move a password around.
+
+Also there are things that are REALLY covert, like adjusting the first hop ttl number down from 30 to 29...that might indicate a 1 and leaving it at 30 might indicate a zero, and they can monitor that at the next hop gateway.
+
+Things on network a bit larger in size get even crazier. For instance,if you request printer resources over a network, and it replies that its 'busy' can indicate a 1 or a 0. All that stuff can and has been setup in real life.
+
+These examples I'm giving aren't really even that creative...
+
+My point here is that covert channel comminucations are NOT going to be stopped by looking at what ports your PC might be communicating on. So if the NSA has rooted your boxes...packet inspection is not really going to help you if they really want you.
+
+Edit #2: Just thinking up a few more ways to communicate data out...how about if they use the power saving features on your desktop/laptop to increase or decrease power usage at set times to indicate 1 or 0? And they put an amp-meter on your house line and look for the fluctuations at known intervals?
+
+How about if they set your page reload interval on popular pages with dynamic content slightly differently depening on what they want to indicate and monitor upstream? Are you sure that that page reloaded at 500 seconds, or was it 499.5 seconds?
+
+See what I'm talking about?
+Your post cannot be upmodded enough.
+I don't understand how this is proof.
+You identify NSA Suite A and the Dual_EC_DRBG algorithm as vulnerable in your sources. But you never connect them to OpenSSH or OpenSSL.
+
+They are just algorithms that the NSA loves. Not necessarily what is being used by our SSH clients.
+Yeah, now click the 2nd link, the slashdot discussion will give the 1st link some "context".
+
+SSH and SSL use random number generators spec'ed out by the NSA.
+
+EDIT: Clearly youre modding me down, then reading the links, then having your brain melt, then too busy reading about other non-NSA spec'ed crypto algos?
+You should take a RST.
+
+
+Fin.
+[deleted]
+Not a NEW?
+Because it's interesting, let me expound a bit on that onboard rootkit conspiracy theory I spoke of above:
+
+It would be pretty much impossible to use such a mechanism to monitor everybody. Because somewhere, someone is going to use an open source network sniffer on non-compromised hardware and is going to detect that that other box's integrated mainboard's onboard ethernet port is sending packets when it's not supposed to. Oh, and most near every ISP would have to be *in* on the conspiracy as well. So that's certainly not the case.
+
+However, technically speaking it would be entirely possible to build in such rootkits into integrated mainboards (it would be much harder with boards that don't have onboard ethernet). And if I were the NSA and had no conscience (which I wouldn't have, being the NSA ;), here's how I would do it:
+
+- Bribe, semi-legally coerce or otherwise armtwist the minimum amount of relevant people into including my firmware rootkit code.
+
+- Keep the people who need to know on a very tight leash, chiefly just by making sure they have *lots* to lose if they talk. Using patriotic True Believers&amp;trade; also helps.
+
+- Make sure the rootkit code is about as friggin perfectly bug free as can be.
+
+- Make the rootkit to NEVER contact me. That's right. It should NEVER send packets on its own, so it won't be detected.
+
+- Use what's known in the ICT security industry as a "knock-knock protocol". This means that the rootkit which normally does absolutely nothing will wake from its slumber when I send that computer a series of specially crafted packets. Then and only then, the rootkit should respond to me and give me access to the keyboard buffer, onboard graphics ([VNC](http://en.wikipedia.org/wiki/VNC)-style) and anything else I like.
+
+This means that my rootkit could not be used to spy on everybody, but *if* I had identified someone as "undesirable" *and* I knew their computer's IP address, then I could knock, knock their box, and presto, full control. Useless against unknown terrorists, but *very* useful against any known person I don't like. 
+
+Even if it ever came to light, I could also reassure the US-American public that it's only to fight terrorists, and you can't be soft on terror, right? How do I know the people I've identified as undesirables are actual threats? Simple, because they're terrorists. Because that's what I've just defined them as. I'm sure the US-American public will understand. They accepted the NSA Internet/phone surveillance program, right?
+
+Also, if I really wanted to shut someone up with my neato firmware rootkit, I could copy some kiddie porn to their box and anonymously tip off the FBI. 
+
+I'm not sure just how unlikely this conspiracy theory is, probably fairly unlikely, but technically *entirely within the realm of possibility*. It's completely doable. Also, consider this: How many people actually get to see the code that goes into the firmware that is used in mainboard chips? How many of these would recognise the inserted rootkit code as such if they saw it? And how many hardware reverse engineers are competent enough to detect such a rootkit? If they did detect anything, would they insist on full disclosure or could they be controlled through their employer or through their own vested interests, e.g. because they themselves may be aligned with foreign intelligence organisations?
+
+I'm not claiming that this onboard firmware rootkit conspiracy theory is actually true, but I am saying that in terms of technology it absolutely is a possibility, and thus needs to be considered in certain, scarier threat models.
+
+PS:
+But there's an even more intriguing possibility: The computer's various pieces of firmware doen't need to contain a rootkit at all: They just need to be exploitable. That way, with known exploits, I still get the full control I want when I want it, but I also get plausible deniability if the vulnerability is disclosed by someone. Because who's gonna prove I made someone slip in exploitable code on purpose (assuming that I eve had to do that)? It could just as easily have been just sloppy programming. I can even ridicule anyone suggesting NSA interest in exploitable firmware as a tinfoil hatter. This variation of the conspiracy theory is actually more likely than the aforesaid, IMHO.
+Yes, that's also a valid choice, as long as you keep your FreeBSD box blob-free. But pfsense is based on PF, and PF is at home on OpenBSD. ;)
+Does the NSA really need the master key? I thought those billion dollar, super computers, just brute forced everything till it makes sense.  Is the master key, just to reduce overhead on the servers.
+
+Please, understand, I don't know much about crypto.
+[deleted]
+I think if you want to crack real time encrypted streams and have that info soon enough for it to matter, im sure having a key or vuln is needed over brute force.
+
+They'll have quantum crypto here pretty soon
+which will render all our 4096 bit keys useless.  
+http://en.wikipedia.org/wiki/Quantum_cryptography
+
+A Quantum computer can crack these keys in fractions of a second.
+http://en.wikipedia.org/wiki/Quantum_computer
+Did you mean [Ken Thompson](http://en.wikipedia.org/wiki/Backdoor_%28computing%29#Reflections_on_Trusting_Trust)?
+Web-based services like HushMail -- where decryption is either done server-side or relies on a server-supplied client applet -- are inherently flawed.
+Yes, but I didn't say that they did that. They don't need to do that. All they need to do is be exploitable. Read [my earlier comment](http://reddit.com/info/6efjj/comments/c03mala), and its post scriptum in particular.
+I use IPCOP as an open source firewall because I don't think most at the NSA know the 4th amendment is.
+Please, are you really surprised?
+&gt; If you give me six lines written by the most honest man, I will find something in them to hang him.
+(Cardinal de Richelieu)
+they can use keyword and other automated software, but the point is: they will never have the manpower to come get us all.
+The NSA can break all Diffie-Hellman style encryption in relatively short order through long division.
+Down-modded for being sourced to an anonymous blog posting.
+Yet another reason to use Open source software.
+neither of the links mentions SSH or NSA Suite A at all, and SSL is mentioned only in passing in the slashot link. So where's the page telling me SSH and SSL use the randnum generator from the NSA? And what of OpenSSH and OpenSSL?
+p.s. I haven't modded your comments at all. Why would I mod you down whilst asking you for information?
+Am I really going to have to do this...... I guess so.
+
+Alright look, is it possible -- yes of course it is possible. Is it UNDETECTABLE? No! Someone would figure it out -- even at a hardware level.
+
+Simply put, thats the kind of thing that someone with enough time on their hands is going to figure out. When they do, the scandal that would result would be disastrous which is why such a thing is not/wont be done.
+
+All it takes is ONE person figuring it out.
+
+Keep in mind that even if there is some program hard-wired to your ethernet, data it sends is still going to go through your router/firewall (separate device). If you are tech savvy enough you just might be running a TCPDUMP and logging strange data. At some point, you would SURELY notice this.
+
+This is something that the average system administrator will be doing anyways, as that is a good way to detect spyware/viruses in general. 
+
+So just ask yourself this, when you start noticing via tcpdump on your firewall that data is getting sent to some strange ip, and EVENTUALLY you will get to the bottom of it --- eventually you will try killing random processes to see which one stops the sending process, etc. 
+
+It *CAN* be detected.
+Thank you for enlightening me on how educated you are.  Apparently I do not understand the threat model.  
+
+I merely questioned your advice for general users to drill through the computer's built-in microphone because someone may record their masturbation sessions and sell them as porn.
+
+Don't trip as you step off your soap box.
+If you are THAT paranoid --- buy a $200 computer to be a FIREWALL for you and have a separate monitor running tcpdump all day long --- and see what happens when your imac is in sleep mode.
+Im going to write a blog article on this, ill have plenty of links for you.  Many people like you are confused about this... stay tuned.....
+
+
+PS:  Youre pretty self centered to assume i was talking to you without mentioning you. I was downmodded 3 points and in my EDIT: i was talking to those that downmodded me.  Was it you? was it not? i dont know or care, the comment was directed at those modding me down, not to one person in particular.
+...but they sure can get anyone who steps out of line, which is kind of what you want if you're big brother (and, yes, "1984" contains some thoughts on this).
+I refer you to [my earlier below comment](http://reddit.com/info/6efjj/comments/c03mala) and especially to its post scriptum.
+As I said in response to another comment, you still have the issue that if your computer is sending something through the internet -- then at least SOME users will have a firewall (entirely separate machine) that is filtering outgoing data. It only takes ONE such person to figure out that something shady is going on to blow the lid off the whole thing.
+Not to mention a number of other attacks:
+
+Check out the some of the proofs of concept on Tor (timing techniques associated with hardware variables).
+
+Someone with partial knowledge can use a known-plaintext attack fairly easily.
+
+Most people also think it is safe to store encryption keys on their hard disk for any amount of time. MFM tools can easily recover deleted files.
+
+There are so many common loop-holes before even going into the stuff that you stated.
+I trust that fact that we are too stupid to build a compiler that knows how to integrate exploits (even obvious ones) into your code - compilers can barely even check to see if you didn't write errors or ambiguous code.
+
+Not that I use anything other than gcc/g++. But I agree, we should be on our toes when addressing compiler security concerns.
+Yes. [I said that earlier on](http://reddit.com/info/6efjj/comments/c03m8xn) (PF=OpenBSD's firewall; and [tcpdump](http://www.openbsd.org/cgi-bin/man.cgi?query=tcpdump) is mentioned [in the PF FAQ](http://www.openbsd.org/faq/pf/logging.html#logfile). )
+
+Though even with the depreciating US-Dollar, $200 is still overkill for a SOHO firewall box. Mine are usually salvaged from the kerb/skip. A 486/Pentium I running OpenBSD can do enough firewalling for a maxed out residental 1024Mbps DSL line, with hardly a network performance hit, or at least I've never noticed any detrimental impact. OTOH, you could invest eg. EUR 210 in a Soekris or similar to save on power. 
+
+Also, OpenBSD is not for everyone, and in any case, disabling the integrated webcam/mic is certainly a good start and a heck of a lot easier than finding out after the fact that you've been had. Don't get me wrong. A decent firewall is a good measure. Disabling easily abused inputs is also a good measure. They're not the same. Sure, you could say why worry if you have an OpenBSD firewall in front, but I'm not a big fan of the "don't need to patch machines behind my firewall" approach.
+Here's an update in which the services deny it:
+
+http://cryptome.org/nsa-ssl-email.htm
+
+There was no evidence offered in the first post. Not even a source, like "anonymous disgruntled insider at Hushmail".
+
+I would say that this article neither raises nor lowers the probability that the services are owned by the NSA.  Here's why I don't think that the NSA would buy them up: it would require leaking information to the sellers. Everyone would know that Hushmail is owned by the NSA, or at least some unknown mystery outfit. The NSA also knows that Al Qaeda doesn't trust Hushmail or Safe-Mail (Israeli!?), so these are low value acquisitions, good for monitoring drug deals.
+
+If you were a terrorist, would you use Hushmail, or would you use Gmail and codewords, or set up your own SSL encrypted mail on the private pages of the "Widdleston Poodle Appreciation Club"?
+Indeed, using "yahoo" with thunderbird and enigmail is easily better (if you understand how keys work - heh).
+Oh really? Are you underestimating our paranoia?
+[deleted]
+Well your "general users" shouldn't be piping into "security researchers" discussion.
+Ok so since you, by your own admission, use a firewall to do exactly what I said... have you EVER noticed your webcam or mic sending data to the NSA? :)
+Your commentary with words such as 'firewall' in CAPS, and your treatment of not even advanced security concepts proves to me that you've only been scratching at the surface.
+
+Go to usenix, look at some proof-of-concepts, or just keep looking at port numbers with netstat like someone from swordfish.
+Stop saying firewall.
+And stop saying tcpdump. How are you going to log strange data when it is embedded in the protocol you recognize as correct. It will be especially hard if any steganography is used as suggest by brobak.
+scroogle.org
+(http://www.scroogle.org/scraper.html)
+They are getting closer and closer as technology makes it easier and easier to catch and monitor the statistically significant outlier.
+It is always the same:
+"I have nothing to hide"
+"They wouldn't/couldn't do that"
+"that wouldn't benefit them"
+"no one wants to spy on little old me"
+
+I don't consider myself a "little old me," and I hope the rest of you don't - have some self-respect!
+And we are getting better at finding key sounds and key images - how long until key parts of video (actually being done to an extent with AI and surveillance cameras already)?
+Not only does it allow them to NOT process the information in real-time, but it allows them to save things that are encrypted or obfuscated for later when their computers are faster and more intelligent.
+Ugh, I cannot stand it when otherwise-knowledgeable people say things like this:
+&gt;warned against the inclusion of binary-only blobs
+
+That's what a blob is.  [A binary large object](http://en.wikipedia.org/wiki/Binary_large_object).  I want $1 deposited into my account from the closest ATM machine every time I hear crap like that.
+They didn't sponsor many of the open RNGs, and since we security conscience use open source (and I do agree that it is important to stress non-binary blob as ropers has), then these openly spec'd and developed public key encryption methods are fine. Make sure to use a hash without weaknesses too.
+Which blog is this?
+Since we're assuming that there only ever are packets on the wire for the very few dissidents that the administration actively wants to intrude on, and only *at the very limited time* they are actually doing it, what are the chances that those specific dissidents are going to cop on to what's happened before the NSA can (a) cover their tracks or (b) get the dirt they came for and with that in hand nick the dissidents before they get a chance to look at their log files? 
+
+Also, profiling. Know your target. If your dissident is John Draper, then simply don't use this method, because [Captain Crunch knows how to prevent it](http://www.the-fifth-hope.org/mp3/draper-spam.mp3).
+
+If however your dissident is Peacenik McAmish, you can be pretty sure that you won't get caught, even if you did do this for months at a time instead of minutes. And again, plausible deniability. You only have to use the firmware exploit to install another common software rootkit on the box and then use that. Who's gonna prove that you used the unknown and unproven firmware exploit to install the software rootkit when there might have been any number of potential infection vectors? With that method, using our nice and sneaky firmware exploit for seconds would probably suffice. 
+
+And if it's not just an exploit but an actual firmware rootkit on the mainboard, that firmware rootkit could even *contain* a common software rootkit and all you'd do is use your knock, knock protocol to send a bunch of seemingly random packets to the box,  whereupon it installs the common software rootkit. Who's gonna prove that you triggered the infection with your crafted packets? Totally deniable as far as the packets go and totally convenient (though at the cost of being more detectable  in the firmware and less deniable as far as the FW is concerned than a "seemingly sloppy coding" type of exploit).
+I don't have a webcam or microphone permanently attached to my computer. (Come on! You could have guessed that! ;o)
+But of course these defensive measures are all second-grade and passive responses to the considerable threat the NSA poses to your domestic security in the US. 
+
+The proper response would be to *actively reduce the threat*, by collectively reverting the US regime from semi-dictatorship back to democracy or republic, and then getting some serious oversight going. The NSA could never pull off any of these things if US-Americans didn't let them. Again, you probably get the security you deserve.
+True. The idea is to awaken the public so that everyone steps out of line, and doesn't hand in their guns and surrender.
+I should say, though, it's all useless so long as the public is armed.
+What does that mean? We are not organized. Not that we stand up for the whistleblowers anyway.
+If the population is armed, you cannot be hunted down. Pretty simple.
+Ugg, are you saying a wistleblower has ever been able to compete with the government in terms of arms or information tactics?
+I ain't talking about whistleblowers. I'm talking about you, your father, your uncle. Ordinary people not prepared to take crap.
+Personally, I would have imagined you DID just to prove yourself correct. What is the fun of setting up a system to stop any NSA tapping of your mic and webcam if you aren't spying to see if they actually do or not? :)
+I use Clusty.
+Your mind-reading skills need work. 
+
+I wrote FIREWALL in all caps so as to emphasize to those not familiar with the concept, that just because stuff is flying out of your computer it doesn't mean that you cannot see what that stuff is -- even if it is hard-coded into the hardware.
+
+My cursory/surface deep treatment of the subject is because the whole idea of the NSA watching your webcam and listening to your mic is ridiculous and I only wish to debunk it in the easiest and fastest way possible.
+Youll get a link, not sure which blog its going on yet.
+Well, you imagined wrong. ;-) Conspiracy theories (and I've already mentioned above that this is one) are useful to properly think through certain threat models, but exposing yourself and expecting to observe one coming true is probably going to be a fruitless endeavour. 
+
+I don't need to crash my car to find out that seatbelts are a good idea. 
+
+And you wouldn't order your ocean liner full speed ahead in order to prove that you were right with your concerns about the risk of hitting an iceberg.
+Yeah, thanks. I used the wrong type of Markdown link that gobbled up the parenthesis.
+Nice. Looks very promising.
+They cannot bipass detection measures located outside of your machine, such as an external firewall.
+I thought it was a fascinating idea. People don't often check to see that there is a correspondence between the source code and machine code.
+
+How practical is that attack? You're right it seems to me that the answer is "not very."
+Ordinary people are not informed enough to know they are experiencing crap.
+Quite possibly.
+But seriously, how can any individual compete with arms? Experienced and informed individuals can be 'safe', but how can anyone compete with cia or army? JFK couldn't :)
+Well in the future don't treat the rational interest of security enthusiasts with shallow remarks. As embodied by my other reply: How are you going to easily see these things with the 'firewallz' and the 'tcpdumpz'?
+I tend to have low patience for those who like to talk about conspiracy theories. I mean... come on, watching your webcam? That is ridiculous.
+Sure, but there isn't an entire CIA person or army for every armed US citizen.
+
+JFK was just one man, unfortnately.
+There is another Markdown link type? 
+
+I just used URL-escaped %28 and %29 for ( and ) in the actual URL. There's also a similar bug that's an issue with e.g. archive.org's Wayback Machine URLs, where the Markdown transmogrifier barfs on the second colon; that one can be avoided by using %3A instead of :.
+DESPISE indeed!
+[deleted]
+No one is saying there is a conspiracy to watch people's webcams, but we are merely enthusiasts considering all possibilities.
+But many more than 1:1 army/cia:whistleblower/know-too-much-reporter.
+Yes, I'm aware of the concerns involving the new parabolic curve PRNG.  The fact of the matter is that even if everyone's worst fears about this algorithm play out, there's no evidence to suggest that the generators used in SSH and SSL implementations are anything but perfectly fine.
+
+And as for GPG, it's simply not a concern – here we're talking about single-shot encryption or decryption of a glob of data, nothing that would involve generating a stream of random numbers in which a mathematical backdoor might allow an attacker to predict the next in the sequence.  As long as the *first* number spat out by the PRNG is prohibitively difficult to guess – and it is, even with the elliptic-curve generator – then you can safely perform key generation.
+
+Even the NSA cannot hide a straightforward statistical skew in a PRNG's output, because that kind of thing is trivial to test for.
+
+And as for your original claim that the NSA has some sort of "master key" for the SSH and SSL *protocols*: again, that's absurd.
+
+&gt; Please stop spreading your bad info.
+
+Indeed.
+&gt; There is an unlisted Port in Windows server and Windows XP that is address at the Kernal level. The NSA can burrow into your computer and keylog without you knowing. The reason why no one has found this is that they haven't looked hard enough at monitoring CPU cycles.. or should I say missing cycles. The trick is.. when you have been bugged.. you won't know it. **If you have a webcam and mic on you PC you offer them video access of who is at your computer...**
+
+&gt; How do I know this.. You don't have the need to know... You just need to know that no one is safe.
+
+Did you not notice the thread I was replying to? :)
+as a desktop os for my mother? yeah, right...
+i use the scroogle (ssl) firefox search engine plugin. the one thing that keeps me coming back to google from time to time is the suggestion feature "Did you mean"...
+hmm, i followed the link to the source and there i found emails from three of the accused email services denying that they have anything to do with nsa followed by some message from this guy saying three safe e-mail services has been acquired by the nsa. what a scoop.
+I'm not sure. A lot of people are waking up.
+There is the type where the link text and a reference are both put in square brackets then the actual URL is placed below. That's what I changed the link to, but my *real* problem was that the URL wasn't properly escaped. It was barfing on a closing paren.
+It's running on my Mom's thinkpad.  What's the problem?
+
+She told me that she thought that XFCE kinda felt like OS 9.  Awww Mom's eh?
+i bet she installed it all by herself.
+No such luck.  I've become the sysadmin for my family.  She's an accountant, and she asked me for the most secure operating system for her clients info.  IMHO, that is OpenBSD, but opinions vary.
+Too lazy to post an article, but i didnt want you to think i forgot.
+
+SSL is a root certificate based authority.
+NSA has copies to all the root keys.
+So every website you hit online under https that has been signed by a valid 3rd party signer is instantly crackable by nsa.
+
+This is common knowledge if you have to manage ssl keys and certs for companies.
+http://www.theregister.co.uk/2007/04/03/dns_master_key_controversy/comments/
+
+Doesnt matter anyways, NSA has been cracking your stupid little ssh keys with QC since early 2000s.
+http://science.slashdot.org/article.pl?sid=04/04/21/1822222
+Too lazy to post an article, but i didnt want you to think i forgot.
+
+SSL is a root certificate based authority. NSA has copies to all the root keys. So every website you hit online under https that has been signed by a valid 3rd party signer is instantly crackable by nsa.
+
+This is common knowledge if you have to manage ssl keys and certs for companies. http://www.theregister.co.uk/2007/04/03/dns_master_key_controversy/comments/
+
+Doesnt matter anyways, NSA has been cracking your stupid little ssh keys with QC since early 2000s. http://science.slashdot.org/article.pl?sid=04/04/21/1822222
+Oh my, Quantum Cryptography is not to be confused with Quantum Computing. The former is a QM concept using current computer hardware, the latter is pretty far off - we have only been able to make basic quantum circuits and even those decay over very short periods of time. (I will, however, adjust for the exponential rate of technological development when using risk analysis.)
+
+It is very possible for the NSA to get certain 'master' keys, as that article hypothesizes could happen with DNSSEC, but public key cryptography was designed so that there would never be a single 'master' key to every unique relationship (this is not to say aym enc won't have certain weaknesses or exploits in the future). Therefore, using a set of public keys for a stand-alone system, like DNSEC, could result in an entire infrastructure being compromised if the NSA got a hold of their private keys. This does not mean that the NSA would have a 'master' key to my gpg-keyed emails.
+I agree with everything you said.  Except youre assuming how far along the NSA is in development of a QC.  Im thinking they have large teams that we dont know about that are further along than the public research, but that is just speculation.
+I know they have their own cryptography program (and journal: http://www.thememoryhole.org/nsa/bibs.htm), but researchers numerous enough to make a quantum computer when mainstream world science has produced nothing more than poorly functional quantum circuits? If you look at quantum computing publications you'll find that they are still enthusiastically funded by the DoD and whatnot. They/We have always been interested in quantum computing and it possibilities in cryptography, but just like government engineered flying saucers - I have heard of no evidense suggesting their success. 
+( Actually even less success with QC than flying saucers: http://www.damninteresting.com/?p=728 )
+&gt; I have heard of no evidense suggesting their success.
+
+And i could make the argument that if the NSA is doing their job, youll never know about their QC progress, but again, thats just speculation.
+
+Summary:
+Yes, but I didn't say that they did that.
+They don't need to do that.
+See what I'm talking about?
+If the NSA has no way of talking to them, I'm not concerned.
+I mean... come on, watching your webcam?
+I don't understand how this is proof.
+NSA has copies to all the root keys.
+Its built into the protocol that the NSA has the master key.
+Not that I use anything other than gcc/g++.
+SSH and SSL use random number generators spec'ed out by the NSA.
+Please, understand, I don't know much about crypto.
+Someone would figure it out -- even at a hardware level.
+Useless against unknown terrorists, but *very* useful against any known person I don't like.
+Nothing to see here, move along, move along.
+The NSA can burrow into your computer and keylog without you knowing.
+The government cannot possibly monitor everyone.
+This does not mean that the NSA would have a 'master' key to my gpg-keyed emails.
+I'm not saying this is an issue.
+Does the NSA really need the master key?
+Am I really going to have to do this......
+How do I know the people I've identified as undesirables are actual threats?
+They also have the master keys for all ssh and ssl keys.
+I'm sure the US-American public will understand.
+Not that I do anything that would remotely interest the NSA (or women, for that matter)...
+You could have guessed that!
+I agree with everything you said.
+It should NEVER send packets on its own, so it won't be detected.
+I should say, though, it's all useless so long as the public is armed.
+Also, consider this: How many people actually get to see the code that goes into the firmware that is used in mainboard chips?
+I can even ridicule anyone suggesting NSA interest in exploitable firmware as a tinfoil hatter.
+Simply put, thats the kind of thing that someone with enough time on their hands is going to figure out.
+You get the security you deserve.
+I could debunk this further, but to do so is a waste of time.
+I don't have a webcam or microphone permanently attached to my computer.
+I haven't modded your comments at all.
+Make sure to use a hash without weaknesses too.
+No one is saying there is a conspiracy to watch people's webcams, but we are merely enthusiasts considering all possibilities.
+The NSA isn't having live people read it.
+They are just algorithms that the NSA loves.
+The NSA could never pull off any of these things if US-Americans didn't let them.
+All they need to do is be exploitable.
+And the NSA pretty much owns Google, so yeah.
+Youll get a link, not sure which blog its going on yet.
+Actually, second thought, I'm absolutely sure you *don't* understand the threat model that's applicable here.
+Or am I talking out my ACk here?
+At some point, you would SURELY notice this.
+So use [a safe OS](http://www.openbsd.org/).
+
+# Summary elapsed time (seconds): 0.45

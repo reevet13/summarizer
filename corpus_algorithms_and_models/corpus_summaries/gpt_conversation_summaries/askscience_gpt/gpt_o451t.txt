@@ -1,0 +1,29 @@
+There are two approaches you could take. Either you trust people to be deductive and take basic principles to figure out applications, or inductive, where you force people to reverse engineering everything. In the former case, I'd suspect some graduate level quantum mechanics book (Sakuri is a good place to start) would be useful. As for the latter approach, a book going over most conceivable circuit designs would be helpful (The Art of Electronics comes to mind).
+
+Two books to start with:
+
+*The CRC Handbook*
+
+-Basically all known physics and chemistry+Math
+
+*2010 ASME Pressure Vessel Boiler Code*
+
+-Materials properties and instructions on how to build safe pressure rated parts.
+
+IMHO the very first thing you would need would be geology texts on how to locate raw minerals and then metallurgy texts on how to forge steel.
+
+I might have to vote for something like Mark's Standard Handbook. It has a lot of info on building materials, heat transfer, material strength, basic electronics, fluid flow, etc. Basically an engineer's bible.
+
+There is a cool TED Talk by Marcin Jakubowski called Open Sourced Blueprints for Civilization. It's pretty short, and worth a watch.
+
+The English version (minus pictures) can easily fit on a microSD card if it's compressed. That's most of humanity's basic knowledge on something smaller than a dime!
+
+If I were to assemble my post-apocalypse library, it would contain these two books as well as the Gingery bootstrap metalshop (scrap metal to lathe, drill press, shaper, and milling machine) and at least the basic Pocket Ref (comprehensive practical reference guide).
+
+How about Caveman Chemistry? It takes you from building fire with a bow drill and making flint arrowheads all the way up to making gunpowder, fertilizer, and plastics.
+
+The majority of actual practical knowledge is not written down in any book. Textbooks contain some basics, but it's often a cartoon version of what is actually done in practice. If you read a textbook on mining and then went all Zoolander-like into a cave and tried to start mining . . . you wouldn't get very far. A textbook on electrical engineering would leave you without a clue as to how to make the components, or even what they look like.
+
+In all of this, the biggest question is, who's going to feed you while you're walking around in your funny clothes digging up people's back yards looking for magic metal. And who's going to feed the army of able-bodied men who will be helping you.
+
+But to start

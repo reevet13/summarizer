@@ -1,0 +1,13 @@
+Original Response:
+If a photon has a rest mass of zero, wouldn't that imply that it also has zero energy, since e=mc^2 ?
+E = mc^2 is only part of the equation; in particular, it's the part that describes the energy of an object in its rest frame, which is something that a photon doesn't meaningfully have.
+
+The full equation is E^2 = (mc^2 )^2 + (pc)^2 where p is the momentum. If an object is at rest then it has zero momentum, so this reduces to E = mc^2 . On the other hand, if it has no mass then the equation becomes E = pc, which says that the energy of a massless particle is proportional to its momentum. Photons do indeed have energy and momentum, consistent with this equation.
+[deleted]
+[deleted]
+Photons travel at the speed of light and therefore don't have a rest frame (a frame of reference in which they are at rest). They still carry energy related to their momentum (which is related to their frequency).
+
+Occasionally_Right has a good explanation, but I wanted to add in a slightly different way of explaining it in words (without equations).
+
+Summary:
+Photons do indeed have energy and momentum, consistent with this equation.

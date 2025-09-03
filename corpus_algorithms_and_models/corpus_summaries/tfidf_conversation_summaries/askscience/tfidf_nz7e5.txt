@@ -1,0 +1,44 @@
+Original Response:
+I was watching futurama, when this question struck me. Given that the universe is expanding, and creating space, is it possible to destroy space?
+Many argue that the event horizon of a black hole encompasses no space.
+Nothing is being "created," space itself is expanding. 
+
+As for if space can be destroyed.... well I'll let an expert handle that.
+I'd like to see a citation for that.
+I'd like to see a citation that a black hole actually does encompass space. I guess we are both going to be disappointed.
+"A black hole is simply a region of spacetime separated from infinity by an event horizon." -Carroll, *Spacetime and Geometry: An Introduction to General Relativity*, page 222
+I hope there is a careful explanation of what "separated from infinity" might possibly mean, otherwise it is poetic nonsense.
+Read about the Big Crunch theory. www.universetoday.com/37018/big-crunch/
+&gt;Many argue that the event horizon of a black hole encompasses no space.
+
+If many argue that then there is material to cite.  The burden of proof rests on the claimant.
+It's a mathematically clear statement. It means, as is clarified in the text, that a black hole is a bounded (i.e., finite) region surrounded by an event horizon, which is a null surface.
+
+Another text, (Visser, *Lorentzian Wormholes: From Einstein to Hawking*, 16) says "A black hole may be defined as whatever is inside an event horizon/absolute horizon." The definition of event horizon is given as:
+
+"For each [asymptotically flat region](https://en.wikipedia.org/wiki/Asymptotically_flat_spacetime) the associated future/past event horizon is defined as the boundary of the region from which [causal curves (that is, null or timelike curves)](https://en.wikipedia.org/wiki/Causal_structure#Curves) can reach asymptotic future/past [null infinity](https://en.wiktionary.org/wiki/null_infinity)."
+[deleted]
+None of those descriptions *require* a black hole to have an inside. When you see a phrase like "may be defined..." it means if you are comfortable thinking this you will be OK, it does not mean such a thing actually exists in reality.
+I see you've never taken a proof-based math class.
+These are quotes from textbooks defining what they are going to use the term "black hole" to mean.
+
+And of course it doesn't mean such a thing exists in reality, but that's neither here nor there. It doesn't matter whether such an object actually exists—that's still what the term is defined to mean. Unicorns don't actually exist in reality either, but that doesn't prohibit the term "unicorn" having a clear definition and people calling you out when you say "Many argue that the horn of a unicorn isn't really attached to anything".
+
+The point is, if you look in any reference text, you will find the term black hole being defined as the finite region bounded by an event horizon. The actual wording may change, being more or less technical and mathematically rigorous, but they are all the same in principle.
+
+Now, all of those are purely general relativistic definitions, and it's possible that the physical object to which they ultimately apply (if any such object exists) requires a modified understanding incorporating thermodynamics and quantum effects, but if, as you claim, "many argue that the event horizon of a black hole encompasses no space" then you should be able to provide at least one source. It *sounds* like you're talking about what RRC describes [here](http://www.reddit.com/r/askscience/comments/j81b2/whats_in_a_black_hole/c29wpye), so you might be interested in [zeug's response ](http://www.reddit.com/r/askscience/comments/jxjle/what_would_you_see_from_inside_the_event_horizon/c2g0kon).
+At the very least, the area of a black hole's event horizon is non-zero. That's a mathematically unambiguous statement, and is quite easy to calculate.
+I haven't heard of space being outright destroyed. However, some people describe a black hole as "tearing" the fabric of space
+The expansion of the universe does not create space.  It's expanding space that is already there.
+Space is expanding, not creating more space.
+I suppose the core of the matter is this: what's outside the universe?
+Well in that case, can you destroy the theoretical vaccum (dark) energy...
+
+I guess creating matter would do exactly this.
+These is no outside the universe. The universe is everything that exists.
+
+Summary:
+Many argue that the event horizon of a black hole encompasses no space.
+&gt;Many argue that the event horizon of a black hole encompasses no space.
+Space is expanding, not creating more space.
+I'd like to see a citation that a black hole actually does encompass space.

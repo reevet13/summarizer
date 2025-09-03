@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the original text (up to 250 words):
+
+The human eye can see more colors than a common display or TV can show because colors are hard dammit. You may have noticed this when shooting flowers and the photos coming out all different from how I remembered them.
+
+Adobe RGB can represent a wider range of colors, especially in the greens, so nature photography will no doubt benefit from it. These colors will look closer to the "reality" -- what the sensor actually got.
+
+It will still be inferior to what the eye can actually see and an approximation, but it's a wider gamut than sRGB at least.
+
+But to make use of this, you need a display or printer that supports that color space, otherwise all is wasted and you're better off with sRGB.

@@ -1,0 +1,22 @@
+Original Response:
+Everyone tells me that if you use too much hand sanitizer (the generic stuff you can find anywhere), then you'll diminish its effects and have pretty much zero defense against germs and bacteria.  Is this true?
+
+I'm not sure what defines "too much".  I probably apply it 1-3 times a day... sometimes up to 5 if I feel especially unclean at my job, which requires me to touch lots of peoples' keyboards and mice.
+
+When I've been at the hospital, I've seen doctors and nurses apply hand sanitizer after each visit with a patient -- so I'm not entirely sure what to make of this myth.
+
+Thanks!
+It depends on the type of hand sanitizer.  Unnecessary use of sanitizers that use agents such as triclosan can contribute to resistance, which is a Bad Thing.  However, alcohol hand sanitizers do not.  They can, however, dry out your hands something awful, so in principle they would decrease the effectiveness of your skin barrier if this becomes very extreme--in practice, though, that's probably not a big deal unless you use it so much that your hands are cracked or bleeding.
+
+However, there is some research that suggests that denying your immune system (especially developing immune systems) instructive targets by engaging in hyper-sanitation might be a contributing factor to both immune system weakness and auto-immune disorders--however, the research in this area is ongoing and pretty sketchy right now.
+
+With respect to hospitals, yeah, there's nasty stuff you can pick up there, but in truth the hand-sanitizing displayed by doctors is as much if not more to protect patients than themselves.  The last thing you want to do is pick up an antibiotic resistant bugger and transport it to the room of a patient that's immunocompromised--or take *C. diff* anywhere.
+
+I would recommend washing your hands or using an *alcohol-based* hand sanitizer after especially grody activities (dirt, medical or lab pursuits, other people's keyboards if you want, bathroom) and before eating (because parasites are nasty), in part for your own sake but also as a courtesy to others, whose immune systems may not be as good as yours.  I would recommend a thorough hand-wash over sanitizer if possible.
+Alcohol works by denaturing the proteins, so bacteria can't evolve a way to be immune to it.
+Correct me if I'm wrong (and this has no bearing on OP's question), but could a strain of bacteria not, by happenstance, mutate a mechanism to survive?  Say, an oily protective bubble, which would allow 1% of its members to survive, which would then give that strain a breeding advantage?  I mean, extremophiles come from somewhere, right?
+The theory makes sense to me, but I'm not an expert. I think I got this analogy from the subreddit, but it would be like if we could learn to be immune to fire. A flame is going to mess a person up regardless of how our immunity could evolve.
+
+Summary:
+However, alcohol hand sanitizers do not.
+I'm not sure what defines "too much".

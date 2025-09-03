@@ -1,0 +1,13 @@
+Here are some selected sentences copied verbatim from the original text:
+
+* "It's not about intelligence, it's about knowing and understanding optics/physics (in this case)."
+* "The microwaves were emitted by gas from the early universe, though they weren't microwaves yet - they were higher energy photons that got redshifted over time. But this early gas was so thick and dense that it was opaque, so we can't see further back in the universe than that point."
+* "Before the cosmic microwave background was emitted the Universe was so hot that all the (hydrogen) atoms were ionized, so there were a lot of free electrons so light could only travel a short distance before being scattered. As the Universe expanded and cooled the electrons joined with protons to form hydrogen [recombination](https://en.wikipedia.org/wiki/Recombination_(cosmology\)) and light was able to travel freely."
+* "The telescope would see things that were 50 years old from when it took the picture, but since you can't send the telescope out there in any less than 50 years, you'll never be able to see into the past. If you magically send it out at light speed, then it takes a picture and send it to you, the image will be of the time you sent the telescope out, and you'll get to see it 50 years after that."
+* "Someone crunched the numbers on this, I think on Reddit, a little while back. Turns out the size of lens you'd need to be able to do this, would be so massive it would collapse itself into a black hole."
+* "It's amazing how remarkably unfathomable distances in space really are"
+* "What did that Quasar look like through your telescope? And how were you able to pinpoint it among everything else in the night sky with a 10" telescope?"
+* "Never found it. It would have looked just like a dim star."
+* "For objects you can't see with the naked eye, there are some techniques for finding them in the telescope. Usually you use 'star-hopping' to find it. You first locate some known, visible stars that the object you're looking for is near. Look through your telescope and you can see dimmer stars, then keep referencing your star map, matching up the patterns, and slowly make your way from star to star until you land on the object."
+* "Also I had a [Telrad finder](https://agenaastro.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/o/f/ofin-te-tel-1s_6.jpg) on my scope that helped. It has illuminated bullseye rings, the rings are (IIRC) 1, 2, and 4 degrees diameter."
+* "On the plus side, you could then use that black hole as a gravitational lens."

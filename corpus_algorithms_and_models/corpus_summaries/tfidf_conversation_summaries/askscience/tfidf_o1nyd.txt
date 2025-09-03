@@ -1,0 +1,32 @@
+Original Response:
+Has anybody seen a report comparing the track record of Weather Channel forecasting (www.weather.com) vs. National Weather Service forecasting (www.weather.gov)?
+
+The awesome power of [yahoo answers](http://answers.yahoo.com/question/index?qid=20100424123009AAze6Nx) suggests all weather forecasts come from the same source.
+
+However, when I check WC and NWS for tomorrows high, they were simply different.
+
+A [simple google search](http://www.google.com/search?gcx=c&amp;ix=c1&amp;sourceid=chrome&amp;ie=UTF-8&amp;q=weather+channel+vs+national+weather+service) wasn't very revealing either. So my next stop on the quest of knowledge is you reddit.
+Forecasts don't come from the same source, but a lot of raw atmospheric data does. The GOES satellites are operated by the government; they are geostationary weather-monitoring satellites. The NWS also operates a network of doppler radar installations across the country, as well as other weather observation stations (often in cooperation with other agencies and even private entities).
+
+Weather forecasters (NWS, TWC, AccuWeather, etc) base their forecasts on those data along with their own models and methods.
+Has anybody found an objective analysis of who's forecast is closer to correct more often? i.e. who gives the "best" 24 hour forecast?
+
+Any ideas on how to measure good forecasts, and bad forecasts.
+&gt; Weather forecasters (NWS, TWC, AccuWeather, etc) base their forecasts on those data along with their own models and methods.
+
+This isn't quite accurate. For starters, private organizations don't usually run their own numerical weather prediction models or post-processing; that's almost entirely done by the National Center for Environmental Prediction. Model output from NCEP and post-processed output is available freely and is the basis for forecasts.
+Duly noted. Thanks.
+&gt; Any ideas on how to measure good forecasts, and bad forecasts.
+
+Oh yes, that is a wonderful question which is the basis of the field of statistical meteorology. A fantastic textbook on this topic is [here](http://www.amazon.com/Statistical-Atmospheric-Sciences-International-Geophysics/dp/0127519661/ref=sr_1_1?ie=UTF8&amp;qid=1325696021&amp;sr=8-1), and the condensed version is that there are many statistical techniques you can use to derive the "skill" of a forecast; that is, how much 'better' or 'more accurate' a particular forecast is than some baseline, either a simple auto-regressive or steady-state model or some other statistical fit to data. This is of course a brutal over-simplification, because there are many, many different types of forecasts - spatial/gridded forecasts, interval forecasts, probabilistic forecasts, single-value forecasts, timeseries forecasts... it goes on and on!
+
+That said, since it's very easy to measure forecast skill, a natural question is the first one you posed. You'll find many articles in the peer-reviewed literature analyzing if TWC, Accuweather, or other third parties add any value to the NWS forecasts. [Here](http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=4&amp;ved=0CDcQFjAD&amp;url=http%3A%2F%2Fams.confex.com%2Fams%2Fpdfpapers%2F161669.pdf&amp;ei=yYQET9akF6b40gHSmsynAg&amp;usg=AFQjCNHNRSBzb8TFB4KIOiuzX9CZG8TEQA) is one such paper, which doesn't use any skill measure beyond those outlined in Wilks' aforementioned book.
+Sweet! This was exactly the kind of answer I was asking for. When I take breaks from my own graduate studies, I'll go through the references you gave me.
+
+What journal did the paper you suggest come from? Glancing through the paper, I couldn't find it.
+[Here](http://journals.ametsoc.org/doi/full/10.1175/2011MWR3525.1) is the article in fulltext in AMS' Monthly Weather Review. Sorry, I meant to post this link the first time, but copied a URL from the wrong tab.
+
+Summary:
+The awesome power of [yahoo answers](http://answers.yahoo.com/question/index?qid=20100424123009AAze6Nx) suggests all weather forecasts come from the same source.
+Weather forecasters (NWS, TWC, AccuWeather, etc) base their forecasts on those data along with their own models and methods.
+Forecasts don't come from the same source, but a lot of raw atmospheric data does.

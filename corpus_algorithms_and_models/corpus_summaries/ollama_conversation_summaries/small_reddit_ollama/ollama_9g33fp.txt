@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+I bought a 8th generation processor and anew motherboard i figured out that win 7 doesnt support 8th gen can i use the old proc and mother without a graphic card to not reassemble the pc again in order to get win 10?
+
+You should have a free upgrade to W10 sent to your Microsoft account. Also did you get new RAM? Just download the media download tool and enter your previous code to see if you're eligible for W10 when using your new parts.
+
+What are you trying to say? I'm telling you to put in your new parts, download the media creation tool on a USB, and redownload Windows and wipe your old Windows drive.

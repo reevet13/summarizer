@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the original text, up to 250 words:
+
+How does a machine capture the existance of something smaller than an atom, that barely exists in time, and not just detect it but tells you something of its nature?
+
+You do not directly capture this information. Instead, you look for some sort of a signature that it was there - specifically what it decays into.
+
+So you look at all events that have four muons... How does a device actually detect/ register something as ridiculously small as a muon? 
+
+Great question! Muons may be small, but they have a lot of energy and interact electromagnetically. As they travel through matter, they deposit energy through multiple electromagnetic interactions.
+
+You can detect this through something like a Geiger counter or a piece of silicon sensitive to this sort of energy deposit. If you want to know the specifics, reading up on a Geiger counter is a good place to start.
+
+Many modern muon detectors are similar to Geiger counters but use multiple wires to determine the exact position of the particle as it passes through.

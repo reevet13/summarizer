@@ -1,0 +1,88 @@
+Original Response: 
+Can you suggest any?
+For mastery farm/100% maps.
+Chronomancer is by far and away the most effective open-world class that exists.
+Not only do you have the highest burst damage of any class, but you are also very hard to kill (lots of evades, lots of clones to take agro, and distortion).
+[I've done a full World Completion in 13 hours](https://www.reddit.com/r/Guildwars2/comments/8zogqe/chronomancer_world_completion_in_13_hours/) on Chrono.
+Since mounts give all classes the same amount of mobility, the rest of open-world just comes down to how effective you are at killing mobs.
+Thiefs are very strong, there's no doubt about that, but their issue is that it's all single target damage.
+Chronos have access to a lot of AoE (Wells, Focus Pulls, Shatters).
+Daredevil has far better cleave and sustain than Chrono, so they definitely do better against groups.
+Chronos are great against champs as they can moa the bar on demand then burst the boss for ludicrous damage, but you have it backwards there.
+Daredevil in no way has a better cleave than Chrono.
+At this point, it's like comparing a 1-shot to a 1-shot, except for the fact that Daredevils don't have a way to group up enemies for the cleave.
+Of course both classes have access to the Raptor mount to group enemies, but that range is very small.
+Especially when compared to the Focus 4 pull that Chronos have.
+As for sustain, I don't know how accurately I can compare the two.
+I'm much more comfortable on a Chrono than I am a Daredevil, but solo-ing Champions (like in a HoT HP farm) is **extremely** easy on a Chrono based on the amount of active evades you have access to as well as your clones taking the agro.
+For Daredevils, I think your only source of sustain is the HP you get from "life-steal", which is pretty tough to rely on when the thing you're fighting deals more damage to you than you can gain back.
+You really don't need grouping up when your dodge or vault can one-shot mobs and you can put these out indefinitely if you chain them correctly.
+Besides, focus 4 is a fairly long cooldown.
+Even Guardian GS5 is better in most cases, the infinite targets come into play much more rarely than you would think.
+Sustain wise, let's put this way: a Daredevil with Invigorating Precision can in many cases just stand there and autoattack for more hp/s than most champs can put out.
+You can definitely kill HoT bristlebacks with just auto alone, because the last part of the chain reflects projectiles.
+What is your build?
+I have a Power Chrono but mine feels very weak - much weaker than when I'm a Mirage in relatively equivalent gear.
+Feels like it does less damage and is way squishier.
+I'll admit that I have no idea what I'm doing though.
+You *could* run over to 5 different mobs and vault onto them and 1-shot each of them, or you could pull together 5 mobs, summon a clone and shatter 1-shot them.
+I'm not sure if you're the kind of person to run Zealot's gear on you Daredevil, but you most certainly cannot stand still and auto-attack a champ to death before it kills you (HoT champs specifically).
+Bristlebacks are a very niche argument.
+I've not fought a single Bristleback since the end of 2015.
+I just took a little time to fight some Veteran Bristlebacks in Auric Basin.
+I tried using auto-attacks only with Daredevil, and could not out-heal or completely reflect the damage and died.
+Then I added in some vaults and what-not and killed the Bristleback, but I did take a pretty significant amount of damage.
+Then I tried it on Chronomancer.
+I fought 2 Veterans and 2 of the baby ones at once - or should I say, 4 of them fought my clones at once.
+I not only killed the Bristlebacks faster on my Chrono, but also made it out with more health - on top of that, I had enough cooldowns to run over to the next Veterans and kill them as well.
+Of course the test was weighted in favor of the Chrono since I'm more comfortable on it, but it doesn't take a professional to perform well on a Daredevil.
+[Gear](https://i.gyazo.com/3c5c8c7369415fe27160b372e7ea3837.png) - All Ascended Berserker's.
+Sword/Sword + Sword/Focus weapons.
+[Traits/Skills](https://i.gyazo.com/09437227ea9d5a9d5ce82ad329d4e8ce.png) - Illusions, Inspiration, Chronomancer.
+I use a build specifically designed for 1-shotting open world mobs.
+It's quite different to the '[Power Chrono DPS](https://snowcrows.com/raids/builds/mesmer/chronomancer/power/)' raid build.
+The basic idea of the build is: Kill the enemy before they even have a chance to damage you.
+I don't build anything defensive at all, aside from using the Inspiration trait line to cure conditions with Shatters (just so they don't keep me in combat after I've finished killing).
+Your F1 shatter skill is where most of your 1-shot kills will come from.
+You pretty much just need to summon a clone (Sword 3) on an enemy, walk over to the enemy and hit F1 when you're in melee range and they should die (or only require an extra auto-attack).
+The F1 shatter isn't necessarily your strongest skill, it's just got a very short cooldown so you can use it very very often.
+All of your other skills; like Wells, Phantasms and Sword Skill 2, all deal an incredible amount of damage.
+You can cast pretty much whatever you like on an enemy and kill it very fast - there is no rotation, you just use whatever you have available.
+You will almost never be waiting on cooldowns either.
+Does it kill quick enough with exotics/rares?
+I don't have Ascended.
+I need to try sword/sword, right now I'm using a greatsword as my main weapon on my Mesmer (when I'm Chrono.)
+Healing power does not affect invigorating precision in any meaningful way.
+You did have at least 90% crit with fury, right?
+And you *did* run IP?
+You didn't like run Valkyrie gear or something like that?
+Exotics, yes.
+Rare, don't know.
+Yes, I made sure I had IP on.
+I used a full Berserker DPS build, like the one you'd use for a raid.
+I didn't do any special pre-buffing before I started the fight other than an evade for the damage buff.
+I did the same thing on Chrono as well.
+I did nothing but run up to the Bristleback and start killing.
+The difference between Ascended gear vs Exotic gear is quite small (like 5-7% more damage with Ascended).
+You should get pretty much the same results if you're only using Exotic gear.
+I've never used a Greatsword on a Mesmer in all honesty, but all I know is that Sword main-hand and Sword/Focus off-hand are *very* strong.
+The Focus gives you the ability to pull 5 mobs in who are widely spread out, and the Sword(off-hand) gives you the hardest hitting Phantasm, as well as a block/counter (skill 4) which deals a very significant amount of damage.
+I've seen a lot of PvP videos where Mesmers 1-shot people with a Greatsword, but since I've never played around with it I don't really know how effective it is in open-world.
+But taking the Greatsword means you'll either be losing the Focus pulls or the extreme Sword off-hand damage.
+I tried it out for a few minutes today and it seems a lot better than the build I was trying to run.
+I hadn't really messed with Sword/Sword before, it's a lot stronger than I thought.
+The gear on my Chronomancer is still pretty bad but I think I'll play around with it some more.
+Thanks for sharing!
+
+Summary: 
+I did the same thing on Chrono as well.
+Then I tried it on Chronomancer.
+I did nothing but run up to the Bristleback and start killing.
+Daredevil in no way has a better cleave than Chrono.
+Yes, I made sure I had IP on.
+Your F1 shatter skill is where most of your 1-shot kills will come from.
+Especially when compared to the Focus 4 pull that Chronos have.
+Chronos have access to a lot of AoE (Wells, Focus Pulls, Shatters).
+I'll admit that I have no idea what I'm doing though.
+Feels like it does less damage and is way squishier.
+You should get pretty much the same results if you're only using Exotic gear.

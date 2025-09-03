@@ -1,0 +1,53 @@
+Original Response:
+Yes it is, to quite a large degree. Geneticists know this in part through studies of twins: identical twins, who share 100% of their genetic variants, have more similar intelligence than fraternal twins who only share 50% of their genetic variants. Estimates of the heritablity of adult intelligence are in the range of 70 – 80%. This means that 70 – 80% of the variation in intelligence within a population is due to genetic differences. (See: https://en.wikipedia.org/wiki/Heritability_of_IQ#Estimates )
+
+Researchers know intelligence is largely based on genetic factors, and are currently trying to identify which genes are most important. One of the most recent papers can be found here: https://www.nature.com/articles/s41588-018-0152-6
+
+The abstract, for those interested:
+&gt;Intelligence is highly heritable and a major determinant of human health and well-being. Recent genome-wide meta-analyses have identified 24 genomic loci linked to variation in intelligence, but much about its genetic underpinnings remains to be discovered. Here, we present a large-scale genetic association study of intelligence (n = 269,867), identifying 205 associated genomic loci (190 new) and 1,016 genes (939 new) via positional mapping, expression quantitative trait locus (eQTL) mapping, chromatin interaction mapping, and gene-based association analysis. We find enrichment of genetic effects in conserved and coding regions and associations with 146 nonsynonymous exonic variants. Associated genes are strongly expressed in the brain, specifically in striatal medium spiny neurons and hippocampal pyramidal neurons. Gene set analyses implicate pathways related to nervous system development and synaptic structure. We confirm previous strong genetic correlations with multiple health-related outcomes, and Mendelian randomization analysis results suggest protective effects of intelligence for Alzheimer’s disease and ADHD and bidirectional causation with pleiotropic effects for schizophrenia. These results are a major step forward in understanding the neurobiology of cognitive function as well as genetically related neurological and psychiatric disorders.
+[removed]
+[removed]
+They mention that intelligence is protective against Alzheimer's and ADHD. But isn't it possible that higher intelligence just sets the threshold of detection of these diseases higher?
+
+I mean, maybe it's not that intelligence people suffer less frequently from these diseases, but that the tests that detect them are influenced by the initial IQ of the person.
+Damn.  So if somebody is more intelligent (have the genes) than somebody taking the same uni course lets say, would the more intelligent person just "get" things faster with less studying?  Is there a way to make yourself more intelligent?
+In the most technical sense, no, the evidence does not seem to indicate that it is possible to make yourself more intelligent. However, your "general intelligence" is not the only thing that determines how well you can learn things. Having lots of background knowledge and diligently studying is important too. 
+
+Often, when a person rapidly learns a new subject, it's not just because they're intelligent, it's because they have lots of little tiny bits of knowledge that help them make sense of new knowledge. For example, if two English speakers are learning French, but one of them already knows Spanish or Italian, they're definitely going to learn French faster than the other person. The same thing applies to math, chemistry, you name it. The more you learn, the easier it is to learn more by relating it to things you already know. 
+
+I've encountered people who claimed to be "dumb" because they had trouble grasping some complex concepts, when in fact they were just missing the basic knowledge that was needed to understand.
+That makes sense, it's like a foundation to build on.  
+
+ how exactly would you be able to identify someone as more intelligent by their genetics?  I'm a bit confused.  If two people (one with the genes, one without) were put in a course in which they both had no background knowledge and they were given the same amount of time and materials to study, how would their performance differ?  I'm not sure how intelligence is actually being measured here.
+[deleted]
+Measuring intelligence by how well a person does on any one specific task doesn't work very well, since lots of factors besides intelligence will affect their performance. We measure intelligence by testing people on a LOT of different types of problems (verbal comprehension / reasoning, logic, mathematical reasoning, spatial reasoning, etc.), so that we get an overall estimate of their learning / reasoning ability that is less affected by how experienced they are (or any specific deficits they have) in any one specific area.
+
+This is related to how we know there actually is such a thing as general intelligence: If you take a million people, give them all a test with many different kinds of problems on it, and look at the results, you'll notice something: on average, people who get one kind of question right tend to get other kinds of questions right too. People who are good at spatial reasoning are, ON AVERAGE, better at verbal reasoning (and so on) too. The only way to explain that is that there must be some kind of general ability that people have, that is used for all different kinds of mental tasks to some degree. We call that general ability *g*, or "general intelligence." We can even mathematically estimate how much of someone's performance on a task is explained by *g*, and generally it's about 50%. So when it comes to solving difficult problems, your performance is about half due to your intelligence, and about half due to how diligently you work at it, how hard you study, how much relevant knowledge you've collected.
+
+Note that testing someone's intelligence doesn't directly tell us if they have "smart genes." From other studies, we know intelligence is about 70-ish percent genetic, so if someone is especially smart (or dumb), all we can say is "it's probably about 70% due to your genes, and probably about 30% due to your upbringing / nutrition / education / etc."
+
+Just knowing that our intelligence is heavily influenced by genes doesn't tell us which genes. There have been studies that compare the genomes of smart and less smart people, but that kind of thing is WAY harder than it sounds. Sometimes a trait is basically determined by one or two genes, like eye color, and it's super easy to figure out which genes. Intelligence is NOT like that. It's more like trying to figure out exactly what causes some states to have higher rates of smoking than others. So many things influence it, and some things might only affect that under certain circumstances... And that's basically what bioinformatics is about.
+Since there is no physical test for ADHD maybe but for Alzheimer's there are biological markers which can be objectively measured. This can't be influenced by IQ, it's not a questionnaire...
+[removed]
+[removed]
+[removed]
+Alzheimer's cognitive decline is partly influenced by IQ. However, the disease is apparent way earlier in brain MRI.
+Just a warning.  What you write, although well sourced, isn't universally accepted.
+
+This book review gives a decent outline of the controversy in this field:
+https://www.nytimes.com/2009/03/29/books/review/Holt-t.html
+
+Also, an example of how these numbers get misinterpreted:  
+
+You might think that we could design a DNA test for babies and predict that one person will have an IQ of 120 and another 90.  However, it's probably more like the DNA test will be inaccurate for everyone in the normal range, but can predict someone with Down's syndrome, who will score 40 on an IQ test, quite well.  The outliers contribute a lot to the variance.
+[removed]
+If intelligence is hereditary, and mental illnesses are often contributed to by the conditions of the mother during pregnancy. Diet, exercise, substance abuse... and higher intelligence means you are more likely to be actively aware of these things and avoid them(or do them correctly) for at least the 9 months. That could explain some of it.
+If higher IQ predisposes you to exercise your brain(which is shown to be protective against AZ), then higher IQ is protective against AZ, in a way.
+
+Summary:
+Intelligence is NOT like that.
+Is there a way to make yourself more intelligent?
+how exactly would you be able to identify someone as more intelligent by their genetics?
+However, your "general intelligence" is not the only thing that determines how well you can learn things.
+Note that testing someone's intelligence doesn't directly tell us if they have "smart genes."
+I'm not sure how intelligence is actually being measured here.

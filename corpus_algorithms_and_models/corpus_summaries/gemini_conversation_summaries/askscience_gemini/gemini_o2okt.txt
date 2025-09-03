@@ -1,0 +1,4 @@
+Waves that we see are combination of the swell size (the total energy and potential), the swell direction (what way the energy is going), and what happens to this energy when it is displaced by bathymetric (surface of the ocean floor) conditions.
+The direction of the wave can also be affected by the bathymetry, causing it to curve a bit.
+It is tough to know for sure, but it looks like there are a couple of different swell directions causing the "crossed-up" conditions on the southern edge close to shore.
+The effect of tide is really in how much depth there is near shore for all of that energy and mass in the swell to move unobstructed.

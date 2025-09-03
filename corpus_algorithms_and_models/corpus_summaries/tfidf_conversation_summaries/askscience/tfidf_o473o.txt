@@ -1,0 +1,12 @@
+Original Response:
+If there was a bunch of nanobots or a virus that could replace every y-chromosome of a male individual with that of some predetermined x-chromosome(perhaps by first breaking down the y-chromosome into its nucleotides than using those raw materials and others found within the cell to copy and implant its x-chromosome into the cell) what would happen to the individual?
+In all likelihood, bad things.
+
+In women, one x chromosome is "inactivated"--the DNA is in a tight state called heterochromatin, and most genes are not transcribed from it (though there is a region where the genes are transcribed).  This inactive chromosome is called a Barr Body.  If you just magically replaced a male y with an x, it probably would not be properly inactivated.
+
+I don't think it's known what would happen if one x is not inactive, because I can't turn up any examples of a viable embryo resulting from such an event.  The results would probably be less catastrophic in adulthood than during development, but there's not a lot of information to go on here.  It's noteworthy, however, that a lack of x inactivation in cells has been linked to several types of cancer--so suffice it to say that while it's not clear what would happen exactly, it would be very not good if it happened in all your cells at once.
+
+Assuming that you *did* manage to properly inactivate the x, though, it's still difficult to say what would really happen.  There is such a thing as XX male syndrome, in which the important sex determination gene SRY gets crossed onto a female chromosome.  This results in males with decreased secondary sexual characteristics, small testes, "feminine" features, and sterility.  However, the big difference here is that if the male is already an adult, his tissues have already been specified.  I again cannot say anything for certain, but I would expect that you might see some degree of "feminization" of features such as what you might expect after hormone therapy, and there would probably be serious reproductive issues, but I don't know that it would go much farther than that.
+
+Summary:
+If you just magically replaced a male y with an x, it probably would not be properly inactivated.

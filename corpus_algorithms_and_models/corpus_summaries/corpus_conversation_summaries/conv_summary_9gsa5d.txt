@@ -1,0 +1,86 @@
+Original Response: 
+As always, remember to uninstall ArcDPS pre-patch to avoid crashes.
+After a fixed version is released a couple of hours/days after, you may use it again.
+That being said: happy patch day!
+PSA: just run the game normally and without giving up build templates for nothing.
+if it crashes, try deactivating arc to see if it helps.
+deleting arc preemptively makes little sense nowadays, usually it works just fine after patches, and build templates are to valuable a tool to give up over some fearmongering about what could might or may happen.
+after finishing story and the first raid boss: I kept arc, it was invaluable during raiding (as I swapped my mesmer around a lot) and didn't cause any crashes and I think DPS reporting was fine as well, the distribution was as expected - besides condi chrono being able to outdps some DPS on twins, confusion hits like a truck there, but that was only unexpected, looked correct in terms of arcs reporting.
+This, basically.
+Not to mention it's been a while since arc made my game crash.
+yeah, nowadays it usually just stops reporting, reports slightly off values or shows itself as disabled.
+delta seems to have put in a lot of error handling to avoid any kind of crashes, so deleting arc is really unnecessary unless there were such big changes that something actually breaks.
+but hey, I've had the same discussion on a stream, some people will tell you for years to come that arc will crash the game after every update - they rather repeat outdated information than actually testing it, because hey they were right once a long time ago, so now they're expert forevermore :)
+There is a story about an experiment where a bunch of monkeys were put in a room with a ladder and bananas on top of the ladder.
+Every time a monkey would try to climb the ladder all of them would get a slight electric shock, so they quickly stopped trying.
+One by one the researchers removed monkeys and replaced them with new ones, which would attempt to climb the ladder and would get beaten up by the others to prevent the shock.
+At some point none of the original monkeys were left, yet the new ones wouldn't climb the ladder and would beat up anyone who tried to.
+Obviously none of them knew why, they just did.
+It's not really a good comparison (and the story itself is likely fake) but somehow what you described reminds me of that experiment.
+yeah, I've seen the same kind of thing happen so many times in gw2.
+some misconceptions arose and people vehemently and aggressively spread them, despite there being evidence to the contrary.
+some examples are:
+
+* silver wastes, no cc at blue or he ports.
+but porting was always health percentage based.
+for red there was something too, I think either cc, or no melee or whatever, it was just as much bs.
+* 4 warriors 1 mesmer is the highest DPS comp for CoFp1.
+people didn't know about ele and its bugs on fgs, and kept saying eles did less damage than warriors for a while.
+* any dungeon, people believed rangers were useless, when they had some of the highest damage with sword (arguably, very few players were able to actually pull it off and many bearbowed, so the class discrimination wasn't that surprising)
+* something newer would be dragons stand, people still think getting bombs is worth it, when they barely do as much damage as any autoattacking player can deal within under 10 seconds, yet they spend 30-60 seconds running for bombs and commanders encourage this.
+I've heard counter arguments (each bomb doing 5% damage, which clearly is wrong or 20 players would instakill it) but never saw any proof against my own observations of bombs only doing like 200k on a meta power DPS class 
+
+
+I'm sure there are many more examples, just a few off the top of my head.
+the thing is, those that doubt current methods are usually the people willing to accept they could be wrong, while those spouting the same nonsense forever are so sure of themselves they never question it.
+now op here isn't anywhere near that level, arc has only recently become much more stable after patches, so it's understandable that people miss things, but I'm sure the general statement will stay for a long time.
+I still need that bomb achievement.
+Every time it either spawns too far away.
+Or I fail to use it properly.
+either stay out of combat, when the bomb phase comes up, use the nearest waypoint and go over there, or stick to the middle islands, so you can get everywhere decently fast.
+I don't remember the achievement, but I assume you have to hit him while the break bar is up (otherwise you'd probably gotten it already) so target the head, stay in the air and as soon as it comes up again throw directly onto his face.
+if you have POF, the Griffon is way better to traverse the islands, you can jump over the lines from the wyverns to not get hit, can glide to other islands even without leylines and if you take a large updraft first and hop on the griffon at its highest point, you can dive and get everywhere in seconds.
+don't know if you keep the bomb when mounting, but most other pickups work so it's at least worth a try.
+Yep.
+Or just turn it off until you replace it with a newer version.
+No need to delete or whatever.
+Molten Boss fractal comes to mind, people always kill the berserker first, only found out recently that there's actually an achievement for killing firestorm first too.
+I bet there's a lot of weird things we do in fractals that we picked up from other people helping us through them.
+I prefer firestorm first, because he goes invulnerable so long if you kill berserker first, plus if he jumps out of the arena melee characters can only stand around and wait.
+but for some reason pugs always go for berserker first, no idea why, but even if you say firestorm first they mostly ignore it.
+so yeah, definitely another example of misinformation that's really hard to combat.
+&gt;game is untouched for 9+ months
+
+&gt;gee i wonder why arc ain't crashing.
+I think it's a remnant of Fractal 40 Farm, where if you had enough dps you didn't have to worry about firestorm wandering out of the area because it died too quickly.
+&gt; 4 warriors 1 mesmer is the highest DPS comp for CoFp1.
+people didn't know about ele and its bugs on fgs, and kept saying eles did less damage than warriors for a while.
+**Updated this trait to also allow blast finishers to give fury (10 seconds) as well as might.
+**
+
+**Lava Tomb: This trait's internal cooldown has been reduced to 10 seconds.
+Damage from Lava Font is increased by 33%**
+
+HMMMMMMMMMMMMMMMMMMMMM.
+there have been two balance patches in two months, so come again?
+The repeatable karma though.
+I have no idea what you're even trying to get at.
+fgs trail stacking outdpsd every other class by a mile and was in for quite a while until it got fixed.
+some people during that time still thought warriors were stronger, even if a single ele could one shot some bosses, 4 eles combined instakilled pretty much everything that didn't phase.
+What I'm trying to get at is that your time reference and memory is completely out of whack.
+Ele was good long before fgs memes but weren't taken as often over the superior Thief.
+Fiery memes started with the blink sploiting around the time the patch that made them not onetrickpony garbage came out and literally no one with half a braincell ever uttered the phrase 4war1mes ever again outside of very funny jokes.
+(because it had already been dead for 4+ months)
+
+edit: my references are slightly off as well with the death of guru and general yt shenanigans but the main point is that 4war1mes literally never was in the same category as "no cc on plat" or other garbage that pugs say.
+
+Summary: 
+I still need that bomb achievement.
+I have no idea what you're even trying to get at.
+if it crashes, try deactivating arc to see if it helps.
+Or I fail to use it properly.
+* 4 warriors 1 mesmer is the highest DPS comp for CoFp1.
+people didn't know about ele and its bugs on fgs, and kept saying eles did less damage than warriors for a while.
+Not to mention it's been a while since arc made my game crash.
+Every time it either spawns too far away.
+&gt; 4 warriors 1 mesmer is the highest DPS comp for CoFp1.

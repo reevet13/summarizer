@@ -1,0 +1,17 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+Seems like simple things like obvious settings choices and other such stuff that was once common in software, no matter for what device, was better implemented and less buggy just a decade ago. Everything has bugs of course, but it seems as if more bugs are occurring and less settings options.
+
+nobody takes pride in having a light easy user interface anymore – it hogs up more and more of the screen and is more and more difficult to push out of the way.
+
+problems that were solved 30 years ago keep coming back because morons think they're smarter than everybody else and they're too lazy and incurious to think about what they're doing.
+
+My phone now is the most powerful I've ever owned, yet all the apps (that I've used for years and years) run not much better than a phone I had nearly a decade ago...
+
+A lot of it's on purpose. Like those videos that follow you down the page -- they know exactly how obnoxious it is, but video ads bring in more revenue, so they'll go to any length to force you to watch.
+
+Open source isn't much better. I only know how to spin up a LAMP stack fairly painlessly because I've done it 1000 times. But if you're not familiar with a stack, you're just plain fucked.
+
+Why the fuck are all of our tools so needlessly complicated and hard to set up?
+
+You nailed it man.

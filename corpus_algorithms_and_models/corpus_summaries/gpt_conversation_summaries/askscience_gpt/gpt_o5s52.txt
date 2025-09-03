@@ -1,0 +1,9 @@
+Students fill a graduated cylinder with water. They then insert another tube, open at both ends, into the water. By raising and lowering the open tube they can change the length of the pipe (which is a closed pipe due to the water at the bottom). Using a tuning fork, they can create a wave inside the pipe and adjust the height until they hear a maximum at the first harmonic. 
+
+Knowing that the first harmonic is Length of pipe = 1/4 wavelength for a closed pipe, they can find the total wavelength. Combined with the frequency of the tuning fork, they can find velocity. 
+
+According to the lab L=1/4lambda is not exactly correct, you have add a correction, L = 1/4*lambda + 2/5*diameter of the pipe. 
+
+I have run this experiment before, and correcting for the diameter DOES provide better results, the problem is I don't know WHERE the correction comes from. 
+
+The actual length of this column, though, is not just the effective length of the tube. The sound travels that little extra bit of distance from the tuning fork to the top of the tube.

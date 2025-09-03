@@ -1,0 +1,13 @@
+Here is the extracted summary:
+
+Unwrap the strands that make up the ends of the rope, for a couple of meters on each end.  Cut off half of the strands from each end.  Wrap the remaining strands together to form one same-thickness rope again.  Weld the ends.  The strength is mainly in the friction of the strands being wrapped around one another.
+
+If you notice a painted spot on the ski lift cable, that's the join.
+
+Think of something similar to [this](http://constructionmanuals.tpub.com/14251/img/14251_130_1.jpg), but with wire and many many more strands.
+
+There is some subtlety to cable design principles that are particularly important to the application of lifting skiers up a hill. For one, lift cable strands are twisted.
+
+The twisting increases the friction between strands. This is extremely important as each strand has enough friction to it's neighboring strands that they can support each other in case a strand breaks or is otherwise compromise.
+
+I'm living close to a ski resort and often take the lifts and cablecars up there. One technician told to me that they twist the individual strands into each other over a length of about 50m.

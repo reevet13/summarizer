@@ -1,0 +1,17 @@
+Some computer science courses seem to incorrectly imply that entropy represents the theoretical limit of compression, but that's simply wrong.
+
+Now of course, Kolmogorov complexity isn't computable, but that doesn't mean we can't approach it, and achieve better compression algorithmically than entropically. It seems to me a lot of real world "algorithmic" compression algorithms do in fact approach Kolmogorov complexity much more so than Shannon entropy.
+
+Also the efficiency of an entropic coding seems to vary vastly with the choice of alphabet, since it's assuming each element from the data stream is independent from the others.
+
+So that's why we don't try to get better than entropy compression. Well-designed file formats won't *have* extra structure to work with, since any such structure would be abstracted out to an interpreting program.
+
+If you know something about the data you're compressing, you can often find some trick that lets you write a better compression algorithm, sure.
+
+Kolmogorov complexity is defined for numbers, sequences etc.; Shannon entropy is defined for random variables.
+
+Entropy does not change if you apply an injective function to the variable, it cares only about *distribution* not about values. Kolmogorov complexity is defined for constants and it cares only about *values* not about distribution.
+
+If you break X into correlated values X_1 and X_2, surely it is possible that H(X_1) + H(X_2) > EK(X) but this is unfair comparison. What always holds is H(X_1) + H(X_2) <= EK(X_1) + EK(X_2).
+
+Data is structured, and so we have developed algorithms which can identify and compress that structure.

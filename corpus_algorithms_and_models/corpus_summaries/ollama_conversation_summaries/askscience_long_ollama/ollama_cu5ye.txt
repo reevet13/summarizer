@@ -1,0 +1,25 @@
+Here is a summary of about 10% of the original text, consisting of selected sentences verbatim:
+
+A 1-second-lived black hole has a mass of 2.28 × 10^5 kg, equivalent to an energy of 2.05 × 10^22 J that could be released by 5 × 10^6 megatons of TNT. The initial power is 6.84 × 10^21 W.
+
+A 100 ton blackhole doesn't sound out of the possibility, and once created, would only have to be fed at a rate of 100 tons/second to keep it stable while it radiates away it's "old" mass.
+
+We can transport a mass (doesn't matter what, rocks, soil, heck air works too) to a certain point over a period of 2 hours right? The return in energy would be enormous.
+
+Only problem I don't have an answer for is how to create an initial B/H massive enough that we can make it stable. Oh, and it would need to be built in outer space, a big enough asteroid would probably work nicely,
+
+Pros:
+- Ultra safe, any disruption in "food" supply and it would simply evaporate away.
+- Perfect energy output in regards to input mass
+- Zero emission, "endless" fuel supply
+
+A few things to keep in mind:
+
+A black hole that weighed 10000 tons would be 0.01% the size of a proton.
+
+Things take a long time to fall into black holes, due to time dilation. This is doubly true of a micro-black hole, because gravity is so week.
+
+The temperature of a black hole that size would be 10000 times as hot as the hottest quark gluon plasma created in a lab and about a billion times as hot as the centre of the sun.
+
+I quote Wiki:
+"Close to the event horizon of a black hole, a local observer must accelerate to keep from falling in. An accelerating observer sees a thermal bath of particles that pop out of the local acceleration horizon, turn around, and free-fall back in. The condition of local thermal equilibrium implies that the consistent extension of this local thermal bath has a finite temperature at infinity, which implies that some of these particles emitted by the horizon are not reabsorbed and become outgoing Hawking radiation.[14]"

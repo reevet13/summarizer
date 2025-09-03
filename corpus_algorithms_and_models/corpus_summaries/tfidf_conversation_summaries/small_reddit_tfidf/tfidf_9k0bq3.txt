@@ -1,0 +1,22 @@
+Original Response:
+Any reason why I'd get that error? I popped a .9 ohm build in my Drop Dead RDA and it just gives me Atomizer Low error.
+Are the leads tightened down enough? Is there a short possibly? Either of those could cause the issue. 
+
+Have you tried using another atomizer in the mod?
+I've used my Goon 1.5 in this mod and had no issues. The screws were as tight as I could get them. I don't think there would be a short as it's a "drop in" postless deck.
+Are the coils possibly touching the top cap?
+They were not.
+Interesting. Have you used the drop in that mod before? And do you have another mod or ohm reader that you can check your atty on?
+I am now using the drop dead with just a single coil at 0.29 ohms. However 2 coils makes it "low". I do not have another mod or ohm reader sadly.
+Okay, so your build should come out to .14ish with dual coils. How low can the wismec fire down to? It could be that it is just too low of a build.
+When I put the dual coil build on my mod, it comes out at .09. I'm not sure how low it can go down to.
+Okay. I would take the other coil out and put in the one you originally took out and see the resistance of that. It’s starting to sound like your build is the likely culprit here.
+So I put the coil back in and this time it read at .14 ohm which it'll fire. There was probably a short and I didn't realize it at first. Thanks for your help man!
+No problem!! Glad we figured things out :)
+That's some fine sleuthing, AA
+Thank you :) I’m just happy to be of help!
+
+Summary:
+Have you used the drop in that mod before?
+I do not have another mod or ohm reader sadly.
+I am now using the drop dead with just a single coil at 0.29 ohms.

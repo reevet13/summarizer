@@ -1,0 +1,32 @@
+What do you find is the most interesting aspect about studying selection? What are your favorite genomes to work on? Are you more of a math jockey or genome hacker?
+What is the current "gold standard" for identifying these genomic regions? What are your praises/ criticisms, and how are you looking to improve these methods?
+
+Thanks for the AMA!
+Do you have an opinion on the ethics and/or the validity of the use of population genetics by insurance companys to essentially profile their clients? Don't know if this would be  in the scope of your studies but thought I'd ask... Thanks for the AMA!
+Well the thing that really drew me to study selection was the realization of just how simple of a concept it is, and yet how many ways it can get done. Selection is simply the preferential copying of genetic elements that are better at making copies of themselves. I mean, it's almost sort of tautological.
+
+But the ways in which it occurs, and the stuff it results in is just mind-blowing. We have segregation distorters, complex polygenic traits and interconnected genetic networks, the lactase example and other strong mendelian traits like it, genes associated with fertility, etc etc etc.
+
+I guess I tend to think of a gene's function as its method of finding a way to make as many copies of itself as possible (by ensuring survival and reproduction of it's host), and it just blows me away how many different routes can be taken to this end goal.
+
+I don't really have a favorite genome (at least not yet). Most of my work will be in humans, because that's where the best data is, but the study system is not particularly important to me. I'm interested in the process.
+
+I'm going to take math jockey to mean theory, and genome hacker to mean data analysis, and in that case I think I'll be starting out with more of the latter, but I'm definitely interested in exploring theory work at some point in my career. Yourself?
+I'm actually reading [a book](http://www.amazon.com/Here-Human-Being-Personal-Genomics/dp/B0058M5HY4/ref=sr_1_1?ie=UTF8&amp;qid=1325718119&amp;sr=8-1) that deals in part with this issue (and other public policy sort of things) right now.
+
+It's a tricky issue, and I don't know that I'm any more qualified to comment on ethics than anyone else.
+
+My primary concern with this sort of thing is that people actually understand the data they're using. "Carrying a genetic variant that is associated with a small increase in risk of developing disease X" is a lot different than "carrying the disease X gene", which is how a lot of people think things work.
+
+I would be concerned I guess about insurance companies using this lack of public understanding of the genome to rip people off, but I suppose that concern is not unique to genomics within the insurance business.
+
+It may also be a bit premature. We don't really understand the genome that well yet, so I'd be worried about the limited amount of knowledge we've accumulated thus far simply being misused.
+Tell me why you hate all of the AskScience questions that start with "Whats the evolutionary purpose of..." and how they are based on a false premise.
+I came into the field through my interest of mining genomes for interesting regions. I was inspired by some the work done at UCSC and UCSF in the human genome, mining it for conservation and adaptation. It was pretty clear to me that by understanding selection, and being able to detect its signature, we can make it do the brunt of the work in finding important regions of the genome. Or in other words, annotation of functional regions and patterns of natural selection overlap very well, so it makes sense to use natural selection to predict functional regions. 
+
+So I guess that makes me more of a genome hacker than a math whiz. While I endeavor to understand how the theory works to better inform its usage, I know my talent isn't in developing models. 
+
+I asked the question because I often find there is a split in the community between the theoretical and the applied. Even in the lab I work in, some of us deal solely with developing theory and others such as myself are building tools and datasets to integrate data and detect signals in emerging genomes. 
+
+As for models, I work on everything, but my speciality is working on plant genomes. I find it much more interesting because it is the wild west of genomics and doesn't have the spotlight that the human genome has. I have to admit this question was also motivated by trying to figure out what lab you are working in. I am guessing somewhere at Davis?
+There are a few different ways it's

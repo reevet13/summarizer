@@ -1,0 +1,74 @@
+Original Response:
+If you were free falling in a vaccum on earth, would you continue to accelerate infinitely at 9.8 m/s/s?
+Well you would eventually hit the earth, but barring that you would continue to accelerate, approaching but never reaching the speed of light.
+
+Terminal velocity is just when the force of friction from your drag equals the force of gravity, so you have no acceleration.
+Thank you, just a thought that popped into my head.
+If you dug a tunnel through the centre of the earth to the other side, it would take 42 minutes to fall through. The acceleration would decrease until it reached zero at the centre.
+I believe that works better with if you could phase through the ground because if you drilled a hole it would change the physics in some ways.
+
+Also, doesn't that assume the earth is a perfect sphere and not an oblate spheroid?
+[deleted]
+Bit of a factoid-answer, if you ask me.
+The Newtonian gravitation field equation is equivalent too 4πGρ= ∇²g which can then calculated easiest essentially with the [divergence theorem](http://en.wikipedia.org/wiki/Divergence_theorem). Lets say the Earth is of constant density, then the mass below r: M(r)= ρ 4πr³/3, so that integral becomes 4πGM(r) = g 4πr², so g(r)= GM(r)/r² = G ρ 4πr/3. If the earth surface is at radius R, for r&gt;R: M(r)= M(R) = M, and the field is the same as a point particle outside; g=GM/r².
+
+Now we have a field, get the potential, which is the integral of the field, below the earth surface: V(r)/m= G ρ 2πr²/3, then compare above with below to get the energy: v²/2 = E/m= V(R) - V(0) = G ρ 2πR²/3, so v=2 R sqrt(πG ρ/3) All that remains is to plug in the values.
+
+But i guess you wouldn't have much use for that if you don't know the math..
+Also that its density is uniform.
+According to my calculations, 8 km/second.
+That's a paddlin'.
+Also that heat doesn't matter.
+Just pointing out, sometimes there is a use for it. But more 'interactive' answers, or answers that dig a little into/around the question is can be more revealing for the questioner. (And are more difficult to do properly :) )
+Sorry. Most of my answers are more detailed but I got home at like 1 AM and was about to go to bed and the main question was already answered so I just added another interesting tidbit.
+You'd only get up to about 8 km/s. 19 km/s if you started at infinity instead of the surface.
+&gt;Well you would eventually hit the earth   
+
+Unless your in orbit.
+Then your speed is constant, this wasn't the OP's intention.
+Yes but your acceleration is continuous at -GM/r^2.  
+  
+Edit: You have in a sense reached a terminal velocity, in a vacuum... Do I win at science?
+In short, the answer is yes because terminal velocity arises from air resistance on earth.
+
+On the other hand if you kept going, I suppose the universe has a kind of terminal velocity which is the speed of light. (it's not a terminal velocity though because you'll never reach that velocity, but carry on getting closer and closer to it)
+Well then my new question is, could you ever reach your actual terminal velocity? Like if it were something easier to calculate like a perfect sphere, would it only approach the terminal velocity or actually reach it?
+If you're talking about actual terminal velocity in a non-vaccum then by definition terminal velocity is the maximum speed attained. I'm sure there are formulae our there to work theoretical values out
+[deleted]
+Yeah well I meant if you were to calculate how much drag it had in free fall(like I said, with a sphere it would not be too hard) you could calculate it's terminal velocity. I believe that the mythbusters calculated the terminal velocity of a penny, so it must be possible.
+
+If you calculated it's terminal velocity would it only approach it or would it reach it?
+Mathematica cannot replace not knowing the math. It is too opaque, and can't solve everything a person could. Or are you referring to plugging in the numbers?
+[deleted]
+It would reach it
+Okay thank you
+In a circular orbit, your speed (a scalar) is constant. Your velocity (a vector) is continually changing due to the acceleration towards the planet, so it isn't really terminal velocity. 
+
+Maybe terminal (vertical component of velocity)!
+Not technically. Terminal velocity is when the drag force balances the force of gravity. The actual acceleration of the falling object is directly proportional to the difference between those forces. The closer to terminal velocity an object gets, the smaller that difference becomes, and the lower the acceleration, so the object never technically gets there, just infinitely close.
+
+Practically, however, dave1022 is right, it does get there. Sorry for being a pedant!
+Haha I knew it, just like the speed of light you can get damn close(like the LHC) but you'll never hit it.
+Where do those numbers come from? The earth's escape velocity is about  11 km/s IIRC.
+Falling through the earth is equivalent to simple harmonic motion with a period of 84 minutes and an amplitude of 6380 km. That gives you 8 km/s at the centre.
+Yes, except the infinite part.
+
+You'll eventually either run out of earth, or start butting up against the speed of light.
+
+But your implicit assumption that terminal velocity is a product of air resistance is the correct one.
+In the spirit of pedantry...:)
+
+In an actual free fall situation, you will have small variation in terminal velocity due to changes in object orientation and local air density.
+
+So in reality, the instantaneous terminal velocity will chaotically oscillate around the average value.
+Here's another fun fact - if you dig any straight tunnel through the earth, no matter whether it passes through the center or not, it will always take 42 minutes to fall through to the other side. (assuming a frictionless vacuum, of course)
+
+http://www.time.com/time/magazine/article/0,9171,842469,00.html
+
+Summary:
+If you calculated it's terminal velocity would it only approach it or would it reach it?
+Well then my new question is, could you ever reach your actual terminal velocity?
+In short, the answer is yes because terminal velocity arises from air resistance on earth.
+The acceleration would decrease until it reached zero at the centre.
+If you were free falling in a vaccum on earth, would you continue to accelerate infinitely at 9.8 m/s/s?
+If you dug a tunnel through the centre of the earth to the other side, it would take 42 minutes to fall through.

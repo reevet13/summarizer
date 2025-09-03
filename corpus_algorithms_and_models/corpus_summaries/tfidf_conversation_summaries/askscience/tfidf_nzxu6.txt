@@ -1,0 +1,582 @@
+Original Response:
+Maybe I'm naive, but can't life forms evolve to be dependent on whatever resources they have? I always seem to read news articles that state something to the effect that "water isn't on this planet, so life cannot exist there." Earth has water, lots of it, so living things need it here. But let's say Planet X has, just for the sake of conversation, a lot of liquid mercury. Maybe there are creatures there that are dependent on it. Why doesn't anyone seem to explore this theory further?
+Well i do remember hearing that [NASA found an arsenic-based life-form](http://www.wired.com/wiredscience/2010/12/nasa-finds-arsenic-life-form/), so I guess there is some kind of proof other types of organisms can exist. The only reason we assume carbon-based so much is because they are so overwhelmingly predominant on Earth, and we know much more about how they work (what is required for life), which should make them easier to find on other planets (or to rule them out).
+The reason water is so useful is because it is a great solvent. Therefore it is extremely useful in regulating chemistry in the cell.
+
+There are few chemicals out there that rival the solvent properties of water and even less that are naturally formed and as abundant.
+
+Also if life exists it's most likely carbon. Seriously. It's probably carbon. Carbon is fairly abundant and it is bar-none the most chemically fertile element around. You can do more chemistry with carbon than anything else. The metabolism of much carbon chemistry leads to water. This makes one of the most prolific waste products of carbon life into an asset.
+
+**Edit:** Make sure to read the the other replies in this thread, others go over things I didn't address and bring up other good points.
+They weren't arsenic based.
+We've thought about it. There are alternative concepts, but our form of biochemistry seems the most efficient and common.
+
+Also, we'd have no idea what to look for otherwise, so there's no point in speculating until we prove it's possible.
+Ah, I probably confused it with [this](http://xkcd.com/829/)
+Water is pretty special as chemicals - and fluids - go, and is fundamental to many of the chemical processes we observe as essential to life. 
+
+Aside from that, while it's possible that other forms of life may exist which do not require water, it is much more sensible to concentrate our efforts searching for those conditions which we know *can* support life, rather than blindly looking at anything on the basis that we don't know what other conditions may be possible.
+
+Imagine you were looking for new species of fish. Would you spend time looking in the atmosphere and on land, or instead concentrate your efforts in the much smaller volume of rivers lakes and oceans?
+No, I meant that their data was erroneous. They had large amounts of arsenic tolerance, but they did not incorporate it into anything significant. They weren't arsenic-based at all.
+The link you posted is a bit controversial. The life they found (**if true**) is still just like any life we know, it just has the unique ability to substitute arsenic instead of phosphorus in the DNA backbone and other structures. 
+
+This microbe still grows better using phosphorus. The chance this life independently evolved using arsenic and then evolved to use phosphorus is nearly zero.
+I've always thought this water based idea of life was very narrow-minded. However, people have argued that if we are going to search for life, it would be easiest to search for life that is similar to ours. Since we don't know about other forms of life, we don't know what else to look for. How would you go about identifying a planet that could support ammonia-based life? Nobody knows. So, we continue to look for earth-sized planets with liquid water. Whenever I read a quote like that I just assume it says "water isn't on this planet, so life [as we know it] cannot exist there."
+That whole study was very poorly handled by NASA.
+http://en.wikipedia.org/wiki/Hypothetical_types_of_biochemistry#Non-water_solvents
+
+Most of this is considered pretty unlikely. Especially the use of hydrogen fluoride as a solvent.  That might work in an artificial environment but hydrogen fluoride isn't just going to sit around in puddles without help.  Ammonia and methane at least exist in large quantities on planets.  Ammonia and methane probably wouldn't be able to support energetic life, as they aren't compatible with an oxygen atmosphere.  Ammonia could potentially support energetic life if an atmosphere high in hydrogen sulfide was present.  Perhaps on a Venus-like planet farther from its star.  
+
+There's actually some suggestion that there might be life on Titan that uses methane instead of water, as is discussed [here](http://en.wikipedia.org/wiki/Life_on_Titan).
+
+EDIT:  
+This is very interesting too, though I'm not sure how plausible it really is.  
+http://en.wikipedia.org/wiki/Hypothetical_types_of_biochemistry#Nonplanetary_life
+There is no convincing evidence that the DNA of that microbe actually had arsenic in the DNA backbone.  The whole paper is quite crap, actually.
+Well nuts. I'll edit to reflect the uncertainty more strongly.
+
+Shame to see NASA fail so hard on this.
+It is a shame.  The paper was very exciting when it was announced but once it came out it was quite clear that the evidence and proper experiments just weren't there.
+You don't need oxygen to have a favorable redox combo.
+That's true, but it's one of the easiest and most likely ways to do it.  It's possible, for instance, that organisms nitrogen dioxide or ammonia rich atmosphere might use nitrous oxide or nitric oxide in place of oxygen.  However I'm not aware of any reason to suspect that such atmospheres might exist.
+
+The big issue is that ammonia and methane aren't stable in most oxidizing environments.
+One observation I learned at a conference I found very interesting on this topic.  Since it seems that life has been able to expand into some of the most inhospitable environments imaginable, from super hot hydrothermal vents, super cold arctic ice and even solid rock itself, it would seem that if life could possibly live in something other than water, it would have by now. However, there are microorganisms that live on crude oil in wells. The oil is bouyant above underground water, so the organisms live at the top of the water at the bottom of the oil.  (these organisms produce waste from feeding on crude that spoils the oil and if they're present, the oil generally isn't usable for fuel)   None of these species of organisms have ever been detected living **in** the oil.  They only live in the water at the oil interface.  It would seem that if one of them was capable of entering into the oil it would have a complete monopoly on vast amounts of food, however it seems they simply cannot.  To me, this suggests that places like Titan are lower priority candidates than places like Europa, despite the abundance of prebiotic molecules on Titan and their relative absence on Europa.
+Is there going to be a follow up? Because the idea certainly has merit and if true should be studied properly.
+There has been lots from other scientists, like here:
+
+http://rrresearch.fieldofscience.com/
+
+She's actually bothering to run the LC-MS that should have been run in the first place.  Will be interesting to see what comes out of it.
+It seems to me someday there'll be plastic + steel + silicon computer chip "life" here on earth, for many definition of life.
+
+Seems quite possible to me that this carbon-based stuff we see all around is just a phase in evolution that quickly leads to "living" robots based on other materials, likely plastic, steel, and silicon.
+The problem is what we define as life. In our anthropic definition of life, water is an essential element. If something can "live" on elements very foreign to our physiology, would we still consider it alive? Would we be able to communicate with it? Would we even be able to recognize it as alive?
+&gt; and common.
+
+Number of known planets with our type of biochemistry: 1
+
+Number of known planets with other types of biochemistry: 0
+
+Yup.
+Richard Dawkins and Neil DeGrasse Tyson [discuss this very question](http://www.youtube.com/watch?v=A4XT8R5AfD8), whether life can be sustained and evolve with other basic buildingblocks.
+Its your parenthetical [as we know it] that is the key here.  WE can talk about "life" in an infinite number of possible scenarios that we need to look as our own as a starting point, just to narrow the field.  Here is a great discussion about it from a philosopher of Science at CU boulder.  She discusses the advantages and limitations of different ways to define life.  
+
+http://spot.colorado.edu/~cleland/articles/Cleland_Chyba.OLEB.pdf
+Someone once tried to convince me that silicone would be the next most likely element to base life around. Is there any validity to this?
+
+edit: "most likely element"
+Silicon, Silicone is a polymer.
+Silicon is considered the next most likely candidate because of its bonding properties; like carbon, it can easily form four bonds, which is essential in building organic molecules. However, silicon is probably less common in the universe in general, because any elements heavier than oxygen are thought only to be produced by supernovae. Carbon can be produced in the core of a star during the last stages of its life.
+Interesting question. Life first needs to be defined; this is not so easy. Life on earth involves organic molecules in self replicating processes. If we exclude the organic molecules part, fire could count as life, or even minerals (including snowflakes), because they grow and exhibit many signs of life. 
+
+For organic life, there are multiple conceivable possibilities. Any polar molecule in high abundance coud work, but polar is the key. Water has unique properties that are not shared with methane or liquid mercury, for instance. This will be constrained by abundance. Remember that the surface of earth is mostly water, and so are you. Life requires a lot of lubricant. Water is made of hydrogen, the most abundant element in the universe, and oxygen, which is in the top five. So while other molecules could work, the most abundant elements in the universe only make one good molecule. 
+
+We also require complex carbon molecules (H, C, N, and O make most of organic chemistry). Again, other elements can theoretically substitute for carbon, such as silicon, but we already know a lot about Si molecules because they make the bulk of minerals on the planet. 
+
+So in short, we know that water works, and to have something analogous to water would be highly unusual in this universe. Water is also relatively easy to search for. Hope that helps :)
+I remember reading about NASA finding a microorganism that was able to survive and thrive in arsenic. 
+
+source:
+
+http://science.nasa.gov/science-news/science-at-nasa/2010/02dec_monolake/
+It's a possibility, however one of the big problems surrounds how the respiration system would work - in the type of life we encounter in this world, animals like our selves breathe in oxygen and breathe out carbon dioxide. If if life was based on silicon, we would breathe out silicon dioxide... which is another way of saying sand. It adds a little complication to things.
+Also, hydrogen-bonding is a critical aspect of protein and nucleic acid folding/function. So whatever solvent you use for life, it'll probably need a hydrogen bonded to an electronegative atom somewhere in it.
+That is why astrobiologists are so interested in Titan, because of the methane-ethane cycle that mimics Earth's hydrological cycle.  Also, I believe that there was also expected to be chemical energy produced by methane reacting with solar energy to produce more complex hydrocarbons, which could then be converted back into methane by organisms living on the surface.
+Also, Carbon-based life is found on a silicon-dominated world (Earth).  Also, Silicon forms bonds that are not as strong as carbon, making it far easier to disrupt. (If I recall correctly, it is extremely rare to find more than 8 silicon atoms chemical bonded in a row without oxygen in between any of the atoms in any environment exposed to oxygen.)
+I disagree with this line of reasoning. The problem with living in oil for life as we know it is that cells are composed of a lipid bilayer, which needs to be immersed in a polar solvent to maintain its integrity. I can imagine an alternate cell membrane, which is not dependent on a polar solvent, but it is so drastically different from current living organisms that evolution from one to the other is rather ridiculous. 
+
+When it comes to evolution, 'it can't happen because we haven't seen it happen' is VERY suspect reasoning.
+&gt;elements heavier than oxygen are thought only to be produced by supernovae
+
+*heavier than iron
+Why does the solvent have to be polar? Couldn't it be a non-polar solvent, and essentially reverse the polarity of most the 'organic' processes?
+[deleted]
+There are serious doubts about that work: http://en.wikipedia.org/wiki/GFAJ-1#Criticism
+Yeah... he didn't say the planets were common, only that type of biochemistry is common.
+
+Water based Biochemistry:  1 metric ass load.
+Other kinds:  ?  rumors of 1 in a volcano once?
+Thanks for this. Was not aware. After discussing the universe with like minded friends after eating a bunch of LSD on new years morning, one of my friends brought this up and how it shows that life can exist in conditions other than on earth. It was fresh in my mind when I read this question. I was not aware of the criticism of the study.
+[deleted]
+[deleted]
+The study *was* exciting, and weirdly hyped by NASA, but these criticisms started coming out almost immediately. [Here](http://www.slate.com/articles/health_and_science/science/2010/12/this_paper_should_not_have_been_published.html)'s an interesting writeup.
+1) Victim of bad journalism: I don't think anyone who knows their stuff will say "can't".
+
+2) Think about this: If you have only limited resources to check planets, which one do you check first? The one with Earth-like conditions, which you know things can live on, or the planet with seas of burning acid?
+
+3) What is life? Is a virus alive? (biological, not computer). Hell, no, include them too. What is easier to identify as alive? That furry space seal thing, or a pile or rock that might or might not be moving 1 centimeter each 3000 years?
+[deleted]
+I'd have to agree.  Just because we don't see life on earth do it, which would have all evolved from a carbon based water solvent molecule, doesn't mean an abiogenesis event somewhere else couldn't produce a whole newly adapted system.
+
+I don't know much chemistry but are there other complex compound that can be made without the carbon base?  Ok, silicon can create 4 bonds, but not long chains, can it create long oxygen, silicon, hydrogen chains?  
+
+I think the key to answering this question would be to find out what possible candidates for complex chemistry are viable, then look there.
+
+I would hardly use earth examples to rule out what is possible however.  The ability to adapt to a hazardous environment and originating from that environment are two totally different things.
+I noticed that Silicon is in the same family as Carbon. Could Germanium, albiet a less common post-supernovae element, have *any* potential for life? What is holding it back from the family party; bonding issues, size, mass?
+
+EDIT: My former O-Chem teacher told us to look for trends, that's why I'm inquiring.
+It's because of the membrane of cells I believe. You can't have an apolar solvent in the cell because of the polar thingies pointing inwards. It's simply not possible.
+
+If you were to reverse the membrane, then it would also need different materials to function. It would need apolar instead of polar building blocks. And as far as we know that's not possible. Or at least we have no clue how, so it's pointless to speculate about for now.
+It seems to me someday there'll be plastic + steel + silicon computer chip "life" here on earth, for many definition of life.
+
+A robot wouldn't technically be alive. Then again 'alive' is hard to define as it is.
+Semiconductors, unless you're doing some pretty zany stuff to your silicon.
+You never know man. It's a cutthroat industry.
+&gt;Why is it that scientists seem to exclude the theory that life can evolve to be sustained on something other than water on another planet? 
+
+They haven't. NASA has plans to explore Titan and its methane lakes.
+Gah, I always screw those up.
+Well-spotted, yes, that's why people wonder about silicon.  However, Carbon's big advantage is that it will readily *share* its electrons (so it can form lots of bonds with lots of different things), but won't give them up (so it forms covalent, rather than ionic, bonds).  As you go down a group, the atomic radius increases, and the valence shell electrons therefore are less tightly bound by the nucleus, which means you lose this handy property.  
+
+That's why you can easily have long chains of just carbon-carbon bonds, whereas even just with silicon you need to alternate with oxygen to form long chains.  I don't know of *any* such long-chain germanium structures (though I don't know for sure that they don't exist, either), and lacking those would knock it out of the running as a realistic basis for complex biological structures.
+Awesome, thanks for the response. I figured *s, p, d, f* had something to do with that.
+1) Germanium has an abundance of ~0.00002% in the universe, which is much lower than carbon (0.5%) and silicon (0.07%). [Source](http://periodictable.com/Properties/A/UniverseAbundance.html)
+
+2) Germanium has less ability to form long chains. The Ge-Ge bond energy is 188 kJ/mol, which is weaker than the C-C bond (347 kJ/mol) and the Si-Si bond (222 kJ/mol). The Ge-Ge bond is also weaker than other bonds such as Ge-N, Ge-Cl and Ge-Br, which means that germanium is going to have a higher tendency to bond with other elements rather than itself. [Source](http://www.wiredchemist.com/chemistry/data/bond-energies-lengths)
+Wow. That's kind of mind boggling.
+Aren't there other simple solvents that can be comparable to water? First one that comes to mind is ammonia, which can hydrogen bond, can exist as a liquid on larger planets, and can participate readily in chemical reactions. Of course, water is pretty much the optimal one, but planets don't need the best. They just need one that is "good enough".
+that's assuming they'd use oxygen in their body's chemistry, though, right?
+[deleted]
+They mostly say that:
+
+1. The likelihood of life emerging on a planet, similar to ours, is on a planet where liquid water is available
+
+2. Scientists have not excluded the possibility that a form of life could emerge based on a different set of principles than how we came to be.
+
+If such conditions arise that make the emergence of life possible that uses a different chemistry than carbon-based, then that too will happen. In fact, the law of large numbers dictates that if it is at all possible, it has already happened somewhere. Can I prove that? No, but the universe is a galaxy zoo, with many strange and weird things happening all the time. Somewhere somehow the conditions arose that made non-carbon life forms a workable proposition [if physics allows for it] and that life has emerged. We might not even recognize it as life at first if we ever encountered it, which will most likely never happen anyway.
+
+The crux of the thing is that scientists don't rule stuff out right off the bat, it's all about probability. Carbon-based life needs a solvent. Water is the best solvent [for our kind of life]; there's a very great many planets out there, let's concentrate on the planets that have liquid water, we'll take it from there.
+is it possible that there's other elements out there in the universe that we *havent* discovered,cane are may e better than carbon?
+A similar question to this is, are there any self replicating structures other than RNA and DNA? We take it for granted that all life on earth needs them, but if we found life on mars would it necessarily be using RNA and DNA?
+
+Surely when the first self replicating structures evolved, they would have been made of something much simpler.
+I think the answer is "it's possible" but we have very little idea what other life would look like if it's not the kind we are used to seeing on Earth. The ideas we have are incomplete and don't seem to work as well.
+
+Interestingly though, they have found that [some bacteria can use arsenic in place of phosphorus given the correct conditions.] (http://www.sciencemag.org/content/330/6009/1302.short) Which gives me hope that there may be cases in other strange conditions that life my occur using other elements.
+This whole thread is about speculation about what other types of life might be possible. Dismissing such a huge category as impossible just because it is dissimilar to life on Earth, and hard to imagine using our current understanding of organic chemistry seems a bit extreme to me.
+Well it would just be excreted. It's not that complicated. :S
+I don't think they exclude it. It is entirely possible according to them. But carbon based, water dependent life forms are what we know most about, and based on that, are what we think most likely supports life elsewhere. 
+
+So it isn't they ignore it, just that it would be wasteful researching about and looking for other types of life.
+We don't exclude it, we wait patiently or experiment tirelessly until there is a cornucopia of particularly good evidence that supports the *hypothesis* that life can evolve to be sustained on something other than water. After said hypothesis gains said amount of evidence then it is raised to the level of theory.
+
+But people mainly look for life on other other planets upon the criteria that the planet has water because
+
+1. We have a lot of good evidence that all life we know of is, or at the very least was, dependent upon liquid water in some way or form
+
+2. The presence of liquid water is much easier to look for than other molecules/elements/properties life is associated with.
+There are germanium hydrides ('germanes') up to n=6, but like silanes they readily react with oxygen or water.
+
+The basis for the reactivity of silanes is outlined [here](http://books.google.com.au/books?id=lUvAanKanaYC&amp;pg=RA1-PT403):
+&gt; "Part of the reason for the kinetic stability of carbon compounds is that all the low energy orbitals of the carbon atoms are filled once the compound is formed, so that they are not available to form bonds with attacking molecules. The first step in the formation of a new compound is often the temporary filling of an unoccupied orbital. In carbon there is a large energy gap between the highest-energy filled orbital (2p) and the next unfilled orbital (3s). This energy must be supplied if an attacking molecule is to form a bond. By contrast, in silicon, empty 3d orbitals are available at only a slightly higher energy than the filled orbitals (3p), so carbon compounds would have a higher activation energy than comparable silicon compounds for oxidation of reaction with, for example, water."
+
+A similar trend would apply to germanium-based compounds, as the empty 4d orbitals would be available at only a slightly higher energy than the filled 4p orbitals.
+Much of water's importance to life can also be attributed to the fact that it becomes less dense when frozen.  If it sank when frozen, it may have been much less likely for life to form.
+They don't exclude the theory but its better to focus research on things that are more probable.
+Actually life started on Earth w/o O2.  We had no O2 in the atmosphere until cyanobacteria came up with a way to split H2O for electrons.  There's many many energy sources availble without O2.
+Can someone remind me the name of a microscopic bug, polar something... could survive in space for a long time and big radiations...
+That's probably because they saw ~~the Head &amp; Shoulders ad~~ Evolution.
+[deleted]
+[deleted]
+No.  Elements are dependent on the number of protons the nucleus has (the number of neutrons just determines the isotope which are chemically identical for all intents and purposes).  Since we already have known elements all the way up to what would reasonably be created in a star and is stable enough to exist in any appreciable quantities, there's really no chance of what you're proposing.
+I can't put it as eloquently as others may. But I believe it's do to with what our understandings of the universe are at this time. As we know and can prove that life needs water. To suggest that life can be supported by other means would go against our current leading theories, that's not to say it can't.
+I'm pretty sure I've seen that question asked on this reddit before. Try searching
+In a similar vein is this TED Talk [Christoph Adami: Finding life we can't imagine](http://www.youtube.com/watch?v=F17_KiAZOxg)
+Cake-day! :D
+
+I would like to point out the mysterious theoretical "island of stability" that might exist for extremely massive nuclei. Though the production of such stable elements **if they exist** apparently doesn't happen naturally because we don't see them around.
+it's like asking if there MIGHT be a number between 3 and 4. is the way i would put it
+Yes, but anaerobic processes have a *much* lower energy yield.
+Not going to knock it, but you can burn ammonia to produce elemental nitrogen and water, both of which are extremely stable end products.
+
+Water is an end of road product and much chemistry produces it. Not saying it's impossible, but ammonia is more energy rich and prone to reactions that don't lead back to ammonia.
+
+Ammonia also finds itself being using exclusively as a resource and building supplies by life on Earth than a mediator of chemistry.
+
+Water is also really abundant in the universe while ammonia while not rare is still not as common as water. It's not impossible though and your point is well taken.
+The main problem with silicon is that silicon dioxide is a solid at standard Earth temperatures (which are probably standard alien temperatures, since if aline life needs water, it has to be in liquid form), making it almost impossible to exchange with the surroundings.
+One thing I would like to add is that water is VERY easy to detect. I do laboratory based spectroscopy and it is very hard NOT to detect it. It is almost always present in a measured spectrum.
+
+You can use anything from microwaves to ultraviolet light to find it. Other molecules such as oxygen, methane, CO2 aren't as easy to detect. (those examples don't have rotational spectra)
+
+It is also abundant throughout the universe, more or less it is found wherever the conditions are appropriate. (eg: The have found water in small shaded areas on Mercury!)
+
+My understanding of space based telescopes is that they are tuned to look for very small spectral regions that are chosen for specific molecules. If you are going to search for a molecule that is important for life, the best choice is one that is abundant, easy to detect and essential to the one example of life we know of.
+Ok, thanks! Man, people on reddit are smart.
+Yes, but Oxygen is also a common element with useful bonding properties, so similar to carbon, it can be assumed that oxygen will be used in biological processes.
+[Neil deGrasse Tyson on life in the universe](http://www.youtube.com/watch?v=YMIyYwq_A8E) .
+In theory life can also be supported by Liquid Helium and Ammonia? Right?
+Acetone couldn't theoretically work as a solvent?
+This theory is explored, and is very much based around silicone based life on an area like Titan's moon. We like looking for planets with water on it because we know what we are looking for, life as WE know it. The theory of silicone based life also includes methane as the liquid that takes the place of water. We also found a bacteria that uses arsenic to replace some its DNA. [Link!] (http://gizmodo.com/5704158/nasa-finds-new-life) Life as we don't know it.
+Lots of great answers here, but every time I see, "because _____ is important to life, or for life to form, or allowed life to develop" I find myself fighting the urge to add "here on earth" after the word "life". Sorry just had to get that out.
+Not in places where there's no oxygen
+No. By definition of 4, it comes after 3.  There is no natural number between the two.  (There are an infinite number of fractions and irrational numbers, though.)
+
+It could be possible that there could be some stable element larger than 118 that we haven't discovered yet, but it seems *incredibly* unlikely, and even more unlikely that it would be abundant, anywhere.
+Not impossible, but acetone is a high energy molecule which burns to carbon dioxide and water. Water doesn't degrade to anything easily.
+
+Acetone also lacks the ability to be act as both an acid or base easily. there is also lack of other properties that make water awesome. Abundance is also an issue, however acetone does exist in interstellar gas clouds.
+[Hypothetical types of biochemistry on Wikipedia runs through a lot of this stuff in a fair amount of detail (Although perhaps not as much as the awesome redditors on this thread). Take a look](http://en.m.wikipedia.org/wiki/Hypothetical_types_of_biochemistry)
+Anaerobic means without oxygen.
+Agreed. Compound this with the observation that Nh3 boils around -30* F... which would slow or preclude many of the chemical reactions we consider necessary for life.
+&gt;Also, Carbon-based life is found on a silicon-dominated world (Earth). 
+
+I think it makes a great point. Silicon makes up 27.7% of the weight of the Earth's crust second to oxygen at 46.6%. Carbon is the 15th most abundant element in the crust, yet *that's* the one that's important to life.  
+
+http://hyperphysics.phy-astr.gsu.edu/hbase/tables/elabund.html#c1
+Because the only examples of life we know all require water, so it's the safest best for finding it elsewhere.
+they were most likely thinking that silicon would be the most similar in terms of reactions to carbon (both have 4 valence electrons), and reactions are what drive life. However, silicon is much less reactive than carbon. This would make different molecules harder to make.
+And happy god damn cake day! My fine gentleman/woman.
+Water is the second most common compound in the universe (after H2). We should expect it to be a part of the life-causing chemistry behind most organisms we will eventually discover.
+
+The fact that it has nifty chemical properties is just a side bonus.
+Cheers!
+to remember that silicone is for tits, I use the mnemonic "both have cones". it has been helpful.
+How so?
+I think you missed ivantheadequat's point.
+
+We know all the elements containing all numbers of protons from 1 to 118. For example, we know that the element containing 3 protons in its nucleus is Lithium, and the element containing 4 protons in its nucleus is Beryllium. 
+
+Asking if there are undiscovered elements is like asking if there's a (natural) number between 3 and 4. There can't be, just as there can't be any unknown element between lithium and beryllium.
+
+I believe that was the point ivantheadequat was trying to make.
+LOL.  The point is where there's not oxygen "energetic life", whatever that is, still manages to exist b/c other redox combos are the best option for that environment.  Fitness is relative.    
+
+Your OP, "Ammonia and methane probably wouldn't be able to support energetic life, as they aren't compatible with an oxygen atmosphere", seems incorrect since on Earth both ammonium and methane are anaerobically oxidized with nitrite and sulfate or nitrate respectively.  
+
+http://en.wikipedia.org/wiki/Anammox
+http://en.wikipedia.org/wiki/Anaerobic_oxidation_of_methane
+[here](http://www.dailygalaxy.com/my_weblog/2011/05/stephen-hawking-on-non-carbon-based-alien-life.html) is a pretty user friendly article on Hawking's view on the matter.
+
+&gt;So what about water? Isn’t at least water essential to life?
+
+&gt;Not necessarily. Ammonia, for example, has many of the same properties as water. An ammonia or ammonia-water mixture stays liquid at much colder temperatures than plain water. Such biochemistries may exist outside the conventional water-based "habitability zone". One example of such a location would be right here in our own solar system on Saturn's largest moon Titan.
+
+&gt;Hydrogen fluoride methanol, hydrogen sulfide, hydrogen chloride, and formamide have all been suggested as suitable solvents that could theoretically support alternative biochemistry. All of these “water replacements” have pros and cons when considered in our terrestrial environment. What needs to be considered is that with a radically different environment, comes radically different reactions. Water and carbon might be the very last things capable of supporting life in some extreme planetary conditions.
+
+
+Edit: I think part of the reason the "water is necessary to all life" logic persists is that Mars is the place we're most determined to look for aliens ("Martians"), and Mars isn't in the temperature range for a lot of alternative solvents.  In order for a compound to work as a solvent for life, it needs to be a liquid within the temperature range that the theoretical organisms are living in (or close enough that they can keep their internal temperature in that range). The temperature on Mars ranges from about -80 to +20 celsius, which seems to fit better into the range where water would work than that of any other solvent.
+Don't just say things like that! I must know more!
+If there was life on Titan it would be so insanely massively slow metabolizing that it probably would not have evolved beyond molecules that replicate themselves.  Probably no real metabolizing going on, actually, and just kinetic energy or maybe heat deep down that is from the tidal forces of gravity?  Not an expert on this, but shits cold there.
+Because of this, a lake or other body of water will rarely completely freeze. Instead, only the surface of the lake will freeze (because ice/almost frozen water floats), insulating the rest of the water and therefore the life contained within.
+Layman here, but if ice formed from the bottom up, oceans would freeze over and kill everything.
+Well come up with a theory that explains something we could look for or a reason why it might appear likely to exist over other theories and we'll go hunt for it.  Until then we put a big "WE DON'T KNOW" stamp on all those other theories (we don't say "can't exist", we just say "we don't know") and we focus on the things that WE DO KNOW about life and look for it elsewhere.
+You can only have a theory when you have large amounts of supporting evidence.  There is no evidence.
+
+Maybe there can be life based on liquid ammonia.  Who knows?  We have no evidence.
+
+See a theory *isn't* an idea.  To get to a theory, you need an idea, form a hypotheses, do a shit load of experiments.  The results of these experiments must support your hypothesis.  Then other people must create experiments and their results must support your hypothesis.  Meanwhile, other scientists who are qualified in your field, try to see what's wrong with your hypothesis and experiments' results.  
+
+So ya, you are naive.  That's not an insult.  It's just that you're not experienced in the field.  
+
+Remember that gravity and electricity/magnetism are still theories.
+
+What you have is not a theory.  It's simply an idea.  
+
+We really have to get away from using theory for "an idea that someone has".
+the oceans would have frozen from the bottom up and life would have been able to appear in the ice
+Scientists don't exclude it; they expect that it is unlikely.  The reasoning is this:
+
+-To have life *anything like* we know it, you have to form complicated molecules, something *like* fatty acids, polysaccharides, protein and DNA.  Maybe life can form without using molecules.  Maybe life can form from nucleons at the center of the sun or from cosmic strings or around magnetic monopoles or something.  We haven't observed this and can't speculate about how it might work.
+
+-To form complex molecules, you need atoms that can form four bonds at once, so they can form chains and also have side chains.  So basically: carbon or silicon, and it's much, much harder to create interesting compounds with silicon.  Carbon and silicon aren't very soluble in too many fluids.  Ammonia or ethane or methane or liquid CO2 might support chemistry, but it would make many complex compounds unstable.  
+
+-We know that life has formed once in liquid water and we know that it hasn't formed in the center of the sun or in a methane lake in the outer solar system.  Bayesian statistics, coupled with knowledge of chemistry make water based life most likely, with the information we have right now.
+Silicon dioxide is very insoluble in just about everything.
+Yes, fitness is relative and I took high school  biology.  You're not going to see anything very complicated if there isn't a plentiful and efficient energy source for it.  That is what I meant when I said that life likely wouldn't be very energetic.
+
+At any rate, I was discussing methane and ammonia as solvents for life, meaning they would be taking the role of water in our biochemistry (which is what this whole thread is about).  Ammonia and methane exist on earth only in small amounts in anaerobic environments because they don't last long when exposed to oxygen.
+"just about"?
+They actually recently discovered a bacteria that lives in anthrax so that theory is still possible.
+why would it metabolize slowly? source?
+In different environmental temperature conditions relative to the freezing point of the solvent this wouldn't matter at all as there could be no freezing.
+Cold as fuck. Any exotic life would be massively slow in movement and evolution.
+With all due respect to your academic knowledge of the subject matter,  I find it vastly entertaining (in a completely non-sarcastic way) when someone who is knowledgeable on a subject uses "thingies" as a descriptor.  Education + Entertainment = win. :)
+What if it was a reduction-based biochemistry?
+Sample size issue.  The development of life requires much more specific conditions than its continuation.
+that seems like a fairly naive assumption  
+(edit): dont know why all the hate, but I dont think you can just make that assumption. There ARE other elements with similar "useful" (as if that isnt vague enough already) bonding properties
+You can't really have half of a proton. They are always in integers. Think of it this way. If you cut a piece of gold in half enough, eventually you'll get one atom of gold - the smallest amount of gold. Yes, you can break that atom down to 79 protons, and 118 neutrons(I think that's how many are in stable gold - not 100% sure, but also not the point) you don't have gold anymore, just a bunch of protons and neutrons. So even though we now know that protons are in fact made up of three quarks - up, up, down -  You can't take one or two of these pieces together to make &lt;1 of a proton. Being the reason you can only have integers in atoms. 
+
+:D
+Water is made of 2 of the 3 most abundant elements in the universe: hydrogen and oxygen respectively. So, odds are that if life is to arise use any sort of solvent for its chemistry, it is going to be liquid water. So, scientists don't rule out other solvents, they are just to uncommon that for efficiency sake, it is better to follow the water.
+Not really. Looking from a physical avaliability standpoint, oxygen is one of the heaviest commonly available elements. Go much higher, and you need to forge them in supernovae, not just stars. Just as carbon is useful not only due to its properties, but also for its abundance, you can make the same case for oxygen.
+that's valid.  But "life as we know it" requires the full spectrum of intermolecular forces, van der waals, ionic and hydrogen bonding in order to operate. There's research being done on alternate (deep eutectic) polar solvents, but there is very little reason to expect something could live with nonpolar solvents alone. The forces are weak and it would be too limited to a narrow temperature range where its warm enough for the molecules to be flexible but cool enough that they don't fall apart.
+I think it's less scientists who've counted our finding life without water, and more the science media who doesn't feel like explaining molecular chemistry to the public when they're talking about space
+My understanding is that, even in theory, these "islands" will only be stable relative to the elements below them, not to, say, iron. They'd only be able to exist somewhere on the order of a few seconds or less. Please do correct me if I'm mistaken, though, I'm a pure layman on these things.
+[deleted]
+"much higher?" Typically elements heavier than Fe are thought to be only produced through supernovae. This leaves a number of elements (18) heavier than O, produced outside supernovae, elegible for bonding. Of these, sulfer would be a possibility due to a similar electron configuration to O, as they share the same group of the periodic table. Furthermore, you may have to look at relative abundances of particular elements. Just because carbon is of high abundance throughout the universe does not imply that planet X contains roughly the same proportion. Of course, this still assumes that life could not have arisen out of elements formed in supernova, which seems limiting especially in regards to the original question posed.
+It is cold there, and I personally think the nonpolar nature of liquid ethane  makes life extremely unlikely, but that isn't what gets funding dollars in this harsh economic time.
+I think about this a lot. I've always thought it'd be neat if we discover life living in open space, not on a planet or moon or anything. Like the space whales from Dr Who.
+I've always wondered this. The scientific rule of adaptation states that a species will adapt to it's enviornment in order to sustain life, but this rule applies to life outside of earth as well. Once we leave earth our scientific rules of what must be needed to sustain life is no longer valid because alien life could have adapted to it's environment and sustained life off of anything that is part of it's enviornment, and therefore not need water, oxygen, etc. to live.
+I think this is from an Original Series Star Trek episode.
+Your question is flawed, they don't exclude and its not a theory its an idea. They just KNOW life has originated on Earth is water and carbon and other stuff. They just don't think its very likely as in &lt;0.001% I assume of life being able to start and evolve on Venus/Titan or other environments where liquid water is not present. There are other speculations that life can exist in other environments that contain elements similar to the properties carbon and water have on life. Ammonia is one substitute I believe. But I have not looked into this at all for a LONG time.
+I think its more we know what to look for in the case of water. But with other forms we don't have much to go on.
+Water expands when it's frozen. This increases volume and decreases density.
+
+(I'm a layman, hope that's accurate. Maybe volume isn't the right term but hopefully you get what I'm saying).
+What about our friends in mono lake??
+HF will dissolve it. As will supercritical water. And a little bit in really strong base. And probably a few other things I can't think of right now.
+Sure there is, [bleem](http://www.strangehorizons.com/2000/20001120/secret_number.shtml).
+It's ok. For what it's worth, I've met silicone based lifeforms and I don't hold much faith for their ability to survive in the wild.
+It should also be added that scientists do not directly exclude the theory, but that coming up with another substance that can sustain life would require completely rewriting the millions of unique chemical processes that take place in our world to sustain life. A task too complicated to attempt. There would also be the problem of deciding on what substance to study. There are over a hundred elements and many million more molecules. What would we start with?
+To be fair alternate biochemistry was actually a major plot point in that movie.
+Not too likely.
+
+Despite being in the same group, Silicon is much larger and its bonds weaker. Double and triple bonds just simply don't occur like they do in carbon. With that, most of the organic chemistry that carbon offers is gone.
+I find it interesting how deuterium (and tritium) are both just isotopes of hydrogen, but water made with deuterium behaves radically different; it's poisonous, heavy water ice sinks in regular water, etc. It's almost like a pseudo-element.
+A key characteristic of water is that its bent shape allows hydrogen bonds that collapse when heating up from solid to liquid state. This allows life form to exist in liquid water covered in frozen ice. The closest analog to water is H2S, which isn't likely to harbor life as it has a boiling point of -60C and is highly toxic.
+I actually asked this exact question to a professor of mine who help a Ph.D. in Geology with his specialty being in martian geology. And, he has some of his equipment on mars currently. Pretty cool stuff I must say. 
+
+He said that it not that we only look for water, its just that we know what evolution (and sustained life) from water would look like, and it makes it easier for us to search for. He stated that there may just as easily be non-water based organisms, but it would be harder for us to look for and recognize them. 
+
+Credit: [Timothy Glotch, Ph.D.](http://www.stonybrook.edu/commcms/geosciences/people/faculty/glotch/index.html)
+Also, if ice was denser than water as a liquid, then when the surface of bodies of water would freeze it would crush everything below it.
+Completely ignorant assumption but could they be referring to human expansion? Kinda makes sense..
+It's also very difficult even to define life, and I thought this TED talk, [Martin Hanczyc: The line between life and not-life](http://www.ted.com/talks/martin_hanczyc_the_line_between_life_and_not_life.html), was really interesting. I thought you were going to post this one, at first. I suppose it's not as relevant, but it's still useful to think about when looking for life outside of Earth.
+[deleted]
+What's to say that an organism can't use these things?
+Probably mentioned somewhere in the thread, didn't read a lot of it.
+
+Recent findings show cells that can live on Arsenic in a waterless environment. 
+[citation needed, i know. Fuck the police]
+They're called tardigrades.
+You're awesome!
+Thanks. I should have thought of that!
+Methane.
+layperson here.
+
+i don't think the "rarity" of certain elements is a good enough arguement. "silicon is rarer than carbon," or "ammonia is rarer than water" doesn't mean much when we're talking about something even rarer: the evolution of life.
+
+i think we're looking for water planets to find life for these two reasons: because we know that it already worked here; and because if life evolved from some other sort of combination of chemistry, we might not even recognize it as life.
+Water, two hydrogen atoms and one oxygen atom, is rather simple and is composed of abundant elements. A simple molecule made of simpler atoms is more likely to exist in abundance than more complicated molecules made of less abundant atoms. With water, you get one of the simplest possible polar solvents in the package of a molecules that is substantially less massive than most biological molecules. When the relatively small water molecule hits a large organic molecule, it doesn't damage it since it is similar to a ping-pong ball hitting a school bus.
+
+Additionally, H2O is the end result of many, many reactions. Acid-base neutralization end with a salt and water, so water is bound to be abundant on any significant planetary body.
+A) There are numbers between 3 and 4.
+
+B) By definition of 4, there cannot be any integers between 3 and 4.  This is a mathematical truth.
+
+C) It is entirely possibly (albeit incredibly unlikely) that there could be a stable element above 118.  We have not ever produced these elements, so we do not know anything about them aside from some guesses and trends in the elements, and a few inaccurate models.
+
+D) There is no mathematical truth which states that elements must have a number of protons between 1 and 118.
+
+E) Protons are not necessarily required for the formation of elements.  (Example: positronium)
+
+
+So no, it is *nothing at at all* like whether or not a number might be between 3 and 4. As a matter of fact, I have never seen an analogy so poorly constructed in my entire life.  It is incorrect at literally every single possible step of an analogy.
+
+If I missed his point, then perhaps he should have done a better job making it.
+Wow. Way to take things too literally! 
+
+You do realise that an analogy isn't supposed to be *literally* the same as the thing it refers to, right? That's why it's an *analogy*, and not *the original*.
+HF is extremely corrosive, and supercritical water will essentially destroy anything it comes into contact with. 
+
+Seems unlike that there would be an organic "vessel" that could contain and utilize this.
+The reason for this is that silicon has the same number of valence electrons as carbon (it's right under carbon in the table of elements), therefore allowing many of the same types of chemical reactions that carbon allows.
+There's a difference between an analogy and a flawed analogy.
+
+An analogy is A:B::C:D. That is, that the relationship between A and B is the same as the relationship between C and D.
+
+However, the relationship between numbers existing between 3 and 4 is *nothing at all* like the possibility of the existence of other elements!  It is wrong at literally *every single step* of the process.
+
+It is incorrect because it is inherently an incorrect statement. There are numbers between 3 and 4.  Let us let this slide and pretend that he meant to say a natural number.
+
+This is still incorrect because the relationship to discovering new numbers is unlike discovering new elements.  Numbers are "discovered" based upon learning more about the laws of mathematics (i.e. mathematical truths).  Elements are discovered by empirical evidence.  Let us let this slide, and pretend that these are one in the same.
+
+This is still incorrect because it is mathematically untrue for there to exist natural numbers between 3 and 4, but it is not mathematically true that there are no natural numbers larger than 118.  However, we can let this slide and pretend as though 118 is the mathematically defined maximum number of protons in an element.
+
+Even letting *all of these things slide*, it is *still* incorrect, because elements do not necessarily require protons.  I even gave you an example of an element which has 0 protons (positronium), an analog to hydrogen with the proton replaced by a positron.
+
+And while not technically the issue at hand, it is furthermore incorrect in context, because the number of neutrons inside of a nucleus *does* affect its chemical properties, especially at low temperatures where fermionic nuclei operate under completely different laws of physics from bosonic nuclei.  In this case, different isotopes can be thought of as different elements, although this then becomes a semantic argument.
+
+
+It's not that he made a semantical error and that I'm jumping down his throat just for that. He made a semantical error, a logical error, and his conclusion is incorrect. Every single step of the process of applying the analogy to the original subject is *incorrect*.
+I have a question.  We have stomachs that house acid.  Could the said organism not have a method of housing the extremely corrosive substance?
+HF? Doubtful. There are plenty of things that don't react with HCl much, whereas HF robs electrons from pretty much anything it comes in contact with.
+Sure, completely theoretically there's nothing (as far as I know, I'm only a hobbyist on this issue) that makes it completely impossible. But it's unlikely to the degree that I don't think anyone plausibly expects it to be the case.
+This is true but irrelevant.
+This was NASA's Mono-Lake experiment which has been discounted as bad science:
+
+&gt; Tuesday, December 7th: It got worse. Carl Zimmer, writing in Slate, called up a dozen scientists, the vast majority of whom said that Wolfe-Simon hasn’t made her case. One of them frankly stated, “This paper should not have been published.”  
+
+&gt; http://blogs.discovermagazine.com/notrocketscience/2010/12/10/arsenic-bacteria-a-post-mortem-a-review-and-some-navel-gazing/
+Because those things will kill any and every critter we know of.
+Are there any other liquids that do this?
+Haha, it's mostly because I got educated in Dutch, so some of the translations are lost and I'm a bit too lazy to look it all up :P
+The problem is we don't know how such life is or how to detect it, so it's only natural we dedicate the majority of our resources to detect life as we know it. 
+
+If scientists are somehow able to engineer life that functions like that, then we can learn from it and expand our range.
+
+Until then, it's likely to be wasted resources.
+If you could remove a proton / neutron from Lead, you would make gold.
+
+Which is what Alchemy is all about :)
+This is actually correct, because it's volume increases but its mass does not, it's density decreases. The variable that dictates if a liquid or a sold will be above or below a liquid is its density. Ice is less dense than water and so floats, allowing the rest of the water to stay above 0 degrees Celsius. If water shrunk when below 0 degrees Celsius, then the ice would sink and the left over water would be exposed to the elements and would probably freeze and continuing the cycle. Eventually the entire water body would be frozen and would only be able to thaw if there is sufficient energy. If the water body is very big and at the right location, it could stay frozen for hundreds of years, e.g. Antarctica. The light reflective properties of ice, white colour, means that it doesn't absorb alot of energy. Water is required, because it absorbs more energy than ice, so it can slowly thaw the ice from the exterior. This is happening in many of the ice bodies all over the world, e.g. Antarctica and Greenland
+
+Just my 2 cents worth :D
+[This is a site](http://xenology.info/) dedicated to questions like this - and any topic relating to xenobiology. The source material is dated, but still very thought-provoking, and provides detailed explanations of alternate chemistries, etc.
+None that I can think of with appropriate qualities.
+[deleted]
+It doesn't necessarily have to be a liquid to have insulating properties.
+If you remove a neutron from lead you would still have lead. That also wasn't my point. My point was just trying to ease him into understanding why you can only have integer protons.
+Isn't critters we don't know of kind of the point to this discussion? Extrapolating properties of "critters we know of" is acceptable within the same planet as they share a similar "habitat" I guess, extrapolating these properties across the universe, not so much.
+&gt;Also if life exists it's most likely carbon. Seriously. It's probably carbon. Carbon is fairly abundant and it is bar-none the most chemically fertile element around. You can do more chemistry with carbon than anything else. The metabolism of much carbon chemistry leads to water. This makes one of the most prolific waste products of carbon life into an asset.
+
+I remember seeing a comment somewhere that boron's chemistry may be as interesting and varied as carbon - or even more so - but that it's rarity causes it to be much less explored. Any truth to that?
+More to the point, HF and strongly basic solutions will oxidize the hell out of silanes and silicones.  You can't have with advanced life without long chain molecules and you can't have long chains of silicon or silicone in strong base or HF.  
+
+Carbon is special because all of the different oxidation states - from fully reduced all the way down to fully oxidized, can be soluble and at least kinetically stable in the same solvent.  The same cannot be said for silicon.
+I suspect that life on other planets, if it exists, will be found to have related chemistry to life on Earth. Carbonaceous chondrite meteorites (essentially originating from comets) have been found which actually have amino acids in them identical to some of the ones used in Earth-life. Even more mindblowingly, some of these have been shown to have some chirality, and the same chirality as Earth amino acids, although not as much (less enantiomeric excess, to be precise). Spectroscopy has also observed some of these molecules in space. So, while it may not be logically impossible for life to have developed from completely different chemistry, it is a much higher-percentage scenario that it will be similar given the abundance of water and carbon in the universe.
+Boron is weird. It's certainly fertile, however it behaves nothing like Carbon does. It lacks the ability to easily make long chains such as Carbon and because it's electronegativity is less than Hydrogen it behaves differently than C-H bonds would as in such cases the Boron is the electro-positive atom instead of the Hydrogen.
+
+If you ever take a class on organic chemistry you learn that Boron is often used to do some truly strange chemistry.
+
+The main lacking feature other elements all fail at is playing the role of a building block. Carbon is the lego of the atomic world and you can *build* structure and hold shape with it. Life as we know it requires organization and structure and only carbon abundant molecules get the job done.
+
+This is the same reason most if not all plastics are repeating carbon units. You just can't get that kind of versatility anywhere else.
+Well that sucks. I liked that science.
+I don't know what you mean by irrelevant. He asked how water becomes less dense when frozen, unless I misunderstood.
+And none that are as simple chemically; ergo: none that are as likely to exist as a great proportion of the liquid portion of a planet, while still having this density-reversal property.
+... but those would be extremely rare situations. If the environment's temperature *ever* ventured outside the liquid temperature range, all life on the planet would be destroyed.
+
+With a water-based ecosphere, life can actually thrive at subfreezing temperatures. Consider all the life below the arctic icebergs.
+Aren't there things that shoot acid? Wouldn't that seem just as unlikely?
+You're wrong.  Even ignoring alternative biochemistries (which could also help with temperature issues), imagine a planet much like earth but a bit closer to the sun.  Just close enough that the poles don't freeze.  Perhaps equatorial areas can't support Earth-like life, but the poles could.
+
+Also, the greenhouse effect result in a more uniform global temperature distribution.  An earth farther from the sun but with considerably more CO2 in the atmosphere might be temperate over most of its surface.
+
+I'm not saying that the fact that ice floats isn't a nice feature of water, just that it's not necessarily crucial if we consider other scenarios.
+&gt;  It lacks the ability to easily make long chains such as Carbon  
+   
+Well, it can certainly give rise to some pretty complex structures and some long chains too, at least in conjunction with nitrogen.  
+
+&gt; The main lacking feature other elements all fail at is playing the role of a building block. Carbon is the lego of the atomic world and you can build structure and hold shape with it.   
+  
+How about using two building blocks instead of one as seen in [inorganic alternating copolymers](http://en.wikipedia.org/wiki/Inorganic_polymer)?  
+
+&gt; only carbon abundant molecules get the job done.  
+  
+I'm not so sure it's as clear-cut as you claim it to be.
+  
+&gt; This is the same reason most if not all plastics are repeating carbon units. You just can't get that kind of versatility anywhere else.  
+  
+Inorganic polymers aren't unheard of.
+&gt; I remember seeing a comment somewhere that boron's chemistry may be as interesting and varied as carbon - or even more so - but that it's rarity causes it to be much less explored. Any truth to that?  
+  
+Was it this [one](http://www.reddit.com/r/askscience/comments/lsdmz/is_boronbased_life_viable/c2vsphs)? or maybe this [one](http://www.reddit.com/r/askscience/comments/mhdpj/is_it_possible_for_life_on_another_planet_to/c30z686)?
+[Page 246, if I did my formatting wrong](http://books.google.com/books?id=b7XhonTq2s8C&amp;pg=PA246&amp;lpg=PA246&amp;dq=life+on+titan+metabolic+rate&amp;source=bl&amp;ots=G4XWrYMo-i&amp;sig=PdHDM2xR37G1G-f1LyMAuMtOtdI&amp;hl=en&amp;sa=X&amp;ei=ZqEDT5zwMeLx0gHPocXFAg&amp;ved=0CCwQ6AEwAg#v=onepage&amp;q=life%20on%20titan%20metabolic%20rate&amp;f=false)
+
+It doesn't say life is impossible, it just states that by any means we could think of to beat the metabolic rate issue.. well.. we can't think of one.  Maybe nature found a way around it.  We just can't figure out how it could and we look for things by thinking "is something possible by any means we can think of?" then looking for it.  You won't get funding to look for life in the sun, for example, because while it can't be disproved that it somehow, beyond any method we can understand, exist.. well.. nobody is spending money to look for it right now.
+[Page 246, if I did my formatting wrong](http://books.google.com/books?id=b7XhonTq2s8C&amp;pg=PA246&amp;lpg=PA246&amp;dq=life+on+titan+metabolic+rate&amp;source=bl&amp;ots=G4XWrYMo-i&amp;sig=PdHDM2xR37G1G-f1LyMAuMtOtdI&amp;hl=en&amp;sa=X&amp;ei=ZqEDT5zwMeLx0gHPocXFAg&amp;ved=0CCwQ6AEwAg#v=onepage&amp;q=life%20on%20titan%20metabolic%20rate&amp;f=false)
+
+It doesn't say life is impossible, it just states that by any means we could think of to beat the metabolic rate issue.. well.. we can't think of one.  Maybe nature found a way around it.  We just can't figure out how it could and we look for things by thinking "is something possible by any means we can think of?" then looking for it.  You won't get funding to look for life in the sun, for example, because while it can't be disproved that it somehow, beyond any method we can understand, exist.. well.. nobody is spending money to look for it right now.
+[Page 246, if I did my formatting wrong](http://books.google.com/books?id=b7XhonTq2s8C&amp;pg=PA246&amp;lpg=PA246&amp;dq=life+on+titan+metabolic+rate&amp;source=bl&amp;ots=G4XWrYMo-i&amp;sig=PdHDM2xR37G1G-f1LyMAuMtOtdI&amp;hl=en&amp;sa=X&amp;ei=ZqEDT5zwMeLx0gHPocXFAg&amp;ved=0CCwQ6AEwAg#v=onepage&amp;q=life%20on%20titan%20metabolic%20rate&amp;f=false)
+
+It doesn't say life is impossible, it just states that by any means we could think of to beat the metabolic rate issue.. well.. we can't think of one.  Maybe nature found a way around it.  We just can't figure out how it could and we look for things by thinking "is something possible by any means we can think of?" then looking for it.  You won't get funding to look for life in the sun, for example, because while it can't be disproved that it somehow, beyond any method we can understand, exist.. well.. nobody is spending money to look for it right now.
+Well, not really, there's acid and then there's acid.
+
+It's a bit like comparing looking into a flashlight and staring into the sun for 2 hours. Sure, they're both "light", but it's just completely different magnitudes.
+Yeah so did I, I saw it for the first time on TV last night and Googled it this morning.  Dammit.
+You're right, me ignoring inorganic polymers doesn't do the discussion justice.
+
+However I am unaware of ways to produce many of these outside of industry and I am ignorant of their properties in relation to water. Some of them act more like non-Newtonian fluids than solid structures.
+
+If we had infinite wisdom and ability I am sure we could create a form of life using a inorganic polymer perhaps even with Boron and solvents other than water, but I am not confident that such life would be common in the universe given the distribution and relative abundances of the elements.
+&gt; If we had infinite wisdom and ability I am sure we could create a form of life using a inorganic polymer perhaps even with Boron and solvents other than water   
+  
+Indeed, it seems to me if I were to take the monumental task of designing a non-carbon-based lifeform from scratch a polymer consisting of alternating boron and nitrogen (or even phosphorus) atoms would be a good place to start, primarily because such building units seems to have the potential to emulate some of the behaviour seen in carbon including [aromaticity](http://en.wikipedia.org/wiki/Borazine) but also because it would be interesting to see if it's possible to exploit the propensity of [boranes](http://en.wikipedia.org/wiki/Borane) to readily form polyhedral structures, something that is not seen in hydrocarbons. Intriguingly, this alternative biochemistry seems to work well with ammonia as a solvent, not only because boron-nitrogen derivatives have an affinity for ammonia as a solvent but also because, on average, such compounds are more reactive than their carbon counterparts  so, apparently, this type of biochemistry is more feasible within the lower temperatures at which ammonia is a liquid. Thus, I wouldn't be too surprised if this exotic hypothetical biochemistry would hold an advantage over a more conventional carbon-based one on a cold ammonia rich planet.
+
+&gt; I am not confident that such life would be common in the universe given the distribution and relative abundances of the elements.  
+  
+Neither do I, the low cosmic prevalence of boron seems to be one of the strongest arguments against boron-based lifeforms being a frequent occurence in the universe  but on the other hand there can be planetary positive feedback loops that could increase boron concentration in the upper layers of the crust. Also, if we look at Earth, life here is not based on the more abundant silicon but carbon which even though is the fourth most common element in Universe is relatively rare in Earth's crust.
+Keeping all these thing in mind I would be less surprised by the discovery of a boron-based organism than that of a silicon-based one. Anyway it's pretty fun to speculate about boron-based lifeforms living in the proximity of boron hotspots in the same manner nonphotosynthetic organisms live near hydrothermal vents on Earth on a otherwise boron poor ice planet. 
+  
+Edit:spelling.
+That could be said about any less dense material. What he was probably looking for is a reference to the lattice structure that is the reason that more volume is occupied.
+You haven't proven me wrong. You've only stated instances in which those conditions might exist, but IMO those are still pretty rare instances.
+What basis could you possibly have for saying that Earth-like planets slightly further toward their star are any rarer than Earths with ice?
+
+I'll give you another one:  Earth, but without significant axial tilt.  Without seasons, most of the planet will be warm enough that ice would never form.
+
+Also, your assertion that any local deviation of the atmosphere below the freezing point of a liquid would completely destroy the biosphere if the liquid doesn't float is patently ridiculous.  An ocean is a great cold sink, so it would take a sustained temperature drop to cause ice formation.  Even then, the warmer regions of the planet should be fine.
+
+Summary:
+We like looking for planets with water on it because we know what we are looking for, life as WE know it.
+Also if life exists it's most likely carbon.
+I think its more we know what to look for in the case of water.
+Don't just say things like that!
+I think about this a lot.
+I don't think they exclude it.
+They just KNOW life has originated on Earth is water and carbon and other stuff.
+Maybe there can be life based on liquid ammonia.
+&gt;Also if life exists it's most likely carbon.
+I should have thought of that!
+The reason water is so useful is because it is a great solvent.
+Earth has water, lots of it, so living things need it here.
+Maybe life can form without using molecules.
+The metabolism of much carbon chemistry leads to water.
+Carbon-based life needs a solvent.
+I think it makes a great point.
+Well, not really, there's acid and then there's acid.
+Since we don't know about other forms of life, we don't know what else to look for.
+The theory of silicone based life also includes methane as the liquid that takes the place of water.
+I don't know much chemistry but are there other complex compound that can be made without the carbon base?
+Ammonia, for example, has many of the same properties as water.
+What's to say that an organism can't use these things?
+And probably a few other things I can't think of right now.
+But with other forms we don't have much to go on.
+Think of it this way.
+As we know and can prove that life needs water.
+Silicon, Silicone is a polymer.
+The problem is what we define as life.
+I don't know what you mean by irrelevant.
+However, silicon is much less reactive than carbon.
+(http://gizmodo.com/5704158/nasa-finds-new-life) Life as we don't know it.
+Life as we know it requires organization and structure and only carbon abundant molecules get the job done.
+there is also lack of other properties that make water awesome.
+You can do more chemistry with carbon than anything else.
+This allows life form to exist in liquid water covered in frozen ice.
+Ok, silicon can create 4 bonds, but not long chains, can it create long oxygen, silicon, hydrogen chains?
+There are few chemicals out there that rival the solvent properties of water and even less that are naturally formed and as abundant.
+There are numbers between 3 and 4.
+If it sank when frozen, it may have been much less likely for life to form.
+But I have not looked into this at all for a LONG time.
+But carbon based, water dependent life forms are what we know most about, and based on that, are what we think most likely supports life elsewhere.
+Number of known planets with our type of biochemistry: 1
+
+Number of known planets with other types of biochemistry: 0
+
+Yup.
+Water is made of 2 of the 3 most abundant elements in the universe: hydrogen and oxygen respectively.
+I would hardly use earth examples to rule out what is possible however.
+One thing I would like to add is that water is VERY easy to detect.
+Just as carbon is useful not only due to its properties, but also for its abundance, you can make the same case for oxygen.
+We know all the elements containing all numbers of protons from 1 to 118.
+What would we start with?
+I suppose it's not as relevant, but it's still useful to think about when looking for life outside of Earth.
+In theory life can also be supported by Liquid Helium and Ammonia?
+&gt; I am not confident that such life would be common in the universe given the distribution and relative abundances of the elements.
+To suggest that life can be supported by other means would go against our current leading theories, that's not to say it can't.
+What you have is not a theory.
+Someone once tried to convince me that silicone would be the next most likely element to base life around.
+Water is also relatively easy to search for.
+Not in places where there's no oxygen.
+A simple molecule made of simpler atoms is more likely to exist in abundance than more complicated molecules made of less abundant atoms.
+A) There are numbers between 3 and 4.
+Ammonia is one substitute I believe.
+The same cannot be said for silicon.
+If such conditions arise that make the emergence of life possible that uses a different chemistry than carbon-based, then that too will happen.
+Water and carbon might be the very last things capable of supporting life in some extreme planetary conditions.
+Also, Carbon-based life is found on a silicon-dominated world (Earth).
+it's like asking if there MIGHT be a number between 3 and 4. is the way i would put it.
+There is no natural number between the two.
+So it isn't they ignore it, just that it would be wasteful researching about and looking for other types of life.
+Life first needs to be defined; this is not so easy.
+They just need one that is "good enough".
+And as far as we know that's not possible.
+See a theory *isn't* an idea.
+There are other speculations that life can exist in other environments that contain elements similar to the properties carbon and water have on life.

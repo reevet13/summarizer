@@ -1,0 +1,39 @@
+Here are the selected sentences from the original text:
+
+Chernobyl was based on a stupid reactor type that is not built any more. In addition the operators were actively overriding multiple safety rules and mechanisms - something that won't happen any more because we have an example how that can end.
+
+Another accident like Fukushima is not completely impossible if something really bad happens (like one of the most violent earthquakes and tsunamis in recorded history). Chernobyl will stay a unique event.
+
+It is very difficult and problematic to assign numbers to big accidents. They are so rare that there is not enough data to determine it experimentally.
+
+Chernobyl was also compounded by a lack of a containment building, something the Fukushima plant had - and Fukushima was built 1967-1971.
+
+Worrying about the safety of nuclear power because of Chernobyl is like worrying about the safety of cars because of a Model T Ford driven by a drunk driver.
+
+Wasn't the protective wall of Fukushima also grossly undersized which had been warned about?
+
+They built Fukushima on a fault. And the flood walls way too low for a building that usually operates for 50+ years.
+
+The seawall at the plant was 5 meters high and in 2008, engineers warned that a 10 meter high tsunami was possible within the reactor's lifetime, but the company said the probability was too low. The tsunami that hit was 14 meters high, so even the increased wall wouldn't have helped.
+
+Fukushima is a great example of nuclear safety: the plant had countless safety violations, was hit by a massive earthquake followed by several huge waves of a tsunami, the emergency generators failed.... it was just the worst case scenario, really.
+
+The Japanese have been criticised for hiding the scale of issues, with international reports including things like "it could cause up to 200 deaths from cancer" and similar. There are about 500 disaster related deaths reported so far, but that includes deaths from anything related, including workplace accidents or people who died during the evacuation in a car accident.
+
+In other words, the worst of the worst case nuclear disaster that has happened once in the past decade and was caused by every possible issue is about as a decade of coal mining deaths in America.
+
+Do coal accidents render large areas of inhabited urban land unsafe for extended periods? I suppose Centralia is an example of that, but I think the Fukushima exclusion zone is much larger.
+
+Deaths caused are not the only metric of a nuclear disaster. Do coal accidents render large areas of inhabited urban land unsafe for extended periods?
+
+It’s all very event based. Additionally, while safety analysis assumes no operator actions for 10-30 minutes and only minimal actions after that, operators can perform more effective mitigation actions by being able to diagnose the event.
+
+So why is Nuclear still so Taboo if they are so much safer nowadays? They aren’t taboo. They are uneconomical in most places. It costs so much to build nuclear units that it doesn’t make short term sense, even when nuclear is the better long term option, and that’s especially true in merchant markets.
+
+At least in the us, the huge increase in “fracking” and the US becoming a major natgas producer has shifted the market. the expanded use of natgas plants (especially combined cycle plants which are 50-60% cycle efficiency) has driven electricity costs low enough that coal and nuclear struggle in both short and long term cost projections.
+
+I'd always assumed staffing requirements for nuclear plants would be somewhat higher, but factor of 8 (for equal power) is way out of the range I would have guessed.
+
+Well....typically the largest driver for staffing is meeting minimum ops/security staffing, and having sufficient staff for emergency response purposes. Emergency response requirements drives a large amount of minimum staffing.
+
+I do wonder why the "green energy" crowd never pushes nuclear though. Id think that at this point, emitting carbon is worse for us than generating nuclear waste.

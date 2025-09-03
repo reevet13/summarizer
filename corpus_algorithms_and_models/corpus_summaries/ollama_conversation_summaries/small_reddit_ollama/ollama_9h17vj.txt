@@ -1,0 +1,8 @@
+Here are the selected sentences from the original text, up to 250 words:
+
+I have built a PC about 4 years ago with the help of my cousin. I am now looking to build another one with about 2000$ (I'm in Canada). The thing is I'm on a student budget so I'd like to save as much as possible.
+
+Is there anything here that I can change that wouldn't affect the performance too much? I also plan to buy a 144hz monitor in the future. I am just trying to shave the price as much as possible but I don't really know this stuff.
+
+https://ca.pcpartpicker.com/list/m32xV6
+Get an I5-8600k, $100 saved and with a minor overclock it matches and can even exceed the 8700k

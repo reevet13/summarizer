@@ -1,0 +1,9 @@
+At this point in time, no.  There are only a few diseases that we know not only which specific gene causes the disease, but that if you have that gene, you WILL have that disease.  If I remember correctly, the best example of this would be something like Huntington's disease.  Beyond that, most of it is just correlation.  We know that if you have certain variants of certain genes, you'll be more likely to have certain diseases.  But it isn't always the case.  
+
+So, you can have the gene for many things, but that doesn't mean it will be expressed.  At this point, getting your genome sequenced is simply a novelty, and right now, you won't get much more out of it other than a likelihood of knowing you MIGHT get some diseases, and not others.
+
+What I think will be an interesting tie in some time in the future is not only medication based on our own genetic capability (and reality, looking at personal proteomes and such), but also that of our microbiota.  I know certain medications work the way they do because they are partially metabolized by some of our gut microbes prior to be absorbed into the body.  
+
+As it stands you can learn a little bit about your propensity for diseases. That you have X% chance of this and that. The science is shaky though that the companies pedal. Many of them do not do whole genome sequencing and only do partial sequencing in the areas they have markers for. 
+
+Something to think about is that we are not just our genomes. There are epigenetic effects that change the expression of those genes, such as methylation of DNA and histone modifications to make DNA more or less accessible to binding proteins.

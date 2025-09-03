@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words:
+
+I submitted a support post a few days ago about how I am using an Ethernet power link adaper to gain wired internet wirelessly, but it didn't work. I have now realised that my computer is the problem in why my Ethernet adapters do not work.
+
+When you are plugged into the powerlink via Ethernet cable what lights do you see on the powerlink and what lights on the PC Ethernet port?
+
+So you have green lights on both ends then, that's good.  Also verify that the powerlink that is connected to the router has the green lights on both ends of the connection.
+
+I’m unable to connect directly to the router as it’s upstairs, but I’m just gonna go ahead and do a clean install of windows, I’ve really tried everything and nothing works.
+
+Ok turns out after doing a clean install of windows I am still having this problem.

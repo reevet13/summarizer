@@ -1,0 +1,38 @@
+Original Response:
+A pickled egg would be interesting to watch.
+
+The vacuum of space isn't the ultimate exploding force that some movies make it out to be. My intuition says the egg holds.
+
+This can be replicated on earth pretty easily. I wonder if the surface scientist where I work will let me use one of his high vacua...
+I agree, although I only have intuition.  Speculation on the whites/yolks freezing in space is unlikely in the short term due to the slow transfer of heat.
+
+I wonder if the result would be different if we removed the shell with vinegar first.
+Nothing dramatic. Maybe the UV from the sun would scorch the shell.
+I'm assuming normal conditions.
+
+At explosive decompression the egg will explode (it has an air chamber, and contents will first degass, then boil), and the result lose water until completely dry.
+
+At slow decompression the egg will crack, and leak its contents, which will lose water until completely dry.
+
+At very slow decompression the egg will remain whole, but will be desiccated.
+I'm new here, but I'll venture a guess and hopefully everybody will be nice?
+
+If we assume an egg's internal pressure to be the atmospheric pressure at sea level,  about 14psi, and also assume the egg to be spherical with a radius of one inch to make the math easier we can use the following:
+
+Total outward force = surface area x pressure
+
+surface area of a sphere = 4piR^2 
+
+total outward force = (4)(3.14)(1in.)^2 x 14psi = ~176 lbs
+
+So for a spherical egg with a 2 inch diameter the total outward force from internal pressure is roughly 176 lbs.  Without the atmospheric pressure to balance things out I doubt the egg could remain intact.  A one inch wide egg would face about 44 lbs of internal force in a vacuum.
+
+Also something to keep in mind is that the curvature of the egg allows forces from the outside to be distributed along the surface which increases its strength, that's one reason it's very hard to break an egg with your hand without digging a finger into it.  Eggs are much weaker from the inside which allows little baby birds to break them open.  
+
+Hope that helps!
+
+Edit:  I just now read the article, *facepalm*
+
+Summary:
+A one inch wide egg would face about 44 lbs of internal force in a vacuum.
+At very slow decompression the egg will remain whole, but will be desiccated.

@@ -1,0 +1,14 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+• "I'm at my wits end here, I've tried multiple different methods, I even tried using a wifi extender. No dice."
+• "Ethernet cable is not an option because of the placement of my room/the router."
+• "Cat5 vanilla will do gigabit over shorter distances"
+• "Cat6 vanilla is rated for 10gig up to 55 meters unshielded"
+• "If you want more information on a kit and how to put a cable together, I'd be happy to guide you through it."
+• "My router is also 30ft-40ft from my office (1970s design) in my apartment and I would never stand a chance for being able to game on the wifi due how congested the airwaves are."
+• "If by gaming, I assume applications heavily affected by latency like First-Person-Shooters, you will never be able to play on WiFi unless it is less than a meter from the access point (even then packet loss can still cause a serious detriment)."
+• "I switched to the 2.4 GHz channel and am still having the same problem"
+• "INB4 your roommates rate limited you."
+• "If you can do 10 up, you should be able to do 10 down."
+
+Please note that I've only selected sentences from the original text exactly as written, without rephrasing or adding words.

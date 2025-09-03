@@ -1,0 +1,9 @@
+Original Response:
+Let's say there is some environmental factor that would lead to having a gene expressed for the first time, is this process happening fast, or depending on the function?
+It depends on a lot of factors, though I'm afraid I can't give you numbers.  
+
+For example, there are some gene expression cascades that go through many intermediates--receptor to second messenger to long kinase cascade--and which also require the methylation/acetylation state of the histones and DNA in the region of the gene to be changed and polymerase to be recruited before transcription can begin--and then some genes have complicated downstream processing events as well.
+
+Alternately, there are systems in some organisms that involve only one or two steps and have the DNA waiting in an "open" conformation or a polymerase already "poised" at the site.  There are some methods of control that happen at a translational level, so you don't even have to wait for transcription and RNA processing, and the protein will begin being translated almost instantly.  And there are various combinations of these methods of regulation.  So it very much depends on the organism and how the gene in question is controlled.
+
+Summary:

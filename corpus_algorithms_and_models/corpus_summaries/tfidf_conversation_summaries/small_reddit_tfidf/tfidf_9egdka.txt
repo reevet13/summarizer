@@ -1,0 +1,143 @@
+Original Response:
+Knowledge is power! More knowledge the better.
+&gt;Knowledge is power! More knowledge the better.
+
+but sometimes being knowledgeable is dangerous and can cause something bad
+Not necessarily. 
+
+&amp;#x200B;
+
+Edit: To clarify, I meant, knowledge is power, obviously. As someone who works every day with data, more knowledge does not necessarily = better.
+I guess that just depends on how you make use of the knowledge.
+Plus it weightless so carry as much as you want.
+How to remember it all though?
+I had a sticker on my binder for English in 8th grade that read:
+
+&gt;Knowledge is Power.  
+&gt;  
+&gt;Power Corrupts.  
+&gt;  
+&gt;Study Hard. Be Evil.
+
+My heavily Christian teacher did not appreciate it as much as I did. She also didn't like my opinion that the Left Behind series wasn't the greatest book ever.  ¯\\\_(ツ)\_/¯
+If its worth it and it is useful enough you'll always remember it, the mind is a powerful thing
+&gt; I had a sticker on my binder for English in 8th grade that read:
+&gt; 
+&gt; 
+&gt; 
+&gt;     Knowledge is Power.
+&gt; 
+&gt; 
+&gt; 
+&gt;     Power Corrupts.
+&gt; 
+&gt; 
+&gt; 
+&gt;     Study Hard. Be Evil.
+&gt; 
+&gt; 
+&gt; 
+&gt; My heavily Christian teacher did not appreciate it as much as I did. She also didn't like my opinion that the Left Behind series wasn't the greatest book ever. ¯\_(ツ)_/¯ 
+
+you can't please everybody with your principle. we have different belief and ideas to have
+You dropped this \ 
+ *** 
+^^&amp;#32;To&amp;#32;prevent&amp;#32;anymore&amp;#32;lost&amp;#32;limbs&amp;#32;throughout&amp;#32;Reddit,&amp;#32;correctly&amp;#32;escape&amp;#32;the&amp;#32;arms&amp;#32;and&amp;#32;shoulders&amp;#32;by&amp;#32;typing&amp;#32;the&amp;#32;shrug&amp;#32;as&amp;#32;`¯\\\_(ツ)_/¯`&amp;#32;or&amp;#32;`¯\\\_(ツ)\_/¯`
+
+ [^^Click&amp;#32;here&amp;#32;to&amp;#32;see&amp;#32;why&amp;#32;this&amp;#32;is&amp;#32;necessary](https://np.reddit.com/r/OutOfTheLoop/comments/3fbrg3/is_there_a_reason_why_the_arm_is_always_missing/ctn5gbf/)
+yes it is because the greater knowledge you have. the more you are prone to evil thing
+I would rather be top 90 percentile in related multiple skills than top 99 pencentile in one. Never understood the real push to pure specialization minus the pure theoretical optimization in total production capacity and then trade, id much rather look out for myself.
+The pay can be greater in a specialized field. At least in my line of work. 
+
+I’m a systems administrator with a wide array of knowledge in random software. Yet to break over 125k  it seems I need to be specialized in something.
+Whoever Downvoted you is clearly making $40k generalizing.
+Anyways  I should have set that number to 100k. Fuck it 125  has been written and it shall remain. 
+
+Edit: People don’t like number of dollars posted. Not sure why it’s seen as a taboo to share salaries. Mine goes to drugs and whores like the rest of the community.
+I think you mean top 10 percentile?
+Try consulting. I make amazing money being a generalist
+I need my security clearance then I’ll make bank. Do you work for or own the company? Can I ask pay scale?
+Started my own company about 6 months ago. Currently making 15-25k/mo depending on my active contacts. Prior to that I was an employee making 150k plus bonus.
+
+Current domain is IT Risk Management. Prior to that I did IT security; Network Management; and supported the back end of a help desk ticketing system, among other things.
+
+I can program in Java, .Net, python, and ruby, can integrate data from different apps to present a single cognizant picture of an environment. I've designed a web app and data layer which scaled to hundreds of thousands of requests per second, migrated homegrown and COTS applications to the cloud, and administered pretty much any component on a network except for MPLS routers.
+
+I would be soooo bored if I only had one thing that I could do in a day.
+
+Like someone said above, quoting Heinlein, specialization is for insects.
+You definitely have the kind of IT job that will be around for a while.
+
+what are your thoughts on machine learning and automation making a big chunk of the IT profession obsolete?
+I to am venturing into the cyber security field. But more of a systems side approach. Implementing asset inventory, software controls, server configure etc. patch management, vulnerability scoring and mitigation. Can I drop you a pm?
+Nah we use machine learning to help us correlate data but there is always the need for humans to step in and say yes this is right. Or no this is wrong. At least in our life time. 
+
+Plus I am the Splunk\SEIM  guy; so I will be the one feeding the data to the machine. Muahahaha
+Absolutely
+Sent. Thanks man. Hopefully we can turn this into the greatest damn cyber security adventure to ever come out of Reddit....Maybe.Probably not. But looking forward to chatting with ya
+Just pick a single tool and become a SME.
+Good question.  Honestly, automation has been happening in IT for longer than I've been doing this job.  One of my main tasks earlier in my career was to automate and script parts of my daily tasks so that myself and other engineers could work on more 'interesting' tasks, and individuals and products have been doing it for decades now.  We're already seeing some of the effects of this in that jobs that were once done by entry level people as a way to get their foot in the door are now automated, making it much harder for entry level people to get their first job and move up the chain.
+
+As for an AI that can take over the majority of IT tasks, I'm not really that worried.  Automation is slowly and steadily moving up the chain, but only to augment what an Admin or Engineer does, not to replace it. 
+
+There's a \*\*lot\*\* of resistance from people if you try to implement a technology that will \*\*replace\*\* one of their tasks instead of \*\*augment\*\* it.  
+
+Back when I was working on the network management tools, our team wanted to help the LAN/WAN guys by automatically trying to bring an interface up if a 'this link went down' alert was triggered, which is the first step in their SOP for dealing with a down interface, and then only alert them if this failed.  The LAN/WAN guys strongly and thoroughly rejected this, and would rather have the downtime until someone in the NOC could run through their playbook.  
+
+They didn't want to give access to the tool, even if it was running predictable behavior and only doing the things that an engineer would do as part of triage.  Now imaging the resistance that would be generated if the tool didn't follow a playbook but acted 'intelligently'.  You'll never convince the WAN guys to allow it to touch their devices.
+
+At the point if/when a truly general purpose comes along and can perform in such a way as to make the majority of IT staff obsolete then \*\*everyone\*\* is screwed, and I hope that by that point society has figured out a way to deal with it.
+Working on it now my friend.well a SE. what’s a SME? 
+
+A PM role would be pretty sweet too
+Lol correct
+The key is to be the person who writes the automation scripts. We execute basic stuff now for disk expansion but the possibilities are endless. The problem some will see if refusing to learn the languages. And yes you nailed the wan rejection. Unless it’s Cisco they won’t even open the tool. Pisses me off. Some are embracing it but those are usually the ones who manage both servers and network.
+With most businesses viewing IT as a cost that must ever be reduced, those tasks that CAN be automated to replace people will eventually come about though due to management pressure.
+
+People gotta eat, even if it's working for Comcast or automating the jobs of others away.
+
+I guess I should have phrased my question better.
+
+At what level do you think it's not possible to automate IT jobs in the next 10 years? Obviously you're safe, but how much further down the talent ladder do you have to go until a rack mounted box takes a job?
+We downloaded a security automation tool called Phantom. It worked to integrate apps and create workbooks. It wouldn’t have replaced anyone. It just would have changed their duties. Automation while shape what we do as administrators but you won’t see us being replaced anytime soon. 
+
+The people who write automation are programmers, the people who setup the servers for the automation tool to run on are administrators. They will repair it when shit breaks. We tried to move to a more cattle orientated server farm but couldn’t so we still treat our servers like pets. 
+
+While I get what you’re saying it should be worded that IT roles will be shifting to meet automation needs. 
+
+My dude if all we did was IT that would make our lives great. We literally have to organize every project meeting for this government otherwise nothing gets done, we are out locating fiber cables for diggers hotlines, we are running vulnerabilities scans and mitigating risks. We have to help people reboot their god damn computers. Lol. 
+
+Anyways I say give it 30 years before we are automating jobs out of IT. Fuck some of these folks are still running server 2003! If they can’t upgrade a server to something this decade then I’m not stressing.
+Subj. Matter expert.
+Or. I thought he meant sales engineer. That’s what I’m going for now :)
+&gt;At what level do you think it's not possible to automate IT jobs in the next 10 years?
+
+Y'know, I've been doing this work for 15 years now, and there's not a *whole* lot more capability today than there was when I started.  There's definitely more tools around now that automate the work (for a yearly license fee based on the number of hosts managed) that an engineer used to do, but it's incremental change, not pivotal.
+
+Maybe we'll hit the hockey stick curve in the next 10 years, but I've got a feeling that the tool set that people use will still be focused on  the tactical problems of managing a network, but completely unable to deal with the strategic problems which at the end of the day are the high-value issues.
+
+&gt;how much further down the talent ladder do you have to go until a rack mounted box takes a job?
+
+Another great question.  We've been replacing humans with machines for centuries.  As an individual you just need to find a way to ensure that the skills that you can provide are something that can't be replaced more efficiently by a machine.  As long as the rate of change is incremental it's not too hard to stay ahead of it, but if it turns into a hockey stick then we're all in trouble.
+Great post. Thank you.
+
+Summary:
+&gt; 
+&gt; 
+&gt; 
+&gt;     Power Corrupts.
+I guess that just depends on how you make use of the knowledge.
+At what level do you think it's not possible to automate IT jobs in the next 10 years?
+Anyways I say give it 30 years before we are automating jobs out of IT.
+&gt; 
+&gt; 
+&gt; 
+&gt;     Study Hard.
+&gt;At what level do you think it's not possible to automate IT jobs in the next 10 years?
+It just would have changed their duties.
+As someone who works every day with data, more knowledge does not necessarily = better.
+Can I drop you a pm?
+yes it is because the greater knowledge you have.
+My dude if all we did was IT that would make our lives great.
+My heavily Christian teacher did not appreciate it as much as I did.
+Honestly, automation has been happening in IT for longer than I've been doing this job.

@@ -1,0 +1,143 @@
+Original Response:
+If I take a very strong 1 gallon container to the bottom of the Marianas Trench (35800 ft) fill and seal it and return to the surface, how much water will I have?
+[deleted]
+The bulk modulus (how much something compresses when it's squished) of water is 2.2 gigapascals, while the ocean depths are about 0.1 gigapascals. That means it compresses by about 5%.
+Naturally, I defer to the specialist in Condensed matter. I thought the OP might also enjoy looking at / reading up on [water's phase diagram](http://www.lsbu.ac.uk/water/phase.html).
+How much water would be in the container then, 1 gallon plus 5% of a gallon?
+Basically.
+[deleted]
+The neat thing about this is that lots of other substances compress more that water. So if you took, say, a chunk of Styrofoam and put it in the water, it would float. Drag it down 100 feet and it will float to the top. But drag it down far enough and the pressure will compress it until it is more dense than water and it will sink to the bottom.
+
+I like unstable equilibria
+This answer covers it from a pressure perspective. But the deep ocean is [about 2 C](http://en.wikipedia.org/wiki/Deep_ocean_water). Moving water up to 20 C will [decrease its density by about 0.25%](http://www.engineeringtoolbox.com/water-density-specific-weight-d_595.html). Not what he is asking though, is it.
+[deleted]
+Theoretically. But the equilibrium would be unstable: a tiny nudge in either direction would send it up to the surface or down to the bottom.
+I thought water was in-compressible?  Please explain this to me
+In practical terms, it's essentially uncompressable, but like most things you were taught about physics in High School (or many intro college courses for that matter), there are caveats and simplifications they don't tell you about.
+Thanks, I suppose engineering only takes the idea as far as necessary.  So what happens to the water, or how does it compress?
+Practically speaking, the amount of force needed to compress water is so large that we tend to think of it as not being compressible at all.  This is not literally true though and under extreme pressures (like at the bottom of the Marianas Trench) water will be compressed slightly.
+This is actually a fun trick to do in a hot tub or a pool with friends. Take a clean, empty bottle (we use beer bottles, cause, y'know...), fill it perhaps halfway with water, put your palm over the opening, turn it upside-down, and put it underwater and then remove your palm. You might have to play around with the water level a bit, but what you'll find is that if the bottle is near the top of the tub it'll float when you let go, and it'll sink if you let go of it near the bottom of the tub. Somewhere in between will be a point of neutral buoyancy, and that's really fun to play with.
+
+This happens because as you bring the bottle deeper underwater, the water pressure starts compressing the air in the bottle. When the air compresses a little bit, more water is allowed in the bottle, and that increases the overall density of the bottle as you bring it deeper and deeper.
+Same as anything, the molecules move closer together and it becomes more dense.
+It also depends on how fast it may be moving. Higher flow rates can cause strange things to happen, as can be exhibited by the constants you need to use to calculate various properties.
+This is correct in terms of the additional clairification OP gave.  
+
+However, the question as stated is completely open ended, and I think from a physics standpoint the correct answer would actually be infinitely.  If you put water in a black hole, it would compress to a singularity, although I'm not sure you could get the water back after that...
+Could water technically be compressed to a point where it becomes a solid?
+[deleted]
+Yes. If we compress it isothermally from room-temperature, at about 1 GPa of pressure (145,000 psi) it will turn from liquid to Ice VI. Further compression would result in conversion to Ice VII, then Ice X, then Ice XI. Each of these 'ices' represent different arrangements of the water molecules within the solid lattice structure of ice.
+[deleted]
+That's interesting.  If it were possible to create a gallon container that could hold water compressed at 2.2 gigapascals, how much would that weigh, and how much water would actually be in there?
+
+Would it be feasible to pack large amounts of pressurized water, that can be slowly depressurized for drinking water on long trips through areas with no water (i.e. outer space)?
+Wait, so as the pressure increases, the solid actually rearranges its structure?  Does it change visually as well?
+Yes, exactly. Most of the 'look' of regular ice depends on how it is crystallised (as an ice cube, as snow, etc), and I suspect it's the same with the high-pressure phases. Most of them have been created in only a few labs around the world, or have been calculated to exist using computational chemistry/physics... unfortunately old bearded scientists don't tend to take too many photos of their creations, so I've none to show you.
+Can these be formed or maintained purely by temperature? Or is pressure always required. Is Ice I what you get in your freezer?
+Pressure is absolutely required. Have a look at the [phase diagram](http://www.lsbu.ac.uk/water/phase.html) KevZero posted earlier. It shows that at fridge-freezer conditions, ice Ih is formed, but to produce the higher structures, you must hold your ice block above a certain pressure (very high) and within a specific temperature range which depends on the pressure.
+For a measly 5 percent gain you would introduce all the complexity required of compression.  Not worth it.
+If the purpose of the water was for consumption on a space mission the compression wouldn't help you much.  The expense of a launch can come down to its payload to fuel ratio, which depends on the mass of the payload (which would include the water).
+
+Since compressed water would have the same mass as uncompressed water, just in a smaller volume, you wouldn't save anything from reduced mass.  I would not think that a slight reduction in volume would save you much on launch costs either.  I am, however, not an expert on any of this.
+
+If this were for a trip across a large dessert, however, it may be that reducing the volume would make a difference.  I'm not familiar with what sort of costs would be associated with that kind of trip.
+
+Info on payload fractions if you were curious: http://en.wikipedia.org/wiki/Useful_load_fraction
+interesting
+Is there any substance to the whole 'cannonball stacking' concept behind ice IX in Cat's Cradle or is that basically just a fun doomsday-ex-machina kind of thing?
+I haven't read the book, so I'm not sure what the cannonball thing is. From what I've heard of the book in general it's mostly fun doomsday type stuff, loosely based off actual science.
+http://en.wikipedia.org/wiki/Cartesian_diver
+Does the amount of compression in the ocean's waters mean that if some event were to cause the ocean's waters to become uncompressed, the entirety of the world would be flooded?
+I tried to find an index of compressibility of room temperature liquids to no avail the other day. Any idea on where I would look?
+This really blew my mind. I knew water was mildly compressible, but your comment made me go look this stuff up and figure out bulk modulus and such. Now I just wonder if we have the tech to make vessels that can contain 2.2 GPa. I know more has been achieved in a lab but that doesn't mean quite the same. But more than 40% compression is quite a bit, and I wonder if it could be practically beneficial.
+Explain this Ice VII, X, XI thing a bit more...
+
+My understanding has always been water expands when it turns into ice, but you're saying there are arrangements whereby ice does not expand?
+
+Why is that not the default form of ice?
+
+(my brain is imploding slightly)
+http://hyperphysics.phy-astr.gsu.edu/hbase/tables/compress.html
+A common thing for grad students on oceanographic vessels to do was to attach an empty cup-o-noodles to gear going down to depth, then get back a nice shrinky-dinked souvenir (I have one that went down to 3000m, shrunk down to about 2" high).
+And since we're talking about grad students, no one has to ask where the cup-o-noodles came from.
+Hypothetically speaking, if you reduce the volume of space the water *must* use, you do end up in a net gain, even if the overall payload's mass is unchanged, though if you're using the "gained" space for more material, you're actually going to increase the payload by packing the water more efficiently. And on the reverse, if you reduce the overall size of the spacecraft because of the reduction in the size of the water supply, you would result in a smaller payload.
+
+But realistically speaking, compressing the water would *probably* be a far larger waste of energy than it would potentially gain in a possible reduction of the payload. **Edit**: Actually, I'm going say it's not *probably* a larger waste of energy, it *would be* a larger waste of energy.
+Sure, I'll try my best. Ice, obviously, is the solid form of water. The vast vast majority of ice we ever encounter is of the type 'Ice Ih'. Think of this as the technical name for the type of ice that snow is made of, that ice cubes are made of, that the ice on the road is made of, that the ice in ice-blocks and snow-cones are made of, etc. In this particular type of ice, the water molecules arrange themselves into little hexagons each composed of three molecules. These hexagons are then tesselated next to and on top of one another, billions of times, to form a macroscopic ice crystal. Remember this is what the structure of *regular* ice is. It just so happens that regular ice, Ih, is less dense than the liquid from which it is formed. Quite bizzare. 
+
+Now, on earth there is naturally a relatively limited range of conditions. The temperature only ever really fluctuates between about +50 and -50 ºC (save for a few extremes) and the pressure, importantly, only ever really varies a few percent either side of atmospheric pressure (101.3 HPa, or 14.7 psi, or 1 bar, etc.) This is in the places where we are likely to see ice, so not under hundreds of tons of rocks and shit. If, however, you take a regular old ice-block out of your freezer and put it into a diamond anvil or some other pressure device, you can squash it. You would expect this would shatter it, like when you drop and ice-block on the floor. However, if it is a particularly pure and crystalline ice block which has been well-formed, and it is surrounded on all sides when you are trying to squish it, the pressure within the ice block will steadily increase. As it increases, it becomes favourable for the molecules which constitute the ice block/crystal to rearrange themselves to a more energetically favourable structure. Enter the other crystal structures of ice.
+
+If we have our little block of ice at 0 ºC but we squish it so hard that it has 10,000 times the pressure of the atmosphere resting on its poor little shoulders, the water molecules in the seemingly solid block of ice will spontaneously rearrange. Under such a pressure the Ice Ih converts to [Ice VI](http://www.lsbu.ac.uk/water/ice_vi.html), which instead of having hexagons of water molecules making up its lattice, it has (sort of) tetrahedrons of water molecules. This is a simplification, because crystal structures are quite complex. So not only does this type of ice that exists at such a pressure have a different structure, but it also has an increased density - approximately 1.3 gcm^-3, compared to the 0.91 gcm^-3 of ice Ih, the regular ice. As you progressively increase the pressure, the ice block of ours continues to go through structural rearrangements to energetically optimise itself with the new-found pressure. Increasing the pressure past 10,000 atm we go through Ice VII, Ice X, and finally through to Ice XI, which only exists at pressures of around *1,000,000 atmospheres, or 15,000,000 psi.
+
+tl;dr: These high-pressure forms of ice aren't the default kinds of ice because they only exist at high pressure. At regular atmospheric pressures where ice Ih exists, it just 'likes' having a bit of space in its lattice and being less dense. You can think of it as water molecules not really liking each other too much, and it taking a fair bit of pressure to push them really close together.
+[deleted]
+The 5% gain is at .1 gigapascals.  At 2.2, it would be twice as compressed.
+Thank you so much.
+Do all molecules behave this way? Several different forms of the same solid depending on pressure?
+Of course, if it were for a space mission, you could just store the hydrogen and oxygen separately. It compresses very well that way, and may be used either as water or as propulsion.
+Theoretically perhaps, but since the water on top is what is compressing the water at the bottom that really couldn't exactly happen. If gravity went away we would have problems though, that and others
+No it's just a story.
+Not all, but many. Surprisingly, despite water's commonness it has one of the larger numbers of temperature and pressure-dependent crystal structures that we know of. This is possibly because it has been investigated a lot more than other compounds though, a sort of consequence of it being so ubiquitous through our environment. It is always nice to know intimately the properties of the most common materials.
+
+Consider pure, plain old carbon as an example of another type of compound with different structures. Depending on the heat and pressure during formation (as well as a few other factors) you can get diamond, coal, graphite, buckyballs, etc. Not exactly the same phenomenon but similar.
+
+Also I was pondering my previous post, and here's a doozy for you: The pressures at which Ice IX forms (1x10^6 atm) is the same pressure a 1-inch ice-cube would have if you balanced **7 Boeing 747's** on it. So quite a lot.
+I'm glad it takes that much pressure. If it was easy to make ice sink instead of float our oceans might run into some problems.
+Thank you.
+
+Are none of the different forms of ice [metastable](http://en.wikipedia.org/wiki/Metastability) ? i.e Having created Ice VI, if you return the pressure to normal, what would cause/trigger it to re-form as Ice 1h ? Could I have a nice block of Ice VII on my desk ? (for a while). Could it decay to Ice 1h like radioactivity (with a half life) 
+
+Related: Why are phase diagrams shown with sharp lines, surely crossing a phase boundary would not always trigger the change  to the (phase) dominant form ? eg It takes heat and pressure to create a diamond, but when the pressure is then released, it stays a diamond
+I actually downvoted you, because 0.1 times two is not 2.2.
+
+I then did the math in a reply. Have an upvote, fine sir. Solid science.
+[deleted]
+Metastability!!
+Figured as much... But once I learned that ice(x) is not just a sci-fi concept I got really excited  and had to know.
+If you separate 1 mol of water (18ml) into hydrogen and oxygen, then cool them to 15K and 85K (just below their boiling points), the hydrogen will have a liquid volume of about 26cc and the oxygen will be about 27cc.
+
+The total combined volume is roughly 2.8 times that of the water.
+
+You might be able to combine them in one container to get a somewhat smaller volume (like combining alcohol and water, the combined total smaller in volume than the separated sum) but I suspect that would be a rather unsafe way to store it.
+http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Phase_diagram_of_water.svg/725px-Phase_diagram_of_water.svg.png
+The average depth for most liquids is between 30-35 feet, not sure about styrafoam though.
+[deleted]
+Ramen to that.
+Pun threads instantly irritate me.
+Just sympathizing, as a fellow graduate student.  I would never intentionally cannoodle with punsters.
+Would the water still be water though?  That is, would it break down into hydrogen and oxygen or at least at the point of singularity, decompose into subatomic bits or something?
+i remember reading about water being compressed so much on a possible distant planet that it turns into what they called ice 7, that due to the pressure it forms ice but not because of the result of temperature. [ice 7](http://en.wikipedia.org/wiki/Ice_VII)
+I'm not sure about your question but I have watched a natural geographic special on distant planets. One was this world composed almost completely of liquid water. The planet was so large that as you got closer and closer to the core, the pressure present was so high that it forced the water to become ice. The ice was not cold though. Due to the emmence pressure the water was actually very hot. As far as I could infer from this though, of the water were to be brought to the surface it would simply "fall apart" and become liquid water again.
+This works better with just a standard water bucket, and use a plastic cup of water. Use the see through ones to see exactly how it works.
+That's not what this is.
+Still a gallon, just denser.
+[Diamond anvil cells](http://en.wikipedia.org/wiki/Diamond_anvil_cell) can get beyond 300 GPa.  Even a lowly piston cylinder press can get up to 4 GPa.
+Is it still perfectly intact? A picture of that would be awesome!
+haha. I mean a containing vessel like a bottle or canister. Could we make, probably first a large, container that can hold water under GPa of pressure? I know we've gotten faaar beyond 2 GPa in the lab.
+Yes.  A piston cylinder press can be used as a container.
+Oh duh. If you can make the press you can not only use it as a container, but you can obviously build just a container. =P
+Am I the only one who finds it souper hard to let these things go?
+Yeah, probably. Just chill out and enjoy the science.
+Hit and a miss.
+
+Summary:
+So what happens to the water, or how does it compress?
+Ice, obviously, is the solid form of water.
+Would the water still be water though?
+Could water technically be compressed to a point where it becomes a solid?
+Is Ice I what you get in your freezer?
+Remember this is what the structure of *regular* ice is.
+The ice was not cold though.
+That means it compresses by about 5%.
+Could we make, probably first a large, container that can hold water under GPa of pressure?
+I'm glad it takes that much pressure.
+Wait, so as the pressure increases, the solid actually rearranges its structure?
+It just so happens that regular ice, Ih, is less dense than the liquid from which it is formed.
+Several different forms of the same solid depending on pressure?
+I thought water was in-compressible?
+Could I have a nice block of Ice VII on my desk ?
+The neat thing about this is that lots of other substances compress more that water.
+But drag it down far enough and the pressure will compress it until it is more dense than water and it will sink to the bottom.
+Why is that not the default form of ice?
+At regular atmospheric pressures where ice Ih exists, it just 'likes' having a bit of space in its lattice and being less dense.
+Enter the other crystal structures of ice.

@@ -1,0 +1,79 @@
+Original Response:
+If cells use the food stored within the cell to then create chemical reactions that in turn generate heat, how does that transfer into energy?
+
+How is energy stored?
+
+Or maybe you can just translate this into layman's terms?
+http://library.thinkquest.org/27819/ch4_3.shtml
+I don't know who can answer here in terms of qualifications. Heat is not used as energy. Energy from exergonic reactions are transferred to electron carriers (NAD+/FAD,NADP+,etc) as hydrides(H-) or H radicals(H*). The energy can also be used to attach a phosphate to ADP to form ATP. ATP has high energy phosphate bonds(chemical potential energy). The energy can then be used by hydrolizing ATP into ADP+Pi. Pi is inorganic phosphate. 
+I believe cells are 72% efficient so only 28% of the energy leaves as heat. Heat is largely useless which is why cells have electron carriers which carry "energy". Organisms do heat themselves up and some even undergo respiration without ATP synthesis to produce heat depending on the environment. 
+
+Sorry if I'm unclear, metabolism is complex. Source: Biochemistry at MIT
+http://en.wikipedia.org/wiki/Cellular_respiration
+
+I found this, 
+
+The article states, "Aerobic respiration requires oxygen in order to generate energy (ATP)"
+
+Simplified reaction:	
+C6H12O6 (aq) + 6 O2 (g) → 6 CO2 (g) + 6 H2O (l)   
+ΔG = -2880 kJ per mole of C6H12O6
+
+In this chemical equation, how does -2880 kJ per mole translate into the "energy" needed for the cell to the work.
+
+And I guess I am asking, in this case, what is energy?
+Heat is waste.  But the energy carrier is ATP.  
+
+Imagine that the ATP molecule is a spring-loaded gun loaded with a phosphate group (the phosphate are connected by high energy bonds - these represent the compressed spring's potential energy).  When the cell wants to do something, it pulls the trigger and shoots a phosphate onto whatever needs energy (the bond breaks providing the activation energy for the next chemical reaction).
+"it pulls the trigger and shoots a phosphate onto whatever needs energy"
+
+Let's say, my bacteria cell needs energy to move in water, to move the flagellum.
+
+Are you saying that a phosphate is shot to those components and another set of reactions making the flagellum move?  (Essentially?)
+
+...
+I think I got the general concepts, I still may have to research the actual physics behind the energy generated from the chemical reactions.
+Well, heat is a FORM of energy. Though the cells do produce some heat, most of the time the direct production of heat is not their desired primary outcome. So when the cells break down carbohydrates, they use enzymes which are nothing but exquisite molecular machines to "transfer" the energy contained in these carbohydrates et al. into a molecule called ADP to produce ATP. So ATP essentially "stores" the potential energy in the form of a chemical bond. Essentially, if we break this chemical bond as a purely chemical reaction, it will just give out heat. But our cells again use special enzymes to channel this energy in the ATP bond to do other work, which very often just involves creation of another chemical bond or change in chemical conformation.
+
+In a very basic way, an analogy is your car's engine: what the burning of fuel produces normally is heat, but using a very special machine we try to convert a good chunk of this energy release into mechanical work. In a very distantly similar manner our bodies try to use energy from exothermic reactions to controllably do whatever other things they want to do. 
+
+I tried really hard to put it in layman's terms, but if its confusing please tell so!
+No, I got the general idea.
+That's the exact reaction that happens when you burn glucose. When you burn glucose, most of the chemical potential energy is converted to heat.
+
+However, in a cell, the glucose undergoes a series of reactions that allows it to take a good chunk of the chemical potential energy in glucose and use it to make ATP. There is still some heat lost in respiration, but it transfers a lot of the energy in glucose to ATP.
+&gt;Let's say, my bacteria cell needs energy to move in water, to move the flagellum. Are you saying that a phosphate is shot to those components and another set of reactions making the flagellum move? (Essentially?)
+
+Well in the case of flagella, no:
+http://en.wikipedia.org/wiki/Flagellum#Bacterial
+&gt;The engine is powered by proton motive force, i.e., by the flow of protons (hydrogen ions) across the bacterial cell membrane due to a concentration gradient set up by the cell's metabolism 
+
+So if this is the same proton-pump used in the process to make ATP, then no, ATP isn't used to move flagella. ATP production is used to power flagella (efficiency!).   The energy to move the flagella therefore would come from the oxidation of a simple sugar and the electron-transport chain.  (The energy-carrying molecules in the electron-transport chain do not carry as much energy/aren't as efficient as ATP, in case you're wondering why they aren't used instead of ATP and why the entire metabolic cycle doesn't just stop at that point.)
+This is a simplified chemical reaction. Glucose undergoes glycolysis where it is broken down into pyruvate. During the breakdown you pass energy in the form of bonds to electron carriers which in turn go into oxidative phosphorylation. You also form 2 ATPs which is not much energy. The carriers donate the electrons which eventually make their way to complex IV where H2O is formed. During the process, hydrogen atoms are pumped across the inner mitochondrial membrane. This takes energy which is brought in by the electrons. 
+The energy has been passed from the carriers to forming a H+ gradient which is now has potential energy. A flow down the concentration gradient gives the energy required to make ATP.
+
+In short, the energy from glucose is stored in ATP. It takes energy to make ATP out of ADP which is provided by the exergonic breakdown of glucose.
+from 1 molecule of glucose you produce 38 ATP and use 2 in glycolysis so I think the net gain is (36 ATP).
+The 2880 kJ/mol is mostly stored in ATP. Some is lost as heat because nothing is perfect.
+And you can define energy as the ability to do work I guess.
+"In a very distantly similar manner our bodies try to use energy from exothermic reactions to controllably do whatever other things they want to do."
+
+For chemical reactions, especially in cells, where can I learn more about 'that energy'.  Like you said, it isn't mechanical.
+
+Maybe it is specially 'chemical potential energy'.  How does that work? From my brief scan online, extra H+ ions are released in the area?
+I think you are missing a key part of understanding. The chemical reactions are used to create a proton gradient, that is, hydrogen atoms are pumped against equilibrium into an area. Then the electrical charge of hydrogen is attracted to molecules on the other side of the membrane (that it is bound in), the only way to lower the energy of the system is for the hydrogen to go through a special pore that harnesses a small amount of energy and attaches a Phosphorus atom to a molecule of ADP turning it into ATP. Think of this like a water turbine, because in reality it has very similar physical characteristics. 
+
+
+[a video I found](http://www.youtube.com/watch?v=KU-B7G6anqw) that shows this
+
+Is this what you are asking about?
+Yea.
+
+Summary:
+Heat is not used as energy.
+But the energy carrier is ATP.
+Well, heat is a FORM of energy.
+So ATP essentially "stores" the potential energy in the form of a chemical bond.
+The energy can also be used to attach a phosphate to ADP to form ATP.
+Maybe it is specially 'chemical potential energy'.
+In short, the energy from glucose is stored in ATP.

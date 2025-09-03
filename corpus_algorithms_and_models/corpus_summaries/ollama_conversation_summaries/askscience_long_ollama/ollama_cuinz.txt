@@ -1,0 +1,13 @@
+Here is the summary of about 10% of the text, up to 250 words:
+
+When you sit on a bicycle that's stationary, it's very difficult, if not impossible, to keep it from falling over. Yet, at speed, it's extremely easy to keep from falling over.
+
+The geometry of the bike keeps you from falling forwards. Combine that with your forward momentum and you've got yourself a model that doesn't require gyroscopic forces.
+
+Leaning right produces a rightward force that will cause you to fall down. Turning right produces centripetal forces on you, towards the left - enabled by the friction between the ground and the bike tires.
+
+Turning right produces centripetal forces on you, towards the left - enabled by the friction between the ground and the bike tires, the same "fulcrum" so to speak. This leftward force (hopefully) balances the rightward force, and you remain in equilibrium.
+
+The stability of a bicycle is determined by its geometry and the rider's ability to counteract tilting by steering.
+
+Gyroscopic forces make it easier to rotate about the centre of the gyroscope, and harder to rotate elsewhere. Because the centre of mass is above the wheel centres on a bike, gyroscopic forces actually make it easier to fall.

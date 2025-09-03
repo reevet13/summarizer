@@ -1,0 +1,19 @@
+Here is the summary:
+
+Technically correct answer 'yes', for all intents and purposes no.
+
+The BTC chain would need to be changed to have more coins and then everyone would need to agree to use the new chain.  It technically would not need to be forked but if this ever happened it would most likely be a hard fork as there will be many people opposing the change.
+
+Anything about bitcoin can change, it is just code but changing the block-generation reward to allow more than an asymptotic limit of 21 million coins would require a hard fork.  
+
+It would be a contentious hard fork, because many people strongly believe that the original plan should not be changed to dilute existing coins and it wouldn't be "bitcoin" anymore.
+
+Increasing the total supply is [one of the prohibited changes](https://en.bitcoin.it/wiki/Prohibited_changes) .
+
+As for the lost coins, they gone Buh-bye!
+
+The *big majority*! So there won't be such a change.
+
+How?! changing consensus rules like coin supply does require a hard fork
+
+You can't have more coins being included in a valid block... you need to hard fork the chain

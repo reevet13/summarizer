@@ -1,0 +1,28 @@
+Here are the selected sentences:
+
+The brain can modulate the organs but they mostly run on their own thanks to the autonomic nervous system.
+
+Organs don't really rely on nerves to tell them what to do.  They monitor levels of stuff in the blood and react accordingly.   The liver sees too much glucose? It starts making glycogen.
+
+The vagus nerve isn't a spinal nerve and still works even if the  spinal cord is broken.
+
+Much of the autonomic nervous system travels in the spinal cord.  The notable exception is the vagus nerve.
+
+If the brain needs to turn on ~~the flight or fight response~~  parasympathetic stuff (opposite of flight or fight) it uses the vagus nerve:
+
+The vagus nerve is parasympathetic.  The fight or fight response is sympathetic.
+
+Yeah, my bad.
+How can your sympathetic and parasympathetic plexi receive meaningful input when their connection to your CNS is severed?
+That's not the question here, you said:
+Much of the autonomic nervous system travels in the spinal cord.
+
+And I said that the spinal cord will continue to function - reflexes, for example, will still work.  
+
+The sympathetic trunk arises from the spinal cord.
+
+We know the sympathetics are active if an above T6 transection occurs because patients are at risk of [autonomic dysreflexia](http://en.wikipedia.org/wiki/Autonomic_hyperreflexia).
+
+I'm going to add the most serious complication of high spinal cord injuries: the cardiovascular system.
+
+The heart is under the control of two competing nerve supplies: sympathetic and parasympathetic.  Sympathetic causes the heart to beat faster and harder.  Parasympathetic slows it down.

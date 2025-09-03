@@ -1,0 +1,21 @@
+Here is the extracted summary:
+
+As it mentions in the article, neutrinos have already played a part in developments at Cern with the highly publicised discovery that neutrinos may travel faster than the speed of light.
+
+It's not the detecting itself that's important, it's what the detection allows us to infer about the source.  We want to build bigger and better neutrino detectors for the same reason we build huge photon detectors (telescopes) and point them at the sky when we can generate photons at will almost for free: natural sources of neutrinos/photons are *very* interesting!
+
+Neutrinos are what we sometimes call messenger particles.  They are created either at, or very close to, sources of high energy particle acceleration (examples are supernova remnants, supermassive black holes, etc).
+
+Photons:
+
+Come mainly from interactions close-by acceleration source not the source itself.
+
+Cosmic Rays:
+Charged particles so are bent by magnetic fields, makes finding the source very difficult as we don't know the exact nature of the magnetic fields.
+
+Neutrinos:
+No charge, so not bend by magnetic fields.
+Very low interaction or attenuation along flight path.
+Will point back directly to source.
+
+The reason I find this intriguing is that I remember reading another article a year or so ago about the failed attempts to detect neutrinos in the Mediterranean, and the jist of it was that further funding for such endeavours would be unlikely.

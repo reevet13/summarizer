@@ -1,0 +1,15 @@
+There has been a metric shit ton of stuff written about new sequencing platforms and the race to the thousand-dollar genome, so I won't retype it all here. You'll want to look up some of the following:
+
+- so called "second-generation" sequencing, with platforms by 454, Illumina, life technologies (AB SoLiD), and Complete Genomics.
+
+- third-generation or single molecule sequencing platforms by Helicos and Pacific Biosciences.  These are closest to what you describe above, where you're reading from single molecules of DNA. (on the PacBio platform, you're actually watching a specially-modified polymerase incorporate labelled nucleotides, one at a time.
+
+The above are all either in use or in early previews. There are also technologies that are farther away, based on using nanopores.
+
+To summarize, they break the DNA to be sequenced into strands and amplify it (as they used to in the shotgun method), but now attach them all to a solid surface and sequence them all together at once.
+
+To do this, they flood the testing area with a mix of nucleotides that have a dyed group attached, which can then be excited with a laser and read. This dyed group can then be chopped off, leaving a regular-old nucleotide, allowing the process to be repeated for the next base in the sequence, without having to move or mess with the original strands.
+
+Here, the term you're looking for is [Pyrosequencing](http://en.wikipedia.org/wiki/Pyrosequencing). 
+
+I actually work on a project where we stretch DNA out in a nano-sized channel, and then melt it slightly so that the AT bonds melt but the CG ones don't, and you get a 'barcode' of melted and unmelted bases. This lets you make maps of the DNA so you can see which gene is which.

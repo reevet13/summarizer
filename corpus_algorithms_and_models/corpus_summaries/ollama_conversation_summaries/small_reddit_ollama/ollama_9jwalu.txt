@@ -1,0 +1,19 @@
+Here is a summary of approximately 10% of the text (up to 250 words) by selecting sentences from the original text exactly as written:
+
+The thing I play DayZ the most for is just hoarding loads of shit haven't TRULY been able to enjoy 0.63 without that feature. Is there any idea when it will be added?
+
+You need to enable / script persistence in the sever files as of right now and you can script tents to spawn wait for everything to be pushed to stable
+
+Like he said. you have to enable persistence in the economy.xml and add item to your type.xml For example i added the barrel and so far work like a charm.
+
+Anyone spawning tents in their server is stupid. Tents dont work right, test shit before doing it.
+
+That's odd tents work perfectly fine for me not sure what's wrong then party tents car tents they both work perfectly so not sure but yeah everything else I agree
+
+Here's videos: [cartent](https://youtu.be/78eDZ7tZa94) and [mediumtent.](https://youtu.be/n3XIOUnt9Oc)
+
+Don't know why you're claiming they work fine for you when the code for them to "work fine" simply does not exist yet, it's not a bug, they just aren't implemented.
+
+Yes persistence is enabled by default for few category but not for barrels (buildings).
+
+`<building init="1" load="1" respawn="0" save="1"/>`

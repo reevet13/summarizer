@@ -1,0 +1,146 @@
+Original Response: 
+This is the third post of a series of articles dedicated to investigate $1B worth of bitcoins (111,114 BTC/BCH/... BXX) that were dormant since 2014 and started moving actively.
+The BTC coins were originally located at this address ([1933phfhK3ZgFQNLGSDXvqCn32k2buXY8a](https://www.blocktrail.com/BTC/address/1933phfhK3ZgFQNLGSDXvqCn32k2buXY8a)).
+The origin of the bitcoins is discussed [here](https://www.reddit.com/r/Bitcoin/comments/9bfnff/near_1b_are_currently_on_the_move_from_a_silkroad/).
+A deep-dive into the wallet activity was discussed [here](https://www.reddit.com/r/Bitcoin/comments/9bwsaf/investigating_the_1b_bitcoins_on_the_move_from_a/).
+Today, I will focus on the transfer to major exchanges wallets that could indicate that the owner is selling his coins or exchanging it with alts or mixing it to cover his back.
+I built a graph in order to deep dive into the transactions originated from the 111,114-BTC wallet and to follow it.
+This is the resulting graph were red indicates transactions &lt;1 day, yellow &lt;1 month, blue &lt;1 year, green else.
+https://i.redd.it/nk3iov045vj11.png
+
+&amp;#x200B;
+
+I found that at least 15,593 BTC originated from the 111,114-BTC wallet have been moved to Bitfinex and Binance wallets.
+This represents 14% of the original funds and more than $110M.
+&amp;#x200B;
+
+**Bitfinex wallet**
+
+&amp;#x200B;
+
+https://i.redd.it/m8fryy8s5vj11.png
+
+&amp;#x200B;
+
+11,114 BTC have been transferred to Bitfinex wallet [1Kr6QSydW9bFQG1mXiPNNu6WpJGmUa9i1g](https://www.blocktrail.com/BTC/address/1Kr6QSydW9bFQG1mXiPNNu6WpJGmUa9i1g) and the majority of these coins have been transferred in the last 7 days (August 24th - September 2nd).
+Here is the list of the transactions:
+
+https://i.redd.it/8e9l0lqf0vj11.png
+
+&amp;#x200B;
+
+**Binance wallet**
+
+&amp;#x200B;
+
+https://i.redd.it/i1v5lv3j9vj11.png
+
+&amp;#x200B;
+
+4,421 BTC have been transferred to Binance wallet [1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s](https://www.blocktrail.com/BTC/address/1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s) and the majority of these coins have been transferred in the last 10 days (August 21st - September 2nd).
+Here is the list of the transactions:
+
+https://i.redd.it/2cs6ufabavj11.png
+
+**Bitmex wallet(s)**
+
+&amp;#x200B;
+
+I tracked Bitmex as well but "only" found 210 BTC transferred in with the following 6 major transactions:
+
+https://i.redd.it/2oondki1ovj11.png
+
+&amp;#x200B;
+
+Also, I have found 350 BTC transferred from Bitmex wallets though, maybe after being "washed out":
+
+https://i.redd.it/sx2g36jnovj11.png
+
+&amp;#x200B;
+
+***Update 1***
+
+If anyone finds if the owner of this address is an exchange : [3PtJRj5xKUKJ21TshP5u2G6dQMPNz2yUSc](https://www.blocktrail.com/BTC/address/3PtJRj5xKUKJ21TshP5u2G6dQMPNz2yUSc), I would be interested, thanks.
+&amp;#x200B;
+
+***Update 2***
+
+Here is a full resolution version of the graph requested by u/rush717:
+
+https://i.redd.it/xwvn0l9yxxj11.png
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+**Update 3**
+
+MtGox vs SilkRoad origin and September 6th BTC price impact is now discussed here: [https://www.reddit.com/r/btc/comments/9dvajr/1b\_bitcoins\_on\_the\_move\_mtgox\_vs\_silkroad\_origin/](https://www.reddit.com/r/btc/comments/9dvajr/1b_bitcoins_on_the_move_mtgox_vs_silkroad_origin/?sort=new)
+
+&amp;#x200B;
+
+\--
+
+Surprisingly BTC price was pumping since those funds were starting to be transferred to Bitfinex and Binance wallets (see Binance transactions' list, August 11th)
+
+How do you think this will impact the market?
+Do you want me to continue this investigation?
+If yes let me know what you would want me to focus on.
+When dormant whales begin to become active, that’s a sign of only 1 thing.
+Doom.
+This whale is a non-participant meaning he’s not playing the same game nor is he in cahoots with the other whales.
+This is a whale who do not see any immediate hope in BTC and is ready to sell.
+So, he is preparing for a massive hidden order among various exchanges which could be the start of a mini-dump.
+Of course, $1B is hardly a wave in the Bitcoin world these days but it certainly does not help BTC’s really bad year.
+Based on my understanding of Bitcoin trends and behavior, this latest activity will have no major effect on BTC’s price.
+It alone could lead to a tiny chain effect resulting in BTC’s current price of $7270 dropping by $200 at the most.
+Nonetheless, it won’t have any effect on the whales plans other than for them to be wary of wallets like these.
+It is a very rare occurrence marked nothing more than unique and mysterious.
+But ultimately it is non-news...the equivalent of a very rich man winning the lottery.
+I think that many coins being dumped at once would certainly have a bigger impact than $200... what you don’t consider is that the volume isn’t in terms of fiat its mostly (probably) in terms of bitcoin being sent to other wallets.
+Bitcoin cycling through hands or even through one guy moving it in between wallets is different from a whale throwing 1b into an exchange and seeing what happens.
+However, I can’t think of any real reason to sell now.
+Someone would have to be under the influence of a very strong external motivation to sell now, during a bearish cycle, when they could likely have just as easily sold at the peak.
+The only circumstance I can imagine someone selling now would be that they are set to make way more money from say, shorting bitcoin, than they would be thru the loss of selling off so many coins.
+However, this also seems relatively unlikely because although I believe the affect would be higher than a $200 drop, I really can’t lie and say I have any way to accurately predict how the price would fluctuate with such a sale.
+Is there really any guarantee that it would fall enough to justify selling so many coins?
+There could be a political motivation to attempt to drop the price.
+Could be related to Silk Road 
+
+ But either way, there’s a multitude of reasons why someone might be putting such a large volume onto an exchange.
+But at the end of the day, an exchange is for exchanging, so why else do it?
+Anyone have any theories?
+Where r you getting your info?
+A sudden selloff of $1B bitcoin would drop the price significantly... just because the market cap is several billion doesn't mean someone selling an actual billion relative to the market wouldn't drop it hard.
+The account opened in 2011 and had multiple transactions from a wallet called "mtgoxandothers".. could be an old silk road or black market wallet / karpeles personal wallet.. it is very intriguing.. that's a crapload of bitcoin.
+&gt; This is a whale who do not see any immediate hope in BTC
+
+It's made him rich.
+It’s $1 billion worth of Bitcoin which translates to something like 144K BTCs and not like a million BTCs and certainly not something impossible like 1 billion BTC.
+Dumping $1 billion worth of Bitcoin is not impactful as you may think so.
+The whales would eat it up quick and maintain order in the crypto world.
+I’m not implying it can’t have any effect...it can but it’s minuscule.
+The whales would love using it as a catalyst/narrative for why Bitcoin suddenly falls.
+No it’s happened this year.
+Some wallet dumped 100 thousand and BTC and the whales ate it up.
+This shit already happened.
+You mininformed noobs are annoying the hell out of me.
+Dumping 1 billion BTC doesn’t have substantial effects on BTC.. it’s how whales and average traders collective choose to respond to these occurrences.
+100,000 =/= close to a billion.. research how large the difference between those two numbers is.. 100,000$ was only 5 BTC at one point.
+A selloff of 10,000 bitcoins dropped the price several thousand dollars ( mtgox selloff) .. also yeah maybe a billion back and forth over a days period, but not all at once.
+Oh look!!
+Another post where xelephonte thinks he's right and everyone else is wrong.
+Someone should ban this piece of trash.
+Another clueless perspective.
+Someone needs to get some crayons and explain all this to you.
+u are nuts...hehe.
+
+Summary: 
+The origin of the bitcoins is discussed [here](https://www.reddit.com/r/Bitcoin/comments/9bfnff/near_1b_are_currently_on_the_move_from_a_silkroad/).
+This is a whale who do not see any immediate hope in BTC and is ready to sell.
+The BTC coins were originally located at this address ([1933phfhK3ZgFQNLGSDXvqCn32k2buXY8a](https://www.blocktrail.com/BTC/address/1933phfhK3ZgFQNLGSDXvqCn32k2buXY8a)).
+Dumping $1 billion worth of Bitcoin is not impactful as you may think so.
+Some wallet dumped 100 thousand and BTC and the whales ate it up.
+A deep-dive into the wallet activity was discussed [here](https://www.reddit.com/r/Bitcoin/comments/9bwsaf/investigating_the_1b_bitcoins_on_the_move_from_a/).
+However, I can’t think of any real reason to sell now.
+Nonetheless, it won’t have any effect on the whales plans other than for them to be wary of wallets like these.

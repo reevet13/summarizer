@@ -1,0 +1,18 @@
+I'm not asking whether or not we have the technological capability to do so at this current point in time, but do we have the understanding needed to accomplish such a thing?
+Let's take human-habitable to mean that people can walk around without space suits. It needs to have lots of water on it, the air has to have around 0.2 atm partial pressure of oxygen gas, its diurnal temperature range has to be something like -50C to 50C, or -58 to 122 F. It can't have a tremendously toxic atmosphere (to say "it can't have any poisons at all in the atmosphere" is goofy, because the planet we're living on has poison in the air).
+Our buddy oxygen gas is a great example of something that needs an ongoing process to be sustained.
+For the end-stage described above, we need plants to make the oxygen.
+The technology required for changing a planet's magnetic field, then? Hot damn, dude, it's beyond my ken.
+So now let's look at Venus. Superficially it seems like us- same size, nearly the same gravity, [same elemental composition](http://www.pnas.org/content/77/12/6973.full.pdf).
+So how can you freeze a planet? Well fortunately, it's happened before. On earth. And plants are what did it.
+But what was freezing it all? Oxygen gas.
+So if plants can make a place radically cold, and did so on Earth, and Venus looks kind of like an alternate-reality Earth in which they never did so?
+It's a planet, though.
+And that seems like the best and most likely candidate to me- perturbing the climate of a planet that's already much like our own, to be more like our own.
+More or less, we know what we need to do and there are proposed ways of [terraforming Mars](http://en.wikipedia.org/wiki/Terraforming_of_Mars) and [terraforming Venus](http://en.wikipedia.org/wiki/Terraforming_of_Venus) 
+
+tl;dr We have some proposed concepts and rough calculations from smart people on how terraforming Venus, or Mars could be achieved, like how many asteroids we need to collide to get rid of a Venus's atmosphere, or how much fluorine compounds are needed to melt Mars CO2 to make its atmospheric pressure as high as that atop Mt Everest.
+The OP is asking whether we have the understanding of what it takes to terraform a planet.
+I don't think there's any reason at all to say, "We have almost zero understanding of what would be required to alter and maintain an environment on the planetary scale enough for it to sustain such life."
+We know what we need to sustain life. We know how planetary climate systems work. We know how life feeds back into those systems. So we can identify a target condition, and set up a way to start moving toward it given current conditions.
+It is ineresting to consider that Venus has too much of what Mars needs.

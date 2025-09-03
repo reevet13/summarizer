@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+Ok hopefully this post won’t get too long.
+I have the ability to move the wifi router to my basement and plug in ethernet that way and my wifi is amazing even if 2 other people are streaming or playing games. But the downside of moving the router is this ruins the wifi in the top floor where the other person who mainly uses the wifi works/plays.
+A wifi bridge won't help you and could actually make things worse.
+
+What could actually help you is to get a second wireless access point installed at the same point as your current router on a different channel (the existing one could be on channel 1, and you could put your new access point on channel 6 or 11, but not any others), or as you said, figure out how to fish ethernet through the walls (this can require special tools, I don't really recommend it unless you're ambitious and unfazed by cutting into drywall and sticking hooks into walls, patching things up etc... or hire someone ese to do it!)
+
+Some higher end all-in-one routers have multiple access points built into them, but you might also figure out how to plug in an access point to your existing router if you really like the one you have now.
+
+A "wireless access point" is just the part of your router that makes wifi.
+if you have multiple antennas in your router, then you can host multiple access points. And you can configure those multiple access points to be on different frequencies that don't interfere with each other. (channel 1, channel 6, and channel 11 are safe to use, and all 3 will be independent)
+Well, potentially, you wouldn't have to get anything! but it depends on your router, and it's likely you have a router that doesn't support multiple access points.
+
+As for 1 6 11, look at [this](http://2.bp.blogspot.com/-Qpy93I6HBz8/UZ4resFCJbI/AAAAAAAAB-k/wNZyaZhgGOQ/s1600/2-4GHz5GHz_tmb.png). There are 11 different channels you can use, but channel 2 still interferes with channel 1. There is no reason to use channel 2 ever. or 3 or 4 or 5 or 7 or 8 or 9 or 10. Only channels 1, 6, and 11 are "clean" channels.

@@ -1,0 +1,29 @@
+Original Response:
+If I take a container and apply vacuum to it, what am I left with inside?
+
+I know a simple answer is "Nothing" but I find it difficult to believe a space can exist without anything in it. Is there any matter or energy left within this vacuum?
+dust, hair, and an occasional penny.
+You're just taking a container and removing the air from it, and it's impossible to achieve a perfect vacuum.
+Aether, which occupies all areas of space in the universe and allows propagation of electric and magnetic phenomena.
+not sure if trolling, but people sometimes legitimately don't know.  Don't try to feed them bullshit.
+
+For those that don't know, the old concept of Aether is that it is the medium in which light waves travel.  It would fill the universe and be stationary.  Everything moving would then be experiencing an Aether wind.  It is complete nonsense and was proven wrong about 100 years ago.  Motion is relative, and there is no concept of universally motionless.
+In a complete vacuum, literally all that's left is background energy, which is estimated at 10^-9 J/m^3
+
+I'm not far enough in my classes yet to explain what that actually means, but I'm sure that someone will reply to my comment and expand further.
+Even if you remove all matter from space, there is still "energy" in a vacuum.  There are a number of experiments that suggest this is the case, although none provide exact proof.  See [Vacuum Energy](http://en.wikipedia.org/wiki/Vacuum_energy).
+
+Experimental evidence for this can be found by looking into the [Casimir Effect](http://en.wikipedia.org/wiki/Casimir_effect).  The idea is that you take two metal plates and put them very close to each other in a vacuum. Now, the plates have no not charge, therefore there should be no field and no force on the plates.  However, a force is observed.  Fields to exist because of quantum mechanical affects I am not comfortable enough explaining.
+Hi, the equipment i work with has to function in something we call UHV (ultra-high vacuum).  We tend to keep it at 1E-10 Torr, which is something like 0.0000000000001 atmospheres of pressure.  You can relate pressure to number of molecules through the ideal gas law, PV = nRT, P is pressure, V is the volume of the chamber, n is the number of moles of gas (1 mole = 6.022E23 molecules (or atoms, or anything really, one mole of pizzas is 6.022E23 pizzas), R is a constant, and T is the temperature.  All we're left with is a few atoms zinging around.  Hydrogen will always be present in our chamber, because it's very hard to convince to jump into a turbo pump.  
+
+There are still atoms floating around in space, but they're very far apart.  There's also radiation, which does not need to use matter as a vehicle to transport itself.
+Precisely the kind of answer I was looking for!
+I also work in UHV. At those kinds of pressures, alot of the gasses that remain in the chamber are really the same ones that you find in the atmosphere, just in much much lower abundance.
+
+Oxygen, nitrogen, argon, neon etc. Water is a constant nuisance to us vacuum people because it sticks to walls and surfaces in the chamber and can take days/weeks to leave in significant amounts without intervention in some (poorly designed) chambers.
+True, we see all that stuff in the RGA.  But we deal with it, we actually grow in the E-6 regime, but the chamber stays really low when not in use.
+
+Summary:
+Even if you remove all matter from space, there is still "energy" in a vacuum.
+Is there any matter or energy left within this vacuum?
+I also work in UHV.

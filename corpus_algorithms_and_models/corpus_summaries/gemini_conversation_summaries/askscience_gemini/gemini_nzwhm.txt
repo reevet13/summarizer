@@ -1,0 +1,4 @@
+Solid.
+A sand grain is a solid - each individual grain is (usually) crystalline quartz.
+Granular materials don't fit neatly into the classic solid/liquid/gas behaviours, but there are quite a few materials which don't.
+Sand is crystalline, therefore it is solid.

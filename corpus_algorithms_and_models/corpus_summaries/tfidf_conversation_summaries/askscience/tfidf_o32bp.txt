@@ -1,0 +1,471 @@
+Original Response:
+A topic close to my heart.^^^
+
+To get the ball rolling. 
+
+What do you find is the most interesting aspect about studying selection? What are your favorite genomes to work on? Are you more of a math jockey or genome hacker?
+What is the current "gold standard" for identifying these genomic regions? What are your praises/ criticisms, and how are you looking to improve these methods?
+
+Thanks for the AMA!
+Do you have an opinion on the ethics and/or the validity of the use of population genetics by insurance companys to essentially profile their clients? Don't know if this would be  in the scope of your studies but thought I'd ask... Thanks for the AMA!
+[deleted]
+1.
+Since IQ test in each country graded with respect to some average, how is it possible to compare average IQ between countries?
+
+2.
+What is the speed of human evolution? What % of women in USA have less then 3 children.  How is that possible that with such strict competition there were no changes in human mental capabilites for 40 000 years.
+Well the thing that really drew me to study selection was the realization of just how simple of a concept it is, and yet how many ways it can get done. Selection is simply the preferential copying of genetic elements that are better at making copies of themselves. I mean, it's almost sort of tautological.
+
+But the ways in which it occurs, and the stuff it results in is just mind-blowing. We have segregation distorters, complex polygenic traits and interconnected genetic networks, the lactase example and other strong mendelian traits like it, genes associated with fertility, etc etc etc.
+
+I guess I tend to think of a gene's function as its method of finding a way to make as many copies of itself as possible (by ensuring survival and reproduction of it's host), and it just blows me away how many different routes can be taken to this end goal.
+
+I don't really have a favorite genome (at least not yet). Most of my work will be in humans, because that's where the best data is, but the study system is not particularly important to me. I'm interested in the process.
+
+I'm going to take math jockey to mean theory, and genome hacker to mean data analysis, and in that case I think I'll be starting out with more of the latter, but I'm definitely interested in exploring theory work at some point in my career. Yourself?
+I'm actually reading [a book](http://www.amazon.com/Here-Human-Being-Personal-Genomics/dp/B0058M5HY4/ref=sr_1_1?ie=UTF8&amp;qid=1325718119&amp;sr=8-1) that deals in part with this issue (and other public policy sort of things) right now.
+
+It's a tricky issue, and I don't know that I'm any more qualified to comment on ethics than anyone else.
+
+My primary concern with this sort of thing is that people actually understand the data they're using. "Carrying a genetic variant that is associated with a small increase in risk of developing disease X" is a lot different than "carrying the disease X gene", which is how a lot of people think things work.
+
+I would be concerned I guess about insurance companies using this lack of public understanding of the genome to rip people off, but I suppose that concern is not unique to genomics within the insurance business.
+
+It may also be a bit premature. We don't really understand the genome that well yet, so I'd be worried about the limited amount of knowledge we've accumulated thus far simply being misused.
+Tell me why you hate all of the AskScience questions that start with "Whats the evolutionary purpose of..." and how they are based on a false premise.
+I came into the field through my interest of mining genomes for interesting regions. I was inspired by some the work done at UCSC and UCSF in the human genome, mining it for conservation and adaptation. It was pretty clear to me that by understanding selection, and being able to detect its signature, we can make it do the brunt of the work in finding important regions of the genome. Or in other words, annotation of functional regions and patterns of natural selection overlap very well, so it makes sense to use natural selection to predict functional regions. 
+
+So I guess that makes me more of a genome hacker than a math whiz. While I endeavor to understand how the theory works to better inform its usage, I know my talent isn't in developing models. 
+
+I asked the question because I often find there is a split in the community between the theoretical and the applied. Even in the lab I work in, some of us deal solely with developing theory and others such as myself are building tools and datasets to integrate data and detect signals in emerging genomes. 
+
+As for models, I work on everything, but my speciality is working on plant genomes. I find it much more interesting because it is the wild west of genomics and doesn't have the spotlight that the human genome has. I have to admit this question was also motivated by trying to figure out what lab you are working in. I am guessing somewhere at Davis?
+There are a few different ways it's done, but primarily what you are looking for are stretches of DNA that "look" unusual.
+
+For example, if I have the same 10,000 base pair long stretch of DNA from 100 different people, and I know the mutation rate, the total population size, and the recombination rate, I can pretty easily calculate what my sample should look like. I can tell you approximately how many mutations will be present in only one individual, how many in 2 individuals, how many in 3 individuals, etc. I can tell you roughly how widely spaced they should be (on average), etc.
+
+So then we just go hunting for regions that break from these expectations. Strong natural selection has the effect of wiping out most of the genetic diversity in the region surrounding the gene it is acting on^1 so we look for regions that have much lower diversity than would be expected if it was evolving neutrally according to the processes that govern the genome at large. Much of what's been done so far relies on this basic idea, or related ones.
+
+
+These sorts of approaches have proven pretty effective at identifying genes that have faced really strong natural selection, and which exist in one gene/one trait relationships. The classic example is [lactase persistence](http://en.wikipedia.org/wiki/Lactase_persistence).
+
+The thing is that most phenotypes that we care about are not likely to be that simple in their genetic architecture, and they are unlikely to have been under selection even close to as strong as the lactase gene has been in the last 10,000 years.
+
+How can we determine whether or not there are differences in the strength of selection between populations for a given trait, say human height, when there are over 200 genes underwriting that trait? The above methods are powerless, because the effect on any one genes might be so small that it's not detectable. This is one of the issues I'm interested in.
+____________________________
+
+1. Because the sequence adjacent to a selected gene is physically attached to it, it gets carried along to high frequency over the course of the generations simply by virtue of this physical linkage, which in turn wipes out all of the other variants that existed on other copies of that sequence. Let me know if this is unclear. I can try to explain better, but it's easier with pictures, which I don't have at my disposal right now.
+Would it be useful if you had a technique that could give you a map of the genome as it is organized, but with poor resolution?
+What kind of mathematical/computational work is required for someone intending to do research in your field? Specific skillsets that are preferred for applicants? Genomics is obviously very computational. I'm an undergraduate biology major at a pretty major private university wondering what I should do to prepare myself for work in a field like yours.
+&gt;It was the biggest pain in my ass, as I had never taken a programming class and PAML was command line UNIX and would often take several months to finish a run - if it worked at all. I do not envy you, sir.
+
+Yeah, I just got my first real dataset to play with about a month ago, and having very little prior computational experience I've been learning about computational efficiency very quickly.
+
+&gt;how do you take the embarrassment of riches (data) produced from these methods and turn them into knowledge? 
+
+Haha. That's the million dollar question, right? I mean, we're generating so much data nowadays. I particularly enjoy the expression: "never underestimate the bandwidth of a car with a stack of hard drives in the back seat flying down the highway".
+
+Anyways, just about every population genomics paper published nowadays is a success story in that regard. Frankly, I'm still fairly new to this field, but as I see it it's all about having a firm conceptual grasp on whatever it is that you're trying to do, before you even start looking at the data at all, and then constructing the proper statistics to pull out information only about the things you care about, while controlling for the things that could confound your analysis. No different from any other statistics, I guess, it's just that when you picture your dataset in your head you have to be ok with having 34 million datapoints.
+
+I guess I did read [a paper](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2824393/?tool=pmcentrez&amp;rendertype=abstract) recently where the authors realized that they could combine the massive data output of next gen sequencing technologies with the asymmetries in transcript abundance to build phylogenetic trees.
+
+That was pretty cool.
+May be relevant: My post isn't specifically related to your specialization. But, videos for genomics on [aging](http://www.ted.com/talks/cynthia_kenyon_experiments_that_hint_of_longer_lives.html). Genomics [at large](http://www.ted.com/talks/juan_enriquez_on_genomics_and_our_future.html).
+
+I love where the field is going. How do I connect myself with a genetics database? Is it in public domain? How do I sequence my own genetic code?
+
+Can genes be expressed over time, as in turning on and off? What are two resources that I may look at in order to learn about the subject?
+How much do you get paid? Does your stipend increase according to how long you've been in the program? Do you have to TA or do you just get paid to do your own research? Do you think you get paid enough for the work you do?
+I had a feeling one of you (mods) was going to make me do this, haha.
+
+When people ask what the "evolutionary purpose" of something is, what they mean is, "what was the selection pressure that shaped that particular trait to be the way it is today?" 
+
+When people ask this question, they are assuming that there has been any selection on that particular trait at all. Not everything is the way it is because natural selection acted directly on it to make it that way. Lots of things are accidental byproducts, or are the way they are because they evolved that way a billion years ago and there's never been any reason for it to change. It would be very foolish of us to ask what is the purpose of [the route the giraffe's laryngeal nerve takes to the larynx](http://www.youtube.com/watch?v=cO1a1Ek-HD0) (warning: video of giraffe dissection) as if it was actually selected for. It is that way merely for reasons of historical constraint. 
+
+Other traits might even be the way they are not for reasons of historical contingency, but rather for no particular reason at all. Evolution occurs via the neutral process of [genetic drift](http://en.wikipedia.org/wiki/Genetic_drift), and genetic drift could result in phenotypic drift if the right genes happen to be affected. Thus some traits might simply be the way they are because of random chance. This is more likely to be the case in small populations, where the effects of drift are stronger. 
+
+I guess, lastly, part of the frustration many evolutionary biologists feel in fielding these questions is that we simply don't know yet. Proving that a particular trait is adaptive is pretty difficult. So, naturally, we go for the easy stuff first. We hone our skills and methods on identifying clear cut cases of adaptation, and we're working up to the more difficult stuff (see my response to ymstp). The traits that people like to ask about here tend to be things that would just be impossibly difficult to study the evolutionary function of, and so the only honest answer we can give (outside of some BS adaptive storytelling, which tends to happen a lot, unfortunately) is "we don't know yet, and it might be a while".
+I intend to link people to this reply for the rest of time. JSYK.
+No problem. I probably will too. 
+
+Be aware, however, that this knowledge will probably drive me to obsessively tweak it until it meets some arbitrarily high standard of "perfection", so the exact wording or examples might change a bit.
+Even better.
+1: I have no idea. This falls well outside my discipline.
+
+2:
+
+&gt;What is the speed of human evolution?
+
+What exactly do you mean by that? Roughly 100 mutations become fixed in the human population every generation.
+
+&gt;What % of women in USA have less then 3 children.
+
+I have no idea.
+
+&gt;How is that possible that with such strict competition there were no changes in human mental capabilites for 40 000 years.
+
+Well, 40,000 years really isn't a long time in evolutionary terms. That's 2000 generations or so, for humans, and there's not a whole lot of substantial evolutionary change that's going to take place in just 2000 generations (some yes, but not a ton). The question more or less is it's own answer though. The fact that there have not been major changes in human mental capabilities within the last 40,000 years suggests that there was not strong enough natural selection acting on human intelligence to cause significant changes to it in that time period.
+What exactly do you mean?
+
+Sequencing technology is going to get so cheap in the coming years that everyone will probably just be able to sequence their own study system and know the exact sequence of whatever organism they're studying, even in non model systems.
+STATISTICS AND PROBABILITY!
+
+Honestly, my one regret, even above not taking any CS classes in undergrad, is that I didn't take more statistics. Everything comes down to statistics and probability at some point, so having a good intuitive grasp on that is essential.
+
+It also would probably be good to familiarize yourself with scripting in R, Perl, Python, maybe C or C++ (pick one or two). Yes, you can learn all this stuff in grad school (as I am), but why wait?
+
+If you know more about specifically what you're interested in feel free to air it here or PM me and I can try to give more specific advice. Are there any good genomics people at your university? It might be useful to see if you can get a meeting with one of them to talk through this stuff in person with someone who's honestly going to know a lot more than myself as a first year PhD student.
+&gt;How do I connect myself with a genetics database? Is it in public domain?
+
+Most of the really huge projects dump their data in the public domain, I believe. The [Human Genome Diversity Panel](http://www.cephb.fr/en/hgdp/) and the [HapMap](http://hapmap.ncbi.nlm.nih.gov/) would be two examples. I'm not sure what you'd do with the data if you downloaded it though. You're looking at multiple gigabytes worth of information there.
+
+&gt;How do I sequence my own genetic code?
+
+You know, I'm actually not sure. If you paid [Illumina](http://www.illumina.com/) enough money, I'd have to think they'd do it. We're talking about many thousands of dollars for at least another few years though.
+
+There are companies like [23andme](https://www.23andme.com/) that will do a sort of "sequencing light" (they type you at a handful of informative markers throughout the genome instead of sequencing it outright) for you for like $100. 
+
+&gt;Can genes be expressed over time, as in turning on and off?
+
+Yes. Absolutely. Basically all of development occurs by turning different genes on and off in the right order to make body parts grow in the right order and place.
+
+&gt;What are two resources that I may look at in order to learn about the subject?
+
+Which subject specifically? Sean Carroll's [Endless Forms Most Beautiful](http://www.amazon.com/Endless-Forms-Most-Beautiful-Science/dp/0393327795/ref=sr_1_1?ie=UTF8&amp;qid=1325728023&amp;sr=8-1) is pretty good for evo-devo, which might pique your interest if you're curious about gene expression.
+Not feeling the need to post my exact salary here, but I got offers ranging from ~$20,000 to ~$30,000 when I applied to grad school. In my field, pretty much everyone is going to wind up in that window somewhere. I went with a state school, so I'm at the lower end of that spectrum, but cost of living isn't all that bad here, so it's enough.
+
+I don't think it increases with time in the program. The goal is to get an outside (NSF or NIH) fellowship, which pays significantly better.
+
+I have to TA at some point during my time here, but not this year, and if I can get a fellowship, maybe not for a while. Right now I'm basically being paid to start thinking about research, and to get all of my coursework out of the way as quickly as possible so I can spend more time on research next year.
+
+Is it enough? I don't know, it's my first real paying job, and I'm kind of being paid to go to school right now, so it doesn't seem terrible. I may feel differently when I'm in year 4 or 5 and trying to figure out where the hell the endgame for my project is.
+How do you feel about the implications of [this pending supreme court decision](http://www.ama-assn.org/amednews/2011/12/19/gvsc1219.htm) on the future of your industry? For that matter, how do you feel about human gene patents in general like BRCA1 and BRCA2 looking years down the road?
+[deleted]
+I found [this recent talk](http://www.tedmed.com/videos-info?name=Eric_Schadt_at_TEDMED_2011&amp;q=updated&amp;year=all) from TEDMed about conceptualizing the wealth of data interesting
+Awesome! I'm doing a Stat minor. Done some R for school and a very little bit of python. We're affiliated with [this](http://www.igsb.org/) but I've had pretty poor luck getting an audience with anyone. I'm interested that you didn't say a lot of higher level math was important, maybe I just assumed that? 
+
+On another note, I'm really curious and you seem pretty uniquely qualified to answer... how competitive are PhD programs across the country for systems bio and genomics, in your experience? It's a really hot field in biology. 
+
+Second year undergrad, btw.
+&gt;I'm an undergraduate biology major at a pretty major private university wondering what I should do to prepare myself for work in a field like yours.
+
+Since jjberg2 didn't mention it, I just wanted to add that you should be doing undergraduate research with one of your professors. 
+
+It doesn't have to be some grand thesis project, or anything much at all. However, if you have future plans for graduate school then undergraduate research is the absolute best thing you can do to help your chances or at the very least give you a taste for what it is like working in the field.
+What is your favorite part about genetic science?
+
+Is there a general fact or tidbit about something in genetics that is really fascinating to you or would be fascinating to a layman?
+
+What are you planning to study in particular in genetics or what will you be using your studies to do?
+To expand on what jjberg2 said...
+
+TAing is something that varies drastically between schools. When applying to different programs and going to interviews you need to consider what the TA load will be. For example, I only had to TA one class, one time and I was done for good. Other programs I know of require TAing 2 out of 3 terms, sometimes all year. It all depends on how much money the department has. IMHO TA-ing is a waste of time after you do it once or twice. Graduate school is for doing research, not teaching undergrads. 
+
+As for the pay, it is a big paycut compared to what someone with bioinformatics skills could get in industry. However, you get a huge amount of intellectual freedom and an extremely flexible work schedule. So there are benefits.
+&gt; the authors realized that they could combine the massive data output of next gen sequencing technologies with the asymmetries in transcript abundance to build phylogenetic trees.
+
+Can you explain this more? Why are asymmetries in transcript abundance?
+
+Also, im a third year CompSci student, and had success modifying a neural network simulation to run on a graphics card instead of a CPU. I got a 10x improvement in speed. Do you have any idea if your sequencing technology relies on the graphics card (through CUDA or OpenCl), or if it could? Does it involve a lot of parallel computation?
+&gt;Well, 40,000 years really isn't a long time in evolutionary terms. That's 2000 generations or so, for humans, and there's not a whole lot of substantial evolutionary change that's going to take place in just 2000 generations (some yes, but not a ton). The question more or less is it's own answer though. The fact that there have not been major changes in human mental capabilities within the last 40,000 years suggests that there was not strong enough natural selection acting on human intelligence to cause significant changes to it in that time period.
+
+This
+
+Was arguing with one evolution 'skeptic' (read: conservative christian) and she said that if evolution is true, why isn't everyone a Mozart?
+
+People need to stop conflating what humans and society personally feel are important inherited traits, with traits that confer an actual survival advantage which is all evolution 'cares' about. We all don't have genius IQ's because there is no selective advantage in being smarter (past a certain point). It has even been argued that being too smart was negatively selected against when you consider the eccentric genius stereotype. So unless people of above average intelligence start having more children than the average birth rate this isn't likely to change in the foreseeable future.
+[deleted]
+[deleted]
+Yeah, Katie Pollard's work at UCSF was one of the first things that really piqued my interested in this field back when I was an undergrad.
+
+I guess I'm more of an *aspiring* math whiz than a genome hacker though, as I plan on building the models, but am not as concerned with functional annotation.
+
+I think you're right about the split between theory and application. My advisor works on both (what he sacrifices is the wet lab, but I'm ok with that), which is one of the things that drew me there, but it's not the norm.
+
+There's a post-doc in my lab who works on plant genomes. I'm totally with you about it being the "wild wild west" of plant genomics. I guess I'm really thinking for my PhD I'll be trying to develop methods that can be used in any taxa, but I'll be going to human data for the initial proof of concept. I do hope to branch out into other taxa at some point though, just to get a little diversity.
+
+If you know your Davis population geneticists well enough then you might even be able to work out which lab I'm in from what I've said above.
+Some genes are transcribed at astronomically high levels. These are typically genes that code for things that the cell uses in large quantities. Stuff like actin subunits, ubiquitin, and other things that are absolutely essential for cellular function. Other genes are expressed at a whole range of levels, so you have a distribution of expression levels from those highly expressed genes down to extremely specialized ones expressed at very low levels.
+
+So if you want to go sequence a transcriptome (i.e. all of the transcribed sequences in a cell), you have to consider that you physically have more of some sequences than others. 
+
+Because of the way next gen sequencing technology works (i.e. by repeatedly sequencing random bits of the entire sample all together in the same reaction) this means that if you want to get a readout for every sequence present in a transcriptome, you would either have to sequence to astronomically high depth (i.e. produce many more bases worth of sequence read than are actually present in the sample), or reduce the concentration of those highly expressed sequences in the sample so that all sequences are present at roughly equal levels (2-5x). (for the record, it's the second one that's actually done, in a process called normalization, which I have fuck-all clue of how it works. Molecular biologists are fucking wizards.)
+
+However, what if you just left your transcriptome unnormalized and sequenced it at very low coverage (i.e. you produce much less actual sequence data than the total size of your sample)? You'll only sequence a small portion of the total transcriptome, but you'll preferentially sequence the genes that are sequenced at high levels. If you do this across a range of genomes of closely related species, you'll tend to sequence the same genes in each species, because the most highly transcribed genes in one species are likely to be the same as the most highly transcribed genes in a closely related species.
+
+So you've just created for yourself a set of genes conserved across a range of species that you can use to build a phylogeny of them without having to do any of the painful gene hunting work that molecular systematists have spent entire PhDs doing.
+
+That was the basic concept behind the paper. I dunno, it was just a neet example I recently read of taking potential problems and turning them into tools, and for some reason popped into my head when I read ren's question.
+
+I really don't know a whole lot about sequencing technology. They tend to cost many hundreds of thousands or millions of dollars and be kept in special sequencing facilities, and I'm only familiar with the molecular biology side of their function and not the computation side.
+&gt;Since jjberg2 didn't mention it, I just wanted to add that you should be doing undergraduate research with one of your professors.
+
+Yes! Absolutely! I can't believe I left that out. As a second year undergrad this is absolutely the time when et2o should be looking to get into a lab.
+
+Also, searine, feel free to chip in anywhere else on this thread as well.
+Cool.
+
+The math, it depends. I mean, if you really want to plunge into the depths of population genetic theory you can find yourself some serious math. I guess my feeling so far is that for the straight math (i.e. not stats), if you come in to grad school with at least a decent understanding of differential equations you should be able to pick up whatever you need as you go. If you want to work explicitly in theory you might want to be a little stronger I guess.
+
+I'm not exactly in the systems bio/genomics vein; I arrive at genomics via the population genetics route, so my choice of the type of graduate programs to apply to was a little different than yours probably will be. That said, I was a 3.6 student, worked in two different labs over a period of three years, pretty good but not astronomical GRE scores. I applied to 5 programs at 3 schools, got interviews at 4 of the programs, and got accepted to 2 (the other one I got into *was* more of a straight computational genomics group). The two I didn't get accepted to were at the same school, and my prospective advisor there told me it was likely because she had a big lab and was thus low on the totem pole that particular year for picking which students to take. 
+
+If your numbers are decent, you have lab experience, and you have good recommendations, and you can write a decent statement, you can probably get into some of the top programs in the country. Don't put all your eggs in one basket though. Some places you might not get into for reasons that have nothing to do with your qualifications.
+
+*edit: oh, also, should I read that to mean that you are at UofC? I have an academic grandfather (i.e. an advisor's old advisor) there, so I could I possibly point you to particular researchers of interest if you were looking for a lab to join.*
+&gt;What's the difference in diversity between a field of GMO crops and classically bred crops?
+
+That depends on what you mean by classically bred. Do you mean a heirloom crop? Do you mean a non-gmo hybrid?
+
+IMHO, the existence of a transgenic trait in a crop population will have little to no relation to overall genetic diversity. I suppose you could see a bottleneck when you start trying to grow up a ton of the plants for seed for the very first time on a commercial scale, but I imagine the reduction in diversity would dissipate quickly. Furthermore, that bottleneck is no different than what you would see with a conventionally bred crop. Once the transgenic trait is fixed in a large population, that populations diversity is simply a function how the crops are conventionally bred.  
+
+&gt; Assume for the purposes of the question, one particular strain is advantageous in the biome, for both types.
+
+Just to be clear the assumption is that either the conventional hybrid, or the transgenic hybrid has a selective advantage. 
+
+So lets imagine we have a highly adaptive transgenic trait that is planted in a field next to conventional crops. If those conventional crops are close enough to be wind pollenated, and that seed was used again to replant, we could imagine that adaptive trait taking hold in the conventional population. How would that effect diversity? Well around the locus that the transgenic gene was incorporated we would see a [selective sweep](http://en.wikipedia.org/wiki/Selective_sweep). In other words, a local reduction in diversity. This is a natural mechanism seen with all adaptive traits. Think of it this way, a selective sweep is natural selection literally selecting the entire chromosome that the adaptive trait is on. This massively reduces diversity on that chromosome. However counter acting this we have recombination, and mutation which would increase diversity exponentially as you move away from the adaptive trait. The rest of the chromosomes in the conventional crop wouldn't have their diversity affected at all.
+Well, that case doesn't seem like it'll come anywhere near my work. I'm just as much a member of the general onlooking public as anyone else on that, as I'm generally not interested in doing anything medical.
+
+I do dislike gene patents though. I just don't think you should be able to patent that.
+I really don't know much of anything about GMO crops. This question is too broad though. It's going to vary greatly from one crop to the next, and from one region or biome to the next.
+
+*edit: yeah, searine knows a lot more about this than I do. Go listen to him*
+&gt;Yeah, Katie Pollard's work at UCSF was one of the first things that really piqued my interested in this field back when I was an undergrad.
+
+When first heard about HARs a few years ago, it blew my god damn mind.  
+
+(for the non-population genetics people, Katie Pollard discovered the most 'evolved' regions of the human genome, one of them implicated in thumb development [watch this documentary for more](http://www.pbs.org/wgbh/nova/evolution/darwin-never-knew.html))
+
+
+
+
+
+&gt;If you know your Davis population geneticists well enough then you might even be able to work out which lab I'm in from what I've said above.
+
+There is definitely an incredible collection of researchers at that school. I'm from the east coast but I know people there through my advisor and various collaborations.
+&gt;There is definitely an incredible collection of researchers at that school. I'm from the east coast but I know people there through my advisor and various collaborations.
+
+Yeah, you're telling me. It's pretty fantastic. And then on top of that UCB, Stanford and UCSF are close by.
+You might say, that you with your profession are on the doorstep into gods realm and you have a chance to sometimes directly look him into the eyes; of all the ways in which he works, evolution is sure to be the most fascinating one.
+
+With this in mind we have to accept the notion of how badly we actually understand the processes involved in evolving complicated natural phenomena like symbiosis between species, strange animals like the Platypus or the Human Consciousness for that matter.
+
+Looking at the ongoing in nature and at the fact that they are all so finely tuned together, almost like a concert, any reasonable person would understand, that they can not be just a product of random genetic mutation but they would see it for what it is: the most certain proof that God does actually exist, at least in one form or an other, be it an omnipotent being or an ancient alien civilization or maybe a giant pink unicorn.
+
+However, looking at nature and its many fascinating wonders, wouldn't you agree that there has to be some sort of intelligent design to evolution as well?
+Meiotic drivers.
+
+The process of [meiosis](http://en.wikipedia.org/wiki/Meiosis) produces four daughter cells from one initial germ cell. In females, it produces 1 egg cell which it dumps all of the nutrient into, and 3 polar bodies, which are discarded. So one set of DNA winds up in the egg, and the other three sets don't make it.
+
+The system is supposed to be more or less random. The sequence of a particular stretch of DNA has no bearing on whether it winds up in the egg or in one of the polar bodies. 
+
+But what if there was a sequence that could cheat? What if there was a sequence that managed to get into the egg cell more than its fair share of the time? Alleles that do this are called meiotic drivers. They cheat their way to high frequency in the population, not by conferring a fitness advantage on their carrier, but by ensuring that they wind up being passed on to offspring more often than they should.
+
+This means that these alleles can exist at fairly high frequencies in the population *even if they have negative fitness consequences for their carriers*. In these cases, they can often balance at some equilibrium frequency, where the negative selective pressure acting to decrease its frequency is more or less balanced by the positive pressure on it's frequency exerted by its cheating of the system.
+
+This sort of drive system is even hypothesized by some to be involved in speciation (which would be super awesome, in my opinion), although we still have a lot more to learn about speciation, so I don't know if there's that much evidence for this yet.
+
+As for what am I going to do?:
+
+I'm interested in developing ways to detect natural selection within genomes on polygenic and weakly selected traits. This involves building mathematical models of certain evolutionary processes to use as a framework for some sort of statistical test to identify selection.
+When there is a genetic mutation, what, on a molecular or other relevant small scale happens to cause the mutation?  
+
+   When a trait, like tallness for an arbitrary example, is selectively bred for, there are many many different genes that play a role in determining the tallness.  My question is, once these genes become dominant, how does even more tallness happen?  Is there a gene that changes to say to redo the tallness genes a number of times?  I suppose what I'm trying to ask is what are the mechanics behind genes that allow for large scale evolution/differences like a big difference in tallness?  
+
+I ask both of these questions in order to try and wrap my head around long term evolution.  I understand the idea of mount-improbable.  A series of small changes over time.  I suppose I just don't know how the metaphor translates into actual genetics.  My mind keeps trying to say that new genes don't come from 'nowhere' so what process makes new genes slowly, inevitably come into effect?
+
+Thanks for your time.
+No. That's the incredibly beauty of the theory of evolution. It is able to explain what we see around us without resorting to any intelligent force.
+
+Things we haven't gotten around to figure out yet != evidence for god.
+Science can never explain "why?" it can only answer "how?"
+
+It is entirely possible that some intelligence has directed the evolution of species on this planet toward some end, but we really cannot say that this is so, or guess what that end might be. That the evolution of species has happened is a fact that can be observed by looking at the fossil record. The mechanism by which this evolution occurs is still somewhat in doubt, but seems on evidence to be concerned with the likelihood of one individual with a specific mutation to be more likely to reproduce than another.
+
+That is the scientific "how." The "why" is by definition metaphysical--that is, above or outside of physical or scientific description. All we can really do is try to make sense of the universe as we find it. It is certainly possible that the universe we live in was consciously designed so that certain characteristics would be preferred. In that case, the universe would be intended by its design to produce intelligent beings such as you or I. Logically though, that intent would exist outside of the closed system of our universe, and so would be beyond our logical ability to "prove." The best we can do is suspect, or believe.
+&gt;The mechanism by which this evolution occurs is still somewhat in doubt
+
+That's a bit of a strong statement for the philosophical point you're making. *How* evolution occurs is not really in doubt. We're just working out individual histories and the finer details at this point. The basic mechanism has been pretty well understood since the time of Fisher, Wright, and Haldane.
+How years as a postdoc do you think you'll need to do to land a decent position? Does it scare you that there is absolutely no job security with all the investment you are making in your education?
+
+Sincerely,
+Someone who recently finished his Master's in biology studying gene duplication events and the molecular basis of adaptation, somehow still hoping to do a PhD more-or-less in the same area.
+as far as i now 23 and me have started [exome sequencing!](https://www.23andme.com/exome/) now..
+Woah. Did not know that. $1000? Not bad. I think I'll wait for the $1000 full genome though. That'll probably come around within a few years of the point in time where I'll actually have enough money to blow $1000 on sequencing my genome for kicks.
+One of the things I hate about science is that passive events are easily thought of as active because of the word used to describe it.  "Selection" implies not only an action, but an action of a thinking being (and is often thought of as capable of "acting directly").  Fire burns a forest to the ground, so grasses grow up after.  To say that the fire causes the grasses to grow would be erroneous.  The fire created an condition in which the growth of grasses was facilitated.
+That sort of thinking has to be applied when thinking about "accidental byproducts" vs directed change.  *All* mutations are accidental byproducts.  There is no guiding hand.  A mutation will either cause the organism to live a shorter life, or it will just happen to allow the organism to fit in better in the environment in which it lives, allowing a longer life and more offspring.
+I will be the first to admit that these are niggling arguments, and I heartily sympathize with your distaste of people who can't phrase questions that don't show their ignorance and wrong-thinking.  But as someone facing a career in a field that is already held in disdain by the more religious elements, it might help you to face these people if you are able to take out any hint of a "guiding hand" in your arguments.
+That having been said, I also have to say that your field is one that has always held fascination for me.  I have always harbored the notion that it would be selectionally advantageous for the genes involved with damage repair to be a mutational hot spot; to act as a switch that causes more mutations when more diversity is warranted.  Of course this is probably not the case, but it's fun to think about.
+&gt;How years as a postdoc do you think you'll need to do to land a decent position?
+
+Depends on my work, really, doesn't it? I know of people out of my program who manage to land a faculty position with no post-doc (that's rare, of course), and I know of more than a few 4+ year post-docs. Ideally I'd probably want to do 2 and then move on to a faculty position if possible. 
+
+&gt;Does it scare you that there is absolutely no job security with all the investment you are making in your education?
+
+Yes. That's why getting tenure as fast as humanly possible is probably the best plan.
+Well, I was responding to a person who seemed antipathetic to evolution in general. I felt it best to take a philosophic approach.
+
+I don't seriously doubt natural selection as the primary mechanism of evolution, but since it is a process it is difficult to present it as a "fact" rather than as a hypothesis, however solid its logical basis. Processes by definition occur over time, and so cannot be fossilized as can the incremental development of traits or species.
+
+I also think it likely that evolution has other pressures than just natural selection that work to differentiate populations, and therefore species. I think that natural selection is probably by far the most influential evolutionary pressure, but I don't think we should discount other influences as well.
+
+Thinking that, I tried to make my response as supportable as possible, because I knew that I was making a vain attempt to sway someone with an opposing opinion.
+
+And now, please excuse me. I've got to go lasso the Moon.
+By genetic mutation, do you mean the the change in DNA sequence or change in trait/character itself?...If you mean character, on the molecular level their is change in the sequences by different mechanism, ie point mutation, indels, even structural changes. this [wiki!](http://en.wikipedia.org/wiki/Mutation) summerizes those.
+
+The second question is really interesting. By saying there are many many genes controlling tallness, you are implying quantitative nature. Once those genes become dominant (I guess dominant here is not the dominant as in dominant/ recessive), that is called allele fixation and that is practically almost impossible, however, that might happen in many breeding program because of their genetic pool. In those cases, breeders just try to look out of the box, more population, may be wild species and even distant relatives. 
+
+|Is there a gene that changes to say to redo the tallness genes a number of times
+I am not aware of that but as you know mutation could add more variation that just happen to add tallness.
+I am not on the human side of genetics/genomics, but I guess even exome sequencing is enough for looking into known disease variants.
+upvote for
+|Things we haven't gotten around to figure out yet != evidence for god.
+Certainly, but as someone who could actually take my own genome sequence and do some analysis myself, I'll probably just wait til I can get the whole thing.
+are you guys attending PAG 2012?? if so, lets make reddit meet...
+Wasn't planning on it, though that conference sounds really cool. I'll have to keep that in mind for next year. 
+
+My conference plans this year are SMBE and ASPB, if I can even make it to those, haha. 
+
+Edit: also get yourself an askScience tag! We could always use more ID'd geneticists/plant biologists.
+And I rarely go to those meetings, hmmm...seems I want to go to SMBE now..ireland..
+
+That was what I was thinking a while ago, may be I should sooner.
+
+pretty busy now, may be 20 days later...after PAG...
+This is a good wiki-article to link to when people ask what the purpose of something is, I think:
+http://en.wikipedia.org/wiki/Spandrel_%28biology%29
+Thank you very much for taking your time to answer this question; I understand that it might be somewhat different to what you would expect from such an AMA, so thank you for indulging me.
+
+I wasn't suggesting that what we don't know yet was evidence for god. I personally think that the wonders we see in nature are - but that is debatable.
+
+What I wanted to suggest is, that the evidence we see all around nature points extremely to the idea that evolution can not be completely random. 
+
+To start with, our planet is the perfect place for life. Not only is it within the Goldilock-Zone, but it is also provided with a Moon which cause ties and floods (undoubtedly essential to marine life, even today) and a perfect orientation towards the sun. The chances of getting a planet like that alone are already very very small.
+
+If you go at it with a scientific mind - what would be the chances that over the course of many _random_ mutations a one-cell organism evolves into something which has... lets say a silk gland? Or a poison with over 200 lethal components to it? One to a billion maybe? One to 10 billion?
+
+Alright, that might still be in the realm of the possible.. But what then, would be the chances for the more complicated evolutionary processes?
+
+As this is an AMA, let me finish with a specific question:
+
+How would geneticists explain the fact that their are certain species of caterpillars, which have evolved to reproduce pheromones of ants, so that the ants would carry them to their nests, and feed them and care for them, in preference to their own children even. And that in addition to that, a wasp evolved as well which produces similar pheromones and which can (somehow, we dont know yet how exactly) locate these caterpillars within the ant nests and lays their eggs only within this one species of caterpillar?
+
+This is not an act of evolution, but an act from something which, at this point for a lack of better knowledge, we have to call "God".
+&gt;My conference plans this year are SMBE
+
+Cool. I think I may likely be going to SMBE as well. I may shoot you a PM when June rolls around.
+How much evidence is required before you (personally) believe that a trait has shown to be adaptive, rather than "accidental?"  What about other geneticists?  How was this threshold developed?
+
+I'm asking because I'm type 1 diabetic, and due to how common some of the associated genes are in Northern European populations, I've always wondered if the associated genes have some hidden advantages.
+Upvote for taking the words out of my mouth on why I find evolution so fascinating. Simply beautiful.
+[deleted]
+In case you or others had not seen this resource, I wanted to put a plug in for [Software Carpentry](http://software-carpentry.org/), which is a fantastic resource for people new to scientific computing, particularly targeted at people more interested in Getting Things Done^TM with all that data rather than developing tools (which is, of course, also really important, but there are different resources out there for those folks).
+
+I had no formal computational training prior to starting my Ph.D. and I learned many of these things the hard way, particularly with regards to the importance of good version control and data provenance when you're dealing with large datasets.
+&gt;What would be the mechanism of the bottleneck dissipating? 
+
+Well in developing a new variety conventional or otherwise you would be going from a diverse population, to a small handful of seeds with the desired trait, and then back up to a massive population.
+
+Depending on how you approach that last step would determine the amount of diversity. IF you just grew up the population from the seeds you had, then the only thing adding diversity would be mutation and recombination. These would be slow effects and overall you would see a very homogenous population.
+
+&gt; Haven't you just eliminated a big chunk of alleles for any given gene entirely? 
+
+Definitely, but by backcrossing the new variety to plants from the pre-bottleneck population and then selecting for your trait you can put a lot of that diversity back into the population.
+
+GM seeds take many years to go from the lab to a commercial farm field, more than enough time to do  cross that variety into existing populations. 
+
+&gt;Regarding selective sweep, that wouldn't occur with any type of seed that isn't saved, such as corn, correct?
+
+Interesting thought.
+
+Sweeps do not happen often, but when they do the allele sweeps to fixation very quickly. The plant breeders maintaing and improving the parental populations would see occasional sweeps as those seeds are saved. You need to keep the parental populations separate and create new F1 hybrids each year otherwise you start to lose those benefits of hybrid vigor. The sweeps from the parental populations would be visible in the hybrid population but further adaptation wouldn't happen because as you said, the seed isn't saved.
+I hadn't seen that before. Thanks! I'm probably going to tend toward the developing tools side of things, but it's useful to know what's out there.
+It seems like what you're interested in is true evolutionary novelty, not just how to squeeze a few more inches out of a particular phenotype. 
+
+Gene duplication is thought to be an extremely powerful force for evolutionary innovation. Essentially, what happens is that some large stretch of a chromosome gets accidentally duplicated during some cellular process, so you now have two copies of one or more genes. In some cases, one of the two copies (which both start out being identical in sequence) will retain the original function, while the other is free to evolve a completely new one. In some cases the two copies will subdivide between them multiple functions that the original one performed on its own.
+
+In the height example you're giving, however, it seems most likely that to get an even taller individual you would just need a new mutation at one of the genes already associated with height. You wouldn't need totally new "height genes" in order to make a taller individual, you would just need new variants (alleles) at pre-existing height genes that coded for taller individuals than the variant already existing in the population.
+
+&gt;Is there a gene that changes to say to redo the tallness genes a number of times?
+
+There could be. Genes that interact in a non-additive manner like this are said to be [epistatic](http://en.wikipedia.org/wiki/Epistasis). I'd say it's still a somewhat open question as to exactly how big of a role epistasis plays in evolution. It can be a little difficult to study sometimes.
+This was a fascinating read.  Thank you for your time.
+Hello, thank you for your time. Could you explain how the different blood types came about?
+[deleted]
+hey, I am doing a project for school about genetic engineering, I know that is not your exact field but if you are involved in genetic research in anyway it would bring me great happiness if i could interview you.
+I haven't forgotten about your question, just dealing with IRL stuff that's preventing me from sitting down and typing up a proper response. I'll get back to you within the next few days.
+Possibly. 
+
+What sort of information are you looking to get out of the interview? My current interests/work really is not that closely related to genetic engineering, but I did do an eight month stint at a certain widely hated biotech giant that does lots and lots of genetic engineering, so I may have something to answer.
+
+Do you want to shoot me a PM with a little more information?
+Awesome, thank you Mr. (soon to be Dr.) Geneticist!
+&gt;(**soon** to be Dr.)
+
+Oh god. Don't say that. :| 
+
+I'm still way too far away to even think about putting "soon" and "Dr." in the same paragraph, much less the same sentence.
+Oh and i you could sent me the pm i sent you, i forgot to write down the questions i said i might ask. Its ok i you dont want to do he interview
+Did you forget about me Mr. Geneticist?  It's cool if you don't have time for a random stranger on the interwebs.  Even a short reply would be really awesome, though.
+Ah. No. Sorry. Classes started up this week, so I've just been busy prepping for and coping with the resumption of a somewhat normal routine. Your question is actually one that would probably benefit me to answer, just because it would force me to put my ideas on the matter all down in one place, so I do intend to answer. I just need to find enough time to sit down and type it out. The perfect is the enemy of the good.
+How long do you think it will be before DNA tests are affordable as a simple blood test? For example if I just want to know what my DNA can tell me about myself it is a few thousand right? How much longer until it is like $50 or so?
+Well, it depends how much information you're looking to get. A company like [23 and me](https://www.23andme.com/) will already do a basic genotyping for $99 (although you also have to subscribe to a year of their email update service or whatever it is, so it's really more like $200). They'll genotype you at a bunch of different genetic markers, and from those they can tell you certain things about your ancestry, or predisposition to certain genetic diseases or whatnot.
+
+That same company is slated to soon start offering [80x (i.e. very high) coverage exome sequencing for $999](https://www.23andme.com/exome/) (your "exome" consists of all of the protein coding genes in your genome, but not all of the other sequence; most of the important stuff is in the exome, but not all of it, so it's better than the $99 test, but not as good as having a genome).
+
+I don't know offhand what it costs to sequence an entire human genome at the moment. The price is dropping so fast that it hardly pays to remember it. We're likely to hit the $1000 genome sequence in the next few years, and I'd imagine full genome sequencing at a price the average citizen might be able to consider is probably little more than a decade away.
+Thanks! I might try the 23 and me. I saw a site (maybe it is them) where they were able to make a picture of your DNA. I thought that was cool. I was interested in genetics but I think I just had a really bad professor so I will make another attempt at it. Thanks for answering my question.
+
+Summary:
+As for what am I going to do?
+How do I sequence my own genetic code?
+I don't think it increases with time in the program.
+I'm interested in the process.
+I really don't know a whole lot about sequencing technology.
+I just don't think you should be able to patent that.
+&gt;How do I sequence my own genetic code?
+Thank you for your time.
+I might try the 23 and me.
+I don't really have a favorite genome (at least not yet).
+The second question is really interesting.
+What are your favorite genomes to work on?
+How would that effect diversity?
+Do you think you get paid enough for the work you do?
+This is one of the issues I'm interested in.
+I thought that was cool.
+1: I have no idea.
+How much do you get paid?
+I really don't know much of anything about GMO crops.
+The question more or less is it's own answer though.
+Well, it depends how much information you're looking to get.
+If you know your Davis population geneticists well enough then you might even be able to work out which lab I'm in from what I've said above.
+I also think it likely that evolution has other pressures than just natural selection that work to differentiate populations, and therefore species.
+I love where the field is going.
+I mean, we're generating so much data nowadays.
+I think I may likely be going to SMBE as well.
+Thanks for answering my question.
+Depends on my work, really, doesn't it?
+There's a post-doc in my lab who works on plant genomes.
+What sort of information are you looking to get out of the interview?
+I just need to find enough time to sit down and type it out.
+When people ask this question, they are assuming that there has been any selection on that particular trait at all.
+What is the speed of human evolution?
+That having been said, I also have to say that your field is one that has always held fascination for me.
+So I guess that makes me more of a genome hacker than a math whiz.
+I had a feeling one of you (mods) was going to make me do this, haha.
+*How* evolution occurs is not really in doubt.
+So if you want to go sequence a transcriptome (i.e.
+Well, 40,000 years really isn't a long time in evolutionary terms.
+I wasn't suggesting that what we don't know yet was evidence for god.
+I'm probably going to tend toward the developing tools side of things, but it's useful to know what's out there.
+What exactly do you mean by that?
+What exactly do you mean?
+This is a natural mechanism seen with all adaptive traits.
+You know, I'm actually not sure.
+Yeah, Katie Pollard's work at UCSF was one of the first things that really piqued my interested in this field back when I was an undergrad.
+For example if I just want to know what my DNA can tell me about myself it is a few thousand right?
+I think I'll wait for the $1000 full genome though.
+I don't know offhand what it costs to sequence an entire human genome at the moment.
+I personally think that the wonders we see in nature are - but that is debatable.
+How do I connect myself with a genetics database?
+Certainly, but as someone who could actually take my own genome sequence and do some analysis myself, I'll probably just wait til I can get the whole thing.

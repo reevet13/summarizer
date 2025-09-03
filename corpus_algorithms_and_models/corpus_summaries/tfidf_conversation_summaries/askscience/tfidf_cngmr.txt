@@ -1,0 +1,12 @@
+Original Response:
+Ok so I am new to anthropology and need major helping understanding something. I have to identify what's wrong with this karyotype ---&gt; http://imgur.com/pycHx.jpg
+I know that the problem is that there are 3 X chromosomes and all the other chromosomes have 3 copies too, but I have no idea what sort of condition this is and I'm also trying to figure out what goes wrong during cell division for this to occur? Any help would be appreciated!
+[deleted]
+That is triploidy and to be more general, euploid which is basically having the entire set rather than some not to confuse it with aneuploid which is having some sets. Example of aneuploid would be trisomy 18 (down syndrome) and that is having chromosome 18 as a triploid while the other sets are diploids. 
+
+It is rare to have birth since most triploidy cases result in spontaneous abortions. When birth does occur, the infant usually dies quick, within a few days. The abnormalities of this is deformed bod parts, areas include face mainly and limbs (retardation is the term they used in the articles I've studied) .  
+
+There are many ways this can go wrong. Most of the error occurs in meiosis 1 (known as primary non-disjunction) and some in 2 (secondary non-disjunction). This usually leaves one of sex cells as a diploid rather than a haploid. When you get fertilization of this diploid with a haploid, you get a triploid, which as mentioned is fatal for us.  From the articles I studied, most of the cases were maternal cases ( ovum was diploid), and rarely was it parentally via dispermy ( 2 haploid sperms fertilizing 1 haploid egg).
+
+Summary:
+This usually leaves one of sex cells as a diploid rather than a haploid.

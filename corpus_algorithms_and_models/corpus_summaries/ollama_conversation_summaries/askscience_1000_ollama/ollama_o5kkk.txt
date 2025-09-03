@@ -1,0 +1,19 @@
+Here is the extracted summary:
+
+I understand that liquids form a ball in space, due to 0 gravity. I was wondering, if you touch (a ball of) water whilst in space, do your hands get wet? Does water attach to your skin or does it "bounce off"?
+
+Yes, it would feel the same. If you think about it, water clings to your skin even against gravity, so it would do the same without gravity.
+
+The phenomena is somewhat dully named ["wetting"](http://en.wikipedia.org/wiki/Wetting).  Through a [adhesive force](http://en.wikipedia.org/wiki/Adhesion) the water molecules and your skin have an attraction mediated the electromagnetic force (sometimes van Der Waals).
+
+Your skin is hydrophilic, meaning these electrons can align to get pretty decent cohesion.
+
+The forces that cause water to attach and stick to your skin are unrelated to gravity. Consider touching saturated sponge with your hand from the top, bottom and sides. In all cases, your hand will be moistened by the sponge.
+
+Getting wet in space would feel no different from on Earth in the same way that getting shot by a gun in space would feel no different.
+
+Water maintains its cohesive and adhesive properties in space. In layman's terms: water is just as wet in space as it is on Earth.
+
+He's correct, wetness is a feeling of pressure and cold. There is no "wet" sensor on the body. The cold would come from water itself, and the pressure comes from gravity.
+
+Once the water touches your skin it should stay just because of surface tension

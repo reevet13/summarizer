@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+i tried to keep the balance around 1000€, that's the reason because some part arent the best, i focussed on motherboard, gpu and cpu.
+
+Everything is fine but since your CPU is not unlocked, you probably don't really need a Z370 chipset. Cheaper H370 or even B360 will do fine. I'd rather save that extra money for a later GPU or RAM upgrade.
+
+Thank you very much for the advise!  Just a question, the z370 have a cooling system already in, so, i can remove the bequiet cooling support from the list?
+
+No, you still have to buy the CPU cooler separately.
+
+Is it? Previous gens (6600, 7600) didn’t come with cooler.
+
+Hmm, I didn't know that, but I'm positive that the 8600 comes with a stock cooler.

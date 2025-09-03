@@ -1,0 +1,47 @@
+There is not zero gravity between the Earth and the Moon.
+The Earth's gravity still has a fairly strong influence there.
+Orbiting vehicles are in freefall, so that's why astronauts experience "weightlessness".
+The technical term is microgravity.
+Gravity actually spreads out everywhere, just like light, - but at some point is so small as to not be measurable (or detectable).
+Gravity travels at *c* just like light.
+Science does not have a good grasp of gravity yet - other than we know an objects mass can distort space-time.
+Beyond that, the actual mechanics of gravity are still being researched (gravity may be linked to dimensional strings).
+As per expansion - expansion happens to massive objects at massive distances.
+At local distances gravity keeps things bound.
+This is why our solar system is bound (is stronger than the force of expansion in that region), our galaxy is bound, and why it moves with a local group of galaxies.
+There is an [L1](http://en.wikipedia.org/wiki/Lagrangian_point#L1) point in the Earth-Moon system where their gravity cancel out.
+But you are correct in that this is only a single spot between them.
+Everywhere else, gravity will  matter.
+You're arguing semantics.
+There's a point at which the Moon and the Earth have equal and opposite gravitational influences, thus 'cancelling out', but the Earth still has a gravitational influence that drops off with the square of distance, throughout the universe.
+The concept OP has of the Earth's gravitational influence just ending in low Earth orbit is flat out wrong.
+Just because astronauts float around 'weightlessly' does not mean there is no gravitational influence.
+Gravity does not stop.
+If you're asking why astronauts experience weightlessness in earth's orbit, it's because they're... well, orbiting around the earth.
+[NASA's website explains this quite well](http://www.nasa.gov/centers/glenn/shuttlestation/station/microgex.html).
+This quote in particular:
+
+&gt; If you drop an apple on Earth, it falls at 1g.
+If an astronaut on the space station drops an apple, it falls too.
+It just doesn't look like it's falling.
+That's because they're all falling together: the apple, the astronaut and the station.
+But they're not falling towards Earth, they're falling around it.
+Because they're all falling at the same rate, objects inside of the station appear to float in a state we call "zero gravity" (0g), or more accurately microgravity (1x10-6 g.)
+
+They experience 'weightlessness' for the same reason we don't feel a gravitational pull towards the sun: we're in orbit around it.
+Gravity isn't a polar force, it doesn't "cancel".
+All objects exert a force of gravity on each other that is directly proportional to the mass of the objects and inversely proportional to the square of the distance.
+Thus, if you double the distance, for example, the force is reduced by a factor of 4.
+Therefore, only objects that you are relatively close to you will have a noticeable affect (so you can imagine traveling billions of miles away from earth than the force of gravity exerted by earth on your would be very small to the point where it's negligible).
+Theoretically there is always objects exerting a force on you so there is no such thing as zero gravity.
+But there would be a point between the earth and the moon where their gravitational forces on you are equal.
+So it would be like a rope pulling you one way with a certain force and a rope pulling the opposite way with an equal force.
+There's still forces acting on you, but the forces would essentially cancel out and you'd stay still if you had no other forces acting on you.
+On either side of this point, the earth or the moon will exert a larger force of gravity than the other.
+Your wifi signal is a good analogy as if you're, say, 100 yards away from your router I'm sure you can get a very weak signal, but not enough to register on your laptop.
+I'm not an expert, but I am pretty sure we know what happens and how to describe it in most circumstances, but we don't know why.
+One thing I have learned, however, is to be humble in our intellect.
+In this case it does.
+The gravitational pull from earth and moon are the same at that point, just in opposite direction, effectively canceling each other out.
+Actually, there is a net gravitational acceleration at L1, enough to keep an object at L1 in orbit around the earth at the same period as the moon.
+Look,

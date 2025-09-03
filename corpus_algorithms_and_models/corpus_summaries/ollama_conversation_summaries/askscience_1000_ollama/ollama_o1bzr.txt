@@ -1,0 +1,12 @@
+Here are the extracted sentences:
+
+* Having 'aeroplankton' would unlikely be efficient for terraforming.
+* Yes, I understand the issues involved with setting up Carbon scrubbers on an entire planet. That is why I prefaced it by saying that there are no *realisitic* solutions to solve this.
+* The highest temperature thermophiles have been found to survive on earth is [122 degrees C](http://en.wikipedia.org/wiki/Thermophile).
+* Unfortunately this does nothing to address the presence of sulfuric acid which has a nasty habit of turning organic molecules into charcoal; nor does it address the almost complete lack of water in the Venusian atmosphere which along with the dehydrating properties of sulfuric acid, would pretty much require any organism introduced to live in a constant state of dessication.
+* Of course this does not preclude the existence/engineering of an organism that can survive in such an environment but it sure as hell won't be based on anything we have seen on Earth.
+* You say carbon sequestration would be impossible. But what would be recycling those waste products back into the atmosphere? There's no reason to expect they wouldn't fall to some lower level, and that's progress toward the endpoint of putting then down at the bottom.
+* What positive feedback mechanisms are you referring to, which you feel would take so much effort to overcome?
+* When you discuss the upper atmosphere, it does bring up the point of atmospheric thermocline. From 25 to 75 km altitude, the temperature ranges from 200 to -100 C. Quite accessible for our thermophiles.
+* The positive feedback system I mentioned is the runaway greenhouse effect Venus has as a result of having such a thick atmosphere of CO2. Any sequestration process (biological or mechanical) would not only need to remove carbon from the atmosphere but do it faster than the geochemical processes that maintain the current equilibrium by **recycling** carbon back into it.
+* I already addressed the possibility of having organisms exist at the upper altitudes of the Venusian atmosphere [in a previous comment](http://www.reddit.com/r/askscience/comments/o1bzr/scientifically_how_far_are_we_from_having_the/c3dsoge) so I won't bother to repeat it here.

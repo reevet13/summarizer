@@ -1,0 +1,9 @@
+This is called [Abiogenesis](http://en.wikipedia.org/wiki/Abiogenesis). A good place to start, as always, is [Wikipedia](http://en.wikipedia.org/wiki/Abiogenesis#Current_models).
+
+Very briefly, atoms and molecules aren't so simple. Combining the rules of these interactions with random motions can produce complex structures, like snowflakes and other crystals, or it can produce more fluid, sustained reactions, like those in living creatures. Well, the whole point of the [Urey-Miller experiment](http://en.wikipedia.org/wiki/Urey-Miller_experiment) was to demonstrate that inorganic molecules known to be present in the early terrestrial environment can spontaneously form amino acids -- the building blocks of proteins.
+
+The fundamental operation of life as we know it is synthesis of proteins, mediated by patterned nucleic acids. The key is the self-replication: once a sufficiently robust general self-replicating system happens by chance (even once) proper evolution can begin and development of complex life is virtually assured.
+
+To make it a bit clearer, the relative rapidity with which life formed as soon as the Earth cooled to suitable temperatures implies a gradual process that led to replicating life. A global self-sustaining (rather than self-replicating) system of organic molecules, proteins, and/or genes built up independently of replicating life.
+
+Conditions on earth allowed for the spontaneous formation of organic molecules. Large and complex carbon-based molecules. Lab work has demonstrated that organic molecules can form spontenously under the right conditions. Many of the structures inside cells don't require anything "animate" either. So although the exact pathway leading to the formation of life hasn't been determined, it seems feasible to imagine the formation of organic molecules of increasing complexity over time, and the development of primordial versions of the systems that are central to today's living organisms.

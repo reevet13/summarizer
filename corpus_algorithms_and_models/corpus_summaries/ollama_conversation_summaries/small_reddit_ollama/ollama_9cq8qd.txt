@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the original text:
+
+Buys and sells on exchanges are not the same as real life transactions like PayPal though.
+
+I know.. i wonder how much was actually used for a real transaction, not exchange volume.
+
+Buying and selling wouldn't be an on-chain transaction, but withdrawals and deposits would be
+
+Not on the blockchain, except for deposits and withdraws.
+
+Bitcoin is more of an investment or vehicle for transferring money from one point to another, especially in large amounts and under the table.
+
+I don't know why people bother with PayPal anymore, it's becoming worse than Western Union.
+
+"Why not just add up the block transactions at the value when they occurred?"

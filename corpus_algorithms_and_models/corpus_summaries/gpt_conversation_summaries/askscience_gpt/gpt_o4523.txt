@@ -1,0 +1,13 @@
+Relative to any chosen frame of reference; the speed of light is constant and is the same for any reference frame.
+
+The LHC works because the protons are never moving faster than the speed of light; velocity addition does not work the same way for relativistic speeds as it does for small, everyday speeds.
+
+The resolution to your puzzle lies in the way that [velocities add in relativity](http://en.wikipedia.org/wiki/Velocity-addition_formula).
+
+You can actually prove the following statement just using the Lorentz transformations: If body A is moving at speed less than c in reference frame S, and reference frame S' is moving at speed less than c relative to S, then body A will always be moving at less than speed c in reference frame S'.
+
+Nothing can move faster than **the speed light travels in a vaccum** relative to **anything**.
+
+What this means is that it is impossible to observe anything travelling faster than c.
+
+Light is measured at the same speed relative to all frames of reference. That's why relativity works, essentially.

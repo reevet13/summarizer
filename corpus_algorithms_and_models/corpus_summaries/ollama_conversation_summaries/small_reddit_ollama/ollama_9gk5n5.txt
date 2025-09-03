@@ -1,0 +1,8 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Just FYI, release of server files does not mean Namalsk is going to be released.
+Haha yes.  Sorry.  Not meaning to get anyone's hopes up.  Just extremely excited for its release.  Whenever that may be
+But when?;
+Probably when Steam Workshop opens?
+Technically yes, if someone wants to spend their time like that. Without proper tools, you cant properly edit economy files (has to implement their own loot spawn system), nor generate navmesh (no ai) though.
+Oh man, I can't wait! Especially when we have all content in, because for me Namalsk associates with heatpacks and boats :)

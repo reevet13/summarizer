@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text, up to 250 words, by selecting only sentences from the original text exactly as written:
+
+Been on Amazon for over an hour and cannot figure out wtf kind of adapter to make my wife's 2nd monitor work properly.
+PC has a VGA port, monitor has a DVI-D port. I need male to male, every adapter I find seems fine, but it says it only works with DVA(monitor) -> VGA(pc) and not VGA(pc) -> DVI (monitor
+Can anyone please point me in the right direction?
+Your problem is that you are trying to do an analog to digital conversion.
+A passive cable or passive adapter will **not work** under any circumstance.
+The goal is to basically allow her to use dual monitors for work and for personal use.
+Maybe I should look into a KVM switch solution instead?

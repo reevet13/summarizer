@@ -1,0 +1,48 @@
+Regardless of what you do with your security settings, there is one party who always has access to all of your data: Facebook itself.
+I've had just had a very unpleasant incident which borders on stalking.
+Why was it so easy to find my email, telephone number and address?
+Because I am an idiot who uses Facebook.
+Just a word of warning, bad stuff can happen to you.
+They present it being a worry that third-parties can get your info through applications.
+I'd say Facebook having your data is the biggest risk.
+This article is misleading.
+You can control the amount of access a Facebook app has to your data, and you don't have to put all this data on Facebook in the first place - my profile doesn't even have my real name - only a 'nic.
+Dissapointed in the BBC for this silly scare-mongering.
+Every single one of my facebook "friends" it seems.
+I've tried warning the folk I care about the most but they simply don't care.
+Here is a tip.
+Don't put information you don't want everyone to know.
+If you put information on your facebook that you don't want people to know, then you are a moron who deserves what exactly what you get.
+Congratulations, you lose at internet.
+No you can't.
+You can specify a single application and restrict it but you would need to do it for every single application that your friends use.
+That's the issue here, the applications get access to your friends details as well as your own when they are added.
+Really?
+But how would that be different than someone in your friend's network being able to see what you put up?
+It's the same thing really.
+If you set your privacy to "friends only" then their applications get the same access to your details.
+I'm going on the basis of an article I read recently, so don't take my word as bond on this but I'm pretty sure that's how this works.
+When you add an applicaiton, the dialog says: > Allow this application to.. > Know who I am and access my information > Put a box in my profile > Place a link in my left hand navigation > Publish stories in my News Feed and Mini-Feed > Place a link below the profile picture on any profile > Send me notifications via email So a modicum of control is provided.
+The API will only allow you to perform actions on a user that the user has allowed - and the only data it can obtain from your friends is data that your friends have publically published and visible to anyone who comes across their profile.
+From the article: > When you add an application, unless you say otherwise, it is given access to most of the information in your profile.
+That includes information you have on your friends even if they think they have tight security settings.
+So the article says that - the only information the app can obtain is information that is already public and on your profile.
+So, really, what's the issue?
+If my friend installs an app, and that app accesses my data - the only data it can get is the data I have set to be *public* by placing it on my *profile*.
+In other words - the data that *anyone* can *already see* if they visit my profile.
+You cannot restrict user or application access to only certain areas of your profile - any data you put up there is public.
+The only thing you can restrict is the users allowed to see/search for it.
+The app cannot access data outside of my profile - such as email, notifications, posts, and so on.
+It can't even access markup (FBML) that other applications have placed on my profile page.
+Seriously, this is one big non-issue.
+You're 100% right; I've just spent a couple months writing a Facebook app.
+The sad thing is the down-modders have no idea what they're talking about, but are willing to downmod you for a differing opinion.
+Welcome to Reddit..
+I write code, I have a Facebook profile, I write Facebook apps.
+You don't have to put any real personal data on Facebook, you can even use a 'nic or fake name.
+The only thing that needs to be real is the email address you give.
+You don't have to supply your address or phone number, or eductional history or any of the rest of that crap - it's all *optional*.
+Jesus Christ, people.
+Facebook is just a bit of fun, it not a "security risk" unless you choose to make it one.
+No, read it again.
+Right now if you were to find me on Facebook (fat chance), you would see nothing.

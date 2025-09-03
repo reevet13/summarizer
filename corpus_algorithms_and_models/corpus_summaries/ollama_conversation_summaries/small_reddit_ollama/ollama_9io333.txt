@@ -1,0 +1,12 @@
+Here is the summary of up to 250 words or about 10% of the text:
+
+When I look at the permission history log, it reads: "The apps below were detected using permissions in the background. [...]" 
+One time yesterday.
+Five times today.
+
+I suspect that it's because this phone is the only one where the security holes have been patched. I think Snapchat has *always* been doing this, but with your new phone, you're being alerted when it happens.
+
+Kind of like Facebook, and their app that uses the microphone to eavesdrop on users.
+
+As much as I detest Facebook, and recommend that everybody stops using it; this is a complete myth.  
+Snapchat isn't secretly using your camera without your permission, either.

@@ -1,0 +1,18 @@
+Here is the summary:
+
+I started the anarchist bracket thing you poser
+I'm just a less hot version of you.
+on the plus side, eventually her bracket discipline will get so poor that she'll start accidentally generating useful list comprehensions and set theory axioms.
+
+it's like giving a monkey a typewriter, infinite time, a box of wine, and a need for negative reinforcement
+
+Less mess for sure
+sorting lists is O(1) if you don't care about frivolous nonsense like using a specific order relation
+
+zen sort: the list is neither sorted nor unsorted, it simply is
+
+schroedinger's sort: the list exists in a superposition of sorted and unsorted until measured
+
+homeopathic sort: if you sort a small fraction of the list elements, the sorted part will vibrate at a harmonic frequency that sorts the rest
+
+darwinian sort: over long periods of time, unsorted elements will be randomly removed from the list and replaced by sorted ones

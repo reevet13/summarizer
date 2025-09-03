@@ -1,0 +1,9 @@
+Here is the extracted summary:
+
+Since the shuttle is almost always launching in the same direction (north-east), wouldn't it have been easier to simply build the launch pad in closer alignment to the intended inclination?  It seems like it would be safer to limit the number of manoeuvres the shuttle would have to do during ascent?
+
+Your assumption about older launchpads is correct... they were basically leftovers from the Apollo days.
+
+The Shuttle straddles two flame trenches -- one for the Solid Rocket Motor exhaust, one for the Space Shuttle Main Engine exhaust. (You can see the effects of this on any daytime launch. The SRM exhaust is dirty gray garbage, and the SSME exhaust is fluffy white steam.)
+
+So my original assumption about the towers being leftovers was right.  But I had thought that, you know, they coulda' just built the tower differently.

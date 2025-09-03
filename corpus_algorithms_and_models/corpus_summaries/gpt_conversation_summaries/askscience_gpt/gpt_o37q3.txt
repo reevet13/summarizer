@@ -1,0 +1,11 @@
+While it's true that salt *is* made of positive and negative ions bonded by an (wait for it) ionic bond, it's not easy to disassociate them. The bond is fairly strong.
+
+Any time you hear "negative ion" as some sort of health benefit (or any benefit), think "utter garbage." Get a refund if you can and try to educate your mother.
+
+There is nothing specific about all "negative ions" that are good for you. It's an umbrella term for ions that have a negative charge.
+
+Experiment beats theory: it's very easy to test this on your own.  Parts from Radio Shack for a [negative ion detector](http://amasci.com/emotor/chargdet.html) run about $3.
+
+Try it first on a commercial ion generator.  Enormous response.  Salt lamps ...not so much.  If you want negative ions I guess you'll have to buy the usual plug-in appliance.
+
+Negative ion generators do produce a "smoke precipitator" effect as the diffusing small ions attach to suspended particles.  The charged aerosols then will stick to surfaces they approach.  In a polluted city this can cause black filth to settle on walls and tabletops adjacent to the device.  I wouldn't be surprised if it had negative health effects, since uncharged pollutants would normally pass through your home.  Better to just buy an electrostatic air cleaner designed for that task.

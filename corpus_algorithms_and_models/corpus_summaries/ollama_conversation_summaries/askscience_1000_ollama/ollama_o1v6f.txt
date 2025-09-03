@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+As time goes on shouldn't those predictions get more accurate? (ie Here is the 7 day forecast based on current conditions. We record the weather as each day passes. 7 days later we compare what we predicted vs what actually happened. Then we update our models to work better in the future). That's how I picture things working, yet it seems like our predicting ability is still a joke. Am I wrong?
+
+That is exactly what Edward Lorenz thought when he was working with early computational weather models. He was wrong and ended up working on chaos theory.
+
+From the chaos theory wiki: An early pioneer of the theory was Edward Lorenz whose interest in chaos came about accidentally through his work on weather prediction in 1961. Lorenz had discovered that small changes in initial conditions produced large changes in the long-term outcome.
+
+Predicting the weather is very, very complex. If more people decide to carpool or water their lawns on Monday, it affects the weather later. Good luck modeling those phenomena.

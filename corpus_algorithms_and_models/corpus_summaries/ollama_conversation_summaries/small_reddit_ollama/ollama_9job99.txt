@@ -1,0 +1,13 @@
+Here is the extracted summary:
+
+Hi guys so I installed my windows on my hard drive however I really should have put it on the ssd located on my motherboard I was told.
+
+What you can do is use something like Fuzedrive/StoreMI/PrimoCache to accelerate the HDD with your SSD. It saves you needing to reinstall windows.
+
+Just boot to the windows installer, and delete all partitions, then install to your ssd
+
+So the ssd on the motherboard is the way to go correct?
+
+Yes. I think in terms of setup time and difficulty, it's no harder to reinstall your OS and applications than it would be to set up the above system, although it might take a few more minutes.
+
+So from what I gather plug the windows USB and reboot. Select the ssd drive while deleting partitions from my harddrive.

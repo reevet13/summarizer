@@ -1,0 +1,64 @@
+Original Response: 
+On Wikipedia and other places, I can read that the standard model has three gauge groups, U(1), SU(2) and SU(3), for electro, weak and strong forces.
+These groups are represented by matrices, but nowhere can i find what vector spaces these group elements act on.
+So, the groups U (n) are called unitary groups.
+They act on the set of matrices n×n who have their inverse equivalent to their conjugate transpose via matrix multiplication.
+This is a subgroup of the general linear group so it would act on the same vector space.
+The group SU (n) is the subgroup of the unitary group whose elements all have determinate 1.
+So, they are effectively act as linear transformations on a vector space of dimension n.
+Yes, I know all this, but I am asking what the N-vector represents?
+What is the vector space on which the SU(3) of the strong force act on?
+Is it some wave function?
+The vector space it acts on isn't anything other than a space.
+So, the thing that makes these groups special and useful in physics is that they're Lie Groups and thus are continous in  some sense.
+So, they're generally used to talk about spin and stuff that has continous symmetry, so the best way to think about the vector space the group lives in is the space the particle is experiencing symmetry in.
+I might be taking for granted that I come from a math background where the use of these things in physics makes sense because I know what they're doing independent of the real world.
+I apologize if so, I am just hoping I can help a little.
+Yeah I know the math behind what SU(3) is, and I was enquiring about the physical context.
+I appreciate the effort though!
+To give an example of what I am asking about.
+When we consider rotations of the coordinate system, we (physicists) often look at an infinitesimal rotation.
+Then we notice that there is a "basis" of 3 different way to do this infinitesimal rotation.
+These obey a specific algebra, and then we identify the rotations with the group SO(3).
+But here we had a coordinate system, or a wavefunction on which we could apply a linear transformation.
+SU(3) is also transformations, but what kinds of objects does it transform, in the context of gauge in the strong interaction?
+Basically, yes, it's the wave function.
+Of course if you do particle physics you should really do quantum field theory and one usually doesn't talk about wave functions, but still operators (now fields) acting on a Hilbert space.
+The Hilbert space is the vector space you're mentioning, and it is defined by all relevant quantum numbers.
+So not only space and time coordinates, but also quantum numbers under internal symmetry operations such as electric charge, isospin etc.
+The SU(3) group of the strong force acts on a 3-component color vector.
+This is the state of the particle in color-space.
+Oh, I understand, apologies.
+You might know more about it than me in that case.
+Quantum gauge theory is not something I'm particularly knowledgeable in.
+I apologize for wasting your time.
+If you do find the answer though, share it!
+I'm curious too as I was always under the impression it was just some Hilbert space associated with some wave function.
+So a color state could be red = [1,0,0], and antired is [0,1,1], with the requirement that any bound composite of quarks must have color [1,1,1].
+Or something like that?
+Sort of, yes.
+The space for the strong interactions is called color.
+The space for the electromagnetic interaction is charge.
+The space for the the unified electroweak force is is a product space of electroweak isospin (the SU(2) part) and the electroweak hypercharge (the U(1) part) .
+In general it is the associated charge.
+https://en.m.wikipedia.org/wiki/Charge_(physics)
+
+The actual colors are arbitrary labels that can’t be fixed unless a symmetry is broken, and even then, only under convention (we call electrons negative charges, arbitrarily)
+
+For the strong force, the colors are not observable— there’s no way to create a fixed source of “Red” charge, so calling them red, green, and blue is an entirely fictitious way of keeping track without enumerating them.
+Anti-red is not an additive complement to red, though.
+Rather, it is the dual representation.
+The consequence is that there is a sub space of the color-anticolor product space that is invariant under the group transformation — this state corresponds to a neutral combination of color/anti color particles.
+It’s not red-antired, blue-antiblue, or green-antigreen.
+It’s a superposition of all of these— a color singlet state.
+https://en.wikipedia.org/wiki/Gluon#Color_singlet_states.
+Thanks, now I've got some stuff to read :)
+
+Summary: 
+The space for the strong interactions is called color.
+The space for the electromagnetic interaction is charge.
+What is the vector space on which the SU(3) of the strong force act on?
+I apologize for wasting your time.
+The vector space it acts on isn't anything other than a space.
+The SU(3) group of the strong force acts on a 3-component color vector.
+I appreciate the effort though!

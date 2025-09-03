@@ -1,0 +1,53 @@
+Original Response:
+From some reading about I've been doing I understand that when the spin of an entangled particle is altered, the other entangled particle's spin is also changed instantly. But didn't Einstein say that nothing (including any information) could travel faster than the speed of light?
+
+Does this still present a problem to physicists today, or am I missing something?
+No. Entanglement doesn't work that way. It's more like cosmic bookkeeping.
+
+Entanglement more or less says, well... imagine you have two quantum coins A &amp; B, each in a superposition of both heads and tails. So now it seems like there're four possible observations: HH, HT, TH, HH.
+
+Entanglement is basically a way to remove some of those possibilities, so that instead it becomes, for example, a superposition of HH and TT.
+
+now if you separate the coins, you can't control the other coin by twiddling the first one. There're some interesting tricks you can do, but no superluminal communication. From the Many Worlds perspective, the entanglement in this example leads to only two sorts of worlds, HH worlds and TT worlds, rather than all four possibilities.
+
+Now, if you flip your own coin around, then you've essentially changed the entanglement, so now it would be HT + TH. But you're not actually controlling the other coin by magic FTL remote control or anything like that.
+
+Make sense?
+I kind of makes sense.
+
+So when you change the state of your coin, am I right in thinking that an observer observing the second entangled coin can't tell that the first coin has changed state?
+Correct. Entanglement effects are generally observed by, after the fact, bringing the entangled objects (or data about them) together.
+
+(So if the observer has access to data about _both_ coins, then they can see the difference. Also, really, once either observer makes an observation of their coin, they're essentially entangling all the particles in their brain with the state of the coin, "spreading out" the quantum state to other objects. So now the brain remembers what it observed and you can see the entanglement by simply comparing its memories with an observation of the other coin, etc...)
+Can you even change the state of your coin?
+IANAP, but I think flipping a coin has a chance of changing it's state. That's if this metaphor holds in that case.
+Its more that you can't choose which state a particle ends up and still have it been entangled.
+
+For example say a particle with a spin of 0 decays into two particles of spin 1/2 up or down (-1/2).
+
+Neither particle has been measured yet. You look at one particle and the result you get back is 1/2. This means the other particle must be -1/2 no matter how far away it is. How ever, you could have just as likely gotten -1/2 for the first particle.
+
+When your friend far away measures it, (after you've gotten 1/2 for your particle) he gets -1/2, but this looks perfectly normal to him. Now that particle will always have a 100% chance of being -1/2, if you got 1/2 first. But if you and your friend repeat this procedure a lot.
+
+But there is no way to send a message through entanglement like this because you can't choose which state the particle ends up in when you measure it.
+I don't know a lot about this, but I think your picture is a little oversimplified.
+You don't alter spin, you determine the spin. After that you know what the spin of the other article will be if you'd determine that one. It is not known how this works, but it is not possible to send any instant information with this.
+The idea behind entanglement is that certain properties of a system have to be conserved. A popular property in entanglement examples is angular momentum being conserved. Say you have a photon with total angular momentum 0 that spontaneously decays into a positron (e+) and an electron (e-). The total angular momentum must stay the same (0). Therefore, since angular momentum *must* be conserved, the e- and e+ will have opposite angular momenta (1 and -1, for example) because their sum will be 0, just like the original particle. 
+
+If you separate the e- and e+ and measure the angular momentum of one of them, you instantly know the angular momentum of the other. This is the information that travels faster than the speed of light.
+
+Does that make sense?
+Entanglement is actually more like this: you have a coin. You know one side must be heads, and the other side must be tails, but you don't know which side is which. You flip it, and it lands heads-up. At that moment, you know faster than the light from the other side can tell you that the other side is tails.
+
+This is analogous to quantum numbers of particles and various conservation laws. Say you have two particles and that you know what the total orbital angular momentum of the system is. This orbital angular momentum is the sum of the individual angular momenta of the particles. When you measure one, you instantly know the value of the other.
+How's that differ from what I said?
+Einstein is safe because you can't transfer information via entangled particles.  The best you can do is travel to where the entangled particle partner is at normal sub-light speeds, and compare notes with whoever observed it there to determine afterward that everything turned out as expected,  but since both you and he observed an apparently random outcome for your respective particles, there is no information to be gained from the observation.
+
+That being said, it is exceedingly weird that entanglement appears to be a non-local phenomena, but sometimes the universe hands you weirdness so what are you gonna do.
+
+Summary:
+Entanglement is actually more like this: you have a coin.
+Say you have two particles and that you know what the total orbital angular momentum of the system is.
+Its more that you can't choose which state a particle ends up and still have it been entangled.
+But there is no way to send a message through entanglement like this because you can't choose which state the particle ends up in when you measure it.
+A popular property in entanglement examples is angular momentum being conserved.

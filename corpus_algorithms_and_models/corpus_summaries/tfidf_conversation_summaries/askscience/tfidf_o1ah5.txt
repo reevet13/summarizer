@@ -1,0 +1,11 @@
+Original Response:
+In Lawrence Krauss's speech "A Universe From Nothing" he states that we know the amount of protons and neutrons in the universe. It was my understanding that the universe is infinite and no matter where or how far you go it will look relatively the same. Wouldn't that suggest infinite mass as well?
+
+[relevant part of speech](http://www.youtube.com/watch?v=7ImvlS8PLIo#t=29m24s)
+You are absolutely right. Mr. Krauss is being a bit sloppy with the terminology here. He is talking about the *observable* universe that is shaped like a sphere and has a diameter of something like 90 billion light years. This is due to the finite speed of light and the finite age of the Universe. Light from objects further away than that simply didn't have the time to reach us yet.
+
+We can measure the matter density by observing the expansion rate of the Universe. A high density would keep the Universe together more than a low density, so to say. Together with its size and the fact that most of the mass comes from protons and neutrons (because they are the heaviest stable particles) it becomes an easy exercise to calculate the number of protons and neutrons.
+Thank you sir.
+
+Summary:
+We can measure the matter density by observing the expansion rate of the Universe.

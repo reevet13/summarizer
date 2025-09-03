@@ -1,0 +1,9 @@
+There are several factors, including money, safety, and reliability. The first of which is solar panels aren't cheap, and neither is the additional equipment to turn low voltage DC into useful high voltage AC. Second, safety: surfaces which are good for solar panels tend to be horrible for driving. Finally, reliability: road surfaces take a _lot_ of abuse- things like oil and gas leaks, idiots driving on bare rims, car/truck wrecks, and fires. This means you have to design for failure and expect replacement costs, or design to survive and see per unit costs skyrocket.
+
+The gentlemen who was doing the solar highway project from the Department of Engineering has moved onto the next level of development. They are looking to build a mile or so of actual product in the real world and test it. They are probably testing or building it right now as I read a long while ago that he had already gotten through the first round of testing.
+
+Right now - he is building a roadway to test it in real life. If the tests show that we know how to build solar roadways cheaply and safely - then reality will answer your question.
+
+Here is the answer from the guy building the roads on his status:
+
+Hi John - we received our first round of funding from the FHWA in the later half of 2009. We completed our initial R&D in 2010 and, after they'd read our findings, were then invited back for a second round of funding. We signed the Phase II contract in July of 2011. We'll be finalizing our design over the winter and then break ground for a prototype parking lot in Idaho in the spring of 2012. We'll monitor the different configurations of textured surfaces, solar cells, heating methods, etc., under all kinds of weather and sunlight conditions for about a year. Hopefully, we'll be ready for manufacturing toward the end of 2013.

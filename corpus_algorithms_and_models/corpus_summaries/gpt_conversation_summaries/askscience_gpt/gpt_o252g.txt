@@ -1,0 +1,5 @@
+It would be difficult to represent a gravity well in three dimensions.  Your "inverted sphere" suggestion doesn't sound too off.  The best way to represent it would be to draw a bunch of force vectors pointing toward the center of mass.  The vectors would increase in magnitude as you approach the surface of the gravitational body, but then would begin to decrease as you reach the center.  
+Yeah, it's hard to imagine a gravity well in my mind without using vectors.  Probably the easiest way to visualize it.  
+Those are pretty much what i was looking for, still, its hard to imagine what it looks like WITHOUT the grid pattern.  
+Space doesn't *look* like anything; it's space.  
+I suppose that one could say you see "what the space looks like in the gravity well without the grid pattern" in that you see Earth moving around the Sun rather than flying off (over the course of, say, a year); that circular path we're following can be thought of as a "grid line" being curved "in the gravity well".

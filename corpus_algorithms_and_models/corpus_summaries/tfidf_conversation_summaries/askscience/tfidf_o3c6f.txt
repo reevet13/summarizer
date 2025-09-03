@@ -1,0 +1,9 @@
+Original Response:
+I'm a bit of a noob to science, so forgive me if this question is a little stupid. 
+ 
+Im just wondering what would happen if 2 black holes in exactly equal size, but with opposing rotations were to meet. 
+
+So lets say 2 black holes spinning in different directions were to collide. Do they simply cancel each other out? What would happen to all the matter that's been sucked in?
+You're asking about a collision between two uncharged black holes with equal mass and opposite rotational angular momentum. Assuming they collided head on (which would be almost miraculous), you would get an uncharged black hole with double the mass and no angular momentum; i.e., not spinning. If they didn't approach head on, you'd have some net angular momentum as they spiral toward one another. During the in-falling period, gravitational waves will carry energy, momentum, and angular momentum from the system, which means that the final mass, momentum, and angular momentum of the resulting black hole will differ from the sum of the original black holes.
+
+Summary:

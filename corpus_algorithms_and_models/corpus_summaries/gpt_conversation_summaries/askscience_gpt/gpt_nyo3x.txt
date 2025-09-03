@@ -1,0 +1,13 @@
+Sound waves, like all forms of energy, can do one of three things when confronted with an object (a wall): Either reflect off the surface, be absorbed by the object, or pass right through it. In terms of material, a wall with a solid surface would reflect sound waves pretty well. A wall with some sort of insulation in it would be better at absorbing sound waves, and a thin wall would have sound waves pass through it.
+
+With bass frequencies, they are literally longer than higher frequencies. In technical terms, the period of a low frequency is longer than that of a higher frequency. Really low frequencies have a period that's longer than a bus! This means they are not easily reflected or absorbed by a wall. They would need a wall that's as long as one period in order to reflect or absorb them.
+
+Sound Transmission Loss (STL,the amount of sound level lost from one side of a wall to the other) is dominated by the frequency of the sound and the mass of the wall. In general, doubling the mass of the wall will result in a 6dB improvement in transmission loss. Also, transmission loss generally increases by 6dB every time you double the frequency.
+
+So the thickness of the wall is not as important as the mass. That is, a  1 inch thick lead wall, will be much much better than a 1 inch thick plaster board wall. If you want to improve the STL a wall using normal build materials, the easiest way is to make the wall thicker using the same materials. Two layers of plaster board on each side, will double the mass, for example.
+
+Things get more complicated, because the STL of a wall is reduced at the resonant frequency of the wall. In a plaster board wall this is caused by the air gap in the wall. So to get around this, you can damp the resonance with insulation (although often this is not used on internal walls where heat loss is not an issue), or lower the resonant frequency to below the frequencies of interest by increasing the width of the air gap, giving a thicker wall. 
+
+Also, the overall STL of a wall is generally dominated by the weakest part. Putting a door into a wall will significantly reduce the STL. 
+
+Sound will also find its way around obstacles,, so even is your wall has a high STL, if sound can go from your room into the ceiling, over the wall, and into the next room, you will have lost the benefit of the high STL wall.

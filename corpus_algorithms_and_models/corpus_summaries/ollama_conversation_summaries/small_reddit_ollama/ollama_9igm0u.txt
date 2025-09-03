@@ -1,0 +1,22 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+Part 1: [https://www.reddit.com/r/dayz/comments/9hypf9/63_serverside_huge_content_mod_nbc_suits/](https://www.reddit.com/r/dayz/comments/9hypf9/63_serverside_huge_content_mod_nbc_suits/)
+
+Get script with comments - [https://mov3ax.pro/dayz_api/mymods/new_content_pack_3/AIO_Comments_3.txt](https://mov3ax.pro/dayz_api/mymods/new_content_pack_3/AIO_Clear_3.txt)
+Get script without comments (ready to copy-paste) [https://mov3ax.pro/dayz_api/mymods/new_content_pack_3/AIO_Clear_3.txt](https://mov3ax.pro/dayz_api/mymods/new_content_pack_3/AIO_Clear_3.txt)
+
+This mod includes
+* Beanie Hat (Beige, Black, Blue, Brown, Green, Grey, Pink, Red)
+* Leather Storage Vest (Natural, Beige, Brown, Black)
+* Leather Bag (Natural, Beige, Brown, Black)
+* Engine Belt
+* Sedan Wheel
+* Sparkplug
+* Headlight
+* Car Radiator
+* Hatchback Wheel
+* V3S Wheel
+* V3S Wheel Double
+* Truck Battery
+
+Vehicles itself, i can't test do they spawns but this script should enable spawns of V3S, Sedan and Offroad Hatchback, so you can test does this script work fine tell me

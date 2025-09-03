@@ -1,0 +1,12 @@
+There's a lot more water in the corn and turkey than there is in the mashed potatoes. Microwaves heat food by exciting water molecules. Less water=less heat.  
+Microwaves are [standing waves](http://en.wikipedia.org/wiki/Standing_waves), which mean that their peaks and valleys do not move. What this means in terms of the oven is that there will be areas of maximum energy and areas where the energy is zero. This will obviously cook food unevenly. Microwave ovens with turntables help to lessen the effect by moving the different parts of the food through the different parts of the waves.  
+A good way to heat food more evenly is to turn the power level down and increase the cook time.  
+Microwaves work by jiggling water molecules. The more moisture in the food the more there is to jiggle and generate heat.  
+Additionally, the entire inside of the microwave is not bathed in a constant field. Rather, there are dead zones and power zones. This is why most microwaves rotate the food - so that it passes through the various zones. However, even then it is possible for food in certain areas to receive less microwaves than other areas.  
+Microwaves do not just affect water. They also affect sugars and fats as well. All three of those things become excited by microwaves in your oven. The reality is some foods take longer to cook than others, and microwaves do not cook food evenly.  
+Microwave ovens work because of the presence of water in food, and the vast majority of thermal heating in food is due to the excitation of microwaves absorbed by water molecules.  
+There are three reasons that microwave ovens do not cook food evenly :  
+(1) is the penetration depth (the depth of maximum heating), which depends on the amount of water in the object. A thick slab of tofu would heat strongly in one part because the microwaves do not penetrate / heat all portions evenly.  
+(2) The thermal conductivity of different foods is different -- it takes time for the region being effectively heated to spread into the non-heated regions.  
+(3) The distribution of microwave radiation is not even throughout the volume of the microwave. While they are designed to "spread" the microwaves as broadly as possible, there is still an emitter side which will result in asymmetric heating on that side.  
+All of these above reasons are why microwaves have turntables (to expose the food from different angles) and why it's recommended to stir food or flip it over

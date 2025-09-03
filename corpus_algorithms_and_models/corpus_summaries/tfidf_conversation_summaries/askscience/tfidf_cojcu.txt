@@ -1,0 +1,41 @@
+Original Response:
+I am aware of many alloys and oxides that can be magnetic, such as rare earth magnets. Is iron the only element that can be magnetic at STP?
+http://wiki.answers.com/Q/What_are_ALL_the_ferromagnetic_elements
+No. I believe neodymium is the strongest.
+The element neodymium at normal temperatures is not magnetic.  Nd2Fe14B is the compound that goes into the very strong neodymium magnets.
+[this](http://www.wolframalpha.com/input/?i=magnetic+elements) woolfram alpha result is nicely helpful.
+No, you've also got nickel, cobalt and gadolinium.
+Why only these?  I learned in chemistry that elements within a column share similar properties, so why isn't, say, osmium magnetic?
+Thank you all very much for responding. I was under the impression that magnetism (not dia or para magnetism) was a property of iron and iron oxides only.
+Short answer:
+
+That is generally true, but there are many exceptions, particularly among transition metals and rare earths.
+
+Long answer: 
+
+Electrons around an atom are organized into shells, which, very roughly, indicate how far away the electron is from the atom.
+
+The outermost shell has the most influence on chemistry...that is the reason elements in the same columns have similar properties.  All alkali metals have an outer shell with one electron, so they "look" the same to other atoms and have similar behaviors.
+
+This holds true so long as the inner shells fill up completely before electrons are added to the outer shells, as happens in the outer 2 columns of the periodic table.  
+
+Towards the middle of the table, things get a little messy, and inner shells don't fill all the way before electrons go to the outer shells.  Metals tend to get 2 electrons in their outermost shell quickly, then fill inner shells as atomic number increases.  
+
+But that outer shell still dictates a lot of the chemistry, so transition metals and rare earths often show more similarity left to right than top to bottom.
+
+Now, this doesn't explain magnetism directly.  But it does explain why the Fe-Co-Ni group is more similar to each other than they are to the platinum group metals below them.
+Thanks.  I can fill in the gaps from there.  I didn't know that transition metals filled their electrons shells so "messily".  It is the unpaired electrons in the outer shell that give rise to ferromagnetism, right?  Thus, the first row of transition metals must fill up their outer shells incrementally, as they have no inner shells to fill first.  The subsequent rows of transition metals allocate electrons first to the outer-most orbitals, filling them up with non-magetic pairs of electrons, and then turning to the inner shells.  (Presumably, unpaired electrons occupying interior shells have a muted magnetic effect?)
+
+Is that a more or less accurate picture, rough as it is?
+You are on the right track, but you are still missing a few pieces. :)
+
+First, each vertical row of the period table corresponds to a shell, so by the time you get to the transition metals, you are starting work on the fourth shell.
+
+Second, shells are divided into subshells...and some of the inner subshells don't come into play until the outer shell starts filling...and even that is not completely regular.
+
+But you got the gist of it.  I would check out the wikipedia article on [electron shells](http://en.wikipedia.org/wiki/Electron_shell).  It has a nice table that shows what order the subshells get filled.
+
+Summary:
+I didn't know that transition metals filled their electrons shells so "messily".
+I can fill in the gaps from there.
+Thus, the first row of transition metals must fill up their outer shells incrementally, as they have no inner shells to fill first.

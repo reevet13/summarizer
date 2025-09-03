@@ -1,0 +1,13 @@
+Here is a summary of the text in about 10% or up to 250 words:
+
+Dedicated server created. [It worked.](https://i.imgur.com/zAUElAu.jpg)
+
+But you should add to the paste this line to avoid getting: *"BattleEye initialization failed"*
+
+**-BEpath=C:\\Program Files (x86)\\Steam\\steamapps\\common\\DayZServer\\battleye**
+
+Just replace the directory with *your battleye folder* and check if the BEServer\_x64.cfg and BEServer\_x64.dll are both there.
+
+You should have it inside the battleye folder (My directory for example -&gt; C:\\Program Files (x86)\\Steam\\steamapps\\common\\DayZServer\\battleye).
+
+If you don´t have that folder, you should download again the server files -&gt;  steam://install/223350

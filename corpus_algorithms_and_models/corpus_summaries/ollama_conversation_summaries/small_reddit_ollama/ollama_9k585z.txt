@@ -1,0 +1,11 @@
+Here is a summary of up to 250 words extracted from the original text:
+
+I updated the bios on my asus p6t to the newest from asus website. After posting it gets stuck at blinking cursor on a blank screen. It won't boot from ssd or USB. Same results on i7 920 and x5660. Any help is appreciated.
+
+Just tried to boot on the second latest bios same issue.
+
+Update: I got it to install Vista from USB. It is running normal. Not sure how to get windows 10 on, it has the same install issue on other versions of windows.
+
+Yes on cmos clear. I was originally installing the p6t se bios by mistake but the board wouldn't let it install. The p6t bios went through and in the updater said that the original bios was p6t so I assume that was correct.
+
+I don't know how else to check the motherboards model

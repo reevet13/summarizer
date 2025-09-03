@@ -1,0 +1,20 @@
+Here is the summary of about 10% of the text or up to 250 words by selecting only sentences from the original text exactly as written:
+
+So the second rule states that heat cannot pass by itself from a cold object to a hotter one.
+
+[Simpler version](http://imgur.com/bEJYd)
+Spherical shell with hot liquid having at the center a small ball with the same liquid connected through pipes, would the small sphere tend to be hotter due to concentrated thermal radiation if conduction / convection through pipes is minimized ?
+
+The room will reach thermal equilibrium rather quickly without new heat being added.
+
+Thermal radiation is almost negligible in these situation unless you are dealing with temperature in the thousand K +. 
+
+Yes but i got that the thermal radiation tends to be more concentrated in the small object because it is in the focal point of the mirror, thinking of headlights, the filament is hotter then the surface lit, and if i light emitting surface of the bulbs temperature is in front of the headlight the spherical mirror surrounding the light bulb would tend to make it even hotter.
+
+Exactly, what i said that due to the second rule the machine will not work, but the way heat radiation works it seems to maintain a temperature difference, I'm trying to exactly pinpoint WHY it does not work
+
+Every point on the inner surface of the sphere radiates energy in *every possible direction*. 
+
+Therefore, there is no reason why the core would be any warmer than the shell.
+
+There is no reason why the core would be any warmer than the shell.

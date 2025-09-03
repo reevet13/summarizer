@@ -1,0 +1,13 @@
+Here is the summary of up to 250 words:
+
+Hey guys! I was hoping someone could help me out today. I just recently purchased a new 32 in curved 1440p 144hz monitor from Amazon, the Viotek GN32Q and I have been having some issues with blurry text and icons on the monitor.
+
+There's more than one 1440p resolution. And your Windows settings can be independent from game settings. If Windows has your settings at 2560x1440 but your monitor is at 3440x1440, both are 1440p resolutions but the 2560x1440 will cause blurriness.
+
+If text looks blurry, I would usually still assume a resolution issue. Try running DDU and uninstalling your GPU drivers. Then reinstall them.
+
+Ok I did it and it may just be the size? My 27in is crisp and clear but the 32 in is blurry on text and icons/lines 
+
+Even an LED unit is still LCD. It just uses an LED array rather than a light tube at the edges of the display.
+
+Yeah it doesn’t make sense to me neither. I think there is some ghosting but I don’t know how I’d test for it

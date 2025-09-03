@@ -1,0 +1,93 @@
+Original Response:
+Is there any purpose or research on this phenomenon?  Why does our brain pick a song or music and why is it 'stuck' in my head for days?
+There's a section on this topic in Daniel Levitin's book "This Is Your Brain On Music". IIRC he calls them "ear worms" so searching for that will either bring you the info you seek or ruin your day depending on your google luck.
+This isn't founded on any kind of research or anything that I know of, but I think it's because we naturally want things to be completed; classes, movies, games, conversations, drawings, etc. are some examples. When a song is stuck in my head it's usually only a certain part of the song played over and over, and I think my mind is trying to complete the song, which usually I don't know the entire song. 
+
+On a side note, my brother had a song stuck in his head for about 7 years.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+What song was it?
+So if we have a song stuck in our head, we should listen to it?
+I disagree, he didn't explain it very well. I would not recommend reading it
+"[Watch Out Now](http://www.youtube.com/watch?v=IJSfaSmmeFM)" by The Beatnuts. It's the flute part that got stuck.
+
+Edit: I showed the video that's linked above to the same brother, who doesn't really have time to get on Reddit, but likes it when I link the good stuff from Reddit to him via Facebook messages. I didn't have the right URL on the clipboard, sorry. [Here](http://www.youtube.com/watch?v=2X4s3D7xPUQ) is the real link to the song.
+There has been some research done into this topic at the [Dartmouth College](http://www.dartmouth.edu/~bil/) in the US, I can't find the actual original source or paper, but here are a couple of news articles from the BBC on the topic. [How tunes get stuck in your head](http://news.bbc.co.uk/1/hi/health/4332771.stm) and ["Brain Itch" keeps songs in the head](http://news.bbc.co.uk/1/hi/sci/tech/3221499.stm)
+
+Hope this helps.. and to the person that said why has r/askscience turned into r/askstupidquestions well there are no stupid questions... only stupid answers.
+
+EDIT: Datmouth College (not University)
+That's what I do to get the song unstuck. It's kind of like finding out what's in a mystery box: once the mystery is gone, so is the rumination.
+Dartmouth College*
+[deleted]
+So in other words, it's like that feeling "What the fuck is in that box
+?!" goes away once we find out "whats in the box"?
+Oliver Sacks (in Musicophilia) wrote about the phenomenon. I don't remember what he said about how they get in, but he conjectured that one of the reasons why we evolved to have them is due to the menial nature of most of what humans do. It provides a mental diversion and a tempo to help us maintain a productive pace. There was more to it than that but I don't remember too well.
+&gt;This isn't founded on any kind of research or anything that I know of,
+
+/r/musiccognition is a subreddit dedicated to this kind of scientific research.
+[deleted]
+[deleted]
+Dan Levitin is (not very) arguably one of the world's foremost experts on music cognition. There are some music cognition panelists hiding around here that are probably bored to death answering this question. Maybe they'll show up...
+
+
+In the meantime, some experts to focus on: Dan Levitin, Barbara Tillman, Jay Dowling.
+I find it helpful to listen (or imagine) the song in its entirety, *especially through the end.*
+
+Supposedly, hearing the ending helps your brain move on to something else.
+Radiolab had a really good show on it.
+http://www.radiolab.org/2008/apr/21/earworms/
+I am not expert on the subject, but had a thought and would like to get some feedback on the theory. I theorize that sounds getting stuck in our head is us unwillingly repeating a song that we find pleasurable (do to any number of factors) to continue extracting pleasure from it. I think it would have a close relation to the repeating of quotes, weird sounds from movies or even memes. Thoughts?
+[deleted]
+[deleted]
+They're actually called "earworms" in Germany... I'm not from Germany, but it always seemed like an appropriate name to me
+[deleted]
+Upvoting for Oliver Sacks... For everyone interested in neurological phenomena, he has some really interesting books, including *Musicophilia*. I also recommend *The Man Who Mistook His Wife for a Hat* too for some unusual medical conditions.
+[deleted]
+http://www.nature.com/neuro/journal/v14/n2/full/nn.2726.html
+
+Unfortunately, you have to pay for the full article, but the summary is all you really need. Along with the 'earworm' theory, music releases dopamine in the brain. You tend to keep doing whatever makes you happy, and thus music may get 'stuck in your head' to keep releasing the dopamine. It could be the tune, the words, or even just the drum beat in particular...whatever your brain can anticipate and be rewarded at the same time. It's why 'pop' songs tend to be the worst when it comes to songs getting stuck; the beat is pretty constant, the lyrics tend to be easy to remember, thus your brain can literally anticipate every section of the song....and it likes doing so.
+[deleted]
+[deleted]
+explain why I had neil diamond stuck in my head during a recent hangover.  I fucking hate this guy, infact one of the reasons I drank myself stupid that night was after being subjected to a neil diamond christmas special on VHS.  It was so bad that I keep waking up to handle biological business and couldn't go back to sleep as the damn song in my head made it hurt even worse.
+This is an excellent and difficult question. The answer is not definitely known, but we know a few things about music perception that can help us understand this phenomenon. A lot of folks here have pointed out interesting and important bits of information, so I'll try to coalesce things a bit and throw on a bit of conjecture of my own (which will be clearly demarcated, of course).
+
+Let's start with two facts about music: it is enjoyable and it is repetitive (although avant garde music can throw one (or both) of these features out the window). One feature of enjoyable music (as LinaeveWorkman pointed out below) is that it stimulates the release of **dopamine** in the brain (see [here](http://www.zlab.mcgill.ca/emotion/) for a description of the research and PDF link for the paper LW mentioned). Dopamine is neurotransmitter that is hypothesized to be responsible for reward signaling in the brain: when something "good" happens, neurons in your *ventral tegmentum* squirt dopamine onto neurons in the *nucleus accumbens* and prefrontal cortex. This signal seems to mean "whatever you did was awesome, do it again." So when you listen to music that (for whatever reason--this is *really* not known) your brain finds particularly awesome, it squirts out some dopamine and makes you want to listen to that music again.
+
+Almost all music is also repetitive. Even if the exact same melody is not repeated (though it almost certainly is in most pieces), rhythmic and harmonic patterns are often repeated. As Oliver Sacks argues in *Musicophilia*, repetition drives our love for music by making it predictable, but not too predictable. For whatever reason (still unknown) we [love it](http://jrm.sagepub.com/content/32/1/35.short) when we can almost guess exactly what something will be, but then it violates our guess.
+
+Ok here comes my conjecture. You're listening to a piece of music. It's driving dopamine release (because it's awesome) and it's repetitive. There is a circuit somewhere in your brain that is responding to the melody of the music, and the connections underlying this circuit are being reinforced over and over again by bursts of dopamine. Moreover, this circuit is self-triggering, because of the repetitive nature of the music: at the end of the musical phrase, what do you predict will come next? The beginning, of course! Now the music has gone away, but this circuit has still been pretty well hard-wired to representing that repeating snippet of music. So now when that circuit is randomly triggered (perhaps some neurons in the circuit are involved in other things, or perhaps it's just random firing) it will repeatedly loop through the stored melody, each time playing out the song in your head.
+
+I think this might not be so different from the [motor tics](http://en.wikipedia.org/wiki/Tic) experienced by people with Tourette syndrome. Motor tics are also tied to dopamine, and involve involuntary sequences of neural firing. (Although, of course, motor tics are pathological, while pretty much everyone experiences ear worms.) Interestingly, motor tics can be pretty much eliminated using anti-dopamine drugs such as haloperidol (which is an antipsychotic). Based on this idea, I propose a hypothesis! Do people who take antipsychotic drugs experience ear worms? I'll bet they don't (or at least, they do less than normal). A quick [google search](https://www.google.com/search?ix=ica&amp;sourceid=chrome&amp;ie=UTF-8&amp;q=ear+worm+neuroleptic#pq=earworm+neuroleptic&amp;hl=en&amp;cp=4&amp;gs_id=3c&amp;xhr=t&amp;q=ear+worm+neuroleptic) pops up some anecdotal evidence that these drugs stop ear worms. Neat.
+
+I'll leave you with a [bit written by Oliver Sacks](http://brain.oxfordjournals.org/content/129/10/2528.long), who puts everything far better than I:
+
+&gt; All of us have experienced the involuntary, helpless mental replaying of songs or tunes, or snatches of music we have just been exposed to, by chance, even, perhaps, without ‘listening’ consciously. We call such tunes ‘catchy’—and they are sometimes referred to as ‘earworms,’ for they may burrow into us, entrench themselves and then perseverate internally hundreds of times a day, only to evaporate, fade away, in a day or two, perhaps to be followed by the next earworm. This often meaningless perseveration is quite unlike voluntary musical imagery, and unlike the involuntary musical imagery that may be evoked by a sight, a sound, a word, with some significant, though often unconscious, association (although this may then turn into a earworm). Perseverative music has much more the character of a cerebral automatism, suggesting cerebral networks, perhaps both cortical and subcortical, caught in a circuit of mutual excitation.
+We'd need some more information first: like when it began (we can't begin to know when) Was it the spring? or when spring became the summer?
+Here's [the researcher's page](http://www.zlab.mcgill.ca/emotion/) on this research, including a free PDF download. Excellent stuff!
+[deleted]
+I've never listened to Neil Diamond, but it could easily have been the beat. Maybe not even the whole beat, maybe just the guitar rift. Your brain can pick up on similarities, and if one of the instruments is playing a tune that sort of sounds like a song you once enjoyed, it could easily get stuck in your head without really understanding why. 
+That's more speculation, since I sincerely don't know what kind of music you like or what your favorite songs are.
+Thank you! I find music's effect on mood quite fascinating. :)
+I can't really say I have a favorite song,  I like to listen to many types of music, but NOT Neil Diamond.  I am more of a Hard Rock/metal type person.
+Ohrwurm for those who are interested.
+[deleted]
+[deleted]
+So why do we get songs that we 'hate' stuck in our head too? If one part of us hates it, why does the other part enjoy repeating it?
+Followup, when I hear a new song a like I'll listen to it a bunch a times and eventually stop and listen to something new a few days/weeks later. Could this be habituation of dopamine released from that specific song?
+
+Summary:
+So if we have a song stuck in our head, we should listen to it?
+So why do we get songs that we 'hate' stuck in our head too?
+That's what I do to get the song unstuck.
+Why does our brain pick a song or music and why is it 'stuck' in my head for days?
+There was more to it than that but I don't remember too well.
+Almost all music is also repetitive.
+You're listening to a piece of music.
+Along with the 'earworm' theory, music releases dopamine in the brain.
+It's driving dopamine release (because it's awesome) and it's repetitive.
+That's more speculation, since I sincerely don't know what kind of music you like or what your favorite songs are.
+explain why I had neil diamond stuck in my head during a recent hangover.
+I find it helpful to listen (or imagine) the song in its entirety, *especially through the end.

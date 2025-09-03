@@ -1,0 +1,2 @@
+My question comes from a correction presented in the lab.
+According to the lab L=1/4lambda is not exactly correct, you have add a correction, L = 1/4*lambda + 2/5*diameter of the pipe.

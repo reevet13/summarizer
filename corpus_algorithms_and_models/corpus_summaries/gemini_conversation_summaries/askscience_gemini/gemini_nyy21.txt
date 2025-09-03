@@ -1,0 +1,2 @@
+according to newtonian mechanics, the instant the object starts moving the friction switches from being the static coefficient to the kinetic coefficient.
+An instant, in this case, is the limit of time T as T approaches zero.

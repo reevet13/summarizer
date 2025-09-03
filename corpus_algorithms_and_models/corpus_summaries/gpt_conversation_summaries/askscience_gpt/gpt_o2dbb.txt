@@ -1,0 +1,5 @@
+Unless you control the osmolarity VERY precisely, the cells will explode once the cell walls becomes too soft. The cell wall is all that keeps plant cells from filling with water until they burst (because the solute concentration inside the cells is so high).  
+
+I did a research project attempting to do this to algae. I wasn't very successful.  
+
+I think one of the methods of genetically engineering Arabidopsis removes the cell walls (process called spheroplasting or protoplasting). They can regrow from that, but its a very difficult process and I think most of the cells die.

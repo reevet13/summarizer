@@ -1,0 +1,11 @@
+Here is a summary of up to 250 words, consisting of selected sentences from the original text:
+
+I know such a list would be positively immense, but I'm wondering if one exists.
+
+Try looking around on [Metacyc](http://metacyc.org/).  They have a whole different website for *E. coli* (Ecocyc) so they might have something similar or at least filterable for humans.
+
+This isn't likely to exist for some time.  Such a list would be staggeringly immense, and there would be no way to ever know that it was complete.
+
+Even just considering proteins, you are talking about gigantic molecules, each of which could potentially produce a lot of variants we've never cataloged before.
+
+Perhaps some day, but I wouldn't bet on this happening in the next (say) 50 years.

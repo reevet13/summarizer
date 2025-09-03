@@ -1,0 +1,13 @@
+Use variable W as the starting temp of the meat. For an example assume an 230 gram steak fillet starting at 5C and cooked to 60C with an oven temp of 180C.
+
+Because a thick 10 oz steak, with its reduced surface area, has less effective [thermal conductivity](http://en.wikipedia.org/wiki/Thermal_conductivity) than a thin 10 oz steak, which has a much greater surface area. Because the key temps have to be achieved in the center of the steak (for both the correct done-ness and health goals for certain types of meat).
+
+Would you like to ONLY consider steak, and not other meats? I feel this would be wise since pork, poultry, etc have different standards of 'done' and minimums for health and safety, while beef (properly prepared) can be eaten 'blue', or even raw.
+
+To calculate this, you need to know the heat conduction and convection coefficients from the oven air to the steak, and the conduction coefficients through the steak.  Than you would have to solve the time-dependent heat transfer through a 3-D object, which depends very strongly on the exact size and shape of the steak.
+
+I would imagine the density or composition of the meat would affect the heat transfer. Approaching this in from an entirely physics point of view would cause problems because of this factor of biological variation.
+
+You'd also have to consider the type of cut, since the ratio of fat/muscle could have an impact on cooking time as well.
+
+Like others have said, it's more complicated than using 3 variables.  But some work has been done on the matter, and equations have been developed.

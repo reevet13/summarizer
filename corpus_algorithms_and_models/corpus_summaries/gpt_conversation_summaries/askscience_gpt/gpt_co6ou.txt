@@ -1,0 +1,13 @@
+How good are we at predicting the path of every single large asteroid/comets within our solar system which has a potential of colliding with earth? Of course the asteroids don't even have to hit us directly, they can hit some other planet and the large enough debris from those collision can wipe us out.
+
+NASA uses pretty accurate orbit simulations to track the asteroid's path. The impact range usually is a couple hundred miles, but since we can only tell via telescopes, most things are general ballpark figures, but they're pretty good. However, we're incredibly limited in our abilities to track the thousands of asteroids that can exist out there that would hit earth. There's so much stuff out there that we can't track it all.
+
+The NEO group at NASA is collaborating with agencies all over the world, specifically with the Japanese and the European Space Agency, and are constantly scanning the skies 24/7 for it. More satellites more telescopes, better technology, etc. all monitor space for NEOs. Our warning system is as good as it can be, and is constantly getting better. The models are being refined and that's about as good as it can get.
+
+In all honesty, we're fucked. However, there are [plans](http://en.wikipedia.org/wiki/Asteroid_mitigation_strategies) to move a NEO as best as possible. I personally like the Don Quixote strategy the best. But that's just me.
+
+Asteroid impacts follow a nice power-law distribution (shown slide 10), where smaller impacts happen at a rate of ~ 1 every hour, catastrophic mass extinction ones happen every ~ 100 million years. A Tunguska type event (that occurred in the early 20th century) should occur once every 300 years or so. The annual event should be equivalent to ~20 kilotons (of TNT), and the 1000 year event is equivalent to 60 megatons, and global catastrophe event should occur on the scale of 1-100 million years or so and be equivalent to 50 000 - 100 million megatons. 
+
+A 1994 Nature article did the actuarial calculation gives a range wide- range for chance of being killed by cosmic impact being in the range of 1 in 3 000 - 1 in 250 000, with an average of about 1 in 20 000 (similar to chance dying in an airplane crash). This is because while catastrophic events are very rare, it would kill nearly everyone.
+
+We spend

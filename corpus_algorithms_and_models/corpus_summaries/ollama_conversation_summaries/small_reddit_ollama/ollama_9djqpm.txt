@@ -1,0 +1,12 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+Hey all, I need some help with a PC build for VR.
+I recently found out that my current shit tier laptop can run BFV, so I had an epiphany.
+
+You should be fine with the CPU you're thinking about. A GTX 1050 Ti or better will run VR, so that RX 580 should have plenty of horsepower as well.
+
+Be sure you have 4GB VRAM or better. 2-3GB won't cut it and will introduce stuttering if not outright crashing.
+You can also see if your laptop will run VR - there are performance checks available in both the Windows Mixed Reality app as well as SteamVR.
+
+As long as it has the horsepower, any era hardware works.
+I know the laptop doesn't have a good enough gpu, but how can i run a better one.

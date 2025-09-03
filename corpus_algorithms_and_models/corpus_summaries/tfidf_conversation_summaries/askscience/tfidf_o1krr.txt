@@ -1,0 +1,24 @@
+Original Response:
+We know that all of the planets in our solar system have an orbit, but our sun is by no means the largest star in our galaxy. Does that mean it has an orbit too? Or is it completely stationary? If stationary, how is it that it doesn't move. If moving, how much? And how would that affect us in the later years?
+The sun is orbiting the centre of our galaxy.  Simultaneously, the galaxy is moving through space.  So the sun is moving relative to pretty much any reference frame you want to pick.
+It's all relative.
+True, but even on a more local scale there's an orbit - the planets do not truly orbit the sun, but actually the common centre of mass of all the bodies in the solar system (assuming objects outside are negligible to our frame of reference). This point is about a third out from the centre of the Sun, if memory serves, and the Sun itself orbits about this point as well.
+
+Regarding the question about effects in later years, our galaxy is currently on a collision course with Andromeda, which is not particularly good news, but you shouldn't worry yourself - we're not due to collide for about 4 billion years
+In addition, the Sun actually orbits the centre of mass of the solar system, [which is technically what the planets do also](http://en.wikipedia.org/wiki/Center_of_mass#Astronomy).  Its orbit is tiny compared to that of the planets, but it definitely has one, and this 'wobble' of distant stars is one method we use to detect exoplanets.
+So how large of an orbit does the sun have? Is it getting larger as time passes? And is this "common point a third out from the sun" located closer to us? I'm just not fully understanding what you mean by that.
+Imagine when an adult man and a small child hold their arms and start spinning around each other. While man is much heavier, but he's not exactly at the center of the girl's circle - he moves around in his own little circle. 
+
+The sun does the same thing. The planets whizz around it, and it goes around in small circles as well. [Click for image](http://upload.wikimedia.org/wikipedia/commons/5/59/Orbit3.gif).
+
+Because there are several planets in the solar system, the Sun's movement around the center of mass of the solar system is kind of irregular - [Image.](http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Solar_system_barycenter.svg/463px-Solar_system_barycenter.svg.png)
+Actually, the center of mass of the solar system [changes](http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Solar_system_barycenter.svg/463px-Solar_system_barycenter.svg.png).
+Cool graphic.
+They *do not* orbit the common center of mass (the barycenter). If that were true, then *all* objects in the solar system would be orbiting it cleanly (the moons of the gas giants do not).
+
+The n-body problem precludes this. Whilst there is a system barycenter, they do not merely orbit around it. If they did, simulating orbits would be a much simpler task.
+
+Summary:
+The sun is orbiting the centre of our galaxy.
+Actually, the center of mass of the solar system [changes](http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Solar_system_barycenter.svg/463px-Solar_system_barycenter.svg.png).
+So how large of an orbit does the sun have?

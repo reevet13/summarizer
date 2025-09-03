@@ -1,0 +1,16 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+F(t) = (f * W) (t)
+where:
+- f is some filter which we know
+- W is a white noise process
+- '*' is the convolution product
+
+Is it possible to calculate the random process F(t + tau) | F(t) = x ? (F(t + tau) knowing the value the random process actually took when it was at time t)
+Or some sort of covariance leaving from value x ?
+
+No, it is not possible to predict the outcome of stochastic processes given current conditions. You can sometimes estimate within an interval where the value should lie.
+
+For a sufficiently narrow bandpass filter, sort of. The amplitude and phase will still be random, but you'll have obviously reduced the variance in frequency to the point where it's fairly predictable.
+
+No, you cannot perfectly calculate the value of a random process at an unobserved time.

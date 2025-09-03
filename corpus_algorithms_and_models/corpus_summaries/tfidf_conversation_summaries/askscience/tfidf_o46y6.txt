@@ -1,0 +1,54 @@
+Original Response:
+**NOTE: I know this isn't actually perpetual motion and that perpetual motion to the best of our knowledge is impossible.**
+
+I had this simple contraption that I am having a hard time remember if it actually worked. the idea was this: a vat of water, a series of strings acting as capillaries, and then arranging the strands of string to encourage a bead of water to drip down across a pinwheel. The idea was that the water would be elevated against gravity by capillary action and then gravity would win once the fluid tension caused the united strands at the top to form a bead large enough.
+
+So the question I have is: where does the energy come from for capillary action? As a child I assumed **incorrectly** that capillary action was free movement. In fact, the [Wikipedia](http://en.wikipedia.org/wiki/Capillary_action) page also mentions the physical phenomena that cause it to happen without explaining where the energy comes from.
+
+My current hypothesis is that it comes from the heat of the water, and that as water goes through capillaries it cools down as it rises. Am I on the right track?
+[deleted]
+http://en.wikipedia.org/wiki/Perpetual_motion
+
+Scroll down to the capillary bowl. I take it you're thinking of something similar since the only way for the water to theoretically drip out is by holding it upside down. Thing is, it works both ways.
+If you were to build this device, you would notice something interesting - water would never drip off of the end of the string!  The water moves up the tube due to capillary action because that is the lowest energy configuration.  The water becomes more tighly bound to the molecules of the tube (a lower energy state), and the excess energy can increase the gravitational potential energy (height).  But if you want to remove the water from the tube, you have to add energy back to the system, and it will take more energy to do this than you can gain due to gravity.
+I think you're probably right. It was so long ago that I couldn't remember if I actually saw it working. I know I built it, but I can't recall if I was patient enough to wait for it to work :)
+
+Very good information about how it actually works. Thank you.
+What you invented (quite cleverly!) was a [capillary siphon](http://www.fofweb.com/Onfiles/SEOF/Science_Experiments/5-48.pdf) [waterwheel](http://en.wikipedia.org/wiki/Waterwheel).
+
+That PDF has a "how it works" section, but I'll answer the question of "where does the energy come from" directly.
+
+The energy that would turn the pinwheel is from the gravitational potential energy of the vat of water.  You'd notice that it would stop dripping if the water level got near the same height as the waterlevel in the vat. (Discounting evaporation)
+
+The siphon doesn't require priming like normal flow siphons because of capillary action, as you mentioned.  The energy for this effect comes from the wetting of the fibers of the strings, which can be described in terms of [surface energy](http://en.wikipedia.org/wiki/Surface_energy) or surface tension.  This is, at the atomic level, the energy released by water molecules hanging out with cotton fiber molecules rather than nothing/air.
+
+Capillary action isn't totally free energy either: it can only pull water a limited height up the string. But if it gets over the hump, wetting the rest of the string and causing a siphoning effect is basically free.
+
+So your machine will spin as long as your string rises less than a certain height above the dropping surface, and until the water level falls to the length of the dangling end.
+This is one of the perpetual motions that could *appear* to work.  All it takes is a tiny energy input to make the drop fall.  Maybe ambient vibrations, or a small temperature gradient, or a slight breeze.  The technically correct way to say it is that *in an isolated system*, water would never drip off of the end of the string.  But it would fail as a perpetual motion machine because it draws tiny amounts of ambient energy.
+That's great, I knew I probably wasn't the first one to try to connect those dots when I learned of the capillary action in grade school.
+
+This subreddit rocks. Thanks everyone!
+Ha! I tried something very similar a few years ago. I was up in the middle of the night with bird flu and I had this idea to put three glasses next to each other with three strands of paper towel going from on to the other. Then I would fill one glass and watch as the capillary action drew the water from one glass to the other until it got back into the original glass.
+
+Yeah, well even my feverish mind could see that the water would rise up but not drip into the next glass. I joked about it with a friend of mine who had a physics degree and he said that once the paper towel was saturated it would reach equilibrium and not drip down the glass.
+Question, if you don't mind. You talk about the capillary action happening in tubes, but the OP talks about strings. I can see why the tube wouldn't release the water at the top, but why wouldn't the separate strings, bundled together at the top, cause water to draw together into droplets heavy enough to fall? If that were the case I'd just assume the energy would come from the heat in the system, and so the system would slowly cool over time, proportional to the amount of energy produced. It would just be so terribly slow.
+But if you make the capillary high enough, would the potential energy released by the water as it falls be enough energy to dislodge the next drop?
+While it will not work, this is still the smartest PMM I've seen on askscience.
+[deleted]
+I don't know if this is the right place to ask, but, can you explain why [this setup](http://i.imgur.com/dDLgq.jpg) won't work?
+I think you mean noncovalent interactions/intermolecular forces.
+I've wondered about the same thing but with a super fluid instead (making a super-fluid fountain.
+This is probably the wrong place to answer, but that would slow the satellite down taking it out of geosync orbit.
+Which are chemical bonds. Hydrogen bonding is a nocovalent intermolecular force that is responsible for the capillary action. It isn't perpetual motion, though.
+You're right.  I'm not sure why you got downvoted so much.
+Because everyone confused my initial response as an answer to where the energy for the perpetual motion comes from, not for the capillary action.
+This answer is probably in the wrong place, since Geo synchronous orbit suggests that the satellite is in a fixed position and does not traverse the sky.
+
+Summary:
+So the question I have is: where does the energy come from for capillary action?
+I think you're probably right.
+The water moves up the tube due to capillary action because that is the lowest energy configuration.
+Capillary action isn't totally free energy either: it can only pull water a limited height up the string.
+Thing is, it works both ways.
+Because everyone confused my initial response as an answer to where the energy for the perpetual motion comes from, not for the capillary action.

@@ -1,0 +1,17 @@
+Original Response:
+Hey Reddit,
+I've read that production of telomerase is a large part of the problem with cancer, primarily that activation of production is what causes the cell to become immortal and thus, upon excessive division, remains stable and won't die off due to the reduction of the telomeres. Would I be correct in believing that, in and of itself, having unrestricted telomere repair doesn't necessarily mean that the cell will go rogue, but rather that in combination with further damage to the chromosomes that would induce constant fission?
+For instance in a creature such as a lobster which, in theory, could essentially continue to grow indefinitely due to the ubiquitous presence of telomerase, the cells don't just reproduce haphazardly... I would imagine that they have instances of cancer that may be considerably more severe without the limiting factor of cell instability from reduction of telomeres.
+Do you think that one could increase their lifespan if they were able to safely infuse the body (or at least strategic portions) with telomerase? If you’re not modifying the production at a cellular level, I would think that one might be able to effectively reduce or reset the age of the cells to what they were at they time they specialized without the risks of cell immortality. I’m truly a layman in these matters but I was hoping someone out there might be able to shed some light on the feasibility.
+Thanks!
+Really? Nothing?
+Yes, it would induce cancer. This study pretty much looked at exactly what you're asking: http://www.cell.com/abstract/S0092-8674(08)01191-4
+
+They used genetically-engineered cancer resistant mice and found that telomerase extended their lives. In general though, for a normal mouse or a normal human, telomerase overexpression would tend to shorten your lifespan by contributing to tumor formation.
+
+There may someday be a way to manipulate the cellular aging process to delay aging in humans, but I think it will be much more complex than simply overexpressing any single gene.
+Aww... That's a bummer. Thanks for the reply though!
+It sounds as though the reverse transcriptase shows some promise however I wonder if it's solely due to the enhanced tumor suppressors.
+
+Summary:
+Yes, it would induce cancer.

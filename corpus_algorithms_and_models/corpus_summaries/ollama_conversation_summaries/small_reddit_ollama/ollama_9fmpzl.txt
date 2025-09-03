@@ -1,0 +1,19 @@
+Here is the summary of about 10% of the text:
+
+Is the board I spec'd good, or should I go with this? [https://www.amazon.com/gp/product/B07CF31C1Q/ref=ox_sc_saved_title_6?smid=ATVPDKIKX0DER&psc=1]
+
+- The X470 board would be better if you have any interest in overclocking.
+
+Get the R6, it’s better than the R5 in almost every way.
+
+Get a SeaSonic PSU, the [Focus Plus 750 Gold](https://pcpartpicker.com/product/64cMnQ/seasonic-focus-plus-gold-750w-80-gold-certified-fully-modular-atx-power-supply-ssr-750fx) is only a few dollars more and it is well worth it.
+
+Yes, the 400 series are all Ryzen 2 compatible out of the box.
+
+PRO: You can see all your cool parts and take advantage of nifty RGB effects
+
+CON: Tempered glass doesn’t block sound, so if you’re getting the R6 for its sound-suppressing ability, get the one without the window.
+
+Correct: the 300 series (X370, B350, A320) needed a BIOS update for Ryzen 2, while the 400 series (X470, B450) supports them natively.
+
+Yes, the Prime boards are excellent; I have a micro-ATX Prime B450 and it runs great.

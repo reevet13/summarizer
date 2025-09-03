@@ -1,0 +1,9 @@
+Here is a summary of approximately 10% of the original text, up to 250 words:
+
+A four-vector is formed of the energy and momentum, combined, which is the conserved quantity. p1*p1= p1^mu p1^nu g^mu,nu = E1^2 - px1^2 - py1^2 - pz1^2 = m^2
+
+Here I use the Einstein summation notation and the metric tensor (g^mu,nu ). You can look up the metric tensor to see why the momentum squared terms are subtracted. I have also assumed that the speed of light = 1, as in natural units. In that case, mass = energy = momentum (same units). The m at the end is the rest mass of the object.
+
+Four-momentum is conserved. Given two vectors, p1 and p2, you could write p1 + p2 = p1' + p2'. If you know enough about the system, you could just treat each component of the vectors independently.
+
+Lorentz invariant quantities are independent of the frame of reference. For every symmetry, there is a corresponding conserved quantity.

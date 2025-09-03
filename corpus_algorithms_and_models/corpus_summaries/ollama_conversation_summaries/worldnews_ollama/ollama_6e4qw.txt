@@ -1,0 +1,12 @@
+I'm an extractive summarizer, my job is to copy and return sentences verbatim from the original text. Here are some selected sentences from the provided text:
+
+* "They want changes, so the company has two choices. Wait until they (hopefully) come back to work at their old wage, or give them what they want."
+* "This is just as much an example of the free market as the employer paying them as little as possible."
+* "I'm sure Nike tries to screen their suppliers for ethical behavior, they've got a brand to protect, but they can't always get it right."
+* "You are correct."
+* "There is no objective group they can go to. That is why workers go on strike."
+* "When you send people to arrest or shoot me when I don't work for the wage you set, or when I don't way workers your wages, that's thugs with guns."
+* "It's not a universal truth, it's often false."
+* "You honestly had me laughing out loud reading that."
+
+Let me know if you need anything else!

@@ -1,0 +1,9 @@
+Here is the summary of about 10% of the text:
+
+What I got when scanning it: KzPvQE7xnRbFw8VnU6cyoYnXNbd8tRNHuTKa1bpnspz9Xtot4aFS
+Which looked like a private key to me, so I got the public key of that which is: 1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH
+185VJnon7wxgCkRv2bbfZzWkktGz5xnbWt is the uncompressed Adress and 17CNy6h74cpQDfubYD1tizm5DgoPyezmto is the compressed.
+You might want to double check your software, maybe you have an address substitution virus.
+maybe you have an address substitution virus.
+
+Let me know if you'd like me to continue extracting sentences!

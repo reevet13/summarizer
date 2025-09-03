@@ -1,0 +1,93 @@
+Original Response:
+Sorry if I come off as overly obtuse here, but I have been failing to grasp how this concept works for ages.
+
+I know that voltage is the 'potential difference across two points', but what does that actually *mean*?
+
+What's the difference between electrons moving at 1v, 10amps, and 10v, 10 amps? What quality is it that they possess?
+A great analogy is a watercourse, just exchange electric potential for gravitational. A river flows downhill because there is a potential difference, just as an electron moves in a wire because of an *electric* potential difference. The steeper the drop, the faster the river. 
+
+Electron drift velocity is linearly dependent on velocity, so in your example, they'd be moving at 10x the velocity in the second case. (Don't confuse the velocity of the electrons for the rate the signal is propagated at.. that happens at the speed of light)
+Imagine pushing a cart down a road.
+
+
+**Voltage** = how hard you push
+
+**Resistance** = how rough the road is
+
+**Current** = how fast you wind up going
+&gt;the steeper the drop the faster the river.
+
+Is this why batteries charge really fast to, say, 80%, but that last 20% takes significantly longer?
+Disregard those very intelligent people with their annoying water analogy. Trying to understand electricity with with water is by far the best thing that confuses people who are learning it. It is only correct when it comes to explain intensity (amperage) which is the flow of electrons but fails to explain voltage which is lost or gain of energy.
+
+So what is voltage? Voltage represents the **energy by unit of charge**. In other words it is a measurement of the energy carried by individual electrons. Don't worry too much about the formal definition of energy at this point if you don't know it, the intuitive one you have will do the job just fine.
+
+It is easier to see it that way because 1) it explains a lot 2) it is physically correct.
+
+So, why current increases when voltage increases? It is due to the fact that voltage is created by compressing electrons against each other (remember that they repulse each other). More potential means more pressure to pass through the resistor which results in a gain of electron flow.
+
+Why P=VI? Since voltage is energy by electrons and intensity the electrons that pass through by unit of time, we can say that VI is energy by unit of time which is the definition of power.
+Can we please try to be respectful to every one in this subreddit?  Even if we disagree with some one, there is no reason to resort to name calling.  Instead rationally counter their argument.
+
+-edit-  Thank you.
+That still helps explain the electrical concept, but I think what the OP is asking, and what I am stumped on is what is the mechanism behind voltage. The analogies and thoughts are understandable and explain the effects, but I don't have a good understanding on why or what actually makes a point on a circuit 10V more than some other point.
+
+Is it the electrons being excited to higher energy levels? That is my intuitive guess, but I'm not sure if it would fully explain voltage.
+And **Amperage = Current**
+That's the subtle difference between energy and potential. What a voltmeter measures is not the absolute energy of the electrons at one point but rather the *difference* of energy between two points which is potential.
+
+So when you ask what makes a point 10V more than other point, it is pretty much a false problem. If you plug the two wires of a voltmeter on the same wire on a circuit the voltmeter would indicate 0V even if the circuit is closed. What I mean by this example is that voltage represents the *difference* of energy, not the actual energy carried by electrons.
+I think your edits above answered my question (in addition to bringing back some long lost physics I memories!).
+
+It takes work to move electrons closer together. Since electrons repel, there is a force pushing them apart. A higher concentration of electrons will have a greater repelling force so when a lower concentration is presented, the electrons will diffuse. So it is not necessarily the concentration of electrons, but the distance between electrons that "makes" voltage. I.E. 2 electrons in a vacuum separated by 1 m will have a much lower potential than the same electrons separated by 1 nm.
+
+Thanks! Me and my lab mate were confused as to exactly what causes voltage differences.
+If you are interested in learning more about electronics, I would recommend /r/breadboard.  Tutorials on electrical circuits.  There may be some info in there that could help you out too.
+The problem with this explanation is that voltage is not just energy per unit charge, you have to specify that its **potential** energy per unit charge, like the height of a hill is potential energy per unit weight (mass times g).  E.g., if an electron is moving at 10eV doesn't mean it the electron has a voltage of 10V, which is different than if an electron is released through a battery with 10V, then it will have an energy of 10eV (by converting potential energy to kinetic energy).
+
+You would never say height of a hill is energy per unit weight, though it does make sense when its the energy that would be given to a particle of unit weight if it rolls down the full height of the hill.  That is potential energy, unlike energy which seems to indicate that its been realized.
+
+I love the [water analogies](http://en.wikipedia.org/wiki/Hydraulic_analogy) which are very good analogies as the equations are often the same, and lots of things come out as intuitively obvious (e.g., Kirchhoff's circuit laws).
+Voltage is slang for electric potential, or electric potential difference (e.g., the difference in electric potential), since both are measured in units of Volts (and a volt is a Joule per Coulomb, or equivalently energy per unit charge).  
+
+Imagine you have a ball rolling down a hill.  How fast the ball moves is a function of the height of the hill.  Potential is analogous to height.  The energy of the ball rolling down the hill will depend on both the height of the hill as well as the weight of the ball (W=mg the force due to its mass being accelerated by gravity).  Similarly, the potential energy of a charged particle being accelerated by a potential difference is proportional to the charge (analogous to mass) times the potential difference (analogous to the difference in height).
+
+That's the basic model for how potential operates on individual charged particles.  Next consider a system of pipes with a fixed amount of fluid in the pipes.  The pipes are analogous to electric wires.  The battery is analogous to a pump that increases the height of the water (giving potential energy to the circuit).  Current is analogous to the speed that the water is flowing at (assuming the pipe cross-sectional area is fixed everywhere).  The current going into each juncture equals the current going out of each juncture, since the water is fixed.  The sum of all the jumps upward in height must equal the jumps downward in height in a closed circuit.
+
+So to answer your questions:
+
+&gt; What's the difference between electrons moving at 1v, 10amps, and 10v, 10 amps? What quality is it that they possess?
+
+You have a circuit, that has a given resistance dependent on water the circuit is made out of and the shape of the circuit.  V = I R (Voltage = Current x Resistance).  So voltage (e.g., the size of the battery) that you put up to a circuit (with resistance R), will tell you what the current coming out of the circuit is.  Current in essence is how fast the charge moves through the circuit, the charge being principally made up of electrons drifting through the circuit.  So at higher amperage in a wire of the same cross-sectional area made out of the same material (same charge carrier and density of charge carriers in the material), the electrons will be moving faster.  Whether you need a 1V battery or a 10V battery to get them moving to that "speed" (10A) depends on the circuit (e.g., whether resistance was 0.1 Ohm or 1 Ohm).
+&gt;but the distance between electrons that "makes" voltage
+
+Not exactly. Remember that it is not the energy of the electrons alone that makes potential but the difference in energy.
+&gt;The problem with this explanation is that voltage is not just energy per unit charge, you have to specify that its potential energy per unit charge
+
+I know. I lied voluntary to make it more understandable. Anyway, it is potential energy that is used to make all the  useful work, so when I say just energy people understand intuitively of the energy released by the circuit.
+
+Not to say that the hydraulic analogy is not useful, but it has not so well defined limits. Usually people don't know when to stop using it and this is what confuses them.
+The reason it takes longer is because you need more force to create that new potential. Ripping 1 electron off a plate and sticking it on the other is easy. But as more electrons are ripped, the more other protons are pulling on the remaining electrons, making it harder for it to charge.
+
+Also, regarding spacelincoln's post, I would like to point out that electrons moving in a circuit are very slow, if I remember correctly.
+I never understood it until I realized this:  There is no such thing as a voltage of a single wire or point.  Voltage is always in reference to something else.  Think of it as "height"  Nothing can be 30 feet up except in reference to the ground.  If you just called it 30 feet it means nothing.  You could mean 30 feet from the ground floor, or you could mean from the basement.  Unless you declare a reference, it means contributes nothing.  Look at a tall building, it could be 1000 feet, but that is in reference to the ground.  The total height, from basement to top could be 1100 feet.  If we assume that the ground is a zero electric potential, we could say that the top of the building has a potential of a 1000, and the basement has a potential of -100.  The voltage from the ground to the basement is -100, the voltage from the basement to the ground is 100.  Its potential is still -100.  Likewise, the building has a total height of 1100, but the voltage to ground, or electric potential, is still 1000.
+
+Saying a higher or lower electric potential is how you discuss things without a reference to something else.  If I have a higher electric potential than you, when we touch, we will exchange current and the voltage between us will drop to zero.  We could both have massive potentials though, we could both be 500V above ground.  Before the touch I could be 550 Volts to ground, and you could be 450 to ground, but I would only be 100 volts higher than you.
+Pretty good explanation here: http://amasci.com/miscon/voltage.html
+
+That site also has an *excellent* explanation of transistors (transfer-resistors), among other things.
+Current is more like how many carts cross a point in the road per unit time, not how fast you are going (charge carriers typically travel in the order of centimeters/second)
+
+Summary:
+The voltage from the ground to the basement is -100, the voltage from the basement to the ground is 100.
+Potential is analogous to height.
+Voltage represents the **energy by unit of charge**.
+That's the subtle difference between energy and potential.
+The pipes are analogous to electric wires.
+So, why current increases when voltage increases?
+I know that voltage is the 'potential difference across two points', but what does that actually *mean*?
+&gt;The problem with this explanation is that voltage is not just energy per unit charge, you have to specify that its potential energy per unit charge
+
+I know.
+Its potential is still -100.
+The battery is analogous to a pump that increases the height of the water (giving potential energy to the circuit).

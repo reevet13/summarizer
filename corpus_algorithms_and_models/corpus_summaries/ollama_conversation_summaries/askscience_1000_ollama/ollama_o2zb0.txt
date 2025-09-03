@@ -1,0 +1,9 @@
+Here is the summary of about 10% of the text:
+
+We were having a discussion today and some how this question came out of it. My gut reaction, being a math teacher, of course was "Yes!" since we modeled population growths in differential equations but to be plainly honest, I have only taken math and physical science classes in college, not exactly life science classes.
+
+Oh yes, there is plenty of math in the biological sciences. First, there is a lot of statistics especially in the analysis of experiments.
+
+Also biologists use math in conservation. [A primer of ecology] runs through most of the models conservation biologists use when trying to figure out how to protect a species, how to model populations (birth and death rates), how species get from point A to B and so on.
+
+Without math, biology in all its facets would be boring.

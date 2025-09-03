@@ -1,0 +1,6 @@
+When you flush, particles do indeed become airborne from the toilet. This is why we can find fecal associated bacteria in many parts of bathrooms. Noah Fierer's group had an interesting paper out about this:  
+Flores G. E., S. T. Bates, D. Knights, C. L. Lauber, J. Stombaugh, R. Knight, and N. Fierer. 2011. Microbial Biogeography of Public Restroom Surfaces. PLoS ONE 6:e28132. 
+
+Essentially what they found is what you would expect. Women's bathrooms tend to harbor more bacteria associated with women (things like *Lactobacillus* from the vagina). Floors tend to have diverse communities that are more like "outside". And toilet seats tend to have more fecal associated bacteria, from being sprayed out when the toilet is flushed. 
+
+A courtesy flush is when you flush in order to clear out the toilet in an attempt to reduce the smell for when there's other people in the restroom.

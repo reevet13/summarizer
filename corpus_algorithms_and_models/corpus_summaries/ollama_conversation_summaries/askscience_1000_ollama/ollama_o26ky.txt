@@ -1,0 +1,8 @@
+Here is the summary:
+
+Just going over my rudimentary understanding of pharmacology, I see I know nothing about biliary excretion. If excretion is biliary, doesn't it just end up in the feces anyway?
+*Laymen alert*, its been a while since I had to know these
+biliary excretion is part of pharmacokinetics, and deals with drugs that are absorbed and transported in blood plasma.
+These compounds are filtered out and metabolized by the liver and then excreted into the biliary system (Gall bladder) to be incorporated into fecal matter.
+Biliary excretion is active transport of molecules.
+Fecal excretion is a gradient driven (passive) diffusion of drugs out of your plasma through the gut and bile systems.

@@ -1,0 +1,18 @@
+Agree, the experiment what they did it was complete crap.
+My [followup comment](http://www.reddit.com/r/askscience/comments/cqefn/how_many_flaws_in_this_experiment_can_you_find/c0ufzq0) does a simulation accurate to what he did, except I allowed the same song to be played more than once in each playlist, so found typically the most played artist appeared slightly more often than he observed.
+I then did [another simulation](http://www.reddit.com/r/askscience/comments/cqefn/how_many_flaws_in_this_experiment_can_you_find/c0ugit1) where I did not allow the same song to appear twice in the same playlist and found deviations almost identical to those observed in his article.
+I finally [extended the simulation](http://www.reddit.com/r/askscience/comments/cqefn/how_many_flaws_in_this_experiment_can_you_find/c0ugynd) to counter his specific claims one by one, showing that they are all expected to to the nature of his experiment.
+Ok, so I tried reading through what they did in more detail and think they did the following: Made library with 20 artists having 1 song each (billboard top 20), and 16 artists having 5 songs each (80 songs), and then made a bunch of playlists with the total of 650 songs.
+Then they added 20 more artists with 5 songs each from ripped cds, and repeated the test.
+My conclusion is that the data showed only the expected variance of actually having a truly random playlist, but that the author was too incompetent to properly interpret his data (which was unnecessarily convoluted).
+A simple 10 line python script can show that the artist with the most number of plays should have something like 59-66 plays, where on his results (that he interpreted as being significant the artist with the most plays had only 57).
+I am now guessing that it will avoid repeated songs in each playlist, whereas my simulation had no preference for that.
+I could easily extend the script to do this (EDIT: done [here](http://www.reddit.com/r/askscience/comments/cqefn/how_many_flaws/c0ugit1) showing the purely random simulation gives results almost identical to the ones he had).
+Ok, I did one more MC simulation that shows that the observed results, are exactly what you would expect from purely random results if there was absolutely no bias towards any particular artist.
+Author of article doesn't understand statistics/randomness.
+My simulation above had exactly 4 songs with 0 plays as well, all by multi-song choices cd-ripped artists.
+The next ten simulations had 3, 1, 0, 4, 2, 3, 5, 2, 4, 1 for numbers of songs never played.
+In all ten simulations, all of the never played songs were from the ripped from cd set of songs, as expected (expectation of 9.75 plays per song, vs 3.25 plays per song).
+No it isn't.
+It's quite easy to run the following [python](http://www.python.org) simulations (make sure you've installed [scipy](http://www.scipy.org) ) and you can see that the results aren't the least bit abnormal.
+If he kept the rules simpler (e.g., compared 100 itunes bought songs to 100 cd ripped songs) from the beginning, the expected mean and variations and [p-values](http://en.wikipedia.org/wiki/P-value) could be easily calculated.

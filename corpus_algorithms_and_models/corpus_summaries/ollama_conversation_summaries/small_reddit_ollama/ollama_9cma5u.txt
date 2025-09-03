@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words:
+
+Kicks, sever crashes with ramdom teleportation is still there. Zombies and doors are sometimes laggy, but most of the time they are fine. Spent an hour on an UK server.
+They seem to have hard to deal netcode issues and vehicles aren't even there. God I fear this 1.0 ...
+Vehicles will have their impact on server performance, network load, etc, etc.
+
+All work on all content has stopped. They have said multiple times they are in feature freeze now and doing bugfixing.
+That's not correct, all content patches are being worked on and on track, the networking needs to be fixed so they can release all the features.
+
+I have faith in the facts.
+The facts are that Eugen said, pretty sure it was in Barelyinfecteds interview, they are in feature freeze in the internal branch as all the content they want for beta is complete and they are now working on bugfixing and stability.

@@ -1,0 +1,15 @@
+Here is a summary of the text, up to 250 words, consisting of exactly selected sentences:
+
+Now, the sticking point for me is whether they are allowing a HFT firm to front run my trades.
+
+I.e if I tell Robinhood I want to buy 1 BTC, and they broadcast that to a HFT firm so they can buy 1 BTC before my trade executes, then they are failing to fill my trade in good faith. 
+
+No when ever you press the buy button it locks in that price and that is the price you pay.
+
+My concern though is that it is unclear wether Robinhood actually owns any crypto or are they just selling you the position the crypto is at when you press buy.
+
+I think it is rather “sketchy” that they don’t clarify that and I think that might even be illegal.
+
+That is the risk they take..
+
+If we are talking about front-running, that’s illegal, I believe, because it’s asymmetric information, similar to insider trading.

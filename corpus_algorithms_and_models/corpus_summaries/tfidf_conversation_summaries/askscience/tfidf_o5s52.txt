@@ -1,0 +1,17 @@
+Original Response:
+I am a high school physics teacher and in my class I run a speed of sound lab that I found online. Where is a link to a copy of the lab:
+
+http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0CCcQFjAA&amp;url=http%3A%2F%2Fbergmannscience.wikispaces.com%2Ffile%2Fview%2FSpeed%2Bof%2BSound%2BLab.doc&amp;ei=G00HT8juL8jzggfZl9WRAg&amp;usg=AFQjCNHTD3huWgQgQrAwF36aM_QYw6AxYQ
+
+
+Students fill a graduated cylinder with water.  They then insert another tube, open at both ends, into the water.  By raising and lowering the open tube they can change the length of the pipe (which is a closed pipe due to the water at the bottom).  Using a tuning fork, they can create a wave inside the pipe and adjust the height until they hear a maximum at the first harmonic.  
+
+Knowing that the first harmonic is Length of pipe = 1/4 wavelength for a closed pipe, they can find the total wavelength.  Combined with the frequency of the tuning fork, they can find velocity. 
+
+My question comes from a correction presented in the lab.  According to the lab L=1/4lambda is not exactly correct, you have add a correction, L = 1/4*lambda + 2/5*diameter of the pipe.  
+
+I have run this experiment before, and correcting for the diameter DOES provide better results, the problem is I don't know WHERE the correction comes from.  What are the theories/math behind the 2/5*diameter correction?
+Its been a while since I have done stuff like this, but I'll take a stab at it.  The 2/5*Diameter seems to be the height above the end of the tube that you are required to place the fork.  Now, the fork vibrates at a frequency of lambda, and the goal is to adjust effective the length of the column of air below the fork to be 1/4 lambda.  The actual length of this column, though, is not just the effective length of the tube.  The sound travels that little extra bit of distance from the tuning fork to the top of the tube.  This means the actual wavelength of the sound you are hearing is a bit longer than just the effective length of the tube.
+
+Summary:
+The 2/5*Diameter seems to be the height above the end of the tube that you are required to place the fork.

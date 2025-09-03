@@ -1,0 +1,23 @@
+Here is the summary of about 10% of the text or up to 250 words:
+
+Desktop is going to be cheaper and in terms of power/performance to price ratio it is a better option. Desktop unless you -have- to be mobile.
+
+If you order parts and assemble it yourself a entry level gaming rig would run you around $800.
+
+A true entry gaming rig can be $450 at this point
+
+Also worth mentioning that maintenance and upgrades are immensely easier with a desktop computer than a laptop.
+
+It's hard to perform maintenance on a laptop since all the components are crammed into a tight casing on top of each other.
+
+You don't want to spend a bunch of money on a computer and have it be destroyed when you experience a power surge.
+
+Hey thanks for the comment, sorry to ask but what is A UPS?
+
+A UPS is an Uninterruptible Power Supply. Most have a built in surge protector.
+
+A UPS does nothing to protect hardware or saved data.
+
+It's linked at buildapc but [Logical Increments](http://www.logicalincrements.com/) has a pretty good chart for what components at what prices you'd be looking at for different builds.
+
+I built mine by following the very good/great level two years ago and it's still running fine.

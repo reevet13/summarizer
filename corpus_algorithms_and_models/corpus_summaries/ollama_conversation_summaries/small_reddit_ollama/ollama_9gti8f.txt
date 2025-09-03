@@ -1,0 +1,23 @@
+Here are the extracted sentences:
+
+* For $30 more you can get 1TB. https://www.newegg.com/Product/Product.aspx?Item=9SIA6ZP78V1319
+* Well perhaps I will actually look into it, I just ran out of space on my SSD, found out all my interned downloads were going there. All 10gb worth
+* As an aside, when Intel drops their newest gen chips (please correct me if I'm wrong) but 8th gen chips may go down in price a touch. Should be coming around the end of this year/beginning of next?
+* Yeah, I'm so glad I went up to a 500GB SSD, I'll never be low on space with that thing and it speeds everything up so well.
+* I upgraded on Sunday and it wasn't 2x as expensive. $140ish for the 500GB Samsung Evo 2.5" SSD vs. $170ish for the 500GB M.2 Samsung Evo. I think it was the 970 Evo but I am going off memory.
+* Yup right with you there. That’s a beastly combo.
+* I'm currently using an AMD R5 1600x and it's pretty good. in terms of bottlenecking as long as long as you go an R5 or higher it shouldn't be an issue of available graphic cards (should be able to handle a 1080ti no issue) as for 20X0 cards no one as of right now can say.
+* I just built a pc for my little brother and it was like $10 more than the 2600 so I was like WTF? Went with AMD ofc since I have had such a great experience with my 1600.
+* Also lacks the over temperature protection standards that modern day PSUs possess.
+* Looks alright to me. But you're missing RAM. At least 2666MHz is recommended for Ryzen. 8GB is the minimum, if you got the funds I'd go for 16GB personally.
+* Pick the case that you like more both will be fine. For the PSU, the CX650M is easily enough for this build.
+* As for the SSD, the pricier drive is a bit better in terms of speed (probably not noticeable) and in terms of lifespan (100TB vs 80TB). If that's worth the price upgrade...tough to say. If you got the money in the bank, sure. If you're already stretching your budget .. probably not.
+* Oh man thank you thank you thank you so much for the info! It really helps!
+* Can you also please help me pick between the three PSU I have? I'm leaning toward the one with PLUS gold ??
+* Also it's hard choosing RAM - I'm choosing between 3 and not sure if there's any difference. I'm leaning toward Kingston just cuz they have never done me dirty. OR maybe these are all bad haha
+* Corsair 16GB (2x8GB) 2133MHz LPX DIMM https://www.umart.com.au/Corsair-16GB--2x8GB--CMK16GX4M2A2133C13-DDR4-2133MHz-Vengeance-LPX-DIMM-Black_32773G.html
+* Kingston 16GB(2 x8GB) 2400Mhz https://www.umart.com.au/Kingston-16GB-2-x8GB-HX424C15FW2K2-16-Hyper-X-DDR4-2400Mhz-Fury-White_38718G.html
+* G.Skill 16G (2x8G) MHZ 1.2V https://www.umart.com.au/G-Skill-16G--2x8G--F4-2133C15D-16GFT-DDR4-2133-MHZ-1-2V_38472G.html
+* As sad. The Corsair CX650M would be fine. Can go with the cheapest of these choices for your build.
+* As for RAM, see if you can find RAM with the clockspeeds of 2666MHz or 2800MHz or 3000MHz. Anything below 2666MHz is kinda wasting potential of your CPU.
+* Yes. 2660 Mhz at least. 3000 or 3200 recommended

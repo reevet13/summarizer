@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+That “90%” return isn’t what many of us imagine.
+
+Meaning that you would change code for the audits?
+
+Profit/Turnover = POT
+
+-$300/$3000 turnover = -10% Profit on turnover
+
+Sorry, I could have phrased that better. I didn’t mean it as a personal accusation, I was using “you” in a general sense.
+
+When it comes to Random, computers find it really hard to do. So, we use samples of things, extracts formulae and write code to generate what seems random.
+
+What is happening when theses are being rigged is that a more "balanced" sample of random is used, a weighted random.

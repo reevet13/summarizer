@@ -1,0 +1,17 @@
+Here is a summary of about 10% of the original text, consisting of approximately 250 words:
+
+So the second rule states that heat cannot pass by itself from a cold object to a hotter one.
+
+I'm not thinking of a perpetual motion machine of the first kind but one of the second and i know that can't be right.
+
+Suppose the small tank is hot.  Then it'll work like the headlights of a car.  The mirror will take the energy and send it to the big tank.
+
+Or am I missing something?
+
+It's the problem with entropy, if the heat would flow towards the hotter object entropy would drop and it cannot without exterior energy.
+
+Thermal radiation is almost negligible in these situations unless you are dealing with temperature in the thousand K +.   Using thermal radiation as a mode of heat transfer is essentially useless at low temperatures where you would have piping networks.
+
+Yes but i got that the thermal radiation tends to be more concentrated in the small object because it is in the focal point of the mirror, thinking of headlights, the filament is hotter then the surface lit, and if i light emitting surface of the bulbs temperature is in front of the headlight the spherical mirror surrounding the light bulb would tend to make it even hotter.
+
+This machine tend to maintain a temperature difference instead of going towards equilibrium.

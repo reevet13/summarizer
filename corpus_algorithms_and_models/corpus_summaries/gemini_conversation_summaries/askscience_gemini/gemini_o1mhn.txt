@@ -1,0 +1,4 @@
+Alcohol has several targets, but in the context of what you're asking, it's a sedative, not an analgesic.
+An analgesic actually prevents the neuron from sending its action potential signal down its axon, and thus prevents the sensation of pain, and other sensations such as touch, heat, etc.
+Ethanol, on the other hand, has sedative properties, in that it can induce calmness or sleepiness and anterograde amnesia (such that you will not remember what happened since the administration of the drug).
+However patients under any sedative (ethanol included) will report feeling pain, although will generally not react to it or have any memory of it.

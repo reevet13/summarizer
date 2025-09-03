@@ -1,0 +1,5 @@
+Here is the extracted summary:
+
+Every time I see a ravine in Bedrock it always goes all the way down to lava level from the surface, which can only ever happen in Java if two are stacked on top of each other - this feature should be added to Java as it would make them more interesting (presuming that not every ravine is like this, with some being deeper than others; on Java all ravines are 3 times deeper than their width, excluding the ledges which extend inwards, narrowing them a bit.
+
+I don’t know if Java is different on this too, but almost all the ravines I find in bedrock cross other ravines.

@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+In nuclear fusion, two hydrogen atoms fuse to form one of helium. This releases energy. If E=MC2, then this energy must come from a reduction in the mass of the atoms, but what exactly is lost?
+
+So the deuterium atoms have a binding energy between the two particles, and helium has it between four particles, and the energy per particle is less in helium than deuterium, so the final helium as less mass than the initial deuterium.
+
+Just memorize this curve ...
+
+Quick guide to the curve: you release useful energy by maximizing binding energy. Iron (Fe) is at the top of the curve. For elements to the left of Fe, you do fusion (towards higher atomic number). For elements to the right, you do fission (towards lower atomic number).
+
+What you have lost is the potential to do additional work.

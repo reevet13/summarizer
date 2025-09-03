@@ -1,0 +1,129 @@
+Original Response: 
+I registered an account on LBC to buy some bitcoins.
+Everything went smoothly, we finished the deal but when I tried to withdraw BTC to my external wallet, I got this message:
+
+&gt;Error!
+Error processing transaction.
+Please contact support by clicking here
+
+I tried once more but the error was still there.
+I created a ticket describing my problem.
+After two days of waiting they gave me a short reply that my account was banned as suspicious.
+What the …?!?
+I was new to LBC and made only one deal there, and got positive feedback from the seller (I replied that they can contact the seller to ensure everything was OK).
+I described this to the support but… silence was the answer.
+My coins are still locked there, despite the fact that I even got verified with my ID.
+Can anybody suggest what to do?
+Look up Bisq.
+An open source project aiming to be a decentralized exchange, like localbitcoins but cant be shut down and cant shut down your account.
+Still in early stages, but very usable.
+Is this KYC-free, properly peer to peer?
+Yes.
+Generally the problem with P2P trading is the verifying of your trading partner.
+While being decentralized offers benefits, it also means that if your trading partner is a fraudster you are on your own.
+Bisq has escrow/arbitration.
+Where the same thing can happen.
+Centralised arbitrator.
+No.
+The arbitrator (developer) may request two forms of National Photo Identification in phase 2 of a dispute.
+They may also request Skype interviews and other privacy impositions.
+Good luck if you are someone or trading from somewhere for which obtaining the required identity documents might mean risking your life.
+If disputed you default at phase 2, your counter-party may be aware of this even if you aren't.
+There is as yet no decentralised DAO with tokens at stake for arbitrators, no policy on how these identity documents are stored  or any of the type of systems which would be required to *trust* that the developer isn't working against your interests when it comes to engagement with government actors.
+They might be good people and might be trying but I'm not going to stop harping on about this and start parroting that they're *"decentralised'* like everyone else.
+We need to be uncompromising in demanding decentralised solutions for on-ramps which resist censorship by the state, instead of building them on the foundation of state identity databases.
+Who is the centralized arbitrator?
+I understood they had some system involving BSQ and bonds that is decentralized.
+The ID thing only applies to bank transfer AFAIK.
+Anything that touches the banking system will need all kinds of ID usually.
+If you use Bisq for cash face-to-face or cash-by-mail trades then no ID would be required.
+Those are the payment methods I'm most excited about.
+But yes I agree with you that the ID storage policy thing is concerning.
+&gt; no ID would be required
+
+Unless disputed and Phase 1 fails to resolve it.
+### Phase 2
+#### Real life ID verification
+
+&gt; First each trader needs to scan 2 governmental issues IDs front and back.
+At least one of the documents needs to have a photo.
+The arbitrator will then request traders to make a selfie photo together with the documents and send those photos to the arbitrator.
+After that the arbitrator will request a video session via any commonly used and freely available video conference tool (Skype, Hangout, Tox...) and ask the trader to show both documents and also to show his face so the arbitrator can compare with the photo and the scans.
+Sufficiently good resolution should be selected for the video call to allow verification.
+&gt; The arbitrator does not need to be visible himself in the video session and doesn’t need to provide any identification to the traders.
+&gt; If one trader fails to successfully verify himself, the other peer will be the winner, provided he can verify himself.
+### Phase 3
+#### Screensharing or video casting
+
+&gt; After the ID verification was successful, the next step is to get a proof of the Fiat transaction in question.
+The arbitrator asks each trader to navigate to his online banking web page and filter the transaction in question (same as above with PageSigner).
+Each trader will then show this page to the arbitrator using screen sharing or a mobile camera using sufficiently high video quality.
+The video or screen sharing session will be recorded by the arbitrator for documentation reasons in case of a second round.
+https://docs.google.com/document/d/1DXEVEfk4x1qN6QgIcb2PjZwU4m7W6ib49wCdktMMjLw/edit.
+Well that doesn't really make sense for cash trades.
+Cash-by-mail doesn't have an online banking web page.
+There is only the developer in the system, the DAO hasn't been completed, nothing at stake other than the investment of time into the codebase.
+Thus, to my eyes we shouldn't start considering it decentralised but should demand better.
+The escrow only guarantees only very basic transactional safety, the funds can still be from illicit source (or friendly fraud) and you can get problems days or weeks later.
+These issues can be tackled in several ways.
+I'm not really familiar with bisq but I would trade there only if I was very experienced about p2p trading.
+&gt; Arbitrators may attempt different tactics to get a handle on the situation.
+For example, they may ask a potential scammer for ID verification, which is a request a real scammer probably wouldn’t comply with.
+https://docs.bisq.network/trading-rules.html
+
+A strawman to test; A Chinese Wega rocks up to a public place, $5 wrenched into approving transfer, disputes transaction, asks for ID, has none, really really needs funds, goes to attempt to get some, now lives in a prison camp.
+Surely they can do better than asking for state papers as damn near the first or second step in disputes.
+What happens when the bank transfer is from a defrauded account and you get a wire reversal 3 weeks later?
+How is escrow going to help when you've already released it?
+Literally the only time I have ever advised someone to sell on one of these alternative exchanges that's what happened.
+From an account with tons of feedback, provided all docs, selfie, etc.
+This aspect *cannot be solved* with decentralized solutions.
+This is something only solved with centralized systems with aml/kyc, insurance, etc.
+The only way a DAX can overcome this is by forcing every customer to deposit *more* than the transaction to hold as collateral for *months*.
+Who would trade with those requirements?
+DAX needs market makers willing to absorb huge risks.
+It's an unfortunate truth that we all need to start accepting.
+This is why the banning of cash is so horrible.
+We cannot prevent fraud in the traditional system.
+I will update the doc to reflect F2F trades.
+For F2F trades there is a section in the [doc.bisq.network](https://doc.bisq.network) page where it states that the Arbitrator cannot do much as he has no way to get a clear evidence.
+For the other payment methods:
+
+The request from the arbitrator for a ID is only used in very rare cases (when I was arbitrator in the first 1.5 years, I had 1 or 2 times requested it).
+When the users cannot provide another evidence (PageSigner) then the arbitrator is basically without means to find out the truth.
+So the alternative would be to leave the funds frozen forever, which hurts the seller much more and which would be an attack vector to blackmail a seller.
+So there is no good solution.
+Feel free to suggest something realistic (which is ready to use) if you have any idea.
+If trading BTC or using Bisq is a risk for your life you must not use it.
+It is not safe for such situations as an undercover agent could easily act as the trade counterparty and therefore receive your payment account details.
+"We need to be uncompromising in demanding decentralised solutions for on-ramps which resist censorship by the state".
+What do you contribute beside shitting on those who try hard to get as far as possible?
+We try to solve very hard problems where there are no perfect solutions as we deal with the very imperfect fiat world.
+Feel free to provide some constructive input.
+Or if you have no, state at least that you also don't know and are not able to do it better.
+At least would be more honest.
+&gt; What do you contribute beside shitting on those who try hard to get as far as possible?
+They killed Socrates for it.
+(then 3 years later built a statue of him)
+
+I'm not required to sugarcoat anything for you.
+&gt; I will update the doc
+
+Guess my not contributing anything had no impact on improving the imperfect world we live in.
+Thanks for taking some action on a part which could have action taken on it.
+Maybe if I continue to voice concerns about this aspect of the system, the system may continue to improve instead of sitting stagnant in this area.
+
+Summary: 
+Who would trade with those requirements?
+Who is the centralized arbitrator?
+I will update the doc to reflect F2F trades.
+At least one of the documents needs to have a photo.
+So there is no good solution.
+I created a ticket describing my problem.
+If you use Bisq for cash face-to-face or cash-by-mail trades then no ID would be required.
+The ID thing only applies to bank transfer AFAIK.
+Anything that touches the banking system will need all kinds of ID usually.
+I registered an account on LBC to buy some bitcoins.
+At least would be more honest.
+&gt; The arbitrator does not need to be visible himself in the video session and doesn’t need to provide any identification to the traders.
+I'm not really familiar with bisq but I would trade there only if I was very experienced about p2p trading.

@@ -1,0 +1,44 @@
+Original Response:
+I was looking over google maps when I noticed that northern Alaska and Canada had these dense "lake" formations.  What are these from and why do they form that way?
+
+For example: http://maps.google.com/maps?q=alaska&amp;ll=70.556007,-155.65979&amp;spn=1.827226,8.453979&amp;hnear=Alaska&amp;gl=us&amp;t=h&amp;z=8&amp;vpsrc=6
+http://www.nationalparkstraveler.com/2009/10/melting-permafrost-may-help-explain-why-many-denali-national-park-wetlands-are-drying4724                         "The lakes and wetlands in this part of the world were formed about 8,000 years ago when the most recent glaciation ended, and many (but not all) owe their continued existence to the fact that permafrost helps to confine their water -- sort of like the sides of a bathtub – and keeps it from draining way."
+
+Related:  http://en.wikipedia.org/wiki/Thermokarst
+I have been waiting for a geology themed question for AGES!
+
+The answer to this is glaciers! During the last ice age massive multi-km thick sheets of ice covered canada, alaska and some northern parts of the lower 48. Think Antarctica, but in Canada! These super thick sheets of ice move very slowly, but over thousands of years these sheets scour every single feature off the surface. The glaciers plane off the hills and later fill the valleys with gravel (or till).
+
+So how do these lakes form? Well, if you've planed off your entire landscape, you've destroyed your entire hydrologic network- the streams and rivers that carried water away are gone, and the water is stagnant. This is why Canada is covered with countless small shallow lakes. Over time, the lakes will fill in with sediment and streams will return. Eventually, it will look something like what northern indiana or iowa look like now. This explains what areas like [quebec look like](http://maps.google.com/?ll=52.103131,-73.506775&amp;spn=0.455509,1.234589&amp;t=h&amp;z=10&amp;vpsrc=6). Curiously, the exact location you pointed out is a different kind of landform, called kame and kettle topography.
+
+To understand the difference between the area that you picked and the area that I linked in this post, compare the shape and pattern of the lakes. In Quebec the lakes are irregular, somewhat interconnected, and lie directly on the bedrock. In the spot you selected in alaska, the lakes are round, seem to follow a preferential direction and seem to lie on glacial gravels or soft sediment. These lakes are different! So how do glaciers work into this? Well it turns out that glaciers effect the landscape in different ways depending if you are near the start or end of a glacier. The beginning of a glacier is erosional, the glacier isn't carrying a lot of sediment yet and it carves deeply into the rock beneath it. The beginnings of glaciers form landscapes like in Quebec or northern minnesota. The ends of glaciers are totally different. By the time you get to the end of a glacier, it is carrying all the sediment picked up from the glacier gouging out the ground upflow. At this point the glacier is melting away, and as it melts it begins to become dirtier and dirtier and starts to turn into a pile of rocks. Check out [this glacier](http://maps.google.com/maps?q=alaska&amp;ll=59.882047,-140.552216&amp;spn=0.372111,1.234589&amp;hnear=Alaska&amp;gl=us&amp;t=h&amp;vpsrc=6&amp;z=10) in alaska. See how it grades from a pure white snow to dirty and vegetation covered! As the glacier melts, big pockets of ice can be trapped under the sediment. As the glacier retreats, it leaves big blocks of ice buried beneath the sand and boulders. Over time these blocks melt away and the cavity where the ice was collapses, forming a small lake. These small, round lakes are called *Kettles* and form near the terminus of glaciers. These are the lakes you saw in alaska.
+
+So the td;lr here is that these lakes were made by glaciers during the last ice age. The particular ones you pointed to are a type of glacial lake called a kettle.
+True! But it doesn't answer the OP's question. These lakes are not located anywhere near Denali nat'l park. Though the lakes in Denali formed under similar circumstances, they are not the same environment as in northern alaska.
+[deleted]
+The other neat thing about glaciation also, is the rebound of the lithosphere due to the lifting of weight when the glacier melts. This is why Finland gains altitude of about 11 mm/year.  So as you rebound the crust, if you don't do it at the same time, you can have migrating lakes.
+Isn't the permafrost in northern Alaska the reason for the lakes there?
+
+To be honest, I'm entirely embarrassed at my lack of knowledge.  I remember having the same question he did quite a few years back, and I probably read the answer and completely forgot it.  I'd be entirely too grateful if you would enlighten me :-)
+
+(oh, silly me, just checked the thread proper and found your reply - thanks!)
+
+edit:  goddamn, I either have the IQ of an ignorant marmot or my memory has already fled me (in my early 20s).  This is stuff I saw in countless lectures I was forced to attend when I was a little kid :-)
+&gt;[quebec look like]
+
+You forgot the link.
+Fixed :)
+I don't know much about the hydrology of alaska, but usually the reason that the lakes remain filled is because the lakes intersect the water table, not because permafrost soils are trapping the water.
+So what exactly causes the kettle to form so regularly (and roundly)?  And why are they oriented this way?
+Hmm... That's a much more difficult question. The roundness is due to the way ice melts and the way voids collapse (they tend to make circles or ellipses). The regularity is a bit harder to explain. If you evenly melted a sheet like glacier there would be spots that melted less fast than others because the sediment on top of the melting glacier would insulate it in some places more than others. In my head (in a perfect world) the glacier would melt into a hexagonal grid of ice blocks covered in sediment. However nature has other plans. The preferential elongation you see is due to the movement of the glacier.
+
+I've answered this question to the best of my ability, but you really want a glaciologist to answer this more second-order question.
+[deleted]
+
+Summary:
+So how do these lakes form?
+The answer to this is glaciers!
+These are the lakes you saw in alaska.
+The ends of glaciers are totally different.
+The beginnings of glaciers form landscapes like in Quebec or northern minnesota.
+Isn't the permafrost in northern Alaska the reason for the lakes there?

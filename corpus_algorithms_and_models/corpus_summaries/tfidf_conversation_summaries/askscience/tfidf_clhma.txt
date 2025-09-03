@@ -1,0 +1,58 @@
+Original Response:
+[deleted]
+start with google: space propulsion theory
+[deleted]
+[deleted]
+I've never understood this. Even if gases are exploding, there is no opposing force from space, so the rocket cannot move. The gases should just expand into space without any force acting on the rocket.
+
+If the rocket is "thrusting against itself", then how is this any different to trying to jump by pulling up on one's shoelaces? It makes no sense either.
+[deleted]
+Ah, I see. F=MA. With the brick, F is high due to high mass and non-zero acceleration. With the gas, mass is low but acceleration is very high, therefore a strong force is generated.
+
+Thanks, that's a great analogy.
+&gt;Then use a beam of neutrinos or other VERY small particles (im sure there are bosons or leptons that would fit this criteria?)
+
+Neutrinos do not interact strongly enough to be useful for this. You cannot use charged particles, for reasons that I hope are clear. You cannot use baryons, since they're heavy enough that you might as well fire hydrogen gas. And you cannot use any of the neutral mesons, because they decay. That leaves photons; use those and you've got yourself a [solar sail](http://en.wikipedia.org/wiki/Solar_sail).
+&gt;The way I understand space travel is as follows; we cannot control a rocket in space as there is nothing to push on, there is nothing to "thrust" on. All work is done on earth in the atmosphere and the rocket is put into a controlled and precise trajectory where it uses the slingshot effect to navigate space and planets.
+
+Better way of visualizing rocketry, is by net momentum.  In the absence of gravity, net momentum is constant.  You can get a rocket moving as the when the (low mass) gases are propelled downwards with high momentum, the rocket moves upward to keep the net momentum constant.  All the gravity does, is cause the net momentum to constantly decrease (its an external force).
+
+&gt; My idea: Why don't they create something much smaller and perhaps, more fragile, as light as possible. Then use a beam of neutrinos or other VERY small particles (im sure there are bosons or leptons that would fit this criteria?) and blast them en masse from earth to the rocket? this would be an effective way of powering a rocket through space assuming that you could get these particles through our atmosphere and accurately aim this giant space cannon.
+
+Your idea doesn't really work, because its not feasible.  You can't just get a significant number of neutrinos/leptons to go in one direction, without huge nuclear reactors/synchrotrons/etc, and even then because the subatomic particles are subatomic they don't impart that much momentum and you wasted lots of energy in accelerating them to those energies.  Take the LHC; it has about 2800 bunches of protons circulating in the beam; and each bunch has about 10^5 J of energy.  10^5 J is roughly the energy of [anti-tank shell](http://blogs.uslhc.us/what-does-7-tev-mean), but that will not be enough energy to really get a rocket out of orbit.  
+
+If you deal with charged particles (or neutrons) you are going to also have to deal with the consequences of their stream; e.g., people don't want to be bombarded with radiation.  Dealing with neutral particles is even more difficult, because it is inefficient to accelerate/direct them (as you have to deal with charged particles that then create the neutral particles).
+Oh cool, I assumed they just used an ass tonne of fuel to achieve very little in space, so tried to reserve it for atmospheric manouvers
+I was just studying this stuff, so I'll try to explain it for my own practice instead of anyone elses. Another way of thinking of it is imagine you weigh 5 kg, and imagine you stand on a 5kg block of wood. If you jump to the right, going at 5 m/s, the wood will go to the left at 5 m/s. It's basically a reverse collission where momentum is conserved, since in the start you and the block were not moving the total momentum there was 0. If you  move in one direction at 5 m/s since the block weighs as much as you do it has to move in the opposite direction at 5 m/s, so that the sum of momentums (mass times velocity) sums up to 0.
+
+I know what i said is exactly what shaneoffline said but longer and more complicated. I just wanted a chance to see if i actually knew what i was studying.
+Agree with this.  Except a solar sail is a little different as it would be reflecting light rather than being a directed "cannon".  Also good to recognize that reflecting a photon imparts double the momentum, as you get the momentum of the photon once when it hits, and also the momentum of the photon as it reflect backwards.
+Unfortunately, you are not even wrong.
+
+However, you may enjoy reading this: http://blog.xkcd.com/2008/02/15/the-laser-elevator/
+See: [space fountain](http://en.wikipedia.org/wiki/Space_fountain). Technically it could be done, but is impractical with our current level of technology. Maybe someday...
+Look into microwave or laser-pushed probes. Most advanced propulsion concepts supply energy remotely, or do direct momentum transfer.
+This is incorrect. You can provide about 3 g worth of acceleration to a carbon truss sail via microwave flux.
+The mistake made in your first sentence is the subject of a famous [retraction made by the New York Times about propulsion in a vacuum.](http://i.imgur.com/5J1mr.jpg)
+Rockets don't do better/worse in atmosphere than they do in space.(well in principle it might make a small difference, but neglible for any real rockets.) The reason they use rockets is that air-pushing engines don't work in the speed and air density range that is needed, and that launching from a airplane only has an neglible extra speed and height.
+Also [launch loop](http://en.wikipedia.org/wiki/Launch_loop), 'just' a iron tube controlled/held by electro magnets, going at 14km/s. :)
+[deleted]
+[citation needed]
+Well, i was under the presumption that one atmosphere isn't much if the effective propellant speed is 2-4km/s. What sort of percentage different inefficiency 1atm vs 0atm are you thinking of?
+
+So essentially(right?) if the pressure at the edge is larger than zero, in vacuum it leaks propellent gas into the 'wrong direction' because it 'pushes on it itself' sufficiently to do so. (where it could have pushed the spacecraft) and when negative and in ambient pressure the gas on the front of the spacecraft pushes more than the back.
+[deleted]
+Use the web, Luke.
+If you want to think in terms of things pushing on other things rather than in terms of momentum conversation, you can think about it this way: if you were to have a rapidly expanding gas in a closed container, the gas would push on all the walls of the container equally (probably eventually exploding it).  Now suppose that one wall of the container is missing.  Now the gas is pushing on the wall opposite the missing wall, but is not pushing on the other side, so you have an unbalanced force.  Same with a rocket, the gas is expanding inside very rapidly, but escaping out the back, so the gas pushing forward is not balanced by gas pushing backward.
+Awesome! Also, [source](http://www.popsci.com/military-aviation-amp-space/article/2009-07/new-york-times-nasa-youre-right-rockets-do-work-space).
+An awesome website for learning about real and fictional propulsion systems is [Atomic Rockets](http://www.projectrho.com/rocket/), which talks about difference space propulsion systems used in science fiction and explains them in a simplified way (i.e. no calculus). As others have pointed out, you have a basic misunderstanding of how rockets work, and this will help clear up confusion and maybe make you more curious!
+
+Summary:
+Rockets don't do better/worse in atmosphere than they do in space.
+Even if gases are exploding, there is no opposing force from space, so the rocket cannot move.
+You cannot use charged particles, for reasons that I hope are clear.
+The gases should just expand into space without any force acting on the rocket.
+If the rocket is "thrusting against itself", then how is this any different to trying to jump by pulling up on one's shoelaces?
+(well in principle it might make a small difference, but neglible for any real rockets.)
+&gt;Then use a beam of neutrinos or other VERY small particles (im sure there are bosons or leptons that would fit this criteria?)
+Then use a beam of neutrinos or other VERY small particles (im sure there are bosons or leptons that would fit this criteria?)

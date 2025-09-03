@@ -1,0 +1,10 @@
+Regardless of what you do with your security settings, there is one party who always has access to all of your data: Facebook itself.  
+They present it being a worry that third-parties can get your info through applications. I'd say Facebook having your data is the biggest risk.  
+You can control the amount of access a Facebook app has to your data, and you don't have to put all this data on Facebook in the first place - my profile doesn't even have my real name - only a 'nic.  
+The only thing you can restrict is the users allowed to see/search for it.  
+The app cannot access data outside of my profile - such as email, notifications, posts, and so on.  
+You don't have to put any real personal data on Facebook, you can even use a 'nic or fake name.  
+Should a friend add an application that application gets to see all of my private information that my friend has access to. Thus an application has gained access to my info despite me trying to restrict it and without my permission.  
+The fact still stands that the original article claimed that applications on Facebook could obtain access to "private" data on Facebook, and this just isn't true.  
+The information that you put up on a public web page is not private.  
+Facebooks only mistake has been to let people think that retricting search access to your profile makes your profile "private" in some way.

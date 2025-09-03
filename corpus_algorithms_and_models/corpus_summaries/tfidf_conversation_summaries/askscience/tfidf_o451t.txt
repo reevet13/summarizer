@@ -1,0 +1,451 @@
+Original Response:
+[deleted]
+[deleted]
+[deleted]
+I am going to assume by "modern society" you mean the semiconductor era.  There are two approaches you could take.  Either you trust people to be deductive and take basic principles to figure out applications, or inductive, where you force people to reverse engineering everything.  In the former case, I'd suspect some graduate level quantum mechanics book ([Sakuri](http://www.amazon.com/Modern-Quantum-Mechanics-Revised-Sakurai/dp/0201539292) is a good place to start) would be useful.  As for the latter approach, a book going over most conceivable circuit designs would be helpful ([The Art of Electronics](http://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521370957/ref=pd_sim_sbs_b_6) comes to mind).
+
+EDIT:  Right after I posted this, I fear that my choice of the QM book was a bit narrow.  I am sure there is a modern physics type book that would be more useful, but I can't think of it off the top of my head.
+[deleted]
+Two books to start with:
+
+*The CRC Handbook*
+
+http://www.hbcpnetbase.com/
+
+-Basically all known physics and chemistry+Math
+
+*2010 ASME Pressure Vessel Boiler Code*
+
+-Materials properties and instructions on how to build safe pressure rated parts.
+This was what I was looking for.
+this is an interesting website http://opensourceecology.org/wiki/GVCS
+[Yes, there is.](http://www.rob-matthews.com/index.php?/project/wikipedia/)
+IMHO the very first thing you would need would be geology texts on how to locate raw minerals and then metallurgy texts on how to forge steel.
+I feel like I should buy a used copy of the CRC Handbook to keep in the trunk of my car *just in case*.
+[deleted]
+[deleted]
+[deleted]
+I'm not completely sure if you wanted this in print (it'd be pretty big) but, you could always just [download wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Database_download).
+Incase what, you get sucked into a portal throwing you into the middle ages?
+[deleted]
+I might have to vote for something like Mark's Standard Handbook.  It has a lot of info on building materials, heat transfer, material strength, basic electronics, fluid flow, etc.  Basically an engineer's bible.  
+
+That is a must have for everybody in the engineering world to have on their shelf, in my opinion.
+There's probably a better, more compact, option that doesn't include exhaustive information on all of the characters to ever appear in a Sonic the Hedgehog game.
+There is a cool TED Talk by Marcin Jakubowski called Open Sourced Blueprints for Civilization. It's pretty short, and worth a watch.
+[deleted]
+hey, it happened to Bruce Campbell
+[deleted]
+Ask Hari Seldon.
+Imagine all the cults. Imagine all the religions.
+That is all that book covers, the rest of it fit in a book smaller than the last Harry Potter
+Just curious: How big is it? I mean, if it were printed like a regular encyclopaedia in volumes A-Z, how wide a bookshelf would it need?
+[deleted]
+Wow.  I'm an analytical chemist and even I had no idea that the CRC handbook was available online.  That thing is worth its weight in rhodium! You sir (or madam) just made my week!
+
+Thank you thank you thank you thank you!
+In case of /r/postcollapse
+http://www.youtube.com/watch?v=zIsHKrP-66s
+This guy is trying to make one:
+
+http://www.ted.com/talks/marcin_jakubowski.html
+[deleted]
+[deleted]
+this may not be a book but it is relevant to your question. hope this helps
+
+http://www.ted.com/talks/marcin_jakubowski.html
+[deleted]
+[deleted]
+The English version (minus pictures) can easily fit on a microSD card if it's compressed. That's most of humanity's basic knowledge on something smaller than a dime!
+As of 2010, August
+
+http://en.wikipedia.org/wiki/File:Size_of_English_Wikipedia_in_August_2010_(L).svg
+
+It's pretty big.
+[deleted]
+[deleted]
+[deleted]
+Another online text-file based directory over at:  
+[http://www.textfiles.com/science/](http://www.textfiles.com/science/)  
+and  
+[http://www.textfiles.com/survival/](http://www.textfiles.com/survival/)
+I actually have a copy of the CRC Handbook and it is great.  But I was thinking of a book that tells you how to find, extract, purify, etc. each of the elements first.  Then there could be a chapter on what each element is good for.  Ex. Nitrogen is great as a fertilizer and for keeping things really cold (explaining how to do each).
+I think it's 8 or 9 GB compressed.  I linked a pic earlier though of how big it might be if you printed it out and bound it.
+What is this?
+[deleted]
+[The Foxfire series would be a good start](http://product.half.ebay.com/Foxfire-5-Ironmaking-Blacksmithing-Flintlock-Rifles-Bear-Hunting-and-Other-Affairs-of-Plain-Living-by-Eliot-Wigginton-and-Foxfire-Fund-Inc-1979-Paperback/165805&amp;tg=info)
+http://www.openmoko.com/wikireader.html
+[deleted]
+[deleted]
+[Kinda](http://en.wikipedia.org/wiki/Georgia_Guidestones)
+The book pictured isn't the entire wikipedia, it is only the featured articles.
+I gave you an upvote to assure you that I don't mean to sound cheeky, but...my phone does that, and if we need to rebuilt society, folks aren't going to be able to count on electronics.  no?
+I've found [this estimate](http://en.wikipedia.org/wiki/User:R._fiend/How_many_articles_does_Wikipedia_really_have%3F) of the number of meaningful articles (342,768). I can't find any statistic on the length, but if we generously printed one article per page, at [0.0037 inches per page](http://www.casepaper.com/calc_chart_caliper.htm), then we arrive at a book around 32.2133366 meters thick.
+I know, I know. But it just came to mind immediately.
+I'd like a book that tells me how to:
+
+* Make a basic computer 
+
+* Make tools for modern medicine (i.e. basic sanitation, harvest penicillin, etc)
+
+* Make a gun + ammo
+
+
+Starting from absolute scratch, i.e. "Step One:  Punch some trees"
+I suppose that is quite big. But relatively, wikipedia is the closest we have to archived information in a single place. And a library could easily have shelving that big to contain it just in case.
+A college physics book was something I thought of and I really like that choice.  (If I was allowed a small box of books, I would certainly included on). 
+
+But by 'modern society' I actually was thinking pre-semiconductor.  (Even though now that i think of it knowing how to etch an integrated circuit would be pretty useful) The example I'll keep referring to is having a single page on something like the [Haber Process](http://en.wikipedia.org/wiki/Haber_process).  A discovery that is pretty easy to use once understood, but took a long time to figure out.
+Ideally I'd love to have a laptop with Wikipedia on it.  If there was only a way to keep that laptop charged....
+In all fairness it says it runs 12 MONTHS on a couple batteries.  Might not be a bad idea at all to have a few of those in storage if you're planning for an apocalypse.
+http://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X 
+
+a short history of nearly everything
+[deleted]
+Another "not a book" but it could be:
+
+http://lifehacker.com/5765617/cd3wd-archives-the-information-necessary-to-rebuild-society
+Last time I checked it was 6 GB, but it may have grown since then.
+Cool.  That's the closest thing I've found so far.  Now boil all the practical information from that website down into a (reasonably sized) book and add  all the physical sciences, manufacturing, etc. and we're on to something.
+I work in code design and automation, not engineering...so I'm not really qualified to say what's needed to engineer a physical product.  I'm not sure if wikipedia really has the technical schematics to start from scratch but it does seem to know a little bit about everything.
+[deleted]
+If I were to assemble my post-apocalypse library, it would contain these two books as well as [the Gingery bootstrap metalshop](http://www.lindsaybks.com/dgjp/djgbk/series/index.html) (scrap metal to lathe, drill press, shaper, and milling machine) and at least the basic [Pocket Ref](http://www.pocketref.com/) (comprehensive practical reference guide). On top of that I'd probably add the rest of the [Gingery library](http://www.lindsaybks.com/dgjp/djgbk/index.html), and perhaps some kind of comprehensive medical reference; Gray's Anatomy, perhaps.
+My thoughts exactly.  Do you think a geology and a metallurgy book can be condensed down to a few dozen pages that contain just the most basic useful information with a few more pages dedicated to telling someone how they can derive the rest?
+These guys are doing something like that: http://opensourceecology.org
+
+It's called the Global Village Construction Set. Here's a [TED talk](http://www.ted.com/talks/marcin_jakubowski.html) on the subject.
+
+When they complete it, it should be a complete, step-by-step set of blueprints and instructions on how to build modern society from essentially nothing.
+[deleted]
+[http://www.reddit.com/r/askscience/comments/o3rsh/if_i_went_back_in_time_to_the_renaissance_with_my/](http://www.reddit.com/r/askscience/comments/o3rsh/if_i_went_back_in_time_to_the_renaissance_with_my/)
+Man, I so wish I could build a mechanical hand from a medieval forge.
+Are we talking EMPs and destruction of all personal property?
+How about [Caveman Chemistry](http://www.amazon.com/Caveman-Chemistry-Projects-Creation-Production/dp/1581125666)? It takes you from building fire with a bow drill and making flint arrowheads all the way up to making gunpowder, fertilizer, and plastics.
+Realistically, have lots of children and wait a few hundred years, focus on food production and economic growth. 
+
+The majority of actual practical knowledge is not written down in any book. Textbooks contain some basics, but it's often a cartoon version of what is actually done in practice. If you read a textbook on mining and then went all Zoolander-like into a cave and tried to start mining . . . you wouldn't get very far. A textbook on electrical engineering would leave you without a clue as to how to make the components, or even what they look like.
+
+How you would do something if you were stuck in medieval England would be completely different from how you would do it today. Industrial processes are determined entirely by what's available. If you can get sheet metal to make a car, you'll use it, but if you don't, you would never waste time trying to make it, you'd just make a wooden box.
+
+If you don't have coal, you'd have to chop down a staggering number of trees to smelt iron. You'd clear several forests just trying to make a basic machine shop for building an engine.
+
+If you don't have plastic or sheet metal, you have to use wood to make barrels. Making barrels is something that traditionally was learned by apprenticeship over a period of years, and requires some amount of strength. It's not something you could learn in an afternoon. 
+
+In all of this, the biggest question is, who's going to feed you while you're walking around in your funny clothes digging up people's back yards looking for magic metal. And who's going to feed the army of able-bodied men who will be helping you.
+
+Kind of puts where we are today in perspective, I think. Trying to single-handedly build up an industrial base would be a lot like a decapitated head trying to build itself a new body while trying to keep itself alive.
+
+But to start with, if you just want to make a simple kayak out of driftwood, [here's](http://www.amazon.com/Building-Greenland-Kayak-Manual-Contruction/dp/0071392378#reader_0071392378) a pretty good guide. You'd need a hatchet and some animal skins. That's a few other books worth of material.
+I heard that Hari Seldon was interested in making something like this.
+No, he forgot to carry the 3.
+You can download ALL of wikipedia.
+[deleted]
+So they give people copies of wikipedia?
+
+The size matches..
+Nobody has mentioned Jules Verne's "Mysterious Island" yet.  It's pretty much what the OP asked for. Though it does need footnotes. Not a joke post, I'm serious.
+I think you need a more compact language than English for this.  There is simply too much information.
+Wherever the Wikipedia servers are...
+In theory with a external hard drive and a Kindle you could do something with that.
+Not to be ironic, but oh god. D:
+Its over 7.3 gb now.
+[deleted]
+That's... not as big as I thought it would be.
+He means on his hard drive.
+Thanks for that CRC handbook link!  Holy shit, that just paid my brain back for at least half of the hours I've wasted on Reddit.
+Just ask Götz von Berlichingen.
+Except there are no pages on Charlie Sheen and Snooki..
+[deleted]
+Wikipedia is 8gb without pictures. This is apparently 13, and more related to agriculture.
+"Introduction to Flight" has, well, everything related to flight. Plus some neat thermodynamics and fluid mechanics.
+I would love to have something like this, not because I think it might actually happen but because it would be quite educational as well as plainly cool to have.
+
+I'll be looking around in the next few days to see what's out there, I might compile my own in a binder or something with what I deem important.
+I actually want a tutorial to understanding electricity, binary, and everything needed to build a functioning computer and internet. Servers and websites too. Where do I start? haha.
+This is something I would like to have. A theoretical knowledge is great but I think it would really help me understand and respect how much work goes into making even the simplest of things.
+Might not want to take step one literally.
+Spot on with the kind of information I'm looking for.  And I completely forgot about Gray's Anatomy.  Now just condense both to a few dozen pages to the most important info with a few pages telling you how to derive the rest.
+You can get a downloadable copy of Wikipedia [here](http://dumps.wikimedia.org/) that's regularly updated.
+I'm not sure there's anywhere you can look up how to make a CPU, the manufacturing processes are pretty tightly guarded secrets.
+[Caveman Chemistry](http://www.amazon.com/gp/product/1581125666) might be useful when it comes to the sciences, but probably not for practical use.
+[This guy](http://www.ted.com/talks/thomas_thwaites_how_i_built_a_toaster_from_scratch.html) tried making a *toaster* from absolute scratch, and it looked like shit and didn't even work. Interesting though!
+That's exactly the problem.  I'm not looking for every single step needed to build everything ever.  I don't even think all of the information is in the public domain anyway.  I'm looking for a primer.  Something to get you going with directions on how to get there.  
+
+For example.  A page that showed the periodic table of elements.  Why each element fits where it is.  What methods were used to get the numbers.  And what you can do with that knowledge.  Then, the pages that follow can assume the knowledge of the elements.
+Not technically a book, but try [Open Source Ecology](http://opensourceecology.org/).
+I have my copy of the CRC sitting right next to me and it has nothing to do with my job. 
+
+God I'm a nerd.
+[deleted]
+[deleted]
+Exactly.  "Want to make rubber?  Step one: Find a rubber tree, here's what one looks like..."
+[deleted]
+I saw this on the colbert report and it seemed pretty interesting:[The toaster project](http://www.papress.com/html/book.details.page.tpl?isbn=9781568989976)
+
+He basically builds a toaster from scratch.
+I LOVE THAT BOOK!  That was actually one of the things I thought of when I posted this question.  "If there was only a book like that that went into detail on the processes..."
+[deleted]
+Notice that just the _featured articles_ are printed in that book.
+Wikipedia has [this picture](http://upload.wikimedia.org/wikipedia/commons/3/38/Size_of_English_Wikipedia_in_August_2010_%28L%29.svg), do describe the size of it. Note that the books in the illustration do not include pictures.
+http://www.wired.com/science/discoveries/magazine/17-05/ff_guidestones?currentPage=all
+The road to reality. We need to give the survivors the intuition for science. they can then derive the equations. the way of thinking is all it takes.
+You might have to start from discrete components and work your way up from there, like we've learned to over the 70 years or so that computers have taken to reach the modern level. When you're talking about starting from zilch, 70 years isn't much time.
+I'm fairly confident that codesherpa was referencing that thread, yes.
+Wow, that's the closest book I've ever seen for what i asked.  Thanks.  Does anyone know of books like this for other sciences?
+Be sure and read his new one, "At Home". Absolutely fascinating.
+Cell towers tend to stop working when society collapses.
+Cool, didn't know this.  
+
+Now pick all the best info from this book that can fit on 10 pages and the chapter on math is finished. =)
+Cool.  Can it be condensed down to 4 pages for the chapter on flight?
+Is much less compact.
+The best tutorials on the web IMHO are the ones for Khan academy.  It's the best thing out there.  As for the computer centric classes?  No idea.
+Not with any amount of detail at all.
+Others have said that you would need to use a much more efficient language than english for the task; i agree
+In a similar line as this, The Elements of Computing Systems (Nisan &amp; Schocken) is supposed to be a fantastic book that basically walks you through building an entire computer (well, processor) from what makes the transistor work up, all the way through to creating a primitive operating system.
+
+I say "supposed to", this is second hand information - i own it but sadly i haven't got round to reading it yet.
+And the website:
+
+http://opensourceecology.org/
+I'm actually 1/6th of the way through the book so I don't really know. Sorry.
+[deleted]
+The Pocket Reference is definitely a must! Don't leave the office (or present civilization) without it.
+Kind of hijacking, but you don't happen to have a copy/source of the Time Traveler's Cheat Sheat that's actually high enough resolution to read? I hadn't come across it before :)
+[deleted]
+Don't be misled: a lot of the content is in .pdf, which accounts for the large size.
+[deleted]
+I remember reading a book by Issac Asimov that basically talks about the creation of a manuscript of all human knowledge, but I forgtt the title. Can anyone enlighten me?
+[deleted]
+Didn't know about this, thank you! I've read 'a short history' 3 times now.
+[Henleys' Twentieth Century Book of Recipes, Formulas and Processes.](http://www.amazon.com/Henleys-Twentieth-Century-Formulas-Processes/dp/1147311757)
+the battery life of a kindle is 1-2 months if you don't use 3G?
+(I am not challenging what you say, I dont own one. Just surprised)
+Download Wikipedia to a ipod with a sun powered power device
+I was all excited too but it seems it requires an account and password access.
+[deleted]
+I've got a computer science degree, and I'm fairly sure that I could design the logic for a basic CPU. The stack of CS books in my room would get you from understanding the logic to designing basic logic circuits to microprocessor architecture, instruction set design, etc. Work with a good electrical engineer, and they should be able to come up with actual circuit schematics. Assuming some other team has been working on getting electrical and communications infrastructures built, then you only need about a half-dozen more components and you're in business ;-)
+The Standard Handbook for Electrical Engineers would also be useful for the ability to re-establish power, communications, etc.
+What you are looking for is more like the Hitchhiker's Guide to the Galaxy...
+Looking at the difficulty of making a simple toaster is a great example of why the OP's request is impossible in a single book.  It would take many volumes to explain how to properly make just a few contraptions, let alone the rebuilding modern society.
+This is a MAJOR PROBLEM
+Don't Panic.
+For those about to Google this, he's a character from a Goethe drama.
+A somewhat similar, but much more specific, book is Isaac Asimov's [The Exploding Suns](http://www.amazon.com/Exploding-Suns-Secrets-Supernovas-Updated/dp/0452276608). It tells the story of how astronomy developed and how we came to understand supernovas, but also how these exploding suns made the matter of the Earth and all the life on it, and how later supernovas affected evolution.
+Perfect, could you make a list of books, or concepts?
+
+Would love to dig into this.
+There are Legends of monks out in the mountains near Silicon Valley said to be scribing page by page of the entire cache of wikipedia onto scrolls which are to be buried in the tomb of Steve Jobs.
+Came to say this.
+Came here to see if this had been posted, left satisfied!
+Oghma Infinium
+Really though, how efficient can a language be? Aren't we directly limited by "transfer rate" (for lack of a better term)? Like, I understand that complex ideas can be communicated by a single word or short phrase, like *democracy* or *monotheism*. But can we get much more specific than broad terms and ideas than that?
+
+I suppose, given my examples, that there are more capable languages than English (Greek, German, etc) but really, how succinct or efficient can language really be?
+I always wonder how much knowledge has been lost just because people thought it would be better to keep it secret.
+I'm sure there would certainly be some things wikipedia might lack. But surely it would dramatically speed up the rate at which a civilization would learn (assuming they speak English)
+[deleted]
+Yeah I figured as much. But it could teach him a bit of what goes into modern things we have today.
+Otherwise known as Wikipedia.
+Basic medical knowledge is better in [this book](http://store.hesperian.org/HB/prod/B010R.html) than any I've ever found.
+
+You can download it for free (scroll down).
+A good place to start would be with character-based written languages like Mandarin and Japanese Kanji.
+I have a Lange's Handbook of Chemistry from 1946. Talk about useless!
+Agreed.  *We need this in portable form, right now!*
+[deleted]
+The thing that scares me the most about an apocalyptic even is the loss of knowledge.
+[deleted]
+In The Mote in God's Eye, the moties had certain building that were strictly off liimits when they would have the inevitable world wars. These stored the collective knowledge et al, so they could rebuild society much faster.
+[deleted]
+[deleted]
+Is it strange that I worry about this somewhat constantly and have a number of (hopefully) viable plans should this actually ever happen?
+I have an original edition of this:
+
+[Scammell's universal treasure-house of useful knowledge: an encyclopedia of valuable receipts in the principal arts of life, including complete treatises on practical chemistry, the prevention and cure of disease, household and culinary art, agriculture and stock-raising, the mechanical arts, mercantile life and laws, arts of refinement, recreations, etc ](http://books.google.com/books?id=D1xFAAAAYAAJ&amp;dq=scammells+universal&amp;source=gbs_navlinks_s)
+
+It'll get you up to 1890 or so.
+More like they give people instructions on how to actually *do* what Wikipedia only *describes*.
+Evil Dead, Evil Dead 2, and the opening of Army of Darkness (it replayed the end of Evil Dead 1 and 2)
+[deleted]
+Oh yeah, certainly.  I plan on purchasing the book.  Thanks for the recommendation, it looks incredibly interesting.  However, I was sad to see from [this video](http://www.amazon.com/Toaster-Project-Attempt-Electric-Appliance/dp/1568989970) that the author's attempt didn't really pan out.  I can't help but think a more able person would have done considerably better (as tautological as that sounds). 
+
+For anyone interested, the author also did a [TED talk](http://www.ted.com/talks/thomas_thwaites_how_i_built_a_toaster_from_scratch.html).
+[deleted]
+[deleted]
+[Free version here](http://books.google.com/books?id=36Xv3iTtqkUC&amp;source=gbs_navlinks_s)
+[deleted]
+I was disapointed, because I felt like he set out to fail. His project was more a comentary on consumerism than a solid attempt at building a toaster. 
+
+That said, I completley agree with him.
+I suppose it might be possible if you have a very loose definition of "book". Using large amounts of microfilm http://en.wikipedia.org/wiki/Microform you would cut down the size by 95%. You'd need to include a magnifying glass, but maybe you could pack the film in paper with instructions on how to make one.
+For the electronics themselves, I'd look at either some of the circuit design books mentioned elsewhere in the thread, or at something like the series of books by [Forrest Mims](http://www.forrestmims.com/). They're some of the classic electronics primers, from what I understand. The hardware's not really my area, though. I had a number of courses on logic design and microprocessor architecture.
+
+In terms of the logic design, start with the basic concepts. Numeric representation (bases or radixes), and how to convert between different bases. Internalize the fact that the representation of information can be separate from the information itself. Also, Boolean logic, implementation of logic gates using Boolean logic, DeMorgan's Theorem and behavioral equivalence of different logic circuits, Karnaugh maps and how they apply to combinatorial logic, sequential logic, microarchitecture and instruction set architecture design, logic circuit optimization (basically design of the Arithmetic Logic Unit, etc). Those are *roughly* in the order I learned them in. I'd imagine it would give you a decent chance at designing the logic for a working CPU, and a basis for building the logic of other components.
+
+Aside from a CPU, you need a data bus and an addressing bus, and a protocol for communication along it. I'd design an addressing scheme for your machine's components. I'm completely skirting around data storage, at the moment. Building an array of Core Memory or some kind of magnetic drum memory might be fairly easy; hard-wired memory circuits would be even easier, of course.
+
+Your bus would allow the CPU to communicate (for example) with a keyboard controller, memory controller (maybe one for temp storage, one for permanent storage?), network adapter, some kind of output display device, etc. Each component would need to be designed to work with the bus's communication protocol and, well...just designed in the first place.
+
+This is all before you begin programming the beast...which you'd probably start by writing a *very* basic hard-wired OS to allow yourself to actually input data into the memory.
+
+Another way to study the concepts would be to look into how simple computers did things. There's a TON of info on the internal workings of old computers and game systems. Based on documents online, I built an NES emulator. It's got shitty compatibility because of mistakes I made in the design, but it was a wonderful learning experience. I think that printed out, the whole thing would be about 30 pages of code. Not bad, for describing the entire internal workings of a computer system, eh?
+
+If you end up with more questions, go ahead and ask. I hope this is a decent starting point though. Learning this stuff gave me a different level of respect for how amazing it is that computers even work at all.
+Hexadecimal then?
+Your comment about barrels is dead on. This is basic technology, but education alone can't make it happen. Most trades need years of practice to be just ok at.
+This is great. I'll message you with poignant questions down the road if I get stuck.
+
+What are the half-dozen components missing that you did not mention?
+
+How in depth do the concepts depend upon another in order to go from all that you mentioned, to be able to manufacture full-functioning OSs, perhipherals, and wireless data transmission? Basically, if I wanted to be on the forefront of today's standards in every aspect, how much catching up do I have to do if I wanted a solid grasp of it all? haha
+I meant like reading it as a computer reads it, as well. Reddit likes to jump at the first sign of weakness in comments. But whatevs I'll take those downvotes and hang them above my mirror as a reminder.
+That's why we have mathematics.
+yes. depending on whether or not you have the newer or older version. though realistically it's a week or so less than that. then again, that's because I read a lot.
+true. I wasn't thinking. uh. get.... another e-reader with expandable memory. download all of wikipedia onto it.
+Done.  
+
+http://thewikireader.com/index.html
+This is the original, AFAIK.
+http://www.qwantz.com/fanart/timetravelling.jpg
+A drama based on a historical knight, who lost his hand in combat, so he forged an advanced prosthetic hand out of iron to continue the job of killin'.  As opposed to using his techniques to greatly improve the state of prosthetics in the 15th century.  Alas.
+Thanks, that's a lot sharper than everything else i found. Still can't read it though, there's just too much going on :(
+No.  Not even the CRC Handbook would come close.  You'd need library upon library full of books about each sub-sub-category of technology used in infrastructure and supply chains.  
+
+And most state-of-the-art technology isn't written down in book form for 5-10 years after it's first used commercially.  Only then is it proven economically feasible to commit the resources to write a book.
+
+Beyond this, as it is today, at least 50% of all technology knowledge (perhaps far more) is tacit knowledge that not only isn't written down but CAN NOT be written down and is only passed on by mentorship/apprenticeship methods hands-on using/making/operating the technology.  This is the first thing to go when you outsource manufacturing - manufacturing is the crucible that provides capital and purpose for continuing most such technology knowledge.
+"half-dozen" was a kind of out-of-my-ass estimate. I was thinking of the data/address buses, I/O controllers (keyboard, disk, display), storage devices, etc.
+
+The concepts I listed are absolutely essential. The order may be flexible; I just tried to write it in order of increasing complexity. So, basically: You'll want to understand the basics of Boolean logic before trying combinatorial circuits, which would themselves be a prerequisite to sequential circuits. For the info on radixes (aka numerical bases), you could learn just how to convert between binary and decimal (hexadecimal is almost a freebie from binary. It's really easy to convert between them). After learning the basics of binary number representation, look into 2's complement, and get ideas for how to represent numbers less than 1 with the [IEEE 754](http://en.wikipedia.org/wiki/IEEE_754) standard. "Endianness" is a useful concept to be familiar with, and will be important when you're actually designing the CPU itself. Similarly, the concept of the [Turing machine](http://en.wikipedia.org/wiki/Turing_machine) and the [Harvard](http://en.wikipedia.org/wiki/Harvard_architecture) and [Von Neumann](http://en.wikipedia.org/wiki/Von_neumann_architecture) architectures would be useful to read about, when deciding on what you need to put in the CPU to get a useful machine. Reading about older machines like the [Altair 8800](http://en.wikipedia.org/wiki/Altair_8800) might give you an idea of what studying the above might enable you to build.
+
+I haven't really covered what you'd need to learn to really design an OS. I'd look at some of the books by [Andrew Tanenbaum](http://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388/ref=sr_1_2?ie=UTF8&amp;qid=1325810546&amp;sr=8-2) who wrote the Minix operating system (it's a kind of minimal Unix, designed to be easy to learn from).
+
+If you get to the level where you can design a working CPU, I'd expect that working out how to build the basic peripheral components would be doable. Wireless communication is a WHOLE other story entirely. If you were trying to do it on a *very* elementary (i.e. SLOW) way, I think you could get by with hooking up the network output to a radio transceiver directly, and design it to working like a [networking hub](http://en.wikipedia.org/wiki/Ethernet_hub). For example, detect that another computer is transmitting, and wait a random amount of time before re-attempting transmission. This is just conjecture on my part (radio communication is completely outside my area of study), and I'm imagining something like a computerized Morse code transceiver.
+
+I've actually considered trying to design (if not build) a computer using materials as might be available from, say...500 years ago. I think it would be possible, but I also think it would be finicky, and that it would probably take up a couple rooms to have something that works about like a pocket calculator, haha.
+This is amazing. Thanks. I can see where you're coming from about primitive design and sizing issues, which is why I was thinking of reverse engineering components in order to make my own. What do you know about compatibility issues with different chip architectures? Specifically, what's the fundamental reason why they don't work with each other, and how could you transfuse them into a working computer?
+
+Secondly, I'm contemplating learning nanotechnology, because this will enable you to build small powerful computers. Note, that with 3d printers coming out, we can effectively design complex items without having to design a machine press. Do you think that re-engineering computers of today is a worth while task? I think much can be learned that way. There are so many parts going to waste, I'm sure we could find some for our own use. I know there was this guy in china who built a working tablet for his [girlfriend](http://www.ubergizmo.com/2011/07/man-in-china-builds-his-own-tablet/).
+Where can i get this?
+[deleted]
+[deleted]
+That's pretty bloody cool.  Question:  how long until other popular websites wise up and start doing the same thing?
+Architecture differences could be compared to human language differences. Sometimes the word order is different, sometimes a word means something different in two different languages, some languages have features that others don't even have at all, sometimes the writing goes in different directions (European: Horizontal lines, going top-left to bottom-right. Arabic: Horizontal lines, going top-right to bottom-left. Traditional Japanese: Vertical lines, going top-right to bottom-left, etc).
+
+Two processors aren't going to be directly connected. One method for them to communicate is using data. It's like if you give two people that speak different languages a set of instructions on how to play chess. It doesn't matter that they can't talk to each other; what matters is that the game makes sense to both of them. You basically gave each of them a "program" written in a language they understand and made them work together without needing to talk. Take a look at the article for [Instruction set architectures](http://en.wikipedia.org/wiki/Instruction_set_architecture).
+
+"Nanotechnology" is a marketing term. It's a pretty way to say "making small shit". You don't know which stuff it's talking about...it covers everything from creating small paint droplets in an airbrush to waterproof coatings sprayed onto fabrics to microscopic chip design to nanorobotics.
+
+3d printers are like the 2d ones in some ways. They've got very limited resolution, so far. It'll get better over time, but I don't think they'll ever be used for nano-scale parts. Also, there are currently a fairly limited number of "inks". It's being expanded, and it'll be amazing when we can print full circuits.
+
+Is re-engineering today's computers worthwhile? Worthwhile how? I'd say that practically, the best thing to do is learn the basics of OLD or SIMPLE machines in detail, then learn about the theory behind various improvements we've made over the years, along with full details on how to build new enhancements. That's what a real-world job would entail. However, if you'd find it personally rewarding to redesign current computers from the ground up, then sure, it's worth it. As a hobby.
+
+That Chinese guy's device is impressive, but he didn't do the work of designing a new computer, really. He took a laptop, replaced the screen with a touch panel (which is the really impressive part about the whole thing), and built a new shell for the "tablet". It's similar to people that do things like [this](http://www.youtube.com/watch?v=zBf4Cyfv-EI).
+Great. That clarifies things. My goal is to fundamentally understand all of technology and its progress, so I'm going to opt towards starting from basic machines. I guess I just wanted to avoid room-sized computers. 
+
+You've really helped push me in the right direction. Thanks a lot.
+[deleted]
+Oh, so you were talking about a CDROM or the like instead of a book, like everyone else was.
+English has 26 letters + punctuation. Hex has 16. Try again. :)
+Yes, but English has three unnecessary letters and 44 sounds.  I'm not sure whose point that supports.
+[deleted]
+I have been researching this a lot lately.  I have a number of books in PDF format that I have acquired over the years...unfortunately PDF isn't very collapse friendly due to the obvious computer+power requirements.  Printing all of the material out would be a waste - it's literally hundreds of thousands of pages of material.
+
+I have come to the conclusion that an e-Reader is the best bet.  I looked at the Kindle, but determined that it's "cloud focused" path isn't going to work, and it's lack of external memory.  So far, the Sony e-Readers look best - I can buy an external micro-SD card for it and store everything I need - my only issue is the size of the SD card and some of the PDF documents are just poorly done (nothing I can do about that really) so they might be difficult to read...but something is always better than nothing in most circumstances.  Powering the e-reader can be from any USB port - this will include my solar powered cellphone charger, USB cigarette lighter/vehicle adapter, etc.  I am not crazy to believe that I can use the e-Reader all of the time - but even if I charge it for a month with my solar charger to full charge, I can get a few weeks of reading out of it...if I have/find a vehicle with a good battery, then that is even better.
+
+If your looking for some electronic books start checking the torrent sites like TPB for "survival", "prepping", etc.  I won't provide links due to copyright reasons, but there are a few torrent files floating around with a TON of material in them.  Wikipedia is also good, and now I am going to see about a few other materials mentioned in this thread.
+
+Don't forget about entertainment material and the "classics" - it's going to be boring most of the time for many people, and having a copy of treasure island, walden, etc. (free public domain books) will ward off insanity.
+An audacious plan. Godspeed!
+[deleted]
+[deleted]
+[deleted]
+The Appropriate Technology Library and CD3WD would be the best place to start. The AT Library is around $600 and CD3WD is free. Your reply is a bit all over the place, but that's fine as you're using metaphor to describe levels of technology.
+
+Some others may say you need basic skills, but the reality is that once you have subsistence and some devices like water pumps that make life so much easier it enables these things to go much faster. Consider how hard it was in the 1300s because they didn't have even the manual labor solutions we have now. Take the cotton gin or manual washing machine for instance and add to it bicycle powered devices. CD3WD is around 25 gigabytes and includes most of Appropedia and other resources. The AT Library is around 20 to 30 "books" with "sub-books" describing each technology in depth, including how to do things from scratch and why.
+
+These are being used in the third world today, which essentially isn't "modern society". Add to those all the courses and other books you can find,  as well as Wikis and all of the primers you can find and you could have a fair go at it. I'd say that all of archive.org's books, on top of arxiv.org's documents, plus all the open courseware courses, khan academy, the other free education "libraries" or "collections" out there and any other book you can lay your hands on would do a fair job of it.
+
+For the first part of it, it'd be less than a terabyte. For the toto of what you can download from the Internet that will help, more like somewhere between 100 terabytes to a petabyte (1,000 terabytes).
+
+1 petabyte is doable on bluray for the cost of $35,000 in bluray discs.
+
+$40 per 1.25TB...
+The book you are describing would be much bigger.
+[deleted]
+[deleted]
+[deleted]
+the bible.  obviously...
+Yeah, now that I look at the "...", it seems like I have been "woosh'd".
+why would you want to?
+Why would you start with raw minerals, when all the easily accessible deposits have been mined out and turned into scrap metal?
+
+Unless you really are preparing for time travel, in which case, godspeed.
+I think making bicycle sprockets and chains in the 1300s would be impossible. This is a good example of a thing that we take for granted that would not be possible if people weren't already doing related things. 
+
+You pretty much need all of 19th century metalworking technology to make one that would be durable and efficient enough to use for manual labor solutions. There's a reason why the first bicycle to use a chain appeared in 1885, almost a hundred years after the first bicycle.
+
+I'd be interested in seeing somebody try, though.
+Already posted this here, but in case you missed it - Elements of Computing Systems (Nisan &amp; Schocken) is a book that basically does exactly this. If you want a "Kahn Academy" equivalent for programming languages and some other stuff then you have to look at The New Boston, utterly fantastic:
+
+http://thenewboston.org/
+How is your list coming along? I want to do the same. Let me know!
+[deleted]
+
+Summary:
+Thank you thank you thank you thank you!
+This is something I would like to have.
+This was what I was looking for.
+I want to do the same.
+why would you want to?
+I think much can be learned that way.
+and we're on to something.
+then again, that's because I read a lot.
+That's... not as big as I thought it would be.
+I'm actually 1/6th of the way through the book so I don't really know.
+the way of thinking is all it takes.
+That's a few other books worth of material.
+I think you need a more compact language than English for this.
+It's the best thing out there.
+The book you are describing would be much bigger.
+I'm sure there would certainly be some things wikipedia might lack.
+I actually have a copy of the CRC Handbook and it is great.
+I think that printed out, the whole thing would be about 30 pages of code.
+Another way to study the concepts would be to look into how simple computers did things.
+I'm looking for a primer.
+In terms of the logic design, start with the basic concepts.
+Something to get you going with directions on how to get there.
+The majority of actual practical knowledge is not written down in any book.
+But by 'modern society' I actually was thinking pre-semiconductor.
+What methods were used to get the numbers.
+Wikipedia is also good, and now I am going to see about a few other materials mentioned in this thread.
+I've got a computer science degree, and I'm fairly sure that I could design the logic for a basic CPU.
+I plan on purchasing the book.
+There are so many parts going to waste, I'm sure we could find some for our own use.
+Yeah I figured as much.
+A theoretical knowledge is great but I think it would really help me understand and respect how much work goes into making even the simplest of things.
+It's not something you could learn in an afternoon.
+It's a pretty way to say "making small shit".
+Really though, how efficient can a language be?
+I'm not looking for every single step needed to build everything ever.
+The book pictured isn't the entire wikipedia, it is only the featured articles.
+And what you can do with that knowledge.
+This guy is trying to make one:
+
+http://www.ted.com/talks/marcin_jakubowski.html.
+One method for them to communicate is using data.
+I had a number of courses on logic design and microprocessor architecture.
+I meant like reading it as a computer reads it, as well.
+"If there was only a book like that that went into detail on the processes..."
+The concepts I listed are absolutely essential.
+Perfect, could you make a list of books, or concepts?
+[This guy](http://www.ted.com/talks/thomas_thwaites_how_i_built_a_toaster_from_scratch.html) tried making a *toaster* from absolute scratch, and it looked like shit and didn't even work.
+But I was thinking of a book that tells you how to find, extract, purify, etc.
+A textbook on electrical engineering would leave you without a clue as to how to make the components, or even what they look like.
+I heard that Hari Seldon was interested in making something like this.
+It'll get better over time, but I don't think they'll ever be used for nano-scale parts.
+I suppose that is quite big.
+Didn't know about this, thank you!
+More like they give people instructions on how to actually *do* what Wikipedia only *describes*.
+It's similar to people that do things like [this](http://www.youtube.com/watch?v=zBf4Cyfv-EI).

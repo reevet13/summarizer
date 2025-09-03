@@ -1,0 +1,3 @@
+One mechanism is that some viruses can establish a [latent infection](http://en.wikipedia.org/wiki/Virus_latency) in some cells.
+For example, Herpes Simplex establishes a latent infection of certain nerve cells.
+A latent infection is one where the infection becomes essentially inactive in all ways, but can reactivate at a later time and start producing viruses again.

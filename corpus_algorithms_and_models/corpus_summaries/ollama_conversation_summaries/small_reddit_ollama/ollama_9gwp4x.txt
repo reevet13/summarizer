@@ -1,0 +1,12 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+To keep it short n simple the hard drive in my Lenovo laptop died.
+It should.  Hard drives are pretty generic devices that aren't brand locked.
+Lenovo 115-110ISK
+Should be a piece of cake, easily done yourself.
+
+You just remove screws from the bottom and using something skinny (like a guitar pick) to pry the bottom shell away from the keyboard bezel.
+The hard drive is held in place by a screw or three.  You just swap the mounting bracket surrounding the drive over to the new drive you want to put in, then just screw everything back together.
+
+Not without external media.  A hard reset relies on the hard drive having a recovery partition to source the install files from.
+You will need to reinstall the OS from either DVD or USB flash drive.

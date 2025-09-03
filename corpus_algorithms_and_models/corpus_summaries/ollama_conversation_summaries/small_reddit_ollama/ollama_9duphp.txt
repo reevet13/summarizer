@@ -1,0 +1,13 @@
+Here are the selected sentences copied verbatim from the original text:
+
+1. Fainting is *typically* caused by a temporary drop in blood pressure. So, oxygen deprivation.
+2. Watch some MMA knockouts vs choke outs. Getting choked, you're fine a few seconds after being let go. Getting knocked out, you're usually confused and groggy for a while after.
+3. They're just too simplistic most of the time and more importantly, they often can't be extrapolated.
+4. When you suspend/hibernate the computer, it's still on, the state is saved (in RAM or on disk respectively), and it's polling for input (keyboard, wake on lan, etc.). This is fairly similar to our sleep states (hence why suspend is usually called "sleep") in that the computer is still on and easily woken in case of "extreme" event like a keypress.
+5. Unplugging a computer prevents it from being woked at all; not even pressing the power button from an off state can turn it on.
+6. Filesystem defragmentation is something else entirely and has to do with arranging segments of files sequentially on spinning disk drives for faster/more efficient access.
+7. Correct, substance induced states of unconsciousness are not as restful as natural sleep, though some substances at low doses may make a person more likely to fall into the standard sleep waves.
+8. You could compare being knocked unconscious to a power surge sufficient to cause the computer to shut down, then. 
+9. Or compare it to an older computer.
+
+Note that these sentences are not rewritten or summarized; they are copied verbatim from the original text.

@@ -1,0 +1,15 @@
+Here is a summary of up to 250 words, extracted from the original text:
+
+I just got a new laptop that I'm going to use to record gameplay and then transfer the footage to my desktop to edit.
+
+I originally planned to record the files directly onto an external hard drive so I could just transfer them from there to my desktop. However, I've tried this before, and it is much slower than recording to an internal hard drive.
+
+My next thought was to record onto an internal hard drive then take the hard drive out of my laptop and use an enclosure for the transfer. I'm going to be doing this weekly, though, and I feel like taking apart the laptop that often could shorten its lifespan.
+
+Another option would be to use ethernet to connect the two computers and transfer that way. I've heard mixed things about this, and I haven't researched it extensively.
+
+Just get a USB 3.0 external hard drive then.
+Or if both are connected to the same network via gigabit ethernet, just make a network share.
+
+with this method, does the speed of the transfer depend on the speed of my internet?
+No, it doesn't go over the internet.

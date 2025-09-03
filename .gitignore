@@ -1,0 +1,10 @@
+corpus_algorithms_and_models/corpus_data_downloads/data/*.csv
+corpus_algorithms_and_models/corpus_data_downloads/data/*.xlsx
+corpus_algorithms_and_models/corpus_data_downloads/data/askscience/
+corpus_algorithms_and_models/corpus_data_downloads/data/relationships/
+corpus_algorithms_and_models/corpus_data_downloads/data/worldnews/
+corpus_algorithms_and_models/corpus_download_logs/
+corpus_algorithms_and_models/data/master_corpus.csv
+AI PlugIn Research/
+old_input_data/*.xlsx
+master_corpus.xlsx

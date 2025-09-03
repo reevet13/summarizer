@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+Mean, think about how electromagnetic radiation gets exponentially weaker as it propagates away from the source. Now think about nebula, gravitational bodies, interstellar dust, asteroids, and every other obstruction between here and the next hundred light years. There's plenty to mix up and scatter whatever original signals might be out there.
+
+By the time the waves reach earth, I don't see how any signals could *possibly* be much higher than zero. I mean, unless you have the ability to lase a star, or modulate a quasar, or vibrate a black hole...
+
+It doesn't get exponentially weaker, it goes as 1/r^2 until you start looking at absorption from gas and dust.
+
+The thinking is that if there are civilizations that are communicating across vast distances, they are using frequencies that are not absorbed by interstellar gas and dust. Thus, it would be wisest to search in those frequency bands.

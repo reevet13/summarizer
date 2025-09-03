@@ -1,0 +1,10 @@
+Here is a summary of the original text, up to 250 words:
+
+You could buy just $5 worth of bitcoin or less. First, create a wallet (like Electrum or Samourai) and send it around. You can buy bitcoin at an exchange like Kraken, Coinbase, or Bitstamp.
+
+Some good sources for learning about bitcoin are https://www.youtube.com/user/aantonop or the book "The Bitcoin Standard". Don't fall for scams like BCash (BCH).
+
+Zero. Install mycelium on your phone and I'll send you some to play with once you give me an address.
+True, it is unfortunate that Mycelium doesn't have segwit yet. However, they have proven to be trustworthy as hot wallet providers.
+
+You can use bitcoin almost nowhere, unlike the dollar.

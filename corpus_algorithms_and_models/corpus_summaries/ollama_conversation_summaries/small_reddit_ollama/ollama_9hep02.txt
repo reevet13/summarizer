@@ -1,0 +1,13 @@
+Here is the summary:
+
+fyi, it's a trapdoor, not a trapped door. I know English isn't everyone's first language, so I'm not trying to be rude, but I rather correct someone politely before someone else does so rudely. Cheers.
+
+It's still a trapped door cause it will never leave that spot ever again
+
+Don't doors do that anyway? I seem to remember they did, at least in the past.
+
+Technically they don't, but you can detect when a door is open using an observer.
+
+Just tested it. You're right.
+
+Trapped Trapdoor

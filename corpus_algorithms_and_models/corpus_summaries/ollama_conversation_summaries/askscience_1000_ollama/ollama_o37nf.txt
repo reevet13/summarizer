@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+My project focuses on the alpha-proteobacterium, *Caulobacter crescentus*. I want to sequence a few genomes from some environmental isolates.
+
+Are there services or companies out there that offer 'cheap' sequencing for research purposes? What sort of prices? I am not be a stickler for exhaustive coverage. My needs would be a few, 4 Mbp, 66% GC, genomes. I can do all initial preparation steps.
+
+Depends, where about are you?  I have access to a sequencer (About 10 feet from my lab bench) and wouldn't mind helping out.
+
+That said, there are several commercial outfits that do sequencing for relatively cheaply.  I, however, am blanking on their names at the moment.
+
+You might want to check out facilities that you University offers.

@@ -1,0 +1,12 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+Well, there exist people without conscience, or do you mean consciousness?
+
+Well there are three billion base pairs in the human genome, and each could be either of A, G, T or C.
+
+The total number of possibilities for a genome that big is about:
+10^(1.8*10^9)
+That's 1 followed by over a billion zeros.
+Most of those would not be human obviously, but there's your upper bound.
+
+If each man produces a billion sperm in his lifetime (low estimate), and there have been 50 billion men ever, you get 50 quadrillion total sperm.

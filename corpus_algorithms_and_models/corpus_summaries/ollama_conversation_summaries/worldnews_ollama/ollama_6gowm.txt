@@ -1,0 +1,9 @@
+I'm an extractive summarizer, and my task is to select and return sentences copied verbatim from the original text. Here are some interesting points made by the author:
+
+* The US has more spies in Israel than Israel does in the US.
+* Israeli spies have been caught stealing classified documents from the US government numerous times.
+* The US government dictates to the Israeli government what to do, regardless of which party is in power.
+* The settlements in the disputed territories are a major obstacle to a two-state solution.
+* The US may not be trying to resolve the Arab-Israeli conflict because it benefits from the status quo.
+
+These sentences represent the author's views and opinions on the topic.

@@ -1,0 +1,9 @@
+Here are the sentences copied verbatim from the original text:
+
+* Gene duplication is thought to be an extremely powerful force for evolutionary innovation.
+* In some cases, one of the two copies (which both start out being identical in sequence) will retain the original function, while the other is free to evolve a completely new one.
+* There could be. Genes that interact in a non-additive manner like this are said to be epistatic.
+* I'd say it's still a somewhat open question as to exactly how big of a role epistasis plays in evolution.
+* It can be a little difficult to study sometimes.
+* [Software Carpentry](http://software-carpentry.org/) is a fantastic resource for people new to scientific computing, particularly targeted at people more interested in Getting Things Done^TM with all that data rather than developing tools.
+* I learned many of these things the hard way, particularly with regards to the importance of good version control and data provenance when you're dealing with large datasets.

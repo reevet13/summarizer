@@ -1,0 +1,25 @@
+Original Response:
+My internal clock is not something I think about until I find it not working as it normally does. 
+
+I think we're familiar with the experience of time slowing down during a panic, but there are also experiences with different drugs that either augment, reduce, or otherwise modulate the internal sense of time. Interestingly, when this happens a constant tone can be heard moving up or down in pitch (distinctly different than the change in sound of a clock ticking, for example). 
+
+Wondering what structures in the brain maintain this internal rhythm, how they relate to various senses like sight and hearing, what things can affect it, and how they do so. Thanks!
+It is not known exactly how the internal clock works.
+
+Here's a [NY Times article](http://www.nytimes.com/2010/01/05/health/05mind.html) summarizing knowledge in this area.
+This seems to be more focused on the passing of longer periods of time. I'm not sure if it would be same process involved for shorter periods of time but that's where my curiosity really lies. The passage of longer periods of time might be muddle with our ability to remember, recollect, and organize our memories. I'm not sure short intervals of time would do the same.
+
+Take something as simple as hearing a tone. The pitch of a tone depends on the number of oscillations in a given period of time. To consistently hear the same tone at different times of the day, different times of the year, you would have to have a very stable internal clock. Otherwise a 400Hz tone today would sound different tomorrow. 
+
+One can notice when this internal clock isn't working as well as it might during sleep deprivation / drug use. Occasionally, I'll hear noticeable but mild fluctuations in the pitch of sounds around me if I've been up too long or taking certain drugs. It seems clear that there's a biological mechanism at work here and that time isn't merely an artifact of experiencing the world..but I can't seem to find much about it at all.
+If I remember correctly the two main theories run that either;
+A memory trace that persists over time, by which one might judge the age of a memory (and therefore how long ago the event remembered occurred) from the strength of the trace. This conflicts with the fact that memories of recent events may fade more quickly than more distant memories.
+
+Or the time of an event is inferred from information about relations between the event in question and other events whose date or time is known.
+
+
+http://plato.stanford.edu/entries/time-experience/
+
+Summary:
+It is not known exactly how the internal clock works.
+Take something as simple as hearing a tone.

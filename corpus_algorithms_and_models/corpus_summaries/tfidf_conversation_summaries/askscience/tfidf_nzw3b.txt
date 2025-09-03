@@ -1,0 +1,51 @@
+Original Response:
+I understand that the Moon is moving a *very* small distance away from the Earth each year (I've found varying numbers but it is a few centimeters each year).
+
+Could the influences of other bodies eventually pull the moon elsewhere? Or could it be that if the Earth and Moon had a collision that the Moon is still trying to gain "stable footing"?
+
+I was going to mention that the above questions were more thought provoking but is there any evidence that shows the Moon is moving away at the same distance each year, is it slowing down or other?
+
+Edit: Thank you for the replies, as always, very interesting to read your input. And for helping to put to rest that question.
+[deleted]
+Velocity of an orbiting satellite:
+v = √(2GM / r)
+(1.1e4)² = 2(6.67e-11)(5.97e24) / r
+r = 2(6.67e-11)(5.97e24) / (1.12e4)²
+r = 6.34e6 m
+
+Current moon orbit ~ 3.85e5 m
+
+At a linear increase of 3.8e-2 m per year, it would take roughly on the order of ~100 million years for the moon's satellite orbit to achieve escape velocity from Earth.
+
+As per your questions:
+&gt;Could the influences of other bodies eventually pull the moon elsewhere?
+
+Yes, gravity will see to it that any object that has mass and is not in the same position as the Earth will pull the moon away.
+
+&gt; Or could it be that if the Earth and Moon had a collision that the Moon is still trying to gain "stable footing"?
+
+The moon would likely maintain it's elliptical orbit if possible, unless something was pulling it away.
+
+&gt; I was going to mention that the above questions were more thought provoking but is there any evidence that shows the Moon is moving away at the same distance each year, is it slowing down or other?
+
+The distance it is moving away is so small that any deviation could probably be chocked up to error. Other than that, even if it was changing, we would need to know the moon's exact position thousands to millions of years ago, to determine if the current rate would produce an accurate model, or if it has been accelerating/decelerating. I can't find any data to determine this accurately, as we currently measure the distance with lasers, which have been recently placed on the moon with the lunar landings c.1969.
+The Moon is slowly accelerating due to tidal locking.
+
+"Eventually" it will leave Earth's orbit, but it is after the projected death of the sun.
+UHM, what's going on here?
+
+The outward migration of the moon is driven by the transfer of angular momentum in the Earth's spin to the angular momentum in the Moon's orbit.  The angular momentum in the Earth is something like 4 X 10^36 g cm^2 s^-1.  The angular momentum of the Moon's orbit is something like 3 X 10^41 g cm^2 s^-1.
+
+The moon would be lost if its orbital period (a month), exceed the orbital period of the Earth-Moon system around the sun (a year). But it won't - the Earth-Moon system will become totally tidally despun well before that.  A day and a month will be the same length at that point (at around 30 days).
+
+This is pretty slow, though.  As noted below, the Sun will exhaust its fuel before that.  So don't worry about it.
+
+The year to year change in the rate the moon moves away from the Earth is generally negative, but it goes up and down a lot.  It depends mostly on how many shallow seas there are on the Earth and their configuration, so continental drift changes it around a lot.  Currently it's somewhat higher than you'd otherwise expect.
+No. The farther away it gets, the slower it goes away. Eventually, if we both survive the Sun's death and the system isn't destabilised by external influences, the Moon will stay at a fixed distance from the Earth and one month will be the same as one day, like in the Pluto-Charon system.
+[deleted]
+Do you have any math or sources for that conjecture?
+
+Summary:
+Could the influences of other bodies eventually pull the moon elsewhere?
+The moon would likely maintain it's elliptical orbit if possible, unless something was pulling it away.
+The angular momentum of the Moon's orbit is something like 3 X 10^41 g cm^2 s^-1.

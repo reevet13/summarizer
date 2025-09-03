@@ -1,0 +1,60 @@
+Original Response:
+I am referring to the contact binary KIC 9832227.   
+
+https://en.wikipedia.org/wiki/KIC_9832227
+In practice astronomers refer to "now" as the time of the observation. It is just easier to talk about "the supernova of 2012" compared to "the supernova that happened 540 million years plus/minus 30 million years before 2012". There is no reference frame in relativity where all these things would actually happen "now" as we see them, but it is the most practical solution.
+Wouldn't that reference frame be ours?
+In our physical reference frame the collision happened long ago, the light just didn't reach us yet.
+Isnt that meaningless? In our reference frame,  the collision happens when we observe it. There's no concept of something happening before we observe it. When events occur is entirely relative to the observer.
+No, it doesn’t happen when you observe it. That would need infinite speed of light.
+But saying something happened before observation also doesn't make sense,  since causal events propogate at *c*. 
+
+How is it meaningful to say something happened 1000 years ago if we can only observe any effects from it *now*?
+&gt; But saying something happened before observation also doesn't make sense
+
+It is the only thing that makes sense. Does a lightning strike happen before you hear it? Yes obviously, the sound needs some seconds to reach you. Does it happen before you see it? Yes obviously, the light needs some microseconds to reach you.
+The lightning strike has causal effects before we hear it. Star collisions don't have causal effects until we see them. The lightning also has no causal effect on us until we observe it - it isnt meaningful to talk about it existing prior to observation, as it was not part of our causality until then.
+
+What about things that happen beyond the cosmic event horizon, where observations will never reach us due to the expansion of space? 'When' did they happen? The danger of saying something happened before you observed it is that 'when' becomes ill-defined for unobservable phenomena, where if events happen *when* you observe them, a phenomenon you cannot observe simply never occurred in your causality.
+
+Time and causality are relative.
+A causal effect cannot give you simultaneity.
+
+This is very elementary relativity. Or not even that because Newtonian mechanics tells you the same. The light needs time to reach you in your reference frame, therefore the event you see now happened in the past.
+
+&gt; What about things that happen beyond the cosmic event horizon, where observations will never reach us due to the expansion of space? 'When' did they happen?
+
+With *your approach* you couldn't even assign a time to them. Do you think that makes sense?
+
+Cosmology makes "now" a bit more difficult, but you can consider the same time since the big bang in reference frames with vanishing dipole moment of the CMB.
+You cannot assign a time to them, either. Anything beyond the CEH is ill-defined in yours - however, if events occur when they causally do, those objects effectively don't exist, as they are not observable. In yours, they will never be observable but still effectively exist, so the time they occur is ill-defined as they are not nor ever will be part of your causal reality.
+
+It doesn't make sense to talk about events occurring before they are causal. It doesn't make sense to even consider events that will *never* be causal.
+
+This *is* basic physics, and I'm unsure why you are dismissing simultaneity. The time events occur differs from observer to observer. In our reference frame, something happens when it is observed. Happening before that is meaningless.
+
+You are effectively proposing absolute time... which is bizarre.
+&gt; You cannot assign a time to them, either.
+
+I just described how you can.
+
+&gt; It doesn't make sense to talk about events occurring before they are causal.
+
+It makes sense and it is routinely done.
+
+&gt; and I'm unsure why you are dismissing simultaneity.
+
+I'm dismissing your misconceptions about it.
+
+&gt; You are effectively proposing absolute time... which is bizarre.
+
+I'm not.
+
+Look, I can help you learn about relativity. But I won't continue this discussion if you keep insisting that your misconceptions have to be true because this is a waste of time. Go read a book about relativity. The first few pages should be sufficient.
+
+Summary:
+Time and causality are relative.
+In our reference frame, something happens when it is observed.
+In our reference frame,  the collision happens when we observe it.
+It doesn't make sense to talk about events occurring before they are causal.
+&gt; It doesn't make sense to talk about events occurring before they are causal.

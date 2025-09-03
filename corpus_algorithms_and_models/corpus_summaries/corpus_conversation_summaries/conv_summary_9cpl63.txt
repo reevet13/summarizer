@@ -1,0 +1,146 @@
+Original Response: 
+Except that what was said isn't true.
+Chinese, South Korean and US crack downs have significantly affected the price of BTC at various points.
+What was said is funds are moved by the government, not exchange rate affected.
+Funds cannot be moved/seized by anyone except the person(s) with the private key.
+The statement holds true.
+Yeah?
+Tell that to the guy in jail for life that ran Silk Road.
+If he practiced proper security he still has his coins.
+And if he ever gets out they will be waiting for him.
+The government did not move silk road coin without private keys - that would be impossible.
+They either cracked his opsec or used coercion.
+The government doesn’t need to do this with traditional asset systems like banks - they just seize it.
+Again, you cannot move or seize bitcoin without the private key.
+If a person has bad opsec or cracks under threat of incarceration that is their decision and has nothing to do with the security bitcoin provides.
+So you're saying the government figured out how to move it eh?
+Sounds like your bullshit excuse is bullshit.
+What the actual fuck are you going on about?
+You can't break  secp256k1 cryptography.
+Period.
+The government did not 'figure out how to move it'.
+If he gave them the private keys under threat of incarceration or had bad opsec, for example kept it plaintext on his laptop, then they could have moved it.
+That has nothing to do with bitcoin security and everything to do with stupidity (something you seem familiar with).
+If you think it's bullshit then prove it by moving bitcoin from the following address:
+
+3D2oetdNuZUqQHPJmcMDDHYoqkyNVsFk9r
+
+to this address:
+
+19edG4e1xKJGTkZHCJVZr6Aw2hoRJA9w1X
+
+I'll wait...
+What do you think it's like in prison?
+The government already took them and sold them, so unless he has more they didn’t know about he doesn’t have any.
+Remember those days.... when the ChiComs rattled the Chinese miners cages and the price went from $1200 to $900 for two days.
+Terrifying.
+They weren't talking about the price.
+land of the free.
+No, but you can attack the physical servers that bitcoin depends on to process transactions and the exchanges where it is converted to other currencies.
+are you high?
+or you just saying words you heard?
+edit: thanks fam.
+how do you like your life of being scared shitless to do what feels right and always to conform to made up rules?
+&amp;#x200B;
+[deleted]
+Lol - do me a favor and go make a new planet where no humans ever existed before.
+And then you can 'do what feels right'.
+All you want.
+Tell me...does this place exist?
+If I thought it would help you would already be getting christmass postcards from there.
+The only constant is change, the only thing stopping it is you.
+keep dreaming son, its healthy.
+I will and I know, thanks dad!
+I think they distracted ross and he left his comouter open.
+so bad opsec.
+He should have used tails and had one hand on the usb at all times ready to eject.
+Well theres like ~100,000 copies of the bitcoin blockchain.
+They can send drones to bomb it but we just need one copy of it so it can be shared and validated.
+Yes, the chain will survive.
+But processing can be severely reduced.
+Eliminated, no.
+But if people running the processing get arrested and equipment confiscated, it'll end fast.
+If processing becomes spotty and unreliable, the system will have huge problems.
+I don't think this is likely.
+But it is a risk if governments decide to take it down.
+Perhaps the biggest risk is if the governments decide to adopt blockchain currency and want to eliminate the competition.
+Due to open source software and decentralization, one cant just "eliminate" the competition and must only compete.
+What's the difference between fiat and a government controlled "cryptocurtency"?
+How will it be better than Bitcoin?
+Mind you that there's big money on the entertainment industry trying to kill BitTorrent, another decentralized foss protocol.
+It may not be better than Bitcoin, that is why one scenario has the .gov eliminating Bitcoin.
+Yes it is decentralized, but it is a public network.
+It will be very possible for computers doing transactions to be identified, and blocked or physically confiscated.
+Your Bittorrent is an excellent example.
+While the government has not devoted itself to destroying it, the entertainment industry has.
+If you put up a newish movie, you can expect a letter through your ISP telling you to take it down.
+Do it enough and you will face a civil lawsuit.
+The entertainment industry has tried over and over to criminalize the activity.
+You can guarantee that if the government decides to fight Bitcoin, there will be legal consequences to supporting the network.
+Again, not a guarantee to happen, but to claim it won't be a threat is naive.
+But the entertainment industry cant stop the file from propagating.
+All the new movies are still available.
+No one can destroy that file unless it's destroyed on every single computer that has it.
+And Users can torrent through vpn that encrypts the data.
+They cant even hand over information even if forced.
+Bitcoin nodes dont try to hide their data now but it can be run through tor if need be.
+With bitcoin, new miners in other countries will take the reward until marginal cost = marginal revenue.
+It's just a protocol to stay on one shared history for a file, with the network just sending information done in 1s and 0s.
+A government would have to cut the cables for the worlds internet to stop users from sending information.
+And even then Bitcoin is just a protocol.
+We can use radio, smoke signals, and even emojis to relay information.
+And if the worst to bitcoin happens, we can fork the project.
+Bitcoin is anti fragile and they know its futile to try.
+Every other money substitute has been taken down quickly because the government wants to keep its monopoly on the business of money making.
+Also if your government is doing such acts against humanity you need to consider that it's your government that is corrupt.
+The only way to take out bitcoin is to make a better one.
+Bitcoin has these advantages that fiat now doesnt have.
+It's a more democratic.
+No central rulers.
+All participants can validate the ledger and does not need to trust anyone.
+Might be hard for politicians to justify their spending when its all transparent to the public.
+Adoption is not forced on anyone and is done through voluntary belief.
+Bitcoin has a hard limit.
+Fiat needs to be created to pay off debts from creating more fiat units.
+Never will have a hard cap.
+Also with settlements bitcoin is faster.
+Chargeback can occur months later so that money isnt really yours.
+If the blockchain has the record of you owning the funds (and enough confirmations to be safe from regular reorganizations that can happen) then its yours and no one can take your funds without your permission.
+Also Bitcoin doesn't close after 5 pm nor for holidays.
+The workers get paid in bitcoin for securing the network.
+Difficulty in finding a valid block can decrease to cpu and even pen and paper if really dire.
+Bitcoin evangelists are mentally handicapped.
+You entirely miss the point of what hes saying.
+The government can get control of your bitcoin, not through technology but through you.
+If I come to your house and start cutting off fingers how long will it take you to give up your private keys?
+Your bitcoin is only as safe from others as you are wiling to die for it.
+You’re just proving my point - the point of failure is not in bitcoin’s security or protocol, it is in the opsec of the person or their willingness to give in to threat of incarceration or worse.
+I said this above and he called it a “bullshit excuse”.
+But thanks for repeating my point.
+Any asset must have the ability for the owner to access it, therefore the owner will always have the ability to give that access to another.
+This is not a problem bitcoin attempts to solve - it solves the problem of a government seizing an asset without interacting with the owner at all.
+This happens daily in countries around the world where bank accounts are frozen and funds seized.
+Your whole arguement is missing rhe entire point and ia irrelevent.
+Everyone is aware bitcoin has yet to be cracked.
+Im a  progranmer by trade, I am well aware of how bitcoin works.
+The fact that no one can crack your coin is irrelevant if the government can figure out who you are come to your house and coerce you until you give it up.
+Unless you are capable of fighting the us military in a long term sustained conflict and control territory you cannot protect your bitcoin because you cannot protect yourself if the government wants to kidnap you.
+
+Summary: 
+The government did not 'figure out how to move it'.
+How will it be better than Bitcoin?
+Bitcoin has a hard limit.
+And even then Bitcoin is just a protocol.
+The government can get control of your bitcoin, not through technology but through you.
+Bitcoin has these advantages that fiat now doesnt have.
+But it is a risk if governments decide to take it down.
+Also with settlements bitcoin is faster.
+The only way to take out bitcoin is to make a better one.
+I don't think this is likely.
+Bitcoin evangelists are mentally handicapped.
+The workers get paid in bitcoin for securing the network.
+Everyone is aware bitcoin has yet to be cracked.
+Again, you cannot move or seize bitcoin without the private key.
+And if the worst to bitcoin happens, we can fork the project.
+What's the difference between fiat and a government controlled "cryptocurtency"?
+While the government has not devoted itself to destroying it, the entertainment industry has.

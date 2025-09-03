@@ -1,0 +1,11 @@
+My understanding is that dimples on a surface can lower the effective air resistance of an object through boundary layer effects (for example around a golf ball).
+Could a ball (or other object) cut more easily through the air if it was emitting many tiny jets of air across the entirety of its surface?
+In order to do this, it would have to be sucking in an equal amount of air to that which it is emitting.
+The air coming out would cause turbulence and not the smooth layer you'd need.
+Not to sound like a 3rd grader, but why?
+Yes, in fact the US navy uses a similar idea to make it's torpedos go faster.
+Aircraft wings have been created with holes and plumbing to suck off the turbulent boundary layer of air near the skin and promote laminar flow.
+This increased the wing efficiency.
+Thanks!
+Why then do dimples help on a golf ball help it travel further?
+Your own linked article says that the dimples cause turbulence, and turbulence is a good thing in this case, decreasing the drag.

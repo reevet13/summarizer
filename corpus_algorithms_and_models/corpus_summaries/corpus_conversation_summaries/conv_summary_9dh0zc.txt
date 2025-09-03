@@ -1,0 +1,147 @@
+Original Response: 
+#If you have questions about juice, vendors, mods or anything vaping related, please feel free to ask them below.#
+
+
+Here are some helpful links
+---------------------------------------        
+
+[Starter Guide](http://www.reddit.com/r/electronic_cigarette/wiki/index)
+
+Everything I wish I knew about [rebuildables](http://www.reddit.com/r/electronic_cigarette/comments/2dy5ev)
+
+[Infographic](http://i.imgur.com/Va3WcLO.jpg) that every new user should see courtesy of /u/emergenl
+
+[Wiki](https://www.reddit.com/r/electronic_cigarette/wiki/)        
+
+[/u/Jimmith's beginners guide to vaping](http://imgur.com/a/THpUQ)
+
+[/u/DailyKnowledgeBomb's guide to coil compatibility part 1](https://www.reddit.com/r/electronic_cigarette/comments/6r4luj/interchangeable_coils_and_tank_list/)
+
+[/u/DailyKnowledgeBomb's guide to coil compatibility part 2](https://www.reddit.com/r/electronic_cigarette/comments/8445yf/interchangeable_prebuilt_coil_list_part_deux/)
+
+[Contests and Giveaways](https://www.reddit.com/r/electronic_cigarette/search?q=flair:%22contest%22%20self:yes&amp;restrict_sr=1&amp;sort=new)
+**New Alert:** In order to better service users, we have added the same link as above so you all can find and search most recent giveaways and contests.
+Due to restrictions on how these results are found 
+some giveaways listed will have already been over.
+My LV Mirage and Zenith tank arrive today!
+Unfortunately, my batteries do not arrive until Saturday.
+(Just for updates shipping info that batteries should also arrive today!
+Yippee!)
+Thank you all for your help in choosing my new setup.
+I’ve also just ordered the new plexus z coils.
+I currently use a provari and a cartomizer tank.
+Long time vaper that stopped reading/upgrading after I found my ideal set up years ago, so everything over the past couple years is all new to me!
+I have a couple questions that do not warrant their own thread.
+As I’ve been reading and watching videos like crazy, it seems the new atomizer tank setups do not leak juice out of the bottom like cartomizer tanks.
+Is that correct?
+One of my biggest gripes about Carto Tanks is how the juice leaks through the bottom of the cartomizer and gets into the 510 connector part of the provari.
+It’s impossible to clean properly, and I think that’s a big part of why my provari is starting to die.
+Second, I am going to try a RTA.
+Someone recommended the Siren V2 as a good tank to start with.
+I’ve been watching videos and it definitely seems rebuildables are not as difficult as they used to be.
+Is this a good one to start with?
+I was considering buying a few different prebuilt coils to see what type I like best, before I start trying to build my own.
+Any recommendations on what I should start with?
+Also, please recommend other tanks if you have one you think would be better suited to a beginner to the RTA world!
+Thanks in advance!
+ECR is exactly how it used to be with helpful, patient posters and tons of information!
+❤️.
+The old cartomizers, at least some, had the airflow holes right next to the 510/ego connection.
+Newer tanks will have airflow at the bottom, but not nearly as close to your connections.
+There is still the potential for leaking, but it's at least further away.
+As for the siren, i love mine!
+Easy building, easy wicking, and a joy to use.
+I’m using the old Boge cartos.
+I have 3 left (last time I purchased them, I bought 40, I think).
+I can’t find them for sale anymore.
+All my favorite shops are closed.
+No more steam monkey, no more provape, no more valley view tanks!
+That, and the fact that my provari is dying a slow drawn out death, convinced me to look for a new set up.
+Haha.
+Since you are looking at MTL rebuildables, I'd suggest not getting prebuilts and skipping straight to wrapping coils.
+Simple round wire will work best so you just be paying someone to wrap it around a coil jig for you.
+You still have to install it and wick it, which is the harder part.
+I'd look at getting 26ga, 28ga, and maybe 30ga wire spools.
+Kanthal is easiest to wrap because it's the least springy, but takes marginally longer to heat up.
+Nichrome heats up slightly faster.
+SS316L heats up even faster and can be used in temperature control.
+Ni200 can only be used in temperature control.
+Since you have a good TC mod, I'd go with SS316L myself, but if you don't want to mess with it then Kanthal.
+If you do get SS316L, look up videos on dry burning it, you can't glow it as hot as kanthal.
+Other than that, you'd need cotton (puffs from Amazon work great, some people like vaping specific cotton), some ceramic tweezers for strumming the coil to get it to glow evenly, flush cutters to cut the wire (though you might just be able to twist the leads off on the Siren), and something to wrap around (drill bits or a little screwdriver or a coiling jig, you'll want something in the range of 2mm to 3mm).
+All the tools in one of coil master kits are nice, but you can make do with picking stuff up from the hardware store for less.
+For making coils, more wire material (lower guage wire, more wraps, larger diameter coils) requires higher wattage, and more surface area touching the cotton produces more vapor.
+Find a sweet spot for what you like, but 28ga with a 2.5 mm ID and 6 or 7 wraps is a good starting point.
+For wicking, look up something specific for that RTA.
+They can be finnicky and either flood or run dry if you mess it up.
+u/AnxietyAttack2013 might be able to help you with that.
+If you do go for TC with SS316L coils, there's a couple of steps to set up your device to get it working better.
+Go to steam-engine and the wire wizard and download a profile for SS316L (or just use Replay, then you don't have to worry about this step).
+Upload it to your device using the escribe program.
+Also, once your batteries come in, run the case analyzer in escribe.
+It takes a minute but is worth it.
+I'll be happy to help if you have any questions about rebuilding or using a DNA device, as will most other people on here.
+The zenith should be fine.
+The siren might leak if you don’t wick it properly.
+I just got my mirage in.
+It’s great.
+Just don’t ever drop it.
+Wow.
+That’s some great and easy to understand info.
+Thank you so much.
+AnxietyAttack has been a huge help already, as well!
+What is a case analyzer/escribe?
+I haven’t read anything on that.
+(My shipping info for my batteries updated again and they are actually arriving today!
+Yay.
+IMR is based in Houston, as am I, so that’s probably why I’m getting them so quick!)
+Uh oh.
+Is it pretty fragile?
+I don’t drop my stuff too often, but I have dropped my provari a few times.
+Though it’s round and probably more prone to being dropped than a mod like the Mirage.
+Escribe is the computer program for the DNA chips.
+You hook your device up to your computer via USB and connect it to the program.
+This allows updates and for you to set up things like profiles, screen layout (you can download a new theme or use the Theme Designer to make your own) and more advanced settings.
+On the non-color DNA chips it was more important as there were some things that could only be viewed there.
+It also has tools like the device monitor which can give you realtime readouts of a lot of things on your device, if thats ever something you want to look into.
+It's mostly helpful for troubleshooting.
+Another one of these tools is the case analyzer.
+This calibrates the temperature setting on the board and helps it adjust for heat transfer, charging, and use to make the temperature control more accurate.
+You have to leave it alone for about 2 hours to let it run, but if you can then it's worth it for using TC.
+Ah ok.
+I probably won’t be using TC at first.
+I’ll need to do a lot more reading before I dive into that.
+I’ll start with basic kanthal coils.
+I’m watching videos on coil building...and am wondering, do I need an ohm reader?
+Can’t I just put the coil build on my mod and get the ohms that way?
+The resin piece has no internal support or brace.
+So I can shatter.
+Oh yikes.
+Be super careful.
+Got it!
+You can.
+Ohm readers are important for mechs, but a regulated mod works fine.
+Only real benefit would be that it might be easier for you to build on an ohm since they are flat.
+Ah yes.
+I’ve seen people in the videos do that.
+I definitely won’t ever get into mech mods.
+Haha
+
+Thanks for the info!
+
+Summary: 
+I just got my mirage in.
+Any recommendations on what I should start with?
+I currently use a provari and a cartomizer tank.
+I haven’t read anything on that.
+I probably won’t be using TC at first.
+Second, I am going to try a RTA.
+Ni200 can only be used in temperature control.
+Is this a good one to start with?
+I’ll start with basic kanthal coils.
+Upload it to your device using the escribe program.
+I have a couple questions that do not warrant their own thread.
+I definitely won’t ever get into mech mods.
+I can’t find them for sale anymore.
+Thank you all for your help in choosing my new setup.
+Can’t I just put the coil build on my mod and get the ohms that way?

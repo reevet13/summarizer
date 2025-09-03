@@ -1,0 +1,35 @@
+My followup comment does a simulation accurate to what he did, except I allowed the same song to be played more than once in each playlist, so found typically the most played artist appeared slightly more often than he observed.
+
+I then did another simulation where I did not allow the same song to appear twice in the same playlist and found deviations almost identical to those observed in his article.
+
+I finally extended the simulation to counter his specific claims one by one, showing that they are all expected to to the nature of his experiment.
+
+Ok, so I tried reading through what they did in more detail and think they did the following: Made library with 20 artists having 1 song each (billboard top 20), and 16 artists having 5 songs each (80 songs), and then made a bunch of playlists with the total of 650 songs.
+
+Then they added 20 more artists with 5 songs each from ripped cds, and repeated the test.
+
+The only important flaw is a complete lack of statistics.
+
+They talk about 'randomness', and the various times each artist has occurred in the final result, with no thought given to how much variance there would be for true randomness.
+
+Essentially, the author has no idea what he is talking about.
+
+My conclusion is that the data showed only the expected variance of actually having a truly random playlist, but that the author was too incompetent to properly interpret his data (which was unnecessarily convoluted).
+
+I am now guessing that it will avoid repeated songs in each playlist, whereas my simulation had no preference for that.
+
+Ok, I did one more MC simulation that shows that the observed results, are exactly what you would expect from purely random results if there was absolutely no bias towards any particular artist.
+
+Here were his claims:
+
+On average, one would expect each song to appear on 6.5 playlists.
+
+The first 650 of the songs were chosen from a list of only 100 songs and the second 650 songs were chosen from a list of 200 songs (including the original 100).
+
+Popular, top-50 singles (all songs from the original 100) were rotated onto our playlists *far more frequently than would be expected*.
+
+Artists and singles purchased through iTunes were played more frequently than those that were not.
+
+Four songs ... were in the iTunes Library but were not chosen for any of the 40 playlists generated during this exercise.
+
+It's obviously difficult to tell whether back-room marketing deals or just dumb luck were responsible for the results we saw, but it appears that we can safely lend cred

@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+Yes, gravitons travel at c in general relativity (the consensus theory of gravity) and nearly all modifications of it. The exceptions are the appropriately-named massive gravity theories, which were experimented with quite early on; however, problems soon developed which seemed fatal to the theory, and only in the last few years have these problems apparently been handled, leading to a real resurgence of interest in these theories.
+
+Gravitons are affected by gravity - the gravitational field is said to be self-interacting - but that's okay! When a black hole (or any other object) gravitates, gravitons aren't *actually* running in and out of a black hole saying "hey, look, there's a black hole there!"
+
+The force carrier concept is one which makes sense on the smallest scales, where interactions between fundamental particles on a quantum level can be modeled in terms of an exchange of so-called "virtual particles." In a way, this is more of a mathematical convenience than a description of anything really happening.
+
+We're presented with difficult integrals to calculate, and when we simplify them, we get terms that look like virtual particles popping in and out of existence.

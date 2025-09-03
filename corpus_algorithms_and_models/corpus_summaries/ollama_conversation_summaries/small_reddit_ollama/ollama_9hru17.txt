@@ -1,0 +1,19 @@
+Here is the extracted summary:
+
+Yes, SCART can carry stereo audio.
+
+Set your PC to output audio via HDMI.
+
+The PC outputs audio, but I only hear it from the TV's speakers. There's no audio from the DVD player over SCART...
+
+Do you have the TV set to output audio via SCART?
+
+I'm not sure it can output audio. In the TVs settings it says "analogue and video input from analogue or video devices".
+
+I think it can. I've set it to "TV in" mode which I assume is for the SCART (I tried the other modes too)
+
+It's probably not outputting anything via SCART then.
+
+Can't you just connect the speakers to your PC directly?
+
+Yeah, but i'd rather just have the HDMI running to the PC

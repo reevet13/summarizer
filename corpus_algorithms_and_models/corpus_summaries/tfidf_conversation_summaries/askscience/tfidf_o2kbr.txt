@@ -1,0 +1,44 @@
+Original Response:
+IS it possible for an amateur to build a planar array detector for a radio telescope to show positions of sources without scanning?(plans? Links?)
+
+Basicly I want to see strong sources of radio waves in the sky without scanning the antenna.
+
+The planer array would be at the focus of a parabolic dish just as a light detecting array (camera) is placed at the focus of a parabolic mirror
+
+There has to be a way to make such a planar array that is sensitive to radio spectrum rather than say light.
+Ideally it would NOT be thousands of individually constructed tuners assembled into an array but something more like a addressable CCD chip for radio spectrum.
+
+please note I am **NOT** talking about a phase array antenna system.
+Well, you can look at what is directly above you without scanning.  You would just need to build some dishes, attach them to computers, write software to interpret the signals, and finally visualize the data somehow to see what is overhead!
+excellent question, it would be extremely cool if you figured out how.  I believe you are referring to [this techology](http://www.radartutorial.eu/06.antennas/an14.en.html) but to apply it to astronomy
+
+The hobby of amateur radio is dying out somewhat, but there used to be a sport known as foxhunting, where a radio transmitter would be placed secretly and the frequency would be announced publicly. Amateurs would have home made radio receivers to try to locate the transmitter and either get a reward or just notoriety.  Most simply would use directional antennas and drive around to triangulate the source, but some people had developed phase sensitive planar array detectors that could lead you directly there without need for much triangulation.   My guess is that finding people who know about this would be able to help. 
+
+I suspect however that the spatial resolution of a parabolic dish will be superior unless you have an enormous array and tight spectral resolution (just a suspicion based on how waves interfere)  You might be able to get enough resolution to see jupiter's magnetosphere. I am not aware of any NASA facility that uses this technique, even though it's very common for radar tracking of planes.
+make no mistake the planer array would be at the focus of a parabolic dish just as a light detecting array (camera) is placed at the focus of a parabolic mirror
+
+a pahse array is really more like an electronically steerable antenna which is not what I was thinking of (but might do it but might not have the sensitivity and might be too expensive )
+I work with RF, not radar, but have some familiarity with phased arrays, antenna design, and astronomy.
+
+One big issue is wavelength and its influence on antenna size.  Lower frequencies (longer wavelengths) require larger elements in order to radiate effeciently.  At ~1.4 GHz ([21 cm](http://en.wikipedia.org/wiki/Hydrogen_line)), your array will get very unweildy very quickly.  The higher gain a phased array has, the more elements you'll need.  According to [Microwaves 101](http://www.microwaves101.com/encyclopedia/phasedarrays.cfm):
+
+&gt;The number of elements required in an electronically-scanning phased array antenna can be estimated by the gain it must provide. A 30 dB gain array needs about 1000 elements and a 20 dB gain array needs about 100.
+
+At 1.4 GHz, you'd need a conventional dish with a 3' diameter to get 20 dB of gain, and about a 10' diameter to get 30 dB of gain (calculated with a parabolic antenna slide rule I have handy).  So you can get by with a very simple, reasonably sized dish in this instance where you'd need hundreds to thousands of array elements to build a comparable phased array.
+
+For astronomical applications, there isn't much benefit to a stationary phased array.  There's no need to reposition the antenna in a matter of microseconds.  Phased arrays are complicated, expensive, have a narrow bandwidth, and are necessarily large at the frequencies of interest.  They are beneficial in military applications because they use higher frequencies, thus are smaller, and can be aimed very quickly.
+yes. but that gives you a single point in the sky.(which you can scan or waite for the rotating earth to scan and then assemble electronically.
+
+
+I am looking for a pixel array image of the sky.
+Oh, you are asking for a CCD equivalent of for radio waves to get multiple pixels of the sky?  This is basically not possible because radio waves are too big.  The way radio images are made is by sampling one pixel at a time.  Aricebo (the telescope Janus fell into in Goldeneye) had only one pixel for a really long time.  A few years back they added 6 more receivers and they now have 7 pixels.  Most radio telescopes are many small dishes that use interferometry to image the sky.  Each individual telescope still only does one pixel at a time.
+
+Your pixel size can't be bigger than the actual wavelength of the light, so you would need really big pixels...  which is basically the effect of having many dishes
+but you could scan the dish side to side and take signal strengh reading at distances much less than the wavelength right? why does that work?
+never mind. separate focal plans obviously.
+
+Summary:
+I am looking for a pixel array image of the sky.
+The higher gain a phased array has, the more elements you'll need.
+Basicly I want to see strong sources of radio waves in the sky without scanning the antenna.
+The way radio images are made is by sampling one pixel at a time.

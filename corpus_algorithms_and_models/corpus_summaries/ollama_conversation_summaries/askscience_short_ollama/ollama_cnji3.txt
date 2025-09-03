@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+Information theory is largely about encoding and decoding complex data across different domains.
+
+I don't know much about insect biology, but my understanding is there isn't much comples data being transmitted...mostly 1 bit signals like "food present" or "come have sex with me".
+
+It is not entirely clear to me how you would apply information theory in this situation.  Perhaps you could elaborate a little more about the situations you believe information theory would help you?
+
+Information theory is largely about encoding and decoding complex data across different domains.
+
+Like I said, I'm not totally sure what I'm looking for, but this sounds like something of it.

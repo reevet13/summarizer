@@ -1,0 +1,6 @@
+So my question is then, **if a group of astronauts landed on the moon in our times, in what ways could they verify that they were actually on the surface of the moon?**
+
+In 1969, the Apollo 11 team dropped some retro-reflectors on the moon. Anyone with the know-how and a few bucks could easily send a laser signal to the moon and measure the response, verifying for themselves that man landed on the moon.
+Okay, it's good to know that the '69 landing can be independently verified. But what about a modern day landing?
+Send a laser from the Moon to Earth. Place new reflectors on the Moon in unique locations.
+If you dropped new reflectors in a different enough location, you could distinguish them.

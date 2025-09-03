@@ -1,0 +1,17 @@
+False.  In order for our ecosystem to work there has to be greater biomass at the bottom of the food chain: plants.
+
+Well considering that [ants make up maybe 20% of terrestrial biomass](http://www.pnas.org/content/97/26/14028.full) I'm gonna go ahead and say this is false. But I am not a biologist.
+
+This is radically false.  Firstly, most of the worlds biomass is contained within prokaryotes (bacteria and archea) which live in earthworms but the percentage of their biomass in earthworms would be relatively insignificant. It is also estimated that more than 50% of the worlds biomass is present in prokaryotes beneath the upper layer of the earths crust which includes the entire terrestrial surface, oceans and the area where earthworms live.
+
+That's the efficiency, not the total biomass. Different communities have different biomass structures.
+
+My understanding is since energy goes from sun&gt;plants before going to earthworms and other animals, that the biomass would have to be greatest at that low level, since the transfer of energy between levels is not 100% efficient.
+
+Given those facts it is not possible for 80% of the world's biomass to be earthworms, countering the OP's father's assertion.
+
+Throughput is not the same as standing biomass.
+
+The throughput (total energy going through) tapers in a pyramid as you describe, losing ~90% at each level.  But the biomass producing that throughput can vary, as organisms have different (per-unit-biomass) production rates.
+
+Animals consume much more than their body weight in any given year.  For most plants, only a small fraction is viable as food(fruits, leaves, seeds), so plant biomass must be much greater than animals.

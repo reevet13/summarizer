@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+I have noticed alot of questions about modding here and I think we will still get alot more as more and more stuff comes out. Mods can we get a reddit for questions and talk about modding/ modding help?
+
+We don't have a huge amount of traffic tbh.
+
+Took a bit of work since I've never done it before but it's done.
+
+Also I don't know what the policy on flares are now but you can't set/change them.
+
+Fixed them last night. It was a problem with the /r/Redesign breaking the whole subreddit. Can you try now?
+
+Yep all working now. It was just confusing that it was set to "none" by default. So I thought it was a button to remove it, and not a textbox to input into.
+
+Just spotted you left the flare colour for the modding post the same as the xbox green. You need to change the colour for the modding class flare to...

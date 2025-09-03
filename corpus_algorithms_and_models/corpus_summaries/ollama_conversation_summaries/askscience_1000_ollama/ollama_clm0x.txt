@@ -1,0 +1,15 @@
+Here is the summary of up to 250 words:
+
+And they are commonly expressed in both E-field strength *and* B-field strength](http://imgur.com/uWRF5.png).
+
+I had always thought that in EM waves, the strength of the E-field and the strength of the B-field would be in some fixed proportion. Is this not true?
+
+TLDR:
+Can an EM wave have a strong electric field and a weak magnetic field? 
+Or do they always occur together in fixed ratios?
+
+Generally speaking, yes. The assumption is that the charges and currents that are the source of the wave are oscillating regularly and that you are observing the fields very far away from the source of the radiation.
+
+When the frequency hits 100 MHz on the diagram, the E and B field limits are the same up to some proportionality constant. At 100 MHz, the wavelength is just 3 meters, so at that point you are probably far enough from the transmitter to be in the radiation zone and the relationship B = E/c should hold.
+
+Time-varying EM fields are not the same thing as EM waves. An EM wave is a combination of oscillating electric and magnetic fields, wheres a time-varying EM field usually refers to -either- an electric -or- a magnetic field that varies in time.

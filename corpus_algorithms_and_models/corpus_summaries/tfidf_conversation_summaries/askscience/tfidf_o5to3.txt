@@ -1,0 +1,74 @@
+Original Response:
+So I was randomly thinking about people who believe in moon landing hoaxes, and I realized that if 1960's, pre-CGI, pre-realistic greenscreen footage of the landing doesn't seem authentic to them, then with all of our advances in CGI that blur the boundary between real and fake footage, there's no way that any modern day footage from a new landing would convince them.  So my question is then, **if a group of astronauts landed on the moon in our times, in what ways could they verify that they were actually on the surface of the moon?**
+
+**EDIT:**:  Posts by ChillyCheese and AbrahamVanHelsing raise the issue that there's little a human could do that couldn't somehow be replicated by a machine.  So I'll clarify and say that for a satisfactory answer, the machine that could replicate the actions would have to be so impractical, large, expensive, or difficult to actually construct that it couldn't be feasibly built in these times.  Granted we are talking about deniers here, so "feasible" isn't always a factor to them, but still, humor me.
+Leave something behind, sitting on the surface, that we could look up at with telescopes. My uncle has a telescope, assembled over the years, that can very clearly make out relatively small features. Heck, detonate a grenade or something.
+
+Then the landing can be independently verified by anyone with the equipment to do so.
+
+The "something" would most likely have to be pretty large, though, which is why I mentioned some sort of explosive.
+ALTERNATE SOLUTION: Announce that the first company to put up an advertisement on the moon that is visible from the Earth's surface gets to keep it there.
+In 1969, the Apollo 11 team dropped some retro-reflectors on the moon.  Anyone with the know-how and a few bucks could easily send a laser signal to the moon and measure the response, verifying for themselves that man landed on the moon.
+Set off some sort of bomb such that the massive explosion could be seen from earth.
+[deleted]
+Interesting, I was unaware of that.  Though I guess I'd still want to know how a new team would verify their landing, since I'm assuming any reflectors they dropped would be indistinguishable on Earth from the original '69 ones.  Or would there be a way to distinguish them?  My knowledge of lasers is smaller than I'd like.
+While technically correct, I was looking for something more practical and less likely to accidentally trigger widespread panic and/or some kind of war.
+Not really.  [Even the hubble cannot see the landing sites.](http://blogs.discovermagazine.com/badastronomy/2008/08/12/moon-hoax-why-not-use-telescopes-to-look-at-the-landers/)  
+
+By large it would have to be bigger than a football stadium.  
+
+Even with an explosion, a skeptic could just say the explosives were sent up on some random unmanned vehicle while the video of the astronauts was taken with a green screen.
+If they're like most of the landing-deniers I've met, getting them to admit that an unmanned vehicle had been to the moon would be progress.
+
+There will ALWAYS be something these people can come up with as a scam. If we sent up a 10km square of red paper and rolled it out by hand, they could claim we sent it up via 4 unmanned rockets tugging at each of the corners.
+
+And having something people can physically look up at and see is the only way I can think of to avoid the video-editing conundrum.
+Mythbusters did just this on the episode where they debunked all of the we never went to the Moon myths.
+They could inflate some kinda reflective balloon that could be seen from the earth.  Color it red so it would be easy to see.  If China lands they could inflate a giant Chinese flag.
+Okay, it's good to know that the '69 landing can be independently verified.  But what about a modern day landing?
+[deleted]
+Send a laser from the Moon to Earth. Place new reflectors on the Moon in unique locations.
+While I am in no way suggesting we didn't land on the moon, is this really proof? Even the Wikipedia article seems contradictory:
+
+&gt;They are considered to prove conclusively that man-made equipment is present on the moon[2] and thus disprove some Moon landing hoax accusations. Additionally the Soviet Lunokhod 1 and Lunokhod 2 rovers carried smaller arrays.
+
+If similar arrays were landed by the Soviets in the same time frame using unmanned vehicles, how does this really serve as proof to skeptics?
+
+Edit: I guess Wikipedia doesn't specify which Moon landing hoaxes it disproves, but in the context of man landing on the moon, I'd say it certainly falls short.
+The surface of the moon is covered with dust and a bit of basalt - nothing else. Neither of these are reflective materials, so if your laser light shines back at you, you know that you're shining it at something man-made.
+Yes, but this thread and the top response are both in regards to man landing on the moon, not man-made equipment.
+If you dropped new reflectors in a different enough location, you could distinguish them.  
+
+The reflectors on the moon are still used by the [Lunar Laser Ranging Experiment](http://en.wikipedia.org/wiki/Lunar_Laser_Ranging_experiment).  That link points out that "at the Moon's surface, the beam is only about 6.5 kilometers (four miles) wide."  That's large in one sense, but it means that it would be very easy to tell which reflectors you were hitting if the others were hundreds or thousands of kilometers away.
+A young Carl Sagan worked on an Air Force project to nuke the moon.  You hardly need humans there to set off such a bomb.
+Meet with the aliens, convince them to use their advanced technology to warp all the nonbelievers of the 1969 landing to the moon.
+
+And leave them there.
+That could have been placed by an unmanned spacecraft.
+Hubble can't, but LRO could.  And did.
+
+http://www.nasa.gov/mission_pages/LRO/multimedia/lroimages/apollosites.html
+You could always just ask Buzz.
+
+Watching that man level one of those asshole skeptics is pretty damn convincing (and cathartic)
+
+Link: http://www.youtube.com/watch?v=FUI36tPKDg4
+
+Note that Buzz was in his late (?) seventies at the time.
+In all honesty I think that the only way you could convince beyond a shadow of a doubt would be to have a group of astronauts live there for long enough that skeptics could make requests, and then have something like LRO record them carrying them out in timespans that would preclude the possibility that NASA sent up another robot or something to do these tasks.
+
+This is only better than previous suggestions because it might be easier to come up with something that only a Human could do if the element of speed was to be involved.
+
+A robot might be able to draw a giant penis in the dust of Mare Serenitatis, but probably not as quickly as an astronaut with a buggy.
+I think the way to go would be to take such a skeptic with you. Once you get to the moon, put on space suits and go outside.  If they *still*don't believe you, suggest they take off the helmet...
+I would suggest a regular beacon (say, one pulse per 24 hours) carried with the astronauts to the surface of the moon.  Any three receivers could be set up, even by the same person, linked to a computer to measure the time difference is signal reception and triangulate the source location.  
+
+As far as I know, there isn't a way to trick such a triangulation technique at the source (though the computer that performs the calculation could be hacked, so to satisfy the really paranoid, it should be built and programmed from scratch by the investigator).
+
+Summary:
+Send a laser from the Moon to Earth.
+I think the way to go would be to take such a skeptic with you.
+While I am in no way suggesting we didn't land on the moon, is this really proof?
+The "something" would most likely have to be pretty large, though, which is why I mentioned some sort of explosive.
+If you dropped new reflectors in a different enough location, you could distinguish them.
+Or would there be a way to distinguish them?

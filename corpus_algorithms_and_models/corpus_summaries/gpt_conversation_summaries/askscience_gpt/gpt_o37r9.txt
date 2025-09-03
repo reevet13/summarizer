@@ -1,0 +1,10 @@
+I remember reading a few years ago about anti-matter and matter and how if they meet they explode, or whatever the technical term is for that.  
+I also remember reading that there should have been equal amounts of matter and anti-matter at the beginning of the universe.  
+This is still an open question as far as I know.  
+One idea that's been floating around is (as BlazeOrangeDeer said) CP violation: you would think that a process would occur at the same rate as its matter-antimatter-flipped counterpart, but we've discovered that this isn't the case for some processes involving the weak force.  
+The theory you're referring to is one where there's equal amounts of matter and antimatter at the beginning of the universe, and this CP violation asymmetrically changes some of the antimatter over to matter before everything recombines.  
+Antimatter is also being created through natural processes, by the way.  
+Often, the antimatter particles quickly find some matter to annihilate with (for example, the antimatter created when cosmic rays slam into our atmosphere, or positrons created in beta+ decay), but there is some long-lived naturally-occuring antimatter as well (for example, we can pick up positrons and antiprotons coming from astrophysical sources many light years away with our satellite-based telescopes).  
+[This](http://en.wikipedia.org/wiki/CP_violation#CP_violation_and_the_matter.E2.80.93antimatter_imbalance) is what I'm referring to, and parity is the term for right or left orientation.  
+Basically, we expected the laws to be the same if we both exchanged matter for antimatter, and if we flipped left and right.  
+The idea is generally disfavored, however, because you would expect to see a strong signal of gamma rays from the annihilation of hydrogen with anti-hydrogen (from intergalactic gas) at the boundary between the two regions.

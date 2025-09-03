@@ -1,0 +1,3 @@
+I extract genomic DNA and quantify it using a nanodrop spectrophotometer.
+The manual says accepted 260/230 readings for "pure" DNA should be between 1.8 and 2.2.
+When I find a sample that has a reading below 1.8 I re-purify it and measure again.

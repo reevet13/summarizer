@@ -1,0 +1,43 @@
+Here are the selected sentences from the original text, separated by newlines:
+
+Gun: [**.204 Ruger**](http://en.wikipedia.org/wiki/.204_Ruger)
+
+Calibre: **5mm**
+
+Angle of firing: **90 degrees**
+
+Bullet weight/type: **40 gr (2.6 g) BT**
+
+Muzzle Velocity: **1200 m/s**
+
+Energy: **1832 J**
+
+Friction forces are very important in this case. You cannot neglect them.
+
+What you want to add to your calculation is how smoothly your bullet cuts through the air, or the [ballistic coefficient](http://en.wikipedia.org/wiki/Ballistic_coefficient) of the projectile.
+
+Plug your formula into [Ballistics for Excel](http://www.bfxyz.nl/). If you aren't sure about the BC, the [Remington Ballistics Calculator](http://www.remington.com/pages/news-and-resources/ballistics.aspx) should get it for you. An AccuTip-V Boat Tail, which is a 40 grain 3900 ft/sec load, has a BC of 0.275.
+
+From the table, we get that this bullet loses 23% of its kinetic energy when it travels 100 yard (91 meters). Please note that, as the bullet slows down, solid friction (energy lost is independent of current energy) become non-negligeable but I will ignore them anyways.
+
+Initial travel speed is 1104 m/s, and initial energy is 1772 J. This gives us the mass of the bullet : 2.9 g = 2.9 * 10^-3 kg
+
+When the bullet is at height h above the point where it was fired, it has lost energy because of:
+
+- gravity : the bullet is losing energy to gravity. When it travels 91 meters, it loses : m * g * 91 m = 2.6 J
+
+- friction : when the bullet travels 91 meters, it loses 23% of its energy like we saw
+
+I put those value into python to calculate the energy at different heights with the recurrence formula:
+energy(h+91) = energy(h) * (1-0.23) - 2.6
+starting with energy(0) = 1772 J
+
+From these calculations, I get that energy is null at about *1.7 km*.
+
+Another way to approach this is to add a force term for friction proportional to the negative velocity. This is often a decent approximation: for example, it's the easiest way to get a good answer for the terminal velocity.
+
+So you just start with -gm -cv = ma where 'c' is a constant that you'll have to kind of get empirically. Integrate it, find the time when the velocity become zero, integrate again and plug that time in to find the height.
+
+I you have a constant friction force (F = - c * signOf(v)), you have a solid friction. In energy term, this is equivalent at having a fixed rate of energy being extracted from the system.
+
+Note that, here, when I say rate, this is in term of energy extracted by distance travelled, NOT the energy extracted in a fixed time.

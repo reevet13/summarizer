@@ -1,0 +1,8 @@
+The Visible EM spectrum is different for most animals.
+
+"Visible" Is what people call the light they can see.
+
+Our eyes only respond to wavelengths of light between [390 to 750nm](http://en.wikipedia.org/wiki/1_E-7_m). Higher and lower wavelengths do not stimulate the rod and cone cells in the eye to transmit signals to the brain.
+Our eyes (and others) evolved to see these wavelengths because they're the ones that penetrate our atmosphere. [Here's a cute picture that shows what wavelengths penetrate the atmosphere](http://www.daviddarling.info/images/atmospheric_windows.jpg). The atmosphere filters out much of the EM spectrum.
+
+The resolution of our eye is dictated by the wavelength of light.

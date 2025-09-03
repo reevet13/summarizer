@@ -1,0 +1,9 @@
+Here is the summary of about 10% of the text:
+
+Run cmd as admin, type diskpart and press enter. Then type 'list disk' and check if its there. If it is and you dont care about the data, you can format it. Search google for 'how to format diskpart'. Basically you do clean, then format, then assign letter. When formatting make sure you put 'quick', else you'll be waiting for a long time.
+
+The HDD doesn't show up in the list disk. I am pretty sure that it used to work, it just came back to me that it did work and i put a win backup there. Could this be part of the problem?
+
+Sometimes backup fucks the drive. Try booting a live ubuntu/whatever and check if you can see the drive there. You can do it from usb or cd, whatever you have.
+
+I installed a partition assistant and it detects the HDD easily :

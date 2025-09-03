@@ -1,0 +1,25 @@
+Here is the summary:
+
+We're trying to configure a server (s8 r2 pc1) using vmware and connect it to physical machine (w7 pc2) using a crossover tp cable
+
+UPDATE: Connected the client to server domain
+
+UPDATE: Can now ping server using client pc but can't ping the client pc using server
+
+Give them IP addresses on the same subnet, and connect them either directly or with a switch.
+
+server and client are using the same subnet 255.255.255.0
+
+That's the subnet mask.
+
+Are the addresses on the same subnet?
+
+In the network adapter settings.
+
+Also, unless you're using fairly old hardware, you don't need a crossover cable.
+
+So configure the IP address.
+
+it's already set but when we cant ping them
+
+What is each one set to?

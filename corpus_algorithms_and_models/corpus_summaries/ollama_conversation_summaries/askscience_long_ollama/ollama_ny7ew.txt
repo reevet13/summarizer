@@ -1,0 +1,37 @@
+Here are the selected sentences from the original text:
+
+Some computer science courses seem to incorrectly imply that entropy represents the theoretical limit of compression, but that's simply wrong.
+
+If I give a stream of pseudorandom numbers to an entropic coding algorithm, no compression is achieved. However if you found the generating function of the pseudorandom sequence more or less equal to its Kolmogorov complexity, you have ideal compression.
+
+Now of course, Kolmogorov complexity isn't computable, but that doesn't mean we can't approach it, and achieve better compression algorithmically than entropically. It seems to me a lot of real world "algorithmic" compression algorithms do in fact approach Kolmogorov complexity much more so than Shannon entropy.
+
+Also the efficiency of an entropic coding seems to vary vastly with the choice of alphabet, since it's assuming each element from the data stream is independent from the others. However this seems a very odd assumption to make for data compression, since real information practically never forms nice little self-independent pieces -- it seems to me.
+
+You can just take out all the "display this in pixel 1, display this in pixel 2, ..." instructions, and write a separate program that takes image files as input and executes those instructions you removed. Then there's no extra structure for you to work with in compressing the file.
+
+So it turns out that I left out a key phase there: "for general algorithms". If you know something about the data you're compressing, you can often find some trick that lets you write a better compression algorithm, sure. But if you don't, there's no general algorithm to *find* useful structure; you can search for a finite number of possible structures, but in almost all cases you'll just be wasting your time.
+
+They are different ideas.
+
+Kolmogorov complexity is defined for numbers, sequences etc.; Shannon entropy is defined for random variables.
+
+You're bit comparing apples and oranges. And if you regard the whole sequence as a single random value, then its entropy depends only on the seed, so Kolmogorov complexity and entropy are very close in this case.
+
+So yes, they exist, but it doesn't really matter.
+
+Using different alphabets can get you different *numerical values* for entropy, but that's just because the units are different. If your alphabet has two characters, your entropy is in bits; if it has three, your entropy is in trits, and so on and so forth. But that's no different than twelve inches being the same as 1 foot.
+
+Maybe you shouldn't take the arrogant attitude that if you don't understand something it's probably wrong, then?
+
+It is important not to confuse the above concepts. Oftentimes it is only clear from context which one is meant. For example, when someone says that the "entropy" of the English language is about 1.5 bits per character, they are actually modeling the English language as a stochastic process and talking about its entropy rate.
+
+You seem to be under impression that Kolmogorov complexity is "better" than Shannon entropy, therefore entropy is not "optimal". This is not the case, it's apples and oranges.
+
+Since x is a constant, there is no "randomness" involved as in previous sense. It is about "randomness" in different sense, it is about how value of x is "internally" random, in Turing machine model.
+
+I do NOT say "Kolmogorov complexity is at least as large as Shannon entropy" since this does not make sense.
+
+If you break X into correlated values X_1 and X_2, surely it is possible that H(X_1) + H(X_2) > EK(X) but this is unfair comparison. What always holds is H(X_1) + H(X_2) <= EK(X_1) + EK(X_2).
+
+PS. I did not downvote you.

@@ -1,0 +1,34 @@
+Original Response:
+Hi guys, I have a question regarding dopamine receptors. I understand that MAO oxidizes dopamine within the cell but the part that i am confused about is the absence of an enzyme that breaks away the neurotransmitter from the receptor. For example, acytlcholine has cholinesterase to break down acytlcholine so that the neuron can return to resting potential. If dopamine doesnt have any enzyme that can cause it to break away from dopamine receptors how can the neuron return to resting potential? Thank you
+Doesn't DAT transport dopamine back into the neuron?
+It does but isn't it only after dopamine is within the synaptic cleft and not attached to the dopamine receptors?
+Most ligands (like dopamine) don't irreversibly bind to receptors (some do...but those are special cases). It's a constant popping on/off that is dependent on concentration. You have **R**eceptor, **L**igand and an RL complex of receptor and ligand bound together.
+
+You constantly switch from RL &lt;--&gt; R + L at a constant equilibrium. As you push more L into the system, you get more and more RL being formed until equilibrium is reestablished. This is what happens when a neuron "fires" and DA floods the synapse. 
+
+When the signal goes away, you pull away the L. As a result, the amount of RL diminishes as it dissociates to reestablish equilibrium to the new concentration of L. This is what happens as ligands are enzymatically broken down or reabsorbed. 
+
+As the DA is reabsorbed, the concentration in the cleft drops and the time spent "on" the receptor by DA is diminished. It's the free (unbound) DA that keeps the bound DA on the receptor*,  so as the DA is cleared, you get more DA being released from receptors.
+
+Ach is treated the same way; acetylcholinesterase doesn't cut Ach from the receptor, it breaks it down once it's come off the receptor.
+
+
+*Kind of...it's really more complicated than that.  It's a dynamic equilibrium, so it's more accurate to say that it's free DA that allows the concentration of RL complex to be maintained. 
+
+
+(Edited because some of the things I said were really unclear)
+Ok got it thank you. Second, question, do dopamine receptors open ion channels? I know that there are about 4 types of dopamine receptors but i dont really understand what they all do.
+DA receptors are GPCRs (G-protein coupled receptors), and are not ion channels. They can have an effect on the electrophysiology of a cell due to calcium signaling, but I don't think that's going to affect depolarization directly.
+
+IN the nervous system, GPCRs are generally involved in modulation of signals. No rapid changes in membrane polarization, but they modulate the activity of other processes, including the activity of some ion channels, making them more sensitive.
+Hmm ok so is it safe to assume that they do not cause a fast response but a slow and long lasting response.
+Depends on what you mean when you say "fast" and "long lasting". There are a lot of scales here.
+
+DA receptor actions can have effects on a seconds to milliseconds scale, and some  effects can be long lasting in terms of lasting a few minutes to lasting weeks or even months (potentially).
+I was just comparing it to the action of acetylcholine.
+I clicked hoping to see drugged up dinosaurs.
+
+Summary:
+Second, question, do dopamine receptors open ion channels?
+I know that there are about 4 types of dopamine receptors but i dont really understand what they all do.
+Hi guys, I have a question regarding dopamine receptors.

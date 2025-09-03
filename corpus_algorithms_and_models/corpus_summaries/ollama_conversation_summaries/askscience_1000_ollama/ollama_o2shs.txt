@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+We do chirped pulse rotational spectroscopy of "small" molecules and their clusters and record their spectra by direct digitization of the molecular emission on a 50GS scope.
+
+Now one of the problems is that some component on the detection end has some small non-linear frequency response and strong lines (and their beat frequencies) can mix with one another to create spurious "Ghost signals" 70dB or so down from the carrier lines (we look at magnitude spectra of the electric field).
+
+We have been manually taking strong lines and guessing where their mixing sidebands could be and seeing if their is a match in the baseline but this gets a bit tedious and is hard to do automatically especially for extremely dense spectra.
+
+Here is where the hard part comes in where I need your help.

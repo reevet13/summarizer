@@ -1,0 +1,20 @@
+Here is the extracted summary of about 10% of the original text:
+
+So i've been having huge problems with microstutter happening like every 0-1.5 sec, it's incredibly annoying and makes csgo unplayable, it happens in GTA V aswell.
+
+What i've done so far:
+Formatted the computer, clean OS barely anything running.
+Turned off speedstep in BIOS
+Turned Power mode on in nvidia windows settings.
+Modified settings in nvidia control panel
+Turned on XMP for ram in BIOS.
+Upped the fanspeed on GPU as it was running a little hot so I thought the problem was cause of the heat.
+Installed correct and latest drivers(I think(?) I used driver booster that installs all drivers in one go.
+
+Specs:
+Gtx 1080
+I7 7700K 4.6 with turbo.
+16gb 2400mhz ram
+
+Help me lads, this is really annoying me.
+SSD or HDD

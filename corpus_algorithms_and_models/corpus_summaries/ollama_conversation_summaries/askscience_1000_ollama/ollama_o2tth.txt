@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Not really. At the point where an object has enough mass to become a planet, gravity tries to pull all of the mass into the centre. The only shape it can reach hydrostatic equilibrium is as a sphere.
+
+One of the definitions of a planet is that it has to be big enough to be spherical (meaning it's in hydrostatic equilibrium with gravity).
+
+By definition, [They are spheres or ellipsoids](http://en.wikipedia.org/wiki/IAU_definition_of_planet)
+
+In practice, massive objects can't really be anything other than spheres or ellipsoids.
+
+Couldn't something be massive enough to be spherical from self gravitation then have its shape altered by a massive collision resulting in a (temporarily) non-spherical planet for an extended period of time.
+
+Another word, if it's not round, we say it's not a planet.

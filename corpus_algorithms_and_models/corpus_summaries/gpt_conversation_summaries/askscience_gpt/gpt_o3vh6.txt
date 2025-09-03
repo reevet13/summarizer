@@ -1,0 +1,17 @@
+To your eye it's the same, but a green wavelength of light can be very, very different than a mixture of blue and yellow light sources. From a science point of view, one is a single pure frequency while the other is a combination of several frequencies which *average* to the one you see.
+
+Adding lights together is [additive](http://en.wikipedia.org/wiki/Additive_color) - that is, the baseline is black and as you add lights, the colors approach white.
+
+Mixing paints together is [subtractive](http://en.wikipedia.org/wiki/Subtractive_color) - that is, the baseline is white and as you add ink, the colors approach black.
+
+As all the frequencies of visible light are added together, we see this as white. Pigments work by absorbing light except the frequencies for whatever color they represent. Keep adding more pigments and eventually you get black, because it is trying to absorb all the frequencies of light.
+
+Cyan, magenta and yellow are are the respective complements of red, green and blue; ie, W - R, M = W - G and Y = W - B, where W is white. For example, red is made as M + Y, which subtracts both green and blue from white, leaving red.
+
+The primary colors really have no basis in fundamental science, but rather how our brains/eyes interpret colors.
+
+I may be wrong, but I believe mixing two pigments causes a mixture of wavelengths to reflect from the "brown" surface. If we put a red and green filter over a stage light, the result would not be brown light - the result would be nearly nothing.
+
+Instead of thinking of the red and green pigments as tiny, separate pieces, think of them as tiny filters. A light beam has a good chance of striking not one, but several filters before emerging to our eye. This causes the overall absorption to go down (because each filter is absorbing a lot of the other's reflected rays) and causing brown to be seen instead of yellow.
+
+In that last image I just demonstrated how reducing luminosity makes yellow turn brown. Notice how brown does not exist in the rainbow? That's because it's actually a yellow-orange hue with low luminosity.

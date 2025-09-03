@@ -1,0 +1,12 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+Please don't post involved questions that are better suited to a [Build Help], [Build Ready] or [Build Complete] post. Examples of questions:
+* Is this RAM compatible with my motherboard?
+* I'm thinking of getting a GTX 1070. Which one should I get?
+* I'm on a very tight budget and I'm looking for a case &lt; $50
+
+Remember that Discord is great places to ask quick questions as well: http://www.reddit.com/r/buildapc/wiki/livechat
+
+**Important: Downvotes are strongly discouraged in this thread. Sorting by new is strongly encouraged.**
+
+If your temps are okay, then just stick with it. however from my experience, the preapplied pastes don't seem to last ages and tend to go dry in a few months. consider reapplication then

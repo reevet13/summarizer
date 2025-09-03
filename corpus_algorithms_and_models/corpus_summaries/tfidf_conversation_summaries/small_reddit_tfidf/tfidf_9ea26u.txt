@@ -1,0 +1,64 @@
+Original Response:
+How long does it take to download the entire blockchain?
+It took me around 5 days using the raspberry.
+How large is it?
+~230GB
+Sweet, thanks!
+Once the Blockchain is downloaded, how much data does it use? I might be completely wrong, but I thought it needed to occasionally re-download everything. Data consumption is what has put me off building one, so hopefully I'm wrong.
+Sorry i don't know. But if 230GB is 9 years worth of data then i would assume around 25GB per year. I could be wrong though.
+You won't have to re-download everything unless you loose your install and don't have a backup.
+The data usage is dependant on the transactions during that year. The first 5 years (~300,000) blocks are extremely fast to download and quite lightweight. It’s when Bitcoin started gaining mass adoption that its blockchain data size started growing considerably.
+[deleted]
+You don't need to re-download after the original synch but you will be serving up the blockchain to other peers who need to download it and as transactions get added you'll be downloading those.
+
+So it's not just a one and done type situation but the original sync is the one that'll take the longest
+No personal benefit of running a standard node but it's helping to distribute the blockchain, less nodes means less copies of the ledger.
+
+Of course you can also use nodes for paying and accepting payment so not like it's useless
+[deleted]
+That's kinda what I feared. I'd need more exact numbers, as comcast counts both up &amp; down-loads as part of their monthly capped data usage.
+
+Fucking scum company, but got nothing else.
+The numbers will depend on your peer count (which is a configurable setting but also defined by the hardware). This is about the traffic both in and outbound for my network from the node for Aug-Sept https://i.imgur.com/6M4sa2x.jpg.
+
+Not sure exactly how many clients I had during this time (plan to build in a method to scrape the Api and pull in that info in future) but usually average around 18-20
+During the bull market my node did 1TB a month.  
+Edit: You can cap the data somewhere in the config.dat
+You can possibly earn a small amount from running a Lightning Network node if it's well funded and well connected, but at the moment it's pretty negligible amount.
+Wonder if I could just set one up at my office, and let it run off of the universitie's network ?
+That's alota data !
+
+Thanks for info.
+changing the world is always a good motivator
+Everything up to 2013-01-01 is only like 5GB. According to [this](https://www.blockchain.com/charts/blocks-size?) site currently the blockchain is around 180GB (just counting the data in the blocks). Last year on the same date it was 130GB. Blockchain size will rise according to the amount of transactions. This will become a problem at some point.
+They will find you
+
+Edit: I mean, traffic is very well monitored at our site. Single client with constant bandwidth usage would trigger some security flags.
+Depends, you'll need to open port 8333 to the outside internet. My school had a full class B allocation so each student got an external IP. Most universities I belive use NAT so you can't forward ports
+[deleted]
+What the fuck, capped data usage is actually a thing?
+Yeah, that happened to me a few years back now that I think about it. I was at home setting up DropBox on a new laptop, closed the lid and thought nothing of it ... until I got to Uni and opened it back up and it finished sycing 80Gb worth of video files in the background.
+
+Got an email saying if I continued to use that much data, I would get a temporary hold on my campus internet access.
+And that's why every digital currency before Bitcoin died, because it lacked a real incentive, and "changing the world" sadly isn't good enough.
+[In some disgustingly backward places, yes.](https://i.imgur.com/LruAuA2.png)
+No it was not: they died (how many where there?? A few; one? Or two?). They died because of centralized governance. Nodes are super important and running one is uber cool in my opinion!!
+No
+Yeah, fuck that!...
+
+Unless people can turn a profit why the hell would they waste their time and money?
+
+There needs to be more incentive towards running these other than just "kudos."
+
+Down vote me all you want. That wont change a damn thing.
+
+It's called truth and alot of people can't stand hearing it.
+Expect a ban for that comment.
+
+Summary:
+The data usage is dependant on the transactions during that year.
+Once the Blockchain is downloaded, how much data does it use?
+site currently the blockchain is around 180GB (just counting the data in the blocks).
+I could be wrong though.
+No it was not: they died (how many where there??
+What the fuck, capped data usage is actually a thing?

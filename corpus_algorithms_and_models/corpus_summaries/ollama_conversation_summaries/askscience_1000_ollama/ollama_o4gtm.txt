@@ -1,0 +1,8 @@
+Here is a summary of about 10% of the original text:
+
+Sorry if this is already answered somewhere, I'm just wondering if this property applies to light as well, or if it is simply absolute. This is assuming we are in a vacuum, I suppose.
+The speed of light in a vacuum is always the speed of light in a vacuum.
+
+Now, if our instruments aren't sensitive enough to detect that difference, you might be fooled into thinking that you measured 200 kph and conclude that you could just add velocities...
+
+What you discover if one of the objects you're measuring actually gets to the speed of light (or, rather, starts out at the speed of light, since nothing slower than light can ever get to that speed) is that it doesn't matter how fast the other object is traveling...

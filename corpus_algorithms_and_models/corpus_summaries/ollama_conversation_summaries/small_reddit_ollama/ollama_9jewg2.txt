@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+the server files are out, so modding is fully possible now.. the developers just haven't released their official modding tools yet
+
+Ohhh thought you could only do some light modding though? Like time of day, amount of zombies, stuff like that?
+
+you can decompile the .bin files and pbo files with arma 3 tools and work from that. its still limited.
+
+Nah that stuffs easier to modify Is all. Modding tools will make everything much more accessible kind of like an environment for modding rather than just going into some text files and changing things manually.
+
+Crazy. Shows there's a modding community behind DayZ though
+
+Oh there’s always been a modding community. DayZ was born thanks to modding same with the battle royals genre!
+
+people have modded the game even before 0.63

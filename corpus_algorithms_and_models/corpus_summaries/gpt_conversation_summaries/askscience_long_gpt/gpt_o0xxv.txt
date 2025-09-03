@@ -1,0 +1,13 @@
+A sidereal month is 27.321661 days (time for the moon to go around earth once) and the moon's orbital period is 27.321582 days. 
+
+The orbital and rotation periods of the Moon aren't constant over a long period of time. The Earth rotates faster than the Moon orbits, so the tidal bulges on Earth [lead the Moon by a small amount.](http://i.imgur.com/0248W.gif) This transfers some of the rotational energy of the Earth to the orbit of the Moon, which slows the Earth's rotation down and causes the Moon to drift slowly away from the Earth (at a rate of roughly 4 cm per year). As the Moon drifts away, its orbital period increases. 
+
+I'm not entirely sure what effect this has on the rotation rate of the Moon. Early in the Moon's history, it rotated much faster than it does now, but tidal effects slowed it down and brought to the synchronous rotation state it currently is in. 
+
+From a conversation we had, I remember him mentioning that the Moon will not drift off to infinity; the rate at which it is drifting away from Earth is also slowing down, so eventually it will stabilize. 
+
+The slowing rotation of the Earth results in a longer day as well as a longer month. Once the length of a day equals the length of a month, the tidal friction mechanism will cease. 
+
+Because the Moon is gradually moving away from the Earth and it's orbital period is increasing, wouldn't that mean it's tidal lock is also constantly adjusting to the increased orbital period? 
+
+Wouldn't this process continue until the earth is tidally locked to the moon and the moon has reached it's final stable orbit?

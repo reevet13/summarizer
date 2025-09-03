@@ -1,0 +1,4 @@
+Yes: two bodies in contact with each other at different temperatures will conduct "heat" (molecular kinetic energy) from the warmer body to the colder body.
+So placing a thick sheet of rubber between two metal blocks of different temperature would vastly slow the rate of energy exchange via conduction between the two bodies.
+This is how "thermal paste" works, it creates a larger thermally connected surface area using a high thermal conductivity paste.
+Thermal conductivity is a characteristic of the material itself, see this [wikipedia article](http://en.wikipedia.org/wiki/Thermal_conductivity).

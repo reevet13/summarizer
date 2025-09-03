@@ -1,0 +1,71 @@
+Original Response: 
+Satellite signals(ex: TV signals, GPS signals) are beamed from the space and can cover a HUGE area, like a whole country.
+Since signal intensity goes down as the covered area spread, how powerful are satellite signals to cover such a vast area?
+Satellite signals are relatively weak when they arrive since they are spread over a huge area, but the satellite is usually the only signal emitting thing in the direction that the satellite dish is pointing, so it can receive the signal relatively easily.
+Two way communication is much more difficult.
+Two way communication isn't that difficult.
+Many satellite terminals are aimed by hand, and utilize fairly low power transmission (for Ku-band BUCs can be as low as 4W).
+How about cellphones?
+I don't point mine at any direction at all and it can still figure out my location.
+[deleted]
+The satellite network I operate, my two remote sites are transmitting back with signal powers on the order of 1W at C-Band.
+It all depends on your uplink data rate, antenna size, satellite performance, and the receiving antenna.
+When I was doing SNG systems (Satellite News Gathering), we were using 40W on a 1m dish to uplink HD.
+(DVB-S2, H.264, 6Mbps).
+&gt; GPS through cell phones isn't done with traditional satellites,
+
+Actually, it does.
+However, the cell towers can kick-start the locating process by feeding a relatively accurate time to the phone, and also feeding the local satellite ephemeris to the phone's chipset so that it doesn't have to download that off the birds.
+If that were true I wouldn't be able to use my GPS system while network communications are off, but I used it all day while I was in Russia.
+Satellite dish is needed only for high bandwidth needed for video transmission which is encoded with minimal error correction so that you can pack whole video signals into the bandwidth.
+You need the dish to receive such video transmission because you want to receive every bit of it clearly.
+GPS signal is just text.
+They can pack hell lots of error corrections and repetitions into the bandwidth.
+The GPS chip inside your phone use such error corrections to compensate for low signal power.
+This is all possible thanks to the ultra-low noise amplification transistors inside the GPS chip.
+[removed]
+&gt;feeding the local satellite ephemeris to the phone's chipset so that it doesn't have to download that off the **birds**.
+that got me interested, please elaborate Captain?
+I never had much to do with X and C band equipment.
+I mostly worked on Ku and Ka when I was in the industry.
+I should have specified that 4W with a 1m antenna was about the lowest that my company frequently dealt with.
+On the other end I think we had some options for over 150W and 3m antennas.
+To triangulate, you have to know the position of the satellites with a very high accuracy.
+Satellites drift all the time, so you need an updated (minutes or hours) position for each one.
+The satellites themselves broadcast that data, but it's kinda slow, and your device can't tell you your position until it gets all the data from each satellite it wants to use.
+This is how all GPS units originally worked, and basic hand-helds still do.
+But, for devices connected to the internet (like a cellphone) you can download updated, precise location data for every satellite in the GPS system, very very quickly.
+Then you can ignore the slow positioning data and just pick up the time signal.
+End result is your device can report your position within 2-3 seconds instead of 30-40 seconds.
+Anyone can test this for themselves.
+With network off, open a GPS app and count how long it takes to report your position.
+Then do the same with network on.
+The caveat is, even the most primitive of devices cache the positioning data.
+So you have to wait **4-6 hours** between each test since that's how long the data is considered good for.
+&gt; that got me interested, please elaborate Captain?
+At least in the group of people I worked with, we tended to refer to satellites as "birds" so finding the satellite was basically "acquiring the bird" and uplinking was "squirting the bird".
+In terms of what the GPS satellites transmit, they transmit a timing signal that allows for the locating function.
+They also transmit the almanac of the coarse orbital data for all the satellites as well as the fine ephemeris for itself.
+This is why if you take a GPS receiver to a new location (a few hundred km from the last place it was powered on) or turn it on after a few weeks off, it takes forever to acquire its location.
+What it's doing is running a cold start procedure, where it searches all possible satellite codes until it locks on, then it has to wait to download the almanac (which takes 12 minutes), and then get the fine ephemeris data for all the satellites.
+Yeah, most of my work was in flyaway and/or transportable ground stations.
+A lot of our customers were buying dual-band (C/Ku) or tri-band (C/Ku/X) systems.
+Basically the baseband electronics are all the same, only the feed and RF gear changes.
+It was pretty slick.
+The GPS satellites also orbit at a lower altitude than geostationary (something like 20,000 km vs 35,000 km).
+Even if they were geostationary satellites, you wouldn't need dish for text transmission like GPS signal or audio.
+There are geostationary sats such as Inmarsat and Thuraya for satellite phones that use just plain stick antenna.
+Yup!
+I wasn't trying to say that encoding/FEC isn't the main reason - just that being closer improves the SNR a bit too.
+
+Summary: 
+GPS signal is just text.
+Then do the same with network on.
+Then you can ignore the slow positioning data and just pick up the time signal.
+&gt;feeding the local satellite ephemeris to the phone's chipset so that it doesn't have to download that off the **birds**.
+&gt; GPS through cell phones isn't done with traditional satellites,
+
+Actually, it does.
+To triangulate, you have to know the position of the satellites with a very high accuracy.
+The GPS chip inside your phone use such error corrections to compensate for low signal power.
+Even if they were geostationary satellites, you wouldn't need dish for text transmission like GPS signal or audio.

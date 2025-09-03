@@ -1,0 +1,39 @@
+Original Response:
+[deleted]
+No, they are 3D delocalized objects that have neither a definite position nor, in many orbitals (like s orbitals), any meaningful notion of angular momentum. They are stationary wavefunction states. The math is Schrodinger's equation and a course on Quantum Mechanics and requires knowledge of linear algebra (i.e. matrix math) and partial differential equations.
+&gt; in many orbitals (like s orbitals), any meaningful notion of angular momentum.
+
+Their angular momentum is 0. What is not meaningful about that?
+Damned if I do, damned if I don't. The clearest statement is that there is no dynamics associated with such a state but in reality there is still going to be trivial exp(Eit) phase dynamics in such a state.
+&gt;The clearest statement is that there is no dynamics associated with such a state
+
+The classical analog of an s-orbital isn't just a particle sitting still, if that's what you're getting at. Its orbital angular momentum is zero, but its kinetic energy (taking the quantum expectation value) is not. You can imagine a classical object moving in and out radially through r = 0. It's still moving (and hence, "dynamics"), but it has no orbital angular momentum.
+Okay, this really is splitting hairs. There is no orbit you can draw that is isotropic when time averaged and yet lacks angular momentum. With wave phenomena one can ascribe the "kinetic energy" term to an energy penalty for being sharply located (i.e. having a non-zero square of gradient is a no-no). That's not the same as dynamics, there's not a meaningful time dependence to, for example, the radius of an s-orbital. It's not like a experiment can exist that will catch an "orbiting" electron at an in-opportune point in its "orbit".
+&gt;Okay, this really is splitting hairs.
+
+There aren't really any hairs to split. You made a completely vague statement. What does "dynamics" mean to you?
+
+&gt;That's not the same as dynamics, there's not a meaningful time dependence to, for example, the radius of an s-orbital.
+
+If "dynamics" means "nontrivial time evolution", then that's true of any stationary state. Why did you single out s-orbitals?
+
+&gt;It's not like a experiment can exist that will catch an "orbiting" electron at an in-opportune point in its "orbit".
+
+I'm not sure what you mean by that. Scattering experiments can indeed probe the distributions of the electrons in position and momentum space. You can easily calculate the momentum-space wavefunctions of electrons in bound orbitals of arbitrary L, and you will find that they are indeed "moving" even for L = 0.
+&gt;What does "dynamics" mean to you?
+
+I guess I'd most clearly take it as |psi(x,t)|^2 has no actual t dependence.
+That's a perfectly fine definition, but then a stationary state of **any** L is not "dynamic".
+Agreed but then there's a very real point that a more classically friendly object can acquire a very real angular momentum from scattering off an electron in an orbital where L isn't 0. Take for example a photon where there's a real association with angular momentum and classical polarization. 
+
+Take for another example something like Spin-Transfer Torque(STT) it's pretty impossible to deny that one can associate a very real angular momentum in a case like that.
+&gt;it's pretty impossible to deny that one can associate a very real angular momentum in a case like that.
+
+Nobody denied that. The original problem brought up by /u/mfb- was that you say that an L = 0 orbital doesn't have "any meaningful notion of angular momentum". The concept of (orbital) angular momentum doesn't "lose meaning" for an s-orbital, it's just equal to zero.
+Sure. Can we agree on the statements: 1) every stationary quantum state has time dynamics, 2) generally that time dynamics vanishes when brought to measurement and thus is largely academic, 3) historically, order-of-magnitude estimates for these states were made under an assumption of meaningful classical arguments of an orbiting object, 4) those classical arguments have proven themselves to be wrong, 5) despite those arguments being wrong, there ARE time dynamics (see 1), 6) but those time dynamics can't be meaningfully attached to the classical ideas that spawned 3)
+
+Summary:
+It's still moving (and hence, "dynamics"), but it has no orbital angular momentum.
+Their angular momentum is 0.
+That's not the same as dynamics, there's not a meaningful time dependence to, for example, the radius of an s-orbital.
+What does "dynamics" mean to you?

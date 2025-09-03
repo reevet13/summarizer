@@ -1,0 +1,16 @@
+Original Response:
+I'm talking the several hundred horsepower combine harvesters, tractors, mining equipment, contruction equipment, logging equipment, etc. 
+
+Why are they not running off electric motors instead of ICEs? Is it because an electric motor simply cannot produce that much horsepower? Or maybe the battery needed would be to big to fit on a mobile machine? There has been electric tractors but they are very tiny and cannot do industrial sized tasks. Has nobody really tried to engineer anything bigger? Or is it just impractical?
+[deleted]
+Sure they can. Trains are pulled by electric locomotives. The problem is one of storing enough energy in a battery that the vehicle won't have to be recharged every few minutes.
+Ships also use electric engines for propulsion.
+
+It is a [diesel-electric system](http://www.professionalmariner.com/ME2/dirmod.asp?sid=420C4D38DC9C4E3A903315CDDC65AD72&amp;nm=Archives&amp;type=Publishing&amp;mod=Publications%3A%3AArticle&amp;mid=8F3A7027421841978F18BE895F87F791&amp;tier=4&amp;id=1ECD4C16B79B4588B74F044BF6DFD20F):
+
+&gt;Because of its versatility and redundancy, diesel-electric is adaptable to vessels of almost all sizes. In diesel-electric systems, multiple diesel engines, each driving an electric generator, produce the electric power that energizes the electric motors connected to the propellers as well as other electrical loads on the ship. Depending on electrical demand, not all diesel generators have to be operating at all times.
+Yes but could ships of these sizes be made without ICE's?
+So essentially it's still impractical to build large mobile equipment with electric motors because battery technology is not sufficient.
+
+Summary:
+Or is it just impractical?

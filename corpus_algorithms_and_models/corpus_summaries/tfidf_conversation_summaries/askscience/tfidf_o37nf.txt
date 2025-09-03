@@ -1,0 +1,12 @@
+Original Response:
+PhD student in microbiology here: My project focuses on the alpha-proteobacterium, *Caulobacter crescentus*. I want to sequence a few genomes from some environmental isolates. I have always always heard that sequencing is so cheap these days and yet I don't know how to take advantage of these technologies. 
+
+  Are there services or companies out there that offer 'cheap' sequencing for research purposes? What sort of prices? I am not be a stickler for exhaustive coverage. My needs would be a few, 4 Mbp, 66% GC, genomes. I can do all initial preparation steps.
+Depends, where about are you?  I have access to a sequencer (About 10 feet from my lab bench) and wouldn't mind helping out.
+
+That said, there are several commercial outfits that do sequencing for relatively cheaply.  I, however, am blanking on their names at the moment.
+You might want to check out facilities that you University offers.  We have a Biotechnology Center that offers many sequencing options.  Ask other people in your department who they use, and you'll get the best idea of costs.  I know our lab tends to use the [Joint Genome Institute](http://www.jgi.doe.gov/), but some of our work is also DOE funded, so we may get some deals or something through them.
+Don't know why this guy was downvoted, but many universities have sequencers now.  Although, the idea of it being cheap is very relative.  It's much cheaper than it was but last time I knew the kits were still in the thousands of dollars.
+
+Summary:
+I want to sequence a few genomes from some environmental isolates.

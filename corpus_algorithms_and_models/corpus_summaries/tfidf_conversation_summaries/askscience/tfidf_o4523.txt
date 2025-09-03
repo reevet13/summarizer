@@ -1,0 +1,28 @@
+Original Response:
+Hi, this might be a dumb question, it's about relativity. Let's ignore all the news about that neutrino (I didn't read up on it), then according to relativity theory nothing can move faster than light. My question is, relative to what? See, if nothing can move faster than light relative to e.g. the microwave background, then how could something as the LHC work. The LHC, according to [this](http://en.wikipedia.org/wiki/Large_Hadron_Collider) get protons "up to about 3 metres per second slower than the speed of light". But the Wikipedia articles about the Sun and the Earth give them at best a speed of about 400 km/s relative to the microwave background, which would give the proton, if it's moving in the right direction (and since the LHC is circular it would at some time) a combined speed of more than c. 
+Does relativity state that nothing can move at the speed of light relative to another? Would that mean that two objects could not move at c/2 from a reference point exactly in between them in opposite directions?
+Relative to any chosen frame of reference; the speed of light is constant and is the same for any reference frame.
+
+The LHC works because the protons are never moving faster than the speed of light; velocity addition does not work the same way for relativistic speeds as it does for small, everyday speeds. For example, if a ball is travelling 4m/s relative to the Earth and the Earth is moving at 30000m/s, relative to the Sun, in the same direction then the total velocity of the ball is 30004m/s. However, velocity addition at relativistic speeds (speeds that are an appreciable fraction of the speed of light) uses a more complicated equation, although I don't know it myself. Perhaps someone else can post the equation and a more detailed explanation behind it.
+The resolution to your puzzle lies in the way that [velocities add in relativity](http://en.wikipedia.org/wiki/Velocity-addition_formula). Here's the long and short of it:
+
+Let's say you are moving west at a speed c/2 relative to me, and Albert is moving west at a speed of c/2 relative to you. In the land of Galilean/Newtonian theory, we expect that I would observe Albert to be moving west at speed c relative to me. This would violate the "rule" that nothing travels at the speed of light (in my reference frame). However, in relativity the transformation equations wind up saying that in my reference frame Albert is moving west at (4/5)c, and is therefore not meeting or exceeding the speed of light.
+
+You can actually prove the following statement just using the Lorentz transformations: If body A is moving at speed less than c in reference frame S, and reference frame S' is moving at speed less than c relative to S, then body A will always be moving at less than speed c in reference frame S'. Therefore, if a body is moving at speed less than c in any inertial frame, then it's moving at speed less than c in *all* inertial frames. This resolves your puzzle.
+Nothing can move faster than **the speed light travels in a vaccum** relative to **anything**.  In some situations you can have particles traveling faster than the speed of light in a specific medium, see [Cherenkov Radiationn](http://en.wikipedia.org/wiki/Cherenkov_radiation), but the speed of light in a vaccum (c) is the speed limit of the universe.
+
+What this means is that it is impossible to observe anything travelling faster than c.  The laws of physics are different for relativistic speeds (at any reasonable fraction of c).  This is achieved by non-linear [velocity addition](http://en.wikipedia.org/wiki/Velocity-addition_formula#Special_theory_of_relativity), length contraction, and time dilation.
+s = (v+u)/(1+(vu/c^2) 
+
+where
+
+ s is the speed of the proton relative to the microwave background
+
+v is the speed of the earth relative to microwave background
+
+u is the speed of the proton relative to earth
+Light is measured at the same speed relative to all frames of reference. That's why relativity works, essentially.
+
+Summary:
+Light is measured at the same speed relative to all frames of reference.
+Nothing can move faster than **the speed light travels in a vaccum** relative to **anything**.

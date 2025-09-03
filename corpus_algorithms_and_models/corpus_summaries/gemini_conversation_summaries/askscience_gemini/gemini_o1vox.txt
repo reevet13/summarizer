@@ -1,0 +1,2 @@
+A molecule can absorb light of a particular wavelength if the energy increase from the absorption can induce a change from one allowed energy state of the molecule to another.
+It is this principle of resonance which causes some frequencies of light to be absorbed and others to not.

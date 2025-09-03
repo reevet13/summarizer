@@ -1,0 +1,10 @@
+Here is a summary of around 10% of the text (up to 250 words), consisting of selected sentences copied verbatim from the original text:
+
+Well there's a very good reason 4K is called "The Great Equaliser". I'd go for a Ryzen 7 chip due to its better streaming performance and the fact that 4K is GPU dependent so I doubt the extra single threaded performance of the 8700K will make a difference.
+
+Depends on which chip you choose and what you're planning on doing.
+For 1st gen Ryzen CPUs: If you aren't planning on using SLI or doing any high level overclocking I'd get a B350 board. If you're planning to do either of these you need an X370 board.
+
+That cooler will run the CPU at full speed and stay pretty silent, very good choice indeed
+And what about the storage?
+Storage looks good as well

@@ -1,0 +1,26 @@
+Original Response:
+I was thinking about how planes (also Ironman ) have de-icing equipment.  Also are super sonic planes only capable of flying at very high altitudes, hoping to have the cooler atmosphere temper the heat created by such high speeds?
+hot air at roughly the same pressure as surrounding air goes up, yes.
+but with height, you also decrease pressure (exponentially) and decreasing pressure causes temperature to drop (that's one part of how the fridge works).
+
+however, it is slightly more complicated, since the thermodynamical state also depends on composition (i.e. weight of individual particles that constitute the gas). earth atmosphere consists of many components and in the resulting state (at given temperature and pressure profile) their concentration changes with altitude (which in turn affects the temperature and pressure)... moreover, it is quite dynamic process (at least in the lower layers, as you can guess by weather forecast accuracy).
+
+also, the initial statement is not necessarily true. there are things like [inversion](http://en.wikipedia.org/wiki/Inversion_(meteorology\)) and the temperature change with altitude taking into accounts the effects of changing pressure and composition looks like [described here](http://www.physicalgeography.net/fundamentals/7b.html)
+&gt;Also are super sonic planes only capable of flying at very high altitudes, hoping to have the cooler atmosphere temper the heat created by such high speeds?
+
+Pretty sure it's mostly the lower pressure which result in lower frictions.
+The heat in the troposphere mostly comes from sunlight getting absorbed by the ground. If no air circulation happens, the ground would much warmer much faster. Similar situations happen in the stratosphere and thermosphere at higher altitudes with the absorption UV light.
+
+Back to the troposphere. If you take a piece of air at one altitude and move it to a higher altitude, that piece of air will have a lower temperature because of [adiabatic cooling](http://en.wikipedia.org/wiki/Adiabatic_process#Ideal_gas_.28reversible_process.29). If the temperature of that piece of air after adiabatic cooling is still larger than the piece of air that it's trying to displace, only then will circulation be thermodynamically favored. Therefore, the actual rate of temperature change will depend on the adiabatic lapse rate, which the calculated rate that a piece of air will drop in temperature as it rises (about -9.8°C/km for dry air and -5°C/km for wet air). The actual temperature change might be more positive than that value, it might even rise above zero (this happens close to the ground at night for example). But if the temperature change is ever more negative than the adiabatic lapse rate, a draft of air will quickly correct this.
+the temperature actually [goes down and up quite a bit](http://en.wikipedia.org/wiki/File:Comparison_US_standard_atmosphere_1962.svg).
+
+I don't know much about the upper layers, but in the part where we spend our time, temperature decreases with altitude because you are getting farther from the heat source.  In the lowest layer, the air is heated by the ground, which absorbs light from the sun.  So, travelling away from the ground, you get less heating.
+
+edit: see [this link for more](http://en.wikipedia.org/wiki/Troposphere#Temperature)
+This is correct. In layman's terms, when the hot air rises, it encounters air of much lower pressure, so the hot air expands. This expansion causes the air to cool.
+I've always found this interesting. As you increase in altitude, the temperature drops significantly. However, once you enter the stratosphere (which harbors the ozone layer) the temperature begins to rise again, eventually reaching surface temperature levels. This is caused by the absorption of UV rays exciting molecules in the air. However, if you keep increasing your altitude you will pass into the Mesosphere where the temperature drops significantly. If you CONTINUE to climb you will enter the Thermosphere, where, as the name suggests, the temperatures soar, sometimes above 300 degrees Celsius! This is due to the fact that the Thermosphere is basically the closest layer of the atmosphere to the sun, causing it to be bombarded with radiation.
+
+Summary:
+As you increase in altitude, the temperature drops significantly.
+This expansion causes the air to cool.
+In the lowest layer, the air is heated by the ground, which absorbs light from the sun.

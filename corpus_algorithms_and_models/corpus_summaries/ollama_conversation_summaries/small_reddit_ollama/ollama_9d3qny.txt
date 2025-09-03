@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+I am having connectivity issues with my Nokia 6.1 using Android Auto, connection drops every 10 minutes or so and manually forcing to reconnect crashes the whole infotainment.
+
+While I browsed the product forum I came to this post, stating Android Auto isn't officially supported by Android One.
+
+Have you tried using a new USB cable? I had issues with my 2XL for a bit and it turned out to be my cable was the primary cause.
+
+I didnt, I purchased new phone a week ago so I didnt have a time yet. Definitely will try another.
+
+The connection drops might be due to the display software/hardware defect/bug, USB cable (this was my problem most of the time), defective USB hardware on your phone or defective software on your phone (USB drivers or Android Auto).
+
+My Nokia 7 Plus is fine in my car but I'm using a high end USB-C cable as I was advised that would be more reliable. Grab a decent one of Amazon and hopefully things will improve 😊

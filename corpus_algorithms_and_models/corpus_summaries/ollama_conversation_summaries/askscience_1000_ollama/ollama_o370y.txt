@@ -1,0 +1,9 @@
+Here is the summary:
+
+I had a thermodynamics professor at a top rated engineering school claim that nearly all commercial jetliners can hover above the ground by firing that engines in a particular way.
+
+The only way I can see this occur is if the jetliner were operating its engines at the minimum speed in an extremely high wind. Am I missing something?
+
+(pilot here) Theoretically any given airplane could "hover" in the sense that it is maintaining altitude with a groundspeed of 0, however the airspeed would have to be above the aircraft's minimum stall threshold (Vs).
+
+This sounds to me like an engineering joke.

@@ -1,0 +1,30 @@
+Original Response:
+If energy is neither destroyed nor made, gravity seems to provide some sort of free energy to us all in a way.  Is it energy?
+Gravity is gravity. Energy is energy. Gravity is not energy. If they were the same thing, we would call them the same thing.
+
+Gravity does not supply never-ending energy. It is simply a battery of sorts - it can be used to store potential energy.
+
+Perhaps if you expand on your view more, I can give you a more detailed description.
+You're confusing the terms energy and power. Energy is a constant thing, much like mass - power is the flow of energy.
+
+
+For example: water at the top of a waterwheel contains more energy than water at the bottom. When the waterwheel spins, water loses energy and it is transferred into the wheel. The *movement* of energy is what gets work done.
+
+
+This confusion is what spawns 90% of all the bogus "perpetual motion machines" and that baloney. So let's get this clear.
+
+
+The earth is a gravity well. As things move up out of the gravity well, this requires energy. That energy comes from somewhere(the person hauling a weight up a flight of stairs) and moves into the potential energy of the object(the fact that it is now further from the earth, the thing it wants to move toward). You could extract power from this exchange - for example by putting the weight on a string to a dynamo and letting it fall, you'd turn the dynamo and produce power in the form of electricity. **But to produce that power, the weight would have to fall.**
+
+
+You can think of gravity as a bank account. When you stand up, you make a withdrawal of energy and put it into your added height. When you sit down, you make a deposit and the energy that was your height now goes into gravity.
+
+
+TL;DR you can move energy into and out of "gravity" in the form of altitude, but you can't produce free power. Power comes from energy moving, and without something moving there will be no power produced.
+It is not free because you can't reuse it without putting back the energy you took. The energy that's available when something falls is call Gravitational Potential energy, and is a negative quantity because it increases as you move away from earth but approaches zero at an infinite distance. Basically you can convert gravitational potential energy to other forms (like putting falling water through a gnerator to make electricity) but to use it again it needs to get the energy back somehow (the sun will evaporate it and make it rain uphill). This is why almost all our energy sources are solar energy if you look back at what stores the energy in the first place.
+From what I know from Classical Mechanics, gravity is a conservative force, and conservative forces have a potential energy field associated with them.
+
+Summary:
+The earth is a gravity well.
+TL;DR you can move energy into and out of "gravity" in the form of altitude, but you can't produce free power.
+Power comes from energy moving, and without something moving there will be no power produced.

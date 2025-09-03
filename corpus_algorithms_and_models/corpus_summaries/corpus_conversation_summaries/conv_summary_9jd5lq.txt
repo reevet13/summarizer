@@ -1,0 +1,63 @@
+Original Response: 
+Honestly, it looks like a tire fire, and that they are trying to be deliberately misleading in their presentation of the current financial status of the company.
+Page 12:
+
+&gt;We account for cryptocurrencies at cost, instead of revaluing cryptocurrencies at fair value on each accounting reference date, to avoid substantial volatility on the value of cryptocurrencies from time to time, which may distort our results of operational and financial condition.
+We know that they have approximately 1M BCH, and approximately $60M USD, collectively, of other coins including BTC, and small amounts of Dash, LTC, and ETH.
+By ignoring the actual fair market value and presenting the value of their cryptocurrency at the cost they acquired it at, they have disclosed current assets of approximately $1B of cryptocurrency.
+Well... 2 days ago 1M BCH was worth $400M USD, plus the odds and ends, and they have $500-$600M tops.
+When describing their NET NEGATIVE CASH FLOW on page 11, they state that:
+
+&gt;However, the cryptocurrencies we hold are highly liquid assets that can be sold in open market to satisfy our liquidity needs.
+Can anyone who tell me what would happen if they tried to sell 1M BCH on open market to satisfy their liquidity needs?
+In 2017 and 2018, they prepaid suppliers a total of $1.2B USD (page 47).
+On page 40 they recognize that "High inventory levels may increase our inventory holding costs, risk of inventory obsolescence, markdown allowances and write-offs."
+This is that pre-paid inventory they spent $1.2B on.
+Further discussing inventory pricing on page 45, they write:
+
+&gt;Moreover, we may not be able to accurately estimate our costs or pass on all or parts of any increase in our costs of production to our customers, in particular the costs of raw materials, components and parts.
+As a result, our results of operations could be materially and adversely affected.
+Page 45 is interesting, because it disclosed their profit margin on sales between 52% in 2015 and 36% in 2017.
+An S9 was selling for approximately $1,500 USD in 2017.
+If that represents 36% profit, we can estimate the costs at $1,100 USD.
+The current price for an S-9 is [$440 USD](https://shop.bitmain.com/product/detail?pid=000201809271201391568Ipb917H0635).
+That represents a 60% loss.
+Despite all of the above, they disclose an inventory asset valued at $887M USD on page 216.
+I don't believe they have followed good accounting practices, which I understand would require them to value these assets using the most conservative method of valuation, i.e., the method that results in the *lowest* valuation.
+They haven't done so and the result is that their reported assets are vastly inflated.
+Similarly, as they have accounted for cryptocurrency income as part of their cashflows using the same cost accounting, they have minimized their net negative cashflow, which is actually substantially greater than reported.
+Seems like the shorting opportunity of the century if they go public at the proposed price.
+Maybe.
+But please be careful and remember how smart, resourceful man fighting the right fight still got rekt big time: https://www.cnbc.com/2018/02/28/ackman-exits-bet-against-herbalife.html.
+[deleted]
+True, timing is EVERYTHING when shorting.
+And you need to be "right" very quickly or it's gonna cost u.
+Great observation.
+Their "cost of acquisition" calculation is a huge red flag to any potential investor doing their due diligence.
+Not to mention that selling those coins would create huge downward pressure on such an illiquid market.
+Ironically, the only way Bitmain can pump the price is buying even more BCH that they won't be able to sell.
+[deleted]
+Good eye mate.
+Worse... shorts aren't available until 30 days after the IPO.
+So even if it tanks out of the gates, you would miss it.
+Though if it held value until it's first earnings report 30+ days later, excellent options opportunity.
+&gt; Ironically, the only way Bitmain can pump the price is buying even more BCH that they won't be able to sell.
+That's a shit position to be in.
+They played with the market, bet on the wrong horse, and lost hard.
+I don't see them IPOing out of this one.
+Everyone has wised up to their shenanigans.
+Cant you just short bch vs btc?
+Cant you just short bch vs btc?
+Even then, if the ipo is hyped enough it'll continue to rise irrationally if the hive mind keeps buying, even through bad earnings, I've seen it happen many times.
+That being said, if you can time it right it could be an excellent short.
+Yeah.
+Bch is essentially bitmain stock.
+
+Summary: 
+Cant you just short bch vs btc?
+True, timing is EVERYTHING when shorting.
+Bch is essentially bitmain stock.
+Despite all of the above, they disclose an inventory asset valued at $887M USD on page 216.
+That being said, if you can time it right it could be an excellent short.
+An S9 was selling for approximately $1,500 USD in 2017.
+Ironically, the only way Bitmain can pump the price is buying even more BCH that they won't be able to sell.

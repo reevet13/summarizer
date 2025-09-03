@@ -1,0 +1,39 @@
+Original Response:
+I swear that I recognize facial types and know that a particular person is likely to be pedantic, or socially awkward, or gregarious, or shifty...
+
+...and I very often seem to be right. Am I just kidding myself, or what?
+[deleted]
+You might want to try /r/asksocialscience.
+I considered that, but I'm not entirely convinced that there isn't a genetic component to this.
+I think this is a good example of [confirmation bias](http://en.wikipedia.org/wiki/Confirmation_bias) and see [this previous response](http://www.reddit.com/r/askscience/comments/mt6os/is_there_a_reasonable_explanation_why_street/) for an example in action. That is, you remember the times that you were correct, but are not able to count all the times you were not correct.
+
+Whilst physical characteristics have been demonstrated to be associated with biological processes that are linked to personality (e.g. digit ratio as a marker of androgen exposure in utero-&gt; and androgen exposure having early organisational effects on the brain), there is no evidence at least at this stage that particular facial types as they are structurally defined (e.g. bone structure, facial characteristics) are indicative of personality styles. The closest evidence is for particular genetic disorders such as down syndrome who share similar physical characteristics. 
+
+More likely is that you are picking up on subtle non-verbal cues and then linking this to particular facial types (via confirmation bias). Perhaps you can try an experiment to test your hypothesis. Get 100 random people you do not know and take a picture of their face all in a neutral state (removing non-verbal cues unrelated to facial features). Give them a reliable personality test (e.g. NEO-PI). Then rate their personality based on facial types and look for a relationship better than chance.
+
+edit: worth noting is the history of [phrenology](http://en.wikipedia.org/wiki/Phrenology)
+Some facial features in the child are a result of the mother drinking or taking drugs while carrying the baby. These features could carry into adulthood. A child raised in that environment is more likely to have behavioral problems continuing into adulthood. These might be the features you are picking up on. Just a thought.
+There are two components to your answer.
+
+Firstly, there is, in fact, a **genetic component**. Because it is evolutionarily adaptive, we have developed the ability to discern &amp; interpret minute changes in facial expressions, as well as body language. 
+
+Body language - including facial expressions - is a huge factor in human communication (certainly more than we give it credit on a day-to-day basis). Consider this quote from Wikipedia - not the best source, but accurate nonetheless. A great deal of research has pointed out that understanding non-verbal communication is an evolutionarily good strategy because it is more accurate than, say, verbal:
+
+*"When mixed messages occur, nonverbal communication becomes the primary tool people use to attain additional information to clarify the situation; great attention is placed on bodily movements and positioning when people perceive mixed messages during interactions."* 
+(http://en.wikipedia.org/wiki/Nonverbal_communication#Interaction_of_verbal_and_nonverbal_communication) 
+
+Think of how easy it is to *verbally* lie and say that you love Aunt Mildred's purple-knit sweater at Christmas. 
+
+To compare verbal vs. non-verbal communication, let's think of an example from your list - the socially awkward person. Someone who is socially awkward at a party might say to a fellow partier "Boy, i'm having a great time at this party, this is my type of scene!" Meanwhile, as he say how much he loves hanging out with you guys, his hands are either in his pockets, scratching at one elbow every few minutes, or adjusting his glasses in between. All his movements are fairly rapid and, at times, jerky. He has a furrowed brow when he talks and he has an anxious look in his eyes when he waits for your response. All signs point to discomfort and feeling out of place - which sets off your alarms that he's actually not used to social interaction, *even though he says otherwise*. Nonverbal communication speaks about a person's true emotions more than their words.
+
+All this background is leading to the answer that - yes - you can certainly be genetically pre-disposed to be more attuned to people's facial expressions. We know that people are genetically predisposed to read facial expressions and emotions because the appearance of primary facial expressions (happy, sad, angry, afraid etc) are universal across cultures.
+
+The second component to your answer is **experience over time**. Why do you have a certain skill for reading people? You may be more of an extroverted person or a "people-watcher." You may simply have experience reading people as part of an old job (e.g. salesperson, security guard, etc.). Either way, you probably have a *strong motivation* for learning people's underlying personality.
+
+**Edit:** Minor addition to body language section.
+
+Summary:
+These might be the features you are picking up on.
+Give them a reliable personality test (e.g.
+The second component to your answer is **experience over time**.
+All this background is leading to the answer that - yes - you can certainly be genetically pre-disposed to be more attuned to people's facial expressions.

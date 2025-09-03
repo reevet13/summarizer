@@ -1,0 +1,17 @@
+Here are the extracted sentences:
+
+1. GTA V's engine loads in more detail the closer the camera is to an object.
+2. This is called LOD, Level of Detail, and is a feature of 99% of 3D engines since forever.
+3. And GTA5 has rather bad environmental textures for FPP, so most of them are awfully blurred, especially walls. They are not suited to be viewed from up close.
+4. Most games have it, but few games do it as well as GTA in terms of adding object detail beyond streaming in higher rez textures.
+5. FOV != Fisheye. Fisheye is a problem with how pixels are dedicated to sections of the world, so you need to compensate for that. most engines don't and just lock off the FOV, but the solution to that would be something called Panini projections. Which, again, Rockstar was too lazy to implement.
+6. Source: I make games.
+7. Max Payne 4 will probably never happen. Max's story came to an end, and Max Payne 3 didn't sell well, at least when compared to it's budget.
+8. It's unlikely Rockstar would even attempt a spiritual successor, as games like GTA are guaranteed money makers and there's little to no reason for Rockstar to take risks anymore.
+9. Exactly. It's why I love good first-person game. Suddenly, you're not playing some random character or pixels on a screen. It feels like you are the person doing everything.
+10. Oh, that's right. I agree that there's no pop-in effect, and no visible "jumps" between quality levels.
+11. I know that the scale of the world, the amount of details, openness and interactivity of all of that is very impressive, but many textures aren't high res enough for FPP mode. Sure, weapons and inside of car looks great, but the rest of it not so much.
+12. Keep in mind, I'm not calling the individual developers lazy, I absolutely share the opinion for most individual devs. In this case I'm referring to Rockstar as a company deciding to cut corners because they can. *That's* what I'm calling lazy.
+13. The developers themselves obviously work their asses off, and I don't doubt they'd have put this sort of thing if they got the opportunity. But alas, AAA development at its finest - because it sure as hell wasn't a lack of resources, like it would be for most Indies.
+
+These sentences are copied verbatim from the original text and extracted by me, an extractive summarizer.

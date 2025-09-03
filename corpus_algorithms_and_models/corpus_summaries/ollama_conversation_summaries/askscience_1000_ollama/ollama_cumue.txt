@@ -1,0 +1,27 @@
+Here are the selected sentences from the original text:
+
+Who said the universe has no start?  We can't observe anything prior to the Big Bang, so we have no way of knowing how long the universe existed prior to that, or whether it did at all.
+
+This is a legit theory (the "[Big Crunch](http://en.wikipedia.org/wiki/Big_Crunch)"), and a really intuitive idea, but recent observations indicate that it's pretty unlikely to happen.
+
+Saying the assumption is wrong misunderstands the question.
+
+Thanks for the tip.  I'll have to take a look.
+
+I did misunderstand the question.  Gave the OP a lot less credit than he deserved.  It sounded more like "since our universe has obviously been going on forever" than "if this theory without a big bang is correct" to me.  My bad.
+
+Here comes a long, multi-part answer, stick with it.
+
+My intuition for your second (and different!) question is that yes, an infinitely old universe doesn't make sense because we wouldn't be around to observe it.
+
+I know constant number of particles isn't right, because we know that energy and mass can be converted in our universe (E=mc^2), it doesn't seem like volume is constant (people talk about the universe expanding), etc...
+
+To the cosmologists, do you use statistical thermodynamics when you're talking about the whole universe?
+
+But if we take a step back and *assume* that we can use statistical thermodynamics to talk about the universe (and our friend, the second law), we would expect an infinitely old universe to be as likely as possible.
+
+What if it's an ensemble were both energy and mass are constant (Assuming it's the um.."sum" of them?)?
+
+Hmm... the more I think about it, I'm not sure trying to fit the universe into a statistical mechanical ensemble is the right way to think about it.
+
+Another reason I don't think stat mech is the right way to think about the universe is because "in the thermodynamic limit" the fluctuations of a system should disappear, but our universe is rife with fluctuations.

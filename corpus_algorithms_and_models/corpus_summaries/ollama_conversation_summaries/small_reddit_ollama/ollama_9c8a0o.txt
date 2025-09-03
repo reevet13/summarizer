@@ -1,0 +1,31 @@
+Here are the selected sentences from the original text:
+
+A wired connection is more stable and less hassle.
+I'd only use wifi on desktop for gaming as a last resort.
+If you insist on using WiFi, please make sure it has antennas that are on some sort of extension, not directly attached to the back of the card.
+
+With the antennas on the back of the card, the PC case will block a LOT of that precious signal you're looking for.
+I use wifi for gaming and it's honestly a non-issue.
+
+If you set up a decent 5ghz connection on channel higher than 100 with small or none interference, I doubt you will notice a difference.
+Gratz
+That's not really how that works. You're still going to get far more packet loss
+
+The latency is more important for gaming.
+I have WiFi on my gaming pc, always had. If you are on a decent speed you are fine.
+
+Unless your router is inside your PC, I'm calling bullshit.
+Well, I am just speaking from my experience, had no issues with packet loss back when I was using WiFi.
+
+Of course wired is better and will always be, but for me differences were not so scarce.
+Again, depends on setup and connection strength. Both were rather good as PCI-E Asus network card with 2 antennas dealt with the problem nicely.
+
+I may try and find screenshots for you as I no longer use WiFi.
+
+Tl;dr it's 2018 and wifi isn't a 2g connection on a tmobile sidekick, jeez.
+That's a fourteen year old game with very limited server load, you probably could play it on a 2g connection with a tmobile sidekick...
+
+I tried wifi years ago and yeah, the packet loss was abysmal. Nowadays, it's fine as of revision AC I'd say.
+
+Well, not if it’s a PCI-e card.
+.D4% packet loss is bad.

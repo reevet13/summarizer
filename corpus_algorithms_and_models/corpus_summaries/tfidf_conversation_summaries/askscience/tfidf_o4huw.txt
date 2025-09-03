@@ -1,0 +1,133 @@
+Original Response:
+The color of the eye is determined by pigments in the iris.
+
+The function of the iris is to block all incoming light.  The only light that enters the should go through the pupil.  Light that makes it through the iris is perceived as glare.
+
+People with very light eyes may experience a little more glare than those with dark eyes.
+That's along the lines of what I was thinking, thanks :)
+["In terms of light sensitivity, which is also called photophobia, light-colored eyes, like light-colored skin, have less of the pigment melanin and are probably more susceptible to the harmful effects of the sun, like certain types of eye cancer, but I know of no good long-term studies that demonstrate that blue eyes are more sensitive to light."](http://www.nytimes.com/2005/10/18/science/18qna.html?fta=y)
+Fub fact on that, people with light-pigmented eyes have some ability to see in darker areas but are more likely to be sensitive to the light
+[deleted]
+Dear Lord, this is why I see so much goddamn glare.
+Except it's not true.
+My apologies then
+Would they also be better at seeing in the dark?
+No.  Light that makes it through the iris isn't useful to the eye.  It scatters randomly on the retina.  It is perceived as glare.
+The most important part of science is not being right, it's knowing that you should admit when you're wrong, and seek the right answer
+
+Upvoted.
+Thanks for this! Is it also possible that the amount of glare, over a long period of time could cause a decrease in vision overall? I have very light eyes and horrible vision and have always wondered if there was a correlation between the two.
+&gt;Is it also possible that the amount of glare, over a long period of time could cause a decrease in vision overall?
+
+That's a complicated question.  When you are young (like aged 1-8), it is possible to develop ambylopia.  That's when the visual input from your eyes doesn't match up and one eye is ignored.  After age 10 or so, it doesn't really occur.  So if you had a lot of glare at a young age, it is possible to have permanent effects on vision.
+
+&gt;I have very light eyes and horrible vision and have always wondered if there was a correlation between the two.
+
+What do you mean by 'horrible vision'?  Do you mean that you have to wear glasses?  If so, then no, it has nothing to do with the color of your eyes.
+
+To an ophthalmologist, 'horrible vision' means that the vision is bad even with the right set of glasses/contacts.
+
+There are syndromes that contain both severe visual problems and very light eyes.  If you had something like [ocular albinism](http://en.wikipedia.org/wiki/Ocular_albinism), you would probably know about it.
+[deleted]
+First, I have to heckle you briefly about not checking Google first.
+
+&gt; eye color vision
+
+Gives [this](http://www.nytimes.com/2009/01/20/health/20real.html) as the first result. 
+
+and (following the sidebar instructions)
+
+&gt;site:reddit.com/r/askscience eye color vision
+
+gives [this](http://www.reddit.com/r/askscience/comments/n5e46/does_eye_colour_affect_sight/) thread from last month. 
+
+
+.
+
+Second, let me point out that craigdubyah's answer is correct.
+
+.
+
+Third, I only noticed one positive study (from the 70's) by searching
+
+&gt;iris color, vision
+
+in pubmed. I can't access the fulltext from home, so I won't vouch for it. [As you can see, it alludes to the same scattered light (glare) issue craigdub brought up.](http://www.ncbi.nlm.nih.gov/pubmed/704278)
+
+&gt;Blur or degrading of the retinal image has been shown to be a factor in the formation of visual-geometric illusions where intersecting line elements are present. Light irises allow more scattered light within the eye, which results in more image degradation than found in dark-eyed subjects. Measurements on 755 observers show that illusion magnitude varies as a function of iris pigmentation for a configuration with intersecting line elements ([Müller-Lyer illusion](http://en.wikipedia.org/wiki/M%C3%BCller-Lyer_illusion)), but not for a configuration devoid of such features ([Ebbinghaus illusion](http://en.wikipedia.org/wiki/Ebbinghaus_illusion)).
+
+
+**tl;dr** what craig said.
+[deleted]
+Would someone with light colored eyes be more prone to the "photic reflex?"
+I don't know if you would consider it horrible, but I wore bifocal lenses when I was 11, which corrected the problem I was having with reading. Now I have astigmatism in one eye, and steadily decreasing vision overall. I wear contacts and the prescription is about a -5, but I haven't had my eyes checked in about two years. I am 26, and I can't see anything clearly, near or far, without my contacts. 
+
+So, I realize that all of that is probably irrelevant to r/askscience, but I'd like to know what sort of lens prescription would be considered "horrible" to an eye doctor, just so I can feel that I am measurably close/far from that number.
+My point is that to an ophthalmologist, a correctible refractive error by itself isn't that big of a deal, because it is easily treated with lenses.
+
+It sounds like you could use a visit to an optometrist/ophthalmologist to update your prescription and make sure everything is OK.
+&gt;So if you had a lot of glare at a young age, it is possible to have permanent effects on vision.
+
+That is only true if you have different eye pigments or different levels of glare in each eye.  The process behind ambylopia is based on pruning lesser-activated connections in favor of those that are firing heavily.  So, if one of the eyes is not working correctly then that eye's neurons gets pruned.
+
+If the eyes receive equal glare, no matter how intense, there will be no preferential pruning.
+Just quickly looked this up, looks like it's a genetic condition. Which I guess would suggest that those who already have the condition AND have light eyes would have a more sensitive reflex. Still, those without the condition wouldn't be affected.
+[deleted]
+I don't know if you follow American baseball, but the issue of sports performance and eye color was highlighted this past season (the NYT article gives a pretty good explanation):
+
+* [New York Times: Light-Eyed Players Deal With Glare, and Doubts](https://www.nytimes.com/2011/07/17/sports/baseball/light-eyed-players-deal-with-glare-and-doubts.html?_r=1&amp;pagewanted=all)
+
+* [ESPN.com: Josh Hamilton trying new contacts](http://sports.espn.go.com/dallas/mlb/news/story?id=6696741)
+Some days all I see is glare.
+Strange. I have grey eyes and I hardly get any glare at all. Then again, my perception of glare might be less because I'm used to it. =|
+[deleted]
+That answer is agreeing with the above...what am I missing?
+Horrible to an eye doctor - I don't know, but occular albinism - as mentioned above you tend to know about it
+
+First off you get nystagmus, which means your eyes wobble from side to side, constantly and noticeably all the time
+
+Secondly I don't have a fovea, which is the little pit at the back of your eye where light is focused to give sharper vision.  This reduces my visual acuity something rotten, especially when I am tired and the nystagmus gets worse!
+
+Thirdly my optic nerves don't do what they are meant to do, normally a proportion of the information in the left eye is meant to go to both the left brain and the right brain to aid 3d vision, (and vice versa for the right) the proportions of that for me are all wrong so my 3d vision is markedly reduced.
+You might want to consider being evaluated for [vision therapy](http://en.wikipedia.org/wiki/Vision_therapy), which is a treatment for people with poor stereopsis and/or other problems coordinating the eyes. Even if you have never been diagnosed with this problem, you may have it. It causes fatigue, jittery vision, focus problems, etc. I have just started reading on this subject, but from what I have learned, you need to see the right kind of optometrist, not an ophthalmologist (or not most of them). Here are a couple of links that may get you started: [Stereopsis](http://en.wikipedia.org/wiki/Stereopsis) and [Stereo Sue](http://www.stereosue.com/). If this is not your problem, maybe someone else will benefit.
+I don't think that's right about amblyopia or is only part of a more complicated answer.
+
+Amblyopia is one sort of compensation for [strabismus, which is a condition in which the eyes are not properly aligned with each other.](http://en.wikipedia.org/wiki/Strabismus)
+
+You may have meant something like this in your answer and left a lot off for the sake of brevity.
+Yeah, the concept is that neurons that fire together wire together.  Normally there is a lot of overlapping input from each eye (from areas in the retina that are pointed towards the same point in space) and through the process of pruning the brain creates what are called ocular dominance columns, regions where neurons of a specific orientation develop.  If you have strabismus (or for example cover your eye with a patch, or as in the case of the early research on kittens they sewed one eye shut, sad I know) then the input from one eye is pruned entirely off.
+
+I was simply commenting that the process resulting in ambylopia is caused by a defect in input from one eye, causing it to be out-competed for neuronal territory.  I was implying that since this glare situation would be bilateral, ambylopia could not come about as a result.  Ambylopia can only be caused by a unilateral vision problem.
+&gt;pruned entirely off
+
+I believe it is suppressed and/or repressed or pruned to some degree but not "entirely". It is possible for people with life-long strabismus to regain stereopsis at a much later age, even 60 or above. 
+
+&gt;ambylopia is caused by a defect in input from one eye
+
+This may also be the case, but my understanding is that it is caused by misalignment of the eyes, leading to poor coordination, which then may lead to amblyopia as a more or less "permanent" solution to the problem. As mentioned, strabismus and amblyopia can be at least partly corrected later in life providing decent to very good stereopsis in many cases.
+
+I am not an eye-care professional but do have amblyopia and have been reading up on the subject recently. Frederick Brock was an early pioneer in fixing starbismus. A popular recent book on the subject and more info can be found here: [Stereo Sue](http://www.stereosue.com/). Not sure if you want any of this info, but I feel sort of obligated to get it out there because it would have been nice if my parents had known this when I was young.
+Thanks for the info.  I have never heard of ambylopia being cured/treated later in life- I was taught that the condition was permanent.
+
+The original research into it was pretty interesting but evil- upon birth, they would suture one of a kitten's eyes shut for a period, which produced ambylopia.  They sewed adult cats' eyes shut for the same period but no ambylopia was produced, indicating that this is a stage in development of young animals.  This is important to know because human children who have an undiagnosed/uncorrected unilateral vision deficit can develop ambylopia as a result.
+I have read about those poor cats. The problems with that experiment is it became the sole foundation for the widespread belief that strabismus can only be corrected with surgery and only when the patient is very young. Other problems are kittens aren't people and infant human eyes that become strabismic are not deprived of light and do go through more or less normal development until the misalignment starts causing confusion, which happens after a few months if I remember correctly.
+
+I only know this because I have been reading about it recently. An interesting aspect of this subject is it seems that for decades ophthalmologists and optometrists have not been communicating well on strabismus. Having had personal experience--several ophthalmologists, optometrists, surgery, etc.--with amblyopia it seems kind of amazing that not one person knew about vision therapy or anything other than surgery or eye patches. (Not all optometrists know about it either.)
+
+I have also read criticisms of vision therapy. If you know of problems with it or if it is not as effective as some claim, I would appreciate that info.
+&gt;I have also read criticisms of vision therapy. If you know of problems with it or if it is not as effective as some claim, I would appreciate that info.
+
+Actually I have never heard of it at all, sorry!
+
+Summary:
+Ambylopia can only be caused by a unilateral vision problem.
+I only know this because I have been reading about it recently.
+I have also read criticisms of vision therapy.
+I have very light eyes and horrible vision and have always wondered if there was a correlation between the two.
+If you know of problems with it or if it is not as effective as some claim, I would appreciate that info.
+So if you had a lot of glare at a young age, it is possible to have permanent effects on vision.
+If so, then no, it has nothing to do with the color of your eyes.
+Light that makes it through the iris is perceived as glare.
+I have read about those poor cats.
+Light that makes it through the iris isn't useful to the eye.
+&gt;So if you had a lot of glare at a young age, it is possible to have permanent effects on vision.

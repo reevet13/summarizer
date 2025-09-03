@@ -1,0 +1,11 @@
+You are an extractive summarizer, which means you will only return sentences copied verbatim from the original text.
+
+Here are the requested sentences:
+
+* Incidentally, the fact that multiple explanations exist at all is a joke. "We're absolutely certain this [quantum mechanics being true] is a non-issue, but we can't agree on why it's a non-issue!"
+* Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near.
+* Even so, when you see all these things, you know that it is near, right at the door.
+* Truly I tell you, this generation will certainly not pass away until all these things have happened.
+* 32 “Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out [bad things happen], you know that summer [second coming] is near. 33 Even so, when you see all these things, you know that it is near, right at the door.
+* But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father...
+* 36 'But no one knows about that day or hour. Not even the angels in heaven know. The Son does not know. Only the Father knows.'"

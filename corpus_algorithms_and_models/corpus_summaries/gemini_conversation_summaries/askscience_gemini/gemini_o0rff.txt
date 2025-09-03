@@ -1,0 +1,2 @@
+Most ligands (like dopamine) don't irreversibly bind to receptors (some do...but those are special cases).
+Ach is treated the same way; acetylcholinesterase doesn't cut Ach from the receptor, it breaks it down once it's come off the receptor.

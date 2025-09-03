@@ -1,0 +1,105 @@
+Original Response:
+I have been reading up on the LHC and other particle colliders.  I am a bit of a techie and have been trying to wrap my head around how a man-made device could actually detect subatomic particles during the brief instant that they exist after a collision.
+
+I have been reading mainly WikiPedia pages about specific detectors eg. Atlas:
+
+http://en.wikipedia.org/wiki/A_Toroidal_LHC_ApparatuS
+
+But it really does not say how its magic works (unless I am just missing it).
+
+How does a machine capture the existance of something smaller than an atom, that barely exists in time, and not just detect it but tells you something of its nature?
+
+Is there a reasonably easy to understand article out there on the Intertubes about this?
+Its quite complicated and I have to get back to work, maybe I can write more later.  But here's the definitive guide:
+http://pdg.lbl.gov/2009/reviews/rpp2009-rev-particle-detectors-accel.pdf
+Wow thanks.  That is a lot of bed time reading.  I will see what I can get through with this.
+&gt; How does a machine capture the existance of something smaller than an atom, that barely exists in time, and not just detect it but tells you something of its nature?
+
+You do not directly capture this information. Instead, you look for some sort of a signature that it was there - specifically what it decays into.
+
+For example, the Higgs boson is theorized to sometimes decay into four muons, which live a long time and are detected by a variety of detectors.
+
+So you look at all events that have four muons, but how does this show you if there is a Higgs?
+
+1. Conservation of energy and momentum - the total energy and momentum of the four muons must be equal to that of the Higgs that decays into them.
+
+2. Einstein's formula: E^2 = m^2c^4 + p^2c^2 where E is energy, m is mass, and p is momentum. The important thing to note is that if you know E and p, then you can determine the mass m.
+
+3. Add up E and p for every possible set of four muons in all your events with four muons. This tells you what the mass of a particle that decayed into the four muons would have been. You don't know that a specific particle decayed into the four muons, they may be unrelated.
+
+4. Now you look at all the masses from all your four muon sets. There should be sets adding up to many possible masses, but if you see a signal of a great many sets adding up to a specific mass, this means that something is happening that cannot be easily explained by chance. This is the signal of the new particle.
+
+This is the basic idea.
+Thanks.
+
+The theory behind it makes sense to me.  The part I struggle with is where the rubber meets the road.  Specifically:
+
+"So you look at all events that have four muons..."
+
+How does a device actually detect/ register something as ridiculously small as a muon?  And how can they be sure it is a muon and not some other ridiculously small subatomic particle?  
+
+I am thinking about this from a hardware perspective rather than a theory perspective.
+&gt; How does a device actually detect/ register something as ridiculously small as a muon? 
+
+Great question! Muons may be small, but they have a lot of energy and interact electromagnetically.
+
+As they travel through matter, they deposit energy through multiple electromagnetic interactions. You can detect this through something like a Geiger counter or a piece of silicon sensitive to this sort of energy deposit. If you want to know the specifics, reading up on a Geiger counter is a good place to start. Many modern muon detectors are similar to Geiger counters but use multiple wires to determine the exact position of the particle as it passes through.
+
+The hard part is determining what sort of charged particle went through your detector. Was it a proton? electron? pion?
+
+The muon is special as it is very penetrating and can pass through very thick layers of metal. If you put detectors outside of thick materials, you can stop everything but the muons. This allows you to identify that a particle is most likely a muon.
+
+You also need to know the energy and momentum of the particle. This is the reason to create a strong magnetic field. The field will bend the trajectory of the particle and by measuring the curvature you can determine it's momentum. 
+
+Then since you know it is a muon, you know it's mass, and you can use Einstein's relationship to determine the energy.
+This is exactly what I was looking for.  Thanks much!
+
+Time to read up on how Gieger counters work and the .pdf file linked by Mr. djimbob
+Here's an attempt to briefly explain things.  I am oversimplifying things a lot and leaving lots of things out.
+
+There's two types of particles we detect.  Photons (neutral) by energy deposition into crystal calorimeters (charged particles will also deposit energy as well but will have a track).  Then there are charged particles that can have their path detected.  E.g., the charged particles could go through a gas and then ionize the gas as they pass through (creating ion pairs that will drift to wires held at specific voltages in a detector, that allow us to reconstruct the path).  The charged particles are in a magnetic field, so the radius of their track (magnetic force=centripetal force, in non-relativistic regime you have qvB = mv^2/r, r= qB/mv = qB/p) can tell you their momentum (and if it curves clockwise/CCW tells you whether they are positive/negative charge).  From the energy deposition in the wires, you can do some particle identification from dE/dx, how much energy it is losing per length it travels (which you figure out by how many charged particles go to each wire).  There's the famous [Bethe-Bloch formula](http://en.wikipedia.org/wiki/Bethe_formula) that can sometimes be used to differentiate between pions, Kaons, protons, muons based on their momentum (see Fig 28.15 in pdf).  This is related to how far it goes through the detector (e.g., muons travel further than electrons/pions).
+
+You can do also get the velocity of a nearly relativistic particle through a RICH detector, a Ring-Imaging CHerenkov.  Basically when a charged particle moves through a medium faster than the speed of light in that medium (e.g., speed of light in water v ~ .75c) it creates the light equivalent of a sonic boom, a cone of Cerenkov light at an angle that is proportional to its velocity (not its momentum).  Hence with momentum and velocity, you can determine the particle's mass and identify it.  
+
+You then use a bunch of constraints to simulate events, e.g., energy conservation (E^2 = m^2c^4 + p^2c^2), charge conservation, baryon conservation, lepton conservation, transverse energy conservation, etc.  You do really detailed Monte Carlo simulations using the known masses and decay rates of all the particles physicists know about, simulating particles going through your simulated detectors, and try testing some hypotheses on simulated data.  You try finding the events that best look like your expected signal in the muck of everything else.  You come up with an analysis that can differentiate between something meaningful, or find a particle at multiple masses.  Only then do you begin to look at the data.  
+
+Using all this information, you look at millions (out of billions) of events do tons and tons of simulations and do a statistically sound analysis of the events, and try getting an effect that is statistically significant (~5 std dev).
+Thanks a ton djimbob.  Great answers to my question
+Looking through the thread there's a lot of good info here, and I'll throw in a little bit more: a difficult problem in doing this whole business is how to differentiate different particles.  In particular, say you have some kind of ionization system that tracked a charged particle through your detector.  How do you know what kind of particle it was?  There are many possibilities: in particular it can be a
+
+* pion
+* Kaon
+* proton
+* electron
+* muon
+
+You need to be able to tell them apart, so what do you do?  For starters, the information you have now (the "hits" through the detector) can be used to find the momentum of the particle (because your detector has a fantastically strong magnetic field which bends the particle according to its momentum).  But that's not enough by itself.  Basically you can think of it this way: (E, px, py, pz) represents 4 degrees of freedom.  Together you can use them to find the unknown mass and thus identify the particle.  But the track of the particle by itself only gives you px,py,pz.  How do you get a 4th piece of information?
+
+As suggested later in the thread, muons can punch through a great distance, and so in CMS or ATLAS thats a dead giveaway.  For others such as the B factories, pions can mimic muons very closely in this behavior.  As it so happens though, we have options:
+
+* Calorimetry: This has two goals.  First: try to get the particle to deposit its energy in the detector completely (i.e. stop it) and then measure the energy in that part of the detector.  The second function is that different materials can be used and which material the particle interacts with will let you separate hadrons (strong interaction) from leptons (only electoweak).  Electrons, for example, can be stopped in CsI crystals, which scintillate and give you a measure of the energy, where as pions will go through without stopping until they hit a dense material like lead where there are a lot of nucleons to collide with.
+
+* That's how you get at E, but you can also try to get at v!  If you know the momentum AND the velocity you're in good shape too.  So there are different ways to try to measure the speed.  One option is cherenkov light.  When charged particles pass through a material faster than c/n for that material, they emit light in a cone.  The cool thing is that the angle this cone opens at is determined only by the speed and the material.  So that's one way to get at v.
+
+* Another way to get at v is the so called "dE/dx".  Instead of measuring the Energy, you measure how quickly it looses energy in your detector.  (For example, in your tracking system don't just measure whether it passed or not, also measure how much it ionizes the material).  It turns out that how a charged particle looses energy in material only depends on it's velocity (see the [Bethe-Block formula](http://en.wikipedia.org/wiki/Bethe_formula)).  So that helps.
+
+* Finally you can do the simple minded thing and do a ToF (time-of-flight) measurement, where you simply timestamp (very very very precisely) the arrival time at a part of the detector.  If you know the collision time, the distance it travelled (since you fit it's path earlier) and the time it arrived, you can get an average speed.
+
+And that's how so called charged PID (charged particle identification) works.  Usually.  There's all sorts of clever ideas out there to improve and supplement, these are the basic principles.
+I'm need to get back to work as well now.  Please reply with any questions
+
+EDIT: here's a image from CMS summarizing how the different parts of the detector help differentiate particles http://cms.web.cern.ch/cms/Resources/Website/Media/Videos/Animations/files/CMS_Slice.gif
+Another fine post.  Thanks ZBoson!
+
+Summary:
+You also need to know the energy and momentum of the particle.
+stop it) and then measure the energy in that part of the detector.
+This tells you what the mass of a particle that decayed into the four muons would have been.
+How do you know what kind of particle it was?
+I will see what I can get through with this.
+Then there are charged particles that can have their path detected.
+This allows you to identify that a particle is most likely a muon.
+Hence with momentum and velocity, you can determine the particle's mass and identify it.
+You don't know that a specific particle decayed into the four muons, they may be unrelated.
+Now you look at all the masses from all your four muon sets.
+The hard part is determining what sort of charged particle went through your detector.

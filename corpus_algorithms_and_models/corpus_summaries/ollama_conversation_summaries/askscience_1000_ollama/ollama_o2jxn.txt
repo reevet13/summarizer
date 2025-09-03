@@ -1,0 +1,13 @@
+Here is the summary of approximately 10% of the text, up to 250 words:
+
+So as far as I understand, inflation is a very, very, VERY fast expansion of the universe in a very short period of time after the big bang. It solves the problem of the smooth distribution of matter and energy in visible space.
+
+But isn't inflation just constructed around the problem, that we can't explain this phenomenon ?
+
+I also read that the background radiation can be "predicted" with the inflation model, but how can a model predict a seemingly random distribution so accurately ?
+
+The important features of the Cosmic Microwave Background are not random, though.  The CMB is remarkably relatively uniform, without strong large-scale features in it.
+
+When we say, that "the theory predicts CMB fluctuations accurately", we don't mean, that we can reproduce the exact shape of the CMB fluctuations. It is just the statistical distribution of various quantities that you can calculate from it.
+
+So _if_ the inflation model is true, it is, in fact problem, why we even have any inhomogeneities in our universe.

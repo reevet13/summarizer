@@ -1,0 +1,11 @@
+Rotation does in fact produce time dilation. For the purposes that you are looking for though, it would not have the effect you want. Any time you have a time dilation it is in regards to a specific reference frame. Since an object is at rest in its own reference frame, P's non-zero time dilation as measured by S or O could do nothing to offset the time dilation of S as measured from P.
+
+You actually cannot have any kind of time dilation due to rotation, but you do from translation (as you actually have a certain speed seen from Earth for example). Your onboard clock will be slower than a clock on the planet.
+
+The major problem I see in this is the presence of a very strong manifestation of inertia pulling you outside of your orbit (centrifugal force). Wich magnitude is proportional to square of the linear speed you travel (In classical mechanics). So I only see you getting smashed on the walls of your ship, or the ship itself breaking itself violently like [this](http://www.youtube.com/watch?v=FmRV8wNJdKY&amp;feature=related). :S
+
+Special Relativity does not care about the direction of motion, only the relative magnitude.
+
+Others have pointed out that this is incorrect, but I'll add that we have actual evidence of time dilation due to rotation: GPS satellites rotate around the center of the Earth, and they experience time dilation, which their software has to correct.
+
+The rotation of satellites around the Earth is what gives them speed relative to a point on the surface, and that results in time dilation relative to those points.

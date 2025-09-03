@@ -1,0 +1,38 @@
+You can't have still air with a flame, as the flame will heat the air and the air will start circulating.
+And air circulation due to heating requires gravity to work.
+In microgravity experiments, the lack of air circulation causes flames to burn out, as no new oxygen is brought to the combustion source.
+The microgravity flame, prior to it burning out, does not flicker, and is [spherical](http://www.scientificamerican.com/article.cfm?id=how-does-a-flame-behave-i).
+This isn't true. Flames in zero gravity conditions receive oxygen via diffusion.
+This may or may not cause the flame to burn out depending on the details of the fire (ie how fast it burns).
+"Low Velocity" flames will still flicker, even in a windless environment.
+The reason being is the combustion reaction yields inherent instabilities causing turbulent flow of the outbound products.
+If you take the same reactants and increase their discharge velocities sufficiently (such as from a blow torch) the flame will stabilize because the velocity is sufficient to maintain laminar flow while the product temperatures are still high enough to yield a visible flame.
+Eventually the product gas velocities will drop and become turbulent, but after they have cooled to the point that they are no longer visible.
+Many times the flicker is due to uneven fuel flow through the wick.
+This comes from my own candle-making experiments in which I attempted to optimize the burn duration of a beeswax "tea light" style candle with a hemp twine wick.
+As the wick performance for paraffin-based tea lights is the industry standard I attempted to emulate the characteristics of those tea lights.
+One issue that is present with bees wax that is not with paraffin is that bees wax contains many more impurities.
+The properties of the hemp wick are also different than that of the cotton fibers used in a traditional tea light candle.
+The wick in a bees wax candle tends to build up a thick, hard clump of these impurities at the base of the flame floating on top of the wax.
+These coalesce into a mass that does not easily absorb or transfer the molten wax to the point of the flame.
+This impedes the flow of fuel from the reservoir of molten wax to the point of combustion at the top of the wick.
+If this mass is manually removed from the candle's wick periodically, the flickering of the candle's flame is immediately and perceptibly reduced.
+To test the theory that the flow of fuel is the cause of this flickering I constructed multiple test candles with various wick thicknesses and designs with the wick base being constructed as identically as possible in each.
+I found that a larger diameter wick was capable of providing more consistent, but also more a more rapid flow of fuel.
+A smaller wick would often be so starved of fuel that it would burn the hemp fibers in the absence of wax, and eventually extinguish itself.
+Relighting a candle with an insufficient wick is difficult as there is frequently insufficient exposed surface area remaining after it has burnt out to maintain a flame.
+There are other factors that exacerbate the inconsistent flow of fuel and therefore increase the extent of the flickering.
+One being that as the flame gets hotter it will melt wax more wax and fill the pool at the base of the wick to a greater extent.
+This additional fuel reduces the surface area of the wick and thereby reduces the intensity of the flame.
+This reduction in heat output slows the melting of wax and causes a shortage of available fuel to refill the pool of wax at the base of the wick.
+This means that as the currently-molten wax is taken up through the wick it is exposing more surface area of the wick.
+This additional surface area allows the flame to get more fuel and increases the intensity of the flame.
+This increased heat melts more wax causing the pool to fill up and again reduces the surface area of the wick available to the flame.
+This repeats in a cycle.
+In my experiments I was able to reduce this effect by putting a thin layer of metal with a hole in it over the candle's container with the wick exposed.
+This was intended to evenly distribute the heat, and to act as a heat-sink, alleviating rapid changes in temperature of the flame.
+This resulted in a significant reduction in flickering behavior.
+Another flame-based lighting device that employs this technique is an oil lamp wherein the fuel is stored in a reservoir separate from the point at which combustion occurs.
+This allows the viscosity of the fuel to be separated by some distance and by a significant amount of thermally-insulating material (glass), while having a metallic wick housing which would maintain a consistent temperature aiding in the evaporation of the fuel.
+When an oil lamp starts flickering you trim the wick to reduce the carbon buildup and allow a consistent flow of fuel.
+The impurities in the bees wax made the flickering more pronounced, especially when they built up around the base of the wick and impeded the flow, causing an exaggerated flickering effect.

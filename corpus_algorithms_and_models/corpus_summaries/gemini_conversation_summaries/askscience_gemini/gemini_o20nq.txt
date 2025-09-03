@@ -1,0 +1,6 @@
+Important to note is the distribution of the receptors and the interactions with other neurotransmitters.
+It appears that the [Adenosine A2A, but not A1, receptors mediate the arousal effect of caffeine](http://www.ncbi.nlm.nih.gov/pubmed/15965471).
+The A2a is primarily located in the striatum and is believed to have a direct functional relationship (specifically an inhibitory modulation) with the dopamine D2 receptor.
+So when caffeine antagonises the A2a, there is a reduced inhibitory modulation of the D2-&gt; leading to increased D2 activation.
+I think it is important to emphasise that terms used in describing the neurophysiology of action potentials and neural signalling such as "excitatory" and "inhibitory" have very specific definitions.
+For this reason "wakefullness" is not just about causing action potentials.

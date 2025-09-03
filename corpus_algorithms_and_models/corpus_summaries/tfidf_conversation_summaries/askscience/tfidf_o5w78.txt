@@ -1,0 +1,36 @@
+Original Response:
+Seems like it's becoming harder for scientists to actually pin down discoveries (Higgs boson, dark matter and the like)
+Yes, the rate of scientific discovery is and always has been increasing. But interesting to note also is the rate of increase itself is also increasing.
+What do you define as a discovery?
+
+There are thousands of research papers submitted weekly.
+
+There might be fewer fantasized headlines about science, but that's because magazines and TV stations don't report on most of the scientific discoveries that are made.
+I don't really know what to define as a 'discovery'. I imagine a research paper probably counts though, as they have to have discovered something.
+If that is your definition, the rate is definitely increasing.
+Well, maybe not. They may have just validated an existing idea with new experimentation, or simply found that their hypothesis was wrong, or that a given system cannot be explained using existing models.
+Many people, me among them, think that the rate of progress is in fact increasing, known as the Law of Accelerating Returns.  You can find a good explanation of it [here](http://www.kurzweilai.net/the-law-of-accelerating-returns).  If you look at cost effectiveness of [CPUs](http://www.singularity.com/charts/page61.html), [hard drives](http://1.bp.blogspot.com/-LHoWVgcz0AM/TfJZaS5DZiI/AAAAAAAAPYw/HNZB_Rw-1L4/s1600/hd-cost-graph-small.jpg), [genomic reading](http://www.genome.gov/sequencingcosts/), and many, many, other important technologies (notice these graphs are basically straight lines on a log graph, which indicates an exponential trend) what you find is an exponential increase in performance per dollar over time (Moores Law is one example of this, for the number of transistors you can fit in an area for a price).
+
+Although not really scientific, someone went around asking experts in a bunch of different fields what they thought were the most important discoveries of all time and put them all on a timeline.  This timeline showed an exponential increase in the number of these discoveries over time, with very few spread out over long periods thousands of years ago until the recent explosion of great discoveries in the recent past.
+
+Just consider that from the invention of language, the wheel, farming, and tools happened over many thousands or tens of thousands of years, while the invention of the plane, the computer, genetics, cell phones, the internet, space flight, satellites, pacemakers, cochlear implants, and so much more has happened in just the last hundred.
+
+If you also consider the number of people with access to the (near) sum of human knowledge, the ability to read and write, and the ability to publish information in a way that will never be lost to time is growing exponentially, it seems to indicate that the amount of scientific work that can and will be done must also be growing exponentially.
+
+So given all of this, why does it seem to some people that there is not as much going on?  I think it is because the frontier of scientific knowledge is so far from an average education, that the really important breakthroughs are not obviously important to everyone since they cannot immediately grasp the concepts.  It is no longer possible for a single person, even an expert, to know half of what there is to know in a field today, so what does this mean for the layman?  Even if you were to only read the headlines of the new breakthroughs in modern science every day, i'm not sure you could read them much faster than they are coming in.  
+
+So to understand WHY it is so important that we can now generate power from implanting bio fuel cells into bugs, or WHY it is important that a CAD like piece of software is being developed to allow people to design genetic structures on their computers you have to have a certain level of education about those topics, a level that most people just don't have.
+yo dawg...
+Discovering that your hypothesis is wrong is still a discovery. In fact, it can be the most exciting type of discovery.
+&gt;Just consider that from the invention of language, the wheel, farming, and tools happened over many thousands or tens of thousands of years, while the invention of the plane, the computer, genetics, cell phones, the internet, space flight, satellites, pacemakers, cochlear implants, and so much more has happened in just the last hundred.
+
+During the same period our population increased dramatically also. It is hard for me to ignore the role that fossil fuels played in this phenomenal expansion.
+
+I would think exponential growth of the population implies exponential growth in scientific expansion.
+Population growth is certainly one of the reasons we see an increase in the rate of advancement, which I said above.  The fossil fuels were there all along, it is the technology to use them that helped the expansion.  And that is really the point, that new technology opens more avenues for advancement, and those advances do the same.
+2nd derivative for the win.
+
+Summary:
+I don't really know what to define as a 'discovery'.
+Yes, the rate of scientific discovery is and always has been increasing.
+If that is your definition, the rate is definitely increasing.

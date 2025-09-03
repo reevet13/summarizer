@@ -1,0 +1,4 @@
+You're just taking a container and removing the air from it, and it's impossible to achieve a perfect vacuum.
+Even if you remove all matter from space, there is still "energy" in a vacuum.
+Experimental evidence for this can be found by looking into the [Casimir Effect](http://en.wikipedia.org/wiki/Casimir_effect).
+There are still atoms floating around in space, but they're very far apart.

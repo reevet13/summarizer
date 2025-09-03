@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text:
+
+My (poor) understanding is that the actin filaments interact with the myosin filaments like a linear stepper motor.  Could they be arranged in a circle create a rotary stepper motor, so to speak?
+
+Purely in theory, if actin &amp; myosin were circular rather than linear, they would behave in a rotary fashion.  This would be on a very small scale though.
+
+You could say the heads walk across the actin fibers, but you need to remember that the heads are connected to a longer filament.  And at the other end of that filament are other filaments with heads facing the opposite direction.
+
+I don't like the walking example because it implies that the myosin moves across the actin, like your body moves across the ground.  Because myosin pulls actin in from both directions, I think it's better to visualize myosin as stationary &amp; it pulling actin in from both ends.
+
+At both ends, myosin repeatedly grabs actin &amp; pulls it towards the middle in a ratchet-like motion.  Eventually the actin will collide in the middle (this can happen), but by that time the muscle has shortened to maybe half of its original length.

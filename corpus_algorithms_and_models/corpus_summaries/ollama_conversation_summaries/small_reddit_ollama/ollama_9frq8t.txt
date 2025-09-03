@@ -1,0 +1,19 @@
+Here is the extracted summary:
+
+In order to accurately estimate the excess number 
+of deaths due to Hurricane María, the Governor 
+of Puerto Rico sought an independent assessment 
+of  mortality and commissioned The George 
+Washington University Milken Institute School of 
+Public Health (GW SPH) to complete the assessment.
+
+We implemented the project as three studies, each with specific yet complementary methodologies.  
+Our excess mortality study analyzed past mortality patterns (mortality registration and population census data from 2010 to 2017) in order to predict the expected mortality if  Hurricane María had not occurred (predicted mortality) and compare this figure to the actual deaths that occurred **64** (observed mortality). 
+The difference between those two numbers is the **estimate** of excess mortality...
+
+...If  Hurricane María had not occurred (predicted mortality) and compare this figure to the actual deaths that occurred **64** (observed mortality). 
+The difference between those two numbers is the 
+
+#estimate 
+
+of excess mortality..."

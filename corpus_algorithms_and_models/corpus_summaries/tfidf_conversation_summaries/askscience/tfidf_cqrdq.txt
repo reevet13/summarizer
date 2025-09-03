@@ -1,0 +1,74 @@
+Original Response:
+So this all started when I watched this video: http://www.tenthdimension.com/medialinks.php 
+a couple of years ago. Through that video I began developing my own idea of how dimensions are set up and would like to get some insight to fine tune my idea or shoot it down for the crackpot theory that it is.
+
+Anyway here is my idea about dimensions (it is quite lengthy so get a drink)
+
+1st dimension. Like the video said is a point. A point in which if you were to be suddenly transfer into the 1st dimension  you would not be able to see things in the 3rd dimension because they have depth which does not exist in the 1st dimension. Like a balloon would look like a hollow circle. Also things in the 1st dimension can only move one way, follow one thing, and can only do one thing. That is why I think that atoms are beings that reside in the 1st dimension. They are small things that cannot see the greater product of what they make. They only know one thing and perform one function. 
+
+2nd dimension. Again like the video it is a split. If beings from the 1st dimension were to suddenly transfer to the 2nd dimension it is like they suddenly get a choice. They can choose to either go to point A or point B. These beings are pretty basic and they can choose from a limited amount of predetermine choice. I think that computers and robots are the beings that reside in the 2nd dimension. They have a set world with rules that they have to follow. They respond with inputted commands that let them choose to either follow it or do something else. They cannot make their own choices as they need to be told what they can do before they can actually do it.
+
+3rd dimension. That is where we are. This is where I differ from the video because this is where free will comes into play. As human beings we have the free will to choose how we want our lives to turn out. We make choices throughout our whole lives that affect us in the future. This gives us depth and that is the essence of the 3rd dimension. How many times have we seen in movies where the main character is presented with an ultimatum but choose a 3rd choice instead? The main character when presented with choice A or B can somehow say neither and create his own choice C. Whether the third choice is better or worse is up for debate but the point is that we all have free will to choose from. We do not follow some program code or fate really because our choices are fuel by our own individual desires. Basically our soul, if you will, gives us the freedom to choose what we want, not what somebody else have designated for us to choose.
+
+4th dimension. Time. This is where we have an outside view of the whole time line of the universe. If we were to somehow get into the 4th dimension we would be able to see all the choices we could make, all the choices we didn't make, and the outcome of all these choices. This is contradictory to what I said about the 3rd dimension because now someone can argue that we don't actually have free will because beings from the 4th dimension can see all the choices we can make making our free will predetermine. However we do actually have free will because all the different paths in life we could have taken and all the different paths in life that we did not take are all encompass in the 4th dimension. Parallel universe and basically if we look back to the 1st dimension a single atom that goes only one direction. All the choices we can make, all the ones we can create, all the ones we had no idea we could have made are all encompass into a single point in that it only obeys one universal rule, time.
+
+5th dimension. I basically follow the videos model of dimensions in that it repeats itself every 3 dimension. So if the 4th dimension is time then the 5th would be if we somehow can plot our own time line. This is if we ever actually got to a point where we can see our own future, see how the choices that we make today will affect us tomorrow. Then we are able to travel from one universe to any of the other parallel universe of our choice because we become the master of time. For me this is when technology becomes so advance that it can help us predict our own lives and allow us to go where we want to go, giving us a choice. Of course the choice that we are given are already predetermine because basically we can say choose A or B in which A is to buy a lottery ticket and lead a rich life or B don't buy the ticket but instead go to the beach in which you meet the love of your life. We can only choose one of the other since if we buy the ticket we lose the opportunity to go to the beach that day in which we find love. 
+
+6th dimension. Like the 3rd dimension this is where depth and free will comes into play. This is when we as a species evolve to a point that time and choices doesn't matter. We can choose to become anything and everything we want. A creation of choices that were not already there for us to choose from. If say a being in the 6th dimension wants to transform from a human to a doughnut. Quite literally impossible but for a being in the 6th dimension they can see all the choices that is left up for them to decide when they are human. They can then say fuck it, I don't like any of these choices I'd rather be a doughnut and create their own path that would lead them to somehow transform into a doughnut. Quite a stretch to imagine and I have no idea how one can turn into a doughnut but beings in the 6th dimension have the power to choose whichever time line they want to be in and the freedom to create their own time line.  
+
+that's it for now. I would really appreciate some constructive criticism or a different perspective on this idea that I've been mulling over in my head. Also some thoughts from people who actually know what they are talking about, an expert opinion, would be awesome.
+[Flatland: A Romance of Many Dimensions](http://www.abebooks.com/products/isbn/9780486272634)
+It's a bit hard to say anything other than neither your ideas and the video's have much to do with the concept of dimension in either science or maths :S
+
+(To be fair the video ok up to 4, but there's nothing ground-breaking about [length,width height, time]).
+care to link me to some informational materials regarding dimension in science or math? how do both of those subjects view dimensions as?
+sounds interesting. I've heard of this book but never got around to getting/reading it. I'll keep it in mind next time I find myself at a bookstore
+One way to think about it is that dimensions relate to how much information is required to specify the state of something. We say that space is 3-dimensional because 3 numbers are required to specify the location of a point.
+
+[Here's a nice introduction](http://goodmath.blogspot.com/2006/04/dimensions.html) that specifically aims at dispelling some myths. For actually understanding the concept of dimension (rather than just reading descriptions) I would recommend studying linear algebra or topology.
+
+Just to address a few more misconceptions:
+
+1. Both your ideas and the videos ideas talk about dimensions as if they build on the ones below. In reality there is no hierarchy, the numbering of dimensions is arbitrary. For example, it doesn't really matter what order we build up the [length, width, height, time] space.
+
+2. After "time" both you and the video switch to talking phase-space (without knowing it). That is you start talking about possible configurations of a system inside some physical space, rather than identifying a point in a physical space. You are now talking about a completely different beast, and as such the descriptions go completely off the rails.
+
+3. Working with higher-dimensional phase-spaces is very common, and there is no need to invoke modern physics to talk about them. For a mundane example: to keep track of the state of an system of *two* points in 2-d space, we need 4 numbers: [x1,y1,x2,y2] - the [x,y] positions of each point. Thus the phase-space of the system has 4 dimensions. This is an example of an abstract 4-dimensional space which is very different from the spacetime example.
+
+4. Sorry if the above was a bit confusing, but it leads onto my next point. Both you and the video talk about "all possible universes". If you followed my second point, you will realise you need more than 5 or 10 or even a million numbers to specify the state of a universe.
+
+5. I hope it is also clear now you can't talk about *the* 5th dimension unless you define the space you are working in. For this reason your idea of dimensions make no sense: we have no context.
+
+Sorry if I didn't do a very good job explaining this, it's hard to explain dimension without maths because it is a very abstract mathematical concept.
+thanks for your time and the link. i appreciate you schooling me on this subject and giving me something to read. up vote for the reply, again thanks.
+I took undergraduate linear algebra.  I have no idea how it might relate to dimensions.  It was all just array manipulation, as far as I can remember.
+
+Is this one of those "They teach you a gross simplification of the subject in undergraduate courses" kinda fings?  Or am I just thick?
+I'm very surprised that the concept of dimension didn't come up.
+
+To give a brief outline (a good theoretical linear algebra course should have taught of all the concepts I've linked to):
+
+Linear algebra is the study of [vector spaces](http://en.wikipedia.org/wiki/Vector_space). Vectors spaces are a collection of vectors which is closed under addition and scalar multiplication (along with some other nice properties).
+
+A set of vectors `(v_1,v_2...v_n)` is called a [span](http://en.wikipedia.org/wiki/Linear_span) of a vector space if all vectors in the vector space can be generated by linear combinations of the set. That is any vector v can be written as `v = c_1 * v_1 + c_2 * v_2 + ... + c_n * v_n` where `c_1` to `c_n` are scalar constants.
+
+A [basis](http://en.wikipedia.org/wiki/Basis_%28linear_algebra%29) of a vector space is a set of linearly independent vectors which span the vector space. Informally it is the minimum number of vectors that are required to span a vector space.
+
+Finally, the size of the basis is the [dimension](http://en.wikipedia.org/wiki/Dimension_%28linear_algebra%29) of the vector space.
+
+Example: Normal space is spanned by the vectors [1,0,0], [0,1,0] and [0,0,1]. These are linearly independent and thus form a basis. Therefore space is three-dimensional.
+
+To tie this all back to arrays: If you have a basis for a vector space then (as I said before) you can write any vector in the space as `v = c_1 * b_1 + c_2 * b_2 + ... + c_n * b_n`. Writing all the `b_i` vectors out is tedious because they are always the same so we just represent a vector v by the list of scalar values `[c_1,c_2...c_n]`. This is the array notation of vectors that you are used to.
+
+Summary:
+Like the video said is a point.
+This is where I differ from the video because this is where free will comes into play.
+I have no idea how it might relate to dimensions.
+That is why I think that atoms are beings that reside in the 1st dimension.
+how do both of those subjects view dimensions as?
+Like the 3rd dimension this is where depth and free will comes into play.
+This gives us depth and that is the essence of the 3rd dimension.
+That is where we are.
+A creation of choices that were not already there for us to choose from.
+If say a being in the 6th dimension wants to transform from a human to a doughnut.
+Both your ideas and the videos ideas talk about dimensions as if they build on the ones below.

@@ -1,0 +1,13 @@
+Here are the sentences extracted verbatim from the original text:
+
+* Fat needn't necessarily being converted to glucose via hepatic gluconeogenesis before it can be used as a fuel source, there exists an (simplified) fatty acids --beta oxidation-->&gt; acetyl-coA --mitochondrial krebs cycle-->&gt;ATP pathway.
+* Not even the brain, as many claim needs glucose, instead it is able to metabolize ketone bodies as a fuel source in the absence of dietary carbohydrates.
+* You can convert the glycerol backbone of a tri-acyl glyceride into a single glucose molecule, but then you convert the free fatty acids using the pathway that you stated.
+* Some amino acids can be converted to glucose, but only the ones that can be converted to pyruvate or oxaloacetate and you can't preferentially select.
+* My sources for the physiology of muscle catabolism during hypocaloric diets are text books that I have no way of putting on the internet without great effort.
+* Those studies don't exactly fit the scenario I was looking at. The first is with adolescents on extremely high protein diets. Their bodies are physiologically programmed to put on muscle at that age and with a sufficient dietary source of amino acids, they use them before they are incorporated into muscle, hence no muscle loss.
+* Your second study restricted carbs, but not calories. I couldn't access the entire article, but to make up for restricting carbs, they had to increase fat and protein so it's likely the same scenario as above.
+* Indeed! It looked like it was fat that was implied to be the substrate for the gluconeogenesis yielding glucose, which it isn't, hence me asking for a clarification!
+* The only part of fat that can do that is the glycerol backbone of a tryglyceride. Otherwise it does run forward from Acetyl CoA through Krebs/ETC as you pointed out.
+* There exist latency in terms of converting stored fat into glucose so consequently your muscles are not contracting at the speed they previously were when relying chiefly on getting glucose from your glycogen stores.
+* It runs "backwards" during gluconeogenesis, which happens when you have decreased glycogen stores/glucose. You can have proteins entering the pathway at pyruvate or OAA and from there you can run back "up" the pathway to glucose--with a reroute or 2 around non-reversible steps, of course.

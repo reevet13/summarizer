@@ -1,0 +1,41 @@
+You actually start with 4 protons.
+When two protons fuse, one of them almost immediately undergoes beta+ decay, which converts a proton to a neutron.
+
+If you compare the mass of 4 protons to the mass of a helium nucleus, you will find that the 4 protons weigh more.
+Fusion releases the binding energy of atoms, what that means is that helium is actually more stable than hydrogen.
+In fact all the particles as they increase in mass are more stable.
+That is until you reach iron, elements the weight of iron and higher actually lose energy as they fuse.
+This is how the star remains powered, it releases the energy that is no longer needed to hold the atom together as photons.
+Once iron begins fusing it becomes a run away process, massive and energetic atoms continue fusing creating heavy elements until you reach the point of electron degeneracy (all the protons absorb electrons and become neutrons) this forms a neutron star which is much smaller in size than the original star.
+The corona (outer layers of the star) collapses into the neutron star which causes a massive ejection, this is what we observe as a supernova.
+I'm not an expert in atomic chemistry, but I can see how Helium would be at least in some ways more "stable" than Hydrogen.
+The biggest reason is that Hydrogen is a very reactive element -- it's actually our most efficient rocket fuel.
+Helium on the other hand is a noble gas -- it hardly reacts with anything at all.
+In fact, we use Helium to pressure fuel and oxidizer tanks *precisely because it wont react with them*.
+
+I was under the impression that stars *can* fuse elements heavier than iron but that's the turning point in a stars "life."
+When a star begins fusing iron, it is now losing energy and feeding on the energy it still retains from other reactions.
+As this happens the star is "dying" and can expand, explode, etc... per lots of physics others understand better than I do.
+1). the nuclei of atoms have to be smashed together with a large amount of energy, ie in a high temperature and pressure environment, because the are both positively charged and without a sufficient amount of energy the will not actually collide.
+If it was so easy for atoms to fuse almost everything would be iron by now.
+
+if a nucleus is unstable it will more likely do fission instead of fusion.
+
+[nuclear binding graph](http://en.wikipedia.org/wiki/File:Binding_energy_curve_-_common_isotopes.svg) this shows that iron is the most energetically stable because the binding energy is the highest.
+
+2). yes, that is binding energy
+
+3). when stars start to fuse iron energy is absorbed instead of released causing the supernova, because the engergy produced from fusion was used to conteract gravity
+I understand that helium is chemically stable, that's because it has 2 electrons in it's outer ring, and the first ring only wants 2 electrons, so it doesn't easily react.
+I was under the impression that had nothing to do with fission or fusion.
+
+EDIT: changed "it's" to "helium" so it was easier to understand what I was referencing.
+the stability of a nucleus has nothing to do with the stability of a atom in bonding, ie radioactive carbon 14 versus carbon 12
+Right.
+I figured there would be more to it in terms of fusion reactions.
+I'm just as confused as the OP in regard to Hydrogen being "less stable" than Helium as there are isotopes of both.
+I suppose is it just based on their comparative half-lives?
+stable nuclei don't decay ever.
+You can kind of compare the nucleus to different types of molecules, some are stable and some aren't, and even if they are stable some can be more stable as they are more tightly bound.
+
+[Here's the Wikipedia article on stable isotopes, and it goes into it more indepth than i can](http://en.wikipedia.org/wiki/Stable_isotope)

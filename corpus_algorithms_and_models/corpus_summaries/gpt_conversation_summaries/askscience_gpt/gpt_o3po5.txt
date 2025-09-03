@@ -1,0 +1,6 @@
+We should be talking weight, not mass.  
+Depends on how it hovers. Something like a wasp is hovering from flapping wings, and that works because those wings are pushing down on the air. The air, in turn, pushes down on the tupperware and that will have the same effect on the measurement from the scale.  
+Result: Busted - truck does not get lighter when birds flying inside the cage.  
+For the example of the flying wasp, it is pushing off of the air contained in the tupperware, so the total mass of the system is unchanged.  
+If the tupperware is air-tight, then it doesn't matter if the wasp is flying or landed.  
+If the container is open-topped, then the weight of the system is dependent upon the flying height of your wasp. The higher it is, the smaller the force exerted onto the container (thus a scale that measures the weight).

@@ -1,0 +1,17 @@
+Here is a summary of approximately 10% of the text, up to 250 words:
+
+Hello everyone, for the past few months I've been having really bad FPS drops in TF2, particularly when there's alot of players around/ on-screen.
+
+In pubs the FPS usually drops to around 40 FPS during team fights in mids, and it drops to 20 on community servers with 32 players.  I've got an i5-2400, GTX 760 and 8GB of ram.
+My GPU is normally at about 30% and my CPU cores are all usually at 70%, never  hitting 100. RAM usage while playing is usually 5-6 GB.
+
+What I've tried;
+
+* Lowest video settings
+* Highest video settings
+* Setting threads used to 4 with launch options
+* Potato graphics config
+* Re installing the game
+* Verifying files
+* Updating Nvidia drivers
+* Disabling my iGPU

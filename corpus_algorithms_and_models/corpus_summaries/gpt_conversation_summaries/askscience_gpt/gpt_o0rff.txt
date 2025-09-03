@@ -1,0 +1,11 @@
+Most ligands (like dopamine) don't irreversibly bind to receptors (some do...but those are special cases). It's a constant popping on/off that is dependent on concentration. You have **R**eceptor, **L**igand and an RL complex of receptor and ligand bound together.
+
+When the signal goes away, you pull away the L. As a result, the amount of RL diminishes as it dissociates to reestablish equilibrium to the new concentration of L. This is what happens as ligands are enzymatically broken down or reabsorbed. 
+
+Ach is treated the same way; acetylcholinesterase doesn't cut Ach from the receptor, it breaks it down once it's come off the receptor.
+
+DA receptors are GPCRs (G-protein coupled receptors), and are not ion channels. They can have an effect on the electrophysiology of a cell due to calcium signaling, but I don't think that's going to affect depolarization directly.
+
+IN the nervous system, GPCRs are generally involved in modulation of signals. No rapid changes in membrane polarization, but they modulate the activity of other processes, including the activity of some ion channels, making them more sensitive.
+
+DA receptor actions can have effects on a seconds to milliseconds scale, and some  effects can be long lasting in terms of lasting a few minutes to lasting weeks or even months (potentially).

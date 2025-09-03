@@ -1,0 +1,15 @@
+Here is the summary:
+
+Everything else works, but twice now, that's two wasted DVD-R discs, it's failed at 95.06%. I tried reconnecting my disc drive, I've plain just tried again, but it just doesn't work.
+
+The only "successful" DVD burnings I've had have been making an ISO in DVDStyler and burning it with ImgBurn or just with Windows' default burning thing. Not Media Player. Just the option when right-clicking an ISO.
+
+These turn out to be data discs that won't play on my PS2, and probably not on a DVD player either. You have to navigate to the file on the PS3 to watch the video, and it doesn't include the menu I put hours into.
+
+Have you tried reinstalling DVDStyler?
+
+I did, and now it won't progress past the beginning of "Transcode video 1 of 1 (Encoding Mode: CBR)".
+
+Damn it!
+
+To me, it looks like some sort of integer overflow.

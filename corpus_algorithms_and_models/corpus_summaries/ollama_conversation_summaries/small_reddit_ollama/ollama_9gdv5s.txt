@@ -1,0 +1,32 @@
+Here are the extracted sentences:
+
+This is what I’m going with for my first pc build.
+My main question is would it be worth going up to the 8700k?
+And would the cooler I chose be enough to keep either the 8600k or 8700k cool enough until I add more fans?
+
+Mostly gaming and probably some light content creation in the future.
+Streaming / Recording / Editing? If yes, I would go with the 8700k.
+
+The 8700k and the 8600k are hot chips. I use a h150i with my 8700k and it works very well even when overclocked.
+
+Generally, liquid cooling is better. However, Noctua’s high end air coolers would suffice (I.e., Noctua NH-D15 SE-AM4 Premium-Grade 140mm Dual Tower CPU Cooler for AMD AM4)
+
+Ok nice thank you so much for helping me out.
+Would you recommend getting a 1060?
+
+Hello, and thank you for your comment.
+
+What resolutions, settings and franerates are you looking for?
+I strongly suggest the previous mobo.
+
+Ahh, I actually saw that and meant the 8600k.
+
+I wanna be able to do very high to ultra settings for 1080p.
+Maybe 2k gaming
+
+Frame rate? 60hz, 120hz, 144hz, 165hz, 240hz.
+
+With a 1070ti the results would likely be these: 1080p w/ ~very high @ ~120-144hz OR 1080p w/ ~ultra @ ~60hz.
+
+Yea those look good to me.
+Every game is different for everything, so you would need to look up some benchmarks for specifics.

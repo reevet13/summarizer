@@ -1,0 +1,35 @@
+yet today, in macroscopic objects, we do not notice any residual uncertainty
+The reason is that during inflation - a period of accelerated expansion thought to have taken place in the very earliest moments after the Big Bang - the Universe was expanding so rapidly that quantum fluctuations on microscopic scales were blown up to astronomical proportions - larger than the size of the observable Universe - before they had time to settle back down.
+Being too far apart to communicate causally, different ends of these fluctuations "froze in," leaving variations in the density of the Universe which we observe in the cosmic microwave background and which, eventually, gave rise to the large-scale structure of the Universe.
+Without the quantum fluctuations during inflation, there's no other way to produce the cosmic structure we see today while also staying consistent with observation.
+Anyway, quantum entanglement can never communicate any *information* faster than light to begin with.
+On small scales, quantum mechanics holds, and on astronomical scales special and general relativity become important.
+Newtonian physics is a useful approximation only in the régime in between, at speeds much less than the speed of light, lengths the scale of people and planets, and so on.
+In this case, the relevant physics is general relativity, our theory of gravity, and the question is, given general relativity, what sort of structures develop in the Universe?
+In order to answer that question we need to know how the stuff - the matter and so on - in the Universe is laid out, put that into our equations of general relativity, and crank out an answer, because general relativity alone doesn't tell us those initial conditions.
+So was the matter in the Universe initially completely smooth, or did it have little bumps in its density?
+If so, what size are those bumps, and where did they come from?
+That's where the quantum fluctuations during inflation come in: they explain quite naturally how those bumps arose (because as long as you have a period of inflation, these fluctuations come with it automatically) and they also make predictions for the sizes of the bumps which are in excellent agreement with what we observe looking at the cosmos.
+Entanglement collapses because of measurement (or change) to one of the entangled particles.
+If Alice has one entangled particle and Bob has the other, and Bob makes a measurement or change, then he now knows information about both his and Alice's particle.
+However, Alice does not know the measurement has been made and can not know this without making a measurement on her end (which Bob already know the outcome of, but she doesn't), or waiting for that information from Bob via some other means.
+Thus, in order to get information from Bob to Alice, it would need a second channel.
+This also doesn't make much sense because you could just use a modulated laser (for example, or microwaves, etc.) to send massive quantities of information at light speed without having to invoke entanglement (e.g., entanglement doesn't buy you anything at light speed in terms of information transmission, much less efficient information transmission).
+We can easily encode a television signal into a laser and send it at light speed - lots of information.
+Basically, once you measure the particle the entanglement is broken.
+Even if you measure it, yes you do know the state of her particle, but she doesn't know it unless you send information to tell her what it was(which is bound by the speed of light anyway).
+If she measures it later, before she finds out you already measured, she may believe *she* broke entanglement and knows the state of your particle, but if you had already measured it that isn't necessarily the case.
+On top of this, quantum effects are observable on the microscopic level but tend to cancel each other out on the macroscopic scale.
+You aren't sending the measurement, you're just making two different measurements.
+You would still have to transfer information to tell them when to measure.
+That information was transmitted at STL speeds, so what is the point?
+But even then, once Bob makes his measurement, the entanglement is broken.
+Alice makes hers, and assumes Bob's is the opposite.
+But that isn't necessarily true.
+And she doesn't know whether or not Bob has made the observation, so unless he tells her when, she doesn't actually know the state of Bob's particle.
+Why would you have to transfer information to tell them when to measure?
+Just get two clocks and agree upon a measurement time.
+Why is it not necessarily true that the measurement isn't the opposite?
+I was under the impression that this was the point of entanglement - due to conservational laws if the system is measured in state A it must not exist in state B if we prepared the system as only state A or B.
+Right but as soon as we make the second measurement we get information about the first measurement which may have occurred light years away.
+I was under the impression that entanglement doesn'

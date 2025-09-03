@@ -1,0 +1,212 @@
+Original Response:
+What about if said AI launches a Zeroth Law Rebellion, ala I, Robot. Has at least one lab, university or government sat down and thought of a plan for this, if only as a joke?
+The technological singularity is pure science fiction  BS.  There's no reason to believe it will ever come to pass.  There's also no reason to believe true AI would ever come to pass.  No body has any idea how human intelligence come about.  All we have are **speculations** about brain size, complexity, etc... which does not tell us how to replicate it.
+This does not answer the question.
+Ray Kurzweil would disagree with you.
+There's no real need for a plan or a system, since a single entity, or even a million entities, don't really change anything.
+
+The first "true AI" would still be far stupider than the average human.
+
+I know that the Loebner Prize, an AI competition, has a rule which states that if there's a dispute about who wins the prize money, then it is held by the committee until the submitted entry has the legal right to possess it.
+There are a variety of different notions of a technological singularity. Part of why people don't take the idea so seriously is precisely because a variety of different ideas. There are [three different broad suggested types of Singularities](http://yudkowsky.net/singularity/schools). What you are talking about is the third type, the  I.J. Good/ Eliezer Yudkowsky sort of Singularity, where an AI bootstraps itself by self-modification to become successively more intelligent. 
+
+This is in many respects the most plausible type of Singularity. However, there's very little to do about it. Even if one thinks that this sort of Singularity is likely, the main point of this sort is that it occurs quickly by a single entity. So while one could potentially take preventative steps (For example, giving a potential general AI internet access would be a bad idea.) there's nothing much to do once it happens.
+You are clearly not very well-read on the topic
+
+AI is in its infancy; there is much to learn about even the most basic things.  This is no reason to assume that it will never get off the ground.
+You are one of those people that likes to hope.  Hope has no place in science.  No one has any idea how intelligence works.  No one even has a definition of intelligence that everyone accepts.  People in the AI field likes to redefine the term to suit what they think they can achieve.  That's BS.  You cannot make something you do not understand.
+That's because the question does not require an answer.  You do not prepare for something that cannot happen.
+There is a definition of AI that goes: "whatever the human mind can do that computers can't yet".
+
+*That* kind of AI we won't have.  Other kinds are already here, with more coming.
+&gt;Hope has no place in science
+
+bullshit
+
+&gt;No one has any idea how intelligence works
+
+Incorrect - there are many promising avenues being explored with promising results.
+
+&gt;No one even has a definition of intelligence that everyone accepts
+
+You're talking about the sense in which it is used in the term "IQ" which has no bearing on the current discussion.
+
+Also incorrect.
+
+&gt;You cannot make something you do not understand
+
+Also not true - electricity and magnetism were utilized productively well before they were understood.
+
+Even if it were true, this would not support your point - things that we do not currently understand might nevertheless be understood in the future, so you still have no license to conclude that AI will never be understood.
+The other kinds are not AI.  People who works on AI call them AI because they couldn't make true AI work so they redefine the term.  It's a cop out.
+If you can define intelligence, then you can back that up.
+
+If not, then I have to go with the experts who are studying it.
+I didn't say AI will never be understood.  All I am saying is that no body understands intelligence yet.
+
+&gt; there are many promising avenues being explored with promising results.
+
+Promising avenues with promising results is not actual result.  I fully expect some day we will understand it, but right now we don't.
+Sure, I can give you a definition:
+
+The ability to learn and understand.
+
+[Wikipedia's definition is little more extensive](http://en.wikipedia.org/wiki/Intelligence):
+
+&gt; the abilities for abstract thought, understanding, communication, reasoning, learning, retaining, planning, and problem solving.
+In this context, this certainly isn't hope. If anything, it is fear. But that's not really relevant: Our emotional attitude about some scientific possibility is relevant, especially when it impacts what technologies we should research or not. The eradication of small pox is something that was hoped for, something that our hope caused us to put resources and research into.
+
+&gt; You cannot make something you do not understand.
+
+One of the most practically successful areas of AI has been [neural networks](http://en.wikipedia.org/wiki/Neural_network). They've been used for a variety of uses. The coolest example I'm aware of is [classifying galaxies](ftp://ftp.cs.bham.ac.uk/pub/authors/W.B.Langdon/biblio/gecco2002/RWA280.pdf)(pdf). 
+
+It isn't generally classified as AI, but [genetic algorithms](http://en.wikipedia.org/wiki/Genetic_algorithm) are another good counterexample to your last sentence.
+&gt;I didn't say AI will never be understood. All I am saying is that no body understands intelligence yet.
+
+No, you started out saying much more than that.  You said:
+
+&gt;There's also no reason to believe true AI would ever come to pass. No body has any idea how human intelligence come about. All we have are speculations...
+
+And, in fact, there's every reason to believe we'll get there given the amount of progress we've made in scant decades; many scientists have some very good ideas about how intelligence came about and how it works; and we have much, much more than speculation - we have hard data and working models and all sorts of precursors.
+We hope for everything, but the hope itself doesn't change anything.  We put real research into cures for smallpox and that's should take the credit, not hope.
+
+Neural network hasn't done anything that can be recognize as real intelligence.  It's just a tool that solves certain problems.  From watching Jeopardy, it's very obvious Watson is not intelligent and has no understand what it says itself.  I will be convinced when true AI can be shown.
+&gt; We put real research into cures for smallpox and that's should take the credit, not hope.
+
+Sure. But since when did anyone say otherwise? 
+
+&gt; Neural network hasn't done anything that can be recognize as real intelligence.
+
+The point about neural networks was to respond to the claim that "You cannot make something you do not understand." That claim is demonstrably false.
+
+&gt; I will be convinced when true AI can be shown.
+
+Unfortunately, at that point, it may be too late. Consider, would you say this about other technologies? Do you require an actual 20 terabyte hard drive to convince you that it is possible? (This is about 4 times as large as the largest ones that currently exist ([source](http://www.seagate.com/ww/v/index.jsp?locale=en-US&amp;name=goflex-desk-4tb-capacity-seagate-pr&amp;vgnextoid=e07c2d857df32310VgnVCM1000001a48090aRCRD)). If not, what is the difference between this and AI? What about other examples, say a functioning HIV vaccine? Saying that you won't be convinced a technology's possibility until it exists seems like an unhelpful heuristic.
+What's this working model you are speaking of?
+&gt; The point about neural networks was to respond to the claim that "You cannot make something you do not understand." That claim is demonstrably false.
+
+We understand to the extend of its structure, and that's what we mimicked.  We do not understand how it actually works.  My claim is proven by your demonstration because no actual AI emerged.
+
+&gt; Do you require an actual 20 terabyte hard drive to convince you that it is possible?
+
+We understand how to hard drive works.  This analogy would correspond to having a stupid AI and improving it.  That's not what we have.  If we are to use hard drive as an example, it would be saying we have disk drive now, but some day we will have super drive that store information on individual atoms.
+
+I am not saying AI will never be possible, but I don't think it will be possible until there's a coherent theory on how intelligence works.
+0.93
+&gt; I am not saying AI will never be possible
+
+No, you actually stated that pretty clearly in your very first post.
+
+&gt; There's also no reason to believe true AI would ever come to pass.
+There's no reason to believe does not mean it will never be possible.  When reasons arise, my opinion will change.
+Define "understand".
+Understanding means to know deeper levels of meaning; the ability to deduce reasons behind events.  Given a particular result, being able to figure out the initial condition.  The reverse of prediction.
+Done.
+
+http://www.jbiomedsem.com/content/2/S2/S9
+It's a good start, but the environments are structured and predefined.
+
+I think a good test for understanding is: given a vocabulary, read the definition in the dictionary and be able to construct sentences with it.
+
+A more extensive test would be writing a paragraph or essay about the word.
+
+Basically passing English classes I think.
+IBM's 'Watson' already comes close or exceeds these.
+There are dozens if not hundreds of working AI projects
+
+Are you thinking I meant a working human-intelligence-level program?  I did not.
+I'm curious what you would consider a reason that wouldn't itself be a fully functioning general AI. 
+
+In general, the trend of science has been to find out more and more ways that humans aren't special. This is the [Copernican Principle](http://en.wikipedia.org/wiki/Copernican_principle) in a nutshell. AI being impossible would very much go against this trend since it would mean there's something special about human cognition that isn't simply described by the laws of physics and math. So, the prior should be if anything, in the direction of considering general AI to be possible.
+Watching Watson is exactly what lead me to conclude computers had no understanding at all.  Just word matching.
+
+Specifically, this question: http://www.youtube.com/watch?v=kDA-7O1q4oo&amp;t=562
+
+Q: Proverbially, "it's where the heart is".
+
+Watson know about the saying: "Home is where the heart is".  Yet he couldn't figure out the answer.  It means he doesn't understand the simple sentence.
+I a not sure what you just said or asked.
+
+I want us achieve real AI, that's why I don't consider these half ass effort to be AI because I don't want AI researchers to delude themselves into thinking achieved real AI and not work on it.
+The same matching algorithms that fit words to words can also fit words to other data patterns - such as images, sounds, video.
+
+What we call perception.
+
+That will be the start of  'understanding'.
+Perhaps,  we don't know that.  I would like some concrete demonstrations.
+&gt; We understand how to hard drive works. This analogy would correspond to having a stupid AI and improving it. That's not what we have.  
+
+And you know we don't have that why? The largest neural nets or Bayesian learning networks or almost any other attempted narrow AI don't seem to use much computing power compared to the human brain. 
+What makes you so certain that scaling them up won't work?
+
+&gt; If we are to use hard drive as an example, it would be saying we have disk drive now, but some day we will have super drive that store information on individual atoms.
+
+Why? This would be far closer to making a claim about an AI that fit in a certain size object. A general AI that is very large or runs very slowly would still be a general AI, yes?
+I'm confused. Above you wrote:
+
+&gt; There's also no reason to believe true AI would ever come to pass. No body has any idea how human intelligence come about. All we have are speculations about brain size, complexity, etc... which does not tell us how to replicate it.
+
+You then later said to someone else on the thread when they said that AI research was in its infancy that they had too much "hope". 
+
+You don't seem to be advocating a coherent, consistent position in this discussion.
+&gt; And you know we don't have that why? The largest neural nets or Bayesian learning networks or almost any other attempted narrow AI don't seem to use much computing power compared to the human brain. What makes you so certain that scaling them up won't work?
+
+I don't know that it won't work.  I also have no reason to believe it would work.  Are you sure that it would work?  Why?
+
+&gt; Why? This would be far closer to making a claim about an AI that fit in a certain size object. A general AI that is very large or runs very slowly would still be a general AI, yes?
+
+I was drawing on the analogy of the leap of technology, not simply the size of hard drives.
+It's consistent.  There's no contradiction.  What don't you find consistent?
+Subjectively, we call 'understanding' the correct modeling of the external world into our thought processes *and the reverse*.
+
+We correctly model "the dog is on the chain" to a well-defined set of external images.
+
+Given Watson's words-to-words matching, I can't see the above being too far away.
+Feel free to have whatever opinion you wish.
+&gt; I don't know that it won't work. I also have no reason to believe it would work. Are you sure that it would work? 
+
+No. Obviously I'm not "sure" it will work. But it seems like a plausible method of attack. This isn't any different than any other difficult problem in science or engineering. One looks for plausible methods and tries them. And if one has a lot of plausible methods, one can expect that it isn't that unlikely that at least one of them will turn out to actually work.
+
+&gt; I was drawing on the analogy of the leap of technology, not simply the size of hard drives.
+
+I don't follow your point. Can you expand?
+You obviously are much more optimistic about the prospect of achieving real AI than I am.  So you think simply having more processing power would solve the problem.  I disagree.  I have not seen any computer having any semblance of intelligence.  I think this is a leap in technology no one knows how to solve, yet.
+Please reread what I wrote. Nowhere did I assert that "think simply having more processing power would solve the problem". Please reread what I wrote.
+No, I will not do that.  This is no longer worth my time if you simply downvote me when you disagree.
+The downvote above isn't from me. I've downvoted two comments in this thread by you, [this one](http://www.reddit.com/r/askscience/comments/o33st/is_there_some_kind_of_plan_or_system_in_place_in/c3dzdl) and [this one](http://www.reddit.com/r/askscience/comments/o33st/is_there_some_kind_of_plan_or_system_in_place_in/c3e0zu1), the first occurring before I had made any comment in this thread and the second occurring after one comment had been made. I'm not sure why you think that your being downvoted here is due to me. Downvoting you when I'm replying to you would be bad behavior at many different levels. At the most selfish level, downvoting in such a context would trigger all sorts of cognitive biases that would make one less inclined to acknowledge when one is actually wrong, and then I'd have more difficulty actually learning. 
+
+But let's for a second pretend for a second that I was downvoting you in this subthread, and let's say pretend furthermore that I was doing so simply because I disagreed with you. That wouldn't by itself be a reason not to reread a statement by me when you've apparently misread it.  
+
+So, your central premise is wrong, and even if your premise were correct, there still wouldn't be any useful logical connection.
+
+So, with that in mind, please reread my earlier comment. It is talking about whether a given method of attack on the AI problem is plausible, not whether it will necessarily work.
+Fair enough.
+
+Which comment do you want me to reread?  We've had a lots of back and forth.  It would be easier if you copy and paste it for me, otherwise I would be guessing what you want me to read.
+The relevant comment was this one:
+
+&gt; Obviously I'm not "sure" it will work. But it seems like a plausible method of attack. This isn't any different than any other difficult problem in science or engineering. One looks for plausible methods and tries them. And if one has a lot of plausible methods, one can expect that it isn't that unlikely that at least one of them will turn out to actually work.
+You are right.  I misread what you wrote.
+
+Summary:
+No, I will not do that.
+I also have no reason to believe it would work.
+&gt; I don't know that it won't work.
+I don't know that it won't work.
+That's not what we have.
+We do not understand how it actually works.
+No one has any idea how intelligence works.
+&gt; We understand how to hard drive works.
+We understand how to hard drive works.
+&gt; There's also no reason to believe true AI would ever come to pass.
+There's also no reason to believe true AI would ever come to pass.
+&gt; You cannot make something you do not understand.
+If not, what is the difference between this and AI?
+All I am saying is that no body understands intelligence yet.
+The other kinds are not AI.
+&gt; I will be convinced when true AI can be shown.
+Are you sure that it would work?
+Consider, would you say this about other technologies?
+You cannot make something you do not understand.
+&gt; And you know we don't have that why?
+I will be convinced when true AI can be shown.

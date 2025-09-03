@@ -1,0 +1,8 @@
+Imagine the earth is perfectly round except for one very massive mountain, if I stand on the opposite side of the world from the mountain, do i feel heavier, and if I stand right next to the mountain, do I feel lighter?
+At the center of the earth, you would feel weightlessness, because the mass surrounding you would be pulling on you equally in all directions.
+You can use Gauss' Law to calculate the strength of gravity at a particular radius *r* from the center of the earth.
+You would experience less gravitational force, so things would fall slower.
+This was actually the reason I asked the original question.
+Relevant to initial question: http://en.wikipedia.org/wiki/Shell_theorem
+This assumes the earth is uniformly dense - which it is not.
+The end result is of course the same at the center: zero gravity.

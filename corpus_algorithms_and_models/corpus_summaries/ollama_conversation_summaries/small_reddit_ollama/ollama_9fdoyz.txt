@@ -1,0 +1,13 @@
+Here are the sentences copied verbatim from the original text:
+
+* Bernoulli formulated the principle in the context of liquids flowing through pipes.
+* He wasn't there thinking about planes and made no such assumptions regarding the geometry of a plane's wing, probably because he died 100 years before the Wright brothers were born.
+* Both Bernoulli and Newton can be used to calculate lift from different quantities as they are two descriptions of the same phenomena.
+* You can generate a difference in pressure without the air meeting up. What you are referring to (as has everyone else who gets this wrong) is the 'equal transit-time' assumption which you are correct in saying is a false assumption.
+* There is no such thing as a force that pulls. Forces can only push, outside of like gravity.
+* If you use Bernoulli's law, you'll determine the pressure of moving water is less than still water.
+* This isn't what we observe. Clearly the relevance of bernoulli's law in this example is negligible and not required.
+* It isn't [Bernoulli's principle]. Look at fluid visualizations of what air does on the top of a wing. The air splits at the leading edge and does not reach the trailing edge at the same time.
+* I can also tell you without a doubt that magnetic attraction is not a push force. Not even a *near infinite set of minuscule pushes.*
+* If you'd like to source your textbook, please, give the title and page numbers so it can be verified.
+* Of course magnetism is a pull.

@@ -1,0 +1,66 @@
+Original Response: 
+The search for dark matter comes from a discrepancy between how much mass we think there is in certain cosmic structures (such as galaxies) based on what we can directly measure and how much mass we think there is based on the motion of objects that we observe.
+We can estimate the mass of something like a galaxy by measuring the amount of light it emits (and correcting that for distance) using the knowledge that we have on the structure of stars and how mass and light emission are related.
+But we can also look at the gravity exerted by cosmic objects.
+The heavier something is, the larger its effect on the motion of nearby objects (among other things).
+So by analyzing the motion of cosmic objects, we can estimate masses as well.
+And when we put these two approaches next to each other, they don't match.
+At all.
+Estimates based on gravitational effects suggest a mass that is much higher than estimates based on direct observation of emissions.
+There are two reasonable explanations for this large discrepancy.
+Either there is something there that we can't see, but that's rather heavy.
+Or our theories on how gravity, stars and other cosmic objects work are wrong.
+This issue was first raised in the late 19th century.
+Since then, our knowledge of astrophysics has increased enormously, thanks both to theoretical advancements and to powerful observational tools.
+But with every advancement, the mass discrepancy remained.
+And with time, astrophysicists have gathered more and more evidence to support the idea that there indeed is some form of matter that we can't readily detect with our telescopes and other equipment.
+So we don't know for certain that dark matter exists.
+However, by now it is by far the most plausible explanation for all the observations that suggest there is a more matter in the universe than what we can directly observe.
+And as such, it has become the mainstream consensus that some type of matter probably exists that is hard to detect, but is present in large quantities in and around galaxies.
+The fact that we don't know what this matter would consist of makes searching for it rather difficult, which is why dark matter is one of the most important open problems in astro- and particle physics.
+&gt; Estimates based on gravitational effects suggest a mass that is much higher than estimates based on direct observation of emissions.
+Why can't this discrepancy be explained by black holes?
+They don't emit light, as far as I know.
+His example isnt the only one for the discrepancy he discribes.
+Another example is the rotation of galaxies themselves and revolves around how fast the outer parts of the disc rotate in relation to how fast the inner parts of the disc rotate.
+This example excludes black holes as a source for the extra mass.
+To read more:
+
+https://en.wikipedia.org/wiki/Galaxy_rotation_curve.
+While black holes don't emit light, the area directly surrounding a black hole, the so-called "accretion disk", contains very hot and dense gases that emit a large amount of radiation, typically in the x-ray part of the spectrum.
+This allows for detection of black holes by x-ray observatories.
+In addition, black holes are by their very nature compact and localized objects.
+The observations leading to the missing mass point to a mass distribution of dark matter that is smoothly spread across a galaxy.
+&gt; We can estimate the mass of something like a galaxy by measuring the amount of light it emits (and correcting that for distance) using the knowledge that we have on the structure of stars and how mass and light emission are related.
+Did they take into account planets and other non light emitting objects?
+They make up for only a tiny fraction of the mass.
+For example, in our solar system, the Sun contains 99.85% of the total mass and the remaining 0.15% belongs to planets, moons, asteroids, etc...
+The observed discrepancy is orders of magnitude larger than that, so it can't be explained by things like planets.
+[removed]
+Our Solar system is just a single sample for any believable estimate of average extra-stellar mass.
+EDIT: Surely astrophysicists have estimated this planetary and asteroid mass on much more rigorous basis than on that our Solar system is such.
+The mass of planets is just too low.
+Planets are *tiny* compared to stars.
+Even if every star were orbited by fifty planets the size of Jupiter, all those planets together would still have only a tiny fraction of the required mass.
+If you imagine the planets being massive enough to make up the difference, they would become so massive that they start undergoing fusion.
+Those would no longer be planets; they would be stars, and we'd have been able to see them.
+Cosmologists have also considered the possibility of "rogue" planets floating around outside solar systems.
+The problem there is that you'd need zillions of rogue planets to make up the missing mass.
+If they were that numerous, we would at least occasionally be able to detect some, by seeing them pass between us and a distant star.
+We have looked for this effect, and have not observed it.
+That means rogue planets  are not nearly common enough to be the explanation.
+All of the scientist jokes out there\* are centred on the theme that astrophysicists are used to working with a sample size of one.
+In their pre-Kepler defence, the Sun is a super-boring star that's slap bang in the middle of the main sequence, so it's not a terrible single sample.
+Now that Kepler has done its thang, our Sun is just one example out of thousands, and they too came up orders of magnitude short.
+&amp;#x200B;
+
+\*or at least that's what an astrophysicist told me after he heard the Scottish cow joke.
+
+Summary: 
+The mass of planets is just too low.
+Planets are *tiny* compared to stars.
+They make up for only a tiny fraction of the mass.
+We have looked for this effect, and have not observed it.
+But with every advancement, the mass discrepancy remained.
+Why can't this discrepancy be explained by black holes?
+So by analyzing the motion of cosmic objects, we can estimate masses as well.

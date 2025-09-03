@@ -1,0 +1,11 @@
+Here is the extracted summary of about 10% of the text or up to 250 words:
+
+My question is, what would happen if you rotated a rigid disc large enough that even slight acceleration near the hub would imply higher-than-lightspeed velocities at the rim using Newtonian physics?
+
+Would relativistic contraction/time distortion in the obviously theoretical, but nonetheless (in my opinion) useful case of an infinitely rigid object occur at a rate that would prevent the object from reaching C anyway? Ignoring engineering challenges like the disk ripping apart, the thing would just get closer and closer to the speed of light at the edges without ever reaching it.
+
+What effects, specifically, would prevent it from reaching that speed? My lay expectation: the fact that motion/distortion in a material, even a rigid material, propagates at the speed of sound in that material; and the speed of sound is always going to be slower than the speed of light.
+
+Wouldn't really call it an effect, per se. It's the same thing that prevents something from continuously accelerating to the speed of light. To use an outdated analogy, the "relativistic mass" that increases with speed is manifested as a "relativistic moment of inertia" that gets bigger and bigger.
+
+Ohhh I think I can wrap my mind around that. Thanks for clearing up a question that has been floating around th back of my mind for years!

@@ -1,0 +1,156 @@
+Original Response: 
+Hi all!
+So for the last week there has been quite a bit of discussion about the choice to use nullification sigils in the latest armor set.
+So I have compiled the sales records of both the sigil itself and weapons that contain it over the last week.
+What I am using:
+
+* Gw2Efficency unlock stats.
+* Gw2BLTC for bought/sold stats.
+* Gw2.silveress.ie for value/taxes
+
+****
+[Link to spreadsheet where most of this is compiled.
+](https://docs.google.com/spreadsheets/d/1HcTDHHrAQfdfY0k4I4hteV5Sq_bd8RvF0klwjGVp5XY/edit?usp=sharing)
+****
+
+**So first of all how many folks have unlocked the full armor set?
+**
+
+At least 1250 at the time of this post.
+[Source](https://gw2efficiency.com/account/unlock-statistics?filter.search=Requiem%3A%20Experiment%206)  
+Source is Gw2E which has ~200,000 registered accounts out of the [11,000,000 at Pof Release](https://www.guildwars2.com/en/news/the-path-to-the-desert-in-numbers/).
+Yes it is a low percentage of total accounts but I would be willing to bet that it has a significant portion of active accounts and specifically of folks at endgame.
+With this in mind I would guesstimate that between 1,250 and 2,500 people have competed the new armor set.
+****
+
+**Using price data and estimates of sigils bought and sold.
+**
+
+***Just be aware that this is using estimated data, the true amounts are likely above this***
+
+Last Tuesday before the patch there were enough Sigils to give 1241 people the armor listed on the TradePost.
+Now most of us know that there was a massive sigil buyout a few hours after the patch (at least 4 hrs after the patch) where 2/3 of the supply was bought up.
+What ye may not realize was that there were smaller buyouts of weapons that have the sigil.
+So taking those into account there were about 34,505 to 53,735 sold, which translates to 1,380 to 2,149 full armor unlocks which lines up with what I would expect based off the Gw2E stat.
+**How much was hoarded?
+**
+
+Pre -patch last week there were roughly 31,030 sigils listed across different forms.
+So if ye take my estimates above then there were 3,475 to 22,705 being hoarded which translates into   13 to 91 stacks.
+Given that it was one worthless sigil out of a multitude I would be more thinking the 91 stacks is closer to the truth and even then that could be an under estimation on quantities hoarded, its not hard data and thus gets a little .... fuzzy.
+****
+
+**Tax Wise**
+
+In my own api parser I have an interesting feature where based on the quantity sold and the price at the time it calculates the value of the items sold.
+For the last week each day works out at about 24,518g 22s 84c of sigils sold with a total tax bill of 25,744g 13s 98c.
+So as a gold sink it actually worked well, removing a fair bit of gold in a short period of time.
+[Source](https://gw2.silveress.ie/history?dates=2018-09-18,2018-09-25&amp;series=s,sval&amp;ids=24572) (click on the first toggle and then on CSV to get the data in spreadsheet format)
+
+****
+
+**Comparison to legendary armor - folks who have it**
+
+Thanks to the fact that the entire elegy set has collections within collections there is a pretty easy way to see what stage folks are at [Gw2E stats](https://gw2efficiency.com/account/unlock-statistics?filter.search=Requiem%3A%20Experiment)
+
+Ckeck out ``Legendary Pieces`` on teh spreadsheet above for the data on teh next part.
+So there are more than 4327 folks who have a full set of legendary armor.
+There are 1242 folks with a full set of Elegy armor.
+This adds a bit of weight to earlier topics complaining about how Elegy is better for dying than the Legendary set, also it is more rare than Legendary - go figure.
+****
+****
+
+So in summary.
+* It was a very limited item to begin with
+* There were a fair few sigils in private storage
+* It worked really well as a short term gold sink.
+* Rarer than Legendary
+
+Now that todays patch has come and gone (gemstore update) and teh status quo will continue for at least another week I do forsee overall (public and private) stocks of nullification to dwindle further - thats just my personal speculation though.
+I am actually quite disappointing they didnt introduce a new recipe today to ensure a Non-RNG way of getting it.
+(I am also going to make an announcement in a day or two so keep an eye out for that)
+The worst thing about the sigil situation is that Anet might deduce from the low number of players who have made the armor that it's not worth doing again in the future.
+This thought sounds ridiculous but it also sounds very ANet-like.
+That.. is sadly possible.
+I've seen time and again where, even though ANet seems to have tons of data, they don't seem to have an analyst who thinks it through enough to make the right conclusions.
+Heh this is also very similar to people who make suggestions.
+So in a way they are in tune with the playerbase ...
+I mean the response of the player base to a new full set was awesome, it's just this sigil wall that it's bullshit
+
+&amp;#x200B;
+
+If one piece costed I don't know... something like 1000 T5 materials (mithril, thick leather, silk) they would get back some worth but still be reasonably obtainable.
+It's been a week.
+you can get the armor in a day if you didn't have to pay 3 figures for it.
+Doesn't mean that the wider playerbase is going to get it in a day 🙄.
+&gt; If one piece costed I don't know... something like 1000 T5 materials (mithril, thick leather, silk) they would get back some worth but still be reasonably obtainable
+
+first of all, exotic armor is made from t6 mats but since those t5 mats are so cheap, lets just take those because, hey, we are all entitled to a cheap set of awesome armor.
+So lets see, 1000 each you say?
+The 442k of thick leather squares on the tp are enough for 442 players and around 800 more players would have to refine the 3.2 million thick leather sections that are left on there for a total of 1242 players.
+There is enough mithril ingots for 540 players and enough ore for another 1017 for a total of 1557 players.
+At least silk will stay relatively cheap as there is enough supply for a whooping 5500 players but 4000 of them will be short on the other mats.
+Elder wood would be enough for 575 players but thank god you didnt mention those.
+i imagine there'd be a lot more players with it on day 1 if the sigil wall wasn't there.
+its probably not that some players **can't** afford it, but are waiting for the price to go down.
+Anet reads reddit.
+There is no way they are not aware of the reason so few people have made the armor, surely.
+...Right?
+I expect them to retro fit it to pve legendary armour  prec componentat some point in future, like pvp ascended armour had happen.
+Silk/leather would be a bad idea, but for mithril/elder wood we have the ultimate faucets: gathering nodes.
+If the price spikes up, people will suddenly be inclined to hit these nodes for easy gold until the demand is back down.
+How do we farm for nullification sigils?
+create a new character and take it to level 64.
+Well I just shooted a number but my point is T5 mats are so easy to come by you don't have to rely exclusively on TP.
+Sure thing the TP doesn't have stock for everyone...
+But the rest can easily get stacks of T5 just by playing.
+What kind of twisted gameplay is that tho... Just pick a better material :(
+I really do hope the same.
+Except if we're talking mithril *ore* (previous post didn't specify refined) you can mine that in less than a week doing pretty much any endgame open world content.
+Decent salvage rate too.
+At 1k **each** we might get a rerun of the ascended armour release but SW+HoT+Istan prevent anyone from cornering the market and profiteering for an extended period of time.
+you can also farm 250g for the sigils in less than a week of doing end game content, so i am not sure what your point is here.
+Mining ore works independently of all other players.
+If a large portion of the playerbase were to farm right now the sigil prices would simply skyrocket in response.
+Plus the economic fallout of everything else those farms generate of course.
+farming 250g also works independently of all other players, so does leveling a character to level 64 or throwing rare sigils in the forge to get some null sigils or throwing in the right weapons to get back an exotic weapon with null sigil slotted.
+In a vacuum yes, but if everyone did this the price would simply go up proportionally, plus the returns of most farms would dwindle as they are based on (much more stable) TP markets.
+Same for forging, ingredient prices will go up and at current drop rates those aren't really viable as a personal faucet.
+Basically, except for grinding alts, everything you list only allows *me* to get ahead of the rest.
+I become part of the problem by making things worse for everyone else.
+the same would happen, if you would need 250 icy runestones to complete the collection.
+Everybody would sell their mats and items in order to obatain raw gold.
+And forging for null sigils directly or the exotic weapons that have them slotted, actively creates new supply.
+The problem here are all the players that want to finish this collection because they willingly destroy those sigils for personal gain, leaving less of them in the market for the rest.
+&gt; the same would happen, if you would need 250 icy runestones to complete the collection.
+Everybody would sell their mats and items in order to obatain raw gold.
+Except the far greater trade volume of "anything you can sell for gold" would make it impossible to corner the market, and we have alternatives such as farming fractals/dungeon/teq(/weekly raids etc.)
+for guaranteed direct gold income.
+&gt; And forging for null sigils directly or the exotic weapons that have them slotted, actively creates new supply.
+I don't know any source of fodder that wouldn't have the same widespread consequences as your previous concern.
+Major sigils go up in price, people farm rares for sigils, mats tank.
+Plus forging is mind-numbingly boring and favours bulk crafting due to the low rate of returns.
+&gt; The problem here are all the players that want to finish this collection because they willingly destroy those sigils for personal gain, leaving less of them in the market for the rest.
+The problem is Anet's shitty design which left players with no other choice (excluding "not playing" of course).
+
+Summary: 
+How do we farm for nullification sigils?
+I really do hope the same.
+So there are more than 4327 folks who have a full set of legendary armor.
+****
+
+**Using price data and estimates of sigils bought and sold.
+There are 1242 folks with a full set of Elegy armor.
+Mining ore works independently of all other players.
+So in a way they are in tune with the playerbase ...
+Major sigils go up in price, people farm rares for sigils, mats tank.
+So I have compiled the sales records of both the sigil itself and weapons that contain it over the last week.
+What I am using:
+
+* Gw2Efficency unlock stats.
+you can get the armor in a day if you didn't have to pay 3 figures for it.
+](https://docs.google.com/spreadsheets/d/1HcTDHHrAQfdfY0k4I4hteV5Sq_bd8RvF0klwjGVp5XY/edit?usp=sharing)
+****
+
+**So first of all how many folks have unlocked the full armor set?
+There is no way they are not aware of the reason so few people have made the armor, surely.

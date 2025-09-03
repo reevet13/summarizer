@@ -1,0 +1,25 @@
+Here is a summary of about 10% of the text:
+
+I don't want to farm, it's not for me. Nah, milk cows can have a day off, surely they won't explode...
+
+Not for agriculture. Not for greenhouses. Tell me technology will fix it till you’re blue in the face, but who is paying for this tech at the small and mid size and non profit agriculture/horticulture spots where, you know, things have to stay alive and there’s not enough people or enough pay?
+
+Or health care, where you have to show up and keep people alive. There’s that.
+
+Yep. Not for agriculture. Not for greenhouses. Tell me technology will fix it till you’re blue in the face, but who is paying for this tech at the small and mid size and non profit agriculture/horticulture spots where, you know, things have to stay alive and there’s not enough people or enough pay?
+
+Actually, there's a few projects for remote healthcare going from a screen to talk to a doctor to robotic surgery. As for hospitals, there'll probably always be some nurses on staff, but IBM's Watson was originally set up to be a virtual doctor iirc.
+
+Flipping tech megalomaniacs.
+
+It's more like you just haven't done any research into it, or just don't understand how stuff like this works.
+
+Seriously? Agriculture has gone from employing over 50% of the population 100 years ago to under 5% today. It's one of the industries that has seen the biggest increases in productivity (by the economists definition of value produced/hours worked).
+
+Notice op said “small to medium sized farms”  to get the technology to entirely replace a worker all year you’d need an automated tractor these are incredibly expensive and you need someone to operate one and monitor it anyway (another worker could do that whilst working themselves but it’s not ideal. A small farmer would need to save up for decades to buy something like that in this current situation so replacing a worker is not a feasible solution.
+
+With regard to the tech megalomaniacs I’d watch a documentary about farmers who are hacking tractors https://youtu.be/F8JCh0owT4w . The gist is that John Deere and other companies withhold access to their vehicles computers so you cannot replace existing parts without going to a John Deere dealer who will access the computer and let the new piece work with the tractor for a very high price naturally.
+
+Yeah, I support right to repair for stuff like that. I'm kind of hoping for more open-source projects to help combat that as well: it'd be neat if when the tractor or whatever breaks, it can figure out what's broken and you could have the part delivered by drone or even just 3D print it yourself. Or even just the last two alone for that matter.
+
+It's also the kind of time frame for lab-grown meat, so livestock farms aren't really going to be much of a thing either: or rather, livestock farms and small farms are more likely to avoid heavy automation so they can charge a premium for being "natural" and/or "traditionally harvested".

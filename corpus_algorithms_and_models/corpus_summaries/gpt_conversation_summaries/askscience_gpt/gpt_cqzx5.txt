@@ -1,0 +1,19 @@
+One of the things I remember is that two parallel currents will atract each other such that for example two wires with identical currents running through them will exert a force on each other pulling them together.
+
+Now as far as my understanding goes, in adition to the electrostatic repulsive force, there will also be an atractive magnetic force between them.
+
+A wire is overall electrically neutral, so you have to model both the positive and negative ions.
+
+A magnetic field is created by all moving charged particles.
+
+It won't eliminate the magnetic effect, but the force of magnetic attraction would be overwhelmed by the electrostatic repulsion of the wire.
+
+Yes... but the magnetic force is still there in the stationary frame of reference but not in the frame of reference moving along with the electrons, and the equations always have to balance out between static and non static cases.
+
+Yes. The Lorentz transformations for electric and magnetic fields are such that if you change to a frame with no magnetic forces, the electric field will increase proportionately.
+
+Yup.  Electromagnetism is one phenomenon that appears as an e-field or b-field depending on the frame of reference.
+
+Two *anti*parallel currents(in opposite directions) attract, two parallel currents to the same direction oppose.
+
+Parallel currents attract.  Do your right hand rules again.

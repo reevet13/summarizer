@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+I have a computer connected to a domain. The startup page of google chrome is the domains home page. I need to change this on this computer only, I have got the adm file for gpedit and changed startup pages, went to registry and changed startup page, and disable edit access for all uses and set owner to none, my admin account, and trusted installer, but it changes on startup of chrome on all of these.
+
+How can I disable domain control over chrome but leave my local admin polices working?
+
+Move that computer into a different OU that doesn't have that specific group policy linked to it. Unfortunately, that is not an option, as I need to keep the computer connected to the domain.
+
+I am not super familiar with domain and OU control, so I don't know how to do that, or what it would change. Would it only affect google chrome, or would it affect every program policy? Will I need a domain admin power to change OU?
+
+Ask your domain admin then. This isn't something you should be doing.
+
+I have permission from the domain admin, but since there is 20+ sites in my domain, having someone come down to change this might takes weeks, and I need this done in ideally today.

@@ -1,0 +1,10 @@
+Here is the summary of up to 250 words:
+
+http://dao.mit.edu/8.231/carbon_phase_diagram.jpg
+If the "element" is a single atom, then "melting" can't exist (the hardness of an element is dictated by its inter-atomic and mostly inter-moleculary bonds).
+
+The only worry then would be "breaking" the atom - the accumulated energy of the atom to be so great that it overcomes the forces that keep the nucleus in one piece (protons and neutrons) and split it.
+
+Very crudely(gravity and density varies) P=ρgh; h = P/ρg = 1e10N/m² / (5e3kg/m³ 10 N/kg) = 2e6m = 2000km i guess we reach that point, but i don't think the temperature is ~4500K there, according to [wp](http://en.wikipedia.org/wiki/Geothermal_gradient#Heat_sources) ~5600K at center.
+
+Iron already melts at 1811K(looked it up) already, but i am not sure how that goes up with pressures.

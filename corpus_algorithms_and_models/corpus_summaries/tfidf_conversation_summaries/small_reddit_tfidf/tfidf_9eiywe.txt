@@ -1,0 +1,59 @@
+Original Response:
+So i left my lights on on my bike and then left it dead overnight. Went to jump it up, and the battery (or something) was obviously toast. The gauges were fluttering and it wasnt performing well. It was decent at first just had a couple of skips, but it got worse as i road until it slowed down and completely died. I went down the road and bought a new battery and it did not fix the problem even after a jump, the bike idles but the dash is still fluttering and when i give it torque it sounds super weak. The battery connect on the new battery was a little bent, so its either the battery or i messed something up. Any comments?
+
+I drive a 2007 Yamaha YZF600R Thundercat.
+If you jumped it from a car, yes, you may have done some damage. Cars are 12v systems, bikes are 6v
+Wait actually? I thought 6 volt was mostly phased out.
+My 83 GL1100 and my buddy’s 82 KZ305 are both 12 volt systems
+That's pretty rare,mainly vintage stuff
+I believe mine is a 12v system.
+Yes, yours is a 12v. 
+
+Jumping it with a car turned off shouldn't have fried it. But it could be something else that was already going bad.
+
+What I would do is put the battery on a trickle charger (use the slowest charge you can) and charge it back to full capacity. Get a multimeter and set it to VDC. Start the bike up and take a voltage reading across the battery terminals. You'll need a service manual to determine at what RPM the voltage test should be performed at and for how long and what sort of voltage readings you should see. If it's reading low then likely something in the charging system (usually stator) is shot. If it's reading high I would start with the voltage regulator/rectifier. 
+
+If everything tests good and you fully charged the battery on a trickle charger then the next steps would be damaged wiring or possibly a battery that is so damaged it cannot hold a charge.
+You’re right, mostly 12v these days. I used to work at a Honda dealership and it’s a white lie that keeps people from doing harm. Had plenty of customers that would throw their battery on a 12v car charger and smoke the thing because the amps are way too high. Even had a few that blew their batteries up. Best advice/investment - buy a 6v “Battery Tender” and be worry free :)
+Yeah if your bike is from the 80’s maybe.
+Uhh... If your bike is from the '50s or '60s...
+
+Basically everything after the '70s is a 12v system.
+&gt;Had plenty of customers that would throw their battery on a 12v car charger and smoke the thing because the amps are way too high.
+
+What? No. If they killed their battery with a trickle charger, it's because they connected it backwards. The bike's own alternator charges at about the same rate as a battery charger.
+
+&gt;Best advice/investment - buy a 6v “Battery Tender” and be worry free :)
+
+Connect a 6-volt charger to a 12-volt battery and you'll never get it charged.
+Try about twenty years earlier than that.
+Bikes don’t have alternators, they have stators. Stators, especially on older bikes, aren’t nearly as powerful as automotive alternators. 
+
+So 15yo me that ruptured a battery by putting the shop charger on too high of a setting and forgetting to take it off is a figment of my imagination? 
+
+Battery Tenders (made by Deltran) are not trickle chargers. They monitor the battery’s charge and cycle themselves off and on - idiot proof. A trickle charger gives zero shits about the battery’s status and pumps amps in ‘til you turn it off.
+
+I checked out Battery Tender’s/Deltrans website and things have changed a little since 2003 lol. I sold hundreds of their little 6v Tenders to motorcyclists and watercraft guys, and I still use mine today. They work great but they’ve discontinued my “old faithful” model. Give them a ring and they’ll tell you which model is best for your specific application.
+&gt;Bikes don’t have alternators, they have stators. Stators, especially on older bikes, aren’t nearly as powerful as automotive alternators. 
+
+C'mon man. [A stator is a component of an alternator](https://images.google.com/imgres?imgurl=http%3A%2F%2Fwww.0086parts.com%2Fauto%2Fimages%2Falternator1.png&amp;imgrefurl=http%3A%2F%2Fwww.0086parts.com%2Fauto%2Falternator.html&amp;docid=lstde1z7FJCC2M&amp;tbnid=j5h4o2efKmK7xM%3A&amp;w=680&amp;h=500&amp;source=sh%2Fx%2Fim), along with the rotor. Bikes have alternators, they're just not referred to as such because they're not serviceable as a unit.
+
+And motorcycle electrical systems aren't as powerful as those on cars because they're so much smaller than cars!
+
+&gt;So 15yo me that ruptured a battery by putting the shop charger on too high of a setting and forgetting to take it off is a figment of my imagination?
+
+Couldn't tell ya; I wasn't there. What I can tell you is that following the instructions that come with the kind of [battery charger](https://www.walmart.com/ip/Stanley-15A-Battery-Charger-with-40A-Engine-Start/38243759?wmlspartner=wlpa&amp;adid=22222222228027519264&amp;wl0=&amp;wl1=g&amp;wl2=m&amp;wl3=57949651488&amp;wl4=aud-273067695102:pla-89062461657&amp;wl5=9003900&amp;wl6=&amp;wl7=&amp;wl8=&amp;wl9=pla&amp;wl10=8175035&amp;wl11=online&amp;wl12=38243759&amp;wl13=&amp;veh=sem) an individual can buy will never lead to a blown-up motorcycle battery. (But, yes, setting it to max amps and leaving it connected too long will overcharge and kill the battery. Don't do that.)
+
+&gt;A trickle charger gives zero shits about the battery’s status and pumps amps in ‘til you turn it off.
+
+It supplies voltage at the amperage you set it to. Yes, you can [overcharge the battery](http://www.chicagotribune.com/classified/automotive/sc-motormouth-autos-1013-20161011-column.html) and that will kill it, but that's why you read the instructions. We're talking here about getting a dead battery back in service, not leaving a charger connected for the next six weeks.
+
+And again: **You charge a 12-volt battery using the 12-volt setting, NOT 6!**
+
+Summary:
+Cars are 12v systems, bikes are 6v.
+The bike's own alternator charges at about the same rate as a battery charger.
+Yes, yours is a 12v.
+Bikes don’t have alternators, they have stators.
+If they killed their battery with a trickle charger, it's because they connected it backwards.
+If it's reading high I would start with the voltage regulator/rectifier.

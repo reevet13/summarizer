@@ -1,0 +1,157 @@
+Original Response:
+Hi, the other day I was talking with a co-worker (IQ 184) who said that this experiment proves the existence of parallel realities and existences. 
+
+After watching that video, he told me that the only way for 1 electron to go into 2 slits and create an interference pattern, is if there are more then 1 electron in play (with no human measuring). The only way to have multiple electrons is to have multiple realities! (I am probably butchering his point, but I hope the question still makes sense)
+
+Does this experiment prove multiple realities/dimensions/existences/universes....?
+
+
+Edit: Second question: Does the first question make sense?
+
+This is the coolest shit I have ever heard, science with the life high right?
+I'm not a physicist, but I'm pretty sure your coworker is wrong.
+
+I'm currently reading a book (*And Yet It Moves* by Mark Silverman) that discusses this matter in some detail.  Here's an excerpt from it discussing the double-slit experiment when transmitting one electron at a time, with wide temporal separation between transmissions:
+
+&gt;So the question remains:  How can a coherent macroscopic pattern be systematically created by randomly arriving noninteracting particles?...
+
+&gt;If there can be no cooperative effect between electrons, and if the presence in some spatial domain of an electron wave packet correspondingly implies the probability of finding an electron, it would seem that a given electron has to pass around both sides of the biprism wire [barrier]...
+
+&gt;One cannot (as Feynman says) 'make the mystery go away by "explaining" how it works'.  Nevertheless, there *is* a sort of explanation that stands as the central dogma of quantum mechanics; Dirac again expresses this clearly and succinctly in his *Principles* (page 9) "The new theory...which connects the wave function with probabilities for one photon, gets over the difficulty by making each photon go partly into each of the two components.  *Each photon then interferes only with itself.  Interference between two different photons never occurs* [emphasis added; also, this statement is WRT photons, but applies equally to electrons]
+
+&gt;...The self-interference of an electron, by which is meant the interference of the split electron wave packet, can occur only if the two components of the wave packet can overlap.  Thus, qualitatively speaking, the difference in the 'optical path length' traversed by both components of the wave packet to a given point on the detector must not be much in excess of the coherence length...if self-interference is to occur.
+
+
+The coherence length is the length of the electron wave packet, and "is a rough measure of the spatial extent (along the direction of propagation) within which one is likely to find the electron".
+
+So basically, if the size of a barrier is about the same size as the electron wave packet, there will be an opportunity for a single electron to interfere with itself.
+
+To me, this doesn't prove the existence of parallel worlds and realities.  In fact, that statement is so vague, it really doesn't mean anything.  What is there in the above explanation that requires the incorporation of parallel worlds?
+
+Also, who goes around telling people their IQ?
+People who think it matters.
+It's one of the so-called interpretations of quantum mechanics, which is a subject of some controversy, although I happen to think it's the correct one.
+
+Although really the phrase "parallel realities" is somewhat misleading; there's only one reality, it's just that you, as a portion of the universal wavefunction, can span a space on that wavefunction that includes different outcomes for the same event.
+I appreciate the effort in the answer, thank you. I don't understand it.
+
+Everything was going good until "optical path length". Dirac says the new theory of interference is because an electron goes partly into both slits, but I don't see how he came to this conclusion.
+
+ You say if the size of a barrier is about the same size as the electron wave packet, there will be an opportunity for a single electron to interfere with itself. Is this how an electron splits itself? I am imagining two people holding hands approaching a tree, and the tree forcing the people to let go of each other while walking forward. Visually... something like that?
+
+It sounds like the answer to the interference question, is an electron splitting itself in parts, as opposed to a parallel electron causing an interference pattern. Maybe? How does measuring it cause the interference pattern to vanish? I watched Inception the other day and this Double Slit Experiment is really causing me headaches.
+That sounds a hell of alot like what this guy was saying. He also mentioned Schrodinger's Cat as an example for why the interference pattern stopped upon observation. I just don't see the bridge from the double slit to the universal wavefunction.
+The most straightforward bridge to me is just that there is an interference pattern, which implies there is interference.  What is the source of the interference? We have a mathematical model called the Schrödinger equation which reproduces the observed interference effects perfectly, as well as a number of other experimental observations.  This leads us believe that the Schrödinger equation is a good model of reality, at least to some approximation (ignoring relativity and without creating or destroying particles, but that's not important at the moment).
+
+Now, the Schrödinger equation is a partial differential equation, which operates on a function called the wavefunction.  The important thing to realize about the wavefunction is that it is associated with the state of the *entire* system.  There is often confusion on this point in the literature, where you see people discussing the "wavefunction of a particle".  Particles do not have wavefunctions, systems do.  It's true that if you isolate a particle for a period of time, you can approximate a system of one particle and calculate the resulting wavefunction, but at some point in the past or the future that particle will interact with another one, and when that happens their wavefunctions are inexorably the same forever, according to Schrödinger; there's simply no other way for them to interact that we know of if they are both quantum particles, and everything in the universe that we know of is a quantum particle.
+
+So, you see that the concept of the universal wavefunction seems to fall naturally out of the Schrödinger equation.  The many-worlds or parallel-universe or whatever you want to call it concept arises similarly, because there is nothing in the Schrödinger equation which "picks out" one particular outcome of a system as what "actually happens".   In other words, if we follow the mathematics, the electrons that hit the screen behind the slit always hit every possible point on the screen, not one particular point.  Since we always observe each electron hitting one particular point, we're presented with a problem.  Here are two popular ways of dealing with the problem:
+
+* Declare that the Schrödinger equation must be incomplete because it does not match our observations.  To make it complete, we add an additional postulate that the equation is only valid until the system is "observed", at which point the wavefunction "collapses" into one particular configuration.  When pressed for what the definition of "observed" is or the mathematical basis for a "collapse", dodge the issue by acting as if those types of questions are invalid.
+* Notice that the thing making the "observation", i.e. you, is itself composed of quantum particles, and is therefore a part of the same wavefunction as the system being observed.  Since wavefunctions can exist in multiple states at once, this implies that both you and the electrons on the screen are in multiple states, but due to decoherance effects you are unaware of the other "versions" of you that are observing a different location for the electron at a given moment.  Now everything is a lot simpler: we only have the Schrödinger equation to deal with without adding a lot of ad-hoc ill-defined junk on top, and everything is happening exactly as we expect it to.  The only problems are 1) this scenario implies a lot of extremely weird stuff could be happening (i.e. what would happen if someone put hitler inside the box instead of Schrödinger's cat?) which makes astute, level-headed scientists uncomfortable 2) we lack a really rigorous mathematical workup of how exactly decoherance prevents the parallel versions of you from communicating with each other, although we are getting closer all the time.
+
+Hopefully some of this is intelligible; this stuff is not at all easy to explain, which is probably the reason it's often so glossed over in mainstream science articles.  There are also a disturbing number of professional physicists who don't understand it well either.
+I think you may still be thinking of the electron as a point particle.  It's not.  In this experiment, think of the electron as a wave packet like **[this](http://upload.wikimedia.org/wikipedia/commons/c/c1/Wave_packet_%28no_dispersion%29.gif)** (from the [wave packet](http://en.wikipedia.org/wiki/Wave_packet) Wikipedia article).  This wave packet is just a given area where the electron *probably* is at a given time.  When the wave packet encounters a barrier, like in the two slit experiment, interference within the wave packet occurs.  This ultimately affects the point at which the electron will *probably* hit the target screen, and gives rise to the interference pattern.
+
+My previous answer was largely quoted from a physics text, so I'll add the disclaimer that what I wrote in the paragraph above is strictly my interpretation of the phenomenon and is largely unsourced.  It makes sense to me and isn't in conflict with anything that I'm aware of.  I'd be happy to hear from someone if it's incorrect, though.
+
+Edit:  **[This](http://ircamera.as.arizona.edu/NatSci102/movies/younginterf.gif)** animated gif might help your understanding.  It shows coherent light waves impinging on a barrier and interfering with themselves, which is similar to what goes on with electrons.
+Your response is very informative, but I think your discussion about observation is off the mark a bit.  From [Schroedinger's Cat is Alive or Dead, but not Both, and Definitely not Neither](http://www.uwgb.edu/dutchs/PSEUDOSC/SCHRCAT.HTM):
+
+&gt;Let's vary the cat-in-the-box experiment a little. 
+
+&gt;* Suppose we replace the cat with a physicist. Is the system indeterminate even though there is a human observer inside? If we open the box and find a dead physicist, was the system indeterminate until we opened the box, and if so, how did the physicist die? What did the physicist think of all this, or did he dissolve into some abstract wave function once the box closed?
+
+&gt;* Suppose we stick with the cat in the box. After a suitable interval a physicist opens the box, looks inside and then closes the box again. As the physicist crosses the street to tell his colleagues what happened, he is hit by a truck. Is the state of the cat still indeterminate?
+
+&gt;* If we film what happens inside the box, is the state of the cat indeterminate until we view the film? If so, what's on the film? Does the quantum state of the film and the cat change when we develop it? 
+
+&gt;* Suppose the Geiger counter is wired to open the box, at which time the cat runs to the physicist's office. Is the system indeterminate until the cat gets to the physicist? Does the cat travel to the physicist's office as some abstract and ethereal wave function?
+
+&gt;* Suppose we wire the Geiger counter to a hydrogen bomb and put it atop the Sears Tower. Does downtown Chicago lapse into some indeterminate quantum state?
+
+&gt;* Suppose some distant alien civilization builds a Doomsday device which is triggered by some random quantum event and vaporizes the planet. Is the state of the civilization indeterminate until we visit that planet or make a telescopic observation?
+
+&gt;* Suppose this device is hidden on Earth right now? Does that make us indeterminate? Does the fact that we are here and can observe quantum mechanics prove that there is no such device on the Earth? 
+&gt;* Suppose the Geiger counter is on a planet 100 light years away, but the doomsday device is hidden here on Earth. How can the system be indeterminate when the event and the response are separated by 100 years? 
+
+&gt;Clearly, we rapidly end up with absurdities if we assume that conscious observing determines the state of a system. What is important are the changes that occur in the system, and any physical object that is potentially capable of being influenced by the event is an "observer". The atomic decay has already been "observed" because the nucleus that decayed has changed. The system whose quantum state "collapses" is the particle in the atomic nucleus that changes during a radioactive decay. Everything else after that - the geiger counter, the vial, the cat - is classical deterministic physics.
+Sorry, but whoever wrote that doesn't really understand what's going on, and doesn't understand the point of the cat thought experiment.  If you have an atomic nucleus that is in a superposition of more than one state, then according to the Schrödinger equation, anything that the nucleus influences will also be in a superposition from that moment forward.  The author decided arbitrarily to draw a line at the level of the nucleus for when the superposition should end and classical physics should take over, but there is no evidence that such a process takes place or where the line would be if it did.
+The electron is a point particle.  You can see the points of contact of individual electrons hitting a screen.  If you're going to assert that the electron "is" a wave packet, then you need to be able to explain why it acts like a point particle when interacting with a solid surface.
+&gt; Also, who goes around telling people their IQ?
+
+Plus, a real IQ of 184 would put him amongst a small handful of the most brilliant human beings that have ever lived. I kind of doubt that...
+From the Wikipedia article on electrons:
+
+&gt;Electrons, like all matter, have quantum mechanical properties of both a particle and a wave
+
+When interacting with the screen, it acts as a point particle because the measurement is being made to determine its exact position.  However, when en route to the detector, it behaves as a wave, with the wave packet representing the spread of probable locations of the electron.
+&gt;according to the Schrödinger equation, anything that the nucleus influences will also be in a superposition from that moment forward
+
+I understand what you're saying, but I'm not familiar enough with the mathematics to assess this statement.  Could you explain further or link to a reference about this?
+
+&gt;there is no evidence that such a process takes place or where the line would be if it did
+
+There is evidence in that we don't observe superposition in the macro world.  There isn't a good explanation as to why, but that doesn't discount the evidence.
+
+I'm genuinely interested in your response to this, it's very interesting stuff.
+The answer here is the same one for the photoelectric effect.  The electron always interacts as a whole unit, and because of this it always interacts with only one of the possible atoms.  The only difference is that photon number is non-conserved, so the photon can simply end at the interaction, whereas there is a conservation principle associated with the electron interacting electromagnetically so it must continue existing after it interacts.
+How does the electron "choose" a particular atom to interact with among all the possibilities? 
+
+Note: I'm not asking this because I want to know the answer, it was a hypothetical question to get drrockandroll thinking about different ways of interpreting quantum mechanics.
+&gt;&gt; according to the Schrödinger equation, anything that the nucleus influences will also be in a superposition from that moment forward
+
+&gt; I understand what you're saying, but I'm not familiar enough with the mathematics to assess this statement. Could you explain further or link to a reference about this?
+
+The Wikipedia article on the [Many-Worlds Interpretation](http://en.wikipedia.org/wiki/Many-Worlds_Interpretation) is actually pretty decent.  Let me know if there is anything in there that doesn't make sense to you.
+
+&gt; There is evidence in that we don't observe superposition in the macro world. There isn't a good explanation as to why, but that doesn't discount the evidence.
+
+You're going back to what I said earlier, namely that there is a problem where the evidence (we don't observe superpositions) doesn't seem to match the model (the Schrodinger equation).  What you're advocating is modifying the model to fit the evidence, and what I'm advocating is that the evidence fits the existing model, it's just that some people have been mis-interpreting what the model implies.
+This is the sort of thing that has everyone so hopelessly confused...
+
+There is nothing in MWI which says that electrons don't *appear* to act as both waves and particles, it's just that the wavefunction collapse that leads from one to the other is believed to be an *apparent* collapse; the underlying particle in reality is always acting the same way all the time, it's just that the way we observe the behavior changes depending on whether that portion of the wavefunction is coherent or not.  This is in opposition to other interpretations which may see the collapse (and any subsequent re-coherence) as actual physical processes (some people refer to these as the "R-process" and "U-process" respectively).
+
+The problem is that even it's simply very mathematically necessary to treat systems as if they did behave this way, even if you don't believe that collapse is what's actually taking place (or you're agnostic about the whole issue), because it's the only way we know of to get actual answers about what will happen as the result of a quantum experiment.  So, it's just a lot easier to make statements such as "electrons are both a particle and a wave" and leave out all the underlying complexity.
+The question is empty metaphysics though.  The process is, as best we can discern, random, and there's no "interpretation" that can do anything more than sweep the question under the rug.  
+
+Many worlds just shifts the question to how exactly you (or whatever constitutes your current experience) choose one branch of the wave-function or another.
+
+Bohm claims to give a deterministic evaluation, but then invokes randomness in the initial state.  I fail to see how this gains you anything.
+
+The vanilla "shut up and calculate" is at least honest enough to leave it at "the electron interacts with one at random with probabilities given by the Born rule.  We don't really know why now, but it works to fantastic precision"
+
+There's no way to truly answer that question without invoking randomness at one level or another.
+
+EDIT: I also want to point out that the electron is *not* a point particle in the classical "infinitely localizable" sense.  When we say the electron is point-like, we mean that specific quantities known as the electric and magnetic form-factors are consistent with those predicted by QFT for a fundamental fermion.
+It's not shifting the question, it's answering it: I am currently experiencing both branches, not one or the other.
+Hmmm... you seem to be the first to move me substantially away from being curmudgeonly agnostic about interpretations of QM.  You still won't talk me into trying any quantum immortality experiments though ;)
+
+I do see now after really chewing it over in my head that there is a sense in which MWI really does give the "simplest" explanation for whats going on...
+But I'm lonely in this cesium-137-triggered gas chamber all by myself...so lonely...
+My IQ is 212, according to a three-question test I took on Facebook once!
+[deleted]
+electrons are both a particle and a wave
+
+Then that's the answer. Thank you :-)
+I don't respect the intelligence of anyone who spouts an IQ test score.
+I'm still not convinced that you can't build a model where the possible classical states compete and all but one cancel out in the end, the intermediate states being pointer states. Where is the elephant in that argument?
+
+Summary:
+The electron is a point particle.
+Particles do not have wavefunctions, systems do.
+Is the system indeterminate until the cat gets to the physicist?
+Is the state of the cat still indeterminate?
+The only way to have multiple electrons is to have multiple realities!
+&gt; There is evidence in that we don't observe superposition in the macro world.
+Is this how an electron splits itself?
+electrons are both a particle and a wave
+
+Then that's the answer.
+I think you may still be thinking of the electron as a point particle.
+Since we always observe each electron hitting one particular point, we're presented with a problem.
+The answer here is the same one for the photoelectric effect.
+I just don't see the bridge from the double slit to the universal wavefunction.
+Does that make us indeterminate?
+&gt;* Suppose we replace the cat with a physicist.
+Let me know if there is anything in there that doesn't make sense to you.

@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+Hello, I was wondering if Metatrons Cube a fractal. It is self similar, infinite and diverse.
+
+it's a fractal like pattern but it's not a complex-plane type fractal like mandelbrot/julias and variants.
+
+If you google "ifs fractal generator" you'll find some software you could play around in.
+
+ya sorry about that but he goes into details about the shape and has a few decent graphics.
+
+I have played with L-System generators but never got this shape. Surprised I have not seen it as it looks like something that should be there.
+
+When you zoom in on it it just look bigger, so it's not a fractal.
+
+ya good point. Although from that first circle you keep creating bigger circles so it you started at a large magnification and used smaller and smaller/fractional circles then it would zoom in infinitely.

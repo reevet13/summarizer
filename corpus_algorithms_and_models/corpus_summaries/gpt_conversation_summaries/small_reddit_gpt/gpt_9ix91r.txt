@@ -1,0 +1,22 @@
+|Teams|1st|2nd|3rd|Total|
+|[](/r/caps)|1|1|2|4|
+|[](/r/stlouisblues)|0|0|0|0|
+
+|Team|Shots|Hits|Blocked|FO Wins|Giveaways|Takeaways|Power Plays|
+|[](/r/caps)|37|15|10|37.5%|2|3|0/5|
+|[](/r/stlouisblues)|42|21|8|62.5%|2|7|0/3|
+
+|Period|Time|Team|Strength|Description|
+|3rd|18:34|[](/r/caps)|Even|Chandler Stephenson (1) Backhand, assists: none|
+|3rd|00:52|[](/r/caps)|Even|Madison Bowey (1) Tip-In, assists: Alex Ovechkin (2), Evgeny Kuznetsov (2)|
+|2nd|09:18|[](/r/caps)|Even|Nathan Walker (1) Wrist Shot, assists: John Carlson (1), Michal Kempny (1)|
+|1st|10:16|[](/r/caps)|Even|Shane Gersich (1) Wrist Shot, assists: Riley Barber (1), Nic Dowd (1)|
+
+|Period|Time|Team|Type|Min|Description|
+|3rd|07:31|[](/r/stlouisblues)|Minor|2|Colton Parayko Cross checking against Nic Dowd|
+|3rd|06:56|[](/r/caps)|Major|5|Tom Wilson Fighting against Robert Bortuzzo|
+|3rd|06:56|[](/r/stlouisblues)|Major|5|Robert Bortuzzo Fighting against Tom Wilson|
+|3rd|04:48|[](/r/stlouisblues)|Minor|2|Robert Bortuzzo Boarding against Shane Gersich|
+|2nd|19:38|[](/r/caps)|Minor|2|Tom Wilson Roughing against Brayden Schenn|
+|2nd|19:38|[](/r/stlouisblues)|Minor|2|Brayden Schenn Roughing against Tom Wilson|
+|2nd|16:05|[](/r/stlouisblues)|Bench Minor|2|Too many men/ice served by

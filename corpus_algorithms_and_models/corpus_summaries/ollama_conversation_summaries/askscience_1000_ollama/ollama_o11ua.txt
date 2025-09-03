@@ -1,0 +1,42 @@
+Here are the selected sentences copied verbatim from the original text:
+
+For your first scenario - adding 100mL of hot water and 10mL of cold water will give a different temperature than adding 100mL of cold water and 10mL of hot water (edit - defining 'hot' and 'cold' as fixed temperatures greater than 273K and below 373K, with hot being a higher temperature than cold so some pedantic physicist doesn't call me out).
+
+For your second scenario - If you add X amount of hot water to Y amount of cold water to reach temperature T, then you must add Y amount of cold water to X amount of hot water to reach the same temperature. It doesn't matter what order you go in.
+
+Think of it like this, if you added the same volume of "hot" and "cold" water (i.e. 50mL of each), you would end up with 100 mL of water that would have the average temperature of the two. (i.e. if it was 2 degree water, and 60 degree water, you would end up with 31 degree water).
+
+The maths goes like this
+V1 = Volume of the first water
+T1 = Temperature of first water
+V2 = Volume of the second water
+T2 = Temperature of the second water
+Tf = Final Temperature
+
+Tf = (V1*T1+V2*T2)/(V1+V2)
+
+
+Think of it like you're mixing two different paints. The volume and the intensity of the paint colors decides what the final color is. You can either make one of the dyes stronger, or just add more of it.
+
+99mL of boiling water, plus 1 mL of freezing water will be very close to boiling water.
+
+99mL of freezing water + 1 mL of boiling water. What temperature is it going to be? Boiling or freezing?
+
+The formula is T = (m1⋅T1 + m2⋅T2) ÷ (m1 + m2)
+
+If Hot is 100° and Cold is 10°, X = 91.(81)° and Y = 18.(18)°, so "same difference from original".
+
+50° = (Cup ⋅ 100° + X ⋅ 10°) ÷ (Cup + X); 50° = (Cup ⋅ 10° + Y ⋅ 100°) ÷ (Cup + Y)
+
+50 Cup + 50 X = 100 Cup + 10 X; 40 X = 50 Cup; X = 5/4 Cup
+50 Cup + 50 Y = 10 Cup + 100 Y;  40 Cup = 50 Y; Y = 4/5 Cup
+
+He just posted a formula that shows how temperature is a weighted average.
+
+If you add 100mL of 90c water and 10mL of 10c water, your final temperatire is (0.1 * 90 + 0.01 * 10) / (0.1 + 0.01), which is 82.7c. 
+
+If you flip the quantities, your final temperature is (0.01 * 90 + 0.1 * 10) / (0.01 + 0.10), which is 17.3c.
+
+So, yes, the differences in temperature are the same. Adding the small quantity of cold water to the hot water decreased the temperature by 7.3 degrees. Adding the same quantity of hot water to the cold water increased the temperature by 7.3 degrees.
+
+I knew exactly what you meant. I said that  in my original post.

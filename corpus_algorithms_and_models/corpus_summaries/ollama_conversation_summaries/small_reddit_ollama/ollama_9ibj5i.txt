@@ -1,0 +1,17 @@
+Here are some extracted sentences:
+
+* Someone wrote a script that cleans up the Windows 10 bloatware. In order to run the script which is written in Powershell you need to use the right switches (options). The script is hosted on a tech site called Spiceworks.
+* McAffee's is called MCPR “McAfee Consumer Product Removal Tool”, should be able to find it with a quick search and give it a shot.
+* Despite all the crap that comes with it, it still is important to get your security updates. You really shouldn't just disable it and forget about it
+* It isn’t. I don’t know what you’ve got going on but that’s not normal. I removed a bunch of crap and turned off Ciri permanently when I got it, but I don’t remember any of that even before I cleaned it up.
+* Nowadays it’s less complicated on Linux. Either it works or it doesn’t, and if it does work, then you’re good to go.
+* What are you talking about, Windows 7 is still great for gaming. It is still receiving updates and I'm going to keep using it after it stops getting updates, just being more careful with my files.
+* There is not a single game out there that requires Windows 10, game developers hate that piece of shit just as much as gamers do. the drivers aren't any faster either (maybe except for a few cherry-picked scenarios), in some cases they are slower.
+* I've disabled Windows updates for my gaming system altogether (you need to have a Pro windows version and disable the updates via group policy, other methods do not work). There's no reason for them at all. Yes, you will have certain security risks, but you won't get random bullshit taking up all the bandwidth in the worst possible moment, randomly restarting the system, re-enabling bullshit settings and breaking drivers all the damn time.
+* I am fine with security holes. There is nothing but games on my machine. I can format and recover everything in the worst case scenario very easily.
+* Ubuntu has gotten piss-easy to install with a lot of really great auto configuration and auto driver installation. Linux Mint following suit by nature. Steam is in the app store, and proton is already running insanely smooth.
+* Linux is super easy these days. What kind of games do you play?
+* Well with Windows it might *work*, but then there are all these minor things to annoy the shit out of you that /u/Heruuna listed some of.
+* May want to consider trying a dual boot scenario (I've heard some people have run into issues where win10 fucks grub when dual booting on the same disk, so maybe grab a small ssd for your Linux OS).
+* You can make the ~~spam~~ notifications less persistent by turning on "Focus Assist" in the quick settings menu (accessed in the lower-right corner of the taskbar.) It's basically a Do Not Disturb mode that prevents notifications popping up.
+* 7 is still supported for 2 more years

@@ -1,0 +1,3 @@
+The velocity needed to remain in orbit is equal to the square root of Newton's constant times the mass of earth divided by the distance from the center of the earth.
+In space there are no other forces acting on either the shuttle or the guy, so they stay in the same position relative to each other.
+The light from the earth makes the picture very bright.

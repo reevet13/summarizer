@@ -1,0 +1,19 @@
+Here is the summary:
+
+Science is based, at its most basic, in measurement. If it cannot be measured in some way, there is no way we can know for certain what properties something has.
+
+But when we deal with things on the scale of individual particles, the effect of the measurement isn't drowned out by anything. So, by observing something we change its properties, and we get the Uncertainty Principle.
+
+Quantum mechanics operates in the domain where position and momentum are basically Fourier transforms of each other. As an analogy you can think of momentum being the frequency-space of position.
+
+There is no unmeasured position and unmeasured momentum that it really has before the measurements were done.
+
+The rules for how that field flows are linear, so that allows superposition stuff.
+
+I should append that by saying it doesn't help to understand most of the phenomena of quantum mechanics, just things regarding observation like, as I understand it, entanglement and uncertainty.
+
+No...but that was the answer before I even read your text.
+
+In say 1-d QM, you have in position space p = (-i hbar) d/dx (gradient with respect to x), and in momentum space x = (i hbar) d/dp.
+
+Note that the Fourier transform of x f(x) is (i/(2pi)) (d/dp) f(p) and the transform of (d/dx) f(x) is (2pi i p) f(p), or equivalently -i/(2pi) d/dx f(x) has transform p f(p).

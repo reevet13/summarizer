@@ -1,0 +1,25 @@
+Here are the sentences copied verbatim from the original text:
+
+* People overspecialize and lose sight of the proverbial big picture -- the emergent phenomena from the interaction of all the subsystems.
+* Lay opinion and anecdote, on the other hand, leave space open for specialists to find their subsystem's role on the phenomenon being described. It bugs me that this is actively disencouraged here.
+* I too believe in atoms and quarks, and that something very complex as Turing-complete computing in an ordinary chip has an "ultimate explanation" in atomic and molecular structure, but while that's true it's quite a risible explanation.
+* This is like saying a cow chews on her cud because of the weak nuclear force.
+* To establish such an explanation you'd need nomological links -- "the law of electrical transmission along a nerve" determining "the law of muscle contraction" and so on.
+* But you quickly find out that in complex phenomena more than one subsystem is at work. The cow chews at her cud because her anatomy has evolved to do so, but this happens in coextension with the changes in her environment.
+* And then we're tasked with dealing with plants, and the soil. _Arma virumque cano_.
+* Anyway, onto what I actually meant to say but didn't, the hypothetical-deductive model is more or less the cartoon version of Popper's conjectures and falsifications: someone has a crazy idea ("cows are made out of marble"), a piece of cow is put on a microscope and it's found that cows aren't actually minerals.
+* Note how simple this is, and how much it assumes already: there is some fixed entity "cow" that can be immediately recognized without margin for error, that we can get a representative piece of it and that our notions of how a thing made of minerals looks in a microscope are also without ambiguity or error.
+* In real science, there are two more things there that can't be taken for granted: the microscope and a hypothesis that makes any kind of sense.
+* How are hypotheses formed? The short answer is "an evolving tradition" and hence paradigm breaks (Kuhn) and research programmes (Lakatos).
+* Falsificationism is a good model for narrowing down wild speculation in science because it's high in what we call _specificity_ in statistics -- it has a ruthless predilection for the rejecting true hypotheses over accepting false hypothesis.
+* It's excellent for preventing "quack inflation", even though you can always get published in the _Journal for Quacky Quackery_, but it gives you scientific conservatism and the aforementioned bugs in the system.
+* In a world where science is measured by how much of it is published in network-dense (as in Eigenfactor) journals, you get a multitude of excessively narrow research areas working on excessively specific problems.
+* This gets you to a situation where you know a lot about the resilience of vascular networks in plant leaves and the microbiology of critters found inside a ruminant's first digestive sack, but you know nothing of a cow. A boy who grew in a farm knows of cows.
+* The fact is that science has been at its most productive somewhere in between the period where people decided that specificity mattered and the point where people decided that _sensitivity_  -- the tendency to risk accepting true hypotheses even if it means risking accepting some false ones too -- didn't matter at all.
+* Everything, from basic physics to evolution to quantum theory (and to much quackery that has met timely demise) has arisen in this period, and all we've done post-Popper is narrow it down, sometimes to the point of uselessness.
+* When you have string/braid theory and quantum loop gravity positing such different fundamental ontologies and no way to narrow the problem further down to something amenable to experimental protocol, well, that's a fine waste of great minds.
+* And while that happens, intriguing problems in what I'm tempted to snidely call "real physics" lay unsolved: take turbulence in fluid dynamics.
+* More than one scientist has said, possibly in jest, that a transcendent God would understand relativity and quantum electrodynamics, but remain puzzled about turbulence.
+* Is this not because at some point you have to deal with viscosities that comes from chemistry and boundary frictions that can depend on economics or cow herding at any given point?
+* Turbulence could well be said to be the reductive archetype of emergentism: something that even the staunchest reductionist can't deny to be irreducible to the forces in the Standard Model.
+* If the Standard Model is even true next week anyway.

@@ -1,0 +1,774 @@
+Original Response:
+I think [something like this](http://www.quantumbalancing.com/news/lemon_battery.htm) might be the easiest way to get some power. You might be able to use some other fruit than lemon, but you'd probably have to chain lot of those to make it work and it would not last too long... getting proper wires might be another problem that you would face.
+[deleted]
+Generating electricity is one thing, but is there concern about the getting the amps and volts right? If so, is there a way to jury rig a transformer?
+[deleted]
+Building a battery from fruit may be easy, but will require enormous amount of fruit to power your laptop. If you come around a magnet, powerful enough, building a dynamo might be better idea. It is also easy to control the power and voltage. In addition to the magnet you will need a lot of thin metal wire which will cost you some money in those time. Dynamo will produce ac voltage. Of course the voltage won't be 120 or 240 volts, what your power adapter expects, so you will have to modify it for your new voltage. You will get some spare wire there! Building a dc generator is slightly harder. I am no expert to decide what is easier: to modify your adapter or to produce a dc generator.
+I think your best bet would be a Baghdad battery set up. More stable than using a potato and less annoying if you stick it on your portal gun. http://en.wikipedia.org/wiki/Baghdad_Battery
+I'd say AC is easier because you have a much wider range of acceptable input voltages.
+
+You'd need to put in some extra work to begin with to make yourself a strong magnet, you could probably stroke an iron bar with a naturally occuring magnet to get something quite useful. I don't know whether people of the time made strong magnets but they certainly wouldn't mass-produce them.
+[deleted]
+A dynamo is unlikely. The quality of magnets at that time was not good enough. Highly magnetic materials were not the most widely available, and lodestone is not easy to work with. Creation of a magnet by magnetizing an Iron bar with lodestone would not result in an overly magnetic bar, and probably not one of suitable strength. The dynamo would end up being very bulky and probably have somewhat unsteady voltage.
+
+A voltaic pile is easier to build, but would not last long under the demands of a laptop. Since Volta's original pile consisted of metal sheets separated by acid soaked cloth, this could easily be built, but you would have no way of measuring the voltage coming off before plugging in your device, so use would be risky. The same holds true for the dynamo as well, so the whole idea is a bit sketchy.
+[deleted]
+Lead, copper and sulphuric acid are all ancient tech - that's enough to build a rough lead acid cell which will give you 2V per cell. 10 of those in series and you've got 20V DC which is close enough to the 19V DC most laptops take for it not to matter. Current only needs to be sufficent, if it's capable of supplying more current it won't do any harm (ie laptops don't require current regulation).
+
+Now you could just use these as disposable batteries, but that wouldn't be tremendously efficient. You'd be better off recharging them with a dynamo, which outputs half wave AC. This is how a car battery is charged (with unsmothed half wave AC) so wouldn't wreck the battery. I'm not sure how realistic building a dynamo would be.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+A lot of electronics these days accept anything from 120AC to 240AC at 50-60Hz. I've seen even wider ranges too, like from 90-250AC with corresponding wider acceptable frequencies. So, depending on the OP's charger, it might be even easier than you think.
+AC voltages can be easily changed with simple transformers, and the power adapter will be expecting it anyway, so that's definitely the way to go.
+[deleted]
+[deleted]
+[deleted]
+so bring a multimeter with you
+Or you could generate electricity from fruits to magnetize some iron. It seems a lot easier than stroking a piece of metal a few hundred times.
+[deleted]
+You'd need a whole bunch of tools just to get started. You'd have to be able to measure any voltages you get out of your device. Now you'd have nothing to measure against so you'd have to go back to basics to define a "volt". Maybe something from redox reactions. The definitions in wikipedia include coulomb's, ohms, amps. Basically you'd have to re-invent the whole damn SI system to figure out what exactly 1V is.  
+
+Okay let's say you do all that. You'd have to build some sort of device that can give you an AC source (or DC if you throw away your brick) that is relatively stable. Spikes and stuff wouldn't be nice for your regulator/diodes. AC source would probably be easiest. But you'd have to be able to measure the frequency. Off hand I can't think of a way to measure 50/60Hz without a multimeter/scope. Maybe some sort of speaker and listening for the hum?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+I'd say skip the inefficient transformer and charge the battery directly with DC voltage but as others have said then your problem is amps and how do you measure the amount of amperage?
+
+ I guess you could use wire size as a crude way to measure amperage and have it melt or a section melt, a crude fuse, if the amperage for that size wire was exceeded.
+I feel like a multimeter would be really essential to the OP.
+What would the actual output look like? Just a thin metal wire you would connect to some metal inside the socket?
+The laptop's mic input can be used as an oscilloscope for low range of frequencies and voltage. With the appropriate resistances, it can be used as a multimeter.
+
+EDIT : planq made an important precision : mic inputs remove the DC component therefore a mic input can (with a bit of circuitry before it) be used as an oscillo but therefore not as a voltmeter.
+The main problem I see is the creation of a correct scale for measurements. Don't go back in time without knowing the voltage produced by some pairs of regularly occuring metals (I think Volta's original copper/zinc pairs gave around 0.5 V)
+
+
+Other comments make it clear that you will need some funds to recharge a laptop in the renaissance. Better make a then-useful device in order to garner enough funds. My suggestion would be to provide them with telegraphs : it is of incredible strategic importance and only requires wires, contactors and batteries. It would kickstart a wire manufacturing and battery manufacturing infrastructure you will need in order to build an efficient dynamo.
+[deleted]
+Could you bring back a solar panel too? It wouldn't last forever but it would save you some time while devising any of the other contraptions mentioned in this thread.
+Huh, TIL.  I had no idea that something like had that been created so long ago.
+[deleted]
+I think that would be the easiest part. You could either just touch two strands of wire to the leads in the port, or you could probably even reconstruct the head of your charger.
+Actually, it probably wasn't made to provide electricity. Unless you believe History Channel
+[deleted]
+Or if you where lucky when you got pulled back in time, you had the charger with you. Useless, except for it gives you a handy piece of wire with a plug to attach your medieval battery onto!
+[deleted]
+wasn't it used in jewellery making, either that or they just got a kick out of feeling it tingle on their tongues much like we do today.
+[deleted]
+Yeah, that's what I read.  But it's still fascinating to see that they were using such a relatively advanced technique back in those days.
+[deleted]
+[deleted]
+You could use the lead acid batteries to power the field coil of a generator(dynamo). Then you could build electromechanical rectifiers and regulators to get whatever DC voltage you wanted.
+[deleted]
+&gt; Building a battery from fruit may be easy, but will require enormous amount of fruit to power your laptop
+
+How long would it take to charge a netbook on a fruit battery? Forget keeping it powered, just charge the battery.
+It was probably used for plating metals onto jewellery, or to provide a "religious experience".
+[deleted]
+[deleted]
+Or be an engineer and learn the laws of electricity and BUILD a voltmeter.
+I guess the latter is more probable :D General consensus is that it's just a storage jar... EDIT: I know that you could use that to plating coins and such, but it would require wires among other things. Also, no electroplated objects were found in that region.
+A rudimentary transformer could be rigged up by two coils of wire wrapped around a metal spike, insulated from each other and the spike... Hell, even without the spike you could technically create a transformer... Of course, it would have some pretty horrible properties, since you're not working with laminated steel plates and such, but still, transformers are one of the easiest things you could create, all things considered.
+
+Of course, that speaks nothing about how much use a transformer like that would be... Ramping up the voltage would cause a decrease in current inversely proportional to the increase in voltage....
+[deleted]
+[deleted]
+[deleted]
+You essentially make a 20V car battery, it has two terminals, and you hook up a wire to each and stuff it into the power port of the laptop (or if you have the charger, just cut the connector off and splice it in).
+
+As for charging it, I think you would probably be better off with tech that charges it with heat, for lead acid you just need to know how to convert PbSO4 to Pb and PbO2, I think this should be possible through chemical/heat methods without needing power, if not, there are plenty of battery types that can be done much easier. Zinc air comes to mind, needing only Zn and water to produce, the dead battery is just ZnO which can be turned back to Zn with high tempreture CO.
+&gt; laptops don't require current regulation
+
+Does this mean that it's safe to use a laptop which is plugged in to a gasoline-powered generator? I seem to recall something that said that using a generator with electronics is unsafe because the frequency of the AC wasn't stable.
+Diagram please
+You could probably build a generator from a windmill or water wheel, but I imagine it'd be difficult finding the natural magnets, or making ceramic magnets strong enough, for the rotor.  All you need for the rest of it is some copper wire for a stator.
+
+Building an electric AC generator is basically as simple as spinning a magnet inside a coil of wire (or the opposite, a coil of wire spinning in a magnetic field).
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[This calculator](http://www.csgnetwork.com/batterychgcalc.html) might be useful. Keep in mind that you need to apply the correct voltage, not just the specific current.
+Would you have the charger with you? If so, using a [water wheel](http://en.wikipedia.org/wiki/Water_wheel) (which were in common use long before the Resaissance) could be a good way to generate AC power, though the materials science wasn't sufficiently advanced to acquire and work with the metals required.
+The AC current doesn't directly go to the computer though does it? I was under the impression that it was being converted to DC first then into the computer.
+http://www.youtube.com/watch?v=k7Sz8oT8ou0
+
+this is the only understandable instructional I have found after about 2 years of scouring the internet.  For some reason, do it yourself resources jumps from kindergarten simple to Macgyver level, with a giant void in between.
+Also need a magnet goe that I think.
+[deleted]
+How do you find/make sulphuric acid ?
+[deleted]
+Black smith could easily make something like that for you.
+Right, that's what the power brick does. This is what it says on mine:
+
+    INPUT: 100-240V~2.0A 50-60Hz (AC)
+    OUTPUT: 19.5V, 6.15A (DC)
+
+Wow, that's actually pretty tolerant. I guess I just answered my  own question.
+[deleted]
+[deleted]
+Historically, heat up iron sulphate, and disolve the sulphur trioxide it gives off into water - simple enough
+
+http://www.sciencemadness.org/talk/viewthread.php?tid=10012
+
+If you had more tech you could perhaps build a lead chamber process plant. That dates to 1746, so isn't significantly higher tech than the period you're talking about
+
+http://en.wikipedia.org/wiki/Lead_chamber_process
+[deleted]
+why bother?  there are plenty of reliable solar powered battery rechargers.
+[deleted]
+[deleted]
+Is iron sulphate found in nature? I can't imagine how the ancients stumbled onto it.
+[deleted]
+[deleted]
+[deleted]
+You get it in rocks - fools gold. 
+
+It's common enough in small quantities and I reckon you could find seams of it if you looked hard enough.
+Or better:  silversmith.  Silver is a better conductor than iron, and the silversmith would have been used to making finely detailed things.
+[deleted]
+The laptop's mic input can be used as an oscilloscope with the a very simple circuit.
+If your AC source is a synchronous generator, there's a direct relationship between output frequency, the number of poles in your generator, and the speed of the shaft. So if you can measure the speed of your shaft, you can find the output frequency.
+[deleted]
+Some here have mentioned [potatoes](http://www.how-things-work-science-projects.com/potato-battery.html) and fruit.  Would they work?
+
+If so, how many would it take?  And what kinds of drawbacks would they present?
+[deleted]
+[deleted]
+A rebuttal: what good would a laptop be in the renaissance? Considering you can't connect it to the Internet, it's  a very advanced calculator and and a knowledge storage device. I don't see what good it would be the ability to do polynomial functions or spreadsheets in the 16th century. What would be very useful indeed was having all the current world knowledge at hand, but a laptop is a very fragile device, and electricity is very hard to come by. In pretty sure that if you combine laser nano sketching in plastic or metal sheets with a microscope you can have a very comprehensive encyclopedia of the current human knowledge inside a large suitcase. Also, the microscope itself would double as a telescope and would be incredibly useful, if you take care and don't take the Galilean route. 
+
+There's a similar thing the long now foundation built, the long encyclopedia or something similar.
+The problem being making the dynamo.
+Go around asking for Oil of Vitriol, or burn sulfur and saltpetre in the presence of steam.
+[deleted]
+[deleted]
+[deleted]
+I know you're being downvoted, but this makes sense. If you were going to go back in time to the renaissance with your laptop, why wouldn't you bring a solar-powered battery charger?
+Laptops don't require regulation? I find that difficult to believe, what with that intensely regulated SMPS on the end of your charging cable.
+
+
+If it were my laptop, I'd play it safe and find a way to generate 120V, then run it through the power supply. If that didn't come included, I'd stick to batteries - it would *really* suck to explain to the king why your magical picture box won't work any more.
+[deleted]
+[deleted]
+If you have a laptop with speakers, can't you just use the magnets from them?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+But how are you going to make use of it without the laptop being powered?
+Van De Graff Generator with a rudimentary inverter, neither of which would be difficult to build with the tech of the 1700s.
+
+note: rudimentary inverter isn't a special thing, just a device you construct which uses rotation to switch currents back and forth at 50-60 hz.
+[deleted]
+Wouldn't you still need something to calibrate the voltmeter against? Sure, with your newly invented voltmeter you can know whether one voltage is bigger than the other, but how can you know whether its more or less than the 19V that you need?
+[deleted]
+[Good luck finding a potato for most of the renaissance.](http://en.wikipedia.org/wiki/Potato#Europe)
+Wouldn't its existance back in those days mean calling it an advanced technique is a misnomer?
+http://cosmology.berkeley.edu/Education/DEMOS/Potato_Power/Potato_Teacher.html
+
+I lack the knowledge to explain it technically, but its something like 1.6 volts per potato,(zinc somehow affects this)  so like 12 of them in series.
+Those really aren't powerful enough to build a dynamo to power your laptop.
+[deleted]
+[deleted]
+Somewhat valid point.
+
+I guess it depends on when and where you went, as the Renaissance covered the [14th to the 17th centuries](http://en.wikipedia.org/wiki/Renaissance) and the potato was introduced into Europe ["some years before the end of the 16th century"](http://en.wikipedia.org/wiki/Potato#Europe).
+Just to clarify, fool's gold is iron (II) sulfide, FeS, but its oxidation product is iron(III) sulfate Fe-2 (SO4)-3.
+"you just need to know how to convert PbSO4 to Pb and PbO2, I think this should be possible through chemical/heat methods without needing power, if not, there are plenty of battery types that can be done much easier. Zinc air comes to mind, needing only Zn and water to produce, the dead battery is just ZnO which can be turned back to Zn with high tempreture CO."
+
+could you explain that further please?
+sounds interesting.
+[deleted]
+[deleted]
+Your specialties compel me to agree.
+Tomatoes and citrus fruit could be substituted as well.
+[deleted]
+[deleted]
+[deleted]
+Is this the reason that I used to sit on batteries for 20 minutes and the remote for the TV would then work for another week or so?
+Why even worry about the mic port?  Just take a speaker out of the laptop and connect it directly to the battrry.
+Use the laptop draw as reference, if it still has enough battery to fire up.
+It probably was just a jar for holding scrolls, never any kind of battery at all
+
+&gt;The artifacts strongly resemble another type of object with a known purpose — namely, storage vessels for sacred scrolls from nearby Seleucia on the Tigris. Those vessels do not have the outermost clay jar, but are otherwise almost identical. In this way, they could have been simply used to store ancient scrolls
+
+edit: [source](http://www.uky.edu/~csc222/linkedwhole.pdf)
+I'm going to assume that the high temperature CO interacts with the ZnO so that the Zn loses the O and then the O wants to be bonded so it goes to the CO molecules to create CO2.
+
+This is why I play spacechem.
+[same issue.](http://en.wikipedia.org/wiki/Tomato#Spanish_distribution)
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Drawing the wire itself isn't that hard, start with a billet of copper and draw through several dies. The hardest part of making the dynamo is determining what to use for the enamel on the wire. My best guess would either be rosin or shellac. At the expense of flux density, I guess you could ensure physical separation by weaving an insulator through. Then you just need to track down the lodestone.
+[deleted]
+[deleted]
+[deleted]
+A multimeter would be incredibly helpful (and probably save the laptop from a premature end from too much juice or wide swing voltage related stress)
+[deleted]
+These are slightly relevant: 
+
+How to make a....
+
+* [Battery &amp; voltmeter](http://www.youtube.com/watch?v=fUabmt1UAyo), [2](http://www.youtube.com/watch?v=syqBxBzUH9M), [3](http://www.youtube.com/watch?v=W70jMGQrswE)  
+* [Wind turbine](http://www.youtube.com/watch?v=_jipNx3101E), [2](http://www.youtube.com/watch?v=TLY20li2Uf4), [3](http://www.youtube.com/watch?v=WPTuBPn4ZP0)
+
+(Yeah, shocking quality I know, and they cover a bunch of other topics at the same time. It's all fairly interesting though.)
+
+These are from a BBC TV series where they dump a bunch of amateur scientists on an uninhabited island and challenge them to reinvent modern technology using only the raw materials found on the island. It's pretty much a kids show, and is aimed squarely at the layman although the scientific principles discussed are all sound.
+
+Ok, they cheated a bit and had a roll of single strand copper wire hand, but assuming you had the laptop charger with you it'd be perfectly possible to disassemble it and unwind the transformer coils and/or split the multi-strand mains cable and coat with something to insulate the strands. 
+
+In the video they make a dynamo, you'd ideally want an alternator as that would output a constant AC voltage with only the current changing with RPM, (whereas a dynamo outputs a varying DC voltage).  
+It also negates the requirement of needing strong permanent magnets. You would however need to run the outputted power through the rectifier in the charger (assuming you have it), to convert it to DC.
+[deleted]
+[deleted]
+[deleted]
+Lots of old telephone wire is insulated with paper. Perhaps onionskin paper would do?
+[deleted]
+[deleted]
+[deleted]
+A potato battery probably won't cut it. Potatoes have fairly high [internal resistance](http://www.allaboutcircuits.com/vol_6/chpt_3/16.html), so the voltage of the cell will drop a bit as soon as you draw current from it.
+[deleted]
+if i'm not mistaken, you can move a magnet through a coil to generate potential
+
+you would need: copper wire, insulated with varnish, magnet (occurs naturally), iron (ferrite core). Next you would need something to act as a capacitor, perhaps a Baghdad battery type of device... clay pot with two electrodes (two different metals, let's say copper an iron), and an electrolyte... not sure if you would use salt water or an acid solution.
+Basically it's smelting, you almost never find pure metals in nature, they usually bond with other things, like oxygen, and heat and carbon/carbon monoxide will take the oxygen off to form CO2. Burning wood in the right type of furnace should be enough to smelt the zinc (you have to get it hot enough though).
+
+In the same sence, the dead plates for a lead battery should be able to be smealted back to the charged plates, though often it takes specific acids or other compounds, an electrical method is NOT the only method, checmical is usually possible as well, though with current tech it may not be the cheapest.
+[deleted]
+and where are you going to get the magnet? probably the best you can do is magnetite... and i have certain doubts that it would work very well. you'd have to build small dynamo to power electromagnet and then use the same principle that is used in power plants generators (the electromagnet is used in bigger dynamo and so on...)
+
+and in order to build the dynamo, you would need lot of wire of relatively good quality. although people knew how to produce wire since bronze age, it remained to be used mostly in jewelry making, because only short pieces could be made effectively enough (which means making a coil could be a problem).
+
+i still think the fruit battery or bhagdad battery is the way to go. you only need to charge your laptop battery by them (even with the little power) and then you'd've a few hours/minutes of work every time.
+don't you think they might just use the same kind of jars that were readily available? Especially one that was relied upon to be watertight.
+[deleted]
+not impossible, 
+
+but doesn't it make more sense that it is just a jar?
+explain, im learning tons of zombie apoc info right now!
+Because you can get a far more accurate reading from the mic port with the right software.
+[deleted]
+[deleted]
+[deleted]
+Laptops have built in regulators- they're called batteries :) Also, the power supply on your laptop might not be as "intensely" regulated as you think. Making a decent power supply at something approximating 20VDC is going to be orders of magnitude easier then 120VAC.
+[deleted]
+Reminds me of the WWII prisoners who [built their own radio](http://www.zerobeat.net/qrp/powradio.html).
+
+&gt;So two problems remained for the power supply. The first one was the A-battery or low voltage supply necessary for the filament of the valve. We started with a couple of dry cells, but these didn't last very long and we had to make something then. Through being friendly with the pharmacist with the party, we got some potassium bichromate and made up a bichromate cell, which is probably well known in the text books but not of very practical use. It's fairly hungry for zinc and it needs some sulfuric acid which one can't throw around or hide easily, but it served for some time and was quite successful but, in the end, had the operation lasted very long, we would have been in trouble for that. Two of these cells provided about 3 volts to 4 volts, and 6 volts was a bit too much because each cell was running at a bit over 2 volts, about 2.2 volts.
+[deleted]
+I am not familiar with chemical ways of producing electricity, but I know something about dynamos and stuff. I don't know what would be the easiest way but it is obvious that there are more than one.
+
+Galileo Galilei writes in Dialogues about Gilbert's discoveries of magnetic properties. Galileo managed to produce a magnet, that holds 26 times it's weight hanging from it (3rd day, dialogue 298).  I don't know how much is this in tesla, but seem impressive. The magnet itself weighted 150 grams, if I did the conversion correctly.
+It's a definite possibility but paper wasn't exactly cheap. Silk is another option.
+I personally would be inclined to try watered (or is it oiled? or do either/neither work?) tree sap, and also use it as the binder. Let it get tacky on the wire and then wrap it. Would this work?
+
+It has the advantage of being easy to do, as trees are fairly common.
+I'm not knowledgeable about electrics, but isn't the voltage that the laptop battery produces and the voltage that is used to charge it different? At least in mobile phones, the voltage that you receive from the battery falls as the battery charge is being depleted?
+[deleted]
+What reason do you have for completely dismissing it being what it obviously is? It has KNOWN electrochemical reactive materials inside, set up in a way you would use them to make a battery, and nothing else. No scrolls, none anywhere around them, just the copper and iron. Just because we don't know why they used it deosn't mean we don't know what it is.
+Yeah, it's very voltage-tolerant but not very frequency-tolerant. Basically 50-60 is the allowed frequency range of the US and (as far as I remember) much of Europe. A poorly-regulated power grid (not likely AT ALL) actually has the potential to wreck your rectifier. Wrecktifier?
+
+...I'll just show myself out.
+[deleted]
+[deleted]
+I said it is possible...but Zeus is possible...
+
+since there is a very similar design used to hold scrolls, in a nearby area
+
+I would say the highest likelihood is that it was used to hold scrolls
+Basically, microphones and speakers have the same parts, they're just used differently. So every microphone can be a speaker and every speaker can be a microphone. I think the idea here is to create a circuit with a given resistance worked out based on the frequency and voltage desired, in order to create a certain tone. The closer you are to that tone, the closer you are to the desired values.
+To clarify, he's talking about the computer plug, not the wall plug.  The wall plug takes 120V alternating current, which would be a stone-cold bitch to generate.  DC4LYF
+Agreed, low voltages occur much more commonly - however I find it hard to believe that the 40lb cinderblock they stick on the end of the charging cable is a 'cheap' transformer. 
+
+
+As far as the batteries being a regulator, I've done enough research into lithium-ion batteries (and their charge management circuits, which are a nightmare) to know that treating them like a simple battery is not accurate at all. ESD protection on battery packs is a big factor, as well as the fact that many have top and bottom voltage thresholds, so those batteries might be pickier than you think.
+
+
+As a good balance of convenience and reliability, I think a 20V battery array is wisest. I wouldn't trust any Renaissance dynamo to provide power without spikes.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Man, just what did they use to eat back then?
+[deleted]
+[deleted]
+[deleted]
+Find a volcano, and follow your nose - or ask around for brimstone.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+&gt; How do you find/make sulphuric acid ?
+
+Talk to the alchemist down the street, above the tavern.
+
+Seriously, they knew about H2SO4 back then. They just called it something else.
+If you make a galvanic battery, you only need to memorize the potentials of various metals. Then you don't need a multimeter.
+[deleted]
+[deleted]
+&gt;enamel on the wire
+
+Why not [enamel?](http://en.wikipedia.org/wiki/Vitreous_enamel).  It's very old technology, but not very flexible.  
+
+Waxed cotton will work.  As will shellac.
+Mostly heat helps because it accelerates the chemical reactions that take place within the battery meaning more current, also waiting with it gives the batteries some time for the discharged parts near the surface to diffuse inward exposing the charged components. A lot of it though is from just inserting/re-inserting the batteries, it scratches the oxidies off the contacts reducing the resistance.
+In order to make wire that fine, you need specialized tools; specifically you need draw-plates to draw it through.  A blacksmith would be unlikely to have one (or any experience using one.)  After all, what good is iron wire?  It'd have a nasty tendency to break.  Steel wire wouldn't be practical given the impurities in the steels of the day—not at the gauges you'd need, anyway.
+
+Silversmiths, on the other hand, made an awful lot of wire.  Goldsmiths too.  Both were major components in a lot of the jewelry of the period.
+
+So you're absolutely right, but for the wrong reason.  It's less to do with experience in fine work (blacksmiths had plenty,) and more to do with the appropriateness of the metal to the task and familiarity with and availability of the appropriate tools.
+It's smelting.  You use a combination of heat and a reducing agent (often carbon from coal or charcoal) to take an oxidized metal like from an ore or here a dead battery and turn it into the metallic form.  
+
+All it takes is the right kind of furnace and a source of the ore to get the metal out.
+[deleted]
+[deleted]
+[deleted]
+Rosin is from conifers. Dissolve in turpentine. The problem being that it is rather brittle.
+[deleted]
+&gt;Basically you'd have to re-invent the whole damn SI system to figure out what exactly 1V is. 
+
+Or learn some electrochemistry.  A zinc-copper standard battery is 1.1 volts.  Silver-tin is 0.94 volts.  You can work things out from there.
+[deleted]
+The tolerance is exactly what is needed to work essentially anywhere in the world without any change to the design (just slap on a new plug) - some places use 120V@60Hz, some use 240V@50Hz, and very few use 240V@60Hz or 120V@50Hz. The design *may* tolerate far more variation than that, but there's no point in specifying that on the label because there's nowhere in the world supplying something outside that range.
+You could always try with [a whole lot of potatoes](http://answers.yahoo.com/question/index?qid=20081230223829AAl8oJh) and some copper and zinc!
+Welcome to the wonderful world of bread in beer.
+However, the mic input also has circuitry to remove any DC offset, so without some significant modification, you might not be able to measure DC at all. Also, the mic input would require calibration to give you any meaningful data, and at least a voltage divider to measure anything over 1 or 2 volts.
+[deleted]
+Correct, but the voltage specified on the battery is that which it *supplies*.
+[deleted]
+[deleted]
+Would they be powerful enough to build a dynamo to power some electromagnets for use in a bigger dynamo?
+[deleted]
+[deleted]
+peas, carrots, rye, chicken, beef lots of bland boiled stuff.  Eating back then was kind of an issue in itself.  Most people couldn't afford plates or bowls and would use the bottom crust of a big loaf of bread as a platebowl thing until it got moldy.
+Filling might work too, given a long time
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Why not just use copper wire? That has been around sense the bronze age. Just unwind some cheap copper jewelry and wrap an insulator around it and you have lamp wire.
+[deleted]
+[deleted]
+Please everyone: Don't post a top-level comment unless it is scientific in content. No more speculation and talks about it being useless due to no porn or internet.
+You don't need magnets for a dynamo, you just need lots of wire and sheet metal. A battery could be used to energize the field coil, and then the dynamo would sustain its own field. Good luck getting enough copper wire, though.
+[deleted]
+[deleted]
+Incredible story, thanks for sharing.
+[deleted]
+[deleted]
+[deleted]
+Wire jewelry isn't generally one continuous strand; each loop is an individual length of wire.  You'd have to commission the wire directly from a redsmith rather than cannibalizing existing pieces.
+
+Other than that, yeah, that'd work.
+[deleted]
+[deleted]
+There are a few ways, voltage and the force between two plates are connected by an equation, so if you find a way to measure the force the battery can produce (by using a balance of some sort) you can measure the voltage. I actually did this in one of my physics classes, though we used it to determine ε0, but the only difference is how the equation is rearranged. So, yes, you need to calibrate it against something, but that something doesn't have to be voltage. In essence you would be making a crude voltmeter, which is kind of neat.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+You don't think you could get a dynamo up to 120 volts?
+[deleted]
+Come on, OP is asking about the Renaissance, people. 1400-1600 AD.
+You guys are all thinking about the Middle ages.
+
+Tech in the Renaissance is much more advanced than what you all are talking about. You got to think what Leonardo Di Vinci, Coppernicus, are working with. Issac Newton, even.
+
+They've got magnets, pretty pure metals in sufficient quantities such as tin, lead, gold, silver, copper, and very nice alloys such as steel, bronze, brass. Expensive, yes, but definitely obtainable.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+I think the most difficult thing to do would be to calibrate your voltmeter/power supply.
+[deleted]
+[deleted]
+Just want to point out you don't need sulphuric acid, you just need a strong acid of some kind. Highly concentrated lemon juice would be fine, for example.
+But, You've probably know that already.
+[deleted]
+[deleted]
+Hmm, it might be possible to create a dynamo, however, obtaining properly shaped magnets (in this period, lode stones) would be quite difficult.
+
+You see, in this era, magnets were formed naturally, and this magnetism was donated to razor thin needles in the earliest compasses.  Realistically, there would be no feasible way to use lodestones for your dynamo.
+
+What you would need to do is find a way to magnetize Iron ingots on a more uniform level.
+[deleted]
+[deleted]
+I don't see any reason to not to hook up a small electromagnetic dynamo to a watermill and just use the power off that. Surely it'd be easier to do than building a sulphuric acid cell...
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+You could use speaker as a pretty simple voltmeter. You plug in both sides of it's connections to your batteries, the membrane will then move, according to a given voltage. You could than attach something like a pointing device (stick?) to the membrane and as the voltage would rise, the membrane would move away from the magnet (MAGNET!) pointing the stick to a desired position.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+All you need is the right voltage. The laptop load is controlled by the charge electronics so you just add cells in series until the charger works. Too much voltage is practically not a concern given the series resistance of the potential charge source - the laptop will pull the charge source into current limit under essentially all circumstances - just get the voltage to the working range and things will likely be ok.
+[deleted]
+Well couldn't you just create infinite energy then?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+There are also mines where acidophilic archaea and bacteria consume pyrite and excrete large quantities of sulfuric acid.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+copper coil, earth magnets would probably do the trick for a revolving power source i think  layden jars for capacitance may work as a battery for you as well. also a water battery they were know to be used in building  of the pyramids i believe. would be a good start. but chemical batts are probably easier.
+[deleted]
+Also reminds me of [building a toaster from scratch](/fbsn2).
+[deleted]
+You don't even need loadstone, an induction motor needs no magnets, though it's going to be more difficult to start. Asuming your power brick came with the laptop, the parts in there should be enough electronics to make a AC/DC converter and put out the right volatage for the laptop.
+I have read through all other replies in this post and your top rated comment includes both of the only TWO technologies mentioned anywhere here for creating electricity. Namely, the construction of a dynamo, which is going to be complex to the point of making its completion improbable to all but the most dedicated and knowledgeable time traveler, and batteries, which are awful for all the reasons laid out in excruciating detail in many other posts below. Solar cells are not even worth mentioning due to extreme complexity for anything efficient enough to be worthwhile, or pathetic ~0.1% efficiency for anything simple enough to be practically built with primitive technology (eg. a CuO semiconductor cell).
+
+So far I see no one has mentioned using **THE SEEBECK EFFECT**. If all you need is a small current to trickle charge a battery at modest voltage, this is BY FAR the most parsimonious technique to do so. All you need are two dissimilar metals in contact with eachother and a heat source. That's it. Zero moving parts and an infinite capacity to supply DC electricity so long as a source of heat is available. Relatively small amounts of only fairly pure metals are required. Array a series of such devices in a common wood fire and you have a source of electricity to charge your laptop's battery over perhaps a day or so. A non-nuclear radioisotopic thermoelectric generator. 
+
+Edit: More on early devices exploiting this technique, which show the materials and assembly of the simpler devices NOT utilizing semiconductors to be well within the primitive construction means of a skilled renaissance craftsman:  http://www.aqpl43.dsl.pipex.com/MUSEUM/POWER/thermoelectric/thermoelectric.htm
+[deleted]
+[deleted]
+&gt; After all, what good is iron wire?
+
+In the time period we're talking about, iron wire was used quite a bit in armor construction. 
+
+http://en.wikipedia.org/wiki/Maille
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+&gt;The wall plug takes 120V alternating current, which would be a stone-cold bitch to generate.
+
+Building the vacuum tubes for a rectifier, once something bad happened to your ac-dc power supply, would also be a pain.
+[deleted]
+[deleted]
+but a lot more in parallel in order to provide enough current, since you can only get a few milliamps out of a potato
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+More likely linen (flax) than cotton
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+With my luck with laptops, I would probably be the guy that got sent back to the middle ages with a laptop with the battery already dead.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+or a solar panel
+[deleted]
+[deleted]
+[This](http://immaculatetelegraphy.tumblr.com/) is close enough to be relevant.  It's a guy who built a working telegraph from scratch in the wilderness.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+The best method would be to remove the Battery management system on the laptop and charge by dyno. Of course you'd have to have a DMM to get the voltages right, but you could do it this way. Somepeople use generators to charge li batteries like this. It's just a matter of getting the RPMs and the V / RPM correct.
+[deleted]
+[deleted]
+Eh. People tend to overthink lithium. Just don't over discharge, or over charge them. I have 1kw of lithium sitting on a bunch of powered up server power supplies in series in my work room that have been powered up for days. https://sites.google.com/site/shelbyelectro/ebike-components/batteries/battery-management
+
+But yeah, the cheap chinese BMS boards are a nightmare. AKA Battery murdering systems! Which is why so many of us in the DIY EV community just go with out them.
+it is impressive. i didn't know they could produce so strong magnets then...
+[deleted]
+[deleted]
+Your exact reply was the subject of an argument I had with an uppity highschool student.  Thank you.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Could you elaborate this please? Does this mean that a galvanic battery with a certain metal will always have the same potential or do you have to know specifics about the amount and shape and such?
+basically a thermocouple
+
+Would that really be enough to charge a battery?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+If you always use the same pair of metals, you always get the same open-circuit voltage.
+
+Size and shape only matter w.r.t. capacity, maximum current, etc.
+[deleted]
+"the dead battery is just ZnO which can be turned back to Zn with high tempreture CO.""
+
+specifically then instead of recharging a battery could you pull the metal electrodes and reheat them and reinsert them to recharge?
+I have heard of people using kill-a-watt's on their generator output because it shows the frequency of the power and then kind of tuning the generator choke appropriately to circumvent this issue.
+[deleted]
+[deleted]
+Your PC power supplies are actually not that tolerant. It switches itself several times to account for different incoming voltages and frequencies. Several Laptop and PC power supplies have problems in the 132 - 150 VAC range, but no one uses that voltage. 56 Hz will give some laptop power supply fits. Yes, I know this from experience.
+[deleted]
+Not to *turn* the larger dynamo, merely to use electromagnets instead of permanent magnets in it (because of the hard time you would have to find large and powerful permanent magnets in the renaissance).
+
+Essentially, a dynamo is a coil of wire in a magnetic field that converts mechanical energy (turning the coil with, say, a water wheel) into electrical energy (current flowing through the coil).
+
+A laptop should have two small, reasonably strong, permanent magnets (the voice coil magnets in the two speakers) which, if you have a supply of wire, should allow you to build a small dynamo. This dynamo would likely not be powerful enough to run the laptop.
+
+That said, given either enough time to prepare or an advanced knowledge of electrical engineering, it may be possible to trickle-charge the battery.
+My sentiments exactly, solar power is efficacious at practically all timepoints.  But the questions prompt stated that OP was sent back in time with only his laptop.  I assume this would be an unprepared journey, otherwise, solar it up!
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+How many?  I feel we are so close to the truth.
+I guess a better question is, how do you figure out which one is Sulphuric acid?
+build a thermocouple and place over a fire
+
+http://www.youtube.com/watch?v=JQUY_bs59a4
+(can't find the star shaped one bu tit is better)
+
+http://www.youtube.com/watch?v=eztcSWZpfJg
+
+water battery
+http://www.youtube.com/watch?v=J677Go-pO2k1
+
+pot scrubber battery
+http://www.youtube.com/watch?v=LubSVJAmjg8
+
+How to Charge an ipod with fruits. 
+http://www.youtube.com/watch?v=PuiPDBA3XZI
+
+
+http://www.youtube.com/watch?v=zV_wdljjCkY
+[deleted]
+It was called "oil of vitriol", or "vitriol spirit" or something like that. You could ask the alchemist to tell you how it's prepared, and at that point you could figure out whether it's really the acid or some derivate.
+
+It's been a while since I did chemistry, but if I squeeze my brain really hard, I'm pretty sure I could come up with some identification methods for H2SO4 that would work with Renaissance technology and materials.
+
+Oh, here's one: Cu2SO4 is a bright deep blue, quite a specific color if you've seen it once. So pour some copper filings in it and see if it turns blue.
+
+Back in school, I used to do electrolysis with a battery, two graphite rods, and solution of Cu2SO4. The copper would coat one of the rods in a... well... copper-colored thin layer. Here ya go, copper-coated graphite. Fun times.
+Experience: I fix computers, and I've owned a squirrelly AC camping generator.
+[deleted]
+[deleted]
+You'd have to know the voltage it would put out, though. I'm guessing OP picked sulfuric because it's both handy and puts out a convenient 2 volts. Then again, if you do happen to know voltages, you *could* probably use just about anything as long as you make sure it has a multiple close to 19 volts.
+[deleted]
+[deleted]
+[deleted]
+you can guess: start stringing batteries together in series until you start charging the laptop, that should be close enough.
+Only partially right.
+
+Condenser or other capacitance microphones can not be used as speakers. Neither carbon or optical mikes will work as speakers. Flame speakers can not be used as mikes. 
+
+Basically, only dynamic (magnetic induction) and piezoelectric speakers can be used as microphones. And it does not go the other way. Not all piezoelectric mikes can be used as speakers. I am not sure if a ribbon mike will work as a speaker.
+Well assuming you had access to running water such as a river, it would be fairly easy to construct a constant stream of electricity with a simple turbine. The water would spin a wheel, spinning two magnets which creates a disturbance in the electrical field. If you were to hook up two wires to this you could have an endless supply of alternating current electricity so you would just have to bring your normal power cable. However I am talking out my ass a bit because I have no idea how difficult that would be to build or the output but still not an inefficiency battery that everyone else is going for.
+[deleted]
+[deleted]
+Zues has nothing to do with the conversation. leave it out and stand on your own arguments.  Do not use logical fallacies to attempt to prove your point. It only makes your point look weaker and fools only those with simple minds. Please keep to relevant information only.
+  
+Just because they used it to hold scrolls elsewhere, doesn't mean it had only one purpose or that it wasn't re-purposed for that use. For a similar example, I've used home tupperware to hold not only food in the fridge, but screws and other hardware in the garage. In the same house, not just the same area. My brother uses them for marajuana. My neighbor uses them for paint storage. A similar style of construction does not mean it had only one purpose or use, or that the two were even related at all, just similar.
+[deleted]
+Depends on how many you have. Honestly I think you'd be better off with a voltaic pile. Set it up to generate ~150VDC and feed that to the laptop power brick, and let the power brick (which is usually a switch-mode regulator that will take anything from 100-240V. Ostensibly 50-60Hz, but I think that at least some of them don't actually care whether it's AC or not, YMMV, might need to build a clockwork commutator) and let it condition the power to charge the laptop.
+
+Directly charging the battery from a cobbled-together power system would be asking for trouble.
+[deleted]
+[deleted]
+[deleted]
+Most power bricks say "50-60Hz", but do they actually check? I know that many older PC power supplies don't care, they just rectify it and dump it into a capacitor as the first step anyway.
+
+I suspect you could run a laptop power brick on 100-240VDC. I have some spares I could test if anyone really cares.
+[deleted]
+[deleted]
+If you have the wire and stuff for that, you might be able to build an alternator  with a rotor winding. These usually start on their residual magnetic field, but with what would probably be low-quality materials, you could use the small speaker magnets to provide the initial rotor field, which would then become self-powering as the generated current started flowing.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Xavier's argument relies on Occam's razor: pick the simplest explanation.  We could assume that the artifact was used as a primitive battery, despite no other evidence to suggest that the people of that time knew about or cared about electricity, or made any other effort to harness electrical potential.  Or we could rely on similar artifacts from the same time period, known to hold scrolls, with the simple addition of a ceramic watertight container.
+
+The first requires excessive speculation.  The second relies on known data.  Both are possible, but without further information the simpler explanation is more likely.
+
+(Also, the "Zeus" comment is kind of a mildly derisive shorthand for "If we constantly pick the less likely of two explanations, we can end up anywhere, including divine intervention".  It's not meant as a defense.)
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Ah, thanks! I knew there was a name for that concept, but couldn't remember it for the life of me...
+What a fascinating read. Well worth the fifteen minutes or so to get a glimpse at an incredible bit of history. Great find!
+[deleted]
+[deleted]
+This makes assumptions that the metal ion concentration in the solvent isn't changing significantly, right?
+You could construct what's called a "baghdad battery". It's essentially a clay pot with some common acids inside that produce a small electrical charge. One wouldn't be enough but I'm sure that wiring enough up would produce enough electricity to charge it up. 
+I would post a link to instructions on how to build one but I'm on my phone and the reddit app I have is sufficiently lacking in the hyperlinks department. I'm sure a quick google search would easily bring one up though.
+[deleted]
+[deleted]
+what would be the best 2 dissimilar metals to choose?
+Make a simple battery out of two dissimilar metals. The voltage depends only on the metals involved and not on the organization of the battery. Problem solved.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Copper wire and magnets (or electromagnets) are essential components for a dynamo. But if you're already taking a laptop, bring an alternator (or a bottle dynamo) with you and stick it on a waterwheel or windmill. They even output AC.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Exactly, you don't need electricty to recharge a battery, and many of the non-rechargable batteries can be charged like this.
+It still does not explain what the cylinders of copper and rods of iron were doing in vats of acid, just like if they were set up like a battery. Maybe they had no use for it, but it gave off an electrical charge and that was novelty. Maybe they did and we just haven't found what it was. There isn't any way to know for sure without further records one way or another. But at least your argument has merit.
+[deleted]
+[deleted]
+Sulphuric acid has been known since ancient times and been used in etching for milenia, since it naturally occurs. Otherwise, nitric acid is also widely available, though less efficient.
+The Seebeck effect has two main drawbacks.
+
+The first is wattage. The effect does not generate much power, probably not enough to overcome the fronting charge of the LiIon battery. Even if you could get the volts (110 to use the DC transformer, or generally 12-19 if you just wire it in), the amps would not be there.
+
+The second is power condition and steadiness. With no way to regulate the voltage, spikes and drops will destroy a modern LiION battery, probably before you can charge it. You could try and find a thermo-stable way to set it up, but that would probably prove challenging to say the least.
+
+Overall though, not a bad way to go, and way to think outside the box ;)
+[deleted]
+Lightning strike on a solenoid with iron inside.
+Ok, if it was found in a vat of acid that would constitute "further information".
+What would you want to do with your laptop during the renaissance? Honest question.
+[deleted]
+Yea, why a laptop if a hard drive could hold 10,000 of books, bring books instead.
+Or show them laptop.
+*I am time traveller! - it may easier to prove that you really have something special by showing any video rather than pile of strange sheets - it would be crucial to gain access to ruler
+
+*amusement - try any wallpaper or game to impress anybody
+
+*(may require programmer + software to use) - absurd computing power - lets compare with ENIAC (designed to calculate artillery firing tables for the United States Army's Ballistic Research Laboratory - for nearly $6 million [adjusted for inflation]). 
+
+*knowledge storage device - it may be way better than any medium due to single thing - search. Also, it can store audio and video (I would like to see King of Something watching any video made by NASA).
+http://www.reddit.com/r/askscience/comments/o3rsh/if_i_went_back_in_time_to_the_renaissance_with_my/c4phm5b
+True
+
+Summary:
+Would you have the charger with you?
+But how are you going to make use of it without the laptop being powered?
+and where are you going to get the magnet?
+This dynamo would likely not be powerful enough to run the laptop.
+If you have a laptop with speakers, can't you just use the magnets from them?
+Dynamo will produce ac voltage.
+The problem being making the dynamo.
+So every microphone can be a speaker and every speaker can be a microphone.
+I think that would be the easiest part.
+You can work things out from there.
+Would they be powerful enough to build a dynamo to power some electromagnets for use in a bigger dynamo?
+You'd have to know the voltage it would put out, though.
+Also need a magnet goe that I think.
+If so, how many would it take?
+Why not just use copper wire?
+Or you could generate electricity from fruits to magnetize some iron.
+would be a good start.
+You could use speaker as a pretty simple voltmeter.
+Make a simple battery out of two dissimilar metals.
+All you need is the right voltage.
+AC source would probably be easiest.
+You don't think you could get a dynamo up to 120 volts?
+basically a thermocouple
+
+Would that really be enough to charge a battery?
+What would you want to do with your laptop during the renaissance?
+If you come around a magnet, powerful enough, building a dynamo might be better idea.
+The quality of magnets at that time was not good enough.
+I don't know what would be the easiest way but it is obvious that there are more than one.
+You could use the lead acid batteries to power the field coil of a generator(dynamo).
+I think [something like this](http://www.quantumbalancing.com/news/lemon_battery.htm) might be the easiest way to get some power.
+You'd have to be able to measure any voltages you get out of your device.
+I'm not sure how realistic building a dynamo would be.
+Good luck getting enough copper wire, though.
+It is also easy to control the power and voltage.
+also a water battery they were know to be used in building  of the pyramids i believe.
+i didn't know they could produce so strong magnets then...
+You will get some spare wire there!
+Copper wire and magnets (or electromagnets) are essential components for a dynamo.
+Right, that's what the power brick does.
+A rebuttal: what good would a laptop be in the renaissance?
+Just because we don't know why they used it deosn't mean we don't know what it is.
+Even if you could get the volts (110 to use the DC transformer, or generally 12-19 if you just wire it in), the amps would not be there.
+You would however need to run the outputted power through the rectifier in the charger (assuming you have it), to convert it to DC.
+You don't need magnets for a dynamo, you just need lots of wire and sheet metal.
+Somepeople use generators to charge li batteries like this.
+You could than attach something like a pointing device (stick?)
+Correct, but the voltage specified on the battery is that which it *supplies*.
+I think the most difficult thing to do would be to calibrate your voltmeter/power supply.
+You could construct what's called a "baghdad battery".
+I feel like a multimeter would be really essential to the OP.
+What would the actual output look like?
+The laptop's mic input can be used as an oscilloscope for low range of frequencies and voltage.
+Generating electricity is one thing, but is there concern about the getting the amps and volts right?
+I don't see any reason to not to hook up a small electromagnetic dynamo to a watermill and just use the power off that.
+Use the laptop draw as reference, if it still has enough battery to fire up.
+I think your best bet would be a Baghdad battery set up.
+Yes, I know this from experience.
+I guess a better question is, how do you figure out which one is Sulphuric acid?
+Forget keeping it powered, just charge the battery.
+to the membrane and as the voltage would rise, the membrane would move away from the magnet (MAGNET!)
+So far I see no one has mentioned using **THE SEEBECK EFFECT**.
+The laptop's mic input can be used as an oscilloscope with the a very simple circuit.
+I wouldn't trust any Renaissance dynamo to provide power without spikes.
+Then you don't need a multimeter.
+The AC current doesn't directly go to the computer though does it?
+Surely it'd be easier to do than building a sulphuric acid cell...
+Realistically, there would be no feasible way to use lodestones for your dynamo.
+Of course you'd have to have a DMM to get the voltages right, but you could do it this way.
+I'm not knowledgeable about electrics, but isn't the voltage that the laptop battery produces and the voltage that is used to charge it different?
+The effect does not generate much power, probably not enough to overcome the fronting charge of the LiIon battery.
+After all, what good is iron wire?
+Wouldn't you still need something to calibrate the voltmeter against?
+Actually, it probably wasn't made to provide electricity.
+One wouldn't be enough but I'm sure that wiring enough up would produce enough electricity to charge it up.
+I had no idea that something like had that been created so long ago.
+The best method would be to remove the Battery management system on the laptop and charge by dyno.
+It also negates the requirement of needing strong permanent magnets.
+Yeah, that's what I read.
+I suspect you could run a laptop power brick on 100-240VDC.
+Directly charging the battery from a cobbled-together power system would be asking for trouble.
+But you'd have to be able to measure the frequency.
+If it were my laptop, I'd play it safe and find a way to generate 120V, then run it through the power supply.

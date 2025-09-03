@@ -1,0 +1,67 @@
+Original Response:
+[This video](http://www.wimp.com/solarhighways/) explains a really awesome idea for solar paneled highways. Sounds great, and they do a good job selling it, but why haven't we heard anything about it? This video's pretty old.
+
+Seeing as they were commissioned by the Department of Transportation to come up with this stuff, why hasn't it taken off? What isn't working?
+[deleted]
+There are several factors, including money, safety, and reliability. The first of which is solar panels aren't cheap, and neither is the additional equipment to turn low voltage DC into useful high voltage AC. Second, safety: surfaces which are good for solar panels tend to be horrible for driving. Finally, reliability: road surfaces take a _lot_ of abuse- things like oil and gas leaks, idiots driving on bare rims, car/truck wrecks, and fires. This means you have to design for failure and expect replacement costs, or design to survive and see per unit costs skyrocket.
+
+
+Additionally, and I can't find a source, but I suspect peak demand and rush hour coincide leaving less power when its most needed.
+The gentlemen who was doing the solar highway project from the Department of Engineering has moved onto the next level of development. They are looking to build a mile or so of actual product in the real world and test it. They are probably testing or building it right now as I read a long while ago that he had already gotten through the first round of testing.
+
+It is coming.
+[deleted]
+[deleted]
+[deleted]
+Yes, but where is it going?
+[deleted]
+[deleted]
+That is for the future to say. Right now - he is building a roadway to test it in real life. If the tests show that we know how to build solar roadways cheaply and safely - then reality will answer your question.
+Would it be crazy to add a layer of some sort of Piezoelectric material to it to take advantage of heavy loads slightly deforming the roads?
+Try /askEngineers
+When I saw the title that's what I thought of.
+&gt; Right now - he is building a roadway to test it in real life.
+
+Where? Source?
+gimme a few...i tried looking for it earlier but i kept finding standard pv installs on roadways...
+http://solarroadways.com/ - this is the companies website (which totally sucks)
+
+http://solarroadways.com/intro.shtml - this is the info page, I am just starting to read it.
+and lastly...sorry for all these replies - I am on their facebook page (http://www.facebook.com/pages/Solar-Roadways/41869107125)  right now and am going to post a couple of questions about the status of things. It looks like they stay close to Facebook and we might get an answer sooner than later.
+Is there a chance people will just cut the glass and steal the solarpanels/leds? No one really wants to steal asphalt because its not cost effecient to steal, but solar panels are valuable and a lot easier to market.
+Every bit of energy you take from the car is that much less fuel efficient the car is. Plus, it's never 100% efficient, so it is always better to do oil-&gt;electricity then oil-&gt;car momentum-&gt;electricity.
+
+They made these:
+http://www.wired.com/autopia/2011/11/drivers-generate-electricity-by-going-over-speed-bumps/
+
+because speed bumps are supposed to make a car lose energy.
+People need power most while they're driving home?
+This is exactly the type of stuff I want to get into. But, from a logical and cost effective perspective, you'd have to imagine that it would be more cost effective to just heavily subsidize solar panels for homes and buildings and possibly side walks.
+
+Also, another note, we already have the technology to be completely reliant on sustainable energy. It's just a question of money and implementation. The U.S. is in $15 trillion in debt and their most recent venture into jump starting the U,S. solar industry  was a complete bust (Solyndra going under). You can only guess that a project like this is very unlikely to be implemented on a large scale in the foreseeable future.
+[deleted]
+Solar panels on rooftops make a lot more sense. Many places of commerce literally have acres of rooftop area that could be used for solar arrays. It is also much more efficient to collect solar energy at the point of use. 
+
+I know there are two Costco stores in Albuquerque, NM that have some fairly large arrays installed on their rooftops, but I can't find any information about them online.
+404, bad link
+&gt; Traditionally, peak times include the hours between 5:00 to 8:00 a.m. and 4:00 to 7:00 p.m. 
+
+Did more googling and found a semireputable source: http://www.wiregrass.coop/myEnergy/conservation/peakDemand.aspx
+[deleted]
+Here is the answer from the guy building the roads on his status:
+
+Hi John - we received our first round of funding from the FHWA in the later half of 2009. We completed our initial R&amp;D in 2010 and, after they'd read our findings, were then invited back for a second round of funding. We signed the Phase II contract in July of 2011. We'll be finalizing our design over the winter and then break ground for a prototype parking lot in Idaho in the spring of 2012. We'll monitor the different configurations of textured surfaces, solar cells, heating methods, etc., under all kinds of weather and sunlight conditions for about a year. Hopefully, we'll be ready for manufacturing toward the end of 2013.
+Hi John - we received our first round of funding from the FHWA in the later half of 2009. We completed our initial R&amp;D in 2010 and, after they'd read our findings, were then invited back for a second round of funding. We signed the Phase II contract in July of 2011. We'll be finalizing our design over the winter and then break ground for a prototype parking lot in Idaho in the spring of 2012. We'll monitor the different configurations of textured surfaces, solar cells, heating methods, etc., under all kinds of weather and sunlight conditions for about a year. Hopefully, we'll be ready for manufacturing toward the end of 2013.
+Hell. Yes.
+
+Thanks!
+A solar powered parking lot...that makes more sense than most anything I can conceive. Especially when you consider so many parking lots are empty for so much time and they are empty during peak energy usage - weekdays from 12 noon to 6 pm.
+
+Summary:
+Solar panels on rooftops make a lot more sense.
+Right now - he is building a roadway to test it in real life.
+&gt; Right now - he is building a roadway to test it in real life.
+We completed our initial R&amp;D in 2010 and, after they'd read our findings, were then invited back for a second round of funding.
+It is also much more efficient to collect solar energy at the point of use.
+Second, safety: surfaces which are good for solar panels tend to be horrible for driving.
+We'll be finalizing our design over the winter and then break ground for a prototype parking lot in Idaho in the spring of 2012.

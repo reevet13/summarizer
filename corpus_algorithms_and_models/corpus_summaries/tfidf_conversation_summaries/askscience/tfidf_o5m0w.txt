@@ -1,0 +1,19 @@
+Original Response:
+The sound you hear near electronics (or after explosions) that is very high pitched.
+
+It can be irritating and painful. Also I've heard people say you can no longer hear it when you've reached a certain age (20 - 30?).
+
+So, what is it, what causes it, and if possible, how can you stop it?
+
+Thanks.
+High pitches are usually the first ones humans lose hearing in - look into the Mosquito Ringtone, a pitch so high that most people over twenty-five are unable to hear it. It was a fad for kids to set it as their ringtone.
+
+
+If it's a constant sound (like after an explosion) then that's called Tinnitus and is actually not a sound at all. However, it's also quite common for inductors and other components of electronics to resonate at certain frequencies - when a television/CRT monitor turns on, that pitch that begins in the midrange and quickly accelerates up to the limit of human hearing? That's probably the flyback transformer.
+Thank you!
+No problem! I encountered this when I made my first SMPS - after assembly I powered it up and it squealed with an intensely loud pitch! I took the inductor and pushed it a bit to the side, and the sound stopped. Go figure.
+[deleted]
+The high pitched noise you hear from electronic devices is usually the switching that happens inside, like a switched mode power supply ([smps](http://en.wikipedia.org/wiki/Smps)) or a transistor inside switching at an audible frequency.
+
+Summary:
+The sound you hear near electronics (or after explosions) that is very high pitched.

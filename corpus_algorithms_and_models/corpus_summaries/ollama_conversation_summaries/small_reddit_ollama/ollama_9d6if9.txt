@@ -1,0 +1,20 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+MOBO: ASUS P8H61-M LE USB/3
+SSD: Samsung 850 EVO 250GB
+HDD: Seagate Barracuda 750GB 7200rpm
+GPU: MSI GTX 1080 GAMING X
+CPU: i7 3770k
+PSU: CORSAIR CX550M
+CPU Cooler: Coolermaster Hyper 212X
+RAM: Kingston 1333MHZ DDR3 4GB x2
+
+For those who can't access the link. [Here](https://imgur.com/a/RDXgnuo)
+
+I was thinking of getting this [bundle](https://www.newegg.com/global/au/Product/ComboBundleDetails.aspx?ItemList=Combo.3860221).
+
+The higher resolution you go, the less cpu power you need.
+
+At 1080p your gpu is basically pointless for 60fps tho, that's what im saying.
+
+If GTA V is still getting below 60fps on 1080p with no AA already I don't understand how a 1440p monitor could help the situation.

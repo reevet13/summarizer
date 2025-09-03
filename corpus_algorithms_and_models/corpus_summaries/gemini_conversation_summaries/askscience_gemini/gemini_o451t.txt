@@ -1,0 +1,66 @@
+I am going to assume by "modern society" you mean the semiconductor era.
+There are two approaches you could take.
+Either you trust people to be deductive and take basic principles to figure out applications, or inductive, where you force people to reverse engineering everything.
+In the former case, I'd suspect some graduate level quantum mechanics book ([Sakuri](http://www.amazon.com/Modern-Quantum-Mechanics-Revised-Sakurai/dp/0201539292) is a good place to start) would be useful.
+As for the latter approach, a book going over most conceivable circuit designs would be helpful ([The Art of Electronics](http://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521370957/ref=pd_sim_sbs_b_6) comes to mind).
+EDIT: Right after I posted this, I fear that my choice of the QM book was a bit narrow.
+I am sure there is a modern physics type book that would be more useful, but I can't think of it off the top of my head.
+Two books to start with:
+
+*The CRC Handbook*
+
+http://www.hbcpnetbase.com/
+
+-Basically all known physics and chemistry+Math
+
+*2010 ASME Pressure Vessel Boiler Code*
+
+-Materials properties and instructions on how to build safe pressure rated parts.
+This was what I was looking for.
+this is an interesting website http://opensourceecology.org/wiki/GVCS
+IMHO the very first thing you would need would be geology texts on how to locate raw minerals and then metallurgy texts on how to forge steel.
+I feel like I should buy a used copy of the CRC Handbook to keep in the trunk of my car *just in case*.
+I'm not completely sure if you wanted this in print (it'd be pretty big) but, you could always just [download wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Database_download).
+Incase what, you get sucked into a portal throwing you into the middle ages?
+I might have to vote for something like Mark's Standard Handbook.
+It has a lot of info on building materials, heat transfer, material strength, basic electronics, fluid flow, etc.
+Basically an engineer's bible.
+That is a must have for everybody in the engineering world to have on their shelf, in my opinion.
+There's probably a better, more compact, option that doesn't include exhaustive information on all of the characters to ever appear in a Sonic the Hedgehog game.
+There is a cool TED Talk by Marcin Jakubowski called Open Sourced Blueprints for Civilization.
+It's pretty short, and worth a watch.
+hey, it happened to Bruce Campbell
+Ask Hari Seldon.
+Imagine all the cults.
+Imagine all the religions.
+That is all that book covers, the rest of it fit in a book smaller than the last Harry Potter
+Just curious: How big is it?
+I mean, if it were printed like a regular encyclopaedia in volumes A-Z, how wide a bookshelf would it need?
+Wow.
+I'm an analytical chemist and even I had no idea that the CRC handbook was available online.
+That thing is worth its weight in rhodium!
+You sir (or madam) just made my week!
+
+Thank you thank you thank you thank you!
+In case of /r/postcollapse
+http://www.youtube.com/watch?v=zIsHKrP-66s
+This guy is trying to make one:
+
+http://www.ted.com/talks/marcin_jakubowski.html
+this may not be a book but it is relevant to your question.
+hope this helps
+
+http://www.ted.com/talks/marcin_jakubowski.html
+The English version (minus pictures) can easily fit on a microSD card if it's compressed.
+That's most of humanity's basic knowledge on something smaller than a dime!
+As of 2010, August
+
+http://en.wikipedia.org/wiki/File:Size_of_English_Wikipedia_in_August_2010_(L).svg
+
+It's pretty big.
+Another online text-file based directory over at:
+[http://www.textfiles.com/science/](http://www.textfiles.com/science/)
+and
+[http://www.textfiles.com/survival/](http://www.textfiles.com/survival/)
+I actually have a copy of the CRC Handbook and it is great.
+But I was thinking of a book that tells you how to find, extract, purify, etc. each of the elements

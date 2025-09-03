@@ -1,0 +1,13 @@
+Here is the extracted summary:
+
+New sequencing platforms and the race to the thousand-dollar genome have been extensively written about, so I won't retype it all here.
+
+These are closest to what you describe above, where you're reading from single molecules of DNA. (on the PacBio platform, you're actually watching a specially-modified polymerase incorporate labelled nucleotides, one at a time.
+
+http://www.genomics.purdue.edu/~ltl/data-web/2nd_gen_sequencing.pdf
+
+To do this, they flood the testing area with a mix of nucleotides that have a dyed group attached, which can then be excited with a laser and read. This dyed group can then be chopped off, leaving a regular-old nucleotide, allowing the process to be repeated for the next base in the sequence, without having to move or mess with the original strands.
+
+To summarize, they break the DNA to be sequenced into strands and amplify it (as they used to in the shotgun method), but now attach them all to a solid surface and sequence them all together at once.
+
+Here's a specific question: how does the 454's method give off light when nucleotides are added to the sequence?

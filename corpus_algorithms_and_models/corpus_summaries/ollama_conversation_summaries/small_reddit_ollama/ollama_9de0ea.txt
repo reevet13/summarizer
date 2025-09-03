@@ -1,0 +1,17 @@
+Here is the extracted summary:
+
+You are a "Developer" that does not understand that Google and others prevent the downloading of unsigned exe files?
+
+I’ve developed many in-house programs, including a securities trading platform for a finance company.
+
+There are like zero trading companies that would let you build their  trading platform as a person 1 year into a CS degree.
+
+Just archive up the .exe with 7-zip or something, and password protect it as a last ditch measure.
+
+Anyone who has ever typed ‘cd’ in a command line is now a developer. Not gatekeeping, just saying you’ve got to broaden your definition of developer.
+
+You are a "Developer" that does not understand that Google and others prevent the downloading of unsigned exe files?
+
+I highly doubt he is a real developer because he doesn’t understand that google drive blocks exes that are unsigned.
+
+There’s like one.

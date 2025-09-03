@@ -1,0 +1,117 @@
+Original Response:
+Actually a Parks and Rec episode got me thinking. The super fit character Chris catches the flu, and claims that due to his low body fat and lean muscle his symptoms are worse than they might be in an average person.
+
+So would physical size have any effect on the likelihood of catching something like the flu or a cold, and have any bearing on either duration or severity? And would there be a difference if the person were obese and sedentary or muscular and fit?
+[removed]
+Why did you make the distinction of being "naturally" fit or muscular? Is there a specific reason?
+[removed]
+[removed]
+He/she is speaking in the context of evolutionary biology, so it's important to draw the distinction between what's affected by genes rather than lifestyle.
+The answer to your initial question has to do with higher caloric intake to support higher native muscle mass. Muscle is expensive. Supporting more than you need doesn't make sense unless you are able to maintain a heightened calorie level.
+Because you are transparently extrapolating *modern *marginal sexual preferences of *females to what was evolutionarily advantageous to the most successful *males for reproductive success over several *million years. I mean this is such a transparently laughable proposition, I'm sure you can logic through a dozen reasons yourself why this is worthless to base an argument on.
+[removed]
+This is super interesting! I found another higher tier paper supporting that one:
+
+[http://www.pnas.org/content/early/2013/12/20/1321060111.short](http://www.pnas.org/content/early/2013/12/20/1321060111.short)
+
+&amp;#x200B;
+
+However, this has to do with testosterone levels, which is not the same that muscularity. And moreover, I didnt find any paper in which they actually measure the sickness frequency with testosterone levels. Given the inverse correlation with inmune response found in those 2 papers,  we should expect that the frequency is higher, but we don't know if testosterone is having a protective effect through another pathway.
+&gt; I'm sure you can logic through a dozen reasons yourself why this is worthless to base an argument on
+
+I don't see right now why is it so worthless, can you elaborate? 
+
+I mean, if you look through the history of art, it is clear that muscular men have been considered attractive for quite a long time now, I would say enough to allow natural selection. 
+
+And it makes sense that in more ancient times, being fit and muscular made more sense as a positive trait as it does now (because wars and manual labor were more common).
+That sounds like a massive reach from the data. Lower CRP and WCC count does not necessarily mean impaired immunity in any meaningful sense, and in fact could be read the other way around - infections progress to a more severe stage in lower muscle mass patients requiring and causing higher levels of CRP/WCC. High CRP and WCC is strongly associated with mortality in infection, so it doesn't seem clear to me that high levels should be seen as a good thing, even if they are high for a purpose.
+
+Unfortunately I don't seem to be able to get that abstract to see if the study design mitigates this at all.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+ok, throwing out the quick obvious ones...
+
+- throughout most of human existence, females have NOT been the ones picking mates, so what surveys of females currently show regarding male attractiveness has little weight in this argument
+
+- in fact, (esp the european) humans are among the minority cases among mammals/animals where there is clear evidence males have been doing the picking, as several female phenotypes have clearly been selected for/against (e.g. enlarged breasts and buttocks, gender preferential paleness of skin (incl possibly hair and eyes as well), thorough suppression of female ovulation, progressive selection of neotenous characters for female 'beauty', 'feminity', voice etc... likely because human survival was so difficult, foraging males had such high mortality, and females/children were so often and so completey dependent on male provisioning, that males were in a position to select for desirable female characteristics for at least thousands of years, long enough for those male preferences to be conspicuous in female anatomy!
+
+- further, even if you were to dwell on that, its obvious the bigger preference as seen in action vs what ppl say in surveys, is that the biggest bias on women's willingness to attach with males to create children/families is still on men's wealth/resource, which is turn is most correlated with intelligence and social abilities
+
+- evolutionary timescale is in the tens of thousands to millions of years, and there we have pretty clear understanding of what exactly was most important to male success over this time, as you only have to look at what has been most strongly selected.. and those are straightforward.. more intelligence, better disease resistance, ability to digest more foods.. in summary, it has been a pure selection for survival, the pesky business of 'who do the ladies want' has been a far secondary concern
+
+- further, survival for humans has most directly been predicated on food availability and needs, so 'muscles' are always in direct conflict with survivability across droughts, cold snaps, famines etc.. i.e select those who have the least necessary muscle mass to survive to keep food requirements low.. indeed when there's excess food, storing that as fats is a much more efficient use than making muscles, as any muscle mass actively needs to burn food all the time, which ofc helps us understand some of the 'why's behind the modern obeseity epidemic
+[removed]
+[removed]
+That abstract seems **highly** questionable to me, as CRP and WBC are extremely nonspecific blood tests that can be elevated or suppressed for a lot of different reasons. Having a slightly lower WBC does not tell you anything about whether your immune system is stronger or weaker.
+
+In order to prove that excess skeletal muscle mass suppresses immune system function, you would have to show evidence of increased infectious disease incidence, prevalence, or mortality in very muscular individuals. To my knowledge, there is no high quality evidence in humans that supports this.
+
+Obesity correlates with a [significantly increased risk](https://www.ncbi.nlm.nih.gov/pubmed/23974637) of [death from influenza](https://www.ncbi.nlm.nih.gov/pubmed/27385315). Obesity is correlated with [severe soft tissue infections](https://www.ncbi.nlm.nih.gov/pubmed/28069657), [urinary tract infections](https://www.ncbi.nlm.nih.gov/pubmed/26518067), and [sepsis mortality](https://www.ncbi.nlm.nih.gov/pubmed/29677586).
+
+Only non-influenza pneumonia appears to be less severe in obese patients, a finding known as the [obesity survival paradox](https://www.ncbi.nlm.nih.gov/pubmed/24722122).
+
+So from a MD standpoint it seems highly implausible that obesity would be protective against infectious disease, or that lean muscle mass would confer susceptibility to infectious disease.
+[deleted]
+[removed]
+I have my doubts there, as energy cost alone is a significant enough selection pressure to limit musculature. And also because this is a study about how many people you've boned VS body fat and muscle mass. Alas, paywall.
+[removed]
+&gt; throughout most of human existence, females have NOT been the ones picking mates.
+
+
+I don't think that's clear.  Since pre-historic/pre-agricultural societies represent most of our time on the planet, theories about the overall societal context in which we evolved are quite speculative.  There is evidence against female choice, and evidence that supports female choice - but I'm not sure anyone knows enough about those trends to discount female choice as a major force in early societies.
+
+
+It's also important to note that societal domination of an individual woman does not usually mean that female mate preferences are inert.  Female desire is often integrated into matchmaking/arranged marriage practices in formal or informal ways. The fact that a boy is good-looking and lovable etc. will usually raise his value in an arranged marriage market.  Furthermore, only a small minority of observed arranged marriage systems do not give the woman veto power over a match.  I'd wonder whether there are any societies that developed their matchmaking methods with total disregard for the possibility that woman's rejection of her husband, based on lack of attraction, could screw things up.
+
+
+I don't buy entirely into the idea that immediate-return hunter gatherers were a bunch of slutty egalitarians.  However, we have evidence of practices that obscure paternity, and a lot of practices that give opportunities for sexual promiscuity.  We also know that general egalitarianism correlates with more freedom for women - and if these societies heavily tended toward egalitarianism (as suggested by proponents of H-G egalitarianism like Peter Gray and Christopher Boehm),  we could imagine that this would dispose them toward greater expression of mate choice.
+The relvant span for evolutionary history, the kind that is relevant when discussing genetic reflections of observed behavior as here, is far far longer than any cultural history we currently have clear evidence for. For that span, we search for the effects in biology itself, hence the mention of actual observable sexually selected for traits in humans males/females, (and as opposed to traits selected for direct survival value). And that shows an abundance in females as mentioned above and a relative paucity in males. That alone is overwhelming evidence that at least in humans, in relevant latest evolutionary history, the sexual selection pressure has been disproportionately on females, which an only come about if males are doing most of the picking, and consistently for long periods of time. For instance, disproportionately big human female breasts offer no survival value, they exist so far out of the norm in humans compared to all other mammals, solely because men selected for those.
+[deleted]
+[removed]
+&gt; For that span, we search for the effects in biology itself, hence the mention of actual observable sexually selected for traits in humans males/females, (and as opposed to traits selected for direct survival value). And that shows an abundance in females as mentioned above and a relative paucity in males. That alone is overwhelming evidence that at least in humans, in relevant latest evolutionary history, the sexual selection pressure has been disproportionately on females, which an only come about if males are doing most of the picking, and consistently for long periods of time. For instance, disproportionately big human female breasts offer no survival value, they exist so far out of the norm in humans compared to all other mammals, solely because men selected for those.
+
+
+That's contentious because traits that represent male attractiveness and traits that represent increased ability to compete with other males (or thrive in other ways) often overlap.  If a woman picks the guy who can win a fistfight, that doesn't mean that she hasn't made a true choice, and also doesn't mean that a man who can fight isn't required to win the affection of women in order to mate.  A physical anthropologist is limited in determining whether such a trait is a result of force or choice - that's one reason why we go back to the cultural data, even if it's quite thin.
+[removed]
+&gt;when there's excess food, storing that as fats is a much more efficient use than making muscles, as any muscle mass actively needs to burn food all the time
+
+Thats not necessarily true. The human body is capable of breaking down muscle for energy. yes it has far less energy (IIRC a pound of muscle is about 600k vs fats 3500k) But unneeded muscle COULD just be consumed when needed.
+If you are struck with an illness that keeps you from eating, and you have very low body fat to start with, you don't have the caloric reserves to recover from the illness and the starvation simultaneously. So a bad flu that would keep anyone in bed and unable to eat for three days would be deadly dangerous to someone who had extraordinarily low body fat.
+[removed]
+What counts as “extraordinarily low”?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[deleted]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+
+Summary:
+I don't think that's clear.
+&gt; throughout most of human existence, females have NOT been the ones picking mates.
+And that shows an abundance in females as mentioned above and a relative paucity in males.
+The human body is capable of breaking down muscle for energy.
+And would there be a difference if the person were obese and sedentary or muscular and fit?
+Why did you make the distinction of being "naturally" fit or muscular?
+And also because this is a study about how many people you've boned VS body fat and muscle mass.
+I found another higher tier paper supporting that one:
+
+[http://www.pnas.org/content/early/2013/12/20/1321060111.short](http://www.pnas.org/content/early/2013/12/20/1321060111.short)
+
+&amp;#x200B;
+
+However, this has to do with testosterone levels, which is not the same that muscularity.
+To my knowledge, there is no high quality evidence in humans that supports this.
+I mean this is such a transparently laughable proposition, I'm sure you can logic through a dozen reasons yourself why this is worthless to base an argument on.

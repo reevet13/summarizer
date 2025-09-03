@@ -1,0 +1,13 @@
+Here is the extracted summary:
+
+It appears that pre-0.15 version nodes would've caught the attempted inflation and would reject the block.
+
+So I think it's good to have older versions co-exist with newer ones.
+
+I would bet pretty much any amount of money that if it had been built later-- after this issue was introduced-- it simply would have copied the behavior.
+
+For a consensus system being "fixed" creates weakness, not strength, because consistency is almost always more important than correctness.
+
+100%. In my mind this is why backwards compatibility is a must.
+
+I wish the alert flag was still around, because upgrade notices could be posted this way.

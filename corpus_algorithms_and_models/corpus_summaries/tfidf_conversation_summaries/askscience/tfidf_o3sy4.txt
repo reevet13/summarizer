@@ -1,0 +1,26 @@
+Original Response:
+Trying to wrap my head around relativity after reading a reddit comment, wanted to know if I had the right idea.
+
+
+Let's say I'm accelerating at a constant rate of 1 km/s^2 and my current speed is just 1000 km/s less than the speed of light. I'm being observed by someone from a fixed point in space. 
+
+
+At this speed, the factor of change I'm feeling is roughly 12, meaning 1 hour to me is about 12 hours to the observer (Could be wrong on this, please tell if so). This means that although I'll still feel as if I'm accelerating at 1000 m/s^2, the observer will observe that I am accelerating at twelfth of that (~83 m/s^2).
+
+
+I keep on accelerating until my speed is 1 km/s away from the speed of light, my factor of change is now just under 400. To me, I am still accelerating at 1000 m/s^2. To the observer, I am only accelerating at ~2.5 m/s^2.
+
+
+Repeat until my acceleration to the observer approaches 0.
+
+
+Some questions:
+
+
+1) I only divided my acceleration by my factor of change. Will my velocity also be affected?
+
+
+2) If I were to accelerate for 1000 seconds in my perspective (thus reaching the speed of light) then stop, would a near infinite amount of time have passed for the observer (with most of it observing me at speeds extremely close to the speed of light) ?
+
+Summary:
+To me, I am still accelerating at 1000 m/s^2.

@@ -1,0 +1,15 @@
+Here are the selected sentences from the original text:
+
+Why don't we build hydroelectric generation stations all along our major rivers, as opposed to burning as much fossil fuels as we do?
+
+Hydroelectric power is based on gravity moving water down, creating pressure to turn generators.
+
+The total amount of energy is based on only one thing: the height difference between where the water falls initially (say, a mountaintop) and where it ends up (the sea).
+
+Whether you use that height difference in one big dam or many smaller dams, there is a limited amount of possible drop. Thus a given river can only support so many dams.
+
+It is indeed possible. Take a look at the [dams in the Columbia River watershed](http://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed).
+
+For example, the most straight forward one is the flood area. This can cause significant damage to ecosystems and will lose significant amounts of carbon-uptake from vegetation.
+
+Just keep in mind that you cannot find a 100% 'green' energy source with the current state of technological innovation.

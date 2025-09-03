@@ -1,0 +1,23 @@
+So the second rule states that heat cannot pass by itself from a cold object to a hotter one.
+
+Possible logic error aside this temperature difference would create convection current and tend to create movement that can be tapped , turned to electricity and taken out of the system.
+
+The mirror will reflect thermal radiation both ways.
+
+The room will reach thermal equilibrium rather quickly without new heat being added.
+
+Thermal radiation is almost negligible in these situation unless you are dealing with temperature in the thousand K +.
+
+This machine tend to mentain a temperature difference instead of going towards equilibrium.
+
+Every point on the inner surface of the sphere radiates energy in *every possible direction*.
+
+Therefore, there is no reason why the core would be any warmer than the shell.
+
+I was missing the surface does not radiate only along its normal but i felt that it would somehow balance out and still give higher energy density at the center.
+
+We forget that the sun is a unusual source of radiant energy.
+
+You're avoiding the terminology, but your goal is still a "perpetual motion machine" which, despite the name, is an arrangement which seeks to extract energy from nothing.
+
+Yes , read the initial post, i know energy should not be able to be extracted from something like this, that there must be a mistake somewhere, and if i cannot find it i am missing some vital information, but I'm trying to find out exactly what step of the thought train contains the problem, to find the exact hole in my judgment.

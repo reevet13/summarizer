@@ -1,0 +1,18 @@
+Original Response:
+I hear horror stories about some people doing ridiculous things while on sleep aids.  Although if I take anything, I only seem to get the heavy eyelid effect, but not really tired, and they don't seem to really help me fall asleep any better than without them.
+
+So why do some people pass out instantly, some do odd things they cant remember, and some don't notice the effects barely at all?
+The simple short answer is that sleep is a complex neurobiological function that varies significantly as a function of many many factors (e.g., age, weight, stress, depression, anxiety, recent sleep patterns, geographic region, temperature, quality of the sleep area, genetics, diet, factors we haven't even identified yet, etc, etc, etc.)  As a result of these uncontrolled variables, it is very difficult both to research, and to predict an individual's response to one or more medication designed to promote sleep.  As for the more specific aspects of your question, there could be paragraphs written about each reaction to sleep medications and hypothesized mechanisms, and unfortunately I don't have time to write said paragraphs.  All the best!
+Without taking into consideration the simple differences in sleep mechanisms (relatively unknown) between people due to genetics, environment and such, one of the main reasons sleeping pills and, in fact, all drugs affect people differently is different people have different metabolic capabilities.  When you ingest a pill it must pass through your liver before entering the blood stream where proteins modify the drugs such as making it more/less water soluble.  What this does is it changes the longevity of the drugs in your system and its efficacy by altering how easily it enters cells.  What determines how the drugs are modified relies on your genetics, diet and multiple other factors and thus people respond to drugs differently.
+Of all these factors, one is especially pertinent to the OP's question: individual variation in GABA-A subunits and their distribution in the brain.  The GABA neurochemical system is implicated in, among other things, sleep regulation, and both the Z-drugs and benzodiazapines are GABA-A agonists.  I think it's fair to say, at least in most western countries, that these account for the majority of prescribed sleeping aids.  
+
+GABA-A receptors are composed of five different subunits out of a total of twenty-something possible subunits, and the composition of these receptors vary throughout the brain, between people, possibly during an individual's lifetime, etc.  Since each chemical species that might be prescribed (and their metabolites!) binds to a specific profile of GABA subunits preferentially, which between individuals might be in different places in the brain or parts of different neural subsystems, one can imagine how behavioral response can vary enormously.  And this on top of all the other variables described by Brain_Doc.
+I think it makes sense.
+
+From what I am gathering, if I try a different one with a kind of chemical other than what I already had, I could get a different result?  Maybe the specific aids I tried (of which there have only been a couple, since I haven't tried much since neither worked) had similar chemical makeups, so they would (obviously) have the same effect.
+
+I should try different ones then based on this.  I'm having a terrible time doing that whole "going to sleep" thing at night.
+
+Summary:
+I should try different ones then based on this.
+I hear horror stories about some people doing ridiculous things while on sleep aids.

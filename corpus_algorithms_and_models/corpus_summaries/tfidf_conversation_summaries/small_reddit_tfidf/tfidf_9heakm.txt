@@ -1,0 +1,79 @@
+Original Response:
+As per Physics...The amount of matter and antimatter produced or released after the big bang must be equal, then why is it so rare, and also how do scientists make it in the Large Haldron Collider?
+
+Is it possible that there is a whole another anti-universe or something?Why does it release tremendous amounts of energy when it comes into contact with matter?
+
+and one last thing...If anti-matter can give us tremendous amounts of energy, then matter also should be able to give the same tremendous amounts of energy when it contacts anti-matter in, say, an anti-matter planet or something, right? then that way if we find out a Place made out of anti-matter, then that'd be a great exchange for the aliens living there, and for us to give our normal matter and get some anti-matter, right?
+
+Fuel for us, fuel for them and we weigh not based on the item, but based on the mass. Or is it that matter out of a Diamond would release more energy when contacted with anti-matter than a banana peel? **Just Curious**.
+
+I hope all of it makes sense.
+
+  
+Edit: Now it might make a little more sense(Punctuation xD)
+Yes, where did all the antimatter go? It's a good question and the answer is both disappointing and interesting: We don't know. In (astro)physics, this question is referred to as the "Baryon Asymmetry Problem" because of the apparent asymmetry between baryonic matter (everyday matter composed of quarks) and antibaryonic matter (antimatter composed of anti-quarks).
+
+It's natural to assume that matter and antimatter would be created in equal amounts in the big bang. Yet all we see around is regular matter. One of the possible explanations for this is that matter and antimatter don't behave exactly the same way. That is, that the symmetry between matter and antimatter is broken. Physicists refer to this symmetry as charge/parity-symmetry (CP), which expresses that the laws of physics are the same when you replace a particle with its antiparticle and flip the spatial coordinates.
+
+We know from experiments that CP-symmetry is violated in some cases. The rules apply slightly differently for matter than for antimatter in those cases. However, these CP violations are relatively small and the ones discovered thus far are insufficient to properly explain the matter/antimatter asymmetry. It is, however, the most promising research direction as particle physicists search for more interactions that violate CP-symmetry.
+
+An alternative explanation could be that there are regions in the universe that are antimatter dominated in the same way that our neighborhood is matter dominated. From a long distance, matter and antimatter appear the same, so it would be hard to directly detect large concentrations of antimatter. However, if there are antimatter dominated regions, then there are also border areas where the transition from matter to antimatter takes place. These areas should have a mixture of both and therefore should see plenty of annihilation effects. Matter/antimatter-annihilation produces light that we would be able to detect. Despite searches, no regions have been found that look like these border areas, so if they exist, they most likely only exist outside the observable universe.
+and how big is this "Observable Universe"??
+[removed]
+A commonly given value is '13.8 billion light years in radius', but that's not quite right. Because of the expansion of space, we can observe things that are currently as far as 46.5 billion lightyears away.
+
+So to answer your question, a sphere that's 46.5 billion light years in radius. Which is a lot (duh) but almost definitely not the entirety of existence.
+With how small the universe started out as, how would matter and anti-matter manage to separate without meeting?
+I know that Milky itself is 100 bn light yrs across, so that's not even the full milky way under our view huh?
+...the milky way is 100 000 light years across, so about a million times smaller than you think.
+Ohh I see...
+It might have done. What we observe might be all that was left over after the other 99.9999999% was annihilated.
+Is it possible that the universe is MUCH larger than our observable universe, and that there are enormous pockets of anti matter beyond our horizon, and we just happen to be in a region of space in which no annihilation boundaries are present? If the universe was much, much bigger than the observable universe, even observable universe-sized pockets of asymmetry could look homogenous on a much larger scale.
+Super interesting that CP symmetry is violated. How so?
+Yes, it's possible. Extraordinarily unlikely to happen, but possible. The problem is that the probability we happened to end up in one of those by chance pockets is so, so incredibly tiny that physicists really don't like it as an explanation. It would be sort of like flipping a coin a million times\* and getting heads every single time. Sure, it *can*, technically, happen, but after the first hundred thousand heads you'd probably start wondering if maybe the coin isn't fair, or maybe it's a double-headed coin, or something besides attributing it to pure chance.
+I guess I'm not imagining it as a small unlikely pocket, but rather enormous bubbles (Trillions?) of lightyears across so that most observable universe-sized volumes are contained within a homogenous form of matter, and it's actually an unlikely possibility to be near one of the boundaries.  I'm picturing something like the next scale up from a galaxy filament; incomprehensibly enormous structures of either matter or anti-matter. Pure speculation and I don't know how we could ever test such a hypothesis, but if the universe is truly infinite and flat, it would seem a potential explanation.
+It has been found in a couple of systems now. It usually means different lifetimes for particles or different probabilities for their decay modes. Sometimes it is more subtle and you have to study angular distributions.
+What if the big bang created two"lobes" so to speak and the whole antimatter part of the universe exists just beyond our observable universe?
+How fitting that I was listening to CP violations (Kelly bailey, HL2) while reading this.
+&gt; However, if there are antimatter dominated regions, then there are also border areas where the transition from matter to antimatter takes place. These areas should have a mixture of both and therefore should see plenty of annihilation effects. Matter/antimatter-annihilation produces light that we would be able to detect. Despite searches, no regions have been found that look like these border areas, so if they exist, they most likely only exist outside the observable universe.
+
+This is an interesting idea but I have to wonder, is this really a necessary result of there being pockets of both? As I understand it, just from this solar system to the next is light years. So if we then imagine from this galaxy to the next, or from this supercluster to the next etc could it not be simply possible that the distances are great enough that this can't be noticed? Doesn't empty space in our solar system have an extremely low amount of matter in it, like a few hydrogen atoms per square meter or something? Is there even less outside of the solar system? Would that even be enough to notice the transitional zones really far out? 
+
+Also from what I understand, collisions of larger objects isn't something that is happening very quickly, most objects that were going to collide quickly already have by this point right? Clearly the earth and sun are not colliding anytime soon, and we have no reason to think anything else is colliding with us soon. Nothing substantial in mass anyway. So for these even larger systems, collisions are probably even more rare perhaps? Right? Or wrong? 
+
+I think it important to consider that maybe the universe is infinite in size as well. There seems to be no reason to think it couldn't be. That's an interesting idea because if the universe is infinitely large, we could expect that everything that can possibly happen by it's laws not only has already happened, but will happen again, an infinite number of times. Such is the nature of infinity. 
+
+Even if the "big bang" theory is correct, it could just be that this "primordial singularity" or whatever it's called was only one such event among many others separated by distance, more than there are atoms in our observable universe. Or even if there was only one, it could have happened in a cyclic fashion an infinite number of times before. 
+
+One other weird thought, if matter can become energy from the two colliding, matter and antimatter, is there some way energy can turn back into matter?
+&gt; This is an interesting idea but I have to wonder, is this really a necessary result of there being pockets of both? As I understand it, just from this solar system to the next is light years. So if we then imagine from this galaxy to the next, or from this supercluster to the next etc could it not be simply possible that the distances are great enough that this can't be noticed? Doesn't empty space in our solar system have an extremely low amount of matter in it, like a few hydrogen atoms per square meter or something? Is there even less outside of the solar system? Would that even be enough to notice the transitional zones really far out? 
+
+While interstellar (and intergalactic) space has extremely low particle densities, they are not zero and these areas of space are extremely large. The sheer size of these regions compensates for their low density to the point where if there was some matter/antimatter border region, we'd still expect to see some kind of signal caused by annihilation events.
+
+&gt; I think it important to consider that maybe the universe is infinite in size as well.
+
+There is no indication that it is.
+
+&gt; One other weird thought, if matter can become energy from the two colliding, matter and antimatter, is there some way energy can turn back into matter?
+
+Sure. This is done all the time in particle accelerators, like the LHC at CERN. Particles are accelerated to very high energies and then made to collide. This produces a whole slew of new particles, with a combined mass that can easily exceed the masses of the two source particles. For example, the Higgs boson has a mass of 125 GeV/c^2 and is created in the collision between two protons, each having a mass of less than 1 GeV/c^(2).
+&gt;I guess I'm not imagining it as a small unlikely pocket, but rather enormous bubbles (Trillions?) of lightyears across so that most observable universe-sized volumes are contained within a homogenous form of matter, and it's actually an unlikely possibility to be near one of the boundaries.  I'm picturing something like the next scale up from a galaxy filament; incomprehensibly enormous structures of either matter or anti-matter. Pure speculation and I don't know how we could ever test such a hypothesis, but if the universe is truly infinite and flat, it would seem a potential explanation.
+
+By definition we have zero information about the region outside the observable universe, so we could never test hypotheses about stuff outside it. Now, at the moment it is expanding so we could get additional information over time, but the observable universe will also eventually start contracting.
+That still has the same problem (actually it's even worse): how do those bubbles form? Forming by chance is even more staggeringly unlikely than our universe alone forming out of just matter. Basically, the larger the volume of matter-only space you need, the less likely it is to happen by chance. Physicists could maybe accept it if those early fluctuations had formed matter/anti-matter pockets the size of galaxies today. But it isn't: it's at least the size of the entire visible universe. And since the formation of matter/anti-matter in the early universe happened well after inflation or anything else that could turn tiny pockets of homogeneity into large ones,
+[removed]
+[removed]
+Then you have a new, simular question: why did matter and anti-matter separate like that?
+
+Summary:
+and how big is this "Observable Universe"?
+Is there even less outside of the solar system?
+As I understand it, just from this solar system to the next is light years.
+That is, that the symmetry between matter and antimatter is broken.
+One of the possible explanations for this is that matter and antimatter don't behave exactly the same way.
+I think it important to consider that maybe the universe is infinite in size as well.
+It's natural to assume that matter and antimatter would be created in equal amounts in the big bang.
+Would that even be enough to notice the transitional zones really far out?
+&gt; I think it important to consider that maybe the universe is infinite in size as well.
+Extraordinarily unlikely to happen, but possible.
+I'm picturing something like the next scale up from a galaxy filament; incomprehensibly enormous structures of either matter or anti-matter.

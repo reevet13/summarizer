@@ -1,0 +1,21 @@
+A light pulse has a certain bandwidth (i.e. it contains a bunch of different frequencies), which is larger the shorter the pulse is. 
+
+In this time-cloaking experiment, they "pull apart" this light pulse by accelerating the blue part of the spectrum and slowing down the red part of it, creating a spectral hole in the middle. This can be achieved by cleverly engineering an optical material's dispersion curve, i.e. the frequency-dependent refractive index experienced by the light pulse. 
+
+Now that you have that spectral hole, you can put an event inside which is now "cloaked" (not really, but ok). Put the pulse together afterwards by reversing the initial dispersion and it will now look like that event in the middle never happened, the light pulse comes out exactly like it went in.
+
+"The fibre-based system steers light ‘around’ an event so that no evidence (a change in the temporal or spectral properties of the light beam) of the event is detectable, by speeding up and slowing down different parts of a light beam."
+
+The illusion works purely on manipulating the flow of light. There's no dimensional rift, there's no erasing of time. It's about perception, not [time warps](http://www.rockyhorror.com/participation/timewarp.php).
+
+The previously demonstrated "optical cloak" works just in very limited ways, for a single frequency which is bent around a tiny, specially engineered object. It couldn't be farther from Harry Potter's cloak of invisibility, which would require a giant, perfect broadband "cloak". The new experiment is an exact temporal analogue of the spatial optical cloak. 
+
+The event was cloaked in time. The researchers also provide use cases for this technique, eavesdropping, for example.
+
+The (not very enlightening) answer is because the technique is happening in the temporal domain and not in the spatial domain. You wouldn't be able to use this to cloak any sort of stationary object, just an event happening during a very well defined (and currently extremely short) time period.
+
+And when frequencies travel at different speeds than normal, how is that not a time manipulation? I'm sorry to say it, but this cannot be argued from a physics point of view. Frequency and time in physics are inextricably linked. 
+
+Time in physics needs a reference frame. If this reference frame in your experiment is given by oscillations of a light field then you can interpret a change of the frequency of these oscillations as a manipulation of time. 
+
+In this experiment that might

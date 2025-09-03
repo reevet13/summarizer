@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Yes.  Photons emitted in the microwave bounce around for a while if they don't hit a water molecule, so putting a second one in means the first gets less exposure.
+
+When you heat something, you're giving it (thermal) energy.  If you double the amount of stuff you want to heat, you have to double the amount of energy spent.  This can be accomplished by increasing the power (energy per time) or increasing the time.
+
+In fact, if you have a good microwave, it should take 2x as long.
+
+If you want the details, the microwave works on dielectric particles...

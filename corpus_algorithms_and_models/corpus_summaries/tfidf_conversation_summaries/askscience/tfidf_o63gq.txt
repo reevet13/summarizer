@@ -1,0 +1,38 @@
+Original Response:
+No, light always moves at *c*.
+
+However, a sufficiently massive star (or better yet, galaxy) distorts the geometry of space-time enough that lights path is changed (light always travels at *c* but also always follows the geometry of space-time).
+
+This can be seen in gravitational lensing.
+Light moves at the same speed (c) no matter how much energy it has.  But, as a photon escapes a star, it loses energy.  This is known as [gravitational redshift](http://en.wikipedia.org/wiki/Gravitational_redshift).
+Awesome. Thanks!
+Okay, thanks for answering!
+The light is always moving at c in a locally inertial reference frame, but that isn't what was asked. In fact, an observer at a distance (i.e., far enough away that the difference between the gravitational potential at their position and the field near the source is measurable) "watching" the light come toward them would find that it took the light longer to reach them than it would have had there been no massive body present, and how much longer it takes will increase as the potential at the surface of the star increases.
+
+TL;DR, if you aren't sitting next to the star, then you will observe that it takes longer for light coming from a more massive star to reach than light coming from a less massive star at the same distance.
+Yes, actually (really actually it depends on exactly what you mean by "move away slower"; my interpretation is that you are asking about the amount of time an observer thinks it takes the light from the star to reach them).
+
+While the other answers are correct that a local measurement of the speed of light will always yield a value of c (so that if you were sitting near the star measuring the speed of light as it went past, you would always get the same answer) it is *not* true that a distant observer will measure light as taking the same time to reach them from stars with different masses. In fact, as predicted and confirmed by Shapiro in the 60s, if you bounce a radar signal off Venus while the Sun is positioned so that the gravitational effect is the strongest, you find that it takes the light around 200 microseconds longer to complete the trip than it would if the Sun weren't there. This effect is known as the [Shapiro delay](https://en.wikipedia.org/wiki/Shapiro_delay).
+Care to back up that explanation?
+Wiki has an article in the [Shapiro delay](https://en.wikipedia.org/wiki/Shapiro_delay). It's also discussed briefly [here](http://sofa.astro.utoledo.edu/~bjorkman/phys8860/GRtests.pdf)^[pdf] . Ultimately, it comes down to what one means when talking about speeds. It's essentially just a combination of gravitational time-dilation and lensing, and the effect these have on the speed of light as measured using coördinates far from the gravitational source.
+
+Imagine you have two friends standing the same distance away (as measured by you), but they are in different gravitational potentials. They both turn on their flashlight at the same time (again, as measured by you). You will see the light from the friend in the weaker potential before that from the friend in the stronger potential, which means that the light coming out of the weaker potential has had a higher average speed as measured in your coördinates.
+Can I just suggest a change in your statement to "No, light always moves at *c* in a vacuum?  Let me know if that is not correct.
+&gt;Let me know if that is not correct.
+
+This depends on what one means by "light". *Photons* always travel at c regardless of their environment, but the aggregate phenomenon we call "light" propagates at different speeds in different media.
+[deleted]
+[deleted]
+Yes and no.  Light always moves at *c* in a vacuum - that is true.
+
+However, light also moves at *c* in other mediums as well - what makes light *slow down* (as it were) is as it moves through other mediums the photons are actually absorbed and then re-emitted - the delay between absorption and release is what *slows it down*.
+
+Likewise, in some novel materials, the wavefront can be reversed so that it is now in the back, and the back is now in the front - this also *slows it down* - even though it is still really moving at *c*.
+Interesting.  So what happens as light travels through water? A fluid is a highly disorganized material (if you can call it that), yet other than where the light crosses the surface there is very little effect on the path of that light.  Is it being absorbed by a water molecule and the re-emitted on precisely the other side independent of the incidence with that molecule?
+When it passes through a medium it is the [refractive index](http://en.wikipedia.org/wiki/Refractive_index) that determines the angle the light moves at... and there is always some absorption involved.
+
+Summary:
+No, light always moves at *c*.
+Light always moves at *c* in a vacuum - that is true.
+Light moves at the same speed (c) no matter how much energy it has.
+This depends on what one means by "light".

@@ -1,0 +1,15 @@
+Here is the summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+Injecting a single altered strand of DNA would be out-competed by the billions of inherited copies of your DNA. How can one altered cell dominate over all the others?
+
+We genetically engineer a virus to carry the DNA of a gene we want to insert into the patient. We then infect the patient with the virus. It inserts itself into the DNA of a cell, replicates, and inserts itself into the DNA of another.
+
+You usually don't need every cell to carry the gene. As long as some of the cells are working correctly, the disease will be cured. Even if only 1% of the cells are corrected that may provide enough function for the person to live comfortably.
+
+Regarding targeting specific organs or cell types, we aren't very good at it. Typically, if we want to insert a gene into the liver we will take a virus that naturally targets the liver, such as the Hepatitis C virus.
+
+As long as some of the cells are working correctly, the disease gets cured (as long as the original DNA in all the other cells don't bring forth the conditions for disease again in the future).
+
+You have populations of stem cells making your intestinal lining, blood, and skin, for example. If you incorporate your gene into these stem cells then the gene is incorporated into their progeny, and therefore the population of modified mature cells can be maintained.
+
+These are the types of diseases that can be treated with gene therapy tools we have today.

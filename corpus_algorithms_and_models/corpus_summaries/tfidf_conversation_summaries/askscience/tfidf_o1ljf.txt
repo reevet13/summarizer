@@ -1,0 +1,225 @@
+Original Response:
+Theoretically, yes. But it's going to be really hard. It would be kind of cool if your condom had little chambers separated by membranes. Inside the chambers were reagents for [ELISA](http://en.wikipedia.org/wiki/ELISA) assays for various germs, and the future technology included highly specific antibodies bound to trans-membrane proteins that could set off really good luciferase-type reactions inside each of the chambers (could be really small micelles). The outer membranes would have to be sturdy enough to keep all the ELISA packets from breaking up. The basement membrane would be your standard keep-the-AIDS away condom material. Patent pending.
+what would be the mechanism of signal amplification?
+It would just have to be sheer numbers of receptors.  When the experiment is being done "in situ" as it were, you couldn't hope to be able to add a secondary.
+I am actually envisioning a different method.  with the advent of real-time PCR, a number of fluors were invented that glow when they are close to each other but not when they are apart.  If you were to cover the condom with antibodies that recognized different antigens and each had a different fluor attached to it, when both of them bound to an antigen, they would light up.  Of course, this would require shining a specific wavelength of light on them, and all of this would detract from the act ("Honey, why are you shining that red light on your tallywhacker?  And why is it glowing green?")  
+Again tho, like mentioned above, it would be incredibly expensive for each condom...
+If this shows up in a science fiction novel, I want recognition lol
+[deleted]
+If this was possible, wouldn't it be possible to make a medicine on the same principles?
+[deleted]
+&gt;"Honey, why are you shining that red light 
+
+It would probably be blue light to result in green fluorescence not red (stokes shift) :D
+Maybe a corollary to this, what about one that alerted you in some way, possibly with fluorescence, if the condom has been punctured or torn in any way? This to me seems like it would be more useful and would enhance your condom experience more.
+[deleted]
+[deleted]
+Just for the record, this would be bioluminescence, not immunofluorescence. You'd want to shine a laser/LED on your knob for the latter.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+I think it would actually be chemiluminescence as the reaction would be occurring in a chamber and not in the pathogen itself.
+[deleted]
+A due remark.
+[deleted]
+You're better off plopping the used condom in a big chamber and doing some sort of multiplex ELISA.  The bad part is that you have to keep used condoms hanging around for a while.  Pretty damn gross, but still beats having your urethra swabbed real hard.
+Are there any ethical implications for this?
+[deleted]
+as someone who has experienced a torn condom, I don't think that I would have noticed if it started glowing
+[deleted]
+&gt;Such a product is not possible at least in the near future
+
+is this conjecture or are you involved in material engineering or something?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+The major issue with this is their shelf life would be relatively short, you would need some mechanism to keep the reagents separated until you were finished with sex and normally these types of experiments are run with labelled secondary antibodies to improve specificity so you would need to keep the condom intact and gently remove it post-sex and then complete further experimentation.  Also the mucus in the vagina will likely cause problems with antigen-antibody specificity.  Lastly the condoms would be hella expensive.  Cool idea though.
+We have the option of just peeing in a cup now. *Yay science!*
+Yeah, luminescence would never be quite enough.
+Even if someone made this, it would be like $400 per condom and you'd have to keep it refrigerated, and even then the shelf like might only be a few months.
+[deleted]
+Would the foreign antibodies not cause an adverse reaction for the infectee?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+So if you took the condom part out of the mix what is the practicality of creating a rapid swab test that did the same thing but in a nice disposable business card sized product?  Something closer to a DNA microarray, with obviously different technology.
+Um, I don't want to admit my ignorance, but would it be possible for you to translate any of that to layman's terms?  I'm not well versed in biology but am extremely interested in this answer, but I also do not have the time to research the vernacular.
+[deleted]
+[deleted]
+Regarding your view on the ergonomics of such a product, rather than a condom, which would be difficult to want to take off mid-coitus, perhaps a dildo of some sort would work best to not ruin the mood whilst checking whether or not your partner has an STI in subterfuge.  This dildo could perhaps have a sheathing on it that is similar in material to a condom whilst serving some purpose relating to STI testing (ELISA assays as some have suggested, etc.).
+[deleted]
+The problem with this is the fact that the condom is likely only to come into contact with a few pathogenic bacteria, so you'd *need* some type of signal amplification to see a difference. It would definitely have to be a catalytic antibody that's only active in the presence of the pathogen (perhaps an antibody with one Fab side specific to the pathogen and one catalytic Fab, and some Fc region that allows for allosteric regulation of the activity of the catalytic region-- it's far fetched, but theoretically possible). It would be easier to allow for users to "develop" the condom after the fact by adding it to a colorimetric solution (like ONPG if the catalytic activity was B-gal).
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+As a Bioengineer, I really don't think this would work. Antibodies are pH and temperature sensitive and the fluorophores are light sensitive--They would degrade really quickly down there. I'm looking for some of the reagents lists for ELISA kits right now, but I'm pretty sure you don't want that stuff on your junk. Also, it would have to come into contact with the pathogen, which for a girl isn't a problem, but for a guy its pretty much just in the semen, so the color change would be after the fact--A Typical ELISA protocol has around a 2 hr incubation time.
+
+**tl;dr** *It wouldn't work*
+
+Just a side note...who would stare down there to see if it would change colors? ಠ_ಠ
+[deleted]
+There was something like this developed recently, or rather, it was in the news recently.  [This link](http://planetgreen.discovery.com/food-health/paper-lab-check-blood.html) seems appropriate, as it also links to the TED talk about the stamp sized test strip.
+[deleted]
+What good would immunoflourescence be if you don't have a high-powered laser with suitable output spectra handy? A colorimetric yes/no test would be better, but if you're building the test into the condom, you're not really too concerned with the results now, are you?
+I don't suspect that a light source would be a problem.  Glow in the dark condoms currently exist and I suspect could be tailored to produce the color necessary for this test.  Thus, if they're glowing one color then everything is OK and if they're glowing two different colors then you've got problems.
+You might be on to something when you mentioned PCR.  There is actually a newer pcr diagnostic technique called loop-mediated isothermal amplification (LAMP) ([Source](http://nar.oxfordjournals.org/content/28/12/e63.full) and [Wikipedia](http://en.wikipedia.org/wiki/Loop-mediated_isothermal_amplification)).  This PCR differs from a normal or real time PCR in that it is done at a single temperature (65C) rather than cycling through temperatures.  Additionally, a set of six primers form loops at the end of their amplicons leaving them all strung together resulting in a much larger amount of amplified DNA than a normal PCR would.  Fluorescent dye ([calcein](http://en.wikipedia.org/wiki/Calcein)) can be included in the reaction and will fluoresce when it reacts with the byproducts of the reaction (the more DNA amplification, the more byproducts and more fluorescence) ([Source](http://www.nature.com/nprot/journal/v3/n5/abs/nprot.2008.57.html)).  The reaction's constant temperature and visible fluorescence and turbidity for positive samples make it a good candidate for use as a field diagnostic test, and more than any other PCR I can think of, for fluorescent detection of pathogens in condoms.  There are still a lot of hurdles that would need to be overcome to make it work, though.
+
+Some problems I can think of here would be the temperature required for this reaction.  It's optimal at 65C compared to our 37C body temperature, so another specialized polymerase with an even greater ability to separate strands of DNA than the Bst polymerase used for LAMP would need to be discovered or engineered.  The reaction also currently takes 30-60 minutes.  It's not impractical, but the faster the results the better.  Additionally you would need a way to contain the reaction while letting pathogenic DNA in.  And even if you overcome these obstacles, you would need to find a way to lyse the pathogens (bacterial/fungal) or their host cells (virus) to have access to the DNA (I'm unsure if there would be much free DNA present in this environment, however [one study](http://www.sciencedirect.com/science/article/pii/S0002937805001894) I came across that looked at DNA of bacterial pathogens in the vagina did freeze and boil the samples before analysis, lysing the cells, so lysing may be necessary).
+Depends on the antibodies, don't it? I heard lamprey VLRs are pretty hardy.
+If you are talking about in-situ hybridization, I did some of that and let me tell you that would be horrible to work with. You still need RNA or DNA primers (which get easily eaten up with natural DNAase and RNAase everywhere) and later needs to get washed over and over and dehydrated. So probably not feasible. 
+
+Even with a sensitive condom, if your partner has an erupting Herpes infection around the privates, your condom will not even pick it up.
+[deleted]
+Not all fluorescent reactions require a laser for excitation.  I use a chemiluminescent kit to visualize my western blots, and if you add a bit of the antibody directly to the reagent, you can see it glow ([Example](http://en.wikipedia.org/wiki/Chemiluminescence)).
+[deleted]
+If this is done, imagine what would happen if it rips inside her... You'd have to make sure the chemicals used wouldn't harm your partner if this happens. So even if you find a way to do this, i'd be hard to make it safe as well.
+[deleted]
+[deleted]
+[deleted]
+Hmm that is true. I hadn't considered westerns. In my experience they usually aren't bright enough to be detected above the lab lighting.
+[deleted]
+[deleted]
+You'd have a bunch of sandwiched fabrics in the tip of the condom. The bottom layer (the one that touches your junk) would be typical condom material. The outer layers, however, would be permeable and separated from each other by thin layers of chemicals that would detect different kinds of STDs, presumably one per layer of fabric in the tip. Those chemicals would trigger a reaction that would cause another chemical in the tip to glow, indicating that an infection was present.
+I think the condom idea isn't very practical due to costs (the main thing is to keep condoms as cheap as possible so people will actually use them), but I enjoyed the information about LAMP.  LAMP wasn't really a focal point in my undergrad classes so it's interesting to read about.
+Perhaps. Presumably only the outside of the condom would be sensitive to pathogens, because the latex would be closest to the phallus in order to prevent the transfer of STDs and you wouldn't be able to see the inside of a condom anyway. Which means that, unless it broke (which is admittedly useful in its own right), it would only check the receptive partner for STDs.
+[deleted]
+You're right.  Usually you can't see the bands light up unless you've added way too much of your sample and/or antibody.  We expose our membranes to a film and develop that to see the bands and to have something more permanent.  The reaction (freshly mixed chemiluminescent reagent + HRP tagged antibody) can be done on a larger scale in a tube to see if the reagents are all working properly.  You can see this reaction easily with the naked eye, but you might need low light.
+Well, in reality all of this exists.  The tests used at a doctors office (the quick (less accurate)) tests for these ailments are color based.  They however are separate tests, specific to the disease you are looking for.  Not to say this would work, but seriously...  Would you pay $20 for a condom that tells you what you might have just caught?  Condoms aren't 100% remember.
+No on the immunofluorescence, yes on the "indicator of pathogen".  Such "barcode plastics" are in development that could detect specific RNAs/antigens of proteins and activate enzymatic reactions (like ELISA that one poster mentions) so that there is a color change.  One reason barcodes are being targeted for future market is that barcodes can change from reading "ground beef" on cash register to adding another line in the barcode that would make it read as "spoiled beef" for example.  Such a thing could be on a condom too, but if it was on a condom wouldn't it be too little too late?
+I hate to mention this but until we develop some kindof of post-exposure prophylaxis for the treatment of HIV, then all this form of detection, IMO, would cause more harm then good.  The system will be able to correctly identify the HIV but could not determine if infection has occured as a result.  This may mean bi-weekly blood tests for up to a year just to discover if you contracted the virus.  Think of someones mental health during that process.  However is a post-exposure prophlylaxis treatment is developed, similar to rabies for humans, then I would personally give money for this endevor.  The product could  prevent many people from AIDs by early prevention.
+
+However, Iy would help reduce the spread of HIV if people that are possibly infected reframe from intercourse until HIV testing is complete and also cause the carrier to relize they are infected as well.
+This is assuming it is using antibodies for the reaction, the easiest solution. In theory, one could engineer a small molecule that has high selectivity to a infectious pathogen antigen with a generous shelf-life.  I think we'll have to wait until computational modeling gets a little more advanced though.
+[deleted]
+I agree the idea doesn't sound very practical, however LAMP reactions themselves are rather inexpensive.  One group determined the cost of a single reaction to be under [$0.30](http://www.clinchem.org/content/52/2/303.abstract).  This seems to be a lot less than what I'm seeing browsing for antibody based methods of detection like ELISAs which seem to range from about [$5](http://www.sciencedirect.com/science/article/pii/S0002937805010483) to much more.  Of course devising a whole new technology for applying any of these tests could add enormously to the cost.
+In today's market it would be absurdly expensive, but antibodies could be grown very cheap as the market matures.  Researchers are making [antibodies in tobacco plants](http://www.smartplanet.com/blog/rethinking-healthcare/molecular-farming-hiv-drug-made-in-gm-tobacco-enters-clinical-trials/5780) now that can not only be grown in a more diverse setting (ie: a farm instead of a lab) but can be better scaled.
+[deleted]
+[deleted]
+I would like to add that the technology that the military (and CDC) uses to detect viruses and bacteria in the field could be used. I know a post-doc that was contracted to make (rather improve) a field test simple ELISA for bacterial proteins and viral proteins. I am not sure if the viral proteins are quite high enough for this however. His was for military related viruses and bacteria of course. 
+
+You could test secretions of your partner before sex. Include 2 strips along with a condom in the package. It might be tough to keep the mood but on a random hookup you could work it into the mix.... maybe.
+[deleted]
+[deleted]
+try packing a PCR machine into a condom.
+[deleted]
+LAMP doesn't require a thermocycler, just a water bath or something to keep the reaction at 65C.  Of course for this to be even feasible the reaction would have to be optimized for 37C instead, which is pretty unlikely.
+What if the condom package itself were to contain a sort of minimal medium that would allow only for common STDs (chlamydia, syphilis, etc.) to grow on it?  The package could contain a "before" and "after" pouch with a small zip-lock type seal.  The "before" pouch would contain lube and the "after" pouch would contain the minimal medium.  After contact with a "lady of the evening", one could place the condom into the "after" pouch and within a day or so, if they see growth, they know to see a doctor.
+[deleted]
+[deleted]
+Would be difficult to distinguish STI causing microbes and normal vaginal flora.
+The [basement membrane](http://en.wikipedia.org/wiki/Basement_membrane) may not be what you think it is.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Yup, this was actually the research goal of the lab I use to work at with the military.
+
+I spent almost all my time performing RNA extractions and running microarrays for anthrax and encephalitis cells. The idea was to create a precise enough cDNA profile that we can use identifying sequences to populate a micro-array chip that used RT-PCR to immediately detect any biological agents a soldier wearing the chip would come into contact with in the field.
+
+This could conceivably be adapted for a condom though I suspect we don't have nearly enough data from sequenced STD's than we would like and another commenter made a good point about the environment around the gentitals during sex being a little hostile to something as fragile and sensitive as a microarray chip.
+
+Maybe in a decade or two when the technology gets cheaper and migrates to commercial use. =P
+TBH no I wouldn't.  A visit to a doctors office my city with insurance is going to be about 30 dollars for the copay + whatever for the prescription, in the event that I hypothetically acquired an std. So maybe 40 or 50 dollars total in the event of actually catching something. The doctor is not going to take "Oh the condom turned orange" or whatever as evidence for a diagnosis.  I think for most people the cost of the condom is actually pretty important, and if it got up in the 20 dollar range (or something high, hypothetically of course) then that would not really become popular (whether it would be useful or not).
+
+ As for the test used in doctors offices I can't comment on that, but I'm a lab tech in a hospital and all our ER patients with suspected Gonorrhea/Chlamydia get DNA probes which aren't particularly cheap.  We don't even offer a point of care option.
+[deleted]
+Could this also be used in a form of regular gloves? That way in hospitals, tattoo parlors, or any other place that dealt with blood would be alerted of a blood disease or something of the like?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+economically? would that work?
+Lots of theoretically sound ideas. I think we know from the responses that it's just not practical now, though kinda-sorta possible. I'll throw in my perspective - I used to work in the commercial side of the antibody market, and the cost of the antibodies + fluorophores would be prohibitively expensive for this. We're talking tens of dollars to produce one condom at least but possibly hundreds. While new methods of producing recombinant abs and functionally similar molecules are being investigated that can cut costs, such condoms would be infinitesimally more complex to make (ab production, purification, coating the microwells, extra stages in batch testing) and would be expensive which would kill the uptake by users. Plus the users would have to store them in the fridge and take care while using them. Antibodies and other probes are generally sold at high markup too, whatever price you buy them at.
+You'd use them the first time.
+I'm not that familiar with lamprey VLRs, but even if you could maintain them, you would still have many other problems with this--The most severe being the reaction time.
+This little convo is exactly how I would imagine doing science. Making a guess and someone else says something intelligent about it so you steer a bit to the left or right.
+
+Rinse, repeat.
+[deleted]
+Assuming we could, what would be the reason for using it? Most condoms are capable of stopping the transmission of pathogens. If you're already using a condom, then it would be irrelevant whether or not your partner is diseased.
+
+It would only be useful in determining whether or not your partner had a disease which can be transmitted through other mechanisms - such as [hepatitis via saliva](http://www.hepatitis-central.com/mt/archives/2007/03/can_saliva_tran.html). But this use is negated by the fact that saliva transmission almost always precedes coitus. 
+
+Unless you were planning unprotected post-coitus sex, the detector would serve no purpose.
+&gt;LAMP wasn't really a focal point in my undergrad classes
+
+Neither were mine, in fact this is the first I'm hearing of it! can't believe it wasn't mentioned to us (that or i don't remember).
+You could line the condom with receptors unique to that STD, that fluoresce when they bind to the STD, but there is one problem with this entire premise:
+
+Why would you want to have it on a condom? Why not just make a cheap home-test kit instead so you can determine if they have a STD before you start plowing? Plus this way would be easier, and also a lot cheaper than making a condom with all fancy antibodies and stuff on it, which would essentially make it quite expensive.
+[deleted]
+Doesn't this sound like ... kind of a thick membrane to you? One thing that I believe the public health research shows is that many men would rather abandon condom use altogether than accept too much reduction in sensation (values of "too much" vary by individual). I worry that adding these chambers would thicken the membrane to the point that many consumers would simply reject the product.
+[deleted]
+[deleted]
+I agree on all counts.
+As above. Theoretically yes, practically no. But with future technology maybe practical (almost certainly not in the way I've described).
+Some kind of enzymatic process, where an enzyme is released when a receptor is hit. Then the enzyme can catalyze thousands of reactions per second, and those secondary reactions then produce the visible signal. As pointed out below, bioluminsecently, not immunoflourescently (though having sex under black lights might do the trick for flourescent methods). Embedding LEDs in the condom would be going too far, unless with future technology they were really tiny.
+Yeah, not to mention that practically speaking this invention would be useless. Condoms' purpose is disease prevention, not detection. The most this device could do is inform you "oh great, there is a small percentage I contracted such-n-such disease despite already having had sex and taken precautions." It's not like it's an alarm that sounds as your dick approaches an infected orifice. 
+...Also, how do you explain why you have chosen this very peculiar and obvious brand of condom to your partner? Sounds like a real deal-breaker...
+[deleted]
+No no no you are thinking wrongly.  You just need to generate friction to increase the temperature....thats only...err...149 degrees farenheit...nm
+;-)
+mostly because 37 degrees would allow all sorts of nonspecific annealing products to form, which would bollux the main reaction.
+Lamprey VLR (variable lymphocyte receptors) are a convergent adaptive immune system that uses leucine rich repeats (like those found on toll-like receptors) instead of Ig folds. They have T-like cells and B-like cells as well IIRC.
+[deleted]
+I think it would be a lot easier to use a technology like [Immunostrip](http://www.plantmanagementnetwork.org/pub/php/news/2007/ImmunoStrip/) uses, which is based on ELISA. It's basically like a pregnancy test, except for viral antigens.
+
+That said, it's pH sensitive and I have no idea how you'd get something like that on a condom.
+[deleted]
+If using a condom that can detect the presence of an STD (without any adverse effects) is a deal-breaker... Then you probably don't need the condom to reach a conclusion about the presence of an STD ;)
+Why don't we have methods of semi-permanent reliably reversible birth control which can be administered in childhood or at puberty like a vaccine?  Mostly because our society is neurotic about sex and any research which could be seen as "encouraging" sex finds it nearly impossible to gain funding.  You would likely be surprised at the number of folks who are willing to say "people who have sex when unmarried SHOULD be punished with disease and death" and the number of those people who happen to be in control of research funding.
+True, but I think you should take a look at RISUG.
+http://i.imgur.com/hdF3Z.jpg
+Because hookups
+Three months later, you'd have to apply for reversal to a committee who'd see if the change was in society's best interest.
+[deleted]
+There's actually a bunch of isothermal DNA amplification protocols: strand-displacement amplification, rolling circle amplification, helicase-dependent amplification and recombinase polymerase amplification are  a few of the names they go by.
+
+Each one claims some advantages over PCR, but they all have their limitations.
+No, absolutely not.  History has taught us a few things that have held true in all times.  Centralization is weakness.  Human beings controlling other human beings destroys the civility of both.  And evolution is smarter than we are, and likely smarter than we ever can be.  
+
+Investigate the parents of whoever it is that you think is an example of human beings who advanced civilization.  And see if a committee would have been capable of accurately predicting the likelihood of that child being 'valuable' to society.  Performance of such a system could be mathematically proven (since human society and human beings as individuals exhibit extreme sensitivity to initial conditions - chaos) to be WORSE than random chance.  Anyone suggesting the formation of such a system would be easily beaten, if people value reason.
+Oh sure, I agree, but what relevance does that have to politics?
+It's nowhere near being available outside of India (eg. in North America) yet, is it? :(
+Not yet!
+or just use it for the first couple in-n-outs to make sure they're safe, and afterwards abandon their use altogether? If this wasn't such a serious conversation, I would be cracking wise about this. In reality though, do you think more people would have sex if we were able to create such a condom? Or anyway of screening everyone you were about to engage in sexual relations with?
+
+Summary:
+Assuming we could, what would be the reason for using it?
+Some problems I can think of here would be the temperature required for this reaction.
+As a Bioengineer, I really don't think this would work.
+I don't suspect that a light source would be a problem.
+You'd use them the first time.
+In reality though, do you think more people would have sex if we were able to create such a condom?
+It would be kind of cool if your condom had little chambers separated by membranes.
+Additionally you would need a way to contain the reaction while letting pathogenic DNA in.
+If you're already using a condom, then it would be irrelevant whether or not your partner is diseased.
+You might be on to something when you mentioned PCR.
+Condoms' purpose is disease prevention, not detection.
+You could test secretions of your partner before sex.
+That said, it's pH sensitive and I have no idea how you'd get something like that on a condom.
+what would be the mechanism of signal amplification?
+The "before" pouch would contain lube and the "after" pouch would contain the minimal medium.
+Lastly the condoms would be hella expensive.
+This to me seems like it would be more useful and would enhance your condom experience more.
+I think it would actually be chemiluminescence as the reaction would be occurring in a chamber and not in the pathogen itself.
+I am actually envisioning a different method.
+There are still a lot of hurdles that would need to be overcome to make it work, though.
+It would just have to be sheer numbers of receptors.
+I agree the idea doesn't sound very practical, however LAMP reactions themselves are rather inexpensive.
+This is assuming it is using antibodies for the reaction, the easiest solution.
+They however are separate tests, specific to the disease you are looking for.
+I am not sure if the viral proteins are quite high enough for this however.
+Again tho, like mentioned above, it would be incredibly expensive for each condom...
+Depends on the antibodies, don't it?
+True, but I think you should take a look at RISUG.
+Would the foreign antibodies not cause an adverse reaction for the infectee?
+Yup, this was actually the research goal of the lab I use to work at with the military.

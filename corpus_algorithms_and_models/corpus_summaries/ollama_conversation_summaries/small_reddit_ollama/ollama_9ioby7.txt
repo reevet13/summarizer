@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+I had an iPhone repaired at a shop. The device started malfunctioning after the repair so it brought it back. It did not before the repair. They repaired it but it continued malfunctioning. I brought it back and they refused to fix it and said I'd have to contact corporate for a solution.
+
+Even though I did not give them the password, I typed it in front of them and in front of their camera and I'm sure with technology today they could easily brute force it? It's only a 4 number password. How can I determine that?
+
+You can’t. Figure out what sensitive information could have been reached and change all your passwords and enable 2FA. Wipe it or get a new phone.
+
+Assuming they have the proper tools they could probably could get into it easily. But honestly it depends on the place and the employees. There's no real way to tell.
+
+Brute forcing passwords on phones is a pain because of the lockout after x amount of tries. Some iPhone versions had/have a bug when connected over USB which would override the lockout allowing brute forcing using a very expensive piece of hardware that is only sold to police. Outside of that, brute forcing phones is quite rare.
+
+Very slim.
+Sorry, don't know the rules.
+That's reassuring. I sure hope they didn't see it from the camera. And from what I gather here, there is no way to determine if they actually got in

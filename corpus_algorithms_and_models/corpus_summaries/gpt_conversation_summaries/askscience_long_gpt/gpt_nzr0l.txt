@@ -1,0 +1,19 @@
+* HIV can't survive inside of mosquitoes, it is digested. Other viruses, that can be transmitted by mosquito bites, have various adaptations that make it possible for them to survive in, and be transmitted by, mosquitoes. 
+
+* Mosquitoes do not ingest enough HIV particles to make a transmission possible. 
+
+* The fact that a mosquito can bite a HIV-infected individual prior to biting a uninfected also plays no role in this, because the blood flow and saliva flow in mosquitoes are separated, so blood flow is always unidirectional and no blood from the prior host is flushed into a new one with saliva upon the bite. 
+
+While I'm no expert on the topic, the problem with such an approach would be the fact that HIV rarely (if ever) enters the human body in a place where it would be possible for enzymes to act on it. 
+
+Another issue with HIV is that it enters human T-lymphocytes via their CD4 receptors (extremely important for the interaction between immune cells, HIV just piggybacks on the same receptors), thus making it even harder to combat. Pretty much the only way the body itself can fight HIV is by destroying the already infected lymphocites, which combined with the destruction of lymphocytes brought on by HIV just helps the development of AIDS in the affected individual. 
+
+The enzyme would not be specific enough to only target the HIV. If we are talking about digestive enzymes built to break down proteins, you can pretty much expect that they're going to be very good at breaking down not just one protein but a hell of a lot of them. You would not want that in your body freely.
+
+Electron_Blue isn't saying that the death of lymphocytes helps the HIV virus (it doesn't), but that AIDS, the collapse of the immune system due to HIV, is hastened because the immune system itself is killing itself off.
+
+Malaria is transferred by a parasite (of the genus *Plasmodium*), which relies on mosquitoes as the primary hosts (humans and other vertebrates are only the secondary hosts). Mosquitoes serve as vectors for the plasmodium, as well as provide an environment in which part of its developmental process takes place. 
+
+Long story short, the plasmodium (or rather, its gametocytes) are taken up with the blood of an infected person, differentiate inside the mosquito, mature, travel to the salivary glands and are injected into the new host with saliva.
+
+There's a theory that the *Plasmodium* genus (and some

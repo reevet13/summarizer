@@ -1,0 +1,25 @@
+It makes very little sense to refer to light's frame of reference. 
+
+The photon has to travel from point A to point B, and that takes time according to every relevant inertial frame.
+
+Light is the limit of this as that 10 goes to 0 -- which really leads to a lot of non-useful extrapolations that don't actually mean anything.
+
+Quantum mechanics had nothing to do with this, really.
+
+Light not experiencing time is the "only thing" that would make sense in relativity.
+
+Time in the photon's perspective makes no sense.
+
+Time affects a photon because it takes time to go from one place to another, in any useful frame of reference.
+
+The reason is that a particle's frame of reference really means its rest frame; i.e., the frame in which that particle is at rest.
+
+There's a way in which this is sort of true - either as a limit of time dilation, or in terms of a thing called proper time - but since there's no such thing as a photon's frame of reference, there isn't even any consistent way of describing physics as seen by light.
+
+It simply doesn't exist.
+
+Proper time is a geometric quantity.
+
+You can't interpret it similarly for light, since light doesn't have a rest frame, but the proper time along a photon's path is zero.
+
+There are *null* or *lightlike* paths which, as the name suggests, are the spacetime paths traversed by light and other massless particles, and these have zero length.

@@ -1,0 +1,136 @@
+Original Response:
+There's not much to explain regarding the question.  For a LONG time nanotech has supposedly promised grand things that will change our life drastically.  That hasn't seemed to have arrived, and as a layman I don't really see it around me yet.  I guess I'm just looking for a laymans, top level overview of what nanotech is mature and finding it's way into the real world around us?
+
+Also what's coming down the pipe in say the next 5 years?  
+
+Thanks in advance :)
+Hi!  I grow thin films about ~160 atoms thick, so I can tell you where the current state of the art is in what we do.  
+
+We work with a deposition process called molecular beam epitaxy (MBE) in which we evaporate metals onto a substrate and our newly evaporated materials try to mimic the crystalline structure of the substrate.  Specifically we work on thin film oxides for a variety of uses such as solar cells, interfacial studies, and transistor-like devices.  
+
+We have full control of the growth and can lay down a single layer of atoms at a time.  We find that we can elicit different materials properties by slightly tweaking the structure of the material.  Therefore, we can have two things act completely differently, even though they are chemically identical. 
+
+This isn't really what the average person thinks of when they think of nanotech, and in fact nanotechnology already has enhanced your life greatly, look at your cell phone, computer, any electronic device out there really.  They all employ it.
+
+As far as making nanomachines goes, it's a bit trickier.  In the nanoscale, materials act much differently than they do in bulk.  For one, they're more reactive due to a high surface area to volume ratio.  I am not in the field of nanomachines, however I know that if we are to succeed in this research we need to imitate biological systems.  
+
+There's been a lot of work on DNA tools.  Bernard Yurke, previously at Bell Labs, currently at Boise State University, did a lot of work on manipulating DNA to carry out simple tasks, but this research is still years away from producing anything fully useful.  
+
+Edit:  Also, you asked about future advances.  I can't say for certain about all nanotech, but my specific project focuses on the creation of a transistor like device that takes advantage of the metal to insulator transition found in rare earth nickelate perovskites.  Basically, just looking at electrical conductivity, you have a material that acts as an insulator, and then you push on it and it becomes a metal.  So, wish me luck, if it works there will be a few papers on it in 2 years.
+As I understand it, several labs around the world regularly make nanomachines that can do potentially useful things. The problem is that there is no commercially viable way to mass produce them in quantities that would have an impact on a regular person's daily life.
+
+As for the OP's question, strictly speaking nanotechnology is anything that is done at the nano-scale and there are a [tonne of applications](http://en.wikipedia.org/wiki/List_of_nanotechnology_applications) that already exist today even outside electronics. For example, one of the more well-known (and controversial) applications is the use of titanium dioxide nanoparticles in sunscreens.
+Diamondage's comment illustrates the point pretty well.  A lot of nanotech allows for improvements based on a better understanding of how nanostructures are formed.  Its kind of like how you can ask what quantum physics has really done, until you examine how p/n doped semi-conductors work, and realize how crucial that advance was.
+
+Specifically, advances in themo-electrics, electrode materials, etc.  Nanomachines are just much sexier, so thats what youre sold, despite other applications being incredibly lucrative.  The whole "nano" label suffers from being to broad.
+Your username is aptly chosen for someone working in this field.
+First off: Thank you for your time :)
+
+I should clarify though, I'm aware commercial nanomachines are "a ways off" at best.  
+
+So basically nanotech is the basis behind electronic shrinkage for the most part? Thin film, high ampere batteries. Small, power efficent, and powerful cpus, etc.?  Will we see this kinda stuff make the jump into memory storage do you think?  I'm sure you're bound by some sort of NDA(s), and I wish to respect that.
+
+Thank you again :)
+I actually chose this name before I chose my research group in graduate school.  It worked out pretty well I think.
+Could you elaborate on this functionalized DNA?  Is it similar in nature to DNA/RNA aptamers, DNA "origami," or something else entirely?
+
+I'm fascinated by synthetic biology, so I'm really curious to hear more!
+As DiamondAge said, at the nanoscale, materials act differently than at the macroscopic scale, and we can exploit this for various purposes; the thing is, there are so many applications it would be quite a task to name them all!
+
+I work personally with the synthesis of nanoparticles; usually from the 10 nm to &lt;300 nm range, and they're usually made of gold, silver, iron, and platinum. I use them as part of a "theranostic" platform, the word being a combination of the term 'therapeutic' and 'diagnostic.' One application that I've used nanoparticles for is for single-molecule detection of biological compounds of interest. I can encapsulate, say, a gold nanoparticle with a shell that contains markers that will search for a specific molecule of interest, and depending on my detection method, e.g. fluorescence, spectroscopy, I can detect a given compound on a potentially picomolar scale. That's a tiny amount of analyte! From there, if my nanoparticle is laden with a therapeutic compound, I would then have  a particle that can specifically bind to a region of interest, and simultaneously deliver a drug or other compound that will treat the given issue. 
+
+I know other colleagues who work with the killing of cancer cells via the injection of specifically-tagged nanoparticles that will seek out only the cancerous cells (which is much easier said than done), and then use photothermal ablation (e.g. an infrared laser) to heat up the nanoparticle-laden cells and kill them, while leaving non-cancerous cells intact. I know another colleague who works with the same technology DiamondAge mentioned - molecular beam epitaxy, to create photosensitive chips for use in microfluidic devices, to detect fluorescing compounds as they circulate through the device.
+
+As to what the future will hold, I only have concrete projections for my particular field, but in general, as we refine our abilities to synthesize, manufacture, and otherwise shape the formation of nanoscale structures, we will better be able to improve our existing technologies, such as the improvement of personalized health-care platforms, electronics manufacturing (e.g. smaller, faster, more efficient devices), and textiles (e.g. coating of textile fibers with nanostructures for added functionality such as cleanliness, durability, and possibly electronics integration). There are many applications, and the field grows every day!
+Gullible_Skeptic nailed it above.  Nanotechnology refers to anything on the nano-scale, so anything that is under a micron in size.  
+
+There is something called the [international semiconductor roadmap](http://www.itrs.net/) which is this awesome publication that talks about current state of the art science as well as future hurdles to overcome.  
+
+We're basically trying to keep up with Moore's law, which states that the transistor count in a processor doubles every 2 years.  
+
+There are a lot of other metrics of course; cost, power efficiency, speed, etc.  The materials I work with could prove to be more energetically efficient, and have a much faster rate of transitioning than current tech.  My stuff will never be used for static memory, as it would require an active electric field to maintain, but I could see it applied to dynamic applications, if it proven to work and viable to mass produce.
+DNA origami for sure.  I've been to a few talks by Dr. Yurke and that is the term thrown around.  I am not a big bio person, and I think any attempt I make to explain it would not do the science justice.
+I completely forgot about drug delivery.  I can't wait til that puzzle is put together because that will be one of the most tremendously beneficial triumphs of nanotech.
+Where do you live?  If you live in the US, I guarantee you there are products all around with nanotech in them but it's not explicitly stated.  If you live outside the US, just look closer at labels.  Sunscreens, make up, clothing, paints, and water filters (to name a few) all have nano things in them (mainly nanoparticles, but can be nanorods, nanocones, or what have you).  Nanotech is also being explored for drug delivery and as a way to fight cancer or other diseases.  If you like your computers small and fast, thank nanotech for that.  Stuff may not be touted as being nanotechnology (thanks to a variety of reasons) but as long as it is (generally) under 1 micron and larger than 1 nanometer, it can be (sort of) considered nanotech.
+
+The reason for all that generally and sort ofs up there is because there is no good definition for what nanotechnology really is.  What size range should be considered nanotech?  How different should the properties be from "bulk" materials before it is considered nanotech?  What if something is larger than 1 micron but still has that awesome change in properties or reactivity that is usually seen in nano - what is that considered?
+
+There is a lot of research going into energy, including oil and solar, as well as the conduction of electricity with higher efficiency.  Basically, nanotech is already everywhere - you just don't realize it yet.  And yes, there is a lot of research that needs to be done in other fields.
+&gt;I know other colleagues who work with the killing of cancer cells via the injection of specifically-tagged nanoparticles that will seek out only the cancerous cells (which is much easier said than done), and then use photothermal ablation (e.g. an infrared laser) to heat up the nanoparticle-laden cells and kill them, while leaving non-cancerous cells intact.
+
+Coincidence of the day, I'm a graduate student in physics who works on this exact project. Pretty exciting stuff, though the "much easier said than done" is probably the understatement of the century. Some of what we do I can't talk about or my PI would kill me, but if you're interested I can point you to some publications or just talk about the techniques, materials, and problems we're encountering. 
+
+My research group also does a lot of work with solar cells and lighting, wherein they use various nanomaterials to achieve an efficiency that is beyond what is currently the state of the art. I know much less about this, of course, but it's still something that will most likely revolutionize how we generate electricity and lighting in the near-ish future.
+I work for a company that designs and makes systems incorporating nanotech.  Their lonestar system uses a very small chip with minute channels and a radioactive source to ionize a gas as it passes over it into positively and negatively charged ions that are then displayed on the screen.  So far we have supplied various military units as well as the food and drink industry.  We are just making our presence felt within the oil and water industry now.
+if it's not too personal, who is your PI?
+&gt;viable to mass produce.
+
+Ah yes... the CNT/Graphene dream...
+Yeah, mine's more of the "Hey, you have 20 pounds of Europium I can borrow?" sort of thing.
+I worked in a lab which was trying to make silicon based nano-particles for use in sunscreens which were just as effective at absorbing UV as their titanium based counterparts.
+
+Working with nano-particles is fun :D
+Dave Carroll at WFU
+elicit* not illicit.
+[deleted]
+[deleted]
+I can tell you for a fact, you would not enjoy the life you have now without nanotechnology. Nanoparticles especially are frequently used for a great deal of catalytic reactions which, are utilised in the production of products accounting for 90% of the GDP of the US. Nanoparticles are used to produce pharmaceuticals to make us healthy, to help fix nitrogen to produce fertilizer to grow food, to produce industrial chemicals, foodstuffs like margarine, to aide in the production of petrochemicals, etc. 
+
+The problem is that the media tends to grossly exaggerate what nanotechnology can do, how 'cool' it is, and how quickly we will get it. We are still a long way off replacing all our blood cells with tiny robots. We are not going to be able to make a lost-esque smoke-monster to send into foreign countries in place of a real army. These are mostly pipe dreams... for now.
+
+In saying that, there are a number of neat applications of nanotech which are currently operating in consumer technology. Check out the [wiki](http://en.wikipedia.org/wiki/List_of_nanotechnology_applications) for a brief guide. Those new good self-cleaning ovens? Bam, ceria nanoparticles to help store oxygen to aid pyrolysis. Want increased fuel efficiency? Bam, add metal nanoparticles. Want good gas masks? Bam, supported metal catalysts using nanoparticles. There are a lot of technologues currently utilising nanotech, but most of us just don't realise it.
+Whoops, thanks
+Oh wow, he looks awesome.  Quite the CV.  I was interested in the photovoltaics to see what system your group uses.  Seems like everything is organic, which is way over my head.
+"Nanotechnology" has several meanings.  The term was first popularized by Eric Drexler in the 1980's.  His vision of "nanotechnologoy" was published in a [book](http://en.wikipedia.org/wiki/Engines_of_Creation),  that is more science fiction than anything.  See the debate he had with [Smalley](http://en.wikipedia.org/wiki/Drexler%E2%80%93Smalley_debate_on_molecular_nanotechnology).
+
+The term "Nanotechnology" got another boost of publicity around 2000-2003.  This period culminated with President Bush signing the [Nanotechnology Act](http://en.wikipedia.org/wiki/National_Nanotechnology_Initiative) which provided funding for research in Nanotechnology.
+
+Once the money came available, lots of things became "nanotechnology", including synthetic chemistry, optical microfabrication at the micron level (kilo-nanotechnology, I call it), surface science, and a bunch of other research.
+
+So, you can say it's all around you (if you use the 2000 definition) or you can say that it was a failed vision (if you use Drexler's definition).
+He is referring to a book by Neal Stephenson, http://en.wikipedia.org/wiki/The_Diamond_Age
+
+EDIT: The book is about a society living with nano tech.
+Somehow, most "functionalized" DNA systems end up using origami *somehow*. Modern DNA algorithmic tile systems almost always use it as a seed, DNA walkers almost always use it as a track, and so on.
+Gold nano-particles can be attached to DNA to create nano-wires. There are some papers out on that (don't have any off hand).
+On the DNA side, I'd suggest looking over the abstracts for the [BIOMOD](http://biomod.net/abstracts) competition, which does a good job of illustrating where many state-of-the-art attempts at *applications* are. There's quite a bit of work recently on DNA walkers on origami, and also quite a bit on "capsules" made out of DNA origami. There's quite a bit of skepticism about whether the capsules would hold up in any useful environment, but the concept is to have capsules which contain some sort of active compound inside, and have programmable "latches" on the outside that only open under certain conditions. All of this has been demonstrated to some extent, but I'm not sure any papers have been published on it yet; maybe look at proceedings from the Molecular Programming Project's retreat last year, if that's publicly available?
+I was a research intern at a certain american government space agency this past semester, and I worked with nanomaterials, nanowires in particular.
+
+Nanotechnology is being used, right under your nose, all over the place. You just don't see it (sic). But it's expensive to develop and use, so the trick is knowing where to look.
+Just one example is increasing electrical conductivity, especially in green energy applications like solar cells. Nanowires, in fact, are the best at doing so. 
+[Here's a source I used in my paper.](http://www.lbl.gov/msd/assets/docs/highlights/06-04_Yang_nanowire_solar.pdf)
+There's stain resistant fabrics, such as these: http://www.schoeller-textiles.com/en/technologies/nanosphere.html
+Now where did I put that nano-particle.. I know I set it RIGHT HERE somewhere..
+&gt; For a LONG time nanotech has supposedly promised grand things that will change our life drastically.
+
+Citation needed. What have you been reading, and why did you believe it?
+I took an introductory course last year, and my project dealt specifically with computer memory in regards to nanotech. There is some interesting research in terms of resistive switching memory (google ReRAM). There was also something else about a material that essentially crystallizes and de-crystallizes I think.
+
+Sorry I don't have specifics or anything linked, but there is some interesting stuff being researched as viable replacements for flash (non-volatile memory).
+On a related note, I work for a company that makes support film grids, and the accounting manager thought they were dirt and almost brushed them off the work surface.
+How could he have been thinking of you if he had no idea you existed?
+This is a very good answer.
+I am not sure that materials containing nanosized particles equals nanotechnology. In particular, I would not call nanotechnology most of - say - metal catalysts used in the industry obtained with bulk chemical methods that do not involve real engineering at the nanoscale. Otherwise we should consider nanotechnology also the cranberry glass and Reinassance lustreware.
+Yeah, I remember reading about those papers.  There's some pretty cool stuff going on in the synthetic DNA world!
+That'd be nice! A current interest of mine is having my particles bind to a specific tissue-type, say, cardiac tissue - but identifying the proper markers, as well as the surface conjugation techniques necessary to bind it to the particle are troubling me. I have a number of avenues, but it'd be nice to have another mind to point me in an interesting direction.
+Nanomaterials are literally all around you. For example the technique used to create beautiful stain glass windows works by creating nanoparticles of metals. Within the realm of bionanotechnology a lot of the focus is on drug delivery. My teacher gave the example of ibuprofen where currently for every 100 mg you take only 3-4 mg actually ends up in your blood stream. The rest goes to the liver which might not make any problems with ibuprofen but if you're taking something more dangerous such as chemo drugs, doctors are going to want as high a percent as possible go to the problem area and as low a percent as possible sitting in other organs. Along these lines Nano gold particles (around 10 nanometers size) can be functionalized to hold drugs inside and only open when in certain conditions. The dream is you take a pill for say the cold whenever you want and if you don't have any disease these nanoparticles just float around in your blood harmlessly, but whenever it finds an infected cell it attaches to the surface and delivers the drugs directly. This is of course only one small aspect of even bionanotechnology.
+
+Summary:
+There's been a lot of work on DNA tools.
+It worked out pretty well I think.
+I was interested in the photovoltaics to see what system your group uses.
+[Here's a source I used in my paper.
+I work for a company that designs and makes systems incorporating nanotech.
+Bam, supported metal catalysts using nanoparticles.
+Now where did I put that nano-particle..
+One application that I've used nanoparticles for is for single-molecule detection of biological compounds of interest.
+In the nanoscale, materials act much differently than they do in bulk.
+How different should the properties be from "bulk" materials before it is considered nanotech?
+There's quite a bit of work recently on DNA walkers on origami, and also quite a bit on "capsules" made out of DNA origami.
+As I understand it, several labs around the world regularly make nanomachines that can do potentially useful things.
+Gold nano-particles can be attached to DNA to create nano-wires.
+There are a lot of technologues currently utilising nanotech, but most of us just don't realise it.
+If you live in the US, I guarantee you there are products all around with nanotech in them but it's not explicitly stated.
+There's some pretty cool stuff going on in the synthetic DNA world!
+What size range should be considered nanotech?
+I am not sure that materials containing nanosized particles equals nanotechnology.

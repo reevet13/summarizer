@@ -1,0 +1,15 @@
+Here is a summary of the text in approximately 10% or up to 250 words:
+
+You can unlock Samsung Snapdragon bootloaders, but not North American models because of carrier certification requirements.
+
+S6 had an unlockable bootloader for Canadian variants and T-Mobile/Sprint, while S7 didn't for Sprint/T-Mobile (or unlocked) and S8 and after aren't unlockable even for Canadian variants.
+
+It's not just about getting features or updates - the privacy benefits alone are massive with custom ROMs like LineageOS.
+
+LineageOS is a well-documented, community-driven ROM that brings extra features over AOSP and supports many devices.
+
+You won't lose functionality over specific features when you rom, but some features might be deactivated by SafetyNet if you have admin access (aka root access).
+
+Depends on the device, ROM, and whether or not you use those features - you may be able to get back some of them via other means like ported apks or third-party mods.
+
+You won't miss out on ads or data tracking with custom ROMs, and it's not like there would be roms anyway thanks to the chipset.

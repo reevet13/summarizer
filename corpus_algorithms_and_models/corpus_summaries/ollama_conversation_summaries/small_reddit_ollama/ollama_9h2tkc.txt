@@ -1,0 +1,19 @@
+Here is a summary of about 10% of the text (up to 250 words) in sentences copied verbatim from the original text:
+
+What mods are you using? I’d guess cubic chunks due to the height of the cave, and obviously a shader pack, by the animation for the torch you held is new to me, what mod is that?
+
+Torch would be SEUS Shader
+
+Yes ok.. but look when the player stands still the torch still “bobs” up and down.
+
+It’s because the player naturally moves his/hers arms in a small circle/up and down as if presently breathing. Did you not know that?
+
+World edit maybe?
+
+I see your point.
+
+Not necessarily. Yes, this certainly has shaders, but dynamic lights can easily be achieved with OptiFine without the intervention of any shaders.
+
+Depends on how you pull it off.
+
+If you like ambience the betweenlands (i discovered on this subreddit) is an amazing mod with lots of ambient noises and its so cool

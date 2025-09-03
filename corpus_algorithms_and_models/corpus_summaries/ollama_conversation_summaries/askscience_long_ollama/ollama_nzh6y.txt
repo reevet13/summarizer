@@ -1,0 +1,30 @@
+Here is the extracted summary:
+
+I imagine precise calculations of planet orbits use center of mass of solar system as the coordinate origin. Let's also do that here.
+
+What would be the major contribution of the movement? Perturbation from the moon? 
+
+I am satisfied with an order-of-magnitude answer. As a blind guess, anywhere between 10m to 1000km seems pretty reasonable to me.
+
+223.6 x 60s = 13,416km/minute
+13,416 X 60m = 804,960km/hr
+804,960 X 24hrs = 19,319,040km/day
+19,319,040 X 365days = 7,051,449,600km.
+
+To simplify, you are approximately 7 billion kilometres (4.381b miles) from where you were last year.
+
+You should use NASA's HORIZONS service to get the answer to this. You'll need to do some trivial trig.
+
+I don't think the distinction is necessary when he's asking for an order of magnitude answer.
+
+As a first approximation, we can throw away other objects in solar system except the sun, the earth and the moon? Then, is it okay, as an order-of-magnitude estimation, to assume Earth-Moon CM as one body having an elliptic orbiting around the sun?
+
+You may be standing on the same patch of earth as last year, but if we use the center of the sun (as the OP suggested) and a set of fixed stars (very distant bodies that appear not to move over time) as coordinates, you are actually father than 100,000 miles relative to your same position this time last year.
+
+Doesn't that just mean the sun itself, therefore the center of the solar system, is moving?
+
+My understanding is that the motion of galaxies is taken relative to the CMB.
+
+Huh, are you sure? I thought that the ecliptic circle is defined as a projection of Earth's orbit on the celestial sphere at a given epoch...
+
+You're right - it shifts much more than I expected!

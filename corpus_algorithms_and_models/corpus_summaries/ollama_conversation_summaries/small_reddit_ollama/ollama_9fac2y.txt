@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text, consisting of up to 250 words:
+
+You can snag the new Godox AD400 Pro with great color accuracy for $649.00. A tad heavier but the saving makes up for the added weight.
+As with all the established companies these days, it seems they price for their existing user base to add a product to their kit instead of competing against newcomers.
+The B10 does variable color temperature continuous lighting as well though (the AD400 only has a modelling light IIRC).
+It's rock solid. Curious about your problem though, that's strange. What camera? What trigger? How are you using the trigger &amp; light - as in, are they very close to each other?
+I got an A7RIII with the R2Pro (all up to date firmware) and a couple of AD200s. The distance is not very far - 6 - 18ft away.
+I assumed it was Sony. Do you have EFCS on? If so, disable it. It interferes with stable triggering, and affects other strobes in the same way.
+Oh interesting. I will try that out. Thanks!

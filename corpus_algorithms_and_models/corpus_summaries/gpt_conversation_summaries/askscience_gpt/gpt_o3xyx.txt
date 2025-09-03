@@ -1,0 +1,13 @@
+Yes. Conduction through the satellite itself to the cold side where it then radiates away.
+
+Without a tethered solution (which by the gives me an awesome reason to talk about space elevators and their potential for energy exchange, but I'll resist the temptation), yes, radiation is how you cool things in space.
+
+Yes, recall that there are three methods of heat transfer: conduction, convection and radiation. The first two require matter to be present in addition to the thing transferring the heat. Hence, in a vacuum, only radiation is possible.
+
+What was really impressive in the documentary was how perfectly everything was engineered and how thoroughly it was tested. Testing just one small system took months. After all, once it's launched, you can't make repairs!
+
+Heating and cooling satellites is actually a fairly complicated problem. However, overheating is rarely one of them. While waste heat generated inside the satellite has to be dissipated via radiation, solar heating is actually prevented by having reflective thermal shielding on the sides. Solar panels are built to take the heat, so they do not have any kind of shielding.
+
+The heat that does get into the main body is distributed through ammonia filled heat pipes to keep the panels holding the electronics warm. Satellites are designed to operate around 0C, but they can operate at a wide range of temperatures.
+
+Yes but then you would constantly need to resupply the substance that was evaporating away in order for the system to continue operating.

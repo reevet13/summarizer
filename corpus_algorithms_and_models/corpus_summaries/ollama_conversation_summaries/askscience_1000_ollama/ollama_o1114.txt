@@ -1,0 +1,24 @@
+Here is the summary of about 10% of the text:
+
+You can't have still air with a flame, as the flame will heat the air and the air will start circulating.
+And air circulation due to heating requires gravity to work. In microgravity experiments, the lack of air circulation causes flames to burn out, as no new oxygen is brought to the combustion source.
+
+The microgravity flame, prior to it burning out, does not flicker, and is [spherical](http://www.scientificamerican.com/article.cfm?id=how-does-a-flame-behave-i).
+
+I understand that gravity would effect the circulation by pulling the high density colder air below the low density warm air, but doesn't a fire also consume oxygen? Therefore, air would have to be moving towards it to keep it alight...
+
+What if the temperature of the air is equal to that of the flame?
+
+"Low Velocity" flames will still flicker, even in a windless environment. The reason being is the combustion reaction yields inherent instabilities causing turbulent flow of the outbound products.
+
+Many times the flicker is due to uneven fuel flow through the wick.
+
+The answer is because of the oxygen in the air. It's not 100% consistent throughout so the flame is drawn to where the oxygen is most abundant- causing it to flicker around.
+
+This comes from my own candle-making experiments... In my experiments I was able to reduce this effect by putting a thin layer of metal with a hole in it over the candle's container...
+
+Smoldering doesn't normally happen in the total absence of flame. Normally there will still be very dim flame.
+
+Is there not any flicker from different amounts of surface area being exposed as fuel as an object burns?
+
+The short answer is yes, because of naturally occuring combustion instabilities and hydrodynamic instabilities.

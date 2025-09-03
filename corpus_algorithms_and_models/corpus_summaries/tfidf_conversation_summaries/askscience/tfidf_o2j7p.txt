@@ -1,0 +1,15 @@
+Original Response:
+I always assumed that the blow hole was evolutionarily similar to other mammal nasal airways? But do they have olfactory nerves?
+Apparently not:
+
+1. [In dolphins, the sense of smell seems to have been lost.](http://www.sciencedirect.com/science/article/pii/S0361923007003425)
+2. [[A]quatic mammals such as dolphin, [have] a reduced olfactory apparatus [and only] olfactory receptor pseudogenes](http://www.pnas.org/content/97/6/2870.full) (i.e. their smell-sensors are vestigial structures and don't work)
+
+I assume that it is the same for whales.
+Thanks, my 4 year old had me stumped on this one.
+Bonus: Smelling doesn't work well underwater because diffusion coefficients are typically 10,000 times less than in air. [Source](http://www.cco.caltech.edu/~brokawc/Bi145/Diffusion.html).
+Don't sharks use smell to great effect?
+[Yes.](http://scholarspace.manoa.hawaii.edu/handle/10125/4935). They seem to have evolved so that each nostril perceives scent slightly differently than the other so they can detect small differences in gradients, and thus ascertain the direction the smell is coming from. They can also pick up on particulates in [very low concentrations](http://elasmo-research.org/education/white_shark/smell.htm).
+
+Summary:
+[In dolphins, the sense of smell seems to have been lost.

@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text, selecting only sentences exactly as written:
+
+If the Human body maintains a temperature of around 98 degrees, then why doesn't water held in ones mouth rise to that temperature?
+
+Water has a high heat capacity, so it would take a while, just be patient.
+
+The human body produces heat through our metabolism. The metabolism is the process of our body converting energy stored in food, to energy usable by the body's cells.
+
+You can think of a the body's metabolism as kind of a black box, for the purpose of your question, just as a mechanism that produces heat at a slow rate.
+
+The laws of thermodynamics tell us that heat will always travel from stuff that has a high temperature to stuff that has a low temperature.

@@ -1,0 +1,20 @@
+Original Response: 
+[removed]
+But the difference is the same whether you use K or C.  The difference is the same so the rate is the same (but in opposite direction)
+[removed]
+[removed]
+The difference is still +/-1 though?
+Newton's law doesn't use percentages unless I'm mistaken...
+[removed]
+You threw me off with Newton's law.
+I was assuming a constant rate constant between the two cases.
+[deleted]
+You forgot that the proportionality constant in Newton’s law of cooling is also dependent on temperature and that dependency is non linear.
+The proportionality constant depends on the geometry and airflow around the material.
+Also a hot object will emit radiation which varies with temperature to the 4th power and conduction which varies non linearly with temperature in most materials as well.
+[removed]
+[removed]
+
+Summary: 
+You threw me off with Newton's law.
+The difference is still +/-1 though?

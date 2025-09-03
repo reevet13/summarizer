@@ -1,0 +1,97 @@
+Original Response:
+I don't know how i'm going to explain this but i'll try, seen as though everyone i've ever mentioned it to has no idea what i'm talking about.
+
+I'm not going to use exact temperatures because that would confuse me further while writing this. Lets say you have 100ml of 'hot' water and add 10ml of 'cold water, the resulting water is 110ml of X heat.  You also have 100ml of 'cold' water and add 10ml of 'hot' water, the result of this is 110ml of Y heat.
+
+Would X and Y either; be the same temperature?  the same difference in temperature from their 'original 100ml'?  
+
+Another example would be:  if you had a cup of 100c water and added 10c water until it was at 50c, the amount of cold water added would be X.  Then you did the same experiment 'backwards' and the amount of 100c water would be Y.  Would X and Y be the same?
+For your first scenario - adding 100mL of hot water and 10mL of cold water will give a different temperature than adding 100mL of cold water and 10mL of hot water (edit - defining 'hot' and 'cold' as fixed temperatures greater than 273K and below 373K, with hot being a higher temperature than cold so some pedantic physicist doesn't call me out). I think that's what you're getting at, but I'm not sure.
+
+For your second scenario - If you add X amount of hot water to Y amount of cold water to reach temperature T, then you must add Y amount of cold water to X amount of hot water to reach the same temperature. It doesn't matter what order you go in. Using specific heat, and knowing the initial temperatures, you can easily calculate the resulting temperature from two quantities of water.
+I don't think i've explained very well, by using your explanation
+&gt;If you add X amount of hot water to Y amount of cold water to reach temperature T, then you must add Y amount of cold water to X amount of hot water to reach the same temperature. It doesn't matter what order you go in.
+
+what i meant was: add X amount of hot water to Y amount of cold water to reach temperature T, then i would swap the amounts around, so then i would add X amount of cold water to Y amount of hot water- would that also result in T?
+You get a weighted average of the temperatures.
+
+Think of it like this, if you added the same volume of "hot" and "cold" water (i.e. 50mL of each), you would end up with 100 mL of water that would have the average temperature of the two. (i.e. if it was 2 degree water, and 60 degree water, you would end up with 31 degree water).
+
+If you added 10 mL of cold and 90 mL of hot, then the temperature would be weighted towards the hot water (or weighted away from the cold).
+
+The maths goes like this
+V1 = Volume of the first water
+T1 = Temperature of first water
+V2 = Volume of the second water
+T2 = Temperature of the second water
+Tf = Final Temperature
+
+Tf = (V1*T1+V2*T2)/(V1+V2)
+
+
+Think of it like you're mixing two different paints. The volume and the intensity of the paint colors decides what the final color is. You can either make one of the dyes stronger, or just add more of it.
+no. Of course not. Think about it. 99 mL of boiling water, plus 1 mL of freezing water will be very close to boiling water.
+
+99mL of freezing water + 1 mL of boiling water. What temperature is it going to be? Boiling or freezing?
+sorry i've totally messed up that reply, i meant would it be the same difference from the original temperature?
+
+EDIT: the 'original temperature' being the one with the higher volume in each case.
+The formula is T = (m1⋅T1 + m2⋅T2) ÷ (m1 + m2)
+
+    1: 
+      X° = (0.1kg ⋅ Hot° + 0.01kg ⋅ Cold°) ÷ 0.11kg
+      Y° = (0.01g ⋅ Hot° + 0.1g ⋅ Cold°) ÷ 0.11kg
+
+If Hot is 100° and Cold is 10°, X = 91.(81)° and Y = 18.(18)°, so "same difference from original".
+
+    2:
+      50° = (Cup ⋅ 100° + X ⋅ 10°) ÷ (Cup + X)
+      50° = (Cup ⋅ 10° + Y ⋅ 100°) ÷ (Cup + Y)
+    
+      50 Cup + 50 X = 100 Cup + 10 X; 40 X = 50 Cup; X = 5/4 Cup
+      50 Cup + 50 Y = 10 Cup + 100 Y;  40 Cup = 50 Y; Y = 4/5 Cup
+This is correct, but I need to caution you against the use of the freezing and boiling terminology. In addition to the specific heat of water, there's also energy transfers involved in phase changes. Combining 60c liquid water and 110c steam is a different beast from combining 70c liquid water and 100c liquid water. I'm sure you know this, but I felt it neccessary to point out.
+I'm starting to regret posting this, i'm way out of my league, i don't understand that at all.  Thanks though.
+Oh don't be so picky... I said boiling and freezing... These are words can be used to mean very hot and very cold... 
+
+And if you want to start playing that game I could start telling you off for not putting a space between the magnitude and the unit, not capitalising the C and not putting in the degrees sign. But that would be silly, wouldn't it? Because I knew exactly what you meant, as did you when you read what I said, just like the OP. But then again, I'm sure you know this ;)
+Well, here's how temperature works:
+
+Suppose you have some object O, and you want to inject some energy into it to raise its temperature. The relationship between the energy you inject **E** and the temperature change **dT** would be (mostly) linear.
+This defines the **heat capacity** (maybe that's not the correct english term ?) **C**. E = dT * C
+This heat capacity is a caracteristic of the object.
+
+What happens when we put object A at temperature Ta and object B at temperature Tb together. These have actually some level of energy
+Ea = Ta * Ca and Eb = Tb * Cb
+These will be at equilibrium when they actually have the same temperature, which is given by:
+Tequilibrium = (Ca * Ta + Cb * Tb) / (Ca + Cb)
+
+In layman terms, Tequilibirum is the mean of the respective temperatures, pondered by the capacities. This is what you were hinting with your idea of strength: the object with the biggest capacity sets the final temperature more.
+
+Now, coming back at your question, the heat capacity of liquid water is almost constant. So their "heat strenght" is almost the same. I don't remember if it's stronger or weaker at hot temperatures.
+
+I hope this clarifies temperature for you.
+He just posted a formula that shows how temperature is a weighted average.
+
+If you add 100mL of 90c water and 10mL of 10c water, your final temperatire is (0.1 * 90 + 0.01 * 10) / (0.1 + 0.01), which is 82.7c. 
+
+If you flip the quantities, your final temperature is (0.01 * 90 + 0.1 * 10) / (0.01 + 0.10), which is 17.3c.
+
+So, yes, the differences in temperature are the same. Adding the small quantity of cold water to the hot water decreased the temperature by 7.3 degrees. Adding the same quantity of hot water to the cold water increased the temperature by 7.3 degrees.
+I knew exactly what you meant. I said that  in my original post. I'm pointing it out for OP, so he knows that the formulae posted are only relevant when no phase change is involved. A simple weighted average is fine for dealing with only liquid water, but if he wants to get into phase changes he needs to use specific heat and heat of evaporation to calculate the temperatures.
+Thankyou! An explanation i can understand, that isn't a hack at anyone else's explanation, it's my lack of science experience.  So thanks to everyone basically :)
+Little side note, I'd rather use "mass" instead of volume since the density of a substance is a function of its temperature. Or even better, use "number of atoms / molecules".
+
+But disregarding that (and it usually is a small effect), nothing to add.
+It's kind of been said before, but it's rather interesting to keep in mind that this whole "weighted average" thing only works out because (as long as no phase change is involved), **temperature is proportional to energy**.
+Yes, mass is correct. But I figured since our OP started with volume, and the whole 1 mL = 1 g at STP.... but yes. You are correct.
+
+Summary:
+Would X and Y be the same?
+Would X and Y either; be the same temperature?
+the same difference in temperature from their 'original 100ml'?
+Think of it like this, if you added the same volume of "hot" and "cold" water (i.e.
+So, yes, the differences in temperature are the same.
+What temperature is it going to be?
+I said boiling and freezing...
+You get a weighted average of the temperatures.

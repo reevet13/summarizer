@@ -1,0 +1,19 @@
+Here are the selected sentences, separated by newlines:
+
+No, light always moves at *c*.
+
+However, a sufficiently massive star (or better yet, galaxy) distorts the geometry of space-time enough that lights path is changed (light always travels at *c* but also always follows the geometry of space-time).
+
+This can be seen in gravitational lensing.
+
+Light moves at the same speed (c) no matter how much energy it has.  But, as a photon escapes a star, it loses energy.  This is known as [gravitational redshift](http://en.wikipedia.org/wiki/Gravitational_redshift).
+
+The light is always moving at c in a locally inertial reference frame, but that isn't what was asked.
+
+Yes, actually (really actually it depends on exactly what you mean by "move away slower"; my interpretation is that you are asking about the amount of time an observer thinks it takes the light from the star to reach them).
+
+No, *photons* always travel at c regardless of their environment, but the aggregate phenomenon we call "light" propagates at different speeds in different media.
+
+Light always moves at *c* in a vacuum - that is true.
+
+However, light also moves at *c* in other mediums as well - what makes light *slow down* (as it were) is as it moves through other mediums the photons are actually absorbed and then re-emitted - the delay between absorption and release is what *slows it down*.

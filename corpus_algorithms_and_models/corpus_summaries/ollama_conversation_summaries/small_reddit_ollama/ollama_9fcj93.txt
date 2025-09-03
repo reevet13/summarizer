@@ -1,0 +1,14 @@
+Here is the extracted summary:
+
+I got a new ssd and cloned the previous ssd to it which had the OS on it. Then, i deleted everything on the old ssd. Now, my pc cant boot.
+Make sure the primary boot device is the SSD. You probably should not have deleted everything off the old SSD until you knew for a fact that the new one will work. Sounds like your cloning wasn't successful.
+Do you get blinking white horizontal bar on the top left corner after the boot screen?
+Yes it does and it goes to this.
+
+http://imgur.com/gallery/XXlgoim
+
+Also, i know how to get to the bios.
+Okay, the cloning did not goes successfully then. If it goes to that, that means some of the files transferred over but not enough to fully boot windows. You probably have a bunch of corrupted files.
+That's not a justified reason to delete anything off the old SSD, nor does deleting the files mean that the clone was successful.
+
+(Note: I stopped at 250 words as requested)

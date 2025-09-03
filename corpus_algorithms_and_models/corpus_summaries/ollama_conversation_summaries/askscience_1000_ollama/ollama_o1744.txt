@@ -1,0 +1,9 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+i drew a [shitty diagram](http://imgur.com/8YlPi)
+
+Also I forgot to mention that the valves would be opened and locked with energy from the turbine.
+
+You have two pipes of water - one on the left side coming from the lake, and one on the right side.  In order for the device to work, the pressure from the left tube raises the weight, and this weight then is able to exert a force on the water in the right pipe.
+
+The problem is that the pressure is the same at valve 1 as it is at valve 2.

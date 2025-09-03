@@ -1,0 +1,284 @@
+Original Response:
+As far as I'm aware, we still don't *quite* know.
+
+Compared to humans, we've known for some time that insects are generally more resistant to ionizing radiation, and multiple hypotheses have been proposed to explain this radioresistance.
+
+For a long time it was thought that because actively dividing cells are those most sensitive to radiation, insects would succumb less as, unlike humans with our leagues of constantly dividing cells, insects undergo discontinuous periods of growth (only with every moult). But this whole organism approach to radioresistance was tricky to interpret, as the physiology between us and, say, invertebrates is very different.
+
+At a cellular level however, experiments on cells controlling for proliferative rate have revealed that insect cells are *de facto* more radioresistant than human cells, leading us to believe division rate actually might only have a little to do with it. When you blast human and insect cells with ionising radiation, the DNA within the insect cells itself undergoes much less damage, and what damage is present is more effectively repaired. Likewise, those same insect cells experience lower oxidative stress as a consequence of radiation exposure (radiation triggers the production of rather harmful reactive oxygen species that, amongst other things, trigger cells to commit [apoptotic](https://en.wikipedia.org/wiki/Apoptosis) suicide). 
+
+So yup, it appears the suite of repair enzymes insects utilise are simply better at dealing with DNA damage, explaining why insects have greater radioresistance. As for the evolutionary reason why they're more efficient, we're still not quite sure.
+
+___
+
+^**Sources:**
+
+[^(Cheng, I.C, Lee, H.J. &amp; Wang, T.C. (2009)^) ^(Multiple factors conferring high radioresistance in insect Sf9 cells. *Mutagenesis* 24 (3)^), ^259-369](https://academic.oup.com/mutage/article/24/3/259/1074431)
+
+
+[^(Bianchi, N.O., Lopez-Larraza, D.M. &amp; Dellarco, V.L. (1991)^) ^(DNA damage and repair induced by bleomycin in mammalian and insect cells. *Environ Mol Mutagen*. 17, 63-68)](https://onlinelibrary.wiley.com/doi/abs/10.1002/em.2850170110) ^((research gate) [^here](https://www.researchgate.net/publication/227933716_DNA_damage_and_repair_induced_by_bleomycin_in_mammalian_and_insect_cells)^)
+[removed]
+Could this have to do with their exoskeletal carapaces? Does ionizing radiation penetrate these as easily as skin for example?
+Thanks for this very comprehensive answer
+[removed]
+[removed]
+Funny that you mention oxidative stress - I wonder how much oxygen is typically present in insect cells compared to vertebrates (which typically have more efficient oxygen-grabbing organs than insects)?
+Is it actually more efficient? Or is it just that their method of “breathing” simply doesn’t work on larger length scales and is incomparable in that way
+[removed]
+This is really interesting to me since I work with ionizing radiation on nearly a daily basis, thank you.
+[removed]
+Is that only because of repair enzymes or are the DNA strands in insects also constructed differently from jump street?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Could it be that because humans have more tissue shielding the reproductive cells from radiation, there's been less pressure to evolve biochemical mechanisms for radiation resistance in humans?
+Could this regenerative property of insect DNA somehow be extracted to help repair our own DNA? This could lead to very interesting drugs and treatments.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Insect DNA is much simpler than humans, plus simpler body, and organs means they can take more damage without dying.
+
+Look at experiments were a beheaded cockroach  survived for days, and was even able to copulate, and reproduce.
+
+You have to kill a majority if cells in most insects before they die, whereas in a human death of a small amount of cells causes a deadly malfunction. 
+The most sensitive parts of the human body are highly specialized internal organs, insects simply do not have. (Liver, spleen, bone marrow,....)
+[removed]
+[removed]
+Hmm, it's tempting to think the presence of a chitinous exoskeleton might have some influence too. Alas, I've failed to find any evidence to support the claim. If anything, according to [this](https://www-pub.iaea.org/MTCD/Publications/PDF/P1731_web.pdf) sourced from [here](https://inis.iaea.org/search/searchsinglerecord.aspx?recordsFor=SingleRecord&amp;RN=26023735), marine invertebrate chitin shells readily degrade under exposure to ionising radiation; though a contradictory claim by [this material science paper](https://link.springer.com/content/pdf/10.1007%2FBF02515335.pdf) seems to suggest the material itself is quite resistant (in either case, structural resistance doesn't mean it blocks its passage, or anything). I'm a bit out of my depth on this, so haven't really a clue, sorry!
+[removed]
+Is it possible that lessened radioactive resistance is an evolutionary advantage in that while 99.9999% of the time the resultant change is deadly/detrimental, the remaining 0.0001% of positive mutations make up for it?  Just throwing a random hypothesis out there and interested in the opinion of someone obviously more knowledgeable..
+[removed]
+No, there is no positive benefit from lessened radiation resistance.  There is so much mutation from division errors that the additional effect of background radiation on mutation rate is negligible.
+[removed]
+This makes sense alright,  thanks
+[removed]
+[removed]
+[removed]
+I remember a genetics tutor I had talking about this. Someone had asked him some speculative question about organisms in higher radiation environments and whether they'd evolve faster and his answer was along the lines of ".... probably not, organisms seem to be able to dial up or down their DNA repair mechanisms to an almost arbitrary extent, there seems to be some happy-medium mutation rate that organisms tend towards"
+
+Even humans living in areas with very high natural background radiation appear to respond differently to radiation exposure:
+
+https://www.ncbi.nlm.nih.gov/pubmed/11769138
+
+&gt;People in some areas of Ramsar, a city in northern Iran, receive an annual radiation absorbed dose from background radiation that is up to 260 mSv y(-1), substantially higher than the 20 mSv y(-1) that is permitted for radiation workers. Inhabitants of Ramsar have lived for many generations in these high background areas. Cytogenetic studies show no significant differences between people in the high background compared to people in normal background areas. An in vitro challenge dose of 1.5 Gy of gamma rays was administered to the lymphocytes, which showed significantly reduced frequency for chromosome aberrations of people living in high background compared to those in normal background areas in and near Ramsar. **Specifically, inhabitants of high background radiation areas had about 56% the average number of induced chromosomal abnormalities of normal background radiation area inhabitants following this exposure.**
+
+There are organisms that were found living inside a running nuclear reactor, extremely radioresistant and capable of using some kind of melanin-like compound to harvest energy from the radiation. 
+
+https://en.wikipedia.org/wiki/Cryptococcus_neoformans
+
+
+https://en.wikipedia.org/wiki/Thermococcus_gammatolerans
+
+&gt;While a dose of 5 Gy is sufficient to kill a human, and a dose of 60 Gy is able to kill all cells in a colony of E. coli, Thermococcus gammatolerans can withstand doses of up to 30,000 Gy, and an instantaneous dose of up to 5,000 Gy with no loss of viability. 
+
+(on a related note there's at least one [hyperthermophile](https://en.wikipedia.org/wiki/Hyperthermophile) bacteria that can not only survive autoclave themperatures but can reproduce while the autoclave is still running. )
+
+&gt;able to double its population during 24 hours in an autoclave at 121 °C 
+
+Living things are awesome.
+Oxidative stress usually refers to [Reactive Oxygen Species (ROS)](https://en.wikipedia.org/wiki/Reactive_oxygen_species).  Generally, peroxides, superoxides and oxygen radicals, rather than O2.   
+
+Having more O2 in tissues may indeed have an effect on ROS generation in irradiated tissues, as you suggest.  However, there are also many biochemical mechanisms for neutralizing ROS.  These mechanisms can be quite different among different species.  Plants are both the most susceptible (due to photosystems harvesting light radiation, as food) and the most resilient (protective biochemical adaptation).  Insects, plants and mammals would have some common and some unique ROS detox biochemical pathways.  
+
+Another difference may be diet.  Plants produce antioxidant molecules (eg Vitamins C and E).  Differences in animal resistance to radiation may relate to food sources and quantities.
+
+&amp;#x200B;
+Thank you for that informative answer!
+[removed]
+[removed]
+[removed]
+Some of my research is in radiation dosimetry. Here is some reasoning behind effects which arise solely from the size of the organism.
+
+1. A mean free path (mfp) is the average distance that a particle travels through some medium before interacting with an atom or molecule in that medium. If radiation passes through an organism or any medium without interacting, there is exactly no effect on that organism or medium.
+
+2. Ionizing radiation is simply a particle with enough energy to ionize an atom or molecule. (It also must either be charged or create charged particle upon interacting, but I'm only saying this to be thorough.)
+
+3. Higher energy generally means a longer mfp. 
+
+4. If you compare two organisms of different sizes, the smaller one is simply a smaller medium which has shorter paths for radiation to traverse.
+
+5. Most of the ionizing radiation we care about has a mfp on the order of centimeters. The probability of some ionizing radiation interacting in the smaller organism is just lower. 
+
+Of course, this doesn't consider different biologies of organisms. That also can be a factor. To compare an organism's susceptibility to radiation damage, you have to look at its size, the type of radiation it's exposed to, it's biology, and it's stage in it's life cycle.
+[removed]
+[removed]
+Interesting. I wonder if this is because insects evolved in a time period where there was more radiation
+Wouldn't there be a higher selection pressure for physically smaller organisms to withstand and repair ionizing radiation damage? Fewer cells available, damage is thusly more significant and less confined?
+[removed]
+Could it have something to do with insect genetics possibly being less complex, and therefor easier to error-correct?
+Somehow, I believe that given proper research materials, you’re not really out of your depth on a lot, to include chitinous exoskeletons resisting radiation. Thank you for citing everything, it makes me so happy!
+I'm just asking as I don't know. Is there any chance that absorbing less damaging photons and less scatter within their bodies is a factor?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Both papers appear to be in vitro tests, so the presence of a carapace wouldn't matter. But a thicker outer shell would reduce exposure to radiation for internal cells, though given how small insects are, it probably wouldn't be by a lot.
+[removed]
+This is hands-down the best answer I’ve ever seen on this sub. Very informative. Thanks for taking the time to type it up!
+[deleted]
+Is there a difference in GC/AT ratio between insects and mammals?
+Do you know if resistance to ionising radiation is independent of longevity?
+[removed]
+[removed]
+&gt; As for the evolutionary reason why they're more efficient, we're still not quite sure.
+
+Could it simply be quantity of cells and trying to balance risk of cancer vs risk of radiation?
+
+&gt; those same insect cells experience lower oxidative stress as a consequence of radiation exposure
+
+When insects arrived in the Carboniferous period in which Oxygen levels rose [75% higher than today](http://forces.si.edu/atmosphere/02_02_06.html). Could they have evolved to better repair from the damages of oxidation and never lost the ability?
+Could degradation under exposure be beneficial?  Like ablative armor, it's absorbing the radiation so the living cells underneath don't.  Or does the chitin itself then become radioactive and then pass it inwards anyway?
+
+Edit: Even if the chitin became radioactive, wouldn't half of the subsequent radiation be emitted outwards?  Seems like that would cut the radiation that reaches the inside.
+Fascinating. Mutation's not a bug, but a feature. 
+
+Since it's so central to the evolution of our species, it makes sense that we'd have mechanisms to set it to optimal levels.
+[removed]
+It's very interesting how there is a clear relationship between body mass and radiosensitivity among multicellular animals. To the best of my knowledge, no one has a proven explanation for why this is. But as a radiation oncologist, my scientific wild-ass guess is that larger animals trade radiosensitivity for cancer resistance.
+
+Larger animals are paradoxically less prone to cancer than smaller animals. It's such a bizarre yet consistent phenomenon that it has a name, [Peto's Paradox](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3060950/).
+
+An insect is a small-bodied and short-lived animal, which means that it is relatively insensitive to cancer risk. An insect's cells can express very high levels of DNA repair machinery. Even if those DNA repair mechanisms were highly error-prone, the insect is very unlikely to die of cancer before it naturally dies of old age. On the other hand, an insect with low levels of DNA repair would be much less likely to survive a caustic chemical or radiological (inculding sunlight) environment. So evolution favors the higher level of DNA repair.
+
+A human is a large-bodied and long-lived animal, which means that we have to be relatively resistant to cancer or else we would never live as long as we do. A human cell with severe DNA damage is better off dying through apoptosis or immunological cell killing, so that it does not create a risk for malignancy.
+
+If a human expressed extremely high levels of error-prone DNA repair, he/she would become more cancer-prone and his/her fitness would decrease. On the other hand, humans with low levels of DNA repair would minimize their cancer risk, in exchange for being less capable of tolerating chemical or radiological/solar injury. So evolution has given humans a low (but functional) level of DNA repair.
+
+
+One of the things we know about DNA double-strand-break repair is that it can always make mistakes. Despite the classical textbook description of "error-prone NHEJ repair" and "high-fidelity HR repair", [both pathways have nonzero error rate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4052342/) and can cause permanent genomic alteration.
+
+In addition, any cell with a radiation-induced lethal double-strand break (DSB) would likely have a much larger number of non-DSB DNA lesions. [Clustered base damage](https://www.sciencedirect.com/science/article/pii/S0936655513002471) is an active subject of research in radiation therapy and space medicine.
+
+Again, repairing a clustered-damage site could result in permanent genetic alteration, which could lead to cancer. A long-lived mammal may not want their cells to repair clustered damage as efficiently as possible. Our cells may prefer to sacrifice themselves in order to promote the lifespan of the individual.
+
+-none of this is backed up by hard evidence, it's a hypothesis, but it makes sense to me-
+Do insects get cancer/repair damaged dna  faster than humans as well?
+[removed]
+Considering that the most common form of DNA-damaging radiation on Earth is ultraviolet light, and UV has very little penetration into biological tissue, it's quite plausible that a thin carapace would greatly mitigate DNA damage from the Sun.
+
+That said, most of the strongly-ionizing radiation comes from cosmic sources or inhaled/ingested sources. Cosmic rays are very deeply penetrating and no realistic amount of biological tissue is going to block them. Inhaled and ingested sources deliver a dose from within, so skin/carapace thickness is irrelevant.
+We even have special enzymes to drastically increase mutations. AID is used in lymphocytes to mutate antibody DNA, which is how you become immune to a disease you've been exposed to.
+[removed]
+[removed]
+Could the radioresistance of insect cells have evolved in response to an atmosphere that absorbed less radiation? That is to say, the common ancestors of insects that are not the common ancestors of larger, more radiosensitive, creatures developed the trait due to different environments... My immediate thought is water. That insects started crawling on land when the sun was more of a deadly laser than when the fishies started flailing about on the hard-bit-that-leave-home.
+&gt; Look at experiments were a beheaded cockroach survived for days, and was even able to copulate, and reproduce.
+
+This is because in insects the brain in the head does not control all of the nervous system, but only a handful of functions. They have various ganglia throughout their bodies that control most of their functions, including movement, sexual function, etc. I don't really think this has any affect on resistance to ionizing radiation.
+In addition to the path length, it's also something to consider that an organism with more cells exposed to radiation simply has more chances of harmful radiation damage.
+
+From radiation that gives an incidence of 1 mutation event per 1000 cells; an organism with 1031 cells (c. elegans) should get around 1 mutation, and an organism with 37 trillion cells (an estimate of humans) should expect 37 billion mutations.  Obviously not all mutations are harmful or lethal, but by simple numbers, 37 billion chances at a deleterious mutation for the organism as a whole is a lot worse than one.  And that's without adding in path length or looking at repair biology.
+&gt; Gy
+
+I don't know this unit. Here's a question—why are there so many different units when dealing with radiation?
+Radiation can be measured in a lot of different ways, especially when measuring its effects on things. Radioactive materials both emit some level of radiation as well as decay at some rate, living organisms have a tolerance for both a momentary dose of radiation as well as accumulating radiation over time, and  there's different wavelengths to work with too.
+
+For different reasons, but to a similar effect, electricity has a ton of units too. Because of all the ways it can affect other things and be affected, and how different properties of it will be responsible for different effects, it's impractical to measure it by just one or two units.
+Okay, that makes sense. Thanks!
+[removed]
+That's extremely interesting. What sort of significant selective pressure involves radiation?
+Is a factor not also that there's simply less cells, so even with the same chance of cellular damage per cell, there's less total expected damage?
+You think it could be because they’re more evolved to be radioresistant given they were likely around before the protective ozone was fully developed?  So the insects that were better at withstanding radiation were selected for.
+If I remember correctly radiation exposure in deep space is 500 to 1000 mSv / year.  It blows me away that we have people living, apparently unharmed at half to a forth of that.  We might someday be able to genetically engineer ourselves to be more resistant to radiation to become a true space-faring species.  That's amazing.
+do you think the "radiation resistance at smaller sizes" has anything to do with the deep sea gargantuanism phenomenon?
+Absorption is the fundamental principle of radiation shielding. If ionizing radiation is going to pass through you, there are two possibilities. It is absorbed somewhere along the way, or it carries on through. If it just goes through you are fine. So you only have to worry about it being absorbed. 
+
+If it is going to be absorbed then you need to make sure it doesn't interact with anything important. Since all that we can control is the probability of something being absorbed, not what it is absorbed by. As such we maximize the chance that it is absorbed by something we don't care about. Say a big block of lead.
+
+That is why radiation shielding is almost invariably a big dense block of metal since that is the cheapest and easiest way to achieve that effect. Though huge bodies of water or oil are sometimes also used.
+
+As for making the chitin radioactive. It might, but if it did it would be only very slightly radioactive.
+
+Chain reactions like that we see in nuclear weapons only happen because the output of one decay is enough to push other nuclei over the edge which only really happens with large nuclei like Uranium and up.
+
+Chitin is made of carbon, nitrogen, oxygen, and hydrogen. While all of these have radioactive forms, we see in Carbon, for example, the isotope carbon-14 is only very slightly radioactive. It decays so slowly that we can use it to work out when things died from millions of years ago. And even then, these small atoms simply don't have enough energy (unless you put your poor insect into a particle accelerator) to put out anything ionizing, it's no threat.
+
+That said, I honestly don't know how effective a radiation shield it would be. That depends on its density, and since chitin is a messy bio-polymer, and only really exists in thin layers, I can't really say.
+
+I'd guess that it has some effect, but the effect size would be so small that useful results would be very very difficult to get. Other factors would be more important. Has anyone looked at a correlation for genomic length and radiation resistence?
+[removed]
+ROS also includes singlet oxygen, but you would never write that simply as O2.
+I'd argue our method of breathing is less efficient because it is an active process. Of course, we are too big to have a choice, but still.
+Did this person just prove Spider-man is a lie?
+and Gy is Gray. Which is the absorbed energy of ionizing radiation (in Joule) per kilogram of body weight.
+[deleted]
+The basic difference is between physics and biology.
+And there are different standards, like between Centigrade and Fahrenheit for temperature.
+
+Physical units:
+
+The original unit was the roentgen, which measured ionization in air of x-rays = 2.58×10e−4 Coulombs/kg. It's now obsolete.
+
+1 rad is physical, defined as 100 ergs deposited per gram in CGS units. In animal tissue, it's about 1.04 Roentgens
+
+The SI (International System, more common in Europe)) preferred to measure the same thing as Joules/Kg, and called it the Gray, which is equivalent to 100 rads.
+
+But more relevant for biology:
+
+Different kinds and energies of radiation (eg alpha, beta, and gamma rays) can have very different effects, mainly related to density of ionization.
+
+So they defined the rem, (roentgen equivalent man) as the dose of any kind of radiation that will give about the same biological effect as 1 rad of x or gamma rays. Each kind of radiation has a conversion factor from rads to rem called the RBE (Relative Biological Effectiveness) 
+
+And the SI unit for that is called the Sievert, which = 100 rem.
+
+Other units are used just to describe how active  radioactive isotopes are:
+
+the curie (Ci) is 3.7×10e10 decays/second, but the SI system defined the  becquerel (Bq) as 1 decay/second , so they're usually talking about Giga Bequrels (GBq)
+
+Eventually they ran out of dead physicists to name things after, so they quit.
+[removed]
+[removed]
+People in Ramsar do suffer more radiation related health problems than people in low radiation areas... but humans are pretty durable.
+Thanks for that, I always found it silly how much education I managed to get through without understanding something so basic haha
+&gt;  Having more O2 in tissues may indeed have an effect on ROS generation in irradiated tissues, as you suggest.
+
+Exactly, which is one reason why (as far as I remember) oxygenation makes a huge difference to radioresistance in tumors.
+
+&gt; However, there are also many biochemical mechanisms for neutralizing ROS.
+
+Yeah, and thanks for the interesting overview. I still wonder which factor is most important (and if there is any difference between vertebrates and invertebrates in terms of typical cell oxygenation.
+You are looking at the trees, instead of the forest. 
+
+Every system on an insect has to die before it stops moving.
+It would be possible contingent upon ionizing radiation being a major factor in natural selection - if lots of insects are dying from radiation, preventing them from reproducing.  Only the resistant ones would survive and reproduce.    
+
+
+I personally think if they are more resistant, natural selection is selecting on something else, which just happens to confer resistance to ionizing radiation too - difference in cellular biology that happens to benefit them.
+
+Summary:
+I don't really think this has any affect on resistance to ionizing radiation.
+I wonder if this is because insects evolved in a time period where there was more radiation.
+That also can be a factor.
+Could the radioresistance of insect cells have evolved in response to an atmosphere that absorbed less radiation?
+So the insects that were better at withstanding radiation were selected for.
+The probability of some ionizing radiation interacting in the smaller organism is just lower.
+Wouldn't there be a higher selection pressure for physically smaller organisms to withstand and repair ionizing radiation damage?
+An insect's cells can express very high levels of DNA repair machinery.
+As for making the chitin radioactive.
+That said, I honestly don't know how effective a radiation shield it would be.
+&gt; Gy
+
+I don't know this unit.
+So evolution has given humans a low (but functional) level of DNA repair.
+Differences in animal resistance to radiation may relate to food sources and quantities.
+If ionizing radiation is going to pass through you, there are two possibilities.
+Like ablative armor, it's absorbing the radiation so the living cells underneath don't.
+It might, but if it did it would be only very slightly radioactive.
+Only the resistant ones would survive and reproduce.
+The basic difference is between physics and biology.
+So evolution favors the higher level of DNA repair.
+Is a factor not also that there's simply less cells, so even with the same chance of cellular damage per cell, there's less total expected damage?
+If radiation passes through an organism or any medium without interacting, there is exactly no effect on that organism or medium.
+I'm just asking as I don't know.
+(1991)^) ^(DNA damage and repair induced by bleomycin in mammalian and insect cells.
+Do insects get cancer/repair damaged dna  faster than humans as well?
+Of course, this doesn't consider different biologies of organisms.
+Other factors would be more important.
+Inhabitants of Ramsar have lived for many generations in these high background areas.

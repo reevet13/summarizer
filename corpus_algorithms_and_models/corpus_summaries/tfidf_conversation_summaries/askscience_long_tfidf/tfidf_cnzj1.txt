@@ -1,0 +1,71 @@
+Original Response:
+Dear reddit, It seems that every scientist and his dog accept the big bang theory as the predominating theory for the "creation" of matter and energy, but I have big problems trying to understand it.
+If I understand the principles of entropy correctly, then matter can not have existed for an infinite time, and the universe will eventually succumb to heat death. So with this I conclude that the mass in the big bang must have been created from nothing 13 some-odd billion years ago. When I try talking about this with some of my older science-oriented university friends, they tell me that "the universe has existed forever", and they argue that saying "there was no time before the big bang" is a tautology, as there is no way to gauge time without monitoring changes in matter. This doesn't satisfy me however, because while I can agree that with no matter, there is no meaningful definition of time, I CAN say that SOME form of time has passed between the two states of "nothingness" and "something".
+So my real question is: If matter did not exist one moment (the moment before the big bang existed), and it did the next, and if the law of conservation of mass and energy holds, then how could the matter in the big bang have been created?
+
+Some analogies I have thought of to explain why I think there IS a "before the big bang":
+I have a video camera staring out of a window on a spaceship. There is nothing in view, not a star, not a spec of dust, nothing. I then present you with this video and ask you if the video was on pause or play, you tell me you can't tell, which is fair, nothing has changed in the image. I now present you the same video except an object floats into view. You can now confidently assert that time HAS indeed passed. The dust is matter, and what the camera is viewing is empty space, nothingness. Why can't the "empty" view that the camera records be the "before" you talk about?
+
+Another shot at an analogy: No matter how far you go in to the future, there will always be matter of some form, you can say "There will never be an 'after'" but only because at no point will the matter disappear; 10 years, 10^100 years, doesn't matter (no pun intended), it will still be there. With the "before" case however, we CAN say that "before 13 billion years ago, nothing existed". 13 billion years is not an infinite period of time, yet my friends tell me that the universe has been around "forever". If you told me that the universe has been around forever, and DIDN'T tell me that it was around for 13 billion years (but rather it was around for an infinite amount of time), then I could understand what you mean by "no before", but you don't.
+Why is there no "before"? I don't understand. :(
+
+TLDR: What if anything created the matter present in the big bang, and does it contradict the current laws of physics (conservation).
+
+Help me understand, this has been eating at me for a while : (.
+Bud you just asked the biggest question that physics still has to figure out :P
+
+Set a goal. DISCOVER IT.
+[I tried to answer his question](http://www.reddit.com/r/answers/comments/cnvu3/what_created_the_big_bang/c0txqq5?context=3), feel free to correct me anyone.
+&gt;If matter did not exist one moment (the moment before the big bang existed), and it did the next, and if the law of conservation of mass and energy holds, then how could the matter in the big bang have been created?
+
+Depending on the geometry of the universe it's possible in GR to have a cosmological spacetime so that the gravitational energy in the universe (generally negative in sign) exactly cancels the mass energy in the universe.  Not familiar with things enough to say how general the requirements are, but it works in a flat FLRW universe.
+
+In this way then the matter is created by/though the expanding spacetime without any outside ingredient.  The difficulty with talking about before the bang is that within this framework all of our matter is just from our universe, and our spacetime was created in the big bang, so we simply have no access to whatever conditions there were before.  If everything in what we call our universe was created in or after the bang, what exactly do we look at to say what was there before?  Could be nothing, could be a parent universe that our spacetime nucleated off from, which our spacetime is totally separate from now.
+
+Gonna need a cosmologist here to more authoritatively address the rest of your question, but hopefully this is a start
+&gt;What if anything created the matter present in the big bang, and does it contradict the current laws of physics (conservation).
+
+If the universe is flat (we think it is very close to flat), then the total energy of the universe is zero. There is gravitational potential energy which is negative, and then there is positive energy of matter/radiation/whatever. They exactly balance out. It's true today, and it was true in the early universe as well.
+&gt; If I understand the principles of entropy correctly, then matter can not have existed for an infinite time, and the universe will eventually succumb to heat death.
+
+As far as we tell, yes.  Phil Plait's "Death from the Skies" has an excellent discussion on this; he calls it deep time, and it's truly fascinating.
+
+&gt; So with this I conclude that the mass in the big bang must have been created from nothing 13 some-odd billion years ago.
+
+Not even wrong.  Initially there was no 'matter'.  The Big Bang is the sudden expansion of the singularity; a point of infinitely dense energy.  As the energy expanded, the universe began to cool, and the density began to drop.  Once the energy density dropped far enough, E=mc^2 could have an effect, and the energy began converting into matter in proportions described by Einstein's famous equation.
+
+The matter in our universe is condensed energy.  It condensed into matter very early in the expansion of the universe.
+
+&gt; I have a video camera staring out of a window on a spaceship. There is nothing in view, not a star, not a spec of dust, nothing. I then present you with this video and ask you if the video was on pause or play, you tell me you can't tell, which is fair, nothing has changed in the image. I now present you the same video except an object floats into view. You can now confidently assert that time HAS indeed passed.
+
+Absolutely.  Saying time starts at the Big Bang is a tautology; however, it's also correct.  Just keep in mind that time is nothing more than a way to measure change, specifically of entropy.
+
+However, carrying on your analogy, it is impossible to tell if the recording is paused or just showing a black field because there is no data.  If nothing in the image ever changes, there is no data.  The absence of data is ignorance.
+
+And that's the bottom line.  What 'happened' 'before' the Big Bang?  We don't know.  It's entirely possible, even entirely likely that it's impossible to know.  Agnosticism on the subject is the only logically defensible position, based on the evidence available, at this time.
+
+&gt; Another shot at an analogy: No matter how far you go in to the future, there will always be matter of some form, you can say "There will never be an 'after'" but only because at no point will the matter disappear; 10 years, 10^100 years, doesn't matter (no pun intended), it will still be there.
+
+Incorrect.  Read the chapter in "Death from the Skies" I mentioned above.  Entropy always wins, and given an infinite amount of time, all matter decays into the quantum foam, and all energy in the universe is exhausted.
+We don't know, basically.
+[Here's a video to support your explanation.](http://video.google.com/videoplay?docid=403816616767098012#)
+At 44:50 they begin to talk about the condensation of energy into matter in the early big bang.
+[deleted]
+"Flat" here means R^3 hypersurfaces, not R^2.
+If I understand quantum foam correctly, the uncertainty principle allows particles and energy to briefly come into existence, and then annihilate, without violating conservation laws.
+
+How much matter will spontaneously come into existence? Is it random with larger amounts of matter being increasingly more and more rare? Let's say that this is the case, then given an infinite amount of time, we should see a big bang like ours. However, unlikely that quantum foam will blow up into a universe like ours may be, as long as there is some probability, no matter how tiny, it WILL happen given an infinite amount of time. Perhaps the origin of the big bang is quantum foam itself. If this is true, then we are only here observing the universe because the quantum foam blew up into a universe large enough for us to exist this time around. It'll happen again some day.
+Flat meaning zero [Gaussian curvature](http://en.wikipedia.org/wiki/Gaussian_curvature) over large scales.
+
+Which is to say if you imagined picking three points spaced far apart in the universe and drawing a huuuuuuuuge triangle, the angles would add to 180 degrees.
+[deleted]
+
+Summary:
+The matter in our universe is condensed energy.
+What 'happened' 'before' the Big Bang?
+If I understand the principles of entropy correctly, then matter can not have existed for an infinite time, and the universe will eventually succumb to heat death.
+&gt; If I understand the principles of entropy correctly, then matter can not have existed for an infinite time, and the universe will eventually succumb to heat death.
+It condensed into matter very early in the expansion of the universe.
+So with this I conclude that the mass in the big bang must have been created from nothing 13 some-odd billion years ago.
+&gt; So with this I conclude that the mass in the big bang must have been created from nothing 13 some-odd billion years ago.
+&gt;What if anything created the matter present in the big bang, and does it contradict the current laws of physics (conservation).

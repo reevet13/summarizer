@@ -1,0 +1,17 @@
+Does anyone know any practical application the average retail consumer would have for this?
+
+Stroboscope for high-speed microscopy.
+
+Yes. For example, in my old lab we would look at the oscillations of small bubbles, which were in the MHz range. 
+
+it's not that it's not powerful enough to not be useful, it's that, at least in AMO physics, you need your lasers to be much more controllable than that. 
+
+For a diode laser to have narrow linewidth it's feedback and current need to be very carefully controlled, constantly, at high speeds. 
+
+It also needs to be temperature stabilized. 
+
+This laser certainly does not meet those requirements. 
+
+In terms of power, we often use lasers as weak (or weaker) than 1 mW. 
+
+A watt is actually a pretty powerful benchtop laser.

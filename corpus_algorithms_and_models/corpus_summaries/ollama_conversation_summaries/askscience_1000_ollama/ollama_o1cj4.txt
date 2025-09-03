@@ -1,0 +1,5 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+I know spacecraft leave at an angle to use the extra boost of the earth's rotation, but put another way... I have a simplistic idea that orbit is achieved when the velocity of the object is such that it's still falling, but it's velocity and height above the earth is such that it keeps falling perpetually.
+
+So orbit requires a pretty zippy pace (with some altitude), but what about if you're just trying to leave our gravity well?

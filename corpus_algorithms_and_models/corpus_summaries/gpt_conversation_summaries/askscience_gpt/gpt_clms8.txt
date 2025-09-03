@@ -1,0 +1,8 @@
+The point of the diagram is suggest that with an air temp of 22°F and a ground temp of 55°F that heat pump is able to maintain a 75°F living space.  
+It does this by taking the heat out of the ground and moving it into the house... Like an air-conditioner only running the other direction and using ground water as the exchange medium rather than outside air.  
+Its a [heat pump](http://en.wikipedia.org/wiki/Heat_pump).  It requires energy to power the process, as heat doesn't normally flow from warm to hotter (though not as much energy as if you just heated it directly).  
+The refrigerator uses energy to move the heat away from inside space to the outside.  
+Now this system is like a refrigerator, but on reverse - it "pulls" the heat from the environment and puts it inside the house.  
+There exists a limit because the house will "leak" heat, by accidentaly releasing temperature to the outside, and the speed of "pulling" heat is the same as the house "leaking" heat.  
+Note that the bigger the temperature difference is, the more power is needed to maintain that temperature (analogy - the taller a tower is, the stronger the foundation must be).  
+The fact that made the difference to my understanding was that 22 degrees appears cold to you and i, there is actually an awful lot of energy available at 22 degrees: 22 f = -5.6 C = 267.6 Kevlin (Providing its warmer than zero K outside, there is energy to work with)

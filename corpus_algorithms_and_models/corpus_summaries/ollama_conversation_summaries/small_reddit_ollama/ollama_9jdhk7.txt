@@ -1,0 +1,14 @@
+Here is the extracted summary:
+
+Best kind of question.
+
+The simple answer is that when balls 1 &amp; 2 strike ball 3, there are actually two collisions because there's always a very slight separation between the swinging balls.
+
+Assumption is that if you were to weld balls 1 &amp; 2 together forming a single unit with double the mass (alignment issues would mean they would have to swing on a single wire) then ball 5 would launch with double the velocity.
+
+That's interesting... My assumption would be that the last double ball would still move, but only half as much, because transfer of momentum will still occur. But I'm not a physics teacher!
+
+Double the mass, means double the inertia. Those two balls  welded together really don’t want to move, so the energy gets transmitted, then reflected back.
+
+If only the last ball moves after impact, with doubled velocity, that energy is:
+m(2v)^2 = 4mv^2

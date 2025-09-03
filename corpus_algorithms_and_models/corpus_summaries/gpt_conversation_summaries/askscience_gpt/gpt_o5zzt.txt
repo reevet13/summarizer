@@ -1,0 +1,9 @@
+For example, does 300 dpi use less ink than 600 dpi, or are the dots in 300 dpi bigger to try to fill the same space, using more ink in the process?
+
+The 2 dpi setting uses more ink because the dots are bigger.
+
+Thus, you can see that the 300 dpi setting would use more ink in exchange for faster printing, IF the dots are NOT the same size.
+
+Extrapolating to 300 dpi, it would use half the ink as 600 dpi because there are half as many dots of the same size.
+
+In my opinion, a lower dpi setting seems to use more ink because the printed text does not appear lighter and the jagged effect is present.

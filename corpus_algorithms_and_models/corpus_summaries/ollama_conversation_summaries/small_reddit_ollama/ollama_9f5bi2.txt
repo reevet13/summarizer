@@ -1,0 +1,13 @@
+Here is the summary of about 10% of the text or up to 250 words:
+
+If the Earth vanished, the moon will simply continue orbiting the sun with minor changes to its current trajectory.
+
+Since the moon is currently orbiting the Earth, its velocity relative to the sun is already close to the orbital velocity required to maintain an orbit at this distance. It won't fall into the sun.
+
+The earth orbits the sun with a speed of ~30km/s.
+The moon orbits the earth at ~1km/s.
+
+So if the moon is going "forwards" when earth vanishes, it has an orbital velocity of 31km/s around the sun, if it goes "backwards" in that moment, it's 29km/s. So it would only get to a slightly different orbit depending on the time earth vanishes.
+
+To fall into the sun, a body needs to get rid of all the speed it's currently orbiting with.
+Earth's orbital speed round the Sun is 30 km/s . The Moon's orbital speed round the Earth is 1 km/s.

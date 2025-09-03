@@ -1,0 +1,254 @@
+Original Response:
+I got in a debate on facebook over religion and they brought up the fact that energy can neither be created or destroyed which has left me with serious questions.
+This was asked [before](http://www.reddit.com/r/askscience/comments/ngek7/can_anybody_explain_to_me_where_the_energy_for/). The comments there still hold, but I think it's important to point out that in my experience people posing this question to infer god think the big bang was some sort of explosion like what we would see on Earth. That certainly was not the case, and it isn't very useful to think of the big bang in that way. The universe did not need additional energy in order to expand, nor did it need a trigger like we would think of an explosion needing on Earth.
+[deleted]
+What do you mean it didn't need need energy to expand? Isn't this what the "dark energy" is all about? The thing that cause the universe to keep expanding, despite for the gravitational attraction?
+You possibly think that the big bang was an explosion and thus required energy - it wasn't. In fact if you add up the energy budget for the universe (positive energy from matter and motion and negative energy from gravitational potential) it adds up to zero^* . [Here is a good lecture on the subject](http://www.youtube.com/watch?v=7ImvlS8PLIo) - please watch and ask if you have anymore questions! 
+
+^* With a couple of caveats that I don't want to get into right now
+Not quite right here. While our universe has dark energy, and dark energy is causing our universe to expand at an accelerating rate, one can easily write down the equations for a universe without dark energy that will expand forever - so dark energy isn't a **requirement** for a universe to keep expanding despite gravitational attraction, it just happens to be there in our universe.
+
+Now, it is true that you don't need energy to expand ^*.  Perhaps you can think of it in the same way that you don't need an energy input for an object to maintain a constant speed (with no friction). The way it works is that expansion or contraction is a natural state of a homogeneous isotropic universe, but you only enter the contraction phase if there is enough stuff around to reverse the expansion eventually.
+
+^*: To be more clear here: You don't need an external energy source, though you still need some kind of matter around to source the expansion.
+Ok, so let's assume that in the beginning (before the big bang) everything was still. No expansion, no nothing.
+Well, in order to have that expansion started, it has to accelerate form 0 to something, no? So that implies energy being spent.
+I think there is no one in the world who correctly knows how to go from a state of no expansion to a state of expansion, or if it even makes sense to talk about it, or if "everything was still" before it.
+
+However if the total energy of the expanding universe is zero (there are good arguments for this), and the total energy of (before the big bang) is zero I don't think that implies energy being spent - just energy changing forms.
+Now I am really confused :)
+If the galaxies are physically moving away from each other, this implies that some energy needs to be spent on it. It needs to overcome gravity, and also to at the very least give them a momentum.
+
+And what do you mean that the total energy of the universe is 0? There is clearly plenty of energy in the universe, like suns burning, etc.
+&gt;And what do you mean that the total energy of the universe is 0? There is clearly plenty of energy in the universe, like suns burning, etc.
+
+Indeed! But there are also gravitational attractions between everything, and with that associated gravitational potential energies. These are negative!^* . Add up the negatives and the positives, and you seem to get 0.
+
+^*: Why is gravitational potential energy negative? Here's a way to think about it. Imagine we drop a particle very very far away from a massive object and put it at rest, and say that its total energy is zero. It will then slowly start moving towards the massive object and speeding up. Its kinetic energy is positive, but since energy is conserved its total energy should be zero. We thus must conclude that there is some negative gravitational potential energy at play.
+I think he's referring to the sum of all positive and all negative energy in the universe.
+
+Momentum is required to overcome inertia or resistance - properties which, I assume, would not exist outside the universe.
+
+EDIT: Please note that I am not a scientist.
+But if we drop a particle very far away, we spent some energy moving it there. If it is already there, when everything started, then we get positive energy, because, well, it gets kinetic energy.
+let's put it in another way. The mass of all the stuff in the universe is positive, therefore the energy must also be positive.
+Yes, but if we extrapolate the movement of the universe, we will see that all the stuff was together at some time. So that implies that at T0 things were not moving. So to move them you must overcome the inertia.
+&gt; The mass of all the stuff in the universe is positive, therefore the energy must also be positive.
+
+I don't see how you figure this. 
+
+Energy total = mass of stuff + kinetic energy of stuff + gravitational potential energy of stuff (which is negative even if you don't believe me). It is surely posible to tune these dials to make the left hand side zero.
+I am sure it is, but "tuning the dials" in order to get what you want is kind of like mentioning the G word :)
+:p All I'm trying to convince you is that it's possible, in principle, for the dials to be that way. Perhaps the more interesting thing is that this is what our observations of the universe seem to show to be true.
+[deleted]
+Ok, if you manage to explain to me the concept of negative something in nature, I will believe you and bow down to you.
+The negative stuff makes sense in mathematics, economics, etc. You can say I have a debt of 10 dollars, or -10 dollars, but that's a concept. You don't actually have -10 physical dollars. You can't have -10 electrons, or -10 photons.
+So how can you represent in reality this negative energy? What is it made out of?
+Sure, we can't go down to absolute 0, but we can know that the space expanded very very fast in those first few moments of the universe. So mathematically speaking, if something non infinite in time expands, then at some point this expansion must have been 0 or negative.
+(I have moved this to here and added a section)
+
+We have no theory to explain 'before the big bang'. All our theories break down a fraction of a second after it. Can this be discussed in scientific terms?
+
+We can explain what happened 10-31 seconds (or something) after the big bang, and from there to the present day, but that's as far back as it goes.
+
+Stephen Hawking's book *Grand Design* discusses why he thinks a creator god is not necessarily required. In addition, not all religions have a creator god or even a 'creation event'. Some of them would say what happened before time is meaningless (how does that even work?) and what happens outside everything (the universe) is similarly meaningless.
+I moved the post to a new thread because I added some stuff near the end (a relevant book) and it was no longer relevant to the subthread.
+
+To respond, we don't really even know if the universe began as a point or a very small thing: We simply know *nothing* about what happened before about 10^-31 seconds after the big bang event and for me to do so would be speculation. I have further comments in the new thread.
+Yes, I am aware of this, I think the time limit is the Planck time. If my understanding is correct (and I read about this many years ago), if we are to measure time in Planck time units, we don't know what happened at T0, but we know what happened at T1.
+
+Anyway, if things were in motion at T1, and there is no such thing as  negative time (-T1), then isn't it mathematically sound to assume that at T0 things were not in motion?
+For example, if we have a gun and we fire a bullet, and we know the acceleration, speed, and distance traveled, we can with some math pin point where the bullet started. We can go back in time and say: At T0 the bullet started from the gun. And if at T0 the speed of the bullet was more than 0, it means that the bullet, at -T1 started from outside of the gun, no?
+PS: If your friends are using conservation of energy (energy cant be created or destroyed) to describe the big bang, thats just plain bad science since as I have said, our current  laws don't work at that point.
+
+You just have to accept that there are some answers science does not yet know. Science studies what is observable and there is no reason a scientist cannot be religious. Many scientists *are* religious. However a scientist uses science to explain the observable world, and anything else is metaphysical and under the domain of religion or philisophy.
+
+That being said, the majority of scientists *I know personally* are agnostic. They believe there *might* be a god but we can't observe him so we just don't know. They do however believe if that whatever god there is, is not one of the gods of the three book religions (christian, jewish, muslim). However this is *only the folk I know* and I am not making a statement about everybody.
+
+If you, yourself, *need* a religion with a creator god, then that's fine: it's your choice. If you don't, then don't. But it should be your choice not someone else's choice.
+[Very interesting theory from Sean Carroll's TED talk](http://www.ted.com/talks/sean_carroll_distant_time_and_the_hint_of_a_multiverse.html)
+
+IIRC he postulates that out of nothing, certain fluctuations--that were essentially improbable--allowed areas of convergence and order that generated the universe. 
+
+i.e. If you kick a brick wall, there might a one chance out of trillions of gazillion tries that your foot goes through the wall. Because time is infinite, this will eventually happen. This seemingly improbable occurrence out of nothing generated the big bang.
+Well first, here's a simple example of something negative in nature - electrons carry negative charge. Now you might object to that, charge is an abstract concept whereas electrons and photons are physical objects. Fine. But in fact, I would say the same thing about energy! Energy is, at its heart, basically an accounting trick to describe the physical state of a system. It's nothing physical like the system itself. It's just a number, or a sum of numbers, describing the system, so asking what it's made out of doesn't even really make sense. 
+
+[Here is actually a really good post about the subject that I will link to.](http://www.reddit.com/r/askscience/comments/mndns/what_is_energy_really/c32b4jg)
+Who knows? This speculation now. 
+
+Theoretically, time travel backwards might actually be possible (I don't think there's anything preventing it in current theories, but the paradox is hard to explain and the practicality of doing it is beyond us). Perhaps the string theorists are right about there being 11 dimensions? Perhaps the universe was curved at that point in "time"?
+
+I can only make statements based on the established laws of science (where I understand them!). I am sorry if you do not like that answer. There is nothing I can do until we discover more about the universe. I simply do not know the answer to your question.
+
+If you require a creation event for metaphysical reasons, that's fine. I just can't explain it.
+It's not physically negative, but has characteristics that are negative quantities. Say two particles are heading towards each other, same mass and speed. The net velocity would be 0, but both particles still physically experience speed. One particle will have the negative velocity of the other as it will be travelling in the opposite direction. This is not to say it physically has negative speed, but relative to the other particle it does. It's not as though this negative potential energy is any different, it just is considered negative to balance equations and make the physics a bit easier to work with when dealing with reference frames.
+I understand what you mean. And of course, charge came as the first thing I thought of when I asked myself if there are negative things in nature.
+Now, I don't think that charge is an abstract concept. It exists, it can be felt physically. But the negative/positive thing of the charge is a concept. Like a magnet for example, it has a N and a S pole, it doesn't have a negative or positive side. Same thing with electrons, you can call the charge of the electron N and the charge of the proton S. Or whatever other letters or concepts.
+
+I read that link, and I understand that stuff like potential energy is not something physical, it's just a concept, a bookkeeping thing. BUT, a photon for example, is both physical and it has energy associated with it. So the energy is not just a concept, it is a basic propriety of particles, at least at a quantum level.
+Oh, ok, so it is just to make some equations easier, it doesn't mean that the physical amount of the energy in the universe is really 0?
+I can't explain it either, and no one can, at least not with the Big Bang model. But I don't see how the expansion of the universe, the moving away of matter wouldn't require some energy. It doesn't have to come from outside of the universe, it might be an inherent propriety of the Big Bang, but not moving galaxies without requiring energy seems a bit strange.
+They aren't really moving, it is space that is expanding between them. Whatever spacetime is, it isn't "empty". Gravity as you know is explained in realtivity by the curving of spacetime.
+
+http://en.wikipedia.org/wiki/Metric_expansion_of_space
+
+"Why" is a very interesting question in physics that's hard to answer. We model the world and know the models are reasonably accurate, but don't know the truth behind that model. Since it seems real to us, we go with it. Or that's how *I* roll. It might be different for you.
+
+Feynman on why: http://www.youtube.com/watch?v=wMFPe-DwULM
+But the problem I have with the "stuff not really moving, just the space is inflating" is that if this were true, and the inflation is uniform and homogeneous, wouldn't everything inflate? Wouldn't we also get bigger, the stars would get bigger, the galaxies would get bigger, etc?
+As I understand it, local stuff is bound together by gravity. 
+
+There are lots of videos on on cosmology from PBS Nova which you can find on youtube, that explain this.
+
+BTW you say: if this were true. Inflation and the big bang (well, from 10^-31 secs) are pretty solid theories with a large amount of obsrved evidence. There's a nice thread in askscience with a list of evidence for the big bang.
+
+I'll edit when i find a link
+Your problem is that the big bang theory doesn't address T0, only post T0.    You would need a completely different theory for that.  T0 is somewhat of a paradox, as the theory dictates that time as we know it started at the big bang, so pre-big bang doesn't even make sense.  Nevertheless, time itself is necessary for any change of state to occur.  If there was a change of state, then time must have existed, as you can label two events as pre state change and post state change, which is time.  Paradox.
+[deleted]
+Rather, I would pose the counter argument as energy must be conserved within a system. A system spontaneously coming into existence has no requirement to have zero energy. This argument is also used in many worlds interpretations of quantum mechanics.
+But if the local stuff is bound by gravity, how come all that really dense and hot matter at the beginning wasn't also bound by gravity, thus not allowing it to expand?
+[deleted]
+[deleted]
+The big bang is a myth; well a theory anyway. The universe is in a continuous cycle that never had a beginning and will never have an end. The notion that something that is infinite could expand or contract is pure fantasy. Even our understanding of entropy is a myth in that regard. The conservation of energy is the true grand unified theory, problem solved.
+
+We believe in the big bang because the observable universe appears to be expanding at an accelerating rate and we don't have another explanation for cosmic background radiation but this is all speculation derived from anecdotal evidence that only applies to our specific region of the universe. Until we develop better technology for observing a larger portion of the universe we will never know that we are actually just falling into black hole so large that it makes entire galactic clusters look like grains of sand.
+My understanding is that it would have started out as a high temperature matter/energy mix (plasma of some kind) and would have cooled as it expanded, creating some local 'bumps' due to basic randomness.
+
+Have a look at this
+
+back to the beginning - pbs nova - the big bang
+http://www.youtube.com/watch?v=HVG84frOayQ
+
+There's a lot more by the same company if you care to look
+[deleted]
+I watched pretty much all the documentaries I could find about Big Bang. The problem is, they don't explain much.
+For example, why would it cool as it expands, if the space itself expands, and the matter that is tied together (by gravity) doesn't. How come that for example the solar system itself doesn't expand? And how do they know their theories are true? They can't be observed or repeated in a lab. It's just a lot of guesswork right now.
+Until a decade or two ago, before they noticed the actual space expanding (via the Doppler effect of distant galaxies), they thought stuff actually exploded, not the space itself.
+So is this right , the forces and energy and whatnot themselfs are not negative but as they are opposite one must be negative and the other positive. This then makes the energy equal zero as they are equal and opposite.
+OK, you're happy to say the Big Bang is a myth, but support a continuous cycle hypothesis? I think your logic's a wee bit flawed there. I'd say the current observational evidence is a bit better than anecdotal too.
+If you're wondering why you're getting downvoted, it's because you're arguing with people who obviously know what they're talking about while you obviously have no clue. These people are taking their own spare time to explain this to you and all you keep doing is replying with comments that are at times more like cock sure misconceptions on what they just said. It's disrespectful. That's all I'll say.
+An infinite universe cannot be fully observed, period ... and therefore any theory derived from observing our comparatively *infinitely* small region of that universe is strictly anecdotal.
+
+How is a continues cycle hypothesis anything but the polar opposite of the Big Bang? ie: how is that logic flawed in any way at all? If entropy held any water at all the universe would already be at a resting state. It really is that simple.
+Some of the things you asked regarding observations and theory is in the video I linked. It explains exactly what the theories and observations are, how they were made, and how they can and are repeated. (Some of them anyway, there is a lot of evidence for the big bang). The laboratory is the universe itself.
+
+It's true that a lot of the discoveries are recent, due to space flight and computers being so young.
+
+I would actually say the conversion of explosion to expansion was demonstration that science works: it would may well have looked like that to the more basic instruments/lesser knowledge of the time. Now we have better stuff we know we were on the right track before.
+
+A big ball of hot gas will cool as it expands, I would have thought that was fairly obvious.
+
+I don't think the solar system is expanding (the sun's gravity keeps the planets in their orbits) but you might need to ask that separately for confirmation.
+
+Now my view is that science doesn't really find the truth, just the observable truth. We hope they are the same but can never tell!
+
+Example: Pretend we don't really exist. We're all computer programs in an advanced civilisation's game. As a result, our universe is all in our "minds". Since we can never detect this fact, and we can explain how our universe works, then it doesn't matter that our theory is "wrong" but still works. From our point of view, it's correct.
+
+From the point of view of the advanced civilisation, we're wrong but have no way of seeing that we're wrong, so are we really wrong?
+
+That's how I see it, anyway. Others might disagree.
+It really isn't that simple. It's a big ask to dismiss entropy for one thing. As for an infinite universe, I don't believe that either, but don't have an alternative answer, so I won't argue it. 
+
+As it stands, the Big Bang is a fine deduction based on observational evidence - including things like the abundance of elements, the general large-scale structure (if you add dark matter to the model) and so on. It's not just the CMB that supports the hypothesis. There are issues like the horizon problem and the mechanism for inflation, but I don't think they're enough to invalidate the theory *at this point*. Neither does the vast majority of professional cosmologists.
+
+Your logic is flawed because from your posts, you say that theory X is wrong, therefore theory Y is correct. To make that claim remotely valid, you need to have supporting evidence for theory Y, which you don't appear to have.
+
+Also, anecdotal evidence, as I understand the term, means testimony from individuals, not empirical observations. There's nothing anecdotal about the CMB map.
+I say this over and over again, every undergrad learns that conservation of energy is tightly connected to the so called time translation invariance. Due to the expansion of the Universe, this invariance is not present, so we are not expecting energy to be conserved on cosmic scales.
+
+Read more here:
+
+http://blogs.discovermagazine.com/cosmicvariance/2010/02/22/energy-is-not-conserved/
+
+http://adsabs.harvard.edu/doi/10.1086/175767
+&gt;It is surely posible to tune these dials to make the left hand side zero.
+
+Do you have a citation for that (that is not a youtube video)? It isn't in any of my cosmology text books.
+[deleted]
+Does the dark energy cause an equal increase in positive and negative energy so that the total energy always remains zero?
+Entropy is a simply a phenomenon exhibited by other phenomena ... it isn't the end-all grand unified theory of the universe and if was it wouldn't be a very good one just because the very existence of the universe sort of disproves it as such.
+
+The fact that expansion of the universe in general is a silly idea doesn't disprove entropy. Entropy as a cosmological theory is silly on its own. The OP's question assumes some kind of big bang beginning and asks where it comes from but it's a regional phenomenon that rolls through the universe on an infinite timeline. If the big bang and the big crunch are what we are observing in this region of the universe then the on an infinitely timely it's happen before and will happen again and infinite number of times.
+
+The universe isn't like the sun or the earth. It doesn't have lifespan. It's more like the revolution and rotation of the earth. It's just the presiding phenomenon we've all learn to accept as our reality but it should be noted that it's all entirely circumstantial, relative and it's entirely possible that the fact that the big bang phenomenon happened in power part of the universe happened entirely by happenstance.
+
+You would have to know someone that lives a 10^100 light years away who could take a picture of their neighborhood's CMB maps and sent it to you because otherwise we are all the same observer. There's nothing empirical about observing the CMB from only one point in an allegedly infinite universe. If big bang and entropy are what it's all about then this entropy is actually caused by something like an infinitely large black hole taking up an entire dimension that we're falling into and big bang is all just the radiative energy spewing out of it which creates the very fabric of spacetime itself. I suspect it's actually happening in the 3rd dimension and we are literally falling into and out of existence via some cosmological conduit in an endless stream or current. I think the nature of the universe is actually just fluid dynamics, thermaldynamics and some Brownian motion. It's just happening on such a large scale that from our perspective it appears to be expanding in our neighborhood and we just see it that way because we're in a dense area than our neighboring cosmos. The universe itself can't expand even if parts of it can vary in spacetime density which would certainly make it appear to be expanding from our perspective anyway. 
+
+I wonder if we're falling into and out of existence an infinite number of times and that's the fabric of spacetime or if it's a cycle that takes hundreds of billions of year and spacetime itself is actually entropy being exhibited by the decay of gravity.
+Fine words, but it's all conjecture. You have no evidence for any of this, but there is good evidence supporting the big bang. 
+
+I don't quite get why you have a problem with entropy, or why it's silly, despite being really quite useful in engineering and such.
+
+You're saying the Universe doesn't have a lifespan. Prove it! 
+
+Science disagrees with you, or at least it does for the observable universe, which is the only thing we can draw experimentally-supported conclusion from. It also doesn't help to reduce the complexity of the Universe down to dynamics. It's like saying everything is energy, gravity and motion. It's a reductive phrase that ignores the complexity of reality.
+
+We can only work with what we've got - and something like the CMB is limited by our location to some extent, but at the same time, plenty of laws have been shown to work at extreme distances that strongly support the idea that laws of physics on Earth are applicable everywhere in the observable Universe. I guess that by extension, we can say the CMB is therefore universally the same, wherever you happen to measure it from. The point is that there is nothing to suggest that this *isn't* true, even if you want it to be false.
+
+Also, you can't make an argument saying we need observations from a point 10^100 light years away because we don't even know if an observer can even exist in that region of space. We can only know up to our horizon and our theories must explain events within that horizon accurately, and if it does, then that is pretty much the very best case scenario we can hope for with our current knowledge and technology. As far as I'm aware, there's nothing that crazy or anomalous to say there's any reason to doubt the consensus.
+
+Like, conjecture away and have fun with it, but be aware that your ideas have no more worth or validity than Timecube or religious myth or my grand idea of the universe being made of cake beyond the observable horizon. 
+
+Critically, this position gives you no basis whatsover to dismiss any accepted, experimentally-supported theories.
+[deleted]
+&amp;#3232;\_&amp;#3232;
+Timecube is neo-nazi propaganda dressed up as incomprehensible gibberish which is painfully easy to recognize within moments of visiting the site.
+
+It's like, CMB is just the observable horizon of the universe. We could be living in a black hole for all we really know. CMB could just be the radiation blowing back at us from all the radiation being blasted into "space" whatever that would still mean at that point ... the universe is expanding because the black hold is still accumulating matter.
+The point is that all hypotheses about what happens beyond the boundary of the observable universe are equally likely, just like hypotheses about origins of the universe prior to the creation event.  
+
+It doesn't actually matter, cos you cannot prove or disprove any of them because our information, and by extension our scope for knowledge, is limited. And limited really hard! 
+
+Like, if a cosmological theory is devised that explains everything we see and makes testable predictions for things beyond the horizon, then we might have a chance of proving something to the standards of modern science. As it stands, we probably won't ever be able to test beyond the light horizon and to some extent, we have to accept that horizon as a fundamental limitation on our knowledge, like we do with the uncertaintly principle at small scales. This means speculation about what goes on beyond the horizon is pretty much worthless, especially if you're dismissing theories that work pretty damn well for describing the bit of the universe we can see.
+
+And like the CMB *could* be anything if you want to argue the point philosophically, but it's theoretically consistent with a phase transition early in the universe's life, according to the currently-accepted big bang/inflation model. It fits that theory *extremely* well, with not a glimmer of hope for a contending hypothesis to explain it with some alternate origin.
+
+See Wikipedia:
+
+*The glow is very nearly uniform in all directions, but the tiny remaining variations show a very specific pattern equal to that expected if a fairly uniformly distributed hot gas is expanded to the current size of the universe. In particular, the spatial power spectrum (how much difference is observed versus how far apart the regions are on the sky) contains small anisotropies, or irregularities, which vary with the size of the region examined. They have been measured in detail, and match what would be expected if small thermal variations, generated by quantum fluctuations of matter in a very tiny space, had expanded to the size of the observable universe we see today*
+
+So, any alternative explanation has to explain the CMB *better* than the accepted theory. I think most cosmologists would say that's highly unlikely to happen.
+Also, the CMB isn't strictly the observable horizon. In terms of signatures that are potentially observable, there's the neutrino background from 2 seconds after the big bang, which predate the CMB by several hundred thousand years!
+We're just in the galaxy super-cluster that rode its way out of the galaxy-eater's jetstream some several billion years ago. We're just in a pocket of the universe that is in fact expanding still for thermodynamic reasons.
+You know what, fuck /r/askscience
+I got more downvotes here overall asking questions than I got from /r/atheism saying that I am a theist.
+You're not being downvoted because you believe in god, you're being downvoted because you have an attitude problem. When you're adressing someone who knows a lot about a topic that you know nothing about, it's not very polite to start making smug remarks about how their facts don't hold up when you obviously don't have enough background knowledge of the topic to know if it's one way or the other.
+
+The fact that you're obviously approaching any questions with nothing but the longing for confirming your already existing beliefs would hardly make many friends that value science neither, because that's the opposite of what science is about.
+Right, science is all about believing what others tell you and not ask questions. Because you know, scientists were never wrong, they never had theories that later proved to be bullshit.
+The laws of science do not and cannot apply at the point of the big bang. So the law of conservation of energy does not apply to it either, or immediately after (a few trillionths or less of a second).
+We can't find a starting velocity, force or mass, yet that hasn't prevented us from observing it. Disregard T0, it is immeasurable, instead, begin calculation from T(1/Infinity).
+
+Summary:
+If you don't, then don't.
+It's like, CMB is just the observable horizon of the universe.
+I just can't explain it.
+But in fact, I would say the same thing about energy!
+Now, it is true that you don't need energy to expand ^*.
+It's nothing physical like the system itself.
+I understand what you mean.
+It's like saying everything is energy, gravity and motion.
+But I don't see how the expansion of the universe, the moving away of matter wouldn't require some energy.
+And what do you mean that the total energy of the universe is 0?
+That's how I see it, anyway.
+The big bang is a myth; well a theory anyway.
+The universe isn't like the sun or the earth.
+And how do they know their theories are true?
+The problem is, they don't explain much.
+Isn't this what the "dark energy" is all about?
+It's a big ask to dismiss entropy for one thing.
+There is nothing I can do until we discover more about the universe.
+They believe there *might* be a god but we can't observe him so we just don't know.
+You're saying the Universe doesn't have a lifespan.
+(I have moved this to here and added a section)
+
+We have no theory to explain 'before the big bang'.
+I can't explain it either, and no one can, at least not with the Big Bang model.
+The laws of science do not and cannot apply at the point of the big bang.
+It really isn't that simple.
+It really is that simple.
+I simply do not know the answer to your question.
+Now, I don't think that charge is an abstract concept.
+I don't see how you figure this.
+It might be different for you.
+Perhaps the universe was curved at that point in "time"?

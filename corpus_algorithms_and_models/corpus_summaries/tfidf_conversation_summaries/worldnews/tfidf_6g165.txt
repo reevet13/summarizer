@@ -1,0 +1,339 @@
+Original Response:
+Linking to PDFs is bad enough. Putting the links in there is even worse. 
+
+1. [MMC OP](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_2_MCC_Op.zip)
+
+2. [MMC TK](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_3_MCC_TK.zip)
+
+3. [ID OP](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_4_ID_Op.zip)
+
+4. [ID2 OP](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_7_ID2_OP.zip)
+
+5. [ID TK](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_5_ID_TK.zip)
+
+6. [ID2 TK](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_8_ID2_TK.zip)
+
+7. [TT OP](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_9_TT_Op.zip)
+
+8. [ACWO OP](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_11_ACWO_OP.zip)
+
+9. [ACWO TK](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_12_ACWO_TK.zip)
+
+10. [TT OP](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_13_TT_Op.zip)
+
+11. [TT TK](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_14_TT_TK.zip)
+
+12. [AST OP](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_15_AST_Op.zip)
+
+13. [AST TK](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_16_AST_TK.zip)
+
+14. [TT OP](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_17_TT_Op.zip)
+
+15. [TT TK](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_18_TT_TK.zip)
+
+16. [SD2 OP](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_19_SD2_OP.zip)
+
+17. [SD2 TK](http://www.governmentattic.org/docs/DRM2_DAT1_Channel_20_SD2_TK.zip)
+
+18. [AICC](http://www.governmentattic.org/docs/DRM1_DAT2_Channel_24_AICC.zip)
+
+19. [Emerg. AICC](http://www.governmentattic.org/docs/DRM3_DAT2_Channel_24_Emerg-AICC.zip)
+
+Yes, either I'm missing two or they weren't linked in the PDF.
+I'm going to side step actually listening to them all and just ask, anything interesting?
+I'm going to try listening to "Emerg. AICC" now... will reply with a summary.
+
+What does AICC stand for?  I just chose to start with the one that says Emerg. as in Emergency
+[deleted]
+[deleted]
+[deleted]
+I'm summarizing one of the channels:
+http://reddit.com/info/6g165/comments/c03qo4k
+wish I knew if the other channels had more info
+[deleted]
+[deleted]
+it starts with a voice repeating "12 hours 30 minutes", then cuts to a hum, open channel static from time to time.  This is a military channel
+
+Times in HH:MM
+
+0:14, 0:33, and 0:40 information / contacting each other
+
+1:45 - "we have multiple active [areas/aerials?], maintain your navigation"
+
+1:50: calling for AICC, getting no response
+
+1:51-1:54 Woman repeatedly asking a plane (283, Gulf-TEELO) for authentication
+
+2:01 Response of some kind, woman asks a plane to change frequency
+
+2:05 Someone calling "echo one" and giving altitude
+
+3:04 - something about having been flying for "an hour"
+
+3:13 "missing aircraft went low and faded on us", two F-16s chasing behind it, "heading southeast" -- they want radar confirmation
+
+3:23-3:25 some exchange of information
+
+3:30 - a pilot says he is 15 miles out from the Pittsburgh airport
+
+3:48-3:50 - Controller: The planes should head for Chicago and look for suspicious planes, authority to intercept any non-responding plane, can engage them if heading towards population centers
+
+Response: "I think we have another suicide headed for Chicago"
+
+3:51 - controller says he sees no traffic in the Pittsburgh area
+
+4:04-4:06 anonymous phone call was received, a bomb threat, plane has asked for escort away from Cleveland and a military plane is dispatched.
+
+Then controller says that plane has been ID'd and can be skipped
+
+4:07 confusion about where the F-16's are and what they are doing
+
+4:10-4:12 asking about refueling and "still planning to RTV them at Syracuse"
+
+4:28 - told it'll be about an hour until a replacement comes, so they should hold position in the Pittsburgh area while they have fuel
+
+4:52 - the squadron is going to be "sent home" as soon as they get the replacements on the right frequency
+
+6:05 - the FAA guy is talking about getting a tanker in the air out of Pittsburgh... he says it's been difficult because "apparently someone hasn't been watching CNN" and something about "waiting until things settle down"
+
+6:06 - order to divert any unauthorized planes from populated areas - get visual ID, then right to engage them
+Nice work Squerlly!
+
+&gt;"Response: "I think we have another suicide headed for Chicago"
+
+Why assume it's a suicide anything? and why *another*?
+
+&gt;4:04-4:06 anonymous phone call was received, a bomb threat, plane has asked for escort away from Cleveland and a military plane is dispatched.
+
+and then a minute later they no longer are worried about a bomb threat? escort, why? Fishy.
+MMC OP - 6 hour, 19 minute tape (H:MM:SS)
+A lot of confusion, a lot of information... a long time before they have to stop explaining that it is 'real world'
+
+0:04 "190, 387 knots"  "can you give me any information on it? passengers on board? where it came from?"
+
+"from Boston... it's headed south, they're going the wrong way, obviously.. who are you going to get?"
+
+"we're getting some people... going to JFK.. sending orders on battle stations"
+
+"you can talk to anyone here, everyone knows what's going on"
+
+(in background) "flight number 290..."
+
+0:07: "I've never seen so much real-world stuff happen during an exercise."
+
+"1443, look for it. [they seem to have located it]... no, this is real world"
+
+0:08 "CC... scramble orders... I don't know where I'm scrambling these guys to... direction?  Just north of New York City.. send them in that direction."
+
+0:12 "the general would like... do you have radar coverage on this guy?"
+
+0:14 "we think we might have him just east of New York... no... nope... American Airlines 11.. we just got a call from KONAR, we haven't found him yet."
+
+0:15 "16 miles east of JFK... if we can find it we'll intercept it"
+
+0:15:47 "something hit the World Trade Center?  or reports of it?"  ... "a 737 hit the World Trade Center, might be the aircraft"
+
+0:17:  (explaining to someone) "possible news that a 737 hit the world trade center, this is real world, still looking for confirmation"
+
+0:18: "I would say he just crashed into the World Trade Center.. CNN.. if he didn't crash the last known point was 16 miles east so send them there, right in that little gap there"
+
+0:19 "the fighters should be talking to center, we're going to pass to them what we want them to do... they're still under FAA control, we're never going to take them"
+
+0:21 "Boston Center doesn't want to confirm this, but they're pretty sure... I think we should put the exercise on hold, what do you think?"
+
+0:22 "do we have a mission we can pass to these guys?  Hold?  Do you see what I mean?  FAA, as needed.  We've worked it out with the FAA, we're going to hold them south of JFK about 10 miles"
+
+0:23 "where was I?  I was on the shitter, I said 'oh my god!' I knew it wasn't an exercise"
+
+0:25 "I have a guy calling MaGuire, squadron by squadron"
+
+0:26 [phone]"How can I help you" "Is this KC25?" "This is KC10" (hangs up)  [background "possible hijack" "United"]  "do you have anyone up to fly.. JFK area?"  "Let me check"
+
+0:27:36 "we have an unconfirmed second hit, this is from Boston"
+
+"we're wondering if you have any airbone assets"  "we've got a crew airborne right now, I don't know where they went.. Team two-three and Team two-four, northeast of New York"
+
+0:29 "is this explosion part of that, that we're seeing on TV?  New York Center is what you need to get ahold of"
+
+0:30 "real world, yeah"
+
+[background] "two planes?  Get the fuck out... how big are these planes?"
+
+0:31 "we need to talk to the FAA, see if this is going to keep on going, if there's more out there, which we don't know, get fighters over Manhattan"
+
+0:32 "United 175... scramble Langley..."
+
+"battle stations or scramble?"
+
+"battle stations only at Langley. And get fighters over Manhattan"  [several calls]
+
+0:35 "put a tracker on Boston, New York, that's the only thing we can ascertain, we can't see these guys until..."
+
+0:36 "have you been watching the news?"
+
+"we're trying to reach the military coordinator, we're having a difficult time"
+
+[[I jumped ahead]]
+
+0:45 "we've got a hijacking.. real world, I've got to go"  "scramble, Langley area, trying to get a code on this guy..."
+
+0:47 "These guys are smart"
+
+"Yeah, they knew exactly what they wanted to do"
+
+1:14 "where did that information come from, the Pentagon was just hit?  I'll put unconfirmed"
+
+1:15 (discussion about an airplane out of Toledo)
+
+1:33 "Weapons?  ...we don't know where it is"  "United 93 - *negative* to shoot"  "Fuck the codewords.  *Negative* clearance to fire."
+
+1:35-1:38 "I've got guys who'll be launching in 15 minutes..."
+
+"Are they loaded?"
+
+"we've got hot guns"
+
+"I've another plane with a possible bomb on board, it's in Pennsylvania-New York... and [] turned over the lake?  Another possibly at Cleveland area ... the guy down at York, Pennsylvania.. callsign United 93"
+
+"we can get it"
+
+"(gives vector info) 'that doesn't help us' 'out west, American [].. one that faded over Cleveland, Delta 89"
+
+1:38 "the one with the bomb on board, over Camp David... nine-three"
+
+1:39 "nine-three on the ground, Northeast of Camp David, confirmed down..."
+
+"it exploded, another exploded"
+
+1:45 "number 464 unidentified, no data.. can Toledo authenticate him?  If he pops up we have to treat him as an unknown"
+
+3:00 "I need an escort here for a priority aircraft coming into National Airport"
+
+3:09 "we're kind of worried about flying an airplane out, hauling some cargo from Schenectady to Syracuse to Stewart"
+
+"Do you need an escort?  This is military aircraft, correct?"
+
+"C-130.. are there any specific callsigns you have to give priority?"
+
+"No we do not... shouldn't have trouble... Be advised, Boston is gone, Cleveland is gone... the [FAA] centers have evacuated"
+
+"...with the wartime codes?"
+
+"normal codes"
+
+3:53 "You see, they started calling people in as a reaction, before we had a plan"
+
+4:33 "fighters all over the damn place, I have no radio contact with them in Chicago"
+
+"I think this [system] is going to change now.  We'll see in the next three years"
+Well, I don't see any reason for concern.
+
+Pretty sure "another" refers to yet another hijacked plane.
+
+It did seem odd that the comment was ignored (wasn't said by the regular guy, possibly a rumor being spread by pilots)
+and where's channel 6?
+All these recordings are designed to make the public think that 9/11 was committed by hijackers and not the CIA.
+
+9/11 was an inside job.
+
+Tell your friends.
+Truthers don't have friends.
+No, liars do not have friends.
+Some 911 stuff (care of whatreallyhappened.com):
+
+Let's start with the fact that the BBC reported the collapse of WTC-7 20 minutes BEFORE it happened, with the building still standing in view of the camera while the news lady reported its destruction. 
+
+http://www.whatreallyhappened.com/bbc_wtc7_videos.html
+
+Then we have the way WTC-7 collapsed straight down, looking just like a controlled demolition. 
+
+http://www.whatreallyhappened.com/wtc7.html
+
+In the wreckage, obvious signs of the use of cutter charges were found on the load-bearing members of all three buildings. 
+
+http://www.whatreallyhappened.com/wtc_charges.html
+
+Finally, there is the very strange manner in which President Bush, even after being told of the second impact, simply sat and read his book. More tellingly, the Secret Service protective detail, whose only task is to protect the President, did nothing, proving that they knew in advance Bush would not be a target that day. 
+
+http://www.whatreallyhappened.com/bush_9-11_index.html
+
+Someone was able to warn Rudy Giuliani that the towers were going to fall. How did they know, given that no steel-framed building had ever before collapsed from fire? 
+
+http://www.whatreallyhappened.com/wtc_giuliani.html
+
+Was it FEMA, who coincidentally was in New York the night before, ready to go? 
+
+http://www.whatreallyhappened.com/fematape.html
+
+And who sent an advance warning to Odigo, sent before the hijacked planes had even left the ground? 
+
+http://www.whatreallyhappened.com/odigo_9-11_warning.html
+
+Who were the Mossad agents who cheered and clapped as the towers fell? 
+
+http://www.whatreallyhappened.com/fiveisraelis.html
+
+And just what is the secret evidence that links those arrested Mossad agents to 9-11, evidence which has been classified by the US Government? 
+
+http://www.whatreallyhappened.com/spyring.html
+They were probably assuming if they couldn't raise him on the radio, or he wasn't following instructions.
+Keep on believing that and maybe it will become true.
+No, you have it all backwards.
+
+It IS true, therefore I believe it.  I wish I didn't have to, I wish it weren't true, but it is, and therefore I must accept it.
+
+It's called living in reality, look into it.
+I am living in reality, a reality where muslim men hated our country for using them for almost 50 years. They hated us so much, that they had killed hundreds of Americans through out the 1990s, and wanted to kill more, perhaps because our country's actions resulted in the death of their loved ones.
+
+They bombed our embassies, they bombed the USS Cole, and just as they had promised, they managed to attack us on our soil.
+
+Sure the government is fucking evil, but do you really think they could sneak thousands of explosives into 3 buildings that are occupied 24 hours a day without anyone noticing? Do you think they could keep everyone that assisted them quiet when they can't even keep the fact that they deleted e-mails illegally a secret? They can't keep the fact that an administration member had a CIA agent identified a secret. They can't keep the fact that they lied about Iraq a secret? How the hell could they keep blowing up the WTC and murdering 3000 people a secret? It's not even fucking possible.
+That's not reality dude.  
+
+Muslim men do hate us because we are "free" and "prosperous".  They hate our government because they are over there, occupying their countries, building bases, and interfering in middle eastern politics.
+
+Oh, and just so you know, I will tell you this to wake you up:
+
+The embassy bombings, the USS Cole attack, all these were carried out by the CIA.  The CIA is the biggest group of terrorists in the world, and they have actually convinced the majority of the people that it was muslim terrorists.
+
+Now, before you start going of on the typical "you're a conspiracy theorist", be aware that there is conclusive proof that the CIA is behind most, if not all terrorist attacks in the world.  Documents have even been declassified detailing precisely this.  Inside people have come forward and admitted that this is the case.  Listen to Alex Jones, he has been the collector of such truths for the last 10 years.  It isn't just opinions, it's fact.
+
+The Bush family is a history of fascism.  George W Bush's grandfather funded the Nazis in WW2.  He was also part of an attempted military coup of the US government in the hopes of making the US fascist.  This has been proven, there are videos, and documents, and people who have said it is true.
+
+"Sure the government is fucking evil, but do you really think they could sneak thousands of explosives into 3 buildings that are occupied 24 hours a day without anyone noticing?"
+
+Yes, of course they could.  In the weeks leading up the attacks, the WTC towers were mysteriously "evacuated" for days, while people in suits went into the buildings and did who knows what.  The cameras were turned off, all security measures were turned off.  Five days before the attacks bomb sniffing dogs were abruptly removed from the complex.  Do you know who was responsible for the WTC's security in 2001?  Marvin Bush, George Bush's brother.  Of course the CIA used the WTC as target, because it was just so easy to plan it with the government.
+
+And your disbelief that this cannot be kept quiet...well, plans like these require a compartmentalized scheme of organization.  All the different groups involved has no idea what the other groups were doing, because all the actions of the groups were kept secret from each other.  All this requires very few people at the top to know, because they are directing everything.
+
+Did you know that the military was conducting an exercise that morning?  Did you know that the exercise was trying to stop hijackers flying planes into buildings?  When the attacks were actually carried out, many in the military assumed it was an exercise.  THAT is how you can accomplish the inside job.
+
+Incidentally, this is not the first time governments have staged false flag attacks in order to justify attacking back.  The Gulf of Tonkin affair in Vietnam has now been shown to be a false flag attack.  Hitler blew up the Reichstag building and blamed the Jews.  The CIA bombed the WTC in 1993, but they didn't kill enough people to pass the anti-terror legislation.  So just a few weeks later, they bombed the Oklahoma City building.  That blast killed over one hundred people, and within a year, the anti-terror legislation bill was passed.
+
+False flag attacks happen all the time.  You are a fucking sheep if you think the criminals in the government are not evil enough to do this.  THEY ARE.  You have to stop thinking that your goodness is in everyone else.  It is not.  These people are fucking sick motherfuckers that do not belong on Earth.
+
+Summary:
+I don't know where I'm scrambling these guys to... direction?
+It's not even fucking possible.
+I think we should put the exercise on hold, what do you think?"
+Did you know that the exercise was trying to stop hijackers flying planes into buildings?
+Get the fuck out... how big are these planes?"
+Do you see what I mean?
+I'm going to try listening to "Emerg.
+I just chose to start with the one that says Emerg.
+False flag attacks happen all the time.
+It's called living in reality, look into it.
+We've worked it out with the FAA, we're going to hold them south of JFK about 10 miles"
+
+0:23 "where was I?
+New York Center is what you need to get ahold of"
+
+0:30 "real world, yeah"
+
+[background] "two planes?
+It IS true, therefore I believe it.
+The CIA bombed the WTC in 1993, but they didn't kill enough people to pass the anti-terror legislation.
+Well, I don't see any reason for concern.
+They can't keep the fact that an administration member had a CIA agent identified a secret.
+
+# Summary elapsed time (seconds): 0.10

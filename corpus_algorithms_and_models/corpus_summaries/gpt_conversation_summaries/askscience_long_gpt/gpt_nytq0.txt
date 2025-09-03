@@ -1,0 +1,13 @@
+The amino-acid sequence of a protein determines its native conformation.[6] A protein molecule folds spontaneously during or after biosynthesis. While these macromolecules may be regarded as "folding themselves", the process also depends on the solvent (water or lipid bilayer),[7] the concentration of salts, the temperature, and the presence of molecular chaperones.
+
+Folded proteins usually have a side chain packing stabilizes the folded state, and charged or side chains occupy the solvent-exposed surface where they interact with surrounding water. Minimizing the number of hydrophobic side-chains exposed to water is an important driving force behind the folding process.[8] Formation of intramolecular hydrogen bonds provides another important contribution to protein stability.[9]
+
+You're hinting at Levinthal's paradox, which basically states that the amount of possible confirmations of a protein are so large, that even a 100 residue amino acid chain would need more time than the universe has existed to fold into all possible confirmations.
+
+For how proteins do fold, the best way to think about it (as far as I know) is Anfinsen's dogma. Each native confirmation of a protein is the one in the lowest energy state, making it the most stable confirmation.
+
+Proteins do sometimes misfold. There are proteins, [chaperone proteins](https://en.wikipedia.org/wiki/Chaperone_%28protein%29), that assist the folding process and help correct misfoldings.
+
+It goes in stages. There are local structures, such as the [alpha helix](http://en.wikipedia.org/wiki/Alpha_helix), that form first. These can be short, ten or twenty amino acids long, that are strongly disposed to form a particular shape. This can happen very quickly, even before the whole protein is made. These parts then constrain the options of the rest of the protein. The final folding takes longer, but it's a jostling at the 'elbows' between largely fixed structures.
+
+TLDR: Proteins fold because of thermodynamics.

@@ -1,0 +1,21 @@
+Here are the selected sentences from the original text:
+
+As someone who is trying to be scientific, I am always skeptical of claims but even with everything seeming to point to this being real it's still hard for me to accept.
+
+The scientific topic responsible for the effects seen here is called superconductivity (discovered in 1911!).
+
+Superconductors are materials that have zero electrical resistance (not just very low, but zero) and generally expel all magnetic fields.
+
+Imagine taking two ordinary magnetics and balancing the opposing poles on top of each other.
+
+These materials are particular types of superconductors called Type II superconductors, that do allow magnetic fields to penetrate at certain defects in their structure.
+
+Superconductivity usually only occurs at very low temperatures, which is why in the video you see the disc being removed from a bath of very cold liquid.
+
+One such property is that they expel magnetic fields from within themselves (named the Meissner effect).
+
+If there are imperfections in the crystalline structure parts of the field can be funneled through the object and effectively get stuck inside.
+
+The Meissner effect was first discovered in the early 1930's (1933 according to wikipedia) but I don't know about flux pinning and the article has no date.
+
+Superconductive materials find applications in many place, most notably in extremely powerful electromagnetic devices.

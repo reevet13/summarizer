@@ -1,0 +1,3 @@
+Since time slows down as velocity approaches the speed of light, and particles within the Large Hadron Collider are traveling at approximately 99.999999% of the speed of light, how much time passes *for the particle* on a single, 27 kilometer trip around the LHC?
+About 12 nanoseconds.
+That's how long it takes something moving that fast to move 27 km, in its own reference frame.

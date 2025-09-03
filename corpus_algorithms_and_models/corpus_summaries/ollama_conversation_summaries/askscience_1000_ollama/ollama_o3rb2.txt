@@ -1,0 +1,17 @@
+Here are the selected sentences:
+
+A light pulse has a certain bandwidth (i.e. it contains a bunch of different frequencies), which is larger the shorter the pulse is.
+
+In this time-cloaking experiment, they "pull apart" this light pulse by accelerating the blue part of the spectrum and slowing down the red part of it, creating a spectral hole in the middle.
+
+Now that you have that spectral hole, you can put an event inside which is now "cloaked" (not really, but ok). Put the pulse together afterwards by reversing the initial dispersion and it will now look like that event in the middle never happened, the light pulse comes out exactly like it went in.
+
+"The fibre-based system steers light ‘around’ an event so that no evidence (a change in the temporal or spectral properties of the light beam) of the event is detectable, by speeding up and slowing down different parts of a light beam."
+
+Because fiber optics can carry multiple frequencies of light on the same physical medium, you can [split red and blue light streams with a special lens](http://www.nature.com/nature/journal/v481/n7379/carousel/nature10695-f2.2.jpg).
+
+It's optical. The only reason time is mentioned is because there's a speed difference between the light frequencies.
+
+You're going a bit too far though, the PhysOrg description you quote is actually very accurate. And your description of what's going on stops making sense halfway through.
+
+The event was cloaked in time.

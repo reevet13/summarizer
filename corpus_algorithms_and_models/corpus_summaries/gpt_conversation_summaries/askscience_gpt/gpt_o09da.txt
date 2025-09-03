@@ -1,0 +1,7 @@
+We see clear yellow parallel patterns. On a 365-day exposure photo this can only be the sun. Those lines shouldn't be parallel at all. They should aim to cross at east and west, at horizon level.
+
+But the lines appear correct to me. This is the same effect as you'd get spinning a camera around in a circle while taking time-delay photographs, the light source appears to streak across the image, disappearing behind the visible part of the horizon.
+
+The lines shouldn't cross at all. They should form concentric circles, centred at the north and south poles (yes, both at once - spherical geometry is fun like that). The Earth spins daily around an axis through the poles, so however high the Sun is at that time of year, it will appear to rotate around that axis.
+
+This looks just how it should.  The Earth's inclination relative to the sun is changing, which will result in the sun taking parallel paths across the sky.

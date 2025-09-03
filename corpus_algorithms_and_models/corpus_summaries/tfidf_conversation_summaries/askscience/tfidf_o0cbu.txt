@@ -1,0 +1,29 @@
+Original Response:
+So, after lunch, a co-worker started complaining that his stomach was cramping up.  After a few questions, he tells us that he took 4 doses of his antibiotic this morning (amoxicillin, for those interested) because he missed all of his doses yesterday, and decided to make up for lost time.
+
+Other than frequent trips to the bathroom and stomach cramps, he seems to be okay.  My boss was concerned that he overdosed, but we searched the internet and it doesn't seem possible to actually overdose on antibiotics.
+
+So that's why I'm asking reddit.  Is it possible to overdose on antibiotics?  What would be the symptoms, if any?  He said he'll go to his doctor in the morning if the cramps don't go away, but does he need to be concerned?
+
+EDIT: 500mg amoxicillin.  Thanks for the replies, redditors.  He's feeling better.  Googling "gut flora" was particularly fun.  And by fun I mean gross.
+Take from http://antibiotics.emedtv.com/amoxicillin/amoxicillin-overdose.html
+'A mild amoxicillin overdose probably will not cause any significant or lasting problems. However, a large overdose could affect the kidneys, possibly causing poor kidney function or even kidney failure. It is also reasonable to expect that an overdose would cause any of the usual amoxicillin side effects, but perhaps more severely. For instance, it is possible that nausea, vomiting, and diarrhea would occur.'
+
+As a side note - I'm pretty sure that you can't 'make up for lost time' with anti-biotics. If you miss a days worth taking it on one go will not help much at all.
+While not knowing the mg of the amoxicillin, as long as you don't take the whole bottom a person will have discomfort but be okay. Others are right, you cannot catch up with antibiotics and the majority of times just continue until the prescription runs out. The major side effect of increased antibiotics would be to kill off the person's natural flora in their gut. This will result in probably diarrhea and other wonderful bathroom issues. Also if this should happen they probably will not want to eat any dairy, spicey, or other foods that are hard to break down for the next week until their system grows back the natural bacteria. 
+
+This knowledge comes from having to take heavy doses of antibiotics a couple of times. Each person and script's effects are different however but your boss should be fine. (As long as he knows he isn't allergic ofc.)
+What comes to mind is that he could really upset the natural flora of his stomach - accidentally killing off the E. coli and other necessary bacteria needed for proper digestion. It's not going to kill him, but it's going to make his digestive tract messed up for a little while.
+You can overdose on antibiotics, but as a very general rule, modern drugs are designed to be fairly safe even if you take several times the recommended amount.
+
+That isn't to say bad things can't happen, given enough of a substance.  When you start taking 10x and 20x the recommended amount of a drug, things that wouldn't matter with a therapeutic dose start to matter, such as receptor binding you might otherwise be able to ignore in a normal instance, or ion channel blocking, or different metabolic pathways becoming activated due to saturation of a primary one giving you different metabolites that have differing chemical properties.
+
+So basically, it can often be hard to say.  If you are really curious about a particular substance, delve into the animal studies that companies have to do concerning drug metabolism, LD50, etc.
+
+All this being said, 4x the normal dosage is not THAT much for most things, with some very important exceptions for many older drugs.
+If people bothered to ask their pharmacist anything about their drugs rather then being in a hurry to get fast food pharmacy things like this wouldn't hAppen. Talk to your pharmacist people.
+
+Summary:
+Is it possible to overdose on antibiotics?
+The major side effect of increased antibiotics would be to kill off the person's natural flora in their gut.
+This knowledge comes from having to take heavy doses of antibiotics a couple of times.

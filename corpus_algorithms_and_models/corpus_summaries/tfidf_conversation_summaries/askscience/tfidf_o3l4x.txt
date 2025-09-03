@@ -1,0 +1,4 @@
+Original Response:
+Hey AskScience: I'm going to regret this, but I'm drunk and my friend has asked a question that I don't know how to answer. He's writing some software where he has ships that go between planets. The planets are in orbital motion, and the ships are in orbits around the planets. The ships can be instructed to go from one planet to another, but he doesn't want the ship to chase the planet, he wants the ships to aim towards where the planet is going to be. But we can't figure out how to figure that out. Think of how we send ships to mars. The ship doesn't go to where mars is, it aims towards where mars WILL be. How do we figure this out?
+
+Summary:

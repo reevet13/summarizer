@@ -1,0 +1,9 @@
+That is exactly what [Edward Lorenz](http://en.wikipedia.org/wiki/Edward_Lorenz) thought when he was working with early computational weather models. He was wrong and ended up working on chaos theory. 
+
+To his surprise the weather that the machine began to predict was completely different from the weather calculated before. Lorenz tracked this down to the computer printout. The computer worked with 6-digit precision, but the printout rounded variables off to a 3-digit number, so a value like 0.506127 was printed as 0.506. This difference is tiny and the consensus at the time would have been that it should have had practically no effect. However Lorenz had discovered that small changes in initial conditions produced large changes in the long-term outcome.[44] Lorenz's discovery, which gave its name to Lorenz attractors, showed that even detailed atmospheric modelling cannot in general make long-term weather predictions. Weather is usually predictable only about a week ahead.[26]
+
+The predictions are definitely getting more accurate with time.
+
+The problem with accurately predicting long term weather patterns arises from the incredible number of factors that come into play. Although the latest weather models take into consideration many more factors than they have in the past, there are countless (albeit small) variables that are either too numerous or too difficult to predict. All of these inaccuracies in the model compound and we observe weather that doesn't necessarily agree with the report. The further into the future we attempt to predict the weather, the more likely we are to be mistaken.
+
+Weather is a "chaotic system".

@@ -1,0 +1,18 @@
+Here is the summary of about 10% of the text, up to 250 words:
+
+The answer provided by 'Jim S' says that a modern dimmer switch (a 'Silicon Controlled Rectifier'), the light is flickering on-and-off really fast to give the appearance of dimness.
+
+So, here comes my question for you guys and gals of AskScience.
+
+If you had a room where the only light source came from lights that were controlled by a modern dimmer switch, is the room technically pitch-black for short periods of time? Or is the light still bouncing around from when the light was on?
+
+Many thanks,
+Will.
+
+Flickering a light on and off extremely rapidly would quickly kill most conventional light bulbs, and would also not work with compact fluorescent ballasts.
+
+No. For an incandescent or halogen bulb, the electricity causes the bulb to heat up and glow. The off periods cause the bulb to cool slightly, and the on periods cause it to heat up. It is dimming and getting brighter, and the average brightness is what you see.
+
+But even though the electricity is turning all the way off and then back on, the residual heat in the lightbulb will not let it go completely dark that quickly.
+
+Don't lights (or at least the power going to them) technically flicker anyway because of the properties of alternating current?

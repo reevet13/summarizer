@@ -1,0 +1,11 @@
+Here is the summary:
+
+When you hold a straight rod or string horizontally, there is always some downward deflection from the force of gravity.
+
+How much curvature would be needed to oppose this gravitational force?
+
+(I realize this is all mass and geometry relative)
+
+This actually comes up a lot in structural engineering.  For long span beams, there will always be a deflection caused by either the self weight of the beam, the dead loads, or a combination of both.
+
+They also do this for airplane wings. When they are being constructed the camber is 30 to 40 degrees between the ends.

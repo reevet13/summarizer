@@ -1,0 +1,26 @@
+Original Response:
+I attended a mine safety certification meeting and the instructor said that because coal has oxygen in it's molecular structure it doesn't need an outside source of oxygen to burn. That's why there are some mines that have been on fire underground for years. Is this true?
+Some coal deposits might contain air (in a kind of "foamy" structure), but if the coal "has oxygen in its molecular structure", it's carbon dioxide, or some kind of (non-flammable) oxide at least, because anything with "oxygen in its molecular structure" is usually the result of having burnt something.
+
+Give the instructor a printout of this: http://en.wikipedia.org/wiki/Mine_fire#Origins
+As usual, [Wikipedia has some good info:](http://en.wikipedia.org/wiki/Coal_seam_fire#Origins)
+
+&gt; Coal seam fires can be divided into near-surface fires, in which seams extend to the surface and the oxygen required for their ignition comes from the atmosphere, and fires in deep underground mines, where the oxygen comes from the ventilation.
+
+Coal [does have some oxygen content](http://en.wikipedia.org/wiki/Coal). The amount depends on the type of coal, with lignite having the most.
+Rubbish. Alcohols and carbonic acids have oxygen in them but haven't been burnt. DNA has tons of oxygen but isn't made by burning anything.
+OK, "all molecules containing oxygen" was a bit wide as a term. Still, the basic point stays true.
+
+Also "burning" does not need a flame. DNA WAS made by burning stuff, as was alcohol.
+And what exactly is burnt to create DNA?
+The oxygen in organic molecules is placed there via oxidation - which is the same process involved when you burn a log.  Whether you consider oxidation of individual atoms at the protein synthesis level to be "burning" or not is just a matter of semantics, it's the exact same chemical process.
+carbon, mostly, using water, by plants
+Depends on your definition of "burn." A fire is only an oxidation reaction that generates enough heat that the air and/or fuel glows. You could reasonably argue that any oxidation reaction that generates heat is "burning."
+The basics of the Fire Triangle is that if you cut off the supply of combustible material, oxygen or heat the fire will die out. In the case of oxygen and coal you actually only need very little oxygen to keep the combustion going on its minimum scale, hence near-underground fires going on for decades are possible with very little air supply but virtually all of them do not "burn" in the sense most of us apply to the word.
+Coal needs FREE oxygen to burn, if it is bound inside the chemical structure, it is not accessible for combustion.
+
+On a related topic, check out this demonstration of some guy lighting up some coal with liquid oxygen: http://www.youtube.com/watch?v=sab2Ltm1WcM
+
+Summary:
+Coal [does have some oxygen content](http://en.wikipedia.org/wiki/Coal).
+DNA has tons of oxygen but isn't made by burning anything.

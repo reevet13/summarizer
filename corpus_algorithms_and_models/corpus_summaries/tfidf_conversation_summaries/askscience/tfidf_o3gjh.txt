@@ -1,0 +1,70 @@
+Original Response:
+Humans have the capacity to understand that higher dimensions could possibly exist. Why don't we exist in a 2D or 4D universe?
+I thought our universe had like 13 dimensions according to M theory
+&gt;Humans have the capacity to understand that higher dimensions could possibly exist.
+
+This is where you're wrong. Although we're perfectly capable of grasping the idea of an alien dimension, [we still don't fully understand what would happen if we existed in a 2 dimensional universe instead.](http://space.mit.edu/home/tegmark/dimensions.gif) 
+
+A 2-D universe is a massless universe.  Because of this, EVERYTHING we know about physics is outright moot if applied to any other spacial dimension other than our own.  For example: In a 2-D world, gravity and energy wouldn't exist.  In a 4-D world, traditional atoms wouldn't exist.
+
+I know I kind of avoided the question in the title but I felt like this was necessary.
+We humans are aware of 3 dimensions which means the universe is either 3D or greater than 3D. If the latter, we are blind to higher dimensions just like we are blind to UV rays, or deaf to ultrasonic frequencies of sound.
+M-theory is not mainstream. It says 11 dimensions. Or it did when I looked at it. I guess it might have more now. I'll check later. :-)
+
+M-theory has a hyphen in the name because it's a name, not a "theory".
+Yeah it's 11, my bad
+Why would mass, gravity and energy not exist in 2 dimensions?
+Okay... I have no idea what Roastmasters is talking about.  Let's disregard all that stuff there.
+
+Unfortunately, the answer to your question is that nobody knows (yet).  We can construct fully functional quantum field theories and spacetimes in lower- and higher-dimensional spaces.  But we haven't yet found the reason why we should have a universe with three spatial dimensions, just as we don't yet know why the electron should have the mass it has, etc.
+
+That's not to say that we can never know.  There are various theories people are working on - especially string theories - where a 3D universe results from other things in the theory.  But they're still working on it.
+And here I thought we did live in at least a 4D world...time is the fourth dimension in many applicable problems.  Additionally, according to string theory we likely live in an 11 dimensional world.
+Source?
+I am paraphrasing information from the German publication "Physik Journal" (Phys. J. 6 (2007) No. 4):
+
+It first invokes the antropic principle to answer the question "why" the universe is the way we observe it (if it were unfit for us, we wouldn't observe it). 
+Life requires stability to evolve and the article concentrates on the stability of the two-body problem (which is required for planetary orbits and electron orbits). A central potential in n dimensions decays as distance^(n-2). Stable orbits are only possible for n&lt;4. 
+Universes with n&lt;3 are discounted because they do not sufficient complexity for highly evolved organism. (I have always found this to be the weak point in the article.). 
+
+Time is one-dimensional because fundamental laws (Laplace equation or Poisson equation) are ultrahyperbolic solutions to partial differential equations for n_t&gt;1 and are very sensitive to small variations of the initial conditions. Intelligence cannot evolve because predictions are not possible. 
+
+More information (in english) can be found in M. Tegmark, "On The Dimensionality of Spacetime", Class. Quant. Grav 14, L69 (1997) [online here](http://space.mit.edu/home/tegmark/dimensions.pdf) (cf. esp. the first figure).
+Here is a little bit about gravity in a 2+1 dimensional spacetime. (First page is free.)
+
+http://www.springerlink.com/content/9459347375v57388/
+As I understood it, membrane theory postulated that universes could have up to 11 dimensions (10 spatial + 1 temporal) and still be stable. We, however, most definitely live in a universe with 3 spatial dimensions. We can't construct exact replicas of hypercubes or other 4d objects, and I have trouble trying to visualize what a 4d object would even look like, much less objects with greater than 4 dimensions.
+I'm referring to strictly spatial dimensions, not including the fourth temporal dimension.
+&gt; M-theory has a hyphen in the name because it's a name, not a "theory".
+
+What do you mean by "it's a name, not a theory?" [M-theory most certainly is a theory, just not a widely accepted one](http://en.wikipedia.org/wiki/Introduction_to_M-theory), and "not being a theory" is not a reason for not using a hyphen, as far as I'm aware.
+
+Why is the hyphen in "X-rays"? They could just as well be called "X rays" because the X originally meant "unknown".
+Could you expound on that part on why time is one dimensional, in language a little more accessible to laymen? What do you mean that predictions aren't possible?
+If you repeatedly throw a ball, with some training, you'll more or less hit the same spot. Although each throw is different (you use a different amount of force, there are changing winds etc.), you can predict where where the ball will land. If small variations in the initial conditions of your throw result in totally different outcomes, however, you cannot predict the ball's path anymore. It seems reasonable that intelligent life needs such predictability. 
+
+What is shown in the paper I've linked to above is that certain basic physical laws take on a form which results in such unpredictable solutions if there are more one time dimensions.
+I think a modest way I can try to explain it is with the question "Why wouldn't we?". First, rather than imagining the dimensions as improving from 1D to 2D to 3D to 4D, imagine that 3D is all there is, and without a hierarchical name (let's just call it space). Now it's easier to imagine 2D as a component of 3D, not a weaker version that we lucked out of not living in.
+
+Quicker message - We include 2D as components in our reality, and probably are included as components in 4D reality and up.
+We don't know. There may be a reason, but it's possibly arbitrary.
+
+And the string theorists say our universe has 11 or more dimensions.
+
+Also, life anything like ours would be impossible in 2D universes, and inefficient in 4D ones compared to alternatives.
+
+Technically, also, time can be considered a fourth dimension.
+Thanks. Found it free. http://arxiv.org/abs/gr-qc/9408035v1
+That wasn't an attack on M-theory, but I see how my statement could have been mis-interpreted.
+
+Summary:
+Why don't we exist in a 2D or 4D universe?
+I thought our universe had like 13 dimensions according to M theory.
+:-)
+
+M-theory has a hyphen in the name because it's a name, not a "theory".
+Humans have the capacity to understand that higher dimensions could possibly exist.
+What do you mean by "it's a name, not a theory?"
+We, however, most definitely live in a universe with 3 spatial dimensions.
+&gt;Humans have the capacity to understand that higher dimensions could possibly exist.
+And the string theorists say our universe has 11 or more dimensions.

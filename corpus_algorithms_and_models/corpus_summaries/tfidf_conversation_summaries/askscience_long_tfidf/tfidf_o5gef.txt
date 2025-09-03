@@ -1,0 +1,67 @@
+Original Response:
+Just wondering about this, and would it be possible to learn a language at an older age or is it completely out of our capacity as human beings?
+because in the first 10 years (i think) of your life all the neural pathways in your brain are open but ones that are not used start to close and around 10 years of age the ones that are not used close and ones that have been being stimulated are quite hard to close after that time (why we get habits that are hard to break e.g nailbiting). This is also the reason why there are so many different language kids shows these days.
+(sorry for any spelling errors)
+I can't offer any references on this, but I read somewhere that some researchers believe this is just a common misconception.
+
+Some suggest that when we're young, we simply have more incentive to learn language because we have no other way of communicating.  When we are older, we find it easier to use other tools to overcome a language barrier rather than learning the new langauge.
+
+Wherever I read this (can't remember) said that some reports show that adults who are completely immersed in a foreign language country can learn as quickly as children.
+
+EDIT:  I can't recall the source for this so I don't vouch for its accuracy, but I don't think the common conclusion is necessarily correct
+"Wherever I read this (can't remember) said that some reports show that adults who are completely immersed in a foreign language country can learn as quickly as children."
+while i could say this is incorect to several expriences that could just be the small amount of them and what your saying is the majority of people
+(also it could be wrong as im only 14 and racking my brain to try and remember about the pathways stuff)
+In the sense that this probably differs very much from person-to-person, I'd certainly agree with you.
+
+By the time we're adults, we have developed personalities, habits &amp; the capacity to *decide* whether or not we will learn something.  Babies don't display these as much, and seem to simply learn everything they can.
+
+Even if the vast majority of adults in foreign language immersion don't learn the language, I don't that disproves my suggestion that just because adults may predominantly *choose* not to learn new languages after adolescence doesn't mean they *can't*.
+
+I still might be wrong!  but for a completely different reason :)
+the theory doesnt state that they cant just its very difficult also another thing backing the theory is feral children and that if they are found around 13/14ish then its almost impossible to make them act like a human (walking on 2 legs, using a knife and fork, speaking right ect ect) i would say more but i dont really like talking about feral children, it just makes me feel bad thinking about them
+This is completely anecdotal but perhaps it helps. I spent some time in Peru when I was 19 and had to learn spanish from very little initial education on Spanish. With no one who spoke English around me, I was able to make my way within the first few weeks and felt comfortable and fluent in spanish after about 2 to 3 months.
+I am a linguist finishing up my PhD focusing on second language acquisition. One explanation is the Critical Period Hypothesis (http://en.wikipedia.org/wiki/Critical_period_hypothesis) which generally argues that there is a critical period (generally thought to be before puberty) in which it is possible to acquire a first language. If the person doesn't receive any linguistic input during this period, then the child will not acquire language. For example, the movie The Wild Child (http://en.wikipedia.org/wiki/Genie_%28feral_child%29) details the life of a girl who was abused and missed receiving linguistic input during her critical period. Thus, she never fully developed language as a normal child would. I highly recommend watching this movie if you are at all interested in language acquisition. It's made for the layman.
+
+Anyway, the Critical Period Hypothesis has also been applied to second language learning, though more controversially. Basically, the theory states that it's generally easier to learn second languages earlier in life rather than later. Read the wikipedia article I posted to see more about what researchers have to say about why it's harder for adults to learn languages. Again, it's all pretty controversial and no one really knows the answer to your question for sure. 
+
+Another theory (put forth by Chomsky) is called Universal Grammar. This is the idea that everyone is preprogrammed to acquire a language. He argues that we all have innate building blocks to language and that what language we're exposed to as babies determines what one(s) we acquire. With respect to second language acquisition, UG argues that learning a language as an adult is more difficult because we've already used those innate building blocks once and it's difficult to rearrange them once they're set. Again, this is just a theory and quite controversial. http://en.wikipedia.org/wiki/Universal_grammar.
+
+Definitely you CAN learn languages at older ages, if you don't have any kind of physical/mental deficiency that would prevent you from doing so, but it may just be more difficult. Also, the older you get, the less likely you'll develop native-like fluency in your second language. I hope this answers your questions!
+R. Burling and David Singleton have done some reasearch which corroborates this. There are other linguists who disagree (Chomsky's theories, for instance, don't necessarily contravene the commonplace assumption that children learn languages more easily), but there's also some good data that suggests children don't learn languages nearly as easily as we think they do. It takes years for them to master their L1, for instance, and they're constantly making errors.
+
+Singleton's book, *Language Acquisition*, cites several studies which indicate adult learners progress much faster than children.
+
+The chief advantage children have is that they can devote more time to learning a language (especially their L1--the only other thing they're likely to be doing around that time is eating, pooping, and sleeping), they have greater motivation, and their peers (from whom children do most of their language learning) are often far crueler.
+You're also dealing with the fact that humans (indeed, any primate) which is undersocialized during their formative years will suffer from numerous, presently incurable, developmental and cognitive defects, including the inability to form meaningful relationships with other human beings or become accustomed to social norms, problems quite apart from language acquisition.
+
+Feral children are problematic evidence for the position that children learn language better since they're hardly controlled experiments--maltreatment and neglect are not going to affect only language faculty, and difficulty acquiring language later in life as a result could just as well be due to cognitive defect created by lack of care contact as an infant or small child.
+
+Studies of L2 acquisition by children don't, when compared with adult L2 acquisition, show any distinct advantages for children. Given that there is no basis for not doing so, we can probably generalize this trend in language acquisition to L1 languages.
+The problem with the Genie example (besides the fact it's utterly heartrending) is that it's hard to say that her problems with language acquisition aren't related to some broader form of cognitive impairment that results from abuse.
+
+The Universal Grammar idea has never seemed particularly unlikely to me, though it's never seemed particularly likely, either; the idea that we're preprogrammed to acquire language just seems like an unnecessarily specific statement of the obvious (that humans have a natural capacity for language as a result of their particular cognitive toolkit), and I have trouble seeing why, the tools for L1 acquisition having been used once, they would not remain in place for the acquisition of additional languages.
+
+I also find it troubling that (so far as I know) such assertions about elemental and low-level brain function haven't been directly correlated, even tenatively, with anything we know from neuroscience. That doesn't automatically invalidate the theory in question, of course, but it does make it seem much more hypothetical than theoretical to me.
+I agree with you completely. I should have clarified that Genie also might have had other problems that interfered with her development, but the example of the feral child in France (http://www.imdb.com/title/tt0064285/) also supports the Critical Period Hypothesis. And as for UG, yeah, I agree. I'm not too sure on it it (I'm not a fan of Chomsky really), but I put it here to show the OP that the answer to his/her question is not clearly answerable. I don't like Chomsky's assertion that environment has little to do with language acquisition and that it's all innate. That is why I kind of tend to agree more with the critical period hypothesis. However, I bet we'll see a lot more connection between SLA and neuroscience in the future as our general understanding of language acquisition (and learning) progresses and we get better tech to explore what exactly happens in the brain during the process.
+A recent study I read actually stated that the difference in learning speeds between adults and children is most strongly related to teaching style - if you're teaching a child a new language, and they make a mistake, you instantly correct them and tell them they did it wrong. However, if you're teaching an adult and they make a mistake you are more inclined to let them get away with it in order to spare their feelings.
+I believe it has to do with the development of our brain. The optimal time to learn a new language is before we've hit puberty. That time varies from person to person but its averaged at around 12 years old. You can credit this to the Critical Period Hypothesis which states that after puberty, people to take up a foreign language tend to fail grasping the grammatical skills needed to master said language and also, the person tends to take on an accent different than the target language they're studying, despite being immersed in it daily.
+
+SO...yes, you can learn a language after puberty but it won't come to you as your first language would. 
+Example - I'm fluent in Spanish and English. I'm able to think in both languages, even dream in both languages. I took up Italian in high school and all throughout college. Italian words do not just come to me as Spanish words do, it's not second nature. You have to really think about what you're about to say and you must practice. That is all :)
+My mother in law was a Holocaust survivor who went to England when she was about 20 and then to the US. She has a noticeable accent but her English vocabulary and grammar are nearly perfect, and she does a fairly difficult crossword puzzle every day. I don't think it took her more than a year to become decently fluent in English.
+
+A lot of it is motivation. And some people are better at learning language than others.
+But if you went to live in Italy you might become much better in Italian.
+I can assure you it can come very naturally. I've learned Japanese (I was ~20) and Chinese (~24), and with both I found that after being immersed in an environment it became very natural to use, think and even react in the language. (Like responding with "hai" in Japanese or "dui" in Chinese.) In many ways it's just habit.
+Yeah, probably. But there is no way I would pass as an Italian by speech alone. There will always be an accent. There will always be a telltale sign that it's not my native language. Unlike Spanish and English where I can pass as a native in America, Argentina or Chile since that's the accent I grew up with.
+
+Summary:
+I agree with you completely.
+I believe it has to do with the development of our brain.
+I don't like Chomsky's assertion that environment has little to do with language acquisition and that it's all innate.
+Wherever I read this (can't remember) said that some reports show that adults who are completely immersed in a foreign language country can learn as quickly as children.
+"Wherever I read this (can't remember) said that some reports show that adults who are completely immersed in a foreign language country can learn as quickly as children."
+That is why I kind of tend to agree more with the critical period hypothesis.
+Anyway, the Critical Period Hypothesis has also been applied to second language learning, though more controversially.
+And some people are better at learning language than others.

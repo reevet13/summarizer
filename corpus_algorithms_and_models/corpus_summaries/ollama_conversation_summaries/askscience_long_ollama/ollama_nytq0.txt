@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the original text:
+
+The amino-acid sequence of a protein determines its native conformation.[6] A protein molecule folds spontaneously during or after biosynthesis. While these macromolecules may be regarded as "folding themselves", the process also depends on the solvent (water or lipid bilayer),[7] the concentration of salts, the temperature, and the presence of molecular chaperones.
+
+Folded proteins usually have a side chain packing stabilizes the folded state, and charged or side chains occupy the solvent-exposed surface where they interact with surrounding water. Minimizing the number of hydrophobic side-chains exposed to water is an important driving force behind the folding process.[8] Formation of intramolecular hydrogen bonds provides another important contribution to protein stability.[9]
+
+Each native confirmation of a protein is the one in the lowest energy state, making it the most stable confirmation.  Anfinsen postulated that the native confirmation must have three characteristics: It must be unique, there can't be another state with an equally low energy state; It must be stable; and The path to the native state must be easily accessible.
+
+Proteins always refold correctly. Experiments have been run where proteins with several sulfide-sulfide bonds were denatured, then allowed to refold. If the disulfide bonds were arranged randomly, such as your flailing string analogy, then only a percentage of the proteins should have refolded with the correct disulfide bonds. Instead, 100% of proteins refolded perfectly.
+
+The correct folding process is the lowest possible energy and each folding step is not very reversible, so each time you progress in the right direction, you both have limited options (only a few conformations are lower in energy than the one you are currently in) and it is not favorable to go backwards if you make a correct fold, but an incorrect fold is somewhat reversible.
+
+Local structures, such as alpha helices, that form first can constrain the options of the rest of the protein. The final folding takes longer, but it's a jostling at the 'elbows' between largely fixed structures.
+
+Thermodynamics plays a role in protein folding; some local structures have a very low energy conformation, so those parts of the protein fall into place very quickly. The final lowest energy conformation of the whole protein has some parts that aren't as 'deep', so that settling process takes longer.

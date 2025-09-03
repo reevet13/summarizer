@@ -1,0 +1,5 @@
+I worked with several engineers two years ago to design an apparatus to deliver stem cell solutions.
+This was a challenging mechanical design problem, as we had to keep the stem cells suspended in solution for several hours while they were being delivered, but couldn't agitate them very vigorously, as it would shred cell walls.
+Anyhow, the purpose of this apparatus was to inject stem cells, *very slowly*, into a human knee joint for the purpose of regrowing articular cartilage.
+The patient undergoes a minor surgery to drill an access hole into the interior of the knee joint.
+The stem cell solution is slowly dripped over the cartilage, and shows remarkable efficacy in repairing wear/damage.

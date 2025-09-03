@@ -1,0 +1,11 @@
+Here is a summary of up to 250 words:
+
+Don't want to lock myself into NVIDIA or AMD, but needs a monitor upgrade. Would a 144Hz monitor with Vsync suffice as long as my card pumps out at least 72fps?
+
+I've been reading quite a bit about G/Freesync and V-sync... here's my understanding on what they do:
+
+\- The monitor (without G/Freesync) will poll the GPU at a constant rate, which is its refresh rate. If the GPU's frame rate is not in sync with the monitor's polling rate, then at a certain point in time, the monitor will try to render two frames (one outdated, and one incomplete). This causes screen tearing...
+
+\- V-sync creates a rule such that the monitor can only display completed frames. With only two buffers, it limits both the GPU and monitor, such that the monitor must wait for a complete frame before displaying a frame, and the GPU must wait until the buffer has been cleared (displayed) by the monitor before rendering a new frame...
+
+Doesn't this mean that, as long as my GPU pumps out at least 72 fps, I'd see a (relatively) buttery smooth performance on my screen with only V-sync?

@@ -1,0 +1,17 @@
+The Visible EM spectrum is different for most animals.  
+Bees see into the UV and Cats can see into the Near IR.  
+"Visible" Is what people call the light they can see.  
+This is correct... by *visual spectrum* we mean the frequencies of light that human eyes detect.  
+Certain other species can see into the IR, and UV.  
+Our eyes only respond to wavelengths of light between [390 to 750nm](http://en.wikipedia.org/wiki/1_E-7_m). Higher and lower wavelengths do not stimulate the rod and cone cells in the eye to transmit signals to the brain.  
+Just add to Sycosys's explanation that these wavelengths are what our eyes evolved to see.  
+The atmosphere filters out much of the EM spectrum.  
+The resolution of our eye is dictated by the wavelength of light.  
+The wavelength of light is about 500nm, which means we can make out the micrometer grooves within the gullies of our finger prints, but we can't make out the structure of the atoms in our finger.  
+Now let's use this to think about radio waves.  
+Imagine our eye had evolved to used radio waves.  
+The smallest distance that your eye could resolve is about 5cm.  
+We can see them. By using specially made machines designed to detect such wavelengths.  
+The visible spectrum is roughly the region of the EM spectrum where the sun emits most of its light.  
+This is because of evolution.  
+This is a fun way to approach this question.

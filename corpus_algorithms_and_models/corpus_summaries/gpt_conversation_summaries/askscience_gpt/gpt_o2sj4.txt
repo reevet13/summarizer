@@ -1,0 +1,4 @@
+Yes. Neither the foot nor the second were originally defined with any reference to the speed of light.  
+The speed of light is 299792 km per second. (via wolframalpha)  
+However, because of relativity, you'd actually be going at 76% the speed of light after a year.  
+Note, of course, that your calculation ignores relativity completely. In a relativistic calculation, constant acceleration means you approach the speed of light asymptotically as time goes to infinity so you don't reach the speed of light in any finite amount of time.

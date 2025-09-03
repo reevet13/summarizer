@@ -1,0 +1,519 @@
+Original Response: 
+Lightning bolts don't "go" anywhere, they're just the visible glow of ionized air.
+Lightning happens when the electric potential difference between clouds and the ground is too high and the air can no longer sustain it.
+The air breaks down, forming an ionized channel (the lightning bolt) that allows current to flow until the two regions are at the same potential.
+Afterwards, there is no potential difference and therefore no discharge.
+The air that made up the lightning bolt is just normal, non-ionized air again and some electrons have been transferred to the ground.
+That’s neat!
+I thought it would kind of disperse throughout dirt or something as an electrical charge but that’s interesting to find out that it’s just air.
+The energy dispersing through an object makes a pretty cool pattern, though.
+https://twistedsifter.com/2012/03/lichtenberg-figures-lightning-strike-scars/
+Isn't the flow usually up from the ground instead of down from the sky?
+The lightning comes out of the ground to strike the clouds rather than vice versa?
+I remember an experiment with wires attached to rockets and high speed cameras.
+The charge does indeed disperse throughout the ground but the visible part of the lightning bolt is caused by excitations of the air.
+Typically the lightning will branch out from the cloud downwards until one branch touches the ground, and then the path that connects the ground to the cloud will light up brighter than the others from the bottom up.
+It's both.
+It starts at the cloud first, just that path isn't visible.
+Google for more.
+I suppose if you survive at least you get a neat scar.
+I wonder if that woman had an earring in, seems likely.
+The guy with the one on his arm... can somebody get me just a little bit of lightning please?
+I want that.
+Well, the electrical charge disperses from the point it "hits the ground" and since the ground would considered to be at 0 volts and the bolt at tens of million volts, it will depending on the resistance of the earth, take some distance before the voltage reaches zero.
+If you stand close to the "hitting point", the potential between your feet can reach to high values and a current will flow up one of your legs and down the other.
+So even if the bolt doesn't hit you, you can get electrocuted this way.
+This is the reason to why some advice says to run away from dangerous spots with only one feet on the ground at the same time.
+Similarly the current passing through the soil can produce interesting results, in the form of [fulgurites](https://en.wikipedia.org/wiki/Fulgurite).
+[removed]
+It does both, actually.
+Negative lightning travels from cloud to ground, while "positive" lightning travels from ground to cloud.
+"Positive" is in air quotes because in reality it is the electrons which are physically moving in a direct current circuit - it's just that with "positive" lightning electrons are traveling in the reverse direction.
+Isn't their a theory that those aren't from lightning but from some government testing that they are covering up?
+[removed]
+[removed]
+[removed]
+It's not really normal air again, the channel is now full of ozone and nitrous oxides.
+[removed]
+[removed]
+So are electrons being physically transferred from the cloud to the ground so that positive charged atoms in the ground “absorb” electrons?
+Just show the picture to a tattoo artist.
+All the benefits without the risk of violent death via electrocution.
+So the air creates a 'wire' for the current to flow?
+[removed]
+What about the nitrogen fixation that happens through this method?
+What do  you mean by the electric potential difference being “too high”?
+And the air no longer being able to sustain it?
+Well you could say that the extra electrons (angry pixies) followed the bolt out of the clouds, into the Earth and just spread out to get some space.
+[removed]
+Can you explain that as if you were talking to a 5 year old please I would really like to understand what causes lightning and you seem to know alot.
+[removed]
+I like the angry pixies analogy for lightning and it’s ionized air.
+It’s much more poetic!
+Let’s talk about Thor striking his lightning bolt with angry pixies following behind him!
+Makes me wonder how it looks not only on the skin, but inside the body too, in 3d.
+[removed]
+Where’s the fun in that?
+[removed]
+It’s a static charge, just like when you rub a ballon on a jumper.
+However it’s created by the ice particles in the cloud rubbing together.
+[removed]
+[removed]
+Is flesh (and shoes) really more Co ductive than ground?
+Why would it take a much longer path through legs?
+Just as a point, isnt most lightning GtC and not CtG?
+I hear there's man-made lightning running through the streets of every town.
+Great answer!
+It makes me wonder though, when you say 'some' electrons... Just how many could there be in the average lightning strike?!
+Could we do some rough calculations?
+!
+It does.
+His answer is highly misleading because it focuses on the luminous affect you see (the lightning) not the collection and flow of electrons that occurs to balance the potential difference which causes the lightning bolt.
+For starters, the electrons flow up from the ground to the sky.
+Once the voltage potential is high enough it starts to "break down" air by ionizing it.
+This ionization causes the air to glow purple because that's the color ionized (atmospheric) nitrogen is.
+(One of the running jokes in the energy-systems group is "If you see purple, hit the deck.")
+In weather parlance these purple, ionized bits of air are called *feelers* and they will seek from the clouds down and from the ground up.
+When two feelers touch you complete a circuit and a massive flow of electrons shoots through the ionized air, which is a conductive plasma, and that causes the highly luminescent lightning bolt.
+This whole process takes a few microseconds.
+The same thing happens, on a much smaller scale, when a capacitor fails (and sometimes explodes.)
+Flesh is: it's mostly made of salty water, which is a pretty good conductor and conceivably much better than the ground.
+The advice when sheltering from lightning is to keep your feet as close together as possible so the distance between them is minimised and the ground offers a lower resistance path.
+[removed]
+I'm kind of surprised this isn't a thing at underground tattoo parlors yet.
+[removed]
+Dont the electrons actually run from the ground to the clouds?
+Think of it as a giant capacitor, so clouds are charged and so is the ground, but the charge is opposite.
+Now this means that charges particles want to travel to the other side (so electrons are negative so they want to go to the positive charged zone).
+Now they can't because of the air between them acts like a wall.
+So the charges build up.
+Now every medium has different resistance to a charge flowing through it.
+So when the charge exceeds the limit it goes through it anyways, and all at once.
+Imagine it is like a balloon holding the air back until there is too much.
+This is what you call lightning.
+So all that's happening is the charge hits the ground and then spreads through and disperses.
+It’s not so much that the person is more conductive than the ground, what he’s referring to is what’s called a “voltage gradient”.
+Think of the strike point as the bullseye on a target.
+Let’s say at that point there is 1 million volts if potential, and radiating out from that point, there are rings of decreasing potential say 800k, 600k, etc.
+this is caused by differences in soil composition and other factors.
+So if you had one foot in an 800k gradient, and one foot in a 600k, boom you now have 200,000 volts of potential between your feet, and you’re going to have a bad time.
+[removed]
+Yes and no, the air is actively preventing the charge from passing through, it's more like the electricity turns itself into a wire as opposed to the air.
+[removed]
+That happens through the nitrous oxides.
+Nitrogen gas and oxygen gas plus electricity generates ozone and nitrogen oxides.
+You can see this by running the stream of air from an air-fed ozone generator through a water solution.
+The nitrogen oxides are visible as the orange gas, and react with water to form nitrates.
+The nitrates are washed to the ground.
+Shows usually have an insulating sole.
+Dry skin is rather insulating.
+Blood is a different story which is why any nick or scratch in your skin increases your likelihood of being killed by electricity.
+[removed]
+It doesn't have to "start" or "end" on the ground at all.
+It's just an electric charger traveling the path with the least resistance similar to a positive and negative charge going through wood, just much fast sense air doesn't resist as much as wood.
+https://youtu.be/cm8Ok1oJjRw.
+The flow of electrons is from the ground up.
+[Because of a quirk in how electricity works/was-discovered we measure it "backwards" so the current flows down from the sky to the ground.
+](https://en.wikipedia.org/wiki/Electric_current#Conventions) This is because we discovered "electron holes" before we discovered electrons.
+*Feelers* are extended from both the clouds down and the ground up and once two of them touch it completes a circuit and that causes the lightning bolt.
+It does disperse through the ground.
+Say you were to meter from the center of the bolt to 1' away and it read 100v (just a number, not scientific), when you would meter between 1' and 2' away out would be 50v (again, nowhere close to realistic numbers).
+When we're digging out primary feeds, which are usually 13,200v, it's extremely dangerous to stand near it incase you break into a wire.
+Another coolish thing: say your standing close to a machine that hits a 13kv line.
+If your feet are equidistant from the wire, you'll be fine (usually) because there's no differential between your feet and no potential for the electric to flow through.
+If you're standing with one foot closer however, your closer foot is going to have a greater potential than your back foot and you become a short in the circuit.
+The lightning bolt is the ‘dispersal’.
+The opposite charges attract each other and electrons gather, usually at a high conductive point on the ground (lightning rod) or the low point of a cloud.
+The bolt reduces the total electrical potential.
+If you feel your hair standing on end from electric charge and you are near a storm, get down and away if you can.
+After the bolt your hair would return to normal if you are still alive.
+Objects rubbing together can generate an electric charge.
+This means that some objects end up with more electrons than other objects.
+If you have a thick rug or carpet, you can drag your feet around on the carpet for a few minutes to build up static charge on yourself, then touch a conductor (door knob, etc) to equalize the charges.
+There's a little zap that happens.
+When a lot of objects start to rub together, you can get bigger zaps.
+Clouds are the same as us, rubbing our feet on the carpet.
+Eventually they have so much charge built up that the ground (the doorknob) can exchange this extra charge with the clouds.
+For this to happen, there has to be a path through the air for the extra charge to flow.
+Normally the molecules in air aren't very good at this, but with enough charge build up, they'll form a path and the lightning will strike along that route.
+Big zap.
+In addition, sand that has been struck by lightning can become "fulgurite."
+It really does happen!
+&gt;  nitrogen fixation
+
+That term typically refers to a process that makes nitrogen available to a plant's root system from consumption.
+[Huh, I guess they say lightning is responsible for the production of NO2 which is used in this process.
+](https://journals.ametsoc.org/doi/abs/10.1175/1520-0469%281980%29037%3C0179%3AANFBL%3E2.0.CO%3B2)
+This was not a real answer to OP's question.
+Lighting has voltage and charge which is dissipated into the earth upon contact.
+OP's question is where does that go?
+No the other way around.
+Electrons flow up from the ground to the cloud to rebalance the electric potential.
+The feelers are the result of the electric potential overcoming the *dielectric strength* (insulation) of the air and ionizing it (turns it into a conductive plasma) and they reach in both directions.
+Once two of them touch it completes the circuit and the bolt of electron flows up.
+Note that is backwards from how current is defined because we discovered electron-holes before we discovered electrons.
+The bolt goes up not down.
+The electron holes are in the cloud and the Earth recharges them.
+Related question.
+If a lightning bolt hits the surface of saltwater (ocean) and you’re in the water, how far away from the point of contact do you need to be in order to not feel any electric charge?
+Seems those burns are temporary and typically not visible after some time.
+Not entirely sure you're right?
+"Conventional current" in a DC circuit flows from positive to negative whereas "electron current" flows negative to positive and is *actually* what's happening.
+If the clouds have excess negative charge (excess electrons) it will go from clouds to ground.
+If the ground has excess negative charge it will go from ground up.
+Right?
+Clouds actually shed electrons as they move and rub across the atmosphere.
+This makes them become more and more positively charged.
+Every material has a *dielectric strength* which is a measure of how insulating it is.
+Once the cloud sheds enough electrons to overcome the dielectric strength of air it starts to ionize the air, which makes it glow bluish-purple because ionized oxygen glows blue and nitrogen glows purple.
+This is when the feelers happen and they both reach up from the ground and down from the sky.
+When two of the feelers touch it completes a circuit and a massive bolt of electrons flows up from the ground to the sky.
+[removed]
+[removed]
+Most is cloud-to-cloud.
+To answer GtC vs. CtG you have to be a lot more specific in your terms and definitions.
+The electrons flow from ground to cloud.
+Current is defined "backwards" so this means the current flow is from cloud to ground.
+https://en.wikipedia.org/wiki/Electric_current#Conventions  
+  
+I'm do not have sufficient knowledgeable of atmospheric science to say the electrons never flow from the cloud to the ground but I don't see how that could ever naturally occur.
+It might happen if, say, you detonate a nuclear bomb in the air (as an EMP pulse generator).
+A lot of people seem to confuse the reaching out of the feelers from both sides to means the current flows both ways (it doesn't.)
+If you stop and think about this for a moment you'll also realize that it cannot possibly be the flow of electrons that causes ionization because there's almost no flow during the feeler stage.
+It must be the exchange of photons that causes ionization and to really blow your mind it's not even real photons it's so-called virtual photons.
+(Which frankly is more demonstrative of our primitive understanding of physics than anything else, maybe quantum-gravity and E8 will help us understand what is happening here better in the future.)
+Yes.
+It is a circuit path created by the ionization of the air which turns it into a plasma which is conductive.
+That's what the *feelers* are and when two touch it completes the circuit and BOOM lightning-bolt~~, lightning-bolt, lightning-bolt ...~~ (That's a meme it doesn't cause three bolts.)
+[removed]
+That explains why lightning happens all the time and not exclusive to storms and what not.
+“Hey, wanna see my scar?”.
+Apparently it's both?
+https://earthscience.stackexchange.com/questions/580/why-does-lightning-strike-from-the-ground-up.
+Somewhat, yes.
+Air normally tries to stop the current from flowing, but when electricity has enough energy, it 'zaps' the atoms in the air and uses the zapped atoms (which are no longer 'entirely air') to make the wire.
+Imagine that you have a water system with a paper plate stuck in the middle of a pipe.
+If you have enough pressure in the pipe, the water will tear a hole *through* the plate and keep going to where it wants to be.
+That wasn't what he asked.
+And lightning forms glass in sand when it strikes it.
+So you're not correct.
+[removed]
+Does this mean that the earth now has a different charge?
+How are we not getting shocked?
+[removed]
+Why dont people harvest lightning for power?
+Is there no way to store it?
+I am not sure if I would class being struck by lightening as violent, usually all the victim experiences is a bright flash then nothing, until they gain consciousness, or are dead.
+Outwardly violent maybe but inwardly no.
+Violent to me would be being tossed into a wood chipper legs first, or getting beat to death.
+[removed]
+[removed]
+That's exactly what happens.
+But the Earth is big and electron hungry so the local charge disperses quickly.
+[removed]
+Yeah i read the scars fade really fast, id love a tattoo styled like one though.
+Could you explain "electric potential difference" a bit more, please?
+Also there's that old saying "Lightning never strikes the same spot twice," but we know that's false.
+Why does that happen, are there times where one lightning bolt isn't enough to correct the potential difference?
+Cloud-to-ground lightning comes from the sky down, but the part you see comes from the ground up.
+A typical cloud-to-ground flash lowers a path of negative electricity (that we cannot see) towards the ground in a series of spurts.
+Objects on the ground generally have a positive charge.
+[removed]
+[removed]
+[removed]
+Wow, thanks for the solid explanation.
+Wow.
+I wonder if there is a way to create something similar, permanently, without the risk of dying.
+So what you're saying is that when a lightning bolt strikes near me, all I have to do is square up to it real quick so the potential is equal in both feet?
+What causes/increases the difference in potential between the clouds and the ground?
+[deleted]
+That's almost a shame, I'd be tempted to pick it just to get a scar.
+The best scars always seem to be the ones that fade; I had a giant crescent shape on my chest, but nope, that faded whilst the silly little ones on my hands stay.
+No, that wouldn't be the same thing.
+The experience, the randomness of the pattern, imagine scarring two people simultanously by the same discharge - *that* would be meaningful partner tattoo to some: "Oh, that cool fractal scar?
+We've had ourselfes purposefully been struck by the same lightning!"
+[removed]
+If it were a perfect system then theoretically yes, but the rings are not perfect circles, and you would most likely have zero time to react.
+If you actually survive/are un-injured by the initial strike, then you likely were already standing within a single gradient.
+This knowledge is mostly useful in knowing that you should hop away from the site on one foot.
+This also applies to downed power lines or other large sources of unchecked electrical power.
+IIRC, the "bolt" is initially formed when the sky and the ground both put out feelers, and when they finally meet, the visible (lighted) portion does travel from bottom to top.
+So it does sort of "go" somewhere.
+Or maybe "grow somewhere" would be more accurate.
+The Feynman Lectures has a truly excellent chapter describing this in fun and excruciating detail.
+[removed]
+[removed]
+What do you think about James Bunnell’s theory about underground lightning storms causing the Marfa Lights?
+[article](https://marfapublicradio.org/blog/west-texas-wonders/the-marfa-lights-underground-lightning-wandering-ghosts-or-something-else/)
+[removed]
+[removed]
+Wait, so with that knowledge, does that mean you could theoretically have a lightning bolt go through a different medium other than air?
+(Like water) Would it look different?
+[removed]
+[removed]
+[removed]
+[removed]
+[deleted]
+&gt;and some electrons have been transferred to the ground.
+Just how much is "some"?
+?
+[For the lazy/mobile](http://capturedlightning.com)
+
+Also for how 90s it looks that site was surprisingly usable on my phone.
+In addition to your good explanation,  the energy in lighting is converted into heat and burned off into ozone.
+Some of that heat is evident when the lighting melts sand into glass.
+I'm not the sort of dude who would ever get a tattoo, but if I survived a lightning strike I would look into getting the pattern permanently tattooed because they look pretty badass and make for a great story.
+Man, you really weren’t kidding about the 90’s style website lol, but those look pretty cool!
+[removed]
+Hiroshi Sugimoto did some of his work by running electric discharges on a photographic dry plate, and it's [pretty cool](https://www.wired.com/2009/12/pl_arts_sugimoto/)
+What happens to those electrons once they’re transferred to the ground though?
+Thanks.
+I updated my post to be linkable too (I typed from mobile myself originally, hence skipping the www and the auto-linkification).
+[removed]
+[removed]
+[removed]
+[removed]
+I used to think this too until I learned the scars are temporary in most cases.
+There's two types of lightning where the poles are reversed, but this is true 95% of the time.
+The positive lightning 5% of the time tends to be the really big ones.
+The cool thing about 90s websites is that they were truly responsive, in that they were designed to degrade gracefully, instead of of targeting a few popular devices and calling that responsive.
+[removed]
+This is wrong.
+When the lightning goes from air to ground, that is electrons going from air to ground.
+IIRC the clouds have so many electrons from friction transfer (triboelectric effect) with the wind, causing such a high (negative) potential.
+Note that lightning can also go from ground to air, in which case you're right.
+The charge (electrons) physically move from clouds to ground (or vice versa).
+The Earth is one huge conductor, which is why it's used as ground potential so often, eg.
+the neutral wires in your house are literally connected to a huge stake in the ground outside your house.
+Voltage [is just a difference in charge potential](https://en.wikipedia.org/wiki/Voltage), so it doesn't "go" anywhere, it just equalizes once the charges move.
+IIRC the clouds have so many electrons from [friction transfer](https://en.wikipedia.org/wiki/Triboelectric_effect) with the wind, causing such a high (negative) potential.
+Not only that but the lightening bolt is flowing up towards the clouds starting from the ground.
+[removed]
+Now I'm imaging Final Fantasy X, where you have to dodge 200 (?)
+lightning bolts to unlock a weapon.
+Doing it all on one foot.
+[removed]
+But which direction does it go?
+Cloud to ground?
+Other way around?
+The visible bolt, I mean.
+[removed]
+[removed]
+So when people are 'struck by lightning' are they not actually struck by anything?
+[removed]
+[deleted]
+[removed]
+Not a physicist,  but something tells me the the distance must be a partially, if not fully related to the inverse-square law.
+Yup, got bit by a brown recluse deep in the high desert of Texas.
+Had to cut necrotic flesh off my forehead using a Leatherman and signal mirror while walking the three days back to my car.
+Cool scar, great story and the thing just fades away.
+The scar on my leg I got tripping over a rock when I was eight?
+That one looks like it happened three weeks ago.
+Unfortunately, you probably wouldn't find an artist who would do that.
+It's a wound and highly susceptible to infection.
+I love the thinking though!
+Maybe there's a window when the wound is healed and the pattern is still there where it would be safe to trace.
+I was thinking some sort of template based off a photo, or trace it on a clear sheet of cellulose or something, then re-apply once it's healed, I don't imagine I would want a tattoo over some fresh scars lol.
+[removed]
+Take a photo let it heal then have it tattooed?
+There also pretty cool glass sculptures formed when lightning hours sand.
+Additionally...
+I own PrettyCoolPattern.com :D
+
+Pretty Cool.
+It’s an absolutely phenomenal current and voltage in such a short timeframe that generates so much heat that it usually fucks up what it hits, basically.
+Theoretically super capacitors should b able to charge off a lightning hit, but lightning is super unreliable as a source so it also wouldn’t make sense trying to harvest it.
+....idk, being burned on the inside, with some possible exploding flesh, that seems reasonably violent.
+Otherwise you could also say that getting blown to bits is not a particularly violent demise, for example....
+Though I get that the violence would only be witnessed by external observers.
+So... if someone invented an doomsday weapon to ionize all the air, it would look lightning?
+No, charge transfer occurs when ice particles in the cloud collide.
+The particular direction of the transfer between differently sized particles depends on the temperature and humidity in the cloud.
+Charge separation occurs when the particles are sorted in the updraft.
+[removed]
+Most cloud to ground lightning is caused by a large negative charge center in the cloud close to the ground.
+About 5-10% of cloud to ground lightning is caused by a large positive charge center in the cloud close to the ground.
+The ground is a conductor, so it's basically a mirror of the cloud.
+Electrons can move either way, depending on the conditions.
+It's pretty much true that in a conductor, electrons are the charges which move, but in some cases -- and lightening could very well be an example -- positive ions make up a substantial amount of the moving charge.
+[removed]
+I know it's a subjective kinda thing, but I classify a violent death as pretty much any death where your conscious the whole time, in agony with little ability to stop it, feeling every bit of pain whilst you die, and no way for you to come to terms with it before it actually ends.
+Deaths where one second your there and the next your not, as I said while can be perceived as outwardly violent, eg dying from the blast of a nuclear explosion, isn't so much inwardly as you never experienced anything, just  one second your alive, the next your dead.
+"Wanna know how I got these scars?"
+It does, the charge is dissipated first by the air it travels through and eventually by the ground it strikes, which is of much lower resistance than air.
+Hence the term, "grounding".
+Direct current or DC electricity is the continuous movement of electrons from negative to positive through a conducting material such as a metal wire.
+A DC circuit is necessary to allow the current or steam of electrons to flow.
+In a circuit, the direction of the current is opposite the flow of electrons.
+[source](https://www.school-for-champions.com/science/dc.htm#.W6brIHplD3A)
+
+Edit: actually appears you made a typo because your analogy is correct at the end.
+[removed]
+Its not necessarily more conductive but just another path for current to take.
+People say current follows the path of least resistance but really current follows all paths its just that most of it follows the path of least resistance.
+Lightning bolts contain a tremendous amount of current, think thousands of amps, but even 0.1 amp will probably kill you.
+The resistance of the body can be estimated as 500 per leg and 1000 for the torso.
+That's only 2000 ohms and you could easily have 2,000 volts potential difference between your feet, and I've heard estimates many times higher than that.
+From there use V=I*R and you easily get 1A of current and a trip to the morgue.
+But even with a voltage gradient across your feet, if there's less resistance within the ground, the current is going to go that way, right?
+The same way that there's a voltage gradient across a column of air during a lighting strike, but if there's a handy water-laden tree in the way, the charge is going to go through that's arboreal path of least resistance even though the voltage gradient still exists in the neighbouring air.
+Also thunder is the sound of the expanded air (from the intense heat) suddenly collapsing back upon itself (from the sudden disappearance of the intense heat).
+Essentially the air just claps against itself.
+Boom.
+Apparently the scars fade enormously.
+Air and electrons.
+And as per the (a little bit too) reaching explanation: the ground.
+The answer is the lightning goes into the ground.
+1.
+That's the most metal thing ever.
+Kudos
+2.
+My cat scratched a thin line on my stomach months ago and it looks like I had a clean knife wound.
+I have a couple pieces of those.
+Walk a beach in a thunderstorm prone area long enough and you'll find some.
+If seen lightning hit a rock face.
+It doesn't just dissapate, it explodes like a tank shell.
+[removed]
+[removed]
+Don't listen to this guy.
+There are only two lightning bolts, and Zeus recalls them to his hand after each strike so he can hurl them on to the next strike.
+As I understand it, the stepped leaders are comprised of ions (usually negative ions from the cloud and positive ions from the ground), but the return stroke that actually equalizes the charge between the cloud and the ground is comprised of flowing electrons.
+I could be wrong, though.
+So basically, if I ever get caught in an open field, the best way to 'mitigate' a lightning strike would be to duck on one feet?
+Will it also matter if I duck flat-footed or on my toes?
+(Just wondering here, chances are slim I will ever get caught in an open-field-lightning-strike scenario, but I'm interested in the science behind it)
+i don't really understand this because if it is just air then how is the lightning able to shock and or burn people or things.
+i'm not trying to argue as i have no knowledge on the topic but could you please go a little deeper into the subject.
+&amp;#x200B;
+[removed]
+[removed]
+Same as when you zap yourself on a doorknob - that tiny spark is the same as a lightning bolt, only very small.
+A big lightning bolt is the sky "zapping" itself to the ground.
+The light is just a side effect of the current flowing from sky to ground.
+Once the current stops flowing, no more light.
+Can you take a shot at explaining ball lightning in this context?
+I assume there is some ozone for a little bit--that there would be a bit of ozone smell right after.
+And if the lightning happened to touch down in a sandy desert, there MIGHT be some newly-made glass where it touched down (a [fulgurite](https://www.google.com/search?rlz=1CAACAV_enUS789US789&amp;tbm=isch&amp;q=lightning+glass&amp;chips=q:lightning+glass,g_2:fulgurite&amp;sa=X&amp;ved=0ahUKEwjd0Pndk9DdAhWJxIMKHdShAgQQ4lYIKigA&amp;biw=1536&amp;bih=719&amp;dpr=1.25)).
+[removed]
+Not two hours ago I was given two Lichtenburg Figures from MIT circa 1944 done in what looks and feels like acrylic.
+Those feelers.
+Are those the little things you see in those slowed down videos of lightning where it looks like it's travelling to the floor and when it does the flash goes off?
+[removed]
+that's probably the coolest scar I've ever seen.
+wonder if the dude uses it to pick up chicks lol.
+[removed]
+[removed]
+The one that hit the guy’s shoulder showed some blistering in one picture, so there was probably some burn-type pain afterward.
+It’s not true that there is no potential difference after lightning occurs.
+The earth’s surface sits at around -400 kV relative to the ionosphere, all the time.
+I believe cloud/ground lightning actually charges it up higher, rather than depleting it as you might expect!
+Also I would note that most lightning you see in a storm is cloud-to-cloud, not cloud-to-ground.
+That sounds like you have a high change of getting electrocuted, or am I missing something?
+[removed]
+I would argue that your definition of a violent death could be better described as the difference between a good (or easy) death (there one moment, gone the next) and a bad (or hard) death (alive and aware for _way_ too much of it).
+You can have violent good deaths, and non-violent bad deaths.
+But we would probably agree on what kinds of deaths we really, really don't want, even if we use different language.
+:)
+Thats an understandable definition.
+Not sure it's the most common definition, but I can see the point and your reasoning.
+From the perspective of the dy-ee, many "violent" deaths would be pretty uneventful.
+What causes this electrical potential deference?
+[removed]
+[removed]
+This is not correct.
+Electron flow is usually from the cloud to the ground.
+From wikipedia:  
+
+Most CG lightning is negative, meaning that a negative charge is transferred to ground and electrons travel downward along the lightning channel.
+...
+Positive lightning is less common than negative lightning, and on average makes up less than 5% of all lightning strikes.
+[https://en.wikipedia.org/wiki/Lightning#Positive\_and\_negative\_lightning](https://en.wikipedia.org/wiki/Lightning#Positive_and_negative_lightning)
+[removed]
+[removed]
+OP meant walking the beach AFTER a thunderstorm (or really any time other than during one).
+The glass formations don't erode immediately once created.
+So they can be found when the weather is safe for beach going.
+[removed]
+
+Wreaking Havoc with Electrons for Over 40 Years!
+Your on-line source for Fun With Physics since 1999.
+Last updated  08/22/18.
+Last redesigned 1999.
+[removed]
+[removed]
+These can also fossilize, and are found in rocks millions of years old.
+It's cool that an event that lasted a fraction of a second can be preserved for pretty much ever.
+[removed]
+[removed]
+And doctors won't have problems finding a vein (assuming they are following veins)
+Electricity doesn't really take "the path of least resistance", it takes all paths, proportionally to their conductance.
+Usually that's effectively the same, but a very small proportion of a lightning bolt can still be a lot of current.
+[removed]
+[removed]
+
+Summary: 
+The flow of electrons is from the ground up.
+The electrons flow from ground to cloud.
+Electron flow is usually from the cloud to the ground.
+It does disperse through the ground.
+The lightning bolt is the ‘dispersal’.
+The answer is the lightning goes into the ground.
+This is what you call lightning.
+The bolt goes up not down.
+&gt;and some electrons have been transferred to the ground.
+Electrons flow up from the ground to the cloud to rebalance the electric potential.
+Objects on the ground generally have a positive charge.
+The visible bolt, I mean.
+Dont the electrons actually run from the ground to the clouds?
+The nitrates are washed to the ground.
+So the charges build up.
+lightning bolts to unlock a weapon.
+What causes/increases the difference in potential between the clouds and the ground?
+If the ground has excess negative charge it will go from ground up.
+For starters, the electrons flow up from the ground to the sky.
+When the lightning goes from air to ground, that is electrons going from air to ground.
+The ground is a conductor, so it's basically a mirror of the cloud.
+A big lightning bolt is the sky "zapping" itself to the ground.
+So the air creates a 'wire' for the current to flow?
+For this to happen, there has to be a path through the air for the extra charge to flow.
+It doesn't have to "start" or "end" on the ground at all.
+The electron holes are in the cloud and the Earth recharges them.
+The charge (electrons) physically move from clouds to ground (or vice versa).
+This is when the feelers happen and they both reach up from the ground and down from the sky.
+It’s not true that there is no potential difference after lightning occurs.
+Lightning happens when the electric potential difference between clouds and the ground is too high and the air can no longer sustain it.
+This makes them become more and more positively charged.
+I could be wrong, though.
+The bolt reduces the total electrical potential.
+Isn't the flow usually up from the ground instead of down from the sky?
+So all that's happening is the charge hits the ground and then spreads through and disperses.
+(Like water) Would it look different?
+The light is just a side effect of the current flowing from sky to ground.
+What happens to those electrons once they’re transferred to the ground though?
+If the clouds have excess negative charge (excess electrons) it will go from clouds to ground.
+Negative lightning travels from cloud to ground, while "positive" lightning travels from ground to cloud.
+Not only that but the lightening bolt is flowing up towards the clouds starting from the ground.
+The lightning comes out of the ground to strike the clouds rather than vice versa?
+The air that made up the lightning bolt is just normal, non-ionized air again and some electrons have been transferred to the ground.
+Current is defined "backwards" so this means the current flow is from cloud to ground.
+Note that lightning can also go from ground to air, in which case you're right.
+I love the thinking though!
+I have a couple pieces of those.
+Does this mean that the earth now has a different charge?
+Just how much is "some"?
+Think of it as a giant capacitor, so clouds are charged and so is the ground, but the charge is opposite.
+I like the angry pixies analogy for lightning and it’s ionized air.
+In a circuit, the direction of the current is opposite the flow of electrons.
+Essentially the air just claps against itself.
+Once two of them touch it completes the circuit and the bolt of electron flows up.
+What causes this electrical potential deference?
+*Feelers* are extended from both the clouds down and the ground up and once two of them touch it completes a circuit and that causes the lightning bolt.
+Once the current stops flowing, no more light.
+And lightning forms glass in sand when it strikes it.
+Now every medium has different resistance to a charge flowing through it.
+That explains why lightning happens all the time and not exclusive to storms and what not.
+The positive lightning 5% of the time tends to be the really big ones.
+Most cloud to ground lightning is caused by a large negative charge center in the cloud close to the ground.
+Objects rubbing together can generate an electric charge.
+So are electrons being physically transferred from the cloud to the ground so that positive charged atoms in the ground “absorb” electrons?
+There's a little zap that happens.

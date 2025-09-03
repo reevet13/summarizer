@@ -1,0 +1,17 @@
+Here are the selected sentences from the original text:
+
+The mass of an empty standard US 1/2 keg is 13.5kg so there would need to be at least 13.5 litres of air in the keg - somehow I doubt this is possible
+
+In lakes &amp; pools, **full** kegs will sink . Like rocks. Rocks full of sorrow and wasted beer.
+
+The factors it depends on are:
+
+-Density of the keg (must be less than density of water)
+
+Volume: 0.0777 m3 (the amount of displaced water will be less since the height listed also includes the top and bottom rims and the quantity of beer is not accurate for judging volume because it doesn't take into account the pressurized gasses present.)
+
+Mass of a full keg: 72.8 Kg
+
+For the keg to sink, the mass of water displaced must be less than or equal to the mass of the full keg.
+
+If you were to try to sink it in sea water, it would displace 79.675 kg of water as salt water is denser than pure water so it is more likely to float, but again is at the mercy of the previously mentioned issues.

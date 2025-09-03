@@ -1,0 +1,15 @@
+Original Response:
+[Product Link](http://www.wickedlasers.com/lasers/S3_Spyder_Arctic-96-37.html)
+
+I'm reading about this thing, and it seems to me that while it's powerful enough to be irresponsibly dangerous, it's not really powerful enough to be useful.
+
+Does anyone know any practical application the average retail consumer would have for this?
+
+What about the hardcore geek?
+Stroboscope for high-speed microscopy.
+Optical microscopy?  (As opposed to something like SEM or TEM.) I am assuming using a CCD as receiver, not an eyepiece.
+Yes. For example, in my old lab we would look at the oscillations of small bubbles, which were in the MHz range. We didn't have a camera that could record that fast (I think only one exists, it's in the Netherlands and called Brandaris), so the plan was to pulse a high power laser through the system into the microscope (connected to a highspeed camera), pulsing at a frequency that was just slightly out of phase with the bubble oscillations, so that every cycle you'd see a slightly different phase of the bubble's motion, and could reconstruct it from that.
+it's not that it's not powerful enough to not be useful, it's that, at least in AMO physics, you need your lasers to be much more controllable than that.  For a diode laser to have narrow linewidth it's feedback and current need to be very carefully controlled, constantly, at high speeds.  It also needs to be temperature stabilized.  This laser certainly does not meet those requirements.  In terms of power, we often use lasers as weak (or weaker) than 1 mW.  A watt is actually a pretty powerful benchtop laser.
+
+Summary:
+it's not that it's not powerful enough to not be useful, it's that, at least in AMO physics, you need your lasers to be much more controllable than that.

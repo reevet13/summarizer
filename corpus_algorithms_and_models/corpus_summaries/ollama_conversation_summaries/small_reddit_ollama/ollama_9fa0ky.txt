@@ -1,0 +1,10 @@
+Here is the summary of up to 250 words:
+
+So far I have heard of and and Heli crash sites.  
+Wolves and deer are in. Courtesy of Tacopie
+Kobra sight, Zebaba
+This stuff is on experimental currently:
+Added: Mushrooms, pears, plums, M4, Mosin, SVD, MP-133, ACOG, M68 Optic, PU Scope, red dot, Kobra, PSO-1, goats, pigs, boar, sheep, cows, deer, jumping, unconsciousness, shock damage, CPR, new rain effects, new thunder effects, disease, fullness/puking, environmental exposure (mechanics are in place but effects are disabled for temperature and disease), wetness, burying stashes, AI sensors (weight and color of items affects detection), repairing (leather sewing kit, sewing kit, weapon cleaning kit, duct tape works), compass, soft skills, ambient loot system, PA systems, base radio, helicopter crashes, police car spawns, new bell in Cherno (sounds like a Church bell), SMERSH vest and backpack.
+
+Hero.
+How do you jump? I have one button for "step over" (y), which lets me clear low fences in a running jump, but is there a separate button for jumping, not called "step over"? Pressing spacebar while running doesn't make me jump.

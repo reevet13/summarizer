@@ -1,0 +1,39 @@
+Original Response:
+I need to order some new wire, the same as the one I ordered a couple of years ago but the company seem to have lost my order details. All I know is that it's fused Clapton wire but I can't remember if it's stainless steel or kanthal, is there a way to test it to figure out which one it is? Resistance or magnetism or something?
+
+
+Update: thanks for the replies, pretty sure it's stainless as it's not magnetic at all.
+Kanthal will react to a magnet, while stainless wire will not. Also, the resistance of the stainless wire will increase as it is heated, while kanthal wire will maintain it's resistance when heated.
+Good to know
+Except for SS430 wire, which is magnetic.
+Word.  The fact that the resistance raises when heated interested me.
+
+Guess I never looked into those kind of properties that I usually do
+Yup, because the resistance changes with TC wire, the coil is not only acting as a heater to vaporize the juice, but also doubles as a temperature probe. :)
+With often terrible accuracy and fluctuating/changing resistances over time.  There's not many devices that handle TC well.  SS is also suitable in VW/VV, whereas Titanium and Nickle would be unsafe.
+There are devices that calls themselves TC mods that aren't. But there are some TC mods that also does SS really well. The DNA mods for example, does wonderfully with SS wire.
+
+And I found no evidence at all that at normal vaping temperatures that either titanium or nickel are harmful at all. Except for those 20% who are allergic to nickel. And vaping juice above [470°F releases high amount of formaldehyde and Acetaldehyde (both carcinogens)] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169811). So it is very dangerous to vape without TC protection anyway.
+I didn't say there weren't any devices that handled TC well, just not many in the grand scheme of total TC mods available.  Which is just about everything regulated nowadays.
+
+  
+The resistance of the wire changes over time, requiring constant updates on the device at room temperature to correct TC, making many devices frustrating to use.  
+
+&amp;#x200B;
+
+The safety of SS vs Ti or Ni, is in relation to their TCRs.
+That is why 75C/250C/DNA Go Replay mode is fascinating. It doesn't need to know the cold coil resistance at 72°F. That is why you see people testing them by putting their mod in the freezer and then pulling it out later and take a hit and it is still perfect every time. Try that with most regular TC mods and you will get a very cold vape probably about 72°F colder than it is set to.
+72.0 °F ≈ 22.2 °C
+
+
+
+^(I'm a bot. Downvote to remove.) 
+
+_____
+
+  ^| ^[Info](https://www.reddit.com/user/Bot_Metric/comments/8lt7af/i_am_a_bot/) ^| ^[PM](https://www.reddit.com/message/compose?to=Ttime5) ^| ^[Stats](https://www.reddit.com/message/compose?to=Bot_Metric&amp;subject=stats&amp;message=Send%20this%20message%20to%20get%20some%20stats!) ^| ^[Opt-out](https://www.reddit.com/message/compose?to=Bot_Metric&amp;subject=Don't%20reply%20to%20me&amp;message=If%20you%20send%20this%20message,%20I%20will%20no%20longer%20reply%20to%20your%20comments%20and%20posts.) ^| ^[Patreon](https://www.patreon.com/MetricBot) ^| ^[v.4.4.4](https://www.reddit.com/user/Bot_Metric/comments/8o9vgz/updates/) ^|
+
+Summary:
+There's not many devices that handle TC well.
+Kanthal will react to a magnet, while stainless wire will not.
+But there are some TC mods that also does SS really well.

@@ -1,0 +1,11 @@
+During the cold war, pretty much all recovered listening devices were disassembled and studied. During the second world war, [Enigma encryption machines](http://www.bbc.co.uk/ww2peopleswar/stories/77/a3672777.shtml) were studied by the allies to break the encryption. These days, a lot of outdated electronics get reverse engineered to build compatible replacement parts.
+
+Reverse-engineering itself happens all the time. One of the reasons PCs are not all made by IBM is because Compaq reverse engineered the PC BIOS to make "IBM-compatible" computers. The Soviets would actually dissect western microprocessors and develop clones based off of them. I know in the hardware business companies reverse engineer each other's products all the time (often to see if their competitors impinging on any of their patents).
+
+During the Vietnam war, the Soviets reverse engineered an [AIM-9 Sidewinder](http://en.wikipedia.org/wiki/AIM-9_Sidewinder) missile which got lodged in one of their Migs without exploding. They were able to create a copy which was so close to the original that parts were interchangable.
+
+Besides mechanical systems, software gets reverse engineered all the time. This is what allows hackers to break security.
+
+Some human viruses have been reverse-engineered to produce infectious clones. By this I mean that we have taken a known viral sequence and artificially created those sequences to produce an infectious virus. It's been done with SARS and many other viruses.
+
+You can find countless examples in wartime as well; where each side attempts to capture and reverse engineer each other's weapons, to use the technology and/or better defend against it. A classic example is the story of the Enigma machine and Alan Turing.

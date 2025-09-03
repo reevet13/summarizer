@@ -1,0 +1,17 @@
+During the Apollo missions to land on the Moon, the Lunar Modules would land as a whole. When the Astronauts needed to leave the Lunar atmosphere and start the return mission, the bottom portion of the module was used as a launch pad. Leaving it behind on the Moon.
+
+The Moon's atmosphere seems to be primarily Argon, Hydrogen and Sodium, nothing that could potentially attack and decay the Lunar Modules. There are no Earth weather-like events on the Moon.
+
+I know we can't see them from Earth. *Actually* i should restate that. The last time i did any research on that, i found that we don't have the optics on Earth to pick up that much detail on the moon. Our telescopes aren't currently strong enough resolution wise.
+
+I do know that the Apollo missions resulted in reflective mirrors being placed at described locations on the Moon. We use those reflective mirrors to reflect a laser off of them and determine how long it takes the reflection to occur. This gives us the math to determine how far the Moon is from the Earth. It also solidifies the proof that the moon landings were not a hoax.
+
+The lunar module has a width of 14 feet. You can calculate the angle that 14 feet subtends at the distance of the moon, and it comes out to about .01 arcseconds.
+
+You can't see them from earth. Though they have been seen from Luna orbit by a satellite a few years ago.
+
+As to your original question... things like solar wind and hard radiation may affect the chemical composition of any artifact left unprotected (embrittlement of both metal and plastic components might result), and micrometeorite bombardment would basically "sandblast" the descent stage of the lander, just as the rest of the lunar surface has been sandblasted by micrometeorite bombardment for eons.
+
+Assuming some later group of people don't come along and decide to move or otherwise disturb it, it's safe to assume the lander descent stage would probably remain intact for a very, very long time.
+
+Moon has no weather and almost no atmosphere. It will remain there for aeons, unless somebody takes them from the surface in the future, which is probable.

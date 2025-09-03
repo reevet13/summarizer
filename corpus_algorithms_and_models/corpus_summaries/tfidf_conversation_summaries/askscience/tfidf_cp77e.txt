@@ -1,0 +1,34 @@
+Original Response:
+AskScience: In my work, I often deal with anoxic water samples with some dissolved (ferrous) iron and dissolved hydrogen sulfide gas. The water, when kept anoxic, is clear; however, upon exposure to air (oxygen), the water turns black. Reacting the precipitate with a strong acid generates hydrogen sulfide. Why does exposure to oxygen cause the generation of this black precipitate? If the precipitate is ferrous sulfide, why does exposure to oxygen accelerate this precipitation?  Thanks for any insight!
+Are your water samples collected from natural sources like lakes or rivers? Your precipitate is definitely FeS , but I'd like to know more about the origin of the samples before speculating as to why oxygen speeds up the deal.
+The water samples come from oil reservoirs.
+[deleted]
+What I don't understand is, what is inhibiting the direct reaction of the sulfide and the ferrous ion?  I mean, there has to be some anion around to let the iron be in solution.  Call it "An".
+
+So, why not just:
+
+ FeAn + H2S &lt;-&gt; FeS + H2An  ?
+Well, An can be anything (say, Cl-), but this will be in aqueous solution, meaning the salt will separated.  It's not to say FeCl2 doesn't form, but it's not a black precipitate.
+
+On that note, it may not be oxygen that's "speeding up" the process (oxygen will react with Fe(II) to form Fe(III) which will be reddish), but it may be the CO2 being added into the system which begins to buffer it.  If these samples are from oil reservoirs, they probably are not in atmospheric equilibrium with CO2.  This (probably) drives the pH to a point where FeS(s) prevails over other Fe(II) species which would cause the black precipiate.  If you add a strong acid, it lowers the pH, which speciates S2- to H2S, which is able to exit the solution (HS- and S2- are not able).  
+
+Another alternative is that O2 is oxidizing dissolved manganese to MnO2 which is also black and the H2S production is just because the acid dropped the pH below the pKa1.
+Easy enough to check--alter the pH of the solution without exposing it to air.
+True.  I have a glovebag I use for my gw samples so this is pretty easy.  But with that I also have an IC and an ICP-MS to study this stuff.  I'm sure what his equipment situation is.  
+
+Maybe the easiest solution would be to filter the precipitate, redissolve it in water, and then adjust the pH using HCl.  If the solution still produces H2S, then you can be pretty sure the black is FeS.
+How is this for a possibility?
+
+Reaction of molecular oxygen (O2) with hydrogen sulfide (H2S) generates sulfur dioxide (SO2), which reacts with iron cations to form iron sulfide (FeS).
+&gt; Maybe the easiest solution would be to filter the precipitate, redissolve it in water, and then adjust the pH using HCl. If the solution still produces H2S, then you can be pretty sure the black is FeS.
+
+Yup, did this, and detected H2S, hence the conclusion that this is a sulfide compound.
+&gt; Another alternative is that O2 is oxidizing dissolved manganese to MnO2 which is also black and the H2S production is just because the acid dropped the pH below the pKa1.
+
+Mn++ levels were below the detection limit of our atomic absorption photometer.
+It's possible O2 and H2S can react, but you're talking about oxidizing H2S to SO2 (S(IV)) then reducing it back to FeS (S(-II)).  It seams backward.  You'd nead another redox couple for the FeS reaction however.
+
+Summary:
+If the solution still produces H2S, then you can be pretty sure the black is FeS.
+Reacting the precipitate with a strong acid generates hydrogen sulfide.
+Why does exposure to oxygen cause the generation of this black precipitate?

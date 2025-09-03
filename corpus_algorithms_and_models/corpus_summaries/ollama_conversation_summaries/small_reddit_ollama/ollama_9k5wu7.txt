@@ -1,0 +1,10 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+I laugh at Malware.
+How much of the web doesnt function without ecmascript though?
+You must only go on Wikipedia or something.
+You can whitelist scripts on a case by case basis. I use NoScript and 100% of the web works just fine and I can filter all the crap.
+
+Not gonna lie, at first nothing was working and I had to invest a little time to make it work (mainly understand the plugin, especially the custom permissions) but now it's paradise. If you are on the fence, it's 100% worth it.
+
+Even if that were true, would it be such a bad thing?

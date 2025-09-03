@@ -1,0 +1,20 @@
+Original Response:
+I have a purple 405 nm 5 mw laser pointer. My friend and I were playing with it and we both think we feel a slight sensation of warmth on having the laser pointer pointed at one spot on our hands for a little bit. I did a very small amount of research and read that lasers have to be 200-300 mw to be felt on the skin. Is this true? Is there another explanation?
+[deleted]
+Experimentation might help, but I was wondering if there might be a science-based answer.
+This is what irony looks like.
+I recognize that experimentation is the basis of science, but our experimentation is inexpert and amateur and not very well regulated. Also, we're looking for an explanation.
+[deleted]
+[deleted]
+So learn better experimental technique. Have his close his eyes. See if he can tell if the laser is on him or not or where it is shooting him.
+
+A book answer will depend on a number of variables like the diameter of the laser, how long you shoot for, where you shoot (some skin is more sensitive), how ticklish he is ... etc
+First, its not the power that matters. It is intensity. Lots of power over a wide area will have less of an effect than a little power over a very small area.
+
+Second, that 404 nm laser isn't actually lasing at 405 nm. It is an IR laser with a doubling crystal. That is, it takes two 808 nm IR photons and combines them into one 404 nmblue photon. This takes a whole lot of power in the IR to do so and this IR could be leaking through. Chances are this is what is felt.
+Really... I did not know that... Is this done at other visible wavelengths too? Green, Blue and Yellow?
+The Wikipedia entry on laser pointers has the list of common wavelengths and how they are generated. The shorter ones tend to be doubled IR.
+
+Summary:
+It is an IR laser with a doubling crystal.
+I have a purple 405 nm 5 mw laser pointer.

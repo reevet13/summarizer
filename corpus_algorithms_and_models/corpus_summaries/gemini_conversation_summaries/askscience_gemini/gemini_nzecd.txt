@@ -1,0 +1,4 @@
+Ethanol's vapor pressure is only 5.95 kPa at 20 Celsius.
+No noticeable amount of evaporation is going to occur in a closed container of either size.
+The azeotrope of water/ethanol mixture, as justthedeets has mentioned, is near 95% ethanol, which is beyond the usual concentrations of alcoholic beverages.
+At any concentration below that, evaporation will decrease the concentration of ethanol in solution.

@@ -1,0 +1,45 @@
+For sheer amount of force being used I would say upper body as it is a larger area with more weight behind it.
+If your foot was Edit: Further Away* to the "pivot" of the door however, it may be a bit more of a close call.
+Ideally, you would want to put your body (or foot) as far away from the hinge as possible in order to minimize the leverage that could be used against you.
+In my personal experience, when using my body I almost always get pushed backwards and cannot recover.
+The best I did was to stand with about 90% weight on one foot that placed straight into the door but so that most toes are curled up onto the door but the rest of the foot is flat, and the other foot is helping balance.
+I don't lean into the door, because it can bounce and cause you to become unbalanced and lose that critical foot on the door.
+The door has some spring to it and will spring back even if briefly pushed in.
+That technique may not work for carpeted or slippery floors, or a variety of other situations.
+As always, "it depends".
+Considering that any force your upper body puts on the door has to come from the static friction of your feet anyway, the only thing you gain by using your upper body is two feet worth of friction at the expense of bringing your muscles in to the equation.
+Why can't you do both?
+Put one foot against the door, your other foot far away to brace yourself, and then lean against the door.
+As far as the statics calculation goes, you can never exert more horizontal force than you have static friction.
+You can increase that by somehow pushing yourself down.
+If you wedge your foot partially under the door, that would give you more friction.
+I'd think leaning against the door, since you're using your feet to hold the door in place either way (your torso doesn't hold itself against the door), but when leaning against the door, you can push against it to increase the normal force of your shoes against the floor, thus increasing the frictional force resisting the door.
+Just be sure to push on the side of the door opposite the hinge.
+your foot can act as a wedge.
+your body is a heavier object with 2 static friction feet holding it.
+both are superior to a single static friction foot.
+This sounds like a better question for the Mythbusters than askscience.
+It needs to be tested rather than speculated upon.
+It really depends on what you mean by "effective".
+A big, strong person is going to be able to brace their weight against the door and enhance that by pushing back at the door with their muscles, but in doing so they're burning a lot of energy.
+Likewise a large, heavy person who lacks big muscles could put their foot against the door and sink their weight into that foot, effectively making it a XXX lb door stop and get similar results.
+While their ability to hold the door against an immediate force might not be as great as the muscularly strong person, they should be able to hold it for a longer period as fatigue likely won't be as much of an issue for them over time.
+So "effective" really depends on what you're looking for.
+There are other variations of this that could be explored as well
+this one is right.
+especially if you push up on the door, the normal force and friction will increase because your shoe will be pushed down more forcefully and therefore have more friction
+At the expense of bringing your muscles and ability to maintain your balance in to the equation.
+From experience we all know the shoe is more effective.
+When using the foot you want to put as much weight as possible on it to maximize the friction.
+This means your back foot will be completely ineffective to support the "lean".
+(note that the following assumes a rigid door - we all know that the possibility of the door bending is real, but that's ignored here)
+
+In either case, it's all friction.
+When you press your upper body, you are still holding yourself in place using friction of your feet against the floor.
+To open the door, the zombie (I assume this is research for zombie defense) must apply enough force to overcome this friction.
+When you wedge a shoe in front of the door, the force required to open the door is the force required to overcome that friction, or break your foot -it's that simple.
+However, when you press against the door, you are adding multiple other ways to open the door, and adding another point of friction.
+So the zombie must do only one of these:
+
+* apply enough force to rotate your body in relation to your foot ( for example, knock you over or stand you upright if you're leaning)
+* apply enough force to compress your arms (if you're holding the door with your arms

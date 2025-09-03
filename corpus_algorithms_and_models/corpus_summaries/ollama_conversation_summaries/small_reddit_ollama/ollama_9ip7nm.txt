@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text, up to 250 words:
+
+yall bare w me bc this is my first time building a pc. so on the power supply im using it seems to have only 4 pin cpu connector but on the motherboard theres only a 8 pin connector. is it safe to put the 4 pin in to the 8 pin connector on the corner?
+
+I bet there's a second 4 pin conector that goes together with that 4 pin.
+
+um i found a second 4 pin for the 20 pin one but i cant find the other 4 pin. i think its bc of im using a crappy psu (logisys ps480d)
+
+All logisys stuff are bad, and this one was from the year 2006 designed for Pentium 4, hence only 4 CPU pin.
+
+do i get the modular one or the non modular one? also can i just use the evga 500 one and be fine? im on a budget

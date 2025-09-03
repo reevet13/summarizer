@@ -1,0 +1,14 @@
+Original Response:
+I'm trying to create a fantasy plant creature that is a predatory hunter (it finds and kills you) how would a plant detect it's prey?
+I recommend reading Trewavas' "[Aspects of Plant Intelligence](http://aob.oxfordjournals.org/content/92/1/1.full)". 
+
+&gt;Intelligence is not a term commonly used when plants are discussed. However, I believe that this is an omission based not on a true assessment of the ability of plants to compute complex aspects of their environment, but solely a reflection of a sessile lifestyle. This article, which is admittedly controversial, attempts to raise many issues that surround this area. To commence use of the term intelligence with regard to plant behaviour will lead to a better understanding of the complexity of plant signal transduction and the discrimination and sensitivity with which plants construct images of their environment, and raises critical questions concerning how plants compute responses at the whole‐plant level. Approaches to investigating learning and memory in plants will also be considered.
+
+For a more philosophical account of the implication of such research, you can read through: "[Cognition in Plants](http://philosophy.eldoc.ub.rug.nl/root/2009/Cognitioninplants/)" and "[Plants: Adaptive Behavior, Root Brains and Minimal Cognition](https://docs.google.com/viewer?a=v&amp;q=cache:XWyLgQYhJaIJ:webs.um.es/fjcalvo/miwiki/lib/exe/fetch.php%3Fid%3Dinicio%26cache%3Dcache%26media%3Dcalvo_keijzer_ab_2011-_preprint.pdf+%22Plants:+Adaptive+Behavior,+Root+Brains+and+Minimal+Cognition%22&amp;hl=en&amp;gl=nz&amp;pid=bl&amp;srcid=ADGEESgkxt0GUpQ0gcN6lGC7bFLhYmYhZFt7dUWro057L8fEkdmXXYxpJIfWlIzUYQzSSY9mc2-_9I-7ZNmiwiq8p0uR7LSkAhJeVqaiH2EcxdQ8_Q2SUN5Eyi4kN6wN8rsr4iM2uOoE&amp;sig=AHIEtbRJkQpdyQ2VubradPJ1ws7Ynmz7Ew)".
+
+The above work relates to the area of [Plant Neurobiology](http://en.wikipedia.org/wiki/Plant_neurobiology), and so I should point out that there is a fair amount of speculation involved and it's not exactly part of the mainstream consensus. Largely the criticisms aren't to do with the results themselves, but rather the conclusions and interpretations derived from the results. 
+
+However, I'm sure that that wouldn't be a major hurdle when creating a fantasy plant creature. Specifically relating to the question of how this plant would hunt, check out the section in the first article on how plants navigate a maze - I'm sure you could adapt some of the processes from there into hunting an animate object.
+
+Summary:
+However, I'm sure that that wouldn't be a major hurdle when creating a fantasy plant creature.

@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+So I received a Tac21 in the mail, I popped in my Fireluke Mesh Coil (which I know is .15), however the device displays it at .10, I obviously know what wattage I’m going to vape at, and other than the low ohm error in bypass, is there anything wrong with ignoring the displayed ohms on the device.
+
+In VW the mod measures the resistance dynamically then adjusts the voltage to reach that desired wattage.
+Some mods are more accurate then others in reading the resistance.
+If the mod is reading the resistance wrong it will supply the wrong wattage.
+
+For example, you may set a mod to let’s say 100W, the mod will display 100W you will think you’re using 100W but in reality you’ll be using 95W but it doesn’t really matter since what you’re used to vaping is 95W you just don’t know it.
+
+That's also why some refulated mods seem stronger then others with the same wattage, that's because they are, because they are reading the resistance slightly differently.

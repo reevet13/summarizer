@@ -1,0 +1,1 @@
+Entropy is a measure that, in a closed system, cannot decrease with time. The change in entropy will be different given different situations. For instance, in a quick, exothermic dissociation reaction, entropy of the system (and the universe) may change quicker than in the freezing of water. First we'd need to know exactly what's in the universe right now, and we have no idea.

@@ -1,0 +1,13 @@
+For instance, what does this even mean?
+
+*"In a larger and more speculative sense, the theory suggests that the entire universe can be seen as a two-dimensional information structure "painted" on the cosmological horizon, such that the three dimensions we observe are only an effective description at macroscopic scales and at low energies."*
+
+My non-science friend told me that his understanding is that our universe is just an event horizon of a black hole. We are all just information, nothing more, nothing less.
+
+The way I understand it is this:
+
+Even though we experience 3+1 dimensional physics, on a fundamental level there are only 2.  The 2-dimensional "stuff" interacts in such a way as to give rise to apparent extra dimensions.  Kind of like the way a 2-D matrix is stored as a 1-D stream of data in a computer.  
+
+One consequence of this theory would be that the tiniest resolution at which things occur, the Planck-length, applies to the 2-D surface and not our world.  This means that noise ("pixelation") coming from hitting this limit is much larger than expected, because the 2-D "pixels" get bigger when projected into higher dimensions.  There has been [some evidence](http://en.wikipedia.org/wiki/GEO_600#Claimed_link_between_GEO_600_detector_noise_and_holographic_properties_of_spacetime) that we're detecting this sort of noise, but this is under discussion.
+
+The way I've visualized it (and I don't have a degree in anything) is that the universe, according to the holographic principle, is basically Conway's Game of Life played on the surface of a sphere.

@@ -1,0 +1,26 @@
+Original Response:
+Could light be used say in space to move a spaceship at high speed?
+Yes. Solar sails have been used to transfer momentum from light to spacecraft. The Mariner 10 used radiation pressure on its solar panels to adjust its attitude, and the JAXA IKAROS spacecraft utilised a solar sail as propulsion. 
+
+The amount of propulsion provided is minuscule, but it would be useful for extremely long journeys.
+This was what they did in Alien-Covenant am I correct? Or was it Prometheus? When they deployed the solar cell sails?
+Solar cell sails?
+
+Was that to use solar power to provide electrical power? With the PV cells in a sail that could be deployed? Or a sail that would catch sunlight and very, very, *very,* slowly accelerate?
+[removed]
+Oh yeah it was. It was a way to recharge the electrical power storage in the ship. Is that a feasible/possible thing btw? Like could we actually construct a ship with a feature capable of that?
+Using solar panels in spacecraft as a power source? Almost all our satellites do that. 
+
+The problem with using that for interstellar travel is that the amount of light you receive falls off very quickly as you move away from light sources.
+I don't think we have the ability to make cloth PV cells yet. But yes, we can put PV cells on satellites that are staying relatively close to the sun. I don't think we can get enough power out of thrm yet to make it worthwhile on a shuttle or manned lander.
+Cloth, no. But flexible ones are used on a daily basis. Those can ne stowed in rolls.
+Thanks
+[removed]
+In the context of the fiction /u/superflyguy87 is remembering (Halo), I think the device is more or less stationary and building up a sufficient charge to make a fictional "slip space transmission" (faster than light communication) to a set of predetermined coordinates. It also used that time to map out the stars and work out its currently location, it's a sort of homing device that was attached to an enemy (human) ship.  
+
+A real word analogue would be if we had something like an orbiter around Proxima Centauri that didn't have enough power generation to make constant transmissions to Earth and have them be distinguishable from noise, so instead it gradually stored up energy in a cell or capacitor and used that to fire shorter burst transmissions at Earth.
+
+Summary:
+Using solar panels in spacecraft as a power source?
+When they deployed the solar cell sails?
+Solar sails have been used to transfer momentum from light to spacecraft.

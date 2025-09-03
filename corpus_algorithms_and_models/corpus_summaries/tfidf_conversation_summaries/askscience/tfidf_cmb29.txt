@@ -1,0 +1,42 @@
+Original Response:
+I was watching the PBS documentary The Atom Smashers and a lot of the interviews focus on the budget cuts for basic research which crippled Fermilab during Bush's second term. I was wondering if anyone could tell me or point me to an easy place to find out if Obama had done anything to increase basic research funding in the US. Thanks!
+Courtesy of the Obamameter:
+
+http://www.politifact.com/truth-o-meter/promises/subjects/science/
+The Obama stimulus was pretty generous to science, though may hurt hard when it disappears and there are more scientists competing for less grant money.
+
+That said it is a myth that "Bush" was bad for science budgets as opposed to it just being a horrible time for budget funding.  It is true that the FY08 budget was devastating to scientists--I was doing experimental particle physics at the time and our lab shut down the experiment early, had layoffs, and I had to TA while writing my thesis (having to TA while doing experimental particle physics due to low grant funds had been unheard of in the past 30 years at my school).  
+
+That said, I do not blame Bush for it (and I am a democrat and campaigned for Obama and think the Bush administration was horrible in a lot of other aspects).  The story the lab director told us (who was totally caught off guard by the budget and frequently went down to Washington to try getting emergency funding to reduce layoffs) was the following.  Bush wanted to increase the science budget as one of his hallmark initiatives (the "American Competitiveness Initiative") and had wrote in ~3% budget increases in the FY07 and FY08 budgets.  In FY07 the increase couldn't get through congress, and so in FY08 he wrote in a ~5% increase.  The community was happy, but there was some midnight decision around December 2007 where the science funding was decreased by about 10% in the FY08 budget and no one was aware who gutted what.  It seemed that democrats wanted Bush to put more into other programs, reduce the deficit, and cut military spending and were going to veto his budget, and in the back in forth science got cut hard.  So politics as usual; cut something someone values to hurt them.  E.g., when push came to shove both sides agreed on cutting science, specifically fusion and high energy physics.  
+
+&gt; For High Energy Physics, well, the situation is dire, and I am not exaggerating. The numbers are:
+&gt;
+&gt; FY07 current operating budget is $751.8M
+&gt;
+&gt; The Bush Administration’s request for FY08 was $782.3 M.
+&gt;
+&gt; The final bill (with the mandatory rescission) provides $688.3 M [[1]](http://blogs.discovermagazine.com/cosmicvariance/2007/12/19/2008-is-looking-bleak/)
+
+Also Clinton was president when funding stopped for the SSC.  Republicans are usually kind to big science (e.g., particle physics), despite being widely perceived as being anti-science (from their rhetoric that caters to the evangelical religious republican base).  A professor once told me that its because the Republicans think that particle physics may contribute to some next big weapon somehow or just help give the US a technological advantage in war through the developments necessary to do particle physics.  He didn't think these assumptions were correct, but liked getting the funding anyway.
+That is exacty what I was wondering about. Thanks so much.
+&gt;**Republicans are usually kind to big science** (e.g., particle physics), despite being widely perceived as being anti-science (from their rhetoric that caters to the evangelical religious republican base). A professor once told me that its because the Republicans think that particle physics may contribute to some next big weapon somehow or just help give the US a technological advantage in war through the developments necessary to do particle physics. He didn't think these assumptions were correct, but liked getting the funding anyway.
+
+Can it not also be interpreted as saying that republicans are kind on big weapon development (because of the nature of the weapon development it involves science)? For instance nuclear research during WWII had little to do with trying to fund science and more to do with trying to fund development of nuclear weapon. So it would be disingenuous to say that Republican's are kind to big science; instead the more appropriate interpretation would be "Republican's are kind to big weapon development research" IMO YMMV.
+Well there's a huge gulf between modern particle physics and weapons development and virtually no area of overlap.  I've never met a modern particle physicist who thinks their research will have an iota of an impact on weapons development.  Many actually go into the field, simply because they see no applicable use for it.  Results are not top-secret, you can order all our experimental data for free from the US government funded [Particle Data Group](http://pdglive.lbl.gov).  This is in contrast to information on how to build atomic weaponry which is all classified and based on much simpler well-understood physics.  Other possible rationale for republicans being kind to science, is (a) no one wants there party to be the anti-science and have our country be left behind, or (b) if scientists develop technology through federal dollars thats a huge stimulus to the big business world that can patent the technology or grow large off supporting the government research, and republicans often have closer ties to the world of big business.
+
+I often see politics overly simplified into our side is good, the other side is stupid and evil.   Its worth the effort to learn why your opposition thinks the way it does, and to attempt to see and appreciate their value system.  E.g., I like strict handgun laws in cities, but can easily see how some republicans can think if more law-abiding citizens had concealed handguns on them, it would be easier to prevent crime (like this reddit story today where a mugging was stopped).
+For what its worth, I am not a Republican or a Democrat. I consider myself a pragmatic. If something makes sense, is rational and will help most people; we should do it. Whether the idea comes from republicans or democrats or libertarians or anarchist is a moot point for me, as long as the idea is a beneficial idea.
+
+The reason I brought it up because, as you have pointed out, that your professors thought that republicans are investing on particles physics because it might lead to some kind of big weapon. From that piece of information if we try to draw a conclusion that "Republicans are kind to big science" is an over simplification of what actually happened, which is the investment on particle physics in the hopes that it will lead to weapons.
+
+Now I don't know if this is in reality their intentions. My conclusion was based on the information from your comment.
+
+I think the comment, "Republicans are usually kind to big science" gives the wrong impression that Republicans care about science. Its politics as usual, has nothing to do with their interest in the advancement of science for the benefit of humankind. 
+
+Maybe I am naive, but I think the source of the original intention, regardless of what the research leads to, is important.
+
+Summary:
+For what its worth, I am not a Republican or a Democrat.
+&gt;**Republicans are usually kind to big science** (e.g., particle physics), despite being widely perceived as being anti-science (from their rhetoric that caters to the evangelical religious republican base).
+He didn't think these assumptions were correct, but liked getting the funding anyway.
+That is exacty what I was wondering about.

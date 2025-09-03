@@ -1,0 +1,103 @@
+Original Response:
+Okay, time for me to ask a question.
+
+We all know the experiment that Michelson did to determine the speed of light. Rotating octagonal mirror, distant fixed mirror, etc. Due to finite speed of light, the pulse comes back from the remote mirror only after the rotating octagon is presenting the next reflective facet to it.
+
+I did some math and the experiment is very hard to reproduce at home. You need a very large distance between mirrors, and a fast rotating octagon. Also, octagons don't grow in trees. So, I'm thinking to make some changes.
+
+First off, just replace the octagon with a reflective cube. This would make the whole thing twice as hard to do, unless...
+
+Well, here's the thing. Why wait for the return pulse to hit the next facet on the rotating cube? Why not use the same facet, and just measure the changed reflection angle?
+
+The rotating cube and the remote mirror act like a very sharp collimation device. Meaning, you'll only get light on the sensor when the cube is in a very narrow position. Rotate the cube a tiny bit, and the sensor goes dark.
+
+So think about the cube rotating slowly. The sensor is dark... still dark... still dark... Whoa, we got a reflection. Aaand... it's dark again.
+
+Okay, now make it rotate faster. The laser hits the cube, which generates a sweeping laser beam, which at some particular angle happens to hit the remote mirror. The beam is reflected back to the cube, and it hits the facet facing the sensor. Except - between the time the beam took off towards the remote mirror, and the time the reflected light hits the cube again, *the cube has rotated a little*.
+
+Basically, what I'm saying is that the beam of light coming out of the whole device will start leaning slightly forward when the cube is spinning rapidly. By measuring the deviation angle, one could calculate the speed of light.
+
+I did some math. Using about 100m distance between cube and remote mirror (which is totally doable on a football field; also, cheap lasers easily cover twice that distance), and a cube spinning at 21,000 RPM (doable with small DC motors), I calculated that the beam coming out of the device is deviated 10 arcmin forward - the tangent of that angle is 3 * 10^-3. Totally measurable by an amateur. I don't have the calculations with me, so I could be off by some factor.
+
+Anyway, some constructive criticism, please? Thanks!
+
+EDIT: Instead of a rotating cube, I could shoot the laser through a 50/50 beamsplitter towards a rotating flat mirror. The splitter is like $15 online, and mirrors are cheaper and easier to find than reflective cubes. Then I could hook up the sensor on the other side of the splitter. Not sure whether the splitter will affect the angular shift formula - I guess it won't?
+When I took the senior physics lab course during my undergraduate degree, one of the optional experiments available was quite similar to what you were describing: measuring the speed of light using a rotating mirror to produce an angular shift.  I didn't do that particular experiment, so I don't know any details beyond that.  But if it is considered a reasonable experiment for physics undergraduates, it should certainly be feasible.  Good luck!
+It sounds completely reasonable.
+
+I'm not sure how you were planning on designing it, but you are going to need to direct the laser from near your flat mirror in order to get an accurate reading (to allow the detector to be at a large distance).
+
+It's going to be pretty tough to align the reflections at that distance.  You will have a laser at 100m hitting a small cube, then reflecting 100m to a mirror, and from there 100m back to the cube, and then back to your detector 100m away.  Any little bit of movement in your apparatus is going to be a pain.
+
+Other small engineering considerations: 
+
+* 
+Your cube may not be precise enough, in that the reflection of all four sides may not reach the flat mirror.  This isn't a killer, but it means that you may only end up using one side of the cube.
+
+* 
+You are going to need to precisely know the angular velocity of the motor.  One way to do this, if you have the equipment, is to measure the frequency of the light inbound on the detector.  Four flashes is one rotation (assuming you have dealt with the caveat above)!
+
+* 
+It may take some engineering to get your cube balanced to spin up to high RPM.  A little bit of wobble will cause a lot of problems at those speeds.
+
+* 
+A Dremel tool may be a reasonable motor setup if you don't have one.
+
+
+* 
+You are going to want to keep the motor at a very constant speed.  If you are using a battery to drive the motor, it will slow down as the battery discharges.
+Good points.
+
+Measuring and stabilizing the RPM will not be a problem. I used to be (probably still am, maybe a bit rusty) an electronics whiz, designed and built everything from automation to HiFi to systems with microprocessors. I'll handle it.
+
+Collimating the whole thing at 100m - the fact that I make telescope optics myself, and build telescopes from scratch, at the same time highlights the difficulty to collimate it (I am very aware how tough it will be) but also gives me confidence I will pull it off. I'll need to find some massive stone or concrete structures to support the devices, to eliminate any wobbling due to soft ground, or vibrations; I see this problem every day in the Foucault mirror tester.
+
+Doing the experiment on a windy day is out of question. Heck, doing it during a sunny day is probably bad too, what with hot air rising and messing with collimation. But I was thinking to do it at night anyway.
+
+For the remote mirror, a 3-point collimation plate should be enough, provided that the plate is large (the distance between the collimation bolts should be as big as reasonably possible - also, I should use bolts with fine tread and large knobs).
+
+Also the laser will need a collimation plate. Heck, probably every part needs independent collimation, although, if I collimate the laser and the remote mirror independently, the cube could get away with merely sitting (glued, or restrained some other way) on top of a heavy slab.
+
+The laser will sit next to the cube. In fact, everything will be near the cube, except the remote flat mirror. The sensor will probably be just 10m away from the cube, to exploit the tiny tangent of the tiny deflection angle. That will give me 3cm linear deflection at 21k RPM. That's plenty.
+
+The flat mirror and the rotating cube: there's plenty of good stuff on surplusshed.com. I just bought recently a small flat mirror and a 50/50 beam splitter for an interferometric tester. If that's not enough quality, Edmund Optics has high end components, but then the experiment is going to be spendy.
+
+The biggest problem I worry about is vibrations. Indeed, it's going to be hell to balance the spinning cube, and keep it vibration-free. I'm thinking to place it on a heavy spinning plate, the sheer mass should absorb some vibrations. But then driving it with a small DC motor will not be possible - I'll have to use something more powerful. The Dremel sounds like a good idea, thank you. Still, centering the whole rotating apparatus will not be easy. I need to keep thinking about it.
+
+Maybe I could use an old hard-drive that is still spinning, and then I only need to worry about centering the cube. It's not heavy, but the bearings are very precise. I could epoxy it to a granite slab.
+Sounds like you have the perfect background to tackle this experiment.
+
+A few questions: 
+
+Do you need to collimate?  I don't know the specs of a typical laser pointer, but some quick calculations put a narrow beam divergence to be about 1cm at 400m.
+
+Will collimation cause an interference pattern on your target?
+
+A hard disk is a great idea for a platform.
+
+Good luck!
+I used the word "collimation" the way it's used in telescope making - it means "alignment". So, to "collimate" the remote mirror means to wiggle it up/down/left/right until the return beam hits the cube in just the right place.
+
+Hopefully the laser I'll use will have some adjustable optics. Most do. Then I'll just focus the lens until I get the tightest spot possible back at the sensor. This may come in handy if the optics are not really flat and I need to compensate for some finite radius of curvature on the reflecting elements.
+
+Interference pattern... Um... Well, I probably don't care about it. All I need is a light signal. How it looks like, I don't care. Just need some photons to hit the sensor. At least that's how I imagine it. :)
+Ah, I've never made a telescope.  I'm used to collimation being used to [filter out directionality](http://en.wikipedia.org/wiki/Collimator).
+
+Your collimator shouldn't produce an interference pattern like the collimator in my mind's eye would.
+
+When you end up building it, let us know!
+I've done that experiment, you have the basics down, good luck!
+
+Summary:
+I need to keep thinking about it.
+Also the laser will need a collimation plate.
+The laser will sit next to the cube.
+The rotating cube and the remote mirror act like a very sharp collimation device.
+The beam is reflected back to the cube, and it hits the facet facing the sensor.
+You need a very large distance between mirrors, and a fast rotating octagon.
+So think about the cube rotating slowly.
+A few questions: 
+
+Do you need to collimate?
+Why not use the same facet, and just measure the changed reflection angle?
+Rotate the cube a tiny bit, and the sensor goes dark.

@@ -1,0 +1,26 @@
+I imagine precise calculations of planet orbits use center of mass of solar system as the coordinate origin.
+I'm assuming relative to the solar system, correct?
+yes, relative to the center of mass of solar system.
+The sun moves too, you know.
+To simplify, you are approximately 7 billion kilometres (4.381b miles) from where you were last year.
+The centre of mass is not the centre of the solar system.
+You should use NASA's HORIZONs service to get the answer to this.
+In terms of Earth's scale, you'd be surprised: http://upload.wikimedia.org/wikipedia/commons/0/0c/Solar_system_barycenter.svg
+As a first approximation, we can throw away other objects in solar system except the sun, the earth and the moon?
+Relativity says that there is no such thing as "the same place" at different times, anymore than there is "the same time" at different places.
+As you suggested, the earth goes around the sun in 365.256363 days.
+You'd be 0.256363 times the circumference of the Earth away from where you were last year.
+Pardon my ignorance.
+Also, very likely that the pattern repeats, although it will require the orbits of all the planets to get back to the exact same place again... so it'll take longer than the sun will exist for it to repeat.
+Then you also have to consider the galaxy itself moving through space.
+Well if you want an absolute answer you need to find the following: Earth's rotation speed and axis.
+They are, and the repeating is a question for people far more qualified for me.
+You might also want to consider the inflaton if you are going to go to those scales.
+Doesn't that just mean the sun itself, therefore the center of the solar system, is moving?
+My understanding is that the motion of galaxies is taken relative to the CMB.
+Every body in the solar system is moving in response to forces exerted by every other body.
+I apologise if that's the way it came across.
+For example, how about movement compared against cosmic background radiation or aginst average motion of galaxies in observable universe?
+can I ask where did you get 365.256363 days as the number of days in a year?
+How about, "Where am I relative to the center of the sun"
+The absolutely wonder HORIZONS web interface tells me that the center of the Earth will have drifted close to 1.8 million kilometers, in reference to the Solar System Barycenter.

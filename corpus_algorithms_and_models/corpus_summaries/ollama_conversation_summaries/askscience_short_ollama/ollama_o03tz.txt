@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text:
+
+Entropy is a measure that, in a closed system, cannot decrease with time.
+
+The change in entropy will be different given different situations. For instance, in a quick, exothermic dissociation reaction, entropy of the system (and the universe) may change quicker than in the freezing of water.
+
+Is it possible to measure how has entropy changed in the universe since the big bang? (Or something close to that idea)

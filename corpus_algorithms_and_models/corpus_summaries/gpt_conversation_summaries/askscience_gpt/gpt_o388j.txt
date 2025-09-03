@@ -1,0 +1,11 @@
+They reflect light from the sun onto a pipe filled with a fluid, probably petroleum, which then is used to heat water.  
+Came here to say this, however its molten salt, not petroleum. They work 24/7 because when the sun goes down, the salt drains into a vessel and is pumped back out when the sun comes back on. The salt retains its heat and continues to provide power.  
+Couldn't they just concentrate the sun enough with a big enough lens to directly evaporate the water, though?  
+This turns out to be more efficient. Lenses are very expensive. Parabolic mirrors work better.  
+A mirror is far less expensive than a lens, and if you have a 1 square meter lens that's focused a certain way, a 1 square meter mirror that's focused the same way will be almost exactly as efficient at heating up the water.  
+You can never get past the fundamental limits of lens design - the bigger the lens, the thicker it needs to be.  
+Lenses are expensive, big and heavy. It is also much harder to move a big lens to track the sun than it is to move small mirrors.  
+One of the main reasons you don't evaporate water directly is that that gives you an immediate burst of energy.  
+For example, people need still need electricity at night, when the sun is not around to boil water.  
+So a more efficient solution is not to heat the water directly, but to heat up something that can hold all of that thermal energy.  
+Even at night, the salt will still be very hot, and so your electricity production is determined by consumption rather than availability, and you don't have to mess around with wasteful batteries.

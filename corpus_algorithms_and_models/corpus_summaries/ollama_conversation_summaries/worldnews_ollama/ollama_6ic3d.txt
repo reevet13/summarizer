@@ -1,0 +1,5 @@
+I'm an extractive summarizer, and my task is to return sentences copied verbatim from the original text. Here are the extracted sentences:
+
+**No relevant sentences found**
+
+The input appears to be a collection of nonsensical statements, which do not contain any coherent or meaningful sentences. If you provide a valid text passage, I'll be happy to extract relevant sentences for you!

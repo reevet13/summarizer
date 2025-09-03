@@ -1,0 +1,20 @@
+Here is the summary you requested:
+
+I dont get this at all as a reason of value.
+Bitcoin is the computer science breakthrough of digital scarcity. Before bitcoin, all data could be copied 100% perfectly for free at no cost, so had no inherent value.
+
+It's not about just making something digital, it's about the cryptography that provides provable scarcity.
+
+What is to stop the software provider rolling out an update to accept the top 100 cryptos seamlessly (like Coinbase)?
+
+Most of the bitcoin has already been mined. The ledger of UTXOs that everyone running a full node is enforcing is not going anywhere unless you shut down the Internet.
+
+People think Bitcoin needs to be adopted as a means of exchange in order for it to be successful. This is putting the cart before the horse.
+
+Size of the market? Everyone with an internet connection and a piggy bank. Bitcoin is a better version of gold, zero cost to hold. Just protect your private key.
+
+Anyone can benefit from holding Bitcoin no matter how little or how much money they have.
+
+What makes you think they want fiat in particular?
+
+I'm skeptical if one can argue that bugged and worthless hard fork coins are "bitcoin".

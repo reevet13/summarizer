@@ -1,0 +1,27 @@
+Original Response:
+When you knock over the first domino in a line you are essentially putting energy into that system. So since friction takes away energy and makes it unusable will a line of dominoes eventually stop when friction takes enough of the usable energy away, or will the line go on indefinitely?
+No, because there's energy being added with every piece that falls over. Putting a domino piece upright increases its potential energy compared to it laying flat on the ground. When a piece is tipped over, that potential energy is converted into kinetic energy by the force of gravity. If the pieces are correctly positioned, the falling piece should gain enough kinetic energy to tip over the next piece, which in turn will also have its potential energy converted into kinetic energy.
+
+So in theory, a well constructed domino line should be able to go on indefinitely.
+[removed]
+Not to mention, they’re pretty smooth. Idk if it would work as well if they were lined with felt or something.
+As long as it works for a few pieces it will work for any amount (with the same arrangement).
+[removed]
+To really drive the idea home: the amount of energy loss due to friction per domino piece is way lower than the amount of potential energy you give to each standing domino piece when you set it upright.
+[removed]
+It's not way less, it's almost exactly the same. It's the same amount of energy, except for the other energy that gets transported away like a tiny amount of noise and air currents.
+I'm having a hard time conceptualizing how *any* energy is lost to friction in dominos. It seems like the only time friction comes into play is static friction at the base of the domino stopping it from sliding forward when it gets hit. But that's really just turning the sliding into angular motion.
+There's air friction unless they're in a vacuum.  There's a bit of friction as the bottom of the domino as it pivots and then most likely slides backwards a bit.
+Um, yeah, in the whole system, I agree the energy has to go somewhere, but I mean looking per domino in a hypothetical infinite, straight, domino chain.  Yes, in a finite domino chain the last piece shoots forward and undergoes much more friction than the rest of the pieces (or like in a curve as we see in this video: [https://www.youtube.com/watch?v=U9tOF1J6sFc](https://www.youtube.com/watch?v=U9tOF1J6sFc)) but not per piece in the straightaway sections.
+
+&amp;#x200B;
+
+Edit: I keep thinking about this, and now I'm not so sure.  My line of thinking is thus: if the energy isn't being dissipated at a constant rate (through mostly heat, like you say) than would the propagation speed increase?  Now I wish I had a set of dominoes to test if the last one shoots out further as the line gets longer! :-)
+[removed]
+I imagine the most friction comes from the edge of the domino sliding down the face of the next as it hits, and then pushes it over.
+[removed]
+
+Summary:
+I'm having a hard time conceptualizing how *any* energy is lost to friction in dominos.
+When you knock over the first domino in a line you are essentially putting energy into that system.
+Putting a domino piece upright increases its potential energy compared to it laying flat on the ground.

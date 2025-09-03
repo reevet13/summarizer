@@ -1,0 +1,114 @@
+Original Response: 
+I found my alien 220w today which I thought was lost since about a year.
+It still had batteries in them, which I quickly took out and inspected carefully and they looked alright.
+The tank was on it and I could see the juice had dripped out and went under it.
+I cleaned it out and there was some of it on the connector of the mod.
+I haven't turned it on yet.
+Should I?
+I dont have any juice and no coils.
+I guess I'll take it to the shop with the old batteries and have them check it out.
+I also have some VG, PG, Nic, and flavors that are about a year and a half old back home.
+Flavor extracts have been sitting in a box inside a store and the rest has been in the freezer.
+Do you think they're still good?
+Probably not, right?
+Last question, can anyone suggest a good reliable RDA, clones will do too.
+I will be ordering from fasttech along with other things to build my coil.
+Ive used the smoke baby beast and aspire cleito and my experience was not so good.
+Sometimes they worked great but other times id get harsh hits and spitbacks.
+first things first,  i would check those batteries with a multimeter or something to make sure they aren't under 2.5V,   as that is no good if they are....
+I second the above advice.
+Thanks I'll keep that in mind as I have another old pair in a case somewhere as well.
+"old pair" being operative as well.... at rest,  these cells discharge,  and if they get below a certain level,  they are unsafe and unstable.
+The first thing I would do would be to either check them,  or preferably get NEW batteries,  as if it's been a year+ ,  it could be bad,  and the Alien is not known as a good mod for dealing with "bad" if you catch my drift....
+Gotcha.
+Yeah I've seen a ton of posts with alien issues but somehow mine worked fine up until I stopped using it, but then again I only used it for about a year.
+I really do wish it still works.
+Can you suggest me a good mod for about $40-60, in case alien dies and I have to buy a new one.
+E: I just checked out the list on the sidebar.
+But do share the one you've had the best experience with.
+I'd personally go with the GeekVape Blade as it accommodates 18650/20700/21700 batteries so you can use the old ones and the new ones with the upgraded capacity and or amps.
+I use a few mods,  but right now I am using a Geekvape Aegis Legend and Nova and like them both and are completely solid.....
+I will keep an eye out for the ones you mentioned.
+What about RDAs ?
+I just looked it up and I do like it a lot!
+I'm gonna try and get this one if the alien dies.
+That depends on a lot of things,  like what kind of wattage you generally like,  taste/cloud chaser,  dual single coil etc....
+I've never had an RDA before.
+I use to vape at the wattage recommended on the coil, usually around 45-60w.
+I'm not really a cloud chaser, I'd like a bit of both with a little more preference towards taste.
+ok,  then i would recommend getting your feet wet with a good single coil like say the Wasp Nano (runs around $12),  and you can build for that target wattage etc to see if it's something you enjoy... but it's great rda to start with,  gives great taste,  inexpensive, easy,  wide margin of forgiveness etc....
+Perfect!
+It's pretty cheap and easily available here.
+Thanks again 👍.
+awesome!
+it a great little rda,  I have a few of them,  and work with squonkers or regular mods etc... very flexible and for the price,  pretty damn hard to beat!
+:)  i hope you enjoy it.
+I did not know about squonker mods until now, very interesting!
+yeah,  it's an approach to getting RDA taste without having to drip all the  time,  not for everyone,  but definitely something that can be fun to explore,  and cheaply....  (hell get a pico squeeze 1 for $13 and you got a squonker with the wasp nano for a grand total of $24... not a lot to decide if it's your thing or not...
+Hmm?
+You had some typos so I couldn't understand what you said but good luck.
+Fixed.
+Sorry about that.
+No problem :) and it is worth the purchase.
+Good luck.
+I love the Starry Night version, it is a bit different than the design on their website.
+I wont be able to go to the store today and since i dont have a multimeter do you think i can check with a battery charger?
+This is the one I have: [Link](https://www.amazon.com/Efest-4213-LUC-Multi-Functional-Charger/dp/B01CJ4MRIC) .
+The charger reports the voltage of each cell on the display.
+I'll probably be getting new batteries but if these are fine then I dont mind keeping them as back up for a few more months.
+It does look sweet!
+is that the one you have ?
+If so, would you happen to have a picture of it?
+And thank you for helping me out.
+Cant wait to get started again.
+I have the same charger,  and while yes,  you can use it to read the V of your coil,  it's not gonna be as accurate as a multimeter obviously (you can tell when you spin the batteries in place how the voltage display changes etc),   but in your pinch,  sure,  throw the batteries on there and see what it says.
+If it's reading under 2.5 I wouldn't use the batteries.
+If 3 or higher,  probably just fine to charge (i would recommend slow charging for this right now).
+Alright so I did that and it seems that the 2 batteries which were left inside the mod are completely dead but the other 2 I had in a case are fine.
+I had them inside the charger for two minutes and the 2 dead ones just showed 0.00V and other pair was above 3V.
+[Pic](https://i.imgur.com/xnRsfPd.jpg)
+ok,  then properly recycle the dead ones,  and the other ones above 3V should be fine to use....cool,  you are in luck.
+Added a pic in my comment above.
+Im gonna charge the good batteries and see if the mod still turns on.
+Now I dont know if juice went under the 510 connector or no, I think ill open it up and clean the connector with some alcohol just in case.
+cool,  yeah a little isopropyl won't hurt... best of luck and let us know!
+Damn, I just opened it from the top and its not looking good.
+Some of the juice got inside, I cant tell if it got on the main board
+[(pics)](https://imgur.com/a/WYhkNvs).
+I cleaned it a bit before taking the pics but theres still some visible.
+I dont know if I should open it apart completely, it doesn't look easy from the disassembly video.
+If you look closely on top  theres a black wire coming out and is a bit exposed from the middle, cant seem to remember if it was the same when i opened it last time.
+yeah,  that doesn't look good,  and from what we know of aliens and juice getting on their chips and whatnot,  well... bad things happen.
+i would probably cut bait on that and get another mod,  fortunately there are a lot of good dual battery mods out there way better then that one,  and vapecrawler.com is your friend on pricing etc...
+Its Alive!
+I took the whole thing apart, which was probably not even necessary, cleaned it up and put it back together.
+Hands down, the toughest part was putting it all back..
+I dont ever wanna do that again haha.
+1st time it dint start and then i reinserted the batteries and it started working!
+Screwed on the tank and it read the coil.
+So far so good.
+great to hear!
+just keep an eye on it,  and don't leave the batteries in it when not in use for an extended period... glad to hear you are back in business though mate!
+Im gonna make sure to not leave the batteries or the tank on it.
+I still have my doubts about this mod, gonna get it checked out at the store, use it for a week and maybe then ill be convinced.
+I seriously cant thank you enough for sticking around!
+no worries,  yeah,  just play it safe and smart and you should be fine for a bit.... but start saving or looking around for a new mod perhaps,  fortunately they aren't that expensive (not sure if you are stateside,  but looking at vapecrawler.com etc will help find best prices).... but hopefully this unit will get you through!
+Need any more recs or help,  feel free to let me know!
+I'm all the way on the other side of the planet and these things are a little bit overpriced here.
+But yes I will definitely keep an eye on mods you suggested and I'll pick it up if i see one at a reasonable price.
+
+Summary: 
+is that the one you have ?
+I dont have any juice and no coils.
+I cleaned it out and there was some of it on the connector of the mod.
+I second the above advice.
+I just looked it up and I do like it a lot!
+This is the one I have: [Link](https://www.amazon.com/Efest-4213-LUC-Multi-Functional-Charger/dp/B01CJ4MRIC) .
+I did not know about squonker mods until now, very interesting!
+I will keep an eye out for the ones you mentioned.
+Damn, I just opened it from the top and its not looking good.
+I haven't turned it on yet.
+I really do wish it still works.
+I dont ever wanna do that again haha.
+If it's reading under 2.5 I wouldn't use the batteries.
+E: I just checked out the list on the sidebar.

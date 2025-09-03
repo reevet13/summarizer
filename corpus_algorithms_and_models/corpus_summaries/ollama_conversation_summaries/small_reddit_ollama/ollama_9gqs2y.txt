@@ -1,0 +1,9 @@
+Here is the summary of up to 250 words:
+
+I gave it a test run yesterday but it just did not want to launch at all (I did have the correct file path), and is there any difference in performance anyhow?
+Are you running without JVM arguments? I am currently running Minecraft with openjdk Java 11 without problems. I had to turn off JVM arguments to get the game to launch. Then I researched which arguments worked and re-added them back.
+
+Ok that's interesting, I did run one test with the JVM arg's button switched off (I didn't have -XX:+CMSIncrementalMode in there anyhow) but still failed to launch. Didn't think to save the error but it was some kind of "thread exception" message.
+
+Might mess around with it later, but do you know if there was any measurable difference?
+No, that's why I said "anecdotally" because I have not done measurements :)

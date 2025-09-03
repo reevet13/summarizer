@@ -1,0 +1,12 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+the error code it gives is STOP: 0X0000007B (0XF78D2524, 0XC000034, 0X0000000, 0X0000000)
+
+I've tried virtualbox and hyper-v, and tried using a vhd and vhdx file.  I'm cloning an old xp machine.  Any help is greatly appreciated thanks guys.
+
+Edit your virtual hardware. You're telling the VM to run off a disk controller the OS doesn't support. Try to set it up your VM hardware as an IDE hard disk instead.
+[https://imgur.com/bgTx8Sq](https://imgur.com/bgTx8Sq) so I believe i do have it set up as an IDE hard disk, are those settings correct?
+
+That looks right.
+
+I think you need to figure out if it's the problem exists within the XP image or if it's the VM host compatibility to XP.

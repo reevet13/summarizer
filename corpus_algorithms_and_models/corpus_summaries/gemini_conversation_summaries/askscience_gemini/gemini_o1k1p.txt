@@ -1,0 +1,66 @@
+Okay, time for me to ask a question.
+
+We all know the experiment that Michelson did to determine the speed of light.
+I did some math and the experiment is very hard to reproduce at home.
+Basically, what I'm saying is that the beam of light coming out of the whole device will start leaning slightly forward when the cube is spinning rapidly.
+By measuring the deviation angle, one could calculate the speed of light.
+I did some math.
+Using about 100m distance between cube and remote mirror (which is totally doable on a football field; also, cheap lasers easily cover twice that distance), and a cube spinning at 21,000 RPM (doable with small DC motors), I calculated that the beam coming out of the device is deviated 10 arcmin forward - the tangent of that angle is 3 * 10^-3.
+Totally measurable by an amateur.
+I don't have the calculations with me, so I could be off by some factor.
+
+Anyway, some constructive criticism, please?
+Thanks!
+
+EDIT: Instead of a rotating cube, I could shoot the laser through a 50/50 beamsplitter towards a rotating flat mirror.
+The splitter is like $15 online, and mirrors are cheaper and easier to find than reflective cubes.
+Then I could hook up the sensor on the other side of the splitter.
+Not sure whether the splitter will affect the angular shift formula - I guess it won't?
+When I took the senior physics lab course during my undergraduate degree, one of the optional experiments available was quite similar to what you were describing: measuring the speed of light using a rotating mirror to produce an angular shift.
+I didn't do that particular experiment, so I don't know any details beyond that.
+But if it is considered a reasonable experiment for physics undergraduates, it should certainly be feasible.
+Good luck!
+It sounds completely reasonable.
+
+I'm not sure how you were planning on designing it, but you are going to need to direct the laser from near your flat mirror in order to get an accurate reading (to allow the detector to be at a large distance).
+
+It's going to be pretty tough to align the reflections at that distance.
+You will have a laser at 100m hitting a small cube, then reflecting 100m to a mirror, and from there 100m back to the cube, and then back to your detector 100m away.
+Any little bit of movement in your apparatus is going to be a pain.
+
+Other small engineering considerations: 
+
+* 
+Your cube may not be precise enough, in that the reflection of all four sides may not reach the flat mirror.
+This isn't a killer, but it means that you may only end up using one side of the cube.
+
+* 
+You are going to need to precisely know the angular velocity of the motor.
+One way to do this, if you have the equipment, is to measure the frequency of the light inbound on the detector.
+Four flashes is one rotation (assuming you have dealt with the caveat above)!
+
+* 
+It may take some engineering to get your cube balanced to spin up to high RPM.
+A little bit of wobble will cause a lot of problems at those speeds.
+
+* 
+A Dremel tool may be a reasonable motor setup if you don't have one.
+
+
+* 
+You are going to want to keep the motor at a very constant speed.
+If you are using a battery to drive the motor, it will slow down as the battery discharges.
+Good points.
+
+Measuring and stabilizing the RPM will not be a problem.
+I used to be (probably still am, maybe a bit rusty) an electronics whiz, designed and built everything from automation to HiFi to systems with microprocessors.
+I'll handle it.
+
+Collimating the whole thing at 100m - the fact that I make telescope optics myself, and build telescopes from scratch, at the same time highlights the difficulty to collimate it (I am very aware how tough it will be) but also gives me confidence I will pull it off.
+I'll need to find some massive stone or concrete structures to support the devices, to eliminate any wobbling due to soft ground, or vibrations; I see this problem every day in the Foucault mirror tester.
+
+Doing the experiment on a windy day is out of question.
+Heck, doing it during a sunny day is probably bad too, what with hot air rising and messing with collimation.
+But I was thinking to do it at night anyway.
+
+For the remote mirror, a 3-point collimation plate should be enough, provided that the plate is large (the distance between the collimation bolts should be as big as reasonably possible - also, I should use bolts with fine

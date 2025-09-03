@@ -1,0 +1,10 @@
+Here is a summary of about 10% of the text:
+
+You are an extractive summarizer. Only select and return sentences copied verbatim from the original text. Do not rephrase or add words. Return the selected sentences in order, separated by newlines.
+
+Your grammar offends my delicate sensibilities in much the same way as an object which is not smooth, lubricated, and shaped to fit over my eye would hurt to touch it.
+"How come it hurts when something touches your eye, but when your eyelid touches it it's fine?" - FTFY
+
+The pain response felt when something comes in contact with the eye is actually highly psychosomatic - that is, you're aware of something touching your eye and therefore there is pain.
+
+Ask anyone who wears contact lenses - to start with it hurts like hell to wear them, but after a while the eye becomes used to it and there is no discomfort.

@@ -1,0 +1,233 @@
+Original Response:
+I'm a physics graduate student who researches full time. My work in on ferroelectric superlattices. These are thin (around 100 nm) stacks of alternating materials, one of which is always ferroelectric. The other depends on the type of system I want to make and study. I make these materials at our in-house deposition system and do most of the characterization and measurements myself. 
+
+Also, I am a lady physicist (the less common variety) who has a huge interest in science outreach and education, particularly for younger students.
+What does ferroelectric mean?  What are they used for?  How does making them into superlattices make them more useful?
+Do you ever deal with multiferroics? (materials that are both ferroelectric and ferromagnetic)
+
+Could you do anything with a superlattice of ferroelectric nanoparticles (rather than layers)?
+
+Any lady-physics issues you care to talk about? Do any of them impact you regularly?
+So when I use the term ferroelectric it makes most people think of magnets, which are ferromagnetic or that these materials contain iron. But the work "ferroelectric" is most because these materials are slightly analagous to ferromagnetics.
+
+Ferromagnets are what you normally think of as a magnet. Think of a bar magnet. It has two poles that come from a magnetic field inside the magnet. This means that it has a magnetization, which means that the magnetic field is polarized pointing in one direction (South to North). This magnetization can be switched by applying a large enough external magnetic field.
+
+Ferroelectrics are much like this, but instead of having a magnetic field inside of them, they have an electric field. And this electric field means that ferroelectric materials have a electric polarization. Depending on the atomic structure of the ferroelectric, the polarization can point in different directions and can be switched to the opposite direction by applying an external electric field (which is done experimentally by applying a voltage). In practice, many scientists, myself included, work with materials that are engineered to have a polarization that can only point in two directions that point 180 degrees from each other. In practice, these are referred to "up" and "down" polarizations.
+
+The useful thing about a ferroelectric material with two polarization states is that it is a binary state. So you can use these materials in computer memories to store information, with the "up" and "down" polarizations acting and 1 and 0 bits. This is used in FeRAM memories, which have some advantages over the usual magnetic memories, but haven't achieves as high a storage density, yet. For more info on this, I would suggest the FeRAM wikipedia page. I work more on the basic sciences of these materials (and that's personally what I'm more interested in), so I'm not super knowledgeable about all the details.
+
+Now for superlattices! To start [here is an image that illustrates what a superlattice is](http://imgur.com/md1qI). The picture on the left used legos to demonstrate that a superlattice is an alternating stacking of different materials. The gray block on the bottom represents the substrate the materials are grown on and the blue blocks represent top and bottom electrodes. The image on the right is a transmission electron microscopy image that gives a cross section of a superlattice. The little "dots" that you can see are individual atoms.
+
+The layers of each material in the superlattice are very thin. They are anywhere from 0.4 nm to maybe 5 nm. So when you have thin layers, two things happen. One is that you can get size effects from the materials being so thin. I am currently working with one material that is a metal in bulk. But when you make a thin layer of 0.4 nm to 1.2 nm, it becomes insulating. The second thing that happens is that when you stack the thin layers, the interfaces between the two materials can become very important and contribute to the properties of the superlattice as a whole. Depending on the materials used, the interfacial properties can give the superlattice brand new properties. 
+
+In terms of the usefullness of ferroelectrics, that depends on what you want to look at. For basic physical research, any new combination of materials will give you interesting properties to study. In terms of an industrial perspective, some superlattices are more interesting than others. As an example, my group has worked on a superlattices where the combination of materials gives a higher dielectric constant than either material has on its own. We can also control the size of this constant by changing the ratio of the two materials. This is useful in electronic applications where dielectrics can be used in sensors and actuators. So being able to tailor the properties of these devices is useful.
+As a follow up to the multiferroics question, what specifically are the material systems you are looking at? LSMO films? Binary alloys (like Fe-Rh)?
+
+What are some of the characterization techniques you use? (I'll assume typical ones like SQUID and electron microscopy, but was curious if you do any synchrotron stuff)
+I am actually the first person in my group to work on a potentially multiferroic material. Right now I'm working on a ferroelectric/metallic superlattice where the metal becomes anti-ferromagnetic below a certain temperature (I forgot off the top of my head). When we started this project we know that multiferroicity was a potential application of it, but originally were interested in including the metallic component as a dielectric component by reducing its thickness. We accomplished this and ended up finding many more interesting properties of the superlattice, so the multiferroic angle has been put on the back-burner for a bit. Also, in our lab we don't have magnetic or much low-temperature capabilities, so it has been easier for me to explore structural and electrical properties first.
+
+For nanoparticles, I don't have the capability to work with ferroelectrics in this capacity. Most of the work in my lab (and the theory done by other physicists we collaborate with) is based on single crystals and thin films. I think it would be really interesting to work with nanoparticle systems, though. Particularly because you could find a system with interesting interface/surface properties and then possibly amplify that with nanoparticles.  If you're interested in nanoparticle superlattice, you should check out work by James Dickerson and his group at Vanderbilt. They haven't done ferroelectrics but they are doing really cool stuff with nanoparticle deposition and layering.
+
+As for being a lady-physicist, personally I love it, but I know there are so many challenges to women in physics (and it many other hard science and math fields) that begin well before higher education. I could probably rant for a good long while, and I definitely have on occasion. But the issues that mean the most to me are the perception of who a physicist is/who can do physics and getting more young students interested in science and helping keep them interested.
+
+I hate that the stereotype of a physicist is either an old white guy or a socially inept nerd (thanks Big Bang Theory!). I'm a social, outgoing person and I want to reduce the number of students who shy away from science/math for social reasons. Also, changing the idea of who a physicist is can make more students believe that they too can be physicists.  I think this can be accomplished by getting students involved with scientists and scientists involved with students. I feel like once you enter higher academia it's really easy to stay there, leading to a disconnect between what scientists really do and how schools portray science as being done.  Also, I love working with younger students because you can get do fun, hands on experiments and you can work with people who haven't been "scared away" by science and who can find it amazing.
+
+As far as issues that impact me most regularly, I think one of the biggest is that in my department there is a attitude of apathy towards increasing the amount of women in physics. Many faculty members don't see that diversity is a good thing and think it will only decrease the quality of work in the department. This has been a road-block towards our department helping to recruit more women, which is turn out make us more attractive to women in the future. 
+
+On a personal level, I think the fact that we are a male dominated population of graduate students (especially in the last few years with low female enrollment) has made a lot of the guys more mysogenistic and jerky. Maybe a better way to put it is that they feel more comfortable acting that way.  I feel a bit alienated from most younger grad students and knowing that they behave this way doesn't make me want to put in the effort to make friends with them. And now that I'm getting up there in grad student years, I feel like most of my close friends have graduated, so social like in my department can be frustrating.
+Thanks for the reply. Two related questions:
+
+When people who work complex oxides (as most crystally people do these days) hear the chemical symbol of a complex oxide, do its properties immediately come to mind. Like when you hear "Ruthenium 0.8 Actinium 0.2 Copper Oxide" do you immediately have a picture of how it might behave?
+
+And would you say those perceptions of what physicists are like are the main factor contributing to the low enrollment of women in physics, or are other reasons stronger?
+So I'm not sure how specific I should be about the materials because we are about to submit our paper on this system. I should have waited a few days until we at least get the paper up on ArXiv.  :)
+
+For our materials, we work with oxides with a perovskite structure (there are ABO3 oxides). The main ferroelectric component I work with is PbTiO3. Since we want epitaxial growth, we work withing the same structural family of materials so that they are all the same general lattice structure and can be stacked easily.
+
+So for multiferroics, we are just starting to explore potential materials for this. We aren't working with materials that are themselves multiferroic, like BiFeO3. We are going to be designing superlattices with one ferroelectric material and for the other material we want to use something that has some type of magnetic ordering, whether it be ferroic or anti-ferroic. Multiferroicity could be induced structurally by the strain-polarization coupling of the two materials. For the theoretical background for this work, you can check out work by Karin Rabe's group  at Rutgers. They developed a simulated "checkerboard" system that would be a multiferroic composed of two materials, one which has ferroelectricity and one with ferromagnetism.
+
+For characterization, I don't actually do SQUID because I haven't done any magnetic measurements, yet. I'm working on a system that could potentially be multiferroic, but while looking at its basic structural and electrical properties, we found a lot of cool stuff and have gotten carried away with it.
+
+In our home lab, we have our deposition system, an x-ray diffractometer, an atomic force microscope, and an electrical test station that we can customize to do lots of different measurements. On a regular basis, those are the techniques I've used. I've also done a fair amount of synchrotron work. I've done a lot of x-ray work at synchrotrons. Some of this has involved low temperature measurements (we don't have this capability at our home lab) on finished samples and some work has actually involved in situ x-ray diffraction on a growing film. Also, I've done ultraviolet photoemission on my samples because I've been interested in their electronic properties.
+I have to start by saying I would make a terribly chemist! I definitely could not tell you a material's properties if you gave me the symbol. My work so far has been on a limited group of materials. And within these materials, we aren't changing the chemical compostion. We are taking well-studied materials and seeing what happens to the entire structure when you stack them. If I worked with solid solutions I would probably have a much more intuitive grasp of the chemical nature of different elements and materials, but as it stands, I don't. For my research right now it's more important to know the overall properties of my constituent superlattice materials rather than how exactly the individual atoms contribute to that. 
+
+Back to the perception of physicists, I couldn't say for certain if it is the biggest factor who why there is a low enrollment in physics, which is a mountain of a problem. With women in physics, you get the leaky pipeline where you lose women at each level of education/career. Depending on when you are in your career, there are different reasons for a decreasing number of women. By the time you get to college and have made the decision to study physics, social pressure isn't really as big of issue because you end up among like-minded people. As you get older, like into grad school and first jobs territory, women have to weight their careers with what they want for their personal lives. It can seem like a choice between PhD or going for tenure versus getting married and starting a family. And depending on the institution you end up at, sometimes this is easier and more supported and sometimes it isn't.
+
+But for younger students, there still are definitely obstacles for not gaining/maintaining an interest in physics/science. I was lucky to grow up in a family that values education and learning. I had science kits and would often go to museums and science centers. I don't know how many families nurture a love of learning and discovery anymore. And then  you go to school. Elementary school science is really fun because it's very hands on and you learn about the world you can see (and dinosaurs!). But after that is when you start to see cliques and bullying really pick up. Intelligence is not valued by your peers when you are a middle school girl. But science classes can still be interesting and hands-on.
+
+Then comes high school. The classes are much different, much more math and lecture based. And if you don't have a good, engaging teacher, you won't find science interesting or fun anymore. I think this is particularly true for physics. There are a lot of people who want to be chemistry of biology teachers. The same can't be said for physics. Most people who study physics in undergrad or grad school can easily find a job that pays way more than teaching does. So often, the physics class is assigned to a chemisty or math teacher who is also qualified (by state standards) to teach other types of science. But these teachers lack the background to make the class interesting or to be able to go beyond the textbook, so physics is seen as too difficult or uninteresting.  
+
+Also, with regards to this, physics is often relegated to a senior-year course with math prerequisites, so students can be scared off by thinking it is too advanced. There is the Physics First movement which wants to get physics taught in a more qualitative way freshman year, which is something I agree with.
+
+And yes, there still is social pressure in high school.  There is still bullying and cliques and it can be hard to be smart or even just come off as a "smart kid". I think that this is worse in some schools than others. There were lots of affluent school districts near where I grew up and they tended to have more students interested in advanced courses (even if it was only to get into a good college). But in a district like where I grew up, educational and intellectual achievements weren't really rewarded or encouraged on a system-wide basis. (On a personal note, I'm so glad I didn't go to high school there!)
+Thanks for the reply. No worries on saying anything you haven't published yet, I just figured it was a complex oxide you were working with. The Rutgers work is definitely something I'll look at, you also may want to look at the LaSrMnO3 work done by Northeastern University's Nanomagnetism group (Lewis Lab). Interesting stuff on ordered vs. disordered superlatices.
+
+Also nice to see someone who has also camped out on the beamlines. Maybe you have dealt with the insanity that comes with being out there. One trip I was on where we were looking at thin films of a special magnetic alloy only to discover that all our samples had become horribly oxidized. Entire trips experimental plan had to be quashed for an on-the-fly "what went wrong" search mission.
+
+Feel free to share any interesting stories you have from the beamlines. Its always fun to hear more.
+Ouch about your beamtime. I am very lucky in that I work at a university that is about a half hour from the synchrotron we mainly use. So we can go back and forth and fix sample mistakes as we have beamtime.
+
+My worst beamtime experience so far was during one of our growth experiments. We were collaborating with another university, who are the people who set up and beamline. And we were using all their equipment. My adviser and I noticed that the pressure gauge kept going off, causing the chamber to vent. This was because of terrible wiring on their part. Also, it seemed like most of their equipment was plugged into maybe two outlets. My adviser has an strong electrical background, so in our group we keep our machines organized and well wired. So I had been at the synchrotron all day, setting up to do some growth and scans. By this time the professors had gone home and some new grad students  come had to work for the night to finish the set up. They wanted to go to dinner and I volunteered to stay and watch the beamline because afterwards I was going home. I was watching the line and went to check that the pressure gauge still worked. Nope. Not at all. And not only was the gauge not working, some fuse blew and all the equipment had turned off, leaving the chamber to come up to air. I made one of them come back from dinner because I was in major panic mode.  And now we have learned to double check everything!
+
+My favorite synchrotron time was when I went to the Swiss Light Source outside Zurich. My adviser did his post-doc in Switzerland and when he started teaching, he still had some beamtime there. So I got to go help out and it was so awesome! The synchrotron there is new-ish and has so much space. And I spend some time in Geneva visiting friends working at CERN. And I swear I ate nothing by meat, potatoes, and fondue for like a week. Oh...and the experiment was cool and went smoothly, too!
+Do you know the approximate cost per day of synchrotron time?  I've never worked with one myself, but I spent a few months during my PhD work toying with some ways to make a similar beam out of an ordinary x-ray source.  I never got anywhere near the flux rates of a synchrotron, but I did get it to be pretty monochromatic.  I'm just wondering relatively how expensive a bench-top synchrotron source could be and still be competitive with buying beam time.
+As a spectroscopist, having a ton of control over the dielectric of a coating means a great ability to play with the light I use. Do you have a feel for the durability and general physical properties of the materials you've developed?
+Thanks for taking the time to do this AMA. I'm actually going to begin work on ferroelectric materials in several months, though I don't have much expertise in the area yet (I'm bringing a secondary expertise to the project).
+
+1) How exactly can a single material (say, BaTiO3) have a permanent dipole without being structurally anisotropic?
+
+2) Regarding science outreach and education, do you think that it's more effective to invest in outreach programs with younger people, or to invest in online media (Wikipedia, research websites, etc)?
+For #1, ferroelectric materials are anisotropic! More specifically they are "non-centrosymmetric". [Basically compare the paraelectric and ferroelectric structures of BaTiO3.](http://i.imgur.com/75M9M.png) In the paraelectric phase on the left, the atoms are basically symmetric around the center of the cube. But for the ferroelectric phase (the right two images) the unit cells are basically "squished" in the xy plane, so they elongate along the z direction and atoms are displaces, which leads to the dipole moment.
+
+For #2, that's a very good question and one I haven't thought about it before. I personally think person-to-person interaction does a lot of good when it comes to encouraging learning and discovery.  And for outreach, you know you are connecting students with a knowledgeable source who actually knows what they are talking about. For online resources, there are a lot of great resources out there. Unfortunately, the internet contains a lot of people that don't know what they are talking about but are willing to speculate wrongly and publicize their views. Adults who want to know more about a topic can easily tell where to go for good sources, but I don't know if younger students would be able to do this as successfully.  Also, on the internet it can be harder to get specific questions answered.
+I actually have no idea how much synchrotron time costs. For most government funded ones (at least this is true for here in the US) researchers from universities and government braches use the synchrotrons for free.  Only industrial companies have to pay, and I assume they would pay a good amount.
+The samples we make a very durable both in terms of what they can handle experimentally and what they can handle with being handled or transported. They can get scratched, but usually this isn't a big deal, because we usually aren't interested in surface properties. I've only managed to destroy a portion of my sample once and that was when I accidentally put like 220 V across a small electrode. I think one reason they are durable is that the substrates we use are relatively thick (5mm) so they can easily be handled.
+
+For general physical properties, I'm not 100% sure what you are asking, but yes, I do have a good feel for them. In our lab we are working with familiar constituent materials to basically make a combined system. So knowing the properties of the two base materials, we can reasonably estimate that the superlattice's "bulk" (not necessarily bulk because it's still a thin film) properties would be by assuming it will be a combination of the two constituent materials' properties.
+Favourite book for a first course on solid state physics?
+For graduate students the one almost everyone uses is "Solid State Physics" by Ashcroft and Mermin. It's not bad, although when I took my course, I relied more on my professor's notes than the book.
+
+In undergrad I used "Introduction to Solid State Physics" by Kittel. With Kittel, I feel like you need to get used to his writing style, but it's not bad, but not a great read, either. 
+
+Those two books were ones I used in my courses. For a non-course introduction, I would suggest "Understanding Solid State Physics" by Sharon Ann Holgate. I haven't read the whole this, but undergrads and high school students working in my lab who haven't taken a course have read it and found it useful.  It's not as math heavy as the other two books I mentioned and is a good overview of Solid State that won't be as time consuming as trying to get through something like Ashcroft &amp; Mermin.
+Does Impedance Spectroscopy have a role in your research (seeing you work with very thin layers, probably not)? How important do you think impedance spectroscopic techniques are for characterizing ferroelectric materials in general?
+We have the capability to do impedance spectroscopy and I've done it a couple of times, but it hasn't played much of a role in my work. Mostly I've used it to make sure that when I'm doing dielectric constant measurements I'm doing it in the range where the dielectric constant isn't changing.  I think if I were working on systems with more of a mind to applications it would be a more important technique, because then I would want to know how the properties of my system react to a variety of frequencies. I also think that impedance spectroscopy could be very useful for studying switching dynamics (how the material changes when the polarization switches) because it would allow you to look at this at different timescales in order to see when different switching processes happen.
+
+What I do use a lot is dielectric constant vs. voltage measurements. This is because as a ferroelectric material gets closer to switching polarizations, the energy curve of the material changes from a symmetric double well shape to a highly asymmetric one, and this is reflected in the value of the dielectric constant.
+First, thanks for the answer, the subject is a very interesting one! 
+
+How do you go about doing Impedance Spectroscopy on thin layers? What's the sample geometry?
+
+I'm sorry for the questions that might not be about your line of work exactly, but my work consists of using IS to characterize solid electrolytes and I might have to do some work on ferroelectric materials in the future.
+With regards to the cost synchrotron use, even universities don't necessarily use it for free at government funded ones (I was at the NSLS for gov't funded research, and it certainly wasn't completely free for our lab). It can be "Free" so long as all your work is openly published. Research that's nationally funded but kept proprietary (not uncommon for DoD funded research), then the cost has to be footed by your budget. 
+
+As for the cost, I won't go into the exact figures, but its usually by and far the most expensive item in any research budget that includes it outside of personnel salaries.
+Thanks!  I haven't had to worry about where the funds and cost for experiments just yet, so I didn't know how the NSLS charges.  All I know is that we are users and just apply for the experiments we want.
+No worries about your questions, it's an AMA after all!  :)
+
+So our superlattices are 100 nm thick (so not super thin) and they are pretty hearty samples. The only time I've really managed to destroy a part of one was when I put 220 V across a small electrode. The samples are made on a 5 mm x 5 mm substrate, so we can handle them with a pair of tweezers. The substrate is 0.5 mm thick and then we grow a 20 nm bottom electrode on top of the substate. After that, we deposit the film. For top electrodes we have deposited gold electrodes. We do the meaurements on a probe station and the smallest electrode is easily touched by one of the probe needles. For the other, we actually wirebond through the sample to the bottom electrode and then bond it to a piece of copper that the sample is mounted on with double-sides tape. So the other probe just has to touch anywhere on the copper.
+
+What form are your electrolytes in?
+I am an aspiring physicist who is still relatively young (17). I feel as though I would love the research opportunities attaining a PhD would offer, as I can think of nothing more I want to do with my life other than probe our physical world for answers. But I'm not sure the lifestyle is for me (days and nights spent working, lower pay, no freedom to travel ect) On the other hand I have no clue what kind of work I could do with just a physics degree from a university. I'm not even sure if physics is for me because I have this feeling to be successful in this field you have to be some sort of freak genius to have any chance. Perhaps you, or any others here could offer me some advice ?
+You only have to be a freak genius to be a successful string theorist.  :)
+
+I have to say that the lifestyle is different from what you imagine, at least it has been for me. I have a really great and young adviser, who still remembers the freedom he had while getting his PhD, so he is very good about letting me work on my own schedule and take time off. His attitude is that as long as I am getting my work done, I can plan my own schedule. I also work in a self-contained lab, so I usually don't take my work home with me. Yes, once in a while I need to work late, but I feel like it balances out with time off and the fact that I normally don't work crazy hours.
+
+And for travel, you actually get a lot of opportunities. Part of physics is presenting your work and this means going to conferences and meetings. And grad students get to go to summer schools. And it's pretty common for people to take a few days before or after these conferences and make a little vacation out of it. So far, for my work I've been to Montreal (awesome), Switzerland (extra awesome), Dallas (kind of boring), Pittsburg (surprisingly fun), and I will be going to Chicago and Boston this spring. And I have lots of friends that have traveled to way more exotic places and lived aboard in the name of physics.
+
+So now that I've tried to make physics sound more awesome, some advice. So even if you don't want to get a PhD, physics is a really good major to study. Hard science and engineering majors statistically have some of the best job prospects upon graduation. Depending on if you do research or not during your undergrad, you could also be prepared for a career in industry after graduation. And physics educators are in short supply! And even if you want to do something completely different, a physics degree is well regarded because it shows that you have good critical thinking as well as quantitative logic skills.
+
+If you do major in physics, one of the best things you can do it get research experience. You can do this during the school year or during the summer. There are programs called REU's (Research Experience for Undergraduates) that will have you working with a research lab for a summer. I know a lot of people who have gone to grad school at places where they did REU's. And you can also talk to professors in your department about doing research for independent study credit if your department doesn't offer some sort of research class.
+
+Another piece of advice is to know what your weaknesses are and try to improve on them. I will be honest and say I am terrible at programming. Most people going into physics will take some programming classes, but they have never sunk in for me. It's like a foreign language and I am terrible at foreign languages. But I still try to do my own programming if I can, even if it takes a while and I need help.
+
+And don't feel bad when you encounter those freak geniuses! Most physicists aren't like that at all. While physicists are smart people, it's rare they we know all the answers. I have had to work quite hard to get through classes and it's rare to find someone who can just breeze through them. And most physicists and grad students also like having lives outside of physics. We like to have fun and travel and we have a lot of opportunities to do that.
+
+Ok...I need to stop myself before I keep rambling on about why most physicists I know are awesome and enjoy being a physicist. But it is really rewarding and as long as you are willing to put in hard work you can be successful in a career path you enjoy.
+
+Now that I've made a moral to this story, let me know if you have any other questions. I love talking to students about physics and being a physicist because it makes me happy knowing that there are students out there who love physics.
+If Hydrogen and Oxygen are both extremely flammable why does water put out fires instead of exploding?
+Off the top of my head, I have no idea.
+
+My guess is that because the H2O molecule is stable so the energy from the fire won't be enough to destroy the bonds, so flammable H2 and O2 don't form.
+wouldn't that mean there would be a temperature at which throwing water on a fire would cause it to explode? AFAIK the only type of fire you can't throw water on is a grease fire.
+I thought grease fire was more because of the splattering effect when hot oil and water mix.
+Yeah, at least that's what i got out of the mythbusters episode on the matter. it's not because the grease fire is igniting the water but the water is turning to steam which is spreading the grease.
+The hydrogen is already oxidized as water, it has already burned.
+
+However, if you put water on a high temp fire such as metal fires (titanium, magnesium, ect) it will disassociate back into H and O and make the fire burn hotter.
+[Water on a magnesium fire.](http://www.youtube.com/watch?v=TOpsB5n9DZ8) This happens because the magnesium reacts with the water, forms magnesium oxide and hydrogen gas.
+I like how you are interested in the outreach aspect of science. Where do you eventually want to work, and how will you tie outreach into your work?
+That's a good question and I always say that my answer depends on when you're asking. 
+
+I still am really not too sure about what I want to do long term. I am really drawn to education and outreach and I have ideas about courses/activities for both physics and science literacy, so maybe I will make something of that some day. Sometimes I think I might like to be a professor at a smaller college or university, one with more of a focus on liberal arts. I'm currently a grad student at a researched focus university, and I don't think I'd like to be a professor at a place like that. I think good teaching is undervalued where I am and that working at a research university wouldn't satisfy my interests. I do like doing research, but I am most passionate about communicating and teaching science, so whatever I do will hopefully have some element of that.
+
+For the short term, I think after I graduate I will do a post-doc for two main reasons. One is that if I want to be a professor anywhere, I will need one. Secondly, I might try and use it as a time to live abroad for a year or two to experience something new without committing to permanently move there. Another option I've been toying around with is the idea of doing a fellowship in congress. The APS sponsors PhD graduates to work with politicians for a year and serve as kind of a scientific adviser. I think from an outreach/communication perspective this could be really great because it would give me a chance to learn to communicate with a completely different audience.
+
+And finally, for my "I wish I could do this" dream job. I would love to work in the education department at a science center. I used to work at one at a zoo and it's fun because you get to develop curriculum that has all the fun of science class without homework/tests/grading. And you get to teach lots of people and interact with them in a casual enjoyable setting.
+I'm a CompSci undergrad, and for me, its always been quite clear what types of jobs I would be offered upon graduation. Most of the companies offering those jobs also offer internships for students. 
+
+But with Physics, I don't see what specific jobs are available outside of teaching and academia. Can you shed some light on what jobs are available, and what job offers you've gotten? What is the typical pay range for someone who just graduated with a PhD (or BS), and for someone who has been working for 20-30 years?
+For a BS I'm actually not to sure. I didn't really look for jobs because of grad school and most of my physics friends either went to grad for physics, went into teaching, or tried to go to med school. I know one or two ended up in computer fields. I'm not sure what the average salary for someone with just a BS is. I know for grad school, most stipends are in the range of $20-30k and tuition is paid for.
+
+For a PhD most common job tracks keep you inside the field of physics. These jobs can be in academia, industry, or researching at a national lab. The most common thing for people to do right after they graduate is to go to a post-doctoral research position for a few years. This is a must-have if you want a job in academia. Post-docs usually pay maybe $40-60 K. It's basically about double a grad student's salary.
+
+Other options for PhDs are in fields like medical physics and finance. These jobs often pay a lot and require the basic experimental and quantitative backgrounds that physicists have. I know that these are two well paying fields.
+
+[For better information, I'm going to refer you to the American Institute of Physics](http://www.aip.org/statistics/catalog.html). The AIP collects employment statistics and the site I linked to has a lot of their findings.
+Competitive for the government, or competitive for the researcher?
+
+As stated below, synchrotron time is typically free for researchers.
+
+But for the government, I've been told that the cost of a synchrotron is in the ballpark of $100 million, plus an operating cost of $50 million per year.  If your bench top synchrotron costs a few hundred thousand dollars, you're saving a lot of money as far as the government is concerned and you might have a case if you'd like to claim that your research is relatively cheap.
+[deleted]
+I see.
+
+We actually sinter custom solid electrolyte ceramics and make 2mm x 1.5mm cylindrical samples with both ends covered in porous platinum, which are inserted into a coaxial line made from a refractory ceramic (also covered in a layer of platinum) to mitigate thermal expansion. This is necessary because the samples have to be measured in temperatures ranging from room temperature to about 1000K and frequencies up to 30 Ghz, so even small deformations of the measurement apparatus can really throw off the measurements.
+
+The samples themselves are very easy to handle, but since the ceramics are usually very hard, actually making them from the sintered pellet can be a pain.
+
+Another peculiarity of solid electrolyte impedance spectroscopy is that due to electrode effects it is usually necessary to measure conductivity using the four probe method - two probes for voltage in the middle of the sample, away from electric field inhomogeneities and two probes for current at the ends of the sample. This lets us see slow processes, such as ion migration between individual crystals in a polycrystalline ceramic, which would otherwise be swamped by ions piling up near the electrodes, since they can't really escape the material.
+
+We also measure monocrystals of the compounds, but I haven't had a chance to work with one yet, since they are pretty hard to make in the required size and we don't have the equipment for that.
+&gt; male dominated population of graduate students (especially in the last few years with low female enrollment)  
+  
+Is this refering to your department or to your state/country (US?) as a whole? Asking because where I am, we have about a 5:1 female to male ratio in PhD students. Just talking about my department here, but I would guess this is a trend in my whole country (Sweden).
+In the US it's generally cited as a 4:1 male to female ratio for women in physics. There are some departments that are noticeably better (the first that comes to mind is MIT, which specifically tries to recruit women), but my department is actually worse. Factulty wise, only about 10% are women. For grad students, there have been a few years with 25% to 30% women, but for the last few years, we have only had like 3-4 women PhD students in each class, with class sizes being around 25-40 students depending on the year.
+
+My department doesn't really go out of their way to attract women and this is something I'm trying to work to change. I think part of this is that my department is in a high-cost-of-living area that's not very exciting compared to a lot of other grad schools, so it can be harder to appeal to people looking for a school with a good quality of life. Another is that there has been faculty resistance to treating the lack of diversity in the department as an issue.
+Very cool. That sounds so much different than my samples. We aren't using nearly as big a temperature/frequency range, so I think that makes things much easier on our end.
+Is the ferroelectrics field shrinking or expanding? Would you recommend someone who is getting a PhD to get one in ferroelectrics?
+So my field (oxide ferroelectric superlattices) is kind of a niche field within what I would call studying thin films and superlattices. There are a lot of labs out there working on materials with similar crystal structures to mine, but they aren't all ferroelectric. Some are magnetic, some are multiferroic, and some have interesting properties, like superconductivity, when you layer different materials. And most of these are studying perovskite type materials. The field is only 10-15 years old, so right now it is definitely expanding. My adviser is kind of in the "second generation" of it, so there is still a good amount of physicists forming new research groups.
+
+For ferroelectrics in general, the field has been around for a long time, since about the 1920's. Ferroelectrics can be useful for computers and electronics, so in addition to basic scientific work with them (which is more like what I do), application based research is done both in the academic work and in industry.
+
+I think that my specific PhD will be a good one, career-wise. But this can also depend on your project and research group. My adviser basically wants his grad students to get experience with as many different experimental techniques as possible, so if I chose to continue doing physics research, there are a lot of different directions I can go with it. I also like working with ferroelectrics because in my mind I can visualize their properties pretty well, while there are some other topics that I understand less intuitively.
+
+Overall, would I recommend studying ferroelectrics? I think if you were interested in materials, I would. In solid state physics, there are some "hot topics" that are getting oversaturated in terms of how many people work on them. Ferroelectrics isn't one of them, so there will be more available opportunities interesting/significant research projects and to get your research heard by people in your field.
+Would a BS in Chemistry be enough to get a PhD in ferroelectics? What are some of the "hot topics" that are oversaturated in solid state chemistry and physics right now?
+So the thing about the materials I work with is that they aren't confined to physics departments. There are people in chemistry, materials science, and geoscience departments that are working on materials in the same class as mine. Depending on the department, there is a different emphasis. For example, at my university, in chemisty there is a group working with perovskites and instead of building single crystals or thin films, they use chemical substitution to make different materials to study. I'm not sure what the prerequisites for different graduate departments are in terms of going from a chemistry BS to another field and that's something you would probably want to talk to graduate program directors about.
+
+Right now, the two biggest fields in solid state physics are high temperature superconductivity and graphene. Both of these topics have a large amount of physicists working on them. I know there is a lot of research being done, but I personally would like to work in a smaller field (like I do) where I feel like I can make more significant contributions to that field. I'm not saying that there aren't a lot of graphene or superconductivity physicists doing great work, there are and I know some myself, but I feel like it can be harder to get a break in that field and there's more of a competitive culture, particularly in high Tc superconductivity.
+
+Summary:
+I think if you were interested in materials, I would.
+My work in on ferroelectric superlattices.
+And then  you go to school.
+The layers of each material in the superlattice are very thin.
+I think it would be really interesting to work with nanoparticle systems, though.
+I know that these are two well paying fields.
+I know one or two ended up in computer fields.
+The other depends on the type of system I want to make and study.
+So the thing about the materials I work with is that they aren't confined to physics departments.
+And grad students get to go to summer schools.
+I would love to work in the education department at a science center.
+I am actually the first person in my group to work on a potentially multiferroic material.
+And most physicists and grad students also like having lives outside of physics.
+What are they used for?
+So even if you don't want to get a PhD, physics is a really good major to study.
+I think this can be accomplished by getting students involved with scientists and scientists involved with students.
+I've done a lot of x-ray work at synchrotrons.
+I love talking to students about physics and being a physicist because it makes me happy knowing that there are students out there who love physics.
+I think this is particularly true for physics.
+And we were using all their equipment.
+For basic physical research, any new combination of materials will give you interesting properties to study.
+I am currently working with one material that is a metal in bulk.
+One is that you can get size effects from the materials being so thin.
+I'm a physics graduate student who researches full time.
+I actually have no idea how much synchrotron time costs.
+I think that my specific PhD will be a good one, career-wise.
+So when I use the term ferroelectric it makes most people think of magnets, which are ferromagnetic or that these materials contain iron.
+For nanoparticles, I don't have the capability to work with ferroelectrics in this capacity.
+How does making them into superlattices make them more useful?
+One is that if I want to be a professor anywhere, I will need one.
+I like how you are interested in the outreach aspect of science.
+We aren't working with materials that are themselves multiferroic, like BiFeO3.
+For general physical properties, I'm not 100% sure what you are asking, but yes, I do have a good feel for them.
+But this can also depend on your project and research group.
+I think that this is worse in some schools than others.
+For a BS I'm actually not to sure.
+Some are magnetic, some are multiferroic, and some have interesting properties, like superconductivity, when you layer different materials.
+And for travel, you actually get a lot of opportunities.
+Most physicists aren't like that at all.
+And this electric field means that ferroelectric materials have a electric polarization.

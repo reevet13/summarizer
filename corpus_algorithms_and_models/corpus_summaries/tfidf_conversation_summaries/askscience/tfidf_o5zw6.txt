@@ -1,0 +1,37 @@
+Original Response:
+Article:
+http://news.nationalgeographic.com/news/2012/01/120104-time-cloak-invisibility-harry-potter-light-optical-fiber-science
+
+I don't understand what this has to do with "time" - the light is slowed down, then sped up to make up the difference, via using a lens. What does this have to do with time?
+[deleted]
+I'm guessing this is the appropriate part of the explanation:
+
+"To conduct their time-stopping experiment, described this week in the journal Nature, Gaeta and colleagues aimed a laser beam at a probe and passed the beam through a device called a time lens.
+
+While a conventional optical lens bends a beam of light in space, the time lens modifies the light's temporal—not spatial—distribution.
+
+"It's a way of being able to really control the properties of a light beam in the time domain, and shape and distort and do funny things like this to light in the time domain," Gaeta said.
+
+Study co-author Moti Fridman, also of Cornell University's School of Applied and Engineering Physics, devised a method in which he crossed the laser beam aimed at the probe with a strong "pulse" laser inside specialized fiber optic glass.
+
+"This changed the frequency and wavelength of the beam so it moved at a different velocity, and this is why a [time] gap was created," he explained.
+
+A second pulse laser on the other side of the time hole reversed the changes, restoring the beam to its original properties.
+
+In the experiment, an event that happened inside the time hole wasn't detected by the probe."
+
+What that all means.. darned if I know. It sounds like they shot a laser through a "time lens" to slow it down then it passed through a second lens to speed it back up. That sounds like a purely physical alteration to me, hence my question.
+That doesnt really explain what happened though, which is why I was left confused. Theres no explanation for what "time lense" means or what it actually does. Seemed odd to me for the article to just leave it at that.
+It's a grossly misleading article representative of the horrible state of popular science reporting.
+
+Light always moves at light speed, and cannot be changed.  You can create the *illusion* of a changing speed by absorbing and re-emitting photons (lensing), and that's pretty much what they're doing, if in a slightly more elaborate way.  
+
+But the researchers, and reporters, are twisting this ridiculously.
+&gt; Light always moves at light speed, and cannot be changed.
+
+That's completely besides the point. The experiment constitutes a temporal optical cloak, albeit a limited one.
+I tried to answer questions on the temporal optical cloak [here](http://www.reddit.com/r/askscience/comments/o3rb2/time_cloak_how_does_it_work/). Hope that helps.
+
+Summary:
+What does this have to do with time?
+Light always moves at light speed, and cannot be changed.

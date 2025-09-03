@@ -1,0 +1,34 @@
+Yes, as best as I can reason.
+A sidereal month is 27.321661 days (time for the moon to go around earth once) and the moon's orbital period is 27.321582 days.
+This means that each ~~lunar month~~ rotation of the moon around the earth we should see the moon rotate (27.321661-27.321582)*360 =0.028 degrees.
+The orbital and rotation periods of the Moon aren't constant over a long period of time.
+The Earth rotates faster than the Moon orbits, so the tidal bulges on Earth [lead the Moon by a small amount.](http://i.imgur.com/0248W.gif) This transfers some of the rotational energy of the Earth to the orbit of the Moon, which slows the Earth's rotation down and causes the Moon to drift slowly away from the Earth (at a rate of roughly 4 cm per year).
+As the Moon drifts away, its orbital period increases.
+Early in the Moon's history, it rotated much faster than it does now, but tidal effects slowed it down and brought to the synchronous rotation state it currently is in.
+Very true, my calculations take two numbers and perform maths, assuming all conditions stay constant, changing orbits like FMonk says could change this.
+So I revise my Yes down to a Probably.
+That said, it seems intuitive that the moons rotation from earth (ie. what side we see) would slow asymptotically due to tidal effects, so the that rotation as seen by an observer on earth will never be zero, just very small and getting smaller.
+From a conversation we had, I remember him mentioning that the Moon will not drift off to infinity; the rate at which it is drifting away from Earth is also slowing down, so eventually it will stabilize.
+I don't remember any specific numbers on what the distance is, though I'll let you know if I find it.
+I wrote it from memory, but google yielded [this](http://curious.astro.cornell.edu/question.php?number=124) which looks accurate enough.
+My favorite quote from this [link on the subject](http://www.physlink.com/education/askexperts/ae695.cfm)
+&gt; The slowing rotation of the Earth results in a longer day as well as a longer month.
+Once the length of a day equals the length of a month, the tidal friction mechanism will cease.
+(ie.
+Once your speed on the track matches the speed of the horses, you can't gain any more speed with your lasso trick.) That's been projected to happen once the day and month both equal about 47 (current) days, billions of years in the future.
+If the Earth and Moon still exist, the Moon's distance will have increased to about 135% of its current value.
+That means by trial and error the moon should turn 360 degrees in 1071 years and 6 months.
+It would be showing the other side in half that so 536 years unless the rotational period changes.
+I'm really on thin ice here, but my physical intuition tells me that the tidal lock between the earth and the moon will stay in place as the moon recedes from the earth, even though it may not currently be in equilibrium.
+Tidal locking has something to do with the moon's shape being slightly elongated in the direction towards and away from the earth, like frozen-in tides.
+If the difference in periods, that the above comment mentions, is not strong enough (i.e.
+does not contain enough energy) to change the moon's shape (and this is the part that I am unsure about), then the moon will eventually swing back, ensuring that the side we see now will be the side that we will always see.
+I like the intuitive asymptotically slowing due to tidal forces hypothesis.
+Anyone that knows better?
+The moon wobbles so we see more than 1/2 of it currently http://www.youtube.com/watch?v=FCKmZXhVvkQ
+Actually, I'm less curious that they are different than I am that they are so close.
+You don't see this with the Earth's orbit around the sun, so I always assumed it was a massive coincidence that the moon's orbit around the Earth worked this way.
+Can anyone explain why they are even this close in the first place?
+Tides dissipate energy, and make this situation energetically more favourable.
+The Earth's orbit around the Sun would do this given enough time.
+As I recall, when an object orbits another, it slowly adjusts its spin to match the object

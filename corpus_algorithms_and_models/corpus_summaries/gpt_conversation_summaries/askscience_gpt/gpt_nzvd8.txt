@@ -1,0 +1,21 @@
+As far as we know, they would be the same. There are certain processes that are different depending on which version is there (for example, particles called kaons turn into their antiparticles with *unequal* probabilities), but this isn't expected to affect things on a chemical scale.
+
+However, only single anti-atoms have been produced, so as far as I know no anti-chemistry has actually occurred.
+
+If the interactions are between strictly anti-matter, there should not be any fundamental difference between strictly matter interactions, for, the electrical sign choices were arbitrary to begin with. However, completely annihilation occurs when a particle comes into contact with it's antiparticle counterpart.
+
+As for synthesizing antiparticles, it seems to me to be rather hard to contain these so that they are unable to touch any matter whatsoever... it would have to be in a vacuum, with some kind of electromagnetic field keeping the particles from touching the edges... they would also have to be fairly light particles as well (gaseous form), otherwise they would sink to the bottom (due to gravity).
+
+The problem is that we have produced so astonishingly few anti-hydrogens to turn into anti-H2 in the first place. It is really very difficult to slow down anti-protons to combine them with postrons in particle accelerators. I think the world-wide total is only a few 10s of nanograms.
+
+Actually, the problem with producing anti-H2 isn't that we've produced too few anti-hydrogens. The problem is that these anti-hydrogens are very hard to trap because they are electrically neutral.
+
+Matter can be created and destroyed.
+
+What happens when matter and antimatter collide depends on the types of particles involved, but it generally results in light, neutrinos, and various subatomic particles.
+
+That's right, while matter (and mass) are not conserved, energy and momentum are. So you can destroy matter, but the energy has to go somewhere.
+
+Correct. The classic way for trapping (electrically-charged) particles is to use a [Penning trap](http://en.wikipedia.org/wiki/Penning_trap). But if your particles are electrically neutral, you have to play with electric and magnetic dipole/quadrupole/etc. moments of the particles (as opposed to the electric charge, which is the electric monopole moment), which are weaker.
+
+This is true - however the time it will take to *get* the materials and actually run the experiment is massive. Our computer models and theories aren't 100

@@ -1,0 +1,15 @@
+Here is the summary of up to 250 words:
+
+So, the new Canon eos R can film 4K but with a 1.7x crop. I don't get why a camera can take a 4K+ resolution photo but it has to crop in when taking a video of the same resolution. Can anybody explain?
+
+For a 4k resolution, you need around 8 megapixels. Most sensors these days have 20mp+, or in Canons case, even 30.
+
+Canons approach uses the exact pixels needed to achieve a 4k image. So it's a 1:1 output.
+
+Why Canon is doing this: to save developing costs, keep heat down, be more gentle on the processor...i don't know but there has to be a reason
+
+I would bet Canon doesnt want to deal with any over heating and power issues.
+
+That being said, Sony will learn too and I doubt they'll give up their advantage that easily.
+
+But will they adjust their R&D and release schedules to match? They tend to go 4 years between bodies, where Sony was going 1-2 years between them.

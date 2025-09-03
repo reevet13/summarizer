@@ -1,0 +1,36 @@
+Original Response: 
+Can lost coins ever be purged or can bitcoin ever increase its total quantity of coins in circulation?
+Technically correct answer 'yes', for all intents and purposes no.
+Do you want the long answer?
+Yes please, not without (hard or not) fork, right?
+The BTC chain would need to be changed to have more coins and then everyone would need to agree to use the new chain.
+It technically would not need to be forked but if this ever happened it would most likely be a hard fork as there will be many people opposing the change.
+Anything about bitcoin can change, it is just code but changing the block-generation reward to allow more than an asymptotic limit of 21 million coins would require a hard fork.
+It would be a contentious hard fork, because many people strongly believe that the original plan should not be changed to dilute existing coins and it wouldn't be "bitcoin" anymore.
+Increasing the total supply is [one of the prohibited changes](https://en.bitcoin.it/wiki/Prohibited_changes) .
+As for the lost coins, they gone Buh-bye!
+&gt; there will be many people opposing the change.
+The *big majority*!
+So there won't be such a change.
+This guy is asking about the technicals... Can you not see that?
+Didn't say you're wrong...
+[deleted]
+how?!
+changing consensus rules like coin supply does require a hard fork.
+The coins in excess of the original limit would not be visible to older clients, but they would still live on the same blockchain.
+I personally wouldn't consider them to be *bitcoins*, but I could see how that might be debatable.
+for a block to be valid (accepted by everyone, including the folks who dont update the software) it needs to have only 1 coinbase transaction, with a deterministic amount based on the block height.
+you cant have more coins being included in a valid block... you need to hard fork the chain.
+Your imagination is limited.
+It's true that existing clients could not see or interact with the new coins, but that doesn't mean that new clients couldn't build a second set of tokens and operate them on the same block chain.
+There are lots of potential ways the new coins could be implemented without breaking existing functionality.
+For example, the coinbase for the new coin could be embedded in the coinbase for the original coin.
+Please note, I am not advocating for any of this.
+I think it's a terrible idea.
+I'm only pointing out that it's technically possible (with some gross contortions).
+
+Summary: 
+So there won't be such a change.
+&gt; there will be many people opposing the change.
+Yes please, not without (hard or not) fork, right?
+you cant have more coins being included in a valid block... you need to hard fork the chain.

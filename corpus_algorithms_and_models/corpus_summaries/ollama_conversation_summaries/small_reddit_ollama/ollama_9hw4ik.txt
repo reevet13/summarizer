@@ -1,0 +1,15 @@
+Here is the summary:
+
+One parsec corresponds to the distance at which the mean radius of the earth's orbit subtends an angle of one second of arc.
+
+People often mistake it for a unit of time due to how it's used in starwars, but the solo prequel explains how it's a unit of distance.
+
+It has to do with [parallax](https://en.wikipedia.org/wiki/Parallax).
+
+One second of arc is 1/360th of one degree. (A minute is 1/60th of a degree. A second is 1/60th of a minute.) A star that is one parsec away will have an angle difference of one second.
+
+Subtends means the side opposite an angle. So a triangle has three angles and three sides. The side opposite an angle is subtended to the angle opposite the triangle.
+
+A circle has 360 degrees, a degree has 60 minutes, a minute has 60 seconds.
+
+So imagine a pizza. Cut that pizza into 1,296,000 slices. So one slice has an angle of one arc second.

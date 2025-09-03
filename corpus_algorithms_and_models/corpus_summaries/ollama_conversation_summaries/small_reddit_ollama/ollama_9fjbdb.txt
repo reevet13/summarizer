@@ -1,0 +1,10 @@
+Here are some sentences copied verbatim from the original text:
+
+* "A gesture system should be about eliminating layers of abstraction, and designing the UX around physically moving apps around in an understood, logical manner."
+* "The swipe up gesture is really half-baked. Why are they invoking the gesture even when I swipe up from the edge of the screen, far away from the pill? That's... stupid."
+* "While still on the subject of the upward swipe... why is there no corresponding downward swipe?"
+* "Clear all should not be affixed to one side of the carousel. There's no real reason for this, and I wouldn't know where else to find it unless I just swiped and held until the carousel stopped moving."
+* "Trimming it down to 4 icons and the ellipsis and the new 'do you want to disable these notifications' is clearly an effort to try and reduce notification fatigue as part of the larger Digital Wellbeing push."
+* "I guess priorities also factor into it, so it's more likely that the visible ones are important. If you don't see a difference between the two, how is the new one worse?"
+* "But you're spot on about priorities. Android notifications are organized by priority level descending. So if you have more than 4 the visible ones will be the highest priority and the lower priority ones will be represented as the dots."
+* "I'm sorry some pretentious twat of a designer gets anxiety attacks if there's more than four icons on the bar, but that's a piss poor excuse for ruining it for everyone else. At least make it configurable for fuck's sake."

@@ -1,0 +1,55 @@
+Original Response: 
+If I'm understanding your question correctly, it's because when you bring two orbitals on separate atoms close together, they mix because the symmetry of the total system is no longer that of a single atom.
+Every orbital (in molecular orbital theory, at least) will have a symmetry that depends on the symmetry of the molecule as a whole.
+That's a consequence of the symmetry requirements of the overall wavefunction, where  **𝚿** (a,b) = -  **𝚿** (b,a).
+Is this like VESPR?
+The orbitals are a statistical field of probability in determining the location of an electron.
+VESPR relates to the structure of a molecule based on accessory lone pairs, such as an sp3 quaternary carbon having bond angles of 109.5, whereas an oxygen with 2 lone pairs will have less than 120 degree bonds on the opposing side.
+MO theory relates more closely with electron pairing (s,p,d,f) and valence shell theory.
+No.
+Valence-bond theory is a working approximation that can predict some but not all molecular geometries but not a whole lot else (e.g.
+MO explains aromaticity, conjugated bond systems, inorganic complexes with &gt; 8 valence electrons, boron allotropes, kinetic effects of substitution in SN2 reactions).
+But the theory itself is wrong or incomplete: covalent bonds do not form discretely between overlapping atomic orbitals with nonbonding electrons smushing them off to one side.
+In most polyatomic molecules, the bonding orbitals span across the entire molecule, and the symmetry of the molecule’s geometry determines the types of bonding that can occur between atomic orbitals.
+Valence bond theory is to MO theory what Newtonian physics is to relativity: accurate and useful within certain limits, but fundamentally untrue.
+But yes, the orbitals supply the probability of finding an electron in a location.
+If psi is the wavefunction, then | psi^2 (x,t)| is the probability that the electron exists at x at time t. That’s from the postulates of quantum mechanics, though, not valence bond theory or MO theory.
+[removed]
+*VSEPR 
+It stands for valence shell electron pair repulsion theory.
+[removed]
+Hey, what an extensive response.
+First, let me thank you for the time it must have taken to write that masterpiece.
+Here's my riposte.
+I didn't understand the question the OP was asking, and I was hoping that my stab in the dark would bring some clarity to that question.
+As for your rejection and your assertion that VESPR has nothing to do with the answer to the question, I suppose you would know the correct response to this query better than I would.
+Naturally, I agree that the theory is incomplete, as all theories are incomplete; some theories are more useful than others, but a scientific philosopher rejects all theories.
+I'm glad you brought up Newtonian physics, since I believe Newtonian mechanics are fundamentally true, especially within the limits where that theory may be applied.
+What's interesting is that, for example with electron flows, the same principles apply as apply with, say, the flow of water through a pipe.
+And the way we understand the one invisible system is by comparing it to something we can observe and measure and with which we are familiar.
+Wave physics is similar in this regard, transverse waves like the ocean and, oh what's the other one called, like sound waves?
+Edit: They are called longitudinal waves.
+@Moira  
+Perhaps you are correct.
+I compared the quantic behavior of electrons to a probability field.
+Probability is something I know about from statistics, while I learned about fields when studying electromagnetism.
+I wasn’t insulting you or condescending at all, I hope you see.
+[removed]
+[removed]
+There is no classical/Newtonian equivalent to the quantic behaviour of electrons.
+[removed]
+[removed]
+Is this physics or chemistry?
+This is an overlapping subject, whose contents might be taught in either a quantum mechanics course in a physics department or in a physical chemistry course (I think) in a chemistry department.
+The basic notion of the mixing of energy levels due to interactions is very fundamental in quantum physics, and needs to be understood by any physicist or chemist who works with quantum systems.
+The properties of the electronic configurations in molecules is more in the realm of chemistry departments/journals than physics, but there's no hard line.
+I had a quantum professor in my undergrad physics department whose PhD was in chemistry, and we covered a lot more properties of molecules than any course I TAed for in grad school.
+
+Summary: 
+Is this physics or chemistry?
+I compared the quantic behavior of electrons to a probability field.
+The orbitals are a statistical field of probability in determining the location of an electron.
+MO theory relates more closely with electron pairing (s,p,d,f) and valence shell theory.
+But yes, the orbitals supply the probability of finding an electron in a location.
+*VSEPR 
+It stands for valence shell electron pair repulsion theory.

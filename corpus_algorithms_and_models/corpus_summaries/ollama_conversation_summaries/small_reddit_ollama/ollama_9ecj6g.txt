@@ -1,0 +1,17 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Is this RAM compatible with my motherboard?
+* Is this RAM compatible with my motherboard?
+
+I'm thinking of getting a GTX 1070. Which one should I get?
+* I'm thinking of getting a GTX 1070. Which one should I get?
+
+When reinstalling windows on the same PC will I run into any troubles?
+very simple. either do it as part of the windows install process - the installer will do it for you - or just right click format .... then NTFS. Done. and no no troubles. just reinstall GPU drivers.
+
+Okay problem, it's my C: drive. Do I just set the boot drive to my HDD and then go in an format and then install Windows?
+
+Also what is NTFS lol
+the C: drive is your ssd? you already have windows installed to it then right......?
+
+and NFTS is a filesystem, windows uses it

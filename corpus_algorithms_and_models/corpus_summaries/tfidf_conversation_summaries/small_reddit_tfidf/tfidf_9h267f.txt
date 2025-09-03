@@ -1,0 +1,26 @@
+Original Response:
+Microbes and fungus rely on the moisture present in their food to survive. Lower that moisture, and you lower then number of rot causing microbes and fungus spores the food can support this extending the shelf life of the food.
+also salt or curing salt (sodium nitrite, sodium nitrate, ect.) also give the meat undesireable conditions for bacterial or mold growth.
+This is absolutely true. The salts perform double duty because the salinity itself is harder to live in, as well is making water evaporate faster which increases relative salinity. So the food is harsher *and* has fewer resources to support microbial life.
+This is also why you can keep honey without it going off, because there isn't enough water for the water for microbes/bacteria to live and thrive
+Just to expand on this answer, its the water availability, rather than the total water content that is important. Water with a high salt or sugar content has a lower water availability, and is harder for cells to grow in. Its not that different to how we can't survive from drinking salt water. This is why, for example, pickles in brine will last longer than a cucumber sitting in a jar, despite the higher water content in the former. Its also why jams last much longer than the fruit they are made from, because the sugar concentration is much higher.
+You confuse some things, no? There is water activity and that directly influences how good microorganisms can grow on a good. But a watery salt or sugar solution has a high water activity. 
+
+Salt and sugar conservation works because of osmosis. Drying because of water activity.
+I don't think that salt makes water evaporate faster, so show me the data. Salt (and sugar and drying) reduces the water's chemical  activity, so it is less available for bugs.
+Salt lowers the evaporation temperature of water
+The higher the salt, the less energy is necessary to evaporate the water.
+Don't know where you got that idea from. In fact, adding salt raises the boiling point of water.
+[removed]
+A little late to chime in here, but I agree with u/antiquemule in that salt does not lower the evaporation temperature of water (addition of a solute to a pure solvent raises the boiling point, known as a "boiling point elevation").
+
+In terms of evaporation, this could also be described by considering the vapor pressure of the solvent, and the effect of adding salt to pure water would also be the same as above--salt in your water leads to a lower vapor pressure, i.e. fewer water molecules are coming out of solution and entering the gas phase (link with a cute little animation to describe this: [https://www.chem.purdue.edu/gchelp/solutions/colligv.html](https://www.chem.purdue.edu/gchelp/solutions/colligv.html)).
+
+But, I think u/MarvAlice had a valid point about the salt helping the water to evaporate. The mechanism might be more related to changing the osmotic balance of the system and drawing water out of the meat/fruit. Bringing this water to the surface of the food, outside of the intact cells, would help the water inside the food evaporate faster. So, both parties are making good points. :)
+[removed]
+Yeah, I knew it lowered the melting point of ice, so I must have assumed it worked that way with water too and just never got corrected. Lol
+
+Summary:
+Drying because of water activity.
+But a watery salt or sugar solution has a high water activity.
+But, I think u/MarvAlice had a valid point about the salt helping the water to evaporate.

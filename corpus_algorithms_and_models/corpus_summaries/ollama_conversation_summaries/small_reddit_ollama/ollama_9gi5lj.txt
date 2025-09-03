@@ -1,0 +1,27 @@
+Here is a summary of the original text in approximately 10% of its length (up to 250 words):
+
+My PC tends to be fine until a Windows 10 update, then I get hard resets while gaming. The issue only happens when I'm gaming.
+
+Only one W10 update has caused issues recently, and it's happened with previous games like The Division.
+
+I've checked CPU, GPU, and PSU temperatures, and everything is within acceptable bounds.
+
+Memory and drives are fine, and event viewer shows no relevant errors or warnings.
+
+I've reseated power cables to ensure proper connections.
+
+All Google searches point towards overheating/hardware issues, but I've monitored temps and they're fine.
+
+System specs:
+AMD FX8350
+ASUS M5A78L-M/USB
+16gb Kingston predator 2133 (running at default 1333mhz for compatability)
+Asus strix gtx 970
+Corsair HX 850 PSU
+Kingston hyper x 120gb SSD (OS install)
+Seagate barracuda 1tb (steam library)
+Windows 10 home
+
+Cpu idle - 21°
+Standard stress test on prime95 (100% on all 8 cores for 15 mins) - 67°
+Gpu idle - 30°

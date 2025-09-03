@@ -1,0 +1,83 @@
+Original Response:
+Yes, as best as I can reason. A sidereal month is 27.321661 days (time for the moon to go around earth once) and the moon's orbital period is 27.321582 days.
+
+This means that each ~~lunar month~~ rotation of the moon around the earth we should see the moon rotate (27.321661-27.321582)*360 =0.028 degrees. A very small amount. Someone checking my maths would be great!
+
+EDIT: confused synodic and sidereal days earlier, now fixed, but the numbers are still right (though I am trying to work out if the theory is right)
+
+EDIT 2: see later post where I talk about theoretical considerations, and ~~amend~~ change my answer
+The orbital and rotation periods of the Moon aren't constant over a long period of time. The Earth rotates faster than the Moon orbits, so the tidal bulges on Earth [lead the Moon by a small amount.](http://i.imgur.com/0248W.gif) This transfers some of the rotational energy of the Earth to the orbit of the Moon, which slows the Earth's rotation down and causes the Moon to drift slowly away from the Earth (at a rate of roughly 4 cm per year). As the Moon drifts away, its orbital period increases. 
+
+I'm not entirely sure what effect this has on the rotation rate of the Moon. Early in the Moon's history, it rotated much faster than it does now, but tidal effects slowed it down and brought to the synchronous rotation state it currently is in. The Moon's rotation may still be slowing down slightly, I'm not sure. Maybe someone else can shed some light on that.
+[deleted]
+Very true, my calculations take two numbers and perform maths, assuming all conditions stay constant, changing orbits like FMonk says could change this. So I revise my Yes down to a Probably.
+
+That said, it seems intuitive that the moons rotation from earth (ie. what side we see) would slow asymptotically due to tidal effects, so the that rotation as seen by an observer on earth will never be zero, just very small and getting smaller.
+Are there any estimates of at which distance from the earth the moon might finally stabalize?
+One of my professors wrote his PhD thesis on this subject (many years ago), but I haven't been able to find a copy online to check.
+
+From a conversation we had, I remember him mentioning that the Moon will not drift off to infinity; the rate at which it is drifting away from Earth is also slowing down, so eventually it will stabilize. I don't remember any specific numbers on what the distance is, though I'll let you know if I find it.
+[deleted]
+[deleted]
+[deleted]
+I wrote it from memory, but google yielded [this](http://curious.astro.cornell.edu/question.php?number=124) which looks accurate enough.
+Great existing Reddit threads on the moon, rotation, tides, the fact that it's leaving etc.
+
+http://www.reddit.com/r/askscience/comments/l6z6s/is_a_dayyear_shorterlongerthe_same_length_now/
+http://www.reddit.com/r/Physics/comments/n9a6x/the_internet_says_that_the_moon_is_moving_away/
+http://www.reddit.com/r/todayilearned/comments/k900o/til_the_moon_is_receding_from_the_earth_at/
+
+My favorite quote from this [link on the subject](http://www.physlink.com/education/askexperts/ae695.cfm)
+&gt; The slowing rotation of the Earth results in a longer day as well as a longer month. Once the length of a day equals the length of a month, the tidal friction mechanism will cease. (ie. Once your speed on the track matches the speed of the horses, you can't gain any more speed with your lasso trick.) That's been projected to happen once the day and month both equal about 47 (current) days, billions of years in the future. If the Earth and Moon still exist, the Moon's distance will have increased to about 135% of its current value.
+That means by trial and error the moon should turn 360 degrees in 1071 years and 6 months. It would be showing the other side in half that so 536 years unless the rotational period changes.
+[deleted]
+I'm really on thin ice here, but my physical intuition tells me that the tidal lock between the earth and the moon will stay in place as the moon recedes from the earth, even though it may not currently be in equilibrium. Tidal locking has something to do with the moon's shape being slightly elongated in the direction towards and away from the earth, like frozen-in tides. If the difference in periods, that the above comment mentions, is not strong enough (i.e. does not contain enough energy) to change the moon's shape (and this is the part that I am unsure about), then the moon will eventually swing back, ensuring that the side we see now will be the side that we will always see.
+I like the intuitive asymptotically slowing due to tidal forces hypothesis. Anyone that knows better?
+He doesn't have a pdf of it on his website?
+The moon wobbles so we see more than 1/2 of it currently http://www.youtube.com/watch?v=FCKmZXhVvkQ
+Actually, I'm less curious that they are different than I am that they are so close. You don't see this with the Earth's orbit around the sun, so I always assumed it was a massive coincidence that the moon's orbit around the Earth worked this way. Can anyone explain why they are even this close in the first place?
+Tides dissipate energy, and make this situation energetically more favourable.  The Earth's orbit around the Sun would do this given enough time.
+Hmm...sounds like I need to do some more reading on the mechanics of tides.
+As I recall, when an object orbits another, it slowly adjusts its spin to match the object it orbits, a phenomenon called "spin lock". I thought I remembered learning that our moon is in spin lock with the earth, but perhaps it's only nearly (very nearly) in spin lock. If thats true, then the face we can see might shift a little more before spin lock sets in fully and the face is permanently locked in. Anyone?
+Because the Moon is gradually moving away from the Earth and it's orbital period is increasing, wouldn't that mean it's tidal lock is also constantly adjusting to the increased orbital period? 
+
+Wouldn't this process continue until the earth is tidally locked to the moon and the moon has reached it's final stable orbit?
+There are a few [AskScience](http://www.reddit.com/r/askscience/comments/mh6it/how_is_the_moons_rotation_exactly_in_sync_with/) [posts](http://www.reddit.com/r/askscience/comments/gfype/why_does_the_moons_rotation_line_up_perfectly_so/) on this already. (One of which is mine from a few weeks ago.)
+Do we have any paintings of the moon from 500 years ago in which the moon looks crazy different?
+Figured as much. At some point reddit decided to unsubscribe me from askscience and I didn't notice until a few days ago. Thanks.
+I suspect the earch and moon will be destroyed by the sun before then (someone mentioned ~47bn yrs for tidal lock to occour, but the wiki says [the moon will be turned into rings and sucked into earth when the sun grows in ~7.5bn years](http://en.wikipedia.org/wiki/Future_of_the_Earth#Red_giant_stage)).
+Even if we did, I reckon the detail would not be good enough. It wouldn't have been a very interesting body to look at given its barren surface. Keep in mind the telescope was only invented 400 years ago (not by Galileo which is a common misconception. He was just the first famous user. No-one knows who invented it) so the only detail a painter would have been able to capture would be what *you* can see on a clear night. Though having done the maths it looks like the moon must have been the other way around when Galileo was looking into space which is kind of cool to think about. Also puts the Transformers movie about the dark side of the moon and other moon alien stories into a more logical context. In the last 500 years humans have seen both sides of the moon and no-one noticed anything at all. The moon is definitely just a boring grey rock. XD
+We wouldn't need 500 years.  1071 years comes out to about 1 degree every 3 years.  If it were true, the difference would be very obvious in 20 or 30 years.
+A sidereal month is not the moon's rotational speed.
+I just figured 500 years would mark a significant enough change that it would be noticeable in something like a painting, where the moon generally is not given much importance.
+He doesn't have a website. :( He's very technologically incompetent (brilliant mathematician though), and his thesis was published in the early 70's I believe.
+Are we sure it's asymptotic?  Couldn't the tidal effect cause rotational energy to bleed off and the moon to spiral in and ... oh my god, here it comes!
+
+No, seriously, is that thing going to hit us?
+In a new answer to you question, I will say, No (mostly). This is discussed in the following paper:
+Melosh, *H Large impact craters and the moon's orientation* Earth and Planetary Science Letters Volume 26, Issue 3, July 1975, Pages 353-360 
+I found it at:
+http://www.sciencedirect.com/science/article/pii/0012821X75900114
+
+What the authors say is that asteroid impacts can cause the moon to rotate, but tidal locking is restored in a short (~10^3 to 10^4 year) period. The moons tidal locking is complete after this period, it is not asymptotically approached.
+
+There may be a difference in these two periods because of a recent asteroid strike, but this seems unlikely to me.
+
+If the moon is tidally locked to the earth, my earlier math [here](http://www.reddit.com/r/askscience/comments/o0xxv/there_is_apparently_a_minor_difference_between/c3dhwyk) that results from comparing differences between rotation periods and orbital periods is incorrect I think, because I got the numbers from two independent sources, who may have been defining things differently, or taking measurements at different times, and in between these times the moons orbital period could have changed - On this, where did the OP get their numbers for the differing periods of the moon.
+
+One final consideration that I thought though is the suns tidal force on the moon. This is ~180 times less than earth's but could still have some influence on the tidal lock, causing the moon to rotate slowly. I don't know about that, so another person thinking about it would be useful. If this is the case, then this would mean that the previous answer is correct.
+I recently found out that the fact that one side of the moon always faces the Earth is not necessarily a coincidence. Because of tidal effects, the moon's shape is slightly oblong. Not only is it an oval, but to exaggerate, it is more of an egg. This is caused by the greater pull of the side that faces us. Because gravity is greater on that face, it tends to correct itself if it moves away from that frontward facing position.
+they dont have any citations though.
+I agree with this. In fact, I think not only will the moon face the earth with the the same face, it will also cause the same side of the earth to face the moon all the time.
+
+Summary:
+The Earth's orbit around the Sun would do this given enough time.
+The Moon's rotation may still be slowing down slightly, I'm not sure.
+As the Moon drifts away, its orbital period increases.
+A sidereal month is not the moon's rotational speed.
+The moons tidal locking is complete after this period, it is not asymptotically approached.
+One final consideration that I thought though is the suns tidal force on the moon.
+This is ~180 times less than earth's but could still have some influence on the tidal lock, causing the moon to rotate slowly.
+That said, it seems intuitive that the moons rotation from earth (ie.
+I thought I remembered learning that our moon is in spin lock with the earth, but perhaps it's only nearly (very nearly) in spin lock.
+I'm not entirely sure what effect this has on the rotation rate of the Moon.

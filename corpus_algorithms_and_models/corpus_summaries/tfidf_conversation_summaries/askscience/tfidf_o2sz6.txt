@@ -1,0 +1,40 @@
+Original Response:
+If we were to go into empty space unprotected, what would we feel?
+[deleted]
+[deleted]
+Interesting read: http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/970603.html
+[deleted]
+In deep space, far away from any stars, the cosmic microwave background radiation has a black body temperature of about 3 kelvin, which is very cold.  So eventually, you would cool to around that temperature.  However, vacuum is a very good insulator, so you wouldn't feel the temperature difference.
+[deleted]
+Thank you.
+[deleted]
+[deleted]
+[deleted]
+Well, the cosmic microwave background is several kelvin, but that's not what you would *feel*. In space, the only way your body loses heat is through radiation. Assuming you're not getting any extra heat (e.g. from a nearby star), this would be comparable to a very cold day on earth, where you lose heat also (mainly?) through contact with the air. 
+
+I can't recall the exact numbers, but you can calculate how much heat you're losing using the equation for black body radiation. Then you'd have to find how fast your body exchanges heat with the atmosphere. 
+
+Source: physics grad student recalling an old class
+Is insulator still the correct term here? Seems kind of strange to call something that isn't there an insulator, if you know what I mean. Another related question: is the way that a vacuum works as an "insulator" similar to the way other insulators work?
+Does this mean that if you could walk around in a vacuum chamber, it would like being in a... room temperature... room? It would just feel like nothing?
+It's actually very interesting. Since there are basically zero particles of matter coming into contact with you as you float around, your body will be unable to transfer heat to your surrounding (due to the simple fact that there is literally nothing to transfer it to). The only way you'd feel any change in temperature would be the loss of heat through infrared radiation given off by your body. I can't say whether or not it would feel "room temperature", but I do know that it impossible to freeze to death in the vacuum of space.
+I wouldn't call it an "insulator" per-say. The vacuum of space prevents heat transfer because there is nothing to transfer heat to in a vacuum. Regular insulators are "insulators" because they resist the transfer of heat to themselves. The vacuum of space doesn't resist the transfer of heat, it is just very difficult to transfer heat to it. Hope this helps, sorry if my wording isn't great. Let me know if you still need an explanation!
+You can give off heat through IR, it would just take a while.  You'd be dead from the other nasty effects of space long before it, just your body would eventually be frozen (think of meteorites that are recently found, most are actually freezing to the touch).
+Very true. As you said though, I think dying of cold is the least of your worries while in space as you would most certainly die before your body could give off enough energy in the form of IR.
+I like your flair.
+Freezing even after re-entry?
+[Here](http://curious.astro.cornell.edu/question.php?number=215) is a decent explanation, though they do admit that testimony to the claim is rare (as they are not often picked up right after falling).
+
+Ablation blows off all the stuff that doesn't end up on the ground and for the most part the meteorites are not made of highly heat-conductive material, so it just blowtorches off the stuff that gets burned off anyway and doesn't transfer heat to the center.
+
+That's the presumed theory behind some observations, anyway.
+That's interesting - thanks.
+I asked a similar question recently.  [Here is what I got.](http://www.reddit.com/r/askscience/comments/mzi03/how_is_there_temperature_in_space_without_a_medium/)
+You're welcome, I think I may have heard it through Reddit in the first place anyway.
+
+Summary:
+In space, the only way your body loses heat is through radiation.
+The vacuum of space prevents heat transfer because there is nothing to transfer heat to in a vacuum.
+It would just feel like nothing?
+The only way you'd feel any change in temperature would be the loss of heat through infrared radiation given off by your body.
+The vacuum of space doesn't resist the transfer of heat, it is just very difficult to transfer heat to it.

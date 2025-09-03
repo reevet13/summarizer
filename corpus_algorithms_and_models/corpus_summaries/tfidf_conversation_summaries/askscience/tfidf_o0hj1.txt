@@ -1,0 +1,28 @@
+Original Response:
+Hello, 
+In the past days I talked to my biology student friend and he told me that a saline infusion could be used to counter heavy blood loss.
+So is this true could someone inject a patient in need a saline solution to help them survive until they get later in the hospital new blood ?
+And could this be any concentration of saline ?
+Medical saline is generally 9g salt per 1L of water. It will help keep things flowing, but it will not oxygenate the blood, or other bodily tissues.
+Saline is used to expand blood volume in order to maintain circulatory function. It does not replace the red blood cells, thus it does not increase the blood oxygen-carrying capacity, but it is a useful stopgap measure until blood can be transfused. 
+
+To answer you question, saline infusions are often used as a first-line of emergency treatment, but the saline used is typically 0.9% solution called [*normal saline*](http://en.wikipedia.org/wiki/Saline_%28medicine%29), not just any salt solution, plus it needs to be given intravenously.
+
+
+[Here](http://en.wikipedia.org/wiki/Intravenous_therapy) is more reading if you are interested in reading more about the different types of IV fluids and IV therapy in general.
+I got one of these infusions last time I donated blood. 
+
+At first I was like, "What!? Is that even safe!?"
+
+Then I was like, "OoOo... Tingly."
+The immediate danger with heavy blood loss is _hypovolemia_—lack of blood volume. There isn't enough fluid in the circulatory system for the heart to get it all around to where it needs to go (including to itself). Blood pressure falls, organs don't get blood, then organs begin to die.
+
+Blood is the best replacement, for reasons mentioned elsewhere in this thread. Crystalloid solutions (typically 0.9% saline) are used to expand blood volume and maintain blood pressure so organs can get perfused. 
+
+A bystander, even an educated one, likely wouldn't be able to do this for someone, because A) you need a couple large-bore IVs to get the solution in fast enough, and B) you need a relatively large amount (potentially liters) of _sterile_ saline at the right concentration. Too little salt, for instance, can help drive water out of the blood and into tissue, which is exactly the opposite of what you want.
+
+The best thing to do is call 911 and put pressure on the wound.
+
+Summary:
+Saline is used to expand blood volume in order to maintain circulatory function.
+And could this be any concentration of saline ?

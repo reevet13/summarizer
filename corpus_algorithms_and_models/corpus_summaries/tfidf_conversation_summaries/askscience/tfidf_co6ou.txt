@@ -1,0 +1,107 @@
+Original Response:
+I think the most frightening scenario for earth is that we will get blown out of existence by an asteroid/comet and we won't even know what hit us. How good are we at predicting the path of every single large asteroid/comets within our solar system which has a potential of colliding with earth? Of course the asteroids don't even have to hit us directly, they can hit some other planet and the large enough debris from those collision can wipe us out.
+
+The prospect of having no warning and just get wiped out within minutes is really sad and frightening. 
+
+What are we doing to get a better prediction and warning system for such scenarios? In an even of such a case, how much time do we need and what ways can we save ourselves, if at all?
+NASA's already answered the question. Enjoy the hours and hours of searching for asteroids that may kill us. http://neo.jpl.nasa.gov/orbits/
+
+The answer is very small.  
+
+Edit: [Apophis](http://en.wikipedia.org/wiki/99942_Apophis) was the only asteroid receive rating above 1 on the Torino scale (It got a 2). So on a scale to 1-10, its pretty much none now after reevaluating it. The chances of it hitting earth was 1:233. Now it's 1 in 250,000. **So there you go, the exact odds of the closest known asteroid to hit earth is 1 in 250,000.**
+
+But to specifically answer the questions:
+&gt;How good are we at predicting the path of every single large asteroid/comets within our solar system which has a potential of colliding with earth?
+
+As good as we can. We currently know around 7-8,000 asteroids that may hit earth. NASA uses pretty accurate orbit simulations to track the asteroid's path. The impact range usually is a couple hundred miles, but since we can only tell via telescopes, most things are general ballpark figures, but they're pretty good. However, we're incredibly limited in our abilities to track the thousands of asteroids that can exist out there that would hit earth. There's so much stuff out there that we can't track it all. 
+
+&gt;What are we doing to get a better prediction and warning system for such scenarios? 
+
+The NEO group at NASA is collaborating with agencies all over the world, specifically with the Japanese and the European Space Agency, and are constantly scanning the skies 24/7 for it. More satellites more telescopes, better technology, etc. all monitor space for NEOs. Our warning system is as good as it can be, and is constantly getting better. The models are being refined and that's about as good as it can get. Of course if we dumped trillions into the system, I'm sure it could be better but there's limitations in technology right now.
+
+&gt;In an even of such a case, how much time do we need and what ways can we save ourselves, if at all? 
+
+In all honesty, we're fucked. However, there are [plans](http://en.wikipedia.org/wiki/Asteroid_mitigation_strategies) to move a NEO as best as possible. I personally like the Don Quixote strategy the best. But that's just me. 
+
+
+Lastly, you should know that we've almost been hit before. Check out the 'historic impacts' on this [page](http://en.wikipedia.org/wiki/Near-Earth_object).
+Thanks for a very helpful, point-by-point answer. I really appreciate it.
+Darthfuzzy estimates uses only one angle to estimate the problem, e.g., of measured orbits of known near earth orbits what is the chances of impact in the near future.  The alternate approach is to use historical data to estimate the frequency of impacts of various scales.
+ 
+I TAed a intro astronomy class (spring 2006) back where one the profs lectures notes went over pretty much this exact question.  See [Lecture25.pdf](http://astrosun2.astro.cornell.edu/academics/courses//a102/lectures/Lecture25.pdf)  
+
+Here are the salient points:
+
+* Asteroid impacts follow a nice power-law distribution (shown slide 10), where smaller impacts happen at a rate of ~ 1 every hour, catastrophic mass extinction ones happen every ~ 100 million years.  A Tunguska type event (that occurred in the early 20th century) should occur once every 300 years or so.  The annual event should be equivalent to ~20 kilotons (of TNT), and the 1000 year event is equivalent to 60 megatons, and global catastrophe event should occur on the scale of 1-100 million years or so and be equivalent to 50 000 - 100 million megatons.  Obviously each impact is independent of each other, but these give an indication of average rates.
+* A 1994 Nature article did the actuarial calculation gives a range wide- range for chance of being killed by cosmic impact being in the range of 1 in 3 000 - 1 in 250 000, with an average of about 1 in 20 000 (similar to chance dying in an airplane crash).  This is because while catastrophic events are very rare, it would kill nearly everyone.
+* We spend very little on tracking orbits of near earth objects.  ~10M/yr (compared to say NASA whole budget which is ~$18 billion/yr).  We have tracked most of the mass extinction type collisions, but a lot slips under the radar (e.g., very distant comets, smaller objects where the impact would only be equivalent to small/medium nuclear bombs).
+
+EDIT1: So from this angle the chance of a large impact that should occur roughly once every 10 million years should occur in the next 200 years at a rate of roughly ~ 200/(10 million) = 0.02%.
+
+EDIT2:
+&gt;Of course the asteroids don't even have to hit us directly, they can hit some other planet and the large enough debris from those collision can wipe us out.
+
+That's not going to happen, look at a scale model of the [solar system](http://en.wikipedia.org/wiki/Solar_system_model) (rather than a CGI made by TV producers).  If the Earth is the size of a typical-sized globe, then Earth is 4.8 km from the Sun.  The nearest another planet ever gets to us is ~1.3km.  The moon is only about 12m away, but remember the Earth is only 41cm. 
+
+EDIT3: Fixed the link by finding the lecture notes online for a more recent teaching of the class.  (Damn comcast has a firewall on hosting outbound port 80 connections).
+[deleted]
+Thanks for the explanation. I feel much safer now knowing that humanity has enough time to prepare for such catastrophic events :). 
+
+On a separate note, do we know if other planets in our galaxy has more frequent large asteroid collision than us or is the "worst" behind us, meaning all the large object that could collide already have done their job and the planets cleaned out the debris from their orbital path. I would guess larger planets are more likely to attract major asteroid collisions than smaller planets, both because of their size and perhaps gravity?
+
+ps. The PDF wasn't loading when I tried.
+&gt;EDIT2: That's not going to happen, look at a scale model of the solar system (rather than a CGI made by TV producers). If the Earth is the size of a typical-sized globe, then Earth is 4.8 km from the Sun. The nearest another planet ever gets to us is ~1.3km. The moon is only about 12m away, but remember the Earth is only 41cm. And the effect of the moon is actually to gravitational deflect impactors from earth.
+
+I meant to say that if the debris from a collision comes within the range of earth's orbital path and earth's gravity takes it from there. Does it make sense, or too far fetched?
+Yes, that makes sense.  Its really the same thing as a straight-on collision (in the absence of gravity), except that the impact cross sectional area of the Earth is slightly bigger than its physical cross section. 
+
+Please note, I removed my very last sentence that you quoted above.  While I remember reading it at some point and it makes some intuitive sense to me (at least for being a minor reduction in impact frequency on Earth), I can't find a very reliable source for it.  The only source I can find is a blog-post by a scientist: 
+
+&gt;"Let’s not forget that the mere presence of the Moon caused less life ending impacts to occur on the Earth. Without the Moon’s helpful goal keeping, the Earth would have experienced a higher rate of impact from space debris as the solar system, and life, was forming. Which might have led to the absence of humans on Earth today. [[1]](http://365daysofastronomy.org/2009/03/28/march-28th/).
+Fixed the [link](http://astrosun2.astro.cornell.edu/academics/courses//a102/lectures/Lecture25.pdf), by finding it on a version of the class webpage (or actually the 2008 version of it).  (Comcast had blocked my external use of port 80 to host a website; I didn't notice as I kept checking if it worked on from another computer on my internal network.  But I haven't put any content on the site, so its no big deal.).
+
+We know basically nothing about planets outside our solar system, besides that they exist and what their mass and orbital radius are (and ~20 years ago we weren't even aware of their existence), let alone how frequently they have collisions.  The very early solar system had more collisions as the planets were forming.  E.g., we do not expect to have another collision of the size that smashed up the earth to form the Moon.  I also do not think we have any expectations that the local environment around our solar system should change significantly.
+Thanks for the answers and the PDF. 
+
+If you are hosting a server at home you might want to check out http://www.dyndns.com/ they handle dynamic ips and port forwarding.
+
+Cheers!
+Thanks the site looks interesting; may use for other purposes. 
+
+The port-forwarding works in my router works and the IP address has been static for at least the past 8 months, both of which I have been using for ssh from work.  The DNS record works and I can connect to the computer through my local wifi router.  However, I can't connect from upstream on port 80.
+
+I just registered the domain last week, and haven't spent enough time tinkering with it, and just found out that port 80 is closed to the outside world right now.  I have to learn how to edit the DNS entry at my domain registrar to use a non-standard port for web, and then do the corresponding changes in the nginx/apache2/django/router settings.
+Chances of the actual earth being destroyed? Zero.
+*cue existential crisis*
+I've thought about this for awhile now.  It takes about 200 million years to orbit once around the center of the Milky Way.  I read that things don't orbit the Milky Way at the same speed, so is it possible that while going around the galactic center, we go through patches of debris (like a galactic asteroid belt) about every 200 million years?  Thus causing a potentially catastrophic collision every 200 million years or so, depending on how often we intercept this hypothetical debris field.
+Interesting hypothesis, however it doesn't seem to pass some basic tests.
+
+Your hypothesis would expect the major extinction events to have an almost precise period of 250 Ma (Ma = million years).  See [from wikipedia](http://en.wikipedia.org/wiki/Extinction_event): the biggest 5 extinctions in the fossil record occurred:  ~443.7 Ma, ~360 Ma, ~251.4 Ma, 199.6 Ma, ~65.5 Ma with plenty of lesser extinction events in between.  Note only the most recent impact is coincident with a known crater and has unusual metal deposits similar to those deposited in the crater in the fossil record at the right time, though that's kind of expected as the ocean floor gets churned over every 200 Ma or so.
+
+Your hypothesis also wouldn't expect a [power-law](http://en.wikipedia.org/wiki/Power_law) type distribution to arise (e.g., a continual variation of impactor size with impactor frequency).  Power laws arise naturally from systems that possess a certain kind of scale invariance, which your system (where one section of the galaxy is particularly debris filled).
+
+One could also object that the rest of the galaxy is also rotating with us (same direction at more or less the same speed), so its not like the debris field would stays static while we move through.
+I had looked at the frequency of mass extinction events in the past, but not all of them are the result of a meteor impact.  It would be more reliable to look at the recorded impact events we're aware of, but even then it would be difficult to determine, since there may be some anomalies.  Nonetheless, I can't argue with your power-law statement, thanks for the input.
+Yeah.  Seemed like a good idea; it is the reasons we see meteor showers on nearly the same days every year is for the same reason -- the earth's orbit is going through debris regions left from comets orbital path.  
+
+But as far as I know, I think everyone thinks the major impacts come from objects that are part of the solar system (e.g., asteroids, comets, Kuiper belt objects all of which are orbiting the Sun) that cross the Earth's path.  I'm not aware of any real reason to exclude origin outside the solar system except for having a very very small likelihood of occurring.
+So I'm sorry for so quickly dismissing your ideas; it seems that paleobiologists have a similar hypothesis: there is some evidence for extinctions having a periodicity of 26-27 Ma.  I was just reading arXivblog as usual (editors find one interesting read from arXiv each day, summarize it, and email it to you) and todays was on this exact topic:
+
+http://www.technologyreview.com/blog/arxiv/25420/?ref=rss
+
+Note in the comments there are some strong objections to the theory, but still it shows that your hypothesis may have scientific merit after all.
+Ah, very interesting.  Frankly I didn't even think it had any scientific backing, it was just one of those things I conjured up one day.  Thanks for sharing!
+
+Summary:
+The very early solar system had more collisions as the planets were forming.
+The chances of it hitting earth was 1:233.
+How good are we at predicting the path of every single large asteroid/comets within our solar system which has a potential of colliding with earth?
+E.g., we do not expect to have another collision of the size that smashed up the earth to form the Moon.
+The models are being refined and that's about as good as it can get.
+The nearest another planet ever gets to us is ~1.3km.
+I think the most frightening scenario for earth is that we will get blown out of existence by an asteroid/comet and we won't even know what hit us.
+I had looked at the frequency of mass extinction events in the past, but not all of them are the result of a meteor impact.
+We currently know around 7-8,000 asteroids that may hit earth.
+The moon is only about 12m away, but remember the Earth is only 41cm.
+Our warning system is as good as it can be, and is constantly getting better.
+What are we doing to get a better prediction and warning system for such scenarios?

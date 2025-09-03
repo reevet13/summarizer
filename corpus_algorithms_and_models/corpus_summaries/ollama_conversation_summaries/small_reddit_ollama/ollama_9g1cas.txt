@@ -1,0 +1,10 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+/execute as @a at @s if block ~ ~.05 ~ (block) run setblock ~ ~1 ~ (replacement block) destroy
+
+
+CONDITIONAL IMPULSE BLOCK
+
+/execute as @a at @s run summon Item ~ ~2.5 ~ {Item:{id:"&lt;item&gt;",Count:1b}}
+Does this work in Bedrock?
+If there are command blocks I don't see why it wouldn't. The syntax would use /testforblock in older versions than 1.13 though. (I don't keep updated with bedrock, so I don't know where it is in terms of commands).

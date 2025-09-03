@@ -1,0 +1,82 @@
+Original Response:
+1. **Censorship resistance**
+2. **Privacy**
+3. **User control of funds**
+
+These are the 3 key reasons why decentralized exchanges are fundamental for Bitcoin to succeed. They are not theoretical risks, but very real threats: We have hundreds of examples of users losing funds after ceding control to a custodial exchange. We have dozen of cases of goverments blocking or regulating exchanges out of existence. And we have an ever increasing number of exchanges being forced or choosing to invade user privacy through KYC, AML and other intrusive (and exclusive) requirements... and then leaking or selling that information.
+
+Bisq is currently the best available option to exchange Bitcoin without sacrificing privacy, ceding control of your bitcoins to a third party or allowing censorship of any kind.
+
+1. Bisq is **censorship-resistant**: it runs over TOR and cannot be shut down or regulated. It is not a company or website, but rather a P2P network similar to BitTorrent or Bitcoin.
+2. Bisq **does not require nor collect your personal information** \- it is stored locally on your computer and only what is strictly necessary to complete a trade is shared with your counterpart in each trade. There is no central respository of user info.
+3. Bisq **never touches your funds** \-  bitcoins are under your control in your own wallet and only locked up in a multi-sig transaction during the execution of each trade. Fiat funds are sent directly from the buyer to the seller without involving a third party.
+
+If you want to help Bisq grow on **September 20th** there will be a market Kick-start day to push liquidity. Please post a offer to buy/sell on that day to show your interest.
+
+# [Bisq September Market Kick-Start Day \[September 20th\]](https://github.com/bisq-network/growth/issues/67)
+
+&amp;#x200B;
+Bisq is surely one of the top 5 most important open source projects in bitcoin today.
+
+The privacy point is sometimes overlooked; if every single one of your bitcoin trades requires handing over your ID documentation then you have **absolutely no privacy** even if technology like CT, Dandelion, Coinjoin, Coinswap, Lightning, etc etc became widely adopted in bitcoin.
+
+Recently we saw that Localbitcoins.com and Shapeshift were forced to require ID documentation for trading on them under certain conditions. This was a big change, I remember a time when you could go to a new city and place your own ad on localbitcoins. If you set a favourable price you could usually convert your bitcoins into local currency pretty quickly in a permissionless and anonymous fashion. No more now that localbitcoins.com requires ID documents to place ads. Of course it's not their fault, just the basic fact that centralized entities are central points of failure that can be easily squeezed and censored. Decentralized projects like Bisq are crucial for defending bitcoin's privacy and fungibility, and to keep bitcoin usable by unbanked people.
+As much as I respect the right to privacy it's hard to create a marketplace with substantial volume if one or both  parties remain anonymous during an exchange, because it increases the risk of fraud.
+
+&amp;#x200B;
+Bisq's way of operating (incentive structure, multisig escrow, security deposits, etc) goes a very long way to fixing that.
+
+Plus with Bisq you only need to reveal your ID to your counterparty (if you're using bank transfer for example), not to the entire exchange or any blockchain analysis spying companies they are partnered with.
+
+Also for methods like cash face-to-face trading and cash-by-mail, being anonymous is totally practical.
+Isn't that the whole point of Bitcoin? Trustless exchange of value?
+For Bitcoin yes, but the other side of the exchange is fiat, which does not hold the same properties. The main problem when exchanging bitcoin for fiat is the risk of man in the middle attacks (MIM).
+[removed]
+If the participants of the trade know each other or have the tools to identity each other, that's great. Then you can eliminate most of the frauds and man-in-the-middle attacks. Comes with some cost, but it's definitely a valuable for those that need and value privacy on a more broader level.
+&gt; man in the middle attacks
+
+Can you explore what you exactly mean? Triangular scams? If that is meant, there is very low chance the the scammer succeeds in Bisq (we never had a case). The only real risk I see is bank chargeback. That is unfortunately an issue the Fiat side is contaminated with. But also for that we have several protection tools to make it very hard/unlikely to happen.
+It is very hard. But not impossible. There are several approaches that can work. One is Bisq's double-security deposit system. Another one is fractioning trades into increments (Coinffeine had a system like that).   Eventually atomic swaps should be an option...
+Yes, sure. Bob have an ad where he offer to sell 1 BTC for 10.000 USD.   
+Alice contacts Bob to buy 1 BTC for 10.000 USD with bank transfer.   
+She shows him ID and transfers the 10.000 USD to Bob as promised.  
+Bob receives the money and releases BTC to Alice.    
+
+
+Some days later, Bob's account is frozen and the transfer is called back. Turns out the Alice did not buy 10.000 USD of Bitcoin. She thought she was buying a car or whatever from John's ad on Craig's list. John, however, was just playing them both and now got away with the BTC. He was just creating a fake ad on Craig's list so he could open a buy order with Bob.   
+
+
+MIM scams are very common because it's easy to execute and easy to get away. As a responsible trader, there are things you can do to minimize the risk, such as waiting to confirm the details, checking FB, phone etc. My point is essentially this: **dont trust, verify.**
+Alice doesn't show Bob ID, that is not part of the Bisq protocol.
+Bisq is quite focused on privacy.
+
+Now of course, 10 000 USD is not allowed in Bisq, you can only trade smaller amounts. If your account is new, you can't trade more then 0.125 BTC per trade. This is around 800 USD at the moment.
+
+Alice will need to send a trade ID as a payment reason, otherwise Bob is not obligated by the protocol to release the coins. For an attacker to start a trade, he will need to create an Account first (complemented with a salt value that proves it's age) with Alice's bank details. In other words, he will need to convince Alice to give him bank details (including a full name and bank account number) before she sends the fiat. And then convince her to place a trade ID as a reason for payment.
+
+If all of this goes wrong, a chargeback is still hard to execute on payment methods that Bisq allows. Bisq doesn't accept Paypal or credit cards for this exact reason.
+
+Of course what Bisq can do here is not perfect and is limited. But that is something that we can't fix. It is a failure of certain payment methods that they allow chargebacks unlike cryptocurrency.
+Ah ok, I refer to that as triangular scam. We never had any case because there are several protections which makes it very hard to execute such a scam on Bisq.  
+1. The BTC buyer need to use the trade ID as reference text in the bank transfer.   
+2. The BTC seller need to verify that the trade ID is correct on the bank statement as well that the senders bank details are as stated in Bisq (it is hard for the scammer to know the bank details of the victim in advance)  
+3. There is a limit on the trade amount in the first 2 month when the user sets up a payment account. 1st month: 25%, 2nd months 50% of allowed trade amount for a certain payment method. That is usually about 300-400 USD in the first month.
+Thanks for the great answer.   
+
+
+I think Bisq have a chosen a good way to handle it. You can't eliminate social manipulation and mim's unless both sides of the transaction is known, but I would imagine Bisq get rid of a lot of scammers due to it's low limits, compared to ex. LocalBitcoins.
+Great answer.   
+
+
+I think Bisq have a chosen a good way to handle it. You can't completely eliminate social manipulation and mim's unless both sides of the transaction is known, but I would imagine Bisq get rid of a lot of scammers due to it's low limits, compared to ex. LocalBitcoins.
+
+Summary:
+Alice contacts Bob to buy 1 BTC for 10.000 USD with bank transfer.
+And then convince her to place a trade ID as a reason for payment.
+Turns out the Alice did not buy 10.000 USD of Bitcoin.
+Bob have an ad where he offer to sell 1 BTC for 10.000 USD.
+Alice doesn't show Bob ID, that is not part of the Bisq protocol.
+The BTC buyer need to use the trade ID as reference text in the bank transfer.
+There is a limit on the trade amount in the first 2 month when the user sets up a payment account.
+She shows him ID and transfers the 10.000 USD to Bob as promised.
+We never had any case because there are several protections which makes it very hard to execute such a scam on Bisq.

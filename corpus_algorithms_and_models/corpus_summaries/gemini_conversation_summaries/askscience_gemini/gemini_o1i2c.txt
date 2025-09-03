@@ -1,0 +1,2 @@
+Multiple source points for the given sound. By moving their head, the animal is taking in more information about the sound.
+For sound localization. See 'head tilting' in the below link:

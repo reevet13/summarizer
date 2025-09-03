@@ -1,0 +1,5 @@
+From what I know, most organisms nowadays that have yet to be cultured are found using metagenomics where you take an environmental sample and determine the multiple different microbial genomes present in the environment.
+If a new genome belonging to a previously uncultured organism is present and you would like to grow this organism, one either orders or makes culture plates with a similar nutrient and chemical composition as this environmental sample (including air temp. and humidity).
+Indeed I assume nowadays it works backwards, too: You can sequence a single cell genome, and then try to get hints from the enzymes it encodes to what that specific bug may need in culture media.
+You can take a guess from the organisms you do know, if they are culturable, and make a guess as to what kind of media to use to grow your unknown.
+OK so this was basically from a task we were given in tutorials last year and never got feedback from.

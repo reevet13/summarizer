@@ -1,0 +1,66 @@
+Original Response:
+I'm assuming each of the little sperm is different in some way but they're all mine, so varied versions of my code?
+1 / (0.5^23) = 8 388 608
+
+8.3 million different combinations
+due to genetic recombination its actually even higher than that.
+genetic recombination during meiosis leads to increasing likely-hood of different permutations of genes in every sperm cell.
+watch this [youtube video](http://www.youtube.com/watch?v=EH9aCTd72_w&amp;t=10m32s) in **full screen mode** :
+@10:32
+[deleted]
+Not accounting for mutation or cross-over or anything.
+Yes. Each of your sperm contains only half of your genome. 
+
+This is an overly simplified explanation, but you can think of every part of your genome as having an alternate. Eye color for instance, can be given by alleles B or b, where B is dominant and would yield brown eyes and b is recessive and would yield blue eyes (with B of course being dominant to b). Every individual person has two alleles at each locus. If they're the same at a given locus, let's say, a blue eyed person having the genotype bb, then every sperm will have a b at that locus. However, a brown eyed person might have the genotype Bb. If this person were to mate and produce sperm, half of his sperm would contain the B allele, and the other half would contain the b allele.
+
+The number of permutations of sperm that you would have will vary based on your genome.  However, the number is extremely, extremely large.
+Look at siblings for the average amount of difference.
+Everyone who reads this should remember that an egg will have as many possibilities, and the combination will produce even more variation.
+Does the relative age of the parents have an impact on this variable?
+It should be half the difference between the average pair of siblings, right?  Since half the genetic material (from the egg) would be the same for each hypothetical kid?
+Fraternal twins are, genetically, just regular siblings that happen to be born at the same time.
+and with mutation, it's even higher.
+There are trillions of possibilities when you include both your and your partner's genetic code - billions with your code alone. When you think about the statistics of it all, it really is amazing that our children resemble us in any way.
+
+It's also important to note that it isn't the first sperm to hit the egg that fertilizes it. Many sperm need to hit the egg until it is finally permeable to sperm.
+What are the chances of 2 sperm being exactly the same genetically?
+I'm actually wondering about the conscience of the sperm and if each one has the capability to develop into something with a different personality than the others.
+1 in 8,388,608.
+
+(Not accounting for variables other people mentioned).
+and with epigenetics, it's even higher.
+Yes, each sperm cell contains about half of your DNA and each individual sperm cell will include a slightly different half.
+
+The easiest place to notice this is in the sex chromosomes: You as a male have both an X- and a Y-chromosome, and each sperm will have either an X-chromosome or a Y-chromosome (barring mutants). If the sperm has an X the child will be female, if it is Y the child will be male.
+
+This happens with the rest of your pairs of chromosomes as well. Additionally the other chromosomes will swap large sections of DNA via [crossover](http://en.wikipedia.org/wiki/Chromosomal_crossover). So your child doesn't have a complete copy of one of your chromosomes, but partial information from the two chromosomes.
+[deleted]
+We want to give your child the best possible start. Believe me, we have enough imperfection built in already. Your child doesn't need any more additional burdens. Keep in mind, this child is still you. Simply, the best, of you. You could conceive naturally a thousand times and never get such a result. -Gattaca
+If by epigenetic pattern, you specifically mean which segments are acetylated/methylated, that is what I heard too. But I have also heard the epigenetics isn't constrained to that, and refers to anything that isn't specifically genetic in nature. I remember a documentary on epigenetics that referred research that indicated cortisol levels and dietary habits of pregnant women as epigenetic factors.
+You should read up on [the Birthday Paradox](http://en.wikipedia.org/wiki/Birthday_paradox).
+wat
+Sperm is a fuckin cell it does not have any more conscience than any one of your skin or any other type of cells.
+I think it would be awesome if one day we could see our DNA and track back 5 generations and see which strand of DNA came from which person.  There would necessarily be about 32 different possible line colorings... would be super interesting to compare it to your siblings to see who got what amount of who.  
+
+Or we could just go back 2 generations, and you could see how everyone in your family has what percent of which grandparent. :) 
+
+[meiosis](http://upload.wikimedia.org/wikipedia/commons/9/9a/Meiosis_Overview.svg)
+You´re assuming every basepair is inherited independently of the next, a quite dramatic and inaccurate assumption.
+The movie was about genetically screening before conception of a child
+So it seems like every locus is a coin flip. Are dominant genes any more likely to be present in sperm/eggs than recessive?
+Define "different". Do you mean in terms of the actual DNA, or noticeable differences as they grow? Obviously, about half would be male, half female, depending on the ancestors the progeny could have very different pigmentation, some % will be gay (and with millions of kids, probably transgender too), and sadly to say, some may even become politicians.
+Dominant genes are no more likely to be in sperm/eggs than recessive, it's basically a coin flip (as you mentioned). The only time the dominance or recessiveness of a gene comes into play is when we start talking about actual expression of said genes (or the influence said gene has on the expression of a given trait)
+Thanks for missing the point, I guess?
+You are interpreting renald's question differently than ScienceBalls is. The original question can be interpreted two ways. "What is the chance that given two sperm, they have identical genes" or "What is the chance that two of my many sperm have identical genes". The Birthday Paradox only applies to the latter interpretation, and it looks like ScienceBalls is using the first interpretation.
+True, but the second interpretation is more useful. Also, the second interpretation is more in line with the original question.
+Though there are some uterine conditions suspected to have effects on gene expression, so it's not quite that clear cut.
+you can do this today. using SNP chips and haplotype inference algorithms that use family information, you can get a lot of the way there for cheap. if you had more money for full sequencing you could do that too.
+
+Summary:
+"What is the chance that given two sperm, they have identical genes" or "What is the chance that two of my many sperm have identical genes".
+If this person were to mate and produce sperm, half of his sperm would contain the B allele, and the other half would contain the b allele.
+and with epigenetics, it's even higher.
+The original question can be interpreted two ways.
+Every individual person has two alleles at each locus.
+Each of your sperm contains only half of your genome.
+You are interpreting renald's question differently than ScienceBalls is.

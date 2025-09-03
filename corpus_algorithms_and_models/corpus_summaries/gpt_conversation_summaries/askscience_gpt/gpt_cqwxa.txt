@@ -1,0 +1,8 @@
+Turn left at Orion is what I always recommend to amateur astronomers starting out.  
+It is written by the same author as the Curious George books, in 1952. While it is aimed at children, remains an excellent and enduring introduction to the night sky, and has introduced generations to astronomy.  
+First link in the content lets you pick your location on earth from a google map.  
+Anyway, once your coordinates are in, you can bring up a live real-time sky map for your exact position on earth. You can follow several other satellite events like ISS and Space Shuttle flyovers.  
+I have the Audobon field guide to the night sky, it's a very accessible introduction to amateur astronomy. It doesn't go much into the astrophysics side of things, but is a great guide to constellations, planets, nebula, meteor showers, and the like.  
+I'd also recommend getting a red flashlight for reading the book (or cover a normal flashlight with red cellophane), so your eyes can stay night adjusted while reading it.  
+Also there are a lot of free night sky viewer/labeler software available. E.g., [Celestia](http://www.shatters.net/celestia/), [stellarium](http://www.stellarium.org/), and [google sky](http://www.google.com/sky/).  
+Stellarium (already linked by djimbob) has really helped me. Install it on a laptop and bring it outside, make sure you have it set to highlight and label constellations and off you go.

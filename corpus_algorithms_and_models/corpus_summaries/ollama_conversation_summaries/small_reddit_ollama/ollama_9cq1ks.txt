@@ -1,0 +1,19 @@
+Here is the summary of up to 250 words:
+
+There is no such thing as overkill when learning to code. I've been coding for well over a decade and I spend more time then that learning every single day as part of my job.
+
+2 hours a day isn’t overkill. Consistency is key.
+
+Pick a language or stack and stick with it for a while. Use it as your main vehicle for learning all the basics.
+
+Once you’ve got the basics down-ish and understand what the language can do, choose a simple project and start working towards it.
+
+Be consistent without burning out. Commit to writing some code (or learning something code related) every day, and tone it back if you start to feel burned out, but never stop.
+
+I recommend Python or JavaScript for beginners.
+
+Learn git early on, and start using GitHub no later than your first mini project I mentioned above.
+
+Have fun! Seriously, if you’re not having fun (in general) then programming may not be for you!
+
+Note: The selected sentences are separated by newlines as requested.

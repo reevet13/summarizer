@@ -1,0 +1,70 @@
+Original Response:
+I've heard the term before (mostly in sci-fi movies, yes), and just wanted to know if there has been any actual equipment or item that was reverse-engineered.
+
+I mean, unless I'm grossly misinformed, 100% of the tech we have is man-made. We have never encountered alien technology that we could reverse engineer so we could learn to understand it (and then create it for ourselves).
+
+I'm guessing the answer to my question to be a simple "No.", but just wanna make sure. I'm sure countries have taken tech from one another and reverse engineered it, then used it for their own purposes.
+
+The more I write this, the more I think I won't get an actual response, but oh well!
+[This](http://www.ted.com/talks/robert_full_on_animal_movement.html) might count as reverse engineering.
+During the cold war, pretty much all recovered listening devices were disassembled and studied. During the second world war, [Enigma encryption machines](http://www.bbc.co.uk/ww2peopleswar/stories/77/a3672777.shtml) were studied by the allies to break the encryption. These days, a lot of outdated electronics get reverse engineered to build compatible replacement parts.
+
+[This article](http://www.ipfrontline.com/depts/article.aspx?id=14840&amp;deptid=5) gives you a fairly decent outline of revers engineering today
+You are apparently asking two different things.
+
+"We" as a species have not reverse-engineered anything alien that we publicly know of. We have no proof that aliens exist or ever existed period.
+
+Reverse-engineering itself happens all the time. One of the reasons PCs are not all made by IBM is because Compaq reverse engineered the PC BIOS to make "IBM-compatible" computers.
+The Soviets would actually dissect western microprocessors and develop clones based off of them.
+I know in the hardware business companies reverse engineer each other's products all the time (often to see if their competitors impinging on any of their patents).  In the military there are certain systems whose designs have been lost to the ages, but for which replacement parts are still needed.  There are companies that will reverse-engineer those designs for you (often grinding down the layers of the chip and imaging them under electron microscope layer by layer) so they can  build you replica replacement parts.
+[Not aliens, but a fascinating example.](http://en.wikipedia.org/wiki/Tu-4)
+emulators
+osx86
+It depends on your definition of "we", but it happens all the time. Unfortunately it's not as glamorous as you might think.
+
+During the Vietnam war, the Soviets reverse engineered an [AIM-9 Sidewinder](http://en.wikipedia.org/wiki/AIM-9_Sidewinder) missile which got lodged in one of their Migs without exploding. They were able to create a copy which was so close to the original that parts were interchangable.
+
+Besides mechanical systems, software gets reverse engineered all the time. This is what allows hackers to break security.
+
+It also happens frequently in industry where one company will take an other company's product, disassemble and analyise it to learn how it works.
+We have. Mostly technology which was stolen from enemy nations, etc.
+
+Wikipedia talks about machines, software, military applications, protocols, circuits, etc.
+Some human viruses have been reverse-engineered to produce infectious clones.  By this I mean that we have taken a known viral sequence and artificially created those sequences to produce an infectious virus.  It's been done with SARS and many other viruses.
+No, they didn't reverse engineer the BIOS.  IBM published the entire BIOS spec (I have a copy in my garage).   Compaq first made money of of (and it's in their name) portable (compact) machines.  What did happen with the BIOS is that eventually a company (phoenix?) did a clean-lab implementation of the BIOS: it was written by people who did not see the IBM BIOS listing, and write it based on specifications written by people who could see the listings.
+1.  Start by distinguishing your question a little bit better.  We have not currently found any evidence of non-earth-based intelligent life in the universe, and the idea of reverse-engineering in that sense requires that we find something intentionally engineered to begin with.
+
+2.  If you are referring to reverse-engineering done by humans based on technology developed by other humans, then absolutely we have.  There are countless examples throughout history of governments and corporations dismantling each others technology for a variety of reasons (to copy it, modify it, defend against it, etc).
+
+For example, the company I work for currently has successfully blocked a Chinese competitor of ours from selling clones of our technology in the United States and many other first world nations for the last decade or so.  This company had reverse engineered and copied whole sections of code, and developed hardware which was a direct copy of our technology, so the lawsuit was easily won here.  This did nothing to hinder their sales in many other nations where they do not consider this type of thing to be illegal, and our competitor has continued to grow very quickly by taking advantage of these markets.
+
+You can find countless examples in wartime as well; where each side attempts to capture and reverse engineer each other's weapons, to use the technology and/or better defend against it.  A classic example is the story of the Enigma machine and Alan Turing.
+[Except they did](http://oldcomputers.net/compaqi.html), with a clean room. [Wiki](http://en.wikipedia.org/wiki/Compaq#Compaq_Portable) if you find that more trustworthy. Phoenix followed.
+
+IBM was selling "the PC." They intended it to be like a Mac. Then the clones came about through legal reverse engineering processes, which was not part of their plan.
+While it technically did occur during the timeline of the Vietnam War, the episode you speak of was not the result of combat operations during the Vietnam War.  It occurred as a result of an engagement during the Second Taiwan Crisis in 1958, between the Republic of China (aka, Taiwan), and the Peoples Republic of China.
+
+The Soviets came across an AIM-9 after a Republic of China/Taiwanese F-86 shot a Peoples Republic of China MiG-17 with an AIM-9.  As you said, the missile failed to explode, and the aircraft was able to land with the missile still stuck in the aircraft.  The Soviets learned of this, and were able to convince the Chinese to send them the missile. The Soviets were able to field their version of the Sidewinder, the K-13 (NATO name AA-2 Atoll) by 1961.
+
+I'm not sure whether there was much actual interchangability of parts, but the Soviets did go so far as to copy part numbers.
+
+------------------------------------------------------------
+Another interesting and famous example of the Soviets reverse engineering American technology is the B-29 Superfortress.  During WWII, a few B-29s had to make emergency landings in the Soviet Union after bombing Japanese targets in Japan, Japanese occupied Manchuria, etc.  The Americans requested that these aircraft be returned, but the Soviets were technically, at that point, neutral in the Pacific War, and used that as a pretext to inter the bombers.  
+
+The result was the Tu-4 bomber (and a transport variant).  It was not an *exact* copy, but pretty close.  For example, due to metric and imperial conversion differences, the sheet metal used for the skin of the Soviet version was slightly thicker than the actual B-29.  The Tu-4 also used Soviet built engines that were similar to, but not exactly the same as the engines used on the B-29.  It was also made to accommodate Soviet cannons for defensive armament. 
+
+It's interesting to note that one of the three B-29s the Soviets reverse engineered had a manufacturing flaw that was copied, and built in to all the Soviet versions.  The "sample" B-29 had a rivet hole that was mistakenly drilled into one of the wings during production.  Since Stalin had ordered that the aircraft be as an exacting copy as possible, all the Tu-4s were built with this rivet hole in the wing.
+Has the US ever done this to another country?
+That "reverse engineering" was accomplished by two teams -- one of whom had full access to the BIOS listing and wrote very careful specs, and the other team which didn't, and just followed the specs.  It's still not really reverse engineering because there are two teams involved, and one of them has full knowledge of the original BIOS code.
+The real key here is that the original BIOS was published and not hidden.
+
+Summary:
+No, they didn't reverse engineer the BIOS.
+Reverse-engineering itself happens all the time.
+------------------------------------------------------------
+Another interesting and famous example of the Soviets reverse engineering American technology is the B-29 Superfortress.
+I'm sure countries have taken tech from one another and reverse engineered it, then used it for their own purposes.
+It was not an *exact* copy, but pretty close.
+They were able to create a copy which was so close to the original that parts were interchangable.
+It's still not really reverse engineering because there are two teams involved, and one of them has full knowledge of the original BIOS code.
+[This](http://www.ted.com/talks/robert_full_on_animal_movement.html) might count as reverse engineering.

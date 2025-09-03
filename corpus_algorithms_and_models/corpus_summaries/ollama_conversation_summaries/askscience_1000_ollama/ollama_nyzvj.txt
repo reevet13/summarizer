@@ -1,0 +1,26 @@
+Here is a summary of about 10% of the original text, selected sentences copied verbatim from the original text:
+
+Behavior of [this simple circuit](http://youtu.be/RkTvDjhImwo) is a little unusual.
+
+I think its a hoax.
+It is.  My question is, how is it done?
+
+You can play tricks with DIACS or TRAICS so if the voltage and or current exceed a certain threshold, the DIAC or TRIAC trips and shorts that part of the circuit until current is removed.
+
+I notice that when he turns off the three leds the first time that he starts with the middle LED.  That is what is making me think there is a TRIAC or DIAC involved.
+
+After reading some of the comments here and on YouTube, I believe I've figured it out, or at least a working variation. 
+
+**First two switches**
+
+This part controls the low frequency signal, which the first inductor in parallel with the third switch passes through.
+
+**Third Switch**
+
+This switch has an inductor in parallel with it that will pass low frequencies but block high frequencies.
+
+I should mention LEDs do not light up in reverse conduction (or at least not in my experience).
+
+Hope this explanation helps you all!
+
+He says it's simpler than the frequency thing that you're all talking about.

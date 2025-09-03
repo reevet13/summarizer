@@ -1,0 +1,21 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+I've done everything I could to prevent updates beforehand, and it still failed on me.
+
+I had the update disabler service running.
+
+I had the windows update service disabled and set to no retry.
+
+I had stopped updates from the task scheduler.
+
+I had applied all Windows Update registry settings I know of.
+
+I had set a metered connection.
+
+And probably more.
+
+Not a bad idea to run windows on a dedicated, filled up 32gb ssd. Unfortunately, i have data and need more than 5gb of usable local storage
+
+That said, you've done basically all that you can to prevent the inevitable.
+
+My suggestion? Use Linux

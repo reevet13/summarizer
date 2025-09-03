@@ -1,0 +1,233 @@
+Original Response:
+I am a Mathematician and a Chemistry/Physics enthusiast. My father, who was a pilot and is quite knowledgeable in the ways of physics, asked me this question:
+
+When a light ray travels from air to water (e.g. shining a flashlight in a glass of water), it is traveling at a velocity of 3.0 x 10^8 m/s (c in air). As soon as the light hits the water, the speed of light drops because the water absorbs the light. (c in water &lt; c in air). Let's assume that the same light ray is reflected from the water and back to air. When the light travels back into the air, the speed of light comes back to 3.0 x 10^8 m/s (c in air). That increase in velocity requires a certain amount of energy. Where in the water is the energy coming from in order to speed the light back up to the speed of light in air?
+
+Detailed explanations are welcome. Thanks!
+No energy forces it to change speed.  The photon doesn't lose energy due to refraction.  Additionally, a photon doesn't change speed, the wave propagation speed does.
+
+http://en.wikipedia.org/wiki/Refraction
+
+EDIT:  It's the [phase velocity](http://en.wikipedia.org/wiki/Phase_velocity) that varies with the medium.
+Does that suggest that it is not energy which gives the particle it's speed in the first place?
+Yes.  The speed of propagation of electromagnetic waves is dependent on the electric permitivity and the magnetic permeability of the medium in which the light is travelling, though, again, the photon always travels at the same speed
+
+You may also be interested by the [momentum of a photon in a medium](http://en.wikipedia.org/wiki/Abraham%E2%80%93Minkowski_controversy), which is a matter of some controversy.
+[deleted]
+What seems to slow down light in a material are it's interactions (absorption/emission) with the atoms of that material. Light is traveling at c between those interactions.
+
+Edit: I'm thinking quantum mechanically.
+We need to make a distinction here, which is often misunderstood.
+
+The speed of a photo is always c.
+
+The speed of propagation of light, can be slowed.
+
+
+What this means is that while photons always travel at c, the prorogation of light can be slowed down. 
+
+EDIT: Despite what this sub has taught me over the years - The slowing of the propagation of light is not due to absorbtion and re-emission, but, as Quarkster has alluded, due to a phenomenon to do with phase velocity.
+
+
+I've seen my explanation around this sub quite a lot, and will leave it below this, so others can see that it is in fact the wrong explanation. I have read somewhere else in this thread that these are just interpretations? I don't quite understand that.
+
+---
+
+INCORRECT EXPLANATION (NOT SCIENCE) - *"What happens in water, for example, is photos travel through 'space' and every now and then, hit an oxygen or hydrogen atom. The atom it hits absorbs the photon, then emits another photon. The delay in this absorption then emission is what causes the slowing of the propagation.*
+
+*As you can imagine with a more dense substance, this happens more often as there are more atoms in the way of the photos.*
+
+*On a side note, this is still happening in air (as photons hit oxygen and nitrogen and other atoms in the air), however, since air is not very dense, the slowing of propagation of light is much less.*"
+Light only has one speed, regardless of energy. The energy of a photon is in its frequency: the higher the frequency, the greater the energy.
+I think this misunderstanding comes from thinking of photons as just a little ball. If i want to accelerate a ball I need to provide energy because the energy equation of the ball has a mass term, which is non zero.
+
+Now when you talk about the speed of light in glass you are not saying the speed of photons. Photons always travel at c, even in glass. The apparent reduction on the propagation of light is due to scattering off the atomic structure of glass and shift phases. However, this is really just an interpretation, you can interpret the slowing in different ways but none of them are a decrease in energy when the light enters your water.
+
+If you prefer to think of the light in terms of photons as waves and not particles then it gets even easier. A photons energy is dependent on its frequency which doesn't change when it enters the water. Both the speed and the wavelength change in such a way that the frequency is constant. The fact that the energy of this wave does not depend on speed is actually common across waves. A louder sound does not move faster, neither does a higher sea wave.
+[deleted]
+&gt;What happens in water, for example, is photos travel through 'space' and every now and then, hit an oxygen or hydrogen atom. The atom it hits absorbs the photon, then emits another photon. The delay in this absorption then emission is what causes the slowing of the propagation.
+
+This bit isn't true.  You're describing a separate phenomenon from refraction.  Refraction results from the variation in the speed of EM propagation, as evidenced by the uninterrupted coherence of light passing through a medium and the deflection of path of the photons.
+When the velocity changes, the wavelength changes as well, leaving the frequency the same. Since the photon's energy depends on its frequency, the energy remains unchanged.
+Sorry, here I wasn't trying to describe refraction, just the slowing of the propagation of light in a medium.
+
+*EDIT see below.
+[deleted]
+The speed of light varies according to the medium it is in.  The speed of light in a vacuum ≠ the speed of light in water ≠ the speed of light in ice.  
+
+I believe what the OP is trying to ask is how a photon can change speed without any external force.
+
+My best answer:
+Photons don't interact with the Higgs Field and thus have no mass.  No mass means that no energy is required to accelerate them.
+[deleted]
+Just want to point out: *c* is always the speed of light in a vacuum, about 3*10^8 m/s. There is no such thing as "c in water" [source](http://en.wikipedia.org/wiki/Speed_of_light)
+The speed of light is *always* constant. It just gets absorbed and emitted millions of times a second which slows it down ever so slightly. It still travels at 3x10^8 ms^-1 inbetween atoms
+&gt;The speed of light varies according to the medium it is in.
+
+It depends on what you mean with light. Light always travels at the same speed (which is "the speed of light in vacuum"), but it may interact with matter along the way and it might not take a straight path.
+
+For example, let's say that you are shooting light (electromagnetic radiation) at the front side of a big cold (near 0 k) black metal cube. The light is transformed into kinetic energy of the particles at the front side and via heat transfer this leads to a higher kinetic energy at the backside of the cube (eg. the temperature increases) and this increases the electromagnetic radiation at the back of the cube.
+
+Light went in and light went out, but the time between the light going in and the light going out would be above t = distance/c.
+
+Of course, heat transfer is not the only way light can interact with matter.
+Nor a higher pitch sound. Just to make it more analogous, since loudness is related in part to amplitude, which light really doesn't have.
+[deleted]
+could you think about it as... light has to go around other particles.  it's still traveling at the same speed but it's just not going in a straight line?  the denser the substance light is traveling through the more it can't go in a straight line.
+[deleted]
+Refraction is caused by a differential in a wave's speed between two mediums.  betterhelp was explaining how that differential in light's apparent speed arises.
+[deleted]
+Not sure if this will be seen, but [here](http://www.youtube.com/watch?v=FAivtXJOsiI) is a great video explaining the phenomenon of light traveling through glass and/or water, and what causes it to speed up again.
+Rather than try to explain it myself (I'm at work right now, on my lunch break), I'm going to link to the [MinutePhysics video](http://www.youtube.com/watch?v=FAivtXJOsiI) that explains it with relationship to air and glass. I think it covers the absolute basics very nicely. Cheers.
+[deleted]
+Density and index of refraction aren't correlated that way.
+[deleted]
+Pretty much, yes.
+Well, the amount of energy required to perform a given amount of acceleration depends on the mass of the thing being accelerated. Seeing as how photons have no mass, the energy required to accelerate them should be zero.
+So is "c" the speed of a photon or the... wave? (I'm going to guess it's the same in a vacuum) 
+
+So if I'm right in my guess (LOL) then when light enters some super exotic material that say, slows it's propagation down by half... how do we handle the difference between the photon and the wave front... (I'm going to guess that I totally don't understand the difference and that is why I'm confused!)
+Light has no mass, so even if it did change speed it does not need to gain or lose energy to do so.  Instead, light's energy is determined by its frequency.  Frequency remains constant when light moves between different mediums (speeds).
+
+Interestingly to do this wavelength must change (since speed is frequency times wavelength).  Since a photons momentum is dependent on its wavelength (light has no mass so its speed is not important to give it momentum) this means it does change momentum on the way in and out.  So there is a measurable force on a medium due to light passing through it.
+So wavelength = colour, speed = constant, amplitude = ?
+
+What's the difference between a very bright light and a dim light? Just the number of photons? Amplitude doesn't change comparing a spot light to a flash light?
+But that's not how it arises, for the reasons I've pointed out.  Absorption and re-emission wouldn't preserve the direction of the photon.
+
+And yet good prisms don't affect the coherence or focus of a laser by any appreciable amount.
+
+I'd also like to see how this explanation would handle materials with negative refractive index and birefringent materials.
+
+The truth is that the [phase velocity](http://en.wikipedia.org/wiki/Phase_velocity) varies with the electric permitivity and magnetic permeability of the medium.
+The wavefront travels at the same speed but the wave's propagation speed is reduced.
+
+EDIT:  Sorry, I'm wording this wrong.  [Check this out](http://en.wikipedia.org/wiki/Phase_velocity)
+Well, remember that since a wave doesn't have one single position, it's not always meaningful to talk about the speed of a wave, either. It's possible for the wave crests (and each other phase of the wave) to travel at one speed (the [phase velocity](http://en.wikipedia.org/wiki/Phase_velocity)) while the waves overall shape or envelope travels at a different speed (the [group velocity](http://en.wikipedia.org/wiki/Group_velocity)). If I'm not mistaken, the phase velocity of light is *c*, and its group velocity is also known as its speed of propagation.
+Amplitude has no direct correlate with electromagnetic radiation, to my knowledge. The closest you get is photon count.
+I thought this was a strange questions as I was thinking about it differently.  For example, if you are skydiving in an updraft, the frictional drag will be greater and your velocity will be lower.  If the updraft stops, you will 'speed up'.  There is no 'gain' in energy, just a balancing of forces at a higher level.  Is there any analogy to this and the situation with light?
+Yeah my comment kind of inferred that. I couldn't really think of a way of wording it correctly, while keeping it simple, but I'll just remove 'dense' I think.
+So does that mean the photons are not getting absorbed and re-emitted at all?
+Absorption does sometimes happen, but that's not the primary phenomenon at work here.  It's not a significant effect if the material is transparent to the wavelength you're considering.
+[deleted]
+I see! So can you tell me more about the phase velocity. So as light passes into a medium with a different electric permitivity and(/or?) magnetic permeability, its phase velocity changes? And this is the cause of a change in propagation?
+I think amplitude is a more apt description of the intensity of light than photon count is. While each photon implies a set amplitude of the electromagnetic field, when you have multiple photons occupying nearby space, their fields are super imposed, and the effect is to increase the net magnitude of the field.
+
+It's really not useful to think about individual photons on any scale larger than quantum mechanics, or with more than a few photons involved.
+[deleted]
+Well this is about as far as you're going without cracking a textbook and looking at the math involved.
+There's a lot of big words being thrown out about this, but it all boils down to density. The denser the medium, the slower light travels through it. The energy of the light doesn't change. In a medium (i.e., not in a vacuum), light gets absorbed and re-emitted when it runs into material. The denser the medium, the more the light gets absorbed and bounced around. Water is a great deal denser than air, so light travels more slowly through it.
+
+I realize that there are more complicated ways to explain it, but I'm trying to keep it simple.
+I'm not saying amplitude isn't a good analogy, but the original comment was trying to analogize light to physical wave motion, and I was trying to point out that the analogy to pitch is more apt, given that there are essentially direct correlations, whereas an analogy to amplitude in physical waves is not necessarily entirely apt because amplitude of light behaves differently.
+But the amplitude of electric and magnetic fields is larger in an area with bright light than in an area with dim light. 
+
+I might be misunderstanding part of your discussion, but electromagnetic radiation (light) does definitely have amplitude.
+
+The only time it behaves in a way that amplitude doesn't behave like physical wave amplitude is when you get down to incredibly small scales, or have only one photon, but at those scales physical waves don't even behave like you'd expect :).
+No, fair enough, I'm just saying that amplitude and light is a more tricky topic than amplitude and physical waves. Robo-Connery was talking about photons, but once you do this, you can't think of amplitude in the normal way -- individual photons do not have differing amplitudes, only differing frequencies. Hence my original comment.
+It also takes no energy to accelerate a zero mass particle, right?
+Massless particles don't accelerate.  They always travel at c.
+Since there's nothing to stop it from going as fast as possible, presumably.
+
+Though theoretically if you could capture a massless particle and hold it in place, simply releasing it would be sufficient to accelerate it to c, then?
+Here is a nice video on the subject:
+http://www.youtube.com/watch?v=FAivtXJOsiI&amp;feature=g-user-bul&amp;context=G249b1dcUCGXQYbcTJ33ZOeITQkt2bEMnLnJyYHvyfHX9e0vM6XVQ
+You can't hold a massless particle in place.
+
+A massless particle *always* travels a c.
+mhm 
+
+E = hf
+
+h= planck
+
+no dependence on velocity
+[deleted]
+The photon always go at c. It’s not really that, but think of it like as it would go zig-zaggedly, bouncing on the medium’s molecule, and the denser the medium, the more zig-zagging…
+Does this mean that the wavelength of light changes between water and air?
+Yes =)
+All of this talk of refraction, but ops question is when we slow down the speed of light, which has been done for example in laser research.  What is happening there?  How does that impact ops question?  Is that just a form of refraction also?  If so, would that not change the wavelength and thereby make the novelty of "slowing down the speed of light" worthless to researchers?
+I'm sorry, but I must correct you on an important  point. C represents the speed of light in a vacuum (in the presence of NO medium). C does not change, but the speed of light absolutely can and does decrease when traveling through a medium.
+What a phenomenal question. Thanks for making my reddit day a good one.
+More or less yes, it's a very similar effect to refraction. Changing the wavelength isn't a problem, since you're not changing the photon energy/frequency, which is what you really care about.
+
+For this reason, if you're specifying the characteristics of your laser, you usually specify the wavelength in a vacuum rather than the wavelength in whatever material you happen to be working with.
+These are interesting posts you've made here, thanks. I'm really rusty on my classical E&amp;M so this was useful! But the problem is it looks to me like your description *is* purely classical... on a fundamental quantum level, things like the electric permittivity and magnetic permeability don't show up at all. What does this description of phase velocity varying by medium look like in QED?
+Actually it absolutely still applies the quantum level.  The phase velocity of the wavefunction varies just as described.  This is why the path of the photon is deflected.
+On the contrary, based on the Lorentz model of optical absorption/dispersion, you can actually use the [Kramers-Kronig relations](http://en.wikipedia.org/wiki/Kramers%E2%80%93Kronig_relations) to determine the absorption spectrum of a material whose dispersion you already know (dispersion = refractive index for various photon energies) and vice-versa.
+
+As for *c*, CDBSB is correct, it is constant. Photons travel at c, but due to absorption and re-emission events they appear to travel slower in 'denser' media. Unfortunately, it's not as simple as just seeing how many atoms there are per cubic centimeter, as in CDBSB's original comment. You also have to take into account how strongly those atoms interact with the light in the first place -- think of how colored glass is just as dense as clear glass, but they absorb different colors; the same thing happens with respect to refraction.
+You are thinking about it backwards.
+
+Let us say you walk normally, using X energy to go Y speed.  Now walk in a pool with five feet of water.  You use X energy, but you no longer go Y speed, because the water creates a resistance.  The same thing goes for light.  The energy does not change at all.
+In my classes, C was the speed of light in a perfect vacuum while c was the speed in any relevant media, so you'd have c^glass or c^H2O or whatever was relevant to your problem. I forget that it is not a common convention. Edited above.
+That is a very sensible convention that I would like to have been exposed to long ago. It seems like it would make things much simpler.
+Great, so I figured, thats as far as I can go. Can you check my previous posts, I've edited them, make sure they all make sense!
+
+I find it very strange that so many have given me upvotes, when it seems that technically you are correct? Thus I can only assume that there are different interpretations? Any info/facts on that? No?
+Why wouldn't absorption and re-emission preserve direction though (given a certain timeframe)? If an electron moves up a (one-dimensional) potential well and back down it, thereby emitting a photon, the direction would be preserved, or not?
+&gt;I'd also like to see how this explanation would handle materials with negative refractive index 
+
+[What madness am I reading?](http://en.wikipedia.org/wiki/Negative_index_metamaterials)
+In this case you're gaining kinetic energy that you were losing to friction before the updraft stopped.
+Frequency of light stays the same when going from water to air.
+
+Frequency = (velocity/wavelength); Both the velocity and wavelength reduce, such that the frequency is the same.
+
+E = h x frequency, so the energy is also the same.
+The speed of light is always constant. The reason it slows is because it interacts with the particles in the photons' way. "Bouncing off" between each atom at speed c.
+dude, you are mistaken.  Light is a physical wave of an oscillating electric and magnetic field. this description is much more correct than thinking about light as a localizable particle.   When, in quantum mechanics, you think about individual counting events, there is most definitely a magnitude of the electric field.  In a definite photon number state, the phase of the wave is completely uncertain not it's amplitude.
+If you really care, there is an excellent description of quantization of wave packets in the book [quantum optics by garrison and chiao](http://www.amazon.com/Quantum-Optics-Oxford-Graduate-Texts/dp/0198508867).  
+
+The trouble is that yeah, an index of refraction is a macroscopic quantity while on a fundamental microscopic  level you'd have to quantize both the mater an the field.  But what garrison and chiao describe is sort of an effective quantization, where you aren't really quantizing the eigenstates of the hamiltonian.
+you seem to be confusing, (or at least your explanation is confusing) the difference between *optical density* and *number density*.  
+
+*optical density* is a property involving the interaction between light and the matter it's traveling in.
+
+*number density* is the average mass per unit volume, which is relatively independent of it optical properties.
+I never said anything about amplitudes being uncertain.
+Or, you could say I'm just not 'losing' that kinetic energy anymore.  My point is, in this case, I don't see why we even really need to invoke QM or the concepts of waves and frequency.  More accessible (embodied) Newtonian mechanics would seem to do the job as well.  If I emerge from a more viscous medium to a less viscous medium, my Velocity will increase with no increase in the input Force (or energy).  
+Anyone who has ridden a bicycle into a strong headwind will appreciate and instinctively understand this fact..... when the wind stops, you will go much faster with the same energy.  
+Your applied force on the bicycle is the same, and for the falling skydiver, G is the same, and for the photon, the EM force is the same... but in all cases, we accelerate due to a change in the medium.  And no 'input of energy' is involved.
+So, it seems to me, you can understand this question in both a QM and non-QM way.  And I don't see why we would invoke QM unless we absolutely have to.  That is all.
+http://i.imgur.com/qr2rY.png
+This is how i think the waves look like right? 
+They travel at the same speed but they need to travel longer in water?
+Also would there be a medium where light would not travel in a wave anymore? kinda like so stretched that it wouldn't be a wave anymore?
+Yeh, that picture is right, they oscillate up and down the same number of times per second but in this time they move less distance. This means a shorter wavelength (waves more bunched up)..
+
+&gt; Also would there be a medium where light would not travel in a wave anymore? kinda like so stretched that it wouldn't be a wave anymore?
+
+Well as the wavelength tends towards infinity the energy in the wave tends towards zero. However, for any light in any medium it will have a wavelength. Remember that for almost all materials (barring some crazy metamaterials that cheat) wavelengths only get shorter when they enter the medium. This is because they have a refractive index greater than 1. So you couldn't stretch out a wavelength with a medium.
+Oh i was hoping for something like a void or extreme pressure/ temperature
+
+Summary:
+The energy does not change at all.
+The energy of the light doesn't change.
+So is "c" the speed of a photon or the... wave?
+Light is traveling at c between those interactions.
+The speed of light is *always* constant.
+The speed of light is always constant.
+The speed of light varies according to the medium it is in.
+However, for any light in any medium it will have a wavelength.
+C does not change, but the speed of light absolutely can and does decrease when traveling through a medium.
+The speed of a photo is always c.
+
+The speed of propagation of light, can be slowed.
+The denser the medium, the slower light travels through it.
+No energy forces it to change speed.
+Photons always travel at c, even in glass.
+The photon doesn't lose energy due to refraction.
+The energy of a photon is in its frequency: the higher the frequency, the greater the energy.
+It depends on what you mean with light.
+"Bouncing off" between each atom at speed c.
+The reason it slows is because it interacts with the particles in the photons' way.
+What this means is that while photons always travel at c, the prorogation of light can be slowed down.
+Also would there be a medium where light would not travel in a wave anymore?
+Does this mean that the wavelength of light changes between water and air?
+The speed of light in a vacuum ≠ the speed of light in water ≠ the speed of light in ice.
+Light only has one speed, regardless of energy.
+Frequency remains constant when light moves between different mediums (speeds).
+A photons energy is dependent on its frequency which doesn't change when it enters the water.
+Both the speed and the wavelength change in such a way that the frequency is constant.

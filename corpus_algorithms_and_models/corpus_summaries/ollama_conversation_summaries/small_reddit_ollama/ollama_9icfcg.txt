@@ -1,0 +1,17 @@
+Here are the sentences copied verbatim from the original text:
+
+* You can string together any combination of items, and there are hundreds, plus anything from third party apps you have installed, and there are loops and conditionals.
+* And can you make it execute actions without user interaction?
+* Good luck trying to do that on Tasker. If it’s even possible, you would probably have to spend hours looking for some iffy plugins and API workarounds to accomplish what I can do on Shortcuts in less than a minute.
+* Intents are more technically capable than what Apple offers, and the stronger automation possible in Android wins by far.
+* Meanwhile everything in Shortcuts requires either a trigger by the app you're currently running, or manual activation, or at best an iBeacon can generate a prompt - but if still always require manual action to run.
+* Tasker is set and forget. It runs without interaction.
+* And why would Instagram not add an Intent on Android for the same feature?
+* Oh, wait, just forget my previous comment entirely - they already support Intents!
+* With Intents, your app can also pick a specific app to send it to (sharing directly to Instagram), so that the user don't need to select a target app.
+* In fact, it can start an upload when you connect your phone to wifi while on charging if that's what you wish.
+* Rotflol. Tasker can run Python, bash scripts, or even ask other apps to process the data. You can have a machine learning app tell Tasker which photos contain dogs, and then upload those automatically.
+* If input (contains, equals, is less than, is greater than) value (clipboard, current date, shortcut input, magic variable) then you place anything you want blow that. And it automatically inserts an “otherwise,” so for programmers, else, after that, and you can put anything in there.
+* These all have to be explicitly run, not triggered on a schedule or by other events.
+
+Note: I excluded the sections about battery life, as they were already addressed in previous responses.

@@ -1,0 +1,52 @@
+Original Response:
+Baiscally, gasonline engines have an alternator to keep the battery charged. Is there a scientific reason why electric cars don't? Or is it purely political?
+Gas cars use a comparatively small battery to start the car and operate some electrical devices during operation.  A small amount of power is diverted from the combustion of gasoline to spin the alternator and charge the battery.
+
+Electric cars use a huge set of batteries to power the car.  There are a lot of techniques whereby energy is diverted back to the batteries, such as regenerative braking.  Hopefully though, you see that you can't use an alternator in the same way as a gas car. Since the battery is the main source of power, it can't run the car while at the same time run a generator that keeps itself powered, due to conservation of energy and thermodynamics.
+So let's see, the electric battery provides power to a motor which turns an alternator which charges the electric battery...  no, I can't see any flaw in that process at all.
+
+If you have a source of mechanical motion, such as a gasoline engine, you can use an alternator to turn it into electricity.  But there's no point in doing that if the mechanical motion came from that same electricity in the first place...
+
+Actually electric vehicles do have an alternator, or rather they just run the electric motor in reverse, for the rare times when they do have a source of mechanical motion that they want to turn into electricity:
+
+http://en.wikipedia.org/wiki/Regenerative_brake
+I believe you're saying that hes proposing a perpetual motion machine
+*Conservation of Energy:*
+
+*Energy cannot be created or destroyed, only converted from one form to another.*
+
+So you convert electrical energy in the battery, to mechanical energy in the alternator, back to electrical energy in battery. 
+
+However, you lose some energy due to friction, heat, etc, so what is the point? Pay 10 to get back 8. Better deal is don't buy and save 2.
+
+As others have said, some cars can turn the motor off and link an alternator to the wheels, which would recover some, but not all, of the energy: perfect efficiency is just impossible.
+ 
+Political reason:
+
+There is some controversy attached to perpetual motion machines. (As in: they aren't possible, they aren't patentable, anyone selling one is a con-artist). Don't believe the nanotech guys if they say the small scale of the technology makes it possible.
+I just figured, maybe you charge your car once over night, then, your range is extended amazingly by your alternator recharging your battery for you.
+
+Does that make sense?
+What powers your alternator?
+I guess that's what I'm asking. What powers the alternator on a gasoline engine? I'm assuming it's some kind of mechanical spin. Couldn't that be derived from the electric motors that are propelling the electric car?
+The gasoline engine powers the alternator.  The engine itself is powered by burning gasoline.
+Right. Now, can either the individual motors (for the wheels/axles) power an alternator in an electric car, or can the electricity from the battery(ies) power the alternator.
+
+Does that make sense?
+Someone said this above, but I'll repeat it:
+
+You're proposing a perpetual motion machine, in which chemical energy in an electric car's batteries is converted into kinetic energy and then back into chemical energy at not only no cost, but in fact a profit.
+
+This is not possible.
+The battery powers the electric motor, which moves the wheels. If you try to recharge the battery using the electric motor, you're not really getting anything productive done, you're simply trying to recharge a battery with the same battery.
+I understand your question, but you are not understanding peoples' answers.
+
+Technically, you could power an alternator with an electric motor, and use the power to recharge the batteries the drive the motor.  But this not only would not gain you anything (since you're just taking power from the battery and then putting it back in), it would actually hurt you.  You'd be putting an extra load on the motor to drive the alternator, so it would draw more power than it normally would.  Add in the losses due to friction, etc, and you will reduce the range.
+
+Regenerative braking works because it's only activated when the motors are not drawing power from the battery.
+
+Summary:
+The gasoline engine powers the alternator.
+What powers the alternator on a gasoline engine?
+If you have a source of mechanical motion, such as a gasoline engine, you can use an alternator to turn it into electricity.
+The battery powers the electric motor, which moves the wheels.

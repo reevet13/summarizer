@@ -1,0 +1,21 @@
+Here is the summary of about 10% of the text:
+
+I don't know if the potential of [sodium phenylsulfamate](http://www.chemspider.com/Chemical-Structure.8411556.html) as a sugar substitute has been investigated so far but  after comparing and contrasting the binding of [sodium cyclamate](http://www.elmhurst.edu/~chm/vchembook/549cyclamate.html), which is a cyclohexane ring containing derivative of sulfamic acid, and [saccharin](http://www.elmhurst.edu/~chm/vchembook/549saccharin.html), which contains a benzene ring, to a simplified model of a sweetness receptor I'm wondering if sodium phenylsulfamate could be used in such a way.
+
+Of course, besides its potency as a sweetener, other concerns including, but not limited to, solubility, stability, specificity to target receptors, metabolic breakdown and ease of synthesis must be taken into account so have any studies been performed in order to assess these properties?
+
+Apparently it has been tested. The second hit on googling "sodium phenylsulfamate" is [Synthesis and taste properties of sodium monosubstituted phenylsulfamates](http://www.sciencedirect.com/science/article/pii/0308814694901937)
+
+I know you were thinking that since we know the sweet receptor structure, and we have some things that bind weakly to it, why can't we just predict the perfect structure to make the perfect sugar substitute? In theory this should be possible, but our current theories just can't make these predictions yet, so all you can do is test everything and hope to get lucky.
+
+Derivatives are almost always bitter? Interesting and like to read more. Could you give me a reference for it?
+
+The second hit on googling "sodium phenylsulfamate" is [Synthesis and taste properties of sodium monosubstituted phenylsulfamates](http://www.sciencedirect.com/science/article/pii/0308814694901937)
+
+I don't think phenylsulfamate is a sulfonamide.
+
+The second hit on googling "sodium phenylsulfamate" is [Synthesis and taste properties of sodium monosubstituted phenylsulfamates](http://www.sciencedirect.com/science/article/pii/0308814694901937)
+
+It chemically contains a sulfonamide group.
+
+Do you know what an -R group is?

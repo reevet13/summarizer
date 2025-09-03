@@ -1,0 +1,19 @@
+Here is a summary of the text, selecting only sentences and returning them exactly as written:
+
+It isn't impossible, just very difficult.
+
+Source code isn't just the information needed to create the final executable, it contains a lot of information to help the developers know what the code does.
+
+If you were looking at code you'd never seen before and saw two variables called x_pos and y_pos, you'd instantly know you were talking about x and y coordinates on a screen.
+
+In the final code, they are not called x_pos and y_pos, they are called 0x21E8 and 0x21EA and you have to do a lot of detective work to figure out what is going one.
+
+Trying to decompile and executable and understand it is about as hard as writing code from scratch.
+
+Maybe not just as hard, but it's a completely different skillset.
+
+You can decompile it automatically into a human readable form called assembly language but the instructions are much lower level than what you think of as a programming language.
+
+"Get this value from this memory address and put it into the thing that does adding, then get a value from another address and add that to it.  Store the resulting sum in a third memory location.  Then..."
+
+No actually he is correct. Sometimes it is purposely obfuscated to prevent reverse engineering.

@@ -1,0 +1,15 @@
+I've never understood this. Even if gases are exploding, there is no opposing force from space, so the rocket cannot move. The gases should just expand into space without any force acting on the rocket.
+
+Ah, I see. F=MA. With the brick, F is high due to high mass and non-zero acceleration. With the gas, mass is low but acceleration is very high, therefore a strong force is generated.
+
+Better way of visualizing rocketry, is by net momentum. In the absence of gravity, net momentum is constant. You can get a rocket moving as the when the (low mass) gases are propelled downwards with high momentum, the rocket moves upward to keep the net momentum constant. All the gravity does, is cause the net momentum to constantly decrease (its an external force).
+
+Your idea doesn't really work, because its not feasible. You can't just get a significant number of neutrinos/leptons to go in one direction, without huge nuclear reactors/synchrotrons/etc, and even then because the subatomic particles are subatomic they don't impart that much momentum and you wasted lots of energy in accelerating them to those energies.
+
+I was just studying this stuff, so I'll try to explain it for my own practice instead of anyone elses. Another way of thinking of it is imagine you weigh 5 kg, and imagine you stand on a 5kg block of wood. If you jump to the right, going at 5 m/s, the wood will go to the left at 5 m/s. It's basically a reverse collission where momentum is conserved, since in the start you and the block were not moving the total momentum there was 0.
+
+Unfortunately, you are not even wrong.
+
+Rockets don't do better/worse in atmosphere than they do in space.(well in principle it might make a small difference, but neglible for any real rockets.) The reason they use rockets is that air-pushing engines don't work in the speed and air density range that is needed, and that launching from a airplane only has an neglible extra speed and height.
+
+If you want to think in terms of things pushing on other things rather than in terms of momentum conversation, you can think about it this way: if you were to have a rapidly expanding gas in a closed container, the gas would push on all the walls of the container equally (probably eventually exploding it). Now suppose that one wall of the container is missing. Now the gas is pushing on the wall opposite the missing wall, but is not pushing

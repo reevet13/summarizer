@@ -1,0 +1,9 @@
+The elongated escape pod could theoretically fit the bill, but you then have to worry about some other things. First of all, it needs to be retrievable - therefore it needs to be buoyant. Secondly, it needs to provide enough breathable air for the passengers to breathe until they are rescued. Finally, it needs to be stored somewhere in the airplane to be accessed by passengers - this is really the most prohibitive of the requirements that I see (not to mention the cost). This would add a tremendous amount of space and mass to the airplane, which is a big negative.
+
+The retractable wing idea is pretty cool (and sounds fun). However, there are a few problems with it - the biggest one that I can think of is that almost no regular people would be able to use it - skydiving is a difficult enough activity for inexperienced people (most people go tandem their first jump), and that's a low-stress, recreational environment.
+
+You've got two flaws. The first is that descending safely from height is a solved problem. We could easily place every passenger into a little pod with a parachute and ejector seat (like they do in fighters). That's way more practical than either of your suggestions.
+
+The second flaw is that the reason we don't have better safety mechanisms isn't due to a lack of engineering ideas. The problem is expense. Would you be willing to pay thousands of extra dollars for every intercontinental flight, even though the odds of actually crashing are vanishingly small?
+
+My understanding may be flawed, but I think most pilots would rather try landing the plane safely than have everyone try parachuting out (at great risk) when they run into trouble. I think by designing planes to be able to withstand water/air landings even with malfunctioning hardware is probably safer. Looking at [wikipedia](http://en.wikipedia.org/wiki/Aviation_accidents_and_incidents) it seems that over 95% of people in US plane crashes between 1983 and 2000, survived.

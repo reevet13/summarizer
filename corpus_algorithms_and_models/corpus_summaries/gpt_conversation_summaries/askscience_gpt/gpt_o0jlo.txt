@@ -1,0 +1,3 @@
+In a vacuum there would be no air resistance.  
+Then the air relative to the car will be stationary and air resistance will be zero.  In that sense it would be like driving in a vacuum.  
+You would be neglecting the small amount of air resistance from the treads of the tires as they spin.  In a vacuum, this effect would not exist.

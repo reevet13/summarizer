@@ -1,0 +1,9 @@
+Here is the summary of up to 250 words:
+
+I know how a hard drive works (the extent of my knowledge is summed up in this excellent video http://www.youtube.com/watch?v=Wiy_eHdj8kg )... but when you hear a hard disk drive grinding, what am I actually hearing? Is it the actuator arm being driven back and forth? Some little relay somewhere? What is happening?
+
+The "thinking" noise from your HDD comes from the arm moving rapidly across the disk platters to seek different tracks. Of course, the actual reading/writing of data produces no sound.
+
+It's the very fast movement of the arm back and forth.  Likely the data that is being accessed is spread across the platters in a manner that causes the arm to essentially vibrate as it moves to the next section of the platters.
+
+The noise comes from the fact that the theory of operation of the arm/galvo is actually pretty similar to that of a typical loudspeaker setup! In fact, the term "voice coil" comes from the construction of loudspeakers.

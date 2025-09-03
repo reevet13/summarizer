@@ -1,0 +1,57 @@
+The bees that the dead bee saves are genetically very closely related to the dead bee.
+Helping your close relations helps your own genes.
+Hence people are prepared to do a lot for close family.
+
+It's called [Kin Selection](http://en.wikipedia.org/wiki/Kin_selection).
+
+The fun thing about that is that it's mathematical, we know the formula that evolutionary psychology is optimising on.
+People should be prepared to die to save more than two siblings, more than four nephews, or more than 8 cousins.
+It sounds horrible but that's the calculation we're effectively doing.
+It may not affect an individual bee, but if there were two hives of bees, chances are the hive that was warned off by the smell of their dead would have a higher chance of surviving than ones without (assuming everything else was the same).
+Also, as Tont_Voles mentions below, the drones generally do not reproduce, and therefore a drone with the specified gene dying does not reduce the frequency of the specified gene in the gene pool.
+This is an example of a process called group evolution, as opposed to individual evolution.
+Group evolution is a relatively new theory in which any alteration / mutation that helps the group leads to the group being more likely to accept the individual, furthering the individual's mating potential.
+The queen carries all genetic information.
+When she dies, so does the colony.
+
+So all the other bees are her daughters, essentially.
+When any of them dies, they all share essentially the same genetic code, so a single *colony,* not a single *organism* will carry the trait first.
+
+EDIT: Slightly simplified.
+Technically there are also drones which mates with the queen.
+Evolution in some parts of the insect world works pretty differently than it does with the kinds of sexual reproduction we humans are more familiar with.
+
+The bee reproductive model involves [haploid sex determination](http://en.wikipedia.org/wiki/Haplodiploid_sex-determination_system) in which different 'genders' within the colony have different numbers of chromosomes.
+The queen has the full set of 32 chromosomes, and is the only one able to lay eggs.
+Each egg contains half of her genetic material, and when unfertilized will hatch into a "male" drone (with 16 chromosomes).
+The "female" worker bees hatch from fertilized eggs and have a full set of 32 chromosomes (half of the queen's genetic material recombined into 16 chromosomes, plus the full 16 chromosomes from a haploid drone which came from the queen as well), but are unable to lay additional eggs of their own in most species.
+Thus every individual bee is some form of a 'partial clone' of the queen.
+
+In this example I'm going to simplify all of the genetics of the queen into 5 [loci](http://en.wikipedia.org/wiki/Locus_(genetics)) on each of two chromosomes, where the number represents the loci and the upper/lower case letter represents the particular allele occupying that loci (each allele is a possible expression of each gene).
+I'm calling these ChromosomeQ and ChromosomeD to represent the fact that one came from the former queen, the other from a drone:
+
+Queen:
+
+ChromosomeQ: 1A, 2B, 3c, 4d, 5e
+
+ChromosomeD: 1A, 2b, 3c, 4D, 5E
+
+When she gives birth to a male drone egg, he will only get one chromosome, which will be a shuffled combination of her two chromosomes.
+For example:
+
+Drone: DChromosomeQ: 1A, 2b, 3c, 4d, 5e
+
+In this example, loci 1 and 3 could have come from either, but we know loci 2 came from ChromosomeD and loci 4 and 5 came from ChromosomeQ.
+Since he only has code from the queen, he only has a DChromosomeQ.
+On the other hand, when the queen gives birth to a female worker bee, half of it's code will come from her directly (shuffled up the same way it did for the drone) and the other half will be a direct copy of whichever drone fertilized the egg.
+Here's an example of a potential female worker bee which came from the queen and the drone above:
+
+Female Worker bee:
+
+FChromosomeQ: 1A, 2B, 3c, 4D, 5e
+
+FChromosomeD: 1A, 2b, 3c, 4d, 5e
+
+(note, FChromosomeD is an exact copy of DChromosomeQ, while FChromosomeQ is one of many possible outcomes of the queens DNA being shuffled)
+
+The

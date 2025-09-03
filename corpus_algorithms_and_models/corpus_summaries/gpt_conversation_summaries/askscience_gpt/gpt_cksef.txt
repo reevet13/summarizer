@@ -1,0 +1,21 @@
+I was wondering if anyone with more knowledge about this subject could explain to me why this is or isn't possible.
+
+If the "element" is a single atom, then "melting" can't exist (the hardness of an element is dictated by its inter-atomic and mostly inter-moleculary bonds).
+
+The only worry then would be "breaking" the atom - the accumulated energy of the atom to be so great that it overcomes the forces that keep the nucleus in one piece (protons and neutrons) and split it.
+
+Iron already melts at 1811K(looked it up) already, but i am not sure how that goes up with pressures.
+
+Anyway, to send it there, you have to weigh it down too, for instance make it hollow and fill it with lead, and then the question arises if this might compress differently, and make the whole thing crack.
+
+And there is the question of whether it might react chemically with something down there, for carbon presumably, in places where diamonds form, not.
+
+Of course also the question if it could do something useful.
+
+I don't know if weighing it down would be the best idea, and I don't know if lead would work in this situation (if it refused to compress as much then it wouldn't work).
+
+I think that it might be possible to make some kind of propeller that would push the machine forward at a much greater speed.
+
+I don't think sending a signal from the center of the earth would be very possible, a better system (though, probably much more costly) would be to have a line of certain elements all the way up from the core to the crust that could be used for electricity transfer.
+
+All of this would only be possible with a good enough insulator, and with an element that both conductive and solid at most or all parts of the decent.

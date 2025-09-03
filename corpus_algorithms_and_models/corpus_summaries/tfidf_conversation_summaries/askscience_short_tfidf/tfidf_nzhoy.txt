@@ -1,0 +1,20 @@
+Original Response:
+Is it laws, money, deficiencies in science and technology or a combination of all these things?
+This may help:  http://www.reddit.com/r/askscience/comments/mz8pr/what_are_the_downsides_to_a_molten_salt_thorium/c357yuf
+
+There are also a few other threads in /r/askscience discussing thorium reactors, all accessible with the search function.
+Thanks I should have used search first.
+Money: while LFTR will be cheap when developed and proven, the development part (as with any experimental reactor) is not cheap. I doubt it would cost less than 5 billion.
+
+Defficiencies in technology: These are relatively minor, and solvable so its not a showstopper. LFTR wiki article has a good summary of design challenges.
+
+Laws: This indeed. The amount of red tape and regulations in the field of nuclear engineering is huge.
+http://deregulatetheatom.com/
+Did you know for example that it is actually illegal to mine and own thorium in Australia?
+
+More info on why was not LFTR developed sooner here:
+http://energyfromthorium.com/2011/12/23/techtalk-why-tmsr/
+
+Summary:
+More info on why was not LFTR developed sooner here:
+http://energyfromthorium.com/2011/12/23/techtalk-why-tmsr/

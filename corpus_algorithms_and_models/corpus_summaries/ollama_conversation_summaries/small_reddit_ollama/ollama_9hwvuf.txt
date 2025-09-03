@@ -1,0 +1,13 @@
+Here is the summary of about 10% of the text:
+
+When i launch a game or something it uses my intel graphics card instead
+Plug your monitor into the GPU instead of the motherboard.
+Then install the Nvidia driver and then run a program that will use the dedicated card.
+thanks but im on a laptop
+So it shows the Intel HD graphics with activity in GPU-Z or task manager?
+yeah!!
+Did you set the game to use the Nvidia graphics in the Nvidia control panel?
+Go to bios, set the video output to gpu.
+how do i get to bios?
+Take deep breath, restart your lappo, as soon as you see the brand/logo  start tapping the delete key/escape key/shift+f2 depends on the machine, and you should see the bios.
+I think I missed the F11, F12 keys. Try tapping continuously either one while booting.

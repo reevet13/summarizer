@@ -1,0 +1,2 @@
+Would it be safe to assume that voices have a certain 'vocal signature'?
+If my assumption is true, would it be possible to determine and isolate the 'base frequency'?

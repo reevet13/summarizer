@@ -1,0 +1,62 @@
+Let's say I want to build a solar sail, traveling at a constant, but slow acceleration toward either Alpha Centauri or even Gleise.
+How long would such a journey take, given the acceleration and distance?
+Best or worst case scenario?
+Acceleration would decrease over time as you moved away from the Sun.
+Your acceleration would also depend on the area of the sail; it would have to be huge to provide any decent acceleration.
+Could I ask a clarifying question about this?
+I'm also interested in the answer, but I'm not a space scientist of any ilk.
+
+Specifically, it seems to me in my ignorance, that it would be a function of the method of generating force against the solar sail, whether Solar radiation, or laser from earth...etm; the area of the sail; and the total mass of the ship.
+
+From that we should be able to guestimate the acceleration and possibly the duration force could be applied against the sail.
+But maybe there are already published articles that address this in detail?
+
+Robert L. Forward wrote a series of stories involving a ship that used a solar sail: http://en.wikipedia.org/wiki/Rocheworld.
+He was a physicist and aerospace engineer as well as a great hard science fiction author, but I'm not able to tell how much of his description was based on science and how much on speculation.
+It would depend on the surface area of the sail and the mass of the ship.
+The larger the surface area, the faster it will go and the larger the mass, it slower it will go.
+
+Start here:
+
+http://en.wikipedia.org/wiki/Solar_sail
+I'm thinking all sail and a ship that is too small for a human to fit in.
+
+But thanks for the wiki link.
+You want to read about Robert L. Forward's "Starwisp" concept.
+
+\- http://en.wikipedia.org/wiki/Starwisp -
+I do not think this question can be realistically answered with current technology.
+
+The Japanese space agency only in 2010 launched the world's first satellite to use solar sail as primary propulsion.
+
+Not only do you have to accelerate the satellite but you also have to heat it and power its electronics.
+
+Probably you would accelerate within the heliosphere, drift across interstellar space, and decelerate in the target star's heliosphere.
+
+If you went as fast as Pioneer or Voyager you'd be something like 40K to 80K years to the next star.
+(You can look up the time on wiki.
+I do not remember it offhand).
+
+In short, I don't think it's at all possible.
+For the purpose of this research, time is not an issue, nor is speed.
+I am simply trying to get an estimate of:
+
+A) The relative speed at which a solar sail could theoretically travel
+
+and
+
+B) The time it would take for said solar sail to reach nearby stars.
+(This calculation is pretty easy once I know how fast a solar sail could theoretically travel.
+
+
+It could be 10k years or a million years... or 15 years.
+That part doesn't matter to me as much, since I'm not talking about human passengers.
+The wikipedia article someone else linked had some magic (i.e. invented) numbers giving a speed of 30 AU per year.
+There being about 63,000 AU in a light year and about 4.3 light years to the nearest star, that's about 9500 years.
+This assumes you don't slow down in interstellar space.
+Magic numbers are really all you can expect until advances in technology.
+
+*Theoretically* since a sailboat can (proven) sail faster than the wind speed, you could probably get up to almost light speed, given a few thousand (tens of thousand?) or so years to accelerate ...
+Fair enough.
+This is all still good for what I need.
+Appreciate the feedback.

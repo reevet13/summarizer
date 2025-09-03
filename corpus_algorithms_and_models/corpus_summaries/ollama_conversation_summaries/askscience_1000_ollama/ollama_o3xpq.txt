@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+Cancer is the result of many accumulated mutations over time, usually a result of small errors building up as a cell divides over its lifespan. Every time a cell divides, there are a couple of errors in replicating the 3 billion base pairs in the human genome. These errors accumulate over time, leading to mutations that lead to cancer.
+
+However, as can be seen [here](http://en.wikipedia.org/wiki/Cardiac_muscle), "researchers estimated that a 20-year-old renews about 1% of heart muscle cells per year". Since cardiac muscle (heart cells) divide so slowly, there is not much risk for accumulated mutations, and thus even the few rare cases of heart cancer arise from other cancers spreading to the heart rather than originating in the heart.
+
+The real basics of what I've learned about free radicals: Free radicals damage cells. They aren't the **sole** cause of aging but one of them. Free radicals also help cause cancer to a fairly large degree. Building off of what igg14 said "Every time a cell divides, there are a couple of errors in replicating", free radicals **are** a cause of this by their reaction with the cell's DNA.
+
+There, feel free to reply if you're still confused.
+
+In addition, the brain is [immune privileged area](http://en.wikipedia.org/wiki/Immune_privilege) with limited access of many types of immune cells, including cells that fight cancer.

@@ -1,0 +1,81 @@
+Original Response:
+You mean the extra $12bn that Malcolm Turnbull's mess has cost by now over the original cost estimations of a full fibre rollout?
+No, they mean the extra billions that'll be spent on maintenance, and powering the whole shebang from here on.
+Is it too late for Labour to salvage the NBN? I think it must be, given they have been pretty silent on the issue.
+They can salvage it if they win, it would probably be a mix of fttc/fttp or even all FTTC which would be much better than whats being rolled out now.
+12? Turn it up. Try double that, plus actual real dollars to tear down what we've built in FTTN.
+NBN sees the rest of Australian supporting the Eastern suburbs once again.
+No.
+
+Go FTTP or go home.
+In FTTCs defence, I get 94/31 all the time.
+
+Though I don't know how well that scales in the future
+I think they'll have a hard time. The contracts are more than likely going to be an absolute mess which will be very hard to get out of. However, if they just kill the construction as soon as they (hopefully) get in, it hopefully staunch the bleeding.
+
+Anyone who had FttN is probably going to be stuck with it for a while though. We'd have been better off if the Liberals had just killed the project dead rather than implement the monstrosity we have at the moment.
+The only thing FTTP has over FTTC is longevity but if they set it up right FTTC can be upgraded to FTTP at a reasonable price.
+Irrelevant and not future proof. Fttp can give multi gigabit speed with current cheap as chips optics. Terabit will be cost effective soon enough with trivial upgrades. The only solution for the future is fibre.
+Who knew tonnes of batteries and aircons on every corner was expensive?
+I get better on FttN, how far are you from the pit? Because that is terrible.
+I'm not really sure how that's terrible?
+
+The limit of *most* NBN plans is 100/40, so 94/31 is pretty good if you ask me.
+you're full of shit. I'm on FTTB and get ~93mbps with less than 20 metres of copper.
+check out this guy who camps next to the node on his street for the blazing fast speeds
+What? You're a weirdo, why would I lie?
+Definite node lotto, I am about 200m from the node. FttN is a bullshit technology and I got lucky, but FttC not giving above 100mbps sync is shit.
+So that was your speedtest result? That is irrelevant to any discussions about technology limitations.
+
+On FttN/FttC what matters is your sync speed, everything else comes down to your ISP and possibly backhaul from the node. You are conflating your ISP limitations with your technology.
+To be fair to FTTN, I'm 50m from my node so I'm a constant 92/38. 
+
+Fttp was still the correct way to go though.
+I’m on fttc and get 115 mbits down.
+Pretty rare though. I’m also close to the node and max out at 60mbps with regular dropouts.
+Far too late.
+
+Sorry.
+
+They can fiddle round the edges, but no drastic switch.
+If only there was a better technology available.
+Will be hard to do next term with our current budget imo. Here's an idea, why dont we get all the Liberal MP's to fund it? Malcom owes the country a few million, that's for damn sure
+600tbps with every colour on the spectrum.
+
+All on one strand.
+Turning such a large endeavour isn't quick. But yes, they can absolutely save it. We might even see them speed up the rollout as much as they can because fuck Liberals.
+Not really. Surprisingly little has been done over the last few years. If they end up with 2 or more terms we might see it completed properly.
+Yeah even ADSL2+ isn't bad for a small household for current moderate use if you are right near the node with perfect copper, the problem is that isn't the majority of people.
+Can't wait for this fuck up to be used in the future as a reason for small government and thus to vote for the liberal party.
+What u said here is bang on the money.
+something with fibres maybe?
+&gt; In FTTCs defence, I get 94/31 all the time.
+
+You make it sound like something to be proud of. Meanwhile FTTP in other countries are doing 1000/400 and 10gig.
+Just like the other side, the ALP would rather make political mileage than do the right thing for the nation.
+
+They'd rather Australians curse the Libs every day due to being forced to use crappy internet than fix it. Ironically enough, that approach is votes in the bank with Australia's sleepy electorates.
+You'd be surprised what has been done and what's in progress.
+Ah, that old chestnut. 
+
+"Let's vote in people who don't believe in government working to run it!"
+
+Quality thinking.
+Break contracts. It'll be expensive, and it will slow things down, but we'll have the right solution at the end of it. 
+
+This idiot policy by the Coalition has  set us up for failure. It'll take a decade or two to catch up.
+Possibly. But the main edict of this government, even if not officially stated, was always stall, stall, stall.
+
+Which leaves a lot of areas where nothing at all has happened, and if Labor cares (and probably will, as this will be an election issue) it would be a big boon to quickly contract for FTTP rollout in those areas, slowly shift the focus of existing crews, ramp up completion, and then a little down the line, upgrade the MTM areas. 
+
+After all, whats the alternative? Languish in the dark ages as the world passes us by?
+
+Summary:
+In FTTCs defence, I get 94/31 all the time.
+I get better on FttN, how far are you from the pit?
+The contracts are more than likely going to be an absolute mess which will be very hard to get out of.
+&gt; In FTTCs defence, I get 94/31 all the time.
+The only solution for the future is fibre.
+Go FTTP or go home.
+I think they'll have a hard time.
+Though I don't know how well that scales in the future.

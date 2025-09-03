@@ -1,0 +1,102 @@
+Original Response:
+For example, my current phone (HTC Touch Pro 2) apparently has a 528MHz ARM processor.  A few years ago my laptop had a ~500MHz x86 processor.  My phone runs a much lighter OS than my laptop did, yet it is at least three times slower than my old laptop at loading/rendering webpages.  Why is this?  I know the bottleneck is not the 3G network speed, because if I tether my phone to my laptop, webpages load very quickly.  Is the ARM architecture just that much less powerful?  Or is the chip simply designed differently (perhaps to maximize battery life in a phone)?  Perhaps this is not the right section for posting this, but I'd be very interested to hear any answers.  Thanks!
+Try loading pages from those few years ago when you had your laptop. 
+
+edit:added *when*
+I'm not quite sure what you mean.
+I wrote an explanation to a similar question [here](http://www.reddit.com/r/cansomeoneexplain/comments/c8wgb/cse_cpus/c0qx8oz).
+
+TL;DR: there's a whole lot to CPU technology than cranking up the clock rate.  Even with a comparable clock rate things like branch prediction and better caching give a more complex CPU a huge boost over a less complex CPU.
+
+Also, as PalermoJohn was getting at, you'd probably be surprised at a comparison of the work your laptop was doing years ago to run a desktop OS and the work your phone is doing now to run a mobile OS.  Android/iPhoneOS are not all that much lighter weight than a desktop OS a few generations old
+Both processors have around 500 million clock cycles per second, but different processor architectures will take varying numbers of clock cycles to complete similar tasks.
+
+ARM is a reduced instruction set architecture, whereas the modern x86 architecture has a huge number of instructions. 
+
+I don't know the specifics, but a floating point multiplication might take 2 clock cycles on one processor and 5 clock cycles on a different hypothetical processor.
+
+Another thing that makes a huge difference is the memory cache on the processor. Accessing cached data might take 5-10 clock cycles, accessing main memory can take hundreds of clock cycles. A processor with more cache will typically waste less time waiting for memory reads.
+Interesting.  I figured the fundamentally-different architecture had something to do with it, but I hadn't considered cache size.  I wonder how large of a cache a typical smartphone has.
+Thanks for the reply.
+
+Yeah, I do get that it's not as simple as raw clock speed (hence why my 2GHz Core2Duo is faster than my old 3GHz P4, and my girlfriend's 1.6GHz i7 is faster still).  I'm just wondering if there's anything specific that makes phones/ARMs so much slower.  Is it just that they're built to use less power?  Do they have fewer [something]s?  Or is it simply that they are less complex, as you said.  And whatever the case, what prevents such technology from making it into a phone?
+
+That's a good point about Desktop vs phone OSes.  I recall my 500MHz laptop running XP, and I wonder how much more complex XP is than WinMo or iOS/Android/etc.
+&gt; I'm just wondering if there's anything specific that makes phones/ARMs so much slower. 
+
+My guess is that branch prediction and caching are the two biggest.  Other than that, take a look at the zillion features that Intel had been advertising for their CPU's since the Pentium line came out.  I doubt that much of that tech has trickled down to the mobile space
+
+&gt; Is it just that they're built to use less power?
+
+Yes, performance sacrifices in favor of power consumption are the reason (along with physical die size to a lesser extent) for all of that fabulous missing tech.  Desktop processors can easily hit the 100-150W range in power consumption.  Your phone processor is likely somewhere around 500mW
+Makes sense.  Even if we're talking about laptop processors, they can consume 40W.
+
+I guess a positive is that we've sort of "started" over in terms of processor architecture, meaning once smartphone processors get good enough, maybe they'll be powerful enough to power a laptop?  (Kind of like how the A4 powers the iPad... but in a laptop and with a better OS.)
+Load a modern webpage on your old laptop and compare the speed to your mobile. Modern websites are more complex than the web pages of several years ago.
+Ah, that makes sense.  Unfortunately that machine bit the dust a long time ago.  But even simple sites that haven't changed in years (like Drudge Report, for lack of a better example) take a relatively long time to load, when compared to how I remember them all those years ago.
+
+Wish I could though!
+You also may have a web browser that's not as well-coded as that of your desktop.  Also your phone processor may be occupied doing things things with less ram than your PC did, which could cause VM swap slowness.
+Yeah, I'm sure the browser software, while Opera is in its tenth version, is not as mature as desktop browsers.
+
+Didn't think about VM swaps.  The phone only has 256MB which is considerably limited.
+[deleted]
+[Processor "speed" is not given by it's frequency](http://en.wikipedia.org/wiki/Megahertz_myth).
+Oh but you can =D There are tools that will consume your RAM and underclock your CPU [temporarily] to test stuff in low performance [a.k.a. old hardware] conditions. I can't quite find the website but they are all freeware.
+I'm amazed that no-one has mentioned available battery power, yet.
+
+The phone may have a 528mhz processor, but if it ran like your laptop did, you'd run out of power pretty fast.
+Indeed.  This was one of my guesses.  Another comment suggested that phone processors only consume ~500mW, whereas I believe laptop processors can use 40W, and desktop processors upwards of 100W.
+Interesting.
+
+My "worst" functioning laptop at the moment is a 1.6GHz Pentium M with 1GB of RAM and integrated graphics.  Maybe I'll try it out on that.
+Yes this is one of my assumptions in the OP, I was just wondering if there is any specific underlying difference in the architecture that causes this disparity.
+
+Other commentors have suggested it is due to weaker branch prediction and caching, designed to significantly reduce power consumption.  Let me know if you have any other ideas.  Thanks.
+LOL.  I don't know if that's necessarily the case.  I think the technology just does not exist for processors of that size and power consumption.  If it did, *someone* would make it.
+&gt; once smartphone processors get good enough, maybe they'll be powerful enough to power a laptop?
+
+No, because laptops processors are getting more powerful at the same rate that mobile phone processors are.  The two spaces will always be separate.  If anything there will eventually be more niches in between the two (such as the iPad).  Eventually phone processors of tomorrow will get as powerful as the laptop processors of today, but the iPhone's processor is probably already more powerful than those of older laptops.
+True, I guess I was referring more to that middle-ground (like how netbooks' processors are no better than those of yesteryear's laptops) than full-on laptops.
+Well, we'll probably *eventually* have enough power in small enough packages that the only practical difference between a phone and a laptop and a desktop is how big the screen and keyboard are.
+I doubt it.  When we have that much power in a phone-sized package we'll have proportionally more power in the laptop-sized package, and the phones still won't be able to do the crazy new stuff that laptops will.
+That would be another option, yes =P
+Caching does have a great impact, as well as [but not as important] the operating system itself. You'll find that a lot of phones have too much eye candy, and designed very poorly in efficiency terms. That eats the little resources the phone has. There are RAM and CPU management programs for Symbian, I assume there are too for Android or iPhone, so you can see what I'm talking about.
+
+In my experience, phones feel slower due to power restrictions, too much eye candy in the OS or unoptimized software, less RAM than optimal, and CPUs lacking in areas like cache, and yes, branch prediction makes sense too.
+
+I have a [Nokia 5530](http://www.gsmarena.com/nokia_5530_xpressmusic-2832.php), and with just a software update, it sped up, used less resources, and battery lasts longer. Software is crucial too. With its predecessor, Nokia 5800, the processor was overclocked to match 5530's [which was overclocked from the beginning]. It sped things a bit, but not enormously. There goes the megahertz myth, I mean of course it works, but having twice as many cycles per second doesn't make the computer [phone] twice as fast.
+
+The Nintendo DS. I can run Quake, Doom, even [Quake II](http://quake.drunkencoders.com/index_q2.html) but that does require extra RAM... but Quake 1, running on a system with FOUR MB of RAM.. again, software is crucial.
+True.  The software is still in relative infancy.  I just wish the developers had taken the time to "start from scratch", so to speak, in a way that achieved efficiency over eye candy.
+
+As soon as I bought my Touch Pro 2, I installed a custom ROM optimized for speed and lightweight-ness, and turned off all the TouchFlo eye candy.  It helps, but the underling OS is so creaky that the difference is not tremendous.
+
+Ha!  Funny to think that Doom could run on such a primitive system.  At least my phone can run that.
+My thoughts exactly.. I wouldn't let out to the public my OS if it makes the phone laggy.. it defeats the purpose of having "a computer in your hand" because... well it's barely usable like we would all like to.
+
+Yeah, same with my Nokia, I've optimized as much as I've been able to, but there really aren't many options for Symbian.. plus I'm not a coder so can't do it myself.
+
+And yes, it's [great](http://imgur.com/5MMHs.jpg) =D It loads WADs so it runs DooM, DooM II, and the expansions. Full FPS, but there's no music, only SFX. Quake rocks too.
+Wow, that's cool that it shows the map on the bottom screen.
+Yea, I like that too, it's very handy.
+One of the biggest constraints on mobile devices is battery life, many trade-offs have been made to conserve power.
+So while the processors may have the same raw clock speed, they are doing very different things in each cycle.  What would you identify as something fundamentally different about what these processors are doing?
+Hardware isn't really my bag, but some of the guys down the hall write a lot of papers on the topic. [Their lab's site](http://www.cse.psu.edu/research/mdl/default) has a section on "Temperature and Power Aware Systems". Most of what they're working on probably isn't in consumer devices yet, but should at least give you an idea of the extent to which researchers are concerned over the issues.
+Cool - I'll give these a look.
+
+Penn State eh?  I went to Susquehanna but took a few trips to Penn State, and have a friend from State College.
+
+Summary:
+Is the ARM architecture just that much less powerful?
+Another thing that makes a huge difference is the memory cache on the processor.
+I think the technology just does not exist for processors of that size and power consumption.
+Even if we're talking about laptop processors, they can consume 40W.
+I'm just wondering if there's anything specific that makes phones/ARMs so much slower.
+Load a modern webpage on your old laptop and compare the speed to your mobile.
+A few years ago my laptop had a ~500MHz x86 processor.
+&gt; I'm just wondering if there's anything specific that makes phones/ARMs so much slower.
+The phone may have a 528mhz processor, but if it ran like your laptop did, you'd run out of power pretty fast.
+So while the processors may have the same raw clock speed, they are doing very different things in each cycle.
+No, because laptops processors are getting more powerful at the same rate that mobile phone processors are.
+Is it just that they're built to use less power?

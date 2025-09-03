@@ -1,0 +1,19 @@
+Here is the extracted summary of up to 250 words:
+
+Remove miners' incentive to use AsicBoost covertly, and without segwit-activation, thus increasing global segwit adoption.
+
+Desuade the transfer of hashpower to the BCH chain, possibly re-uniting the eco-system to some extent.
+
+Saving electricity costs and show the derisive media / eco-nauts that Bitcoin can make strides for sustainability.
+
+This could be a prime use-case for the B Foundation *see below*
+
+The only downside I can see is reduction of the irretrievable sunk cost due to electricity expenditure, but please contribute if I am missing something.
+
+It would still achieve all the checkpoints above with liberation from the "Blockchain Patent Defense License"
+
+I'm still in favor.. I don't know the large mining pools well enough to know the leverage of their existing patents, but certainly securing this patent and open-sourcing, would still be beneficial.
+
+People mine on BCH because it is profitable for them, not because they can't use AsicBoost or because they believe in "satoshi's vision". It is profitable for as long as the BCH propagandists can maintain the cult following.
+
+The BDPL is the right way forward for promoting innovation.

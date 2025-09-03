@@ -1,0 +1,13 @@
+Here is the extracted summary:
+
+The speed of light in the fiber optic cables, or the speed of the transfer rate of electrons in the electrical wire.
+
+Most long distance communications (such as between servers or overseas are over fiber optics, because it’s faster and cheaper.
+
+Short distance communications, such as through HDMI cables, are via electrons.
+
+Would that be the case for WiFi and cellular as well?
+
+Luckily it travels at the speed of electricity (~2/3 speed of light) rather than the speed of electrons (tens of millimeters per hour)
+
+The electric field propagates significantly faster than electrons drift

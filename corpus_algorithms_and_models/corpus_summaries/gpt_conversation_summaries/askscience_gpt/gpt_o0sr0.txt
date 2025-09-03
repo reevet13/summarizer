@@ -1,0 +1,15 @@
+Meteorologists get a bad rap because many people don't realize that there are a dozen TYPES of them out there! Other than the [four types pointed out in this NASA definition](http://science-edu.larc.nasa.gov/EDDOCS/meteorol.html), there are the more rare breeds, such as Forensic Meteorologists that apply weather to court cases, and Historical (or Archival) Meteorologists that attempt to determine the weather's likely conditions and [impact in the context of specific past events](http://www.accuweather.com/adc2004/pub/products_services/forensics.asp).
+
+In other cases, it's life and death... you know those Storm Chasers? Not the rash of YouTube / TV reality ones, but the pros that work for the [National Severe Storms Laboratory](http://www.nssl.noaa.gov/)? If you're a poor one, you're a dead one.
+
+A close friend of mine works as a meteorologist in Australia.  If I recall correctly, there are 6 separate computer models that predict Australia's weather.  Part of the human's job is to compare the different computer models to see which is the most likely outcome - they can be very different.
+
+Meteorologists still do quite a lot.  The field of meteorology is very broad and covers everything from forecasting to tropical storm research to space weather research.
+
+A forecaster must be familiar with those strengths and weaknesses and how they apply to their region.  In some areas of the globe, one model may get rainfall correct in specific conditions, but fail miserably in other conditions.  It is the forecaster's job to assess the current conditions based on ground station observations, satellite products, etc. and build a forecast based partially on the models, but also partially on their knowledge of local meteorology and their intuition.
+
+Beyond this, though, there are many atmospheric phenomena that our models are poor at or even incapable of forecasting.  Volcanic ash plumes would be a good example of this.
+
+While it is approximately true that *television* meteorologists often rely solely on computer-generated forecasts -- research meteorologists (atmospheric scientists) are constantly striving to improve the accuracy (spatial and temporal) of forecast models for a variety of phenomena.
+
+Operational meteorologists are responsible for issuing severe weather warnings. They interpret satellite and radar images to determine where/how quickly storms are moving to issue watches and warnings in the correct time fame. They also work with emergency management crews ahead of big weather events to prepare them for what they should expect

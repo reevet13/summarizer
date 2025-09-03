@@ -1,0 +1,11 @@
+I don't mean to be unhelpful and dissuasive, but if you're coming to Reddit for help for this *very* important feature of your bike, are you sure you have the expertise to be doing this? 
+
+If it must be done, perhaps going to a motorcycle auto-shop and asking them would be a better idea. Or perhaps asking to look at one of the brakes they sell.
+
+So in consideration of your stated goal:  *"for a lesser cost than the existing hydraulic ones"* I have to say that if you are talking about front brakes this is a terrible idea and if you are talking about rear brakes it's suboptimal. Doing something suboptimal on a critical safety system because it is cheaper is not smart.
+
+Also you should try the motorcycle subreddit... but I would not expect them to be really enthusiastic unless you can state your requirements more clearly and using more detail.
+
+I believe the reason hydraulics are used is they are the most cost effective, if there was a cheaper option it would be widely used due to economic pressures.  But if you can figure this out the patent would be worth a fortune.
+
+Try rigging up something like they use for drum brakes, which basically amounts to a ratchet preventing the shoes from releasing too far back from the drum.  Seems like the logical place to start, anyway.

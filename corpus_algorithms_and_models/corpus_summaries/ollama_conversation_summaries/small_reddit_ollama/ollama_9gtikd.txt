@@ -1,0 +1,26 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Competition: UEFA Champions League - Group Stage
+Venue: Anfield, Liverpool
+Referee: Cüneyt Çakır (Turkey)
+Time: Tuesday, 20:00 BST / [Convert to local time](https://www.wolframalpha.com/input/?i=20:00 BST)
+
+> #1|Team|P|W-D-L| GF-GA|Points | 
+> :---:|:---|:---:|:---:|:---:|:---: 
+> 1.|[](#sprite1-p35) PSG | 0 | 0-0-0 | 0-0 (0) | 0
+> 2.|[](#sprite1-p75) Napoli | 0 | 0-0-0 | 0-0 (0) | 0
+> 3.|[](#sprite1-p3) Liverpool | 0 | 0-0-0 | 0-0 (0) | 0
+> 4.|[](#sprite1-p165) Red Star | 0 | 0-0-0 | 0-0 (0) | 0
+
+Possible Line-Ups:
+[](#sprite1-p3) **Liverpool (4-3-3):**
+Alisson;
+TAA, Gomez, Van Dijk, Robertson;
+Milner, Henderson, Keita;
+Salah, Firmino, Mane;
+
+[](#sprite1-p35) **PSG (4-3-3):**
+Areola; 
+Meunier, Silva, Kimpembe, Bernat;
+Rabiot, Marquinhos, Di Maria;
+Mbappe, Cavani, Neymar;

@@ -1,0 +1,90 @@
+Original Response:
+I understand delivery would be a bit complicated but is there any way this could work? The last person on Earth thread made me think about the repopulation issue.
+Do you mean carry as in have an already fertilized human egg implanted, to provide all the nutrients it needs and successfully deliver the child?
+I'm pretty sure that's what he means, I'm very interested in the answer.
+Yes.
+[deleted]
+Would there be any possible way to simulate the proper hormones to the point of viability? Drugs and such?
+Well here is the thing.  We can give drugs that are structurally similar to our hormones called an analogue.. but without the proper receptor for it, proper response from an activated receptor, and furthermore the correct genetic translation.... it still won't be effective.
+No it is not possible for a human-chimp hybrid or a chimp carrying a human embryo for several reasons. Additionally, human-chimp hybrids are not attempted for moral and ethical reasons. 
+
+1. Despite sharing so much DNA our chromosome numbers are different. This makes successfull hybridization very difficult in mammals (not so difficult in plants) "Human and chimpanzee chromosomes are very similar. The primary difference is that humans have one fewer pair of chromosomes than do other great apes. Humans have 23 pairs of chromosomes and other great apes have 24 pairs of chromosomes...There are nine other major chromosomal differences between chimpanzees and humans: chromosome segment inversions on human chromosomes 1, 4, 5, 9, 12, 15, 16, 17, and 18.". This means that a human-chimp hybrid would be very difficult to create, likely the embryo would fail to live/be created. Even if it were created, it would likely be sterile.
+
+2. There is no way a chimp could give birth to a human baby or vice versa - our anatomy and physiology is too different. The birthing canals of both species are very different. Humans, due to bipedalism have a very narrow birthing canal, this makes labour very difficult, even for humans. On top of this, human babies have very large heads making it difficult for them to pass through the birth canal.
+
+3. Gestation times are different. Chimpanzees - "They give birth about every three years, after a gestation period (time between fertilisation of the egg and birth of the baby) of 7 or 8 months.". Humans are closer to 9 months. If a chimp were to house a human embryo it would be born much to early.
+
+4. Hormonal/internal triggers would probably not allow for the proper development of the fetus. This also relates to gestation length. Additionally, it would be very likely that the human fetus would be "seen" as a foreign object in the chimp uterus and would be attacked by the host bodies immune system. Even a hybrid embryo could be subject to an immune system attack by the host species if it did not display the correct protein markers.
+
+Successful (the offspring are fertile) hybridization evens occur when species are more closely related. Humans and Chimps are not even in the same genus. Genus - Genus matings are extremely rare.
+Horses and Donkeys do have different numbers of chromosomes and the majority of the time their offspring is infertile. However, donkeys and horses are part of the same genus Equus. "Horse-donkey hybrids are almost always sterile because horses have 64 chromosomes whereas donkeys have 62, producing offspring with 63 chromosomes. Mules are much more common than hinnies. This is believed to be caused by two factors, the first being proven in cat hybrids, that when the chromosome count of the male is the higher, fertility rates drop (as in the case of stallion x jennet). The lower progesterone production of the jenny may also lead to early embryonic loss." - From the wiki article on mules.
+Also, implantation of the embryo in the uterine wall is a very complex process so I don't even think it would implant.
+It had been attempted in the past by Ilya Ivanovich Ivanov. He was unsuccesful. For more information, see [his wikipedia page](http://en.wikipedia.org/wiki/Ilya_Ivanovich_Ivanov_%28biologist%29) and the page on [humanzees](http://en.wikipedia.org/wiki/Humanzee).
+1. Hybridization is not what OP was asking about
+2. Birthing wouldn't be possible but surgery could be an option in that regard. 
+3. Gestational difference of one month is not so significant that this would rule out proper development, though I don't know exactly how the hormones differ. 
+4. A fetus is always foreign, due to differences in MHC molecules. There are various safeguards at the placenta to ensure the fetus isnt recognized and attacked by the mother's immune system.
+For the sake of the argument: regarding point 1, I thought we were talking about in vitro fertilization with human sperm and human egg, and then implanting a human embryo in a chimp's womb. Forget the hybrid problems, the question is about human embryo. regarding point 2, let's assume Cesarian section technology is available for this perverse thought experiment. regarding point 3, 8 months is not much too early, it's not ideal, but it certainly produces thousands of normal human offspring each year (risk of abnormalities, but can be normal).        
+       
+regarding point 4. This is the meat of the biological question here. Can you give examples of the hormonal differences? Aren't there special mechanisms in the uterus to prevent rejection of the baby that would likely have different self-markers than the mother? Obviously the human chimp difference is vast compared to the difference between mother and offspring, but is the womb a safe haven and the blastocyst relatively inert immunologically? Please someone tell me what is known about mechanism of embryo rejection if that occurs in humans. Thanks
+As I understood it, the OP was not asking if one could successfully mate a chimp and a human. He asked if a chimp could carry an already fertilized and fully human embryo to term.
+Yes - I understood that too. But for the sake of giving some extra information regarding a possible hybrid (another question which appears almost daily on /askscience) I thought the OP would also be interested in learning about hybridization as well as implantation.
+
+I was just trying to give a little extra information on the topic in a broader sense sorry if it confused you.
+Yes - I understood that too about point 1, but for the sake of giving some extra information regarding a possible hybrid (another question which appears almost daily on /askscience) I thought the OP would also be interested in learning about hybridization as well as implantation.
+
+I was just trying to give a little extra information on the topic in a broader sense sorry if it confused you.
+Yes - I understood that too about point 1. But for the sake of giving some extra information regarding a possible hybrid (another question which appears almost daily on /askscience) I thought the OP would also be interested in learning about hybridization as well as implantation.
+
+I was just trying to give a little extra information on the topic in a broader sense sorry if it confused you.
+[deleted]
+OK. Hope we get some follow-up if anyone knows more about the details of the possible hormonal incompatibilities and immunological rejection issues (or anything else specific like known differences in the implantation mechanisms between humans/chimps, etc.). I'm afraid that I sound wayyyy too curious about this :)
+Serious question, Down syndrome + chimp.  Same number of chromosomes.  Could you make a hybrid?
+
+ps op never asked about a hybrid, just carrying.
+As best I can tell this is a real possibility. Although I'm not aware of any experiments involving humans or chimps, interspecific pregnancy is an actual thing that has potential applications in rescuing endangered species or as an alternative to a surrogate mother. 
+
+Compatibility of the two species has to do with what type of placenta is produced. Humans and higher-order primates have hemochorial placentation, which means the mothers blood is in contact with the chorion. As such, there is more down regulation of the immune response (if you want specifics as to the mechanisms by which the placenta is made an immunologically privileged site, I can provide them). Since there is more down regulation of the immune response, it makes for a more hospitable environment for a xenopregnancy. So yes, ethics aside, I think a chimp could carry a human fetus. 
+
+[wikipedia article on interspecific pregnancy](http://en.m.wikipedia.org/wiki/Interspecific_pregnancy)
+Does there exist a mammal with 23 chromosomes which could be a potential mate for a human hybrid? I assume the answer is no due to the sheer complexity of hybridization, at least if you want a successful offspring. 
+
+Could you expand on some of the other hybrid animals which have been bred (or bred themselves in the wild) such as Ligers, Tigrons, and Zorses? To my knowledge all of these are capable of producing viable fertile offspring. 
+
+One last question. Through gene manipulation would it be possible to engineer a human -great ape hybrid, such as engineering a Bonobo to carry human chromosonal traits? And if that could be done would it then be possible to have cross breeding? 
+
+I have always been interested in this topic, mainly from the standpoint of wondering what we are capable of doing in terms of gene manipulation at this point in time.
+[deleted]
+[deleted]
+No. The USSR attempted this. It was creepy.
+
+http://en.wikipedia.org/wiki/Humanzee#The_Ivanov_experiments
+
+We won't need to repopulate humans. Don't worry too much about it. If we get down to the last man, it'll just be our time.
+It's not the same number actually. Down's patients have one extra chromosome while chimps have another pair.
+
+Either way, the important thing is not so much the number of chromosomes as it is the information on them - which is not matching here either.
+It would be like a Mac trying to run a linux prgram. Yes, computers all share much in common, but the finer details would crash the whole thing.
+if a research lab was to do breeding on bonobos to create the smartest bonobos, after how many generations would the bonobo be able to understand sign language easily, and be able to be a maid in a middle-upper income class family?
+Actually this is incorrect, since OS X is based on (real, certified) Unix and is very Linux like (Linux is Unix like but not real Unix).
+
+The GUI stuff differs, but if you have a CLI program you can probably run the Linux version on OS X. You *might* have to install some extra packages of course, but that could have happened had you been in Linux.
+Ahh yeh, chromosome vs chromosome pair.  Yeh I knew the info didn't match up.
+The way you put it made it seem like a definite no, when in reality it really is up for debate. Your initial claim was very misleading to me (especially since your reasons were either not what the OP asked or exist as problems with humans also who are born early/born without vaginal exit).
+The reason why it is a no extends beyond physiological reasons...it goes into the realm of moral and ethical ones. Which is beyond the scope of r/askscience in general. Sorry to speak in absolutes I realize that science does not lend itself to that - however given all the evidence we have today (morphological incompatibility, genetic incompatibility, the fact that the birth if their was one would need medical aid, the resulting offspring would be infertile if it was a hybrid, the likelihood of the rejection of the fetus/implantation, probability of hormonal and gestational differences), and previous unsuccessful attempts by one russian "scientist", the answer lends itself to "no" rather then "yes"
+Mac program on Windows?
+
+Summary:
+Could you make a hybrid?
+Humans and Chimps are not even in the same genus.
+Yes - I understood that too.
+Yes - I understood that too about point 1.
+As I understood it, the OP was not asking if one could successfully mate a chimp and a human.
+Hybridization is not what OP was asking about
+2.
+The birthing canals of both species are very different.
+No it is not possible for a human-chimp hybrid or a chimp carrying a human embryo for several reasons.
+Forget the hybrid problems, the question is about human embryo.
+Even if it were created, it would likely be sterile.
+So yes, ethics aside, I think a chimp could carry a human fetus.
+If a chimp were to house a human embryo it would be born much to early.

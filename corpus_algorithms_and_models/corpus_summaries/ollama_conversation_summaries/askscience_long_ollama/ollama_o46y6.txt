@@ -1,0 +1,10 @@
+Here is the summary:
+
+I had this simple contraption that I am having a hard time remember if it actually worked.
+My current hypothesis is that it comes from the heat of the water, and that as water goes through capillaries it cools down as it rises.
+The energy that would turn the pinwheel is from the gravitational potential energy of the vat of water.
+You'd notice that it would stop dripping if the water level got near the same height as the waterlevel in the vat. (Discounting evaporation)
+This is, at the atomic level, the energy released by water molecules hanging out with cotton fiber molecules rather than nothing/air.
+Capillary action isn't totally free energy either: it can only pull water a limited height up the string.
+So your machine will spin as long as your string rises less than a certain height above the dropping surface, and until the water level falls to the length of the dangling end.
+This is one of the perpetual motions that could *appear* to work.

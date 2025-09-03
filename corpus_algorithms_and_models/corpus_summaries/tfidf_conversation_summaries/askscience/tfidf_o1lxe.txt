@@ -1,0 +1,14 @@
+Original Response:
+Yes.  Photons emitted in the microwave bounce around for a while if they don't hit a water molecule, so putting a second one in means the first gets less exposure.
+When you heat something, you're giving it (thermal) energy.  If you double the amount of stuff you want to heat, you have to double the amount of energy spent.  This can be accomplished by increasing the power (energy per time) or increasing the time.
+In fact, if you have a good microwave, it should take 2x as long. 
+
+I'm not sure if you are interested in all of the physics of how a microwave works, but the simple answer can come from conservation of energy. The microwave oven emits light waves that in the frequency wavelength of the microwave band (about 5 inches long... much longer than the visual spectrum of light), and these microwaves have energy. The energy of the electromagnetic wave is turned into heat, aka your food is warmed up. If you have more food to warn up, it is going to take more heat, and thus more energy, and thus more microwaves, to heat it up. 
+
+If you want the details, the microwave works on dielectric particles (of which water is the most common, leading to the misconception that microwaves can only heat water, when in reality it can heat any polar substance, like fat or sugar), which are more positive on one side and negative on the other. As the microwave passes by the polar particle, the oscillating electric field of the wave causes the particle to flip, creating friction, which leads to heat. However, every time the microwave interacts with a particle, it loses a little energy (the wavelength gets a little longer) and becomes less efficient at heating. 
+
+The reason I said with a good microwave it should take 2x as long is because a good microwave will be reflective on the inside, and the microwaves will be bounced around until they are absorbed.
+Energy in = Energy Out. A microwave only has so much energy to use to cook food. If you put twice as much food in there, the Energy the microwave has to use is split between the doubled amount of food.
+
+Summary:
+A microwave only has so much energy to use to cook food.

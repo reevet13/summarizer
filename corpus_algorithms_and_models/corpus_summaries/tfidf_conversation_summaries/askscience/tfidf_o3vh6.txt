@@ -1,0 +1,53 @@
+Original Response:
+I get that light is additive while pigments absorb light, but wouldn't a wave of blue light reflected off a pigment in the end be the same thing as a blue light source? 
+
+EDIT:  It may be better to think about my question in wavelengths instead of colors, since colors really don't exist and are just illusions of our brains.  So are primary colors.
+To your eye it's the same, but a green wavelength of light can be very, very different than a mixture of blue and yellow light sources. From a science point of view, one is a single pure frequency while the other is a combination of several frequencies which *average* to the one you see.
+
+
+Adding lights together is [additive](http://en.wikipedia.org/wiki/Additive_color) - that is, the baseline is black and as you add lights, the colors approach white.
+
+
+Mixing paints together is [subtractive](http://en.wikipedia.org/wiki/Subtractive_color) - that is, the baseline is white and as you add ink, the colors approach black.
+
+
+This seems strange, but is actually quite logical. Look for similarities - in both color wheels, the rainbow follows its' usual order. The part that trips me up is why colors use the primary (RGB) while pigments use the secondary (CYM). Anyone have a good explanation for that part? (Edit for formatting)
+It sounds like you are on the right track.  As all the frequencies of visible light are added together, we see this as white.  Pigments work by absorbing light except the frequencies for whatever color they represent.  Keep adding more pigments and eventually you get black, because it is trying to absorb all the frequencies of light.
+&gt; The part that trips me up is why colors use the primary (RGB) while pigments use the secondary (CYM).
+
+Because of the additive and subractive factors you have mentioned. Cyan, magenta and yellow are are the respective complements of red, green and blue; ie, W - R, M = W - G and Y = W - B, where W is white. For example, red is made as M + Y, which subtracts both green and blue from white, leaving red. This makes it easy for your laser printer to convert from the colours on your RGB monitor to similar-looking colours on paper.
+[deleted]
+The primary colors really have no basis in fundamental science, but rather how our brains/eyes interpret colors.
+Right, but after the pigments absorb colors, not-absorbed ones are still reflected.  Why don't those reflected wavelengths compound/average like additive colors do?
+[Maybe a picture would help explain what I'm imagining...](http://i.imgur.com/wuk7B.jpg)
+Right, and I get that.  My turn: http://i.imgur.com/XsNFM.png
+Compare the two colors #ffff00 and #555500. Both have the same hue, but the one is bright yellow and the other is a baby-vomit brown.
+
+
+I wish I had the time to put it into a JPG again, but I'm guessing the brown in your image can also be thought of as a very dark yellow.
+But that's not what "brown" is; brown is just your brain's interpretation of a mixture of red and greed wavelengths.  Let's just talk about pure wavelengths of light.
+I may be wrong, but I believe mixing two pigments causes a mixture of wavelengths to reflect from the "brown" surface. If we put a red and green filter over a stage light, the result would not be brown light - the result would be nearly nothing.
+If the light was bright enough, you'd get yellow.  http://micro.magnet.fsu.edu/primer/java/primarycolors/colorfilters/index.html
+
+I understand that a mixture of wavelengths reflect from the brown surface, but why don't those different wavelengths combine like they do when you have two red/green lights?
+They do - the only problem is, I'll bet there's a lot of cross-absorption. That's probably what's causing the brown to come out instead of yellow - it's the lumosity.
+
+
+Instead of thinking of the red and green pigments as tiny, separate pieces, think of them as tiny filters. A light beam has a good chance of striking not one, but several filters before emerging to our eye. This causes the overall absorption to go down (because each filter is absorbing a lot of the other's reflected rays) and causing brown to be seen instead of yellow.
+
+
+[Here's a quick image.](http://i.imgur.com/LNc7W.jpg)
+But brightness has nothing do with it.  No matter how bight of a light i shine at brown paint i made from mixing red and green, it's not going to turn yellow.
+In that last image I just demonstrated how reducing luminosity makes yellow turn brown. Notice how brown does not exist in the rainbow? That's because it's actually a yellow-orange hue with low luminosity.
+
+
+The [Wikipedia page for "Brown"](http://en.wikipedia.org/wiki/Brown) clears this up nicely.
+
+&gt; In terms of the visible spectrum, "brown" refers to high wavelength (low frequency) hues, yellow, orange, or red, in combination with low luminance or saturation.
+
+Summary:
+Right, and I get that.
+Right, but after the pigments absorb colors, not-absorbed ones are still reflected.
+Why don't those reflected wavelengths compound/average like additive colors do?
+Both have the same hue, but the one is bright yellow and the other is a baby-vomit brown.
+As all the frequencies of visible light are added together, we see this as white.

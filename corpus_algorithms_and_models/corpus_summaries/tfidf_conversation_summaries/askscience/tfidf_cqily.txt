@@ -1,0 +1,112 @@
+Original Response:
+Sorry if this is a double post, askreddit didn't give me anything except one down vote. Here we go....
+
+I'm a huge science nerd. I'm sorry to say I didn't peruse an education, or employment in science. I'm a banker. I went where the money was, and I wish I could take that back and do something I have an actual passion for. I've read a lot of books (brief history of the universe, the greatest show on earth etc...), and I watch a ton of science documentary, however I have no mathematical understanding of physics or quantum mechanics. My questions is: Why do ideas, or theories need to be backed by mathematical equations?
+The world of the really small(atoms), and the world of the really big(planets) doesn't currently fit into one unified theory...is it possible that math just can't join these two. Why do theories need to be proven mathematically to be taken seriously. This might be a stupid question, but like I said I have no formal training in this....thanks Reddit!!!!! HI MOM!!!!!! 
+
+
+
+**edit:** To expand on what I was trying to say, take the speed of light. We can't travel faster than light, because as our speed nears light, or mass increases causing energy approaching infinity to power us to keep on accelerating. This is just what the equation tells us, but how do we know it's true.....since no one has ever gone near the speed of light?
+[deleted]
+Let me answer your question for you.
+I allow, :P
+I view math as the language of science.   You could learn a lot about Japan by reading books about it in english but if you learn Japanese think about how much more would be open to you if you learned the language.
+It's kind of like sex with an older woman. You're not exactly sure who you're with or where anything is, but it feels good.
+That's it, I'm going to 4chan with this question.
+I am working on this, as I learn more about everything, I question everything, including learning complex math that defines physics and QM...unfortunate for me I have a family and a full time job thus my furtherer education takes a back seat to my life.
+&gt;This is just what the equation tells us, but how do we know it's true.....since no one has ever gone near the speed of light?
+
+But it is relatively (pun intended) easy to get particles up to near the speed of light. Special relativity is an incredibly well-tested theory.
+Ag you win.
+&gt; edit: To expand on what I was trying to say, take the speed of light. We can't travel faster than light, because as our speed nears light, or mass increases causing energy approaching infinity to power us to keep on accelerating. This is just what the equation tells us, but how do we know it's true.....since no one has ever gone near the speed of light?
+
+At colliders, particle physicists frequently accelerate particles to ~0.999 999 99c and observe the expected longer life-time of the  particle's delay time.  It has a sound theoretical foundation with lots of experimental tests.  See muon lifetime or other experimental validations [1](http://en.wikipedia.org/wiki/Time_dilation#Experimental_confirmation).
+Maybe I'm not the person to comment on it since I find most of that stuff pretty baffling myself. I'd say if you can learn enough math to understand the equations qualitatively you'd be doing better than most, to keep with the metaphor it would be like learning to read Japanese but not speak it.  Myself, I can read a fair amount and have learned how to ask where the bathroom is :)
+I believe I've read an article by a prominent scientist (unfortunately I don't remember who it was) who pointed out that we don't really have any proof that all of the universe's physical laws can be expressed in succinct mathematical terms; it's just that we've had such spectacular success with that approach so far that we might as well keep trying to find them, at least until someone comes up with something better.
+Science is the assumption that universe follows rules.  The ball that I throw in the air isn't following the whims of sky gods or wind spirits, but instead is interacting with gravity and air according to predictable and repeatable physical rules.
+
+To express those rules, math is the language of choice.  
+
+Now, science doesn't *have* to use math...the same concepts could be expressed verbally.  It is just that math is more concise and precise than the written word, and makes doing science a lot easier.
+
+Your observation about the speed of light is an important one.  We often don't know how "right" the equations are.  Many are just reflections of our observations, but a special few reveal hidden truths.
+
+That's why we do experiments, so see which equations hold up.  In this respect, Einstein's relativity was a tremendous success.  His theory made outrageously specific predictions that could not be confirmed until decades later.  But confirmed they were...we can observe time dilation in aircraft, and relativistic mass in particles travelling near the speed of light.
+
+So why do we care about make the big and the small meet up?  Because they say different, conflicting things about the universe.  For the most part, the each play on their own side of the fence, but there are few areas where the don't quite agree.  We want to know which one is right.  
+
+And we believe knowing will lead us to a deeper understanding of the universe, which in turn will let us do more cool stuff.  I know I have waited long enough for my flying car.
+Just to clarify, are you saying why do experimentally-sound theories need mathematical backing, or why do theories in general need mathematical backing?
+If you have the time (it's a hefty tomb), read *[Gödel, Escher, Bach: an Eternal Golden Braid](http://prelectur.stanford.edu/lecturers/hofstadter/bibliography.html)* by Hofstadter.
+
+It is not directly related to your question.  But I found it very helpful in reconceptualizing what math is, and what math does.  Which I think is the source of your frustration.
+
+Also, check this out: [Free Video Lecture Podcasts From Top Universities](http://education-portal.com/articles/Free_Video_Lecture_Podcasts_from_Top_Universities.html)
+The way I tend to describe it is to say that the math goes loony. It's an asymptote.
+Meh.  High energy physics has gone so far beyond daily experience that it's just not as viscerally fun as it once was.
+
+Back almost twenty years ago (oh. my. god.) I had to give a presentation on the history of cyclotrons (particle accelerators) for a nuclear chemistry class.  I stumbled across a book that was a collection of tales told by early pioneers in the field.  Possibly apocryphal, probably embellished, but none the less highly entertaining.
+
+As I remember one of them: at one of the early cyclotrons that was able to accelerate particles to near-light-speed (Fermi lab?), someone got bored and wondered what would happen if they put an aluminum rod in the path of some these high energy sub-atomic particles.
+
+In the first trial of the impromptu experiment, the rod was placed on some make-shift stands to hold it in what would be the beam path when they extracted some particles from the cyclotron.  They released some particles at it, and the rod shot across the room, and fell to the floor.
+
+In trial 2, they affixed the rod to more solid stands.  The rod, with stands attached, shot across the room, and fell to the floor.
+
+In trial 3, they affixed the apparatus to a table.  The table was knocked over onto the floor.
+
+Finally, the attached the stands and rod to a massive stone block.  The sub-atomic particles were released, and the rod... melted.  Rapidly.
+
+Math is all well and good, but it's just not nearly as engaging as tales of liquefied aluminum rods.
+[deleted]
+&gt; Science is the assumption that universe follows rules.
+
+Science is a lot more than that. It also encompasses ideas on how to treat evidence, and the requirement that any theory must be falsifiable to possibly be scientific. Both on the end of being able to do something that could falsify it, and at the end of the theory being specific enough.
+&gt; To expand on what I was trying to say, take the speed of light. We can't travel faster than light, because as our speed nears light, or mass increases causing energy approaching infinity to power us to keep on accelerating.
+
+Your mass doesn't really change. Mass can be defined as being the energy of some system as seen at zero average speed, it is constant over speed by that definition. But yes, the amount of energy increases to infinity at the speed of light. (Note that the gravitation of an object also depends on the speed of that object, but *not* exactly according to some mass increase.)
+
+&gt; Why do ideas, or theories need to be backed by mathematical equations?
+
+As others said, the equations are really just statements, where formalism has replaced the (much) more cumbersome words which to boot can be used in more vague ways too.
+
+Things need to be mathematically proven because otherwise we wouldn't be sure they're true!(/consistent.. truth depends on your axioms..) :) Similarly for theories needing to be experimentally tested. It is also needed to make sure what we're doing is falsifiable. And for students its training.
+
+&gt; is it possible that math just can't join these two
+
+I don't know, but as i said, math is just statements made in a formal way. Afaik there isn't a system for formalizing any sort of statements. However, i see no reason that anything not endowed with ambiguity(as languages are often) wouldn't be formalizable. If inability to formalize the problem is inpossible in modeling the universe, we probably can't speak about it unambiguously, and subsequently can't do science on it, because we can't make predictions to agree on. It would be more like mysticism, than science.
+
+Another way it might not work out mathematically, is that one can make statements, but they're not mathematically tractable. I thought about one for a while; the Geodesic equation follows out of variational principle of an integral that can be seen as a action(a version of the [action principle](http://en.wikipedia.org/wiki/Principle_of_least_action)) one could see the amplitudes of these being exp(iS/hbar).(Similar to some relativistic GR ithink) Seems to me one of the more obvious approaches to QM GR, but intractible, also, it leaves the metric out of it a bit.
+
+Lastly a warning about documentaries.. Some are plain bad.
+I know TV isn't the best way to sit this information in, normally I watch TV with my wife, who can't enjoy reading a book with me. Even then she still finds the documentaries I watch boring, but at least she sits next to me. My favorite thing to watch right now it 'into the universe', which seems like a super dumbed down 'brief history', I also enjoyed through the worm hole which seems to be the exact same information just formatted different. Is there anything in video format that you would recommend?
+That reminds me of the story of the guy who accidentally put his head in the path of a high-energy particle beam.
+
+Aha, [here](http://en.wikipedia.org/wiki/Anatoli_Bugorski) is his story!
+The second lecture of Microsoft's Feynman lectures is "The Relation of Mathematics and Physics".  Might be worth checking out,
+
+http://research.microsoft.com/apps/tools/tuva/index.html#data=4%7Cd71e62e2-0b19-4d82-978b-9c0ea0cbc45f%7C%7C
+&gt; since no one has ever gone near the speed of light?
+
+Since we require a microscope to see individual bacterial cells, are you suggesting that we can't know they're really there?
+
+Do you think it's necessary to *personally lift* an elephant in order to estimate its mass? Or could we make use of equipment and inference in order to get a more accurate estimate than we'd ever get even if we could personally lift one?
+
+Do I have to outrun a bird in order to compute its flight speed?
+
+Can you see that I can make observations using equipment (such as that of particles travelling near the speed of light) and infer that in fact increase in mass and slowing of time *do* actually occur?
+Thanks for this, this is amazing. Could it be that there was so much radiation that the affected cells just plain died rather than becoming cancerous? Somewhat like a bullet that magically left all the tissues in place?
+
+Summary:
+&gt; since no one has ever gone near the speed of light?
+Science is a lot more than that.
+&gt; To expand on what I was trying to say, take the speed of light.
+This is just what the equation tells us, but how do we know it's true.....since no one has ever gone near the speed of light?
+**edit:** To expand on what I was trying to say, take the speed of light.
+&gt; edit: To expand on what I was trying to say, take the speed of light.
+&gt;This is just what the equation tells us, but how do we know it's true.....since no one has ever gone near the speed of light?
+I view math as the language of science.
+&gt; Why do ideas, or theories need to be backed by mathematical equations?
+Your observation about the speed of light is an important one.
+My questions is: Why do ideas, or theories need to be backed by mathematical equations?
+It is also needed to make sure what we're doing is falsifiable.

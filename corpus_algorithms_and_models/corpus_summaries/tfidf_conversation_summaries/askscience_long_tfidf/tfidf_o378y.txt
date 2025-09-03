@@ -1,0 +1,40 @@
+Original Response:
+Was skiing today, and a friend and I were wondering how they make the steel cable into a complete loop. We didn't notice any particular joint while watching the cable for a while, though we could certainly have missed it. Also relevant, what are these things made of, specifically?
+[deleted]
+Unwrap the strands that make up the ends of the rope, for a couple of meters on each end.  Cut off half of the strands from each end.  Wrap the remaining strands together to form one same-thickness rope again.  Weld the ends.  The strength is mainly in the friction of the strands being wrapped around one another.  If the splice is long enough, the frictional forces can be stronger than the regular strength of the wire rope.
+
+If you notice a painted spot on the ski lift cable, that's the join.
+If you watch the ski lift episode of World's Toughest Fixes (great show, on Netflix streaming), you can see the guy do this.  There are only a handful of people in the world that know how to do this.
+
+It isn't widely practiced anymore, but in the age of sail, every ship would have a few sailers capable of [unbraiding rope and splicing it into a loop, without a knot.](http://en.wikipedia.org/wiki/Rope_splicing)  You can google "rope splicing". This is the same thing, using much more rigid cable, plus welding.
+[Mythbuster bit](http://youtu.be/hOt-D_ee-JE) about said friction
+Having a great amount of respect for the sailing community, and as an amateur crewman myself, this article was awesome! I had always known a great amount of knowledge/experience went into being a successful captain or other advanced crew member, but this article really got into the details of a very specific task. 
+
+Thanks!!!
+Think of something similar to [this](http://constructionmanuals.tpub.com/14251/img/14251_130_1.jpg), but with wire and many many more strands.
+[deleted]
+I've assisted with a cable splicing not long ago. It's just spliced together over a long section. Generally depending on the length of the lift it may have come in 2 or 3 sections (ours was 2 I believe). There are a handful of specialists in North America who perform the task. I think there may only be 1 guy running a small business who services western Canada. [Here](http://en.wikipedia.org/wiki/Chairlift#Rope) is a brief on the cables materials. I wish I had asked more questions while working on it to help you! The whole procedure of taking the cable off a tower, splicing, removing and replacing is really interesting and while it may seem complex, the systems for doing so are surprisingly simple.
+I shared a lift with a ski lift cable engineer who told me ski lift cable splices run almost the entire length of the cable. I think this is consistent with your explanation.
+Your question has already been answered in prior replies, but I wish to share a bit of what I know about cables to earn upboats.
+
+There is some subtlety to cable design principles that are particularly important to the application of lifting skiers up a hill. For one, lift cable strands are twisted. This twisting of strands around each other does two things. 
+
+Firstly, when the cable is wrapped around the bullwheels (huge pulley wheels at the ends of a chairlift) the twisted configuration places each strand sometimes closest to the center of the bullwheel and sometimes at the furthest radius to the center of the bullwheel. In a sense, if you were to lay a cable straight and paint a single strand a bright color, you'd see it transcribe a mild sinusoid across the bundle, oscillating from one side to the other. This twist period must be shorter than half the circumference of the bullwheel. Because the length of each strand oscillates between minimum and maximum radius on the bullwheel, each strand is NOT stretched or compressed as the bundle is made to wrap the bullwheel. Conversely if the bundle was not twisted, with each strand parallel to every other, the inside most strand (strand contacting the bullwheel) would be placed under compression and the strand furthest from the bullwheel center would be stretched. This is a non ideal loading scheme which would result in fatigue loading of individual strands. You'd also get increased abrasion between strands. Not to mention a uneven loading across the bundle cross section which would be a less efficient use of the material.
+
+Secondly, the twisting increases the friction between strands. This is extremely important as each strand has enough friction to it's neighboring strands that they can support each other in case a strand breaks or is otherwise compromise. In the case of an untwisted multi strand cable, the strength of the entire bundle is determined by the number of intact strands across it's entire length. With negligible friction between strands, a strand that has been broken can transmit no tension between your loading ends. When you're dealing with a few miles of stuff, the probability of a break in a given strand starts to get pretty high once you run the thing for years. In the case of the twisted cable, significant friction is developed between strands. A broken strand cannot transmit load across a break, but neighboring strands can pick up the load at the immediate zone of the break and pull on the sides of the intact strand away from the break. This means that a break in a strand does not make the strand a dead load carrier for it's entire length. As long as you do not have a collection of strand failures concentrated in the same zone, long twisted cables will generally give you very close to the breaking strength of a perfect short section even if every strand has one or multiple breaks spread through the bundle.
+[deleted]
+I'm living close to a ski resort and often take the lifts and cablecars up there. One technician told to me that they twist the individual strands into each other over a length of about 50m. After this process the whole rope lengthens within a couple of months for a couple of meters so they have to compensate that.
+How many strands can break before it needs replacing? Can you fix the broken bits somehow, or does the whole thing need replacing?
+Sorry, it's kind of out of my my expertise so I wouldn't use my answer to determine a maintenance program at a ski hill.
+
+If you can find them, I don't see why you couldn't resplice the cable around the found break, however finding broken strands inside a cable would be quite difficult. Electromagnetic fault detection probably wouldn't work because there's too many surfaces to penetrate.
+
+On the upside, strands in the core have quite a lot of friction with their neighbors. Because they're fully contained by other strands, it would be hard for them to slide past each other. Broken surface strands would not be constrained on one side so they'd either be detectable with electromagnetic means, or they'd fray outwards in a visible manner.
+
+Summary:
+For one, lift cable strands are twisted.
+This twisting of strands around each other does two things.
+Secondly, the twisting increases the friction between strands.
+In the case of the twisted cable, significant friction is developed between strands.
+The strength is mainly in the friction of the strands being wrapped around one another.
+Cut off half of the strands from each end.

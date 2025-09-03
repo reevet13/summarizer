@@ -1,0 +1,9 @@
+Here is the summary:
+
+Yes, a bee has mass, and therefore the mass of the bee is included in the mass of the wasp+air+container system.
+
+I think a more accessible example is a magnet. Consider that the scale it magnetic with its + pole pointing up and a magnet was suspended above with its - pole pointing up. The weight force on the magnet would be balanced by the magnetic force on the magnet from the scale. The scale would then be measuring the weight of the magnet even though it is suspended.
+
+For the example of the flying wasp, it is pushing off of the air contained in the tupperware, so the total mass of the system is unchanged.
+
+If the container is open-topped, then the weight of the system is dependent upon the flying height of your wasp. The higher it is, the smaller the force exerted onto the container (thus a scale that measures the weight).

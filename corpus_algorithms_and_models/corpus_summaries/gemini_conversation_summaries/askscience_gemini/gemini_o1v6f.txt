@@ -1,0 +1,5 @@
+That is exactly what [Edward Lorenz](http://en.wikipedia.org/wiki/Edward_Lorenz) thought when he was working with early computational weather models.
+He was wrong and ended up working on chaos theory.
+Weather is usually predictable only about a week ahead.
+The predictions are definitely getting more accurate with time.
+Weather is a "chaotic system".

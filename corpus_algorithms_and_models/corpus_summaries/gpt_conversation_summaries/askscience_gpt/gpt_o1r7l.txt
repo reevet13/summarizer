@@ -1,0 +1,10 @@
+Also are super sonic planes only capable of flying at very high altitudes, hoping to have the cooler atmosphere temper the heat created by such high speeds?  
+Pretty sure it's mostly the lower pressure which result in lower frictions.  
+The heat in the troposphere mostly comes from sunlight getting absorbed by the ground.  
+Back to the troposphere. If you take a piece of air at one altitude and move it to a higher altitude, that piece of air will have a lower temperature because of [adiabatic cooling](http://en.wikipedia.org/wiki/Adiabatic_process#Ideal_gas_.28reversible_process.29).  
+The actual temperature change might be more positive than that value, it might even rise above zero (this happens close to the ground at night for example).  
+I don't know much about the upper layers, but in the part where we spend our time, temperature decreases with altitude because you are getting farther from the heat source.  
+In the lowest layer, the air is heated by the ground, which absorbs light from the sun.  
+This is correct. In layman's terms, when the hot air rises, it encounters air of much lower pressure, so the hot air expands.  
+I've always found this interesting. As you increase in altitude, the temperature drops significantly.  
+If you CONTINUE to climb you will enter the Thermosphere, where, as the name suggests, the temperatures soar, sometimes above 300 degrees Celsius!

@@ -1,0 +1,17 @@
+Original Response:
+Hello, I was wondering if Metatrons Cube a fractal. It is self similar, infinite and diverse. I haven't seen the shape before in books on fractals, or chaos or bifurcation so I am not sure if it is a fractal even though it looks like one. Also any information I can find is always banked in spiritual language and it makes it difficult for me to understand. What I would love is the function that describes it if there is one. Like Mandelbrots is z -&gt; z² + c...
+relevant: http://www.phidelity.com/blog/fractal/exploring-sierpinskis-triangle-and-sacred-geometry/
+
+it's a fractal like pattern but it's not a complex-plane type fractal like mandelbrot/julias and variants. it seems like it could probably be generated as an IFS ([Iterated function system](http://en.wikipedia.org/wiki/Iterated_function_system) ) type fractal, like sierpinskis or fractal ferns.
+
+If you google "ifs fractal generator" you'll find some software you could play around in. my uncertainty is because there seems to be a lot of stuff crammed into the 'cube' and I couldn't sit through 10 minutes of  that. definitely you could model most of its features as IFS fractals.
+WTF did I just spend 10 mins watching? Waste of time
+ya sorry about that but he goes into details about the shape and has a few decent graphics. The spiritual stuff is a bit tough I just wanted to know if the shape is a fractal not whether it will illuminate my soul by being so close to the source???? - whatever that means.
+I'll download an IFS. I have played with L-System generators but never got this shape. Surprised I have not seen it as it looks like something that should be there.
+When you zoom in on it it just look bigger, so it's not a fractal.
+Can he sound interesting and insightful?
+ya good point. Although from that first circle you keep creating bigger circles so it you started at a large magnification and used smaller and smaller/fractional circles then it would zoom in infinitely. Also it can start from any single point or lots of points or anywhere at any level of magnification and can go bigger or smaller or both directions.
+
+Summary:
+When you zoom in on it it just look bigger, so it's not a fractal.
+Surprised I have not seen it as it looks like something that should be there.

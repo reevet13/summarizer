@@ -1,0 +1,15 @@
+Original Response:
+If the Human body maintains a temperature of around 98 degrees, then why doesn't water held in ones mouth rise to that temperature?
+doesn't it?  Water has a high heat capacity, so it would take a while, just be patient.
+The human body produces heat through our metabolism. The metabolism is the process of our body converting energy stored in food, to energy usable by the body's cells. You can think of a the body's metabolism as kind of a black box, for the purpose of your question, just as a mechanism that produces heat at a slow rate. The body is made mostly of water, so it takes a specific amount of heat (literally - heat energy) to make the body's temperature 98 F. The laws of thermodynamics tell us that heat will always travel from stuff that has a high temperature to stuff that has a low temperature. Thermodynamics also tell us that, given enough time, two chunks of stuff, when in thermal contact with each other, will eventually come to the same temperature, via exchange of heat.
+
+So, when you have water in your mouth, it will take some time for it to come to the same temperature as your body, because heat-energy can't travel instantly, and because as the water nears the temperature of your body, the rate at which its temperature changes slows down.
+
+Hope that's clear!
+Makes perfect sense. Thanks.
+Just to add. Please put the question in the title please. Also 98 degrees is your core temp not the temp of your whole body. 
+
+It is 98 in Fahrenheit and 37 Celsius. When I was very little I though we were almost boiling. Awh, my first lesson on units.
+
+Summary:
+The human body produces heat through our metabolism.

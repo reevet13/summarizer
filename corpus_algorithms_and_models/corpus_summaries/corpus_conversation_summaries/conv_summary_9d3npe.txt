@@ -1,0 +1,94 @@
+Original Response: 
+This user commented that attacks on Bitcoin only make it stronger, because the weaknesses are found and the technology is updated to be more robust and resistant to future attacks.
+Like the internet which interprets censorship as damage and routes around it (with some help from the humans using it).
+[https://www.reddit.com/r/Bitcoin/comments/9cu77s/bitcoin\_global\_legality/e5erk7c/](https://www.reddit.com/r/Bitcoin/comments/9cu77s/bitcoin_global_legality/e5erk7c/)
+
+So my question is, how would **you** most effectively attack Bitcoin and its future, and then of course, what practical changes will protect against that??
+:o)
+
+Bea.
+Could someone create a hash with a virus- or a block with a virus?
+Do you mean so it'd get flagged by AV and interrupt Bitcoin nodes who use that AV?
+That seems like something that would be quickly ameliorated.
+Antivirus companies respond pretty quickly when enough customers are affected (especially if they are vocal).
+If you mean active code I don't think that's possible, as the blockchain doesn't get 'executed'?
+Embedding links to child pornography didn't kill it, so embedding some text that makes a virus if you save it to a separate file wouldn't do it.
+You could kill it 'with a virus' if you got all the full nodes infected (and tamper with them), but that wouldn't happen even if every government combined forces....... :oP
+
+Can you think of another way to use malicious code to damage bitcoin (more than existing stealth miners and wallet stealers already do)?
+&gt; the blockchain doesn't get 'executed'
+
+Yes it does.
+Every transaction contains executable scripts.
+This has already been attempted years ago, Microsoft Security Essentials flagged portions of the blockchain as containing suspicious strings and kept deleting the blockchain data as it was being downloaded.
+This was quickly resolved though
+
+[https://thehackernews.com/2014/05/microsoft-security-essential-found.html](https://thehackernews.com/2014/05/microsoft-security-essential-found.html)
+
+&amp;#x200B;
+
+At this point there is no way to kill Bitcoin.
+Governments lost the war the moment Satoshi published his whitepaper.
+They may have stopped Bitcoin if they had made a concerted effort in the first few years - but at that point Pandora's box was already opened with regard to crypto - there was now a viable alternative to using government issued fiat money designed to enslave the populace.
+For every step forward goverments make to regulate and limit the use of bitcoin, the community takes 2 steps ahead of them in implementing new privacy protocols, enhancing fungibility, driving adoption through decentralised exchanges and removing barriers to entry.
+you know more than me about this, but I was thinking along the lines of a syncing header with maybe an rf signal- able to crash a node if that's possible.
+I especially wonder about the likes of waltoncoin or ether with this-but have a way to go before I even talk to a dev.
+on any subject.
+Bitcoin SCRIPT is very limited.
+It can't access anything outside of the transaction it is executing on, and it's total, meaning no looping.
+The disabling of `OP_CAT` means it can't even quine, so getting a SCRIPT to make multiple copies of itself is not even possible within its own world.
+Probably  
+
+&gt; no looping
+
+Sure, so why were most of the opcodes disabled, several years after Bitcoin launched?
+Disclosure: I am opposed to any executable being recorded in a data store, and still cannot see any practical reason for Satoshi taking this road.
+If I was Satoshi and I was making Bitcoin today, the transaction outputs would contain addresses and amounts, not scripts.
+Using scripts in this context indicates (to me) that the coder is a computer science academic and that "scripts embedded in data" is a particular academic hobby horse.
+A developer with extensive real-world application development experience would run to the moon and back before considering this quirk.
+The Melissa malware was a lesson against executable embedded in data, not an example to follow.
+&gt;Sure, so why were most of the opcodes disabled, several years after Bitcoin launched?
+Because it wasn't a well-thought-out design in the first place.
+A SCRIPT with `OP_DUP OP_CAT` repeated 32 times would crash any bitcoind from out-of-memory with a single word in witness, which is why `OP_CAT` is disabled.
+For full measure, most math operations were also disabled, because enough `OP_DUP OP_MULT` operations would also crash from out-of-memory (multiplying two 32-bit numbers results in a 64-bit number, multiplying two 64-bit numbers results in a 128-bit number, do that enough times and `OP_CAT` and `OP_MULT` will look very similar in that they both consume all available memory).
+Limiting looping is just the easiest way to limit OOM, but obviously any loop can be unrolled by hand and some operations (`OP_CAT` `OP_MULT`) are going to be able to double their memory consumption each time you iterate, so even with a limit on the length of the script, ha.
+&gt;If I was Satoshi and I was making Bitcoin today, the transaction outputs would contain addresses and amounts, not scripts.
+/u/andytoshi's Scriptless Scripts even show that Bitcoin SCRIPT is not strictly necessary for a conditional transfer in exchange for a secret.
+In combination with `nLockTime` (not `OP_CHECKLOCKTIMEVERIFY`, even) and transaction malleability fix (so that you can safely sign dependent transactions before signing their parents) a good amount of functionality is possible outside of SCRIPT.
+&gt; a good amount of functionality is possible outside of SCRIPT
+
+Fascinating, many thanks  
+I was expecting someone to justify the scripting, but I got something new instead.
+Not so certain it's new, Andrew Poelstra has been talking about Scriptless Script for a few years now.
+The important insight is that the clever construction of adaptor signatures leads to something that acts like a hashlock (except only those involved in the protocol learn the equivalent of preimage) and first signing a later transaction with a valid `nLockTime` before signing the transaction that commits funds is equivalent to a CLTV, resulting in a hashlocked timelocked contract (HTLC) that is not expressed in SCRIPT.
+The hope is that similar constructions will work for more complicated SCRIPT usages.
+&gt; Yes it does.
+Every transaction contains executable scripts
+
+It's unfortunate that Bitcoin Script works this way, because there isn't really any need for it to.
+What you call "execution" would be better thought of as "verification of an execution", and there are many cases where these are different (and the verification is cheaper and more private than the execution).
+As a simple example, verifying an ECDSA signature can be thought of as "verifying the execution" of the signing algorithm.
+A more subtle example is the use of `OP_IF` with an explicit 0/1 input passed to indicate which branch to take.
+In ordinary programming you'd never see an explicit "take this branch" flag alongside an if-statement, because the point is to react differently to different conditions.
+In Bitcoin, a script pubkey has many conditions which might satisfy it, but at spending time, the precise condition is known, and validators only need to care about the semantics of the specific condition that gets used.
+Had Satoshi thought in these terms he might have invented MAST, which AFAIK came from Russell O'Connor in 2010 or so.
+This is the idea that you replace `OP_IF`/`OP_ELSE` with a Merkle tree committing to all the different 
+possibilities, and at spend-time you reveal only the one that gets used.
+The idea behind scriptless scripts, mentioned a few posts down, is that you can go even further and _only reveal the script to the counterparties of the transaction_, publishing to the blockchain only a "proof" that the script was satisfied.
+In practice, there are a lot of constructions where this proof consists of a single Schnorr signature.
+Segwit makes a small move in this direction by replacing the "scriptSig" (literally, a "signature" with opcodes that verifiers have to execute) with a "witness stack" (directly pushing the output of the scriptSig).
+Long before Segwit, non-push opcodes had been considered nonstandard in script signatures.
+
+Summary: 
+Bitcoin SCRIPT is very limited.
+Every transaction contains executable scripts.
+&gt; the blockchain doesn't get 'executed'
+
+Yes it does.
+&gt;Sure, so why were most of the opcodes disabled, several years after Bitcoin launched?
+If I was Satoshi and I was making Bitcoin today, the transaction outputs would contain addresses and amounts, not scripts.
+&gt;If I was Satoshi and I was making Bitcoin today, the transaction outputs would contain addresses and amounts, not scripts.
+Long before Segwit, non-push opcodes had been considered nonstandard in script signatures.
+Every transaction contains executable scripts
+
+It's unfortunate that Bitcoin Script works this way, because there isn't really any need for it to.

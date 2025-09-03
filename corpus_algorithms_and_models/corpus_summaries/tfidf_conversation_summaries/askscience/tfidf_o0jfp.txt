@@ -1,0 +1,47 @@
+Original Response:
+Just doing a little physics hw, and I was wondering, how are things with a positive charge different than things with a negative charge, say on the subatomic level?
+Positive molecules have more protons than electrons.
+
+Negative molecules have more electrons than protons.
+[deleted]
+Well, there are two kinds of charge. Things with like charges repel, and things different kinds attract. You can call them whatever you want. A while ago they realized that when you rubbed things together, one kind of charge went on the thing that called the rubbing, and the other kind stayed on the thing that was being rubbed. Those were called negative and positive, respectively.
+Are you asking what charge *is*: where it comes from, what it's made of, and why it behaves the way it does?
+[deleted]
+[deleted]
+Positive ions have more protons than electrons.
+
+Negative ions have more electrons than protons.
+
+ftfy
+Well, that's an especially big question. Charge is a fundamental property of subatomic particles, like spin and mass. So imagine asking the same question but about mass. What is it that makes something "massive,"  --- that is, something that attracts other massive things through the gravitational force? The [Higgs mechanism](http://en.wikipedia.org/wiki/Higgs_mechanism) seems to explain why particles have the particular masses they do, but as to what mass *is,*  what it's, say "made of," well we don't know. Same thing with charge. Fundamentally, what charge *is* is the property that reacts to other things with charge in a specific way. 
+
+It's conceivable that that's all there is to it: charge is charge itself. At some point, physical properties may have no antecedent. Which is a bit of a mind bender. Then again, the negation of that is even mind-bendier: that things have infinite antecedents.
+That one is positive and the other is negative is not what's important. The important feature is that they are equal and opposite of each other. There are two ways to answer your question: experimentally and theoretically. 
+
+The experimental answer (which is the always the one ww turn to if there's any doubt) is that we observe charge to be a fundamental property of matter that appears in discrete units. We say charge is a one of the quantum numbers of matter. The interesting this about this quantum number is that like charges repel, and opposing charge attract. It's then just arbitrary to choose if the charge the electron has is positive or negative.
+
+There are many levels at which this can be answered on the theoretical side. The simplest is to look at the potential energy of two particles with like charges vs. two particles with opposite charges. The potential energy is inversely proportional to the distance between the the two particles. We write this as *1/r*, where *r* is the distance. 
+
+In the system with two particles with like charges, the potential energy is positive, which means that the potential energy of the system is lowered as the charges move away from each other. The *1/r* gets smaller as *r* gets bigger. 
+
+In the system with particles of oppositie charges the potential energy is negative, which means that the energy of the system is decreased if the two particles moves closer together. The *-1/r* gets more negative as *r* gets smaller. 
+
+The crux of this argument is that systems always want to be in a lowest energy configuration. So the charges move (either attracting or repelling) such that the potential energy between them is the lowest it can possibly be. 
+
+Now, there's an argument from quantum field theory that tells us why like charges have positive potential energy and oppositie charges have negative potential energy, but it involves quantumy thing like propagators, which really just blur the point I'm trying to make, so I won't talk about them.
+I would be really, really interested if you could elaborate on that last paragraph.
+It's actually quite hard to describe in simple terms. I didn't try to describe it because I don't think I could do it in a concise manner. 
+
+I'm not sure what your training is, but I'm going to recommend a book to you called Quantum Field Theory in a Nutshell by Zee. A friend of mine called it bedtime reading for a physics grad student. It's quite technical and enlightening, but not rigorous enough to be actually useful. Zee is quite a character though, and it's fun to read. Chapter 5 of part one is one of the most concise descriptions of how a force arises due to propagators.  
+
+Feel free to message me further about it. I'm starting to get busy with the new semester, but if I have time I might try to boil it down to a paragraph.
+Sounds perfect, thanks. I went to grad school for statistical physics. I studied quantum up to the Cohen-Tannudji, Sakkurai level and muddled my way through Jackson, but never had any formal exposure to QFT.
+Excellent. Zee should be good. A more formal intro is Peskin and Schroeder. Somewhere around chapter 5 they also discuss how the potentials arise, but it's doesn't have the fanfare that Zee has, who at the end of his derivation actually calls for trumpets.
+
+Summary:
+Well, there are two kinds of charge.
+Negative molecules have more electrons than protons.
+Negative ions have more electrons than protons.
+Positive molecules have more protons than electrons.
+Positive ions have more protons than electrons.
+It's then just arbitrary to choose if the charge the electron has is positive or negative.

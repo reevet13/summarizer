@@ -1,0 +1,90 @@
+Original Response:
+The post about charging your laptop battery in the Middle Ages got me wondering. Say you were transported back in time, or you were a survivor in a post-apocalyptic world, how do you establish a way of measuring things using the SI units?
+
+For example:
+
+* How do you build a meter stick? 
+* How do you approximate a kilogram?
+* How do you build a multimeter for voltage and current?
+* How do you measure temperature?
+* How do you measure luminous intensity or amount of substance?
+
+I can think of some ways to do some of these (liter of water weighs ~= 1kg), but they all rely on being able to measure other units already, or they rely on physical definitions that can't be practically measured with basic tools. From the laptop discussion, it seems like if you can't measure things, you can't do much.
+
+**tl;dr How do I measure things without an existing standard?**
+The metre has been defined in terms of a specific wavelength in the emission spectrum of the caesium-133 atom. When you excite an atom, electrons orbiting it can jump to higher energy states. The electrons then fall back down to their ground energy state and emit energy in the process, in the form of light. The amount of energy released when an electron changes energy level is fixed for that particular atom and that particular change in energy levels. The energy released is proportional to the frequency of light emitted and from this a wavelength can be calculated which is always the same value.
+
+Ultimately, it doesn't matter how you define a metre, kilogram, amp etc. There is no good reason why there are 86,400 seconds in a day: it would be just as valid to define a second as the time it takes for Mars to orbit the Sun (but much more awkward). Once basic units have been decided upon, equations will still work in that unit system except every universal constant will be different.
+I understand the physical definitions of the units, but how do you approximate that with basic tools? Also, I understand that they're completely arbitrary, but if your entire body of knowledge is in SI units, wouldn't it be easier to find a way to approximate SI units than to create a new unit system?
+Here's the thing - It Doesn't Matter.  
+
+SI units are great because they're constant across the entire universe (hopefully, and ignoring the kg).  So we can tell aliens a few billion light years away how tall we are with SI units.  For everyday stuff defining the meter or the second based on the oscillations of a cesium atom does us no more good then there being a stick somewhere that is defined as The Meter.  As long as all other meter sticks are standardized against The Meter, they are all fine and The Meter can be any arbitrary length.  This is obviously an artifact-based measurement standard which is less than ideal for a few different reasons but if you just want to measure how wide your donkey's back is for a saddle or how long to cut the boards to cover your downstairs windows from Zombie attacks, it is just fine.  Pick a few standard artifacts that your newly build society will use and work from there.  
+
+* How do you build a meter stick?
+
+Find a straight, rigid stick of wood, metal, or whatever, cut it to about the length from the ground to a man's crotch, and ta-da.  That's your new standard meter.  I would re-name it the ballheight, though.  Sacktall?  Taintlong?  
+
+* How do you approximate a kilogram?
+
+Like you said - a liter of water.  A liter is a cubic decimeter, so take that ballheight stick, divide it in tenths, and make a cube that big on a side.  Fill it with water.  New kilogram.  Then maybe find a clean rock that weighs the same so there isn't a temperature variance or spillage possibility to keep as the standard artifact.  
+
+* How do you build a multimeter for voltage and current?
+
+You can standardize voltage against electrochemical reactions between metals.  And current can be done the same way, if you can measure the amount of reaction that occurs in a given time.  
+
+* How do you measure temperature?
+
+Take a narrow tube of glass and fill it with mercury or alcohol.  Water ice baths are 0 degrees C over a very wide range of conditions.  Boiling water is 100 degrees C.  The thermal expansion of mercury is pretty linear over that range so you can make 99 tick marks between the levels at 0 degrees and 100 degrees to fill out the thermometer.  Go higher and lower if you want with other boiling/freezing equilibria with other substances.  
+
+* How do you measure luminous intensity or amount of substance?
+
+The value for intensity is the foot-candle.  The clue is in the name - you make a standard type of candle (the Brits used one made of pure spermaceti) burning at a given rate and that is your standard light output (one candella).  The Germans used a special lamp that burned amyl acetate.  The total irradience of this from a distance of one foot is a foot-candle.  It's still an artifact-based system but it works.  
+
+The amount of something is the mole, which is based on the kilogram for macroscopic things.  This one is the most obvious that using the old number for the mole (6.023e23) won't match the true value if the new Kilogram doesn't match the old Kilogram.  So what?  Once you figure out how many atoms of carbon-12 are in the new Kilogram, readjust the value for the mole accordingly.  You will have to correct the other units, but that's no big deal.  We do this all the time.  This is how it was done historically and it worked fine for a few thousand years.  We can worry about rebuilding the SI system once we get lasers again.
+In that case, the most accurate unit you could calculate would probably be the second as it is defined in terms of the Earth's orbit of the Sun and so could be used as a reference point. You could create a very large pendulum, time the number of swings per day and adjust the length of the pendulum until each swing represents a useful number of seconds (e.g. 100 seconds). You could then create a second pendulum which swings 100 times for each swing of the large pendulum and then that would give a fairly accurate value for the second
+That's really interesting. I completely forgot about measuring time.
+
+If you can nail down time, you could also use a pendulum to measure distance, since the period of oscillation is approximately related to the length of the arm and gravity. 
+
+Interesting, thanks!
+First you need time. And to get time right takes a while to calibrate, but then is easily calibrated after that.
+
+First, at night, in the northern hemisphere, (and not too far in the past or future from now): Jam two sticks into the ground such that as you sight along the top of each stick, they line up with the north star. Then lay a third stick along the line made by the tops of the first two (such that it points to the north star along its axis) and jam that into the ground. You've now made an amazingly useful reference tool. This third stick forms the "gnomon" of your sundial. But it also tells you some other things. One, it points north, always good to know. Two, the angle that it makes with respect to the ground is your latitude coordinate; not super useful yet, but let's go on. 
+
+So you've made your sundial. Now you have to mess with it for a year. (maybe make a few for the various measurements we're about to construct) So during the day when the sun is at its highest peak mark the point of the gnomon's shadow's tip on the ground. Do this during the course of the year and you'll get an [analemma](http://en.wikipedia.org/wiki/Analemma). This will help you tell what season it is. I recommend starting a new calendar too to make up for all the crap we're stuck with in the present calendar. Start the year on the first day of winter (the bottom of the analemma) Mark the start of spring and fall when the analemma crosses itself, and the first of summer is when it reaches the top. I leave it as an exercise to the reader to figure out how to structure your months (may I suggest 13 months of 4 weeks each).
+
+Well anyway, now that you have your months and days, you can easily define hours. First we need the sundial formula: tanΘ = sin α * tan(1/24 of a circle * hours before or after noon). Θ will be the degrees away from the center that you mark the hour, and α is the angle the gnomon makes with the ground. Not good with trig? no problem, we can do this geometrically. tanΘ = opp/adj, so let's construct a right triangle with the "adjacent" being the line from where the gnomon sticks in the ground to the point of its shadow at noon, let's call that "1", so all we need to do is find the length of the line opposite. Well sin α is opp/hyp of the gnomon, so it's the ratio of the length of string dropped from the tip of the gnomon to the ground to the length of the gnomon itself. 
+
+So, taking 1/24 of a circle, and multiplying it by the ratio of the string to the gnomon gives us the amount of angle subtended by an hour†. Simple. So, very carefully measure and mark hour marks in the ground. Building big helps here. 
+
+So now you've got your hours. Now we want minutes and seconds. We could repeat the above process with instead of 1/24 of a circle, say... 1/1440 of a circle or 1/86400 of a circle. But that's ridiculous. So start with making a pendulum. Take a string with a mass at the bottom and vary the length of the string until it swings back and forth (returns to the point you pulled it up at) 3600 times in one hour. That string defines your second now. Now the formula for the period of a pendulum is T= 2π√(L/g) , rearranging to solve for L (in SI units) (with a period of one second) we very conveniently find that L~.25 m (this is also a good place to start if you can at least estimate a quarter meter to start your pendulum). So let's call 4 times the length of the string of a pendulum with a period of 1 second 1 meter. 
+
+Now you have time and distance, all you need fundamentally is mass, and exactly as others mention, divide your meter into tenths and fill a cubic deciliter with water, and there's your kilogram. Meters Kilograms Seconds.
+
+Most other units stem from here. Speed is meters per second, Force is Newtons which is the amount of force required to accelerate one kilo at one meter per second squared. Energy is the amount of energy of a kilo of mass moving at one meter per second. (and because of our convenient unit choice, also happens to be the energy of 1/10 of a kilo one meter above the ground, very useful to know when you're building a machine) Watts are Energy per second. Radiance is Watts per square meter and so on and so forth. 
+
+Edit: †: To get around the multiplication do the following: Take a string the length of the gnomon, then dangle one end of that string off the end of the gnomon until it just touches the ground. Mark that position on the string. Then draw a circle around the gnomon with a radius of where the gnomon tip is at noon, and divide that circle into 24ths. From one 24th away (approx. 11AM or 1PM) Extend that line out some distance and the line the gnomon makes on the ground some distance. Extend them out until the string you measured the sin with can fit between them when it's perpendicular to the line from the gnomon. Place the end that touched the ground while measuring the sin on the line from the gnomon. Now, draw a line *back* from where the sin is marked on the rope, back to the point the gnomon is pushed into the ground. The angle from this final line and the gnomon is the angle of one hour at your latitude.
+&gt;In a post-apocalyptic world, how do you measure with SI units?
+
+In a post-apocalyptic world, why would you worry about this?
+The metre isn't defined using caesium-33 emissions, is it? The second is defined using a number of transitions of a caesium-33 atom, but the metre is defined as the distance travelled by light through a vacuum in a second, over 299792458. Thus there is no specific wavelength or anything like that for the metre.
+This was my thought process:
+
+In a post-apocalyptic world, if you happen to rediscover a library or other source of knowledge, you need to be able to approximate SI units if you want to use old blueprints for a design, for example. You can certainly develop a new system of units, and the fundamental equations will still be valid in the new unit system, but to avoid reinventing the wheel, you would need some way to convert between your new unit system and the old SI unit system. This conversion isn't possible without very advanced technology or some simple way of approximating the old units.
+
+Summary:
+* How do you build a meter stick?
+* How do you approximate a kilogram?
+That string defines your second now.
+* How do you measure temperature?
+That's your new standard meter.
+So start with making a pendulum.
+We do this all the time.
+For example:
+
+* How do you build a meter stick?
+&gt;In a post-apocalyptic world, how do you measure with SI units?
+Place the end that touched the ground while measuring the sin on the line from the gnomon.
+* How do you measure luminous intensity or amount of substance?
+The metre isn't defined using caesium-33 emissions, is it?
+I completely forgot about measuring time.

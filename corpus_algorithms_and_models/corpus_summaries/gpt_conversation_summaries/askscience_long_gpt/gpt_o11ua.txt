@@ -1,0 +1,25 @@
+For your first scenario - adding 100mL of hot water and 10mL of cold water will give a different temperature than adding 100mL of cold water and 10mL of hot water (edit - defining 'hot' and 'cold' as fixed temperatures greater than 273K and below 373K, with hot being a higher temperature than cold so some pedantic physicist doesn't call me out). 
+
+You get a weighted average of the temperatures.
+
+Think of it like this, if you added the same volume of "hot" and "cold" water (i.e. 50mL of each), you would end up with 100 mL of water that would have the average temperature of the two. (i.e. if it was 2 degree water, and 60 degree water, you would end up with 31 degree water).
+
+The maths goes like this V1 = Volume of the first water T1 = Temperature of first water V2 = Volume of the second water T2 = Temperature of the second water Tf = Final Temperature
+
+Tf = (V1*T1+V2*T2)/(V1+V2)
+
+no. Of course not. Think about it. 99 mL of boiling water, plus 1 mL of freezing water will be very close to boiling water.
+
+The formula is T = (m1⋅T1 + m2⋅T2) ÷ (m1 + m2)
+
+    1: 
+      X° = (0.1kg ⋅ Hot° + 0.01kg ⋅ Cold°) ÷ 0.11kg
+      Y° = (0.01g ⋅ Hot° + 0.1g ⋅ Cold°) ÷ 0.11kg
+
+If Hot is 100° and Cold is 10°, X = 91.(81)° and Y = 18.(18)°, so "same difference from original".
+
+This is correct, but I need to caution you against the use of the freezing and boiling terminology. In addition to the specific heat of water, there's also energy transfers involved in phase changes. 
+
+Well, here's how temperature works:
+
+Suppose you have some object O, and you want to inject some energy into it to raise its temperature. The relationship between the energy you inject **E** and the temperature change **dT** would be (mostly) linear. This defines the **heat capacity** (maybe that's not the correct

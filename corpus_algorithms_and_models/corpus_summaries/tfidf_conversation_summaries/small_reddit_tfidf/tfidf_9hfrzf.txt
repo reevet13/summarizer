@@ -1,0 +1,71 @@
+Original Response:
+How does a note taking app even have 54 employees?
+That’s only 15% it would be closer to 360 employees
+I realize that. I'm wondering how it has even 54 to begin with. Their business plan seems like it's covered by slack. The free plan is notepad + dropbox.
+Agreed it’s pretty wild they would need that many
+They have enterprise clients to support.
+I feel like Evernote fell into the trap of
+
+1. experiencing success
+2. drawing attention from investors
+3. creating this massive vision that isn't exactly core to their product offering to get $ from said investors
+4. hiring tons of people to try and realize that vision
+5. not being able to execute and as a result moved away from what got them to be so great in the first place
+6. and in that time, other alternatives, indirect competitors take their marketshare
+I got turned away from evernote when they started adding too many features and it became too bloated. It basically became too overwhelming to actually help me organize things because they were constantly trying to push new stuff in my face. I just want somewhere to take notes and organize things, not be constantly advertised to.
+The "if you're not growing, you're dying" mindset that seems to be central to our economic system and the eventual downfall of so many businesses.
+Couldn’t agree more. Grew too fast and lost site of the product vision. 
+
+Too much bells and whistles for me!
+
+The fact that my partner and I can’t edit the same note as the same time (like google docs) kills me. Seems like a basic user need they should prioritise
+Well, a vast majority of jobs -- especially in the tech industry -- are about creating new things, adding features, etc.  To support that, you need to.. create new features and add stuff to your product.  
+
+If you have a stable product, and no need to adapt or add features.. you will eventually be replaced by the guy that comes behind you and does what you do, but better.  
+
+If you have the "perfect" stable product, or some awesome vendor lock-in, you don't need a huge staff of developers, and suddenly, you're just a couple tech guys, an IT guy, and a giant sales / marketing team.... and you'll get crushed when the guy behind you comes up and breaks your vendor lock-in or does what you do better.
+This is what happens when companies keep raising money instead of going public earlier.  I believe Microsoft and Amazon went public when they had like a $5million valuation.  Now companies aren’t going public until they have a $20BN valuation, which means they somehow have to justify a future $100BN valuation in order to get their investors a return on their money which is absurd 
+
+Winter is coming on this whole system
+Yes, I love evernote, but the team sharing functionality stinks, and they keep adding features that don't really do much.
+Not every app needs a ton of new features. Many apps just need to do what they do well and slowly improve things. Often, adding more features (read bloat) is negative, not positive.
+
+I still use Notepad for many tasks because it does what it does well. I also use Notepad++ as it does other things well. If Notepad starts trying to become Notepad++, it won't do its job well and I'll have to find a replacement for Notepad.
+
+* Paint doesn't need to become Gimp.
+
+* Calc doesn't need to become Wolfram Alpha.
+
+* Screen2Gif doesn't need to become OBS Studio.
+I'm actually surprised it's not more haha
+Right, so, the organizations that support those "perfect" apps fall into that second paragraph of mine.  
+
+To use your examples -- there's no organization out there making bank on only Paint, Calc, or Screen2Gif; the money and jobs are in Gimp (can we say Photoshop?), Wolfram, and OBS.  
+
+My comment was about the business side of things, not necessarily the technical merit behind endlessly "improving" an app.
+I think you're underestimating how complicated dropbox and notepad both are on their own.
+
+But the real answer is most likely it's a large legacy system that's never had quality of the code base as a focus and therefore takes more and more effort to produce less features over time.
+Looking at you evernote spaces, why?! no one uses spaces!
+Ding ding ding!
+Step 1: Build app
+
+Step 2: Get 220m installs
+
+Step 3: Get valued at $1b
+
+Step 4: Hire a ton of people
+
+Step 5: Realize hiring a ton of people takes tons of infrastructure
+
+Step 6: Fire a ton of people
+Going public is definitely one of the bigger mistakes these startups make, investment is pretty necessary but investors don't care about the product, it's mostly just harvesting money until the company folds - rinse and repeat ad infinitum.
+
+Subscription for software is one of those anticonsumer things that I hate because I know it works - like when Adobe monopolised image editing and vector illustration.
+Hey, can you help me with something?
+
+Summary:
+I also use Notepad++ as it does other things well.
+Many apps just need to do what they do well and slowly improve things.
+To support that, you need to.. create new features and add stuff to your product.
+* Paint doesn't need to become Gimp.

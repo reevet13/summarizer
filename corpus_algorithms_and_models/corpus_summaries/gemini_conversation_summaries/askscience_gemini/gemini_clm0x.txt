@@ -1,0 +1,11 @@
+I had always thought that in EM waves, the strength of the E-field and the strength of the B-field would be in some fixed proportion. Is this not true?
+
+But what about "time-varying EM fields"? Is this term equivalent to "EM waves"?
+
+Can an EM wave have a strong electric field and a weak magnetic field?
+Or do they always occur together in fixed ratios?
+
+If I want to check for safe EMF exposure at, say, 60 Hz, and I only have a meter that is sensitive to magnetic fields at 60 Hz, and if it reads that the B-field strength is under the safe limit of abt 0.1 mT, can I assume that the electric field strength (at the same 60Hz), is also under the safe limit of abt 5000 V/m?
+
+I have a feeling the answer is NO to both.
+Time-varying EM fields are not the same thing as EM waves.

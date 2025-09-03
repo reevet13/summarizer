@@ -1,0 +1,18 @@
+Here is a summary of about 10% of the text:
+
+That's actually some serious shit. Unlikely you'll live to be 100 so it's pretty much a guarentee that you've spent at least 1% of your life playing TF2.
+If my calculations are correct, it's 3.9%
+You 25. (or just below it)
+Yay math
+29
+Oh no
+
+The easiest way to calculate was for the lazy:
+
+> Your age * 8760 (#of hours in a year) = Age(hours)
+> 
+> Hoursplayed/Age(hours)= HoursPlayedperLife
+> 
+> HoursPlayedperLife * 100 = **Percentage of life spent on tf2**
+
+So I'm gonna say I'm 21 (~183960 hours life) and have played ~900 hours

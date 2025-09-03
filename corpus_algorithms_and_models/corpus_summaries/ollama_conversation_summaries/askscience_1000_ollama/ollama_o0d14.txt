@@ -1,0 +1,13 @@
+Here are the selected sentences:
+
+There isn't any. That's just what we call the units, because everyone else called it that: "Kelvin", "degrees Celcius/Centigrade", and "degrees Fahrenheit".
+
+The 13th CGPM changed the name to simply "kelvin" (symbol K). The omission of "degree" indicates that it is not relative to an arbitrary reference point like the Celsius and Fahrenheit scales.
+
+Ah, just like meters are meters, and not *lengths* meter, or grams are grams, and not *weights gram*. It's a linguistic thing?
+
+Yes, exactly. The first temperature scale was Fahrenheit, and degrees were just degrees. Then Anders Celsius made his scale, and you had degrees Centigrade and degrees Fahrenheit.
+
+Until the 13th General Conference on Weights and Measures (CGPM) in 1967–1968, the unit kelvin was called a "degree", the same as with the other temperature scales at the time. It was distinguished from the other scales with either the adjective suffix "Kelvin" ("degree Kelvin") or with "absolute" ("degree absolute") and its symbol was °K.
+
+The omission of "degree" indicates that it is not relative to an arbitrary reference point like the Celsius and Fahrenheit scales (although for some reason, the Rankine scale continued to use "degree Rankine"), but rather an absolute unit of measure which can be manipulated algebraically (e.g., multiplied by two to indicate twice the amount of "mean energy" available among elementary degrees of freedom of the system).

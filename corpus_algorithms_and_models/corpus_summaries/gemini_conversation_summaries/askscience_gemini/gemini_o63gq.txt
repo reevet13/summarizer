@@ -1,0 +1,19 @@
+No, light always moves at *c*.
+
+However, a sufficiently massive star (or better yet, galaxy) distorts the geometry of space-time enough that lights path is changed (light always travels at *c* but also always follows the geometry of space-time).
+
+This can be seen in gravitational lensing.
+Light moves at the same speed (c) no matter how much energy it has.
+The light is always moving at c in a locally inertial reference frame, but that isn't what was asked.
+Yes, actually (really actually it depends on exactly what you mean by "move away slower"; my interpretation is that you are asking about the amount of time an observer thinks it takes the light from the star to reach them).
+
+While the other answers are correct that a local measurement of the speed of light will always yield a value of c (so that if you were sitting near the star measuring the speed of light as it went past, you would always get the same answer) it is *not* true that a distant observer will measure light as taking the same time to reach them from stars with different masses.
+This effect is known as the [Shapiro delay](https://en.wikipedia.org/wiki/Shapiro_delay).
+Wiki has an article in the [Shapiro delay](https://en.wikipedia.org/wiki/Shapiro_delay).
+It's essentially just a combination of gravitational time-dilation and lensing, and the effect these have on the speed of light as measured using coördinates far from the gravitational source.
+
+Imagine you have two friends standing the same distance away (as measured by you), but they are in different gravitational potentials.
+You will see the light from the friend in the weaker potential before that from the friend in the stronger potential, which means that the light coming out of the weaker potential has had a higher average speed as measured in your coördinates.
+This depends on what one means by "light".
+Yes and no.
+However, light also moves at *c* in other mediums as well - what makes light *slow down* (as it were) is as it moves through other mediums the photons are actually absorbed and then re-emitted - the delay between absorption and release is what *slows it down*.

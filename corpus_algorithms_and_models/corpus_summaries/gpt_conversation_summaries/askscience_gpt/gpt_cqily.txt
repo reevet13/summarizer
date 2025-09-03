@@ -1,0 +1,23 @@
+I'm a huge science nerd. I'm sorry to say I didn't peruse an education, or employment in science. I'm a banker. I went where the money was, and I wish I could take that back and do something I have an actual passion for. My questions is: Why do ideas, or theories need to be backed by mathematical equations?
+
+I view math as the language of science. You could learn a lot about Japan by reading books about it in english but if you learn Japanese think about how much more would be open to you if you learned the language.
+
+At colliders, particle physicists frequently accelerate particles to ~0.999 999 99c and observe the expected longer life-time of the particle's delay time. It has a sound theoretical foundation with lots of experimental tests. See muon lifetime or other experimental validations [1](http://en.wikipedia.org/wiki/Time_dilation#Experimental_confirmation).
+
+Science is the assumption that universe follows rules. The ball that I throw in the air isn't following the whims of sky gods or wind spirits, but instead is interacting with gravity and air according to predictable and repeatable physical rules.
+
+To express those rules, math is the language of choice.
+
+Your observation about the speed of light is an important one. We often don't know how "right" the equations are. Many are just reflections of our observations, but a special few reveal hidden truths.
+
+That's why we do experiments, so see which equations hold up. In this respect, Einstein's relativity was a tremendous success. His theory made outrageously specific predictions that could not be confirmed until decades later. But confirmed they were...we can observe time dilation in aircraft, and relativistic mass in particles travelling near the speed of light.
+
+And we believe knowing will lead us to a deeper understanding of the universe, which in turn will let us do more cool stuff. I know I have waited long enough for my flying car.
+
+If you have the time (it's a hefty tomb), read *[Gödel, Escher, Bach: an Eternal Golden Braid](http://prelectur.stanford.edu/lecturers/hofstadter/bibliography.html)* by Hofstadter.
+
+The way I tend to describe it is to say that the math goes loony. It's an asymptote.
+
+&gt; since no one has ever gone near the speed of light?
+
+Since we require a microscope to see individual bacterial cells, are you suggesting that we can't know they're really there?

@@ -1,0 +1,42 @@
+Original Response:
+[deleted]
+They tested this on MythBusters. Two identical trucks driven the same identical distance at the same speed. One had the gate up and the other had the gate down. They also tested it in a water tunnel (like a wind tunnel but for water) and found that the gate up left a cushion of air in the truck bed that the passing air passed over. With the gate down, the passing air dropped into the bed and dragged along it.
+
+They found that a truck gets better mileage with the gate up!
+They further found that while that was true, fuel economy was best with a net in place of the tail gate. [Video can be seen here.](http://youtu.be/r3aqHbD-O9E)
+Mythbusters is not science. 
+
+They are great promoters of the scientific method, but their work is not nearly thorough enough to be real science.
+It's minimally better gas mileage if the tailgate is up. [Check it.](http://papers.sae.org/2004-01-1146)
+[deleted]
+[deleted]
+This is (primarily) due to pressure drag on the truck. The air hitting the front creates a pressure that is not balanced by the wake behind. [See this picture](http://content.answcdn.com/main/content/img/McGrawHill/Encyclopedia/images/CE659700FG0010.gif). The smaller that wake region behind the truck is, the less pressure drag the truck will experience. 
+
+
+With the gate up, a turbulent air cushion forms in the bed, much like what happens in the dimples in a golf ball. [You can see that happening here](http://0.tqn.com/d/trucks/1/0/C/F/1/f150_wind_tunnel.jpg). Contrast that to [this](http://www.bsc.es/annual-report/2008/localhost/annual/drupal/sites/default/files/dissemination/2008-2/FI/FI-2008-2-0036/multimedia/side_and_top.bmp) which shows how the flow sheds off an abrupt drop like you'd see at the back of a truck cab.
+
+This cushion effectively makes a more gradual drop-off from the back of the truck cab, and creates a shape more like the second image in the first link in this comment. The flow separates from the truck later and the wake region behind it is smaller.    
+
+EDIT: added some more links to images for, hopefully, more clarity.
+close enough? I mean sure take it with a grain of salt they can only do so much but some of their results seem fine on a practical scale.
+[deleted]
+Obviously not, but could you point out where in this particular experiment you would have done something differently? I think it answers your question quite legitimately.
+I think a better question to ask is, would automotive designers design a truck that functions worse in its default state?
+I'm sorry, but your elitism is showing.
+
+We could say it's not "rigorous science", but it is science.
+I'm not an aerodynamics person by trade, so I can't say for sure, but I have a sneaking suspicion that among other important variables would be the length, height, speed, loading, tilt due to uneven loading, whether or not the bed is covered.
+I'm pretty sure they would.
+
+No one designed the Ford Excursion because they thought it'd be popular with the eco crowd.
+But... that's different from your question.
+Loading, tilt and bed coverage might be.
+
+But what length, height and speed are really asking about is the make/model of the truck. I'd like an answer thats true regardless of what truck it is, or an understanding of how different variables affect different trucks. Even a list of what trucks should do what and on what guidelines the decision is made.
+Different trucks (same make) were driven by different people only once (or maybe twice - I can't remember if they redid the test driving back). They should run the test 10 or 20 times for each combination of the variables. Repeatability is necessary for science.
+
+Summary:
+One had the gate up and the other had the gate down.
+They tested this on MythBusters.
+They found that a truck gets better mileage with the gate up!
+This is (primarily) due to pressure drag on the truck.

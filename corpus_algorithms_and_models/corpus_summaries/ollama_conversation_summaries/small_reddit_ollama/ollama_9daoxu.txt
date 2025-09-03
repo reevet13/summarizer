@@ -1,0 +1,21 @@
+Here is the summary of up to 250 words:
+
+I have matched the allowed Ram per the website QVL list.
+
+All ram sticks work individually.
+
+When I do a1 b1 (first two on left) then I get error 55 or even all 4 slots.
+
+Even with 1 ram, it shows 2133 instead of the 3200.
+
+https://ibb.co/ekTnHz I uploaded there. I don't see any but wanted to be sure incase that's it.
+
+before you RMA the board, test each stick with memtest86+. use your a1b1 to get 2 at a time. Let it run for at least several cycles. This will rule out any bad ram.
+
+Using just A1B1, can you get up to DDR4-3200 using the XMP profile?
+
+Finally, you can test using 1.25v on VCCSA and VCCIO. This should be more than enough to get to 3200.
+
+I know I can get it to show correctly when I modify ram. But after I modified, it wouldn't work after I tried to add extra ram in.
+
+Oic. Well at default settings, only the a1 b1 work.

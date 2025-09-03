@@ -1,0 +1,11 @@
+Case 1: You're wearing your earphones out in the rain, and are doing any activity that builds static electricity. Could the shock be damaging? Not to you, but possibly to motherboard components that you touch!
+
+Case 2: You're wearing your ear buds in the rain, and you get an electric shock from a lightning strike. Could the shock be damaging? Yeah.
+
+I know that you wanted neat stories about being zapped and fried by an iPod, and Apple even warns about using your iPod in the rain. But although there's a buzz of 'I heard that this happened', the level of energy discharged would be fairly low. It would have to be a perfect storm (damp skin that reduces resistance from the normal 100K to 200K Ohms to around 1K Ohms, exposed wiring, a faulty device, etc) to do real damage to a human being.
+
+Edit 1: I can't believe I feel I have to say this but... DON'T TRY THIS AT HOME. Earphones usually operate in mV ranges. That's far lower than most other power sources we usually handle, like batteries.
+
+If you get water into your earphones, the only thing that would probably happen is that you won't hear the music anymore. I can confirm the static electricity in dry environments does cause a rather painful shock!
+
+So in *theory* there could be a danger, but in real-world normal circumstances there's little to no risk?

@@ -1,0 +1,656 @@
+Original Response:
+Please explain your reasoning and offer any credentials that make you more qualified to comment.  It’s OK if you don’t have any specialized credentials, I'm just interested if you do.
+
+Edit:  Optimum population defined as a population size in which every living person can have a good standard of living.  Enough people to produce what is needed for a somewhat modern lifestyle, but not enough that population creates a scarcity that keeps some from having the aforementioned standard of living.
+[deleted]
+Impossibru.
+
+But in all seriousness, this is at best a wild guess, at worst, simply impossible to give a semi-reasonable answer without doing an immense amount of conjecture based research unless you place some VERY specific stipulations on optimums.
+
+Pardon the top level reply, as it's not strongly based on sources as others, so I'll link the one source that does attempt to do as much as I described...
+
+[Optimum Human Population](http://dieoff.org/page99.htm)
+
+But the biggest problem is that they define "personal rights" as part of optimums, they barely scratch the surface on future technology increasing possible maximum, and they greatly restrict criteria.
+So we'd still be extracting and refining all of the metals, fossil fuels, and other components need to make and maintain cell phones, satellites, everything computer related, windmills, vehicles, solar panels, etc.?
+I'm pretty sure you need to be more specific before there can be any attempt at an answer. Some questions about the scenario: 
+
+Are we talking about an nuclear apocalypse-style situation here? Or a extrasolar colony? Or a plague? How much infrastructure do the people bring with them / start out with? Ie, do these people still have access to all the factories / power stations on earth, or do they have to start over from scratch?
+
+Do these people have time to prepare for this event? Are they specifically chosen for this purpose? Do they start out with all their needed tools and hardware?
+
+For example: If it's a colony, then presumably the far-greater resources of earth could assist in preparing automated systems designed specifically to require minimal personnel.
+
+What natural resources do they have access to? Are they on earth? If so, where on earth? Do they get to pick the spot?
+
+Are we to assume no infighting, or will they need to maintain an active militia to keep the peace?
+
+Also: is the low population itself maintained, or can the population breed and start bouncing back? If the latter, they would only need to maintain existing infrastructure with a skeleton crew and minimal upkeep, until the latter generations have the population needed to bring industry back into full swing.
+From [The Tragedy of the Commons](http://www.sciencemag.org/content/162/3859/1243.full) :
+
+Population, as Malthus said, naturally tends to grow "geometrically," or, as we would now say, exponentially. In a finite world this means that the per capita share of the world's goods must steadily decrease. Is ours a finite world?
+
+A fair defense can be put forward for the view that the world is infinite; or that we do not know that it is not. But, in terms of the practical problems that we must face in the next few generations with the foreseeable technology, it is clear that we will greatly increase human misery if we do not, during the immediate future, assume that the world available to the terrestrial human population is finite. "Space" is no escape (2).
+
+A finite world can support only a finite population; therefore, population growth must eventually equal zero. (The case of perpetual wide fluctuations above and below zero is a trivial variant that need not be discussed.) When this condition is met, what will be the situation of mankind? Specifically, can Bentham's goal of "the greatest good for the greatest number" be realized?
+
+No--for two reasons, each sufficient by itself. The first is a theoretical one. It is not mathematically possible to maximize for two (or more) variables at the same time. This was clearly stated by von Neumann and Morgenstern (3), but the principle is implicit in the theory of partial differential equations, dating back at least to D'Alembert (1717-1783).
+
+The second reason springs directly from biological facts. To live, any organism must have a source of energy (for example, food). This energy is utilized for two purposes: mere maintenance and work. For man, maintenance of life requires about 1600 kilocalories a day ("maintenance calories"). Anything that he does over and above merely staying alive will be defined as work, and is supported by "work calories" which he takes in. Work calories are used not only for what we call work in common speech; they are also required for all forms of enjoyment, from swimming and automobile racing to playing music and writing poetry. If our goal is to maximize population it is obvious what we must do: We must make the work calories per person approach as close to zero as possible. No gourmet meals, no vacations, no sports, no music, no literature, no art. ... I think that everyone will grant, without argument or proof, that maximizing population does not maximize goods. Bentham's goal is impossible.
+
+In reaching this conclusion I have made the usual assumption that it is the acquisition of energy that is the problem. The appearance of atomic energy has led some to question this assumption. However, given an infinite source of energy, population growth still produces an inescapable problem. The problem of the acquisition of energy is replaced by the problem of its dissipation, as J. H. Fremlin has so wittily shown (4). The arithmetic signs in the analysis are, as it were, reversed; but Bentham's goal is still unobtainable.
+
+The optimum population is, then, less than the maximum. The difficulty of defining the optimum is enormous; so far as I know, no one has seriously tackled this problem. Reaching an acceptable and stable solution will surely require more than one generation of hard analytical work--and much persuasion.
+
+We want the maximum good per person; but what is good? To one person it is wilderness, to another it is ski lodges for thousands. To one it is estuaries to nourish ducks for hunters to shoot; to another it is factory land. Comparing one good with another is, we usually say, impossible because goods are incommensurable. Incommensurables cannot be compared.
+
+Theoretically this may be true; but in real life incommensurables are commensurable. Only a criterion of judgment and a system of weighting are needed. In nature the criterion is survival. Is it better for a species to be small and hideable, or large and powerful? Natural selection commensurates the incommensurables. The compromise achieved depends on a natural weighting of the values of the variables.
+
+Man must imitate this process. There is no doubt that in fact he already does, but unconsciously. It is when the hidden decisions are made explicit that the arguments begin. The problem for the years ahead is to work out an acceptable theory of weighting. Synergistic effects, nonlinear variation, and difficulties in discounting the future make the intellectual problem difficult, but not (in principle) insoluble.
+
+Has any cultural group solved this practical problem at the present time, even on an intuitive level? One simple fact proves that none has: there is no prosperous population in the world today that has, and has had for some time, a growth rate of zero. Any people that has intuitively identified its optimum point will soon reach it, after which its growth rate becomes and remains zero.
+
+Of course, a positive growth rate might be taken as evidence that a population is below its optimum. However, by any reasonable standards, the most rapidly growing populations on earth today are (in general) the most miserable. This association (which need not be invariable) casts doubt on the optimistic assumption that the positive growth rate of a population is evidence that it has yet to reach its optimum.
+
+We can make little progress in working toward optimum population size until we explicitly exorcize the spirit of Adam Smith in the field of practical demography. In economic affairs, The Wealth of Nations (1776) popularized the "invisible hand," the idea that an individual who "intends only his own gain," is, as it were, "led by an invisible hand to promote . . . the public interest" (5). Adam Smith did not assert that this was invariably true, and perhaps neither did any of his followers. But he contributed to a dominant tendency of thought that has ever since interfered with positive action based on rational analysis, namely, the tendency to assume that decisions reached individually will, in fact, be the best decisions for an entire society. If this assumption is correct it justifies the continuance of our present policy of laissez-faire in reproduction. If it is correct we can assume that men will control their individual fecundity so as to produce the optimum population. If the assumption is not correct, we need to reexamine our individual freedoms to see which ones are defensible.
+
+tl;dr: we don't know what the ideal population is
+This would also depend on the level of technology you were looking to keep.  For instance, are we needing to produce new commercial jets? Space programs/satellites?  Microchips?  If you are looking at just maintaining a small community (self contained small town) with electricity, farming, and 3-D fabricating printers for the incidentals, you could come off with 20k-24k people.  This would require a lot of training and equipment to already be in place prior to the launch of the colony.
+Less than we have now.
+
+Though equaly important would be how do we keep the population from exponentially growing and pushing us back towards the brink should we manage to stabilize populations on our own.
+
+Wish I could console you with some magic number though.
+OP said nothing about extinction or drift. He is asking: since we are told that the earth is overpopulated, what would be a sustainable population? I think it is an excellent question and we don't even have to invoke methods to cull the zombie hordes.
+Speculation:
+
+Maintaining/inventing of modern technology could be put into peoples' IQ. Obviously someone below 90 is much less likely to develop a new satellite. So if we exterminated below a cutoff IQ, you could guesstimate the new world population #.
+"the lowest population *the earth* could have"
+
+I don't know how we'd get there--plague, nuclear war, other apocalyptic scenario or genocide or planned population decrease via birth control.
+
+I guess I was thinking of a post apocalyptic scenario primarily, but not necessarily.  There was a post around here some time ago about a series of columns that are erected to give advice to any who would survive to rebuild society.  If memory serves, the suggested a global population of 500,000.  Such a low population seems idyllic to me--plenty for everyone.  Just wondering if there is *any* scenario in which this could happen and be maintained.
+yes, or the equivalent.
+[deleted]
+I think a lot of people who aren't in a field that is heavily based upon equipment sometimes forget that people on minimum wage and sometimes less help to make the tools used to further science and maintain it as a whole.
+&gt; Has any cultural group solved this practical problem at the present time, even on an intuitive level? One simple fact proves that none has: there is no prosperous population in the world today that has, and has had for some time, a growth rate of zero.
+
+I would argue that any civilization that attempted to do this would soon be over-run by its belligerent, over-breeding neighbors.
+There's no single place on earth that has all natural resources readily available. Therefore, you'd need worldwide colonies and the ability to travel and communicate between them. That's a lot harder without satellites.
+[deleted]
+&gt; the optimum world population?
+
+"Optimum" in that question needs to be defined better.
+
+I'd define "optimum" as "the most happy humans in the universe".    This definition will give an answer like "many billions"....
+
+...which is a much bigger population than if you define "optimum" as "minimize pollution" (probably hundreds of millions) or "make room for a different intelligent species to evolve" (which would probably have human population of 0).
+This. If you wanted a truly accurate number you would need to define so many variable. How much does each person need to survive? Bare minimum? Decent amount? Do we filter people based on intelligence? If so, do you just want to maintain technology, or actively improve it? How do you define optimum? Are you thinking about the future, or just a moment in time?
+
+It would be easy to make a guess, but if you want a truly accurate answer a lot of research would need to be done, as well as having a set time period (because the amount of resources available are not constant) and also having everything strictly defined. To me, this just seems like a subject where that would be difficult to accomplish.
+I've answered this elsewhere, but by optimum, I mean a number at which every person can have a decent standard of living without the scarcity created by overpopulation.  Yes, I know I'm simplifying, and that I could further define variables, but that's the general idea of what I'm after..
+Sci-Fi author Charles Stross tackled this one on his blog earlier this year. It made for some interesting conversation.
+http://www.antipope.org/charlie/blog-static/2010/07/insufficient-data.html
+The problem with this thinking is that, by definition, IQ is a standard distribution. The number of people below a certain IQ will always be a specific proportion. You can't set "Must have IQ above ___" as a criterion because if you kill those people, there will be others who will now be below the same number.
+
+Also, exterminating people because of IQ is completely inhuman and should never be done.
+[deleted]
+I think it would mostly boil down to limiting population such that no resources are scarce, so you'd have the maximum population coupled with adequate supply for everyone.
+
+Given that, you'd start with eliminated the 2-3 billion people who are starving, mostly in Africa and Asia.  These people consume almost nothing and contribute nothing.  You could eliminate them with almost no noticeable difference.
+
+After that, there's maybe 2 billion people who are essentially self-sustaining.  They'd be most prevalent in small villages and towns around the world.  Their low contribution would mostly be local and generally simple (agriculture, carpentry, etc).  They'd also spend a small amount per person on mass produced goods and contribute a bit to taxes.  Because there are so many of them, those small contributions could add up, but I still think the world would be little affected if they disappeared.
+
+That leaves around 3 billion (give or take a billion) people who contribute to the global economy and in some way are helping to advance society or technology.  If these 3 billion people were the only people on Earth, society would most likely continue to function the same way it does now.
+
+Of course, that doesn't mean you couldn't increase the number of people who contribute in this manner.  The question then would become, how many people can our resources sustain, given that everyone is living in a first-world environment.  That would be hard to say, but the most important statistic would be food based.  [Americans require roughly 1.2 acres of agricultural land to sustain their current eating lifestyle](http://dieoff.org/page40.htm).  There are roughly [12 billion acres of agricultural land available on Earth](http://en.wikipedia.org/wiki/Arable_land).  That means that the maximum first-world population we can sustain would be 10 billion people (assuming we use every last bit of land for agriculture).
+
+When you consider large open space requirements such as massive national parks and animal preserves, I'd say that the ideal population would be around 4 to 5 billion.
+[deleted]
+http://www.amazon.ca/World-Without-Us-Alan-Weisman/dp/0002008645
+
+An awesome book and an excellent read, touches on this subject in an interesting way.
+What would happen if, through the development of technology, a civilization could acquire the means by which they could prevent any such invasion from neighbors. With this evolutionary pressure removed from the equation, would this civilization eventually reach a growth rate of zero?
+I will give you no upvotes for quoting huge passages from a **1968** essay.  
+
+You could have easily summarized the gist of the argument, which is directed towards answering the question "*is there a technological solution to the population problem*," rather than "*what are the lowest and optimum populations at which we may sustain our technology*."
+
+These are two very different questions, and this essay does not even *attempt* to address the latter.  Much more crucially, **this essay predates a highly relevant observation** of the effect that women's emancipation and entry into the workforce has on a population's productivity (higher), prosperity (higher), and birth-rate (much lower).  Rather, it uncritically accepts a Malthusian model of population growth.
+
+In fact, the whole thing would seem to be an attempt to resolve a particular standing philosophical dispute, as a thought experiment.  Insofar as it is scientific, **the 'science' involved is game theory**, not agriculture; nor sociology, nor physics, nor biology, nor logistics, nor any one of myriad relevant fields.  Furthermore, it is actually 'game theory' used in order to advance an argument that 
+**it is ethical to decide that 'we' must sacrifice the 'freedom' to reproduce** in order to protect our other 'freedoms'.
+
+**Eugenics**, in other words.
+[deleted]
+[deleted]
+Another factor to consider would be the state of natural resources.  Is this a complete rewind or as they exist in their depleted and hard-to-get state today? So many easy to reach resources have already been depleted requiring much more sophistication and therefore more people to support the infrastructure.
+This response reads as rather xenophobic, ethnocentric, and psychopathic.
+[deleted]
+I believe you're referring to the [Georgia Guidestones](http://en.wikipedia.org/wiki/Georgia_Guidestones), and the recommended population on them is 500 million, not 500 thousand.
+Im gonna go ahead and say there is no population at which every person WILL havea good standard of living.  some will always want to exceed others, its in our nature.
+[deleted]
+You're right--on both counts.
+[deleted]
+[deleted]
+if they ever had grown to large for the island to support people would starve until the population reaches a level that it could sustain itself once more.
+One issue that needs to be considered that hasn't been yet discussed is [the law of comparative advantage](http://en.wikipedia.org/wiki/Comparative_advantage). Advanced societies take massive advantage of this. This means that societies often require far higher numbers to sustain reasonable tech levels than one would naively guess.
+the  [georgia guidestones] maintain that the worlds population should never exceed 500,000,000 in order to live in perpetual harmony with nature.(http://en.wikipedia.org/wiki/Georgia_Guidestones)
+I think maybe an alternative way to approach this problem is how many people would it take to recreate and maintain our level of technology and civilization given a resource-rich, hospitable, and empty (of sentient life) planet. It would probably be fairly straightforward if you had a list of all the jobs that needed doing, mapped with a list of all the resources those jobs required. That's a pretty big database, but I don't see anything inherently impossible about it.
+
+Industry:Product/Service:Product/Service Process:Task- resources required.
+Well there ya go folks. Problem solved.
+&gt; the effect that women's emancipation and entry into the workforce has on a population's productivity (higher), prosperity (higher), and birth-rate (much lower). 
+
+While the decline in birth rate is not controversial, the first two items depend on how you measure them and their causality is questionable. GDP for example does not reflect the work that a housewife does. Suppose a woman goes to work as a lawyer suing people, instead of staying home doing chores. She is now counted as a "productive" member of society (and taxed accordingly), whereas before, her very real work product was not recognized in any metric. 
+
+Likewise, the work she used to do is replaced by that of a professional cleaner, or a worker in Haiti who makes new garments instead of repairing old ones. Again, these are now counted, taxable work products which previous got done in the privacy of the household. Total productivity per capita has not necessarily increased by this model, although socioeconomic complexity and energy consumption certainly have.
+
+And there are plenty of other explanations for apparently higher "prosperity", i.e. globalization and cheap oil. 
+
+Everyone should be free to do as they choose, but it's a stretch to say that society has made a strictly positive and sustainable advance here.
+You could go to [footprintnetwork.org](http://www.footprintnetwork.org), go through the footprint test and choose what you deem to be a reasonable standard of living. The test will give you an answer such as: "If everyone lived as you, we would require X earths". Then you can divide our current population with that number X.    
+
+In my case, the optimum population would be 2.34 billion people (if everyone lived as me).
+[some may say](http://en.wikipedia.org/wiki/Georgia_Guidestones) the optimal human population is 500,000,000
+Wouldn't optimum population occur naturally with famine/plagues/etc? That's usually how predator/prey/resources are balanced in ecosystems, so I've been taught.
+For one, we have changed the rules with technology.  For another, that's not quite the equilibrium that I have in mind.  Having the ability to survive and the ability to have a good life are two very different things.
+This seems intriguing, though I'm not sure it answers the initial line of inquiry.
+Yes, but where did they come up with the number.  I guess I need to read the article--but not tonight.
+I assume to the second part of the question?
+[deleted]
+[deleted]
+Ugh. That link is terrible, for all the reasons you supply, which point to the real answer of "we'll never know until we've reached it." The most accurate upper bound calculation would be based on physical space required for an optimum human existence and then divided the amount of physical space available on Earth.
+
+That changes drastically if people choose to live some or all of their lives in large bodies of water, given sufficient technology, or if they choose to do the same significantly underground given some other sufficient technology.
+
+This link, and many of those who ask this question, are actually focused on a different but related question: what is the optimum planet-wide aggregate rate of consumption of various resources? They figure our our current rate of consumption, our current population, and extrapolate. They ignore (or fight as "austerity measures") the possibility of the reduction of average consumption and the possibility of new technologies that shift consumption of one resource to another. In doing so, they pick a target population and then the argument becomes a philosophical/moral one when the base premise is flawed.
+[deleted]
+Aren't these tribes isolated? Meaning that there is some sort of natural barrier?
+Our technology is the way it is currently because of the amount of people in it. It's been growing with our population. If we lost a billion people distributed over the whole planet, Technology would change. It'd adapt. That's what it's SUPPOSED to do.
+
+Why do you want to know? I'm basically saying your question doesn't make much sense.
+
+It's important to remember that technology has no "direction," only time has a direction. As a guess, I'd say we could lose maybe a billion people all over the globe before we began having infrastructure problems.
+
+Lets list the things that people view as "Modern Technology," just to break it down for you.
+
+1. Relatively Cheap, nonliving power sources.
+-Nonliving is important, as it precludes slave labor and lots of domestic animals. In some eras, human energy was easier to buy than other types of energy.
+-Nonliving energy requires lots of central planning. Look at the power lines in America for an example, or the Aqueducts in Rome.
+
+2. High speed travel
+-Lets imagine that to maintain 1000 mile stretch of highway for a year you need 100 workers. There's 4 million miles of highway in the USA alone, so hypothetically 10,000 road workers.
+-Alternatively, we could have a high speed railway system, which requires much more infrastructure and central planning as well as reliable power sources. 
+3. High speed communication
+-Many of the same problems are raised here as by high speed travel.
+3. Continued scientific research in many fields
+-Medicine and energy are the most valuable fields, but science in all fields should be advancing for "Technology" to be "maintained."
+4. Urban Centers
+-These are great for centralizing technological development and technological growth, but require outsiders to farm and provide people with wealth.
+
+Anthropologist here.
+Putting a macro economics hat on. 
+
+Here are a few problems you would have to think out first:
+
+What is a "good standard of living?" There is nothing close to consensus on this subject. 
+
+For whom would it be the optimal? What is optimal for one person is not optimal for another. Pareto Efficiency is highly limited when there are multifarious choices. We have to order choices for &gt;2 people and &gt;2 options.  That will make us run into [Arrow's Impossibility Theorem](https://en.wikipedia.org/wiki/Arrow's_impossibility_theorem) Which, oversimplifying, suggests that any society is more a question of what choices and freedoms individuals will have, instead of measuring out what their welfare is. 
+
+Unfortunately I think in general your question is more a speculative one in the vein of science fiction instead of science. There is no pareto optimality in society, and I think that really matters in ways that discounts a lot of what science-focused futurism hopes towards. 
+
+tl/dr probably yoda on the Dagobah system
+I'm afraid to answer because I worry you're going to take the number and make it your life goal to get the world's population to match it
+Humans have been graffing since day dot (see cave paintings). What more human thing could be left for the future than teenagers proving they exist to the world?
+I imagine anyone with the physical capability to do so would not need to ask reddit what they think the optimum population would be in the first place :P
+[deleted]
+I will answer by providing information from the book, "The World Without Us" 
+
+This information is not based on humans staying at the same tech level, but more based on how our current population could revert back to a sustainable balance with the earth and her ecosystems.
+
+First we would have to enact a world wide law restricting each woman to only bearing 1 child.  By 2050 instead of the projected 9.5 billion we would be looking at 6 billion.  By 2075 down to 3.6 billion, and by 2100 human population would be back at pre American civil war numbers around 1.8 billion.  While reducing our numbers we would need to move away from continental centers and begins inhabiting costal regions.  This would allow the mega fauna to reclaim our bulldozed world, and with less people to feed we could inhabit / cultivate far less land.  
+
+I believe this would be optimum for our planet and our own species. With a global focus on saving our home planet and space exploration this sort of long term sustainable living could help ensure our future. 
+
+I also completely understand that humans are to greedy and short sited to ever enact anything like this.  Just thought this was an interesting idea.
+[deleted]
+Plenty of advanced countries are at negative growth rates, despite the troubles this may pose them in the future.  Individual citizen's decisions about reproduction have little to do with what's optimum for their civilization or nation (this goes for overpopulated countries too!).
+To be fair, those on minimum wage are also the most likely to lose jobs due to automation.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+I am for this too, because unchecked growth could lead to some nasty things which could even end the human race.
+
+&gt;I also completely understand that humans are to greedy and short sited to ever enact anything like this. Just thought this was an interesting idea.
+
+This could some about from a virus that reduces the fertility rate, so we have to try hard or use technology to conceive. It's getting easier and easier to engineer viruses. I suppose it would be better than exponential growth since this would eventually be limited by scarcity (starvation), resource competition (war), or the side effects of high population (like pollution or disease).
+I think the European population could sustain itself, economically most off their trading is between each other, some resources would need to be harvested elsewhere (like petrol), but I think they could live pretty well without the rest of the world...
+There's a lot of variables to consider. I just started to think of the socio-factors, but there's so many. I'd like to think that the greatest factors to think of would be the intelligence of the people left, and how well they can get along.
+
+There's one example I can think of: If you take a look at the series *The Colony*, you'll see that they made a crazy amount of shit; gadgets, tools, etc..
+Sorry, could you explain this some more?
+About 1 million for the entire planet would be perfect...
+While I agree with you that the question stretches beyond the realm of AskScience, it is definitely not a philosophical question either. 
+I think this falls under the category of Social Anthropology but i don't think that there is a subreddit for that. 
+
+Also, this could be a testable question. In theory it would be possible to develop a highly precise model of the earth and run a simulation to determine the exact number of people required to sustain a certain technologic growth.
+&gt;That means that the maximum first-world population we can sustain would be 10 billion people (assuming we use every last bit of land for agriculture).
+
+Logically this cannot be correct. Today we have 7 billion people of which less than half live by first-world standards. Yet I think most would agree that this current combination of population and lifestyle is unsustainable.
+
+Lets say we are 50%/50% first/third population as of 2012. And that the average first world person uses X resources, and the average third world person uses X/4 resources. We get 5/4X * 3.5billion = 4.375billionX Resources required. 44% as much as to support a population of 10billion first world people.
+
+Just took the "how many earths quiz" and got these results: http://myfootprint.org/en/your_results/?id=1801545
+
+Which is 7.88 earths to sustain the current population if they lived like me and I have fairly normal middle class first world living situation.
+I think you need at least 1000 to reduce genetic disorders
+The whole thread is like that...
+This is the type of writing that makes me wish for the downfall of man.  Not only is much of this unsupported, some of this is wrong.  It is impossible to maximize "for" (this doesn't need to be here) two variables at the same time?  Hmmm, analytically, maybe?  Dunno, because many stochastic methods do just that.  Also, maximizing functionals can do this.  Maybe I am mistaken, but this seems very pop-science.  This is just the tip of the iceberg.  An iceberg of criticism.
+I have no specialized credentials on the matter at all (AI guy here), but I remember professor Marvin Minsky mentioning 500 million as the minimum population we would need to maintain a modern society on [this TED talk](http://www.ted.com/talks/marvin_minsky_on_health_and_the_human_mind.html).
+
+Bear in mind that it's more of an humorous bit (he is a mathematician and an AI researcher) but Minsky's comments have always had some sort of wisdom to them.
+I'm going to give my opinion from an economics point of view. 
+
+Ignoring the amount of food and fresh water needed to keep a given population alive, one of the large problems I rarely see people touch on is coordination. 
+
+It is often said that we could easily feed everyone on earth if resources were appropriately distributed, a large problem with doing this is coordination and as the population continues to rise coordination and distribution becomes more difficult. Similar problems exist with travelling to work etc.
+
+Based on that argument I would say that we are currently past our optimal population level for our current ability to coordinate and distribute resources.
+
+Some other things I think we would want to take into account when trying to optimise population would be our ability to progress mathematically, scientifically, artistically, etc. and by other means beyond basic survival, ability to maintain diverse cultures around the world, people to not be too crowded (define crowded?) etc.
+
+I don't think we would really lose any of these goals if the population level was lower than what it currently is, although advancements in mathematics, science, art, etc. may be a little slower.
+
+Now I want to touch on what the optimal population growth rate might be, most economists will say that a bit of growth is good, which might be true in the short run however I don't consider that to be sustainable in the super long run. 
+
+Assuming we aren't able to inhabit other planets any time soon there's only so long we could sustain a positive growth rate for, so imo the optimal growth rate is going to be zero at some point, which means we would need to be able to sustain a population (health care, food, drinking water etc.) without the age distribution being skewed so much towards younger people (although it would still lie in that direction from people dying at different ages). 
+
+However say we were at the optimal population level for our current ability to grow food, collect fresh water etc. then I would expect advancements in maths, economics, science, etc. to increase this optimal population, so you would have a positive optimal population growth rate while this progress was still being made, you could set this up as an optimal control problem which might be cool, the optimal population level would be your state variable and the growth rate would be your control variable, you would need to decide on what to use as the cost functional though.
+
+Which is to say, what's the optimal growth rate over time to achieve our optimal population level target? Some things to consider here would be our ability to care for an ageing population and in general minimise suffering (ie. ability to eat, drink, be housed, have health care, etc.). 
+
+There's also the matter of how do you optimally achieve your target growth rate? I think the best option would be trying to encourage people to self choose, but I'm not exactly sure on how to achieve that, government benefits would be a start, for example in Australia our benefits give an incentive for people to have more children rather than less. I think most people would agree that doing it that way (if we could) would be preferable to strict one child policies or whatever, however the worse our situation gets the more severe these measures would need to be in order to achieve their intended goal.
+[deleted]
+[deleted]
+Why is this not science? You have a fairly clear question, you can obtain estimates on things like how much food and fresh water we can currently produce and distribute to people etc. then you could set it up as an optimal control problem in an attempt to find the optimal way to control the growth rate to achieve the optimal population level. 
+
+Now there's going to be a lot more uncertainty with any estimates than most of physics, but so does a lot of work in studying weather patterns, oceanography, and populations of animal and plant species etc.
+
+I fail to see how this would not be science? Or is there a level of uncertainty at which point something becomes not science? If so where is the line drawn?
+I have to be honest, this is a tough question.  Naturally, one could say, "Oh, we'll level ourselves out.  Let nature decide when we should stop reproducing."  However, we seem to have outsmarted nature in many ways.  Any organism which removes itself from the natural control mechanisms should be smart enough to institute some of their own.  I am much more in favor of selection than I am grinding more and more land out for our selfish causes.  Yay! More land for us! Give me more land, because I want to make more of me!  
+
+How is reproduction justified at this point?  I mean, we have to do it some time to continue the species, but we certainly don't have to do it now.  But it is a RIGHT!  I have a RIGHT to reproduce!  No, one has the ABILITY to reproduce, and they are not the same.
+
+Women working will not solve this conundrum.  Neither will prosperity.  True, prosperous people reproduce less, but they use much much more.  And, they die less often. Plus, I often hear people who do not, at least, in part, agree with the Malthusian model, not give a shit about what has to fall to our greed as we search for more resources to support the great "largess" of humanity.
+Part of the problem is figuring out what the actual carrying capacity of the earth is, people have made very different estimates, anywhere from 100 billion to 1 billion.
+I live less than an hour away from them here in Athens. I can take pictures if you're interested, and maybe enlist the help of the UGAtheists to try and clean it up, seeing as how nobody else seems interested enough to do so.
+[deleted]
+Consider this question also from the point of view of what would be the minimu
+ Number of people needed to colonize a new planet outside our solar system.
+...*or would they*?  I imagine that's exactly what I'd do even if I had the physical capacity to pull that off.
+This is exactly the kind of question that conservationists are interested in for populations of animals in the wild.  Why is it all of a sudden unscientific when asked about humans in their habitat?
+I think what you're saying is: *"myfootprint.org says the answer to OP's question is roughly 1/7.88 the Earth's current population, or roughly 1 billion"*
+
+The number could certainly be less than 4 billion, but I think we already have close to a billion people living as middle-class first-worlders (plus a several billion second-worlders and third-worlders).  This makes me wonder what type of criteria that website is using.  Also, not all middle-class first-worlders live the same life.  A couple vegans in a 1,200 sq ft apartment in Manhattan could have the same standard of living as a guy on a 300 acre property in Colorado, but their space requirements are vastly different.
+
+At any rate, we're roughly in the same ballpark here in answering the OP's question: about half the current population or less.
+The basis of everything you just said is that as a species, humans have outsmarted nature, yet you make the assertion that we will continue reproducing with a positive growth rate. This doesn't make sense - naturally, organisms reproduce as much as possible. If indeed humans have outsmarted nature, the conclusion is therefore that humans will control their reproduction, and that's exactly the trend we're seeing. The wealthy and prosperous with secure quality of life reproduce in sustainable ways, and this is why many countries have stagnant or negative growth rates. Population growth will continue in slums and less developed nations - which is a cause for concern, but is unrelated to the reproductive trends in developed nations, and as poor countries develop (in their own way), the most likely conclusion is decreased growth rates will follow. Furthermore, women working will decrease growth rates - when women work, they have less interest in spending their time raising enormous families, therefore women will have few children. Not to mention in some countries, like Japan, women choose not to have children because it gives them more opportunities for personal freedom, part of which stems from the ability to work.
+[deleted]
+[deleted]
+What a lot of speculative hoo-haa.  Humanity has barely scratched the surface of renewable technologies.  We can barely predict the weather.  Modern technology, pshaw.  The optimum population is a function of perspective.
+Not as long as their minimum wage is less than the investment and maintenance of robots costs.
+most developed nations are at a stable to negative growth rate.  a lot of third world countries offset that though.
+In my college biology / ecology classes we went over what was called the "carrying capacity" of the planet. The carrying capacity was the estimated amount of people that could live for multiple generations on a planet without exhausting absolutely necessary resources.  The carrying capacity for earth was estimated as being somewhere between 8 billion and 12.5 billion people.  At that point there will not be enough food / potable water to support the population.
+
+Therefore I would say that even coming close to that number (8-12.5b) would put a MAJOR strain on non-renewable / time-renewable resources.  It's my personal opinion (Not based wholely in science) that having roughly 25 - 50% of the carrying capacity of the planet would be a far more reasonable level than where we're at now (87% if you choose the lowend)
+
+There is no "actual" answer to this question however, at best you'll have speculation and estimation with varying levels of scientific backing.
+
+Interesting question though.
+[deleted]
+Why point 4? As a science question, as long as (worldwide food / 1700 calories / 'optimal' population) &gt;= 1700, then I'd consider things to be okay. I'm willfully ignoring the social and political aspect because as far as the **science** goes, I don't see why we care if they have a job or not.
+[deleted]
+1,700 calories/day is a very low intake. Most people need more food than that, certainly more than they need central heating or air conditioning (this is not a necessity of life at all, and most of the world lives without it.) A mosquito net is more important than an air conditioner in most tropical countries.
+
+Most of the world also already has potable water; generally this is achieved through boiling.
+
+From a quick Google, average calorie consumption in developing countries is far higher than that, in the range of 2,500-2,700/day; the lowest average, in sub-Saharan Africa, still comes in at 2,100/day.
+
+Remember in the developing world people, on average, have to do more physical work than in the developed world. For this, you need calories.
+A nice exercise (and thank you for doing it) but your numbers are off. There are not 2-3 billion people "starving" in the world. Undernourishment, which is a lesser state, is under 1 billion. There are certainly countries that one might say are "overpopulated" but it isn't because their population is starving. India is a good example. Too many people, by a lot of measures, but far from all starving.
+Because if there are extra people then they're not needed. There should only be enough people there to maintain the level of people there.
+
+Of course this means you'd have a world of machinists who tend to the needs of the planet as a whole in between (in an ideal world, monthly breaks or something like that). Which would be, I imagine, a kind of shitty world.
+The minimum world population required to maintain modern technology is an interesting question.  I suspect it is a great deal higher than most people think.  
+
+There are a lot of building block industries that have to continue to operate in order for advanced industries to operate for the long term, or you lose the ability to replace the modern tech as it wears out.
+Inequality does not mean that all cannot have good standard of living. If we define the standard as absolute, and not relative.
+Scientific claims do not need to be testable in practice, only *in principle*.
+&gt; Has any cultural group solved this practical problem at the present time, even on an intuitive level? One simple fact proves that none has: there is no prosperous population in the world today that has, and has had for some time, a growth rate of zero.
+
+Afaik the population all modern first world modern countries grow basically only by immigration.
+
+Of course instead of educating young women we waste money on stuff like Iraq, whatever happened to enlightened self-interest.. Of course 'practical idealism'(getting term from wp now) is nice too, but face it, many people either aren't smart enough detach their emotional reaction even if the are idealistic.
+[deleted]
+[deleted]
+Generations of people each of whom was raised as a single child—couldn't that have some unexpected consequences? Especially as world population starts to decrease. Probably some measures somehow enforcing socialization between children would also be necessary.
+
+Otherwise the idea seems sensible to me, at least. Quite painless and effective.
+This lifestyle occurs almost nowhere.
+I guess I wouldn't be one of the 1 since I didn't bother to read the first part.  I'm okay with that.  I'll take one for the team.  The team of 1.
+&gt;  Not as long as their minimum wage is less than the investment and maintenance minus added productivity minus a dozen other costs that have to deal with a having a living worker ...of robots costs.
+
+FTFY Way more than just their wages
+Ok, I cant remember where i read it, or heard it, im pretty sure it was a TED conference. But the world has enough fossil fuels, and would have time to rebuild the fossil fuels being used if the world population was just under 1 Billion.
+'The New World Order' wants to take that one step further and  reduce population to 500million. Which would mean 12/13 people would die. 
+Those sort of numbers would make fossil fuels still possible to use, without affecting the world negatively and there wouldnt be food shortages etc. A nice piece of information about the New World Order is here:
+http://vigilantcitizen.com/sinistersites/sinister-sites-the-georgia-guidestones/
+
+I dont have any credentials... I'm from the internet! - In all seriousness though, I cannot vouch for the information I have read or given out as, of course, its also from the internet.
+
+Edit: spelling
+Edit2: Found the TED conference about fossil fuels - its quite funny http://blog.ted.com/2011/03/21/the-magic-washing-machine-hans-rosling-on-ted-com/
+[deleted]
+[deleted]
+Source?
+Or put another way, tribal tradition would be likely to develop to manage the population between its minimums and maximums. Look at the Russian change in attitude post World War 2 when they were short on men, or the increasingly relaxed view of women who have no interest in children in crowded Japanese cities. Tribal traditions and religions have much longer to adapt themselves to cope with perceived physical maximum, and perceived necessary minimum - often a response to an incoming or competing, growing population.
+No, they would probably join the developing world.
+&gt;but I think we already have close to a billion people living as middle-class first-worlders (plus a several billion second-worlders and third-worlders). This makes me wonder what type of criteria that website is using.
+
+The website was implying that this would be the number of earths required for indefinite sustainability. I was under the impression we are currently on a non sustainable path, even just the increase in global temperature shows this.
+I have to disagree. I think that this type of analysis would fall under the category of: ecological population modeling, something that I consider to be categorized as science.
+
+http://xkcd.com/435/
+Not sure about the lowest, but I think some Greek philosopher calculated that a city would need to be several thousand people to be ideal.  I think computer models show the current population to be unsustainable, and due to "crash" to 3 billions or less.  I was an engineer for several years.
+[deleted]
+Why do you consider this science? What is a scientist supposed to do with ideas such as this if they cannot be tested in the real world to see if they have any correlation to reality? Hug them and feel good about them?
+Exactly my point.  We don't need to hypothesize whether a civilization with the means to prevent invasions from neighbors would eventually reach a growth rate of zero because we already know of plenty of civilizations which have only an imperfect ability to prevent invasions that have already reached a zero growth rate and have in fact gone lower.
+If you look at the legend on the right hand side, you will see that askscience embraces the social sciences (orange tag).
+Good point, i was referencing how in some habitats an exploding population can actually lead to that populations extinction from when they consume so much the system collapses.
+
+it was regarding deer though so it may be kinda bad to compare humans to deer, as we are not deer, since we can type with a keyboard easily, and hold things, and walk on two legs
+This is historically not true.  Machines will be made that will increase the productivity of any single worker.  This will enable higher wages to be paid to each employee due to the simple fact that each employee generates a larger amount of revenue for the company.  An example can be found in Rockefeller's Standard Oil where wages rose, productivity rose, and the price of oil fell 80% over the course of two decades.
+[deleted]
+Which we both agree is suboptimal right? So optimally you want more people than that.
+So lots of theoretical physics isn't science?
+First of all, I said that humans have sidestepped many controls which are naturally there.  Simply sticking with that, it, in fact, makes nothing but sense that our growth rate would explode.  We have seen this happen due to more medicine and agricultural techniques...and the population has exploded.  So...
+
+I also really disagree with you assumption that if we have totally outsmarted nature (your words), we will control our own reproduction.  Since when has this kind of restraint being shown by humanity been the norm?  That is absolutely not the natural conclusion.  The natural conclusion is that an organism with no controls will wreak havoc on the ecosystem.  Also, this is happening.
+
+I do agree that developed countries tend to reproduce less.  That is supported by mountains of evidence, and, in fact, I state that myself in my post.  However, at our current population, we cannot support an American standard of living for the entire world.  We are already that overpopulated.  This argument only makes sense if the world can meet this standard reasonably.  Lift everyone's standard of living to the point at which we have a nice, even population.  Even at a sixth of our current population, we would have to deface the earth to support that many "Westerners".  Does it really come to that?  My point it that we should limit our own population as to preserve both ourselves and the world.  The reduction in numbers we would need in order to make the "prosperity" argument is generally unpalatable to the people who use it.  If you need citations, I can provide them, but I feel like much of this is general information.
+Its social science. "tested in the real world" is not a requirement of science, and a dynamic model is in a way a test.
+
+For instance, Say I worked as a ballistics engineer for a firearms company and I come up with a bullet that kills people twice as fast as the one thats already available. I don't actually take fifty people out to a firing range and use a stopwatch to measure how quickly they die after i shoot them. I perform other tests to understand the nature of the bullet, but not a direct test.  Yet I am still an engineer, a scientist, who can attempt to optimize something that will never be precisely tested. 
+
+In the same way a social scientist could study how different populations work and then use those results to assemble a larger picture. 
+
+I was unaware you could hug ideas.
+Yea, I probably overestimated that.  Although I didn't necessarily mean "starving" so much as people whose lives are almost entirely dedicated to making sure they stay alive.
+
+More specifically, it should be people whose lives are entirely local.  That is, they may have a skill or product, but they *only* barter locally, so they contribute nothing on a national or global level: no taxes, no imports, no exports.  Those people could be plucked from existence and the world basically wouldn't notice.
+
+I think that number would be fairly difficult to estimate, but I could see it being 2 billion.
+Ah.  That would make sense.  I think the question was more about technology than sustainability.  I don't think sustainability changes linearly with population.
+
+For example, there's only so much hydro power in the U.S., so we need to supplement it with things like coal power.  If the population was lower, we wouldn't reduce the number of hydro plants and coal plants equally.  We would only reduce the coal plants.  This means that reducing the U.S. population by half would actually reduce carbon output by more than half.
+Yes, I agree. But because if you had additional people, you'd then end up with a morlocks/eloi style civilisation, which I think would also be suboptimal.
+Coming from a family that is huge, I completely agree with the mandatory socialization lol.
+Did the number of employees fall significantly due to increased productivity of each one?
+I guess I was paying more attention to part two of the question. I would think that the optimum population of the world would be at least lower than the number of people to maintain the resources of the planet indefinitely.
+Increased productivity means increased growth for the company, and increased growth for the company means increased need for workers. As long as there is demand a company can keep growing.
+The lowest average calorie consumption in the world is 2,100/day? Source please.
+I don't mean to be that guy calling for sources, but I have never read any research agreeing with the statement that a western standard of living is impossible on a global scale given the world's population nor do I think that makes any sense at all. Western societies consume large amounts of food and energy - completely ignoring the effects of currencies (which have no connection to what the earth itself can support), there is no reason to assume there isn't enough food, water, and energy for everyone. The amount of energy western society consumes is decidedly set to decrease. Low energy consumption appliances and heating setups are in vogue, and there are many people (like myself and yourself) that try to minimize energy consumption. There are increasingly efficient ways to produce energy without relying on coal - enormous reserves of natural gas are available, not to mention solar, wind, hydro and geothermal energy plants. Energy capacity is no where near its limit. There is also plenty enough food to go around, even ignoring the waste western society produces.
+
+There is no need for western society to limit its population. The population of developed countries will stagnate in the coming decades (citation needed). It would be great if non-developed societies, such as those in slums, would limit population growth. The only way for that to happen is to increase their standard of living, and as work opportunities increase for women and modern technology increases quality of life, standard of living can only go up. Limiting reproduction is impractical and as you mention, unpalatable, but knowing that developed populations have sustainable reproductive trends leads to a nice solution.
+In order for modern societies to survive one needs a tremendous amount of specialization which essentially uses the law of comparative advantage. Without that high degree of specialization, making any non-trivial tools and products becomes nearly impossible due to the inefficiencies involved.
+In theory. I'm asking about this specific case. Also, what about the industry as a whole? Does the industry employ more workers, or do more of those workers move to the large company, and the overall employment numbers go down?
+This can't be answered because it is too vague; it all depends on particular claims an whether or not a test can be formulated. If the test is formulated, you do the work to test the idea.
+
+
+Though I have little true knowledge of modern theoretical physics, isn't a lot of the point of the Large Hadron Collider to test ideas in modern theoretical physics?
+
+
+Let me use an example from General Relativity, which predicted that if observations of starlight made close to the sun were observed, it would appear offset from the gravitational field of the sun bending the light. This was indeed tested and observed during a total solar eclipse, when the positions of stars appearing very close to the sun in the sky could be measured.
+
+
+If the bending of the light was not observed, it would have utterly destroyed General Relativity. Instead the offset was observed, providing support for the theory.
+I believe the source is the Global Footprint Network.  They also estimated that in 2006 we already used 1.4 earths.  What? What they mean is that it would take 1.4 earths for our actions to be sustainable.
+
+Is the energy consumption to decrease?  Maybe per capita.  But that is, indeed, my point.  That doesn't mean the energy usage has declined when you add more people.
+
+Coal power is a disgrace.  Nuclear power produces 100 LESS radioactivity per watt.  And no where near the particulates.
+
+We have plenty of food here, but there are about a billion starving people worldwide.
+
+How can you say that the only way for non-developed societies to limit growth is by raising standard of living?  They could...have fewer kids?
+
+Here is something to think about:
+Lets say that right now, as we speak, we are perfectly sustainable.  Not true, but lets say.  Lets also say that, right now, our population is renewing itself across the world precisely at the rate people die.  No growth.  Standards of living increase.  Suddenly, people want cars, and houses, and all the things that we take for granted.  It is not hard to figure, then, that in this scenario, which is, incredibly favorable, that we cannot possibly produce enough.  We have gone from roughly 1 billion "westerners" to 7 billion "westerners".  Thats how much more production we'll need.  Yes, maybe with technology, we can, ohhhh, only up consumption by a factor of 5.  But, that is now 5 earths.  Now, realize that we are already over production.  And, that our replacement scenario is very false.  Indeed, the people who need their standard of living raised are reproducing the fastest of all.  And, their population will not stabilize as their standard of living increases.  Now, you can see why it might be important to control this.  This is, also, multiples of the ENTIRE PLANET.  Can we not leave some for the other life?  The math doesn't work out on only raising peoples' standards of living.  
+
+At some point, we simply run out of useful matter.  Technology can't do 100 percent efficiency.  It can't carve mass or energy out of nothing.  There is an absolute ceiling.
+&gt;How can you say that the only way for non-developed societies to limit growth is by raising standard of living? They could...have fewer kids?
+
+Individual families could make the decision to have fewer children, yes. But it is enormously unlikely that a society would successfully make the decision to have fewer kids without some type of violent government control - see China's [one child policy](http://en.wikipedia.org/wiki/One-child_policy). Since I find that policy in complete disregard of basic human rights, I cannot imagine any practical way to limit reproduction directly on a large scale.
+
+&gt;At some point, we simply run out of useful matter. Technology can't do 100 percent efficiency. It can't carve mass or energy out of nothing. There is an absolute ceiling.
+
+I agree that there is an absolute ceiling to the energy in the universe, but I find it absurd to postulate that we are anywhere near it. The earth's wind resource alone is so large that it could technically provide five times the total energy consumed by the entire world from all sources [[1]](https://docs.google.com/viewer?url=http://www.pnas.org/content/early/2009/06/19/0904101106.full.pdf&amp;pli=1). The potential for hydro and geothermal energy production is immeasurably large - where I live in the pacific northwest, 63% of total energy production comes from hydroelectric dams, and only 30% of the total hydroelectric power capacity in the United States has been tapped [[2]](http://zebu.uoregon.edu/1998/ph162/l14.html). Solar power, for the purposes of this discussion, is infinite - the trouble is getting to it in economically viable ways, but that is easily within reach.
+
+Energy is not an issue. In terms of consumption of the world's resources, the global footprint network doesn't actually measure what percentage of the world's potential resources are being used up - it measures how quickly the earth converts waste into usable resources versus how quickly humanity produces waste. While this is a valid statistic, its worth mentioning that technology provides ways for us to turn our waste back into usable resources without relying on nature's methods - recycling and composting come to mind, and there are very smart people working on reducing waste through expanding these methods as much as possible. Given the speed with which technology advances, I find myself skeptical that the global footprint network's projections will be accurate in the future.
+
+I feel we've gotten a little off-topic. My point is simply I can't think of any practical ways to reduce reproduction on a global level in a humane fashion. I also don't believe there is a global urgency to do so.
+
+My sources come from Al Gore's book Our Choice, which goes into extreme detail on the viability of renewable energy.
+Basic human right?  Maybe, basic human ability?  I feel it is arguable that filling up the world with more people, at this point, shows an inherent lack of concern for the lives and futures of others.  I am well aware of the solar technology, having done research on it myself.  I am also well aware of the economic factors that decide whether or not a technology is "viable".  Unfortunately, responsibility is never one of those factors.
+
+I also, to be honest, find it very distasteful that people would even consider using the world in this fashion.  It is sad to think that a person who is charged, because of their chosen profession, with creating and utilizing this technology, would find very little cause to succeed other than their own employment.  A population clawing for more at all times is not a population I want to help expand.  It must be pure self interest that keeps scientists working, because I see no other reason to help us prosper.
+
+Yes, we are off topic.
+Reasons to help humans prosper include raising quality of life, advancing technology that reduces our waste footprint, and helping people recover from debilitating medical conditions. Our economic system is designed around people clawing for more at all times - and while that's particularly visible in American society, there are other successful societies around the globe that don't rely nearly as much on this principle. Sweden comes to mind, where taxes are so high they can legally exceed a person's income, in exchange for excellent quality of life provided for people. This system is viewed as categorically insane and economically unsustainable by many people, yet it still exists. Selfishness is a societal urge born from instinctive human practices. Sweden demonstrates that alternatives exist.
+
+My point is humans are not by definition destructive, and advancing technology now is the opposite of destructive towards the planet. 
+
+By the way, [here is a (relevant) essay](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.macdesign.net%2Facademic%2Fbio1050%2Fbio1050-submitted%2FBIO1050-u02a1-PopulationGrowthEssay.pdf) on population growth, which whilst I don't entirely agree with, provides some insightful solutions towards the problems brought up in this discussion.
+Right, right, but I would help humans prosper if I didn't think humans were morons.  I feel that people without much insight should not benefit from technology which enables them to survive on even less insight.  I don't see the point of helping people if this is how people repay salvation.  Why would one want to continue this behavior?  This is what enables our "advanced" society to be filled with complete idiots.
+
+Example of what I am talking about:
+
+Why would one support the draining of a swamp to the detriment of an entire ecosystem so that more people could build condos there without fear of malaria?  I do not get this type of thinking.  There are shit-tons of humans, why should we endeavor to make more?  I do not champion the technology which allows this to happen.
+
+
+On another note, take modern medicine.  We could have said, "Holy crap, we have an ability to erase a great amount of suffering with this tool."  What we did: Nothing of the sort. Instead, medicine keeps people alive in circumstances that can't support them (Sub-Saharan Africa is a good example) just long enough to make more people.  Does it help people? Short term, yes.  Long term?  Makes the situation much worse.  That isn't compassion, that is torture.
+totally agree, its more of an environmental/cultural issue
+I disagree with the assertion that humans are morons. More accurately, perhaps, people have differing viewpoints which may make them appear to be morons in each others' eyes. This problem is exacerbated when the viewpoints are on subjects which directly affect all groups, therefore creating an impasse of opinion (stubborn people).
+
+Get rid of the crisis viewpoint and look at what you're saying objectively. Modern medicine and the removal of illnesses such as malaria increase quality of life, which we can quantifiably correlate to a decreasing in reproductive growth trends when compared to death trends. Therefore your objection to these advances in technology are illogical; a decrease in quality of life will actually increase the growth rate of a population, as demonstrated by the extreme growth rates in slums versus the negative growth rates in highly developed societies (Japan springs to mind).
+
+On another note, never disregard short term effects when looking at long term effects. Understand that modern medicine does erase a great amount of suffering. Vaccination and disease control have eradicated many previously fatal illnesses in young children. Your assertion that medicine only keeps people alive in circumstances that cannot support them is rather short-sighted.
+Nice.
+
+I did not say "medicine only keeps people alive in circumstances that cannot support them", you did.  I said that it happens, you stated it as it's only purpose.  You are not responding to me.  
+
+"Modern medicine and the removal of illnesses such as malaria increase quality of life, which we can quantifiably correlate to a decreasing in reproductive growth trends when compared to death trends."
+
+Yes, it does increase quality of life, for awhile.  I would love a citation for the last sentence, considering that you are saving quite a few people.  So, by what you said, saving people, which decreases the death rate, decreases the birth rate even more, in the same timespan?  That would be something.  Also, this doesn't really counter or really even address my comment.
+
+And, these are not solutions, they are crutches.  They are the scooters we need to go grocery shopping because we are carrying too much weight.
+
+What "crisis" viewpoint would that be?  I feel like I am getting someone else's talking points spat at me.
+
+"Vaccination and disease control have eradicated many previously fatal illnesses in young children."
+
+I know.  What I don't know, is how this argues my point of lowering the population.  Most of these diseases which we vaccinate against are epidemic in densely populated areas.  And these diseases exist...as a control of population.  And if we are going to side step these diseases... WE should control population.
+I apologize; your statement:
+&gt;We could have said, "Holy crap, we have an ability to erase a great amount of suffering with this tool." What we did: Nothing of the sort. Instead, medicine keeps people alive in circumstances that can't support them
+
+Your use of the word instead implied a direct comparison - your statement literally could be restated as: Medicine keeps people alive in circumstances that can't support them instead of erasing great amounts of suffering. Your meaning being different was totally unclear.
+
+You're right about one thing: increasing education and quality of life are not direct solutions to overpopulation. Direct solutions? Force abortions. Kill children. Deliberately deprive medical care. Eugenics. These are direct solutions, and they are utterly intolerable. Indirect solutions, or "crutches", can have positive benefits, short and long term.
+
+To be honest, I can't continue this argument well - but in my search for sources, I found this eloquent if long essay that addresses everything you've brought up - read the abstract if you don't have time for the entire thing. http://www.ejsd.org/public/journal_article/11
+
+By the way, be wary that society would call your wish to control population radical and dangerous. Don't have this discussion with people face to face.
+No, you got the first thing right.  What it doesn't mean is:
+
+Medicine ONLY keeps people alive in circumstances that can't support them instead of erasing great amounts of suffering.  There are other things it can do, since the two conditions aren't opposites.  I will admit, I went over what I intended, and should have been more careful.  But, "only" is pigeonholing my statement, which, to stem the inevitable, is not a semantic.  I was implying that keeping people alive in these circumstances was adding, not alleviating, suffering of current and future generations of people alive because of those medications.
+
+And now we go from one extreme to the other.  Yes, by saying we as a society should control our populations, I absolutely mean kill kids and feed them to their parents.  Better yet, lace the corpses with disease!  How about: Sustained population decrease.  Have fewer kids! It is an agreement within the species, not a mandate by the government, that I think that any society advanced enough to utilize these tools should be wise enough to make.  Yeah, I assume a lot with that statement, but it is my opinion.
+
+As for the article, I am in process of reading it, however, from the abstract it appears to not address what I am talking about either.  Human quality of life, well-being, and availability of materials is a secondary aspect.  Maybe this is where the miscommunication was.  Those things are all well and good, and, generally, very desirable for myself and all humans.  However, I, personally, do not see it as a triumph of technology that we are able to ignore ecological responsibilities while still profiting.  Humans, in my opinion, are ALREADY undeserving of what they have.  I am not concerned so much for the future predictions, as there is already a population problem.  It is like watching someone try and buy a bigger room rather than clean their mess up.
+
+By the way, I gave a presentation on this topic.  Reactions were mixed, as you might imagine.  In our society, self-restraint is radical, but rarely dangerous.  But what is breed-at-will?  Not responsible, conscientious, or well-informed.  Notice, by breed-at-will, I do not mean "non-stop breeding" or any exaggerated, "FOX News" claim.  I mean, breed whenever you feel like it, which is what the case is now.  Crutches are not indirect or direct solutions; they aren't solutions at all.
+
+For your edification, eugenics has little to do with population control in numbers and more to do with composition.  Oh, and all species do this practice, eugenics is just a social way of doing it.
+Previously you asserted that humans are morons. Based on my (rather arbitrary) definition of a moron, I very much doubt humans could rationally come to the conclusion that the best thing for the group is for individuals to limit their reproductive urges. I don't think society is capable of making these decisions, especially when they fundamentally go against the natural urges to reproduce. Even with widespread contraception, there are other factors besides sexual pleasure that make children desirable - such as the rewarding nature of children and the appeal of unconditional caring for a child. 
+
+How can you expect any society to come to an agreement to have less children? What incentives can you place towards having few children? How can you prevent people from going against their agreement? I think the solution you provide is utterly impossible and pure fantasy without some level of violence or *strong* economic incentive against having children. Therefore the "crutches", and I maintain those as viable indirect solutions, are the only real solution.
+
+Increased education, employment, and quality of life will decrease reproductive growth rates over time and cause the population to stagnate. I cannot imagine a scenario where enough people would decide to forgo having children in order to decrease the world population in a meaningful way.
+This is circular reasoning; you can't use a model to test an idea in itself, because the model must be based upon the starting premises and conditions. The use of models (computational or otherwise) is problem-solving in preparation for an experiment.
+
+
+The bullet design analogue fails because a bullet manufacturer (or any similar engineering case) wouldn't just design a bullet theoretically and ship it off without testing. They'd shoot the damned bullet, probably at a dummy designed with materials with similar properties to human flesh, bones etc.
+Ergo, people are morons.  And yes, it is entirely academic.  If that sort of exercise was not what you had in mind, then I am sorry.  I feel the major differences between the actual and academic are the result of failures, and although reality is what it is, more often it is how it is maintained.  "Thinking" is only a decision away from "being".  No, that does not mean we all should think alike.  
+
+What do I think will actually happen?  We'll kill off most of the natural world until a disease for which we have a very small herd immunity culls us back significantly.  It will then be established that the people who thought we should have a lower population were wrong and dangerous.  Who would be alive now if we didn't have 143 billion people originally.  Of course, it never would have gotten to that point, but no one will care about that.  They are gloriously alive.  No lessons will be learned, and we'll start again, minus a great amount of biodiversity.
+
+If given the choice, would you prefer forced population control or massive disease?  Yes, I know those aren't the only two choices, I am simply asking.
+That choice is nonexistent - but beyond that, its unreasonable. If I answer forced population control, it deprives a society from the opportunity of learning from its mistakes; it subjects a society to horrible treatment, even if consensual; it creates a society based around fear and hiding. If I answer massive disease, a society becomes subject to mass pain and death. Both are horrible choices. In the long term, I actually think massive disease is the lesser of two evils - massive disease will cause short term pain, but in the long term, society can recover and learn; and frankly I think modern medicine could put up a very good fight against an epidemic, although its effects could wreck economies irreversibly.
+
+On a practical note, I don't think a system using forced population control could endure for any period of time, nor do I think such a system could limit itself from going to extremes.
+Based on what?
+I got it from here:
+
+http://www.answers.com/topic/caloric-intake
+
+Note the 2,099kcal average is for the poorest *group* of sub-Saharan developing countries taken collectively, not the absolute poorest country.
+
+But the point stands, that 1,700kcal is woefully inadequate, and that the vast majority of the developing world consumes much more than this already.
+Unreasonable, maybe, but I covered that.  I have heard you say horrible many times, but I don't know whether it is horrible to you personally, or whether you have reasons behind "it subjects a society to horrible treatment, even if consensual."  If it is, the reasons for the awfulness of consensual population control are not that apparent.  You falsely assume abuse, unless not having kids is abuse in and of itself.  Wreck economies?  I can see that we, again, are not on the same page.  Fine, I see you are very invested in this aspect of the human issues involved, without paying attention to anything else.  I feel that this sort of mentality is in error, and is why you cannot meet me on many prior points.
+You can't boil away industrial runoff or heavy metals. That's why, for example, [less than half of Africa has safe drinking water](http://en.wikipedia.org/wiki/Drinking_water).
+Sure, but biological contamination is much more common and mostly killed from boiling. My experience is in Asia rather than Africa; in many countries I have been to here (certainly China and Vietnam) boiling is the default, end user method of preparing drinking water. There are other options such as solar which use less energy. Of course it is also important to try to clean up the source but end user sterilization is still practical and useful.
+
+Everything I have read suggests that the bigger problem in Africa is also biological contamination, not industrial contamination/ heavy metals.
+
+I don't disagree that safe water is a major problem but in most countries it is biological contamination exacerbated by a lack of sanitation.
+
+To be honest my main issue with the OP was his suggestion that an intake of 1,700 calories a day is sufficient for a healthy existence but that everyone needs air conditioning and central heating. Which is a nonsensical misstatement of priorities.
+What will happen is the cost of the product for the one company with increased efficiency will go down, and therefore, the price will go down.  This will drive out competitors for a time, while simultaneously massively benefiting consumers by, say, driving the price of crude oil down so gasoline could overtake whale oil as the cheapest form of energy.  When enough competitors were taken out, though, some competitors would get together and talk to the American government.  The government would then deem that the initial company was a "harmful monopoly" that "drove down prices" and that cutting prices is "anti-competitive".  It's amazing that people believe this shit.
+[deleted]
+Meanwhile, the cost-cutting in his industry might be destroying jobs in his industry but the construction required for making new refineries, resulting industries made possible by cheap gasoline, and more side industries that benefit from other industries benefiting are a boon to employment.  In addition, eventually competitors would learn ways to produce crude as cheap, if they actually wanted to.  However, they prefer to have the government cripple their opponents rather than actually step into the arena.
+So what's with these recommendations for 1800-2000Kcal/day I see everywhere?
+And then measure how quickly the dummy dies?  My point is that you can substitute multiple tests to approximate a single definitive one. Someone can analyze how different cities, countries etc. work with different numbers of people. They can also analyze how people who use different numbers of resources live. They can compile this data to approximate the ideal population of the earth, and voila its a scientific study.
+This is still a theoretical answer. I'm asking about what DID happen, not what 'will' happen. How, specifically, did congress hinder the 'harmful monopoly' that was Rockefeller Oil? When did competitors learn to produce equivalently cheap crude oil? How did they do so?
+
+I agree with almost every point you've made, but you're not making a very strong argument, because you haven't given any evidence that you're correct. Right now, you're just spouting what amounts to Objectivist propaganda, and the only people who you'll convince that you're right are the people who have either never considered the issue, or people who already agree with you. 
+
+As for boosting other industries, yes, that is clearly a long term benefit, but what about the short term? If the tech industry gets a big boost from the improved efficiency of the oil industry, oil industry workers can't just go and switch what skills they have. They need to be retrained and such, and for older workers, that is essentially impossible. What is good for the economy long term is rarely good for people short term.
+I'd love to see a source on those computer models.  It should be interesting reading.
+1,800 calories is a *diet*, something you do if you want to lose weight. It is not what you should be eating if you do not have the fat to lose in the first place. 2,000 is the common western recommendation for a *woman* for weight maintenance; the corresponding figure for a man is 2,500. [Example source: NHS, UK](http://nhs.uk/chq/Pages/1126.aspx?CategoryID=51&amp;SubCategoryID=164)
+
+Note these figures are based on the sedentary lifestyle that is relatively common in the west. Also, in general the west does not have a problem with inadequate calorie supply, but does have a problem with obesity, so it makes sense to lowball the figures.
+
+[These are the UN estimates for calorie requirements.](http://www.fao.org/DOCREP/003/AA040E/AA040E06.htm#ch6.1) Further down there are some examples. The requirement for an example male office worker is estimated at 2,580, close to the general western recommendation for males. Even here note their example at 1.72m is substantially shorter than the Western average.
+
+A (shorter and lighter) subsistence farmer requires 2,780 calories while a male engaged in heavy work requires 3,490. Women need less.
+
+These are optimum figures; another [UN report](http://un.org/wcm/content/site/chronicle/cache/bypass/home/archive/issues2007/themdgsareweontrack/survivingonpennieswemusthelptheworldsmostdeprived?ctnscroll_articleContainerList=1_0&amp;ctnlistpagination_articleContainerList=true) classes anything under a 2,200 minimum as 'hungry.'
+
+Most people in the developing world do not, and cannot, subsist on 1,700 calories / day. Those that are forced to do so are undernourished.
+That's odd. I just looked and all of the recommendations I could see on food packets in my kitchen were ~2000. Maybe they set the figure low because they know people will go over it.
+[This one](http://www.un.org/esa/population/publications/wpp2006/English.pdf) does not project much drama, and does not go past 2050.   [This](http://www.economist.com/blogs/dailychart/2011/05/world_population_projections) goes out to 2100, and exaggerates a decline for China with a suppressed-zero graph.  . . . I expected to more easily find more pessimistic stuff.
+Not true.  Most of the jobs lost to advances in robotics and computers have been in skilled, middle-income positions like factory workers. Janitors and the like are still safe from the robocalypse. Unfortunately, I'm struggling to find a source for this right now...
+
+Summary:
+I think the question was more about technology than sustainability.
+work with different numbers of people.
+Increased productivity means increased growth for the company, and increased growth for the company means increased need for workers.
+&gt; the optimum world population?
+The optimum population is, then, less than the maximum.
+There is no need for western society to limit its population.
+What do I think will actually happen?
+If so, where on earth?
+I do not get this type of thinking.
+The minimum world population required to maintain modern technology is an interesting question.
+It's been growing with our population.
+I have a RIGHT to reproduce!
+Thats how much more production we'll need.
+How about: Sustained population decrease.
+Less than we have now.
+For whom would it be the optimal?
+I fail to see how this would not be science?
+Give me more land, because I want to make more of me!
+I believe this would be optimum for our planet and our own species.
+Right, right, but I would help humans prosper if I didn't think humans were morons.
+Here are a few problems you would have to think out first:
+
+What is a "good standard of living?"
+Our technology is the way it is currently because of the amount of people in it.
+This would also depend on the level of technology you were looking to keep.
+In my case, the optimum population would be 2.34 billion people (if everyone lived as me).
+I did not say "medicine only keeps people alive in circumstances that cannot support them", you did.
+What I don't know, is how this argues my point of lowering the population.
+They can also analyze how people who use different numbers of resources live.
+So optimally you want more people than that.
+However, at our current population, we cannot support an American standard of living for the entire world.
+There should only be enough people there to maintain the level of people there.
+The test will give you an answer such as: "If everyone lived as you, we would require X earths".
+I don't think sustainability changes linearly with population.
+I mean, we have to do it some time to continue the species, but we certainly don't have to do it now.
+For this, you need calories.
+The reduction in numbers we would need in order to make the "prosperity" argument is generally unpalatable to the people who use it.
+The first is a theoretical one.
+I am not concerned so much for the future predictions, as there is already a population problem.
+There are not 2-3 billion people "starving" in the world.
+Naturally, one could say, "Oh, we'll level ourselves out.
+And, their population will not stabilize as their standard of living increases.
+The question then would become, how many people can our resources sustain, given that everyone is living in a first-world environment.
+The math doesn't work out on only raising peoples' standards of living.
+How much does each person need to survive?
+"Optimum" in that question needs to be defined better.
+I just started to think of the socio-factors, but there's so many.
+Yes, but where did they come up with the number.
+How can you say that the only way for non-developed societies to limit growth is by raising standard of living?
+Remember in the developing world people, on average, have to do more physical work than in the developed world.
+Another factor to consider would be the state of natural resources.
+I also, to be honest, find it very distasteful that people would even consider using the world in this fashion.
+First of all, I said that humans have sidestepped many controls which are naturally there.
+I'm basically saying your question doesn't make much sense.
+Especially as world population starts to decrease.
+I do agree that developed countries tend to reproduce less.
+My point it that we should limit our own population as to preserve both ourselves and the world.
+Also, this could be a testable question.
+And that the average first world person uses X resources, and the average third world person uses X/4 resources.
+The problem with this thinking is that, by definition, IQ is a standard distribution.
+If we lost a billion people distributed over the whole planet, Technology would change.
+My point is simply I can't think of any practical ways to reduce reproduction on a global level in a humane fashion.
+If you wanted a truly accurate number you would need to define so many variable.
+But the world has enough fossil fuels, and would have time to rebuild the fossil fuels being used if the world population was just under 1 Billion.
+It should be interesting reading.
+This is still a theoretical answer.
+One simple fact proves that none has: there is no prosperous population in the world today that has, and has had for some time, a growth rate of zero.
+How do you define optimum?
+This argument only makes sense if the world can meet this standard reasonably.
+Yet I think most would agree that this current combination of population and lifestyle is unsustainable.
+Lift everyone's standard of living to the point at which we have a nice, even population.
+Ignoring the amount of food and fresh water needed to keep a given population alive, one of the large problems I rarely see people touch on is coordination.
+I cannot imagine a scenario where enough people would decide to forgo having children in order to decrease the world population in a meaningful way.
+What is optimal for one person is not optimal for another.
+I don't think we would really lose any of these goals if the population level was lower than what it currently is, although advancements in mathematics, science, art, etc.
+then I would expect advancements in maths, economics, science, etc.
+44% as much as to support a population of 10billion first world people.
+No, one has the ABILITY to reproduce, and they are not the same.
+There are other options such as solar which use less energy.
+This doesn't make sense - naturally, organisms reproduce as much as possible.
+This means that societies often require far higher numbers to sustain reasonable tech levels than one would naively guess.
+That means that the maximum first-world population we can sustain would be 10 billion people (assuming we use every last bit of land for agriculture).
+True, prosperous people reproduce less, but they use much much more.
+If given the choice, would you prefer forced population control or massive disease?
+There are certainly countries that one might say are "overpopulated" but it isn't because their population is starving.
+There's a lot of variables to consider.
+The website was implying that this would be the number of earths required for indefinite sustainability.
+I would think that the optimum population of the world would be at least lower than the number of people to maintain the resources of the planet indefinitely.
+'The New World Order' wants to take that one step further and  reduce population to 500million.
+if they ever had grown to large for the island to support people would starve until the population reaches a level that it could sustain itself once more.

@@ -1,0 +1,9 @@
+Here is the extracted summary:
+
+I have a general understanding of circuitry that tells me the answer is "no." However, my phone always says to unplug the charger from the wall so I don't know what that's aboot.
+
+Yes, it will draw power.  It's called "vampire power" or "vampire energy."
+
+I think it happens because your cell charger converts the AC power from the wall into DC power, and there is a loss associated with this conversion
+
+Yeah, the biggest culprits are things that are on standby mode, that you can turn on or off with a switch. TV's and other entertainment devices mostly.

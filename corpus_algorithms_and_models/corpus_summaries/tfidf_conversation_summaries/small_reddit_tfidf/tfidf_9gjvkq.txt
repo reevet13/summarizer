@@ -1,0 +1,154 @@
+Original Response:
+In the derivations I've seen, Pauli's principle is -in principle - independent of the distance between the particles. And I can't wrap my head around why this doesn't seem to be the case in real life situations
+Because part of the state of the particle is its spatial wavefunction.
+
+Particles in quantum mechanics don't generally have well-defined position, so when we say that two particles are "in the same position", we mean that they have the same spatial wavefunction. Two identical fermions can only be in the same position if they have different spin projections, or another difference in some additional quantum number that they may have (isospin projection, color charge, etc.).
+[removed]
+Thank you.
+If I may ask another question to elaborate, how come the principle ever becomes relevant in say, the interior of stars then? The amounts of available spatial wavefunctions of a free electron seems intuitively to be infinite, since they could just have an arbitrarily small translation in a continuous space.
+The Pauli principle only prevents identical fermions from occupying *exactly* the same state, but the antisymmetry of fermion states also creates an energy cost for them to occupy *similar* states. In this case, similar means that they have strongly overlapping wavefunction, or they’re “close together” (as well as all other quantum numbers being the same).
+
+This is referred to as “degeneracy pressure”. It’s a quantum effect that is basically the resistance of identical fermions to occupying similar states. The PEP doesn’t fundamentally prevent them from occupying similar states, only the *exact* same state. But it costs energy to increase the “similarity” of their states.
+One thing I always wondered is how does Pauli's exclusion principle apply to composite vs atomic particles.
+
+Take Helium-4. As a whole, it's a boson. But bosons can occupy the same quantum state. Doesn't that imply that one could compress an arbitrary amount of Helium-4 matter to the diameter of a single proton or neutron?  Clearly that's not the case. So does Helium-4 behave as a boson at certain distances between protons, but as they get closer together, they start behaving like fermions due to the individual prons and neutrons being fermions?
+[removed]
+[removed]
+&gt;  If I may ask another question to elaborate, how come the principle ever becomes relevant in say, the interior of stars then?
+
+If by ever you meant only, it should be noted that the PEP is really the reason you don't fall through the ground. [[1]](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.48.553)
+[removed]
+Yes this is precisely what happens. Helium-4 is a boson in an *emergent* sense. It only acts as a boson at distances that are much larger than the  nuclear length scale.
+It should be noted that the "energy cost" is an effective description in a mean field type limit. There is no penalty for "similar" in the fundamental Hamiltonian.
+Yes, the second option. Helium-4 is a boson, but if you localize then enough to resolve their substructure, they are made of fermions (nucleons, and then even deeper, quarks).
+
+At very short distances, the helium-4 nuclei will repel due to Pauli exclusion between nucleons. Then at even shorter distances, interactions between nucleons become repulsive due to exclusion between quarks.
+&gt; Doesn't that imply that one could compress an arbitrary amount of Helium-4 matter to the diameter of a single proton or neutron?
+
+This is called a Bose-Einstein Condensate. They exist. 
+
+&gt; Clearly that's not the case.
+
+You probably think this because you believe the 'diameter' you alluded to to be a fixed quantity. However, in the process of making BECs the 'diameter' (extent of the spacial wavefunction of the atom) of the atoms increase and overlap. 
+
+All in all, remember the uncertainty principle. The more you try and trap an atom by reducing its speed to zero, the larger its 'diameter' becomes.
+You would be right in free space. But if an electron is confined to a star, it's wave function is bounded, and this boundary creates a discrete spectrum of possible states, that are occupied from the lowest energy up.
+
+The conductive electrons in a metal behave like this, too. They are not confined at any one place, but are smeared out over the whole metal. This is described by their electronic band structure:
+
+[https://en.wikipedia.org/wiki/Electronic\_band\_structure](https://en.wikipedia.org/wiki/Electronic_band_structure)
+[deleted]
+[removed]
+To add to this, He4 BECs happen at very close to 0 K. The thermal quantum fluctuations at room temperature make the atoms too jiggly to behave nicely
+He4 is a boson, but He4 atoms interact repulsively at short distance due to the exclusion principle. Only non-interacting bosons can be packed all on a single spot. The He4 atoms can all be in the ground state, but the ground state changes with the number of atoms.
+This is the right answer, and it's a great example of the concept of how different physics can emerge at different energy or length scales. If one works purely in the high-energy particle physics regime, one gets QCD physics (quarks which are fermions), while if one works in the classical regime one gets a classical Maxwell-Boltzmann distribution (distinguishable bosons). But for low temperatures at normal pressures, you get Bose-Einstein physics (*indistinguishable* bosons!).
+
+The energy-dependence of physics is a very important concept which has not been properly stressed to the general public imo.
+How would that work past neutron degeneracy pressure, for things like Neutron Stars, and Black Holes?
+Theoretically there could be quark stars, or other kinds of exotic objects that exist “between” neutron stars and black holes. You’d have to ask an astrophysicist about the details though.
+One thing that's been getting me, that I can't seem to find a reason for, is how the nuclear shell model is rationalized in addition to Pauli Exclusion.
+
+The justification being that we observe nuclei with a number of protons or neutrons in a similar "magic number" pattern as electrons. From there, you make the assumption that protons and neutrons each have their own orbitals based off of the same spherical harmonics equations that led you to electron orbitals, populate them, and lo and behold, you have some way to predict stable nuclei based on proton/neutron configuration.
+
+What I don't get is how there wouldn't be any proton or neutron orbitals that are shared by the same two nucleons (in terms of quantum numbers) using this model. Especially for the low-energy orbitals where the difference in energy between any two orbitals is at the highest.
+
+Edit: Magic numbers
+The nuclear magic numbers are not the same as the atomic magic numbers, because there are some key differences between the nuclear mean field and the atomic mean field, including the opposite sign of the spin-orbit interaction.
+
+But anyway, I’m not exactly sure what you mean about protons and neutrons sharing orbitals. The set of proton and neuron orbitals are approximately copies of each other, except for small differences due to the fact that protons have electric charge.
+
+A proton and a neutron can occupy the same state, because they are not identical to each other.
+Yes, calling it a “pressure” comes with the implication that you’re treating the system thermodynamically.
+&gt;But anyway, I’m not exactly sure what you mean about protons and neutrons sharing orbitals.
+
+Sorry if I wasn't clear there. I mean that, in the absense of Pauli Exclusion, why wouldn't we see multiple protons sharing the same proton orbital, or multiple neutrons sharing the same neutron orbital?
+
+Also, is there still an exchange interaction that goes on with protons or neutrons that are in these orbitals, similar to the one in electrons that gives rise to Pauli Excvlusion?
+And here energy roughly means temperature?
+If there were no Pauli exclusion, then nucleons would be able to pile into the lowest orbital, but nucleons are fermions, so they are subject to the PEP.
+
+There is certainly still an exchange interaction for nucleons. They have the same antisymmetry as any other kind of fermion.
+It doesn’t have to. What they said applies even for individual particles, no thermodynamics necessary.
+Good catch, there are different limits here, as you might have assumed from reading my comment. If one increases the energy/temperature while keeping things dilute (the spacing between individual helium-4 atoms is large compared to hc/kT) then you get classical physics, or as I said, distinguishable bosons. In contrast, if you ramp up the temperature while keeping the spacing between the bosons close to or under hc/kT, which is what occurs in the LHC for small amounts of time, one gets QCD physics instead. 
+
+(For reference: k=Boltzmann's constant, c=speed of light, h=Planck's constant, T = temperature)
+Can you expand upon that? For example, if the wave functions of two Helium-4 particles are overlapping, what does that physically mean? How is that physically meaningful if the composite particles of Helium-4 themselves cannot overlap?
+If their spatial wavefunctions overlap, it means they are positioned close to each other.
+[removed]
+I think the best way to answer your question is to take a simpler system that exhibits the same phenomenon of an "emergent boson". The simplest case is two fermions that form a dimer.  So you can ask 
+
+"How does the fermi-statistics of individual atoms affect the behaviour of a dimers at low energies"  
+(This is basically the BEC-BCS crossover) 
+
+I cannot find a nice discussion of this, unfortunately. I think given a week and some napkins to write on I could sketch something out for you, but it would probably be a bit too mathy for r/askscience. 
+
+Does anybody have a nice succinct explanation?
+That's what I would like to know also. How can a combination of fermions turn into a boson? And when helium does turn into a boson what stops it from all just sinking into each other and become infinitly dense?
+Now that is something I didn't know. Thanks for clearing that up. I didn't k ow that the degeneracy pressure builds up as things get closer. I thought of it more like a wall you had to get over.
+[removed]
+A combination of an even number of fermions has integer spin, so it’s a boson.
+
+Helium-4 can become a Bose-Einstein condensate, but only within some temperature range. At room temperature, it’s too hot to do so.
+Layperson here, but quite fond of [pion stars](https://arxiv.org/abs/1802.06685) and [strange stars.](http://adsabs.harvard.edu/abs/1994sqm..symp....1W)
+
+I do hope we never see a strange star's nova, though.
+&gt; How can a combination of fermions turn into a boson?
+
+It doesn't literally become a boson. When you have an even number of Fermions and they bind together into some bound state, then there will be some size (and corresponding energy scale) that characterizes, on average, how close to each other those fermions are in this bound state. So, this lets you identify 2 regimes within the physics of how these bound fermions interact with other objects.
+
+The 'low energy' regime is characterized by interacting with objects that are much larger than the average distance between your bound fermions. These larger objects will not have enough energy (per particle) to separate out the individual fermions from one another (to convert length scales to energy scales, think large debroglie wavelength (per particle) -&gt; small average momentum (per particle) -&gt; small average energy (per particle)). They will only be able to excite the *collective* modes of the bound fermions. That is, this larger object can affect basically all of the fermions at the same time, but it can't affect just one of them and leave the others alone. The physics of that will be *effectively* bosonic because the fermions, when considered as a single collection, have integer spin. 
+
+However, as you increase the energy of the object that you're interacting with, the dominant length scale of the interacting object decreases such that it becomes small enough to interact with just 1 fermion in the bound collection (or just 3 fermions, whatever) and not all of them at the same time. Now, you can resolve the underlying fermionic structure of the bound state, and the physics at that high energy scale will obey fermi statistics.
+
+As I've portrayed it (and in reality), the crossover is entirely continuous. There is no magic energy at which the system switches from acting like a boson to acting like a fermion. It's just that at very low energies you can describe the system as effectively behaving like a boson, and that description breaks down more and more as the energy scale increases.
+[removed]
+[removed]
+neutron stars occur when the gravitational pressure is so great that it causes the electrons to collapse into the protons, creating a neutron in its place. Without the outwards pressure from the Pauli exclusion principle of the electrons, the star can become much more dense than normal matter. However the size of the neutron stars is still limited by the Pauli's exclusion principle for the neutrons. 
+
+As for a black hole, we don't really know what is going on. This is where the whole question of making quantum mechanics mesh with general relativity comes up.
+Thank you for the response. A mathy response would still be welcome if possible.
+Yes, but there appear to be only certain allowable configurations for them to be positioned close to each other. There are restricted modes of overlapping for these two bosons.
+I’m not sure what you mean.
+But why does it not all fall into the same place when it is a boson? If they can occupy the same quantum state then shouldn't the helium-4 fall into itself?
+Thank you. My initial question was prompted exactly by reading about degeneracy pressure. However in my literature, the emphasis is on the Fermi-Dirac distribution and the "filling up" of available states, which gives the idea, that there are only finally many available states due to PEP. Is this related to the effects, you are describing?
+At room temperature, many particles are thermally excited above their lowest possible energy. You need to go to very low temperatures for all of them to pile into the lowest-energy state.
+Do you mean "finitely-many"? The PEP does not imply that there are a finite number of available states. In the example you give of the Fermi gas, there are infinitely many states, but at most one identical fermion can occupy each one.
+Why do you feel this has not been properly stressed to the public?
+So then by definition two particles have different states as long as their spatial wave functions are different?
+It's a sufficient but not necessary condition. They could have the same spatial wavefunction, but some other quantum number different.
+Don't they repel because of electromagnetic force?
+Are black holes really singularities or does everything just pack into the Planck-scale and stop?
+Ah Yeah, finitely many, I'm writing all this on my phone, so it 'corrects' some of the words..
+
+What I meant was "finitely many available states below any given energy"
+[removed]
+I can't access the article. Can you give me a TL;DR?
+
+My guess is that the PEP is preventing my atoms from filtering through the ground's atoms, due to the increased energy cost of closing the distance between them, but this is somehow not adequately explained by coulomb forces?
+&gt;but this is somehow not adequately explained by coulomb forces?
+
+Yes, this is the key point. Coulomb forces alone can't explain it, you need the antisymmetry of identical fermion states.
+General relativity predicts singularities, but GR is a classical theory, that likely breaks down in the regime where quantum effects become important.
+The Helium-4 wave function is representative of the collective wave functions of the electrons, neutrons, and protons. But the wave functions of those particular fermions cannot overlap with corresponding fermions in an overlapping Helium-4. Thus you can have overlapping of the Helium-4 particles, but they are only permitted to be positioned close to each other if their constituent fermions are not overlapping, i.e. only certain allowable configurations.
+Yes, that's exactly what I said elsewhere in this thread. Are you asking a question?
+[removed]
+Well damn.. you learn every day. This is actually my favourite new knowledge from having made this thread D:
+
+Summary:
+But bosons can occupy the same quantum state.
+A proton and a neutron can occupy the same state, because they are not identical to each other.
+They could have the same spatial wavefunction, but some other quantum number different.
+The He4 atoms can all be in the ground state, but the ground state changes with the number of atoms.
+If their spatial wavefunctions overlap, it means they are positioned close to each other.
+How can a combination of fermions turn into a boson?
+&gt; How can a combination of fermions turn into a boson?
+For example, if the wave functions of two Helium-4 particles are overlapping, what does that physically mean?
+I mean that, in the absense of Pauli Exclusion, why wouldn't we see multiple protons sharing the same proton orbital, or multiple neutrons sharing the same neutron orbital?
+If they can occupy the same quantum state then shouldn't the helium-4 fall into itself?
+The 'low energy' regime is characterized by interacting with objects that are much larger than the average distance between your bound fermions.
+The PEP does not imply that there are a finite number of available states.
+It’s a quantum effect that is basically the resistance of identical fermions to occupying similar states.
+That's what I would like to know also.
+But why does it not all fall into the same place when it is a boson?
+But it costs energy to increase the “similarity” of their states.
+But anyway, I’m not exactly sure what you mean about protons and neutrons sharing orbitals.

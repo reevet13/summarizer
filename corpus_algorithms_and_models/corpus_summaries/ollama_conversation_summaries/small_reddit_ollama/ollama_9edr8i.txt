@@ -1,0 +1,15 @@
+Here is the summary of about 10% of the text:
+
+Because there are exothermic reactions happening inside the reactor.
+
+In a fission reactor, they're fission reactions, and in a fusion reactor, they're fusion reactions. They're exothermic, meaning that they release energy.
+
+The sum of the kinetic energies of the products, minus the sum of the kinetic energies of the reactants is called the "Q-value". This is the net amount of energy released by each individual reaction.
+
+For thermal neutron-induced fission of uranium-235, the Q-value is about 200 MeV, on average (average because there are many possible final states).
+
+For fusion of deuterium with tritium, producing a neutron and an alpha particle, the Q-value is about 17 MeV.
+
+Mass excess and mass defect, under the definitions you’ve given, so *not* represent the same thing.
+
+Well mass defect and binding energy are basically the same thing. The quantity we’ve defined here as “mass excess” is different from them.

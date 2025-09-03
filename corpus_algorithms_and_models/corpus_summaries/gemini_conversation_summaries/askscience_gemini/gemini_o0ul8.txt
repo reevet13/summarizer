@@ -1,0 +1,39 @@
+Looking directly up while holding my arm out, I can place my index finger and thumb about one inch apart and roughly cover the visual diameter of the moon. 
+Shouldn't taking a picture with the camera at arms length result in the image of the moon approximately the same size as what my naked eye could see?
+The easy answer is that you did not enlarge the picture enough.
+If you blow it up, the moon will eventually cover the size you want it to on the picture.
+There is a much more complicated explaination involving FoV, focal lengths and sensor resolution.
+Feel free to reply if you are ready for some basic optics and camera technology.
+OP may not be interested, but an explanation with respect to optics would be fantastic for myself.
+Basically, most point and shoot (P&S) cameras are incapable of zooming in far enough to resolve any meaningful detail in the moon.
+Different camera lenses have different fields of view; when you "zoom in" you are narrowing the field of view, allowing you to fill more of the camera frame with the object.
+Distance also plays a large role -- instead of zooming in to take a picture of a coin, you could walk closer and fill more of the frame in that way.
+But for all practical purposes you can't get closer to the moon.
+So you need to rely solely on your lens's field of view.
+Most P&S camera are designed for things like taking party pictures, and snapshots of people no more than a few yards away.
+Because of this, camera makers give them a somewhat wide angle of view.
+A typical P&S lens might for instance start at what we call 28mm.
+As a ballpark figure, that would probably let you take a picture of 6 or 7 people from no more than 10 feet.
+A standard P&S will let you zoom in from there to, say, 110 or 120mm.
+This is at the very low range of what we call telephoto.
+It's easily enough to take an uncomfortably large photo of someone's face from 10 feet away.
+(Portrait lenses, for instance, are about 85mm.) If you were trying to take a photo from 100 yards, however, you would not get an impressive amount of detail.
+So when you turn that same lens up to the moon, you find that it's woefully inadequate -- the angle of view is just too wide.
+I would guess that in order to get such a large moon from earth, the lens would need to be around 500mm.
+For reference, here's a photo I took at around 300mm.
+500mm is a truly telephoto lenses, and can provide impressive amounts of detail at hundreds of yards.
+Unfortunately, such glass is large and expensive.
+That's why you don't see it in many P&S cameras.
+It's such a narrow field of view that you only want it if you need it -- if you're not on a safari, taking bird photos, or stalking someone, it probably won't be very useful.
+A photograph is a projection.
+The size of objects on this projection is determined by 3 things * Size of the object * Distance of the object to the projection screen * Field of view // size of the projection screen You probably know the first two and how they cause what, so let's focus on FoV.
+Nowadays, projections usually happen onto rectangular shapes.
+In more advanced photo cameras, the relation of width to height is usually 3:2 (keep that in mind for later).
+Also, the sensors capturing the light have distinct sizes (usually ~20mmx13mm).
+Let's imagine a cube with 1m width we want to photograph, so it fills all of the height of the sensor (it's image on the sensor should be ~13mm ... basically miniaturizing the block by a factor of almost 100).
+How can we calculate a distance where this occurrs?
+You might guess by now that we are still missing something and you are right, we are missing a lens!
+Lenses take the incoming light, refract it and thus can enlargen/miniaturize images of objects.
+To get our distance, we need to either know the focal lenght of our lens & the distance of the focal point to our projection OR we need to know the FoV (which is different for vertical and horizontal if the projection is not square) of the lens/camera combination.
+Let's say we have a FoV of 45° (vertical, since we want the block to cover the whole height).
+Now we can draw an equal sided triangle with the 1m of the cube being the base of the triangle and the 4

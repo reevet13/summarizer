@@ -1,0 +1,9 @@
+Here is a summary of the text, up to 250 words:
+
+As the title says, I have a black screen since yesterday. The computer was working just fine the day before, temps were normal, everything was ok. Tried to boot it yesterday morning but the screen just stays black. Every fan and LED work.
+
+I tried to change my GPU, still a blackscreen. I then tried another monitor, still a black screen. Switched from DVI to HDMI, no results. I also tried to remove a RAM and then the other just to be sure, still no luck.
+
+Tried to plug my GPU into the other slot without success. Read somewhere that a dead mobo's battery could cause a black screen, so I decided to remove it for 2 hours and then plug it back, no difference.
+
+Note that the mobo's battery has a brown mark on it so it may be dead for good but could it rly cause a black screen ?

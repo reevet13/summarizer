@@ -1,0 +1,26 @@
+Here is the extracted summary:
+
+I've read too much Wikipedia today and got all confused, I guess.
+The problem is, when you're talking about spacetime curvature, you're talking about the relativistic theory of gravity. When you're talking about force-mediating particles, you're talking about a quantum description of gravity.
+
+Looking for the patch that clears this incongruity up is a big part of what is sometimes called the search for the Grand Unification Theory.
+
+No, a working theory of quantum gravity doesn't have to converge at high energies. That would be nice but it isn't necessary.
+
+> Looking for the patch that clears this incongruity up is a big part of what is sometimes called the search for the Grand Unification Theory.
+This isn't true, a Grand Unified Theory (GUT) is when there is a convergence of three elementary interactions namely: electroweak (EM + weak interactions), and strong interactions.
+
+You can break General Relativity down to a fundamental idea that a system undergoing constant acceleration is indiscernable from a system within a gravitational well.
+Okay, cool. So, now let's say a graviton is the force-mediating particle of the gravity field.
+Similarly, the metric tensor which describes spacetime curvature is also a field, so in principle it should be able to be quantized as well.
+
+Oh ... so by "excitable" do you mean "dynamic"?  Or am I misunderstanding you?
+
+If we quantize a field, we basically find that it behaves like a quantum harmonic oscillator (basically a quantized pendulum, called a QHO) at every point in space.
+You can break General Relativity down to a fundamental idea that a system undergoing constant acceleration is indiscernable from a system within a gravitational well.
+
+This is not true.
+But isn't this only for bound particles?  A free electron doesn't have discreet states like that, does it?
+
+What's the difference between an excitation of an electron field of mode 0 or mode 1?
+Mode 0 would be the vacuum, and mode 1 would be a single electron. You can't get mode 2 for fermions (as far as I know, we build that in to the theory).

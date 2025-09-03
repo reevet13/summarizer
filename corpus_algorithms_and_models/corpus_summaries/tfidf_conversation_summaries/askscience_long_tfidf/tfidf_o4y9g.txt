@@ -1,0 +1,59 @@
+Original Response:
+I'm currently working on a music and art project featuring a volcanic eruption. An eruption from a stratovolcano (of course), for it's violent and explosive eruption. I would really appreciate some insight from you awesome people to better translate magma and the whole process of the eruption into music.
+
+By different phases I mean for example when magma is in the mantle core, in a magma chamber and as lava on the surface among with possibly other phases.
+
+Here are some specific questions regarding magma:
+
+* How chemically homogeneous is magma in the mantle core?
+* What are differences in the chemical composition of magma in different phases and where and how do they occur?
+* How close to the earth's core can lava have been?
+* How fluid is magma in different phases? I'm mainly thinking of felsic lava.
+* What is the interaction between magma and the crust like in different phases? How would you describe its 'journey' to the surface?
+
+Thanks a lot!
+Magma formed in the upper mantle (not the core, or even close - as far as the whole Earth goes, these processes are skin-deep) would normally migrate to a secondary magmatic chamber  (not the best figures, but ok for our purposes:  http://publishing.cdlib.org/ucpressebooks/data/13030/51/ft6v19p151/figures/ft6v19p151_00011.gif, and : http://www.largeigneousprovinces.org/sites/default/files/2011Oct-fig-4.png) where it would accumulate until eruption. In the interim, several processes are acting with physical and chemical effects on the magma:
+
+Differentiation: The magma issuing from mantle fusion has a relatively homogeneous composition, when it reaches a secondary magmatic chamber it will undergo magmatic segregation. This process is analogous to the unmixing of a salad dressing: Oil floats on water, denser solids settle to the bottom. In the case of magmatic segregation, ferromagnesian minerals (olivine, magnetite, pyroxene) settle in the bottom while lighter silicates such as feldspar and quartz concentrate at the top (as well as volatiles - more about those later).
+
+Convection: as magmatic segregation goes on, density and temperature differentials induce convective circulation. This is akin to the roiling inside a boiling soup pot. Stuff goes up the middle (warmer) part of the magmatic chamber and down along the sides, which are cooler.
+
+The combination of convection and segregation can lead to forming magmatic bedding, whereby different layers of progressively different composition accumulate at the bottom and top of the magmatic chamber with the addition of each new magmatic pulse. These layers are a few meters thick and are haver denser minerals at the bottom at less-dense ones at the top, leading to segregation at several scales, in a sort of fractal pattern. For instance: at the base on the magmatic chamber, layers could show the following sequence: basal layer of olivine (dunite), olivine with progressively more pyroxene (peridotite), pyroxenite and pyroxene with feldpar (gabbro). Layers at the top of the chamber could show the following sequence: troctolite, norite, anorthosite. Magmatic layering shares several caracteristics of sedimentary rocks, including sedimentary structures (e.g.: graded bedding, slumps, laminations, cross-bedding, scoured bed bases, etc.). Here is an example of magmato-sedimentary structures in peridotite: (http://i.imgur.com/7M4PT.jpg) - in this case lamination, cross-bedding, bed scouring and bonus feature: micro-horst and grabens (very uncommon).
+
+Interaction with the wall-rock: During its stay in the magmatic chamber, the magma may rip off chunks of material from the surrounding wall rock. These will remain in the magma as "enclaves", or melt and change the composition of the magma if the P-T-pH2O conditions are right.
+
+Juvenile magma would be quite fluid, while a more highly differenciated melt, enriched in volatiles, would be more viscous.
+
+The composition of the liquid going to the volcano would thus differ from that introduced into the magmatic chamber, and would depend on how long differentiation has been going on, and on how much fresh magma was introduced in the secondary magmatic chamber. It would also depend on where the magmatic "plumbing system" would take the liquid which would go up to the volcano. A fracture into the top of the magmatic chamber would be typical for a stratovolcano and produce a relatively less-dense silica-rich liquid with a concentration of volatile elements. The latter are important as they will provide most of the motive force for the eruption. Their rôle is the same as the gas in a shaked soda bottle: as the liquid goes up, the pressure of the surronding rock pile decreases. This reduces gas solubility, allows degassing and formation of microbubbles. A positive feedback loop ensues: Less pressure means bigger bubbles, which increases the volume of the liquid, which forces the liquid up, which reduces the pressure even further, and so on. By the time the lava from a stratovolcano reaches the surface, it is litterally a gushing soda bottle of spattering lava foam, forming scoria (lava foam) and volcanic ash (dust-sized microscopic volcanic glass shards).
+
+Hope this helps, I tried to keep this simple but we could go on and on about this, it is a broad topic...
+Thanks a lot for taking the time to respond so well!
+I'm trying to find a way of delving deep enough into the topic to get a good understanding of the processes at work whilst not losing myself in it. You have just helped me a lot with that, thanks. 
+
+
+I think this subreddit is such an amazing place, where people are taking the effort to share their knowledge with complete strangers. I love seeing people being passionate about their work and this place is full of them. I imagine it can be really satisfying to see interest in your work and to directly share it with laymen. Science is very distant for a lot of people who don't realize how much it affects their daily lives. So the scientific community is rather isolated and therefore often doesn't get the recognition it deserves. Finding a way of showing people the beauty and importance of scientific research is really important to sustain a healthy level of science in society I think, something that is often overlooked in politics and scientific communities. Askscience in its own way contributes to this. Neil de Grass Tyson is a great man in this regard, his ability to incite wonder and to pin point in very few words how beautiful the spectacular complexity of it all is, is truly inspiring.
+
+
+I may have misworded a bit when I said mantle core, I just meant mantle. I tend to think of anything beneath the crust as core, therefore I said mantle core, which is pretty silly considering the crust is comparable to the skin of an apple. 
+I thought because of convection in the mantle, magma which later emerges as lava may have been relatively close to the outer core. I may not have thought enough of the immense scale, I guess the lighter material in the upper mantle probably never even comes close to the lower mantle.
+
+If you don't mind I may come back to you with some more questions later on. In the mean time I'll be digesting this and reading up more about it, you really gave me right directions to look to, thank you.
+
+In due time I'll try to share the finished piece with you. 
+
+Keep on being awesome!
+It's been a pleasure! 
+
+Feel free to ask should you have other questions. It might be worth taking the time of looking at pictures from layered igneous complexes such as the Lac Doré, Bell River, Bushveld, Muskox and Stillwater complexes to get a feel for the rocks and the processes.
+
+Perhaps you can work in a thème symbolising geologists scratching their heads trying to figure out what the rocks are saying...
+
+Good luck in your work - I'd certainly enjoy hearing the finished piece - have fun and enjoy!
+
+Summary:
+* How fluid is magma in different phases?
+* How close to the earth's core can lava have been?
+I thought because of convection in the mantle, magma which later emerges as lava may have been relatively close to the outer core.
+* What is the interaction between magma and the crust like in different phases?
+Thanks a lot for taking the time to respond so well!
+I would really appreciate some insight from you awesome people to better translate magma and the whole process of the eruption into music.

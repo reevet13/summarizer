@@ -1,0 +1,13 @@
+Dearest reddit, the photo linked below was taken around 7pm on Nov 12, 2010 in Eureka Valley, CA. It's a 16 minute exposure. There's a straight line starting in the bottom left corner, and I have no idea what it is. I've ruled out anything stuck to my lens or image sensor, because it doesn't appear on any other shots from that night. It doesn't look like a jet to me, at least not like any others I've captured in long exposures. What do you think?
+
+Based on the brightness relative to the stars, I'd rule out meteor. 1/4 second of something dimmer than a star over a 16 minute exposure won't leave that kind of trail. An airplane is also not terribly likely, as they tend to leave multiple trails, and usually red/green for the left/right side of the plane. At the light levels in the picture, you would also expect to see the vapor trail.
+
+The picture is the perfect time for a satellite to appear; it's just getting to be either dawn or dusk and therefore the satellite will be in the light.
+
+Are you using a super-wide lens? If so, you do realize that such a lens will cause an aspheric effect at each side, especially of objects that are straight up and down. Now using such a long exposure, the camera is able to see things far brighter than the human eye. So my conclusion is that it is something you didn't see with your naked eye and likely goes straight up and down. My conclusion: a communications tower.
+
+Although I'm having difficulty identifying which constellation the object in the picture is moving through, [OAO 2 Rocket](http://www.heavens-above.com/PassDetails.asp?Size=600&amp;SatID=3598&amp;lat=37.775&amp;lng=-122.418&amp;alt=60&amp;loc=San+Francisco&amp;TZ=PST&amp;Date=40494.1178353789) looks like a fairly close match. Tiangong 1 does too, but it wasn't actually launched until 2011.
+
+I would propose that the conjectured satellite was so clearly visible when a part of it happened to reflect sunlight straight into your lens. The others are not reflecting light to your detectors (eyes/camera) so they are not noticed.
+
+The search period in the page you linked ended at 01:00 on Friday the 12, and this shot was around 19:00. On this [search](http://www.he

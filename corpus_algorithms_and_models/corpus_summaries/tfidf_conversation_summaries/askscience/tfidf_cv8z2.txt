@@ -1,0 +1,48 @@
+Original Response:
+Why are there 60 seconds in a minute and minutes in an hour instead of 10 or 100? Is it just how the units were derived? Does it have anything to do with fitting them into a calendar?
+They were first used by the Babylonians, who used a base 60 number system. 
+
+They also were the first to use degrees to do circular geometry, which is why we have 60 arcseconds in an arcminute, 60 arcminutes in a degree, and 360 (6*60) degrees in a circle.
+Base 10 as a system of units only dates back to the French revolution. Before that, 12 was commonly used because it's easy to divide into. The day and the night were originally each divided into 12 hours each. If you want to read a really history of time keeping (among other things), check out The Discoverers by Daniel Boorstin.
+Well, it's not in widespread use, but there is a [Metric Time](http://en.wikipedia.org/wiki/Metric_time) system created by the French.
+same reason as we have 12 fingers... design by committee.
+Ancient Babylonians and Egyptians relied on a 360 day calendar originally, so it's very likely these numbers descended from that system.
+Sumerians could count to 12 on one hand and 60 using two hands. Not including the thumbs you have 12 sections on the back of each finger in one hand and you can have five multiples of 12 by using the five fingers from the other hand. 12 * 5 = 60.
+&gt; They were first used by the Babylonians, who used a base 60 number system.
+
+Any reason why?
+In binary you can distinguishably count to 31 on one hand and 1023 on two :)
+Not being able to independently control the ring finger sorta screws that up.
+You can def. curl your pinky alone in enough to make it work well, though it's not beautiful
+Well, it's the smallest number divisible by the numbers 1-6, which is pretty nifty.
+
+Aside from that I suppose it's a bit of a mystery.
+I hesitate to use the word "shortcoming" but is this issue a common one? I don't know many people who can't independently control their ring finger.
+You can fully extend your ring finger such that it is parallel to your palm with the rest of your fingers in a fist? I can't even make in parallel to my knuckles that way. I assumed this was a universal thing, but it's definitely common.
+
+Edit: I just checked wikipedia and they say a "majority of people" can't extend it alone.
+Should be based on powers of two, akshually.
+See http://physics.nist.gov/cuu/Units/binary.html
+
+Only kibiseconds instead of kiloseconds, mebiseconds, and so on.
+
+http://www.google.com/search?hl=en&amp;q=GPS-disciplined+oscillator
+[deleted]
+Well, it seems Swatch [tried to make a base-10](http://en.wikipedia.org/wiki/Swatch_Internet_Time) system (kind of) in the 90's. It was just based on dividing the 24-hour day into a thousand units, setting the zero point at midnight in Switzerland and trying to make the whole world use the same time system. 
+
+Needless to say, it flopped completely.
+Historical reasons, just like the reason why our number system is a base 10.  That's partially justified by having ten fingers, but you could just as easily justify others bases e.g., base 8 (# of non-thumb fingers), base 20 (fingers and toes).  
+
+One nice thing about base 10 that would be nicer with [base-60](http://en.wikipedia.org/wiki/Sexagesimal) vs say a base with fewer divisors is that fractional division would be simpler, unlikely to have repeated fractions.  E.g., in base 11, the base-11 expansion of a half is 0.55555..., a quarter is 0.282828..., whereas in base 60, common fractions have simple terminating base-11 expansions: 1/2 = 0.U, 1/3 = 0.K, 1/6 = 0.A, 1/12=0.5 (where A is tenth symbol (9+1=A), K is the 20th symbol, U is the 30th symbol).  It could be more annoying to have to know 60 symbols, but we do pretty fine knowing 36 symbols with alphabet + numbers.
+
+Some time conversions will be necessary as days and years are convenient lengths of time with a ratio (~365.2425 days/year) determined by Earth's orbit/rotation speed.  So since we are forced to do some conversions when dealing with time, its not really a problem to do a few more to continue using familiar units (rather than define a [decimal second/minute/hour](http://en.wikipedia.org/wiki/Decimal_time)).
+You can still manipulate it at the knuckle pretty nicely
+You don't have to completely ball your fingers into a fist when they're a zero. Just bend them at the first knuckle (so that zero looks like you're checking your nails)
+I can extend my right ring finger but not my left.
+[deleted]
+
+Summary:
+They were first used by the Babylonians, who used a base 60 number system.
+&gt; They were first used by the Babylonians, who used a base 60 number system.
+I can extend my right ring finger but not my left.
+Base 10 as a system of units only dates back to the French revolution.

@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+At any given moment I can hold my breath for significantly longer than ten seconds, and I'm not a trained pilot or astronaut. It makes perfect sense that getting choked can cut off oxygen supply to the brain quickly, but what's the process by which rapid decompression knocks you out? The ten second figure is given as a safe guideline to get your oxygen mask donned before you start experiencing the effects of hypoxia.
+
+A complete vacuum would not be much more severe than what rapid decompression at high altitude would do. Well, that's not quite true, AFAIR cabin pressure is at an equivalent of 3-5000 ft, so on the plane you'd go from around 90 kPa to 20. But the point remains - it's about difference, not ratio.
+
+Gasses (oxygen) dissolve in water (blood). Hemoglobin just acts as a reservoir for replenishing dissolved oxygen; it's the dissolved oxygen that our cells use.
+
+First off, forget holding your breath. Say you're at cruising altitude and fully pressurized. Suddenly, loss of pressure...outside is ~1/6 atm so we're talking 2.5psi.

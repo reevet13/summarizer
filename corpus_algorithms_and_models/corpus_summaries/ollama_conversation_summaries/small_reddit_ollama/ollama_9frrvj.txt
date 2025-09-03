@@ -1,0 +1,16 @@
+Here is the summary of about 10% of the text or up to 250 words by selecting only sentences from the original text exactly as written:
+
+You mean telegram,
+
+whatsapp is Facebook, Facebook is evil
+
+Can't scream this loud enough often enough, Telegram isn't necessarily secure or anonymous.
+
+If you want the convenience of all of the alternate messengers with real forward secrecy and zero knowledge, use Signal. On Android it can also become the default messenger, and take over texting.
+
+TIL that [Signal](https://signal.org/) is open source:
+
+
+As an Open Source project supported by grants and donations, Signal can put users first.
+
+That said, I've tried for months to get friends and family onto signal, they won't do it. Stuck on WhatsApp. Still.

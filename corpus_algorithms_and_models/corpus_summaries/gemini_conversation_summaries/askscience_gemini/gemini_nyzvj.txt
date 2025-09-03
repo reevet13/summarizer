@@ -1,0 +1,46 @@
+Behavior of [this simple circuit](http://youtu.be/RkTvDjhImwo) is a little unusual.
+
+I understand how it can be done with two LEDs (by adding four extra diodes in parallel to switches and LEDs, and DC-to-AC converter inside the battery connector), but not how to add the third LED.
+I think its a hoax.
+It is. My question is, how is it done?
+I think the glow off the LEDs is pasted over cleverly, though the lights do interact with a pen at a point (when they are all lit), I think its just some video effects and the lights only light when they are supposed to and those frames are the source of the glowing lights.
+
+Or maybe it is an AC/DC trick as mentioned in the youtube comments.
+Modify the switches to add oscillators. You want to have each switch generate one specific frequency (eventually, block DC current).
+
+Then a band-pass filter in each LED?
+Video editing seems to be a good option given that it's on a very easy to edit out background.
+I'm guessing it is voltage divider trickery, however I can't see the strips on the big resistor so I can't give a quick "is that even a possibility" confirmation.
+[deleted]
+Band-pass filters would be visible in the video. I don't think there is enough space to hide them under the LEDs.
+
+Maybe an SMD capacitor under the LED, and coil inside the corresponding switch?
+There are 0.6mm x 0.3mm SMT components nowadays, you can easily fit a few of them under a 5mm LED... then paint them in RED!!! :D
+
+You can also rely on the fact that the LED has a capacitance...
+I don't think there's anything done in post. The same guy has another video, with two LEDs and two switches in parallel, which can be explained by just extra diodes and AC.
+Everything was pre-cut and carefully measured out ahead of time, and it looks like the work surface is thin enough to be printed on... perhaps a clever use of induction? Notice at about 2:09 how carefully he bends and positions the LEDs with the leads directly down. In the comments, he also mentions that they're 5mm LEDs with some "modifications." My guess is still induction.
+Well, clearly he is hiding something. The question is what. If everything is "what it appears to be", this would not work. No questions asked. So what is he hiding?
+
+My guess is he modified the 9v to hide an DC to AC circuit in the battery. I don't see how he can control 3 LEDs otherwise, but maybe there is a way without doing so. I can definitely come up with a way to do it using a DC source and only two LEDs.
+
+Here are some ways you could get this kind of behavior:
+
+You could use diodes in parallel with the switches to select the direction of current, and diodes in parallel with the LEDs to make sure current can always flow in both directions.
+
+You can play tricks with DIACS or TRAICS so if the voltage and or current exceed a certain threshold, the DIAC or TRIAC trips and shorts that part of the circuit until current is removed.
+
+You can have LEDs of differing voltage levels.
+
+So, for instance, you could have a low voltage LED with a TRIAC. So long as the voltage is low enough, the LED lights up but the TRIAC doesn't fire. This could be in series with a high voltage LED in parallel with a resistor, so that the high voltage LED won't turn on, but current can still pass to light up the low voltage LED.
+
+Then you could apply a high voltage in the same direction and trip the TRIAC, thus shorting out the low voltage LED and causing it to go dark, while the high voltage causes the high voltage LED to light up.
+
+Then you could reverse the current direction to light up the third LED.
+
+So you could actually have four switches and four LEDs in a row. Of course you have to have TRIACS or DIACs in the LEDs (reverse diodes should be easy to find in an LED), and an appropriate circuit.
+
+I notice that when he turns off the three leds the first time that he starts with the middle LED. That is what is making me think there is a TRIAC or DIAC involved. My guess is that order is important in whatever circuit he came up with.
+Going off what [proba60](http://www.youtube.com/user/proba60) has posted, the source is defiantly an AC one, he has posted a couple of schematics as video's. Also included the russian-&gt;english google translation from google...
+
+[3 LED's](http://www.youtu.be/

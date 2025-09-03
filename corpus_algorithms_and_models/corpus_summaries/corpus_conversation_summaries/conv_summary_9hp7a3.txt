@@ -1,0 +1,103 @@
+Original Response: 
+Not only are they theorized, but they have been observed.
+Not only have they been observed, but they are incredibly numerous.
+It's estimated that they make up ~10% of the mass of the Virgo galaxy cluster.
+[More reading](https://en.wikipedia.org/wiki/Intergalactic_star)
+Would it theoretically be possible for such a star to have a planet capable of sustaining life?
+So you are saying that we've been worried all this time that an asteroid might hit our planet, when in fact there is a chance a whole STAR hits our planet?
+Theoretically yes, practically life would probably be less likely there.
+Stars that were kicked out of their galaxy typically got their speed from very close encounters with black holes or violent supernovae.
+Neither of those is good for life as we know it.
+It doesn't even have to hit us.
+It can just wander in the general neighborhood of the Sun and disrupt our orbit so we get ejected from the solar system.
+Not even within the solar system, depending on the mass.
+Then we freeze to death as the Sun gets farther and farther away.
+Life is truly tenuous.
+Solar and wind is great but to be free of the Sun we'd need fusion and on a huge scale.
+Even then we'd be limited to small, livable areas and wildlife preserves.
+Absolutely.
+Even if the star is ejected due to interaction with a supermassive black hole, it's likely that the planets orbiting that star would continue to do so because they lie well within the star's [sphere of influence](https://en.wikipedia.org/wiki/Sphere_of_influence_\(astrodynamics\)).
+Not quite true.
+We think that most of these are kicked out of their galaxies via fairly benign galaxy mergers (benign from the perspective of the individual stars, which rarely if ever get close enough for anything violent to happen).
+Even if a star is kicked out, its planets will probably follow.
+Disclaimer: not an astrophysicist.
+Just a lowly engineer that works with them.
+&gt; there is a chance a whole STAR hits our planet?
+Well yes, duh!
+There's an estimated 100-400 billion stars in the Milky Way.
+All whizzing around just looking for a planet to slam into.
+Heck, as lunchlady55 says, they don't even have to hit us directly to cause an extinction-level-event.
+However, stars have a couple of qualities that do allow us to conclude that there is no imminent danger from being unduly affected by the passage of a nearby star:
+
+1.
+They're really, really, far away.
+4 light years away at the closest and that one isn't even headed directly for us.
+2.
+They're very bright, so they can't sneak up us.
+It also makes keeping track of them fairly easy.
+Thus, through diligent research over several centuries our courageous astronomers have determined that no star will come closer than ~3 light-years for the next 100,000 years.
+https://en.wikipedia.org/wiki/File:Near-stars-past-future-en.svg
+
+After that all bets are off.
+Coming into contact with species of a planet belonging to a rogue star could be a cool concept for a sci-fi story.
+Sure, but it would have to get insanely close to disturb the influence of the sun's gravity.
+[This paper](https://arxiv.org/pdf/1807.02960.pdf) theorizes that the passing star would have to come within 50-150 AU (2-3x the orbit of Pluto) to disrupt planets in our system.
+To eject us it would practically have to fly right through our orbit... not likely to ever happen.
+[removed]
+[removed]
+I'm just calling attention to that fact that it could disrupt the solar system with out entering it.
+That paper also describes the perturbation of TNOs, not planets, so I'm not sure what the exact parameters would need to be to disrupt the inner solar system.
+The positions of the planets are chaotic and can't be predicted on long time scales (millions of years.)
+It's even [possible that Mercury could be ejected even without external disruption on a long timescale.](https://en.wikipedia.org/wiki/Stability_of_the_Solar_System#Mercury%E2%80%93Jupiter_1:1_perihelion-precession_resonance).
+A slight nudge from a passing star could have catastrophic effects.
+It doesn't have to eject the planet to cause mass extinctions though, merely making the orbit significantly more eccentric could wipe out most life, and even human survival becomes questionable.
+Id wager in 100000 years well all either be dead or so advanced that rogue stars are just like having dinner delivered.
+[removed]
+I wonder what the night sky on a planet orbiting a rogue star would look like.
+Could you imagine living on a planet of a rogue star just leaving the Milky Way on a vector heading perpendicular to the plane of the disc?
+The night sky would be basically blackness in areas of high light pollution, except for an emormous galactic spiral vista spread out across \~40% of it.
+What a view it would be.
+[removed]
+They have nearly no stars in their night sky, apart from that they would hardly see a difference for everyday life just based on their position.
+&gt;  The positions of the planets are chaotic and can't be predicted on long time scales (millions of years.)
+Technically correct, but the main effect is an unknown location within the orbit.
+In other words, it is hard to predict how many times Earth will orbit the Sun in a given time, but it is easy to predict Earth will roughly keep the same distance to the Sun (slightly receding in a predictable way as the Sun loses mass).
+We can predict their motion much longer in advance.
+[Gliese 710](https://en.wikipedia.org/wiki/Gliese_710) will come quite close to the solar system in 1.3 million years - about 0.2 light years, but still more than 10,000 times the Earth/Sun distance, so no effect on Earth's orbit.
+It will be a very bright star in the night sky and we might get more comets disrupted by this passing star.
+Doesn't even need much light pollution for a black sky then.
+You can get a night sky completely devoid of stars in large cities on this planet already.
+It would be interesting how that would effect the development of any civilisation.
+Navigation at night would be much harder, and potentially nigh on impossible depending on what moons they had, until they developed a GPS like system.
+You still have galaxies.
+[removed]
+It depends on the location.
+Here on Earth, if the rest of the Milky Way and its satellite galaxies vanished we'd just have the Moon, the naked-eye planets, and two faint fuzzy bits of light (M31 Andromeda and M33 Triangulum) readily visible to the naked eye, with a few more visible to someone with really good night vision.
+Pick a rogue star in a random spot in the universe and I'd expect something similar.
+In a rich galaxy cluster you might see dozens of fuzzies, whereas in much of the universe you wouldn't even see anything outside your solar system.
+If a rogue star is near a large galaxy (say if it's been ejected from said galaxy) then said galaxy would look much like the Milky Way or Magellanic Clouds, just a different shape.
+Agreed; I was theorizing a planet (not this one).
+Obviously it's already tough to make out Andromeda near a big city; it would be even more difficult if we were leaving the galactic plane and the night sky would have very few discernable individual stars in it.
+We could theorize further that any nocturnal species on such a planet would have far more sensitive visual sensors, possibly enabling them to see at least a few relatively close galaxies as points of light.
+Navigation over long distances would certainly be much harder in such a world, as would astronomical observations.
+Science and trade might develop much different than on our world.
+That would be 10% of the mass, excluding dark matter, wouldn't it?
+Given that baryonic mass is only ~15% of the universe's mass (the rest being dark matter), yes, it would have to be.
+Otherwise there are more non-galactic stars than those in galaxies, which is not the case.
+In general they would be incredibly dim, though.
+If you managed to find yourself in some random part of interstellar space you’d barely be able to see even one.
+Maybe check out the novel *Life, the Universe and Everything,* by Douglas Adams.
+
+Summary: 
+Even if a star is kicked out, its planets will probably follow.
+What a view it would be.
+It doesn't even have to hit us.
+&gt; there is a chance a whole STAR hits our planet?
+Otherwise there are more non-galactic stars than those in galaxies, which is not the case.
+Would it theoretically be possible for such a star to have a planet capable of sustaining life?
+Not even within the solar system, depending on the mass.
+It depends on the location.
+I wonder what the night sky on a planet orbiting a rogue star would look like.
+Agreed; I was theorizing a planet (not this one).
+Not only are they theorized, but they have been observed.
+It would be interesting how that would effect the development of any civilisation.

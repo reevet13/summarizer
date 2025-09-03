@@ -1,0 +1,17 @@
+I'm not a physicist, but I'm pretty sure your coworker is wrong.
+
+To me, this doesn't prove the existence of parallel worlds and realities.  In fact, that statement is so vague, it really doesn't mean anything.  What is there in the above explanation that requires the incorporation of parallel worlds?
+
+Although really the phrase "parallel realities" is somewhat misleading; there's only one reality, it's just that you, as a portion of the universal wavefunction, can span a space on that wavefunction that includes different outcomes for the same event.
+
+The most straightforward bridge to me is just that there is an interference pattern, which implies there is interference.  What is the source of the interference? We have a mathematical model called the Schrödinger equation which reproduces the observed interference effects perfectly, as well as a number of other experimental observations.
+
+The only problems are 1) this scenario implies a lot of extremely weird stuff could be happening (i.e. what would happen if someone put hitler inside the box instead of Schrödinger's cat?) which makes astute, level-headed scientists uncomfortable 2) we lack a really rigorous mathematical workup of how exactly decoherance prevents the parallel versions of you from communicating with each other, although we are getting closer all the time.
+
+The electron is a point particle.  You can see the points of contact of individual electrons hitting a screen.  If you're going to assert that the electron "is" a wave packet, then you need to be able to explain why it acts like a point particle when interacting with a solid surface.
+
+When interacting with the screen, it acts as a point particle because the measurement is being made to determine its exact position.  However, when en route to the detector, it behaves as a wave, with the wave packet representing the spread of probable locations of the electron.
+
+The process is, as best we can discern, random, and there's no "interpretation" that can do anything more than sweep the question under the rug.  
+
+There's no way to truly answer that question without invoking randomness at one level or another.

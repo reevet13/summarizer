@@ -1,0 +1,36 @@
+Original Response:
+I know it's relatively harmless, but I wouldn't mind knowing the effects this chemical has, aside from the sweetness of it. The Internet is rife with conspiracy and baseless claims surrounding this chemical.
+Upon ingestion, aspartame breaks down into natural residual components, including aspartic acid, phenylalanine, methanol,[25] and further breakdown products including formaldehyde[26] and formic acid, accumulation of the latter being suspected as the major cause of injury in methanol poisoning. 
+[source](http://en.wikipedia.org/wiki/Aspartame#Metabolism_and_phenylketonuria)
+Aspartame breaks down into several chemical by-products, some of which have been shown to lead to illnesses in the body:
+
+* **Phenylalanine**: Phenylalanine is a natural component of human breast milk. However, it can be toxic to humans who cannot metabolize phenylalanine when high quantities are ingested.
+
+* **Methanol**: Methanol has high toxicity to humans. High levels of methanol can lead to destruction of the optic nerve (which transmits visual stimuli from the eyes to the visual cortex) and depression of the central nervous system. Methanol also breaks down into formaldehyde and formic acid, leading up to hypoxia and metabolic acidosis in the body.
+
+While this might all sound scary, aspartame is one of the most widely studied non-nutritive sweeteners on the market. It is used in over 90 countries in over 6000 products, and the levels of aspartame being used have been deemed non-lethal.
+
+*Edited for clarity
+Another question: Other than the fattening effects of sugar, is it less or more safe than Aspartame? How about High Fructose Corn Syrup?
+I rarely post to askscience and hope I am not outside of the rules. However on the "fattening effects of sugar front". I believe multiple studies have shown that diet cola drinkers end up consuming more calories overall not sugary drinkers. I am a very heavy diet-coke drinker and find that very interesting.
+&gt;I believe multiple studies have shown that diet cola drinkers end up consuming more calories overall not sugary drinkers.
+
+I drink diet cokes a lot and find that very interesting as well. Any links to some studies I could check out?
+I think the reason is that sugar will tell your body your satisfied, but when you don't get sugars your body doesn't release hormones to say that you've ingested sugar and you stay hungry
+As far as HFCS goes there are some ways to enrich it (to make the [high] part) that leave residual mercury reagents in the solution. But not all HFCS contains Hg
+Got a crying baby on my hands, so research is not too high on my list but found this story in the LA times [LINK](http://articles.latimes.com/2011/jul/01/news/la-heb-diet-soda-weight-gain-20110701)
+
+What I remember from looking into it in more depth previously was the general consensus that it teaches your body that it cannot trust your sense of what you have eaten. Basically, your body realizes that even though you appear to be consuming a sweet beverage that should contain calories you are getting no nutrition from it. 
+
+I would be interested to see a study that used ultrasound to see if a person that loads up on diet drinks during meals clears the food out of their stomach faster than someone who drinks regular soda or water/tea. I always drink 2-3 times as much at meals as everyone else, and feel it helps to speed the digestion of my food making me hungrier again sooner...
+
+Again I apologize if rambling like this is considered uncouth in AskScience. I love this sub-reddit and hope I don't get deleted :)
+According to the FDA and several meta-analyses done over the years, aspartame is completely safe for people that do not have PKU. Even in extreme doses, the methanol metabolite never can accumulate to any toxic dose in cells. It's important to note that the reason aspartame is so effective as a zero-calorie sweetener isn't because the compound isn't actually metabolized (which it's zero-calorie features seem to suggest), but rather, because you have to use *so little of it* to make a drink extremely sweet. This is because aspartame is 200x sweeter than sugar, so you can use 1/200 the amount you would of HFCS to get the effect.
+It is an interesting phenomenon if true, but I think it's really only useful information with large populations. If an individual drank two sodas a day and were able to switch that to diet *without changing anything else*, that person would be consuming fewer calories. 
+
+The correlation could be the other way around, and maybe people who eat more in general tend to decide they need to drink diet to make up for it.
+
+Summary:
+* **Methanol**: Methanol has high toxicity to humans.
+However, it can be toxic to humans who cannot metabolize phenylalanine when high quantities are ingested.
+I drink diet cokes a lot and find that very interesting as well.

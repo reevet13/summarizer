@@ -1,0 +1,9 @@
+Here is a summary of the text, consisting of 10% of the original content (up to 250 words):
+
+I've been having problems with my ram and it won't detect in Corsair icue and customer support suggested turning it on but I can't find it
+Yikes, normally I do not recommend messing with the SPD (or letting anything use it for that matter) lol. This is the easiest way to brick your RAM sticks.
+The reason they want you to turn it on is the iCUE basically flashes your SPD chip whenever you want to change the RGB settings. This hardcodes the colour in to the RAM EEPROM.
+
+Honestly I want to choose RGB but cant find the option for SPD write anywhere in my bios
+Looking at ur Mobo manual, you don't seem to have an SPD flash option.
+If that is the case how do I get my ram to show up in icue. I've asked numerous times but can't get a answer that works

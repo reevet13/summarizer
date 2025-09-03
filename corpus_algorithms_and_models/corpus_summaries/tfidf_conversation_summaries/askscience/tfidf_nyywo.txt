@@ -1,0 +1,65 @@
+Original Response:
+In terms of purely physical attractiveness, I seem to see so many heterosexual couples where the female is much more attractive than the male (in my subjective opinion).
+
+If we say that attractiveness roughly follows a bell curve in males, then there are lots of 3-7s and many fewer 1-2s and 9-10s. There are about as many 9-10s as 1-2s though. In my experience, the curve for women is skewed towards the higher end of attractiveness.
+
+This is an article that references a study done on this:
+http://www.telegraph.co.uk/news/newstopics/howaboutthat/5912250/Women-getting-more-beautiful-say-scientists.html
+
+Do you notice the same thing, askscience? Have other studies been done on this?
+The article you link to refers to Satoshi Kanazawa's work. He is an *infamously* bad scientist, and I've frequently seen him described as exemplifying the worst stereotypes of evolutionary psychology. 
+
+The possibility that we can scientifically say that women are getting "more attractive" is silly, for one main reason; what is "attractive" or "beautiful" is entirely subjective, as you note in your question. The very idea of objective attractiveness doesn't make much sense, despite Kanazawa seeming intent on trying to produce work based upon it.
+Hey, in the time since I saw your post on r/AskReddit I did a little bit of searching and I found the studies I was thinking of earlier.  I think you'll have access at least to [this one](http://personal.lse.ac.uk/Kanazawa/pdfs/JTB2007.pdf), but there's a chance [this](http://rsx.sagepub.com.offcampus.lib.washington.edu/content/18/4/353.full.pdf+html) is available only through my school network.  [Here](http://www.psychologytoday.com/blog/the-scientific-fundamentalist/201101/women-are-more-beautiful-men) is an interesting article I found from Psychology Today, also.
+That's interesting!  I was wondering why a study that generated so much interest in the general public didn't seem to excite the scientific community...and why it didn't get published in a journal with more readership.  Although, I'm not sure anyone was really trying to objectively define attractiveness.  I just skimmed the abstract, but I thought the method was to use other people's ratings of attractiveness?
+Not a generalizable study, but [this post](http://blog.okcupid.com/index.php/your-looks-and-online-dating/) at least provides statistical evidence that, amongst users of okcupid, males rate females more highly than females rate males.
+
+Another explanation of your observation is that you just find females more attractive than males.
+Another aspect to consider is that what makes a woman attractive, evolutionarily speaking, is her fertility and youth, while men are valued for their reliability and ability to provide (in addition to good looks).
+So in a given population two people of equal sexual market value could look as you describe--she'll be pretty and he'll be rich.
+&gt;I thought the method was to use other people's ratings of attractiveness?
+
+It was. Then those ratings were treated as measurements of objective attractiveness, because they were - and this is a direct quote from Kanazawa's article - "not self-reported".
+While it's definitely not appropriate to call subjective ratings as an objective measure, it doesn't seem like you can discount the data because of that.  I mean, say that he called it subjective in the first place, would that make a difference?  Admittedly, his methods were probably more flawed than what you pointed out there.  But there are a lot of studies on attractiveness that people *do* take seriously, right?
+It seems more mythbuster-science than real science, though
+You're right, social psychology isn't real science.  Oh wait...
+does that include studies that suggest beauty to be correlated with certain ratios and proportions?
+I'm not sure why you don't think this is a 'generalizable' study.  OKCupid has a very large dataset (in the millions), bigger than any sample size the typical social-science researcher would be able to get their hands on.
+
+Just because it wasn't published in a journals doesn't mean its not a proper study.
+Fair enough. I was erring on the side of caution, really. It does tell us with certainty that, amongst users of okcupid, males rate females more highly than vice versa. The reader can then conclude from that that the same is true of the general population if they choose :)
+
+I think if I were to raise actual criticisms, I wouldn't be concerned with sample size, but with things like whether males are simply more likely to signal attraction than females are (iirc it is based on ratings - it notifies the owner of the profile if someone has rated them 4 or 5 stars, and notifies both parties if they rate each other 4 or 5 stars), whether males feel more comfortable just going around ogling profiles and clicking the equivalent of "niiice" instead of poking fun at profiles for a laugh (basically, the intent they have when they start searching), and things like that.
+
+I'm not saying any of these criticisms would turn out to be serious, but the fact that it's not exactly peer reviewed means it hasn't gone through the process of being exposed to these kind of criticisms and responding to them, which means I treat oktrends as "some interesting bits of data" rather than "hard science".
+Those studies, in my experience, tend to make it very clear that when they're talking about "beauty" they're talking about other individuals' perceptions of attractiveness. So, no, it doesn't.
+hmm maybe I dont understand what you mean.
+
+You said beauty was entirely subjective so we couldnt determine if women were getting more and more attractive. But it seemed like studies suggested that beauty was correlated with ratio proportions. Closer to a certain proportion, the more a person was likely to be found attractive.  So wouldn't that mean that saying beauty is entirely subjective is a bit misleading? Also, if its true that the beauty is correlated with the golden ratio, theoretically couldnt we measure womens proportions to see if on average they were more closely representing the golden ratio over time?
+That gets right back to the issue what is "attractive" or "beautiful? There's so many factors that affect it that the data is effectively meaningless.
+
+You can easily look at how various cultural standards of beauty have changed over the years to see how moot these subjective surveys are. A great example would be the "Venuses", such as [the Venus of Willendorf](http://2.bp.blogspot.com/-gdyvEsh4_6U/Ta5TJ32i8YI/AAAAAAAACoA/lECOWbuGRNc/s1600/Venus%2Bof%2BWillendor%2B3%2Bangles.jpg), [Venus Anadyomene](http://upload.wikimedia.org/wikipedia/commons/a/a2/Anadyomene.jpg), [Russian Venus](http://upload.wikimedia.org/wikipedia/commons/4/40/Kustodiev_russian_venus.jpg), [Venus de Milo](http://upload.wikimedia.org/wikipedia/commons/a/a5/Venus_de_Milo_Louvre_Ma399.jpg), etc. (All NSFW.) For a more culturally relevant example, just look at the emo/scenester/hipster guys as opposed to guidos/meatheads. (And it's worth noting that all this is in a very narrow cultural lense.)
+
+tl;dr Subjective data provides no insight to the question because there are so many confounding variables.
+What I mean is that when somebody says something is beautiful, or attractive, that judgement says more about *their perception* of that thing than the actual thing itself. If faces that approximate the golden ratio are, on average, rated as more beautiful than those that don't, we can't say that those faces are objectively more attractive than others; we can merely say that the individuals we questioned, on average, found such faces more attractive. It's a subtle, but (in my mind, at least) important distinction.
+
+It's also my impression that such correlations are relatively weak, although as my tags indicate this really isn't my sub-field.
+[deleted]
+I've read a study that concluded relationships dont work well when the man is hotter then woman. The study sample was marriages though.
+On a side note to this, you would need to be careful citing that data as there are other variables in there that would definitely have an impact.
+
+The main one I can think of is that would a male score a female higher than he genuinely believes her to be in order to achieve a goal, i.e. get a date? 
+
+Edit: I understand there is a counter argument in that we would expect an even amount of females doing the same, nullifying the point. But we have to agree, males do tend to get stereotyped into the needy category alot more than females, which may lead to more false ratings.
+Yes, this would be another issue - selection bias. OkCupid in particular also tends to skew young and geeky relative to the general population.
+I think you might be confusing "entirely subjective" with "random"
+Out of curiosity, would it be possible to quantify what appears to be a culturally-subjective concept of beauty to the various preferences of an individual culture, or is the amount of subjectivity even within a given group too varied to ever *quite* nail down in quantitative terms?
+
+Summary:
+But it seemed like studies suggested that beauty was correlated with ratio proportions.
+So wouldn't that mean that saying beauty is entirely subjective is a bit misleading?
+I'm not sure why you don't think this is a 'generalizable' study.
+That gets right back to the issue what is "attractive" or "beautiful?
+You said beauty was entirely subjective so we couldnt determine if women were getting more and more attractive.
+does that include studies that suggest beauty to be correlated with certain ratios and proportions?
+The study sample was marriages though.

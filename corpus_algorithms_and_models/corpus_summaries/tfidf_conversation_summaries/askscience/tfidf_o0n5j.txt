@@ -1,0 +1,44 @@
+Original Response:
+If you're in a plane that loses pressure at altitude, you have somewhere around ten seconds to get an oxygen mask on before you lose consciousness. Why? At any given moment I can hold my breath for significantly longer than that, and I'm not a trained pilot or astronaut. It makes perfect sense that getting choked can cut off oxygen supply to the brain quickly, but what's the process by which rapid decompression knocks you out?
+It doesn't knock you out immediately. The ten second figure is given as a safe guideline to get your oxygen mask donned before you start experiencing the effects of hypoxia, which might cause you to not realize anything is wrong and then forgetting about why that mask is dangling in front of your face in the first place.
+Agreed that hypoxia requires quick action, but NASA also had an accident where someone exposed to vacuum lost consciousness in a measured 14 seconds. So it seems like it still happens relatively quickly after the Time of Useful Consciousness elapses.
+Well certainly a near-vacuum is not really comparable to being at the cruising altitude of say a 737 where there's still plenty of air to keep a plane aloft.
+I disagree. Cruising altitudes are on the order of 35000-40000 feet, altitudes at which the ambient atmospheric pressure is something like 1/5 to 1/7 of that at sea level. Pressure differentials should be independent of the magnitude of the starting and ending points - the vacuum of space is only maybe 20% more "powerful" than the vacuum at these altitudes.
+I think I'm a bit confused by what you're trying to convey here...
+[See here.](http://en.wikipedia.org/wiki/File:Atmospheric_Pressure_vs._Altitude.png)
+
+In a 737 at cruising altitude you'd go from 100 kPa to 20 kPa.
+
+In a complete vacuum you'd go from 100 kPa to 0 kPa.
+
+A complete vacuum would not be much more severe than what rapid decompression at high altitude would do. Well, that's not quite true, AFAIR cabin pressure is at an equivalent of 3-5000 ft, so on the plane you'd go from around 90 kPa to 20. But the point remains - it's about difference, not ratio. In the "plane" case you go down 70-80 kPa, in the vacuum case you go down 100 kPa. It's the same order of magnitude.
+Ah thanks for the clarification. Makes sense now.
+It's not just like holding your breath, the oxygen will literally get sucked out of your bloodstream.
+
+Gasses (oxygen) dissolve in water (blood). Hemoglobin just acts as a reservoir for replenishing dissolved oxygen; it's the dissolved oxygen that our cells use.
+
+Hemoglobin will liberate oxygen *very* rapidly as needed; it's what it has evolved to do. So we can treat it as a simple reservoir, instantly replenishing dissolved oxygen until the reservoir is depleted. 
+
+First off, forget holding your breath.
+
+Say you're at cruising altitude and fully pressurized. Suddenly, loss of pressure...outside is ~1/6 atm so we're talking 2.5psi. You have ~14psi of air still in your lungs from when you had cabin pressure, but now there's only 2.5 psi keeping it in. Pressure differential of 11.5psi. Say your chest is ~1 foot square, 144 square inches, front and back so it's 288, ignore the sides because it's not going to matter, and you have roughly 1.5 tons pushing the air out of your lungs. That's all rough, but you get the point. 
+
+You exhale, you don't have much choice.
+
+Now your lungs are full of 2.5 psi air. Still 21% oxygen....let's switch to torr because that's easier...comes to ~27 torr partial pressure of oxygen. Let's just say that your blood was at full oxygen dissolving capacity (it's not, it'll be about 2/3 that at most), 4.5mL oxygen per liter of blood. You also have hemoglobin, of course, which jacks this up by slightly less than 2 orders of magnitude. Call it two orders of magnitude to be generous (you need it). So say 450mL of oxygen/liter of blood. You have ~5L, so that's 2.25L of oxygen. That's your reservoir. Once you get below ~30% of your carrying capacity, you most likely die because your cells can't pull enough oxygen out of your blood fast enough to keep themselves going. You are very certainly unconcious at 30%.
+
+At resting blood pressure, respiratory rate, etc, you can move ~20 mL of oxygen through your lungs each minute per torr difference in pressure between blood &amp; lung (read that a few times and think it through...let me know if you get stuck on that). 
+
+So how long do you have? 
+
+There's a 133 torr difference. So you're losing 20ml/torr/min * 133torr = ~2600 mL/min. Your reservoir was 2250mL, and you have 70% of that (1575mL) before you're out cold and probably dying. That's 35 seconds to probable death, using numbers that are obscenely high for initial oxygen concentration and ignoring respiration (which is going to be negligable in this case anyway).
+
+EDIT: Didn't account for the differential. I'm not going to calculate that because it's a HUGE pain in the ass. But, at the 27torr figure, you'd equilibrate at a total of ~400mL of oxygen total in your blood (HgB included). 30% of your original total of 2250 is 675, so you're not going to get very close to the 400 mark. Yes, it will make a good bit of difference, but with all the fudging I put in in favor of staying awake for as long as possible...I think it evens out.
+Makes sense, thanks. So your lungs are just dumping oxygen out of your bloodstream because the partial pressure of oxygen from the air isn't there any more, and the time to unconsciousness is basically when the deoxygenated blood from your lungs hits your brain.
+
+Summary:
+Say you're at cruising altitude and fully pressurized.
+It's the same order of magnitude.
+In the "plane" case you go down 70-80 kPa, in the vacuum case you go down 100 kPa.
+So how long do you have?
+It's not just like holding your breath, the oxygen will literally get sucked out of your bloodstream.

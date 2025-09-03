@@ -1,0 +1,33 @@
+Original Response:
+This is something that has always bothered me. If  I took off from point "A" traveled the circumference of the earth at the speed of light and landed at point "A", would I have landed before I took off. Of course this sets aside any logistical factors ie traveling the speed of light, take off/landing time, ect.
+
+So AskScience what do you say?
+Basic answer: No
+
+More complex answer:
+
+It is impossible to have anything with rest mass (such as your vehicle and yourself) to travel at *c*.
+
+That said... from the perspective of a photon (if there is such a thing as a photons perspective) - it does not experience time at all - so regardless of how long a photon took to travel in our framework - as far as the photon is concerned it died the moment it was created (but never *before*).
+
+Also, *c* can not be exceeded, so it doesn't mater how fast you were going when you 'launched at *c*' (whatever that means :). 
+
+Edit: Another way to ask your question... if I turn a flashlight on - does the light come out before I push the switch?
+[deleted]
+Hmm very intresting, as you can proably tell, sadly, my science level ended with basic earth science. So just so I understand: It just isnt possible for anything to travel the speed of light? Photons could but they only exists in one exact moment if time.
+No.  Any particle without a rest mass can travel at *c*.  We just term it the *speed of light* because light is the most common thing we experience that travels at *c*.  We could have just as easily termed it the *speed of gravity* (which also moves at *c*), etc.
+
+&gt; Photons could but they only exist in one exact moment of time
+
+Not sure how correct or incorrect your semantics are... photons actually exist outside of time (?).  As an object with mass approaches *c*, the mass becomes larger and larger until it hits infinity - which is why it can't reach *c*.  For a particle with no rest mass, *t=0*.
+Cue obligatory diatribe on the outdated idea of relativistic mass that increases with speed, and how the _rest mass_ never changes.
+shhhhh... don't confuse the issue :)
+Im assuming you are suggesting that since relative to an observer, something traveling at the speed of light does not experience time, something travelling faster would appear to go backwards in time?
+
+Ignoring the physics preventing you from going faster than c, you would still spend time below c accelerating and decellerating, so you would still be farther forward in time when you finished.
+Yes, you got it right. I figured take off/landing would take time, but say you travled 5 or even 100 times around the earth at c +100 and then landed. I am very much a lay man with science.
+I dont know what the numbers would be, since Im not sure was acceleration you would be safe in doing, but if you went around the earth enough times at &gt;c (it would probably be a lot more than 100 times since light travels about 7x the earths circumference per second and you'd have to make up the lost time, not distance).
+
+Summary:
+Any particle without a rest mass can travel at *c*.
+Photons could but they only exists in one exact moment if time.

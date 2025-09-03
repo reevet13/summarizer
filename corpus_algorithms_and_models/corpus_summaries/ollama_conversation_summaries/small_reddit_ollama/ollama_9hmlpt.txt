@@ -1,0 +1,10 @@
+Here is a summary of up to 250 words by selecting sentences from the original text exactly as written:
+
+.com and .net are two of the original endings for Domains along with .org and .gov and .edu and .mil.
+".gov" is limited to US government institutions, ".edu" is for educational institution and ".mil" is for the Us military.
+.com, net and org originally were supposed to be similarly specific with .net for organizations having to do with networking and .org was supposed to be for non-profits while .com was for "commercial" i.e. for profit organizations.
+Those rules didn't last very long and .com, .org and .net became simple generic domain endings that everyone can use for any purpose.
+In some country-specific top level domains like .uk or .jp that original us setup gets mirrored in the 2nd level.
+So you have the equivalent of a .com ending in the .co.jp ending in Japan and .gov.uk for uk government sites and so on.
+
+Let me know if you'd like me to extract more!

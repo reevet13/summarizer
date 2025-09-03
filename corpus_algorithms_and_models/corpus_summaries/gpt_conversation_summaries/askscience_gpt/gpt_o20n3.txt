@@ -1,0 +1,9 @@
+The scientific topic responsible for the effects seen here is called superconductivity (discovered in 1911!). Superconductors are materials that have zero electrical resistance (not just very low, but zero) and generally expel all magnetic fields. 
+
+These materials are particular types of superconductors called Type II superconductors, that do allow magnetic fields to penetrate at certain defects in their structure. As the magnetic field can only penetrate certain regions they become pinned in place and it's energetically favourable for the superconductor to just float above the magnet. This pinning effect means that the instability you would get with ordinary magnetic levitation no longer occurs, hence stable magnetic levitation. 
+
+Superconductivity usually only occurs at very low temperatures, which is why in the video you see the disc being removed from a bath of very cold liquid. These types of cooled superconductors are used fairly commonly around the world, for instance in MRI machines. 
+
+One such property is that they expel magnetic fields from within themselves (named the [Meissner effect](http://en.wikipedia.org/wiki/Meissner_effect)). 
+
+Superconductive materials find applications in many place, most notably in extremely powerful electromagnetic devices. Since they have zero resistance you can push very large electric currents through them without destroying the material with resistive heat losses; this is a phenomenal property because you can generated extremely powerful magnetic fields in a controlled manner that would be impossible to create otherwise.

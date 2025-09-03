@@ -1,0 +1,9 @@
+You are asking about a topic called sensory integration.
+Basically, there is not a spot in the brain where inputs are synced (in face syncing would sometimes be a bad idea such as when watching someone talk from a distance.)
+Unfortunately, the answer is we don't really know where it happens.
+I am a researcher who is involved with projects that study multisensory integration.
+First off, it takes time for your brain to process incoming information.
+To put some numbers to sensory stimulation, it takes maybe 20-40 ms for auditory information to reach the neocortex (the "thinking, processing" part of the brain), and maybe 80-120 ms for visual information.
+We are always living "in the past" in all of our senses, and our brain is built so that we can automatically compensate for this, and thus, never notice it.
+This is actually a huge problem for tennis referees.
+Their brain compensates for the latency by "seeing" the ball further along its flight path than it is, often resulting in bad calls.

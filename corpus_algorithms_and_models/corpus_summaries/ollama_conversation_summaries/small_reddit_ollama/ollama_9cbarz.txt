@@ -1,0 +1,13 @@
+Here is the summary:
+
+On Wikipedia and other places, I can read that the standard model has three gauge groups, U(1), SU(2) and SU(3), for electro, weak and strong forces. These groups are represented by matrices, but nowhere can i find what vector spaces these group elements act on.
+
+Yes, I know all this, but I am asking what the N-vector represents? What is the vector space on which the SU(3) of the strong force act on? Is it some wave function?
+
+The vector space it acts on isn't anything other than a space. So, the thing that makes these groups special and useful in physics is that they're Lie Groups and thus are continous in  some sense.
+
+So, the best way to think about the vector space the group lives in is the space the particle is experiencing symmetry in.
+
+The SU(3) group of the strong force acts on a 3-component color vector. This is the state of the particle in color-space.
+
+Sort of, yes. The space for the strong interactions is called color. The space for the electromagnetic interaction is charge.

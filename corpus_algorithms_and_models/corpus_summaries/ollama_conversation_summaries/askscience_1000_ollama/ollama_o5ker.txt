@@ -1,0 +1,13 @@
+Here is the summary:
+
+As in are there high-intensity magnets whose magnetic fields act only in close proximity? Or vice versa a weak magnet with a long range?
+
+To the best of my knowledge, there are no materials that behave like that.
+
+Magnets don't really have a "range." What you are calling a range is probably just the maximum distance between a magnet and iron where the attractive force is large enough to overcome gravity.
+
+That force is caused by the interactions between the magnetic field and the materials involved. That magnetic field is directly proportional to the strength of the magnet.
+
+You cannot have a strong magnet that dies off quickly, or a weak magnet whose influence extends far away from it.
+
+Well, you can effect the shape of the magnetic field over a short range by using highly magnetically permeable materials. This allows the magnetic field to be concentrated over a smaller area, increasing the lifting strength of a magnet, for instance.

@@ -1,0 +1,10 @@
+Here is the extracted summary of approximately 10% of the text or up to 250 words:
+
+Lightning isn't 100% understood yet, but basically the clouds build up an extremely high voltage until the potential difference between the cloud and the earth is so high that electrical current travels through the air (which is not very conductive at all - hence super high voltages are necessary).
+
+It's (sorta) the same thing as when you rub your feet on a carpet. When you rub your feet on the carpet, you actually strip the carpet of some electrons, increasing your electric potential (and your overall negative charge). Your body slowly builds up excess charge, which is released all at once when you get close enough to a doorknob or some other conductor.
+
+What's not completely understood about lightning is the process by which the charge builds up.
+Gotcha. What I was curious about was the mechanism by which the clouds gained such high charges, but it makes me feel better to know that even the experts aren't entirely sure : )
+
+But where does the high voltage come from? It has something to do with mechanical charge separation.

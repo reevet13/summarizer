@@ -1,0 +1,15 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+That's because you don't just inject naked DNA. I'll explain :)
+
+First, a virology lesson. Some viruses, when they infect you, insert their DNA into your DNA. They literally become part of your genetic code. When this happens, your cells unintentionally follow the instructions that are coded on that DNA, and make more viruses.
+
+We then infect the patient with the virus. It inserts itself into the DNA of a cell, replicates, and inserts itself into the DNA of another. This continues until your immune system gets wise and stops it. Hopefully by then the virus has deposited the gene into enough of your cells!
+
+You usually don't need to insert the gene into every cell. Just enough to restore whatever function was lost. Sometimes you don't want to insert it into every cell, because the gene you are replacing is only meant to be active in, say, the liver or the pancreas; you don't want in the brain!
+
+Gene therapies are highly experimental and don't work very well. Problems include inserting DNA in the wrong place and causing millions of tumors. And sometimes you get cytokine storms.
+
+Okay. So the aim is to reach a critical mass of "infected" cells and then by dint of having a greater prevalence of modified cells, their "different" instructions out-compete the "normal" instructions?
+
+Follow up: if you want to only affect the liver, say, do you then inject the virus into the liver?

@@ -1,0 +1,21 @@
+Here is the extracted summary:
+
+LF: 
+
+Event | OT | Nature |
+----|------|------|
+| Exeggutor | Worlds17 | Modest(fixed) |
+Bulbasaur  | WORLDS16 | Modest/Timid/Bold/Calm |
+Charmander | WORLDS16 | Adamant/Jolly/Timid/Modest |
+Squirtle  | WORLDS16 | Modest/Timid/Bold/Calm |
+Sharpedo  | WORLD15 | Adamant(fixed) |
+Aegislash  | WORLD14 | Quiet(fixed)
+Arcanine   | NA Champs 17 | Adamant/Jolly/Timid
+Volcanion  | Helen      | Modest/Timid/Naive/Hasty
+Hoopa     | Alexander   | Modest/Adamant/Timid/Jolly/Quiet/Brave
+Garchomp   | Cynthia    | Jolly/Adamant
+Arceus     | GF         | Adamant/Jolly
+Mewtwo    | Play! 2016 | Timid
+Articuno  | Aldora     | Modest/Timid/Calm
+Zapdos   | Aldora    | Modest/Timid/Bold/Calm (HP:ice)
+Moltres   | Aldora     | Modest/Timid/Bold/Calm

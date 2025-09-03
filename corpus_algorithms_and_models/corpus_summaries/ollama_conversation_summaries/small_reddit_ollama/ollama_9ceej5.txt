@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+So after i update my drivers today my second monitor is making my pc having microfreezes each 4-5 seconds. I found out it was my second monitor because when i disable it the microfreezes leave.
+
+Any tips or someone know how to fix this ?
+
+With which cable are you connecting to the second monitor?
+
+Its not the cable, i tried windows problemsolver and it said something with PnP screen being disabled
+
+I am guessing a dvi Adapter?
+
+Yes indeed, so i found the PnP that wasnt enabled and i enabled it but it didnt do anything.
+
+Check which kind of dvi the monitor uses and which kind the adapter is

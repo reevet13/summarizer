@@ -1,0 +1,7 @@
+Very relative question as each and every person will have a wide response. There are multiple factors from genetic to drug (even caffeine) that have an effect on water retention and Na. As far as I'm aware though there's no clear cut numbers.
+
+The reason is that water follows sodium, if you excrete sodium (urine) then more water will be pulled out to be excreted as well. If you reabsorb more sodium then you retain more water generally. Many drugs target this (such as diuretics like hydrochlorothiazide) to help with problems like hypertension (high blood pressure) and edema (swelling).
+
+Sodium doesn't really make you retain water; the body regulates water by regulating sodium, using the [osmolarity](http://en.wikipedia.org/wiki/Osmolarity) of the plasma.
+
+This increase in your plasma osmolarity will stimulate osmoreceptors in your brain which will cause your pituitary to secrete antidiuretic hormone, leading your kidneys to reabsorb water and stimulate your thirst receptors leading you to drink more. The increase in water intake will bring the osmolarity down to normal. Further regulatory mechanisms will then cause you to pee out the excess sodium and water until you blood volume is also normal.

@@ -1,0 +1,33 @@
+Here are the selected sentences:
+
+In the derivations I've seen, Pauli's principle is -in principle - independent of the distance between the particles.
+
+Because part of the state of the particle is its spatial wavefunction.
+
+Particles in quantum mechanics don't generally have well-defined position, so when we say that two particles are "in the same position", we mean that they have the same spatial wavefunction.
+
+Two identical fermions can only be in the same position if they have different spin projections, or another difference in some additional quantum number that they may have (isospin projection, color charge, etc.).
+
+The Pauli principle only prevents identical fermions from occupying *exactly* the same state, but the antisymmetry of fermion states also creates an energy cost for them to occupy *similar* states.
+
+This is referred to as “degeneracy pressure”. It’s a quantum effect that is basically the resistance of identical fermions to occupying similar states.
+
+The PEP doesn’t fundamentally prevent them from occupying similar states, only the *exact* same state. But it costs energy to increase the “similarity” of their states.
+
+A boson, but He4 atoms interact repulsively at short distance due to the exclusion principle. Only non-interacting bosons can be packed all on a single spot.
+
+If one works purely in the high-energy particle physics regime, one gets QCD physics (quarks which are fermions), while if one works in the classical regime one gets a classical Maxwell-Boltzmann distribution (distinguishable bosons).
+
+The energy-dependence of physics is a very important concept which has not been properly stressed to the general public imo.
+
+One thing that's been getting me, that I can't seem to find a reason for, is how the nuclear shell model is rationalized in addition to Pauli Exclusion.
+
+If their spatial wavefunctions overlap, it means they are positioned close to each other.
+
+A combination of an even number of fermions has integer spin, so it’s a boson.
+
+Helium-4 can become a Bose-Einstein condensate, but only within some temperature range. At room temperature, it’s too hot to do so.
+
+The 'low energy' regime is characterized by interacting with objects that are much larger than the average distance between your bound fermions. These larger objects will not have enough energy (per particle) to separate out the individual fermions from one another (to convert length scales to energy scales, think large debroglie wavelength (per particle) -&gt; small average momentum (per particle) -&gt; small average energy (per particle)).
+
+However, as you increase the energy of the object that you're interacting with, the dominant length scale of the interacting object decreases such that it becomes small enough to interact with just 1 fermion in the bound collection (or just 3 fermions, whatever) and not all of them at the same time.

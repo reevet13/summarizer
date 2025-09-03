@@ -1,0 +1,38 @@
+Original Response:
+Jahai and Kourna connect so seamlessly that I often have trouble telling which area belongs to which map.
+Maybe for gw3 we finally get no instanced maps.
+I pray for that every day!
+Somehow I think instanced maps are part of the key behind ANet's rolling server technique. No more instanced maps seems like it would mean maintenance downtimes like with every other MMO.
+hopefully in gw3 we go back to being fully instanced! #fuckopenworld
+They can still keep the technology of overflows server if they make areas/servers are loaded when you go "close" to next one, like Lotro did. That makes an open world + multi-servers. The loading is barely noticeable (6:18 on [this video](https://www.youtube.com/watch?v=p-0c4j8gSq4)) as the map is being loaded when you get close.
+So you're saying there would be only one map chat? I think you just gave me new nightmares.
+Well, they can still have a local chat based on where in the world you are.
+Nope, check my next post. I linked a video of another MMO. There, the map-chat changes each time you enter a new zone, but those zones are not instanced, it's open world with "invisible" lanes that determine when map-chat changes. We also had a global chat, though.
+Yeah, I genuinely get lost sometimes because I think I can go further south than I actually can.
+I can't imagine that not being confusing. It could be like the local chat channel is now (the "/s" one) in that you wouldn't be sure of its range.
+
+The problems I would anticipate would include examples like standing in northeast Kessex Hills (say, Sojourner's Way) and asking if the Shadow Behemoth is still up. If the zone transitions were nearly imperceptible, most players wouldn't know why they didn't get any helpful responses. 
+
+Conversely, if your "map chat" channel moves to stay centered on you, that would inevitably cause confusion when someone tries to have a conversation with two people on opposite sides of their map chat range. The player in the middle would be able to chat with each of the other two, but each of the two on the sides wouldn't be close enough to see what the other one is saying. It would be like having a phone conversation with someone who has another phone held up to the other ear.
+
+And if each invisibly-bounded vicinity had its own map channel, presumably one that could activate based on proximity to the arbitrary border, then that could potentially function better. However, when I picture that in my head, it's kind of jarring to anyone on the edge. It sounds like that's how it works in the game video you linked. I just don't know how well that would translate to this game. And a global chat among hundreds of thousands of players would be the nightmare I mentioned previously. 
+
+I'm not saying it couldn't be done in a way that works. I'm only suggesting that there would be some conceptual hurdles to overcome, even aside from the logistical challenges.
+
+For now, I'm happy with the system we have.
+It's honestly no more confusing than instanced zone borders are now. Instead of having to find the portal to another zone, you just walk into it from any part of the border. Your chat channels show "Now Leaving &lt;Old Zone Channel&gt; Now Entering &lt;New Zone Channel&gt;"
+
+
+It's honestly all very seamless and intuitive. There is zero confusion in WoW, and it's been that way since 2003.
+I'd be happy if we just got districts back, with queue options for those full.
+&gt; It sounds like that's how it works in the game video you linked.  
+
+Yes. You get a big yellow message when you transition and your chap changes at "Kesses hills map" or "Queensdale map". It still works per zones right like gw2 (not centered on you) but you can transition without loading screens.
+That in no way addresses anything I just said.
+That's not how most games work though.
+
+Summary:
+It's honestly no more confusing than instanced zone borders are now.
+It sounds like that's how it works in the game video you linked.
+So you're saying there would be only one map chat?
+That's not how most games work though.

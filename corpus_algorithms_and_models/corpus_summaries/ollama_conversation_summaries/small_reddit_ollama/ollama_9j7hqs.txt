@@ -1,0 +1,13 @@
+Here is the summary of up to 250 words:
+
+My laptop is an ASUS and it IS pretty old, around 5 years or so, but I had also somewhat recently put on new thermal paste (within the last two years or so?) and I added a tiny bit more ram (just 6gb to 8gb is all) [https://imgur.com/DUut2eE] the only thing that is open right now is opera with only like 5 tabs open.
+
+Thats hell of a fast fans, 25,500rpm...
+
+Uninstall it and reinstall, then check for firmware updates, I’d say.
+
+Reinstall hwinfo(make sure it is 64x or 86x”32bit”), If that did not work, then go to the laptop manufacturer website, find ur product, there u should see if there are any firmware updates (Never update bios unless have to).
+
+The only update available on the site on the bios and firmware section is a bios update from 2012. Are bios updates not automatic then? I was much less tech savvy back then.
+
+I honestly can’t decide whether to upvote that thing or downvote it

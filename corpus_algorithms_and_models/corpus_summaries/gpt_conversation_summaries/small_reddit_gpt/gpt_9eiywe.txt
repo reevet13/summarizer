@@ -1,0 +1,8 @@
+I drive a 2007 Yamaha YZF600R Thundercat.  
+Jumping it with a car turned off shouldn't have fried it. But it could be something else that was already going bad.  
+What I would do is put the battery on a trickle charger (use the slowest charge you can) and charge it back to full capacity. Get a multimeter and set it to VDC. Start the bike up and take a voltage reading across the battery terminals.  
+If it's reading low then likely something in the charging system (usually stator) is shot. If it's reading high I would start with the voltage regulator/rectifier.  
+If everything tests good and you fully charged the battery on a trickle charger then the next steps would be damaged wiring or possibly a battery that is so damaged it cannot hold a charge.  
+Bikes don’t have alternators, they have stators. Stators, especially on older bikes, aren’t nearly as powerful as automotive alternators.  
+Battery Tenders (made by Deltran) are not trickle chargers. They monitor the battery’s charge and cycle themselves off and on - idiot proof. A trickle charger gives zero shits about the battery’s status and pumps amps in ‘til you turn it off.  
+And motorcycle electrical systems aren't as powerful as those on cars because they're so much smaller than cars!

@@ -1,0 +1,7 @@
+Here is the extracted summary:
+
+The IQ test was developed as a standardized test for placement in public education. All an IQ score says is how good you are at taking IQ tests.
+
+More people around the world now are receiving education, working with technology, and communicating in ways which make your brain better at the sort of problems you see in an IQ test. Hence the average score of the world population goes up. If you know about this effect you probably already know, but standard tests are normalized every so often such that the median score of the world's population should be around 100, as much as that's possible.
+
+This is only true in an extremely limited sense and may be outright wrong. There's a fair bit of evidence that a variety of different intelligence tests all correlated with each other. This includes tests which were not invented to even test the same thing such as [wonderlic](http://en.wikipedia.org/wiki/Wonderlic_Test).

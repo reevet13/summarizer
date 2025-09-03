@@ -1,0 +1,14 @@
+Here are some sentences copied verbatim from the original text:
+
+* "Honestly, I can't tell if the lens is a terrible performer. Maybe you can? https://www.youtube.com/watch?v=f5zN6NVx-hY"
+* "What could be causing this? I’ve tried turning off ISO noise reduction, formatting my SD card, charging the battery fully. Is it possible it’s because I’m not using a super great SD card?"
+* "If you mean 15 shots while holding down the shutter thats because you've filled your camera's buffer."
+* "Different settings have different limits to the cache."
+* "Raw can only hold so many before needing to write to the SD card"
+* "[“Different cameras and different memory cards have different write speeds, which means they can clear the camera buffer at different speeds. So having a larger storage area in the camera buffer allows for storing more photos in this temporary area, which produces a better performance when making use of continuous shot mode (also called burst mode).”] (https://www.lifewire.com/camera-image-buffer-492951)"
+* "Using a faster memory card can extend your continuous shooting by allowing the buffer to unload images faster, allowing you to take many more shots before the FPS slows down."
+* "You definitely need a better SD card. The buffer will fill at the same speed, but it will clear much quicker."
+* "The more expensive the camera, the more capable in these areas."
+* "Your camera might not be able to take full advantage of that 150mbps (I'm not familiar with your camera in particular), but you should see a huge difference regardless."
+* "I think SD cards degrade as you use them unfortunately?"
+* "Not degrade per se, but they'll fail eventually, and you never want to trust a card that's shown signs of unreliability."

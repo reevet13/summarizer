@@ -1,0 +1,22 @@
+Here is the summary of approximately 10% of the original text:
+
+Sorry if I come off as overly obtuse here, but I have been failing to grasp how this concept works for ages.
+
+What's the difference between electrons moving at 1v, 10amps, and 10v, 10 amps? What quality is it that they possess?
+
+Imagine pushing a cart down a road.
+
+
+**Voltage** = how hard you push
+
+**Resistance** = how rough the road is
+
+**Current** = how fast you wind up going
+
+So what is voltage? Voltage represents the **energy by unit of charge**. In other words it is a measurement of the energy carried by individual electrons.
+
+It takes work to move electrons closer together. Since electrons repel, there is a force pushing them apart. A higher concentration of electrons will have a greater repelling force so when a lower concentration is presented, the electrons will diffuse. So it is not necessarily the concentration of electrons, but the distance between electrons that "makes" voltage.
+
+You would never say height of a hill is energy per unit weight, though it does make sense when its the energy that would be given to a particle of unit weight if it rolls down the full height of the hill.  That is potential energy, unlike energy which seems to indicate that its been realized.
+
+Imagine you have a ball rolling down a hill.  How fast the ball moves is a function of the height of the hill.  Potential is analogous to height.

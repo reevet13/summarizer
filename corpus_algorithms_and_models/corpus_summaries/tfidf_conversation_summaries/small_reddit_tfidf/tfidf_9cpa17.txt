@@ -1,0 +1,46 @@
+Original Response:
+Goodbye internet, its been nice knowing you. I welcome our new government &amp; commercially controlled ~~spying~~ streaming service.
+They can't do anything about end users applying encryption unless they intend to outlaw mathematics.
+Shh, don't give them ideas
+With Malcolm out of office I guess the laws of mathematics are back in force.
+&gt; Goodbye internet, its been nice knowing you. I welcome our new government &amp; commercially controlled spying streaming service.
+
+That's not how the Internet works. By design it just routes around any dickhead trying to mess with it.
+Yes, they really can.  They can force vendors to install backdoors in all products sold on their platform.  They can grant exemptions for corporate entities including at least defense and finance companies.  For locked-down platforms like Apple's IOS you'd then need to gaol-break your handset to use PGP or similar and they could make that illegal too.  Eventually they could even make it illegal to use PGP or encrypted messagin services on any platform.  There are already files which it's illegal to possess, like 3D gun plans, kiddie porn, instructions on committing terrorism, etc., so this isn't a big leap.
+
+No, they can't break securely encrypted files if the key is withheld.  They can't compell people to provide the keys.  They can send people who withhold keys to gaol until they do provide the keys.  Maybe steganography could provide a line of defence but I'm not confident about the degree to which it will remain undetectable.
+Once they've realised that people are using private end to end encryption the next step will be to get draconian on individuals. Jammie Thomas-Rasset like massive fines or I wouldn't put it past them to introduce gaol time for thwarting their snooping.
+Certainly nothing they can do to stop you from using end to end encryption but they can hit you for using it with massive fines or lock you up for failing to reveal data on request. Isn't that the intent of this law to provide massive disincentives for failure to comply with access to data? I can't see it just be applied to companies.
+They can only force vendors in their respective country. You can still get around this with proxy or other tunnelling methods.
+
+All this will do is push people off major tech companies into privately selfhosted solutions or group with friends to share selfhosted solutions.
+&gt; They can only force vendors in their respective country.
+
+If the Australian government can force software vendors to collect GST on their products then they can certainly force them to not sell encryption without backdoors.  Anyway, the US is one of the Five Eyes.
+
+&gt; You can still get around this with proxy or other tunnelling methods.
+
+Yes, you and I and the paranoid and the criminal will be able to work around this by rolling their own or buying from a vendor in a country that doesn't have these rules (I'd guess a pro-privacy EU nation would be the best bet).  The other 99 per cent of the public are going to use back-doored encryption, at least for convenience and possibly for legality.
+Again that's not how the Internet works. There might be some hiccups along the way but by design it'll just route around it.
+&gt;If the Australian government can force software vendors to collect GST on their products then they can certainly force them to not sell encryption without backdoors.  Anyway, the US is one of the Five Eyes.
+
+
+My VPN definitely doesn't and isn't within the 5 eyes.
+
+
+&gt;Yes, you and I and the paranoid and the criminal will be able to work around this by rolling their own or buying from a vendor in a country that doesn't have these rules (I'd guess a pro-privacy EU nation would be the best bet).  The other 99 per cent of the public are going to use back-doored encryption, at least for convenience and possibly for legality.
+
+
+The general public will continue to use Facebook, Google and Dropbox like before.
+That's an extremely optimistic view of the internet.
+
+Like, BGP fucking sucks. It basically just trusts whatever input it gets. Which is why it's possible for one 'misconfigured' [Russian](https://www.theregister.co.uk/2017/12/13/suspicious_bgp_event_routed_big_traffic_sites_through_russia/) ISP to suddenly have traffic from elsewhere routed to it.
+
+We cannot rely on our existing protocols to handle modern-day adversaries.
+If this ~~backdoor~~ was as secure as they say, defence and finance should have it applied to them as well. If they grant exceptions, the government's argument about "proper checks and balances" and it being "secure" is nullified.
+
+Summary:
+They can only force vendors in their respective country.
+&gt; They can only force vendors in their respective country.
+That's not how the Internet works.
+They can't compell people to provide the keys.

@@ -1,0 +1,66 @@
+Original Response:
+How would they work? What effects would they have, how would they behave?
+I'm hoping someone will be able to overlook the overly obvious juggaloe meme and give a reasonably understandable answer.
+[deleted]
+The boring part is that Maxwell's equations and the Lorentz force would be slightly modified so that the magnetic field would act sort of like an electric field does around an electron.
+
+The interesting part is that the existence of a single magnetic monopole in the universe implies that the [electromagnetic interaction is quantized](http://en.wikipedia.org/wiki/Magnetic_monopole#Dirac.27s_quantization).
+
+There are also solid-state pseudoparticles that people have been touting as monopoles, but they're not the real deal.
+The behavior would be identical to the already understood behavior for electric charges with relation to electric/magnetic fields, if you swap magnetic and electric (except for the addition of a few minus sign changes).  They be sources/sinks of magnetic field lines, just as electric charge is sources/sinks of electric field lines.  E.g., an moving monopole would feel a force from a electric field, stationary monopole have a force from a static electric field.
+
+http://en.wikipedia.org/wiki/Magnetic_charge
+I've read and tried to understand a lot of wiki pages about them and electromagnetism in general, but unfortunately my understanding isn't all that great.
+Let's say you had a lump of matter that was a magnetic monopole. Would it exhibit any of the effects a normal dipolar magnet would? Could you generate electricity, and how would you go about it? Would it even  attract/repel ferrous metals and other magnets like a normal magnet? Would there be different monopoles based on charge?
+&gt; Would it exhibit any of the effects a normal dipolar magnet would? 
+&gt; Would there be different monopoles based on charge?
+
+Yes.  The biggest difference is normal magnets only generate [magnetic field](http://en.wikipedia.org/wiki/Magnetic_field) lines that are loops, that is have no start or end.  A monopole would have magnetic field lines start or end at the monopole, depending on whether it is a positive/negative monopole (possibly they could be equivalently labeled north or south monopoles).
+
+&gt;Could you generate electricity, and how would you go about it? 
+
+Yes.  One design could in principle use a magnetic monopole to create a magnetic field, have a wire loop rotate in that magnetic field in such a way that the magnetic flux changes with time (the loop shouldn't contain the monopole, but the loop should be rotating above the monopole).  Then via Faraday's law a electric field is induced in the wire producing an AC current.  
+
+More interesting is that if magnetic monopoles were abundant enough in some type of material (they aren't), you could equivalently generate "magneticity" that could be used to power things, but instead of using moving electrons with electric charge in a wire, you would use moving monopoles with magnetic charge.  Basic way to generate this would be same as for generator above swapping magnetic/electric.  
+
+&gt; Would it even attract/repel ferrous metals and other magnets like a normal magnet? 
+
+Yes.  It would induce a magnetic field in a ferromagnet, and depending on its sign be attracted/repeled to other magnetic materials.  The equations of the attraction would differ slightly, as the force between two dipole magnets is complicated (depends on the gradient of the dot product of the magnetic field it is in and magnetic dipole moment).  A magnetic monopole has a simpler movement; it is just experiences an acceleration along the direction of the magnetic field lines created by the other magnets.
+&gt;Yes. One design could in principle use a magnetic monopole to create a magnetic field, have a wire loop rotate in that magnetic field in such a way that the magnetic flux changes with time (the loop shouldn't contain the monopole, but the loop should be rotating above the monopole). Then via Faraday's law an electric field is induced in the wire producing an AC current.
+
+So if you have two separate monopoles with opposite charges, they work just like a normal magnet, and if they get close enough they cancel each other out?
+I can understand people upvoting based on their own understanding of science, but since this is ask science, could you repeat that without just referring to the part of the class that went above my head, which includes most of your reply? Anyone else who understood this, feel free to add a post or two.
+A magnetic charge in a magnetic field follows the direction of the field while an electric charge moves perpendicular to it. A magnetic charge in an electric field moves perpendicular to it, while an electric charge follows it.
+
+The magnetic field around a monopole is the same as an electric field around an electron.
+
+When a magnetic pole and an electric pole are near each other, there is net angular momentum even without the particles moving. Because angular momentum is quantized, it implies that electric charge is also quantized.
+I understand the first part, it's how you can use moving magnets to induce electricity and electricity to induce magnetism in certain materials. It's how electric engines can be used to both drive the vehicle and store energy while braking. 
+
+&gt;The magnetic field around a monopole is the same as an electric field around an electron.
+
+Are you saying that a monopole would act as an electric field? What charge would it have? What sort of physics characteristics would the monopole particle have? Would it disintegrate when faced with a particle of opposite charge? Is there an anti-monopole?
+
+&gt;When a magnetic pole and an electric pole are near each other, there is net angular momentum even without the particles moving. Because angular momentum is quantized, it implies that electric charge is also quantized.
+
+I looked up [quantisation](http://en.wikipedia.org/wiki/Charge_quantization) and I have no clue what you are saying. I'd love a longer explanation.
+At distances larger than the separation of the monopoles, both will work identically.  At smaller distances there is a distinct difference.  E.g., in the two opposite monopoles case, you could measure the field really close the monopole, and would see some point where the magnetic field lines always point away/towards the monopole (which you would never see anywhere in a normal magnet).  Or if you measured the field between the two monopoles, it would point in the opposite direction to the magnet case.
+
+For more clarification, the [electric dipole pattern](http://en.wikipedia.org/wiki/File:Electric_dipole_field_lines.svg) is exactly identical to the magnetic field from a two monopole magnetic dipole, while a [normal magnet has a magnetic field like this](http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/elemag.html)
+&gt;Are you saying that a monopole would act as an electric field? 
+
+No I'm saying that the magnetic field would point radially away or towards the pole.
+Quantisation is the fact that something is not continuous - it is made up of small, finite bits. 
+
+We are used to some things being quantised - like substances - you get down to one atom of water, and that's the end. You can't get a smaller bit of water. We now know that light is quantised - it's not just a continuous substance, but is made up of little bits (which we call photons). 
+
+Some things we think are not quantised, like time, or space. Maybe. (These are unclear and controversial.)
+
+Summary:
+Would there be different monopoles based on charge?
+The magnetic field around a monopole is the same as an electric field around an electron.
+What charge would it have?
+They be sources/sinks of magnetic field lines, just as electric charge is sources/sinks of electric field lines.
+Could you generate electricity, and how would you go about it?
+Are you saying that a monopole would act as an electric field?
+&gt;Are you saying that a monopole would act as an electric field?

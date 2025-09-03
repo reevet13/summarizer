@@ -1,0 +1,27 @@
+Original Response:
+[deleted]
+That just tells me it's generated in deep organs and lost to the environment, I was looking for a bit more depth than that. Besides it doesnt address how the body so finely tunes it's temperature.
+The hypothalamus gland, located at the base of the brain, controls internal body temperature. This gland responds to sensory signals from temperature receptors in the skin and deep inside the body. The hypothalamus establishes a "set point" for the internal body temperature, then constantly compares this with its own actual temperature. If the two temperatures do not match, the hypothalamus activates temperature-decreasing or temperature-increasing procedures until the temperatures are equalized.
+
+Sources: Guyton, Arthur C. Textbook of Medical Physiology, 8th ed., p. 802; Selkurt, Ewald E. ogy, 5th ed., p. 169.
+
+This is for humans, at least.
+With Humans, we have a nerve in our brain called the Hyperthalmus. Its purpose is to "monitor" the temperature in the body. The body uses a negative feedback loop to then regulate the temperature if need be. If you  are too cold than your blood vessels that go out to your extremities contract and less blood goes out to your limbs. Also there are other regulatory actions such as shivering and your hairs stick up. If you're too hot your blood vessels open, your sweat glands secrete sweat, your hair lays flat
+awesome, what kind of processes would be activated? I figure sweating would be a way to cool but that doesnt seem very precise.
+It's a good article, albeit long. The mechanisms are discussed [here](http://en.wikipedia.org/wiki/Thermoregulation#Thermoregulation_in_vertebrates)  It basically says that vasodilation at the skin surface and sweating cool a mammal down, while shivering and/or vasoconstriction and increasing basal metabolic rate via hormones (like from the thyroid) warm an animal up.  It's deliciously complicated.
+
+One thing to note is that "precise temperature control" is relative, not absolute. You may be born/programmed/whatever to have an initial temperature range of X to Y, but if your internal temperature was made to be at Y to Z for long enough, you would "reset," assuming that Y to Z doesn't kill you. Your anterior hypothalamus detects *differences* from a set point and changes behavior to return to that set point. Through a mechanism similar to having a watch on your wrist for so long that you eventually stop feeling it (conditioning) the hypothalamus stops detecting differences from the old set point and resets to the new, current point.
+on the topic of body temperature "resetting" to a new range, would this be why some people have normal temperatures that isnt (usually a bit below in the people i know) ~98.6?
+Well if you think about it that's the beauty of the system. The hypothalamus just sets off the actions and keeps checking the temperature of the body until it gets to a more reasonable level, at which point it stops the cooling.
+
+This means it doesn't need to figure out the amount the body needs to be cooled by. It just keeps cooling until the desired temperature is reached.
+
+In terms of how we cool, the only 2 I can think of for cooling are sweating and the expansion of capillaries close to the surface of your skin.
+
+For warming, I understand that your body hair stands in such a way to trap warm air from escaping your body. Perhaps not trap, but slow it.
+It's multifactorial, but this could be a part. Not everybody starts off at 98.6, and that number is an average of the temperatures taken from a sample of people. That aside, differences in hormones and basal metabolic levels over long periods of time would reset the thermometer, so to speak. Actually, if you were to take your own temperature throughout the day, you would observe it fluctuating, part of your natural circadian rhythm (colder when you sleep, warmer right after you eat)
+
+Summary:
+Its purpose is to "monitor" the temperature in the body.
+The hypothalamus gland, located at the base of the brain, controls internal body temperature.
+I figure sweating would be a way to cool but that doesnt seem very precise.

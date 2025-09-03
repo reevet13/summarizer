@@ -1,0 +1,404 @@
+Original Response:
+I've even asked an electrician about this, and he wasn't sure.
+
+People claim that say... a car battery will hurt you more than 120 volt home circuit will, if you get shocked.  Having been shocked by both I can say it appeared the car battery was MUCH stronger.  This makes sense though, as most car batteries push 500+ amps at 12 volts.  This is 6000 watts.  A home electrical circuit is usually 20 amps at 120 volts, that's only 2400 watts.  Is it really the total power that hurts you, and amps or volts is irrelevant?  This makes sense but as I said, even an electrician I talked to seemed confused by this.  I said a 20 amp circuit at 120 volts should 'hurt' or be as dangerous as a 10 amp 240 volt circuit, but most people I ask say the 20 amp circuit would be more dangerous.  That doesn't seem to make sense.
+Yes it is true. 10ma can cause fibrillation.
+yes, amps are what kill you. BUT... you need a high voltage for the current to overcome the resistance of your skin.
+
+you can touch both terminals of a car battery and not get shocked because its only 12 volts.
+
+also be aware that even current less than one amp is enough to kill you if it pass through your heart
+So 10 amps at 120 volts is just as dangerous as 10 amps at 480 volts?  (this is drawing 4 times the 'power' from the electric company)
+10 amps at 480 volts means the resistance is entirely different. you can't think of it like that.
+It is current that hurts you.
+
+But you have to remember that most power circuits are *voltage sources* with some sort of internal resistance.  And your skin is a pretty good resistor (tens of thousands of ohms when it is intact).
+
+So even though the car battery has a very low internal resistance (it can push more current if needbe), it's NOT going to be able to push much current through your skin.
+
+Your 120 volt outlet will send approximately 10x as many amps through you, since the voltage is higher\*.
+
+\* note that it is not a 1:1 relationship since the skin will begin to break down as voltage increases.
+The outlet doesn't provide 10 A constantly. It can provide up to 10 A. I=V/R, where R is the resistance of the path between the terminals. The human body has a pretty high resistance, on the order of megaohms(depending on the distance between contact points on the skin).
+
+Also: The 240 V circuit is more dangerous because it will provide more current than the 120 V circuit at the same resistance, unless the resistance is lower than 24 ohms, but more than 10 A are not needed for something to be dangerous.
+[deleted]
+http://www.physics.ohio-state.edu/~p616/safety/fatal_current.html
+Why is it that a nine volt battery will shock my tongue but not my finger?
+your finger has more resistance
+Ohm's law is the relationship between voltage, current and resistance. Voltage is potential difference. If everything in the world has electrical potential, a voltage is when the electrical potential of two things are different (for instance, the pins on a battery). When you have a voltage, electrons will move between the two points you are measuring the difference of. This is called current. Resistance is what is stopping the electrons from moving between these two points. Consider a 9v battery. By itself, the current between the two pins is almost negligible because air has a very high resistance. Put your tongue on it though, and you'll get an unpleasant shock.
+
+The voltage of the battery has not changed when you licked it. Rather, the resistance between the pins has been lowered and that allowed a current to flow. That is how it is easy to understand how it is 'not the volts'.
+
+Similarly, if you were to touch a live mains wire, you'd receive a dangerous electric shock because such a large amount of current was passing through you. If you were to touch it wearing thick rubber gloves though, although you'd still be touching a high voltage wire, the current would be much lower because of the resistance.
+Your saliva makes your tongue more conductive.
+[deleted]
+[deleted]
+Static shocks are very high voltage, often around 40,000 volts.  However, their amperage is very low.  That's why they are not harmful.
+If you can feel it, it's at least 10,000 volts.  If you can hear it, it's at least 20,000 volts.  If you can see the spark jump then it's at least 100,000 volts.  That's what I heard in my electrical theory classes.
+The thing to add to this discussion is that the human body is not a simple resistor. Human skin can vary in resistance from 500Ohm to over 100k Ohm (whether its wet, dry, etc). It also changes with voltage so not one figure applies in every case. 
+
+Wikipedia: http://en.wikipedia.org/wiki/Electric_shock#Body_resistance
+voltage doesn't kill, current kills, you just said so yourself  you can have 100,000 volts but the source generates .0000001A so you are fine.
+
+you have to have enough flow of electrons, aka current.  Voltage without current is not enough.  Current in the absence of voltage (however it gets there) can kill.  No, i dont know how to induce current without voltage, but the point is you *can* have voltage w/o current
+&gt; If you can see the spark jump then it's at least 100,000 volts
+
+How big of a jump? I definitely have seen "sparks" while connecting alligator clamps to the terminal of a 9v battery.
+Just to back up the numbers: http://www.physics.ohio-state.edu/~p616/safety/fatal_current.html
+
+"As the current approaches 100 milliamps, ventricular fibrillation of the heart occurs - an uncoordinated twitching of the walls of the heart's ventricles which results in death."
+
+Also, keep in mind that the type of current (AC/DC) affects the harmfulness of the levels: http://www.allaboutcircuits.com/vol_1/chpt_3/4.html
+That's actually a good point...  The example I was given was when you reach for a doorknob and your hand is still an inch or so away.  That was just something the teacher told us, not something in the textbook.  But I thought it was cool enough to remember.  Now I need to verify that.
+Those are a different kind of spark, I think. The sparks you see when connecting a clip to a battery are typically the result of little bits of the clip vaporizing or burning as the circuit is completed. The end of a clip is very rough, on a microscopic scale. As you bring it into contact with the battery terminal, a tiny bit of it makes contact first, and the current density in that tiny spot is quite high, since all of the current is flowing through very little of the metal. This heats up the clip (and/or the terminal) and a spark jumps out. These sparks are often colored orange or green, depending on the material the clip is made out of.
+
+If you see a spark jump across an air gap, it'll be bright blue color, because it's caused by ionization of the air. The dielectric strength of air is on the order of 6 million volts per meter, so the clear-air spark from a 9-volt battery would be about 1.5 microns - probably too small to see under most circumstances.
+Lick your finger and try it.  The saliva lowers the overall resistance of your skin.
+contact area and permeability. Different materials and cells have different resistances, but contact area is the bigger factor for resistance and permeability is the factor for how much you feel.
+
+The surface of your tongue and the surface of you figure are very different. Your finger's topology is very bumpy and anytime you touch things, there is actually a very small area that is in direct contact with the object. (This helps you grip things better as static friction is based on pressure which increases with decreased area) When you contact a battery terminal there is maybe .05mm^2 in contact. And just like a small wire has high resistance, a small contact area has high resistance.
+
+Your tongue's surface isn't exactly flat, but it is wet. The nature of water is to 'wrap' around surfaces and this creates a maximum amount of surface contact. A wet tongue will have 10 mm^2 of contact which is 200 times as much and thus that much more current goes through.
+
+Now the next obvious question is why doesn't a wet finger cause a jolt?
+
+That has to due with permeability. When electricity flows through water, it isn't electrons that move as they do in a wire but the movement of ions. Actual nuclei have to move for water to conduct. Skin is designed to prevent just about anything from getting through the surface whereas a tongue is designed to let a lot of different ions through the surface. 
+
+So when the current is flowing across a tongue, the ions have the choice to move along the water surface between the terminals or travel into the tongue, through the tongue, and back out in an arc. Since the surface gets crowded, some ions take the longer path and happen to travel across a nerve and cause the jolt.
+
+On your finger, ions can't travel through your skins and have to wait in the traffic jam on the wet surface and away from any nerve cells.
+Here's the easiest way I can express it:
+
+Have you ever shot at your own hand with a water gun when you were little? It stings a little bit - it's a pretty high-pressure (high-voltage) stream! But there's no way it can really hurt you, because of the small amount of water actually being shot at you (i.e. because of the low current). The reason there's so little water shooting out is because the nozzle is so tiny (has such a high resistance).
+
+But imagine a stream of water with the same pressure (voltage) as that fired by the water gun, but coming out of a large pipe (low resistance). That can now **kill** you, despite being the same pressure as the water gun.
+That is really cool. So currents between 0.1 and 0.2 Amps are lethal, but above that not so much. It is counter intuitive that a higher amperage is less lethal than a lower one.
+Kind of a side question, but is their any truth to the fact that if you experience a current across your heart, it's non-lethal (or at least less lethal) if your heart was beating at that exact instant (it might be the other way around)? I've heard it form a lot of people, especially when explaining how people survive lightning strikes.
+[deleted]
+[deleted]
+I'm surprised that noone has made the AC/DC argument here.... The OP is talking about a DC car battery and an AC house circuit. DC is always more dangerous than AC at the same voltages because the sine wave of the AC enables the person who is getting electrocuted a chance to let go, DC does not give this chance. 
+
+The other answers are correct about the current killing you though, it's why many more people are killed by residential electrocution than commercial and industrial (as well as exposure I suppose). 
+
+I am an electrician and my dad a lineman, one of his friends survived being hit by a 115kv electrocution because the amperage was so small, though the potential (voltage or 'electrical pressure') did bust a hole in the palm of his right hand and sole of his right foot!
+~~Nevertheless, if you plug two wires into the human body and run either a constant dc current or an ac current with a constant frequency, it has a simple [Thévenin equivalent resistance](http://en.wikipedia.org/wiki/Th%C3%A9venin_equivalent). No matter how complex something is, it still has a Thévenin equivalent resistance (or impedance for ac). Of course, if you change the conditions and properties of the body, the places where you plug in the wires, etc then the Thévenin equivalent also changes.~~
+
+I think I'm probably wrong, as usbcd36 pointed out.
+[deleted]
+That only holds true if there are only linear (ideal capacitor, resistor, inductor or transformer) components in the circuit.  If skin resistance changes with voltage, it is non-ohmic, and therefore non-linear.  So there isn't a Thevénin equivalent resistance for skin.
+This is why they put a wet sponge in the crown of most old school electric chairs....
+Problem is that when your heart beats not all heart muscles are firing at the same time.  With the current they all would be.  I'd assume that would cause a huge pressure buildup in at least one of the chambers.
+tl;dr - you forgot about resistance. Think of electricity like water in a pipe.
+
+Voltage is the pressure of the water trying to flow forward through the pipe.
+Resistance is the size of the pipe. (Bigger the pipe the lower the resistance and vice versa)
+Current is the resulting amount of water actually making it through the pipe. 
+
+It's current that hurts you, deep tissue burns often cause serious infections because you then have dead tissue sitting within your body.
+
+You will only get hurt by your 12V battery if you've done something to lower you resistance by getting sweaty or something.
+
+The higher the voltage your dealing with, the more current will be able to pass through your skin.
+
+Also important, the path electricity takes is what determines what kind of damage to expect. If you grab 120V with your left hand and grab 0V with your right hand, current will travel through your arms and across your chest doing damage to the heart.
+
+Current = Voltage / Resistance  
+
+IAMA Electronics Engineering Technologist
+If you can feel it, it's at least 60 volts, not 10,000.  (Can't feel 120V line voltage?  Really?)
+
+The minimum visible sparks are around 750volts, but you'd need a dark room to see them.
+
+20,000 volts is about a 1.5cm spark.  That's for small electrodes; for very large polished spheres it's about half a cm for 20KV.
+
+100,000 volts, that's a classroom VandeGraaff machine: those sparks are many cm long.
+All wrong.
+Please never explain electricity to non-science people again.
+AC gives you a chance to let go? I'll remember to try that every 16.67ms when I get my chance.
+Technically it's the amps across the heart that kills you (something like 0.1A is lethal) but how many amps can pass across your heart is directly related to the voltage, so both matter. A 10,000 Volt static shock you can build up rubbing your feet on the carpet won't kill you because the amperage is too low but by the same token a car battery which can supply 400 cranking amps (with 0.1A over the heart being lethal) won't kill you because the voltage (12V) is too low to cause any measurable current to flow.
+Wow, I have to go old school EE to answer this one. :)
+
+Its all about Ohm's Law... or what some people call Ohm's Law, but [let's not get into that debate](http://forum.allaboutcircuits.com/showthread.php?t=11674). If you want to play along at home, here's your [Ohm's Law Calculator](http://www.the12volt.com/ohm/ohmslawcalculators.asp)!
+
+Voltage = Current * Resistance
+
+or
+
+Current = Voltage / Resistance
+
+Right so. Your skin normally provides between [100K and 200K ohms](http://books.google.co.in/books?id=sGZdnZ4uTyEC&amp;lpg=PT788&amp;ots=lE62vZEjr2&amp;dq=ohms%20of%20skin%20100000%20to%20200000&amp;pg=PT788#v=onepage&amp;q=ohms%20of%20skin%20100000%20to%20200000&amp;f=false) of resistance, depending on genetics, atmospheric conditions, humidity, etc. 100,000 is a good estimate for most people.
+
+Now then, flowing electricity that encounters resistance causes heat. That's where you get electrical burns. So yeah, volts hurt. They burn you, they make your muscles spasm all at once, which can throw you like a rag doll.
+
+So a painful shock might be your car battery, but under most conditions...
+
+12 volts = 100,000 ohms * 0.00012 amps
+
+0.00012 is nothing. If you have dry skin and clothes, not wearing any metal, ear rings, dangling your PA over a car battery... you'll be OK. But it'll hurt like a bitch if you introduce jewelry, or exercise your right to be a dumbass!
+
+The 'sweet spot' to kill someone is [0.1 to 0.2 amps across the heart](http://www.pa.msu.edu/sciencet/ask_st/010892.html).
+
+So let's look at you grabbing a live wire in your house:
+
+120 volts = 100,000 ohms * 0.0012 amps
+
+OK 0.0012 sucks. But it's not fatal.
+
+But let's say that your hands are wet, or you're wearing conductive jewelery, or you're otherwise being a dumbass around your home electrical circuit. Wet hands with oily or broken skin [will drop your skin's ohms](http://www.allaboutcircuits.com/vol_1/chpt_3/4.html) to right around 1K...
+
+120 volts = 1,000 ohms * 0.12 amps
+
+Oh shit.
+
+That's right, the home electrical circuit puts out exactly enough juice to put between 0.1 and 0.2 amps across your internal organs if you artifically lower your skin's resistance. Potentially putting your heart into fibrillation.
+
+So there you go, the math of amps killing you, and the dissipation of volts into your resistant skin burning the crap out of you.
+Don't act like it's impossible to figure out. I'm sure it wouldn't be that hard to plot a transfer function to represent  resistance of the human body between two points with respect to voltage. Then to plot current just divide voltage by the resistance transfer function.
+Dead wrong. You remind me of the time an instructor told me that defibulators release 360GJ in a single pulse. Go to Wikipedia and figure how man tonnes of TNT that's equivalent to.
+this is technically true, but as voltage goes higher, amperage goes higher as well, also as the voltage goes higher, the resistance decreases. its the Ohms law. watch this video for a better understanding:
+http://www.youtube.com/watch?v=8xONZcBJh5A&amp;feature=mfu_in_order&amp;list=UL
+&gt;defribulators
+this may be the funniest thing i read today!
+&gt; yes, amps are what kill you
+
+I think a clarification is necessary here.
+
+* Amps are what interfere with your muscles (particularly heart but also breathing) As little as 100 milliamps can lead to fatal cardiac arrest.
+
+* Power (volts multiplied by amps) is what burns you.
+
+Either can kill you although in practice, amps is likely to happen first with domestic power supplies. However, lightning (which is high voltage and low current) often kills by burning, not cardiac arrest.
+If 1/10th of an amp can kill you, how is it that so many people get caught by a household electrical circuit doing some DIY job and not have any trouble?  Is it possible, but not very probable, that 100 milliamps could kill you?
+Wouldn't a car battery charger put out as the same power as a battery?  Because I have been shocked by that and a household electrical circuit, and I would say that in my experience that the 'battery' is much worse.
+Even "stopping your heart" is not invariably fatal (if it is brief and your heart resumes normal rhythm).
+
+But you're unlikely to get 100 milliamps from dry, incidental contact with a domestic power supply. The electrical relationship V=IR limits how much current will actually pass through your body.
+
+A domestic power supply might be able to provide 110-240V at a maximum 10-15 Amps but all that current is not normally delivered.
+
+Even if you caught the full power from an electrical socket, if it passed through a nominal 10k Ohm resistance human body (common for dry incidental contact), the current would drop to:
+
+240V / 10,000 Ohms = 0.024Amps
+
+This is a nasty shock but not typically fatal. In most cases, the voltage would need to be scaled upwards (by a transformer) without any current limiting safety devices before any shock would be likely to be fatal.
+
+However, even without transforming, like fastparticles said above, human body resistance varies greatly and many things (especially water, humidity, solid contact, broken skin) can lower the resistance, so the current could be higher in certain cases.
+... really?
+
+_[defibrillators.](http://en.wikipedia.org/wiki/Defibrillator)_
+i know, i was quoting an extremely funny butchering of the word. he edited it.
+[deleted]
+This does not feel 100% right... 
+
+The low internal resistance of the car batery is a big factor here. Your body's resistance will be a bigger % of the total resistance in the circuit, so more voltage will be over your body. 
+
+
+There's also the lower safety for leak current and big currents. A motor will need a bigger current to start up, so the circuit is designed to allow bigger currents for a longer time.
+&gt;If you can feel it, it's at least 60 volts
+
+Stick a 9V to your tongue, you can feel it.
+ 
+&gt;The minimum visible sparks are around 750volts
+
+Try a car battery. 12-14 V you can easily get a spark.
+
+This is because breakdown (spark) is determined by the electric field strength, not the just the voltage. From [wikipedia](http://en.wikipedia.org/wiki/Electrical_breakdown) a field strength of 3*10^6 V/m is needed to breakdown air. So a gap of 1 um you would only need 3 volts (although not entirely true but a close approximation).
+[deleted]
+It actually works the other way around. The cyclical nature of AC has a tendency to cause muscle contractions that make it harder to let go.
+
+http://emedicine.medscape.com/article/770179-overview#showall
+
+&gt; **High-voltage DC often causes a large single muscle contraction that throws the victim away from the source**; thus, usually only brief duration of contact occurs with the source flow. In contrast, **AC of the same voltage is considered to be approximately 3 times more dangerous than DC, because the cyclic flow of electrons causes muscle tetany that tends to prolong victims' exposure to the source.** Muscle tetany occurs when fibers are stimulated at 40-110 Hz; thus, the standard 60 Hz of household current is within that range. If the source contact point is the hand, when tetanic muscle contraction occurs the extremity flexors contract, causing the victim to grasp the current and bring it closer to the body causing prolonged contact with the source.
+[deleted]
+I wish people would just link to wikipedia instead of giving incomplete information. There is a fine article [here](http://en.wikipedia.org/wiki/Electric_shock)
+
+Here is a quote which appropriate, it must be from a book because I recall very similar information 10+ years ago, but is not cited by wikipedia:
+
+&gt;The lethality of an electric shock is dependent on several variables:
+
+&gt;1. Current (the higher the current, the more likely it is lethal)
+
+&gt;2. Duration (the longer the duration, the more likely it is lethal — safety switches may limit time of current flow)
+
+&gt;3. Pathway (if current flows through the heart muscle, it is more likely to be lethal)
+
+&gt;4. Voltage (the higher the voltage, the lower the resistance and the more likely dielectric breakdown occurs)
+
+Also as mentioned in the article the human body is not as simple as V=IR (ohmic) behavior. If it was ohmic behavior, it would not matter if it was voltage or current since they are proportional and only dependent on resistance. It is obviously not ohmic behavior for a variety of reasons including contact effects (high resistance of the skin, small contact area, voltage drop due to arcing, ect), impedance of the body (a human body is basically a large volume of fluid which can store a significant amount of charge), and breakdown of barrier layers (breakdown of skin which has a high resistance.)
+
+My main point is that the behavior is not ohmic, its not as simple as saying "12 V is safe." or "1 mA is safe," there are dangerous generalizations that are about as helpful as the old adage "its not the volts that hurts you."
+From reading Nikola Tesla's biography, he explained that a certain voltage (frequency of current or how fast it flows) would not pain someone but perhaps give a slight shock or sensation on connection and still over a certain amount of volts you wouldn't even feel it because the frequency is so high your nerves can't pick it up. On the other hand, amps or, (magnitude or amount of current) will kill you without much, due to the sheer amount of electricity in the current you come into contact with. Please correct me if I'm incorrect.
+its not wrong at all, 100 to 200 mA causes fibrillation, above that apparently causes the heart muscle to lock down briefly, but not enter fibrillation. 
+read the link posted above
+
+http://www.reddit.com/r/askscience/comments/o3dd2/is_the_old_adage_its_not_the_volts_that_hurt_you/c3e39oo
+It's not fibrilating, but it's frying.
+Put that much current across your heart and you will almost
+certainly die.
+Nooooope. A charger has to put out more ~power~ voltage than the thing it is charging. Less power. Power being Current multiplied by Voltage.   
+
+Think of it like loading up a tank of pressurized gas. Let's say you want to get to 50 PSI. You would need a compressor that puts out more than 50 PSI to get the tank up to that level, or else by the end when the pressures were close there wouldn't be any flow from the compressor to the tank.  
+
+Now think of your car. Voltages are like electrical pressure. Your car recharges the battery using the alternator. A working alternator should put out about ~14V to be able to charge the battery to ~12V. When the alternator starts to age and the voltage level gets too low, it stops charging the battery as much as it needs to. This kills the battery.  
+
+A passenger car alternator typically puts out between 50-70A, while the battery supplies *hundreds* of amps. Your wall socket is usually about 20A.  
+
+Edit: stupid choice of words.... Said power, meant voltage /embarassment
+You'll find that it's incredibly difficult to get useful data from such a plot because body impedance changes radically with external factors along with the particular characteristics of the tissue underneath your test points.  It gets complicated enough that having a functional model to utilize is enough to [get you published](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5696568) (only the abstract is publically available, sorry!) so that should be a good indication that it isn't a simple problem.  It's not impossible, but it also isn't trivial.
+
+Note that most instrumentation that rely on skin/body impedance use clever tricks to avoid having to know the value of the impedance beforehand precisely because there's no simple way to predict it accurately and precisely.
+Oh, I see. I think what threw me is that his edit was still wrong.
+Why did this get downvoted?  It's kind of a biological fact that all the individual muscles comprising your heart don't beat at the exact same time.  Having the chambers lose sync with each other is *incredibly* bad.
+You forgot to mention that the conduction path is important.  Many people that get shocked in accidents involving home AC supply are by using tools that brush multiple pieces of metal that are energized.  It's not likely that your chest area will ever see that full (or any) voltage unless you include it in the circuit by grounding out through another appendage instead of the same one that's shocked directly.
+So current = amps? (I looked it up in wikipedia)
+
+So it seems you are saying that volts and amps matter, along with how long you are in contact with it, and where it touches you.  More volts equals... less resistance in your skin?  Or if electricity is like water, volts is the pressure, amps is the amount of water being moved.  More volts means you can break through any resistance easier, like a water saw using very high pressure to cut metal.  Correct?
+
+People keep citing the fact (?) that car batteries won't hurt you due to the 12 volts, but doesn't this show that just amps is not enough to hurt someone?  But high voltage shocks like static are also not dangerous.  It seems that you need some of both...?  You need enough volts to have some 'oomph' behind the shock, but then also have enough amps to actually do anything.  Obviously there was more to it than I thought (resistance) but it seems that you can't just say that amps are dangerous, volts are not. 50,000K volts of static electricity wont hurt you, but if you had 10 amps of power at that voltage it would.  Right?
+&gt;The low internal resistance of the car batery is a big factor here. Your body's resistance will be a bigger % of the total resistance in the circuit, so more voltage will be over your body.
+
+More voltage will be across your body than across the battery, this is true.
+
+But your body will still be experiencing 12 volts with a resistance of 50-100k ohms.  That is a minuscule current.
+
+Let's say you had another battery with an internal resistance of 500 ohms.  The only difference as far as your body is concerned is that your body is now experiencing 11.9 volts.  Not a significant difference.
+To qualify, I was an electrical designer, I hope to be again some day.  I've made sparks off of a single AA battery which is only 1.5 V (had to light a cigarette that way once).  You can feel a 9 V battery on your tongue, I'm willing to bet if I think about I can think of times I've felt less voltage than that.  A 12 V car battery hurts like hell.  As for the spark jumping, I'm not sure, usually when working with equipment I only see them when using jumpers on something live and that's as the jumpers (alligator clips) are being put on a contact, so I can't argue that point.
+
+I know that seems to contradict what I said earlier, but I was talking about static electricity only, not line voltage.  Even batteries have some inherent current.
+
+Still, I shouldn't have parroted what I had been told without giving it more thought.
+True. The common case for serious shocks is generally: in through your hand and out through a foot or your other hand. This gives the current the chance to path through more of your body so it's more likely to cause damage.
+
+And this is why we always wear rubber soled shoes –  it eliminates the earthing point for many serious shocks.
+The frequency is also an important factor.AC current is more dangerous then DC current. The 50Hz frequency used in europe (in USA aswell?) will mimic the nerve signals your brain sends to your hart, thereby causing fibrillation of the heart.
+Voltage and current are related through Ohm's law.
+
+&gt;So current = amps? 
+
+Yes.
+
+&gt;Or if electricity is like water, volts is the pressure, amps is the amount of water being moved. More volts means you can break through any resistance easier, like a water saw using very high pressure to cut metal. Correct?
+
+This is the usual analogy.  It breaks down eventually, but it's a decent way to think about it.
+
+Think of it like this.  At any given moment, your skin has a specific, unknown resistance, due to things like humidity, standing in water, hydration level, etc.  There is a specific current, that *passed through the heart*, will cause it to stop, sometimes fatally.  Also, *high* current can cause damage due to burning.
+
+It's not just amps you need... it's a *specific* amperage, from one side to the other, across the heart.  That's all.  It's just that you *don't* know what the specific voltage is that will cause it.  How you get that is the subject of a vast array of factors.
+
+&gt;But high voltage shocks like static are also not dangerous.
+
+At that high of a voltage, humidity alone makes a difference (in the summer, you don't get much static because the air itself is humid enough to ground it.
+
+Static discharge from your carpet is one thing.  It's a limited source of electrons, which drains long before it can ramp up to the "fatal" current.  Static discharge from something like helicopter rotors is orders of magnitude worse.  Helicopter pilots and crews deal with it regularly.
+[deleted]
+TIL that "it's not the volts that hurt you, its the amps" was an adage!
+In addition to what gilgoomesh wrote, you often don't have the current going across your heart when you get shocked by a household 120V circuit. Usually the current just passes through your hand and out a finger, or can travel down your leg into the ground. The 100mA figure is if it goes directly across your heart.
+A charger puts out less power than the battery. It puts out a higher *voltage*, but the current is determined by the voltage difference between the charger and the battery, and is typically low (for a mostly-charged battery).
+That's . . . exactly the opposite of the answer.
+I think people get confused because they think amps and volts are completely unrelated things.
+
+**Voltage = Current x Resistance**  is the simple formula for how volts and amps interplay. Amps are the units of current and volts are the unit of voltage. Resistance is an intrinsic property of a substance based on *many* factors and can get quite complex. But for the most part most things can be thought of as simple resistors if you only care about measuring raw current and voltage.
+
+So you can see by manipulating the formula of V=I/*R you can get V/R=I, which means as resistance increases for a static voltage, the current goes down. 100V/100Ohms = 1 Amp, 100V/100,000Ohms = 1mA. As fastparticals said, the human body is very complex and dynamic in terms of resistance so it's hard to gauge exactly what it takes in voltage to be lethal. We know what current it takes through the heart to stop it, but it's rare for a voltage to be applied directly to the heart so you have to find out the *path of least resistance* that the electricity travels through your body.
+I was wrong is why.  There is another link that someone provided that showed that the .1-.2 amp range causes atrial fibulation(sp?) And then death.  After that the amperage was enough to seize the heart entirely which protected you from the heart attack.
+Compare it to water. The amps is the amount of water, the volts is the velocity of the water. A lot of amps will flood the city and drown the residents. A lot of volts will bash you up against rocks. 
+
+You got shocked by two sources where both the current and potential were high enough to damage you.
+I know at least SIX people who have told me this.  SIX I TELL YOU!  Six makes it an adage, it's a rule ya know.
+You were wrong about the amperage but I'm still *highly* suspicious of the proposed mechanism, namely that somehow timing the strike to coincide with a heart "beating" (which is itself multiple contractions and spread over time) that explains how they live.
+Voltage is Potential Energy. In the analogy of water, its how fast its moving. Amps is current, which is simply how much electricity there is.
+
+It only takes 100 miliamps applied to the heart to stop it. However, it might take a high voltage to get 100 mA to your heart, if say, the 2 contact points were your right leg and left arm. Or a crap load of amps at low voltage will suffice as well.
+
+High voltage can kill you too. Really high energy/voltage electricity can burn you, enough to the point that you die just from damage.
+It wont screw with your heartbeat as much, but you are not going to be having a good day. After that point you will be getting some very nasty burns.
+
+There is also some interesting stuff that can happen with different frequencies of AC. It's not always an exact amperage.
+The current can loosely be defined as the number of electrons flowing through a circuit. The more electrons you accidentally pump through your body to ground, the more they interfere with your physiological electrical circuits etc.
+
+Voltage and current are linked in terms of the resistance of the body (V = IR) but really the damage is done by the electricity, i.e. the current.
+Yep, a car battery can provide an instantaneous current of tens of amps, however for practical reasons lead acids are charged at a slightly higher voltage, with a much lower current.
+
+Neglecting losses, the power you put in is the power you get out, though
+The *energy* you get in is the energy you get out.
+Oh yeah the timing thing really doesn't hold up at all.
+I think if you use the old water in a pipe analogy, voltage would be more like water pressure, and current would be flow speed.
+current is not really the flow of electrons, it is the flow of charge.
+USA is 60 HZ. But actually the European AC power is much more dangerous because it's at 200+ Volts compared to 120V in the US.
+But lets say you're perfectly dry and get stuck on the wire (due to your grip muscles contracting and being unable to willfully let go). Sure, the amps wont stop your heart, but the continued exposure to the energy contained in the electricity, will burn and damage you. If nobody comes to your aid, you will die.
+
+So volts *can* kill you. The more volts, the faster you die.
+I remember my physics professor in high school saying that in some situations the path of the current kills enough of the flesh/artery/vein it travels through that you'd need surgery to remove the dead flesh...   imagining a surgeon carving out a path of dead flesh through ones body... scary.
+It's technically true, but it's EXTREMELY misleading. Electric current is directly proportional to voltage. A 20 amp circuit is capped at 20 ampere (if it gets higher the circuit burns/breaks). However, the resistance of your skin will mean that unless you touch something with extreme voltage, you will not get anywhere near that number through your body. 
+
+Compare this to a light bulb. Let's say you have a 60W light bulb built for a 120V circuit (we can say a 20A circuit but that's irrelevant). The internal resistance of the light bulb is 240 Ohm, meaning that 120/240=0.5 ampere current will pass through for an effect of 120*0.5=60 Watts. Now assume we connect this light bulb to a 240V circuit (say 10A but again irrelevant). The current is now 240/240=1 ampere. This will mean the filament gets overheated and burns off (well, light bulbs are pretty robust these days so it might shine brightly for a while first). Now you ask whether it was the 120V-&gt;240V, 0.5A-&gt;1A or 60W-&gt;240W that 'killed' the light bulb. While technically it was the 1A current passing through the filament that caused it to burn up, the question is in itself completely irrelevant because the 1A current could not have existed without the voltage increase (or a resistance decrease). The amperage cap on the fuse of the circuit is completely irrelevant because nowhere near that amount will ever pass through the filament. In most cases it's the same for the human body. 20A actually passing through your body will certainly kill you, but due to the resistance of the body (mostly the skin) there is no way to actually achieve this current without very high voltage (in a low resistance situation low voltage can still kill since nowhere near 20A is needed).
+
+That "it's not the volts that hurt you, its the amps" is one of the most persistent myths among relatively informed people. I regret that I arrived here too late for people to read this.
+Tens of amps? I'm confused. So cold cranking amps, which are used primarily when the starter is turning the engine over, the number that on batteries typically is anywhere from 350-700A, is not what the actual output of the battery is??  
+
+Also, cool username!
+The reason the amperage is very low is that the static shock is jumping through the air (with very high resistance). Also contributing is the fact that they are less than a microsecond.
+We're talking about static shocks here. You wouldn't notice a 120V static shock at all.
+The reason you can light a cigarette with a 1.5V battery and get shocked by a car battery is that when you connect/disconnect the circuit, for a short time the battery functions as capacitor and creates a spark that has a lot higher voltage than the battery itself.
+They also might be talking long exposure rather than brief pulses.  Suppose you're trapped in the bathtub with a plugged-in hair dryer submerged next to you.  What minimum milliamps (applied for several minutes) is known to have been lethal at least in one incident?   Compare this value with getting zapped for 50 mSec while brushing against exposed wiring.  Insurance companies and safety warnings are going to err on the side of minimum current values and worst case situations.  An "LD50" value for current might give us a far better idea of the actual danger.
+The timing thing is real and I've heard it labeled the "death window."   But it's not just timing of applied pulses, it also involves pulse energy.
+
+From an excellent old SciAm article on heart mechanics ...a cardiac researcher in the ?60s? killed himself accidentally when applying electrical spikes to his own chest.  Apparently he was filling in an XY plot of stimulus pulse lag versus pulse height, and found a circular pattern of lagging beats and doubled beats in the plot.  What happens when your pulse generator is set to place the stimulus phase and energy in the center of that plotted circle?  V-fib apparently.  So, there's a sensitive spot in the QRST waveform, but only an applied pulse of a particular energy is dangerous.
+
+Speculation: a baseball can hit thousands of players in the chest thousands of times, and because of the above effect, in some tiny percentage it will trigger fibrillation.
+True true, but in this circuit the flow of charge is carried by electrons
+Good point.
+yah but it is a common misperception that the flow of electrons through a wire carries charge. the electrons are moving through the wire very slowly, it is the energy of their vibrations that "flows"
+
+Summary:
+Voltage = Current * Resistance
+
+or
+
+Current = Voltage / Resistance
+
+Right so.
+The *energy* you get in is the energy you get out.
+High voltage can kill you too.
+Voltages are like electrical pressure.
+because of the low current).
+It is current that hurts you.
+So volts *can* kill you.
+Voltage without current is not enough.
+That's where you get electrical burns.
+But high voltage shocks like static are also not dangerous.
+Amps are the units of current and volts are the unit of voltage.
+BUT... you need a high voltage for the current to overcome the resistance of your skin.
+your finger has more resistance.
+Think of it like this.
+Ohm's law is the relationship between voltage, current and resistance.
+Power being Current multiplied by Voltage.
+you can touch both terminals of a car battery and not get shocked because its only 12 volts.
+Also, *high* current can cause damage due to burning.
+Think of electricity like water in a pipe.
+Amps is current, which is simply how much electricity there is.
+Electric current is directly proportional to voltage.
+So 10 amps at 120 volts is just as dangerous as 10 amps at 480 volts?
+Current in the absence of voltage (however it gets there) can kill.
+And just like a small wire has high resistance, a small contact area has high resistance.
+yes, amps are what kill you.
+&gt;But high voltage shocks like static are also not dangerous.
+* Power (volts multiplied by amps) is what burns you.
+Your body's resistance will be a bigger % of the total resistance in the circuit, so more voltage will be over your body.
+The higher the voltage your dealing with, the more current will be able to pass through your skin.
+I was wrong is why.
+50,000K volts of static electricity wont hurt you, but if you had 10 amps of power at that voltage it would.
+People claim that say... a car battery will hurt you more than 120 volt home circuit will, if you get shocked.
+The voltage of the battery has not changed when you licked it.
+The reason the amperage is very low is that the static shock is jumping through the air (with very high resistance).
+This gives the current the chance to path through more of your body so it's more likely to cause damage.
+also be aware that even current less than one amp is enough to kill you if it pass through your heart.
+Voltage and current are related through Ohm's law.
+A charger has to put out more ~power~ voltage than the thing it is charging.
+Obviously there was more to it than I thought (resistance) but it seems that you can't just say that amps are dangerous, volts are not.
+Static shocks are very high voltage, often around 40,000 volts.
+So currents between 0.1 and 0.2 Amps are lethal, but above that not so much.
+It's just that you *don't* know what the specific voltage is that will cause it.
+The electrical relationship V=IR limits how much current will actually pass through your body.
+Resistance is what is stopping the electrons from moving between these two points.

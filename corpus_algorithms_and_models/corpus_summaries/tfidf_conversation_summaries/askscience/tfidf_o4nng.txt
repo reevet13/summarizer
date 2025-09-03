@@ -1,0 +1,18 @@
+Original Response:
+I hear so much about people exclaiming that they'd not want a nuclear power plant in their 'backyard', so I was curious how dangerous it actually would be in comparison to living elsewhere. Nearly 3.8 million people live in LA, and like any big city there's crime but also earthquakes - is it safer to live there than near a nuclear power plant?
+
+I realized 'dangerous' is fairly ambiguous, as is 'living near' - but I don't know enough about radiation to make more qualified statements, so perhaps part of the answer would be to define these two.
+It depends on how you quantify the probability of a disaster extreme enough to breach the containment of the reactor, and how you quantify the danger posed by any resultant release of radioactive material (in terms of statistical increases to cancer rates and such, since the acute danger would be limited to workers on site).  In normal operation nuclear power plants release negligible amounts of radiation (i.e. they don't comprise a significant fraction of the background radiation you're exposed to anyway).
+[This](http://www.scientificamerican.com/article.cfm?id=coal-ash-is-more-radioactive-than-nuclear-waste) may help.  From what I know, nuclear power plants do not release much radioactivity at all.  They have extremely tight regulations and there are a few feet of concrete separating the uranium from the outside.  LA however is powered by coal plants which create smog.  The smog tends to linger there due to the mountains so it concentrates.  If I had to pick one for my kids to grow up by, I would pick living by the nuclear power plant.
+If you boil this down to risk of death by earthquake vs nuclear catastrophe:
+
+
+US geological survey says about [2 people die a year in the US from earthquakes](http://earthquake.usgs.gov/earthquakes/states/us_deaths.php), with 60+ deaths about every other decade.
+
+The worst nuclear accident, excluding Chernobyl, that is well known is Fukushima. Wikipedia has two sources placing suggesting between 100 and 1000 cancer related deaths can be expected. 
+
+
+With the level of disaster to trigger Fukushima, I'd rather live near a reactor than an earthquake zone. Also, Fukushima was an older design which had known problems that were addressed in latter designs.
+
+Summary:
+From what I know, nuclear power plants do not release much radioactivity at all.

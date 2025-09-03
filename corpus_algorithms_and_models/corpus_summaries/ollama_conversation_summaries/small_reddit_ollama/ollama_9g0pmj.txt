@@ -1,0 +1,20 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Note 1. [Check out our apps wiki](https://www.reddit.com/r/Android/wiki/index#wiki_apps) for previous threads and apps curated by the reddit Android community!
+
+***[NEW: Download the official /r/Android App Store based on our wiki!](https://github.com/d4rken/reddit-android-appstore/releases)
+
+Note 2. Join us at **/r/MoronicMondayAndroid**, a sub serving as a repository for our retired weekly threads. Just pick any thread and Ctrl-F your way to wisdom!
+
+This weekly Saturday thread is for:  
+* App promotion,  
+* App praise/sharing  
+
+***  
+
+**Rules:**  
+
+1) If you are a developer, you may promote your own app ONLY under the bolded, distinguished moderator comment.
+
+Please suggest the best expense tracker app.
+I'm a fan of the ClearCheckbook website in concert with its app.

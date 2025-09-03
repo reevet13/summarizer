@@ -1,0 +1,5 @@
+Oddly enough this is how absorption columns work. Contaminants from a vapor stream are run past a stream of liquid and absorbed into it.
+
+However the process is entirely run by equilibrium and length. If the water has been exposed to air then passive diffusion would have already destroyed any unequal footings in concentration. If your aim is some third party contaminant then the idea can still work.
+
+However just having some unequal concentrations between streams isn't enough you need to give it enough contact for diffusion to even happen to a useful degree.

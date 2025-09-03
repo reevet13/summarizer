@@ -1,0 +1,94 @@
+Original Response: 
+That's a little like saying, in 1994, that there would one day only be one web site left where you could buy anything.
+Wait, is that Amazon?
+;)
+Precisely.
+There's one enormous search engine - Google - and a few small competitors.
+There's one enormous desktop operating system - Windows - and a few small competitors.
+There's one enormous social media platform - Facebook - and a few small competitors.
+The one-big-few-small pattern certainly applies to crypto at the moment.
+I don't see any competition for Bitcoin that would change the pattern.
+Bloomberg is part of "their" media empire (**https://swprs.files.wordpress.com/2017/08/cfr-media-network-hdv-spr.png**) and it reeeeks of bias against Bitcoin caused by fear to their criminal Central Bank Cartel's monopoly on fiat issuance.
+[deleted]
+Something there is weird with your words.
+So Bitcoin is like the most popular search engine of 1994?
+Sounds like FUD to me.
+&gt; There's one enormous search engine - Google - and a few small competitors.
+Google doesn't publicly display to the world what you've searched.
+Google may know along with cookies and re-targeting.
+&gt; There's one enormous desktop operating system - Windows - and a few small competitors.
+Fair point.
+Although, not a windows user.
+&gt; There's one enormous social media platform - Facebook - and a few small competitors.
+I wouldn't call Twitter or Instagram "small competitors".
+&gt; The one-big-few-small pattern certainly applies to crypto at the moment.
+I don't see any competition for Bitcoin that would change the pattern.
+Just like with high transfer fees a year ago, I saw a use for LTC.
+Since BTC fixed that issue, now it's anonymity.
+Until BTC satisfies this, people like me will conduct transactions via other coins.
+As a secure store of wealth, there isn't anything better ATM than BTC.
+I'll get downvoted for this, but as a secure store of wealth, most everything else on earth (gold, USD, baseball cards, collectable plates) has retained value better than bitcoin over the past 10 months.
+I'm cherry picking the time period for added effect, but people aren't hodling BTC since December to store their wealth right now, people are hodling because they expect it to go to the moon.
+So noone is storing gold for value either ?
+It has also dropped.
+If it's amazon it would be fine, But if it will be Ebay?
+I'm out.
+Expect of course bitcoin is a store of value/money.
+Many of the rest may have different use cases.
+So yeah, while there may ever be one huge public block chain dealing with money (say bitcoin) there will certainly be several huge ones dealing with other things where trust is paramount.
+They say the blokchain can only ever secure its own token.
+Sure, but its own token can be made to also transfer more than value of transactions.
+It can be made to have ownerships so if anyone ever wants to know who owns what can ask a central public block chain which is true all over the world.
+Obviously before going there 51% threats, private key thefts and similar should become so very expensive that nobody could even attempt them.
+But I can see at least a dozen of uses for a public block chain that Bitcoin does not even begin to address because it doesn't care to...
+Facebook owns Instagram.
+Don't wanna derail the thread.
+But what if the token is for my house/car/cat, and I lose my private key or I get hacked.
+What do I do?
+The answer is ofcourse that someone in charge has to give me a new one.
+So then why can't they just have the info on their database?
+What's the use of having it on the blockchain?
+Not trying to shoot your idea down, but I'm very interested in hearing someone explain how this would actually work in a great way.
+Just saying it's a different platform.
+Someone could also say "Bitcoin Cash is Bitcoin" even though it's not.
+Then the tech is not ready for the use cases that I have described.
+Private key security RN is in its absolute nadir.
+It has to do with the fact that many think that it has to do with personal responsibility (to keep your keys safe) in this space...
+It mostly doesn't.
+Once we have better ways to trustlessly securing your keys so that no common thief ... or cat can even in principle steal them away from you, then and only then would it make sense to put more things on the block chain.
+Else it is no better than what we already have (trusting in 3rd parties).
+IMO private key security is as important as the network's security.
+First part of the problem has been mostly solved.
+Second one is still up for grabs.
+You didn't shoot my idea down or anything, you merely didn't read my 3rd paragraph.
+So I quote it
+
+&gt; Obviously before going there 51% threats, private key thefts and similar should become so very expensive that nobody could even attempt them.
+Alright, I agree with what you post.
+What I'm wondering is if there's any idea on how to actually secure private keys in a way that they can't be stolen or lost.
+I can't wrap my head around even a theory about how it would be possible.
+TCP/IP protocol would be a better comparison IMO.
+I'm not sure either.
+It would most possibly have to do with multi sig and time locks.
+For example to actually sign something may need a few hours (or days even).
+So the would be attacker would be unable to use your keys unless several days are passed (for example) by which time either law enforcement would be notified, or you would be free to nullify the validity of said keys (nullification would be able to happen instantly in a much smaller timeframe).
+But honestly it beats me.
+If I had an idea I would had implemented already and be a multimillionaire.
+I am mostly sure that it is solvable though, a bit of how mass trust is solvable via game theory and a little bit of math (in public open block chains).
+First-mover advantage is never a guarantee for long term success / adoption.
+Imo, cryptocurrency markets is closer to the stock markets than search engines...
+
+Btw, I'm a bitcoin supporter, check my history..  but lets not turn this into a religion...
+
+Summary: 
+There's one enormous search engine - Google - and a few small competitors.
+&gt; There's one enormous search engine - Google - and a few small competitors.
+I don't see any competition for Bitcoin that would change the pattern.
+There's one enormous social media platform - Facebook - and a few small competitors.
+So Bitcoin is like the most popular search engine of 1994?
+What's the use of having it on the blockchain?
+There's one enormous desktop operating system - Windows - and a few small competitors.
+&gt; There's one enormous social media platform - Facebook - and a few small competitors.
+Alright, I agree with what you post.
+Private key security RN is in its absolute nadir.
+&gt; There's one enormous desktop operating system - Windows - and a few small competitors.

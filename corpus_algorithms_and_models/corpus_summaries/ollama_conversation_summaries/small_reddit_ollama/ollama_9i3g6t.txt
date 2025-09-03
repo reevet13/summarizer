@@ -1,0 +1,10 @@
+Here is the extracted summary:
+
+Been going through globals.xml and events.xml and changed the min-max to 100 on events.xml and globals to 1500 but still only seeing 40 zombies in #monitor?
+Nevermind figured out how to add more zombies, had to depbo a file.
+I may have increased it too much... its basically World War Z.. Im extremely scared to shoot as i shot once at the airfield and 150+ zombies came flying over the walls chasing..
+Lol post some screenshots on the sub!
+Hey man can you tell me what file you edited and what you done lol this is the first time i've ever posted, would really love to know mate :)
+https://steamuserimages-a.akamaihd.net/ugc/965350359852809898/AE8FA99B049ADDAB3F0A7E3D8F0914AE03C5D8B6/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C2048%3A1152&composite-to=*,*%7C2048%3A1152&background-color=black
+
+https://cdn.discordapp.com/attachments/263117343138250764/493233116710699009/unknown.png

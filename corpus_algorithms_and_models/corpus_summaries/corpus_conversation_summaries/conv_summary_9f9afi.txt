@@ -1,0 +1,89 @@
+Original Response: 
+Given that time runs slower relative to me, shouldn’t the object passing through the event horizon come to a stop eventually through my eyes?
+It will technically never stop, because it won't ever reach the event horizon from your perspective.
+It will continue to slow down and light coming from it will continue to get red shifted further and further.
+It will be invisible to human eyes pretty quickly.
+You'd need some other kind of detector to continue to observe it.
+[removed]
+A single photon can be extremely red shifted but it's still a photon and still exists.
+It's just very low energy (long wavelength), so it'd be hard to detect above background.
+Sure, but any detector that can't detect below a certain wavelength will eventually see nothing.
+OP seems to be talking about eyes, but a similar limitation applies to any conceivable detector.
+But there will conceivably still be photons coming out.
+Whether we can detect those photons is another issue, though.
+Once the light is redshifted to about 2.7K it would be difficult to distinguish it from the cosmic background radiation.
+You wouldn't be looking at the cosmic background though, right?
+You would be looking at the black hole.
+So the relevant background to compare against would be Hawking radiation of the black hole.
+The temperature of Hawking radiation depends on the black hole's mass, right?
+That's not what you said though, you said "you pretty quickly reach a point where there are no photons coming out any more" which is not true, they're just extremely low energy photons we would not be able to detect.
+[removed]
+[removed]
+&gt; You'd need some other kind of detector to continue to observe it.
+No detector will be able to do this, the intensity drops exponentially.
+You'll quickly receive the last photon ever.
+The timescale is microseconds for stellar mass black holes and up to hours for supermassive black holes.
+You can not see an object going inside the event horizon of a black hole.
+From your point of view, it would take an infinite amount of time to reach the event horizon, because it would seem to be slowing down.
+However, the actual reason why you would not see it, is because the light that comes from that object reaches you with lower frequency (gravitational redshift), until a point that the wavelength is sooo large that no instrument would be able to detect the light.
+I've never understood the 'will take forever for an outside observer' statement.
+That only works if they accelerate infinitely toward the event horizon.
+Take a look at galactic cores.
+We think they're supermassive black holes that formed by swallowing other mass.
+If it took forever for things to cross the event horizon to grow the supermassive black holes, then from external observation points we should see no supermassive black holes.
+I also thought that as far as time dilation goes, if entity A is under increased gravitational forces and entity B is under significantly lower gravitational forces, then entity B's observation of entity A is that it moves slower.
+See the plot line of the movie "Innerstellar."
+ We do not actually "see" black holes.
+We just detect their gravitational interaction with other elements close to them (e.g, Sagitarius A\*), or the material that is starting to fall into them (e.g, accretion disks).
+Also, the objects are not being accelerated by themselves, they are free-falling into the black hole.
+Second statement: indeed some of the ideas of Interstellar are correct, and that is the direct cause of the redshift that I explain before.
+If you have a laser with certain frequency/period emitting in a intense gravitational field , for an external observer the measured period is higher, just because apparently the time runs slower when looking at the emitter.
+"See" was the wrong word, but the point stands.
+The problem that I'm trying to point out is that it doesn't make sense to me for it to take forever for an object to cross the event horizon, as viewed by any observer, which is how the original comment was interpreted.
+This seems entirely wrong...
+
+Time is relative, but its flow remains fixed for the distant, stationary observer.
+We can say that time is moving normally for the external observer and is dilated for the one accellerating toward the black hole, increasingly so as they approach the singularity or the speed of light, whichever comes first.
+For the observer falling into the black hole, my understanding is that their perception should be as if they are traveling faster than the speed of light (if spaghettification wasn't a concern) and that everything around them should seem to happen incredibly fast and/or blueshifted, though warped is probably a better word.
+For our external observer, they will see the falling observer move faster and faster as it accelerates toward the event horizion.
+Additionally, photons emitted by the falling observer are more and more redshifted to distant observers at less dilated spacetime.
+This continues until the spacetime at the event horizon prevents any photons from escaping at all.
+...so what part do I misunderstand?
+&gt; For our external observer, they will see the falling observer move faster and faster as it accelerates toward the event horizion.
+Where did that statement come from?
+The falling observer is A, under increased gravitational forces.
+B will see A's time dilated; A will move slower and slower.
+The result is that A will appear to take infinitely long to cross the event horizon.
+The shifting in this case is not due to relative velocity, but relative gravity.
+The person falling in see's the universes rate of time increase as they approach the horizon to infinity as they cross it.
+Acceleration is caused by gravitational forces, less conservation of angular momentum.
+It reasons to say time dilation should be caused by both (mostly gravity in this case).
+[removed]
+Doesn’t it simply mean that the information that an object fell into the black hole can never reach external observer?
+If so doesn’t it mean that from the point of view of such observer (eg us) a black hole could never ‘grow’ after its initially formed ?
+I always wondered about this:) 
+also won’t uncertainty principle mean that at some point this object can cross the horizon ?
+Not a physics grad so my thinking is most likely naive.
+&gt;Doesn’t it simply mean that the information that an object fell into the black hole can never reach external observer?
+Indeed that is what it is happening.
+&gt;If so doesn’t it mean that from the point of view of such observer (eg  us) a black hole could never ‘grow’ after its initially formed ?
+That it is a really good question that I have asked myself so many times and I do not have a clear and convincing answer.
+But my guess is that we actually see a black hole grow because, although it would take an infinite amount of time, the material that is falling into the black hole already adds mass to it, if you look from far enough.
+However, I do not feel that this is a good answer... 
+
+&gt;I always wondered about this:) also won’t uncertainty principle mean that at some point this object can cross the horizon ?
+No, because the object apparently is frozen, but from its point of view (where this quantum consideration should be done) it does not feel any special effect after entering the horizon.
+Furthermore quantum effects in the proximity/interior of a black hole is not easy/possible to study with our QM and GR theories.
+&amp;#x200B;
+
+Summary: 
+ We do not actually "see" black holes.
+You would be looking at the black hole.
+Also, the objects are not being accelerated by themselves, they are free-falling into the black hole.
+The falling observer is A, under increased gravitational forces.
+You can not see an object going inside the event horizon of a black hole.
+"See" was the wrong word, but the point stands.
+You'd need some other kind of detector to continue to observe it.
+That only works if they accelerate infinitely toward the event horizon.
+But there will conceivably still be photons coming out.
+Where did that statement come from?

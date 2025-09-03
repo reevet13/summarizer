@@ -1,0 +1,51 @@
+Original Response:
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[Yes.](http://robinsrx.blogs.theledger.com/11294/what-hamsters-can-tell-us-about-jet-lag/)
+
+And there's an surprise [treatment.](http://www.newscientist.com/article/dn11895-viagra-reduces-hamster-jet-lag.html)
+The next logical question being, anyone who owns a cat that has taken it to a 8+ hour different time zone what changes have you noticed if any?
+[This](http://circres.ahajournals.org/content/109/4/353.full) article highlights the fact that our circadian rhythms are programmed centrally by light - and that it involves [epigenetic](http://en.wikipedia.org/wiki/Epigenetics) changes. The feeling of jet lag is a disruption in the light cycle, and returning to a normal light-dark cycle is needed to "fix" our internal clocks/relieve jet lag.
+
+If the circadian clocks of animals are regulated in the same way, then it would be reasonable to assume that they can experience similar feelings of jet lag.
+So which animals are similar(where on the evolutionary tree did this start and who is on it)?, and for the ones that are not, how do they experience jetlag?
+
+Edit: Spelling.
+My god you just asked a mouthful - that could easily be the topic of someone's doctoral dissertation.
+
+I have no idea, maybe someone else will know. Definitely an interesting question but I don't know any data about it.
+All mammals are highly dependent on their circadian rhythm and jet lag is much more biological then cultural. Cats sleep during the day because their ancestors were adept night hunters, just because an animal sleeps at odd hours to you doesn't mean that they simply sleep when tired. When you screw with their rhythm which is highly dependent on the most predictable and understandable time measuring device(the sun) combined with a lack of understanding on why their circadian rhythm isn't matching the world around them they will get jet lagged.
+
+We actually actively suppress our circadian rhythm because of artificial light extending what we consider to be day time. Humans normally wake up for an hour or so mid sleep but artificial light put an end to that for most of us.
+How did they figure this out?
+Well yeah it's a tough question but someone might have already done a doctoral dissertation on it. Asking this question here amongst a bunch of science geeks in the know is basically the best way to find out if someone has done research on this type of thing.
+You could also search an academic database like JSTOR or WorldCat.  Your local library likely has access if you are not a student.
+[deleted]
+I'm not sure of the exact origin (not my particular specialty), but the circadian clock genes and light entrainment of the clock predates the protostome/deuterostome split because we share homologous clock proteins with fruit flies.  So the only animals that *may* not have the same mechanisms we do are sponges, cnidarians, and ctenophores, and I'd be surprised if it was actually missing in any of those 3 groups.
+
+It also seems that fungi and even prokaryotes have light entrained circadian cycles.  I suspect these groups use a suite of genes similar to those found in animals (probably homologous), but I didn't really bother checking that.  I think disruption to the metabolic and replicative cycles of organisms without a nervous system strains the definition of "jet lag", so we probably don't need to worry about them to answer your question.
+&gt; When you screw with their rhythm which is highly dependent on the most predictable and understandable time measuring device(the sun) combined with a lack of understanding on why their circadian rhythm isn't matching the world around them they will get jet lagged.  
+&gt; We actually actively suppress our circadian rhythm because of artificial light
+
+Since domestic cats are exposed to our artificial light too, wouldn't the implication be that we make them mildly screwy and "jet-lagged" all the time?  I can't imagine they could have "evolved to suit it" yet, since it's pretty recent and there probably isn't a significant selection pressure on a pet from being a bit jet-lagged anyway.
+all eukaryotes and some prokaryotes exhibit circadian rhythms, you might want to look up: 'phase delay' because the answer is complex, depending on the type of creature and at what point in its 'subjective day' do things happen, and what are those things.
+
+Fun fact though: the protein in you eyes (and most animals) that senses light (mostly the blue part of visible light) arose during a whole genome duplication event and was an ancestral photolyases that helps mediate DNA repair in visible light. Also the parts of you eye that detect this light doesn't contribute to sight but goes to your SCN and then signals to your pineal gland which can release melatonin http://en.wikipedia.org/wiki/Photosensitive_ganglion_cell
+I wonder how many animals have east-west migration patterns, and how their circadian rhythms compare.
+Don't take it personally, man. He was just saying he doesn't know.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+She :)
+Nice, I didn't know the divergence may have occurred that early on.
+[deleted]
+
+Summary:
+We actually actively suppress our circadian rhythm because of artificial light extending what we consider to be day time.
+Definitely an interesting question but I don't know any data about it.
+All mammals are highly dependent on their circadian rhythm and jet lag is much more biological then cultural.
+I have no idea, maybe someone else will know.

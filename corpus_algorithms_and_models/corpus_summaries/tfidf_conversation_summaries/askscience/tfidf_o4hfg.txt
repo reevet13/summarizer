@@ -1,0 +1,12 @@
+Original Response:
+I understand the different wavelengths that cause visible light/colors of the rainbow. What I don't understand is how mixing one color with the other causes a change in the wavelength to create another color. And why is it that some colors (red, blue, and yellow) can't be made by mixing? Thanks
+
+Edit: I meant mix!! Damn it... Too late.
+&gt; What I don't understand is how mixing one color with the other causes a change in the wavelength to create another color.
+
+The answer is it doesn't change the wavelengths. When you mix photons with wavelength of, say, 600 nm (red) with photons with wavelengths of 460 nm (blue), you have a mixture of a two photons. This mixture of photons excite your colour receptors in your eye in such a way that you perceive the colour magenta.
+
+As to the primary colours, I'll direct you to the wikipedia article on [cone cells](http://en.wikipedia.org/wiki/Cone_cell). You'll see that the three types of receptors are most sensitive to three wavelengths of photons - those that correspond to blue, green and red (actually near yellow). Colours are perceived based on the excitation pattern of these three types of cells - hence the effect of mixing colours to create new colours.
+
+Summary:
+What I don't understand is how mixing one color with the other causes a change in the wavelength to create another color.

@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the original text (up to 250 words):
+
+You're getting signed in without prompting. If you use your friend's computer to check your mail, you'll end up being signed in into Chrome without you knowing it.
+
+Yes but it doesn’t contact Googles data centers to sync any useful or sensitive data. That requires user permission. Read the article.
+
+The whole point is that as soon as you sign into gmail, Chrome signs you into Chrome automatically without a warning.
+
+When you're using chrome and you go to Gmail there's a message that says "not your computer? Use guest account for more privacy" or something along those lines. Yes it doesn't say "we will sign you into chrome as well" I'm not arguing that. But the guest mode doesn't sign you into chrome, and it also removes cookies from the computer after you close the guest mode window".
+
+It's pretty much the same, although in incognito, you're technically still on your normal account, you can still see your history, have access to your extensions if you enable them, and other settings.

@@ -1,0 +1,14 @@
+Here are the extracted sentences:
+
+1. A particle has to have both [position and momentum], or else it doesn't exist.
+2. All particles have both constantly, whether someone's trying to measure them or not.
+3. Thus, the uncertainty principle actually states a fundamental property of quantum systems and is not a statement about the observational success of current technology.
+4. Mathematically, in wave mechanics, the uncertainty relation between position and momentum arises because the expressions of the wavefunction in the two corresponding orthonormal bases in Hilbert space are Fourier transforms of one another (i.e., position and momentum are conjugate variables).
+5. A similar tradeoff between the variances of Fourier conjugates arises in all systems underlain by Fourier analysis, for example in sound waves: A pure tone is a sharp spike at a single frequency, while its Fourier transform gives the shape of the sound wave in the time domain, which is a completely delocalized sine wave.
+6. Even with perfect instruments and technique, the uncertainty is inherent in the nature of things.
+7. The only reason they seem to clash is because you want to have perfectly measured location and frequency of a wave, because if things weren't waves but particles instead, that sorta request would totally make sense.
+8. That's not what the debates were about. He refused to believe in a non-deterministic universe.
+9. The second phase of Einstein's "debate" with Bohr and the orthodox interpretation is characterized by an acceptance of the fact that it is, as a practical matter, impossible to simultaneously determine the values of certain incompatible quantities, but the rejection that this implies that these quantities do not actually have precise values.
+10. You are right and ClicksAndASmell is repeating bad (or misunderstood) popular science over and over again.
+
+Let me know if you'd like me to extract any specific types of sentences or phrases!

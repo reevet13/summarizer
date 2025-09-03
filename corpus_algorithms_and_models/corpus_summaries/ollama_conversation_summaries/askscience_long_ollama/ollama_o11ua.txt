@@ -1,0 +1,17 @@
+Here is a summary of the original text in approximately 10% of the original content (up to 250 words):
+
+I'm not going to use exact temperatures because that would confuse me further while writing this. Lets say you have 100ml of 'hot' water and add 10ml of 'cold' water, the resulting water is 110ml of X heat. You also have 100ml of 'cold' water and add 10ml of 'hot' water, the result of this is 110ml of Y heat.
+
+For your first scenario - adding 100mL of hot water and 10mL of cold water will give a different temperature than adding 100mL of cold water and 10mL of hot water (edit - defining 'hot' and 'cold' as fixed temperatures greater than 273K and below 373K, with hot being a higher temperature than cold so some pedantic physicist doesn't call me out). I think that's what you're getting at, but I'm not sure.
+
+If you add X amount of hot water to Y amount of cold water to reach temperature T, then you must add Y amount of cold water to X amount of hot water to reach the same temperature. It doesn't matter what order you go in.
+
+Think of it like this, if you added the same volume of "hot" and "cold" water (i.e. 50mL of each), you would end up with 100 mL of water that would have the average temperature of the two.
+
+99mL of freezing water + 1 mL of boiling water. What temperature is it going to be? Boiling or freezing?
+
+The formula is T = (m1⋅T1 + m2⋅T2) ÷ (m1 + m2)
+
+    1: 
+      X° = (0.1kg ⋅ Hot° + 0.01kg ⋅ Cold°) ÷ 0.11kg
+      Y° = (0.01g ⋅ Hot° + 0.1g ⋅ Cold°) ÷ 0.11kg

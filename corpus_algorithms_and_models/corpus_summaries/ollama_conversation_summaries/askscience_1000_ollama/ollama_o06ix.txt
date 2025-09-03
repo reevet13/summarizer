@@ -1,0 +1,20 @@
+Here is the extracted summary:
+
+Well, black skin does absorb more light in itself. This is the reason why black cars get hotter than white cars.
+
+I believe that dark skin is more opaque, and light skin more translucent. Thus the light absorbed by dark skin is stopped and actually absorbed by the material, where light skin allows light to pass through.
+
+When light hits a surface, it can be:
+
+    * Reflected
+    * Absorbed
+    * Transmitted
+
+As you said, light skin would reflect a larger portion of light than dark skin. Dark skin would absorb more than light skin. Both will absorb more than they reflect, and both will transmit some light.
+
+Note that it absorbs the radiation, not necessarily "brightness". Skin doesn't work like glow in the dark star stickers.
+
+Absorbed:  Material absorbs light energy and converts to heat or another form of energy.
+Tranmitted:  Light energy travels through material relatively unimpeded.
+
+I hope this helps clarify things for you.

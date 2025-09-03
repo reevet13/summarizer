@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+Gas cars use a small battery to start the car and operate some electrical devices during operation, with energy diverted from the combustion of gasoline to spin an alternator and charge the battery.
+
+Electric cars use huge batteries to power the car, with regenerative braking techniques used to divert energy back to the batteries.
+
+You can't use an alternator in electric cars like you would in gas cars because the battery is the main source of power, so it can't run the car while also running a generator that keeps itself powered.
+
+Electric vehicles do have an alternator or motor that runs in reverse for rare occasions when they want to convert mechanical motion into electricity.
+
+*Conservation of Energy:* Energy cannot be created or destroyed, only converted from one form to another.

@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text (up to 250 words), selecting only sentences from the original text exactly as written:
+
+According to relativity theory nothing can move faster than light. My question is, relative to what? See, if nothing can move faster than light relative to e.g. the microwave background, then how could something as the LHC work.
+
+The LHC works because the protons are never moving faster than the speed of light; velocity addition does not work the same way for relativistic speeds as it does for small, everyday speeds.
+
+Relative to any chosen frame of reference; the speed of light is constant and is the same for any reference frame.
+
+Nothing can move faster than **the speed light travels in a vaccum** relative to **anything**.

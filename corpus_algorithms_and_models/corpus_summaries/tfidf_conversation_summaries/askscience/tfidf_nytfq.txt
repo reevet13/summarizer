@@ -1,0 +1,28 @@
+Original Response:
+It just seems that if time is a dimension like length and width, we should be able to freely move through it. Instead, we can only travel in one direction. What's up with that?
+What you're saying would be true if the geometry of spacetime were Euclidean, but it's not. It's hyperbolic in the time dimension. And one of the quirky things about hyperbolic geometry is that, if you can travel in both directions in the "normal" dimensions, there's nothing you can do to get yourself moving the other way in the hyperbolic dimension.
+Time isn't a physical dimension, and there is some debate on if we actually can move through time like other dimensions. Some even say that time is not a linear progression, but rather a single or spread out event or process, and this is how we make sense of it. Another idea is that time is 3 dimensions (past, present, future) like space. There are other dimensions too, 10 for string theory, 11 for [m theory](http://en.m.wikipedia.org/wiki/Introduction_to_M-theory)
+If we were able to move backwards through time, we'd be able to violate causality, thermodynamics, and a slew of other laws. We can, however, move forward through time at different rates. Not per our own reference frame, of course, but through others'.
+
+Also, it's very bad to think of time as a dimension like length and width. It's not. We call it 3-and-1 and not "4" for a reason (when talking with people who don't already know the difference). The 3 dimensions are Euclidean, whereas we view the "4" dimensions as hyperbolic (see [Minkowski space](http://en.wikipedia.org/wiki/Minkowski_space)). That's a bit hand-wavey and possibly wrongly worded, but the point you should bring home is that the temporal dimension is *not* exactly like the spacial dimensions.
+I always thought that every thing happened at one time, and we make sense of it by creating a linear timeline to take it all in. And I read up on the other dimensions, though I'm always looking for more info.
+I know length and width are terrible words to use, but I was not sure which words to use exactly. Though I do understand the gist of the theories, it's the specifics that always elude me. Thanks for the info.
+The problem is you can't really use any words other than "like time", which is really unhelpful because you're comparing time with time. We have no other dimension like the temporal one, we deal with no other theoretical dimensions like the temporal one (see [the privileged character of 3+1 spacetime](http://en.wikipedia.org/wiki/Spacetime#Privileged_character_of_3.2B1_spacetime) for good arguments why there is only 1 temporal dimension). I understand the frustrations of not being able to say that time is a dimension like length or width, but there are no other words to replace "length" or "width" with because there are no other dimensions we have that are like time. It's this fact that causes a lot of confusion when people start looking into spacetime and hear the temporal dimension being thrown in with the spacial ones.
+To travel back in time you have to move at a positive speed.  To travel forward in time you have to move at a negative speed.  We do move through time, we just don't have the technology to move through time at a significant pace.  We're all time traveling at a pace of 1 second/second.  It's estimated that if you  lived in a moving Airplane (flying at about 500 miles an hour), after 100 years you'd be about 1 second younger than the people on the ground
+That's weird. If there aren't any other dimensions like the temporal one, then what the hell is it? Or is it a higher dimension that we can kind of see, but not really.
+the corresponding word for "length", "width", or "height" is "duration"
+&gt;If there aren't any other dimensions like the temporal one, then what the hell is it?
+
+It's the temporal dimension.
+
+&gt;Or is it a higher dimension that we can kind of see, but not really.
+
+"Higher" dimension doesn't really make sense. It's a dimension orthogonal to the three familiar spatial dimensions that happens to be related to them in a different way than they are related to one another.
+I think you missed my point. If we do as you suggest, the original question "if time is a dimension like length and width" is replaced with "if time is a dimension like duration" which is to say "if time is a dimension like time" which is worthless to say. Height, length and width are 3 distinct spacial dimensions, but we have no other distinct temporal dimension - we just have one, which means it's nearly impossible to compare it to another dimension.
+I wasn't responding to the main point, just giving a relevant detail.
+
+Summary:
+It's hyperbolic in the time dimension.
+If there aren't any other dimensions like the temporal one, then what the hell is it?
+It just seems that if time is a dimension like length and width, we should be able to freely move through it.
+Also, it's very bad to think of time as a dimension like length and width.

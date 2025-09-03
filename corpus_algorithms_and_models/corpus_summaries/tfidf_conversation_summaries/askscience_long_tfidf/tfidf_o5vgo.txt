@@ -1,0 +1,114 @@
+Original Response:
+Serious question:
+
+Is there any good data to support that man is a significant contributor to global warming?
+[deleted]
+Yes. We produce roughly 26.4 Gt (gigatons) of CO2 alone per year.
+
+Additionally, recent more-rapid warming began roughly around the start of the industrial revolution.
+For starters, we understand how the atmospheric greenhouse effect works. That is, the basic physics and chemistry describing how gases in the atmosphere can 'trap' radiation in the atmospheric system (that means, prevent a certain proportion of it from leaving to space) were originally worked out over a century ago. Now, we also know that carbon dioxide (and other gases such as methane) are very potent greenhouse gases, because we can study in controlled settings in the laboratory how they interact with radiation of different wavelengths (specifically, the bonds within the molecule and how they can absorb incident photons). 
+
+So, from pure physics and chemistry, we understand a 0th-order effect: *If you increase the amount of greenhouse gas in the atmosphere, it will warm up because less energy in the form of radiation will be able to escape the system to space*.
+
+We also know unambiguously that the atmospheric concentration of CO2 has been rising, and didn't start rising until the start of the Industrial Revolution. Of course, correlation does not imply causation, so it is natural to ask if this is just a spurious coincidence. However, we know that human industry is the source of much of that surplus CO2 in the atmosphere. Why? Carbon has several stable, naturally occurring isotopes. So in CO2 molecules in the atmosphere, we expect to find some C12 and some C13 atoms. Now, botanists know that plants like to preferentially uptake CO2 with C12. Thus, in a purely organic cycling carbon cycle, we expect there to be more C12 than C13. We would also expect this ratio to be steady in time.
+
+Curiously, we know that this isn't the case. In fact, we know that there is *more C13* in the  atmospheric CO2 than before - and it's a rather significant trend. It turns out that the carbon we emit in the form of CO2 tends to have more C13 than C12, just as a product of combustion. So by tracking the C12/C13 ratio over time, we can see the influence of anthropogenic carbon on the reservoirs within the climate system. 
+
+So to summarize, we know from basic physics and chemistry how the planetary greenhouse works. Then, we know that a greenhouse gas is increasing in concentration in the atmosphere. We also know that human industry is the cause of this increasing in concentration. Hence, we understand that anthropogenic processes are an important player in global warming. And of course, this is but *one* line of evidence we use to establish man's role in global warming... but it is a simple and easy one to understand.
+Two things.
+
+1) Could you give more background on the C12/C13 ratio work?  I haven't heard about this before so I'm curious to look into this more. 
+
+2) One significant correction to this post.  There may be more C13 in man-made CO2 than in natural CO2 sources, but there would **never** be more C13 than C12 in any of these samples.
+&gt; 1) Could you give more background on the C12/C13 ratio work? I haven't heard about this before so I'm curious to look into this more.
+
+[Ghosh, 2003](http://www.bgc.mpg.de/service/iso_gas_lab/publications/PG_WB_IJMS.pdf) is an authoritative source for which I was able to find a free-to-download copy. I recommend reading this paper for a high-level overview and following the cited works for more information; if you find a reference which you are unable to access because it is behind a paywall, let me know and I will obtain it for you.
+
+&gt; 2) One significant correction to this post. There may be more C13 in man-made CO2 than in natural CO2 sources, but there would never be more C13 than C12 in any of these samples.
+
+Fine, excuse my imprecision. I was simply giving a very high-level overview of what is going on with stable isotope ratios. Notice that I didn't even add the complication of the exact sign for which the stable isotope ratio is trending, because it adds a layer of complexity which makes the fundamental concept harder to grasp.
+I am a self-admitted skeptic of claims made that climate change will be extreme or catastrophic, but it is quite likely that mankind has has *some* role in the warming experienced during the industrial revolution.  As counters describes, increasing CO2 will lead to more infrared radiation being reflected back to the earths surface, which will lead to warming.
+
+My views differ from people like counters in two ways:
+
+- I remain unconvinced of a high level of climate sensitivity.  There is general agreement that the **direct effect** of doubling atmospheric CO2 from preindustrial levels (so, from about 280 ppm to 560 ppm) will increase global temperatures by about 1°C.  The concept of climate sensitivity has to do with feedbacks.  If the feedbacks are primarily positive, that 1°C will cause more warming.  If feedbacks are primarily negative, the warming will be less.
+
+- I am of the opinion that our current use of fossil fuels will peak in the relatively near future (within a decade or two for oil, within 30 years for coal), making efforts to tax CO2 emissions superfluous.
+By way of context, that 26.4 Gt is about 5% of what is produced naturally every year, but seems to be enough that nature can't absorb it as fast as we produce it.
+&gt;I am a self-admitted skeptic of claims made that climate change will be extreme or catastrophic
+
+Define catastrophic.
+
+&gt;I remain unconvinced of a high level of climate sensitivity.
+
+Even though there are multiple lines of evidence supporting a sensitivity between 2 and 4.5C (with a likely value of 3C)?
+
+&gt;I am of the opinion that our current use of fossil fuels will peak in the relatively near future (within a decade or two for oil, within 30 years for coal), making efforts to tax CO2 emissions superfluous.
+
+Quite the contrary. If Peak Oil does represent a credible threat, then taxing CO2 is even more of a priority (to discourage fossil fuel use - we need that oil for plastics, too!).
+[deleted]
+&gt;You know, all the shit you and your pals claim will result.
+
+So you admit you use the word loosely, for shock value, without having to stopped to think what it really means? Gotcha.
+
+&gt;That is simply false.
+
+No, that is the current state of the science. If you knew anything about the science, instead of giving credence to any and all denialist blog you can find, you'd know this.
+
+Fortunately, most people here on /r/askscience can see through your BS.
+
+&gt;All it will do is shift usage to a later time. Net emissions will remain the same.
+
+That doesn't even make sense. You make this too easy! :-D
+&gt; That is simply false.
+
+No, for what seems like the thousandth time, *your* selective and esoteric interpretation of literature like [Knutti and Hegerl, 2008](http://www.iac.ethz.ch/people/knuttir/papers/knutti08natgeo.pdf) is wrong.
+I'm not talking about that paper.
+&gt;No, that is the current state of the science.
+
+Most certainly not.
+
+&gt;If you knew anything about the science
+
+I dare say, I know more about it than you.
+
+&gt;instead of giving credence to any and all denialist blog you can find, you'd know this.
+
+I have no idea what you are talking about here.
+&gt;Most certainly not.
+
+You're quite mistaken.
+
+&gt;I dare say, I know more about it than you.
+
+No, you don't. You've shown time and time again that you are guided not by a desire to know the truth, but simply to be reinforced in your opinion. When asked for evidence supporting your position you quickly change the subject or start attacking your interlocutor. I expect you'll start doing this in this thread very soon
+EDIT: I was.
+
+You're not really talking about any paper. You just decided at some point that AGW was false and have been working at comforting that position ever since.
+So what we have from you is nothing but namecalling and an entire lack of sources.  We are done.  I'll let you have the last word.
+EDIT: Sorry, I provided the wrong references for this thread. I moved the original post to the correct thread.
+
+To stay within topic, here's a paper summing up what we know about climate sensitivity, i.e. that it is between 2 and 4.5C, with a likely value of 3C:
+
+http://www.iac.ethz.ch/people/knuttir/papers/knutti08natgeo.pdf
+
+Also, I don't recall calling you names in this thread. Do you often play the victim in order to score cheap rhetorical points?
+
+&gt;I'll let you have the last word.
+
+I should be so lucky.
+The carbon isotope concentration in the atmosphere mentioned by "counters" is one of the human fingerprints of climate change. 
+
+Others can be seen in the pattern of the current warming. For example, nighttime temperatures have been warming faster than days, and the upper atmosphere is cooling while the lower atmosphere is warming. This clearly indicates that the warming is due to the greenhouse effect,  and not, for example, to an external factor such as increased solar activity.
+
+Summary:
+&gt;I dare say, I know more about it than you.
+We also know that human industry is the cause of this increasing in concentration.
+So in CO2 molecules in the atmosphere, we expect to find some C12 and some C13 atoms.
+Then, we know that a greenhouse gas is increasing in concentration in the atmosphere.
+For starters, we understand how the atmospheric greenhouse effect works.
+&gt; 2) One significant correction to this post.
+I should be so lucky.
+&gt; That is simply false.
+We would also expect this ratio to be steady in time.
+However, we know that human industry is the source of much of that surplus CO2 in the atmosphere.

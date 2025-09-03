@@ -1,0 +1,51 @@
+Original Response:
+Aren't we directly limited by "transfer rate" (for lack of a better term)? Like, I understand that complex ideas can be communicated by a single word or short phrase, like *democracy* or *monotheism*. But can we get much more specific than broad terms and ideas than that?
+
+I suppose, given my examples, that there are more capable languages than English (Greek, German, etc) but really, how succinct or efficient can language really be?
+You need a definition of efficiency that takes into account how "lossy" you allow your signal to be.  Every non-trivial statement you make is a lossy compression of your idea -- the compression is where the efficiency comes from.  That signal is uncompressed back into a (hopefully) similar idea by the receiver.
+
+To take your example, the word "democracy" is a very high compression rate applied to a huge idea, and when I think of "democracy", I almost certainly don't think *exactly* the same things you do.
+
+Is that loss of precision OK in your theoretical highly-efficient language?
+
+PS Read 1984 by Orwell.  -- Newspeak (an efficient language) takes the approach of *simplifying human ideas* so that the source material (ideas) are easier to compress.  Actually, it's the other way around.  Read the book.
+From a strictly computational standpoint, this actually leads to some deep questions such as "what is the minimal amount of information I need to send to you to covey something".  It is hard to get a foothold on this problem as stated, so maybe we have to make some simplifying assumptions -- for example, maybe we talk just about all the words and how to more succinctly represent them in a language.  Let's say there are around [1 million words](http://oxforddictionaries.com/words/how-many-words-are-there-in-the-english-language) you would ever want to say.  Furthermore, let's say that we can pronounce around 100 different unique sounds (my guess from the IPA).  Assuming all sounds make sense when grouped in any order with any other sounds, we could get away with only log 1000000 base 100 = 3 unique sounds per word!  Of course that would be a horrible language to speak and understand, but it would be pretty succinct. 
+
+Interestingly, you can make a language even more succinct than that.  The language above assumes that *every* word has the same length.  It is unlikely that you use the concept "monotheism" with the same frequency as the concept "go", and if you want shorter words on *average based on use*, you can assign more common concepts shorter words at the cost of longer words for less common concepts.  Obviously as a spoken language evolves, we sort of do that naturally.  (For example we went from "horseless carriage" to "automobile" to "car" as they became a more central part of our daily life).  If you are curious about how you might figure out how to actually pick a good set of words (or an encoding if you will) you can check out [Huffman Coding](http://en.wikipedia.org/wiki/Huffman_coding).
+
+Interestingly, even this is not the *best* you can do.  For example, you could exploit the fact the different words tend to follow one another with high frequency and encode special "words" that are shorter when used together.  Of course, now we are way far away from anything that could be easily spoken -- but it begs the question: what is the best we could possibly do?  What is the minimum information I can say to you so that you can figure out unambiguously the information I am trying to convey?  This is related to the idea of the [Kolmogorov complexity](http://en.wikipedia.org/wiki/Kolmogorov_complexity), and interestingly, if I change the words "figure out" to the word "compute" in the sentence above then the answer is that we don't know.  In fact, not only do we not know, we know that in the general case such a thing is *impossible* to answer with a computer!  
+
+Okay, I may have taken a dive down a rabbit hole, but hopefully a small portion of that was interesting.
+Natural languages have a pretty high degree of redundancy. 
+
+This is helpful when somebody is trying to talk over the noise of a crowd or a battle or something.
+Freaky conlangs -
+
+- Loglan 
+
+\- http://en.wikipedia.org/wiki/Loglan - 
+
+
+- Ithkuil 
+
+A 7-character word pronounced 
+
+Oumpeáäx’ääļuktëx 
+
+means 
+
+"On the contrary, I think it may turn out that this rugged mountain range trails off at some point."
+
+\- http://en.wikipedia.org/wiki/Ithkuil -
+This is surprisingly close to what I was pondering, but given my background in English writing/lit, I could only really consider the question from that angle. I'm glad you were able to understand that and share some very interesting and relevant info!
+I guess that signal/quality loss is a better analogy than bandwidth/transfer rate. Makes much more sense.
+
+Like you said, even with (or maybe especially with) words dense with meaning, there is inevitable loss of meaning between speaker and listener. It's hard (maybe impossible) to imagine a "lossless" language.
+Thanks, I am glad it was helpful.  The idea of "language" is actually central to the theory of computer science (my field), but we usually deal with a simplified form of them called [formal languages](http://en.wikipedia.org/wiki/Formal_language).  There is this really neat mathematical relationship between the ability to understand [unrestricted grammars](http://en.wikipedia.org/wiki/Unrestricted_grammar) and the ability to do arbitrary computation.  These wikipedia links are not very good for beginners (although the names are what is important for your own searches), but if you are interested in this kind of stuff you should really consider reading Godel-Escher-Bach which talks about all this kind of stuff in *very* accessible and entertaining terms with a minimum of math.  I believe there is some reddit event where people will be reading it together coming up soon, maybe someone else can provide a link.
+[deleted]
+
+Summary:
+Interestingly, you can make a language even more succinct than that.
+The language above assumes that *every* word has the same length.
+Actually, it's the other way around.
+Interestingly, even this is not the *best* you can do.

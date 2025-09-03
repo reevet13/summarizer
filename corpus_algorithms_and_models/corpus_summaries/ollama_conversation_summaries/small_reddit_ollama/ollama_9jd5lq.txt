@@ -1,0 +1,7 @@
+Here is the summary:
+
+We account for cryptocurrencies at cost, instead of revaluing cryptocurrencies at fair value on each accounting reference date, to avoid substantial volatility on the value of cryptocurrencies from time to time, which may distort our results of operational and financial condition.
+
+When describing their NET NEGATIVE CASH FLOW on page 11, they state that: >However, the cryptocurrencies we hold are highly liquid assets that can be sold in open market to satisfy our liquidity needs.
+
+Ironically, the only way Bitmain can pump the price is buying even more BCH that they won't be able to sell.

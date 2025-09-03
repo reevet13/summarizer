@@ -1,0 +1,43 @@
+How does a machine capture the existance of something smaller than an atom, that barely exists in time, and not just detect it but tells you something of its nature?
+You do not directly capture this information.
+Instead, you look for some sort of a signature that it was there - specifically what it decays into.
+For example, the Higgs boson is theorized to sometimes decay into four muons, which live a long time and are detected by a variety of detectors.
+So you look at all events that have four muons, but how does this show you if there is a Higgs?
+Conservation of energy and momentum - the total energy and momentum of the four muons must be equal to that of the Higgs that decays into them.
+Einstein's formula: E^2 = m^2c^4 + p^2c^2 where E is energy, m is mass, and p is momentum.
+The important thing to note is that if you know E and p, then you can determine the mass m.
+Add up E and p for every possible set of four muons in all your events with four muons.
+This tells you what the mass of a particle that decayed into the four muons would have been.
+You don't know that a specific particle decayed into the four muons, they may be unrelated.
+Now you look at all the masses from all your four muon sets.
+There should be sets adding up to many possible masses, but if you see a signal of a great many sets adding up to a specific mass, this means that something is happening that cannot be easily explained by chance.
+This is the signal of the new particle.
+This is the basic idea.
+Muons may be small, but they have a lot of energy and interact electromagnetically.
+As they travel through matter, they deposit energy through multiple electromagnetic interactions.
+You can detect this through something like a Geiger counter or a piece of silicon sensitive to this sort of energy deposit.
+If you want to know the specifics, reading up on a Geiger counter is a good place to start.
+Many modern muon detectors are similar to Geiger counters but use multiple wires to determine the exact position of the particle as it passes through.
+The hard part is determining what sort of charged particle went through your detector.
+Was it a proton?
+electron?
+pion?
+The muon is special as it is very penetrating and can pass through very thick layers of metal.
+If you put detectors outside of thick materials, you can stop everything but the muons.
+This allows you to identify that a particle is most likely a muon.
+You also need to know the energy and momentum of the particle.
+This is the reason to create a strong magnetic field.
+The field will bend the trajectory of the particle and by measuring the curvature you can determine it's momentum.
+Then since you know it is a muon, you know it's mass, and you can use Einstein's relationship to determine the energy.
+There's two types of particles we detect.
+Photons (neutral) by energy deposition into crystal calorimeters (charged particles will also deposit energy as well but will have a track).
+Then there are charged particles that can have their path detected.
+E.g., the charged particles could go through a gas and then ionize the gas as they pass through (creating ion pairs that will drift to wires held at specific voltages in a detector, that allow us to reconstruct the path).
+The charged particles are in a magnetic field, so the radius of their track (magnetic force=centripetal force, in non-relativistic regime you have qvB = mv^2/r, r= qB/mv = qB/p) can tell you their momentum (and if it curves clockwise/CCW tells you whether they are positive/negative charge).
+From the energy deposition in the wires, you can do some particle identification from dE/dx, how much energy it is losing per length it travels (which you figure out by how many charged particles go to each wire).
+There's the famous Bethe-Bloch formula that can sometimes be used to differentiate between pions, Kaons, protons, muons based on their momentum (see Fig 28.15 in pdf).
+This is related to how far it goes through the detector (e.g., muons travel further than electrons/pions).
+You can do also get the velocity of a nearly relativistic particle through a RICH detector, a Ring-Imaging CHerenkov.
+Basically when a charged particle moves through a medium faster than the speed of light in that medium (e.g., speed of light in water v ~ .75c) it creates the light equivalent of a sonic boom, a cone of Cerenkov light at an angle that is proportional to its velocity (not its momentum).
+Hence with momentum and velocity, you can determine the particle's mass and identify it.
+You then use

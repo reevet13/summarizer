@@ -1,0 +1,147 @@
+Original Response: 
+As infalling gravitational singularities orbit each other faster and faster around a certain point, they produce waves that we've measured: [https://www.youtube.com/watch?v=TWqhUANNFXw](https://www.youtube.com/watch?v=TWqhUANNFXw)
+
+I was wondering what sort of geodesic they form in the microseconds before merger...as the event horizons draw nearer and pull space-time between them...is it a sort of torus, or elongated sphere?
+What would happen to  certain particles, or even photons, trapped between them moving in an insanely fast figure  8; would they be accelerated out in escape velocities just before the merge?
+Does that generate a sort of 'radio blast' that would follow millions of years after we detected the gravity wave due to redshift?
+So the short answer is that there is no exact solution to the Einstein field equations involving two black holes (and there probably never will be).
+This means that we wont know the exact form the geodesics will take.
+But we can make solid guesses and do numerical calculations.
+The best source for these considerations I have found is [here](https://arxiv.org/abs/1010.5260).
+However, this review focuses mainly on the gravitational waves produced by these mergers.
+It does, however, consider your final question in one of the last sections.
+In general, the amount of electromagnetic radiation given off will depend on the size of the hole and the presence of an accretion disk or other matter between the holes.
+Also, this radiation is expected to arrive at the same time as the gravitational waves since they both travel at the speed of light.
+Any deviation from this would be evidence for some speculative physics theories like de Sitter Relativity or Causal Dynamical Triangulation.
+Also, keep in mind that since light always travels the same speed it will not be "accelerated" like you mentioned.
+It can experience red- or blueshift though.
+Also, we can make some good guesses about the geodesics, and the paths of light, that occur in this system.
+There will not be any (observable) figure 8s since if it is meaningful to say they occur it would be within the event horizons of the merging black holes EDIT: this is not true, I don't know if there would be any stable photon orbits and what they would look like.
+Also, a lot would depend on the size of the holes since for supermassive black holes the local curvature outside the event horizon is extremely close to flat.
+This means that if not for the presence of other matter you would not experience any trauma from being between the two edges of the event horizons, no matter how close they were, and you wouldn’t necessarily see any extreme optical phenomena when you look away from the holes.
+But from other perspectives or smaller black holes, there would probably be some very weird and extreme gravitational lensing.
+Light sources behind a single black hole will appear from a distance as an [Einstein Ring](https://en.wikipedia.org/wiki/Einstein_ring).
+But from behind the merging black holes, they might make an [Einstein Cross](https://en.wikipedia.org/wiki/Einstein_Cross) or even something weirder since the distribution of matter is elongated but in a more interesting way.
+How would singularities make a figure 8 about each other, or even simply orbit each other, once inside the event horizon?
+I thought that once something passed the event horizon its path was essentially unidirectional towards the center.
+Once something crosses the event horizon it will inevitably reach the singularity in a finite amount of time, but it can take different paths to get there.
+Yea I am actually wrong about that whole statement.
+The photon spheres extend outside the event horizon in the Schwarzschild case and I am not sure what the stable (or unstable) orbits would look like in this case, I don't know if there are any.
+What do you mean different paths?
+Once beyond the horizon, every single path in any spatial direction leads directly to the singularity.
+What do you mean by directly?
+All paths lead to the singularity in a finite amount of time.
+That doesn't mean there is only one possible path.
+[Check out this Wikipedia article to see what they're talking about.
+](https://en.m.wikipedia.org/wiki/Event horizon) The first three illustrations, in particular.
+From my understanding, all possible paths lead directly towards the singularity.
+Thus there is only one possible path from any given point inside the horizon.
+[removed]
+You have to remember that our assumption is that roughly speaking, time and space switch roles beyond the event horizon, in that space becomes unidirectional.
+But there still must be a geodesic it's just that it's different in the same crazy way that everything else is.
+The geodesic is no longer a spatial feature, rather it's a temporal feature.
+And maybe the word anti-geodesic would be more appropriate.
+Any acceleration just takes you to the singularity in a shorter period of time.
+The way to survive the longest is by having zero acceleration.
+So, instead of there being a fastest way from point A to point B, there is only a slowest - the anti-geodesic.
+The other possible paths would be time dependant rather than space dependant.
+With the various paths consisting of the non-accelerating path, plus the infinity of other paths that would change your temporal position based on acceleration.
+I'm going to drop you in a deep lake with 300lbs of lead on your back.
+Anything you do, or any possible momentum you hot the lake with won't matter as far as "will you hit the bottom" but you could try to swim out, or thrash about which would take you along a different path.
+But there's still a minimum and maximum time to bottom for you, and there's no way you're not hitting the bottom.
+It's like that.
+Say an object/particle crosses the event horizon at a perpendicular angle, it's going to make a straight line to the singularity.
+Say that same object crosses at a large fraction of c on a tangent.
+It may very well make it around a few times.
+It still gets to the center eventually, but even a photon at c if it's on a path that crossed the event horizon that path gets to the center.
+That path just might be 'orbiting' the core 100,000,000 times.
+The reason you can't get a 'stable' orbit inside the event horizon is you need to be traveling at c exactly tangental to core but any path that meets that criteria would be definition just graze but not cross the horizon.
+[removed]
+[removed]
+Again, from my understanding, even if you traveled at c inside the horizon, all paths would lead directly towards the singularity.
+A straight line.
+Because of the infinite curvature of space-time.
+Up and down and left and right and forwards and backwards lose their meaning, every move you make is straight to the singularity.
+That didnt really address my point.
+That every possible path is directly (as in a straight line) towards the singularity.
+I didnt say anything about how long it would take.
+&gt; The other possible paths would be time dependant
+
+But is there time inside the horizon?
+how does causality function inside the horizon, where there is no longer a possibility for causal relations to happen?
+or any and all causal functions happen at the same time.
+We're using words like space and paths, so the assumption was that you were indeed talking about spacetime, which time is inherently a part of.
+And if we look at the various equations that describe what spacetime beyond the event horizon *might* look like, then typically the roles are reversed for time and space.
+So not only would time still exist, but it would be traversable.
+Causality doesn't depend on *time*.
+Causality is a law that applies to *spacetime*, in that depending on your point of view, cause and effect might appear very different to you compared to a distant observer.
+But no matter how much you might disagree on duration, length, etc, you will agree that the causal spacetime event proceeded the effected event.
+How would this look to us beyond the event horizon?
+Hell if I know.
+But if we're using the framework of relativity to describe an event horizon, causality doesn't cease to exist.
+It might be super weird from our point of view, but that's true even outside the event horizon depending on an object's relative motion.
+And in any case, also remember that an object's worldline doesn't have to be perfectly straight toward the singularity.
+It just inevitably moves closer to the singularity no matter what its velocity or acceleration is.
+And even if the paths were perfectly oriented toward the singularity as a rule, two objects that crossed the event horizon at the exact same instant don't have to reach the singularity at the same instant.
+Thus there is a *slowest* way to the singularity (which would be the analogue to a geodesic, just with an opposite sign) and infinite "paths" that would cause you to arrive at the singularity at different, earlier moments.
+The area beyond the event horizon is presumably still curved spacetime just with space becoming time-like and vice versa.
+It's hard to describe everything up there with words, but if you look at the equations and consider how they apply for us here in "normal" spacetime, then just flip the signs on certain equations, or switch the roles of certain variables and you can begin to imagine what it might be like beyond an event horizon.
+Sorry about the video dump, but this is what I'm talking about.
+https://www.youtube.com/watch?v=vNaEBbFbvcY
+https://www.youtube.com/watch?v=mht-1c4wc0Q
+https://www.youtube.com/watch?v=YycAzdtUIko
+https://www.youtube.com/watch?v=msVuCEs8Ydo
+https://www.youtube.com/watch?v=1YFrISfN7jo
+
+Its gonna take you a while to watch through all of that, but its worth it.
+There is not infinite curvature at or within the event horizon.
+This only occurs at the singularity, and is not a prediction of the theory as much as mathematical evidence that the theory is an effective, but known broken one.
+The event horizon for a sufficiently large black hole wouldn't even be noticed by an observer falling in - this would break one of the core invariance principles from which GR was derived in the first place.
+If I were in a space craft which crossed the event horizon with one end of my craft pointing towards the singularity and one end pointed in the opposite direction would it be impossible for me to climb a ladder in my craft in the direction not facing the singularity?
+In this scenario I would be moving in a direction away from the singularity, would I not?
+Spacetime is a great show, and I've probably seen all of those.
+I'm also pretty sure they haven't contradicted anything I've said.
+Here's an article I just found on Cornell's website with one Google search, maybe you'll believe them since they explain things better than I do.
+Especially the last statement:
+
+&gt;If you think about it for a while, you'll be able to come up with loads of strange situations that can happen inside a black hole--but none of them will be logically inconsistent
+
+
+[What happens to spacetime inside a black hole?
+](http://curious.astro.cornell.edu/about-us/89-the-universe/black-holes-and-quasars/theoretical-questions/455-what-happens-to-spacetime-inside-a-black-hole-intermediate)
+
+And an edit: This is the last reply I'm going to make, unless you happen to include the relevant equations that describe what you're talking about.
+Yes, you could climb a ladder in your spacecraft.
+However, you wouldn't be getting further away from the singularity.
+No matter how fast you climb that ladder, you'll reach the singularity in a finite time.
+I think some of the confusion here is that you are imagining that things become so completely different inside an event horizon.
+Nothing very special happens from the perspective of someone falling into a blackhole.
+With a large enough black hole, the tidal effects can be made arbitrarily small, so even somewhat inside the event horizon, locally, nothing would appear amiss.
+From your perspective time moves forward as normal, and there is causality.
+The only difference of course is that all causal paths eventually lead to the singularity.
+So if I don't climb the ladder I'm..say...100 feet (or 100 seconds) away from the singularity.
+If I climb the ladder I'm 110 feet or 110 seconds away.
+While I agree I'm going to hit the singularity matter what climbing up the ladder would be an indirect way to get there, or at least a much less direct way.
+[removed]
+I'm pretty sure the people who have been responding to you are more educated in the topic than the target audience of these videos (i.e.
+you)
+
+Summary: 
+What do you mean different paths?
+Causality doesn't depend on *time*.
+How would this look to us beyond the event horizon?
+or any and all causal functions happen at the same time.
+There is not infinite curvature at or within the event horizon.
+All paths lead to the singularity in a finite amount of time.
+That doesn't mean there is only one possible path.
+Thus there is only one possible path from any given point inside the horizon.
+The other possible paths would be time dependant rather than space dependant.
+The only difference of course is that all causal paths eventually lead to the singularity.
+&gt; The other possible paths would be time dependant
+
+But is there time inside the horizon?
+However, you wouldn't be getting further away from the singularity.
+That path just might be 'orbiting' the core 100,000,000 times.
+From my understanding, all possible paths lead directly towards the singularity.
+So not only would time still exist, but it would be traversable.
+That every possible path is directly (as in a straight line) towards the singularity.

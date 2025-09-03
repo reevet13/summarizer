@@ -1,0 +1,13 @@
+Here is the summary you requested:
+
+Error! Error processing transaction. Please contact support by clicking here
+
+What the …?!? I was new to LBC and made only one deal there, and got positive feedback from the seller (I replied that they can contact the seller to ensure everything was OK). I described this to the support but… silence was the answer.
+
+Look up Bisq. An open source project aiming to be a decentralized exchange, like localbitcoins but cant be shut down and cant shut down your account. Still in early stages, but very usable.
+
+Is this KYC-free, properly peer to peer? Yes
+
+Can anybody suggest what to do?
+
+https://docs.google.com/document/d/1DXEVEfk4x1qN6QgIcb2PjZwU4m7W6ib49wCdktMMjLw/edit

@@ -1,0 +1,41 @@
+Original Response:
+Hi AskScience,
+
+I was researching as to whether dimmer switches actually saved electricity, and I stumbled upon this Yahoo! Answers question.
+
+http://answers.yahoo.com/question/index?qid=20061205182328AAq9TuR
+
+The answer provided by 'Jim S' says that a modern dimmer switch (a 'Silicon Controlled Rectifier'), the light is flickering on-and-off really fast to give the appearance of dimness.
+
+So, here comes my question for you guys and gals of AskScience.
+
+If you had a room where the only light source came from lights that were controlled by a modern dimmer switch, is the room technically pitch-black for short periods of time? Or is the light still bouncing around from when the light was on?
+
+Many thanks,
+Will.
+Flickering a light on and off extremely rapidly would quickly kill most conventional light bulbs, and would also not work with compact fluorescent ballasts.
+No. For an incandescent or halogen bulb, the electricity causes the bulb to heat up and glow. The off periods cause the bulb to cool slightly, and the on periods cause it to heat up. It is dimming and getting brighter, and the average brightness is what you see. But even though the electricity is turning all the way off and then back on, the residual heat in the lightbulb will not let it go completely dark that quickly.
+Don't lights (or at least the power going to them) technically flicker anyway because of the properties of alternating current?
+yes, see:
+
+http://www.youtube.com/watch?v=qtO68b6CsRk
+
+I believe the ballast design of most CFLs is dependent on receiving a nearly exact 50Hz or 60Hz cycle, anything that messes with that will cause the ballast to fail prematurely.
+No, the room would not be pitch black.  Although the power source is rapidly switched off and back on, the light bulb (particularly an incandescent light bulb) keeps emitting light for about a quarter second after the power is out.
+
+If  you hooked up a photodetector to a scope,  you would see that the light intensity in the room is cyclical, but never falls all the way to zero.
+If the lights are LED, it will be essentially pitch black during the "off" periods. This effect is highly annoying in low frequency PWM-controlled LEDs (I'm looking at you Cadillac), where the LED visibly flickers like a strobe light. Some are more sensitive to it than others.
+I see the same thing in LED Xmas lights. They just use the AC current so the LEDs are only on half the time and strobe. :P
+Not necessarily. If the period of the flickering oscillation is shorter than the thermal time constant of the incandescent filament, the light bulb won't even "know" the difference.
+I have a set that are pretty high frequency. You can't see the PWM unless you swing the lights really fast. When they're just sitting there on the tree you can't see it (and I'm very sensitive to PWM).
+I have a friend that is convinced he can see fluorescent tubes pulse, and he complains about my lights. I wonder why they don't use DC.
+&gt; _I have a friend that is convinced he can see fluorescent tubes pulse_
+
+As someone who is very sensitive to flickering, your friend is probably full of shit. Any modern electronic ballast (as found in all compact fluorescent lights) operates at frequencies that are orders of magnitude above what a human can perceive. See if your friend can ABX a good CFL from an incandescent of the same intensity and color.
+&gt;your friend is probably full of shit
+On the nose there. ;)
+
+Summary:
+I see the same thing in LED Xmas lights.
+I have a friend that is convinced he can see fluorescent tubes pulse, and he complains about my lights.
+If the lights are LED, it will be essentially pitch black during the "off" periods.

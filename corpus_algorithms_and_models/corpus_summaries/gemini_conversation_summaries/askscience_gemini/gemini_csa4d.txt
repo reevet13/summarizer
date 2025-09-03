@@ -1,0 +1,4 @@
+What's not completely understood about lightning is the process by which the charge builds up.
+Gotcha. What I was curious about was the mechanism by which the clouds gained such high charges, but it makes me feel better to know that even the experts aren't entirely sure : )
+But where does the high voltage come from?
+The basic idea that I think most theories work with is that the charged particles in a thundercloud get separated because they've got different physical properties (e.g. weight, size, friction, ...) and a roiling motion will send them in two different directions. This creates the charge separation that eventually yields lightning.

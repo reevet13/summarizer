@@ -1,0 +1,36 @@
+Original Response:
+Also, if it's an inherent property of nature, some claim to be as unexplainable as "F = ma" ('we do not know exactly why that is, only that it is'). However, don't we start going deeper into how such processes operate due to knowledge of Bosons in the Standard Model and String Theory?
+Well, in QM, it comes as a natural consequence of the QM wavefunction, as far as I know. So one might theorize that it is an inherent property of waves. From a physical perspective, it could be due to the necessity to interact with the object in order to measure its properties.
+
+But I think that might be different in the many worlds interpretation. I got into an argument with someone about the MW interpretation a few weeks back, on r/askscience, and they felt pretty strongly about it. Since I am not a fan of MW, I won't try to say what that view is, since I would likely give you a biased response.
+The uncertainty principle is a consequence of quantum mechanics.  So by saying that its an inherent property of nature you're saying that nature follows the laws of quantum mechanics and not some other set of laws.  
+
+however, the uncertainty principle is loosely open to different interpretations.  Really what I think what often happens is that different attempts to describe it with out getting into the math can leave very different impressions. 
+
+My explanation is that it describes a fundamental invasiveness of the act of measurement.  It says that you just can not measure something at a quantum level without leaving it changed in some way.  And as you measure it with a greater and greater accuracy you are bound to change another part of the system to a greater and greater degree.
+The "why is it this value" question is a very good one. How about this: in order for -this- universe to be able to behave like it does, it needs specific values for forces so they can build a stable equilibrium. This gives rise to the phenomena we observe.
+
+How and at what point these values are deciced is a question for the atom smashers.
+
+Next up: if we understood how the values for these forces were set [or where they are derived from], would it be something like DNA, which you could write to or subtract from so you could create something new?
+
+The question then becomes: if you can understand where the physics comes from, can you then create your own physics by changing the values for the forces within some kind of boundary field?
+
+Perfect segue into Asimov's "The Last Question".
+Pretty sure it's exactly the same in Many Worlds.  Everything in your first paragraph sounds right to me.
+Yudkowsky's discussion of it is here: http://lesswrong.com/lw/pq/the_socalled_heisenberg_uncertainty_principle/
+
+although you may want to start at the beginning of the quantum sequence: http://wiki.lesswrong.com/wiki/The_Quantum_Physics_Sequence
+Brian Cox did a good bit on a BBC program and touches on this [hereabouts in the video](http://www.youtube.com/watch?feature=player_detailpage&amp;v=4f9wcSLs8ZQ#t=1432s). It's not that measuring is invasive and changes the property being measured, it's just that the probability of the particle actually being where you are looking decreases as you look at smaller and smaller regions of space.
+The uncertainty principle follows as a consequence between the commutation relation between the momentum and position operators [x,p]=i (in fact any non-commutating operators have an associated uncertainty principle).
+The most ''famous'' of the uncertainty relations is the one involving position and momentum.  But when ever you have ''non-commuting'' observables there is an uncertainty relationship. So for instance different components of angular momentum have a uncertainty relationship.  As does different ''quadratures'' of light.  
+
+But a big complaint of mine is that when someone says they 'look' at a region of space, they are forgetting that to look takes a physical mechanism to do it.  Sometimes you are focusing a laser at a quantum system or sometimes you simply have a barrier for the particles to run into.  So that by looking you are effecting where the particle is likely to be.  But to look takes a physical act.
+It has to do with the wave nature of particles. Consider a string that is fixed at one end and free to move at the other. If you jerk the free end up and down quickly, you'll create a pulse that will move along the string at a fixed momentum but an ill-defined position. If you oscillate the free end at a steady frequency, you'll create standing waves. At this point it will be easier to determine the position. Asking about the momentum at this point is a trickier question to answer. So the uncertainty principle is really just a consequence of the wave nature of particles. This is easier to understand if you consider the properties of fourier transforms. Something highly localized in space will be spread out in momentum and something highly localized in momentum will be spread out in space.
+Thanks for that! I guess when I said 'look' I meant to apply the theory without performing measurements and conjecture from the results.
+
+Summary:
+Something highly localized in space will be spread out in momentum and something highly localized in momentum will be spread out in space.
+The uncertainty principle is a consequence of quantum mechanics.
+So the uncertainty principle is really just a consequence of the wave nature of particles.
+It has to do with the wave nature of particles.

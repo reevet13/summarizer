@@ -1,0 +1,12 @@
+Here is the summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+Is this RAM compatible with my motherboard?
+I'm thinking of getting a GTX 1070. Which one should I get?
+I'm on a very tight budget and I'm looking for a case <$50
+Remember that Discord is great places to ask quick questions as well: http://www.reddit.com/r/buildapc/wiki/livechat
+
+These are my comp specs Asus P8H61-I R 2.0 I-5 3570k 3.4 GHZ 4Gb DDR3 G Skill Ram Win 10 GTX Titan Xp
+Definitely upgrade to 8GB of RAM even if you're going to keep the rest of the stuff.
+You could do a whole new built but bumping that to 8, 12, or 16GB, depending on current config, would make a big difference.
+
+Please don't post involved questions that are better suited to a [Build Help], [Build Ready] or [Build Complete] post.

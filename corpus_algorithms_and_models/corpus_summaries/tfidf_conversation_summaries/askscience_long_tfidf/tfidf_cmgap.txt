@@ -1,0 +1,65 @@
+Original Response:
+People are developing and running computer models in all fields of science. What the bottle-neck, the limiting factor which determines the rate at which the models are used, in your experience?
+
+Is it:
+
+* Hardware availability (insufficient computing time)
+* Programming (insufficient programming time)
+* Model complexity (insufficient programming expertise)
+* Scientific complexity (inability to express theory or hypothesis as a concise model (scientific expertise) )
+* Input (insufficient data to feed the model)
+* Output (too much data output to meaningfully process)
+* Other (something else?)
+* None (scientific progress in your field is not at all limited by the development and execution of computational models)
+This is highly dependent on the field, the particular research focus, and the research group.  Since I happen to have fooled around with a lot of different computational sciences, I'll give some examples, but first an overall comment. [edit: holy wall of text, Batman! TL;DR? Meh!]
+
+In the scientific computing community, there's an increasing focus on making programming more efficient. It's a recognition that the time spent programming is often a bottleneck in the production of science.  This is due to increasing complexity in three regions: *model complexity, hardware complexity, and algorithm complexity*.  All three are driven inexorably forward for their own reasons, and it's up to the programmers to write the exponentially more complex code.  We need better tools in scientific computing.  Obviously, not all problems are the same.
+
+Take a quantum-mechanical chemistry code, for example.  These might involve solving the time-independent 3d Schrödinger equation.  For each atom in a chemical reaction, you get 3 dimensions in your solution grid.  If you need 100 grid points per dimension in order to get reasonable accuracy, just 4 atoms requires 100^12 grid points. Using double precision complex floating point, that's 16 * 100^12 bytes (or 16 * 10^4 GB) of memory just to store the solution.  Good luck modeling a system with 6 or more atoms!  
+
+Here, extremely complex algorithms have been developed to optimize various aspects of this computation and map it effectively to various hardware architectures. So while the model complexity remains pretty much constant, algorithm and hardware complexity makes programming a challenge and there's a very high demand for hardware.
+
+In computational sociology, I'd say there are three main problems. First, there are old-school sociologists who resist mathematical modelling of any kind, which limits collaboration between modellers and the people who are trained in producing data from the real world. Second, the field is sorta new and wobbly, so the resistance is unfortunately warranted.  It has suffered from being subjected to lots of excited dabblers who make up new and untested measures instead of using proven and standard measures.  
+
+Third, the phenomena are highly complex and may not lend themselves to modelling at all.  A typical method for model studies is to vary one parameter, holding everything else constant, to see what the effect of that parameter is.  But all the parameters interact, so lots of interesting and important insight goes missing in a study like this. The alternative, to vary multiple parameters at a time, is messy and hard to turn into something concrete enough to compare to real-world data.  
+
+Here, I'd say that scientific complexity and scientific culture clashing are big problems.  The coding itself can be done in Matlab or similar, so the only trend that makes the coding tricky is model complexity, making it pretty manageable.
+
+I've also worked a lot with mesoscale biomolecular simulations involving charged colloids and polymers in solvents.  Here, I'm not sure what the bottleneck might be.  Faster and better simulations are always desirable, however, and fortunately the performance bottleneck is problem independent and can be optimized once for any particular piece of hardware and reused for a whole family of codes.  In other words, the algorithm complexity remains constant, the model complexity increases, and hardware complexity always increases.
+
+I work with scientific computing on graphics cards and similarly "fun" pieces of hardware like the Cell.  The limiting factor here is definitely that the programming models we use today aren't very suitable for hardware that doesn't pretend it's a single-threaded processor from the 1980's...
+It varies; but none of these are really bottlenecks as the constraints are known ahead of time and the design of the experiment works around them, so they don't bottleneck it.  
+
+Take a High Energy particle physics experiment (maybe the LHC).  Right now the big slowdown is input, more over scientifically calibrated input with enough events to test hypotheses.  That takes a lot of careful data analysis, and not just "programming" and time for the data to acquire.  Sure the data is somewhat limited by hardware resources (both due to the limits of modern hardware and due to cost constraints), but scientists are clever and will get by with what they have.  E.g., write hardware level algorithms to trigger on only scientifically interesting events during standard operation (throwing out 99% of the data as the luminosity is too high to store everything), etc.  Once the data starts coming in, processing / analysis time of too much input will be the problem.
+
+Or if you are doing computations in lattice qcd, you will only do calculations that will take an acceptable amount of time to process on the resources you have, and then you extrapolate your results down to the physical regime.
+You're forgetting one: lack of expertise. There are a lot of scientists in various fields that just don't have the programming knowledge to take advantage of potential computational models. I was one of them.
+I think I listed it:
+
+&gt;(insufficient programming expertise)
+I think I suffer from
+
+&gt;(insufficient reading comprehension)
+Maybe we can create a model of reading comprehension to test whether this is a likely factor.
+I'm going to hazard a guess that [computational complexity](http://en.wikipedia.org/wiki/Computational_complexity) is a big hurdle for people unfamiliar with the theory of computation. I've spent a lot of time trying to explain it to laymen, and what I always wind up with is this: your computer will do whatever you can tell it to do, but may not halt within a time frame desirable by you. This is a property of the problem you are trying to solve, not the computer you are using to solve it. 
+
+Certain keywords in their problem descriptions tend to make things much harder than they might expect. For instance, if a simulation of people moving through a network describes people as "always taking the best route", then you've got a number of simultaneous [A*](http://en.wikipedia.org/wiki/A*) evaluations, coupled with multiple simulation update cycles. Things like *best*, *optimal*, *lowest*, and similar qualifiers are red-flags.
+A concrete example of things being expensive to compute that look rather simple is the [Ackermann Function](http://en.wikipedia.org/wiki/Ackermann_function):
+
+A(m,n) = n + 1 ,if m = 0;
+
+A(m,n) = A(m - 1, 1) ,if m &gt; 0 and n = 0;
+
+A(m,n) = A(m - 1, A(m, n - 1)), if m &gt; 0 and n &gt; 0.
+
+Try calculating A(0,0), you'll get 1. Doing A(1,1) gets 3. A(3,3) is 61. But A(4,2) has 19729 digits before the decimal point. 
+
+Computing that would be a pain by hand.
+
+Summary:
+People are developing and running computer models in all fields of science.
+I was one of them.
+* None (scientific progress in your field is not at all limited by the development and execution of computational models)
+In the scientific computing community, there's an increasing focus on making programming more efficient.
+There are a lot of scientists in various fields that just don't have the programming knowledge to take advantage of potential computational models.
+Here, I'm not sure what the bottleneck might be.

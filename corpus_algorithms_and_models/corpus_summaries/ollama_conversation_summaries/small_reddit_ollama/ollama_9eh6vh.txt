@@ -1,0 +1,10 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+About 6 months ago, I created a randomising bingo card (built inside of Numbers) for WWDC that would let us tick off potential announced features for our Apple devices; over the last 6 months, I have been working on a new and improved version for the upcoming September event.
+
+If you would like to be a part of this, click the link for the shareable version of my spreadsheet and download a copy.
+
+Some notable things my spreadsheet can do:
+-	the bingo card can be randomised at any time you want
+-	you can add in more categories that will appear in the bingo card; very user customisable
+-	if you don’t think iPads or Apple watches will be announced, you can block those categories from appearing in your bingo card

@@ -1,0 +1,32 @@
+Original Response:
+Can anyone explain why it looks like there's more steam after you remove the heat source?  
+  
+Edit:  My observation of an ordinary gas stove, about a cup of water in a wok, turn off the gas after the water starts to boil. No moving anything.
+Not 100% sure, but my hypothesis is that when you remove the heat source, you also inadvertently are mixing the boiling water (which creates more steam).
+
+You can try and test this.  E.g., if you just turn the stove off without moving the pot will this major increase in steam still happen?  If you don't remove the heat, but just stir up the water does the steam seem to significantly increase?  If you try and swirl the water more while removing it do you see more steam than if you try to remove it very slowly?  (If it wasn't 95F today where I am, I might venture trying these myself, but its hot enough already).
+
+When you heat something up to a temperature near the boiling point of water, bubbles of water vapor will form at nucleation sites and expand if the vapor pressure is greater than the outside pressure (~1 atm).  Nucleation sites help to overcome the surface tension of each bubble that makes it more difficult for bubbles to expand.  So by moving the water off the stovetop, you do two things.  First you give bubbles in the water easier access to nucleation sites to overcome the surface tension, and second through convection more bubbles get to the surface and can boil off more easily.
+No, I didn't move the water.  Check edit above: My other thought was that the heat rising around the wok caused the steam to be less visible somehow?
+I'm so trying this when I get home. Two hypotheses:
+
+1) Active boiling agitates the water, resulting in continuous mixing between the hot and not-so-hot parts of the water, and preventing the hot water from simply rising to the surface. If you remove the heat source, this stirring action is lessened dramatically and hot water rises to the top and stays there. A layer of hot water at the surface causes more steam.
+
+2) Water dissolved in air is invisible, it only becomes visible when there is too much for the air to hold, and it condenses out into tiny droplets that scatter the light: steam (or clouds!). The water-holding capacity of air is very temperature dependent. It's possible that without the heat source, the air above the pan cools quickly, reducing the moisture-holding capacity of the air, and causing visible condensation - while the total amount of water evaporating from the pan might be the same as with the heat source, more of it might condensing into visible steam.
+Thanks, makes sense: 
+  
+1) I'm turning the flame off just after the water starts to boil, so it's likely there's still temperature differentials to create that top layer of hot water as you describe.  Secondly, the additional steam appears to come from the surface.
+
+2) The condensation theory also makes sense - above the edge of the wok where additional heat is present when the flame is on, keeping the vapor invisible.  Also, I suppose that heat may be rolling over the lip and into the wok due to some sort of aerodynamics that I cannot explain.
+
+Thanks for your time and thought.
+What you perceive as steam is not really steam, its tiny droplets of water, i.e. water vapor, in the air. Steam, the gaseous form of water, would look just like the oxygen or nitrogen in the air all around us; you don't see it. This fits nicely with your observation, because as you remove the heat source the steam can more readily cool down and form droplets of water in the air, leading to more visible water vapor. Hope this was written understandably.
+Perfect explanation.  Thank you.  
+  
+I'd like to think that given enough time and monkeys I could have figured that out...
+That depends on what you were to do with the Monkeys, and given all the talk of boiling water..
+
+Summary:
+water vapor, in the air.
+A layer of hot water at the surface causes more steam.
+No, I didn't move the water.

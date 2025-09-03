@@ -1,0 +1,5 @@
+The uncertainty principle is a consequence of quantum mechanics.
+My explanation is that it describes a fundamental invasiveness of the act of measurement.
+Pretty sure it's exactly the same in Many Worlds.
+The uncertainty principle follows as a consequence between the commutation relation between the momentum and position operators [x,p]=i (in fact any non-commutating operators have an associated uncertainty principle).
+It has to do with the wave nature of particles.

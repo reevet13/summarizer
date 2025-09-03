@@ -1,0 +1,54 @@
+Original Response:
+I have a basic understanding of quantum theory (I think!) but something came up today which made me wonder. I am not a formal student of physics, so forgive my vagueness.
+
+As I understand, all particles are effectively waves until an observation forces the waveform to collapse, at which point it appears as a particle in the conventional sense. How does this relate to situations like the helmets of astronauts showing holes from high velocity particles after missions? The waveforms of these particles have apparently collapsed without an observation (although I guess there was ab observation of the helmet at some point after). Are these effectively "Schrodinger holes" which both exist and not until someone examines the helmet?
+
+Unconfuse me please!
+Ehrenfest's theorem tells us that the expectation value of a wavefunction will equal the classical limit.
+An "observation" is just an interaction with some macroscopic object.
+&gt; Are these effectively "Schrodinger holes" which both exist and not until someone examines the helmet?
+
+Observation, is not "observation by a conscious observer". It is **any** interaction with an external system, where we ignore the evolution of that external system after the interaction. So the particles are effectively "observed" when they impact the helmet.
+That makes logical sense. So, does this mean schrodingers cat was never in a quantum state? he was either alive or dead, but until you look you don't know? or an atom at half life has decayed, or not decayed but unless you look you will not know?
+Schrodinger's cat was never in a quantum state because it is too large a system to maintain quantum coherence for any meaningful amount of time.
+
+&gt; or an atom at half life has decayed, or not decayed but unless you look you will not know?
+
+In some sense this idea, the idea of a quantum state as a state of knowledge, is a good way to think about things, once you understand that this state of knowledge is not like a classical probability distribution. However, for systems that can maintain long term quantum coherence (such as a decaying atom), it is unlikely that the quantum state can be thought of purely as a state of knowledge. A superposition of "decayed" and "not-decayed" will have to be thought of as a physical state.
+It is more correct to think of microscopic objects having BOTH wave and particle properties. Also do not confuse waves and wavefunctions. I like to think of wavefunctions as a mathematical description of microscopic objects.
+No, I don't think this is the whole story.
+
+We know that some interactions don't cause 'collapse'. Each year we hear about experiments where ever larger (even visible to the eye, now) macroscopic objects are put into just such a state.  Interactions between atoms in these objects aren't causing collapse, so if living observers aren't special, what's going on?
+
+The [Everett Interpretation](http://www.hedweb.com/manworld.htm) makes the most sense to me.  Essentially, systems that are mutually isolated will exhibit this sort of quantum state - but it's mutual.  From the outside perspective, the cat's both alive and dead; from the cat's perspective, the lab is both empty and filled with curious scientists (or whatever other variable the cat's concerned about).  Both are behaving like wave functions, expressing all possibilities.
+
+In fact, all possibilities exist, and all are equally real.
+
+When the box is opened and the scientist wave function and the cat wave function interact, the two systems become coherent with one another, as a combined scientist/cat wave function.
+
+"Within" the wave function, however, only coherent possibilities are expressed.  There's a version of the scientist that has found the cat dead (and consequently the molecules in his brain have recorded this fact), and there's a version of the scientist that found the cat alive (and his brain state matches).
+
+But this too is only a relative matter.  Let's say the lab itself was a special device, thermodynamically insulated from the outside world.  Someone outside the lab (say, a reporter), could well be asking, "Well, what did the scientist learn?  He opened the box ten minutes ago!" to which the answer would be, "Both things are true, we won't know until we open this isolation-lab door!"
+
+The cat, reporter and scientist could all be forgiven for thinking that their actions somehow caused a collapse to occur, but that's just a quirk of cognition.  Memory is built up (it seems) of definite states, so our cognition is inherently limited to a thin, classical-seeming slice of the great spectrum of possible states.  Each of the infinite number of versions of us thinks so!  (In much the same way that you've always thought, and always will think, that it's "now".)
+&gt;  Interactions between atoms in these objects aren't causing collapse, so if living observers aren't special, what's going on?
+
+These systems are kept **extremely** well isolated from the environment. That's what is going on.
+
+What you call the Everett Interpretation is more commonly known as the many worlds interpretation. It does solve the "collapse problem", but only by postulating a universal wavefunction, in which each part of the coherent superposition making up this universal wavefunction corresponds to a distinct "world". However, I personally don't think it's a very enlightening interpretation (and I am certainly not alone in this view point), nor does it really help answer OP's question.
+
+&gt; We know that some interactions don't cause 'collapse'.
+
+That's not correct. Every interaction is possible of causing wavefunction "collapse", or perhaps more poignantly, there is no interaction that **must** cause wavefunction collapse. It all boils down to what the experimenter (the person actually using QM), cares about describing.
+
+If you have the full quantum description of two interacting systems, and you care about both those systems, then there will **never** be wavefunction collapse. All interactions will be unitary, which preserve coherence. Collapse only occurs when you stop caring about one of those systems, and concern yourself only with the dynamical evolution of one system. When we try to use a "classical" measurement device in QM (what we would normally call a measurement in the standard formalism), then we are a priori assuming that we don't care about the quantum description of one of the two systems (the measurement device in this case).
+
+So yes, in a way, collapse is dependent on the "observer" (i.e. the experimenter), in that it depends on whether or not she is interested in the full system, but it is not *caused* by the observer.
+
+Summary:
+We know that some interactions don't cause 'collapse'.
+&gt; We know that some interactions don't cause 'collapse'.
+Observation, is not "observation by a conscious observer".
+It is **any** interaction with an external system, where we ignore the evolution of that external system after the interaction.
+So, does this mean schrodingers cat was never in a quantum state?
+An "observation" is just an interaction with some macroscopic object.

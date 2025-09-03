@@ -1,0 +1,11 @@
+I read 6 Easy Pieces and have a question re: Young’s Experiment (also called Dual Slit) that I could not find an answer:
+
+As I understand it when you try to view/monitor which slit an electron (or photon or buckyball) goes through the electron acts as a particle and piles up like sand in an hourglass. When you aren’t trying to view/monitor which slit it goes through you get an interference pattern:
+
+Q1. What would happen if you had the LED Monitoring System in place but turned off, would the electrons still pile up like particles or would interference occur? (bear with me)
+
+Q2. What if you turned on the Monitoring System but you covered the LED with black electrical tape so you had no way of knowing which color flashed. Would you get interference?
+
+Q3. What if you have the LED turned on and are looking at the LED but you were totally colorblind, and had no way of differentiating red from blue so you personally had no idea what slit it went through. Interference?
+
+I guess the real question is; where is the line is drawn and when does superposition becomes a reality.

@@ -1,0 +1,43 @@
+Original Response:
+I've researched this topic slightly, and I have found [this carbon phase diagram](http://dao.mit.edu/8.231/carbon_phase_diagram.jpg), and with a little research about the temperature and pressure of parts of the earth, I concluded that it might be possible, but I don't know if my data is 100% valid. I've also found a similar phase diagram about iron that looked promising, but I can't find it anymore.
+
+I was wondering if anyone with more knowledge about this subject could explain to me why this is or isn't possible.
+
+Edit: here's the [iron phase diagram](http://iopscience.iop.org/1742-5468/2006/12/P12015/figures)
+If the "element" is a single atom, then "melting" can't exist (the hardness of an element is dictated by its inter-atomic and mostly inter-moleculary bonds).
+
+The only worry then would be "breaking" the atom - the accumulated energy of the atom to be so great that it overcomes the forces that keep the nucleus in one piece (protons and neutrons) and split it.
+Very crudely(gravity and density varies) P=ρgh; h = P/ρg = 1e10N/m² / (5e3kg/m³ 10 N/kg) = 2e6m = 2000km i guess we reach that point, but i don't think the temperature is ~4500K there, according to [wp](http://en.wikipedia.org/wiki/Geothermal_gradient#Heat_sources) ~5600K at center.
+
+Iron already melts at 1811K(looked it up) already, but i am not sure how that goes up with pressures. In looking at [wp lava](http://en.wikipedia.org/wiki/Lava) it comes out of the ground ~1300K already, so the melting point has to go up rather steeply with pressure..
+
+Anyway, to send it there, you have to weigh it down too, for instance make it hollow and fill it with lead, and then the question arises if this might compress differently, and make the whole thing crack. On the up side, i don't think it will meet very strong pressure gradients other than the one on the way don't.(edit, right?) Guessing it might sink something like 1cm/s(I'd expect it to be rather viscous for most of the way) that would take 6e6m/1e-2m/s = 6e8s = 19years, being too lazy to actually calculate the terminal velocity, though, and again ignoring the drop in gravity as you go down, it could actually be a lot longer. (Falling rate could be calculated [with this](http://en.wikipedia.org/wiki/Stokes%27_law#Flow_around_a_sphere), if we know the viscosity, and viscous enough for that approximation.)
+
+And there is the question of whether it might react chemically with something down there, for carbon presumably, in places where diamonds form, not.
+
+Of course also the question if it could do something useful. I don't see any way to make it send back a signal, the whole apparatus of measuring generating energy and sending signals would have operate at the whole pressure range, and then send a message through thousands of kilometers of rock. Not sending messages seems out of the question, even if it could release the weight somehow and rise by doing that, how the hell is it going to be found back? It is also a long time to wait for results..
+
+Still, even though it operating at the whole range of pressures and temperatures is probably a huge constraint, with nanotech it is very hard to see what it possible, maybe you could make it 'swim' towards a beacon or something..
+Some more of my Wikipedia research let me find that [iron phase diagram](http://iopscience.iop.org/1742-5468/2006/12/P12015/figures). Wikipedia used this to show that there would be solid iron at the core.
+
+I don't know if weighing it down would be the best idea, and I don't know if lead would work in this situation (if it refused to compress as much then it wouldn't work). I think that it might be possible to make some kind of propeller that would push the machine forward at a much greater speed. This propeller could be powered by a stepper motor (regular motors have magnets, and I don't know of any magnets that work at such high temperature).
+
+For the question of doing anything useful and being able to send a signal, I think it would be able to use some useful electronic components if there was an insulator that could be put inside that wouldn't cause an implosion. If that was possible, I think that electro-magnets could be used for both sonar and movement.
+
+I don't think sending a signal from the center of the earth would be very possible, a better system (though, probably much more costly) would be to have a line of certain elements all the way up from the core to the crust that could be used for electricity transfer. 
+
+All of this would only be possible with a good enough insulator, and with an element that both conductive and solid at most or all parts of the decent.
+
+By the way, what does this mean?
+
+&gt; for carbon presumably, in places where diamonds form, not.
+I thought the term melting would imply that I was using more than one atom. I also don't see what the point would be to sent a single atom to the center of the earth, either as a thought experiment or in reality.
+Oh, you seem to be right about the melting point of iron.. The pressures are pretty huge, in water 1 atmosphere every ~10 meters 10N/kg 1e3 kg/m³ 10m = 1e5N/m², but the earth is 5 times more dense than water, so that is 1 atm/2m ('near' surface) shouldn't be using any intuition here.. I retract that the pressure gradients are small.. I don't know. It might be small fraction of the forces at play there, but that might still be huge compared to the strength of the craft..
+
+With that sentence I meant that carbon as a building material probably wouldn't react with anything down there if there are bits of carbon already there(which apparently arent reacting.. Feh... my earlier post wasn't that great.
+What would be the point to send something bigger than one atom to the center of the earth?
+
+Summary:
+What would be the point to send something bigger than one atom to the center of the earth?
+Of course also the question if it could do something useful.
+If that was possible, I think that electro-magnets could be used for both sonar and movement.

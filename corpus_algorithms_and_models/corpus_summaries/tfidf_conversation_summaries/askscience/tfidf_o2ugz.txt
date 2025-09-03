@@ -1,0 +1,194 @@
+Original Response:
+My car windows tend to steam up when driving around in the winter and I'll switch between cranking the heat and cold trying to clear up the window. Is there a sciencey  reason for which will clear up foggy windows and keep it from building up?
+You should turn on your air conditioner, but temperature doesn't matter much. A/C has a drier built in, and that's what removes the moisture from the air.
+
+If your car has a "defrost/defog" setting, use that. If not, just try putting the temp at a reasonable place and making sure the A/C system is on.
+
+Edit: a quick Q&amp;A discussion on this from U of Illinois dept of physics: http://van.physics.illinois.edu/qa/listing.php?id=1511
+you want hot air on the window to defrost it and cold air in the cab i think thats what works for me. but not all cars let you do that, so your best bet is hot air on the window by its self.
+[deleted]
+That's not going to help without the A/C running -- it will move the moisture from the window to the air in the cab and then... back to the window again.
+
+It can help with *exterior* condensation (like if it's cold and the buildup is a foggy ice) by heating the window enough to liquify the ice so that windshield wipers do their job, but if the moisture is on the inside the heater by itself will just make the cab's air wet. Combine that with the moisture you produce from breathing and pretty soon you've got an even bigger problem.
+[deleted]
+[deleted]
+[deleted]
+check if the air is on recirculation, this is the most common case of fogging the windows... put it on to get air from outside. then you should put the A/C on, even if the fan is on top heating
+So you can turn AC on and set the temperature to hot?
+[deleted]
+That's right.
+[deleted]
+Not only this, but sometimes simply rolling the windows can help. This is especially true if several people just got in the car - their breath creates a spike in humidity inside the car.
+[deleted]
+AC stands for air conditioning, which does not mean only cooling the air.
+[deleted]
+But when you turn the AC on with it on hot the AC pump doesn't get turned on correct?
+Not correct.  The AC does get turn on.
+In most cars that are equipped with A/C, the defrost setting turns on the A/C because the system removes water from the air (hence in the summer you see cars dripping clear water from a point near the firewall on the passenger side). My car has a setting for defrost plus floor so it warms my legs while also clearing my windows.
+
+You only recirculate cabin air when using the MAX A/C setting.
+Here's a protip: secondary to turning the ac on (that works best) make sure your windows are clean.  Take the grease and dust off the glass, it 
+attracts the moisture.
+&gt;You only recirculate cabin air when using the MAX A/C setting.
+
+You can't say that for every car.
+I meant the AC Compressor.....which compresses the refridgerant thru the condensor &amp; then thru the evaporator. The pressure drop when released to the evaporator creates cold.
+
+So I don't see how having the AC Compressor on with it set to hot is even doing anything other than slowing you down.
+I had really old cars in mind, in my '81 Buick you had to pull one of the levers to get recirc. I should have qualified that statement anyway.
+Indeed, in my brother's car you press a button for recirculation mode
+The entire AC assembly is turned on.  You won't have cold air if the compressor is not turned on.  The cold air(or coolant) is necessary to run the ~~condenser~~ evaporator coils that extract water from the air.
+
+Edit: evaporator, not condenser.
+The refrigerant that is pumped thru the AC system never touches air. It is a sealed system. The way it works is the AC pump compresses the refrigerant which makes it hot. Then its ran thru the condensor which cools it. Then it is released into the evaporator which is in the car where it expands &amp; becomes cold. There is a dryer in the system to remove moisture internally, but it has nothing to do with removing moisture in the air in the car. The air is simply blown past the cold evaporator like a radiator.
+Awesome thanks! I think my car has a defrost button, a square with red wavy lines inside it, but I always thought it just heated up the back window, hopefully it'll do this too. Don't have AC, but I'll keep it in mind for the future.
+Thanks this was a setting I was switching back and forth between too
+Is the fog on the inside or outside?  If the outside of the window is fogging up, it is because the glass is cooler than the dew point and the water is condensing out of the air onto the glass.  In this case, turning on the heat will warm up the window and cause the fog to dissipate.  If the inside is fogging up, it is probably from your breath, and either heat or cold will help clear it up.  Heat will clear it up because it raises the temperate of the glass so the condensation will not form, and cold will clear it up because it dries out the air so there is less moisture to condense.  However, you may notice that running cold air on the windows will cause the outside to fog up if the humidity outside is high enough.
+Your car has a defog option. Use it. On the dial where you can choose to blow air out the bottom vents or top vents, there is a third option that lets you blow air out vents that are pointing at your windows.
+To defog more effectively, you can turn the temperature up and leave the AC button on as it will dehumidify the air.
+On the inside mostly, so it looks like drying out the air to reduce condensation would help in my case
+I was mistaken, the evaporator is where the moisture is extracted from the air, not the condenser.  This is because [cooler air is able to hold less water](http://en.wikipedia.org/wiki/Psychrometrics).  So the air blows pass the evaporator coils which cools it down and extracts the moisture.
+[deleted]
+Turn all knobs to the right. High heat.
+&gt; You should turn on your air conditioner, but temperature doesn't matter much.
+
+Temperature certainly does matter. Hot air has a higher capacity to hold moisture than cold air. If you want to defog your windows, you want warm air.
+
+&gt; A/C has a drier built in, and that's what removes the moisture from the air.
+
+Eh, sort of, but that's a weird way to say it because it makes it sound like the A/C has some kind of separate air-drying device (automotive A/C's do have a "receiver-drier" which uses a desiccant to remove moisture from the refrigerant, but that does not affect the air itself).
+
+In reality, dehumidification is an inherent side effect of air conditioning. Your car's A/C cools the air by blowing it over an evaporator coil, which (unless the air is already very, very dry) is colder than the [dew point](http://en.wikipedia.org/wiki/Dew_point). This causes the moisture in the air to condense onto the coil in for exactly the same reason that it condenses and fogs up your windows. This condensation is drained away by the A/C unit, leaving the air less humid. When the air warms up as it moves away from the evaporator coil, it therefore can hold a little bit more moisture than before.
+
+So for best results, you want to turn on the A/C *and* turn on the heat. In fact, this is almost exactly how a mechanical dehumidifier works. A dehumidifier is essentially an A/C unit that blows the air from the evaporator back over the condenser to return it to its original temperature. If you turn the A/C and heat on in your car, you're doing effectively the same thing, except you use the engine's radiator instead of the A/C's condenser.
+That's probably the defrost button, and you are likely correct that it only affects the rear windshield.
+Yeah, in normal cars that's just the rear window defogger making the black lines running across the rear window heat up. 'omg_cats' post is slightly incorrect. High heat with A/C on (dry air) selected to blow on your windshield is the fastest way to defog glass because dry warm air can hold more moisture than cold air.
+
+[Look at the bottom of this picture](http://i396.photobucket.com/albums/pp42/rovermark/desktop-1-1.jpg). These symbols are fairly common. The square with wavy lines is rear window whereas the curved symbol is the windshield.
+Temperature does matter. Blowing cold dry air on a windshield will extract less moisture than warm dry air.
+Running the AC uses up a significant portion of your car's grunt though.. If it isn't raining and it isn't absurdly cold, I recommend rolling two windows slightly down. This will equalise the humidity and temperature between the inside and outside of the car, resulting in no fogging.
+I thought about that, and realized you're exactly correct for every car I can recall being in that has knobs.  Heat, defrost, recirculation lever (right opens outside air vents), and blower speed... all right.
+
+But I let my car warm up for a few minutes until coolant temp raises a bit before doing this.  Less air through the heater core = less time to wait until air is warm in my mind.
+According to Car Talk, turning on the defroster will (in most cars) automatically turn on the A/C.    
+
+Some guy was asking about whether you should periodically turn on your A/C in winter for some maintenance reason.  They said that even if that were the case, he is probably already running the A/C without realizing it when he turns on the defroster.
+Unless it's humid outside, which is the case in rain when many people experience fogging here in CA.
+I've read through a bunch of the comments and I'm *still* not sure what to do. -(
+In sub zero climate your interior can build up a lot of humidity that will freeze on the inside of the windows.  The solution is quite simple, open your windows while driving for a few moments to remove the humidity and equalize.
+[deleted]
+[deleted]
+[deleted]
+Either. It's a matter of humidity. Not temperature. The air outside will be less humid, almost always. Your breath is very humid. That is why things get very foggy with lots of people in the car, or during sexy times. 
+
+Now temperature CAN be a factor, but it is not as significant as stagnant humidity.
+[deleted]
+You need to think of this as two separate processes. Having the compressor turn on cycles refrigerant. As it hits the metering device to become a 'mist' (not entirely liquid, not entirely gas) it flash cools. This cooled refrigerant absorbs warm air in the car (there is technically no such thing as 'cold' only 'less heat than'), causing the moisture in that cab air to condense on your evaporator coil and drain/drip off (hence dripping water under a car when an A/C system is on).
+In the HVAC/R realm, it is said that the two things that affect human comfort the most are 1) temperature and 2) humidity. A lot of science goes into 'sizing' a condenser/evaporator system to get the right mix of both. Sorry, tangent there.
+Secondly, putting on heat blows air over your heater core and out the vents. This air, which started cold and inherently has low moisture in it, is now warmed by your heater core which is recirculating heated coolant from the radiator. Hot air has greater capacity for carrying moisture (why a hot humid day feels especially miserable) and the heat also assists in accelerated evaporation of the fog on the windows. This accelerated evaporation coupled with especially dry air ensures the greatest efficiency of moisture transfer.
+
+TL;DR - I typed it so you can read it :P
+In a typical sedan, running an A/C system adds about 8-10% load.
+Go to Walmart, Target, or any auto parts store and check out a product called Fog-X. It's made by the same folks as Rain-X.
+
+It's a couple bucks, takes a few minutes to apply, and will prevent the interior glass from fogging up in the first place.
+[deleted]
+[deleted]
+&gt;condensation gets worse as the temperature difference between the surface of the windows and the inside of the car widens.
+
+Under normal circumstances, yes, because hot air tends to pick up more moisture than cold air, so that when it hits the cold window, it condenses. However, if the air has just come from your A/C, it has not had an opportunity to pick up any moisture, so it will easily evaporate the condensation on the glass.
+Not to mention blowing cold air inside...
+[deleted]
+Dish soap should work too. Astronauts used to coat the insides of their helmets with soap.
+Thanks didn't know something like this existed
+AC + heat.
+[deleted]
+Not necessarily.  In an EPA study they found that at idle AC uses approximately 2hp and when at road speeds 3hp.  Under the most severe conditions of engine output, temperature, and humidity the additional load on an engine due to A/C operation could reach in excess of 9 Hp.  
+
+Tests were performed with and an average of: Chevy Astro, Ford Transport, Pontiac Grand Prix, Honda Civic, Dodge Intrepid, Saturn, and Chevy Caprice.
+
+When you consider that in the automotive world, the school of thought is that every 100lbs of weight is worth 10 rwhp (12ish at the crank), a more significant portion of the cars grunt is dependent on ones diet.
+
+But a more accurate way and example: My Ford Ranger weighs 3700lbs with me in it and has 207hp.  That gives a power to weight ratio of 17.87.  If I lost 17.87lbs, it is the equivalent to gaining a horsepower.  
+
+http://www.epa.gov/otaq/regs/ld-hwy/ftp-rev/ftp-ac.pdf
+[deleted]
+What if you have an old car with no AC and no defrost?
+[deleted]
+The heat and the air conditioner.  In some cars these are actually two separate controls, and this is the proper setting for defrost.  Other cars just know to turn on the A/C when you move the selectors to "Defrost" and "Hot".
+[deleted]
+The A/C system will dehumidify the air, you can then blow the cool dry air out (as you would in the summer) or subsequently run it through the heater core to warm it up, then you have warm dry air - perfect for defogging windows.  While inefficient, thermodynamically speaking, it's quite effective.
+[deleted]
+[deleted]
+[deleted]
+&gt; Running the AC uses up a significant portion of your car's grunt though
+
+According to WP, it uses about 4 horsepower. That's not much, even for a small car.
+Windows down an inch and full heat.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Divers often coat the inside of their goggles with spit to prevent fogging. Though I would image that you'd need a particularly nasty flu infection to use this method on your car's windshield...
+In the winter you should always heat the window not only because it clears the fog but because it prevents the window from icing up.  Rolling down your window a crack to let the humidity out is a decent idea.
+
+Running the AC to clear fog can work but usually you'd do that in [say] a rain storm, where the wipers + ac + whatever else can be a huge drain on your battery/alternator.  Use with caution.
+Partially correct.
+
+Below a certain temperature, my two cars for instance - one shuts the compressor off below 40f degrees, and the other below 35f, the compressor is turned off. On modern cars there is a low-pressure or temperature switch that does this. 
+
+Your evaporator has a set temperature/pressure its designed to maintain usually just above the freezing point, as a lot of moisture forms on it, you don't want it turning into a block of ice. This is done to prevent 'slugging' the compressor with liquid refrigerant and damaging the valves. 
+
+Go ahead and use the defrost/defog feature, and adjust the system temperature to suit your taste. Nothing will be damaged and your life will be safer without fogged up windows. 
+
+(ASE Certified in mobile A/C)
+Is that temperature limit inside or outside the car, or on the evaporator itself?
+It's based on outside ambient air temp. For instance, my 70s land yacht has an actual temperature switch that measures the temperature of the evaporator itself and cycles the compressor off around 35-45 degrees F.
+
+My Explorer has a much more contemporary setup and it has a pressure switch much like a lot of other cars, on the outlet line of the evaporator and shuts off the compressor when the pressure drops below 20psi which corresponds to around 33 degrees. This results in a more accurate and consistent temperature output, It will maintain a temperature of about 38 degrees in the cabin if you give it enough time to stabilze. It also allows the system to run in cooler weather, longer to help defog the windows. 
+
+
+Some cars have a temperature switch dedicated to this function and the set-point varies but the basics are the same. 
+
+You want fresh air in the car as much as possible in cold weather to keep the glass from fogging up as much. So put it on defrost/defog and if you have a separate recirc mode, have it pull outside air in.
+Depends on the capacity of the system. 
+
+My 1977 Chevy Chevelle has a 1950s style system charged with R-12 that is large enough to handle a 1200 sqft house. It has a 140hp 5.0 V8 and draws, seat of the pants feel, about 30hp. It will also freeze your ears off in 100 degree weather in about 10 minutes. It also drops the gas mileage from 15mpg in town to about 12. On the highway it goes from 20mpg down to 16-17. 
+
+My 1995 Explorer has a more efficient R-134 based, and a 160hp 4.0 V6. When the A/C is on.. I don't feel it, nor does it really lose any MPG.
+The difference is exaggerated in normal driving because simply cruising or accelerating with traffic doesn't involve using the car's maximum power output. A typical car requires about 10hp to maintain 55mph (88km/h) on a level road; even a very efficient A/C compressor, requiring only 2-3hp, will cause a noticeable increase in load in those conditions.
+turn the heat up, and open the dash vents to let air in
+Most cars now come with alternators big enough to handle that kind of load. 
+
+My '70s land yacht? Yeah A/C+lights+wipers+radio+engine= over 40amp draw at idle from a maximum of 63amps output from the alternator. Lights would dim quite a bit, fan would slow down, wipers slow down.
+If your window fogs up in cold weather and you are running the AC on closed circulation, how would the air get dehumidified if the compressor is not turned on?  The inside air, which is warm and humid, would just circle around the evaporator without losing any water.  Perhaps the thing to do then is to have open circulation and turn the heat on?
+One other thing- don't leave a single thing that contains moisture inside your vehicle overnight. Eg- old coffee, open water, sweaty hockey gear, etc. When I get out of my van on cold nights, I make sure to air it out a bit when I'm done driving for the night.
+because you don't want to recirculate humid air, it will condense on cold surfaces, generally the outside air is drier than inside air. 
+
+In this case, you can run it on defrost, with full heat. 
+
+The best thing is draw outside air in, and temper it with the temperature knob. If you are having fogged up windows, then run the defroster/defog, otherwise the normal heater mode is fine.
+
+Summary:
+The AC does get turn on.
+The heat and the air conditioner.
+So you can turn AC on and set the temperature to hot?
+When the A/C is on..
+If your car has a "defrost/defog" setting, use that.
+A/C has a drier built in, and that's what removes the moisture from the air.
+I was mistaken, the evaporator is where the moisture is extracted from the air, not the condenser.
+If you want to defog your windows, you want warm air.
+Is the fog on the inside or outside?
+You won't have cold air if the compressor is not turned on.
+This will equalise the humidity and temperature between the inside and outside of the car, resulting in no fogging.
+In this case, turning on the heat will warm up the window and cause the fog to dissipate.
+It's a matter of humidity.
+You only recirculate cabin air when using the MAX A/C setting.
+Is that temperature limit inside or outside the car, or on the evaporator itself?
+The air outside will be less humid, almost always.
+Not to mention blowing cold air inside...
+Blowing cold dry air on a windshield will extract less moisture than warm dry air.
+You should turn on your air conditioner, but temperature doesn't matter much.
+&gt; A/C has a drier built in, and that's what removes the moisture from the air.
+In this case, you can run it on defrost, with full heat.
+Running the AC uses up a significant portion of your car's grunt though..

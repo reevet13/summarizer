@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Why do so many people recommend bigger PSUs? An 8core system with a 1080 typically draws only about 200W from the wall while gaming. 200W means there's even headroom for another GPU (even though that doesn't make sense). What will a 650W PSU do better than a 500 (or 400) one?
+
+No it does not increase efficuency. The psu is (roughly speaking) most efficient at 50% of its nominal output. That would be at about 220W from the wall for a 400W psu. The 1080 system doesn't even get there.
+
+In fact below 50% load the contrary is true: the smaller the fraction of the draw power to to nominal power the less efficient the psu becomes.
+
+Ah sorry, but mid tower does not mean it's for micro ATX. That case is for full ATX motherboards ...

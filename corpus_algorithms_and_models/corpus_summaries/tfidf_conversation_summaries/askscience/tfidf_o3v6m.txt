@@ -1,0 +1,67 @@
+Original Response:
+I read this article on the bbc today (http://www.bbc.co.uk/news/technology-16410025) that talks about our search for neutrinos and the rise in instrumentation to aid that process. As it mentions in the article, neutrinos have already played a part in developments at Cern with the highly publicised discovery that neutrinos may travel faster than the speed of light. So my question is, if we are able to fire off neutrinos from Cern to somewhere in Italy, why do we need to create instruments that can find naturally occurring neutrinos? Is there something different in their nature? Thanks.
+It's not the detecting itself that's important, it's what the detection allows us to infer about the source.  We want to build bigger and better neutrino detectors for the same reason we build huge photon detectors (telescopes) and point them at the sky when we can generate photons at will almost for free: natural sources of neutrinos/photons are *very* interesting!
+Neutrinos are what we sometimes call messenger particles.  They are created either at, or very close to, sources of high energy particle acceleration (examples are supernova remnants, supermassive black holes, etc).  There are three types particles detected from these sources: photons, cosmic rays, neutrinos.  They each have their problems in detecting them and what information we can gain from them.
+
+Photons: 
+Come mainly from interactions close-by acceleration source not the source itself.
+Have no charge so travel in a straight line.
+Get attenuated when travelling over distance (pair production etc) so flux can be quite low at Earth, as low as only tens of photons for a source, which makes detection difficult.
+
+Cosmic Rays:
+Charged particles so are bent by magnetic fields, makes finding the source very difficult as we don't know the exact nature of the magnetic fields.
+Again flux is low so we require a large detector (eg Pierre Auger Observatory, a 3000 square km detector in Argentina).
+Highest energy particles loose energy in flight through interactions with CMBR.
+
+Neutrinos:
+No charge, so not bend by magnetic fields.
+Very low interaction or attenuation along flight path.
+Will point back directly to source.
+
+The problem with neutrinos comes from their main benefit, that they have a very low interaction.  This means they will come from the source itself, but it also makes them very hard to detect, as it mentions in the article.
+
+Hopefully someone can add a bit more to this as I only work on cosmic rays myself, and my knowledge on photons and neutrinos from the source is rather rusty, so I may have got things mixed up slightly.  But if you have any follow up questions I'll be happy to try and answer them.
+So its the fact that the detection of the neutrino in nature tells us something about its source that is important, and something that we could obviously not surmise from controlled experiments in the lab? That would make sense. 
+
+The reason I find this intriguing is that I remember reading another article a year or so ago about the failed attempts to detect neutrinos in the Mediterranean, and the jist of it was that further funding for such endeavours would be unlikely. Given the developments at Cern one might have thought this problem could have been resolved, but what you've said obviously makes finding naturally occurring neutrinos very important. Thanks.
+Yeah the tough thing with all these experiments is that as you try to find higher and higher energy particles, which can have come from further and further away as they have enough energy to reach us before interacting and attenuating on the flight path, the flux decreases.
+
+For cosmic rays, as that's what I know, the flux at the energies I look at is lower than 1 particle per square km per century.  Hence why these detectors need to be huge to have the collecting area to detect these particles.
+
+Having many detectors over this area helps to determine directions by being able to have many measurements at slightly different times, and using this timing information the direction can be determined.
+
+In the end, like a lot of research science, the reason we are doing this is for more knowledge.  But you never know when the techniques we have to develop to find this knowledge can then be applied to real world problems and solutions.
+Because the author of that article is very confused about the research that's going on.  Ugh.  I expected better from you, BBC.  You're normally much better than this at reporting science.
+
+The reason we're building these telescopes is that we specifically want to measure the flux and properties of neutrinos coming from astrophysical sources.  
+
+For example, one of the science goals of the IceCube detector (similar to the KM3NeT detector in the article, except encased in Antarctic ice) is to accurately measure the neutrino flux from the sun in order to detect dark matter.  The thinking goes like this:
+
+* weakly-interacting dark matter particles should tend to collect in the center of the sun
+
+* if they can annihilate with each other, they should annihilate more when they're collected together... so that will produce an excess of normal particles we already know at the center of the sun
+
+* most of the particles won't be able to get out of the sun, but neutrinos won't interact with anything and will stream out of the sun and add to the normal solar neutrino flux
+
+* we can measure this flux more accurately with a very large neutrino detector - and IceCube is larger than any detector before it.
+
+Accurately measuring the neutrino flux and composition of other astrophysical events such as supernovas also gives us another piece that helps us figure out exactly what happened so many thousands of light years away.
+Do dark matter particles collect at the center of every gravity well? How much mass would they add to the mass of the sun/earth/etc.?
+In theory, we'd think that they should collect at the center of gravity wells to some degree.  The mass they add is probably negligible on the scale of a solar system.
+If we know the average density of dark matter in this region of the galaxy, shouldn't we able to estimate the increase in dark matter in a potential well if we assign some temperature to it? Or am I forgetting some parameters, it's been a while since I've taken stat mech.
+Probably... I did a very very quick arXiv search and found this article
+
+http://arxiv.org/abs/1001.1697
+
+but I have to run out to go help a friend move.  Let me know what you find.  :P
+&gt; Because the author of that article is very confused about the research that's going on. Ugh. I expected better from you, BBC. You're normally much better than this at reporting science
+
+Quality of the Beeb has dropped greatly in recent times. I think in the old days they'd phone up some Prof at some Uni and it would cost them a lunch. These days they seem to save the money by parroting Wikipedia.
+
+Summary:
+I expected better from you, BBC.
+There are three types particles detected from these sources: photons, cosmic rays, neutrinos.
+The problem with neutrinos comes from their main benefit, that they have a very low interaction.
+The reason we're building these telescopes is that we specifically want to measure the flux and properties of neutrinos coming from astrophysical sources.
+Let me know what you find.
+Hence why these detectors need to be huge to have the collecting area to detect these particles.

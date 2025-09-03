@@ -1,0 +1,26 @@
+Here are the extracted sentences:
+
+1. There were court cases and crap years ago and apple stopped that wuick smart.
+2. Someone with microsoldering skills must take a new home button and transplant the old button onto the new flex cable and it will work again... Which sounds tough but it's easy enough for someone with the right gear and a steady hand.
+3. Otherwise, you can simply put a new home button in it for.... 2 bucks or whatever they cost. Just the thumbprint scanner doesn't work.
+4. Using the computer example, what if when I opened the computer to replace the ram I shorted something.
+5. Then it's on the company to demonstrate customer fault. If there's a mobo short near the RAM that has no other apparent cause, then the company has a reasonable claim that the customer is at fault for the short since they know there was an at home RAM installation.
+6. The law referenced above doesn't force them to uphold warranty on products repaired by non-authorized dealers, it just forces them to demonstrate that they aren't at fault in the process of voiding a warranty.
+7. Like a battery needing replacement on an iphone with a non-apple screen. The battery is still covered, just not the phone as a whole (because the screen isn't)
+8. It's the latter, but a lot of these people who make repairs aren't untrained amateurs. A lot of people who open shops have worked for Apple or other professional tech repair shops.
+9. I paid several hundred dollars for a phone. Then bought the warranty. Then I still pay for Apple Care. But if I drop my phone &amp; crack or shatter my screen in a place where I literally CANNOT get to the Apple store or their Genius Bar can't see me for 2 days, but there's a kiosk or shop around the corner &amp; I get it fixed... now my warranty is void and Apple Care is useless?
+10. Apple refused, then changed its mind, then broke your stuff. And your “colleagues” all had similar experiences.
+11. Why would I lie about it exactly?
+12. "Apple refused to fix our imac pro!"
+13. "The apple store genius bar broke my $5000 imac pro"
+14. "Apple genius broke my MacBook"
+15. Everything I've experienced and people I know have experienced points to apple repairs being shoddy and the genius bar being filled with morons - whether that's true on a larger scale, apparently not.
+16. If that hurts your Apple fanboy heart, bad luck buddy.
+17. From the mangnuson-moss Warranty Act Wikipedia page. Clearly attempting to fix your own device is "damage while in the possession of the consumer." No company should be obligated to replace a device you broke.
+18. Actually it's against the law for Apple to do this. Really? What law? And if it is why is nobody suing?
+19. I have no clue how to search for lawsuits related to this though.
+20. The [Magnuson Moss Warantee Act](https://www.ftc.gov/enforcement/statutes/magnuson-moss-warranty-federal-trade-commission-improvements-act) forbids it.
+21. So, yes, Apple apologized about Error 53'ing phones about 3 years ago... But iPhone 7 and 8 users who have had their touchscreens replaced suddenly found their phones disabled.
+22. My point is the same; it's a violation of the implied warranty to render devices inoperable, especially if it's done to erode trust in third-party repair.
+23. This was about 6 months ago, when Apple released iOS 11, and was fairly prevalent amongst iPhone 8s with replaced screens.
+24. These were touchscreens that adhere to the interface spec, and were working immediately before the software update (not a defective part, and not a botched replacement). The workaround, in many cases, was to swap in the original broken Apple touchscreen, re-run the upgrade to iOS 11.3, and then swap in the 3rd party screen.

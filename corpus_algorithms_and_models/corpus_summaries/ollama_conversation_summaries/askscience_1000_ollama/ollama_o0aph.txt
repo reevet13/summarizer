@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+Light passes through the structure or is absorbed and then re-emitted in the same direction with the same intensity.
+
+Yes, but why do photons pass through some things and not others?
+
+Their electron configuration, essentially. I'm not a chemist or a physicist, so I don't know the specifics, other than that it's not very simple.
+
+Thanks to quantum mechanics being quantised, electron energies are...well, quantised. In any given quantum system of atoms, there are certain allowed states that the electrons may be in, corresponding to certain allowed energies that the electrons have.
+
+When a photon comes in, it has a certain amount of energy of its own, and may interact with the electrons.

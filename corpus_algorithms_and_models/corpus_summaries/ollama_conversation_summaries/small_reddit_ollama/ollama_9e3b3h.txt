@@ -1,0 +1,14 @@
+Here is a summary of about 10% of the original text (up to 250 words), selected exactly as written:
+
+What? I think they're still testnet. I don't see any official announcement neither on their blog nor twitter. Their website is kinda vague though, nothing says that it runs on testnet, except that their wallet suggestions are "testnet wallets"
+
+We launched on mainnet today. Somebody just spotted it a bit earlier than we expected and made an announcement faster that us :) BTW - we have testnet label on our logo if you will go to testnet version. Maybe we need to make it more clear.
+
+About wallets - we have "mainnet" labels for wallets which are already launched on mainnet, so if you unable to see them then something is gone wrong. It will be really great if you can PM me about this so we will investigate!
+
+Oh, now I see, we will fix it today! Thanks)
+
+Yeah , nothing to see here folks. You cannot buy BTC or even load a LN channel with this service . 
+
+Merely a way to exchange your valuable BTC for shitcoins at this time.
+Wish it the other way around :P

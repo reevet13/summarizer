@@ -1,0 +1,123 @@
+Original Response:
+What do you call them then, microbusinesses?
+[deleted]
+"One of my shell companies" has a nice ring to it, i can dig it
+This is one if not the most stupid comment on small businesses.
+
+
+Just because a small business has only the owner working doesn’t mean it’s a shell company.
+Sole proprietorships.  IMO at least.  Even if its another official corporate structure, if its just one member, no employees, I feel like this label is still accurate/fits.
+
+FWIW I own a business that falls in this category and even though its an LLC in structure, I'd still call myself a sole proprietorship.
+I think we really need to revamp how this country handles sole proprietorships. The intent behind them is appropriate for most small businesses in this country, but the implementation is pretty terrible. Everyone goes the LLC route instead.
+Many small business owners do not go through the steps to wind down their business correctly. Probably a lot of these companies are defunct but not dissolved.
+“Probably”... based on what exactly? And how many is “a lot”?
+&gt;I’d still call myself a sole proprietorship.
+
+That’s because you are a sole proprietorship. The IRS doesn’t recognize LLCs. They are disregarded entities.
+You can elect to be taxed as an S corp, which you can't do as a sole prop.
+Pass through entities
+This is good for people who do contract work
+[deleted]
+&gt; the irs doesn’t recognize LLCs.
+
+This is only correct if it is a single member LLC. Otherwise the LLC is taxed as a partnership or may elect to be treated as a corporation.
+No, it's correct in those instances also - it's recognizing the partnership or corporation, not the LLC
+What? An LLC is a recognized legal entity if it has more than one owner.
+Not for taxation  purposes.  You file as either a partnership or (some type of) corporation.  The IRS does not recognize LLC's
+That’s the type of return. You file a 1065 on behalf of the LLC because it is taxed as a partnership. But there is only one entity. A DRE doesn’t file a return. It would just go on schedule C.
+
+I’m a CPA and work in tax at a big four.
+I have no idea what you think you're arguing... you're  stating my argument then somehow saying the IRS does recognize LLC's.  They don't.  A 1-member would typically be a DRE going on a sch C, and a multimember would (unless otherwise electing) be a  partnership filing on a 1065.
+Maybe I just don’t understand what you mean by the IRS doesn’t recognize them. Because they do. LLCs are called hybrid entities because they can tell the IRS how they want to be treated.
+
+https://www.irs.gov/businesses/small-businesses-self-employed/llc-filing-as-a-corporation-or-partnership
+Tax lawyer here. I'm sure the issue is the user's confusion with terms "corporation" and "partnership." Despite the words being the same, they're used for two completely different concepts.
+
+One use is to refer to "state registered entities for liability shielding purposes" and another use is for "federal tax classification."
+
+State registered limited liability partnerships have the option to be classified as corporation for federal tax purposes.
+
+That partnership, from the IRS's perspective, is a corporation.
+Tax lawyer here. Sounds like the issue is a confusion with terms "corporation" and "partnership." Despite the words being the same, they're used for two completely different concepts.
+
+One use is to refer to "state registered entities for liability shielding purposes" and another use is for "federal tax classification."
+
+State registered limited liability partnerships have the option to be classified as corporation for federal tax purposes.
+
+That partnership, from the IRS's perspective, is a corporation.
+
+So when someone says "I have an S-Corporation," that's a federal tax classification. The IRS will tell you that you are a corporation.
+
+That in no way is an indication of what type of business entity they have registered in their home state. Their business entity could be a limited partnership, a limited liability partnership, a limited liability limited partnership, a limited liability company, or a corporation.
+
+On the IRS's end, the only federal tax classifications for businesses (basically) are "corporations (C-Corps and S-Corps)," "partnerships," and disregard entities (single owner businesses).
+
+For federal tax purposes:
+
+* State LLC's can be federally classified as disregarded (if one owner), a partnership (if at least two owners), or a corporation.
+
+* State Partnerships can be federal classified as a partnership or corporation.
+
+* State Corporations must be federally classified as a corporation.
+
+The fact that the law flippantly uses the terms "partnership" and "corporation" to refer to two completely different concepts is confusing for a lot of ppl.
+
+And the IRS doesn't recognize LLCs in the same way the IRS doesn't distinguish between general partnerships and limited liability limited partnerships. All of those are determined by state law. All the IRS cares about is "are you federally classified as a partnership or a corporation?"
+According to BLS 50% of companies fail in 5 years. There isn't any recourse or incentive for the IRS to chase down non filing companies with no income or assets. The IRS admits that. Is there hard data on this? I'm not sure. Seems inevitable though.
+&gt; sole proprietor  
+
+So *not a business* then? 
+
+I disagree with the implication that a business is defined by having employees.
+A sole proprietorship is still a business. Therefore, all businesses that don't have employees are still small businesses. This article is retarded.
+I think they are shell companies. FTA:
+
+&gt;Full-time real estate agents, dieticians, life coaches and yoga instructors also fit the bill. They don’t employ anyone, but I’ll give them a pass anyway and **include them in my definition of small business owners**.
+
+The author has included single-person companies in his count of small businesses.
+Yes the author did but my comment was mostly directed at the person who said they were all shell companies for money laundering, tax avoidance etc.
+[deleted]
+In entertainment you have a new LLC for each production. So one small production company could have like 10+ - 20+ LLCs at any time, easy.
+[deleted]
+Tbh I'm not sure how the business side of doing that works exactly. You definitely keep it going as long as you're producing episodes of the show. It's done to shield the actual production company and producers and directors and such from any legal blowback. 
+
+I am the writer/development idea guy. Not the paperwork/business guy. 
+
+Usually the people doing that stuff are separate from us since the creatives are garbage at paperwork and managing that shit. 
+
+So you get the boring business types who handle all that and we just smile and nod and hope we end up getting paid.
+[deleted]
+Technically you have to fill out a form to dissolve them once youve completed using the LLC. However I'm sure some folks just don't pay the renewal and as per the rules after a short while you no longer have rights to that company.  And you may owe the government money for those missed payments depending on who is the registered agent. 
+
+But ive known people that just stopped renewing and nothing happened. For me when ill stop using a certain LLC, I'll disolve it just to not cause any issues down the road.
+Cool.  I guess for TV, the residuals have to go somewhere so they must keep them alive or xfer all the assets into one big collector LLC.
+Well based on the article, they'd call that, at most, one business.  The multiple is just legal fiction.
+Why is it good to hold property under a LLC? How does someone go about doing that and how do you deduct expenses and what can you deduct?
+Underrated comment... r/business where you at?
+Your business doesn't sound legitimate. Sounds like you're money laundering. That's the whole point of the article.
+You seem to have missed the actual point of the article. These entities the author says aren't "real businesses" are still entirely legitimate. The author is just noting that many LLCs and Schedule C filings are for side income, and probably shouldn't count as businesses as such.
+Happy Cake Day xiefeilaga! Use what talents you possess: the woods would be very silent if no birds sang there except those that sang best.
+They expire.
+Haha that sub never talks about actual business.   Its all anti-business newspam
+I have no evidence to back this up, but I believe it would be the second one (transfer ownership).  The very nature of the LLC is to limit liability.  Once production is done, I’m going to assume the liability risk is drastically reduced, even though the residual value remains.  Therefore, there’s probably some short tail period where the LLC remains open, then the business is closed.   The rights to the residual value are transferred or sold, and the liability (I’m guessing) remains with the original entity.
+you keep them for liability reasons iirc
+Business entities don’t expire. You have to keep paying taxes and fees, but typically aside from income tax, this is a few hundred bucks a year. If you want to shut down a company, even a shell, you need to file paperwork with the state. You should not just decide to stop paying the upkeep fees, as those are taxes, and though the state will shut down the company for you, they will also come after you for the money you owe them.
+I imagine they would keep it alive until the series ends it's tv run in case they get an order for more episodes, but keep in mind I worked development in reality pre-streaming (even though I told them it was the future and tried to get them to heavily invest in a streaming future in 2007 by working a deal with Microsoft to put their content in the Xbox Marketplace to start to gain a foothold but was told "that's stupid.") so now in the steaming days where you can sell a show to a million new services and networks and a show is never truly canceled, I wonder what's up with dat?
+
+I'm disorganized garbage with paperwork and hate dealing with legal shit so I was never involved with that nonsense. All that stuff tends to be handled by business people and accountants and UPMs and a lawyer and whatnot who are kinda segregated away to their calculators and stuff while we use crayons and cardboard paper with our tongue out our mouth like a small child that can't be trusted for important tasks.
+
+Summary:
+The IRS does not recognize LLC's.
+The IRS doesn’t recognize LLCs.
+* State Partnerships can be federal classified as a partnership or corporation.
+State registered limited liability partnerships have the option to be classified as corporation for federal tax purposes.
+Their business entity could be a limited partnership, a limited liability partnership, a limited liability limited partnership, a limited liability company, or a corporation.
+The IRS will tell you that you are a corporation.
+I think they are shell companies.
+A sole proprietorship is still a business.
+&gt; the irs doesn’t recognize LLCs.
+But there is only one entity.
+An LLC is a recognized legal entity if it has more than one owner.
+All the IRS cares about is "are you federally classified as a partnership or a corporation?"
+You file a 1065 on behalf of the LLC because it is taxed as a partnership.

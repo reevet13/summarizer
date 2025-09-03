@@ -1,0 +1,17 @@
+Basicly I want to see strong sources of radio waves in the sky without scanning the antenna. 
+
+The planer array would be at the focus of a parabolic dish just as a light detecting array (camera) is placed at the focus of a parabolic mirror 
+
+Well, you can look at what is directly above you without scanning. You would just need to build some dishes, attach them to computers, write software to interpret the signals, and finally visualize the data somehow to see what is overhead! 
+
+I suspect however that the spatial resolution of a parabolic dish will be superior unless you have an enormous array and tight spectral resolution (just a suspicion based on how waves interfere) You might be able to get enough resolution to see jupiter's magnetosphere. 
+
+One big issue is wavelength and its influence on antenna size. Lower frequencies (longer wavelengths) require larger elements in order to radiate effeciently. 
+
+At 1.4 GHz, you'd need a conventional dish with a 3' diameter to get 20 dB of gain, and about a 10' diameter to get 30 dB of gain (calculated with a parabolic antenna slide rule I have handy). 
+
+For astronomical applications, there isn't much benefit to a stationary phased array. 
+
+Oh, you are asking for a CCD equivalent of for radio waves to get multiple pixels of the sky? This is basically not possible because radio waves are too big. 
+
+Most radio telescopes are many small dishes that use interferometry to image the sky.

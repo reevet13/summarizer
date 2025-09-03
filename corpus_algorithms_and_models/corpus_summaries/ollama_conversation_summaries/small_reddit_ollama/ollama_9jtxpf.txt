@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+I have an msi gs60 6qe ghost pro laptop (for 3 years) , recently i had trouble booting up , and decided to update my bios.
+
+so i downloaded all updates from msi website and started installing them chronologically, but i think i made a mistake and jumped one, resulting in a blank screen , can't access bios (no screen lights or logo) keyboard lights and fans are working but nothing else.
+
+i disassembled every piece, cleared  cmos , took ssd and hdd out , and drained the battery with no luck.
+
+What should i do ?
+
+Are you sure you cleared the CMOS correctly? I'm literally stumped. Can you toggle the Caps Lock key?
+
+I did , and waited 30 minuets to be extra sure

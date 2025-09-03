@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Earth-based tracking would be impractical over long distances, but exact measurements might require sophisticated apparatus that a ship could not carry...
+Nevertheless, the best three possibilities I can think of are:
+* **Accelerometry**: Recording acceleration over time on all three axes would allow you to calculate your velocity relative to Earth's, but I'm not sure how accurate this is.
+* **Doppler Shift**: At higher speeds, measuring the change in Doppler Shift of stars around you on all three axes could give you a velocity vector, but again, I'm not sure how accurate this would be.
+* **Star Maps**: A ship could use images of the star field to triangulate its location relative to known stars. It could use these to calculate its velocity over time. This seems like the least accurate solution, or at least it requires the most precise measurements and sensitive apparatus.

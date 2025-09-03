@@ -1,0 +1,421 @@
+Original Response: 
+Hey Reddit r/IAmA!
+My name is Andy Yen and I’m the founder of [ProtonMail](https://protonmail.com), a popular encrypted email service.
+In 2013, after the Snowden leaks, some friends and I working at the [CERN](https://en.wikipedia.org/wiki/CERN) (the European Organization for Nuclear Research) grew very concerned about the lack of data privacy on the Internet.
+So we decided to do something about it.
+Today, ProtonMail provides security and privacy to millions of people around the world.
+I’m happy to answer any questions you have about online privacy, why it matters, and what are some of the challenges we face in trying to save it.
+Also happy to talk about entrepreneurship and what it was like transitioning from science to tech.
+To prove it’s me, here’s a [picture](https://truepic.com/wz2ymw34/) my colleague just took of me here in our Geneva headquarters.
+Looking forward to your questions!
+&amp;#x200B;
+
+EDIT 21:10 Geneva: Thanks to everybody who participated!
+It was a pleasure to answer many of your questions, and I'm sorry that I was not able to get to all of them.
+It is heartening to see so much interest in privacy and security, and it gives me a lot of hope for the future.
+As it is now past 9PM in Geneva, I will have to sign off for now although I may be back to answer a few more questions later.
+The conversation continues every day at /r/ProtonMail where we routinely answer questions and discuss with our community.
+What are the future plans for protondrive and proton key?
+Any estimate of when it will be available?
+To be honest, we are not great with estimates.
+In general, our philosophy is to release things when they are ready, and when they are up to our standards.
+I can say that ProtonDrive development is already underway, so there is a team based in our Zurich office that is starting to work on it (and we're hiring also in Zurich!).
+ProtonKey is a research project being done with ETH Zurich, and as such, it is still in the realm of research right now.
+Going from research to a marketable product is often quite a leap, and we still have to make the assessment about whether or not we want to get into this space right now or not, and if we can substantially improve upon the current state of the art.
+What is the value of ProtonKey over a YubiKey?
+They already have one that's full of the features that most, if not all, people who give a shit about this aspect of security are looking for.
+Especially with the new YubiKey 5 that just launched.
+What is your company’s long term privacy concerns team prepared rhetoric for media scrutiny?
+More options?
+It doesn't need to be better.
+Have you considered maybe partnering with Tresorit, a secured storage provider also located in Switzerland?
+I imagine a lot of your clients already use them and they have a great product.
+Developing a partnership could benefit both companies in the long run.
+The presumption that more options is always better is just a misnomer though.
+If all other options are garbage, like in the case of internet for most people in the US, and yet the "best" option is with a company that fucks you over, more options aren't what one needs.
+One needs _better_ options.
+There's an expression in Sweden that goes "no matter how much sprinkles you put on a turd - it's still a turd".
+It sounded fitting here.
+In terms of privacy, more options by itself often improves separation of concerns and allows users to compartmentalize more than they would otherwise be able to.
+There is a similar one here in the Uk - you can’t polish a turd but you can roll it in glitter.
+If I were the ceo, I would probably say it's too early to make product comparisons when PhotonKey is still just an idea.
+Hahaha yes.
+So good.
+This is predicated on the things not being too cumbersome and impeding.
+If the option impedes your work or is too cumbersome, it will be abandoned and therefore the option is just another shitty non-option.
+Yeah that's a good point but I just hope they don't spin their wheels on it when a solution that's pretty good already exists.
+Yeah, and Yubikey is a pretty mature product.
+Not to mention that they are good product which delivers on every one of its promises.
+I have a Yubikey 4 and a Neo.
+The Neo has NFC and works well with android and iOS.
+I use it to store my OTP and a master password.
+The 4 I use for OTP (gotta have a backup key) and to store a 4096 bit PGP key along with sub keys and signing.
+Couldn’t ask for a better product honestly.
+To be completely upfront, outside of corporate buyers (corporations buying for employees to use as a Smart Card) these are currently firmly in the realm of crypto/computer nerds.
+Exactly.
+The new YubiKey 5 just launched and they have the Neo version but I wish they had the Neo in USB-C and A but they only have it in A.
+Well, you've given Yubikey as strong a recommendation as one could give and I'm sure they appreciate it, but competition is always great for the consumer and it is very very unlikely that a new product would be brought to market without any improvements.
+Also, different companies always create different feeling products with different qualities of support.
+I'm sure PhotonKey will be written to address the current needs of the users and it's release is something to look forward to.
+Still a turd though ;)
+Hi Andy!
+Thanks for doing this.
+Eventually, using a VPN comes down to “how much do you trust the VPN provider”.
+And a lot of this trust is directly tied to the people running the company today.
+But people will inevitably change or find a new job and leave the company and after a while the core ideas behind the company might get lost or could become compromised.
+So - first question - how are you planning to ensure that your line of thought will be consistent and coherent throughout the years as well as with future boards of directors and management and when should we become alarmed in case things go wrong?
+Second question -  looking at what happened to /r/CopperheadOS how can we be sure that there won’t be any hostile takeovers from third parties?
+I realise that from a legal point of view Switzerland is not the US so someone taking over the company is rather unlikely, but it’s also worth remembering that ProtonVPN is, in fact, a [separate company](https://ge.ch/hrcintapp/companyReport.action?rcentId=9861030800000066031025&amp;lang=FR&amp;showHeader=false) .
+I imagine this was done for a number of reasons (subsidies, taxes, legal stuff, diversifying risks…) but nonetheless we have to trust a separate entity that is legally not the same as “ProtonMail” and the software ProtonVPN is running is not directly verifiable like for Open Source software, hence my question.
+This is a good question, and one that we have thought about quite a bit.
+I believe that the best way to create alignment between a company and its users is the long term alignment of incentives.
+Facebook and Google are two classical examples where this alignment doesn't quite exist.
+Google users are not Google's main customer, but rather, the "product" they are selling to their real customers, which are advertisers.
+Proton's configuration is different, in that the only reason we exist is because we have a focus on privacy that Google cannot easily replicate because of differences in business model.
+Violating user privacy would therefore also destroy the company's core business.
+While this is not a 100% guarantee for the future, I think it creates a strong financial incentive for future management to retain the core values even if the founding team were somehow to out of the picture (and no, we're not planning on going anywhere).
+A full stop privacy company selling a complete suit of web browser, email service, and phone OS would do very well in this current climate I think.
+I'd kill for a company to make an open source phone.
+It doesn't even have to be particularly flashy either.
+Just give me a rectangle with a screen and driver support that lets you run any OS.
+Check out android one.
+It didn't really work for BlackBerry though.
+If all goes well, soon we'll have the Librem 5.
+It's a bit pricey, but hopefully Purism will branch out into mid-tier smarphones in the future.
+Don't kill and look at puri.sm - librem 5 ;) Hopefully they will deliver.
+What happened at copperhead OS?
+Mozilla achieves a similar result via a slightly different means (i.e.
+having no financial incentives at all), but they cancelled their OS and don't have an email service.
+Firefox is great though!
+Convince Mozilla to re-open the Firefox OS project.
+Just heard of these guys from your comment, but I must say, having checked them out Im already interested and hopeful for them.
+With luck they'll get their vision off the ground and we'll have another strong competitor in the smartphone market.
+One with a strong focus on privacy at its core.
+I did.
+And I still miss a good phone that can be held on one palm and has aluminium edges like iPhone SE.
+Librem is technically sound, but the looks are generic.
+To be fair the guy that he was replying to just asked for a rectangle with a screen.
+It seems kind of disingenuous when it looks like a survival strategy, though.
+There is no point, IMHO, as long as the baseband is closed source, has memory access and everything is dependant on it to function.
+And I really doubt we'll ever see an opensource baseband.
+If generic looks are what's stopping you buying a privacy conscious open source phone, you are probably not their target customer.
+Maybe I'm misunderstanding, but how is Android One different in this sense?
+It still includes proprietary Google and even OEM code, and apparently doesn't require OEMs to allow bootloader unlocking (in terms of their point about being able to install any OS on the hardware).
+It's just a guarantee for a stock-like experience and 2 years of feature updates/3 years of security updates.
+There's also Necunos in Finland, and they seem to be closer to production.
+There's much less information about them though.
+https://necunos.com/
+Don't be so condescending.
+While privacy is an important factor, it isn't the only one.
+The point is to make people buy the phone and looks do matter in more than one way -usability being part of it.
+I'm not being condescending, it's just a fact.
+Apple has Jonathan Ive, a knighted Design Award recipient who is one of the best product designers of this generation.
+Librem had a kickstarter to raise money for an experimental phone with no advertising budget.
+What do you expect the Librem phone to look like?
+I agree that design is important to loop in the general public, but comparing the design resources of a limited company and the world's largest tech company isn't exactly an exercise in apples to apples (no pun intended).
+I've heard some complain about them, do you know whether it's true?
+https://twitter.com/CopperheadOS/status/916683971248959489.
+From my quick glance, the CEO fired the lead developer.
+Blackberry is big on "security", not on privacy.
+Their CEO notably argued for Apple allowing the FBI access into the encrypted iPhone from the San Bernardino shooting.
+They gave the Indian government access to BBM chats/emails with minimal prodding.
+I carry a Blackberry Keyone and have 0 expectations for it to be more secure/private than your typical Samsung, I just got it because I missed physical keyboards.
+I disagree.
+It takes a lot of capitol to get started up with a cohesive phone OS which would likely lose many customers due to lack of app support, and if you're using a mobile phone your privacy is kinda ruined by the carriers knowing your approximate location anyways.
+Furthermore where's the market?
+Privacy-conscious consumers exist but it's a small demographic.
+Most aren't going to be willing to give up apps which may have privacy-voiding requests built-in to function.
+It *might* be a decent sell for enterprise customers, but as we saw with Equifax it's generally easier for companies with breaches to eat small fines than it is to invest in robust security.
+Copperhead OS is about as close as you're likely to get.
+I would pay for this.
+Not so sure about the vast majority if people though.
+Mozilla is one company I actually sorta trust.
+Hello Andy, welcome to Alcoholics Anonymous.
+Kind of ironic for CopperheadOS to be calling another company dishonest.
+[deleted]
+Agreed, but because of Google, I'm so nervous about any product suites now, where each element is interconnected.
+My hope is that Proton keeps it semi-modular.
+For example, we can currently have a ProtonMail account, but not a ProtonVPN account.
+Though if you do use both, I think you can login with the same creds.
+That's pretty cool convenience-wise, though I'd prefer to have separate passwords for each.
+This is as opposed to Google where when you have GMail, you also automatically have YouTube, Google Calendar, Google Docs, Google Drive, etc.
+This widens your attack surface (a vuln in one tool is now a vuln in all, as is a compromise do to breached db or social engineering) and allows too much of your PII to touch.
+That makes me really uncomfortable, personally.
+With both privacy and security, compartmentalization is SO important.
+I really hope Proton finds a way to keep this in mind as they expand and find ways to make things more convenient.
+No it wouldn't, your average person honestly doesn't care.
+Edit: Convenience &gt; Security for most.
+Mozilla was trying to do that with FirefoxOS but they stopped developing it.
+Very sad that Mozilla quit the mobile OS.
+Would be a very good alternative for privacy concern users.
+Seconded.
+[deleted]
+I liked what they were trying but I didn't like that it was a browser-like system.
+I don't like Chromebooks for the same reason.
+Or just hook protonVPN into Firefox, collaborate proton engineers with team Firefox to make a Kali Linux based mobile OS.
+You could get a pretty sweet suite setup with a limited number of partnerships.
+Don't really follow their news, what's wrong with Copperhead?
+I made a custom extension for pretty much that reason.
+A quick, incredibly-ugly HTML page with images that are links to Google, YouTube, Reddit, etc., plus an extension that turns ctrl-1, ctrl-2, etrl-3 into "new tab at my homepage, in the 1st/2nd/3rd container".
+(btw Container apps are so, so awesome, please check them out -- they're stock in Firefox now).
+I didn't want to upload the extension online to get it signed, so I'm using Firefox Developer Edition (you could also use the true-open-source fork of firefox that someone set up, I don't remember the name).
+Check out the Librem 5 from Purism, should be available sometime next year.
+The modem will be separate on Purism's phone, and will have a hardware kill switch.
+It won't have memory access.
+So it might still be closed source, but it's better than what we've got.
+yeah.
+i've started to read the privacy policy and it does mention that they collect personal information which identifies you.
+it's kind of sad that it's our best alternative to chrome.
+but at least it can be tweaked so there is less tracking.
+I once felt that way about Google.
+It's not a complicated job, though, and I'd rather see a privacy focused company (like Librem) rise to compete with the big makers by making technically sound and appealing products.
+In fact, most of the other companies didn't bother even that and resorted to copying Apple.
+Librem might as well.
+I'd recommend taking a look at the SE model :p
+
+While at it, they could add ProtonMail as the default email app and a list of trusted VPN providers.
+I guess this would lead to a question to Dr.
+Yen: has there been any attempt in doing this?
+Getting deals from the phone/pc manufacturers?
+I feel like the default new tab page is pretty good though.
+A search bar, icons for frequently used page, links to recently closed tabs and occasionally a link to a Mozilla announcement or blog post.
+It's customizable so I just have it set-up to only show the shortcut icons.
+Brave is getting quite good.
+It's created by the original creator of mozilla.
+&gt;Don't be so condescending.
+&gt;It's not a complicated job
+
+It is, though.
+Sailfish might not be completely open source, but all of the important parts of it that you need to trust are, and their business model is geared towards privacy.
+It's also available right now, and is likely to be around for a while.
+They're much more likely to deliver, because they're working off the open source components of Sailfish.
+I have a Jolla, open source and brilliant UI.
+That's been forked into KaiOS now, and largely moved to closed source :(
+&gt; Their CEO notably argued for Apple allowing the FBI access
+
+I wasn't aware of that bit, that's kind of upsetting to hear...
+
+&gt;They gave the Indian government access to BBM
+
+Yup that's *really* infuriating tbh.
+I carry a Keyone also, and for the same reasons.
+I was sick and tired of on-screen keyboards, my S7 screen had cracked, I was fed up with paying insurance on a phone and still having a $300 deductible, and I was extremely fucking tired of being on the finance a phone for two years, pay it off, trade it in, repeat grind.
+A lot of people are incredulous that BB still even exists when I'm on my phone in public, and I know they marketed an image of security for the brand, and I guess I conflated privacy with that as well.
+I never really used BB in it's heyday, so just assumed that privacy went along with the security bit.
+I am fully aware that BB as we know it, aka Research in Motion , is no longer involved in the hardware side of things, and the Keyone in particular was designed and manufactured by TCL.
+So yeah, no expectation of privacy on the Keyone really at all.
+The Mozilla Foundation is non-profit and they own the Mozilla Corporation 100%.
+They have said all profits of the corporation (which developes Firefox) will be invested back into Mozilla.
+So, they really don't have a financial incentive here.
+No one profits off of an increase in their market share and they don't really "sell" anything other than a slot as a default search provider in the browser.
+So, they don't have incentives misaligned with their users because ... there are no incentives.
+Mozilla's mission is to build a better internet for people, not make money.
+They don't get money from Google for searches, they get royalties from Google (and Yahoo and Bing, etc...) For being included as default search providers.
+Also, Mozilla does not have shareholders or anyone being paid dividends or whatever.
+They reinvest all profits from Firefox back into Mozilla projects.
+Getting income to use for funding projects does not constitute "massive financial incentives".
+Because of their structure, Mozilla is largely uninfluenced by financial incentives beyond the fact that having additional resources helps them pursue their (non-financial) goals.
+There was a rather strong disagreement between James, the CEO and Daniel, the CTO/lead developer.
+James always took care of the business side of the company, whereas Daniel was essentially the mind behind it all.
+Whatever happened escalated rather quickly with Daniel deleting the release keys, in order to protect customers against harm and malicious intent.
+As of the current state, there are vague insinuations.
+Seems like James was able to get himself a/some (?)
+new developers and Daniel is working on a new endeavor that can't implode like this.
+Personally, I don't trust James and CopperheadOS anymore.
+They put word out that they've integrated a more recent monthly patchset, though the Git commit history shows nothing except some copyright string changes.
+It really hope Daniel makes a comeback with a custom ROM that targets security like CopperheadOS once did.
+I have my cash ready to make a major welcome donation :)
+It is a complicated job, that's why product designers are highly skilled and paid.
+I absolutely think Purism should rise to the challenge also, and hopefully after what is basically a first attempt at building an open source privacy focussed phone, they deserve some leniency.
+Personally, I don't care if it doesn't like compete with an iphone or samsung, I just hope it can deliver on its privacy promises, which is why 100% of my fellow early adopters have bought it.
+The fact that it doesn't have some silver rim or something around the edge was never going to be a factor in whether I bought it or not.
+Who cares.
+[deleted]
+http://talk.maemo.org/showpost.php?p=1548143&amp;postcount=7.
+How do you explain to others, particularly laymen, the importance of privacy?
+And how do you respond to the "if you have nothing to hide, you have nothing to fear" argument?
+Thanks for the AMA!
+I could answer this in a few sentences, but I would never be able to put it as well as Glenn Greenwald did at TED Global in 2014:
+
+[https://www.ted.com/talks/glenn\_greenwald\_why\_privacy\_matters?language=en](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters?language=en)
+
+&amp;#x200B;
+
+Incidentally, I remember the talk well because I was scheduled to take the stage right after Glenn spoke at the event.
+It was without a doubt a hard act to follow :)
+I think Edward Snowden said it most elegantly: "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say."
+That was brilliant, thanks for sharing.
++1.
+-1.
+That argument is so dystopic in a way.
+That’s a damn good Ted talk
+
+Thanks for sharing this.
+Lay people don’t understand that high level of thought.
+I say.
+“Do you shit with the door open in a public bathroom?” 
+
+“Well...no” 
+
+“Cool.
+How much money do you have in your wallet?
+Let me see.
+What do you have in your bank account?” 
+
+They usually start to understand then.
+The key is showing people that their understanding of what privacy means is flawed.
+They think it doesn’t apply to them because they associate privacy with criminals.
+We have to re frame the discussion.
+[deleted]
+With respect to the latter, I always ask if someone is okay with going to the bathroom (or having sex) with the door open to the public, and if not, why not?
+That usually gets them to understand what is meant by privacy for privacy's sake.
+Lol good point.
+I've had people unironically defend getting rid of free speech because some free speech is hate speech....
+State secrets exist for a reason though, hiding the identities of certain people such as spies in foreign countries is important to prevent people from being killed.
+Or you get, "If the government needs to watch me shit to stop terrorists doing another 9-11 then that's what they need to be doing."
+I’ve had this argument too.
+People have argued with me texts etc should be watched to prevent hate speech racism etc.
+is "9/11-ing" a toilet a thing?
+I am not sure i even want to know.
+https://en.wikipedia.org/wiki/9/11.
+[deleted]
+I highly recommend to also see https://www.youtube.com/watch?v=9CqVYUOjHLw&amp;frags=pl%2Cwn  A talk from Mikko Hypponen.
+Another one that seems to get the point across quite well:
+
+In the evening, do you close your curtains/blinds?
+*Why yes, of co...*
+
+DO YOU HAVE SOMETHING TO HIDE EH?
+Ask them why they close their curtains in the evening if they've got nothing to hide.
+That always makes them ponder.
+["I've got nothing to hide" and other misunderstandings of privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
+This is an abject failure of our educational system.
+Americans have been brainwashed by a certain news network into a complete misunderstanding of our Constitution and their own rights.
+Oh... if it was only *a certain news network*... there are more than one on both sides.
+Andy, how are you able to operate protonmail within mainland China without blocking from censors?
+Every single encrypted email service like tutanota is blocked in China but Protonmail works!
+Even ProtonVPN is blocked, but mail.protonmail.com works like a charm.
+(Hopefully not a CCP sponsored charm.)
+Do you have mainland Chinese servers that handle protonmail email and do you cooperate with Chinese authorities in any way?
+We do not have any contact with Chinese authorities.
+Our guess is that we are still too small to be on their radar.
+It is really impossible to speculate on how the Great Firewall (GFW) of China works.
+We have been temporarily blocked in the past, and there are no guarantees that we won't be blocked again in the future.
+In terms of techniques for circumventing the GFW, it is very much an arms race, and one that privacy tool developer are unfortunately losing right now, and unlikely to win given how the Internet works.
+Five million plus customers is not too small in my humble opinion.
+0% block rate in China over past 90 days is unheard of for any email service, especially one that promotes encryption and privacy:
+https://en.greatfire.org/mail.protonmail.com
+I visit China yearly and have never seen email services go un touched for five years or more.
+Honestly I would feel better if they blocked protonmail more often.
+I believe any internet service that works well within China only works because the state is allowing it.
+Why would China be allowing this?
+At worst, because they are colluding with ProtonMail and know that they can access anyone's emails if they are using it.
+I very much doubt this is the case, and so they must have missed out on blocking it.
+Perhaps some officials use it themselves.
+This is just wild speculation but maybe protonmail is being used by chinese bureaucrats and other people in the communist party to hide their own shady dealings?
+It might be "protected" by the people using it then...
+
+Or maybe I just need to take off my tin foil hat!
+Maybe it’s what those in power like to use over there for their privacy/e-mail?
+Like for example at my work everything is blocked (even LinkedIn), except Reddit for some reason.
+I always suspected that whoever decides what gets blocked at work is likely a big redditor.
+&gt;Perhaps some officials use it themselves.
+Wouldn't the officials have a way around the firewall?
+IT don't block Reddit unless they have a separate network or whitelisted MAC even then it's still under the radar so less likely to be blocked.
+Do you think it could be possible that the Chinese government has compromised protonmail's security protocol?
+You mean via VPN?
+That's illegal.
+&gt; 0% block rate in China over past 90 days is unheard of for any email service, especially one that promotes encryption and privacy
+
+https://en.greatfire.org/https/mail.tutanota.com.
+Wouldn't it be a shocking revelation if the powerful elite use the tools, services and products that they forbid for the commoners?
+Well if I was powerful in China, I wouldn't use an obviously illegal VPN.
+You could get caught, and corruption isn't taken lightly.
+But if I somehow influenced the censor and made sure ProtonMail is unblocked, I could use ProtonMail all I wanted and it's not illegal.
+I’m sure they could bypass the firewall w/o blanket allowing protonmail though.
+Or you could just get certificates for your devices from the government.
+I’m sure it’s not hard for someone with influence to justify needing access to the real internet.
+[deleted]
+A certificate wouldn't help you get past the firewall.
+(Not saying the government can't give certain people open internet access, just that it couldn't be a simple certificate)
+
+But you're right, there's probably some government VPN that authorized people connect to for open internet.
+However, that network will also be monitored.
+Point is they don’t need to allow protonmail across the board for officials to use it.
+You're not wrong.
+But if a Chinese official wants to **anonymously** use ProtonMail, it has to be accessable by everyone.
+That's why the DOD funded Tor, why Monero uses ring signatures for privacy, why Zcash isn't really anonymous.
+There's no anonymity if you are alone.
+There's only anonymity in numbers.
+Let's say ProtonMail was blocked.
+If a Chinese official uses it, he will be one of, if not THE only Chinese IP address connecting to them.
+It's very easy for the government to backtrace the official, especially if he's using their (monitored) network.
+On the other hand, since ProtonMail isn't blocked, there will be many people connecting to their servers.
+The government official will look just like another regular user from a regular ISP, and will go undetected.
+I can say that proton mail was blocked in China for a while this summer.
+If that was the purpose why would the ccp allow it then?
+Given Protonmail's CERN and MIT roots what can you say to reassure everyone that Protonmail is not a honeypot for intelligence agencies?
+I don't quite see the connection from CERN/MIT to intelligence agencies.
+CERN is very international and having special international organization status within Switzerland (like the UN), would actually be less susceptible to being unduly influence by any state intelligence agency.
+The question about trust however is a good one, and the short answer is that there is no way to be 100% sure, but there are some pretty good indications, and for that I prefer you to my previous answer here: [https://old.reddit.com/r/privacy/comments/5jlcoe/what\_makes\_you\_trust\_protonmail/dbi39cy/](https://old.reddit.com/r/privacy/comments/5jlcoe/what_makes_you_trust_protonmail/dbi39cy/)
+I found a fan of the old reddit website.
+There are more of us.
+New reddit is an eye sore.
+There is only reddit and new (shitty) reddit as far as im concerned.
+Also, I'm like 90% sure that half the reason the new site feels so sluggish is that it will be recording all keyboard presses and mouse movements when the page is active (like how Facebook does), so makes sense that a privacy conscious person would prefer the old site.
+Thank you !
+I think a really security conscious person would make an api wrapper and not use the reddit site for anything...
+Oooh, new project idea.
+I guess you could just install Android SDK and run any of the Reddit 3rd party mobile apps on your computer, but then you're trusting the dev of the third party app I guess.
+And you won't get native notifications and stuff.
+
+Summary: 
+I would pay for this.
+I once felt that way about Google.
+I don't like Chromebooks for the same reason.
+I have a Yubikey 4 and a Neo.
+I am not sure i even want to know.
+I carry a Keyone also, and for the same reasons.
+Though if you do use both, I think you can login with the same creds.
+Mozilla is one company I actually sorta trust.
+Blackberry is big on "security", not on privacy.
+It doesn't need to be better.
+I guess this would lead to a question to Dr.
+Let's say ProtonMail was blocked.
+Perhaps some officials use it themselves.
+&gt;Perhaps some officials use it themselves.
+It's also available right now, and is likely to be around for a while.
+One with a strong focus on privacy at its core.
+Honestly I would feel better if they blocked protonmail more often.
+I use it to store my OTP and a master password.
+It didn't really work for BlackBerry though.
+Would be a very good alternative for privacy concern users.
+Copperhead OS is about as close as you're likely to get.
+I can say that proton mail was blocked in China for a while this summer.
+What do you expect the Librem phone to look like?
+Brave is getting quite good.
+I have a Jolla, open source and brilliant UI.
+I made a custom extension for pretty much that reason.
+Personally, I don't trust James and CopperheadOS anymore.
+So, they really don't have a financial incentive here.
+I liked what they were trying but I didn't like that it was a browser-like system.
+I imagine a lot of your clients already use them and they have a great product.
+I very much doubt this is the case, and so they must have missed out on blocking it.
+While privacy is an important factor, it isn't the only one.
+That makes me really uncomfortable, personally.
+Why would China be allowing this?
+That always makes them ponder.
+It won't have memory access.
+I feel like the default new tab page is pretty good though.
+Well if I was powerful in China, I wouldn't use an obviously illegal VPN.
+I'd kill for a company to make an open source phone.
+Looking forward to your questions!
+So yeah, no expectation of privacy on the Keyone really at all.
+With both privacy and security, compartmentalization is SO important.
+Maybe it’s what those in power like to use over there for their privacy/e-mail?
+It was a pleasure to answer many of your questions, and I'm sorry that I was not able to get to all of them.
+Seems like James was able to get himself a/some (?)
+I found a fan of the old reddit website.
+Even ProtonVPN is blocked, but mail.protonmail.com works like a charm.
+It's customizable so I just have it set-up to only show the shortcut icons.
+There are more of us.

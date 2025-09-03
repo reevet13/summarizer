@@ -1,0 +1,9 @@
+Here is the summary of approximately 10% of the original text, up to 250 words:
+
+I *think* what I read was the processing part. I mean I can only assume that when our ear-drums are hit with vibrations from the air the brain has to process those vibrations to make sound. Just like when light falls onto our retinas the brain has to process it to make an image.
+
+One way the brain resolves this is through special areas of the brain called "association cortices". There are a number of them, and they compose of cells which receive information from a number of different sensory areas (i.e. auditory, somatosensory, visual, etc..). This helps in the *binding problem*.
+
+It takes time for your brain to process incoming information. If there is a point at which incoming information is "fully" processed, it is greater than 100 ms for both the visual and the auditory modalities.
+
+To put some numbers to sensory stimulation, it takes maybe 20-40 ms for auditory information to reach the neocortex (the "thinking, processing" part of the brain), and maybe 80-120 ms for visual information.

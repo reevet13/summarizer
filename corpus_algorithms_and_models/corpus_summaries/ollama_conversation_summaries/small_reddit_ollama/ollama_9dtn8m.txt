@@ -1,0 +1,9 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+Satellite signals are relatively weak when they arrive since they are spread over a huge area, but the satellite is usually the only signal emitting thing in the direction that the satellite dish is pointing, so it can receive the signal relatively easily. Two way communication isn't that difficult. Many satellite terminals are aimed by hand, and utilize fairly low power transmission (for Ku-band BUCs can be as low as 4W).
+
+The satellite network I operate, my two remote sites are transmitting back with signal powers on the order of 1W at C-Band. It all depends on your uplink data rate, antenna size, satellite performance, and the receiving antenna.
+
+GPS through cell phones isn't done with traditional satellites, actually it does. However, the cell towers can kick-start the locating process by feeding a relatively accurate time to the phone, and also feeding the local satellite ephemeris to the phone's chipset so that it doesn't have to download that off the birds.
+
+Satellite dish is needed only for high bandwidth needed for video transmission which is encoded with minimal error correction so that you can pack whole video signals into the bandwidth.

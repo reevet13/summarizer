@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the original text:
+
+As the title says I just swapped everything over to a new case for the first time and now my corsair h100i V2 pump is making odd noises and my cpu temp at idle is 75 degrees C. Any help would be appreciated thank you
+
+I believe so, they are blowing in the same direction and I cue says they are running at around 1500rpm
+
+No luck, the pump is still making noise and temps are up. Im dumbfounded
+
+The issue is probably within the aio then. You mention the pump is making noise, can you describe it?
+
+Ok you could of possibly loosened the cpu heatsink while moving cases. Can you check that the cooler and backplate is screwed in tightly.
+
+Right above cpu fan 1 there is a head called cpu_opt W_pump, I have tried plugging into that and another head on the bottom of my board called cha_fan3/W_pump with the same results.
+
+I can't think of anything else that would cause this. It really sounds like your pump failed. I'd suggest getting an rma from corsair.

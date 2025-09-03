@@ -1,0 +1,23 @@
+Here is the extracted summary:
+
+But, what if math wasn’t base10. How would that change things?
+It would make math more annoying but division and multiplication work the same way.
+
+Base# is different ways of expressing the same numbers.
+
+1001 apples in base 2 are as many apples as in base 10 and 0111 is just as indivisible as 7.
+I don't think it would change anything here.  From what I can tell, this is based on the order rank of numbers, not the digits.
+
+In base10 2x2=4
+
+Factorisation is not effected by base. The primes are in the same place.
+not at all.  doesn't matter how you count to 10, there are still 1010 of the things
+&gt; but division and multiplication work the same way.
+
+Just to clarify for anyone reading, literally everything would work the same way (except things referring to how the number is written, obviously).
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, a, b, 10...
+
+It wouldn't change anything. A prime number is a prime number in any base.
+
+The Babylonians were on to that whole sexagesimal thing...

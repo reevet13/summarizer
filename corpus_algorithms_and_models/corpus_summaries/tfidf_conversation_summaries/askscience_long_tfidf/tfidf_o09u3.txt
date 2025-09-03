@@ -1,0 +1,98 @@
+Original Response:
+Help me, please.  My father is an amateur conspiracy theorist (drug companies hiding cures, auto manufacturers suppressing inventions, etc.).  He found out about [this website](http://www.r-charge.net/kits.html) (and monopole generators in particular) and thinks that he has discovered something revolutionary, and wants to build his own.  
+
+Can you help me explain to him in easy to understand (andn non condescending) terms why this is not sound science?
+There are always a number of ways to debunk these kinds of devices, and perhaps someone will do so here.  However, your father sounds like the type who will not be swayed out of his beliefs.  As many people say on reddit, "you can't reason someone out of a belief that they didn't reason themselves into."
+
+Is there any big harm in him trying to build one himself?  In my opinion, this is the best way for him to see that it doesn't work.  Maybe he can even do some analysis to see *why* it doesn't work.  Lots of times, conspiracy theories survive on a lack of information.  If he builds it himself, and sees that it doesn't work, you can't really argue with that.
+Advertised on the right hand side of the website is the 'Bedini 3-Pole Monopole Kit'
+
+The word monopole means one pole.  
+
+That should be a good enough reason.
+
+That aside I read the page and I don't know what they're claiming the device does.  Is it supposed to be a perpetual motion device?
+
+EDIT:  Yeah, it's a perpetual motion device (yes that's the same as a free energy device).  No one will be able to demonstrate that it is really working.
+/r/skeptic may also be a good place to start.
+
+Infinite energy machines are impossible, and monopole magnets have yet to be demonstrated to my knowledge.  You can throw facts around all you want but that is the problem with conspiracy theorists, facts don't matter.  Any evidence against the conspiracy is simply fabricated by the conspiracy, so have an uphill fight ahead of you.
+Not only have we not found magnetic monopoles but we know that they would catalyze nuclear fusion if they did exist.  No one is expecting to find them.
+&gt;Is there any big harm in him trying to build one himself?
+
+Not that I can see after a brief glance at the webpage.  Fuck it, it's an opportunity for some father-son bonding time.
+
+
+&gt;you can't reason someone out of a belief that they didn't reason themselves into
+
+I've never heard that before.  That is a fuckin' awesome quote.
+
+
+EDIT:   spelling
+Except that most of these machines are NOT over-unity, but make it _seem_ like it when they act on forces most people haven't heard of.  If it needs to be plugged in, ask him "how long until it can power itself?" to make him think.  If it needs batteries, let it run till it dies then ask "why didn't it charge its own batteries?".  Make sure he gets the gist of what over-unity should really mean and why it's impossible.
+Monopoles are the Higgs-Boson!
+
+It's a conspiracy!
+Good point!  This is why I think its a good idea just to build the thing and see what happens.  You can really examine why it seems to work, or why someone would believe in it.  You have to understand what their misunderstanding is to be able to correct it.
+How would they catalyse fusion?
+Well played sir. Take an upvote.
+Just have a "free-energy believer" talk to your dad.  They know which sites are the con-artist ripoffs.
+
+In general, avoid buying anything from such sites, since the vast majority are **not** fellow FE hobbyists, but are evil scam artists.   Buying FE plans is a noob mistake.
+
+How will you feel after buying $70 plans, when someone points out that the exact same plans are widely published for free online?
+
+Oh, also your dad is not alone.  There are tens of thousands of similar hobbyists trying to find a working "free energy device."  Nobody has yet succeeded.  Odd effects have been found, but nobody yet can power their home.   If he wants to be the first one to ever succeed, he'd better not waste his time on anything that's already been tried by numerous others.
+I don't understand the process.  So many cold fusion enthusiasts make a big deal out of it that it's hard to find reliable information.  
+
+
+Take a look at page 7  
+http://www.osti.gov/bridge/servlets/purl/6265022-vA2YGM/
+So just go to Rex Research or other similar places.  They have vast quantities of online free plans for these devices.   Really, the number of ripoff "plans seller" sites is so huge, that if you buy plans online, almost certainly you were screwed, and they just copied the plans from one of the free sites.
+The Bedini devices really do "work," in that the voltage of the battery will rise during operation.  That's why there's so much continuing online bru-ha-ha about these crazy devices.
+
+If I say "just use an ultracapacitor in place of the battery," they change the subject and won't try it.  No doubt the capacitor voltage falls and falls, while the rising battery voltage is some sort of weird artifact of pulse-mode operation.  After all, you can't measure the stored energy of a battery from outside.  But with a capacitor, it's trivial.
+Why not just take a battery out and drain it while measuring voltage and current?  Do a little integration and there's your energy.  If it was initially charged in the same way then you could calculate the difference.
+Because if you do that, you find out that it isn't free energy. You then either stop going nuts about them on free energy forums and you focus your efforts on more productive hobbies or you dismiss the evidence with special pleading and continue trumpeting free energy to anyone willing to listen.
+
+Free energy is a sacred cow to the hardcore proponents on the internet. Such a simple proof of (insert your device)'s failure just falls on deaf ears. Remember the Steorn debacle from the mid 00s? In one of the ballsiest free energy stunts in recent memory, Steorn challenged a scientific panel to test their over-unity device. The scientists/engineers unanimously agreed that it failed their and created no energy. Did any steorn fanboys listen? Nope. They started paying [fees](https://kdb.steorn.com/legal/developer/tos.html) to be a part of the exclusive, closed-door development community.
+Yeah, I was just saying that you can measure the energy stored in batteries.  I know free energy is bullshit.
+As I said, if I suggest using a capacitor, they just change the subject and won't try it.
+
+&gt; Why not just take a battery out and drain it while measuring
+
+Doesn't work.
+
+If you draw pulses from a lead-acid cell, the total energy increases because pre-existing large sulfate crystals get broken down.  FREE ENERGY!   No, actually it was from chemical energy lost during charging cycles long ago.   And with non-lead cells, drawing large current pulses can eat into the plate structure, damaging the cell yet releasing stored energy.  (The cell isn't supposed to extract all chemical energy and dissolve its plates entirely!)
+
+Why not just try a capacitor?   Because the capacitor energy really is proportional to voltage, and it would instantly show whether the "excess energy" was real or not.
+Yeah, if they built custom cells using metal films as the plates.  That way you could totally charge and discharge the battery in a couple of minutes.
+This is an excerpt from that website. If after reading this he didnt laugh and close the browser tab, then nothing you say can convince him.
+
+"The system uses a unique patented process that creates a negative resistance process in the batteries themselves, where the batteries are usually constantly connected in series to the primary powering bank where it is clearly seen that such primary battery bank could not charge the secondary batteries. This further amazes the observer when the secondary battery banks can be 10 times the voltage of the primary banks or where they can be replaced with small 1 ohms resistors with it remaining cool under motor operation. "
+Layman here. If super-conductivity = zero resistance, what the hell is negative resistance?
+
+Sorry if this was a stupid question.
+Try to convince him to treat it as an experiment. If he's not willing to ask the question of whether or not the device works, try to ask how efficient or effective it is (and end up showing a negative number). There should be a gold standard test that, before building and beginning to use the machine, both of you agree would demonstrate that the machine actually works. To really practice your scientific method, work hard on designing that experiment so that both of you trust its results and simply expect opposite things. Then whichever expectation fails to hold will need to be deeply examined.
+
+And then you can submit this to the next AskScience Fair!
+Well if I=V/R, and R &lt; 0, then you're just going to get backwards current from what you would expect. So if you have a simple battery (roughly modeled as a constant voltage source in series with an internal resistance) hooked up to a negative resistor, you have current flowing through the battery the wrong way and it probably blows up and leaks battery acid and you have to throw out that remote control now. Gross. So negative resistance doesn't help.
+Haha ok fair enough. In physics terms though, is it safe to say that we've yet to create a material that displays zero, let alone negative resistance?
+Oh yeah like a billion percent fair to say that. Oh man. That would be just...It'd be like a hill with negative slope no matter which way you went up it but was somehow not a crater. Or like a reverse waterfall.
+Correction! I earlier said that you would mess up the battery and it would explode. Incorrect; my bad. When you run current backwards into a rechargeable battery, you charge the battery. So this negative resistor would charge the battery in this simple circuit. This is a perpetual motion machine. Can't be done.
+
+And a better physical analogy for this impossible negative resistor: think of it as an M.C. Escher staircase, and you're putting a slinky on it to get infinite energy. Silly.
+
+Summary:
+Yeah, I was just saying that you can measure the energy stored in batteries.
+I know free energy is bullshit.
+The Bedini devices really do "work," in that the voltage of the battery will rise during operation.
+If he builds it himself, and sees that it doesn't work, you can't really argue with that.
+Why not just try a capacitor?
+So negative resistance doesn't help.
+So this negative resistor would charge the battery in this simple circuit.
+No one will be able to demonstrate that it is really working.
+Because if you do that, you find out that it isn't free energy.
+No one is expecting to find them.
+Why not just take a battery out and drain it while measuring voltage and current?
+There are tens of thousands of similar hobbyists trying to find a working "free energy device."

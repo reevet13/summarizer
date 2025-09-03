@@ -1,0 +1,104 @@
+Original Response:
+First, it's dominant alleles. We all have the same genes, but different versions of those genes. Second, because the alleles giving us brown eyes are dominant, it means only one copy of that allele will produce brown eyes. So if someone has brown eyes they could have one brown eye allele (let's cal it B) and one "other color" allele (let's call it b). If two Bb people hook up there's a one-in-four chance that any one kid will have not-brown eyes, as that kid will have two "b" alleles for that gene. 
+
+Some of the confusion about this may be that "dominant" in the genetic sense, does not mean the same thing as "selected for". As long as the presence of the allele doesn't adversely effect one's ability to procreate then there's a finite probability that that allele will propagate across generations. Dominant just means that the trait produced by that allele only needs one copy of the allele so that it will be expressed.
+No. Because when alleles mix they are not inextricably altered, a person with both a dominant and a recessive allele is able to pass on either allele to his progeny with an equal probability. Unless society selects for one of the alleles, meaning people will be more likely to mate with a person with a certain phenotype thus decreasing the total frequency of an allele, then the relative concentrations of dominant and recessive alleles will remain the same.
+Also, there are quite a few homozygous dominant, embryonic lethal alleles, that coincidentally are closely linked with other phenotypic traits.
+The [Hardy-Weinberg Principal](http://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle), yes?
+
+Which, BTW, precludes any sex selection for one phenotype over another ... which may be true on average, but I don't know that we can assume so.
+Hardy weinberg is just a simple formula predicting the phenotypic ratios of population given random mating and no sexual selection. The two laws governing this are Mendel's law of independent assortment and law of segregation.
+
+**edit** - thanks Freak705.  Typo.
+But with a recessive allele you need two to show the phentotype. Doesn't this mean the recessive alleles will become progressively rarer over time, or should the occurance of the recessive phenotype stay the same if we ignore sexual selection?
+Correct, and when you have only one, the allele becomes hidden by the dominant allele. The recessive allele **reappears** when the heterozygote mates.
+&gt; Doesn't this mean the recessive alleles will become progressively rarer over time
+
+No, allele frequency is not a function of whether they're dominant or recessive. 
+
+&gt;  or should the occurrence of the recessive phenotype stay the same if we ignore sexual selection?
+
+It should stay the same if we assume no selection of any kind, and purely random mating. Neither of which is probably true in practice, but that has nothing to do with dominant/recessive alleles.
+Sexual selection could be in favour of either a dominant or recessive trait, no? 
+
+&gt;But with a recessive allele you need two to show the phenotype.
+
+Yes, but if you have one recessive allele and some other allele, regardless of your phenotype, you still have the two alleles and can pass either on.
+
+A different example could be blood grouping. Your phenotype can be rhesus positive or rhesus negative. It's based on two alleles - one from each parent. If you have a child you will pass on one of your alleles to it, and there is equal chance of passing on either of the two.
+
+Negative is the recessive one, so to show as negative you will need alleles --
+
+Positive is dominant, so to have that you just need at least one allele that is a '+'. The other allele might also be a '+' but it could be a '-'.
+
+So someone who is rhesus positive *could* have a '-' allele hiding away, and if so they would have just as much chance of passing it on as their '+' allele.
+
+Someone who is rhesus negative has --, and they can *only* pass on '-'
+[deleted]
+Imagine a hypothetical world where there is a "dark" (D) allele and a recessive "light" allele (d).  In all the world, summed together, we have 70% of all the variants of the gene are D and 30% are d.   Initially, these two alleles are separated into two populations - DD and dd.   
+
+Then imagine that we just mixed everything together and people reproduced freely. 
+
+With no selection on either allele, the ratio of D to d - 7:3 is going to stay the same.  The recessive allele will not disappear.  The recessive phenotype (dd) will occur at d^2 (.3)^2 = 9% of the population.  So long as no selection happens in this hypothetical population, it wouldn't change because allelic frequencies are not changing.
+Lethal alleles?
+I think it would be clearer to say the recessive *phenotype* becomes hidden and reappears; the whole confusion of this thread is that the frequency of the *allele* is expected to stay constant unless something nonrandom acts on it.
+&gt; homozygous dominant
+
+??? If they're dominant, they're dominant in the heterozygote too.
+
+&gt; closely linked with other phenotypic traits
+
+If it's a dominant embryonic lethal, it can't exist enough in the population to be linked with anything.
+
+Did you mean *recessive*? Not sure I understand the relevance of this either way, though.
+Yeah, kinda, if you just mean the principle that you always expect a nonzero fraction of homozygous recessive genotypes (i.e. individuals who express the recessive phenotype) *if the population is at equilibrium*, but sexual selection is just one of several forms of selection and other forces that cause disequilibrium.
+&gt; Unless society selects for one of the alleles
+
+There are a lot of other forces besides society that can cause selection.
+
+&gt; meaning people will be more likely to mate with a person with a certain phenotype thus decreasing the total frequency of an allele
+
+Nonrandom mating that causes disequilibrium doesn't even have to be selection. Maybe dark-skinned people are just disproportionately likely to mate with other dark-skinned people, and light-skinned people with light-skinned people, e.g. because they live on the same continent. But even this (by itself) won't change the allele frequencies, just the diploid genotype frequencies.
+
+EDIT: but "no" is still the correct answer.
+Wanton speculation, but sexual selection seems the most obvious cause of selective pressure if we're talking about eye, hair, and skin color among humans, what with vitamin D supplements and sunscreen.  But you're quite right.
+Most of the world does not have vitamin D supplements and sunscreen.
+I think he is talking about the textbook example of how [certain alleles](http://en.wikipedia.org/wiki/Agouti_gene) are dominant and non-lethal in heterozygous genotypes but are lethal when the genotype is homozygous for the dominant allele.
+"Dominant" wouldn't seem to be the right terminology for that; I'd call it a gene dosage effect.
+Even supposing that all recessive traits are phased out over time, there are still genetic anomalies and mutations that would form later, and new dominant/recessive traits would be created.
+[deleted]
+Dominance doesn't work to *destroy* recessive alleles; people with a recessive allele are still carriers. This is a fundamental part of the wonder of sexual reproduction: organisms carry alleles which they never manifest and only pass on to a subset of their offspring.
+
+Incidentally, skin color, eye color, and hair color aren't mendelian traits where a single gene with one perfectly-dominant allele controls the phenotype. The list of human traits thought to be controlled by a single gene is [somewhat short](http://en.wikipedia.org/wiki/List_of_Mendelian_traits_in_humans).
+Most of those without vitamin D and sunscreen do not have light skin.
+Likely true, but I feel much safer asserting that the populations where these alleles are intermixing, ie, places where the blue-eyed are reproducing with the brown-eyed, are almost certainly places where vitamin D supplements and sunscreen are commonplace.
+and do not spend most of their day under artificial lighting.
+The allele itself isn't lethal, but having two copies of it is. So it's dominant for its original trait, but recessive for lethality.
+I think you mean Mendel, not Darwin
+No. Dominant genes don't get passed on more, they just get expressed more. We have to distinguish between genotype (the genes you get from your parents) and phenotype (the traits that those genes result in). You can have mixed genes and thus display the dominant trait even though you will pass on each gene equally often.
+[deleted]
+fixed it.
+If you want an example to think about concerning this idea, consider deadly diseases. Genetically inherited diseases can be either dominant or recessive, just like many other traits, and if you look at which diseases remain in a population, you'll probably find that recessive ones will be more likely to persist. This might seem odd, but if you think about it, the fact that the disease is recessive allows for situations where the allele corresponding to the disease state can "build up" in the population without simply wiping it out, as a dominant one would. Two things, this is a basic way of thinking about the situation, and also, of course the things you mentioned aren't deadly. It's just an illustration that recessive alleles remain prevalent in a population. Another side note, some of these traits have multiple gene loci associated with them, such as skin color, which makes it even less subject to the simplest dominant-recessive genetics.
+The main point that dominant alleles aren't passed on more often, just *expressed* more often has already been well made. What is passed on more often are *advantageous* alleles.
+
+An interesting side point is that while alleles conferring low fitness will become less and less common in a population over time, they will only "go extinct" if they are *dominant*. This was pretty counter-intuitive to me at first, until I got to the next sentence in the text book. The recessive, disadvantageous allele will be masked in heterozygotes and consequently not selected against. It is likely to survive at a low frequency for a very long time until it is lost by chance.
+I get that is works for eye color where you can have brown, blue or green. However, the skin color of all mixed race people that I know seem to be a combination of their parent. A child with 1 black parent and 1 white parent comes out brown or tan (in the middle). The same goes with an Asian and white parent (in this case the girl with Asian and white parents had light brown hair instead of black). With a long enough timeline (thousands of years) and more mixing of races each year, wouldn't all humans start to become the same color?
+Great explanation. It's not too wordy and it gets the point across with plain language. Well done.
+It is perfectly possible (though rare) for two half black/half white people to have a child that appears all white.  Skin color is also not determined by just one gene.  I don't think we know all of the genes, to be honest.  Eye color also isn't determined by one gene even though it follows a pretty straightforward dominant/recessive single gene pattern.
+&gt;Doesn't this mean the recessive alleles will become progressively rarer over time
+No, allele frequency is not a function of whether they're dominant or recessive.
+
+why?
+
+Summary:
+The recessive allele will not disappear.
+Sexual selection could be in favour of either a dominant or recessive trait, no?
+The recessive allele **reappears** when the heterozygote mates.
+If they're dominant, they're dominant in the heterozygote too.
+&gt;But with a recessive allele you need two to show the phenotype.
+It's based on two alleles - one from each parent.
+The allele itself isn't lethal, but having two copies of it is.
+Skin color is also not determined by just one gene.
+So it's dominant for its original trait, but recessive for lethality.
+The other allele might also be a '+' but it could be a '-'.
+&gt;  or should the occurrence of the recessive phenotype stay the same if we ignore sexual selection?

@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Water hydrates a nine by nine area around itself and a level below.
+They don’t. Water just doesn’t need to be adjacent, top comment is incorrect.
+Water has never needed to be adjacent to the crops afaik, it’s just a 9x9 square centered on the water and extending one block below it.
+Yeah, less known trick but that's how it's working in this post. The water is in the "barrel" but the ground-level ones are still being hydrated as well as the ones on the same level as the water.
+Neat! I was just assuming that the water was following down into a 1x1 space to hydrate the bottom crop

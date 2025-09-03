@@ -1,0 +1,7 @@
+Here is a summary of approximately 10% of the text:
+
+It depends on a lot of factors, though I'm afraid I can't give you numbers.
+
+For example, there are some gene expression cascades that go through many intermediates--receptor to second messenger to long kinase cascade--and which also require the methylation/acetylation state of the histones and DNA in the region of the gene to be changed and polymerase to be recruited before transcription can begin--
+
+Alternately, there are systems in some organisms that involve only one or two steps and have the DNA waiting in an "open" conformation or a polymerase already "poised" at the site.

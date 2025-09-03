@@ -1,0 +1,9 @@
+Here are the selected sentences, up to 250 words:
+
+1. Fast RAM is preferred. 2666-3200 MHz is the sweetspot. In the 3000's and onward, there are diminishing returns.
+2. Samsung B-Die RAM is preferred due to its timings. While RAM designed for Intel CPU's will still work, you want to get RAM that is designed for Ryzen.
+3. Older motherboards might need a 1st gen Ryzen CPU inserted into it before a 2nd gen one can be. AMD does lend basic CPU's for this purpose, but it's recommended to just verify that a motherboard has been updated to 2nd gen.
+4. If the X-series of a CPU is only $10-20 more, I say it's worth it for a lot of people because the time you save by not having to micromanage overclocking settings and stress test is also worth money to.
+5. An aftermarket cooler will help you if you want a silent PC or strong overclocking, but if you're not looking for either of those things, the stock coolers that come with Ryzen CPU's are fine.
+
+Note: I stopped at sentence 5 to keep within the 250-word limit.

@@ -1,0 +1,3 @@
+If E=MC2, then this energy must come from a reduction in the mass of the atoms, but what exactly is lost?
+From the mass energy equivalence we know that the mass of an object is not just the mass of its constituent particles, but also the energy that binds them together.
+It isn't just fusion, this applies to all energy releasing reactions.

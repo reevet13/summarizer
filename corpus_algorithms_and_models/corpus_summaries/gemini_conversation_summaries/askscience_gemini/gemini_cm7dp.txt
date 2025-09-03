@@ -1,0 +1,2 @@
+The example in the opening paragraph of stereochemistry in my book is: fumaric acid (a metabolic intermediate) and maleic acid (toxic) are the same except that fumaric acid is a trans isomer and maleic acid is cis.
+An example of atom substitution affecting biological activity is acetic acid (in vinegar) and [fluoroacetic acid](http://en.wikipedia.org/wiki/Fluoroacetic_acid) (poison).

@@ -1,0 +1,17 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+A sidereal month is 27.321661 days and the moon's orbital period is 27.321582 days.
+
+This means that each lunar month rotation of the moon around the earth we should see the moon rotate (27.321661-27.321582)*360 =0.028 degrees. A very small amount.
+
+Someone checking my maths would be great!
+
+EDIT: confused synodic and sidereal days earlier, now fixed, but the numbers are still right...
+
+The orbital and rotation periods of the Moon aren't constant over a long period of time. The Earth rotates faster than the Moon orbits, so the tidal bulges on Earth [lead the Moon by a small amount.]
+
+As the Moon drifts away, its orbital period increases.
+
+I'm not entirely sure what effect this has on the rotation rate of the Moon...
+
+The Moon's rotation may still be slowing down slightly, I'm not sure. Maybe someone else can shed some light on that.

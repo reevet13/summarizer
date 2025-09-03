@@ -1,0 +1,76 @@
+Original Response:
+So I have a very vague idea of how magnetism works. One of the things I remember is that two parallel currents will atract each other such that for example two wires with identical currents running through them will exert a force on each other pulling them together.
+
+Now at a particle level, say we have two electrons or identical ions traveling parralel to each other in a vacuum. Now as far as my understanding goes, in adition to the electrostatic repulsive force, there will also be an atractive magnetic force between them. However, my knowledge of relativity also tells me that since all frames of reference share the same physical laws and properties, if we take a frame of reference moving at the same velocity as the particles, the particles are relatively stationary and the magnetic force disapears leaving only the electrostatic force. The only resolution I can think of for this is relativistic time dilation... or there is some error in my thinking.
+
+So my question is, what exactly is going on with that?
+A wire is overall electrically neutral, so you have to model both the positive and negative ions.  E.g., if in lab frame you have stationary positive charge, and leftward moving electrons in both wires, they will attract in the lab frame due to the arising magnetic field.
+
+If you switch to the leftward moving frame (moving with the electrons), all of a sudden it appears that all the positive charge in the wires are moving rightward, even though the electrons are now stationary (as the positive ions previously were).  As this becomes a parallel current, they still are attracted to each other.
+So is there no magnetic force with single particles or what? What happens when you get rid of the positive or negative sets of charges? does that eliminate the magnetic effect?
+&gt;So is there no magnetic force with single particles or what? 
+
+A magnetic field is created by all moving charged particles.  However, there is also an electric field created as well.
+
+&gt;What happens when you get rid of the positive or negative sets of charges? does that eliminate the magnetic effect?
+
+It won't eliminate the magnetic effect, but the force of magnetic attraction would be overwhelmed by the electrostatic repulsion of the wire.  
+
+The force per unit length between two wires is F/l = mu0 I^2 / 2pi d.
+Let's say d = 10cm, and I = 1A is F/l = 2*10^-6 N/m.
+
+Let's say you have two wires that have 100 cm part of them that run parallel to each other, the attractive force between the parallel part is about 2*10^-4 N.
+
+Let's say you had two 1mm diameter wires of copper that was 100cm, and somehow got rid of all the positive charge in these wires.  In the wire you would have about 10^24 electrons [[1]](http://230nsc1.phy-astr.gsu.edu/hbase/electric/ohmmic.html#c2).  To do a rough calculation (too lazy to do the actual integrals and only need order of mag result), consider the two wires as two point particles 10cm away from each other, the repulsive electrostatic force is F = (1/4pi eps_0) q^2/r^2 ~ 10^22 N, that is a 100 000 000 000 000 000 000 000 000 stronger force.
+Yes... but the magnetic force is still there in the stationary frame of reference but not in the frame of reference moving along with the electrons, and the equations always have to balance out between static and non static cases. Is it being balanced by time dilation or some other relativity thing or am I barking up the wrong tree here?
+&gt;Is it being balanced by ... some other relativity thing
+
+Yes. The Lorentz transformations for electric and magnetic fields are such that if you change to a frame with no magnetic forces, the electric field will increase proportionately. The net effect will be that the physical force, and thus the acceleration, will be identical in both frames.
+
+For reference, Wikipedia appears to have terrible to nonexistent coverage of the Lorentz transformations of the E and B fields (or, equivalently, the F_uv tensor), though maybe I'm just looking in the wrong place. A reference I know you can trust is chapter 12 of Griffiths' textbook on electromagnetism.
+Yup.  Electromagnetism is one phenomenon that appears as an e-field or b-field depending on the frame of reference.
+
+Griffiths E&amp;M is a great reference for this, but here's the wiki entry:
+http://en.wikipedia.org/wiki/Classical_electromagnetism_and_special_relativity
+Fucking magnets, how do *they* work?
+
+EDIT: oh, come on, somebody had to do it.
+Two *anti*parallel currents(in opposite directions) attract, two parallel currents to the same direction oppose.
+
+You cannot balance the forces of your two streams of charge. let λ1,λ2 be the charge densities and v1,v2 the speed of them, the force between the streams becomes
+
+    F= λ1 λ2 /2πεr + μ λ1 v1 λ2 v2 / 2πr
+    0=F   =&gt;   1 /εμ = c² = -v1 v2
+
+But the lengths of both v1 and v2 must be smaller than c, so it isn't possible.
+
+Back to why parallel currents oppose; it is easy to get confused in the sign. However, one can make it easier by thinking of the energy of the magnetic field, the density of which goes with B². If they're parallel, the magnetic field goes round the same direction, so (because of the square) the energy goes up when they get closer. If they're antiparallel, the B-field goes down, and becomes zero when the two currents overlap. (Using the [right hand rule](http://en.wikipedia.org/wiki/Right_hand_rule) and then the left-hand rule concurs.)
+
+Edit: Guess i am a fuck up.. confused though.. I thought the energy of the field tends to go down.. Maybe it has to do with that you cannot integrate the field over space.. (limit doesn't)
+So your saying that as the total force between two antiparallel streams of charge aproaches zero as their speed aproaches c?
+I guess that is implied from the equation. I think it is because F= λ1 λ2(1 +  v1 v2/c²) /2πεr, close to c the v/c ratio goes to 1 and the line charge and 'magnetic line' start to look alike.
+
+I intended to just look at what conditions would make the force zero; making two straight streams possible. If the two streams are possible, the question arises how the force remains the same from different frames of reference. But it turns out it isn't possible in vacuum.
+I supose i could restate the question as how strong a B field would be required to keep the two streams stable, or consider the properties of such a thing ocuring in just an instant.
+Miracles.
+
+(And you don't wanna ask a scientist, the motherfucker's lying, and will only make you pissed).
+Parallel currents attract.  Do your right hand rules again.
+
+Say you have two wires going into the page
+
+x
+
+x
+
+The magnetic field generated by the top wire, goes clockwise by the right hand rule, so at the location of the bottom wire it is going leftward.  Now, F = I**L** x **B** (x for cross product).  If we define our coordinate axis with out of the page as i-hat, rightward as j-hat, and vertically up as k-hat, we get the direction of the force on the bottom wire as (- i-hat) x (-j-hat) = k-hat, which is vertically upward.  Thus the force is an attractive force.
+
+Or you can just look it up that parallel wires attract [[1]](http://en.wikipedia.org/wiki/Magnetic_field#History).
+
+Summary:
+So is there no magnetic force with single particles or what?
+A magnetic field is created by all moving charged particles.
+does that eliminate the magnetic effect?
+Thus the force is an attractive force.
+You cannot balance the forces of your two streams of charge.
+&gt;So is there no magnetic force with single particles or what?

@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text:
+
+Yes, it is possible.  Just as reducing the pressure of a fluid will lower the boiling point of the fluid.  By increasing the pressure you can prevent the liquid from changing phase.
+
+Is it correctly understood that if I put a bottle with water in it in the freezer at aprx. -10 celcius then it will exert up to about 1000 bar on the bottle? so if I had a bottle that could withstand 1100 bar then it would not break and if I had a bottle that could only withstand 900 bar then it would break?
+
+No, lower pressure results in a lower boiling point for liquids.
+
+You're right, I got what ngregge said completely backwards; I thought he was saying reducing pressure increases boiling point and that pozitron was saying reducing pressure reduces boiling point when it was the other way around. That was stupid of me.
+
+pas de problème

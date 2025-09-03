@@ -1,0 +1,2 @@
+The fastest that this disk could spin would be the speed where the OUTER most part of the disk is going near the speed of light and everything interior to the outer edge would be going slower.  
+what you describe is the classic [Ehrenfest paradox](http://en.wikipedia.org/wiki/Ehrenfest_paradox). wikipedia goes to lengths to explain all the issues and resolutions involved in the thought experiment.

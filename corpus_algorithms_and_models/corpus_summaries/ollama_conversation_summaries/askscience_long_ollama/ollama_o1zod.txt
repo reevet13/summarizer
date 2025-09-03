@@ -1,0 +1,13 @@
+Here is the summary of up to 250 words:
+
+A [null hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) is really useful when you are using statistical tests to determine significance. Like a [t-test](http://en.wikipedia.org/wiki/T-test) or using a [p-value](http://en.wikipedia.org/wiki/P-value).
+
+An example would be giving someone a drug to reduce blood sugar. You have two measurements. Initial blood sugar and blood sugar after giving the drug. The null hypothesis (H_0) is that the initial blood sugar - blood sugar after giving the drug = 0.
+
+No. You have a null and an alternative.
+
+There is always a null hypothesis. If a frequentist: thing A is no different from thing B. Or, thing A is no different from 0 or no different from the population mean. If Bayesian... it gets weird.
+
+You can only reject H0. When H0 is rejected, you are only left with H1. **But that doesn't mean you accept H1**. There is no accepting. Only rejecting (in nearly all cases).
+
+I hope this helps! Let me know if you have any questions or need further clarification.

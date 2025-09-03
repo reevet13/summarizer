@@ -1,0 +1,7 @@
+Here is the summary:
+
+I can imagine how electrical current could light up a light bulb.  But to use an electric car as an example,  I can't visualize electrical current causing the huge physical forces that these motors produce.  How does this work?
+
+Get a magnet, a battery, and some wire.  Put the magnet near the wire, then connect both ends of the wire to the ends of the battery.  The wire should jump or move.
+
+This is because a current generates a magnetic field.  If you coil the wire up, you multiply the magnetic field from the wire.

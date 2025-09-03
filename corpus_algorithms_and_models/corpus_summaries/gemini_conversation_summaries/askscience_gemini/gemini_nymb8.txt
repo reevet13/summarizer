@@ -1,0 +1,45 @@
+Nope, the lorentz factor will continue to increase as the velocity of the object approaches the speed of light allowing the momentum to tend towards infinity but the velocity itself will never exceed (or reach) c assuming the object has mass.
+Nope; nothing can be made to go from a speed less than light to one greater than light (or vice versa).
+This is built directly into the structure of general relativity, which *is* our theory of gravity.
+"Black holes are regions of spacetime from which nothing, not even light, can escape.
+A typical black hole is the result of the gravitational force becoming so strong that one would have to travel faster than light to escape its pull.
+Such black holes contain a spacetime singularity at their center; thus we cannot fully understand a black hole without also understanding the nature of singularities."
+Nope. Nothing that has mass can reach the speed of light.
+Exactly
+If you take the common rubber sheet analogy, then you can visualize that the curvature of space is caused by the presence of a massive object (an analogous bowling ball sitting in a rubber sheet causes the sheet to deform).
+The only way to straighten the sheet is to remove the ball.
+Interestingly, objects moving away from a singularity do exceed the speed of light.
+If we assume the big bang began in a singularity, then galaxies are currently receding away from each other fast than the speed of light "away" from the singularity, if not in space then in time at least.
+This is due to the expansion of space itself, so it doesn't violate GR.
+Some of the answers here are slightly misleading so I want to clear up one thing:
+
+If I am very far away from a black hole, and I drop an object into it, I will never observe it to cross the event horizon.
+I will see the object fall asymptotically to the event horizon for the rest of time.
+There aren't exceptions.
+The mathematics of space-time fully permit objects to travel faster than the speed of light in an unambiguous way.
+If an object exists slower than light (and has mass) it can never travel at the speed of light or faster.
+If it exists faster than light (outside of the light-cone) it can never slow down and travel slower than the speed of light.
+Exactly. Mathematically you *can* describe tachyons, though we have some very strong reasons to suspect they're impossible in practice.
+And they would have more or less the opposite properties of massive (v&lt;c) particles, one of which is that much as a massive particle can never be accelerated to the speed of light, always reaching it asymptotically, a tachyon can never be *slowed down* to the speed of light, though it has no theoretical speed maximum.
+That *is* interesting, yes!
+That's true, but there are very good reasons to think that tachyons can't exist, besides just "Einstein didn't like it."
+Violation of causality is one.
+From a quantum perspective, tachyonic modes (and their cousins, closed timelike curves) are pretty much always unstable, suggesting that particle physics has its ways of protecting chronology.
+light passing very close to the event horizon of a black hole and in the direction of its rotation can **appear**, to a distant observer, to travel faster than the speed of light.
+but nothing ever truly violates causality.
+If we somehow manage to generate a black hole in front of a spaceship (or other object, satellite, etc...) and can control it's size and all, would it allow the spaceship to travel faster then light?
+Since it doesn't really move "an object" but the spacetime around it too...
+Is this hypothetically possible?
+No, it can't.
+That's not *quite* right.
+Something massive can't go at the speed of light, but if it can instantaneously gain or lose speed, say through some totally inelastic collision, it can "switch sides" of the light speed barrier.
+I don't know of any way that such a collision could happen, though, since macroscopic objects collide and bounce through electromagnetic force, and I'm a bit fuzzy on how particle collisions work.
+Actually, yes it can.
+According to the theory of general relativity, any object can move at the speed of light relative to another object.
+It doesn't actually go at the speed of light, but it appears to do so.
+Does this mean that the muon neutrinos from CERN has now been officially debunked?
+Or are you just playing the safe odds and counting on it being wrong?
+How are the things that are traveling at the speed of light not exceptions to "Nothing can travel the speed of light"?
+I don't think you and I disagree on anything.
+No, it just hasn't yet gotten any supporting evidence nearly compelling enough to make you believe the results.
+Like I said,

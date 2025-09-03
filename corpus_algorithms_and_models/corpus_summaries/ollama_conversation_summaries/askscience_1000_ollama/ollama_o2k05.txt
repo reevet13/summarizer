@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words:
+
+On a flight between Warsaw, Poland and Montreal, Quebec(Canada), I recorded a glass of wine vibrating/resonating in such a way that the fluid appears to be spinning counter clockwise, or at least the pattern appears to be. Can anyone explain this? Could this be related to the Coriolis effect?
+
+It's the vibrations from the plane setting up standing waves in the glass. Something like this: http://www.youtube.com/watch?v=5xboAs4WlGg&feature=related
+
+The shape of the container at the surface (is in a round glass or a square glass) will change the pattern you see, most prominently near the boundary between fluid and container. But the bottom of the container likely won't make an impact. Faraday waves are a surface effect.
+
+&gt;However theoretically, if you were able to keep a barrel of water unperturbed and bring it from the north pole to the equator it would start to slowly rotate due to potential vorticity.
+
+Is there a name for this effect?

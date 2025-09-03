@@ -1,0 +1,13 @@
+Here is a summary of the text, selecting sentences verbatim and up to 250 words:
+
+Opened the computer, unscrewed the cooler, and after removing it, noticed the cpu was gone. So I looked under the cooler, and there it was, very firmly stuck.
+
+I had to spend a good ammount of time heating them up with a hair dryer to make it budge and removing it.
+
+Then I put the cpu back in its socket, after removing the remaining thermal paste and applying a new one. And I tried to install the cooler, and did it wrong, so I removed it and the cpu was stuck to it again, though this time it was easy to unstick.
+
+I really don't know what to do. Is it the power supply that stopped working for seemingly no reason ?  Is it the cpu that's too damaged and the mobo that stops even the psu from running when it doesn't detect a cpu? Is it something else?
+
+As long as the CPU has no bent pins (probably not if it still inserts just fine), you should be good.
+
+Turns out it does. And the pins are pretty microscopic on that cpu, I don't think I can repair them, a credit card can't even fit between the rows of pins.

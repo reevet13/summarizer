@@ -1,0 +1,24 @@
+Original Response:
+You can see the evidence pointing out to gravitational pull of black holes of energy or mass, there's no question there. But how did we come up with time being sucked in and non existing inside such a black hole?
+relativity
+Could you please elaborate this a bit?
+sorry. I don't really understand it much myself, but I know its based on one of the theories of relativity
+Ok, we'll wait for someone who's well into the subject.
+Black holes are a prediction of general relativity. As a theory, general relativity starts from the premise that the speed of light is the same in all reference frames, and goes from there. A natural result is that space and time are related to one another, and interact in interesting ways. It also goes further and relates gravity to the curvature of space.
+
+We have verified general relativity in many many different ways, finding that it is completely correct in its description of how time is affected by relative velocity, and in how massive objects should show effects such as gravitational lensing.
+
+Since general relativity works in every situation we've managed to test, and it predicts and describes the observed phenomenon of black holes, we have no reason to doubt that its description is correct. Actually doing the maths is extremely complex, but the end result is that time and space go a bit wacky.
+
+I'm not sure about the accuracy of your particular statement ' time being sucked in and non existing inside such a black hole'. This might more or less work as a very hand wavy layman explanation of what's actually going on, but I'm not even sure it's accurate in any meaningful way.
+[deleted]
+&gt;But how did we come up with time being sucked in and non existing inside such a black hole?
+
+This is a mathematical observation of general relativity. To put it roughly, the math says that as we cross the event horizon events cease being separated by time, but start being separated by distance. We also lose the idea of causality.
+
+This happens because the object we use to measure the distance (in both time and space) between two events changes from being time-like to being space-like. These [terms are explained here](http://en.wikipedia.org/wiki/Spacetime#Spacetime_intervals). Space-like intervals are very different that the time-like ones you and I experience. In our world two separate events must always be separated by a time interval, but they may happen at the same position. In world with space-like interval, separate events can happen at the same time, but never at the same position. Postion now has the inevitable flow that time does in our world.
+[deleted]
+
+Summary:
+Black holes are a prediction of general relativity.
+But how did we come up with time being sucked in and non existing inside such a black hole?

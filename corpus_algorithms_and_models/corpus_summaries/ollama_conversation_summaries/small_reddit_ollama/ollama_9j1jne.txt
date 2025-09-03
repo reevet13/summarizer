@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text or up to 250 words:
+
+What would motivate these people to do a drivechain instead of launching a new blockchain? Nothing, but the blockchain can quite easily be copied as a sidechain. What would motivate users to invest in a new altcoin, rather than just use the drivechain version of it? There's no reason to believe an altcoin is better than bitcoin + a copy of the altcoin.
+
+A drivechain is essentially an altcoin with the exchange rate pegged to bitcoin. The benefit is that you get the safety of holding a bitcoin-backed currency (and not a more risky alt-currency) and benefiting from its hashrate while being able to have the features of the altcoin.
+
+You don't need to invest in it. Drivechains would be a part of bitcoin, and their value would be pegged to bitcoin.
+
+I believe there are concerns about sidechain end-of-life, where a sidechain's features may one day be added to mainchain, reducing the value of the sidecoin (its features will be in mainchain and mainchain has better than SPV security, so...) and triggering a massive pegged conversion to maincoin.
+
+I need a good explainer.

@@ -1,0 +1,111 @@
+Original Response:
+Tell me what to do.
+buy crypto - hold in personal wallet - u are the bank
+How do I buy crypto, and how much money do I need for this?
+You don't need much. You could buy just 5$ worth of bitcoin, or even less. Firstly buy just a small bit and send it around, create some wallet (Electrum or samourai wallet for example). 
+
+You could buy the bitcoin at an exchange (Kraken, coinbase, bitstamp or any other mabye in your country). Sign up and send a little bit of money. Or buy bitcoin in a local ATM or at localbitcoin.com.
+
+Some good sources are https://www.youtube.com/user/aantonop or read the book "the bitcoin standard" (highly recommended you get a crash course in everything you need to know!).
+
+Oh and do not fall for the bcash (BCH) scam! Also don't go for a "quick return" to some vague alt coin which give you a lot of promises but not really anything else.
+well put ; )
+Zero. Install mycelium on your phone and I'll send you some to play with once you give me an address.
+[deleted]
+and be able to use it almost nowhere
+has to be a troll
+&gt; mycelium 
+
+Pity it has no segwit yet
+True it is unfortunate. However I continue to recommend it as they have proven to be trustworthy as hot wallet providers. In a space where it is so easy for scammers to make their way in I am very careful not to crucify anyone who's acting in good faith even if I don't agree with their decisions.
+You mean their ICO wasn't scammy/useless?
+Wrong.  You can use it almost anywhere, unlike the dollar, for example.
+Lol what!?!? I can literally use the dollar for every single expense I have. But I couldn’t pay my rent with bitcoin, couldn’t buy groceries or pay car insurance with bitcoin. Can’t use it at any gas stations near me or at any restaurants. And the list goes on and on. 
+
+This may be a tall order, but don’t be an idiot.
+How can I use it in a supermarket or in a Pizza Hut? Or in a KFC....
+Go away.
+
+Please!
+
+Edit: or did you mean u/tungfa?
+I don't get it. What is mycelium, and why would anyone send me free bitcoin? I am not begging nor panhandling.
+I am not familiar enough with it to understand it all but this seems good info, thanks.
+
+This looks better than penny stocks.
+
+But what good does sending around 5 or 10$ worth of bitcoin do (remember, I am a total noob)?
+
+Edit: this webpage seems to imply you are a broke mindless crypto sheep!
+
+https://www.urbandictionary.com/define.php?term=Bitcoin%20Cash
+Don't stop asking questions and find information online/youtube. It's okay to be a noob and just find out everything along the way :)
+
+Its not good or bad to sad a low amount. Just if you make a mistake like i did and many others you lost only 5$. A mistake is made easily, so its better to just try with "play money" first before you start sending whole bitcoins or more :p
+
+It definitely is better than a penny stock. Really recommending to read the book "the bitcoin standard" to get a better picture of bitcoin.
+
+In the end its up to you to decide how much you can invest in it. An x percentage of your net worth, a % of your monthly salary many things are possible but you find that out yourself which you feel comfortable with. But just try firstly with something small and see what it is/does!
+&gt; Its not good or bad to sad a low amount. Just if you make a mistake like i did and many others you lost only 5$. A mistake is made easily, so its better to just try with "play money" first before you start sending whole bitcoins or more :p
+
+Got it!
+
+Thanks for your extensive reply.
+
+I absolutely agree it's OK to be a noob (don't we all start out like that) but there are those hateful characters who will call you a troll for it, as you may have noticed.
+Basically, I just want to understand it. I just want to be informed, rather than being overwhelmed with it, which is the way it is going as it looks.... I appreciate all the help of course. This is the ONLY thread ever on Reddit where I am getting that many (helpful) feedback (which is strange).
+Don’t invest more than you are prepared to lose, do your own research, don’t believe everything you hear, think critically.
+
+Only use wallets that make you write down your seed. 
+
+Learn to store your seed securely.
+
+Hardware wallets are a bit pricey but are strongly recommended for large amounts of money.
+
+Don’t keep all your coin in one place. Don’t keep coin on exchanges unless you are prepared to lose them (to hacks or mismanagement). Exchanges hold your private keys for you and send money on your behalf (they are the bank in this example). Not your keys, not your money!
+
+If you are your own bank you must assume the risk of being a bank and manage your keys (which is why we recommend HW wallets, they never expose private keys). Seeds must still be stored securely. Anyone with access to your seed can steal all your money associated with it. If you lose your wallet and the seed, your money is gone forever, there’s no phone number to call to get it back. 
+
+As for obtaining bitcoin, there are a lot of options: 
+
+* Coinbase
+* Square Cash App
+* localbitcoins.com
+* bitcoin ATM near you
+
+All these services have varying advantages, and disadvantages, and fees. Remember to move the coins off of exchanges into wallets where you control the seeds and keys.
+
+Let me know if you have more questions.
+Thanks for your reply. I didn't read through it yet, but one question I think of is - assuming the risk of being a bank naturally also entails taking some security measures, wich as a private individual doesn't seem very doable.
+Yes being your own bank means taking security measures. With great power comes great responsibility.
+Sure, but how can a private individual who doesn't have the financial resources (as yet) or expertise take the security measures a bank would take?
+what exactly is your goal?
+Related to bitcoin?
+
+A person can have, and usually has, severals goals.
+You keep saying you want to be you want to be your own bank but i’m Trying to figure out what you are trying to accomplish so we can help you better. It appears that you are very new but I can’t tell exactly
+
+Edit: if you want to learn more about bitcoin wallets I have a blog post that might help?  [https://graspbitcoin.tech](https://graspbitcoin.tech/2018/07/21/bitcoin-needs-better-wallets/)
+
+Storing your bitcoin securely requires effort. I suggest investing time in learning how to do so before you invest actual money.
+I am new to bitcoin, that's right. Not new to this world, to computers or to the internet.
+
+I don't see why you have a problem with my "keeping saying" I want to be my own bank. I only said that once besides, AFAIK in the title.
+
+There is nothing to figure out. What I wanted to know, I asked in the thread. If you have any info to offer, I'm interested and grateful (not as much as if you'd saved my life but still).
+
+I'll look at that link, thanks. It's all a matter of having the time.
+no problem at all! My apologies. I would love to help however! Feel free to take a peek at that article and if you have any questions let me know!
+Thanks for that link.
+
+Summary:
+Learn to store your seed securely.
+Not your keys, not your money!
+Exchanges hold your private keys for you and send money on your behalf (they are the bank in this example).
+What is mycelium, and why would anyone send me free bitcoin?
+Basically, I just want to understand it.
+Only use wallets that make you write down your seed.
+I am new to bitcoin, that's right.
+I appreciate all the help of course.
+But what good does sending around 5 or 10$ worth of bitcoin do (remember, I am a total noob)?
+You could buy just 5$ worth of bitcoin, or even less.

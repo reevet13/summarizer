@@ -1,0 +1,13 @@
+Here is the extracted summary of up to 250 words, comprising about 10% of the original text:
+
+I've been playing on this for the last 4 years, but ever since a few weeks ago (8/27/18), I haven't been able to run Rocket League or any other games for more than a few minutes. My game keeps crashing and my system automatically shuts down.
+
+The RAM is being recognized. Someone recommended replacing the power supply, and I've replaced the power supply to a 600W power supply (EVGA 600 B1, 80+ BRONZE 600W) and this problem still exists.
+
+I have not tried thermal paste, but I'm willing to try if you guys suggest it. I'll use the "pea method" to use it if needed.
+
+Any suggestions would be appreciated. Thanks!
+
+Temps w/o game running: https://i.imgur.com/36WUVoA.jpg
+
+Temps w/ RL running: https://i.imgur.com/mR4Pt9Z.jpg

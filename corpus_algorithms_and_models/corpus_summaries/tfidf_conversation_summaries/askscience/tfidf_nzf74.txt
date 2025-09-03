@@ -1,0 +1,34 @@
+Original Response:
+How did the inanimate become animate? I hope I was clear.
+This is called [Abiogenesis](http://en.wikipedia.org/wiki/Abiogenesis). As for how? I'll leave it to the experts, but that wiki article is really good.
+It's kind of a big subject. A good place to start, as always, is [Wikipedia](http://en.wikipedia.org/wiki/Abiogenesis#Current_models).
+
+Very briefly, atoms and molecules aren't so simple. Atoms have electrons in shells which interact with the electrons in the shells of other atoms in highly specific ways. Combining the rules of these interactions with random motions can produce complex structures, like snowflakes and other crystals, or it can produce more fluid, sustained reactions, like those in living creatures.
+Well, the whole point of the [Urey-Miller experiment](http://en.wikipedia.org/wiki/Urey-Miller_experiment) was to demonstrate that inorganic molecules known to be present in the early terrestrial environment can spontaneously form amino acids -- the building blocks of proteins.  
+
+There a a lot of ideas on [abiogenesis](http://en.wikipedia.org/wiki/Abiogenesis); that linked wiki article is far more detailed than anything I would write here.  The fundamental operation of life as we know it is synthesis of proteins, mediated by patterned nucleic acids.  It is not likely that both protein synthesis and nucleic acid replication developed at the same time -- what we might call the first life probably developed from protolife systems consisting of one of those systems (proteins that happened to self-replicate, or short nucleic acid chains that happened to self-replicate).
+
+The key is the self-replication:  once a sufficiently robust general self-replicating system happens by chance (even once) proper evolution can begin and development of complex life is virtually assured.
+
+There are a *lot* of good popular level references on this topic, which spans biochemistry, complexity theory, language theory, and many other interesting topics.  The links at the bottom of the abiogenesis wiki article are a good place to start.  Douglas Hofstadter discusses abiogenesis from the standpoint of an abstract self-replicating system in the now-ancient-but-still-very-engaging [*Godel, Escher, Bach: An Eternal Golden Braid*](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567).
+Eh, emphasizing self-replication at the origin of life seems a bit outdated.  It's possible, but unlikely.  Carl Woese, a leading researcher on the origin of life, has advocated that we stop thinking in terms of replication and inheritance/evolution when we look back that far.
+
+To make it a bit clearer, the relative rapidity with which life formed as soon as the Earth cooled to suitable temperatures implies a gradual process that led to replicating life.  A global self-sustaining (rather than self-replicating) system of organic molecules, proteins, and/or genes built up independently of replicating life.
+
+Dr. Woese believes that self-replication may not have been as important during the time of our last universal common ancestor (LUCA).  He advocates that we begin thinking of early life as a "web" (with proto-organisms readily trading genetic information) rather than a branching tree (with organisms passing their genes onto further generations).  I really don't know what evidence he has to support that view; though it seems like a useful and unconventional way of thinking about early evolution, with oceans of the entire Earth acting as one collective giant proto-organism.
+
+I'm sorry for my vagueness, but I'm not sure there's many people on the planet at this point that could give a detailed explanation of how this process occurred.  However, if the beginning of life depended on the random formation of a complex and robust replicator from simple precursors, life shouldn't have formed on Earth as quickly as it did.  Stephen Hawking likes to reference this fact in his estimations of the likeliness of alien life.
+It's not unusual for atoms to form complex structures as other commenters have pointed out.  There are many examples of inorganic molecules that are large and complex.  Conditions on earth allowed for the spontaneous formation of organic molecules.  Large and complex carbon-based molecules.  Lab work has demonstrated that organic molecules can form spontenously under the right conditions.
+
+Many of the structures inside cells don't require anything "animate" either.  Once amino acids are stitched together, they can fold up to form a protein on their own based on their chemical properties (although chaperone proteins help the process along in cells).   Phospholipids, the molecules forming cell membrane, will form bilayers spontaneously when placed in water.  
+
+So although the exact pathway leading to the formation of life hasn't been determined, it seems feasible to imagine the formation of organic molecules of increasing complexity over time, and the development of primordial versions of the systems that are central to today's living organisms.
+We don't exactly know.
+
+But basically, life *is* just simple atoms and molecules. Lots of them are large and folded, etc., but it boils down to chemical processes. And if you can find a simpler cycle of chemical processes that produces it, you've got life. That process can be simplified, etc., until you have the conditions on early Earth.
+
+Summary:
+Large and complex carbon-based molecules.
+There are many examples of inorganic molecules that are large and complex.
+Conditions on earth allowed for the spontaneous formation of organic molecules.
+But basically, life *is* just simple atoms and molecules.

@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+What is the blue screen error code?
+If you have a recovery disk, try booting from it, then following this [guide](https://www.tomshardware.com/news/how-to-fix-page-fault-error-windows-10,36234.html)
+You don't have to be able to boot into windows, only into the BIOS, then you can boot from the recovery media.
+
+Let me know if you'd like me to summarize more!

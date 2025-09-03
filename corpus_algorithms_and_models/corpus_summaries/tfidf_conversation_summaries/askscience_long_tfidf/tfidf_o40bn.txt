@@ -1,0 +1,95 @@
+Original Response:
+And do transformations of real numbers apply to imaginary numbers in the same way?
+Use the complex plane?
+
+I'm not sure what you mean by "transformations of the real numbers".
+You can picture a two dimensional axis: the x axis represents the real numbers and the y axis represents imaginary numbers. Any point that's not on either axis is a complex number.
+I meant transformations as in in rotating, skewing, translating and so on.
+If you ask me to visualize a 3D vector, I can imagine the space around it - as if I'm holding up a pencil infront of me. I was wondering if imaginary numbers could be thought of as something tantamount to that, rather than simply picturing axes.
+A two dimensional vector.
+As simple as that? Huh.
+
+Thanks!
+If you want to go further, look up Quaternions. However, they have to specifically constructed. All operations on real or complex numbers will give you a real or complex number.
+What do you mean by skewing and rotating real numbers?
+As in, the way you are able to generate a 2D shape by drawing it on x,y axes, would you be able to do the same with imaginary numbers (both make shapes with them and transform that shape)?
+Oh, most definitely. Even better: rotations in the complex plane correspond to algebraic multiplication. 
+
+To give you an example:
+
+The number i is defined as the square root of -1. You can produce arbitrary complex numbers Z like this: Z = a + b*i. You can visualize this number as an arrow on a 2D plane, pointing from the origin to the coordinate (a, b).
+
+So let's say I draw some number Z in this way. Now I multiply this number by i: i*Z = i*a - b. Remember, i*i = -1. If you draw this number in the same way as the previous one, you can see that you rotated the arrow 90 degrees counter clockwise.
+
+In general, you can multiply any complex number with a number of the form Cos[phi] + i * Sin[phi] and rotate it phi degrees counter clockwise.
+Oh! I understand. Well, that's interesting.
+
+Are rotations the only transformations complex numbers can manage?
+No, you can also scale them, by multiplying them with a real number (imagine this as making the arrow longer or shorter) or translate them by adding complex numbers (like adding vectors, you just put them head to tail). Skewing would be a bit hard, since you can only do that with more than 1 point. Since a single point hasn't got any shape to speak of, skewing it would be meaningless.
+
+Complex numbers are quite awesome. I'm not a mathematician, but I believe that as far as numbers go, they're the most fundamentally important set. There is a theorem that says you can always find n roots of a polynomial of order n using nothing more than complex numbers. Also, some integrals that are impossible to solve using real numbers are really easy to do by exploiting some (quite profound) properties of complex numbers.
+
+I realize that this might be a little more technical than you'd be interested in, but complex numbers turn up almost literally everywhere in the mathematics I use from day to day (I'm a physicist) and they make my job a *lot* easier, hence the luvvvv ;)
+No, not at all - be my guest. I'm just as enamoured with them as you are; I find them absolutely fascinating. 
+
+If you have the time and patience to explain a bit about how you would solve integrals through properties of complex numbers, I'm all ears!
+[Here's a starting point](http://en.wikipedia.org/wiki/Methods_of_contour_integration)
+Ok :). Let's say you wanted to integrate the following function on the entire real line (that is, from -infinity to infinity):
+
+f(x) = 1/(1+x^2 )
+
+Ordinarily, you would use the fundamental theorem of calculus to do this, that is, take the primitive function F of f (in this case, F would be arctan(x)) and evaluate it between the end points. So:
+
+Integral[f(x), a, b] = F(b) - F(a)
+
+If you try this for the function I wrote above, you would end up with
+
+Integral[1/(1+x^2 ), -infinity, infinity] = arctan(infinity) - arctan(-infinity)
+
+Now these functions are not really well-behaved if you supply them with infinity as their argument (meaning I have no idea what their value would be). But if you look at the function f and think about it, there is no good reason why integrating it over all real numbers shouldn't work. It never goes to infinity, and it rapidly goes to zero as x increases or decreases (I'm being a bit sloppy here, but this is not the main point, so please forgive me).
+
+Alright, so what we do now is replace the x in this function by z (meaning any complex number, whereas x would mean any real number).  This is going to allow us to do something really cool, using [this](http://en.wikipedia.org/wiki/Residue_theorem).
+
+The theorem I linked to says roughly the following:
+
+If I imagine a closed loop in the complex plane and integrate some function on this loop (this is like a contour integral on an ordinary 2D space of real numbers), its outcome is uniquely determined by the value of the function I started with in certain points (inside the loop), called singularities. Singularities are those points where the function "breaks down". For our function, these would be the points z = i and z = -i (if you fill them in you can see that you would divide by zero there). The residue theorem says that the value of the integral on some loop is just 2 * pi * i* Res[f(z)], where Res[f(z)] is some number you can wrench out of the function if you would be so inclined and knew how to do this. It's a bit tricky, so I won't give you all the details here.
+
+So, with this in mind, imagine the following:
+
+I construct a loop that goes from -R to R on the real line, and then loops back (counter clockwise) to -R in a half circle. So what you have is a half circle of radius R. Now, if I were to increase R, you would see that any number Z on this piece of arc is going to be quite large (the magnitude of a complex number is just the length of the "arrow"). So the value of f(z) = 1/(1+z^2 ) is going to be quite small. Even better: if I were to let R go to infinity, the value of the function would be essentially 0.
+
+SO! Raking all of the previous together, we are left with:
+
+* We know the value of the integral on the entire contour, because we can find the residues and multiply them by 2 * pi * i.
+* We can show that the part of the integral that is on the half circle arc is zero if we make the arc infinitely big.
+* We are left with the value of the integral on the entire real line, which is what we were looking for.
+
+This was all just one giant braindump, so if I was unclear or anything let me know and I'll try to do better.
+Yes, as simple a that :)
+Wow, that was really interesting! Thank you so much, you explained it very clearly too. I'm going to elbow my professor until he gives me a worked example of this. I'd love to see this in action.
+That page has a nicely worked example of what I tried to explain above (apart from another square).
+intuitive understanding of complex numbers:
+
+1.  [link1](http://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/)
+1. [link2](http://www.st-andrews.ac.uk/~www_pa/Scots_Guide/info/signals/complex/cmplx.html)
+Be careful what you wish for, my 8 week course on complex function theory was essentially a worked example of this case ;). I glossed over some quite important details here, such as the conditions that need to apply to the function f in order for you to be allowed to do this. Any competent mathematician would probably cry, reading my explanation.
+I've never had a problem with complex numbers themselves, but link1 is mind-blowing. I never thought of them as cyclic rotations. That makes them much, *much*, **much** more useful. Why have no public (and even non-math major college math courses) ever taught them that way?
+beats me. 
+It's one of those concepts that remain fuzzy until we gather around and think out loud and say **Complex Numbers Aren't** .  :)
+Let's be careful with terminology: a two-dimensional vector can be used to represent a *complex* number, which is the sum of a real number and an imaginary number.
+
+An imaginary number can be represented, as iorgfeflkd hinted at originally, as a points on a number line orthogonal to the real number line.
+[deleted]
+Thank you for the clarification!
+
+Summary:
+So let's say I draw some number Z in this way.
+Complex numbers are quite awesome.
+All operations on real or complex numbers will give you a real or complex number.
+I'm not sure what you mean by "transformations of the real numbers".
+What do you mean by skewing and rotating real numbers?
+intuitive understanding of complex numbers:
+
+1.
+Are rotations the only transformations complex numbers can manage?
+Any point that's not on either axis is a complex number.

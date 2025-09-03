@@ -1,0 +1,5 @@
+Assuming water level means the boat height in the water,
+
+Your water level should increase and you see more of the boat initially as the anchor is in water freefall and not appreciably adding to the weight of the boat.
+Once the chain becomes taunt and the anchor settles suspended under your boat, your water level should shrink to it's original level.
+Whether the anchor is hanging from the boat or in the boat, the boat/anchor system has the same weight, so it must displace the same amount of water to float

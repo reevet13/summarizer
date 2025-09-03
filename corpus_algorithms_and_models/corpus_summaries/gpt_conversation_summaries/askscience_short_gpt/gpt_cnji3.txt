@@ -1,0 +1,7 @@
+Information theory is largely about encoding and decoding complex data across different domains.
+
+It is not entirely clear to me how you would apply information theory in this situation. 
+
+I'm not totally sure myself, as I don't know much about it. 
+
+I guess I'm interested in how information is transmitted, how info is perceived and transmutates into behavior, the filtering of noise to extract "relevant" information from one's environment, shit like that.

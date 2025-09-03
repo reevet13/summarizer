@@ -1,0 +1,46 @@
+Original Response:
+Say it was possible to create a blade 1 atom thick, or microscopically small. Would it hurt if you were cut by it? I'm imagining not, but how thick does it have to be to start damaging cells or the body able to sense any damage?
+
+I understand astronauts are bombared by cosmic rays, and these pass through the body without much of an effect.
+If it was only 1 atom thick - the blade wouldn't be strong enough to cut through anything. It would be like trying to cut through things with paper - except 1 atom thick paper.
+lets assume its strong enough to cut through. Lets say that a blade, or similar is 1 atom thick and it slices you in half. Would you be cut in two or would it just pas through.
+To clarify - are you talking about a knife blade 1 atom thick, but maybe an inch wide and 6 inches long (for example) or 1 atom thick and 1 atom wide? The latter would be  better described as a needle I guess. the particles which strike astronauts (and indeed each of us) are smaller than an atom.
+Thinking of a decent enough length and width to be tangible I guess, knife or sheet if you like.
+&gt; lets assume its strong enough to cut through  
+  
+You can't assume that, because that's not what would happen. the bond wouldn't be strong enough with only 1 atom width - if you tried to stick the knife into someone, some of the atoms may go into the body, while the rest of the knife broke apart. You wouldn't really "cut" through as such.
+You may be interested in reading [this](http://www.reddit.com/r/askscience/comments/ngrhb/what_would_a_monomolecular_sword_or_wire_really_do/) thread. If you had a razor or something whose width was a single atom across the entire blade, it would just buckle when you used it. The cutting would be much more effective with a blade a couple of hundred thousand atoms thick. 
+
+If you're going to assume that this atomically-thin blade isn't going to buckle, then it would slice you right in half, just like a regular knife. It would certainly be a very clean cut though. I imagine the thinner the blade is, the more likely it will be to slice right through cells, bacteria, viruses, etc.
+
+Cosmic rays on the other hand are much much smaller than atoms, so they mostly pass through astronauts without any kind of interaction. Atoms are mostly empty space you see, so despite how solid a person seems, there really isn't that much to us.
+can we just pretend?
+I understand the impracticalities of a knife 1 atom thick, lets hypothetically say that we can make a strong enough knife that's very very thin.
+My current train of thought is that it would need to be thick enough to permanently break the phospholipid bilayers of cell membranes. Would 1 atom thick really do break apart the membranes of cells or give us any sense of nociception? Obviously anything approaching cell size would cause real damage, cutting tissues and bone, bleeding etc.
+/r/askspeculators
+I think it probably would. Cells are pretty squishy, so to speak, and if this blade is going to be as hard as we're pretending it is (which of course it wouldn't be), I think it could potentially do some real damage.. of course there's also the much more likely possibility that it might just push lots of stuff out of the way. 
+
+You also have to consider what the blade is made of though.. chemical effects would certainly come into this, affecting the interaction between the blade tip and whatever it is cutting.
+Then we'd be playing make believe and not doing science. It doesn't make sense to ask what the scientific implications are of scientifically impossible things.
+
+There's probably a better question you can ask that gets at the heart of what you really want to know, but I don't know what it is. You aren't asking about the strength of materials, but about the nervous response to stimuli.
+Could it not be a super powerful, fine laser?
+The point is we can't.  It would defy physics as we know it.
+
+An one atom thick blade would break apart if you wave it in the air.
+When you ask a question like this, but add in the clause "but ignore physics" then the question becomes meaningless.
+&gt; It doesn't make sense to ask what the scientific implications are of scientifically impossible things.
+
+[Some disagree](http://en.wikipedia.org/wiki/Thought_experiment#Physics).
+This is not the same as a thought experiment. A thought experiment doesn't mean selectively ignoring rules and making things up. It is about teasing out a phenomenon from a theory by following its premises to their logical consequences. If I disregard the rules, I'm essentially inventing everything I say as pure fiction.
+
+In this case, we need to figure out what the OP really wants to know. He probably isn't curious about the properties of 1-atom thick knives because he's dismissing those answers. He *probably* wants to know something about the human nervous system, and constructed the question as an example that would clarify what he wanted to know. But that doesn't work very well at times.
+[deleted]
+Damn, I was really hoping that was real
+
+Summary:
+If it was only 1 atom thick - the blade wouldn't be strong enough to cut through anything.
+I think it probably would.
+You wouldn't really "cut" through as such.
+lets assume its strong enough to cut through.
+Would it hurt if you were cut by it?

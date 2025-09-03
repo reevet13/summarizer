@@ -1,0 +1,123 @@
+Original Response:
+So I understand that we consider gravity to be the force holding us (and everything else) against the Earth. But how do we know that gravity is the force keeping the Moon in orbit and keeping the Earth in orbit around the Sun? For instance, there is X miles between the Earth and Moon that is "zero gravity". There is a point at which we are released from the gravitational pull of the Earth and are said to be in "open space" or whatever. Does gravity "stop" in between the Earth and the Moon but "pick back up" when it gets to the moon?
+
+In other words, if I am too far away from my router and my Wifi signal doesn't reach my computer, it's not like I can "pick up" that signal in a discontinuous fashion. So if we know there's a point at which Earth's gravity "fades out" into zero gravity, why do we assume gravity is the same force that is somehow discontinuously keeping the Moon in orbit around the Sun?
+
+Furthermore, we know that the universe is expanding faster than light into the abyss, pulling every celestial body outward. Why isn't this expansion affecting our solar system? I understand that things work different locally, but if the universe is expanding, why aren't we seeing our solar system expanding at least a fraction? Is gravity changing with the expansion of the universe?
+There is not zero gravity between the Earth and the Moon. The Earth's gravity still has a fairly strong influence there. Orbiting vehicles are in freefall, so that's why astronauts experience "weightlessness". The technical term is microgravity.
+Whew... so many questions... so little time...
+
+Gravity actually spreads out everywhere, just like light, - but at some point is so small as to not be measurable (or detectable).  Gravity travels at *c* just like light.
+
+Science does not have a good grasp of gravity yet - other than we know an objects mass can distort space-time.  Beyond that, the actual mechanics of gravity are still being researched (gravity may be linked to dimensional strings).
+
+As per expansion - expansion happens to massive objects at massive distances.  At local distances gravity keeps things bound.  This is why our solar system is bound (is stronger than the force of expansion in that region), our galaxy is bound, and why it moves with a local group of galaxies.
+&gt; There is not zero gravity between the Earth and the Moon. 
+
+There is an [L1](http://en.wikipedia.org/wiki/Lagrangian_point#L1) point in the Earth-Moon system where their gravity cancel out. But you are correct in that this is only a single spot between them. Everywhere else, gravity will  matter.
+You're arguing semantics. There's a point at which the Moon and the Earth have equal and opposite gravitational influences, thus 'cancelling out', but the Earth still has a gravitational influence that drops off with the square of distance, throughout the universe. The concept OP has of the Earth's gravitational influence just ending in low Earth orbit is flat out wrong. Just because astronauts float around 'weightlessly' does not mean there is no gravitational influence.
+Gravity does not stop.
+
+If you're asking why astronauts experience weightlessness in earth's orbit, it's because they're... well, orbiting around the earth. [NASA's website explains this quite well](http://www.nasa.gov/centers/glenn/shuttlestation/station/microgex.html). 
+
+This quote in particular:
+
+&gt; If you drop an apple on Earth, it falls at 1g. If an astronaut on the space station drops an apple, it falls too. It just doesn't look like it's falling. That's because they're all falling together: the apple, the astronaut and the station. But they're not falling towards Earth, they're falling around it. Because they're all falling at the same rate, objects inside of the station appear to float in a state we call "zero gravity" (0g), or more accurately microgravity (1x10-6 g.)
+
+They experience 'weightlessness' for the same reason we don't feel a gravitational pull towards the sun: we're in orbit around it.
+[deleted]
+Gravity isn't a polar force, it doesn't "cancel".
+All objects exert a force of gravity on each other that is directly proportional to the mass of the objects and inversely proportional to the square of the distance. Thus, if you double the distance, for example, the force is reduced by a factor of 4. Therefore, only objects that you are relatively close to you will have a noticeable affect (so you can imagine traveling billions of miles away from earth than the force of gravity exerted by earth on your would be very small to the point where it's negligible).
+
+Theoretically there is always objects exerting a force on you so there is no such thing as zero gravity. But there would be a point between the earth and the moon where their gravitational forces on you are equal. So it would be like a rope pulling you one way with a certain force and a rope pulling you the opposite way with an equal force. There's still forces acting on you, but the forces would essentially cancel out and you'd stay still if you had no other forces acting on you. On either side of this point, the earth or the moon will exert a larger force of gravity than the other.
+
+Your wifi signal is a good analogy as if you're, say, 100 yards away from your router I'm sure you can get a very weak signal, but not enough to register on your laptop.
+
+I'm not an expert, but I am pretty sure we know what happens and how to describe it in most circumstances, but we don't know why. One thing I have learned, however, is to be humble in our intellect.
+In this case it does. The gravitational pull from earth and moon are the same at that point, just in opposite direction, effectively canceling each other out.
+Actually, there is a net gravitational acceleration at L1, enough to keep an object at L1 in orbit around the earth at the same period as the moon.
+Look, if earth's center is at x=0 and the moon's at x=x1, then the gravitational pull on an object on the x-axis with coordinate x is -Gm(M_earth/x^2 - M_moon/(x-x1)^2). Plug in some values and plot it, and you get something like this: 
+
+
+http://www.wolframalpha.com/input/?i=Plot%5B-5%2Fx%5E2%2B1%2F%28x-1%29%5E2%2C%7Bx%2C0%2C1%7D%5D
+
+
+As you can see, the force is first negative, meaning it is directed towards earth, becomes zero at some point, and becomes positive, meaning it points  towards the moon. It's all smooth.
+[deleted]
+The forces can act in stasis, but they don't interfere. They don't cancel.
+Yes, they do. It's called the principle of superposition. Just solve m/x^2-M/(x-x0)^2=0 and you will find where the point is where the force becomes zero.
+It sounds like I'm maybe getting caught up on semantics. All I'm trying to state is there is no anti-gravity or gravity that can be out of phase. I'm not trying to say Lagrange points can't exist.
+It seems like you're thinking of gravity as a scalar, rather than a vector. 
+
+You're right that there are no objects with the "magnitude" of their gravity less than zero, and it's impossible to add two positive scalar numbers and get zero.
+
+When you consider gravity to be a vector force, you suddenly can add two gravitational force vectors with positive magnitude and get zero, without need for either one to be negative. The vectors just have to be pointing in opposite directions.
+
+All forces in our universe are vector forces, so you can have two forces cancel.
+How do we know? Because the universal law of gravitation describes simply the motion of the planets, objects in motion, and weight on earth.  With it you can make very accurate predictions about baseballs, and satellites and moons.  With just a few lines of rather simple math you can prove that two bodies attracted by a force proportional to their mass and the inverse square of their distance will travel in an ellipse (more generally along a conic section).  
+
+Gravity doesn't ever stop, you just don't feel it unless there's something pushing back against you.
+&gt; Science does not have a good grasp of gravity yet - other than we know an objects mass can distort space-time. Beyond that, the actual mechanics of gravity are still being researched (gravity may be linked to dimensional strings).
+
+While this may be true, I think it's a misleading response in this context. Although a complete theory of gravity (linking relativity to quantum mechanics, etc.) does not exist, we do understand gravity incredibly well. The parts we don't understand are the minutiae. Its effects on stars, planets, and us (what the OP is asking about) is described with incredible accuracy via relativity.
+[deleted]
+[deleted]
+Gravitational force is a vector quantity. Therefore it has both magnitude and direction.
+Why is something in freefall in the space station a &gt;0 "microgravity" instead of freefall being exactly-0 "no gravity"?      Is it tidal forces on the object?   The object's own internal gravity?
+You should also be careful not to confuse "understanding" with "describing it accurately". While they can be connected, ancient peoples could accurately describe astronomical events, but I would hardly say they understood them.
+When you understand that nothing can be finite, that evertying is infinite (time, space); then the L1 point is just a theorical representation.
+
+(to have an idea, you can always find a mid value betweentwo2 numbers; between 1 and 2; 1.5
+between 2 and 1,5; 1,75
+between 2 and 1,75; 1,875
+between 2 and 1,875; 1,9375
+And so on.
+You can see that L1 is just a way to say "there is a theorical curve, between the Earth and the Moon, where the gravity is exaclty 0".
+But you can't practically identify that point/curve, nor can you make an object orbit exactly through the L1 curve (where the gravity vector is 0).
+Do we know why gravity travels at the speed of light?
+[deleted]
+You do know the [L1 point](http://en.wikipedia.org/wiki/Lagrangian_point#L1) has actual practical applications in astronomy and space exploration...
+OK, so we know that if the Sun were to suddenly disappear (poof), it would take us ~8 minutes to notice, aka when the last photons that left the sun before said disappearance reach us.
+
+Would it be the same for gravity? 8 minutes before whatever happens when you take away a massive gravitational body holding us in orbit. And what would happen if the sun and its gravitational influence suddenly disappeared?
+Yes, it would take 8.2 (roughly) minutes for the gravity to go away. Without the influence of the gravity the earth would start to leave its orbit .
+Yes.
+I will point you to [this article](http://math.ucr.edu/home/baez/physics/Relativity/GR/grav_speed.html)
+
+Avoid letting the 2nd paragraph trip you up until you have finished the 3rd :)
+I'm no scientist but remember having the same confusion as OP during my Intro Physics course.
+
+OP, the reason it seems that there's a region of zero gravity, is because you're forgetting that the moon is not stationary. It's orbiting the earth, very very fast. So fast in fact that it's 'outpacing' gravitational pull - gravity is constantly accelerating it towards the earth but it's moving fast enough in orbit that it never gets any closer.
+
+Imagine you fire a bullet tangent to your current position on the earth. The bullet leaves the gun in a straight line, but as it travels further and further gravity curves its path towards the ground. Imagine you could fire the bullet faster. Its path would still curve towards the earth, but it would cover more distance before impacting the earth. Then imagine firing the bullet much faster, so fast that as its path curves towards the earth, it falls but never gets closer. It enters orbit since it is always falling but moving too fast to ever hit ground. [And here is a google image since Im afraid this doesn't make much sense in text.](http://my.execpc.com/~culp/space/rid_mtn.gif)
+
+
+or another analogy, someone down thread mentioned a rope. Imagine gravity is like an elastic band. You are the earth. Tie the elastic onto some heavyish object, and spin it around you. If you spin the object very slowly, the elastic will contract and pull the object back towards you. But you could also spin at just the right speed, where the object's inertia (tendency to keep moving the same direction it's already moving) cancels out the force of the elastic pulling it towards you, and it will orbit - it will move in a circle around you, with the distance from you unchanging.
+The space station is not at zero gravity. The earth's gravitational pull is what is keeping the space station in orbit. But, as has been said, it is falling perpetually around the earth. Think about being on a roller coaster; when you go down a steep drop you come out of your seat. You're briefly becoming nearly weightless. This is what is happening in orbit, only everything is falling at the same rate, so there's no relative force between astronaut and the floor of the space station.
+Because they experience the gravity but there are no 'support forces', essentially they aren't being pulled against or into anything.
+Explained here: http://en.wikipedia.org/wiki/Micro-g_environment#Free_fall
+Thanks!  (I wonder why people downvoted you, it exactly explains what I asked)
+
+TL/DR:   mostly tidal forces.
+would it be the equivalent of having a ball on a string, twirling it and suddenly letting it go, it shoots of in a straight line in the last direction it accelerated to?
+More or less.  Remember that an object in motion tends to stay in motion unless operated on by an outside force.
+
+In this case, the outside force is the sun - if it suddenly disappears, after gravity goes there is no longer that force keeping the earth in it's orbit. However, the earth is in motion and that motion will continue.  So yes... while it will continue, to a degree, in its orbit it will begin to move out in a tangent to it.
+Haters gon' hate. I'm glad you asked since I'd never thought about this question before.  The super-micro-g satellites with thruster shells are extremely fascinating!
+Has the fact that G propogates at a speed of C been proven experimentally yet? Also, is this fact why we think that gravity is carried on a particle?
+
+Summary:
+Would it be the same for gravity?
+There is not zero gravity between the Earth and the Moon.
+&gt; There is not zero gravity between the Earth and the Moon.
+But there would be a point between the earth and the moon where their gravitational forces on you are equal.
+The space station is not at zero gravity.
+The earth's gravitational pull is what is keeping the space station in orbit.
+It's orbiting the earth, very very fast.
+But how do we know that gravity is the force keeping the Moon in orbit and keeping the Earth in orbit around the Sun?
+But they're not falling towards Earth, they're falling around it.
+The gravitational pull from earth and moon are the same at that point, just in opposite direction, effectively canceling each other out.
+The object's own internal gravity?
+The vectors just have to be pointing in opposite directions.
+Theoretically there is always objects exerting a force on you so there is no such thing as zero gravity.
+Without the influence of the gravity the earth would start to leave its orbit .

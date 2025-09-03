@@ -1,0 +1,194 @@
+Original Response:
+After a few of these mods have been reported as burning or melting, I was really interested to get one and see if I could figure out what was going on. Understandably some owners are worried theirs might do the same and hopefully I can shed some light on what I think is going on. Big thanks to Tim at [The Vaping Kiwi](https://thevapingkiwi.co.nz) for sending this one over for me to have a look at and thanks to Michael at [Hawkes Bay Vapour](https://www.hbvapour.nz) for organising it. The example as sent appears from the outside to have failed in a very similar manner to the devices in the other posts I’ve seen, I feel fairly confident that it’s representative of the others.
+
+
+Here are some of the posts of this issue:
+
+
+https://www.reddit.com/r/electronic_cigarette/comments/9gy81n/my_voopoo_drag_blew_up_in_my_hand_yesterday_it/?st=JMCS1S0T&amp;sh=13331e09
+
+https://www.reddit.com/r/electronic_cigarette/comments/9dxfvk/my_voopoo_exploded_too_in_july_found_it_like_this/?st=JMCS23W6&amp;sh=6ab33847
+
+https://www.reddit.com/r/electronic_cigarette/comments/9doevl/my_voopoo_drag_had_a_meltdown_today/?st=JMCRZ0BV&amp;sh=ceac9c61
+
+https://www.reddit.com/r/electronic_cigarette/comments/8ssbwe/this_was_a_close_one_my_voopoo_drag_exploded_in/?st=JMCS500A&amp;sh=f965fdad
+
+https://www.reddit.com/r/electronic_cigarette/comments/99dhpj/my_voopoo_drag_failed_this_morning/?st=JMCS6R8Q&amp;sh=4e3c5ce3
+
+
+So, what we can say for sure is that some of these mods are having major failures which results in extensive heat and fire damage. These mod failures can also either severely damage or cause the installed cells to overheat and vent.
+
+
+Before I go much further I’ll say that this post is not completely conclusive and I’m absolutely happy for anyone else knowledgeable to discuss and add theories. Also, if you own a Drag and have had a similar failure please comment with as many details as possible. The aim here is ultimately to come up with the best explanation possible and how to deal with it from there. I don’t want anyone to freak out and immediately go throwing their device away but also safety is priority and not to be taken lightly.
+
+
+[Here are the pics of the dismantle.](https://imgur.com/a/wgX0uLw)
+
+[Here's a great dismantle album of a healthy Drag](https://imgur.com/gallery/TVwhH) taken by u/Annon201. Thank you!
+
+&amp;nbsp;
+
+---
+
+**Let’s establish a list of possible causes that I can think of for this kind of failure.**
+
+1. Factory faulty boards, including possible bad batches of components, poor soldering, stray solder balls etc.
+
+2. An inherent board design fault
+3. A major cell short due to faulty construction - wiring or cell contacts shorted to ground
+4. A major cell short from damaged wraps - cell cans touching together or to case ground
+5. USB charging
+6. User abuse - juice damage, drop damage
+
+Feel free to add extras if you can think of any, I can always reinspect the device. 
+
+&amp;nbsp;
+
+**After dismantling and examining the device, here’s some thoughts about about each possible cause:**
+
+
+1. Factory faulty boards, including possible bad batches of components, poor soldering, stray solder balls etc.
+
+-I’m not ruling this one out and can’t say one way or the other at this point due to how damaged the board is. It’s impossible to test and check for these points on the failed device. I may be able to get more of an indication by checking some working Drags but even then it might be tricky. If I get my hands on a Drag in good condition I’ll do what I can to test it and post an update if I find anything of concern.
+
+
+2. An inherent board design fault
+
+-Also a point worth considering but very difficult to test for. By “design fault” I’m referring to something wrong in the actual circuit design such as component selection. In my mind this is probably less likely as I’d imagine it would affect many more units. While we’ve seen enough failures to warrant checking what’s going on, I don’t think it’s enough to think these boards have been designed incorrectly.
+
+
+3. A major cell short due to faulty construction - wiring or cell contacts shorted to ground and 4. A major cell short from damaged wraps - cell cans touching together or to case ground
+
+-I’m combining these two together in this description. I had initially thought one of these were the culprit. The Drag board is designed and installed in the mod so that it’s not grounded through the mounting points as many board are. It’s also mounted to a plastic sled. Like with most boards, the 510 negative (ground) is common on the board with battery negative. What this means is that if any cell voltage shorts to the case, the current path back to cell negative will be through the ground plane of the board itself. Given the massive current discharge capacity of the cells we use, I would expect the board in the Drag to be heavily damaged if any of the cells short to the case. This could happen by the left hand cell can touching case (due to a damaged wrap) or by any of the top series contacts / wiring and main positive wire shorting to case. If this were to occur in a device with a board installed onto to case metal with grounded mounting points, a major short would probably not affect the board as the current path would be mainly through the case. Neither is better or worse necessarily (both very bad), I was just using this as an indication of why the boards in these affected devices could have been getting so damaged.
+
+
+After careful inspection I don’t think this has caused the failures we’ve seen. The example burnt Drag I inspected had all wiring intact with no evidence of shorting. The plastic retainers which hold and insulate the cell contacts were intact. There is also a plastic layer on the battery door to prevent shorts from exposed cell cans to case in the event of damaged wraps.
+
+
+5. USB charging
+
+-USB charging is often used for a scapegoat for failures in my opinion and in this case especially there is nothing to indicate it has anything to do with the problem. To my knowledge, none of the devices reported to have failed were charging at the time, and on some the USB socket had never been used to charge. The series battery sense wire which is also attached into the charging circuit did not appear to have been subject to a high current. While I’m still not ruling anything out, I think the charge circuit somehow causing these problems is extremely unlikely.
+
+
+6. User abuse - drop damage, juice damage
+
+-There did not appear to be any major physical drop damage, either internally or externally in my example device. In my opinion though, juice damage is the likely cause of these Drag problems. In the model I inspected, there was no juice underneath the 510 due to the use of a sealing o-ring and a sealed positive pin, but there was a substantial amount of juice underneath the sled and on the board / screen. The fire button and screen areas on the Drag are not protected from juice ingress. The recessed screen / beveled edges would make it very difficult to wipe off spilled juice without also inadvertently pushing it into the internals of the device. Juice could also wick into the gap between the screen and case or fire button and case without the user being totally aware - it would be difficult to know how much juice has made it inside the device. The board does have a conformal coating applied which is there to offer some protection, but it will not completely seal the board from a large amount of juice. It’s there to be a “bonus protection” if that makes sense. Better than nothing but it certainly doesn’t make a board immune to being soaked in juice.
+
+&amp;nbsp;
+
+---
+
+**Going a bit deeper, I thought about how the juice is causing the damage and what’s happening in order to have this theory make sense.**
+
+Juice itself is not very conductive, it’s definitely not conductive enough to solely cause an instant hard short. But, combined with moisture in the air (VG is hydroscopic) and impurities, it can be conductive enough to start causing significant electrolysis when in contact with voltages present across the board components. This in turn dissolves metals such as copper and solder off the board.  It’s certainly possible the loss of a component connection with the board could cause unexpected behaviour.
+
+Another effect could be if the juice became conductive enough to damage components due to overcurrent (some components and IC inputs are only designed for a *tiny* current), although I’m not sure of this. 
+
+Lastly, I think it would be possible for one or more of the mosfets (the main power switching components) to be artificially switched on by voltage conducted by the juice. At this point I think this makes the most sense.
+
+Looking at the burnt board, I notice that the apparent area of greatest heat is at the lowest mosfet out of the 3 on the board. [Picture here.](https://imgur.com/D9Pc9od) In fact, I had to check a YouTube video to find a picture of a healthy Drag board as that lower mosfet literally didn’t exist anymore on the board I inspected. The upper two were intact. The underlying fibreglass board where this mosfet would have been is very dry and very ashy indicating a high concentration of heat. Okay, so let’s assume that by whatever juice damage mechanism this mosfet is getting switched on, how would this work? Would this cause the damage we’ve seen? I think so. 
+
+&amp;nbsp;
+
+Backing up a little to mosfet theory, these devices are basically switches. They are switched on by applying voltage to the gate, and conduct through the drain-source connections. Again, these are the main power components in the DC converter section which supplies the atomiser with power. A key point is that while the gate of the mosfet requires voltage to be switched on, it does not require significant current. Actually, apart from the gate acting like a capacitor (it needs to be “charged up” before the mosfet switches), it can be considered essentially to have infinite DC resistance and does not flow any current. This makes it more likely to be able to be switched on by voltage present from a pathway of juice. The juice may not be conducting well but it doesn’t have to be to switch the mosfet on. I don’t know the specific model numbers of the mosfets used in the Drag board, but I would assume they are of “logic level” switching type which means out of the different mosfet types they need the lowest voltage at the gate to turn on. They use these types as they’re most likely being switched directly by the microcontroller which is probably operating at around 3.3V-5V. 
+
+Following on from the idea that the lower mosfet is being switched on artificially by juice, we can more closely look at what would happen then. As mentioned, there appears to be 3 mosfets on the Drag board. Assuming the 3 mosfets in this device are operating in a parallel configuration to achieve the current capacity for a 180W output, this means that one single mosfet being switched by itself would cause it to be massively overloaded. When this one mosfet switches, it’s essentially switching the full battery voltage onto the atomiser and causing a huge current flow. Another clue to this scenario is that quite a few Drags have been reported to be autofiring. As chance would have it, when I was talking to u/imreallyhighbut recently, his partner had just experienced an autofire on her Drag. He kindly took it apart for me and took some photos. [Here’s the album](https://imgur.com/a/sW0gjnN). It’s a little difficult to see, but he described the board as being completely soaked in juice, and even around to the reverse side where the lower mosfet in question is located. I’d be very interested to hear reports of autofires on the Drag, and also evidence such as burnt cotton on those that have had a major failure. I don’t think it would completely prove or disprove the juice ingress theory one way or the other but the extra information would be another piece of the puzzle.
+
+&amp;nbsp;
+
+---
+
+**Is juice damage user abuse or the manufacturers responsibility to prevent by design?**
+
+This is a bit of a rant assuming that juice ingress is killing these mods. There’s a line here but it’s tricky to find, I’m sure each of you are going to have an opinion on the subject. For me personally, I think there’s a balance. Manufacturers of regulated mods know that throughout the life of their products, they will likely be subjected to juice at some point. I know mine have - no matter how careful I’ve been, I’ve still had the occasional tank dump out juice or have over-dripped an RDA. So, there’s definitely some responsibility here for manufacturers to ensure their devices are “fit for purpose”, that is, they shouldn’t be combusting in normal or expected reasonable use. The problem is the definition of reasonable in this case. For example, I don’t think we could expect a device to be completely unaffected by being submerged in juice - they simply can’t be made to withstand all manner of abuse. I do applaud Voopoo for paying pretty good attention to this in the past - the Mojo that I tested a while back was exceptionally well designed to handle juice spills, and from memory the Alpha One wasn’t bad either. The Drag though does appear to be particularly vulnerable through the screen and fire button / lower button areas. 
+
+I’d like to hear opinions in the comments here and a discussion if possible - a lot of manufacturers do read these and I feel that gives us a voice. I wouldn’t necessarily expect them to make their devices more juice-proof just out of the kindness of their hearts, but they will if that leads to sales. If you guys express that you’d prefer to be buying a more rugged device and are willing to pay for it, they’ll make it. I think the Aegis line is an example of this.
+
+&amp;nbsp;
+
+---
+
+**Some last thoughts about this problem and regulated mod safety:**
+
+The devices we use contain a massive amount of battery power and are often subject to hot, cold, moisture, juice, drops, vibration and abuse. That’s not to say we should be scared of them or stop using them in general, but we should all be aware to have a healthy respect for them and pay attention to their condition. A big drop or a lot of juice spilled over your device **should not be ignored or dismissed** as “oh well, it’s still working fine so it must be okay to keep using”. I’d absolutely recommend everyone who vapes full time to have a good backup device (or three) so you’re not forced into using a damaged device. When your mod is showing serious signs of wear and tear (including having had juice spilled onto it), either have it checked by someone qualified or retire the device. Do not leave batteries in a device that you think may have been damaged. 
+
+&amp;nbsp;
+
+**TL;DR / PSA:**
+
+**In my opinion, the failure at least on my example Drag appears to be have been caused by juice damage. It does appear that due to the design of the Drag, it may be particularly susceptible to juice damage. If you own a Voopoo Drag and know at some point you have spilled a decent amount of juice on it especially around the front panel area, I highly suggest either having the device properly checked by someone professionally capable of doing so or retiring the device. You might be able to get an indication of juice ingress by shining a bright light into the USB port - juice entering from the screen area could drip down into the port. Do not leave a juice affected device unattended with cells installed. This goes for any device that is not specifically designed to be waterproof. While it may be possible to clean a board that has had juice contact but does not show signs of significant damage, I don’t feel particularly comfortable recommending this to the average user.** 
+
+**For the owners of Drags who know their devices have not been subjected to any significant juice spills, at this point I haven’t found anything in the device construction that would make me think it’s any more dangerous to use than any other mod. I don’t believe there is any need to discontinue using your device if it is in good condition but I will update if I find out anything to the contrary.**
+
+&amp;nbsp;
+
+For those interested, I recorded dismantling and inspecting the example burnt Drag as supplied by The Vaping Kiwi. Beware it’s a lengthy (50mins) and rambling video as I’m trying to figure out what’s happened on this device from scratch - it’s literally me talking to myself as I try to come up with ideas. Since having a few days to think about the cause of the failure after recording the dismantle, I’m more of the opinion now that juice damage is to blame than I was in the video. This is my first attempt at recording and editing so please forgive the sketchy quality!
+
+Link is: https://youtu.be/-6UYjOUvUy4
+
+Cheers,
+
+~Vapey
+
+&amp;nbsp;
+
+**Disclaimer!! Absolutely no guarantees are made that any of the ideas or theories in this post are correct. Device safety is your responsibility. It’s also possible that there are multiple problems with this device or causes that I haven’t thought of.**
+Thank you so much for doing this!! It’s definitely a bit reassuring to know that it is due to juice and not something in voopoos internals but there should still be some way to prevent this more. I agree that manufacturers should have at least some responsibility to prevent juice from getting into the mod.
+Thanks AA!
+You’re welcome my dude!
+It's not even just juice getting into the mod, the board sits like right under the 510 and imo there's definitely room in between the 510 for juice to seep through. Not very well designed in this regard.
+Oh for sure. There def needs to be a redesign on it
+I just ordered a drag and I was gonna use my smok v8 baby on it.... Which is prone to leaking.... Fuck. 
+
+It comes with a tank though so as long as it doesn't leak it'll be fine I guess? Or should I just sell the damn thing back for full price unopened? Idfk at this point I'm about ready to quit vaping entirely, which I would say is great but I've been using cbd for anxiety and that shit has done wonders for me but vaping and smoking seem to be the only way I can get it strong enough quick enough, and I can't exactly be smoking joints going down the road....
+The failure rate I'm sure even with juice is very small hence all the good reviews, it's just that "what if?" scenario. I know I'm a bit paranoid as well.
+Yeah and I was going to use my old smok baby v8 tank on it too but it leaks some and from the looks of it that's the last thing I need on it so ugh idk. 
+
+I'll probably just send it back for a refund, I'll no better by the time it gets here
+I dunno, my smok baby beast tanks leak a little sometimes and I'm not the neatest at adding liquid to tanks, but upon taking my Drag apart just now it appears completely clean. I've been using it for about 3 months now and I have spilled juice many times (I get stoned and messy, y'all), just no major floods and I clean them up well &amp; ASAP.
+The 510 is actually pretty well sealed on the drag - it has an O-ring underneath it and sealant on the positive pin. It was dry on the mod I disassembled. The likely areas for juice ingress appeared to be around the screen and buttons.
+My Drag has autofired, but it was a number of months ago. I'm not going to use it anymore and I'm not recommending it ever again. Thank you for this detailed breakdown.
+I do agree it’s best to retire a drag that has autofired in the past. Well, any mod really - it’s a sure sign that something is not right with the device. Keep in mind I’m not necessarily intending to single out the Drag for this issue, and I’m certainly not saying it’s the most susceptible in comparison to other mods on the market.
+Yep, I'm not going to be using anything that autofires any more. Thank you very much. You've probably saved a few faces here.
+Appreciated mate and I’m really happy if it can potentially help someone avoid a dangerous situation. Definitely makes the effort worthwhile.
+These things have the potential to be so dangerous that I've been paranoid as *hell* about using them since I started. We literally can't afford to have a house fire right now (well, can anyone really?). I've been on the pod system train for a couple of months now and I don't see that ending any time soon, but when I do I'm going to avoid anything that looks like it has the flaws you described here.
+Yeah that’s the other side of the coin of posting all these gory details, I don’t want people to constantly live in fear of their devices but of course we should have a healthy respect for them. I’ve had a guide on mod troubleshooting and how to recognise when to retire a device half-written for ages, it might be time to finally finish it off. Feel free to hit me up anytime if you need advice on this stuff by the way :)
+Well, my story's a little different. I once had two full-charged HG2s vent in my hand. I was using a delrin mod, thankfully, so I escaped with a blister so small it's not worth mentioning and a mild case of PTSD. I couldn't even look at a mech without feeling major anxiety! So literally anything goes wrong with any of my 18650-powered devices that I'm aware of as being a risk and I basically trash it. LOL
+
+You're the kind of guy that I like seeing in the vaping community, man. Always offering to help as well as being a good part of the vanguard on safety stuff. I'm glad you chose this hobby. :)
+I'm sure a lot of people could benefit from a guide like that.
+I totally don’t blame you for being paranoid after that, very scary situation. Takes a while to trust things again I’m sure! Glad you didn’t get any major injuries from it. Had a few “oh shit” moments myself on the test bench as sometimes I’ve got multiple external battery sleds soldered onto a board, wires everywhere etc. No vented cells yet though, knock on wood.
+
+Absolutely happy to be here and doing what I can to help! It’s not much as I’d like due to very limited time outside of the day job and other commitments but better than nothing hopefully :)
+A guide like that would be absolutely incredible, dude...
+
+Summary:
+In my opinion though, juice damage is the likely cause of these Drag problems.
+The juice may not be conducting well but it doesn’t have to be to switch the mosfet on.
+It’s also possible that there are multiple problems with this device or causes that I haven’t thought of.
+Would this cause the damage we’ve seen?
+I know I'm a bit paranoid as well.
+The likely areas for juice ingress appeared to be around the screen and buttons.
+It does appear that due to the design of the Drag, it may be particularly susceptible to juice damage.
+The example burnt Drag I inspected had all wiring intact with no evidence of shorting.
+At this point I think this makes the most sense.
+The fire button and screen areas on the Drag are not protected from juice ingress.
+Device safety is your responsibility.
+As mentioned, there appears to be 3 mosfets on the Drag board.
+I agree that manufacturers should have at least some responsibility to prevent juice from getting into the mod.
+Well, any mod really - it’s a sure sign that something is not right with the device.
+&amp;nbsp;
+
+Backing up a little to mosfet theory, these devices are basically switches.
+Do not leave batteries in a device that you think may have been damaged.
+After careful inspection I don’t think this has caused the failures we’ve seen.
+&amp;nbsp;
+
+---
+
+**Going a bit deeper, I thought about how the juice is causing the damage and what’s happening in order to have this theory make sense.
+&amp;nbsp;
+
+**TL;DR / PSA:**
+
+**In my opinion, the failure at least on my example Drag appears to be have been caused by juice damage.

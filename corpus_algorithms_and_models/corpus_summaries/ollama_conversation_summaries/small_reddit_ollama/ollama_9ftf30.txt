@@ -1,0 +1,7 @@
+Here is a summary of approximately 10% of the text (up to 250 words):
+
+Isn't it pretty much outdated with current tech anyway? I haven't seen it used in any BIOS configurations in a while.
+It has uses in the programming language outside of hard-drives. Defining the hierarchy of processes. I agree though, that there are alternatives that are just as clear.
+You're correct. *upvotes*
+Most people here are more about wanking about politics
+In fact, in hard drives it is a bit of a misnomer. The motherboard chipset was the master on the ATA line, and both drives were slaves. At least according to the interface bus terminology, which seems the most relevant here.

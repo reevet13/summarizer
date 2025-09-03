@@ -1,0 +1,4 @@
+So here is a problem I am currently trying to solve and its driving me nuts.
+Now the question comes in when we try to identify what lines are spurs.
+Here is where the hard part comes in where I need your help.
+I am curious if anyone here can actually find the actual pattern to unwrapping the phase so that I can reliably produce a "real" and "spurious" spectrum.

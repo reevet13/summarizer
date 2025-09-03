@@ -1,0 +1,12 @@
+Here is the extracted summary:
+
+I think you are misreading a poor and over simplified diagram.
+The point of the diagram is suggest that with an air temp of 22°F and a ground temp of 55°F that heat pump is able to maintain a 75°F living space.
+
+It does this by taking the heat out of the ground and moving it into the house... Like an air-conditioner only running the other direction and using ground water as the exchange medium rather than outside air.
+
+There is graphic of the operation on that site: http://www.groundloop.com/index.php?id=21
+
+Its a [heat pump](http://en.wikipedia.org/wiki/Heat_pump).  It requires energy to power the process, as heat doesn't normally flow from warm to hotter (though not as much energy as if you just heated it directly).
+
+Now this system is like a refrigerator, but on reverse - it "pulls" the heat from the environment and puts it inside the house.

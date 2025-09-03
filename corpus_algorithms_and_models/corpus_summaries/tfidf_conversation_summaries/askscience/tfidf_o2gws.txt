@@ -1,0 +1,192 @@
+Original Response:
+With improvements in medical care, it's almost certain that there will be someone to live longer. There won't be any dramatic increases, unless there's some manipulation of our genes, which someone will probably do, once the rich decide they don't have enough advantages, yet.
+Currently science hasn't definitely predicted an upper limit to the human body although predictions have been made.  With time cells go through senescence as telomeres shorten, oxidative damage occurs, mutations arise and mitochondria start to work less efficiently.  It is very difficult to prevent all of these aging phenomenon.  I do believe human lifespan will increase gradually through time as we delve deeper into the human body but I personally believe that the greatest increase in lifespan in the future will be transplanting human brains into robotic bodies which is not as farfetched as people think.
+With the advances in medicine, genetics, prosthetics and nanotech, yes I am quite sure that record will be broken. Recently I read about some Danish scientists who managed to turn off the cell death (and not in cancerous way). Also, cell rejuvenation has come a long way. Put all of the above together and I foresee a human lifespan well passed 150 years within the next 30 years
+[deleted]
+In lab animals we've been able to substantially extend the maximal lifespans through a variety of methods. [Calorie restriction diets](http://en.wikipedia.org/wiki/Calorie_restriction) increase the average lifespan of almost all animals and in some cases increase the maximal lifespan as well. There's a large amount of work right now in figuring out what causes this and whether it can be duplicated chemically. There's been a lot of work on using resveratrol and chemically similar compounds but right now that research looks questionable. See for example [this forthcoming paper which should be available soon](http://www.ncbi.nlm.nih.gov/pmc/articlerender.fcgi?tool=pmcentrez&amp;artid=3021372). 
+
+There have been other methods to extend lifespan as well. For example, there's work trying to [actively remove old cells from the bloodstream](http://www.sens.org/rc/projects/scrubber1) which seems to work in mice.
+
+Right now, there's very little definite idea of what can work in humans. The best book I've seen on this topic is David Stipp's "The Youth Pill" which discusses the history of longevity attempts, the biological roots of aging, and many of the current methods of attack.
+Our advanced medicine does a great job of extending average lifespan, but we haven't had much success in extending *maximum* lifespan. That is to say, we can ward off all kinds of disease, but humans seem to have a biological limit around 100-110, and we really haven't improved it. Go to any graveyard with graves from 200 years ago and you will find people who lived into their 100s. You'll also find a lot who died in their 30s of diseases we don't worry about any more, but the super-old haven't changed.
+[deleted]
+[deleted]
+[deleted]
+Aubrey de Grey made a statement a short while ago he thought the first human to reach the age of 1,000 might already be born. 
+
+Now in all fairness, AdG is known for being pretty extreme, and rather optimistic - but he's still connected to one of the most prestigious universities in the world, so I'm going to assume he has some basis for his ideas.
+[deleted]
+Why bother with the fleshy brain at all? Just get an artificial intelligence that 100% matches the neural pathways of our brains, then just transfer our information over to the AI while simultaneously destroying our fleshy brains. Presto, we've successfully become robotic but are still the same person as far as thought and memory are concerned.
+
+You all believe consciousness is just an illusion like me, right guys? Guys?
+Thought: Proper, peer reviewed citations should trump any need for credentials
+It's a lot more complicated than that. The honest truth is that cells get old for a reason, and replacing them is no simple task. Just not killing cells isn't going to solve the issue that the cells are wearing out, prone to cancer, and eventually are dysfunctional.
+[deleted]
+That statement makes no sense. Consciousness is an illusion? Who is being tricked?
+Here is an interesting thought, the current generation (people born in the 2000's) will be the first generation after industrialization to have lower lifespan expectation than their parents (excluding death in wars). 
+
+Why? Obesity, hypertension, dyslipidemia, type II DM.
+
+Like everything else on this thread is speculation, as the question cannot have a scientific answer other than we don't know and never will. Nevertheless I would say this is the current tendency and worth at least a moment of reflection. 
+
+Credentials: MD
+
+Edit: Another reflection to be made: We (the young) are obsessed in living more while we often neglect the living better. Nevertheless the old are more interested in living better and really couldn't care less about living more. Maybe we live enough already and should focus on improving our quality of living on the later years of life.
+[deleted]
+Not only that but they said the person was already an adult..
+http://www.ted.com/talks/aubrey_de_grey_says_we_can_avoid_aging.html Aubrey de Grey thinks we can live to 1,000. while some of this may sound far fetched, you have to think about how drastically technology and medicine have changed in recent times
+The evidence does not support the cell damage and/or mutations as 
+the biological basis of aging. 
+
+First, the aging symptoms appear quite early. For example, [thymic involution](http://en.wikipedia.org/wiki/Thymic_involution) starts as early as first year of life. [(source)](http://www.cell.com/trends/immunology/abstract/S1471-4906%2809%2900105-7)
+
+Second, despite all the cell damage and mutations, every cell of our body is a direct descendant of the very first living cell, suggesting extremely efficient repair and compensation mechanisms.
+
+That said, mutations definitely contribute to a chance of getting age-related disorders, such as cancer.
+[deleted]
+Do you think there is a "hard coded" maximum lifespan? Finding maximum might be a futile effort. It is like trying to find what is the maximum number (not chance) for coin to land on one side.
+If we don't know maximum lifespan, how will we know if we extended it or not?
+Didnt Adam live to 1k?
+
+
+....Oh yeah reddits overgrown children hate christianity.
+[deleted]
+The "hard coded limit" on lifespan is connected to the telomeres of your chromosomes and the maximum number of times your cells can replicate (referred to as the Hayflick Limit). It's not the only factor but it's a pretty damning one (you might consider looking up "senescence", the biological term for aging).
+
+The shorthand version of what telomeres are is that they're on the end of the chromosome, allowing it to replicate without losing any "vital" portion (they also protect the chromosome from accidentally combining with other chromosomes off-schedule). Replicating a cell requires replication of the chromosomes within the cell and an artifact of that process is that a segment of the chromosome is lost. If the cell does not activate the enzyme telomerase to replace the "used" length of telomere, the cell will eventually fail to replicate due to the loss of vital portions of the chromosomes.
+
+---
+
+One of the more popular theories of making humans (or other animals that have the same telomere-related problem--pretty much any eukaryotic cell *does,* though some use the following solution to bypass the issue) immortal involves activating the enzyme telomerase to "replace" the lost telomeres, either in a temporary fashion to potentially extend life or permanently for potentially unlimited cell replication.
+
+It's an interesting thought but the problem with it is that humans can very easily have cells that already do this, however, they tend to be problematic as they're cancerous. If we could get around that particular problem... We only have a myriad of other problems related to self-engineered immortality, ignoring the macroscopic societal problems.
+There are a lot of issues with de Grey's theories, not in the least the way he goes on about "how we'll figure it out eventually". Easy to say, but some hurdles are harder to jump than imagined. His books posits some very nice hypotheses that make sense, but what matters in the end is whether the data supports them - and it doesn't always.
+The laboratory I completed my senior thesis in published a paper titled "[Maximum Life Spans in Mice Are Extended by Wild Strain Alleles](http://ebm.rsmjournals.com/content/226/9/854.full)" (Klebanov, 2001) showing two genetic regions where individuals who possessed specific alleles at two chromosomal intervals lived 10% longer than carriers of other alleles (figs 1&amp;2). My thesis transferred this allele onto three genetically divergent hybrid mouse strains and confirmed its activity. When in publication it will provide the first conformation that specific genes control maximum lifespan and overall healthspan. 
+*included link to paper
+You sound important.
+
+I have to assume that this is at least theorized to lead to increases in maximum lifespan. Correct?
+http://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0670033847
+
+It would take too much time to provide you with specific citations, but if you care to review Ray Kurzweil's book, all of SpaizKadett's specific claims are supported by references to several hundred peer-reviewed publications.
+In GC Williams seminal work "[Pleiotropy, Natural Selection, and the Evolution of Senescence](http://info-centre.jenage.de/assets/pdfs/library/williams_EVOLUTION_1957.pdf) it is pruported that lifespan and reproductive traits are linked through the same pathways. Thus, the longer it takes to develop to sexual maturation and produce kids, the longer it will take for you to fulfill what your genes use you for -- spreading themselves (a very Dawkins-esque idea from "The Selfish Gene").
+But there is also a group of health freaks doing everything they can to get enough exercise, a balanced diet, and even caloric restriction. So while the average may go down, the outliers may move up even without new life-extension technologies.
+Ray Kurzweil makes a compelling case for technology achieving the capacity to grant human beings immortality within 40 years in two different ways: physically by repairing our bodies with nanobots, and functionally by syncing our minds to the Cloud.
+
+Kurweil's main argument for why these advances will occur in such a short space of time is based on three premises.
+
+1) His Law of Accelerating Returns: http://www.kurzweilai.net/the-law-of-accelerating-returns  and  http://en.wikipedia.org/wiki/Accelerating_change
+
+The basic idea is that information technology is advancing exponentially, and that all technology will ultimately become information technology.  Our brains are not wired to think exponentially. We are wired for linear extrapolation.  Even highly educated and trained scientists routinely make linear errors when working with nonlinear phenomena (see Meadows et al. and Sterman et al. for details).  Exponential growth makes truly fantastic things possible in incredibly short spaces of time - a good example of which is your smart phone.  Everything your phone can do was Star Trek science fiction in 1992 - because there was (for any normal individual's intents and purposes) no internet, no email, no digital photography or filming, no digital audio, no voice recognition, no GPS, and no wireless communications.  If you showed your iPhone to someone in 1992 and asked them to guess what year the technology was from, they would have predicted 2030 or 2050, not 2007. 
+
+2) The emergence of intelligent machines will radically transform our world and way of life.
+
+3) *Who* human beings are is ultimately just patterns of information stored in a biological substrate (mostly our brains), and once we can move these patterns to other substrates we will be functionally immortal.
+
+I personally find Kurzweil's logic completely compelling, and obvious in retrospect.  His timeframes may be slightly optimistic, but even if he misses the mark by a decade or two it makes no difference in the long arc of human history.  We will certainly transcend our biology this century, and that means every relatively young person today will live to see it - barring catastrophic personal or sociopolitical disaster.
+
+Edit: iPhone example of accelerating returns on technology
+Access to plentiful food, clean water and sanitation, and increased wealth have also played a large role in extending average lifespan.
+&gt;  The "hard coded limit" on lifespan is connected to the telomeres of your chromosomes.
+
+It does not seem so. 
+
+First, if your statement was true, the aging would start with most proliferating cell types, such as red blood cells and skin cells. It is not so.
+
+Second, telomere shortening is not so "hard coded". Embryonic stem cells express telomerase and technically are immortal. Some other stem cell types (or subclones of) might also express it, at least temporary.   
+[(citation)](http://www.nature.com/bjc/journal/v96/n7/full/6603671a.html)
+
+I think telomere shortening is more anti-cancer defense mechanism than basis of aging.
+Do you think that in theory people who are regular blood donors (and therefore would get rid of old cells in the blood on a regular basis) would then have a longer life span on average?
+I don't see that working very well because our brains also age and much of old-age suffering comes from degenerative brain diseases.
+Theoretically, every part of the body except the brain can be replaced. So eventually, we can live as long as our individual neurons, and they can be replaced one at a time relatively simply by the body.
+One, the phrasing I used is "connected to", not "exclusive to". It is a **factor** of aging and the "hard coded limit".
+
+Two, I mentioned telomerase. I will admit that I was a little unspecific in the second section--not all telomerase-activated cells are cancerous, it's that all cancerous cells are telomerase-activated cells.
+Valid point, but another angle is that the outliers live more because they don't get sick, if they don't get sick they do not benefit directly of the advances of medicine, meaning the outliers are not outliers because of medicine, they are born, not made so advances in medicine will not prove that useful for them. Eventually when they need medical care, some treatments might not be available to them because they are too aggressive for their age. 
+
+Bottom line, speculation speculation speculation.
+[deleted]
+Seems if that was the case [bloodletting](http://en.wikipedia.org/wiki/Bloodletting) would have had a strong case for usage in anti-aging treatment.  I imagine that the process is much more complex as you can see from the link:
+
+&gt;1. removed 280uL of blood.
+&gt;2. inversion stired the blood with the paramagnetic anti-KLRG1 particles.
+&gt;3. introduced a strong magnetic field to the blood sequestering the particles and senescent T-cells.
+&gt;4. infused the cleansed blood back into the mouse
+&gt;allowed time for the cleansed blood to homogeneously mix with the mouse's blood.
+[deleted]
+[deleted]
+&gt;what matters in the end is whether the data supports them - and it doesn't always
+
+Can you offer an example of one of his theories being unsupported by data? Would that be something like claiming cancer will be cured eventually but lacking any real clinical studies that have shown progress in that area?
+In addition to Jasontang's various points above, I'd also like to note that many Christians (and for that matter many religious Jews as well) don't interpret the early part of Genesis literally. 
+
+Also, if this sort of thing were a valid form of evidence then one could point to [Sumerian kings who are claimed to have lived hundreds of thousands of years](http://en.wikipedia.org/wiki/Longevity_myths#Sumer). So if this sort of approach had any validity, the claim about Adam would be one of the weaker claims about long lifespans.
+Nice study. However, we have to be cautious extrapolating mouse findings to humans. 
+
+For example, normal mouse cells easily become spontaneously immortal in culture. It is nearly impossible to achieve it with human cells of the same type.
+Hahaha, I don't know if anyone's actually done that study. We can theorize a little bit together though! [Apparently some jews exhibit extraordinary longevity](http://nymag.com/news/features/ashkenazi-jews-2011-11/). Now we can all agree that those orthodox guys have gnarly beards... but do they come in when they're in their teens? Honestly I haven't known enough jews to weigh in on that on my own, any thoughts?
+
+*messed up the link again
+Thanks, Simon would appreciate it. Last I've heard he's only thinking like a gerontologist these days... believe he's working for a bone afide russian import-export company. There's definitely more money in business than in waiting around for your mice to age, ha. 
+
+In regards to the mouse study I'll direct you to the most exciting of findings -- which also came from a Harrison lab intern -- concerning the "target of rapamycin" (TOR) pathway. [Powers et al (2005)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1356109/?tool=pmcentrez) used the yeast model to confirm the conservation of the TOR pathway from C elegans, to files, to yeast, and then what would be confirmed in mice. This work identifies an underlying pathway that directly regulates lifespan among life, not just phyla. It's pretty cool stuff.
+
+A more practical way we heed to this concern is by using genetically heterogenous mouse models. If you recall a few years back, red wine was supposedly identified as the 'fountain of life.' SIRT blockers were going to pave the way to extreme longevity! Didn't end up working out... why you may ask? David Sinclare, Harvard Professor extraordinare, tested the hypothesis that SIRT inhibition would extend lifespan only on the C57BL/6 mouse line, not on any others. If you reference the Klebanov paper above you'll surely realize it's been done on two different four-way cross backgrounds -- tons of diversity!!!  
+
+Finally, not all mouse lines have immortalized cell lines. I know that the C57BL/6 strain is one example that does, but I belive BALB does not.
+Hm, his book is around here somewhere but it's been a while since I've read it (or been in the field, for that matter), but I'll try. I'm too busy to look up specific publications on it now though.
+
+The general issue is that he makes rather vague predictions, corroborated by enough science to seem specific to the layman, but which can serve as nothing more than general direction for the scientist him/herself. His book is better in this regard, but still not all-encompassing. Let's take for instance cancer therapy. We're making progress, but more problems are being created as old ones are being solved, raising questions about the feasibility of his suggested therapies. De Grey has (sometimes selectively...) taken a lot of the known information on cancer into account, but we don't know everything. He's not a visionary who has foreseen all possible physiological woes, contrary to what some would want you to believe. But that's kind of what I hinted at in my previous post.
+
+Another example is how he suggests replacing cells that have defunct mitochondria: While it all sounds very promising and he suggests using markers (which are turning out to be less promising than they were) for figuring out which ones to replace, purely mechanistically there are two major concerns. First, how to avoid off-target effects, and second, how to make sure all relevant cells are targeted. The old sensitivity vs. specificity, if you will. These sound trivial, but they are tied in to the physical constraints that exist for a given therapy and biological system: the first can be changed, the second is a lot more troublesome.
+
+Personally, the way I see his work is that it should count as a reminder of what we're collectively working towards, and that cross-disciplinary cooperation is a must (nothing we didn't know, but we weren't doing it either). That's what his talks are about, and that's all they are about if you filter them. Once you actually get down to the science he either defers to his book or uses circular reasoning to (not) answer your question. Some of this might be explained by his education (computer science, not wet-lab biology), but I don't like using ad hominem arguments. Anyway, the point is that what he says shouldn't be interpreted as being the Holy Grail in modern medicine (by which I don't mean we shouldn't keep trying, far from it).
+
+In summary, I see two problems with his theories: first, that they are not all-encompassing, and second, that his suggested therapies will fall short. Sorry if the above is a bit incoherent, it's kind of on-the-fly.
+
+Edited for some extra info etc.
+I'm not super familiar, I only saw the TED talk, but aren't deGray's theories on how to extend lifespans just suggestions or possibilities?
+
+seemed to me that his overarching point was "there isn't any reason we *can't* live forever, here are some ways in which we might solve these obstacles to that"
+His name is genetic swag, I stepped aside immediately.
+Inherently, there aren't any reasons we can't live forever, but he is making predictions as to when we will be able extend people's lives indefinitely which are optimistic, as far as I'm concerned. In the 50s it was predicted that by the end of the 60s there would be fusion power plants on a commercial level, 50 years later we're only barely within reach of achieving break-even. Point by analogy is, de Grey is very likely overestimating progress by assuming certain obstacles are trivial or easily overcome, while these minor problems often grow out to be major obstacles. Moreover, he can suggest all he wants, it will be the wet lab people who do most of the scientific work to provide impetus and realisation to his ideas, not de Grey himself. They are also more qualified to say what the current state of affairs is - de Grey isn't the only one with "oversight".
+
+Anyhow, I just wanted to provide some counterweight to his claims. They're not impossible, they're not as easy as they sound. Never say never in science but don't say specific dates in science either :-)
+The mind goes eventually.  We have skyrocketing levels of admissions to nursing homes often because the person that would have passed of heart attack or a lesser cancer at the age of 60 or so is still alive at 90 and their mind has gone.  I read somewhere that about 1 in 10 people needs nursing home care (not all end up senile but a good portion do) and if you consider what portion of those people would have passed earlier from a now treatable disease or chronic issue you have a large number of very confused people.
+
+I worked in a nursing home for years.  There were quite a few older people that were completely senile and scared.  Thankfully (for them) there were few of them but damn, that must be a terrifying way to spend one's last years.
+[deleted]
+[deleted]
+[deleted]
+thank you, makes perfect sense
+If we're going to be living to the age of ~120-150, the retirement age is going to have to be around ~80-100 in order to maintain financial stability until death.  So advances in things like mobility, dexterity, and quality of life in our later years will have to coincide with extensions to maximum lifespan.
+Can you give a citation or example of this? I haven't heard this before. There certainly is no shortage of immotalized human cell lines.
+UPBOATS!
+What is this process you're describing here??
+It's common knowledge I would think. Unless you've been living in a cage the past 20 years
+Yes that is a fault I have often considered but just if the only thing aging is the human brain then we should still have a big jump in maximum life span as heart disease, most cancers and organ failure are now off of the table.  I also say this because we really, as a scientific community, are not close to being able to transfer memories from our brain into a robotic one but to simply transplant a brain, one needs far less knowledge of the inner workings of the brain which we don't yet have.
+
+Summary:
+It does not seem so.
+I worked in a nursing home for years.
+There have been other methods to extend lifespan as well.
+If we don't know maximum lifespan, how will we know if we extended it or not?
+Do you think there is a "hard coded" maximum lifespan?
+Right now, there's very little definite idea of what can work in humans.
+I haven't heard this before.
+It's common knowledge I would think.
+Never say never in science but don't say specific dates in science either :-)
+It is a **factor** of aging and the "hard coded limit".
+&gt;  The "hard coded limit" on lifespan is connected to the telomeres of your chromosomes.
+There are a lot of issues with de Grey's theories, not in the least the way he goes on about "how we'll figure it out eventually".
+Also, cell rejuvenation has come a long way.
+I have to assume that this is at least theorized to lead to increases in maximum lifespan.
+Second, telomere shortening is not so "hard coded".
+The evidence does not support the cell damage and/or mutations as 
+the biological basis of aging.
+It is nearly impossible to achieve it with human cells of the same type.
+One, the phrasing I used is "connected to", not "exclusive to".
+That statement makes no sense.
+In summary, I see two problems with his theories: first, that they are not all-encompassing, and second, that his suggested therapies will fall short.
+So eventually, we can live as long as our individual neurons, and they can be replaced one at a time relatively simply by the body.

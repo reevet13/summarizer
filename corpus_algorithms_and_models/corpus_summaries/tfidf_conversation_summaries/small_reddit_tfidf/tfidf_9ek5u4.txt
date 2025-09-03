@@ -1,0 +1,25 @@
+Original Response:
+Nope nope nope, get fucked.
+
+
+Not handing over my phone as a license, no sir.
+Why though?
+Because I'm not handing my phone over to police under any circumstances, I don't trust them not to sift through it, clone it, or confiscate it.
+Wouldn't anything they retrieve from your device with out a warrant be inadmissible in court? Also couldn't you stick anything you didn't want them to find behind some sort of encryption?
+They don’t necessarily need to use what they find in court, there’s cases where cops used parallel construction to “find” the same information they got from your phone via other means. In the US they did it under instruction to hide the fact they were using stingrays without a warrant.
+
+Also the phones contents are encrypted, behind the passcode/fingerprint lock. Never give police an unlocked device.
+If you have to do it, on Android you can open the application then pin it to the screen and lock the phone so they cannot access anything else. Not sure if Apple has this feature or not.
+Yep, this is Guided Access.
+
+You enable it in accessibility settings and trigger it with three clicks of the home button, then you can draw exclusion zones for touch input (or disable touch input entirely, plus physical buttons, keyboard use and even accelerometer changes), and hand your temporarily crippled phone over to do whatever with
+Agreed, but would would you need to look up anything on your phone? Police could just use their own system to check if you have a valid digital licence.
+We have  regular Pablo Escobar over here who thinks the police care who he is.
+I’m pretty sure the key would still need to be generated and in memory to support guided access or the android equivalent. Would be interested to look into that. If you’re up against someone with a device to dump the phone contents then it’s probably just as dangerous. Does android still require opt-in for encryption these days or is it on by default now? If no encryption then you’re SOL anyway, they’ll just dump the contents regardless
+True, there are law enforcement products to break it. Fortunately, traffic police wouldn't have them though (yet :P). But then they remotely compromise phones anyway so physical access is not needed if they want it.
+
+Yeah, Android uses disk encryption by default now.
+
+Summary:
+Also the phones contents are encrypted, behind the passcode/fingerprint lock.
+Yeah, Android uses disk encryption by default now.

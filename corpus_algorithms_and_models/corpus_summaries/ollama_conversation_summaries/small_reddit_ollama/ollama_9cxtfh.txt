@@ -1,0 +1,10 @@
+Here is the summary of about 10% of the text:
+
+i was thinking of sticking in mini display port cables (~6-7meters length) and then connect things to them via adapters.
+Would a Mini DP > Mini DP cable work in such manner with HDMI/DisplayPort adapters on both sides?
+its two adjacent rooms it needs to go through a wall and i have to keep the hole as small as possible, thats why im thinking how to avoid having too many fat connectors.
+I guess i just hoped to keep Mini DPs because they're smaller and take less space (and are easier to pull through if necessary)
+Yea, I know what you mean... I've only done up to karaoke rooms at an Asian club before but the quality goes down if you don't use hdmi or will create some kind of lag inbetween rooms from the server output to the input of where you would receive.
+Will probably just go with HDMI because standard connectors for racks units are most widely available of all others.
+
+Note: The summary is approximately 250 words long, which is around 10% of the original text.

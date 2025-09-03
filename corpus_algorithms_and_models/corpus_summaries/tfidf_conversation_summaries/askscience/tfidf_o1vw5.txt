@@ -1,0 +1,23 @@
+Original Response:
+I know it would be amazing to be able to track my ancestor's path as they left Africa, but I'm wondering what I could learn that would be the most applicable and beneficial to my everyday life. Would anything I learn really have the power to alter how I live?
+At this point in time, no.  There are only a few diseases that we know not only which specific gene causes the disease, but that if you have that gene, you WILL have that disease.  If I remember correctly, the best example of this would be something like Huntington's disease.  Beyond that, most of it is just correlation.  We know that if you have certain variants of certain genes, you'll be more likely to have certain diseases.  But it isn't always the case.  Example: About 40% of the population has DQ2 (DQ8 is the other variant important here), a gene associated with celiac disease.  But only about 1% of the population will actually develop celiac disease.  On the flip side, something like 98% of people with celiac disease will have the DQ2 variant of that gene.  
+
+So, you can have the gene for many things, but that doesn't mean it will be expressed.  At this point, getting your genome sequenced is simply a novelty, and right now, you won't get much more out of it other than a likelihood of knowing you MIGHT get some diseases, and not others.
+What are your thoughts on the application of genetic sequencing to deciding whether someone is a fast, normal, or slow metabolizer of certain drugs such as with the genetic polymorphisms for [cytochrome p450 oxidase](http://en.wikipedia.org/wiki/Cytochrome_p450)?   I understand this isn't big now, but personalized medicine is a hot topic and patient-dependent dosing is a component of that.   
+
+** for those reading, imagine being prescribed 500mg of a drug vs 750 or 1000mg because of your genes and how fast your body gets rid of that drug ... [example of use](http://www.ncbi.nlm.nih.gov/pubmed/8858891)
+I'm sorry, but I don't know enough to even feel comfortable speculating about that.  I used the two examples I did because those are ones that I know well.  
+
+What I think will be an interesting tie in some time in the future is not only medication based on our own genetic capability (and reality, looking at personal proteomes and such), but also that of our microbiota.  I know certain medications work the way they do because they are partially metabolized by some of our gut microbes prior to be absorbed into the body.  This is an area I'd love to end up doing research in, but I don't currently have nearly enough time to read to say that I'm well versed in it.  Give me a few years to finish my PhD, and do a post doc on it!
+I haven't heard of drug metabolism being affected by gut flora before.  I think this might be particularly interesting in the healthcare setting where we tend to wipe out much of the normal flora with antibiotics.
+Indeed.  I'll see if I can find you a reference for it.
+As it stands you can learn a little bit about your propensity for diseases. That you have X% chance of this and that. The science is shaky though that the companies pedal. Many of them do not do whole genome sequencing and only do partial sequencing in the areas they have markers for. If you got the whole thing sequenced when a discovery is made you could just search and see what you have. Many of the discoveries are in the developmental stages but as more and more people get sequenced things more discoveries will come out. 
+
+Something to think about is that we are not just our genomes. There are epigenetic effects that change the expression of those genes, such as methylation of DNA and histone modifications to make DNA more or less accessible to binding proteins. Therefore, even if you know you have a sequence the sequence might not be active in all cases. 
+
+Speaking on the subject of diet and drugs. Pharmacogenomics is a promising field of research and is starting to catch on but factors such as diet and personal differences not found in the genome still take a front seat when it comes to dosing a patient on a drug. If the pharmacological window is so narrow before side effects occur many drugs will stay in a testing phase until a less toxic variant is produced.
+
+Summary:
+Something to think about is that we are not just our genomes.
+If I remember correctly, the best example of this would be something like Huntington's disease.
+On the flip side, something like 98% of people with celiac disease will have the DQ2 variant of that gene.

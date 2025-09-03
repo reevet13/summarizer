@@ -1,0 +1,25 @@
+Here is the extracted summary of around 10% of the original text:
+
+I have my OS installed on an SSD, but also have a 1TB HDD, so I'm a little unsure what to do there.
+
+You reinstall on the SSD after wiping it (with the installation medium), and completely ignore the HDD. If it doesn't have OS data on it, it's irrelevant here.
+
+Windows 8 came preinstalled and did not ask me to create any installation files - not sure if that's just an antiquated process.
+
+It is a laptop made by Gigabyte and has some software on it which controls the bluetooth, fans, webcam etc.
+
+You download new installation files from the inet. Updates and so on. Never use old installation files, always download current ones unless there's a good reason not to.
+
+Media Creation tool: https://www.microsoft.com/software-download/windows10
+
+Will this format the HDD too? I basically am wanting to start fresh.
+
+What bloatware would remain?
+
+I'm not having any issues with Windows.
+
+Everything. You reset it to the initial state with all the bloat that was on there.
+
+As I said, the reset isn't "fresh", it's kinda fresh and kinda not. IMO it shouldn't even exist.
+
+You boot from the stick, the wiping is done with the installer on the stick.

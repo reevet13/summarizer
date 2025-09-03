@@ -1,0 +1,15 @@
+Here is the summary extracted from the original text:
+
+Suppose I had a turbine. I spun the rotor until it was going fast enough that the outer rim was travelling at or near the speed of light.
+
+Special relativity can still be used to do computations for that (although some of the mathematical tools of GR may be helpful)
+
+General relativity is brought in when your spacetime isn't (approximately) flat.
+
+The differences in length contractions due to relative velocities between inside and outside would more or less on its own be enough to break it.
+
+You can model that system with a relativistic Lagrangian.
+
+A relativistic Lagrangian just has a different form for the kinetic energy, to keep everything below the speed of light.
+
+They're not directly related, they were just discovered by the same guy.

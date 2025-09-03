@@ -1,0 +1,17 @@
+Here is the summary:
+
+1 / (0.5^23) = 8 388 608
+8.3 million different combinations
+due to genetic recombination its actually even higher than that.
+genetic recombination during meiosis leads to increasing likely-hood of different permutations of genes in every sperm cell.
+
+Yes. Each of your sperm contains only half of your genome.
+Each individual person has two alleles at each locus. If they're the same at a given locus, let's say, a blue eyed person having the genotype bb, then every sperm will have a b at that locus. However, a brown eyed person might have the genotype Bb. If this person were to mate and produce sperm, half of his sperm would contain the B allele, and the other half would contain the b allele.
+
+The number of permutations of sperm that you would have will vary based on your genome.  However, the number is extremely, extremely large.
+Look at siblings for the average amount of difference.
+Everyone who reads this should remember that an egg will have as many possibilities, and the combination will produce even more variation.
+
+What are the chances of 2 sperm being exactly the same genetically?
+I'm actually wondering about the conscience of the sperm and if each one has the capability to develop into something with a different personality than the others.
+1 in 8,388,608.

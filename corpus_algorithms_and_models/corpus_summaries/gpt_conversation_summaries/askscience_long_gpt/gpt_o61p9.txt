@@ -1,0 +1,21 @@
+The problem is, when you're talking about spacetime curvature, you're talking about the relativistic theory of gravity. When you're talking about force-mediating particles, you're talking about a quantum description of gravity. You may have heard that quantum mechanics and relativity don't agree with one another. This, right here, is essentially why. Looking for the patch that clears this incongruity up is a big part of what is sometimes called the search for the Grand Unification Theory.
+
+A GUT doesn't require the high energy convergence of gravity. In fact, the entire quantum gravity program isn't even aimed at doing that, it's just trying to find a theory which gives a description of quantum space-time and how it interacts with mass and energy. Some notable theories:
+
+- Loop Quantum Gravity
+
+- Superstring Theory
+
+There are two things to bear in mind here: what does it mean, mathematically, for spacetime to have curvature, and what does it mean (again mathematically) for a force to be mediated by a particle?
+
+The curvature of spacetime is described by a matrix called the *metric tensor* which has different values at each point in space and time, telling you exactly how the usual Pythagorean theorem is modified to measure distances. Because it's an object with a certain value at each point in spacetime, it's what we call a field.
+
+In quantum theory, particles arise as energetic excitations in fields. The electromagnetic field is one - it's made up of a vector at each point in spacetime - and its excitations are called photons. Similarly, the metric tensor which describes spacetime curvature is also a field, so in principle it should be able to be quantized as well, and its excitations are particles called gravitons. It's really a different description of the same underlying physics.
+
+You can break General Relativity down to a fundamental idea that a system undergoing constant acceleration is indiscernable from a system within a gravitational well.
+
+Therefore, General Relativity never has to deal with things like 'Gravity Fields' because gravity wells can just be treated as properly configured GR Accelerating Reference Frames.
+
+If it wasn't excitable, that means it would be static and unchanging forever, and nothing would ever happen. As far as quantization is concerned, there isn't a quantization of gravity that we have been able to experimentally determine, but the quantization of other fields (electromagnetic, quark, lepton, etc...) leads us to expect that maybe this one can be quantized too.
+
+If we quantize a field, we

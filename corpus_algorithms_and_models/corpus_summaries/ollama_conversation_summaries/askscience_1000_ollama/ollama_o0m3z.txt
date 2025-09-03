@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+Even in double-blind experiments, aren't the results in the end explainable only in terms of correlation. I.e. The ball moves because i kick it. The evidence: Ball's movement corresponds with my kicking/force applied.
+
+You need a controlled experiment.  If you can add or remove one of the conditions/effects (not just counteract it) and see how it affects the other one then you can show if there is a causal connection or not.
+
+To isolate a cause-effect relationship, one must provide convincing evidence that other possible causes are not operating to create the effect in question. That is in addition to the evidence that the hypothesized cause is in fact the actual cause of the observed effect.
+
+So in lay terms, correlation _does_ imply causation - it _hints_ that one thing might be the cause of another, and of course there can be no causation without correlation. Better to say that correlation does not _prove_ correlation.
+
+You need evidence to back things up. If you have two observations and you want to link them together you need evidence that they are related.
+
+What establishes causality is the mechanism of the phenomenon, can you with facts and observation apply mechanics of the process that are self consistent?
+
+This involves trying all kinds of variables and isolating and comparing results. This takes a very, very long time.

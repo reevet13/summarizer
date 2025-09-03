@@ -1,0 +1,3 @@
+I fully agree that neither cell phone nor wireless phone radiation is ionizing.
+Therefore, the radiation itself will not directly excite DNA in a fashion capable of causing strand breakage.
+Ionization of DNA can lead to mutation: for example, C-&gt;T by OH- replacement of C's amino group, or T-T crosslinks.

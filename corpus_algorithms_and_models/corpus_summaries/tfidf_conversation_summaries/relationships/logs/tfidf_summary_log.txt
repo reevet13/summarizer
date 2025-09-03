@@ -1,0 +1,914 @@
+2025-08-14 16:50:48,897 | INFO | Starting TF-IDF summaries for subreddit: relationships
+2025-08-14 16:50:48,898 | INFO | Total conversations in dataset: 500
+2025-08-14 16:50:48,902 | ERROR | [1/500] Error processing conversation 1dgmgf: name 'noRed' is not defined
+2025-08-14 16:50:49,004 | ERROR | [2/500] Error processing conversation 1dgple: name 'noRed' is not defined
+2025-08-14 16:50:49,105 | ERROR | [3/500] Error processing conversation 1dgrhe: name 'noRed' is not defined
+2025-08-14 16:50:49,210 | ERROR | [4/500] Error processing conversation 1dhek3: name 'noRed' is not defined
+2025-08-14 16:50:49,314 | ERROR | [5/500] Error processing conversation 1dhzwg: name 'noRed' is not defined
+2025-08-14 16:50:49,419 | ERROR | [6/500] Error processing conversation 1di4t6: name 'noRed' is not defined
+2025-08-14 16:50:49,522 | ERROR | [7/500] Error processing conversation 1di78q: name 'noRed' is not defined
+2025-08-14 16:50:49,627 | ERROR | [8/500] Error processing conversation 1di7mo: name 'noRed' is not defined
+2025-08-14 16:50:49,731 | ERROR | [9/500] Error processing conversation 1difq4: name 'noRed' is not defined
+2025-08-14 16:50:49,835 | ERROR | [10/500] Error processing conversation 1dihg2: name 'noRed' is not defined
+2025-08-14 16:50:49,940 | ERROR | [11/500] Error processing conversation 1dijzm: name 'noRed' is not defined
+2025-08-14 16:50:50,046 | ERROR | [12/500] Error processing conversation 1dip67: name 'noRed' is not defined
+2025-08-14 16:50:50,149 | ERROR | [13/500] Error processing conversation 1dj5ui: name 'noRed' is not defined
+2025-08-14 16:50:50,253 | ERROR | [14/500] Error processing conversation 1djhxc: name 'noRed' is not defined
+2025-08-14 16:50:50,356 | ERROR | [15/500] Error processing conversation 1djote: name 'noRed' is not defined
+2025-08-14 16:50:50,463 | ERROR | [16/500] Error processing conversation 1dkav2: name 'noRed' is not defined
+2025-08-14 16:50:50,567 | ERROR | [17/500] Error processing conversation 1dksdx: name 'noRed' is not defined
+2025-08-14 16:50:50,669 | ERROR | [18/500] Error processing conversation 1dl91y: name 'noRed' is not defined
+2025-08-14 16:50:50,773 | ERROR | [19/500] Error processing conversation 1dlrmz: name 'noRed' is not defined
+2025-08-14 16:50:50,876 | ERROR | [20/500] Error processing conversation 1dlxdf: name 'noRed' is not defined
+2025-08-14 16:50:50,980 | ERROR | [21/500] Error processing conversation 1dlzxn: name 'noRed' is not defined
+2025-08-14 16:50:51,083 | ERROR | [22/500] Error processing conversation 1dmt0p: name 'noRed' is not defined
+2025-08-14 16:50:51,188 | ERROR | [23/500] Error processing conversation 1dmwqf: name 'noRed' is not defined
+2025-08-14 16:50:51,293 | ERROR | [24/500] Error processing conversation 1dnaec: name 'noRed' is not defined
+2025-08-14 16:50:51,399 | ERROR | [25/500] Error processing conversation 1dnc25: name 'noRed' is not defined
+2025-08-14 16:50:51,503 | ERROR | [26/500] Error processing conversation 1dogl1: name 'noRed' is not defined
+2025-08-14 16:50:51,607 | ERROR | [27/500] Error processing conversation 1dojlv: name 'noRed' is not defined
+2025-08-14 16:50:51,709 | ERROR | [28/500] Error processing conversation 1dol7y: name 'noRed' is not defined
+2025-08-14 16:50:51,811 | ERROR | [29/500] Error processing conversation 1dp2rr: name 'noRed' is not defined
+2025-08-14 16:50:51,913 | ERROR | [30/500] Error processing conversation 1dprdf: name 'noRed' is not defined
+2025-08-14 16:50:52,017 | ERROR | [31/500] Error processing conversation 1dpun8: name 'noRed' is not defined
+2025-08-14 16:50:52,119 | ERROR | [32/500] Error processing conversation 1dpynb: name 'noRed' is not defined
+2025-08-14 16:50:52,222 | ERROR | [33/500] Error processing conversation 1dpyzu: name 'noRed' is not defined
+2025-08-14 16:50:52,325 | ERROR | [34/500] Error processing conversation 1dqt10: name 'noRed' is not defined
+2025-08-14 16:50:52,428 | ERROR | [35/500] Error processing conversation 1dqzfi: name 'noRed' is not defined
+2025-08-14 16:50:52,530 | ERROR | [36/500] Error processing conversation 1dr639: name 'noRed' is not defined
+2025-08-14 16:50:52,635 | ERROR | [37/500] Error processing conversation 1drtju: name 'noRed' is not defined
+2025-08-14 16:50:52,738 | ERROR | [38/500] Error processing conversation 1druwi: name 'noRed' is not defined
+2025-08-14 16:50:52,841 | ERROR | [39/500] Error processing conversation 1drxwk: name 'noRed' is not defined
+2025-08-14 16:50:52,945 | ERROR | [40/500] Error processing conversation 1drzos: name 'noRed' is not defined
+2025-08-14 16:50:53,047 | ERROR | [41/500] Error processing conversation 1dskrv: name 'noRed' is not defined
+2025-08-14 16:50:53,150 | ERROR | [42/500] Error processing conversation 1dsyfg: name 'noRed' is not defined
+2025-08-14 16:50:53,251 | ERROR | [43/500] Error processing conversation 1dt01r: name 'noRed' is not defined
+2025-08-14 16:50:53,354 | ERROR | [44/500] Error processing conversation 1dt3xh: name 'noRed' is not defined
+2025-08-14 16:50:53,456 | ERROR | [45/500] Error processing conversation 1dt4va: name 'noRed' is not defined
+2025-08-14 16:50:53,558 | ERROR | [46/500] Error processing conversation 1dupws: name 'noRed' is not defined
+2025-08-14 16:50:53,660 | ERROR | [47/500] Error processing conversation 1duv00: name 'noRed' is not defined
+2025-08-14 16:50:53,762 | ERROR | [48/500] Error processing conversation 1dv2e8: name 'noRed' is not defined
+2025-08-14 16:50:53,865 | ERROR | [49/500] Error processing conversation 1dvij1: name 'noRed' is not defined
+2025-08-14 16:50:53,966 | ERROR | [50/500] Error processing conversation 1dw0gq: name 'noRed' is not defined
+2025-08-14 16:50:54,069 | ERROR | [51/500] Error processing conversation 1dwjtx: name 'noRed' is not defined
+2025-08-14 16:50:54,170 | ERROR | [52/500] Error processing conversation 1dwukf: name 'noRed' is not defined
+2025-08-14 16:50:54,273 | ERROR | [53/500] Error processing conversation 1dwz3x: name 'noRed' is not defined
+2025-08-14 16:50:54,374 | ERROR | [54/500] Error processing conversation 1dxlrh: name 'noRed' is not defined
+2025-08-14 16:50:54,477 | ERROR | [55/500] Error processing conversation 1dxlxp: name 'noRed' is not defined
+2025-08-14 16:50:54,578 | ERROR | [56/500] Error processing conversation 1dxzdq: name 'noRed' is not defined
+2025-08-14 16:50:54,681 | ERROR | [57/500] Error processing conversation 1dzeym: name 'noRed' is not defined
+2025-08-14 16:50:54,783 | ERROR | [58/500] Error processing conversation 1dzhjq: name 'noRed' is not defined
+2025-08-14 16:50:54,885 | ERROR | [59/500] Error processing conversation 1e1x1y: name 'noRed' is not defined
+2025-08-14 16:50:54,988 | ERROR | [60/500] Error processing conversation 1e1ydu: name 'noRed' is not defined
+2025-08-14 16:50:55,089 | ERROR | [61/500] Error processing conversation 1e28x2: name 'noRed' is not defined
+2025-08-14 16:50:55,191 | ERROR | [62/500] Error processing conversation 1e2w8e: name 'noRed' is not defined
+2025-08-14 16:50:55,293 | ERROR | [63/500] Error processing conversation 1e3k2h: name 'noRed' is not defined
+2025-08-14 16:50:55,395 | ERROR | [64/500] Error processing conversation 1e3ppf: name 'noRed' is not defined
+2025-08-14 16:50:55,497 | ERROR | [65/500] Error processing conversation 1e4b5t: name 'noRed' is not defined
+2025-08-14 16:50:55,598 | ERROR | [66/500] Error processing conversation 1e5rxr: name 'noRed' is not defined
+2025-08-14 16:50:55,700 | ERROR | [67/500] Error processing conversation 1e5t78: name 'noRed' is not defined
+2025-08-14 16:50:55,803 | ERROR | [68/500] Error processing conversation 1e64vi: name 'noRed' is not defined
+2025-08-14 16:50:55,905 | ERROR | [69/500] Error processing conversation 1e69c6: name 'noRed' is not defined
+2025-08-14 16:50:56,008 | ERROR | [70/500] Error processing conversation 1e6aww: name 'noRed' is not defined
+2025-08-14 16:50:56,110 | ERROR | [71/500] Error processing conversation 1e6ufq: name 'noRed' is not defined
+2025-08-14 16:50:56,211 | ERROR | [72/500] Error processing conversation 1e73ry: name 'noRed' is not defined
+2025-08-14 16:50:56,314 | ERROR | [73/500] Error processing conversation 1e788d: name 'noRed' is not defined
+2025-08-14 16:50:56,416 | ERROR | [74/500] Error processing conversation 1e7fq2: name 'noRed' is not defined
+2025-08-14 16:50:56,519 | ERROR | [75/500] Error processing conversation 1e8ijt: name 'noRed' is not defined
+2025-08-14 16:50:56,620 | ERROR | [76/500] Error processing conversation 1e8iq3: name 'noRed' is not defined
+2025-08-14 16:50:56,722 | ERROR | [77/500] Error processing conversation 1e8zxl: name 'noRed' is not defined
+2025-08-14 16:50:56,825 | ERROR | [78/500] Error processing conversation 1e9cjx: name 'noRed' is not defined
+2025-08-14 16:50:56,927 | ERROR | [79/500] Error processing conversation 1e9hz9: name 'noRed' is not defined
+2025-08-14 16:50:57,029 | ERROR | [80/500] Error processing conversation 1e9ws9: name 'noRed' is not defined
+2025-08-14 16:50:57,131 | ERROR | [81/500] Error processing conversation 1ead4m: name 'noRed' is not defined
+2025-08-14 16:50:57,234 | ERROR | [82/500] Error processing conversation 1earru: name 'noRed' is not defined
+2025-08-14 16:50:57,336 | ERROR | [83/500] Error processing conversation 1eay7x: name 'noRed' is not defined
+2025-08-14 16:50:57,437 | ERROR | [84/500] Error processing conversation 1eb95r: name 'noRed' is not defined
+2025-08-14 16:50:57,541 | ERROR | [85/500] Error processing conversation 1ebkr7: name 'noRed' is not defined
+2025-08-14 16:50:57,644 | ERROR | [86/500] Error processing conversation 1ebp3c: name 'noRed' is not defined
+2025-08-14 16:50:57,746 | ERROR | [87/500] Error processing conversation 1ec94n: name 'noRed' is not defined
+2025-08-14 16:50:57,848 | ERROR | [88/500] Error processing conversation 1ecb2p: name 'noRed' is not defined
+2025-08-14 16:50:57,949 | ERROR | [89/500] Error processing conversation 1ecbod: name 'noRed' is not defined
+2025-08-14 16:50:58,052 | ERROR | [90/500] Error processing conversation 1ectis: name 'noRed' is not defined
+2025-08-14 16:50:58,155 | ERROR | [91/500] Error processing conversation 1ed6wk: name 'noRed' is not defined
+2025-08-14 16:50:58,257 | ERROR | [92/500] Error processing conversation 1ed7l1: name 'noRed' is not defined
+2025-08-14 16:50:58,360 | ERROR | [93/500] Error processing conversation 1edqfe: name 'noRed' is not defined
+2025-08-14 16:50:58,463 | ERROR | [94/500] Error processing conversation 1eeias: name 'noRed' is not defined
+2025-08-14 16:50:58,566 | ERROR | [95/500] Error processing conversation 1efp5z: name 'noRed' is not defined
+2025-08-14 16:50:58,668 | ERROR | [96/500] Error processing conversation 1eft5v: name 'noRed' is not defined
+2025-08-14 16:50:58,771 | ERROR | [97/500] Error processing conversation 1efuqr: name 'noRed' is not defined
+2025-08-14 16:50:58,873 | ERROR | [98/500] Error processing conversation 1eg4zy: name 'noRed' is not defined
+2025-08-14 16:50:58,976 | ERROR | [99/500] Error processing conversation 1eg6id: name 'noRed' is not defined
+2025-08-14 16:50:59,077 | ERROR | [100/500] Error processing conversation 1eglai: name 'noRed' is not defined
+2025-08-14 16:50:59,180 | ERROR | [101/500] Error processing conversation 1egnz8: name 'noRed' is not defined
+2025-08-14 16:50:59,282 | ERROR | [102/500] Error processing conversation 1egx2z: name 'noRed' is not defined
+2025-08-14 16:50:59,396 | ERROR | [103/500] Error processing conversation 1eh9i5: name 'noRed' is not defined
+2025-08-14 16:50:59,500 | ERROR | [104/500] Error processing conversation 1ehdd5: name 'noRed' is not defined
+2025-08-14 16:50:59,603 | ERROR | [105/500] Error processing conversation 1ehyiv: name 'noRed' is not defined
+2025-08-14 16:50:59,705 | ERROR | [106/500] Error processing conversation 1eifiu: name 'noRed' is not defined
+2025-08-14 16:50:59,808 | ERROR | [107/500] Error processing conversation 1eizoh: name 'noRed' is not defined
+2025-08-14 16:50:59,910 | ERROR | [108/500] Error processing conversation 1ek193: name 'noRed' is not defined
+2025-08-14 16:51:00,013 | ERROR | [109/500] Error processing conversation 1ek79v: name 'noRed' is not defined
+2025-08-14 16:51:00,116 | ERROR | [110/500] Error processing conversation 1el3g7: name 'noRed' is not defined
+2025-08-14 16:51:00,218 | ERROR | [111/500] Error processing conversation 1el407: name 'noRed' is not defined
+2025-08-14 16:51:00,322 | ERROR | [112/500] Error processing conversation 1emdqy: name 'noRed' is not defined
+2025-08-14 16:51:00,423 | ERROR | [113/500] Error processing conversation 1emlce: name 'noRed' is not defined
+2025-08-14 16:51:00,525 | ERROR | [114/500] Error processing conversation 1emw4u: name 'noRed' is not defined
+2025-08-14 16:51:00,627 | ERROR | [115/500] Error processing conversation 1en3uc: name 'noRed' is not defined
+2025-08-14 16:51:00,729 | ERROR | [116/500] Error processing conversation 1en4wn: name 'noRed' is not defined
+2025-08-14 16:51:00,831 | ERROR | [117/500] Error processing conversation 1en59p: name 'noRed' is not defined
+2025-08-14 16:51:00,933 | ERROR | [118/500] Error processing conversation 1ena2p: name 'noRed' is not defined
+2025-08-14 16:51:01,036 | ERROR | [119/500] Error processing conversation 1enfqo: name 'noRed' is not defined
+2025-08-14 16:51:01,139 | ERROR | [120/500] Error processing conversation 1enndp: name 'noRed' is not defined
+2025-08-14 16:51:01,242 | ERROR | [121/500] Error processing conversation 1enop1: name 'noRed' is not defined
+2025-08-14 16:51:01,344 | ERROR | [122/500] Error processing conversation 1eog2w: name 'noRed' is not defined
+2025-08-14 16:51:01,445 | ERROR | [123/500] Error processing conversation 1eoigg: name 'noRed' is not defined
+2025-08-14 16:51:01,548 | ERROR | [124/500] Error processing conversation 1eos5i: name 'noRed' is not defined
+2025-08-14 16:51:01,650 | ERROR | [125/500] Error processing conversation 1ep7um: name 'noRed' is not defined
+2025-08-14 16:51:01,751 | ERROR | [126/500] Error processing conversation 1epngw: name 'noRed' is not defined
+2025-08-14 16:51:01,855 | ERROR | [127/500] Error processing conversation 1eptc2: name 'noRed' is not defined
+2025-08-14 16:51:01,959 | ERROR | [128/500] Error processing conversation 1eqxx1: name 'noRed' is not defined
+2025-08-14 16:51:02,061 | ERROR | [129/500] Error processing conversation 1er9bd: name 'noRed' is not defined
+2025-08-14 16:51:02,162 | ERROR | [130/500] Error processing conversation 1erygd: name 'noRed' is not defined
+2025-08-14 16:51:02,264 | ERROR | [131/500] Error processing conversation 1esd4h: name 'noRed' is not defined
+2025-08-14 16:51:02,368 | ERROR | [132/500] Error processing conversation 1ese1v: name 'noRed' is not defined
+2025-08-14 16:51:02,469 | ERROR | [133/500] Error processing conversation 1esv0m: name 'noRed' is not defined
+2025-08-14 16:51:02,572 | ERROR | [134/500] Error processing conversation 1et2vk: name 'noRed' is not defined
+2025-08-14 16:51:02,673 | ERROR | [135/500] Error processing conversation 1etcen: name 'noRed' is not defined
+2025-08-14 16:51:02,776 | ERROR | [136/500] Error processing conversation 1eu3u7: name 'noRed' is not defined
+2025-08-14 16:51:02,877 | ERROR | [137/500] Error processing conversation 1eu507: name 'noRed' is not defined
+2025-08-14 16:51:02,979 | ERROR | [138/500] Error processing conversation 1euq3r: name 'noRed' is not defined
+2025-08-14 16:51:03,081 | ERROR | [139/500] Error processing conversation 1evoqc: name 'noRed' is not defined
+2025-08-14 16:51:03,182 | ERROR | [140/500] Error processing conversation 1ewr1x: name 'noRed' is not defined
+2025-08-14 16:51:03,285 | ERROR | [141/500] Error processing conversation 1ex3fo: name 'noRed' is not defined
+2025-08-14 16:51:03,388 | ERROR | [142/500] Error processing conversation 1ex7h5: name 'noRed' is not defined
+2025-08-14 16:51:03,490 | ERROR | [143/500] Error processing conversation 1ey76q: name 'noRed' is not defined
+2025-08-14 16:51:03,594 | ERROR | [144/500] Error processing conversation 1eyywb: name 'noRed' is not defined
+2025-08-14 16:51:03,697 | ERROR | [145/500] Error processing conversation 1ez9uk: name 'noRed' is not defined
+2025-08-14 16:51:03,799 | ERROR | [146/500] Error processing conversation 1ezd8i: name 'noRed' is not defined
+2025-08-14 16:51:03,903 | ERROR | [147/500] Error processing conversation 1f0k4h: name 'noRed' is not defined
+2025-08-14 16:51:04,004 | ERROR | [148/500] Error processing conversation 1f0mtp: name 'noRed' is not defined
+2025-08-14 16:51:04,107 | ERROR | [149/500] Error processing conversation 1f1pbw: name 'noRed' is not defined
+2025-08-14 16:51:04,209 | ERROR | [150/500] Error processing conversation 1f2lf0: name 'noRed' is not defined
+2025-08-14 16:51:04,312 | ERROR | [151/500] Error processing conversation 1f2qbi: name 'noRed' is not defined
+2025-08-14 16:51:04,414 | ERROR | [152/500] Error processing conversation 1f3r44: name 'noRed' is not defined
+2025-08-14 16:51:04,516 | ERROR | [153/500] Error processing conversation 1f4t1x: name 'noRed' is not defined
+2025-08-14 16:51:04,618 | ERROR | [154/500] Error processing conversation 1f4z7b: name 'noRed' is not defined
+2025-08-14 16:51:04,720 | ERROR | [155/500] Error processing conversation 1f598b: name 'noRed' is not defined
+2025-08-14 16:51:04,822 | ERROR | [156/500] Error processing conversation 1f6rmk: name 'noRed' is not defined
+2025-08-14 16:51:04,924 | ERROR | [157/500] Error processing conversation 1f6rpr: name 'noRed' is not defined
+2025-08-14 16:51:05,026 | ERROR | [158/500] Error processing conversation 1f6s1n: name 'noRed' is not defined
+2025-08-14 16:51:05,131 | ERROR | [159/500] Error processing conversation 1f6uic: name 'noRed' is not defined
+2025-08-14 16:51:05,234 | ERROR | [160/500] Error processing conversation 1f6zbo: name 'noRed' is not defined
+2025-08-14 16:51:05,338 | ERROR | [161/500] Error processing conversation 1f7c6v: name 'noRed' is not defined
+2025-08-14 16:51:05,449 | ERROR | [162/500] Error processing conversation 1f7fsj: name 'noRed' is not defined
+2025-08-14 16:51:05,557 | ERROR | [163/500] Error processing conversation 1f7t20: name 'noRed' is not defined
+2025-08-14 16:51:05,660 | ERROR | [164/500] Error processing conversation 1f83v6: name 'noRed' is not defined
+2025-08-14 16:51:05,761 | ERROR | [165/500] Error processing conversation 1f88jp: name 'noRed' is not defined
+2025-08-14 16:51:05,864 | ERROR | [166/500] Error processing conversation 1f8cjy: name 'noRed' is not defined
+2025-08-14 16:51:05,966 | ERROR | [167/500] Error processing conversation 1f8u0m: name 'noRed' is not defined
+2025-08-14 16:51:06,068 | ERROR | [168/500] Error processing conversation 1f98px: name 'noRed' is not defined
+2025-08-14 16:51:06,170 | ERROR | [169/500] Error processing conversation 1f99ob: name 'noRed' is not defined
+2025-08-14 16:51:06,275 | ERROR | [170/500] Error processing conversation 1f9gtt: name 'noRed' is not defined
+2025-08-14 16:51:06,377 | ERROR | [171/500] Error processing conversation 1f9nvg: name 'noRed' is not defined
+2025-08-14 16:51:06,480 | ERROR | [172/500] Error processing conversation 1f9okx: name 'noRed' is not defined
+2025-08-14 16:51:06,583 | ERROR | [173/500] Error processing conversation 1f9vqy: name 'noRed' is not defined
+2025-08-14 16:51:06,687 | ERROR | [174/500] Error processing conversation 1f9whn: name 'noRed' is not defined
+2025-08-14 16:51:06,789 | ERROR | [175/500] Error processing conversation 1fadah: name 'noRed' is not defined
+2025-08-14 16:51:06,892 | ERROR | [176/500] Error processing conversation 1fadmm: name 'noRed' is not defined
+2025-08-14 16:51:06,994 | ERROR | [177/500] Error processing conversation 1faeq1: name 'noRed' is not defined
+2025-08-14 16:51:07,096 | ERROR | [178/500] Error processing conversation 1faeqg: name 'noRed' is not defined
+2025-08-14 16:51:07,198 | ERROR | [179/500] Error processing conversation 1fauye: name 'noRed' is not defined
+2025-08-14 16:51:07,300 | ERROR | [180/500] Error processing conversation 1fbkdz: name 'noRed' is not defined
+2025-08-14 16:51:07,403 | ERROR | [181/500] Error processing conversation 1fbket: name 'noRed' is not defined
+2025-08-14 16:51:07,504 | ERROR | [182/500] Error processing conversation 1fbuyj: name 'noRed' is not defined
+2025-08-14 16:51:07,606 | ERROR | [183/500] Error processing conversation 1fc0b0: name 'noRed' is not defined
+2025-08-14 16:51:07,709 | ERROR | [184/500] Error processing conversation 1fc7zi: name 'noRed' is not defined
+2025-08-14 16:51:07,810 | ERROR | [185/500] Error processing conversation 1fceff: name 'noRed' is not defined
+2025-08-14 16:51:07,916 | ERROR | [186/500] Error processing conversation 1fcghw: name 'noRed' is not defined
+2025-08-14 16:51:08,019 | ERROR | [187/500] Error processing conversation 1fd84c: name 'noRed' is not defined
+2025-08-14 16:51:08,122 | ERROR | [188/500] Error processing conversation 1fdb2g: name 'noRed' is not defined
+2025-08-14 16:51:08,224 | ERROR | [189/500] Error processing conversation 1feg4r: name 'noRed' is not defined
+2025-08-14 16:51:08,326 | ERROR | [190/500] Error processing conversation 1ffhud: name 'noRed' is not defined
+2025-08-14 16:51:08,428 | ERROR | [191/500] Error processing conversation 4csw0m: name 'noRed' is not defined
+2025-08-14 16:51:08,529 | ERROR | [192/500] Error processing conversation 4ctfsf: name 'noRed' is not defined
+2025-08-14 16:51:08,631 | ERROR | [193/500] Error processing conversation 4ctj9t: name 'noRed' is not defined
+2025-08-14 16:51:08,733 | ERROR | [194/500] Error processing conversation 4ctv31: name 'noRed' is not defined
+2025-08-14 16:51:08,835 | ERROR | [195/500] Error processing conversation 4cu0xz: name 'noRed' is not defined
+2025-08-14 16:51:08,938 | ERROR | [196/500] Error processing conversation 4cu4p8: name 'noRed' is not defined
+2025-08-14 16:51:09,039 | ERROR | [197/500] Error processing conversation 4cuao8: name 'noRed' is not defined
+2025-08-14 16:51:09,141 | ERROR | [198/500] Error processing conversation 4cue0w: name 'noRed' is not defined
+2025-08-14 16:51:09,242 | ERROR | [199/500] Error processing conversation 4cufkt: name 'noRed' is not defined
+2025-08-14 16:51:09,345 | ERROR | [200/500] Error processing conversation 4cuq3w: name 'noRed' is not defined
+2025-08-14 16:51:09,448 | ERROR | [201/500] Error processing conversation 4cuum7: name 'noRed' is not defined
+2025-08-14 16:51:09,550 | ERROR | [202/500] Error processing conversation 4cuw50: name 'noRed' is not defined
+2025-08-14 16:51:09,652 | ERROR | [203/500] Error processing conversation 4cv75t: name 'noRed' is not defined
+2025-08-14 16:51:09,755 | ERROR | [204/500] Error processing conversation 4cvafc: name 'noRed' is not defined
+2025-08-14 16:51:09,857 | ERROR | [205/500] Error processing conversation 4cvbmf: name 'noRed' is not defined
+2025-08-14 16:51:09,959 | ERROR | [206/500] Error processing conversation 4cw7a4: name 'noRed' is not defined
+2025-08-14 16:51:10,062 | ERROR | [207/500] Error processing conversation 4cx2vd: name 'noRed' is not defined
+2025-08-14 16:51:10,164 | ERROR | [208/500] Error processing conversation 4cx9xl: name 'noRed' is not defined
+2025-08-14 16:51:10,266 | ERROR | [209/500] Error processing conversation 4cxjyd: name 'noRed' is not defined
+2025-08-14 16:51:10,369 | ERROR | [210/500] Error processing conversation 4cxrfy: name 'noRed' is not defined
+2025-08-14 16:51:10,471 | ERROR | [211/500] Error processing conversation 4cxtex: name 'noRed' is not defined
+2025-08-14 16:51:10,574 | ERROR | [212/500] Error processing conversation 4cyag1: name 'noRed' is not defined
+2025-08-14 16:51:10,676 | ERROR | [213/500] Error processing conversation 4cyjkm: name 'noRed' is not defined
+2025-08-14 16:51:10,779 | ERROR | [214/500] Error processing conversation 4cypxe: name 'noRed' is not defined
+2025-08-14 16:51:10,880 | ERROR | [215/500] Error processing conversation 4cywk3: name 'noRed' is not defined
+2025-08-14 16:51:10,984 | ERROR | [216/500] Error processing conversation 4cyyi3: name 'noRed' is not defined
+2025-08-14 16:51:11,085 | ERROR | [217/500] Error processing conversation 4cz9ep: name 'noRed' is not defined
+2025-08-14 16:51:11,189 | ERROR | [218/500] Error processing conversation 4czabw: name 'noRed' is not defined
+2025-08-14 16:51:11,290 | ERROR | [219/500] Error processing conversation 4czbgx: name 'noRed' is not defined
+2025-08-14 16:51:11,394 | ERROR | [220/500] Error processing conversation 4czge7: name 'noRed' is not defined
+2025-08-14 16:51:11,498 | ERROR | [221/500] Error processing conversation 4czj9v: name 'noRed' is not defined
+2025-08-14 16:51:11,600 | ERROR | [222/500] Error processing conversation 4czwmo: name 'noRed' is not defined
+2025-08-14 16:51:11,704 | ERROR | [223/500] Error processing conversation 4d04qo: name 'noRed' is not defined
+2025-08-14 16:51:11,807 | ERROR | [224/500] Error processing conversation 4d0bio: name 'noRed' is not defined
+2025-08-14 16:51:11,909 | ERROR | [225/500] Error processing conversation 4d0ovn: name 'noRed' is not defined
+2025-08-14 16:51:12,012 | ERROR | [226/500] Error processing conversation 4d0th3: name 'noRed' is not defined
+2025-08-14 16:51:12,113 | ERROR | [227/500] Error processing conversation 4d1jwf: name 'noRed' is not defined
+2025-08-14 16:51:12,217 | ERROR | [228/500] Error processing conversation 4d1klq: name 'noRed' is not defined
+2025-08-14 16:51:12,320 | ERROR | [229/500] Error processing conversation 4d25s8: name 'noRed' is not defined
+2025-08-14 16:51:12,423 | ERROR | [230/500] Error processing conversation 4d2bg3: name 'noRed' is not defined
+2025-08-14 16:51:12,526 | ERROR | [231/500] Error processing conversation 4d2jef: name 'noRed' is not defined
+2025-08-14 16:51:12,630 | ERROR | [232/500] Error processing conversation 4d2pev: name 'noRed' is not defined
+2025-08-14 16:51:12,734 | ERROR | [233/500] Error processing conversation 4d3zdt: name 'noRed' is not defined
+2025-08-14 16:51:12,836 | ERROR | [234/500] Error processing conversation 4d4tc4: name 'noRed' is not defined
+2025-08-14 16:51:12,939 | ERROR | [235/500] Error processing conversation 4d4w7x: name 'noRed' is not defined
+2025-08-14 16:51:13,041 | ERROR | [236/500] Error processing conversation 4d4xmz: name 'noRed' is not defined
+2025-08-14 16:51:13,144 | ERROR | [237/500] Error processing conversation 4d57bd: name 'noRed' is not defined
+2025-08-14 16:51:13,246 | ERROR | [238/500] Error processing conversation 4d59h2: name 'noRed' is not defined
+2025-08-14 16:51:13,349 | ERROR | [239/500] Error processing conversation 4d5a9q: name 'noRed' is not defined
+2025-08-14 16:51:13,451 | ERROR | [240/500] Error processing conversation 4d5h4p: name 'noRed' is not defined
+2025-08-14 16:51:13,553 | ERROR | [241/500] Error processing conversation 4d5oqi: name 'noRed' is not defined
+2025-08-14 16:51:13,655 | ERROR | [242/500] Error processing conversation 4d5w8c: name 'noRed' is not defined
+2025-08-14 16:51:13,758 | ERROR | [243/500] Error processing conversation 4d5wh1: name 'noRed' is not defined
+2025-08-14 16:51:13,860 | ERROR | [244/500] Error processing conversation 4d668b: name 'noRed' is not defined
+2025-08-14 16:51:13,963 | ERROR | [245/500] Error processing conversation 4d67mb: name 'noRed' is not defined
+2025-08-14 16:51:14,065 | ERROR | [246/500] Error processing conversation 4d6f2a: name 'noRed' is not defined
+2025-08-14 16:51:14,167 | ERROR | [247/500] Error processing conversation 4d6j7b: name 'noRed' is not defined
+2025-08-14 16:51:14,268 | ERROR | [248/500] Error processing conversation 4d6mpd: name 'noRed' is not defined
+2025-08-14 16:51:14,370 | ERROR | [249/500] Error processing conversation 4d75v1: name 'noRed' is not defined
+2025-08-14 16:51:14,472 | ERROR | [250/500] Error processing conversation 4d7rfu: name 'noRed' is not defined
+2025-08-14 16:51:14,574 | ERROR | [251/500] Error processing conversation 4d7snd: name 'noRed' is not defined
+2025-08-14 16:51:14,677 | ERROR | [252/500] Error processing conversation 4d7xph: name 'noRed' is not defined
+2025-08-14 16:51:14,779 | ERROR | [253/500] Error processing conversation 4d86zn: name 'noRed' is not defined
+2025-08-14 16:51:14,881 | ERROR | [254/500] Error processing conversation 4d8b24: name 'noRed' is not defined
+2025-08-14 16:51:14,984 | ERROR | [255/500] Error processing conversation 4d8dq4: name 'noRed' is not defined
+2025-08-14 16:51:15,086 | ERROR | [256/500] Error processing conversation 4d8iri: name 'noRed' is not defined
+2025-08-14 16:51:15,188 | ERROR | [257/500] Error processing conversation 4d933v: name 'noRed' is not defined
+2025-08-14 16:51:15,289 | ERROR | [258/500] Error processing conversation 4d9412: name 'noRed' is not defined
+2025-08-14 16:51:15,391 | ERROR | [259/500] Error processing conversation 4d97y2: name 'noRed' is not defined
+2025-08-14 16:51:15,494 | ERROR | [260/500] Error processing conversation 4d9kgu: name 'noRed' is not defined
+2025-08-14 16:51:15,595 | ERROR | [261/500] Error processing conversation 4d9ntp: name 'noRed' is not defined
+2025-08-14 16:51:15,697 | ERROR | [262/500] Error processing conversation 4d9q8e: name 'noRed' is not defined
+2025-08-14 16:51:15,799 | ERROR | [263/500] Error processing conversation 4da33v: name 'noRed' is not defined
+2025-08-14 16:51:15,902 | ERROR | [264/500] Error processing conversation 4da665: name 'noRed' is not defined
+2025-08-14 16:51:16,003 | ERROR | [265/500] Error processing conversation 4da6yg: name 'noRed' is not defined
+2025-08-14 16:51:16,106 | ERROR | [266/500] Error processing conversation 4da7rr: name 'noRed' is not defined
+2025-08-14 16:51:16,208 | ERROR | [267/500] Error processing conversation 4dab5i: name 'noRed' is not defined
+2025-08-14 16:51:16,311 | ERROR | [268/500] Error processing conversation 4dab92: name 'noRed' is not defined
+2025-08-14 16:51:16,413 | ERROR | [269/500] Error processing conversation 4davzv: name 'noRed' is not defined
+2025-08-14 16:51:16,516 | ERROR | [270/500] Error processing conversation 4dbpee: name 'noRed' is not defined
+2025-08-14 16:51:16,618 | ERROR | [271/500] Error processing conversation 4dbqhz: name 'noRed' is not defined
+2025-08-14 16:51:16,720 | ERROR | [272/500] Error processing conversation 4dc34q: name 'noRed' is not defined
+2025-08-14 16:51:16,822 | ERROR | [273/500] Error processing conversation 4dc6om: name 'noRed' is not defined
+2025-08-14 16:51:16,924 | ERROR | [274/500] Error processing conversation 4dc8u3: name 'noRed' is not defined
+2025-08-14 16:51:17,027 | ERROR | [275/500] Error processing conversation 4dcj3c: name 'noRed' is not defined
+2025-08-14 16:51:17,129 | ERROR | [276/500] Error processing conversation 4dd47d: name 'noRed' is not defined
+2025-08-14 16:51:17,230 | ERROR | [277/500] Error processing conversation 4ddc2g: name 'noRed' is not defined
+2025-08-14 16:51:17,333 | ERROR | [278/500] Error processing conversation 4ddcnd: name 'noRed' is not defined
+2025-08-14 16:51:17,437 | ERROR | [279/500] Error processing conversation 4de7y6: name 'noRed' is not defined
+2025-08-14 16:51:17,539 | ERROR | [280/500] Error processing conversation 4degbb: name 'noRed' is not defined
+2025-08-14 16:51:17,642 | ERROR | [281/500] Error processing conversation 4dej0r: name 'noRed' is not defined
+2025-08-14 16:51:17,744 | ERROR | [282/500] Error processing conversation 4dep01: name 'noRed' is not defined
+2025-08-14 16:51:17,847 | ERROR | [283/500] Error processing conversation 4depd7: name 'noRed' is not defined
+2025-08-14 16:51:17,951 | ERROR | [284/500] Error processing conversation 4df3y1: name 'noRed' is not defined
+2025-08-14 16:51:18,054 | ERROR | [285/500] Error processing conversation 4dfd25: name 'noRed' is not defined
+2025-08-14 16:51:18,156 | ERROR | [286/500] Error processing conversation 4dfexq: name 'noRed' is not defined
+2025-08-14 16:51:18,259 | ERROR | [287/500] Error processing conversation 4dfgsk: name 'noRed' is not defined
+2025-08-14 16:51:18,361 | ERROR | [288/500] Error processing conversation 4dfkum: name 'noRed' is not defined
+2025-08-14 16:51:18,465 | ERROR | [289/500] Error processing conversation 4dfp00: name 'noRed' is not defined
+2025-08-14 16:51:18,567 | ERROR | [290/500] Error processing conversation 4dfssg: name 'noRed' is not defined
+2025-08-14 16:51:18,670 | ERROR | [291/500] Error processing conversation 4dg1t3: name 'noRed' is not defined
+2025-08-14 16:51:18,771 | ERROR | [292/500] Error processing conversation 4dg6ze: name 'noRed' is not defined
+2025-08-14 16:51:18,873 | ERROR | [293/500] Error processing conversation 4dg9up: name 'noRed' is not defined
+2025-08-14 16:51:18,976 | ERROR | [294/500] Error processing conversation 4dgsov: name 'noRed' is not defined
+2025-08-14 16:51:19,078 | ERROR | [295/500] Error processing conversation 4dgu1m: name 'noRed' is not defined
+2025-08-14 16:51:19,180 | ERROR | [296/500] Error processing conversation 4dgwsk: name 'noRed' is not defined
+2025-08-14 16:51:19,282 | ERROR | [297/500] Error processing conversation 4dgyj6: name 'noRed' is not defined
+2025-08-14 16:51:19,385 | ERROR | [298/500] Error processing conversation 4dh86y: name 'noRed' is not defined
+2025-08-14 16:51:19,488 | ERROR | [299/500] Error processing conversation 4dhi7k: name 'noRed' is not defined
+2025-08-14 16:51:42,640 | INFO | Starting TF-IDF summaries for subreddit: relationships
+2025-08-14 16:51:42,644 | INFO | Total conversations in dataset: 500
+2025-08-14 16:51:42,647 | ERROR | [1/500] Error processing conversation 1dgmgf: name 'noRed' is not defined
+2025-08-14 16:51:42,750 | ERROR | [2/500] Error processing conversation 1dgple: name 'noRed' is not defined
+2025-08-14 16:51:42,853 | ERROR | [3/500] Error processing conversation 1dgrhe: name 'noRed' is not defined
+2025-08-14 16:51:42,956 | ERROR | [4/500] Error processing conversation 1dhek3: name 'noRed' is not defined
+2025-08-14 16:51:43,059 | ERROR | [5/500] Error processing conversation 1dhzwg: name 'noRed' is not defined
+2025-08-14 16:51:43,163 | ERROR | [6/500] Error processing conversation 1di4t6: name 'noRed' is not defined
+2025-08-14 16:51:43,267 | ERROR | [7/500] Error processing conversation 1di78q: name 'noRed' is not defined
+2025-08-14 16:51:43,373 | ERROR | [8/500] Error processing conversation 1di7mo: name 'noRed' is not defined
+2025-08-14 16:51:43,476 | ERROR | [9/500] Error processing conversation 1difq4: name 'noRed' is not defined
+2025-08-14 16:51:43,582 | ERROR | [10/500] Error processing conversation 1dihg2: name 'noRed' is not defined
+2025-08-14 16:51:43,686 | ERROR | [11/500] Error processing conversation 1dijzm: name 'noRed' is not defined
+2025-08-14 16:51:43,790 | ERROR | [12/500] Error processing conversation 1dip67: name 'noRed' is not defined
+2025-08-14 16:51:43,893 | ERROR | [13/500] Error processing conversation 1dj5ui: name 'noRed' is not defined
+2025-08-14 16:51:43,998 | ERROR | [14/500] Error processing conversation 1djhxc: name 'noRed' is not defined
+2025-08-14 16:51:44,100 | ERROR | [15/500] Error processing conversation 1djote: name 'noRed' is not defined
+2025-08-14 16:51:44,202 | ERROR | [16/500] Error processing conversation 1dkav2: name 'noRed' is not defined
+2025-08-14 16:51:44,306 | ERROR | [17/500] Error processing conversation 1dksdx: name 'noRed' is not defined
+2025-08-14 16:51:44,409 | ERROR | [18/500] Error processing conversation 1dl91y: name 'noRed' is not defined
+2025-08-14 16:51:44,512 | ERROR | [19/500] Error processing conversation 1dlrmz: name 'noRed' is not defined
+2025-08-14 16:51:44,614 | ERROR | [20/500] Error processing conversation 1dlxdf: name 'noRed' is not defined
+2025-08-14 16:51:44,716 | ERROR | [21/500] Error processing conversation 1dlzxn: name 'noRed' is not defined
+2025-08-14 16:51:44,818 | ERROR | [22/500] Error processing conversation 1dmt0p: name 'noRed' is not defined
+2025-08-14 16:51:44,921 | ERROR | [23/500] Error processing conversation 1dmwqf: name 'noRed' is not defined
+2025-08-14 16:51:45,024 | ERROR | [24/500] Error processing conversation 1dnaec: name 'noRed' is not defined
+2025-08-14 16:51:45,126 | ERROR | [25/500] Error processing conversation 1dnc25: name 'noRed' is not defined
+2025-08-14 16:51:45,229 | ERROR | [26/500] Error processing conversation 1dogl1: name 'noRed' is not defined
+2025-08-14 16:51:45,331 | ERROR | [27/500] Error processing conversation 1dojlv: name 'noRed' is not defined
+2025-08-14 16:51:45,434 | ERROR | [28/500] Error processing conversation 1dol7y: name 'noRed' is not defined
+2025-08-14 16:51:45,538 | ERROR | [29/500] Error processing conversation 1dp2rr: name 'noRed' is not defined
+2025-08-14 16:51:45,640 | ERROR | [30/500] Error processing conversation 1dprdf: name 'noRed' is not defined
+2025-08-14 16:51:45,742 | ERROR | [31/500] Error processing conversation 1dpun8: name 'noRed' is not defined
+2025-08-14 16:51:45,846 | ERROR | [32/500] Error processing conversation 1dpynb: name 'noRed' is not defined
+2025-08-14 16:51:45,949 | ERROR | [33/500] Error processing conversation 1dpyzu: name 'noRed' is not defined
+2025-08-14 16:51:46,052 | ERROR | [34/500] Error processing conversation 1dqt10: name 'noRed' is not defined
+2025-08-14 16:51:46,154 | ERROR | [35/500] Error processing conversation 1dqzfi: name 'noRed' is not defined
+2025-08-14 16:51:46,258 | ERROR | [36/500] Error processing conversation 1dr639: name 'noRed' is not defined
+2025-08-14 16:51:46,362 | ERROR | [37/500] Error processing conversation 1drtju: name 'noRed' is not defined
+2025-08-14 16:51:46,464 | ERROR | [38/500] Error processing conversation 1druwi: name 'noRed' is not defined
+2025-08-14 16:51:46,567 | ERROR | [39/500] Error processing conversation 1drxwk: name 'noRed' is not defined
+2025-08-14 16:51:46,668 | ERROR | [40/500] Error processing conversation 1drzos: name 'noRed' is not defined
+2025-08-14 16:51:46,770 | ERROR | [41/500] Error processing conversation 1dskrv: name 'noRed' is not defined
+2025-08-14 16:51:46,874 | ERROR | [42/500] Error processing conversation 1dsyfg: name 'noRed' is not defined
+2025-08-14 16:51:46,977 | ERROR | [43/500] Error processing conversation 1dt01r: name 'noRed' is not defined
+2025-08-14 16:51:47,078 | ERROR | [44/500] Error processing conversation 1dt3xh: name 'noRed' is not defined
+2025-08-14 16:51:47,181 | ERROR | [45/500] Error processing conversation 1dt4va: name 'noRed' is not defined
+2025-08-14 16:51:47,284 | ERROR | [46/500] Error processing conversation 1dupws: name 'noRed' is not defined
+2025-08-14 16:51:47,387 | ERROR | [47/500] Error processing conversation 1duv00: name 'noRed' is not defined
+2025-08-14 16:51:47,490 | ERROR | [48/500] Error processing conversation 1dv2e8: name 'noRed' is not defined
+2025-08-14 16:51:47,592 | ERROR | [49/500] Error processing conversation 1dvij1: name 'noRed' is not defined
+2025-08-14 16:51:47,694 | ERROR | [50/500] Error processing conversation 1dw0gq: name 'noRed' is not defined
+2025-08-14 16:51:47,796 | ERROR | [51/500] Error processing conversation 1dwjtx: name 'noRed' is not defined
+2025-08-14 16:51:47,900 | ERROR | [52/500] Error processing conversation 1dwukf: name 'noRed' is not defined
+2025-08-14 16:51:48,002 | ERROR | [53/500] Error processing conversation 1dwz3x: name 'noRed' is not defined
+2025-08-14 16:51:48,104 | ERROR | [54/500] Error processing conversation 1dxlrh: name 'noRed' is not defined
+2025-08-14 16:51:48,208 | ERROR | [55/500] Error processing conversation 1dxlxp: name 'noRed' is not defined
+2025-08-14 16:51:48,311 | ERROR | [56/500] Error processing conversation 1dxzdq: name 'noRed' is not defined
+2025-08-14 16:51:48,416 | ERROR | [57/500] Error processing conversation 1dzeym: name 'noRed' is not defined
+2025-08-14 16:51:48,520 | ERROR | [58/500] Error processing conversation 1dzhjq: name 'noRed' is not defined
+2025-08-14 16:51:48,622 | ERROR | [59/500] Error processing conversation 1e1x1y: name 'noRed' is not defined
+2025-08-14 16:51:48,725 | ERROR | [60/500] Error processing conversation 1e1ydu: name 'noRed' is not defined
+2025-08-14 16:51:48,828 | ERROR | [61/500] Error processing conversation 1e28x2: name 'noRed' is not defined
+2025-08-14 16:51:48,931 | ERROR | [62/500] Error processing conversation 1e2w8e: name 'noRed' is not defined
+2025-08-14 16:51:49,032 | ERROR | [63/500] Error processing conversation 1e3k2h: name 'noRed' is not defined
+2025-08-14 16:51:49,135 | ERROR | [64/500] Error processing conversation 1e3ppf: name 'noRed' is not defined
+2025-08-14 16:51:49,238 | ERROR | [65/500] Error processing conversation 1e4b5t: name 'noRed' is not defined
+2025-08-14 16:51:49,340 | ERROR | [66/500] Error processing conversation 1e5rxr: name 'noRed' is not defined
+2025-08-14 16:51:49,442 | ERROR | [67/500] Error processing conversation 1e5t78: name 'noRed' is not defined
+2025-08-14 16:51:49,545 | ERROR | [68/500] Error processing conversation 1e64vi: name 'noRed' is not defined
+2025-08-14 16:51:49,648 | ERROR | [69/500] Error processing conversation 1e69c6: name 'noRed' is not defined
+2025-08-14 16:51:49,753 | ERROR | [70/500] Error processing conversation 1e6aww: name 'noRed' is not defined
+2025-08-14 16:51:49,857 | ERROR | [71/500] Error processing conversation 1e6ufq: name 'noRed' is not defined
+2025-08-14 16:51:49,961 | ERROR | [72/500] Error processing conversation 1e73ry: name 'noRed' is not defined
+2025-08-14 16:51:50,063 | ERROR | [73/500] Error processing conversation 1e788d: name 'noRed' is not defined
+2025-08-14 16:51:50,166 | ERROR | [74/500] Error processing conversation 1e7fq2: name 'noRed' is not defined
+2025-08-14 16:51:50,268 | ERROR | [75/500] Error processing conversation 1e8ijt: name 'noRed' is not defined
+2025-08-14 16:51:50,371 | ERROR | [76/500] Error processing conversation 1e8iq3: name 'noRed' is not defined
+2025-08-14 16:51:50,474 | ERROR | [77/500] Error processing conversation 1e8zxl: name 'noRed' is not defined
+2025-08-14 16:51:50,576 | ERROR | [78/500] Error processing conversation 1e9cjx: name 'noRed' is not defined
+2025-08-14 16:51:50,678 | ERROR | [79/500] Error processing conversation 1e9hz9: name 'noRed' is not defined
+2025-08-14 16:51:50,780 | ERROR | [80/500] Error processing conversation 1e9ws9: name 'noRed' is not defined
+2025-08-14 16:51:50,883 | ERROR | [81/500] Error processing conversation 1ead4m: name 'noRed' is not defined
+2025-08-14 16:51:50,985 | ERROR | [82/500] Error processing conversation 1earru: name 'noRed' is not defined
+2025-08-14 16:51:51,088 | ERROR | [83/500] Error processing conversation 1eay7x: name 'noRed' is not defined
+2025-08-14 16:51:51,190 | ERROR | [84/500] Error processing conversation 1eb95r: name 'noRed' is not defined
+2025-08-14 16:51:51,294 | ERROR | [85/500] Error processing conversation 1ebkr7: name 'noRed' is not defined
+2025-08-14 16:51:51,397 | ERROR | [86/500] Error processing conversation 1ebp3c: name 'noRed' is not defined
+2025-08-14 16:51:51,500 | ERROR | [87/500] Error processing conversation 1ec94n: name 'noRed' is not defined
+2025-08-14 16:51:51,602 | ERROR | [88/500] Error processing conversation 1ecb2p: name 'noRed' is not defined
+2025-08-14 16:51:51,705 | ERROR | [89/500] Error processing conversation 1ecbod: name 'noRed' is not defined
+2025-08-14 16:51:51,809 | ERROR | [90/500] Error processing conversation 1ectis: name 'noRed' is not defined
+2025-08-14 16:51:51,911 | ERROR | [91/500] Error processing conversation 1ed6wk: name 'noRed' is not defined
+2025-08-14 16:51:52,014 | ERROR | [92/500] Error processing conversation 1ed7l1: name 'noRed' is not defined
+2025-08-14 16:51:52,116 | ERROR | [93/500] Error processing conversation 1edqfe: name 'noRed' is not defined
+2025-08-14 16:51:52,218 | ERROR | [94/500] Error processing conversation 1eeias: name 'noRed' is not defined
+2025-08-14 16:51:52,321 | ERROR | [95/500] Error processing conversation 1efp5z: name 'noRed' is not defined
+2025-08-14 16:51:52,424 | ERROR | [96/500] Error processing conversation 1eft5v: name 'noRed' is not defined
+2025-08-14 16:51:52,527 | ERROR | [97/500] Error processing conversation 1efuqr: name 'noRed' is not defined
+2025-08-14 16:51:52,628 | ERROR | [98/500] Error processing conversation 1eg4zy: name 'noRed' is not defined
+2025-08-14 16:51:52,732 | ERROR | [99/500] Error processing conversation 1eg6id: name 'noRed' is not defined
+2025-08-14 16:51:52,835 | ERROR | [100/500] Error processing conversation 1eglai: name 'noRed' is not defined
+2025-08-14 16:51:52,936 | ERROR | [101/500] Error processing conversation 1egnz8: name 'noRed' is not defined
+2025-08-14 16:51:53,039 | ERROR | [102/500] Error processing conversation 1egx2z: name 'noRed' is not defined
+2025-08-14 16:53:29,065 | INFO | Starting TF-IDF summaries for subreddit: relationships
+2025-08-14 16:53:29,067 | INFO | Total conversations in dataset: 500
+2025-08-14 16:53:29,249 | INFO | [1/500] Successfully saved summary for conversation ID 1dgmgf
+2025-08-14 16:53:29,472 | INFO | [2/500] Successfully saved summary for conversation ID 1dgple
+2025-08-14 16:53:29,605 | INFO | [3/500] Successfully saved summary for conversation ID 1dgrhe
+2025-08-14 16:53:29,762 | INFO | [4/500] Successfully saved summary for conversation ID 1dhek3
+2025-08-14 16:53:29,916 | INFO | [5/500] Successfully saved summary for conversation ID 1dhzwg
+2025-08-14 16:53:30,098 | INFO | [6/500] Successfully saved summary for conversation ID 1di4t6
+2025-08-14 16:53:30,236 | INFO | [7/500] Successfully saved summary for conversation ID 1di78q
+2025-08-14 16:53:30,401 | INFO | [8/500] Successfully saved summary for conversation ID 1di7mo
+2025-08-14 16:53:30,549 | INFO | [9/500] Successfully saved summary for conversation ID 1difq4
+2025-08-14 16:53:30,701 | INFO | [10/500] Successfully saved summary for conversation ID 1dihg2
+2025-08-14 16:53:30,865 | INFO | [11/500] Successfully saved summary for conversation ID 1dijzm
+2025-08-14 16:53:31,020 | INFO | [12/500] Successfully saved summary for conversation ID 1dip67
+2025-08-14 16:53:31,169 | INFO | [13/500] Successfully saved summary for conversation ID 1dj5ui
+2025-08-14 16:53:31,312 | INFO | [14/500] Successfully saved summary for conversation ID 1djhxc
+2025-08-14 16:53:31,455 | INFO | [15/500] Successfully saved summary for conversation ID 1djote
+2025-08-14 16:53:31,631 | INFO | [16/500] Successfully saved summary for conversation ID 1dkav2
+2025-08-14 16:53:31,761 | INFO | [17/500] Successfully saved summary for conversation ID 1dksdx
+2025-08-14 16:53:31,919 | INFO | [18/500] Successfully saved summary for conversation ID 1dl91y
+2025-08-14 16:53:32,059 | INFO | [19/500] Successfully saved summary for conversation ID 1dlrmz
+2025-08-14 16:53:32,210 | INFO | [20/500] Successfully saved summary for conversation ID 1dlxdf
+2025-08-14 16:53:32,364 | INFO | [21/500] Successfully saved summary for conversation ID 1dlzxn
+2025-08-14 16:53:32,501 | INFO | [22/500] Successfully saved summary for conversation ID 1dmt0p
+2025-08-14 16:53:32,636 | INFO | [23/500] Successfully saved summary for conversation ID 1dmwqf
+2025-08-14 16:53:32,777 | INFO | [24/500] Successfully saved summary for conversation ID 1dnaec
+2025-08-14 16:53:32,906 | INFO | [25/500] Successfully saved summary for conversation ID 1dnc25
+2025-08-14 16:53:33,063 | INFO | [26/500] Successfully saved summary for conversation ID 1dogl1
+2025-08-14 16:53:33,194 | INFO | [27/500] Successfully saved summary for conversation ID 1dojlv
+2025-08-14 16:53:33,342 | INFO | [28/500] Successfully saved summary for conversation ID 1dol7y
+2025-08-14 16:53:33,510 | INFO | [29/500] Successfully saved summary for conversation ID 1dp2rr
+2025-08-14 16:53:33,684 | INFO | [30/500] Successfully saved summary for conversation ID 1dprdf
+2025-08-14 16:53:33,830 | INFO | [31/500] Successfully saved summary for conversation ID 1dpun8
+2025-08-14 16:53:33,985 | INFO | [32/500] Successfully saved summary for conversation ID 1dpynb
+2025-08-14 16:53:34,125 | INFO | [33/500] Successfully saved summary for conversation ID 1dpyzu
+2025-08-14 16:53:34,295 | INFO | [34/500] Successfully saved summary for conversation ID 1dqt10
+2025-08-14 16:53:34,467 | INFO | [35/500] Successfully saved summary for conversation ID 1dqzfi
+2025-08-14 16:53:34,652 | INFO | [36/500] Successfully saved summary for conversation ID 1dr639
+2025-08-14 16:53:34,802 | INFO | [37/500] Successfully saved summary for conversation ID 1drtju
+2025-08-14 16:53:34,955 | INFO | [38/500] Successfully saved summary for conversation ID 1druwi
+2025-08-14 16:53:35,103 | INFO | [39/500] Successfully saved summary for conversation ID 1drxwk
+2025-08-14 16:53:35,243 | INFO | [40/500] Successfully saved summary for conversation ID 1drzos
+2025-08-14 16:53:35,446 | INFO | [41/500] Successfully saved summary for conversation ID 1dskrv
+2025-08-14 16:53:35,635 | INFO | [42/500] Successfully saved summary for conversation ID 1dsyfg
+2025-08-14 16:53:35,777 | INFO | [43/500] Successfully saved summary for conversation ID 1dt01r
+2025-08-14 16:53:35,920 | INFO | [44/500] Successfully saved summary for conversation ID 1dt3xh
+2025-08-14 16:53:36,099 | INFO | [45/500] Successfully saved summary for conversation ID 1dt4va
+2025-08-14 16:53:36,287 | INFO | [46/500] Successfully saved summary for conversation ID 1dupws
+2025-08-14 16:53:36,447 | INFO | [47/500] Successfully saved summary for conversation ID 1duv00
+2025-08-14 16:53:36,604 | INFO | [48/500] Successfully saved summary for conversation ID 1dv2e8
+2025-08-14 16:53:36,743 | INFO | [49/500] Successfully saved summary for conversation ID 1dvij1
+2025-08-14 16:53:36,868 | INFO | [50/500] Successfully saved summary for conversation ID 1dw0gq
+2025-08-14 16:53:37,025 | INFO | [51/500] Successfully saved summary for conversation ID 1dwjtx
+2025-08-14 16:53:37,175 | INFO | [52/500] Successfully saved summary for conversation ID 1dwukf
+2025-08-14 16:53:37,345 | INFO | [53/500] Successfully saved summary for conversation ID 1dwz3x
+2025-08-14 16:53:37,489 | INFO | [54/500] Successfully saved summary for conversation ID 1dxlrh
+2025-08-14 16:53:37,603 | WARNING | [55/500] Empty summary for conversation ID 1dxlxp
+2025-08-14 16:53:37,671 | INFO | [56/500] Successfully saved summary for conversation ID 1dxzdq
+2025-08-14 16:53:37,812 | INFO | [57/500] Successfully saved summary for conversation ID 1dzeym
+2025-08-14 16:53:37,950 | INFO | [58/500] Successfully saved summary for conversation ID 1dzhjq
+2025-08-14 16:53:38,099 | INFO | [59/500] Successfully saved summary for conversation ID 1e1x1y
+2025-08-14 16:53:38,244 | INFO | [60/500] Successfully saved summary for conversation ID 1e1ydu
+2025-08-14 16:53:38,418 | INFO | [61/500] Successfully saved summary for conversation ID 1e28x2
+2025-08-14 16:53:38,556 | INFO | [62/500] Successfully saved summary for conversation ID 1e2w8e
+2025-08-14 16:53:38,712 | INFO | [63/500] Successfully saved summary for conversation ID 1e3k2h
+2025-08-14 16:53:38,849 | INFO | [64/500] Successfully saved summary for conversation ID 1e3ppf
+2025-08-14 16:53:39,001 | INFO | [65/500] Successfully saved summary for conversation ID 1e4b5t
+2025-08-14 16:53:39,160 | INFO | [66/500] Successfully saved summary for conversation ID 1e5rxr
+2025-08-14 16:53:39,305 | INFO | [67/500] Successfully saved summary for conversation ID 1e5t78
+2025-08-14 16:53:39,461 | INFO | [68/500] Successfully saved summary for conversation ID 1e64vi
+2025-08-14 16:53:39,606 | INFO | [69/500] Successfully saved summary for conversation ID 1e69c6
+2025-08-14 16:53:39,779 | INFO | [70/500] Successfully saved summary for conversation ID 1e6aww
+2025-08-14 16:53:39,926 | INFO | [71/500] Successfully saved summary for conversation ID 1e6ufq
+2025-08-14 16:53:40,077 | INFO | [72/500] Successfully saved summary for conversation ID 1e73ry
+2025-08-14 16:53:40,300 | INFO | [73/500] Successfully saved summary for conversation ID 1e788d
+2025-08-14 16:53:40,466 | INFO | [74/500] Successfully saved summary for conversation ID 1e7fq2
+2025-08-14 16:53:40,629 | INFO | [75/500] Successfully saved summary for conversation ID 1e8ijt
+2025-08-14 16:53:40,777 | INFO | [76/500] Successfully saved summary for conversation ID 1e8iq3
+2025-08-14 16:53:40,965 | INFO | [77/500] Successfully saved summary for conversation ID 1e8zxl
+2025-08-14 16:53:41,183 | INFO | [78/500] Successfully saved summary for conversation ID 1e9cjx
+2025-08-14 16:53:41,335 | INFO | [79/500] Successfully saved summary for conversation ID 1e9hz9
+2025-08-14 16:53:41,495 | INFO | [80/500] Successfully saved summary for conversation ID 1e9ws9
+2025-08-14 16:53:41,644 | INFO | [81/500] Successfully saved summary for conversation ID 1ead4m
+2025-08-14 16:53:41,785 | INFO | [82/500] Successfully saved summary for conversation ID 1earru
+2025-08-14 16:53:41,938 | INFO | [83/500] Successfully saved summary for conversation ID 1eay7x
+2025-08-14 16:53:42,132 | INFO | [84/500] Successfully saved summary for conversation ID 1eb95r
+2025-08-14 16:53:42,277 | INFO | [85/500] Successfully saved summary for conversation ID 1ebkr7
+2025-08-14 16:53:42,464 | INFO | [86/500] Successfully saved summary for conversation ID 1ebp3c
+2025-08-14 16:53:42,653 | INFO | [87/500] Successfully saved summary for conversation ID 1ec94n
+2025-08-14 16:53:42,797 | INFO | [88/500] Successfully saved summary for conversation ID 1ecb2p
+2025-08-14 16:53:42,956 | INFO | [89/500] Successfully saved summary for conversation ID 1ecbod
+2025-08-14 16:53:43,129 | INFO | [90/500] Successfully saved summary for conversation ID 1ectis
+2025-08-14 16:53:43,347 | INFO | [91/500] Successfully saved summary for conversation ID 1ed6wk
+2025-08-14 16:53:43,511 | INFO | [92/500] Successfully saved summary for conversation ID 1ed7l1
+2025-08-14 16:53:43,662 | INFO | [93/500] Successfully saved summary for conversation ID 1edqfe
+2025-08-14 16:53:43,814 | INFO | [94/500] Successfully saved summary for conversation ID 1eeias
+2025-08-14 16:53:43,979 | INFO | [95/500] Successfully saved summary for conversation ID 1efp5z
+2025-08-14 16:53:44,143 | INFO | [96/500] Successfully saved summary for conversation ID 1eft5v
+2025-08-14 16:53:44,317 | INFO | [97/500] Successfully saved summary for conversation ID 1efuqr
+2025-08-14 16:53:44,537 | INFO | [98/500] Successfully saved summary for conversation ID 1eg4zy
+2025-08-14 16:53:44,735 | INFO | [99/500] Successfully saved summary for conversation ID 1eg6id
+2025-08-14 16:53:44,897 | INFO | [100/500] Successfully saved summary for conversation ID 1eglai
+2025-08-14 16:53:45,061 | INFO | [101/500] Successfully saved summary for conversation ID 1egnz8
+2025-08-14 16:53:45,264 | INFO | [102/500] Successfully saved summary for conversation ID 1egx2z
+2025-08-14 16:53:45,400 | INFO | [103/500] Successfully saved summary for conversation ID 1eh9i5
+2025-08-14 16:53:45,554 | INFO | [104/500] Successfully saved summary for conversation ID 1ehdd5
+2025-08-14 16:53:45,726 | INFO | [105/500] Successfully saved summary for conversation ID 1ehyiv
+2025-08-14 16:53:45,887 | INFO | [106/500] Successfully saved summary for conversation ID 1eifiu
+2025-08-14 16:53:46,040 | INFO | [107/500] Successfully saved summary for conversation ID 1eizoh
+2025-08-14 16:53:46,190 | INFO | [108/500] Successfully saved summary for conversation ID 1ek193
+2025-08-14 16:53:46,355 | INFO | [109/500] Successfully saved summary for conversation ID 1ek79v
+2025-08-14 16:53:46,496 | INFO | [110/500] Successfully saved summary for conversation ID 1el3g7
+2025-08-14 16:53:46,631 | INFO | [111/500] Successfully saved summary for conversation ID 1el407
+2025-08-14 16:53:46,773 | INFO | [112/500] Successfully saved summary for conversation ID 1emdqy
+2025-08-14 16:53:46,897 | INFO | [113/500] Successfully saved summary for conversation ID 1emlce
+2025-08-14 16:53:47,031 | INFO | [114/500] Successfully saved summary for conversation ID 1emw4u
+2025-08-14 16:53:47,183 | INFO | [115/500] Successfully saved summary for conversation ID 1en3uc
+2025-08-14 16:53:47,334 | INFO | [116/500] Successfully saved summary for conversation ID 1en4wn
+2025-08-14 16:53:47,477 | INFO | [117/500] Successfully saved summary for conversation ID 1en59p
+2025-08-14 16:53:47,605 | INFO | [118/500] Successfully saved summary for conversation ID 1ena2p
+2025-08-14 16:53:47,731 | INFO | [119/500] Successfully saved summary for conversation ID 1enfqo
+2025-08-14 16:53:47,861 | INFO | [120/500] Successfully saved summary for conversation ID 1enndp
+2025-08-14 16:53:47,985 | INFO | [121/500] Successfully saved summary for conversation ID 1enop1
+2025-08-14 16:53:48,120 | INFO | [122/500] Successfully saved summary for conversation ID 1eog2w
+2025-08-14 16:53:48,257 | INFO | [123/500] Successfully saved summary for conversation ID 1eoigg
+2025-08-14 16:53:48,390 | INFO | [124/500] Successfully saved summary for conversation ID 1eos5i
+2025-08-14 16:53:48,532 | INFO | [125/500] Successfully saved summary for conversation ID 1ep7um
+2025-08-14 16:53:48,671 | INFO | [126/500] Successfully saved summary for conversation ID 1epngw
+2025-08-14 16:53:48,820 | INFO | [127/500] Successfully saved summary for conversation ID 1eptc2
+2025-08-14 16:53:48,949 | INFO | [128/500] Successfully saved summary for conversation ID 1eqxx1
+2025-08-14 16:53:49,091 | INFO | [129/500] Successfully saved summary for conversation ID 1er9bd
+2025-08-14 16:53:49,223 | INFO | [130/500] Successfully saved summary for conversation ID 1erygd
+2025-08-14 16:53:49,356 | INFO | [131/500] Successfully saved summary for conversation ID 1esd4h
+2025-08-14 16:53:49,495 | INFO | [132/500] Successfully saved summary for conversation ID 1ese1v
+2025-08-14 16:53:49,646 | INFO | [133/500] Successfully saved summary for conversation ID 1esv0m
+2025-08-14 16:53:49,797 | INFO | [134/500] Successfully saved summary for conversation ID 1et2vk
+2025-08-14 16:53:49,925 | INFO | [135/500] Successfully saved summary for conversation ID 1etcen
+2025-08-14 16:53:50,064 | INFO | [136/500] Successfully saved summary for conversation ID 1eu3u7
+2025-08-14 16:53:50,194 | INFO | [137/500] Successfully saved summary for conversation ID 1eu507
+2025-08-14 16:53:50,329 | INFO | [138/500] Successfully saved summary for conversation ID 1euq3r
+2025-08-14 16:53:50,462 | INFO | [139/500] Successfully saved summary for conversation ID 1evoqc
+2025-08-14 16:53:50,603 | INFO | [140/500] Successfully saved summary for conversation ID 1ewr1x
+2025-08-14 16:53:50,758 | INFO | [141/500] Successfully saved summary for conversation ID 1ex3fo
+2025-08-14 16:53:50,885 | INFO | [142/500] Successfully saved summary for conversation ID 1ex7h5
+2025-08-14 16:53:51,011 | INFO | [143/500] Successfully saved summary for conversation ID 1ey76q
+2025-08-14 16:53:51,160 | INFO | [144/500] Successfully saved summary for conversation ID 1eyywb
+2025-08-14 16:53:51,302 | INFO | [145/500] Successfully saved summary for conversation ID 1ez9uk
+2025-08-14 16:53:51,450 | INFO | [146/500] Successfully saved summary for conversation ID 1ezd8i
+2025-08-14 16:53:51,576 | INFO | [147/500] Successfully saved summary for conversation ID 1f0k4h
+2025-08-14 16:53:51,718 | INFO | [148/500] Successfully saved summary for conversation ID 1f0mtp
+2025-08-14 16:53:51,857 | INFO | [149/500] Successfully saved summary for conversation ID 1f1pbw
+2025-08-14 16:53:51,989 | INFO | [150/500] Successfully saved summary for conversation ID 1f2lf0
+2025-08-14 16:53:52,130 | INFO | [151/500] Successfully saved summary for conversation ID 1f2qbi
+2025-08-14 16:53:52,269 | INFO | [152/500] Successfully saved summary for conversation ID 1f3r44
+2025-08-14 16:53:52,390 | INFO | [153/500] Successfully saved summary for conversation ID 1f4t1x
+2025-08-14 16:53:52,519 | INFO | [154/500] Successfully saved summary for conversation ID 1f4z7b
+2025-08-14 16:53:52,653 | INFO | [155/500] Successfully saved summary for conversation ID 1f598b
+2025-08-14 16:53:52,823 | INFO | [156/500] Successfully saved summary for conversation ID 1f6rmk
+2025-08-14 16:53:52,979 | INFO | [157/500] Successfully saved summary for conversation ID 1f6rpr
+2025-08-14 16:53:53,113 | INFO | [158/500] Successfully saved summary for conversation ID 1f6s1n
+2025-08-14 16:53:53,246 | INFO | [159/500] Successfully saved summary for conversation ID 1f6uic
+2025-08-14 16:53:53,379 | INFO | [160/500] Successfully saved summary for conversation ID 1f6zbo
+2025-08-14 16:53:53,529 | INFO | [161/500] Successfully saved summary for conversation ID 1f7c6v
+2025-08-14 16:53:53,680 | INFO | [162/500] Successfully saved summary for conversation ID 1f7fsj
+2025-08-14 16:53:53,815 | INFO | [163/500] Successfully saved summary for conversation ID 1f7t20
+2025-08-14 16:53:53,946 | INFO | [164/500] Successfully saved summary for conversation ID 1f83v6
+2025-08-14 16:53:54,088 | INFO | [165/500] Successfully saved summary for conversation ID 1f88jp
+2025-08-14 16:53:54,225 | INFO | [166/500] Successfully saved summary for conversation ID 1f8cjy
+2025-08-14 16:53:54,357 | INFO | [167/500] Successfully saved summary for conversation ID 1f8u0m
+2025-08-14 16:53:54,513 | INFO | [168/500] Successfully saved summary for conversation ID 1f98px
+2025-08-14 16:53:54,659 | INFO | [169/500] Successfully saved summary for conversation ID 1f99ob
+2025-08-14 16:53:54,810 | INFO | [170/500] Successfully saved summary for conversation ID 1f9gtt
+2025-08-14 16:53:54,938 | INFO | [171/500] Successfully saved summary for conversation ID 1f9nvg
+2025-08-14 16:53:55,081 | INFO | [172/500] Successfully saved summary for conversation ID 1f9okx
+2025-08-14 16:53:55,253 | INFO | [173/500] Successfully saved summary for conversation ID 1f9vqy
+2025-08-14 16:53:55,417 | INFO | [174/500] Successfully saved summary for conversation ID 1f9whn
+2025-08-14 16:53:55,640 | INFO | [175/500] Successfully saved summary for conversation ID 1fadah
+2025-08-14 16:53:55,789 | INFO | [176/500] Successfully saved summary for conversation ID 1fadmm
+2025-08-14 16:53:55,935 | INFO | [177/500] Successfully saved summary for conversation ID 1faeq1
+2025-08-14 16:53:56,153 | INFO | [178/500] Successfully saved summary for conversation ID 1faeqg
+2025-08-14 16:53:56,313 | INFO | [179/500] Successfully saved summary for conversation ID 1fauye
+2025-08-14 16:53:56,473 | INFO | [180/500] Successfully saved summary for conversation ID 1fbkdz
+2025-08-14 16:53:56,628 | INFO | [181/500] Successfully saved summary for conversation ID 1fbket
+2025-08-14 16:53:56,786 | INFO | [182/500] Successfully saved summary for conversation ID 1fbuyj
+2025-08-14 16:53:56,948 | INFO | [183/500] Successfully saved summary for conversation ID 1fc0b0
+2025-08-14 16:53:57,083 | INFO | [184/500] Successfully saved summary for conversation ID 1fc7zi
+2025-08-14 16:53:57,236 | INFO | [185/500] Successfully saved summary for conversation ID 1fceff
+2025-08-14 16:53:57,397 | INFO | [186/500] Successfully saved summary for conversation ID 1fcghw
+2025-08-14 16:53:57,546 | INFO | [187/500] Successfully saved summary for conversation ID 1fd84c
+2025-08-14 16:53:57,695 | INFO | [188/500] Successfully saved summary for conversation ID 1fdb2g
+2025-08-14 16:53:57,887 | INFO | [189/500] Successfully saved summary for conversation ID 1feg4r
+2025-08-14 16:53:58,030 | INFO | [190/500] Successfully saved summary for conversation ID 1ffhud
+2025-08-14 16:53:58,181 | INFO | [191/500] Successfully saved summary for conversation ID 4csw0m
+2025-08-14 16:53:58,372 | INFO | [192/500] Successfully saved summary for conversation ID 4ctfsf
+2025-08-14 16:53:58,529 | INFO | [193/500] Successfully saved summary for conversation ID 4ctj9t
+2025-08-14 16:53:58,730 | INFO | [194/500] Successfully saved summary for conversation ID 4ctv31
+2025-08-14 16:53:58,875 | INFO | [195/500] Successfully saved summary for conversation ID 4cu0xz
+2025-08-14 16:53:59,062 | INFO | [196/500] Successfully saved summary for conversation ID 4cu4p8
+2025-08-14 16:53:59,249 | INFO | [197/500] Successfully saved summary for conversation ID 4cuao8
+2025-08-14 16:53:59,521 | INFO | [198/500] Successfully saved summary for conversation ID 4cue0w
+2025-08-14 16:53:59,776 | INFO | [199/500] Successfully saved summary for conversation ID 4cufkt
+2025-08-14 16:53:59,992 | INFO | [200/500] Successfully saved summary for conversation ID 4cuq3w
+2025-08-14 16:54:00,223 | INFO | [201/500] Successfully saved summary for conversation ID 4cuum7
+2025-08-14 16:54:00,428 | INFO | [202/500] Successfully saved summary for conversation ID 4cuw50
+2025-08-14 16:54:00,604 | INFO | [203/500] Successfully saved summary for conversation ID 4cv75t
+2025-08-14 16:54:00,763 | INFO | [204/500] Successfully saved summary for conversation ID 4cvafc
+2025-08-14 16:54:00,966 | INFO | [205/500] Successfully saved summary for conversation ID 4cvbmf
+2025-08-14 16:54:01,179 | INFO | [206/500] Successfully saved summary for conversation ID 4cw7a4
+2025-08-14 16:54:01,364 | INFO | [207/500] Successfully saved summary for conversation ID 4cx2vd
+2025-08-14 16:54:01,596 | INFO | [208/500] Successfully saved summary for conversation ID 4cx9xl
+2025-08-14 16:54:01,921 | INFO | [209/500] Successfully saved summary for conversation ID 4cxjyd
+2025-08-14 16:54:02,134 | INFO | [210/500] Successfully saved summary for conversation ID 4cxrfy
+2025-08-14 16:54:02,303 | INFO | [211/500] Successfully saved summary for conversation ID 4cxtex
+2025-08-14 16:54:02,467 | INFO | [212/500] Successfully saved summary for conversation ID 4cyag1
+2025-08-14 16:54:02,651 | INFO | [213/500] Successfully saved summary for conversation ID 4cyjkm
+2025-08-14 16:54:02,806 | INFO | [214/500] Successfully saved summary for conversation ID 4cypxe
+2025-08-14 16:54:03,021 | INFO | [215/500] Successfully saved summary for conversation ID 4cywk3
+2025-08-14 16:54:03,217 | INFO | [216/500] Successfully saved summary for conversation ID 4cyyi3
+2025-08-14 16:54:03,365 | INFO | [217/500] Successfully saved summary for conversation ID 4cz9ep
+2025-08-14 16:54:03,499 | INFO | [218/500] Successfully saved summary for conversation ID 4czabw
+2025-08-14 16:54:03,712 | INFO | [219/500] Successfully saved summary for conversation ID 4czbgx
+2025-08-14 16:54:03,900 | INFO | [220/500] Successfully saved summary for conversation ID 4czge7
+2025-08-14 16:54:04,117 | INFO | [221/500] Successfully saved summary for conversation ID 4czj9v
+2025-08-14 16:54:04,272 | INFO | [222/500] Successfully saved summary for conversation ID 4czwmo
+2025-08-14 16:54:04,465 | INFO | [223/500] Successfully saved summary for conversation ID 4d04qo
+2025-08-14 16:54:04,669 | INFO | [224/500] Successfully saved summary for conversation ID 4d0bio
+2025-08-14 16:54:04,982 | INFO | [225/500] Successfully saved summary for conversation ID 4d0ovn
+2025-08-14 16:54:05,203 | INFO | [226/500] Successfully saved summary for conversation ID 4d0th3
+2025-08-14 16:54:05,352 | INFO | [227/500] Successfully saved summary for conversation ID 4d1jwf
+2025-08-14 16:54:05,527 | INFO | [228/500] Successfully saved summary for conversation ID 4d1klq
+2025-08-14 16:54:05,694 | INFO | [229/500] Successfully saved summary for conversation ID 4d25s8
+2025-08-14 16:54:05,862 | INFO | [230/500] Successfully saved summary for conversation ID 4d2bg3
+2025-08-14 16:54:06,049 | INFO | [231/500] Successfully saved summary for conversation ID 4d2jef
+2025-08-14 16:54:06,203 | INFO | [232/500] Successfully saved summary for conversation ID 4d2pev
+2025-08-14 16:54:06,365 | INFO | [233/500] Successfully saved summary for conversation ID 4d3zdt
+2025-08-14 16:54:06,555 | INFO | [234/500] Successfully saved summary for conversation ID 4d4tc4
+2025-08-14 16:54:06,730 | INFO | [235/500] Successfully saved summary for conversation ID 4d4w7x
+2025-08-14 16:54:07,056 | INFO | [236/500] Successfully saved summary for conversation ID 4d4xmz
+2025-08-14 16:54:07,283 | INFO | [237/500] Successfully saved summary for conversation ID 4d57bd
+2025-08-14 16:54:07,589 | INFO | [238/500] Successfully saved summary for conversation ID 4d59h2
+2025-08-14 16:54:07,779 | INFO | [239/500] Successfully saved summary for conversation ID 4d5a9q
+2025-08-14 16:54:08,066 | INFO | [240/500] Successfully saved summary for conversation ID 4d5h4p
+2025-08-14 16:54:08,253 | INFO | [241/500] Successfully saved summary for conversation ID 4d5oqi
+2025-08-14 16:54:08,889 | INFO | [242/500] Successfully saved summary for conversation ID 4d5w8c
+2025-08-14 16:54:09,610 | INFO | [243/500] Successfully saved summary for conversation ID 4d5wh1
+2025-08-14 16:54:10,399 | INFO | [244/500] Successfully saved summary for conversation ID 4d668b
+2025-08-14 16:54:10,641 | INFO | [245/500] Successfully saved summary for conversation ID 4d67mb
+2025-08-14 16:54:10,890 | INFO | [246/500] Successfully saved summary for conversation ID 4d6f2a
+2025-08-14 16:54:11,105 | INFO | [247/500] Successfully saved summary for conversation ID 4d6j7b
+2025-08-14 16:54:11,367 | INFO | [248/500] Successfully saved summary for conversation ID 4d6mpd
+2025-08-14 16:54:11,617 | INFO | [249/500] Successfully saved summary for conversation ID 4d75v1
+2025-08-14 16:54:11,969 | INFO | [250/500] Successfully saved summary for conversation ID 4d7rfu
+2025-08-14 16:54:12,210 | INFO | [251/500] Successfully saved summary for conversation ID 4d7snd
+2025-08-14 16:54:12,380 | INFO | [252/500] Successfully saved summary for conversation ID 4d7xph
+2025-08-14 16:54:12,546 | INFO | [253/500] Successfully saved summary for conversation ID 4d86zn
+2025-08-14 16:54:12,688 | INFO | [254/500] Successfully saved summary for conversation ID 4d8b24
+2025-08-14 16:54:12,841 | INFO | [255/500] Successfully saved summary for conversation ID 4d8dq4
+2025-08-14 16:54:13,017 | INFO | [256/500] Successfully saved summary for conversation ID 4d8iri
+2025-08-14 16:54:13,160 | INFO | [257/500] Successfully saved summary for conversation ID 4d933v
+2025-08-14 16:54:13,300 | INFO | [258/500] Successfully saved summary for conversation ID 4d9412
+2025-08-14 16:54:13,456 | INFO | [259/500] Successfully saved summary for conversation ID 4d97y2
+2025-08-14 16:54:13,608 | INFO | [260/500] Successfully saved summary for conversation ID 4d9kgu
+2025-08-14 16:54:13,755 | INFO | [261/500] Successfully saved summary for conversation ID 4d9ntp
+2025-08-14 16:54:13,893 | INFO | [262/500] Successfully saved summary for conversation ID 4d9q8e
+2025-08-14 16:54:14,068 | INFO | [263/500] Successfully saved summary for conversation ID 4da33v
+2025-08-14 16:54:14,227 | INFO | [264/500] Successfully saved summary for conversation ID 4da665
+2025-08-14 16:54:14,378 | INFO | [265/500] Successfully saved summary for conversation ID 4da6yg
+2025-08-14 16:54:14,536 | INFO | [266/500] Successfully saved summary for conversation ID 4da7rr
+2025-08-14 16:54:14,680 | INFO | [267/500] Successfully saved summary for conversation ID 4dab5i
+2025-08-14 16:54:14,821 | INFO | [268/500] Successfully saved summary for conversation ID 4dab92
+2025-08-14 16:54:14,970 | INFO | [269/500] Successfully saved summary for conversation ID 4davzv
+2025-08-14 16:54:15,117 | INFO | [270/500] Successfully saved summary for conversation ID 4dbpee
+2025-08-14 16:54:15,270 | INFO | [271/500] Successfully saved summary for conversation ID 4dbqhz
+2025-08-14 16:54:15,415 | INFO | [272/500] Successfully saved summary for conversation ID 4dc34q
+2025-08-14 16:54:15,560 | INFO | [273/500] Successfully saved summary for conversation ID 4dc6om
+2025-08-14 16:54:15,711 | INFO | [274/500] Successfully saved summary for conversation ID 4dc8u3
+2025-08-14 16:54:15,867 | INFO | [275/500] Successfully saved summary for conversation ID 4dcj3c
+2025-08-14 16:54:16,014 | INFO | [276/500] Successfully saved summary for conversation ID 4dd47d
+2025-08-14 16:54:16,156 | INFO | [277/500] Successfully saved summary for conversation ID 4ddc2g
+2025-08-14 16:54:16,313 | INFO | [278/500] Successfully saved summary for conversation ID 4ddcnd
+2025-08-14 16:54:16,497 | INFO | [279/500] Successfully saved summary for conversation ID 4de7y6
+2025-08-14 16:54:16,809 | INFO | [280/500] Successfully saved summary for conversation ID 4degbb
+2025-08-14 16:54:17,019 | INFO | [281/500] Successfully saved summary for conversation ID 4dej0r
+2025-08-14 16:54:17,168 | INFO | [282/500] Successfully saved summary for conversation ID 4dep01
+2025-08-14 16:54:17,347 | INFO | [283/500] Successfully saved summary for conversation ID 4depd7
+2025-08-14 16:54:17,488 | INFO | [284/500] Successfully saved summary for conversation ID 4df3y1
+2025-08-14 16:54:17,641 | INFO | [285/500] Successfully saved summary for conversation ID 4dfd25
+2025-08-14 16:54:17,791 | INFO | [286/500] Successfully saved summary for conversation ID 4dfexq
+2025-08-14 16:54:17,935 | INFO | [287/500] Successfully saved summary for conversation ID 4dfgsk
+2025-08-14 16:54:18,088 | INFO | [288/500] Successfully saved summary for conversation ID 4dfkum
+2025-08-14 16:54:18,228 | INFO | [289/500] Successfully saved summary for conversation ID 4dfp00
+2025-08-14 16:54:18,377 | INFO | [290/500] Successfully saved summary for conversation ID 4dfssg
+2025-08-14 16:54:18,532 | INFO | [291/500] Successfully saved summary for conversation ID 4dg1t3
+2025-08-14 16:54:18,670 | INFO | [292/500] Successfully saved summary for conversation ID 4dg6ze
+2025-08-14 16:54:18,823 | INFO | [293/500] Successfully saved summary for conversation ID 4dg9up
+2025-08-14 16:54:18,973 | INFO | [294/500] Successfully saved summary for conversation ID 4dgsov
+2025-08-14 16:54:19,119 | INFO | [295/500] Successfully saved summary for conversation ID 4dgu1m
+2025-08-14 16:54:19,272 | INFO | [296/500] Successfully saved summary for conversation ID 4dgwsk
+2025-08-14 16:54:19,429 | INFO | [297/500] Successfully saved summary for conversation ID 4dgyj6
+2025-08-14 16:54:19,580 | INFO | [298/500] Successfully saved summary for conversation ID 4dh86y
+2025-08-14 16:54:19,718 | INFO | [299/500] Successfully saved summary for conversation ID 4dhi7k
+2025-08-14 16:54:19,899 | INFO | [300/500] Successfully saved summary for conversation ID 4dhu2p
+2025-08-14 16:54:20,105 | INFO | [301/500] Successfully saved summary for conversation ID 4dhu4w
+2025-08-14 16:54:20,341 | INFO | [302/500] Successfully saved summary for conversation ID 4dhuva
+2025-08-14 16:54:20,544 | INFO | [303/500] Successfully saved summary for conversation ID 4dhux7
+2025-08-14 16:54:20,758 | INFO | [304/500] Successfully saved summary for conversation ID 4dhvyl
+2025-08-14 16:54:20,951 | INFO | [305/500] Successfully saved summary for conversation ID 4dhz8f
+2025-08-14 16:54:21,136 | INFO | [306/500] Successfully saved summary for conversation ID 4dia4u
+2025-08-14 16:54:21,350 | INFO | [307/500] Successfully saved summary for conversation ID 4dicoz
+2025-08-14 16:54:21,525 | INFO | [308/500] Successfully saved summary for conversation ID cntti
+2025-08-14 16:54:21,702 | INFO | [309/500] Successfully saved summary for conversation ID nynqp
+2025-08-14 16:54:21,875 | INFO | [310/500] Successfully saved summary for conversation ID nyq1b
+2025-08-14 16:54:22,087 | INFO | [311/500] Successfully saved summary for conversation ID o00rx
+2025-08-14 16:54:22,251 | INFO | [312/500] Successfully saved summary for conversation ID o08hv
+2025-08-14 16:54:22,440 | INFO | [313/500] Successfully saved summary for conversation ID o0e5w
+2025-08-14 16:54:22,605 | INFO | [314/500] Successfully saved summary for conversation ID o0gph
+2025-08-14 16:54:22,766 | INFO | [315/500] Successfully saved summary for conversation ID o0jh3
+2025-08-14 16:54:23,018 | INFO | [316/500] Successfully saved summary for conversation ID o0rtu
+2025-08-14 16:54:23,218 | INFO | [317/500] Successfully saved summary for conversation ID o0t4a
+2025-08-14 16:54:23,402 | INFO | [318/500] Successfully saved summary for conversation ID o1nq3
+2025-08-14 16:54:23,597 | INFO | [319/500] Successfully saved summary for conversation ID o2mez
+2025-08-14 16:54:23,778 | INFO | [320/500] Successfully saved summary for conversation ID o301i
+2025-08-14 16:54:23,960 | INFO | [321/500] Successfully saved summary for conversation ID o3htk
+2025-08-14 16:54:24,107 | INFO | [322/500] Successfully saved summary for conversation ID o3mwl
+2025-08-14 16:54:24,259 | INFO | [323/500] Successfully saved summary for conversation ID o3pb5
+2025-08-14 16:54:24,411 | INFO | [324/500] Successfully saved summary for conversation ID o3pvf
+2025-08-14 16:54:24,565 | INFO | [325/500] Successfully saved summary for conversation ID o4omp
+2025-08-14 16:54:24,701 | INFO | [326/500] Successfully saved summary for conversation ID o5hxi
+2025-08-14 16:54:24,848 | INFO | [327/500] Successfully saved summary for conversation ID o6eqe
+2025-08-14 16:54:24,992 | INFO | [328/500] Successfully saved summary for conversation ID o6fsj
+2025-08-14 16:54:25,134 | INFO | [329/500] Successfully saved summary for conversation ID o6os6
+2025-08-14 16:54:25,282 | INFO | [330/500] Successfully saved summary for conversation ID o6t8r
+2025-08-14 16:54:25,451 | INFO | [331/500] Successfully saved summary for conversation ID o6ulc
+2025-08-14 16:54:25,594 | INFO | [332/500] Successfully saved summary for conversation ID o6ziv
+2025-08-14 16:54:25,735 | INFO | [333/500] Successfully saved summary for conversation ID o7lof
+2025-08-14 16:54:25,917 | INFO | [334/500] Successfully saved summary for conversation ID o8dx9
+2025-08-14 16:54:26,061 | INFO | [335/500] Successfully saved summary for conversation ID o8fsj
+2025-08-14 16:54:26,206 | INFO | [336/500] Successfully saved summary for conversation ID o9sr0
+2025-08-14 16:54:26,342 | INFO | [337/500] Successfully saved summary for conversation ID oa1ag
+2025-08-14 16:54:26,480 | INFO | [338/500] Successfully saved summary for conversation ID oa36q
+2025-08-14 16:54:26,628 | INFO | [339/500] Successfully saved summary for conversation ID oa379
+2025-08-14 16:54:26,766 | INFO | [340/500] Successfully saved summary for conversation ID obc4n
+2025-08-14 16:54:26,898 | INFO | [341/500] Successfully saved summary for conversation ID obmoo
+2025-08-14 16:54:27,035 | INFO | [342/500] Successfully saved summary for conversation ID oc0es
+2025-08-14 16:54:27,196 | INFO | [343/500] Successfully saved summary for conversation ID ocddy
+2025-08-14 16:54:27,340 | INFO | [344/500] Successfully saved summary for conversation ID ocrh3
+2025-08-14 16:54:27,479 | INFO | [345/500] Successfully saved summary for conversation ID od5vv
+2025-08-14 16:54:27,630 | INFO | [346/500] Successfully saved summary for conversation ID odzy6
+2025-08-14 16:54:27,778 | INFO | [347/500] Successfully saved summary for conversation ID oeggr
+2025-08-14 16:54:27,957 | INFO | [348/500] Successfully saved summary for conversation ID oei61
+2025-08-14 16:54:28,101 | INFO | [349/500] Successfully saved summary for conversation ID of5m6
+2025-08-14 16:54:28,243 | INFO | [350/500] Successfully saved summary for conversation ID ofqmk
+2025-08-14 16:54:28,385 | INFO | [351/500] Successfully saved summary for conversation ID og3gm
+2025-08-14 16:54:28,543 | INFO | [352/500] Successfully saved summary for conversation ID og9wt
+2025-08-14 16:54:28,679 | INFO | [353/500] Successfully saved summary for conversation ID ogcc8
+2025-08-14 16:54:28,826 | INFO | [354/500] Successfully saved summary for conversation ID ogsi9
+2025-08-14 16:54:28,990 | INFO | [355/500] Successfully saved summary for conversation ID ogukr
+2025-08-14 16:54:29,136 | INFO | [356/500] Successfully saved summary for conversation ID oi0jf
+2025-08-14 16:54:29,283 | INFO | [357/500] Successfully saved summary for conversation ID oik1l
+2025-08-14 16:54:29,435 | INFO | [358/500] Successfully saved summary for conversation ID oimik
+2025-08-14 16:54:29,611 | INFO | [359/500] Successfully saved summary for conversation ID ojkzj
+2025-08-14 16:54:29,736 | INFO | [360/500] Successfully saved summary for conversation ID ojrh2
+2025-08-14 16:54:29,875 | INFO | [361/500] Successfully saved summary for conversation ID ok3x8
+2025-08-14 16:54:30,007 | INFO | [362/500] Successfully saved summary for conversation ID ok66q
+2025-08-14 16:54:30,146 | INFO | [363/500] Successfully saved summary for conversation ID okkhn
+2025-08-14 16:54:30,275 | INFO | [364/500] Successfully saved summary for conversation ID ole32
+2025-08-14 16:54:30,416 | INFO | [365/500] Successfully saved summary for conversation ID oleyc
+2025-08-14 16:54:30,559 | INFO | [366/500] Successfully saved summary for conversation ID olu9y
+2025-08-14 16:54:30,708 | INFO | [367/500] Successfully saved summary for conversation ID omw30
+2025-08-14 16:54:30,873 | INFO | [368/500] Successfully saved summary for conversation ID onq8o
+2025-08-14 16:54:31,031 | INFO | [369/500] Successfully saved summary for conversation ID oownm
+2025-08-14 16:54:31,182 | INFO | [370/500] Successfully saved summary for conversation ID op2dm
+2025-08-14 16:54:31,319 | INFO | [371/500] Successfully saved summary for conversation ID opcgu
+2025-08-14 16:54:31,510 | INFO | [372/500] Successfully saved summary for conversation ID opfho
+2025-08-14 16:54:31,673 | INFO | [373/500] Successfully saved summary for conversation ID opjt7
+2025-08-14 16:54:31,814 | INFO | [374/500] Successfully saved summary for conversation ID opvbh
+2025-08-14 16:54:31,959 | INFO | [375/500] Successfully saved summary for conversation ID opxd8
+2025-08-14 16:54:32,090 | INFO | [376/500] Successfully saved summary for conversation ID oq4s5
+2025-08-14 16:54:32,236 | INFO | [377/500] Successfully saved summary for conversation ID or5oq
+2025-08-14 16:54:32,374 | INFO | [378/500] Successfully saved summary for conversation ID or6gf
+2025-08-14 16:54:32,515 | INFO | [379/500] Successfully saved summary for conversation ID os5gw
+2025-08-14 16:54:32,674 | INFO | [380/500] Successfully saved summary for conversation ID os8dt
+2025-08-14 16:54:32,818 | INFO | [381/500] Successfully saved summary for conversation ID osb9e
+2025-08-14 16:54:32,980 | INFO | [382/500] Successfully saved summary for conversation ID osl9g
+2025-08-14 16:54:33,140 | INFO | [383/500] Successfully saved summary for conversation ID osm8d
+2025-08-14 16:54:33,290 | INFO | [384/500] Successfully saved summary for conversation ID osort
+2025-08-14 16:54:33,465 | INFO | [385/500] Successfully saved summary for conversation ID osyz7
+2025-08-14 16:54:33,641 | INFO | [386/500] Successfully saved summary for conversation ID otnaa
+2025-08-14 16:54:33,792 | INFO | [387/500] Successfully saved summary for conversation ID ouyoi
+2025-08-14 16:54:33,927 | INFO | [388/500] Successfully saved summary for conversation ID ov917
+2025-08-14 16:54:34,063 | INFO | [389/500] Successfully saved summary for conversation ID ovykb
+2025-08-14 16:54:34,201 | INFO | [390/500] Successfully saved summary for conversation ID owd22
+2025-08-14 16:54:34,379 | INFO | [391/500] Successfully saved summary for conversation ID ox188
+2025-08-14 16:54:34,530 | INFO | [392/500] Successfully saved summary for conversation ID oxcz0
+2025-08-14 16:54:34,688 | INFO | [393/500] Successfully saved summary for conversation ID oxvkl
+2025-08-14 16:54:34,822 | INFO | [394/500] Successfully saved summary for conversation ID ozgmz
+2025-08-14 16:54:34,993 | INFO | [395/500] Successfully saved summary for conversation ID p09tl
+2025-08-14 16:54:35,125 | INFO | [396/500] Successfully saved summary for conversation ID p0a1j
+2025-08-14 16:54:35,292 | INFO | [397/500] Successfully saved summary for conversation ID p0blq
+2025-08-14 16:54:35,432 | INFO | [398/500] Successfully saved summary for conversation ID p1gkd
+2025-08-14 16:54:35,566 | INFO | [399/500] Successfully saved summary for conversation ID p1h3a
+2025-08-14 16:54:35,742 | INFO | [400/500] Successfully saved summary for conversation ID p1jbm
+2025-08-14 16:54:35,885 | INFO | [401/500] Successfully saved summary for conversation ID p1zmt
+2025-08-14 16:54:36,025 | INFO | [402/500] Successfully saved summary for conversation ID p227x
+2025-08-14 16:54:36,185 | INFO | [403/500] Successfully saved summary for conversation ID p2gd5
+2025-08-14 16:54:36,328 | INFO | [404/500] Successfully saved summary for conversation ID p2owm
+2025-08-14 16:54:36,477 | INFO | [405/500] Successfully saved summary for conversation ID p37hg
+2025-08-14 16:54:36,612 | INFO | [406/500] Successfully saved summary for conversation ID p3qmp
+2025-08-14 16:54:36,766 | INFO | [407/500] Successfully saved summary for conversation ID p3rk5
+2025-08-14 16:54:36,903 | INFO | [408/500] Successfully saved summary for conversation ID p3y0w
+2025-08-14 16:54:37,048 | INFO | [409/500] Successfully saved summary for conversation ID p3y7g
+2025-08-14 16:54:37,195 | INFO | [410/500] Successfully saved summary for conversation ID p4azz
+2025-08-14 16:54:37,332 | INFO | [411/500] Successfully saved summary for conversation ID qcsqn
+2025-08-14 16:54:37,485 | INFO | [412/500] Successfully saved summary for conversation ID qdkwt
+2025-08-14 16:54:37,623 | INFO | [413/500] Successfully saved summary for conversation ID qdvas
+2025-08-14 16:54:37,775 | INFO | [414/500] Successfully saved summary for conversation ID qebee
+2025-08-14 16:54:37,917 | INFO | [415/500] Successfully saved summary for conversation ID qfea3
+2025-08-14 16:54:38,060 | INFO | [416/500] Successfully saved summary for conversation ID qfiti
+2025-08-14 16:54:38,246 | INFO | [417/500] Successfully saved summary for conversation ID qftfs
+2025-08-14 16:54:38,478 | INFO | [418/500] Successfully saved summary for conversation ID qh1cf
+2025-08-14 16:54:38,696 | INFO | [419/500] Successfully saved summary for conversation ID qh53s
+2025-08-14 16:54:38,847 | INFO | [420/500] Successfully saved summary for conversation ID qhavy
+2025-08-14 16:54:39,010 | INFO | [421/500] Successfully saved summary for conversation ID qhv9c
+2025-08-14 16:54:39,164 | INFO | [422/500] Successfully saved summary for conversation ID qhwtu
+2025-08-14 16:54:39,322 | INFO | [423/500] Successfully saved summary for conversation ID qidir
+2025-08-14 16:54:39,483 | INFO | [424/500] Successfully saved summary for conversation ID qiz7o
+2025-08-14 16:54:39,681 | INFO | [425/500] Successfully saved summary for conversation ID qizjq
+2025-08-14 16:54:39,886 | INFO | [426/500] Successfully saved summary for conversation ID qjp0y
+2025-08-14 16:54:40,049 | INFO | [427/500] Successfully saved summary for conversation ID qjy5d
+2025-08-14 16:54:40,216 | INFO | [428/500] Successfully saved summary for conversation ID qk55y
+2025-08-14 16:54:40,402 | INFO | [429/500] Successfully saved summary for conversation ID qkrgw
+2025-08-14 16:54:40,584 | INFO | [430/500] Successfully saved summary for conversation ID qle5m
+2025-08-14 16:54:40,732 | INFO | [431/500] Successfully saved summary for conversation ID qli8l
+2025-08-14 16:54:40,930 | INFO | [432/500] Successfully saved summary for conversation ID qluaz
+2025-08-14 16:54:41,081 | INFO | [433/500] Successfully saved summary for conversation ID qn8iu
+2025-08-14 16:54:41,262 | INFO | [434/500] Successfully saved summary for conversation ID qnust
+2025-08-14 16:54:41,435 | INFO | [435/500] Successfully saved summary for conversation ID qnval
+2025-08-14 16:54:41,683 | INFO | [436/500] Successfully saved summary for conversation ID qokl2
+2025-08-14 16:54:41,872 | INFO | [437/500] Successfully saved summary for conversation ID qp18x
+2025-08-14 16:54:42,141 | INFO | [438/500] Successfully saved summary for conversation ID qqtsw
+2025-08-14 16:54:42,303 | INFO | [439/500] Successfully saved summary for conversation ID qr1v6
+2025-08-14 16:54:42,486 | INFO | [440/500] Successfully saved summary for conversation ID qrb8x
+2025-08-14 16:54:42,627 | INFO | [441/500] Successfully saved summary for conversation ID qrc7q
+2025-08-14 16:54:42,765 | INFO | [442/500] Successfully saved summary for conversation ID qrcx5
+2025-08-14 16:54:42,902 | INFO | [443/500] Successfully saved summary for conversation ID qs2gd
+2025-08-14 16:54:43,053 | INFO | [444/500] Successfully saved summary for conversation ID qsjhm
+2025-08-14 16:54:43,203 | INFO | [445/500] Successfully saved summary for conversation ID qslh7
+2025-08-14 16:54:43,355 | INFO | [446/500] Successfully saved summary for conversation ID qub61
+2025-08-14 16:54:43,492 | INFO | [447/500] Successfully saved summary for conversation ID qvaab
+2025-08-14 16:54:43,633 | INFO | [448/500] Successfully saved summary for conversation ID qvyid
+2025-08-14 16:54:43,782 | INFO | [449/500] Successfully saved summary for conversation ID qwywk
+2025-08-14 16:54:43,935 | INFO | [450/500] Successfully saved summary for conversation ID qxy0z
+2025-08-14 16:54:44,103 | INFO | [451/500] Successfully saved summary for conversation ID qyf7c
+2025-08-14 16:54:44,269 | INFO | [452/500] Successfully saved summary for conversation ID r0p4f
+2025-08-14 16:54:44,433 | INFO | [453/500] Successfully saved summary for conversation ID r2abk
+2025-08-14 16:54:44,579 | INFO | [454/500] Successfully saved summary for conversation ID r2ibj
+2025-08-14 16:54:44,733 | INFO | [455/500] Successfully saved summary for conversation ID r31h9
+2025-08-14 16:54:44,879 | INFO | [456/500] Successfully saved summary for conversation ID r39se
+2025-08-14 16:54:45,037 | INFO | [457/500] Successfully saved summary for conversation ID r54i4
+2025-08-14 16:54:45,176 | INFO | [458/500] Successfully saved summary for conversation ID r5i2z
+2025-08-14 16:54:45,322 | INFO | [459/500] Successfully saved summary for conversation ID r5p0g
+2025-08-14 16:54:45,466 | INFO | [460/500] Successfully saved summary for conversation ID r5wrs
+2025-08-14 16:54:45,610 | INFO | [461/500] Successfully saved summary for conversation ID r6b03
+2025-08-14 16:54:45,772 | INFO | [462/500] Successfully saved summary for conversation ID r6kig
+2025-08-14 16:54:45,914 | INFO | [463/500] Successfully saved summary for conversation ID r6z8u
+2025-08-14 16:54:46,059 | INFO | [464/500] Successfully saved summary for conversation ID r7ehx
+2025-08-14 16:54:46,202 | INFO | [465/500] Successfully saved summary for conversation ID r7i7l
+2025-08-14 16:54:46,368 | INFO | [466/500] Successfully saved summary for conversation ID r7rnw
+2025-08-14 16:54:46,533 | INFO | [467/500] Successfully saved summary for conversation ID r8hby
+2025-08-14 16:54:46,704 | INFO | [468/500] Successfully saved summary for conversation ID r8odu
+2025-08-14 16:54:46,869 | INFO | [469/500] Successfully saved summary for conversation ID r90fo
+2025-08-14 16:54:47,047 | INFO | [470/500] Successfully saved summary for conversation ID r9ljm
+2025-08-14 16:54:47,197 | INFO | [471/500] Successfully saved summary for conversation ID r9uk9
+2025-08-14 16:54:47,342 | INFO | [472/500] Successfully saved summary for conversation ID ra1xs
+2025-08-14 16:54:47,478 | INFO | [473/500] Successfully saved summary for conversation ID rahev
+2025-08-14 16:54:47,621 | INFO | [474/500] Successfully saved summary for conversation ID rawir
+2025-08-14 16:54:47,772 | INFO | [475/500] Successfully saved summary for conversation ID rbdfy
+2025-08-14 16:54:47,910 | INFO | [476/500] Successfully saved summary for conversation ID rbrdt
+2025-08-14 16:54:48,051 | INFO | [477/500] Successfully saved summary for conversation ID rc9j3
+2025-08-14 16:54:48,196 | INFO | [478/500] Successfully saved summary for conversation ID rcyly
+2025-08-14 16:54:48,389 | INFO | [479/500] Successfully saved summary for conversation ID rd1i5
+2025-08-14 16:54:48,531 | INFO | [480/500] Successfully saved summary for conversation ID rdept
+2025-08-14 16:54:48,698 | INFO | [481/500] Successfully saved summary for conversation ID rdu7r
+2025-08-14 16:54:48,856 | INFO | [482/500] Successfully saved summary for conversation ID re2uc
+2025-08-14 16:54:49,007 | INFO | [483/500] Successfully saved summary for conversation ID rel4z
+2025-08-14 16:54:49,148 | INFO | [484/500] Successfully saved summary for conversation ID rem8b
+2025-08-14 16:54:49,283 | INFO | [485/500] Successfully saved summary for conversation ID renca
+2025-08-14 16:54:49,426 | INFO | [486/500] Successfully saved summary for conversation ID rep9r
+2025-08-14 16:54:49,575 | INFO | [487/500] Successfully saved summary for conversation ID repid
+2025-08-14 16:54:49,704 | INFO | [488/500] Successfully saved summary for conversation ID reup6
+2025-08-14 16:54:49,840 | INFO | [489/500] Successfully saved summary for conversation ID rexzd
+2025-08-14 16:54:49,997 | INFO | [490/500] Successfully saved summary for conversation ID rf507
+2025-08-14 16:54:50,148 | INFO | [491/500] Successfully saved summary for conversation ID rg2nx
+2025-08-14 16:54:50,302 | INFO | [492/500] Successfully saved summary for conversation ID rgjda
+2025-08-14 16:54:50,482 | INFO | [493/500] Successfully saved summary for conversation ID rizup
+2025-08-14 16:54:50,629 | INFO | [494/500] Successfully saved summary for conversation ID rj3ml
+2025-08-14 16:54:50,785 | INFO | [495/500] Successfully saved summary for conversation ID rjq5z
+2025-08-14 16:54:50,931 | INFO | [496/500] Successfully saved summary for conversation ID rjyk7
+2025-08-14 16:54:51,066 | INFO | [497/500] Successfully saved summary for conversation ID rk9kf
+2025-08-14 16:54:51,227 | INFO | [498/500] Successfully saved summary for conversation ID rl12l
+2025-08-14 16:54:51,439 | INFO | [499/500] Successfully saved summary for conversation ID rla35
+2025-08-14 16:54:51,619 | INFO | [500/500] Successfully saved summary for conversation ID rlkg9
+2025-08-14 16:54:51,726 | INFO | TF-IDF summarization complete for subreddit: relationships
+2025-08-14 16:54:51,730 | INFO | Total conversations: 500
+2025-08-14 16:54:51,732 | INFO | Successfully summarized: 499
+2025-08-14 16:54:51,733 | INFO | Skipped (empty text): 0
+2025-08-14 16:54:51,736 | INFO | Skipped (empty summary): 1
+2025-08-14 16:54:51,738 | INFO | Errors: 0
+2025-08-14 16:54:51,742 | INFO | Log file saved at: C:/Users/Tanner/Desktop/summarizer/corpus_algorithms_and_models/corpus_summaries/tfidf_conversation_summaries/relationships/logs\tfidf_summary_log.txt

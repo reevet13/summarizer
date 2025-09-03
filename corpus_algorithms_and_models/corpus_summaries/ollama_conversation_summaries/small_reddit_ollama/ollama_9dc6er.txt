@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+Memory at address 000001d7`2f179784 could not be read
+I looked through a few other support threads with similar errors. Try turning character model limit to low or medium.
+I had a similar issue. Deleting local.dat fixed it for me - makes you have to repatch though.
+You can find local.dat in: C:\Users[Your User Name]\AppData\Roaming\Guild Wars 2
+The most likely error for a bad GPU would be artifacting, rather than a memory read error.
+I would try memtest86+ and look for any errors. I'd also try making sure your system is warm before running it, as there are certain ram issues that only present themselves when the memory modules are warm.
+Intermittent crashing with memory read errors in a game sounds very much like a RAM issue to me.
+
+Note: The summary has 9 sentences, which is approximately 10% of the original text.

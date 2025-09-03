@@ -1,0 +1,13 @@
+Here are the selected sentences from the original text:
+
+This is just false: "If Bitcoin were used in the same scale as gold or the banking system, it would consume way more electricity."
+
+Mining (which provides security) is independent from scale.  It is entirely possible to run the existing volume with a single mining computer.  It just wouldn't be very secure.
+
+You have a basic misunderstanding of bitcoin.
+is flat wrong and a total misunderstanding of how bitcoin works
+You should do some basic research before you make comments like this.
+
+The current global power consumption for the servers that run bitcoin’s software is a minimum of **2.55 gigawatts (GW)**, which amounts to energy consumption of **22 terawatt-hours (TWh) per year**—almost the same as Ireland.
+
+Therefore, considering an average data centres consumption of  approximately 2000 TWh yearly, bitcoin mining consumes less that the 0.0365%.

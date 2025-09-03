@@ -1,0 +1,55 @@
+Original Response:
+I know that correlation doesn't imply causation, but doesn't that mean that nothing can be proven causally...even when directly observed?
+
+Even in double-blind experiments, aren't the results in the end explainable only in terms of correlation. I.e. The ball moves because i kick it. The evidence: Ball's movement corresponds with my kicking/force applied.
+
+I'm sure this is something simple, but I've simply never understood.
+You need a controlled experiment.  If you can add or remove one of the conditions/effects (not just counteract it) and see how it affects the other one then you can show if there is a causal connection or not.
+You need to show that it is very unlikely that your explanation is false. You do this by including potential confounding factors when you do an experiment to show whether or not they are having effects that you may mistake as causation. Since you cant, by definition, "prove" anything, you have to pick a degree of likelihood that you will be satisfied with which would be provided in any scientific texts/papers you would release (such as saying 0.1&gt;p&gt;0.05). It would be up to others as to whether or not they think your results are strong enough to agree with.
+To isolate a cause-effect relationship, one must provide convincing evidence that other possible causes are not operating to create the effect in question. That is in addition to the evidence that the hypothesized cause is in fact the actual cause of the observed effect. 
+
+Recall that hypotheses are tentatively accepted as fact, and only after solid evidence is provided. This involves many experiments, by investigators reproducing results obtained elsewhere by others.  Eventually the evidence collected by multiple teams accretes to a finding of likely fact.
+The excuse often given for this confusing phrase is that _imply_ has a different meaning to laymen and logicians. Laymen tend to think that _imply_ is synonymous with _hint_, whereas logicians think it's synonymous with _prove_. This paragraph from [Wikipedia makes it clearer:](http://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
+
+&gt; "Correlation does not imply causation" (related to "ignoring a common cause" and questionable cause) is a phrase used in science and statistics to emphasize that correlation between two variables does not automatically imply that one causes the other (though correlation is necessary for linear causation in the absence of any third and countervailing causative variable, and can indicate possible causes or areas for further investigation; in other words, correlation can be a hint).
+
+So in lay terms, correlation _does_ imply causation - it _hints_ that one thing might be the cause of another, and of course there can be no causation without correlation. Better to say that correlation does not _prove_ correlation.
+You need evidence to back things up. If you have two observations and you want to link them together you need evidence that they are related.
+
+* Phenomenon A: The number of pirates in the world have decreased over time.
+
+* Phenomenon B: The surface temperature of the Earth has risen over the same time period.
+
+To link these two together saying that the lack of pirates has caused global warming is an example of the fallacy you're describing. However if you have facts/observation...
+
+* Fact A: Controlled experiments have revealed that pirates are natural heat sinks and absorb infrared and transmute it Venus.
+
+Suddenly our hypothesis has some evidence to back it up. While like all science we can never fully prove it, but entrench it in evidence, the more important thing is we can falsify it or disprove it.
+
+Has the average surface temperature of Venus fallen over the same time period?
+
+Has the recent insurgence of pirate activity in the last decade reduced the surface temperature of the Earth?
+
+What establishes causality is the mechanism of the phenomenon, can you with facts and observation apply mechanics of the process that are self consistent?
+This is right. There is no strict distinction between correlation and causation. There is always some possibility that the result you are seeing is pure chance. After all, it could be that all of the experimental confirmation for all of science has, up till now, just been some wild coincidence and tomorrow gravity will go the other way --- it's just magnificently, unimaginably unlikely. If you toss a coin four times and it lands heads each time, you can't make any strong conclusions about it, because you've got a 1/16 chance of getting heads on 4 tosses of a fair coin. But if you toss the coin a billion times and get heads each time, the chance of that happening to a fair coin is so close to zero it's hard to even think about; that is, good chance the coin is landing on heads deterministically.
+
+You essentially have to ask: what's the probability that this (or something even less likely than this) would happen by chance? Here's [wikipedia for how that's done.](http://en.wikipedia.org/wiki/P-value) Imprecisely, you're saying: here's the probability that this is accidental correlation. If it's small, then you can be more confident you're seeing "causation." Though never sure.
+
+There are other things to check for, too. For example, if two events always occur together, there's not always a clear prescription to identify which is the cause and which is the effect. Intuitively, it seems like the thing that happens first is the cause, but it could be that both things are actually caused by a third thing. If you can do a controlled experiment, like Quarkster suggested, then you might be able to identify these sorts of things. Often, you just get to say you see a statistically significant result.
+The short version is that proof belongs to mathematics and logic.  In the real world (ie, science), proof can't exist.  The best we can aim for is to show that X and Y are not true, and that the evidence is thus consistent with Z.
+Very few scientific disciplines actually prove anything. Most scientific results show evidence for a hypothesis (i.e., some support for a claim made by a scientist). 
+
+Even when things are directly observed, you need to account for every single variable. Only certain physicists, biologists and chemists have such a luxury; and they are a small, small group. The rest of us don't have that luxury.
+You have to isolate all of the possible causes.
+
+Once you have, the probability that it's a coincidence decreases. As this approaches 0, the certainty of causation improves.
+
+This involves trying all kinds of variables and isolating and comparing results. This takes a very, very long time.
+
+Summary:
+You need evidence to back things up.
+You have to isolate all of the possible causes.
+You need a controlled experiment.
+If you have two observations and you want to link them together you need evidence that they are related.
+There is always some possibility that the result you are seeing is pure chance.
+If it's small, then you can be more confident you're seeing "causation."

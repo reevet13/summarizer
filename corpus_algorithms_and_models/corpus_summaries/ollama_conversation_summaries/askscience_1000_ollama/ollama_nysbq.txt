@@ -1,0 +1,17 @@
+Here is a summary of the text in approximately 10% (up to 250 words):
+
+Would relativistic contraction/time distortion in the obviously theoretical, but nonetheless (in my opinion) useful case of an infinitely rigid object occur at a rate that would prevent the object from reaching C anyway?
+
+Ignoring engineering challenges like the disk ripping apart, the thing would just get closer and closer to the speed of light at the edges without ever reaching it.
+
+What effects, specifically, would prevent it from reaching that speed? My lay expectation: the fact that motion/distortion in a material, even a rigid material, propagates at the speed of sound in that material; and the speed of sound is always going to be slower than the speed of light.
+
+Wouldn't really call it an effect, per se. It's the same thing that prevents something from continuously accelerating to the speed of light. To use an outdated analogy, the "relativistic mass" that increases with speed is manifested as a "relativistic moment of inertia" that gets bigger and bigger.
+
+Ohhh I think I can wrap my mind around that. Thanks for clearing up a question that has been floating around th back of my mind for years!
+
+It's not a useful case, because in the physical world you can't even *approach* infinite rigidity. The fact that things can't travel faster than the speed of light implies a hard upper limit to rigidity; the approximation of infinite rigidity is only useful in classical mechanics because no physical constraint prevents you from getting arbitrarily rigid objects.
+
+Infinitely rigid objects are impossible in special relativity.
+
+True. Special relativity and infinitely rigid objects are mutually exclusive: a universe can have either, but never both at the same time.

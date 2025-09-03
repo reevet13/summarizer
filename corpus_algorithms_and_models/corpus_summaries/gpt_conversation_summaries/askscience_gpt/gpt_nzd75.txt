@@ -1,0 +1,21 @@
+The observable universe in not only the only part of the universe that we can see, but it is also the only part of the universe that will ever matter to us. Since light is the fastest thing we know about, the farthest things we can see are also the farthest things that we have any chance of interacting with through the forces that we currently know about.
+
+We do not know.
+
+For instance dark flow is a measured oddball which consist of some galaxies moving all in the same direction in a weird way. This might infer a particularly dense arrangement of galaxies outside our observable universe that we cannot detect.
+
+Also there is not necessarily any extremely strange gravitational behavior on the edge of our observable universe, it's of similar make up and density throughout. If matter just ended at the edge (making us the center of it all, again unlikely) then you'd expect to see a density gradient, but you don't see that.
+
+While there is no guarantee the assumption will continue to hold true, but as far as we can see there is no reason to doubt that the universe just continues to extend in all directions with the same consistency and make up as the rest of it.
+
+There is some tentative indication that parts of the universe are being gravitationally affected by matter that we can no longer see (thanks to inflation). Google 'dark flow' for more information.
+
+The observable universe contains everything that is within our past [light cone](http://en.wikipedia.org/wiki/Light_cone). Unfortunately, we can't directly see much that happened before the [recombination era](http://en.wikipedia.org/wiki/Recombination_%28cosmology%29), during which the universe most recently became transparent to light. Everything that happened during and after that era forms the visible universe.
+
+The universe isn't expanding *into* more space. Space itself is expanding.
+
+The confusion seems to be this:
+
+You're assuming that when space itself expands, that it is somehow imposing on or displacing space that already existed elsewhere. This is not now works mathematically. Space isn't contained by anything. Space is what contains matter.
+
+What makes this extra confusing is that the total volume of the universe is already infinite. So even though space is expanding everywhere, the total volume still stays the same at infinity :-) It's wierd, but that's just how the math works.

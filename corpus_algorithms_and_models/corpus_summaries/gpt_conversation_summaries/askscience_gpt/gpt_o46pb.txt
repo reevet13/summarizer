@@ -1,0 +1,15 @@
+Yes, blue light in the hours prior to sleep onset seems to suppress melatonin production, delay sleep onset, and subsequently alters patterns of sleep during the night. 
+
+As far as I'm aware and have read, regardless of frequency, light will suppress the production of melatonin. However suppression varies greatly as a function of the amount of blue light; more blue= more suppression, less blue = less suppression, dim/minimal artificial light of any frequency = very little suppression.
+
+Past research has suggested that the melanopsin system (which is hypothesized to be related to melatonin production) is most sensitive to blue light frequencies.
+
+I can tell you that limiting your exposure to blue light starting about 2-3 hours before bed should have an effect on improving ease of sleep onset and quality of sleep.
+
+Anecdotally, there is a computer program called F.lux, which shifts your monitor's output closer to the red end of our visible spectrum (less blue light) for this same reason.
+
+Specifically, melatonin is produced by your pineal gland which gets its signal from the SCN (superchiasmatic nucleus, which is above the optic chiasm.
+
+Input to the SCN is dependant in signals from your intrinsically photosensitive retinal ganglion cells, which senses *only a narrow range of light*, that being the blue part of the visible light spectrum with a small shoulder in the UV range.
+
+You are correct that the RGC's in the melanopsin system are *most sensitive* to color frequencies near the blue spectrum (peak sensitivities have been estimated between 420-480 nm).

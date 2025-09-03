@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+When designing/aligning a Michelson interferometer for imaging, how important is the beam collimation in terms of data collection?
+
+For example, when using a multimode source and fiber optic but a single mode factory aligned collimator, we will get a lot more light but the collimation will be off a little.
+
+What is the total path of the light in the interferometer?  if you know how much of an angle we are talking, you should be able to figure out how much light you are losing.
+
+No lasers are *perfectly* collimated.

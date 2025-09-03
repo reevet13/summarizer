@@ -1,0 +1,3 @@
+How much curvature would be needed to oppose this gravitational force?
+This actually comes up a lot in structural engineering.
+A camber is just a slight bend added in the opposite direction of the applied load so it appears straight.

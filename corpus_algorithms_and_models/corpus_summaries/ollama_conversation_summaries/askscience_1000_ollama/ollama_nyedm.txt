@@ -1,0 +1,10 @@
+Here are the extracted sentences:
+
+* If I ask you to free associate about the word "Dog" a bunch of concepts probably come up: those that come from past memories, from associations with recent memories, blabla. There is likely some parallelized processing going on there.
+* Yes, multi-tasking has been shown in numerous studies to result in decreased efficiency, but its not because multi-tasking is inefficient.
+* Given a finite set of resources (in this case brain processing power) and assuming there aren't other factors limiting resource utilization for a particular task,  multitasking is inherently less efficient than serial processing.
+* Consciousness our ability to be aware and our ability to construct an inner narrative. If you removed the limitations of how much information our consciousness could hold, would it still be consciousness?
+* Anyways, drawing parallels between brains and computers is ill-advised, and basing conclusions on the assumption of equality between the two would never stand up to scrutiny.
+* Diseconomies of scale has to do with inefficiencies introduced by adding resources, whereas the key constraints of my argument are having a *fixed quantity* of a resource and the ability to *efficiently apply 100% of that resource* to a task.
+* My argument wouldn’t necessarily apply when you have spare capacity or the ability to add more resources.
+* By the way, I'm not arguing that improvements to the brain's ability to multitask aren't possible or that improved multitasking wouldn't be of great benefit to humans.

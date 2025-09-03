@@ -1,0 +1,18 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+As expected, still more than a year behind since the performance is similar to the Exynos 9810 and Apple's A11.
+
+And if you want to talk efficiency, Qualcomm's existing CPUs (or basically any ARM stock core implementation) are significantly more efficient than Samsung and Apple's big cores. That extra (theoretical) speed has a hefty power penalty associated with it.
+
+The Snapdragon 845 completely obliterates the Exynos in the real world, once you realize single core benchmarks are not the real world.
+
+THEORETICALLY. Again, benchmarks are benchmarks, and real world is real world.
+
+What leaks were you referencing with those numbers? Because that would mean only a single digit % increase for single and multi core while moving to 7nm. I really, really doubt that Apple won’t be able to make a bigger improvement than that.
+
+Umm they are...which is why it has the big SC performance it does. You really think they managed to get 50% IPC increase in SC all of a sudden? Lol.
+
+I'm really positive with this chip. Samsung failed, but I'm pretty sure Qcom, with their experience in the field, will make a very good chip.
+
+How did Samsung fail?
+Samsung had their own custom cores. Qcom just rebrands stock ARM cores.

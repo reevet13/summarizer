@@ -1,0 +1,25 @@
+Here are the selected sentences from the original text:
+
+Feel like it's too little of a thing to make a post about?
+
+Worry no more! Ask anything and /r/photography will help you get an answer.
+
+This video is the best video I've found that explains the 3 basics of Aperture, Shutter Speed and ISO.
+
+Check out /r/photoclass_2018 (or /r/photoclass for old lessons).
+
+Posting in the Album Thread is a great way to learn!
+
+Assuming you shoot in an automatic exposure mode ... use the *exposure compensation* feature to tell the camera to bias its metering brighter by quite a bit.
+
+By default your camera is going to go for a medium gray average in the scene. It has no idea that you're shooting snow, and it has no idea that you otherwise want an overall brighter shot unless you tell it with an increased exposure compensation setting.
+
+Raising the exposure in post is possible, but exacerbates noise.
+
+This is great advice and it's a solid skill to develop.
+
+If I was googling this to look for how to read up on it what should I google?
+
+Asking 'what settings should I use for _x_?' is like asking what gear and steering wheel angle you should use to drive to the store. That's not how you learn to drive - you learn how to operate the car, then you can drive anywhere.
+
+Likewise, you should learn the basics of controlling the camera, then you can shoot anything.

@@ -1,0 +1,26 @@
+Original Response:
+[deleted]
+Can you be more specific about what you don't understand?
+Um, you're wrong?
+
+&gt;the momentum is converted (again with some loss) into thermal energy as the bullet digs into the block.
+
+The momentum is transfered to the block which then swings in an arc upward, being tethered to some mass-less rod and ratcheting system.
+Thank you everyone thanks to your comment I now understand, it was a small technicallity, that just didn't click, but now it does thanks to you guys.
+Your answer to the question would be right if it were an [elastic collision](http://en.wikipedia.org/wiki/Elastic_collision), a collision where the bullet would "bounce off" the block without losing any energy. In that (idealized) case, kinetic energy would be perfectly conserved. 
+
+The situation described, though, is that of a [perfectly inelastic collision](http://en.wikipedia.org/wiki/Inelastic_collision#Perfectly_inelastic_collision), where the bullet sticks into the block and travels with it. In this case, some of the energy is lost, and ends up as heat.
+
+Consider the frame of reference that's travelling with the centre of mass of the system of two objects: in that frame, the two objects travel towards each other, collide, and just stop. The kinetic energy seen in that frame of reference vanishes, turning into heat.
+As pointed out by pi3832v2, your description is not accurate. Momentum is not energy and one is not converted to the other. They have different units and obey different conservation laws. The explanation highlighted in blue in the OP's post is correct.
+&gt; The kinetic energy seen in that frame of reference vanishes, turning into heat.
+
+Hey, what an excellent way to think about this. In high school I always wondered why you couldn't just transfer all the momentum of the bullet to the bullet-block system without losing any energy. *Hah!*
+[deleted]
+You can see what happens a little more easily if you imagine these as blocks sliding on a frictionless surface. One block is still, and the other block hits it. They then stick together and move off in the same direction.
+
+Solve for the final velocity using conservation of momentum and conservation of energy. You'll see that you get two different answers.
+
+Summary:
+Momentum is not energy and one is not converted to the other.
+The kinetic energy seen in that frame of reference vanishes, turning into heat.

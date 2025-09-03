@@ -1,0 +1,13 @@
+Here is the summary:
+
+I have the Yi 1080p cameras and they’re amazing. The older 720p ones are good but don’t have enough resolution for me. They’re super inexpensive on Amazon!
+
+Yi cameras. Comparable to nest cam but way cheaper
+
+Good but not thru the glass door. That one has night vision disabled. My motion lights light up if anything walks past so that issue was resolved.
+
+I don't think any night vision cameras work well through glass
+
+Glass is opaque in the infrared spectrum, so that's probably why.
+
+They can if you disable the camera’s emitter but set up independent IR lights either outside or pointing out through a different part of the window.

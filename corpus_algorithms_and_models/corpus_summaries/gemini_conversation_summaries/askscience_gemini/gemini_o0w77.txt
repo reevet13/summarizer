@@ -1,0 +1,1 @@
+We already do that now. We use x-rays to measure the structure of crystals, because the typical distance between two atoms in a crystal lattice is lower than the wavelength of visible light.

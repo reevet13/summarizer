@@ -1,0 +1,149 @@
+Original Response:
+I realize there are many answers, particularly factoring the shoe, floor surface, type of door, etc but figure this would be a fun question to ask the askscience community.
+For sheer amount of force being used I would say upper body as it is a larger area with more weight behind it. If your foot was Edit: Further Away* to the "pivot" of the door however, it may be a bit more of a close call. 
+
+*Thanks to rational for pointing out my rookie error.
+&gt; If your foot was closer to the "pivot" of the door
+
+I think you mean further away. If your foot is close to the hinge and the person on the other side was to push at the doorknob (further away from the hinge), then leverage would work against you.  
+
+Ideally, you would want to put your body (or foot) as far away from the hinge as possible in order to minimize the leverage that could be used against you.
+
+In my personal experience, when using my body I almost always get pushed backwards and cannot recover. The best I did was to stand with about 90% weight on one foot that placed straight into the door but so that most toes are curled up onto the door but the rest of the foot is flat, and the other foot is helping balance. I don't lean into the door, because it can bounce and cause you to become unbalanced and lose that critical foot on the door. The door has some spring to it and will spring back even if briefly pushed in.
+
+That technique may not work for carpeted or slippery floors, or a variety of other situations. 
+
+As always, "it depends".
+Ahh sorry you are correct, An error of the worst kind. Thank you for pointing it out.
+Considering that any force your upper body puts on the door has to come from the static friction of your feet anyway, the only thing you gain by using your upper body is two feet worth of friction at the expense of bringing your muscles in to the equation.
+Why can't you do both?  Put one foot against the door, your other foot far away to brace yourself, and then lean against the door.
+
+As far as the statics calculation goes, you can never exert more horizontal force than you have static friction.  You can increase that by somehow pushing yourself down.  If you wedge your foot partially under the door, that would give you more friction.
+I'd think leaning against the door, since you're using your feet to hold the door in place either way (your torso doesn't hold itself against the door), but when leaning against the door, you can push against it to increase the normal force of your shoes against the floor, thus increasing the frictional force resisting the door.
+
+Just be sure to push on the side of the door opposite the hinge.
+your foot can act as a wedge.
+
+your body is a heavier object with 2 static friction feet holding it.  
+
+both are superior to a single static friction foot.
+This sounds like a better question for the Mythbusters than askscience.
+
+It needs to be tested rather than speculated upon.
+[deleted]
+It really depends on what you mean by "effective". A big, strong person is going to be able to brace their weight against the door and enhance that by pushing back at the door with their muscles, but in doing so they're burning a lot of energy. Likewise a large, heavy person who lacks big muscles could put their foot against the door and sink their weight into that foot, effectively making it a XXX lb door stop and get similar results. While their ability to hold the door against an immediate force might not be as great as the muscularly strong person, they should be able to hold it for a longer period as fatigue likely won't be as much of an issue for them over time. So "effective" really depends on what you're looking for. 
+
+There are other variations of this that could be explored as well
+this one is right. especially if you push up on the door, the normal force and friction will increase because your shoe will be pushed down more forcefully and therefore have more friction
+At the expense of bringing your muscles and ability to maintain your balance in to the equation.
+
+From experience we all know the shoe is more effective.
+When using the foot you want to put as much weight as possible on it to maximize the friction. This means your back foot will be completely ineffective to support the "lean".
+(note that the following assumes a rigid door - we all know that the possibility of the door bending is real, but that's ignored here)  
+
+In either case, it's all friction.   When you press your upper body, you are still holding yourself in place using friction of your feet against the floor.  To open the door, the zombie (I assume this is research for zombie defense) must apply enough force to overcome this friction.  
+
+When you wedge a shoe in front of the door,  the force required to open the door is the force required to overcome that friction, or break your foot -it's that simple.
+
+However, when you press against the door, you are adding multiple other ways to open the door, and adding another point of friction. So the zombie must do only one of these:
+
+ * apply enough force to rotate your body in relation to your foot ( for example, knock you over or stand you upright if you're leaning)
+ * apply enough force to compress your arms (if you're holding the door with your arms), body, etc enough to open the door
+ * apply enough force to overcome the friction of your body on the door, forcing you to slip your hands up the door (another way to rotate you in relation to your foot)
+ 
+and so on.  At the same time however, you are leaning in such a way as to increase the friction between you and the floor.
+
+So the answer is dependent on many factors, but it comes down to this:  you are adding additional "minimums" to the force required to open the door.   If any of these are lower than the foot on the bottom of door, then you are less effective.   If the minimums are higher (and you are increasing friction), then you are more effective.   Personally, I can hold better (and with less fatigue) if I use the shoe on the bottom of the door in almost all cases.
+&gt;two feet worth of friction
+
+So long as your weight doesn't change and the soles of your shoes are made from the same material, two feet won't get you any more friction than one foot. Increasing the surface area contacting the floor will decrease the pressure exerted by each shoe, but the net normal force will remain the same, and so will the frictional force.
+[deleted]
+Alright since this is mostly speculation I'm going to do a little math. Maybe it'll help.
+
+1. Shoe as a wedge: Assuming floor type of carpet and shoe type of rubber I'm going to guess a coeff. of static friction of 0.4 and 90% of my bodyweight (165lbs) on shoe. This gives **260N** before the shoe will move.
+
+2. Leaning: I'm not going to do the math for the optimal angle with which to lean so I'm going to assume what feel natural at 45 degrees. Also I'm going to assume your body wont buckle before the shoe will slide. Same math as above except it's half the body weight is on the shoe instead of 90% so we get 150N. However theres also the weight applied to the door (which should again be half their weight with similar characteristics as the shoe/carpet) equating to another 150N. Totaling **300N**.
+
+**full disclosure: I'm beginning to doubt how well I remember those physics lectures so I'd appreciate if someone would check my work.** Also even if it is correct it is a very simplified version. It's in a sense comparing 1 very heavy shoe placed at a door vs a shoe attached to a very heavy pole thats being leaned against a door.
+How you doin'?
+From personal experience of keeping my older brother from getting in rooms, foot against the door works better than weight.
+
+He weighed 200+ and I weighed about 130, but one foot at the base of the door and he wouldn't be able to open it, and I'd be able to stand there all day.
+I dropped by just to say this.  Also, considering that the door is (in most cases) likely to flex from force being placed against the center when you brace the very bottom with your foot, it will act as a shock and limit the maximum magnitude of impact impulse if someone throws them self or an object against the other side.  Foot for the win.
+[deleted]
+The problem would be that in that position the force isn't going directly into your feet, it's going towards pushing you over, which may or may not be less resistance than a foot alone.
+Foot works best if there is a little space under the door to jam part of the foot. This way the door will press your foot to the floor and the friction will increase proportionaly with the force used to push the door making the door unable to open - the only way to open the door in this case is to efectively smash the foot and that requires quite a lot of force ...
+plus loss of balance/leverage if you lean against the door and receive that same impact
+The angle of either option plus the different materials (and how well they grip at those different angles) will result in different results.  There have been times I've tried something like this and my shoe just simply went "slip" but using my body weight and the angle I was able to push harder.  Then there were times where I could just put my foot against a door and if one was within reach I could probably grab a book and sit back and read while someone slammed on the door with their full body weight and I wouldn't have to even prepare for it.
+&gt; A big, strong person is going to be able to brace their weight against the door and enhance that by pushing back at the door with their muscles, but in doing so they're burning a lot of energy.
+
+Can you explain?  On a flat floor, it seems your "pushback" is limited by the frictional force between your feet and the ground.
+Wow, i wrote a really long post explaining this situation and it magically disappeared.... Well I guess the important things are that just standing vertically, without pushing, has your entire weight downwards onto your shoe.  If you lean and push against the door, some of your weight is supported by upward friction of your hands on the door.  Then the normal force on your shoes decreases and you can't push as much.
+
+Basically, pushing doesn't do anything because you need the friction of your shoes to "push back" anyways.  The only way pushing does anything is to push UPWARDS, because that increases the amount of horizontal force your shoes can withstand.
+
+EDIT: as minno said, "you can never exert more horizontal force than you have static friction. You can increase that by somehow pushing yourself down."
+This is kinda sorta right.  The ONLY force that will do anything is the friction of your shoes, so the only push that matters is an upwards one.
+No, it doesn't.  You can figure out most of the important things from drawing a free-body diagram.
+" is a heavier object with 2 static friction feet holding it."
+
+what.  This makes no sense.
+Just for shits and giggles, I asked my roommate to try with me.
+
+Using the foot on the floor, he had absolutely no chance at even nudging the door. With me leaning towards it, he wasn't able to completely open it, but he was able to push open a gap.
+If you try to push upward on the surface of the door to increase the downward force on your feet, you must also be pushing horizontally into the door. The horizontal force that is consequently exerted on your hands by the door (Newton's third law) is transmitted through your body and acts to push your feet away from the door, so by trying to increase the normal force on your feet in this manner you can actually have the opposite of the desired effect and make it easier for your feet to slip. Whether or not this is occurs would depend on the coefficient of friction between your hand and the door.
+
+You can imagine wearing socks on a slippery wooden floor and pushing your hands upwards against a door; it's actually pretty easy to force your own feet to slip by doing this even if nobody's pushing on the other side of the door.
+
+However, if you can grip the door handle and exert a direct upward force on it, you would then be able to increase the normal force on your feet without incurring this penalty.
+So toes (in shoe) against door, grab handle and lift as hard as you can. Good to know.
+[deleted]
+Of course it's for zombies. What else?
+When I was a wee lad, I tested both methods by locking my brother in a dark and scary closet, and the foot against door method is definitely better.  If he rammed his body against the door, my body would bounce back, but not if my foot was down there.
+This has less to do with the door and more to do with the human body. 
+
+The best method would be press the floor with your feet and door with both your head and hands such that your entire body lies in a line between the floor and the door.
+That's because your body is bendy. A rigid chair propped under the door handle would not bounce back. Hence the foot method is better.
+I will try. Everyone talks about friction, but when dealing with the human body our ability to convey a force to the ground and create/use that friction depends on a lot of things. 
+
+The human body is a flexible frame which will not convey force to the ground unless made rigid in some way. To make it rigid we brace and tense various muscles in order to hold that frame in place and convey that force to the ground. Our abilty to convey that force to the ground is directly proportional to our ability to hold the frame solid. Once the frame starts to shift, in this case from muscle fatigue, etc, it loses its ability to cleanly convey that force to the ground. 
+
+I said push back, but that probably wasn't the correct terminology to use, because the pushing back is really just bringing more muscle into play in order to keep the frame rigid and allow it to convey the force trying to open the door to the ground.
+My first instinct was to agree with you, since it's easy to imagine the force of static friction as having to resist the sum of the horizontal component of your pushing and the intruder's pushing, but, so long as the horizontal force doesn't exceed your shoes' static friction, it's still a force that's resisting the intruder, though nonetheless limited by static friction.
+
+I'm having trouble wording it, but something like this, where a positive net force means the door stays shut:
+
+    F_net = [(F_static - F_push.x) + F_push.x] - F_intruder
+
+Which is, of course, the same as
+
+    F_net = F_static - F_intruder
+
+or
+
+    F_net = µ(F_weight + F_push.y) - F_intruder
+
+but not
+
+    F_net = F_static - F_push.x - F_intruder
+
+So, the horizontal portion of pushing against the door only acts as a transfer of the static friction, which the vertical component increases by way of the normal force up until the horizontal bit exceeds your static friction and you push your feet out from under you, then all bets are off. The greater the ratio of vertical to horizontal, the better, obviously.
+
+Having said all that, I'm still inclined to believe ~~my first post was mistaken~~ I was mistaken in my first post after reading [important_nihilist's treatise](http://www.reddit.com/r/askscience/comments/o2rdg/is_it_more_effective_to_hold_a_door_shut_using/c3dxnfa) on fatigue, additional minimum forces, and rotations. Damn people who think in three dimensions!
+
+Oh, well... It won't be the first time I ascend [Mt. Stupid](http://www.smbc-comics.com/index.php?db=comics&amp;id=2475#comic), and it probably won't be the last.
+
+Summary:
+especially if you push up on the door, the normal force and friction will increase because your shoe will be pushed down more forcefully and therefore have more friction.
+This has less to do with the door and more to do with the human body.
+At the same time however, you are leaning in such a way as to increase the friction between you and the floor.
+If you wedge your foot partially under the door, that would give you more friction.
+When you press your upper body, you are still holding yourself in place using friction of your feet against the floor.
+your foot can act as a wedge.
+your body is a heavier object with 2 static friction feet holding it.
+Put one foot against the door, your other foot far away to brace yourself, and then lean against the door.
+The ONLY force that will do anything is the friction of your shoes, so the only push that matters is an upwards one.
+You can increase that by somehow pushing yourself down.
+You can increase that by somehow pushing yourself down."
+If you lean and push against the door, some of your weight is supported by upward friction of your hands on the door.
+If any of these are lower than the foot on the bottom of door, then you are less effective.

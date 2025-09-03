@@ -1,0 +1,29 @@
+I don't know if I'm correct, but I remember reading that temperature (heat) is a huge problem because the circuits on CPUs are so small that they are easily burned out.
+
+In general smaller circuits are more efficient because the same signal is transmitted over a smaller distance.
+
+They would be able to support higher temperatures, but they would be much slower.
+
+The thing is, CPUs really don't do very much.
+
+Small wires are better for speed, big wires are better for heat.
+
+You can increase voltages to improve switching times, but you end up with increased power consumption, which is basically what the problem was to begin with.
+
+At the end of all of this... it's always a tradeoff, and a smaller chip means you can run it at a higher speed for the same power consumption.
+
+Fast becomes a problem when you scale up because of the fundamental limits of the universe.
+
+The reason you always hear about them moving to smaller 60nm 45nm etc productions, its because they need everything smaller and closer together to reduce latency over the tracks.
+
+Wire delay is a function of the product of capacitance *and* resistance.
+
+Exactly. Interconnect length is the bottleneck.
+
+Wire delay does provide the theoretical lower limit to CPU size, but as other posts in this thread have pointed out, current CPU's are more closely limited by the speed of light.
+
+Right now increasing the power and efficiency of concurrent and distributed systems is probably more important than ramping up CPU power.
+
+The speed of propagation in copper is typically estimated as between .5c and .66c.
+
+"Speed of light", in fact, is what is the *theoretical* lower limit. The *actual* lower limit is determined by the actual signal propagation across wires (wire delay) and gates.

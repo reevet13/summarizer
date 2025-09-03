@@ -1,0 +1,236 @@
+Original Response: 
+&gt;In addition, the U.S dollar deposit balance will be examined monthly by an independent registered public accounting firm to verify the 1:1 peg.
+All Independent Accountants’ Reports will be publicly available here.
+This is how you do it, take note competitors!
+Good job Gemini, this can only bring in masses of new customers!
+I strongly disagree.
+Back peg deposits with btc and let us all audit the peg and have no fear that we could have our funds confiscated or be screwed if Gemini fails.
+This is just more of shoehorning new trust models into old trust models.
+If it requires regulation and private audits it is bullshit.
+Then it wouldn't be a pegged to the dollar, defeating it's entire purpose.
+We have an asset pegged to bitcoin.
+It's called bitcoin.
+Yes it would, the peg would still be centralized.
+I am not going to lay out all the details though they should be fairly obvious.
+This is a project I desperately want to do myself if someone won't smarten up and do it first.
+How exactly would you ensure that the reserved funds are enough?
+Let's say the value of 1 BTC drops to $1 tomorrow.
+How do you ensure that your currency is still 100% backed?
+By noting the bitcoin locked up in smart contracts that you have keys for is worth the dollar peg the contract quotes.
+And when it's not you assume the peg has failed, the peg provider has gone out of business, or any other thing and you simply withdraw your no longer pegged BTC and go about your business.
+The only wrong answer here is using old trust models and claiming it is something revolutionary and new.
+Give me a peg that cannot be seized or censored, and I can audit myself.
+There is no reason not to other than it's more expensive to peg for the pegging company and implies them giving up significant control over user funds.
+I don't really understand what you're saying.
+But look at https://makerdao.com .
+They've been working on a eth-backed USD peg for awhile.
+It doesn't need to be anywhere near that complicated or even decentralized.
+There is room for companies to profit while offering low trust and trustless services backed by Bitcoin.
+&gt; I don't really understand what you're saying.
+These products try to introduce trust back into a system that was expressly designed to remove the need for trust.
+It's as simple as that.
+If the auditors screw up, accounting errors, the parent company goes bankrupt, is hacked, a rogue developer moves coins to the Caribbean, the government outlaws crypto, or jacks up taxes unexpectedly, or seizes coins, or another other number of thousands of possible scenarios, you lose your money.
+None of those things are concerns if you own Bitcoin and have secured your private keys.
+You glossed over this before with "I am not going to lay out all the details", but have you actually thought about whether this would work?
+Because it's pretty obvious to me that it wouldn't work, and if you want to refute that you need to explain why it would work.
+How is the peg provider supposed to magically come up with arbitrary amounts of extra BTC whenever the BTC price drops?
+If you think it wouldn't work you haven't thought about the details.
+I'm sorry but if you cannot imagine a way to peg dollars to bitcoins without actually using the deposits to do the pegging you just aren't thinking hard enough.
+Seriously think about it.
+How do you make more BTC when the price drops?
+https://gemini.com/wp-content/themes/gemini/assets/img/dollar/gemini-dollar-examination-report-09-09-18.pdf
+
+The first report for opening balance.
+This is FDIC insured too?
+The peg is a erc20 token, and it is covered with fdic insurance.
+So it is "backed" by insurance, which is a million times better than this offshore tether monkey business, which is entirely non transparent.
+It does seem like Gemini is trying to satisfy both sides.
+Also, you cannot back a USD per with BTC.
+Not rationally at least.
+Advising to back a stable asset with a volitile one is pretty dumb.
+You would need 100x BTC value deposited for each dollar to satisfy regulators.
+This is a regulated exchange *trying* to do it right.
+Don't be a crazy person...
+If they let it be regulated enough, it will offer zero advantages over the actual dollar.
+Tether has the use case of not being heavily regulated.
+Sure, it's scarier, but there is also great utility.
+I don't know what utility an equally regulated dollar is gonna provide.
+ but still how can you make it remain pegged to the dollar?
+No I mean I don't get what he's proposing on his dollar peg.
+You can't just assume the peg doesn't fail.
+I don't think you know what I am talking about.
+The level of thought given to things here is unbelievably shallow and effectively stops at "btc is volatile, it cannot back a peg"
+A company would provide the pegging service.
+The mechanism they use to do it is up to them.
+I am seriously shocked at how many people can't think of a single way a company could choose to peg their users bitcoin to dollars.
+It frankly makes me want to keep these again obvious methods to myself so I can build such a service in the future.
+All you do is insulting people not thinking through.
+But the fact is you have no idea what you are talking about.
+You can think that if you want, it is no skin off my nose.
+It's seriously not rocket science, anyone could do it with enough funding.
+Think about it this way - if you as an individual wanted to make your own dollar peg from your btc - could you?
+How would you go about doing it?
+I feel like this person thinks if they give away too much information they may give away a multi million dollar idea.....At least that’s what they’re eluding to.
+Are you suggesting they short BTC while simultaneously holding all of the BTC in a smart contract that the user can redeem at any time?
+If so, you should have stated that upfront instead of implying that anyone who can't see into your mind is a moron.
+This is closer to working than what I thought you had in mind, but I still don't see how they can short BTC while simultaneously giving the user trustless access to their funds, without having some large multiple (like, 2 or more) of user funds on hand to trade with.
+Instead of implying we're all idiots why don't you just explain a single way a company could choose to peg their users' bitcoin to dollars?
+Do you come here to discuss ideas, or just to announce that you have ideas and mock anyone who doesn't automatically know what your ideas are?
+&gt; a company would provide the pegging service?
+Man, you have no idea how things works do you.
+All you need to explain is what will happen when btc decrease 50% to dallor value.
+How the peg will remain?
+Lay it out yourself then you will realize you have no idea what you are talking about.
+Lolz.
+I came here to say pegs that rely on old trust models are inherently broken, not feed your curiosity.
+I've said enough about my idea - the point is much more that this trusting peg of geminis is no good.
+And yes, people who make blanket assertions of what is or isn't possible should be told they aren't thinking hard enough when they are wrong.
+Why should I divulge my specifications for a trustless peg in a random comment?
+How is not being heavily regulated in any way an advantage?
+?
+Why is tether so vulnerable to abuses?
+I don't know much about how it works to be honest, but it seems that a lot of major price manipulations for BTC are done through tether.
+Is it easier to pump extremely large amounts of money through?
+And yes, a regulated Gemini dollar is just another dollar, isn't it?
+I mean, sure, you can trade it over the weekend, but it'll be frozen to the closing price of the USD on Friday afternoon.
+So what would the advantages of it be?
+GUSD will be 24/7 unlike USD.
+Ok, then I apologize for implying your crazy :) I didn't even see the nickname until now, otherwise I would have perhaps given it more thought as I've seen you contribute plenty of good stuff here.
+You should recognize my name, we've discussed high level stuff plenty of times in the past as I've been an extensive contributor here for 5 years.
+Im listening, go ahead and make your case as you didn't appear to do it very well in your first message as I don't get what you were putting down, or misinterpreted it.
+&gt; If they let it be regulated enough, it will offer zero advantages over the actual dollar.
+Did you even read the article?
+Its plainly laid out for anyone to understand the advantages.
+Rather than repeat whats there, why don't you read it?
+I'm not making my case, people are pushing me to state an alternative pegging method as though that is what would be necessary to validate the claim geminis peg is unnecessarily trusting.
+Suffice to say there are several alternative pegging methods with significantly less trust than this, including pegging methods backed by BTC.
+I'm not here to describe specifications for businesses I want to be involved in, that's an unreasonable thing to ask of a random reddit comment.
+I'm here strictly to say it's possible and this gemini peg is the unnecessary shoehorning of new trust models into old ones.
+Someone says you are wrong it's reasonable to say "prove it", and if my unwillingness to describe the specifications of a less trusting peg leaves you in doubt so be it.
+I'm not here to convince you in this instance, just state the facts.
+&gt; Suffice to say there are several alternative pegging methods with significantly less trust than this, including pegging methods backed by BTC.
+Please provide examples.
+&gt;.
+I'm not here to describe specifications for businesses I want to be involved in, that's an unreasonable thing to ask of a random reddit comment.
+...huh?
+Left field dude.
+I certianlly did not ask you that.
+&gt;I'm not making my case, people are pushing me to state an alternative pegging method as though that is what would be necessary to validate the claim geminis peg is unnecessarily trusting.
+Well if you don't want to make your case, why bother posting at all?
+This is not a trustless enviornment.
+Words that you write on the internet must have backing in rationale/logic/information if you expect people to believe you.
+You should be more open to substantiating your opinions, otherwise people will simply laugh at/ignore you.
+Also, stating that gemini is using a "unneccesarily trusting" peg is kind of redundant and pointless isn't it?
+You are already uneccesarily trusting a centralized entity by preforming personal or business transactions on the gemini platform.
+Once you adequately describe alternative pegging methods that currently exist, maybe I will change my opinion on that statement.
+As of right now, its impossible for me to do so without more information.
+If you do adequately describe alternative pegging mechanisms, then I would simply state those mechanisms should be utilized on DAX's, eliminating centralized/custodial models.
+If a custodial/regulated entity wishes to provide custodial/regulated peg's, then why nitpick it?
+You are already dancing with the devil, whats wrong with taking a little sip of the devils whiskey?
+&gt;...huh?
+Left field dude.
+I certianlly did not ask you that.
+You are asking me that though, you just don't know it.
+&gt;Well if you don't want to make your case, why bother posting at all?
+I posted at all because AGAIN - I am strictly here to condemn shitty trusting solutions for our trustless new world.
+The only people who have a problem with me commenting that Geminis solution sucks are people like you who can't imagine a better solution.
+If that solution is incredibly simple, there is demand for it, and a company providing it could profit - why would I post it in some random comment?
+I would much rather do it myself when it is possible for me.
+&gt;Once you adequately describe alternative pegging methods that currently exist, maybe I will change my opinion on that statement.
+As of right now, its impossible for me to do so without more information.
+I can appreciate that.
+Like I said I am not looking to change your mind, I am simply stating the facts.
+1) Geminis peg is trusting and 2) it doesn't need to be.
+Why nitpick custodial solutions?
+Because they are the antithesis of the trustless new world we are building.
+I want to let you know that I think you're an asshole, and that unrealized ideas aren't worth shit.
+However, [you might find this interesting](https://www.moneyonchain.com/solution).
+&gt;We provide a Bitcoin-Collateralized Stablecoin using a two token system.
+To do so we use smart contracts on the RSK Bitcoin sidechain, which allow us to strip the volatility of the Bitcoin into two separate currencies: 
+
+&gt;* Dollar on Chain (DoC), for risk averse individuals
+
+&gt;* Tokens for Propense Risk individuals (TPro)
+
+&gt;The Dollar on Chain (DoC) tokens will be stable against the US Dollar, whereby each DOC token has a value of 1 US dollar.
+These tokens will have no volatility against the Bitcoin and hence be stable therefore providing a risk free asset.
+Furthermore these tokens can be used to fulfill the functions of money earlier describe.
+&gt;The Tokens for Propense Risk individuals (TPro) on the other hand will bear not only the risk of Bitcoin, but also the unwanted risk of Dollar On Chain buyers.
+The TPro per se hence has a greater volatility than just the Bitcoin itself.
+The increased volatility results from the sum of the risk of Bitcoin and the assumed risk from Dollar On Chain holders.
+Well thank you, I am an asshole.
+I agree unrealized ideas aren't worth shit, that doesn't mean I want to give them away either if it's a project I want to pursue.
+I'm aware of moneyonchain and makerdao, if you are satisfied that those examples are less trusting than this gemini solution thus fulfilling the need some here have for such a description then we have nothing to argue about, we agree on all the above.
+Especially the part where I am an asshole.
+If you want people to take you seriously you need people to understand you.
+I appreciate you took the time to understand me.
+I think if I stressed about whether people on the internet understood me though I'd go crazy.
+Gemini's bank is not open 24/7.
+A GUSD is just an IOU on US Dollars.
+If the Gemini Dollar was fully backed by USD, they would not need FDIC insurance.
+But any GUSD you already have can be sent to Gemini at any time to buy crypto with, unlike the USD in your bank account.
+Essentially it's no different than keeping a Dollar balance with Gemini.
+Im on your side on most of this issue, but with the way you come across it makes me want to spite you.
+You should work on your communication skills because at present, you are the dude at the party that no one wants to talk to....
+
+To sum up your posts, its basically "I say so, no I wont say why, you are apparently too stupid/naive to understand".
+Did I miss anything?
+The part where you assume my goal is to be personable.
+It's a technology forum.
+I think I'm a blast at parties.
+Want to hang out sometime and we'll enjoy the lighter side of life?
+I'll even supply the party favors.
+Except that I can’t send “dollars” (or a dollar equivalent) to a friend halfway around the world.
+I can send Gemini Dollars.
+It's completely different.
+You get to keep your money in an ethereum account that you control, not a centralized exchange.
+Are you trolling?
+That Ethereum token is not money, it is an IOU on US-Dollars, held in a bank account owned by Gemini.
+You have to trust Gemini, Gemini's bank and the US authorities.
+It's the same as a Tether, the only difference is the jurisdiction of issuance.
+That you can send these IOUs around the world, gives it some utility, but it doesn't make it money.
+I can send a travel check halfway around the world too.
+Nothing new.
+Let's people do what they want with their own money without permission of the government or Gemini.
+You know... 90% of Bitcoin's utility.
+Then use Bitcoin.
+But if you want stability in price and security.
+Regulation is better.
+It serves as money on the Gemini platform, which is what we're talking about.
+At least I am.
+So in a comparison between using USD on Gemini and GUSD on Gemini, do you see the value add or not?
+&gt; It serves as money on the Gemini platform
+
+That is essentially a Gemini gift card.
+k. Do you see the value add in a crypto Gemini gift card pegged to USD?
+Not instantly.
+
+Summary: 
+I can send Gemini Dollars.
+I certianlly did not ask you that.
+How the peg will remain?
+ but still how can you make it remain pegged to the dollar?
+We have an asset pegged to bitcoin.
+I don't think you know what I am talking about.
+&gt; a company would provide the pegging service?
+I think I'm a blast at parties.
+I would much rather do it myself when it is possible for me.
+How would you go about doing it?
+Well thank you, I am an asshole.
+1) Geminis peg is trusting and 2) it doesn't need to be.
+A company would provide the pegging service.
+Especially the part where I am an asshole.
+Think about it this way - if you as an individual wanted to make your own dollar peg from your btc - could you?
+I don't really understand what you're saying.
+So what would the advantages of it be?
+I appreciate you took the time to understand me.
+Give me a peg that cannot be seized or censored, and I can audit myself.
+&gt; I don't really understand what you're saying.
+You can't just assume the peg doesn't fail.
+It's as simple as that.
+Yes it would, the peg would still be centralized.
+You are asking me that though, you just don't know it.
+The mechanism they use to do it is up to them.
+How do you make more BTC when the price drops?
+You have to trust Gemini, Gemini's bank and the US authorities.
+Gemini's bank is not open 24/7.

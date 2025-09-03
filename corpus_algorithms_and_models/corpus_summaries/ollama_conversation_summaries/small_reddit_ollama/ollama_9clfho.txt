@@ -1,0 +1,27 @@
+Here is the summary:
+
+In the software that devs use to make maps, all the cubes are called brushes for some reason.
+
+Ahh right! But why is it the worst?
+
+Valve maps have a recurring issue of inefficient brushwork, like cutting a wall into too many pieces, or accidentally leaving inaccessible hollow spaces.
+
+You mean like the polygon on the Ubersaw?
+
+Dude, did you see my post on Mercenary Park? There were literally sealed off spawn rooms and completely unaccesable detailed areas left in the final build, as well as dev textures and unspottable props.
+
+It's pretty clear the canals were made early in development.
+
+They even left half-removed dev exits, beta version map geometry and random stuff randomly.
+
+Hell, they are using older versions of the entities.
+
+Seriously, Valve mapping is so goddamn bad. Especially on their first levels.
+
+They wrote the engine themselves, so it was pretty new even to them. Of course they know how to use it, but at the same time they constantly have to learn how to properly use it.
+
+Also HL2's first canal maps are nightmare to edit and fix. Never try to do it: They even left half-removed dev exits, beta version map geometry and random stuff randomly.
+
+It explains!
+
+Are you going for a redesign of other parts of the map too, not just the skinning? What I mean is, addressing the horrible health pack placements, limited ammo dumps, etc.

@@ -1,0 +1,10 @@
+Here is the extracted summary:
+
+I want something deeper and more instructional than say The Elegant Universe, and am not opposed to starting with more fundamental physics (say, a textbook on mechanics, electrodynamics, thermodynamics, etc.). 
+If the former, it will be difficult as there's a lot of things that might be tacitly assumed that you know about more basic physics.
+I'd also look into [Foster and Nightingale's relativity](http://www.amazon.com/Short-Course-General-Relativity/dp/0387260781/ref=sr_1_2?ie=UTF8&amp;s=books&amp;qid=1280004808&amp;sr=1-2) book for a brief introduction to special (read Appendix A first) and general relativity.
+If you want to learn about phenomenological particle physics, say look at [Perkins](http://www.amazon.com/Introduction-Energy-Physics-Donald-Perkins/dp/0521621968/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1280004658&amp;sr=1-1).
+Also it may help to get a book on mathematical physics, such as [Boas](http://www.amazon.com/Mathematical-Methods-Physical-Sciences-Mary/dp/0471198269/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1280004996&amp;sr=1-1) or [Arfken](http://www.amazon.com/Mathematical-Methods-Physicists-Sixth-Comprehensive/dp/0120598760/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1280005015&amp;sr=1-1).
+I like Perkins; it gives a good overview of how the models of particle physics have developed over time and helps you find out where to look next.
+Start at the beginning, go pick up an old edition of the Giancoli set for cheap.
+I'm looking to at least understand it.

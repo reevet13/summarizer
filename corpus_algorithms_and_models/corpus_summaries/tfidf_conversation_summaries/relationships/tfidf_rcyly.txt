@@ -1,0 +1,61 @@
+Original Response:
+I'm 29, my GF is 27 we've lived together for a few months in state A. My GF is currently visiting her family/friends in our home state, State B. Over the past few months, she's been exchanging texts on occasion with an "old friend", we'll cal him GJ. She says they made out in HS but that they were never going out. Today, using her iPhone, I got some damning evidence indicating she was at GJ's house this AM moments after texting me saying she was at her Mom's. She admits to "stopping by" his house last night on the way to her girlfriend's house which is nearby. She says this is a technical issue but I just don't know.
+
+I've already posted this to a technical subreddit in an attempt to iron out the possibility of a malfunction with Apple's location services (which has been totally not helpful).
+
+I wanted to know what this subreddit thinks of this situation--her behavior, this dynamic, even my reaction/behavior (if you feel the need to call me a stalker, that's cool).
+
+------------------
+
+Long story short, my GF is out of town and she sent me a weird text this morning and then stopped responding. I didn't know if she was in trouble or what so I logged into her iCloud to send her a message with sound.
+
+Naturally she doesn't believe that, but regardless, the "find my iPhone" yielded unsettling results, and I need to know if this is a technical issue.
+
+I need the expertise here to determine the verdict based on the evidence especially #1 and #3:
+
+1) **iCloud says she's not where she says she is**: In her original text, she said she was at her Mom's. When I first went into the map, it located her iPhone's "immediate" location "as of 1 minute ago".. there was no circle around it indicating it was likely found by GPS and not wifi... The location was definitely NOT her mom's.
+
+Possible Explanation: I've read online that sometimes the location can give false results OR indicate that the location was refreshed "1 minute ago" when it is actually delayed by hours. Very well... but there's more
+
+2) **Not a location error, a temporal error?**: The first location it grabbed was a REAL place that she admitted she HAD been to, but hours prior and not at the moment. I broke the news to her simply by sending her a screen shot of the location on iphone, not by telling her the address. At first she said it was her girlfriend's house which she had spend several hours last night, then I did a look-up and found out it was the home of an Ex boyfriend . After I told her I'd found that out, she said she'd mistakenly thought it was someone else's place, she said she did indeed "stop by" the guy's house but only for a little bit, ultimately spending most of he night at her girlfriend's house.
+
+Possible Explanation: The "Ex" is an old friend who lives in her old stomping grounds right next to the girl's house she stated she was at. Using her small iPhone screen, she could've mistaken the location. Very well... but there's more
+
+3) **TWO bad locations in a row? in order?**: After I got her location, I must've clicked "refresh" 20 times in 10 minutes trying to get it to say something else. It refreshed twice indicating the exact same location, and then **it showed her driving away**--again, no circle indicating "rough estimate", just a dot "located 1 minute ago" down the street from the original address. SO: *IF* the original location was an old record *MISTAKENLY* sent as new, HOW did it send a SECOND location in sequence? Cache me once shame on you, cache me twice ... how can that be a cache?!?!
+
+Possible Explanation: I have none.
+
+4) The Ex's number is no longer in her address book on her iCloud account.
+
+Possible Explanation: I know it's in her phone... not in iCloud though? what?
+
+5) **GF's New Explanation: "My phone is bonkers!"**: GF now says her phone started acting weird this morning right after we talked, asking to enter her phone number possibly a password or something. At the same time, iCloud kicks me off and asks for a password, also says her phone can't be found (she's on verizon, perhaps she's just making a voice phone call, thus cutting off the data). She didn't change her PW; it now lets me login again.
+
+here's the conversation:
+
+&gt;scrubs: so what did the error box say exactly?
+
+&gt;Girl: Which one. I've had a few
+
+&gt;Girl: One said the server wasn't responding
+
+&gt;Girl: One said it required a number to use this device. Another said it couldn't use location services on a device that wasn't activated
+
+Possible Explanation: Maybe iCloud really is acting up this morning?? Does this explain the whole thing?
+
+6) **Strange reaction**: If she'd found my location and implied I was lying to her, I would've been annoyed. She did call me a "psycho" initially but almost immediately tried to give possible explanations. She's called me twice complaining about the issues with her phone (see #5). It's just weird behavior. If I were her (and innocent) I'd be pissed, call me dumb and tell me what I did that night and then tell me to google the issue and stop stalking me. It just seems weird she's so understanding.
+
+Possible Explanation: She's been falsely accused due to an error caused by the Ghost of Steve Jobs and she's got a reasonable and logical outlook on it. She sees the evidence in front of me, sees it's pretty damning, and understands that I'm just trying to find out what's going on before I jump to conclusions.
+
+**Current status:** So far I've smoothed things over, I lied and told her I believe her, trust her, and I'll look into her technical issue since I have the day off. I apologized for looking up her location (again, she immediately accepted).
+
+**TL;DR:** Either my GF stayed at some dude's house last night or her iphone/icloud is acting very weird. PLEASE HELP
+
+Summary:
+Possible Explanation: I have none.
+Possible Explanation: I know it's in her phone... not in iCloud though?
+She says this is a technical issue but I just don't know.
+She's called me twice complaining about the issues with her phone (see #5).
+Today, using her iPhone, I got some damning evidence indicating she was at GJ's house this AM moments after texting me saying she was at her Mom's.
+
+# Summary elapsed time (seconds): 0.04

@@ -1,0 +1,11 @@
+Because when you rely on solar power, surface area is important. The "coke cans" are living quarters and laboratories, and the "waffer biscuits" (sic) are solar panels.
+
+meplusone, "flattering form" won't really be a consideration for spacecraft and -installations until the cost comes down by several orders of magnitude.
+
+There are economic reasons why that would be cost prohibitive, as well as, for example, environmental arguments preventing launching a fission plant to orbit, NASA barely manages to get RTGs launched, there's so much protest. Launching anything to orbit costs a fortune. And raw materials are the ultimate dead weight, plus manufacturing equipment, etc... It's not feasible
+
+Rocket science is both really difficult and very expensive. There are a lot of private (non-government) space companies looking to get into low earth orbit. Perhaps in 25 years the situation will be much different, but DS9 is still just a fantasy.
+
+Because the ISS modules were launched on rockets. The "Coke Can" modules are for storage and living space and so you want the greatest interior volume you can get. To accomplish that, you need a cylinder because the rockets you can launch modules on are all cylinders (because long, thin cylinders have a high "fineness ratio" and thus a low drag).
+
+Lastly, referring to your point elsewhere about a "space factory" -- it is actually more efficient to start making things in space if the materials are to be used in space. But you need a large, operational, and reliable lunar base to do that.

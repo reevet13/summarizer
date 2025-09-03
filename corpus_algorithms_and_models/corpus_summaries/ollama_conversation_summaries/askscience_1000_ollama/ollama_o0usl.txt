@@ -1,0 +1,12 @@
+Here are the extracted sentences:
+
+Light carries energy. Just like the sun can warm your skin, a laser can warm your eye. It just does it intensly.
+
+The sun on a bright day runs at about 140 mW/cm^2
+A bright laser pointer capable of damaging your eye has an output of > 10mW. With an average focal area point of about 2 mm^2, so 5 mW/mm^2 or 500 mW/cm^2... (and that is actually focused on the retina to a point about 100 um^2)
+
+Now what is actually happening? Well that depends somewhat on the wavelength of the light.
+
+With higher intensity light, everything gets cooked. You get water boiling, which destroys things.. It's a bad scene.
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2596993/?tool=pubmed

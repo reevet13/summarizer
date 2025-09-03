@@ -1,0 +1,11 @@
+In a still room, stationary air around your skin warms up closer to your body temperature. This creates a thin boundary layer of warm air, so your skin actually "sees" a room temperature that is higher than the ambient temperature.
+
+Air blown from a fan ensures that fresh, turbulent, room-temperature air is constantly flowing past your skin, providing the greatest temperature differential between your skin and the air immediately next to it. Heat transfer rate is proportional to the temperature difference between your skin and the air, so having fresh air flowing past your skin allows for the maximum rate of heat transfer.
+
+Jim Lovell (or maybe it was one the other Apollo 13 astronauts) talks about this. On the frigid trip back toward Earth, couped up in the LEM, they tried to stay as still as possible, one to conserve oxygen and two to preserve the thin layer of warmer air around them. Funny to think the lack of convection may have staved off frostbite.
+
+You're describing the same phenomenon I'm describing, but I'm looking at it from a continuum/fluid dynamics point of view as opposed to considering the the air as individual particles.
+
+Water evaporates from your skin even when you're not sweating. A much more minor contribution is removing the warm air layer (which otherwise only moves due to convection in absence of air currents).
+
+The sweat on your skin is evaporating faster with the air being blown on it. This gives you the appearance that the air is cooler when it's actually the same temperature as the room.

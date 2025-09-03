@@ -1,0 +1,12 @@
+Here is a summary of approximately 10% of the original text (up to 250 words):
+
+That's not how the Internet works. By design it just routes around any dickhead trying to mess with it.
+Yes, they really can. They can force vendors to install backdoors in all products sold on their platform.
+For locked-down platforms like Apple's IOS you'd then need to gaol-break your handset to use PGP or similar and they could make that illegal too.
+Eventually they could even make it illegal to use PGP or encrypted messaging services on any platform.
+
+No, they can't break securely encrypted files if the key is withheld. They can send people who withhold keys to gaol until they do provide the keys.
+Once they've realised that people are using private end to end encryption the next step will be to get draconian on individuals.
+
+They can only force vendors in their respective country. You can still get around this with proxy or other tunnelling methods.
+All this will do is push people off major tech companies into privately selfhosted solutions or group with friends to share selfhosted solutions.

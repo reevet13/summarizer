@@ -1,0 +1,34 @@
+Original Response:
+Here’s a heads up on how [poker machine maths](http://www.abc.net.au/news/2011-05-27/cummings---poker-machine-maths/2733166) really works. That “90%” return isn’t what many of us imagine.
+That's not the reason it's rigged. It's the pseudo-random number generation that is rigged. I used to write pokie software and the office would go wild with stupidity on the days before the auditor would be coming. Once the audit was passed, it was business as usual.
+Meaning that you would change code for the audits?
+I could see how people can have a misunderstanding about the math, it would be much more genuine if they put on the machines the profit on turnover.
+
+Your long term profit on turnover is going to be between -10% to -15%
+
+Profit/Turnover = POT
+
+In the example in the article:
+-$300/$3000 turnover = -10% Profit on turnover
+
+I feel if they put the -10% profit on turnover on the machine it would make it much more obvious that long term you will always end up in the negative.
+I didn't. I refused. I would watch others do it though, then test that it would "pass" the audit. I wasn't there for long.
+Sorry, I could have phrased that better. I didn’t mean it as a personal accusation, I was using “you” in a general sense.
+
+I can understand why you weren’t there for long. I’m guessing that kind of “ethics” would promote a fairly toxic culture.
+How is the random number generator rigged?
+If you have knowledge that they are cheating the audits, you should definitely contact Andrew Wilkie.
+Well, I refused and I was also excluded due to expressing an objection even if I didn't refuse.
+"random" *wink wink*
+When it comes to Random, computers find it really hard to do. So, we use samples of things, extracts formulae and write code to generate what seems random. What is happening when theses are being rigged is that a more "balanced" sample of random is used, a weighted random. Since Pokies have to have a guaranteed payout, they have samples to produce these outcomes, it was never truly random. Because it was never truly random, the sample can be tweaked further to push odds up and down.
+In BASIC anyway, the RND function will generate the _same_ numbers, so it's nested in another RND function, however this also produces the same numbers there are just a lot more of them.  It also depends on the "seed" you use to generate the RND function.  In Microsoft BASIC it was an even spread of points.
+
+In order to even out the winnings and stop the machines running out of money they used to use a seed which was an _even_ spread of numbers in Las Vegas.
+That’s not easy and takes some internal fortitude, particularly when you are surrounded by an opposing view held culturally and by multiple people.
+
+I respect that.
+
+Summary:
+How is the random number generator rigged?
+I wasn't there for long.
+It's the pseudo-random number generation that is rigged.

@@ -1,0 +1,37 @@
+Here are the selected sentences from the original text:
+
+Looking directly up while holding my arm out, I can place my index finger and thumb about one inch apart and roughly cover the visual diameter of the moon.
+
+Shouldn't taking a picture with the camera at arms length result in the image of the moon approximately the same size as what my naked eye could see?
+
+The easy answer is that you did not enlarge the picture enough. If you blow it up, the moon will eventually cover the size you want it to on the picture.
+
+You could always use the camera the first guy used.
+
+For Diagrams : http://en.wikipedia.org/wiki/Lens_(optics)
+
+Notice that as you move your object further and further away, the size of the object (represented by the blue line on the right side) becomes smaller, and would decrease to a point when the object went to infinity (the line going through the center of the lens would be along the middle line / optical axis).
+
+The equation which relates a few quantities is called the Watchmaker's formula or the [Thin Lens Equation](http://hyperphysics.phy-astr.gsu.edu/hbase/geoopt/lenseq.html) due to the approximations involved.
+
+It states that 1/f (the focal length) = 1/s (object distance) + 1/i (image distance)
+
+You can play around with that equation to see that in fact if you want an image of an object at infinite distance, it will appear at the focal point, (1/infinity = 0 => 1/f = 1/i => f = i )
+
+If you stand at the same distance away and vary the focal length, your field of view will change, [example photographs](http://en.wikipedia.org/wiki/Focal_length#In_photography) and if you 
+
+I hope it is clear that if you pull that little square backwards, to maintain the entry point, the big box must get smaller and smaller.  Pulling the square backwards is essentially like changing to a longer focal length.
+
+A typical P&amp;S lens might for instance start at what we call 28mm. As a ballpark figure, that would probably let you take a picture of 6 or 7 people from no more than 10 feet.
+
+If you were trying to take a photo from 100 yards, however, you would not get an impressive amount of detail.
+
+I would guess that in order to get such a large moon from earth, the lens would need to be around 500mm. For reference, [here's](http://farm5.staticflickr.com/4131/5208284449_4e42f62d2f_b.jpg) a photo I took at around 300mm.
+
+A photograph is a projection. The size of objects on this projection is determined by 3 things
+
+* Size of the object
+
+* Distance of the object to the projection screen
+
+* Field of view // size of the projection screen

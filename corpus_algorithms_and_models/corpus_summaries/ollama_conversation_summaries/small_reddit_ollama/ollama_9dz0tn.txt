@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+I'm getting 50 FPS less than I should on games such as Fortnite. I got the PC today, and compared to other PC's with the same GPU and CPU, I am getting worse performance.
+
+Specs:- MSI 1080 Aero OC- Ryzen 7 2700x- 16GB of RAM @ 3000 Mhz- 600W EVGA BR Bronze Rated 80+ PSU- Prime B450-Plus Motherboard
+
+My 1080 reaches a MAX temp of 82 degrees and I put everything on the highest settings (EPIC) at 1080p on Fortnite, but I don't think there is a problem with it as my clockspeed is 1800 Mhz which is good (or is it?).
+
+But a big problem I think is that on Windows 10 it says that I have 16GB of RAM, but only 8GB is usable. AND on CPU-Z it says that my RAM only has a speed of 2133 Mhz.
+
+Will the RAM problem give me a decent sized decrease in FPS?
+
+Thanks a bunch guys!
+
+Installed windows on another pc and moved it ? Maybe you should install windows to your current pc?

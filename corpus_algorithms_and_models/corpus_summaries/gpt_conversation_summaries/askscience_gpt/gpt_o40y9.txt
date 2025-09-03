@@ -1,0 +1,9 @@
+It's a [common misconception](http://www.smbc-comics.com/index.php?db=comics&amp;id=2475#comic) that gravity is an unexplained phenomenon. Sure, there are aspects of it that we haven't figured out yet, but our current theory, the general theory of relativity, describes all relevant phenomena very well. Remember that the goal of theoretical physics is to explain and predict experimental results, not to provide qualitative descriptions. In that regard, it does quite well.
+
+Anyway, gravity (as it's commonly experienced i.e. heavy things moving towards each other) is a consequence of the fact that things with energy (including massive objects) induce curvature in the...let's call them paths of least resistance...through spacetime (the technical term is geodesics). Things follow these geodesics, so their paths are influenced by the presence of other massive objects.
+
+The next question you might ask is "well WHY does energy curve geodesics" to which I reply that any explanation for that could itself be met with "well WHY does blablabla"  in which case it's turtles all the way down.
+
+Because massive objects have an energy density which induces curvature in geodesic paths (Einstein)
+
+So perhaps you could say that's the final answer, but generally the more we find out the more questions are revealed.

@@ -1,0 +1,20 @@
+Original Response:
+Why is a compound obtained by merely substituting three of the hydroxyl groups found in table sugar with chlorine 600 times more potent than its precursor? Would using other halogens instead produce similar effects?
+It has 3 chlorides in place of 3 hydroxyl groups... I'd assume this is enough to change how the molecule bind to a receptor in aqueous solution.
+One key thing in medicinal chemistry is that binding is all about intermolecular interactions, and the substitution of functional groups at the right sites can make a world of difference. It is common practice to modify existing drug candidates this way to obtain some desired effect - increasing lipophilicity, removing a hydrolyzable bond, etc. In this case, the substitution of the hydroxyl group with the chlorine makes it bind to the receptors more strongly.
+
+Other halogens may have different effects, as the polarity of the C-X bond and the polarizability of the atom itself can affect binding.
+
+[This article](http://www.austincc.edu/samorde/Splenda%20vs%20Equal.pdf) gives an interesting mention of why sucralose is sweeter in the court case between Splenda and Equal.
+&gt; In this case, the substitution of the hydroxyl group with the chlorine makes it bind to the receptors more strongly.   
+  
+Does that happen in a predictable fashion? Would a more aggresive chlorination of sucrose that replaces more of the hydroxyl groups result in an even sweeter compound?
+It depends mostly on the active site of the receptor you're targeting. If the -OH group is involved in dipole-dipole interactions, then naturally altering the nature of one of those dipoles will change it. If the -OH group is facing _away_ from the receptor, there may be no effects at all. It comes down to _how_ the molecule binds to the receptor.
+
+[This site](http://www.elmhurst.edu/~chm/vchembook/549sucralose.html) lists a few of the interactions, including a crude drawing of the receptor. As explained, the presence of chlorine alters the hydrophobicity of the fructose ring. Since that's the case, one can make the argument that making the ring _more_ hydrophobic would indeed increase the binding affinity. However, one must take other factors into consideration - ease of synthesis, solubility, specificity to target receptors, and metabolic breakdown can all be affected.
+
+Bridging the gap between theory and reality is what rational drug design is concerned about, and it's the reason _in vivo_ binding affinity testing is a huge part of it.
+
+Summary:
+In this case, the substitution of the hydroxyl group with the chlorine makes it bind to the receptors more strongly.
+&gt; In this case, the substitution of the hydroxyl group with the chlorine makes it bind to the receptors more strongly.

@@ -1,0 +1,21 @@
+Nope, the lorentz factor will continue to increase as the velocity of the object approaches the speed of light allowing the momentum to tend towards infinity but the velocity itself will never exceed (or reach) c assuming the object has mass. Photons travel at c.
+
+Greater than light speeds cannot be produce by matter. As your object falls closer to singularity it increasingly deteriorates because the tidal forces become exponentially greater. The total distance the object can achieve away from singularity is dependent on the objects density. For that reason, matter can never pass the event horizon.
+
+Nope; nothing can be made to go from a speed less than light to one greater than light (or vice versa). Period. This is built directly into the structure of general relativity, which *is* our theory of gravity.
+
+"Black holes are regions of spacetime from which nothing, not even light, can escape. A typical black hole is the result of the gravitational force becoming so strong that one would have to travel faster than light to escape its pull. Such black holes contain a spacetime singularity at their center; thus we cannot fully understand a black hole without also understanding the nature of singularities."
+
+Nope. Nothing that has mass can reach the speed of light.
+
+Exactly
+
+Interestingly, objects moving away from a singularity do exceed the speed of light. Sort of. If we assume the big bang began in a singularity, then galaxies are currently receding away from each other fast than the speed of light "away" from the singularity, if not in space then in time at least.
+
+This is due to the expansion of space itself, so it doesn't violate GR. It's not really what you were asking for, but I thought it was interesting.
+
+There aren't exceptions.
+
+The mathematics of space-time fully permit objects to travel faster than the speed of light in an unambiguous way. If an object exists slower than light (and has mass) it can never travel at the speed of light or faster. If it exists faster than light (outside of the light-cone) it can never slow down and travel slower than the speed of light.
+
+Exactly. Mathematically you *can* describe tachyons, though we have some very strong reasons to suspect they're impossible in practice. And they would have more or less the opposite properties of massive (v<c) particles, one of which is that much as a massive particle can never be accelerated to the speed of light, always reaching it asymptotically, a tachyon can never be *sl

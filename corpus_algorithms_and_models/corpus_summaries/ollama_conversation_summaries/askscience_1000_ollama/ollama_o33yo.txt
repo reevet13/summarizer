@@ -1,0 +1,13 @@
+Here is the summary:
+
+Eyelashes are quite thin, about [60 or 70 μm in diameter](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2133.2006.07495.x/abstract) (approximately 0.065 mm).
+
+They are composed mostly of keratin, which is mostly carbon, oxygen, nitrogen, and hydrogen.
+
+These elements have average atomic radii (Van der Waals radius) of 1.70, 1.52, 1.55 and 1.20 Å respsectively.
+
+The average of these is 1.49 Å.
+
+If we assume the eyelash is completely solid and filled with atoms, we come to a figure of approximately 436,000 atoms acrosswise.
+
+If we then assume the lash is cylindrical and with an average length of approximately 8 mm, we come to a total of approximately 8,000,000,000,000,000,000 atoms per lash.

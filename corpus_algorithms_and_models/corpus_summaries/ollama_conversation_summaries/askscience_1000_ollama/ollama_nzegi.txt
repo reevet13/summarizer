@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+I've made sure to verify all connections (I've plugged in a shorter cable, turned the TV off, etc...) so this is my last hypothesis. I don't even know if it's possible.
+
+Can RCA cables act as a FM radio antenna ? If so, how does it work so I almost perfectly catch a station?
+
+Well, I dunno anything about science, but I do know that many guitar/bass amplifiers unintentionally pick up radio stations. I've had it happen multiple times in the last few months, and it could certainly be due to a similar phenomena.
+
+Primarily the cause is usually poor quality RCA cables with inadequate shielding.  Another cause is a ground-loop created when some components of your system are improperly grounded.
+
+All wires act as pickups for radio stations.  You'll need long lengths of wire (a few hundred feet) to pickup AM stations, but only a few feet's worth to pickup FM.

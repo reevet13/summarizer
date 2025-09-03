@@ -1,0 +1,31 @@
+Original Response:
+Solid. Sand is made up of small crystalline fragments of quartz.
+Each particle is itself solid, but collectively all the sand forms something called a [granular material](http://en.wikipedia.org/wiki/Granular_material) that has its own phase-like properties.
+Ahah - my area of specialism :D
+
+A sand grain is a solid - each individual grain is (usually) crystalline quartz.
+
+However, when you take many of those grains and treat it as a whole, it is what is known as a granular material. These materials can behave as fluids, although they are non-Newtonian (i.e. they don't obey the same physics as Newtonian fluids such as water). Granular materials have a lot of very weird behaviours - so weird in fact that we have not yet worked out mathematical equations which can accurately model how bodies of granular material behave.  Let me give you some examples of weirdness:
+
+Get a bowl of muesli or cereal and give it a shake.  What you'll find is that - *almost* regardless of individual particle density - the large pieces will find their way to the top.  That's known as the Brazil Nut Effect (or kinetic sieving). If the particle *is* dense enough, that doesn't happen though, and instead they sink to the bottom. That's the Reverse Brazil Nut Effect.  Only problem is we don't really have a good handle on what the cutoff is between the two systems.
+
+Now take a pile of grains and put them on a book.  Slowly start tilting the book.  The pile will remain stationary for a time, then it will start collapsing.  Except that the flow only effects the upper few layers of the pile which have been able to move away from each other enough to flow over one another - the base remains unaffected.  That is unless a fault appears in the pile, and you get a catastrophic collapse of the pile (or at least part of it).
+
+One of the most bizzarre behaviours is what happens when they flow. Each particle in the flow bounces into and off other particles in the flow, and the whole thing tumbles down hill, gaining energy from gravitational potential, but losing it to frictional collisions with other particles and the underlying substrate.  Eventually you reach a tipping point where the flow has bled off enough energy that the distance between particles becomes small enough that they can no longer move past each other without hitting something else very soon after its last collision.  All of a sudden the collision rate becomes enormous, and the whole body of material dissipates its energy and comes to a sudden halt.
+
+Granular materials don't fit neatly into the classic solid/liquid/gas behaviours, but there are quite a few materials which don't.  Think of solid/liquid/gas as the primary school explanation which works as a general rule of thumb for most people most of the time, while reality itself is a good deal more complicated.  Arguing over whether sand is a solid or a liquid is akin to asking whether dinosaurs are chickens or lizards - it might make an amusing conversation, but the truth is more complicated, and does not fit the simple categories presented.
+and then if you add the complication of being underwater, well, then you have entire fields trying to figure out the kinematics of turbidites.
+Indeed.  Or debris flows, or lahaars. Or fluidise them with hot gas and you're into the regime of pyroclastic flows.  The weird thing about fluidised grainflows is how damn far the things will go.
+In relation to the lahaar flows, I've always been curious HOW those things get such a head of steam coming down the mountains. None of the text books really explain how it gets so much of it's kinetic energy. Any ideas?
+My understanding is basically that the particle-rich flow has more mass, therefore accelerates faster than fresh water as it travels, so the lahaar basically overtakes a lot of the water already within the channel, bulking the lahaar beyond that which you might expect.
+
+Have a look for stuff by Gert Lube and Shane Cronin on the Ruapehu lahaars - they've had a couple of papers in the last few years looking at the mechanisms, after observing lahaars down a fully instrumented valley in (I think) 2007.
+excellent, thanks for the sources. I've been so buried in structural geology of back-arc basins for such a long time, that I forgot that other geological things existed :P
+wow thanks guys! I never knew
+Those who downvoted me: he asked if sand was a solid or liquid, not if it had any properties of the two. Sand is crystalline, therefore it is solid.
+
+Summary:
+Sand is crystalline, therefore it is solid.
+Or debris flows, or lahaars.
+One of the most bizzarre behaviours is what happens when they flow.
+Those who downvoted me: he asked if sand was a solid or liquid, not if it had any properties of the two.

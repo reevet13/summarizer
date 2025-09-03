@@ -1,0 +1,46 @@
+Here is the extracted summary:
+
+I'm a sysadmin for a school district and we are no longer allowed to use Google Apps for Education, so I was given about 3 months to move our entire online presence (including email) to Exchange Online.
+
+What a bunch of idiots.
+
+I get free office 365 through my school but I still use Google docs and drive for everything because it's just better.
+
+http://missourieducationwatchdog.com/whats-stored-in-your-school-google-drive-account-you-might-be-surprised/
+
+Yeah, sorry, I guess I should have put /s at the end of that. I was just going with the phrasing of the state AG when he came and tried to recruit us to their crusade.
+
+&gt;I'm a sysadmin for a school district and we are no longer allowed to use Google Apps for Education
+
+New Chinese legislation enacted in 2017 requires cloud services to be operated by Chinese companies, meaning companies like Apple must either lease server space inside China or establish joint ventures with Chinese partners. 
+
+Chinese domestic law gives the government virtually unrestricted access to user data stored inside China without adequate protection for users’ rights to privacy, freedom of expression or other basic human rights.
+
+As a result, Chinese internet users can face arrest and imprisonment for merely expressing, communicating or accessing information and ideas the authorities do not approve of. 
+
+Amnesty’s online campaign urges consumers to tell Tim Cook to reject double standards when it comes to privacy for Apple’s Chinese customers, whose personal data is now at risk of ending up in the hands of the government.
+
+Sounds like a case of the Chinese government enacting insane laws and screwing its citizens over.
+
+Yes and Google chose asking too much and left walking away from billions. But not Apple and instead gave up all their user private data for a buck.
+
+Removing the VPN software even worse as cutting off users at the knees. Versus Google provides a VPN that is so easy to use.
+
+https://www.androidauthority.com/using-google-fi-in-china-850456/
+Using Project Fi in China: Say goodbye to VPNs - Android Authority
+
+Apple gave up way more private data than Cambridge analytics got from FB. More users and far more private.
+
+You need to read more carefully. They’re legally required to use Chinese cloud service providers. This is the governments mandate. If Chinese citizens have issues with this, they need to look to the government officials pushing and allowing these privacy-threatening practices into place.
+
+Yes same for Google. But Google chose to leave as some things more important versus Apple gave up all their user private data for a buck.
+
+But love the FU from Google
+
+https://www.androidauthority.com/using-google-fi-in-china-850456/
+Using Project Fi in China: Say goodbye to VPNs - Android Authority
+
+But sad to see Apple
+
+https://www.ft.com/content/ad42e536-cf36-11e7-b781-794ce08b24dc
+Apple drops hundreds of VPN apps at Beijing's request

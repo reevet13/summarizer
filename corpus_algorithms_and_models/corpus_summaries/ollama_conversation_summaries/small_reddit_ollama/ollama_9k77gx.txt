@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Varying the lengths of headers before the downpipe. I'm assuming that this would alter the timing of pulses from individual ports resulting in a different sound.
+
+your first hypothesis is better than your second. i would think having 8 varying length primary's on a 4 cyl will mess your exhaust flow up (1 short and 1 long per cyl), never tried it, but i dont see it working well unless you can physically map your exhaust flow out the head and split the flow 50/50.
+
+How about varying diameters between the two? (Bigger short, smaller long for example)?
+
+Pressure will take the path of least resistance, just like water and electricity. The gasses will go through which ever tube is easier for them whether you want them to or not no matter what.
+
+What I'm unsure of is if you have larger and smaller diameter primaries (2 primaries on the Same cylinder). Path of least resistance would be the larger diameter.

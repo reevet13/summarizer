@@ -1,0 +1,27 @@
+Here is the summary:
+
+No, it will actually take longer because the atmosphere moves with the Earth. Example: London to New York takes an hour longer than New York to London.
+
+So if the speed of the planes would be with respect to a point in space this would be possible?
+
+Isn't after a certain height the atmosphere no longer affected by the rotation of the earth?
+
+Nope. Above the planetary boundary layer and the lowest-layer of the atmosphere where friction is important, the atmosphere approaches a state of solid-body rotation along with the Earth.
+
+The plane is always influenced by the Earth's rotation. Therefore, the plane's ground speed changes in relation to the surface of the planet, which is always rotating.
+
+This is true, but not for the reason suggested in the OP.  The typically longer westbound flight times (at least in the northern hemisphere) are due to the generally westerly winds at that latitude.
+
+So your example appears to be a counterpoint...
+
+Yep. Everything I have read says that transatlantic flight times are dominated by the prevailing winds, not the rotation of the Earth.
+
+Your model seems to be making the assumption that the power output (thrust) of the plane is the same both ways. If that is the case then:
+
+a. Wouldn't flying with the wind (with earth's rotation) dictate that you need to have a greater power output / thrust of the plane to overcome the fact that, relative to the wing, you have a smaller free-stream velocity?
+
+b. How does this compare to the fact that if you fly in the other direction you need to increase the power output of the plane to overcome the wind?
+
+While the earth's rotation is in part responsible for the wind, wind speed is pretty much independent of rotation.
+
+Assuming that things like throttle and AoA are kept constant, a plane will fly at a particular speed relative to the air around it, really regardless of the windspeed. Then just add the ground/air speed to the plane/air speed and you have your ground/plane speed.

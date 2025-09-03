@@ -1,0 +1,7 @@
+Here is a summary of approximately 10% of the original text:
+
+Rotation does in fact produce time dilation. For the purposes that you are looking for though, it would not have the effect you want.
+
+You actually cannot have any kind of time dilation due to rotation, but you do from translation (as you actually have a certain speed seen from Earth for example). Same principle applies if, instead of a spinning ship this was about a ship orbiting around the planet. Your onboard clock will be slower than a clock on the planet.
+
+Rotation is translation everywhere except the axis itself.

@@ -1,0 +1,41 @@
+Original Response:
+Or is the Observable universe the only thing we have information on?
+not really, no. the CMB is just about at the very limit of what can constitute our observable universe. There are some theories some are trying to test that some of the patterns in the CMB could possibly be correlated with out-of-universe things, but I personally don't give it much stock.
+I heard on some show, it was a credible show like on Nova I think, that there are "ripples" in the CBM which could explain we came from another universe. What does that mean
+
+EDIT: Thanks for the response one internet point for you
+Why "out of universe?"
+
+I thought universe related to everything. Wouldn't it just be part of the unobservable universe?
+There is a claim that nobody takes seriously that certain patterns in the CMB are evidence of previous universes.
+Doesn't universe mean everything or is it being used differently?
+Yeah. What that talks about is the universe before the big bang.
+yeah I was being a bit sloppy with my language too. the definition of universe is... a bit squishy.
+Wouldn't that still be just the universe?
+
+Seems rather convoluted.
+Cool. Thanks for the clarification.
+I don't know about all of this past-universe stuff -- but what I can say is that CMB is absolutely without a doubt the best tool we have to ~~see~~ observe things at the extreme limits of the observable universe.
+
+CMB observations can take advantage of something called the Sunyaev–Zel'dovich effect in order to survey galaxy clusters in a way that is completely Z-independent.
+I believe this is the only observational technique to do so, and is a big part in being able to determine things like cosmological constants for baryon density of the Universe.
+
+Simply, the way this works is that hot gases in galaxy clusters with inverse-compton scatter incoming CMB radiation, leaving either bright spots or holes in the CMB that stand out pretty harshly to it's ordinarily obscenely homogeneity. For lower-Z clusters this tool is extremely helpful in director other observational surveys regarding where to look, but for high-Z clusters it can be the only method of estimating the size and character of those galaxy clusters.
+I heard on some show, it was a credible show like on Nova I think, that there are "ripples" in the CBM which could explain we came from another universe. What does that mean
+EDIT: Thanks for the response one internet point for you
+I don't know about "another universe" but one thing you might be describing is what are known as "E-modes" and "B-modes."
+
+These are anisotropies in the polarization of the CMB light. There is currently a heated search to find B-modes, which are divergence-free polarization fields in the CMB which could only have come from gravity waves propagating through the surface of last scattering during inflation.
+Maybe this is the 'ripples' you are talking about.
+
+Check out the Keck Polarimeter Array, or the South Pole Telescope Polarization Array -- they are currently the two most sensitive instruments looking for polarization anisotropies.
+
+E-modes are similar, but they are curl-free polarization anisotropies which could be the result of perturbation of the surface of last scattering which can be described with a vector (B-modes require handedness, or a tensor force). These have already been discovered, and are the result largely of density fluctuations which cause quadropule velocity distributions of the lepton/baryon soup of the early universe before and during inflation. The resulting doppler shifting of the emitted photons creates these polarization inhomogeneities.
+
+I could see somebody being mislead by the idea of being able to observe gravity waves propagating through the energy-dominated universe before recombination occurred as coming from 'another universe' -- but it really just means that we would be observing semi-directly a process that occurred in our universe before it was cool enough for photons to decouple from matter and optically propagate through the universe -- giving us the observable universe we know and love.
+[Not even wrong.](http://www.math.columbia.edu/~woit/wordpress/?p=3879)  ;)
+
+Summary:
+the CMB is just about at the very limit of what can constitute our observable universe.
+Or is the Observable universe the only thing we have information on?
+I don't know about "another universe" but one thing you might be describing is what are known as "E-modes" and "B-modes."

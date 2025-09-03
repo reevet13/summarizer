@@ -1,0 +1,9 @@
+Here is a summary of approximately 10% of the text:
+
+according to newtonian mechanics, the instant the object starts moving the friction switches from being the static coefficient to the kinetic coefficient.
+An instant, in this case, is the limit of time T as T approaches zero.  So, basically an infinitesimally small amount of time.
+
+It suddenly dawned on me (while I was trying to sleep no less), that I think it is possible to only apply that force for a single instant.
+Then you throw a ball hard enough at the crate so that it caused a 4n/5 force on the crate. That would give it, for the instant that the ball hit the crate, a net force of n.
+
+Edit: If you wanted to figure out how fast you needed to throw the ball, it would be a little more complicated than you might think...

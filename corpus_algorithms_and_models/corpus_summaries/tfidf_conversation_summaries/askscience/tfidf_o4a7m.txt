@@ -1,0 +1,41 @@
+Original Response:
+Paper cuts irritate nerve endings rather than severing them so you feel *all* the pain at once.
+[deleted]
+Its also because a paper cut leaves tiny particles of paper in the skin as it tears through so you've then got tiny foreign objects irritating a lot of the nerve endings you've just shredded.
+[deleted]
+Paper cuts can be surprisingly painful since they tend to stimulate a large number of skin surface pain receptors (nociceptors) in a very small area of the skin. Because the shallow cut often does not bleed very much, the pain receptors are left open to the air, ensuring continued pain. This is exacerbated by irritation caused by the fibers in the paper itself, which may also be coated in chemicals such as bleach furthering the agony. Additionally, most paper cuts occur in the fingers, which have a greater concentration of sensory receptors than the rest of the body.
+[deleted]
+[deleted]
+[deleted]
+Not saying you guys are wrong, but can you share some sources on paper cuts irritating (vs. severing) nerve endings or on leaving particles behind? I was surprised by those two answers. I read the question and assumed it was because paper cuts are usually on your fingers, where sensation has very high acuity.
+I would have thought that paper cuts hurt more because they tend to happen in an area that has the highest concentration of nerve endings - your finger tips.
+I'm with you on this one. Put not very scientifically -- A large proportion of the sensory cortex in the brain is attributed to fingers, larger than for many other areas of the body, making them more sensitive to sensations, including pain. [This picture](http://www.karger.com/gazette/67/Field/images/field_1.jpg) shows how the body is mapped in the brain. If you were to get a paper cut on your upper arm, it would still hurt but not nearly as much as it does on your fingers. Based on the amount of your sensory cortex attributed to your fingers vs. your upper arm this can, in part, help understand that.
+[deleted]
+This makes sense, considering the comparatively mild pain of a cut from a sharp knife.
+I could tell that picture anywhere; same one as in my Psychology text book.
+
+Well, I know more math things that biology or psychology, so I could contribute from that perspective.
+
+Think of it this way: A paper is very thin and will have a large amount of surface area in a relatively small gap. Thus if you think of the amount of pain/arousal as a function of area stimulated then you can see how a paper cut causes intense, concentrated pain. 
+
+If the area of the cut is A=2A+B (2 sides of the cut and the bottom area where the paper cut into th skin deepest) and let us say that "C" is the density of nerve endings in the skin, then:
+
+P(A)=C*(2A+B)*K + Po
+
+where K is a constant to have the units come out correctly and Po is the initial level of stimulation.
+
+This relationship would find the number of nerve endings stimulated. This is assuming that the relationship is Linear and not exponential (as in a radical function y=x^0.5 in which the number of stimulated nerves increasingly changes at a lower, but still positive, rate.
+
+Just sort of talking out of my head at One in the morning here.
+[deleted]
+Mother of God... why did I read this thread?! Now my thumb is throbbing from phantom paper cuts due to some of these descriptions.
+I thought it was because a paper cut is a "dirty" cut. You know, because it's thicker than, say, a razor blade. Any truth to this?
+A factor may also be that when we get a paper cut, we tend to get it on our fingertips, a very very sensitive place. 
+
+Other cuts such as cuts on our legs don't have the same sensitivity of our fingertips.
+Sorry guys, didn't know the rules....
+
+Summary:
+Paper cuts irritate nerve endings rather than severing them so you feel *all* the pain at once.
+I would have thought that paper cuts hurt more because they tend to happen in an area that has the highest concentration of nerve endings - your finger tips.
+This relationship would find the number of nerve endings stimulated.

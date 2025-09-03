@@ -1,0 +1,13 @@
+Here is the extracted summary of up to 250 words:
+
+So tomorrow I'll be getting my first ever upgrade for my PC, 
+its a GTX 1080 8gb
+Im concerned that it isn't compatable with my motherboard which is Z68AG45 (B3)
+I hate just blatantly asking can anyone tell me but I just can't figure it out.
+
+It's more a case of will it fit in the case and does your PSU have the correct pins to power it.
+My power supply is an OCZ ZS Series 650w
+Yup, that'll work. It has two 6 (+2) pin power connectors for the GPU.
+
+Do you happen to know the refresh rate of your TV? Its unrelated to the GPU upgrade itself, but if its low (less than 60) you wont be able to take full advantage of the GPU.
+Its good, just bear in mind that if you get more than 60fps in games you won't be able to see it. You would need a monitor with higher refresh rate for that.

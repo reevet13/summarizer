@@ -1,0 +1,16 @@
+Here is the summary of the original text in 10% or up to 250 words:
+
+I've been trying to figure out what is happening to the space on my HDD as it seems to be vanishing.
+I'm running Win 10 pro, and the C drive is an SSD.
+
+What are pagefile.sys and hiberfil.sys?
+My C drive pagefile.sys is showing 13.4 GB even though my virtual memory for the C drive is set to "No Paging File".
+
+Pagefile is not for power loss. It's overflow for the memory system.
+When you have a lot of programs and files open, you can have a higher requirement for memory than you have memory.
+
+`pagefile.sys` is for virtual memory. It is for when you accidentally overflow the amount of memory you have.
+By default Windows sets to be dynamic in side which can cause it to grow out of control if you have limited disk space.
+
+`hiberfil.sys` exists because you have Hibernation turned on.
+Hibernation is a feature on Windows that essentially allows Windows to dump everything in RAM to disk (into the `hiberfil.sys` file) and then shut down.

@@ -1,0 +1,5 @@
+The hypothalamus gland, located at the base of the brain, controls internal body temperature.
+This gland responds to sensory signals from temperature receptors in the skin and deep inside the body.
+The hypothalamus establishes a "set point" for the internal body temperature, then constantly compares this with its own actual temperature.
+If the two temperatures do not match, the hypothalamus activates temperature-decreasing or temperature-increasing procedures until the temperatures are equalized.
+The hypothalamus just sets off the actions and keeps checking the temperature of the body until it gets to a more reasonable level, at which point it stops the cooling.

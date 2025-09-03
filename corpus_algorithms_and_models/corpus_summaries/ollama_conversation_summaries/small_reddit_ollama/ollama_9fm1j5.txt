@@ -1,0 +1,16 @@
+Here is the summary of up to 250 words:
+
+The radio is not working on my 2015 Volvo S60. Neither is back up camera. Button controls on the dashboard not working either.
+Everything loads up fine in the screen. Volvo logo when I turn it on.
+Then it loads to a menu area. I can scroll on the wheel buttons but can't select anything.
+When I go in reverse, back up camera screen comes on with no picture.
+
+Any clue what to do? Thanks!
+
+Unfortunately, there isn't much you can do without specialized diagnostic tools.
+
+I can explain how to test the system, but it's useless information unless you have Volvo's diagnostic software VITA (or aftermarket equivalent), a MOST jumper loop, and possibly an oscilloscope.
+
+Take your car to a shop that specializes in Volvos. They'll know what to do.
+
+Thanks again!

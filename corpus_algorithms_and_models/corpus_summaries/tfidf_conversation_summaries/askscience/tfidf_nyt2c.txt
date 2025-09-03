@@ -1,0 +1,12 @@
+Original Response:
+In an article attempting to explain the [higher I.Q. of the Ashkenazi](http://ieet.org/index.php/IEET/more/pellissier20110719r), the author points to several possible evolutionary reasons for elevated intelligence. However, it seems that those pressures are no longer present. Does this mean that such benefits have an expiration date? If so, for how many generations might those benefits last?
+I'm unable to give you a number, but I can give you some factors that would affect it.
+
+First, it depends on how the trait is determined--one gene, many genes, genes plus environmental factors, etc.  In the absolute simplest case, one gene (which, to be clear, this is not), it would depend on a few things about that gene--the overall diversity of the population in question at that locus, the mutation rate at that locus (how big the gene is and how accessible the DNA there typically is).  It would also depend on how diverse the larger  human population is at the locus and how much the smaller population outbreeds.  
+
+If the mutation rate at that locus is low and the population doesn't outbreed much, the trait would be maintained for a lot longer than if the population did outbreed or if the mutation rate were high.
+
+(We would also want to know whether the trait has any down sides that were previously balanced out by the benefit, as that would also affect things).
+
+Summary:
+If so, for how many generations might those benefits last?

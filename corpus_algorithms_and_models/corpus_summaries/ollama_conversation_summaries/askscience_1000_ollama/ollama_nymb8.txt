@@ -1,0 +1,10 @@
+Here are some sentences copied verbatim from the original text:
+
+* "As you get closer and closer to the horizon, the light that you're emitting takes longer and longer to climb back out to reach Penelope. In fact, the radiation you emit right as you cross the horizon will hover right there at the horizon forever and never reach her."
+* "You've long since passed through the horizon, but the light signal telling her that won't reach her for an infinitely long time."
+* "Objects do fall into event horizons in their own reference frames. In fact, there's nothing all that special about horizon crossing for someone falling in. It's the observers outside the black hole who never see this happening."
+* "As far as they're concerned, a black hole can be treated as a shell of mass on the horizon."
+* "The closer an emitter is to the event horizon when it emits a photon, the longer that photon takes to escape. As the emitter gets arbitrarily close to the horizon, the photon it emits will take arbitrarily long to reach some distant observer."
+* "Once the emitter reaches the horizon, photons it emits will never escape."
+* "In your reference frame, however, the quantity d/t is its velocity and is always unambiguously 0.5c. Remember that a reference frame is just a coordinate system you put on the Universe, so in this case d and t are coordinates describing the object's position (on some axis) and time, respectively."
+* "In Schwarzschild coordinates - the coordinates a faraway observer puts on the spacetime of a non-rotating, uncharged black hole - an infalling object never passes the event horizon, only getting closer and closer as your time coordinate t goes to infinity."

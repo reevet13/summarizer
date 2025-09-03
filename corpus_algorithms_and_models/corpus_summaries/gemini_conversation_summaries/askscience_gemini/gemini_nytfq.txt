@@ -1,0 +1,6 @@
+What you're saying would be true if the geometry of spacetime were Euclidean, but it's not.
+It's hyperbolic in the time dimension.
+And one of the quirky things about hyperbolic geometry is that, if you can travel in both directions in the "normal" dimensions, there's nothing you can do to get yourself moving the other way in the hyperbolic dimension.
+If we were able to move backwards through time, we'd be able to violate causality, thermodynamics, and a slew of other laws.
+We can, however, move forward through time at different rates.
+Not per our own reference frame, of course, but through others'.

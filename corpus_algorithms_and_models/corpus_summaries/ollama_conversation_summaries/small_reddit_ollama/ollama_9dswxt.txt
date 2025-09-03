@@ -1,0 +1,13 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+Hi Guys! I'm new on building a PC and I just purchased a new Motherboard but when I plugged all my previous peripherals, There's No Post and Monitor is always shows Power Saving mode.
+
+I Tried changing Cmos Battery, Reset it, Reseat my Processor, Used my PSU from my other PC, Change Ram slots, Use my other VGA, Changed my Power and Monitor cables but to no avail still shows no Signal.
+
+Mobo: ASRock H61M-S
+CPU: Intel i5-2500k
+RAM: 2 x 4gb Corsair Vengeance 1600MHz
+PSU: Antec 520w
+VGA: PowerColor Radeon HD 6570 2gb
+
+Here is my Specs

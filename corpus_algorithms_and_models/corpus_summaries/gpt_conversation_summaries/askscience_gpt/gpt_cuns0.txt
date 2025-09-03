@@ -1,0 +1,15 @@
+The predicted vacuum energy density from quantum field theory is 107 orders of magnitude greater than the observed value. This is the most embarrassing prediction in the history of science.
+
+We don't know how supernovae actually explode... computer simulations can't make them explode for whatever reason.
+
+Despite many many years of studying the problem, we still don't have a really good grasp of star formation.
+
+Most conferences I've been to about this always have the magnetic fields folks saying "seriously, you need to include these", then the rest of the time is spend ignoring their advice because it's really hard.
+
+We can paint a broad-brush picture of what's going on (lighter fuel runs out, star has to burn metals, radiation pressure gives up and star collapses), but actually modelling it - running a full physical simulation - is really, really complex.
+
+For example, before the final 'explosion' (which is actually more of a 'bounce' as the collapsing star stuff hits the solid core), there is a massive neutrino burst, with >99% of the total energy being carried away by neutrinos.
+
+Apparent contradictions are the lifeblood of science. These are the area we don't understand, and have the most to gain by figuring them out.
+
+The fact that quantum mechanics and general relativity are fundamentally incompatible probably counts. General relativity is really good at describing big things (planets, galaxies, etc) while quantum mechanics is really good at describing small things (atoms, molecules, etc) but they don't mesh at all, which means that both theories are incomplete.

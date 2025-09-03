@@ -1,0 +1,53 @@
+Original Response:
+If a big crunch were to happen the universe would get smaller and denser ended with the formation of a new singularity, but how can you have this with out having a fall in entropy? Wouldn't physics have to change somehow? or is a big crunch simply not possible?
+
+Edit: That the big crunch won't happen given current data doesn't matter at all. The problem is that if it exists in our framework and doesn't work within the framework then there is something wrong.
+Big crunch is unlikely given that we know the universe is under expansion. More likely is either the Big Rip or Heat Death.
+
+tl;dr: What makes you think a Big Crunch would happen given expansion?
+A big crunch is unlikely to ever happen. More likely is [heat death](http://en.wikipedia.org/wiki/Heat_death_of_the_universe).
+&gt;What makes you think a Big Crunch would happen given expansion?
+
+Until recently, it was thought that the universe's expansion could slow and even reverse due to gravity. The discovery that the expansion is accelerating has cooled enthusiasm for the idea.
+Well I'll start with a disclaimer that the big crunch is not a current expected fate of our universe. Not only is our universe expanding very rapidly, it is seen to be accelerating rather than slowing under gravity. This prohibits the big crunch.
+
+Now I dislike the use of entropy as proof of anything. You wouldn't sit down and look at an engine and say well this will work because the entropy increases. Rather entropy increasing is a result of the irreversibilty of macroscopic systems. This actually gives us a bit of a get out clause if a big crunch did happen. This is because the big crunch would not be a reversal of the big bang so doesn't necessarily correspond to a decrease in entropy.
+
+The big bang universe was fairly uniform, this uniformity disappeared over time. This uniformity would continue to decrease during a big crunch as matter clumped and formed black holes.
+
+I think it is also important to note that the second law of thermodynamics is not fundamental but rather a consequence of statistical mechanics.
+I was under the impression that a big crunch would end in a singularity, and a singularity undoubtedly has a very low entropy.
+
+I take your point on the nature of the second law. Somehow that is a really unsatisfying answer though =(
+That the big crunch won't happen given current data doesn't matter at all. The problem is that if it exists in our framework and doesn't work within the framework then there is something wrong.
+Firstly why does a singularity have low entropy. If it does then surely we had one before the big crunch.
+
+Also we have to have the same amount of energy at the start as at the end, but it doesn't have to be in the same form i.e. stars turned mass into heat and light. So there is no reason for our entropy to be the same.
+I'm not sure your last sentence is necessarily a good argument.
+
+I could replace some words and get:
+
+&gt; I think it is also important to note that the conservation of mass and energy is not fundamental but rather a consequence of the invariance of the physical laws over time.
+
+While what you said is true, it's not all that useful because I can apply it to any of the dearly held notions in science. Entropy just like the notion of energy is a state function and has well defined behavior which observation has yet to provide counter-evidence to.
+Accepted, I just don't like entropy. It is generally very poorly understood. This is made worse by the second law of thermodynamics. I would prefer it was only used for thermodynamical problems. What I mean is that if you wish to apply it to a star or to the universe and it is at odds with other physics, chances are it is the other physics that is correct.
+While it is often poorly understood it is also invariably matches observation.
+
+Much of of the phenomenon that results from having a star is thermodynamical in nature. You can't throw entropy into a closet. :P
+
+You last sentence is basically a reversal of a quote by Arthur Eddington:
+
+&gt;"The law that entropy always increases holds, I think, the supreme position among the laws of Nature. If someone points out to you that your pet theory of the universe is in disagreement with Maxwell's equations — then so much the worse for Maxwell's equations. If it is found to be contradicted by observation — well, these experimentalists do bungle things sometimes. But if your theory is found to be against the second law of thermodynamics I can give you no hope; there is nothing for it but to collapse in deepest humiliation."
+
+Just pointing out that if you challenge the concept of entropy, those are fighting words. :)
+Oh, I don't question the law. I question its applicability by laymen to thought experiments (not trying to sound cruel to the laymen).
+General relativity breaks down in a singularity and we do not have a verifiable quantum theory of gravity.
+
+What then happens inside a singularity? We simply do not know.
+
+Summary:
+Big crunch is unlikely given that we know the universe is under expansion.
+This prohibits the big crunch.
+&gt;What makes you think a Big Crunch would happen given expansion?
+tl;dr: What makes you think a Big Crunch would happen given expansion?
+That the big crunch won't happen given current data doesn't matter at all.

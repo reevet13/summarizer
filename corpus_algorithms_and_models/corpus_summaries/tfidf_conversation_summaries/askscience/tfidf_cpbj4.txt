@@ -1,0 +1,43 @@
+Original Response:
+Even when I'm not sweating. I know this is probably a stupid question.
+In a still room, stationary air around your skin warms up closer to your body temperature. This creates a thin boundary layer of warm air, so your skin actually "sees" a room temperature that is higher than the ambient temperature.
+
+Air blown from a fan ensures that fresh, turbulent, room-temperature air is constantly flowing past your skin, providing the greatest temperature differential between your skin and the air immediately next to it. Heat transfer rate is proportional to the temperature difference between your skin and the air, so having fresh air flowing past your skin allows for the maximum rate of heat transfer.
+Wow thanks that's great
+Sex with prostitutes isn't necessarily better.
+Jim Lovell (or maybe it was one the other Apollo 13 astronauts) talks about this. On the frigid trip back toward Earth, couped up in the LEM, they tried to stay as still as possible, one to conserve oxygen and two to preserve the thin layer of warmer air around them. Funny to think the lack of convection may have staved off frostbite.
+Wrong thread.
+This is interesting, because I always thought this was essentially due to the wind chill factor - As particles of air are hitting your body at a faster rate (because you're moving against them,) there are more collisions between them and so more opportunities for the tempereture difference to be exchanged. Any idea whether this is another contributing factor?
+Fuck.
+You're describing the same phenomenon I'm describing, but I'm looking at it from a continuum/fluid dynamics point of view as opposed to considering the the air as individual particles.
+
+Either is a valid way of approaching it, although one advantage of considering the fluid as a continuum is that it allows you to describe it with differential equations (which may be a disadvantage depending on how you feel about diffEQ) ;)
+I always thought a large part had to do with  wind increasing the efficacy of the body's natural heat conditioner - sweat. Right or wrong?
+&gt;Air blown from a fan ensures that fresh, turbulent, room-temperature air
+
+I´m pretty sure the air blown from the fan is not true room temperature air. Also when I walk into a hot stuffy room, say from a cool outside that has a breeze, you *immedietely* feel the supposedly fake room temperature you talk of. There is no way my body couldve increased the temp of all the ambient air close to my skin so instantaneous. 
+
+&gt;so having fresh air flowing past your skin allows for the maximum rate of heat transfer.
+
+dont you mean minimum rate ?
+&gt; I´m pretty sure the air blown from the fan is not true room temperature air
+
+What? What else could it be?
+Water evaporates from your skin even when you're not sweating. A much more minor contribution is removing the warm air layer (which otherwise only moves due to convection in absence of air currents).
+I would recommend you take some basic high school physics and chemistry courses online to understand why this line of thinking is not the way to try to solve a problem.
+
+You are not thinking about the issue scientifically, which is the root of why you have come to the wrong conclusion.  It's easy to correct with some education though.
+similarly, to defrost a freezer faster, point a fan at it
+The sweat on your skin is evaporating faster with the air being blown on it. This gives you the appearance that the air is cooler when it's actually the same temperature as the room.
+The question postulates that we are not considering the effect of sweat.
+What temperature is the air passing through the fan, if not "room temperature"?
+
+Regarding the second bit, I definitely mean the maximum rate of heat transfer. Heat transfer from your skin to the surroundings is more effective (thus making you feel cooler) when there is turbulent airflow in contact with your skin than when there is stagnant, motionless air in contact with your skin.
+Yep. This reminds me of something that used to baffle me as a kid before I understood how heat transfer works: if I put a water bottle full of ice on my bike and ride around, the ice melts faster than if the water bottle is sitting on the counter, even though clearly the wind makes me feel cooler when I'm riding the bike. :)
+[deleted]
+
+Summary:
+The sweat on your skin is evaporating faster with the air being blown on it.
+&gt;so having fresh air flowing past your skin allows for the maximum rate of heat transfer.
+Even when I'm not sweating.
+Water evaporates from your skin even when you're not sweating.

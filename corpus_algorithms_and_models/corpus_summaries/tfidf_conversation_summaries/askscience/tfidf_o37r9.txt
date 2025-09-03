@@ -1,0 +1,38 @@
+Original Response:
+I don't know much about physics, so you'll have to really dumb it down.
+
+I remember reading a few years ago about anti-matter and matter and how if they meet they explode, or whatever the technical term is for that.
+
+I also remember reading that there should have been equal amounts of matter and anti-matter at the beginning of the universe. (Also if you care to delve into it, why "should" there have been equal amounts?)
+
+So why is it that we only see matter today and anti-matter has to be created in labs? Why is there more matter than anti-matter?
+This is still an open question as far as I know. It might have something to do with the fact that the weak force isn't the same if you flip it left/right so matter and anti-matter aren't 100% identical.
+&gt;Why is there more regular matter than antimatter?
+
+As BlazeOrangeDeer says, we don't know yet.  One idea that's been floating around is (as BlazeOrangeDeer said) CP violation: you would think that a process would occur at the same rate as its matter-antimatter-flipped counterpart, but we've discovered that this isn't the case for some processes involving the weak force.
+
+&gt;I also remember reading that there should have been equal amounts of matter and anti-matter at the beginning of the universe. (Also if you care to delve into it, why "should" there have been equal amounts?)
+
+The theory you're referring to is one where there's equal amounts of matter and antimatter at the beginning of the universe, and this CP violation asymmetrically changes some of the antimatter over to matter before everything recombines.  This leaves us with a small excess of matter that we see today.
+
+As far as I know, though, this theory isn't really fully fleshed out (even though every popular physics book and magazine will repeat it forever and ever and ever).  It appeals to our aesthetics to have an equal amount of matter and antimatter at the formation of the universe, but you're correct in seeing that it need not be the case.  Big Bang theory doesn't even take us that far back in time.  We don't really have any idea.  Yet.
+
+&gt;So why is it that we only see matter today and anti-matter has to be created in labs?
+
+Antimatter is also being created through natural processes, by the way.  Often, the antimatter particles quickly find some matter to annihilate with (for example, the antimatter created when cosmic rays slam into our atmosphere, or positrons created in beta+ decay), but there is some long-lived naturally-occuring antimatter as well (for example, we can pick up positrons and antiprotons coming from astrophysical sources many light years away with our satellite-based telescopes).
+Thanks for the informative answer! From the looks I've stumbled into a question that is still in the process of being answered, I had no idea that I would end up on the forefront of human research when I was asking it!
+
+And thanks for correction me about how much anti-matter there seems to be in the universe.
+Thanks for the answer! I tried to google the difference between left/right in regards to matter, but all the hits seem to come up with is the Cold War and Brain Hemispheres (both of which are interesting, just not what I want to know), do you mind explaining a bit?  omgdonerkebab's comment suggests that the distinction between left/right is just what I was calling matter/anti-matter, is that right?
+
+Also, I think I may be at the limit of human understanding and if I am don't be afraid of telling me so, but why would the weak force interact differently with matter that's flipped across the left/right thing?
+Oh, well, it's still overwhelmingly overwhelmingly in favor of matter.  But antimatter floats around in the interstellar magnetic field like motes of dust in the wind.  (Matter does too.)
+[This](http://en.wikipedia.org/wiki/CP_violation#CP_violation_and_the_matter.E2.80.93antimatter_imbalance) is what I'm referring to, and parity is the term for right or left orientation. Basically, we expected the laws to be the same if we both exchanged matter for antimatter, and if we flipped left and right. This turns out to be true for every force except for the weak force, the one that has to do with atomic decay.
+I have heard about some theories that suggest that there could still be a 50/50 split, but who is to know that when we are looking at the stars in the sky that half of them are anti-stars. Does this have any grounding or is it nonsense?
+It was an idea that was considered, but more with respect to galaxies and anti-galaxies, I think.  The idea is generally disfavored, however, because you would expect to see a strong signal of gamma rays from the annihilation of hydrogen with anti-hydrogen (from intergalactic gas) at the boundary between the two regions.  But we don't see that anywhere.
+
+Summary:
+I also remember reading that there should have been equal amounts of matter and anti-matter at the beginning of the universe.
+Why is there more matter than anti-matter?
+&gt;I also remember reading that there should have been equal amounts of matter and anti-matter at the beginning of the universe.
+So why is it that we only see matter today and anti-matter has to be created in labs?

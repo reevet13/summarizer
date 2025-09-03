@@ -1,0 +1,8 @@
+Is it possible to build a filter, like in a gas mask, that filters out carbon dioxide?  
+What you are referring to is called "carbon fixation"  
+The central issue here is energy. Carbon fixation is very energetically costly, and although it's completely possible to build a system of some sort that would do it (it would be a little more complicated than just using a filter, though), you would need tons of energy in order to power it.  
+Although, if you want to power it with sunlight, it would be waaaaaaay easier to just plant trees or something. Plants are much much better at carbon fixation than we are.  
+edit: it seems CO2 scrubbers do exist: http://en.wikipedia.org/wiki/Carbon_dioxide_scrubber  
+You cannot filter it out in the traditional sense. Molecules of carbon dioxide are about 3.3 angstroms long.  
+There are other ways to withdraw carbon dioxide from the atmosphere. Most of them involve absorbing in into other materials or consuming it in chemical reactions.  
+But that's not filtration. The closest thing that I could find related to filtration was [this article](http://www.sciencedirect.com/science/article/pii/S1385894701001735) in the Journal of Chemical Engineering (subscription required) that discusses the case of carbon dioxide diffusing through a microporous silica membrane more quickly than nitrogen.

@@ -1,0 +1,67 @@
+Original Response: 
+[removed]
+They're working on it, the main functionality has to be built out first.
+That said, please feel free to help contribute to the development effort if you're not satisfied with the progress being made to this wonderful free and open source software.
+Have you ever programmed anything?
+[removed]
+[removed]
+It took a LONG time before GUI miners became available.
+Expect same for lightning.
+&gt; but other alts and crypto projects are making much faster projects.
+Like what, can you give an example?
+[removed]
+So they're complete and working?
+Mind listing their node counts?
+The first version of Bitcoin had a GUI and mining built in.
+[removed]
+Looks like you should use those projects if that's what you think is important.
+[removed]
+that's not a gui miner.
+&gt; constructive
+
+lol 
+
+But thank god you are here to tell them it needs to be user friendly.
+Kek.
+And exploits and arbitrary code execution.
+But it works right nau!11.
+But specialized miner, like GPU.
+not just CPU miner.
+They really aren't.
+Bitcoin is one of if not the most active software space in open source development.
+Your perceptions and believing hype are why you think that.
+You can only appreciate broad features and user facing changes.
+Gives an enormous bias to perceive quick shitty development targeted at end users as quality.
+[removed]
+Both of those sacrifice decentralization for speed which is fine if that's what you want, but there is a trade-off.
+In addition, EOS has been rife with bugs, exploits, hacks and attacks; so not sure their development is a good example of being better or user friendly.
+Since LN required Segwit, development didn't really begin until about a year ago and has only really picked up momentum in the last 3-6 months.
+Quite frankly, the fact that so much dev activity has come into the LN space in such a short amount of time is pretty incredible.
+It's a very exciting time; reminds me of the early days of the Internet.
+Over three.
+What you aren't understanding is the massive amount of foundational protocol work that goes into that and the sheer number of man hours involved.
+When someone is getting paid because you bought their token you can bet they will build any given shitty thing in a slapdash hurry, borrowing code from every corner of open source to do it, and then loudly exclaim how great it is so you buy more.
+That's what altcoins are.
+You think they are writing 99% of that code?
+Nope.
+It is all downstream reuse.
+The same reason start up development times are a lot less than they were ten years ago.
+Better foundations to build on and already built code to use.
+That's what devs in this space build, and it’s what devs shilling alts use to trick you into thinking they can make a working coin.
+I have literally watched that exact scam happen too many times to count.
+Preach it brother.
+Alt vaporware!
+!
+Never.
+Your node will get underbid by people who actually need to use the network anyway, so are prepared to accept minimal fees to route a few extra payments.
+Passive income in a network with no barriers to entry is very unlikely.
+[removed]
+
+Summary: 
+that's not a gui miner.
+Like what, can you give an example?
+But it works right nau!11.
+Looks like you should use those projects if that's what you think is important.
+But specialized miner, like GPU.
+So they're complete and working?
+You think they are writing 99% of that code?

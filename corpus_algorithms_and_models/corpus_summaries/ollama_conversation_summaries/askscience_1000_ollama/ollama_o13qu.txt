@@ -1,0 +1,15 @@
+Here are the selected sentences:
+
+Two bodies in contact with each other at different temperatures will conduct "heat" (molecular kinetic energy) from the warmer body to the colder body.
+
+The rate of transfer depends on a few things, one is the thermal conductivity of the material, another is the surface area of the two materials in contact with each other.
+
+Some materials are excellent thermal conductors, such as metals -- that's why they feel cool to the touch; it is rapidly conducting the heat away from your skin.
+
+Others, such as rubber, are poor conductors of heat, and will rapidly come to the same temperature as your hand.
+
+So placing a thick sheet of rubber between two metal blocks of different temperature would vastly slow the rate of energy exchange via conduction between the two bodies.
+
+The best (only?) way to passively accelerate this process is to increase the surface area with a material with a higher thermal conductivity than the two blocks.
+
+Thermal conductivity is a characteristic of the material itself, see this [wikipedia article](http://en.wikipedia.org/wiki/Thermal_conductivity).

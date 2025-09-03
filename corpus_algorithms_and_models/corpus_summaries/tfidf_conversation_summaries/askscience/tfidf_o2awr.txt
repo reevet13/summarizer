@@ -1,0 +1,35 @@
+Original Response:
+I know you can compress a gas into a liquid but is it possible to compress a liquid into its solid form in an environment above said liquids freezing point?
+Yes, it is possible.  Just as reducing the pressure of a fluid will lower the boiling point of the fluid.  By increasing the pressure you can prevent the liquid from changing phase.  This is because the molecules/atoms are so compressed that they have no where to go so they stay closely packed in the liquid state.  Interestingly you can have solid water (ie... ice) at 300 C if you compress it to 300 GPa.  Here is a chart detailing how water behaves in relation to pressure and temperature.  [Water: Pressure vs Temperature](http://upload.wikimedia.org/wikipedia/commons/0/08/Phase_diagram_of_water.svg)
+
+Edit:  I buggered up the relationship between pressure and boiling point in my explanation.  It has been fixed now and thanks to ngregge for calling me on it.
+Is it correctly understood that if I put a bottle with water in it in the freezer at aprx. -10 celcius then it will exert up to about 1000 bar on the bottle? so if I had a bottle that could withstand 1100 bar then it would not break and if I had a bottle that could only withstand 900 bar then it would break?
+&gt;reducing the pressure of a fluid will raise the boiling point
+
+Do you not have that backwards?  ie The boiling point drops as you drop the pressure, until at about 5% atmospheric pressure (?) water will actually sublime (skip straight from solid to gaseous form) as you drop below the triple point.
+No, lower pressure results in a lower boiling point for liquids.
+Try making a mixture of corn flour and water, it's great fun to play with. While it's sitting in the bowl it will have liquid like properties, but if you hit it (applying pressure) it will turn solid. 
+
+[Mythbusters](http://www.youtube.com/watch?feature=player_detailpage&amp;v=-wiYtoG9kZE#t=134s)
+That's correct. It's also the opposite of the statement you're responding to.
+You're right, I got what ngregge said completely backwards; I thought he was saying reducing pressure increases boiling point and that pozitron was saying reducing pressure reduces boiling point when it was the other way around. That was stupid of me.
+Nah. That stuff is easy to invert the interpretation of.
+I don't believe that's why that happens.
+
+http://en.wikipedia.org/wiki/Dilatant
+Upvotes for all. Thanks science!
+Doh!!!  Yes, you are right.  I got the explanation backwards.  Thanks for straightening me out.
+pas de problème
+pozitron made as error in his explanation, which he has now corrected.  
+
+The pressure exerted by the fluid will drop as the temperature does due to it's voume reducing (the three properties are intrinsically linked). However, in the case of water, it's liquid volume is reduced by the Van der Waal's Forces causing an attraction between the water molecules, which have a dipole due to their shape.  This effect is lost when water freezes, so as water transitions to solid its volume actually increases (leading to a loss in density, hence ice floats on water).  This is actually fairly unusual amongst chemicals, where the solid volume is lower than the liquid volume (for a given mass).
+
+Coincidentally, this loss of ionic Van der Waals effects will actually lead to an increase in pressure in a closed container, as you surmised, but not because a drop in temperature causes an increase in pressure.  The opposite is true until the transition from liquid to solid (which is the point where the beer bottle you forgot to take out of the freezer bursts)
+
+Summary:
+I got the explanation backwards.
+Just as reducing the pressure of a fluid will lower the boiling point of the fluid.
+&gt;reducing the pressure of a fluid will raise the boiling point
+
+Do you not have that backwards?
+ie The boiling point drops as you drop the pressure, until at about 5% atmospheric pressure (?)

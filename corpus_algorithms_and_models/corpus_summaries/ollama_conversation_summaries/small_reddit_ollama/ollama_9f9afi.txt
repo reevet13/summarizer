@@ -1,0 +1,21 @@
+Here is the summary of about 10% of the text:
+
+It will technically never stop, because it won't ever reach the event horizon from your perspective. It will continue to slow down and light coming from it will continue to get red shifted further and further.
+
+A single photon can be extremely red shifted but it's still a photon and still exists. It's just very low energy (long wavelength), so it'd be hard to detect above background.
+
+Once the light is redshifted to about 2.7K it would be difficult to distinguish it from the cosmic background radiation.
+
+You wouldn't be looking at the cosmic background though, right? You would be looking at the black hole. So the relevant background to compare against would be Hawking radiation of the black hole.
+
+You can not see an object going inside the event horizon of a black hole. From your point of view, it would take an infinite amount of time to reach the event horizon, because it would seem to be slowing down.
+
+I've never understood the 'will take forever for an outside observer' statement. That only works if they accelerate infinitely toward the event horizon.
+
+You do not actually "see" black holes. We just detect their gravitational interaction with other elements close to them (e.g, Sagitarius A*), or the material that is starting to fall into them (e.g, accretion disks).
+
+Indeed some of the ideas of Interstellar are correct, and that is the direct cause of the redshift that I explain before.
+
+"See" was the wrong word, but the point stands.
+
+Time is relative, but its flow remains fixed for the distant, stationary observer.

@@ -1,0 +1,21 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+|Time Clock|
+|:--:|
+|FINAL|
+
+|Teams|1st|2nd|3rd|Total|
+|:--:|:--:|:--:|:--:|:--:|
+|[](/r/stlouisblues)|0|1|1|2|
+|[](/r/caps)|0|1|4|5|
+
+|Team|Shots|Hits|Blocked|FO Wins|Giveaways|Takeaways|Power Plays|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|[](/r/stlouisblues)|23|8|12|38.5%|11|3|0/4|
+|[](/r/caps)|26|14|10|61.5%|7|8|0/6|
+
+|Period|Time|Team|Strength|Description|
+|:--:|:--:|:--:|:--:|:--:|
+|3rd|19:19|[](/r/caps)|Even|Devante Smith-Pelly (1) Wrist Shot, assists: Lars Eller (3), Nicklas Backstrom (1)|
+|3rd|12:47|[](/r/caps)|Even|Nic Dowd (1) Wrist Shot, assists: Chandler Stephenson (1), Madison Bowey (1)|
+|3rd|10:21|[](/r/stlouisblues)|Short Handed|Jordan Schmaltz (1) Wrist Shot, assists: Ivan Barbashev (1)|

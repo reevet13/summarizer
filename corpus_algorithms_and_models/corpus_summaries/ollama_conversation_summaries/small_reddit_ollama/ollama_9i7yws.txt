@@ -1,0 +1,17 @@
+Here is the summary of about 10% of the text, up to 250 words:
+
+It only ACTUALLY looks like depth of field if you go up the medium setting, which introduces other post processing effects I don't want in my game, so this is quite a hassle.
+
+Someone had to come up with this horrible idea, someone else accepted it, someone else created code to make it work, another person tested it, then someone decided it's all good and it can be put in game. Is their QA department non existing or they treat their own QA feedback just like ours (wipe their asses with it)?
+
+It’s going to be changed.
+That's not a bug and they confirmed it. They said it will be improved, but it doesn't change fact that it's utterly terrible idea.
+
+This is intentional, confirmed on twitter if I remember correctly. They want to achieve DoF like effect.
+
+The person that came up with this didn't know what blur was.
+The person that accepted it didn't understand it.
+The person that coded it couldn't implement it.
+The person that signed off on it couldn't be fucked.
+
+Don't you think it's a bit of a leap to call an early implementation of DoF, in an experimental build, a nerf to ADS and push to get people to hip fire in 3PP?

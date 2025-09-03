@@ -1,0 +1,19 @@
+Here are the selected sentences:
+
+Yes. We produce roughly 26.4 Gt (gigatons) of CO2 alone per year.
+
+For starters, we understand how the atmospheric greenhouse effect works. That is, the basic physics and chemistry describing how gases in the atmosphere can 'trap' radiation in the atmospheric system (that means, prevent a certain proportion of it from leaving to space) were originally worked out over a century ago.
+
+So, from pure physics and chemistry, we understand a 0th-order effect: *If you increase the amount of greenhouse gas in the atmosphere, it will warm up because less energy in the form of radiation will be able to escape the system to space*.
+
+We also know unambiguously that the atmospheric concentration of CO2 has been rising, and didn't start rising until the start of the Industrial Revolution.
+
+Of course, correlation does not imply causation, so it is natural to ask if this is just a spurious coincidence. However, we know that human industry is the source of much of that surplus CO2 in the atmosphere.
+
+We would also expect this ratio to be steady in time.
+
+It turns out that the carbon we emit in the form of CO2 tends to have more C13 than C12, just as a product of combustion.
+
+So to summarize, we know from basic physics and chemistry how the planetary greenhouse works. Then, we know that a greenhouse gas is increasing in concentration in the atmosphere. We also know that human industry is the cause of this increasing in concentration.
+
+We understand how the atmospheric greenhouse effect works.

@@ -1,0 +1,19 @@
+Here is the summary:
+
+The gpu I am switching from is the gtx 780 which is connected to a 8pin, and a 6pin. But the new ASUS GeForce GTX 1080Ti ROG Strix gpu I bought needs two 8pins.
+
+Isn't that modular PSU? You should have the additional PCI-E power cables in the box the PSU came in. And the cables are probably 6+2 pin ones, meaning there's 6 pin solid plug that you can adapt to a 8 pin one with the additional 2 pins next to it.
+
+it says that its semi-modular. Ive lost the box, so I have no other cables.
+
+do you think ordering this cable would solve my problem? 
+
+Edit: Are you sure the 6 pin cable you are currently using isn't a 6+2 pin with just 2 of the pins not hooked up to the card?
+
+Well the cable you linked says it's for CXM, but it's the incorrect 8 pin cable. That's the CPU version, so it won't fit.
+
+[edit] Also make sure that any cable you order says it's compatible with CXM. Even all of Corsair's own models don't have the same pinout, so incorrect cable could fry your parts...
+
+found out that the one 6-pin my current gpu use is actually a 6+2 pin lol.
+
+But well at least you don't need to get anything other parts. Have you also checked if the lost cables are actually already connected your PSU?

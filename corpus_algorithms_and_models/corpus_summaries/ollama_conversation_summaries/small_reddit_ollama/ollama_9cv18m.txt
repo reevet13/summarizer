@@ -1,0 +1,13 @@
+Here is the summary of about 10% of the text:
+
+* Is this RAM compatible with my motherboard?
+* I'm thinking of getting a GTX 1070. Which one should I get?
+* I'm on a very tight budget and I'm looking for a case &lt; $50
+* Will i3-8100 fit in this motherboard? https://www.frys.com/product/9050397?site=sr:SEARCH:MAIN_RSLT_PG No. 8th gen only fits in 300 series boards.
+* Any B360 board would work, or if you're really trying to save cash an H310. I would not get an H310 though as you would be limited to 2 memory slots and those boards are really bare bones.
+* Double check that the PSU is ATX standard and doesn't use proprietary connectors.
+* Tip for the future. If you want to know part compatibility, just add your processor on pc part picker. Then add a Motherboard. It will filter out all Motherboard that aren't compatible.
+* Yeah I probably do need a new case and want one anyways, I'll buy one along with the mobo, cpu, and psu.
+* 16GB is starting to become the norm. You will be fine with 8GB but I would suggest on upgrading when DRAM prices start to become reasonable.
+
+Let me know if you'd like me to continue summarizing!

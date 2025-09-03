@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Basicly I want to see strong sources of radio waves in the sky without scanning the antenna.
+
+Well, you can look at what is directly above you without scanning.  You would just need to build some dishes, attach them to computers, write software to interpret the signals, and finally visualize the data somehow to see what is overhead!
+
+The planer array would be at the focus of a parabolic dish just as a light detecting array (camera) is placed at the focus of a parabolic mirror
+
+You might be able to get enough resolution to see jupiter's magnetosphere. I am not aware of any NASA facility that uses this technique, even though it's very common for radar tracking of planes.
+
+One big issue is wavelength and its influence on antenna size.  Lower frequencies (longer wavelengths) require larger elements in order to radiate efficiently.
+
+I hope these sentences provide a good summary of the original text!

@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text or up to 250 words:
+
+There is a known fraction of C-14 in the upper atmosphere thanks to bombardment from cosmic rays.
+Living plants incorporate this C-14 in with the C-13 and C-12 when photosynthesizing, so they end up with the same fraction of C-14 in their cells.
+Once they die the amount of C-14 is no longer being replenished but is now decaying since C-14 is radioactive.
+If we can measure the fraction of C-14 in a sample we can use that, the half-life of C-14, and the known fraction of C-14 available when the plant was alive to work back to how long ago the plant died.
+The half-life of C-14 is 5730 years.
+We can accurately date things using radiocarbon dating from about 50 to 60,000 years old, or up to a little over 10 half-lives.
+For longer we need other radioisotopes with longer half-lives.

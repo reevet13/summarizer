@@ -1,0 +1,52 @@
+Original Response:
+I mean, think about how electromagnetic radiation gets exponentially weaker as it propagates away from the source.  Now think about nebula, gravitational bodies, interstellar dust, asteroids, and every other obstruction between here and the next hundred light years.  There's plenty to mix up and scatter whatever original signals might be out there.  
+
+By the time the waves reach earth, I don't see how any signals could *possibly* be much higher than zero.  I mean, unless you have the ability to lase a star, or modulate a quasar, or vibrate a black hole... 
+
+...logically, why would we even expect to find a discernible signal?
+It doesn't get exponentially weaker, it goes as 1/r^2 until you start looking at absorption from gas and dust.
+
+We can detect radio signals from space, for instance from pulsars or from the CMB.
+
+The thinking is that if there are civilizations that are communicating across vast distances, they are using frequencies that are not absorbed by interstellar gas and dust. Thus, it would be wisest to search in those frequency bands.
+I think that the answer might be that we don't necessarily expect to find a signal - but if we did, it would be quite something! So we look. Chances are we'll eventually get better at it if we keep trying.
+
+Note also that the intensity only decreases as the square of the distance if you're emitting in all directions. Directional radiation is much less lossy.
+I'm not a scientist by any stretch of the imagination, but am really interested in astronomy.
+
+To me the bigger question is "what are the chances of another civilization actually brodcasting a signal?".  Not, "is there other life out there" (of course this question trumps all), but assuming there is life how long of a period of time would they actually be broadcasting in the manner that we are looking for?  We've only been doing it for just about a century now...  Would it be safe to say that 5,000 years from now we would have moved on to other forms of communication which do not rely on broadcasts as we do now?  What about 10,000 years from now?  What about civilizations that skip this method of communication completely?  If we moved on to other forms of communication and completely get rid of broadcasting signals there would only be a 10,000 light year thick "bubble" of signals that once past another planet with their own SETI program would be completely missed.
+
+To me this is the main reason why SETI is a bit foolish.  It is based on hoping that other civilizations out there are making use of technology in a similar way to us, and do so for a reasonable amount of time.  I liken it to scientists listening for the sound of rotary phones to find  evidence of life on Earth.  Earth would be really noisy for a small period of time, then slowly get quieter and quieter until eventually there is nothing to detect here because we've moved on to other forms of technology.
+
+However I do still think it is a worthwhile program given its relatively low cost and incredible return if it does actually work.  If nothing more it is a great tool to make people think.
+
+PS: Scientists of Reddit.  I my questions and thoughts above seem stupid please let me know.  I would love to be more optimistic about SETI.
+Directional signals (aimed at our solar system, for example) have a pretty good chance of reaching us.
+&gt;Note also that the intensity only decreases as the square of the distance if you're emitting in all directions. Directional radiation is much less lossy.
+
+Not true.  [Free space path loss](http://en.wikipedia.org/wiki/Free-space_path_loss) is a fixed value for a given frequency over a given distance, regardless of antenna gain.  If your antenna has gain, then signals radiated from the antenna will be stronger in one direction than another, but over a given distance will experience exactly the same loss as if they were radiated by an isotropic antenna.
+
+A look at the [Friis transmission equation](http://en.wikipedia.org/wiki/Friis_transmission_equation) verifies this.  Transmit and receive antenna gains (Gt and Gr) are independent from path loss (lambda/(4*pi*R))^2 when computing the transmit/receive power ratio.  Gt and Gr are gains, and do not change whether path loss is squared or not.
+[How could we possibly find extraterrestrial life? Where could they *possibly be... (peers topwards deep space)* except chatting on the radio spectrum, even though they are millions of years more advanced than we are?](http://imgur.com/C4fLZ.jpg)
+
+Yes, let's definitely keep our eyes peeled and our ear to the ground.
+In the limit of 0 beam divergence, there really is no r^2 dependence. It's true, however, that this is probably impossible to achieve. Nevertheless, the nearly parallel beams that can be created by parabolic dishes with antennas at their focal points have half-power distances orders of magnitude larger than their isotropically emitting counterparts.
+That is true, but my point is that saying "directional radiation is much less lossy" is misleading.  It's just as lossy, but you're offsetting that loss by significantly increasing the gain of your transmitter.
+
+Even with high-gain RF links, your still going to experience losses inversely proportional to the square of the link distance.  Sure, laser-based communications would be an exception, but as far as RF is concerned, this will always be the case.
+
+I'm not trying to harp on this too much, I just wanted my point to be clear.
+I don't think it's particularly foolish to listen to a band of EM which is known to pass through interstellar gas and dust.
+
+If I were the benevolent king of a transcendent, peaceful, spacefaring race, I'd put up some beacons - for the benefit of anybody who might be listening.
+
+If I were the final bloodthirsty survivor of an immortal race of hateful, vile monsters, I'd put up some beacons - to guide the foolish into my web to be devoured.
+
+Etc....
+
+Summary:
+Directional radiation is much less lossy.
+I would love to be more optimistic about SETI.
+Note also that the intensity only decreases as the square of the distance if you're emitting in all directions.
+&gt;Note also that the intensity only decreases as the square of the distance if you're emitting in all directions.
+I think that the answer might be that we don't necessarily expect to find a signal - but if we did, it would be quite something!

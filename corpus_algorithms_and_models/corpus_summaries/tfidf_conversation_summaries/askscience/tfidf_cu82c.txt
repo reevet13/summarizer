@@ -1,0 +1,153 @@
+Original Response:
+Congratulations to all the scientific askers and answerers! This week we hit two milestones: 100 panelists, and 1000 readers!
+
+Now is probably a good time to ask if the model we've set up is a good one:
+
+What do you like about this subreddit? What would you like for us to change? Does the panel really help? Is it too big/inclusive? Too small/exclusive? Are there any ideas out there for improving the subreddit, getting the word out, or promoting scientific inquiry in general?
+I've only found askscience very recently, so perhaps I'm not getting the whole picture yet, but what struck me as odd is that people are downvoting questions they dislike or perceive as silly, offtopic, and so forth. While this helps keep interesting questions afloat, I don't think that this is the best approach. Behind every question is a curious individual who would like an answer to a question that they at least perceive to be scientific -- or they wouldn't be here. If a question is based on a wrong assumption, for example, surely it's more constructive to point this out than to just downvote it. 
+
+I don't think that you're trying to build up a collection of the most interesting questions in science, but rather to answer the questions of individuals with an interest in science.
+
+I would therefore at least consider disabling downvotes in askscience.
+[deleted]
+Interesting suggestion. I'll think about it.
+
+My immediate reaction was: "no, because then we don't have a tool for getting rid of non-questions, spam, and trolls".  One of Reddit's niceties is the level of self-moderation which occurs in the community as a result of the voting system.  However, there's really not a problem with spam or trolls, and certainly not too much for us to moderate manually. I'm liking your suggestion more as I keep thinking about it. Let's see if the other mods have an opinion on it.
+Walruss I pm'd you a while ago asking about becoming a panelist. I'm a graduate student in toxicology. One 'issue' that I've stepped in a couple times with that I've seen come up is panelists - who are obviously knowledgeable people - answering questions outside their domain without first doing research and kinda going with their gut/what they've heard. This is especially prevalent in any of the GMO or GM food debates as well as stuff with toxicological relevance and I've had to 'step in' and correct what people are saying that isn't correct or the full picture without doing research to make sure their facts are correct. As this is only an internet forum I know its not a huge deal, but I don't want people looking for real answers only to get an answer that is misleading.
+
+That being said I wish there was some way of highlighting responses that have references in them rather than just an answer. I know this could potentially open a can of worms as references can vary significantly in their degree of validity and credibility but it could at least be a step in the right direction.
+
+Edit: apparently I am a panelist! Woop woop!
+my one hesitation with disabling downvotes is what if a person is actually incorrect, or is using invalid sources. If the responses get lost in the collapsed threads people might read that and not realize that it is bogus or misleading. For example, I don't want to start a flame war but lets say someone comes on here and says HEY I heard carbon dating is bogus and we can't really know how old the dinosaurs are. Someone could go, that is absolutely true and link them to any number of 'sources' that are creationist 'scientists' that have been completely discounted in scientific circles as bogus, but to the uniformed they might go, oh man sources ok this is true. 
+
+Instead, I feel it could be better to do something more along the lines of a stickied thread talking about ask science etiquette with regards to upvote downvote, or at least have some way to flag misleading information, like only have the options to upvote or flag for false information kinda deal.
+Please reply to [this post](http://www.reddit.com/r/askscience/comments/bo0nm/askscience_panel_of_scientists/) to join the panel. That way we have a centralized record of all our panelists and their stated credentials.
+
+Thanks!
+
+Highlighting references would be nice. Maybe we can define some special markup people can use, which we can highlight using CSS. I'll look into it.
+Yeah I had a while ago didn't notice I got approved. Thanks!
+Oh, weird! You weren't highlighted a minute ago? Or maybe you were? Welcome to the panel, in any case!
+Well whatever it was its working now so awesome!
+Not a panelist but I just wanted to say that I recently found this subbreddit and it is quickly becoming my favorite.  Good job!
+
+Only suggestion I have is to maybe cross-post a few posts from this subbreddit to the science subbreddit.  There are ~300,000 readers in the Science subbreddit who I assume would be interested in AskScience.
+It's working pretty well. Two things that are getting asked over and over are special relativity and quantum entanglement. Maybe we should have an easy to find link to already-answered threads dealing with those topics. Maybe one about magnets too because of that stupid clown thing.
+&gt;my one hesitation with disabling downvotes is what if a person is actually incorrect, or is using invalid sources
+
+I second this; this happens a lot in questions about quantum mechanics.
+&gt; Are there any ideas out there for improving the subreddit, getting the word out, or promoting scientific inquiry in general?
+
+Keep doing what you're doing. This reddit is awesome.
+I love this subreddit and try to promote it as much as I can. You guys are doing an absolutely wonderful job.
+Maybe we should have a FAQ link? I've noticed a lot of the physics questions have been going unanswered by panelists because the question has been asked many times before ("Tell me if I understand quantum mechanics..."). They do sometimes get addressed by other redditors who aren't panelists and sometimes these people know their shit but more often, they don't.
+
+On the other hand, the argument against the FAQ list is that kind of the idea of AskScience is you can ask a question in your own words and try to work with other people to understand it.
+Would it be possible to turn off downvotes for posts, but leave it on for comments? That way you could judge answers on merit and protect questions from being voted away. 
+
+Still, I imagine an etiquette post linked from the side-bar would be quite successful also.
+I second this. It's a pain to respond to a question that's already been asked and discussed in great detail. I've stopped responding to many questions just because of this.
+you could put faq expand or something in your post
+I have mixed feelings about the panelist system.  One the one hand, it is nice to know who isn't just talking out of their ass.  
+
+One the other hand, I don't see a high correlation between panelist answers and good answers.  Panelists are more likely to be technically correct, but that doesn't always mean a useful answer.  Getting the science right isn't hard, most questions are basic.  But figuring out what the OP is missing and putting things into language they can understand, that is key, and doesn't necessary come with a PhD.  Maybe we need community nominated panelists as well and credentialed ones.
+
+It would also be nice if a user's panelist status were off by default, and only turned by choice when speaking as an expert.  That way, panelists can common outside of their fields, or make jokes, without looking like they are making official pronouncements.  Not sure if reddit supports this.  Maybe make them mods, and use distinguish?
+Yeah, I've noticed most of the physicists have; now it's mostly people spewing garbage.
+As a panelist I second this.  I like to make smart-ass sarcastic comments occasionally, and usually hold my tongue in here where a good zinger would fit perfectly cause I have that PANELIST flag on.  My topic hardly ever comes up anyway.  High altitude balloon question anyone?  Bouyancy?  Jet stream, won't you have some?
+So I rubbed up against this airplane and got jet stream all over my khakis.
+
+Is club soda they best way to get it out, or should I use something else?
+I don't see what's wrong with some harmless zingers.  I recently got downvoted to hell for one, which in all fairness was probably deserved according to the actual guidelines of reddit (like anyone follows them anyway) as it didn't add to the discussion, but someone was really offended because I was a panelist.  When did this become serious business or GTFO?  If it is and everyone agrees, that's fine, but put it in big letters under the info, "Don't try to be funny"
+
+Also, I don't mind the panelist status being permanently on.
+Well, I would love someone to explain the holographic principle of the universe to me in laymen's term, if possible. :)
+I logged in to come say this. (parent comment)
+
+Any *questions* that are inappropriate can be moderated out, and the comments can be up/down/abstain voted as per normal.  Unless it is a clearly inappropriate question (like "How do babby form?", etc), *every* question/post should be considered a genuine request, which should not be downvoted.
+
+I think of questions from the audience like a developer in a code review saying "you know, this isn't really clear what you're doing here and I think you should add a comment".  If it's unclear to one person, it's going to be unclear to others, and you may as well comment/answer it, even if you don't agree that it's unclear/genuine.
+Well, if you rephrase your wish in the form of a question you can post it and see! :D
+Thanks, we appreciate the appreciation :)
+&gt;Getting the science right isn't hard, most questions are basic.
+
+I find that this is most definitely not the case. Some non-panelists give good answers, but most non-panelists give incorrect, meaningless answers that only sound scientific through the (mis)use of scientific jargon. 
+
+My feeling is if you want the general reddit population to give an answer, ask in /r/science. If you want someone working in the field to give an answer, then ask here. We do our best to make the correct answer understandable while still being correct.
+I know what you mean, I've wanted to give zingers before. The problem is it's difficult to mix being funny with appearing to be serious, and people come here to ask us questions in the hope that we'll take them seriously. I just save my snark for other subreddits.
+This was actually the event that inspired my suggestion...:)
+The is also the problem of cranks and other disingenuous posters, who ask leading questions to support their theories.
+
+In /r/science, you someone as a seemingly innocent question like, "Is carbon dating always accurate?"  Being the pedantic nit pickers we are, he gets a dozen minor special cases where it is inaccurate, and suddenly the message is, "Scientists say carbon dating is wildly inaccurate!", which gets echoed in his religious forums.
+
+This is a question that needs downvoting.
+I'll go ahead and disagree here. Most redditors I've seen posting here, especially the panelists, are very careful not to promote this sort of anti-science, simply because it's so easy for trolls and others to get into the spotlight.
+
+The answers to "is carbon dating always accurate" would be things like:
+
+"Carbon dating is extremely accurate because of how it works - this and this and this. However, it also places limits - it's less likely to be accurate for things older than this or that."
+
+And then somebody else chimes in:
+
+"Yea, that's where radiometric dating comes in, because of this and that. "
+
+And then another guy comes in and says:
+
+"And all of these are consistent with geological models."
+
+And the next guy:
+
+"Not to mention the theories of the formation of the solar system and/or the planet and/or the sun have left these and these and these traces, which also matches exactly"
+
+Somebody else then comes in and says:
+
+"You guys are forgetting the point - carbon dating. We have various historical documents from different places on the globe describing the same comets or other cosmic events, which we can use for this and that, which indicates is highly accurate."
+
+And then the first guy comes back and says:
+
+"Oh yea, and also some historical records that can be cross-referenced. Here are some articles about that."
+
+And so on...
+
+To summarize what I mean to say:
+
+**Because people here tend to love science and want to spread the love, downvoting the questions of those who haven't seen the light of science is counterproductive. Instead: _use science to convince them._**
+Yeah me too.
+Yes, that is how it works now, in our tiny little science treehouse.  The signal to noise ratio is still very high, as is the expert/layman ratio.
+
+But step into /r/science and gaze upon our future.  There are a lot of bogus, intentionally dishonest questions.  And they get downvoted.  As they should.
+
+You are assuming we can use science to convince them.  But they don't want to be convinced.  They are apologists trolling for ammo.  Either they find it, or they move on.  I want to downvote them to oblivion so they go farming elsewhere.  I sure don't want to be entertaining Aether Wave Theory in here.
+Everybody relax, I've got this one.  Ok, Kouhotek, what you've gotten into is a mix of normal everyday air.  It just so happened to have taken part in a fantastic race around the world.  However, you needn't worry because the air molecules have likely wandered on from your khakis, and you can proceed as normal.  Now about this airplane fetish, is anyone a sex researcher in here?
+If AWT guy shows up and starts spewing his bizarro-nonsense, I'll take care of it. There are a few others that are already on my radar, but they're just harmless quacks.
+
+I do like our treehouse... :)
+I like the reference highlighting idea a lot.
+I like the panel, size seems fine.  Maybe occasional "I'm an expert in _blank_ and I'd be happy to field questions in _blank_" posts would be nice from panelists?  We'd get a sense for what the maximum in quality we should expect is, quantifying is sexy, and I suspect it'd spark quality offshoot discussion.
+Mine wasnt even offensive, if anything it was agreeing with the poster about the difficult nature of the subject (QM).  My comment was a direct reply to the post, and was sandwiched in between two multiparagraph answers by well informed panelists.  It wasnt hard to see which of them were serious.
+
+Zingers (especially the one that I posted) arent meant to be informative, they are only there to try and get a few laughs and lighten the mood.
+Quantifying *is* sexy!
+This is possible, /r/relationship_advice has the inverse.
+Exactly. What is lacking on reddit in general is **not** people trying to be funny. r/Science regularly have submissions with hundreds of comments and zero insight.
+
+Summary:
+I do like our treehouse... :)
+As a panelist I second this.
+This is a question that needs downvoting.
+I like the reference highlighting idea a lot.
+I logged in to come say this.
+I know what you mean, I've wanted to give zingers before.
+I'm liking your suggestion more as I keep thinking about it.
+I have mixed feelings about the panelist system.
+If you want someone working in the field to give an answer, then ask here.
+Getting the science right isn't hard, most questions are basic.
+But they don't want to be convinced.
+Highlighting references would be nice.
+I don't see what's wrong with some harmless zingers.
+The answers to "is carbon dating always accurate" would be things like:
+
+"Carbon dating is extremely accurate because of how it works - this and this and this.
+I would therefore at least consider disabling downvotes in askscience.
+Panelists are more likely to be technically correct, but that doesn't always mean a useful answer.
+My feeling is if you want the general reddit population to give an answer, ask in /r/science.

@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+> Ultimately, though, there is no security measure which will make any town’s network completely invulnerable to ransomware attacks – something which has officials in Midland describing a second attack as “a matter of when, not if.”
+
+You can, it's not hard, but it pisses off the users because then they can't do whatever non-work related tasks they want on the computer. If they had AppLocker configured, which comes with Windows since 7, this ransomware attack would have been impossible.
+
+As a stupid would say "do you think I'm stupid?" replace user.dll
+
+My work sent out a survey about 6 months ago. They hired a third party company to make the survey and it was hosted on that company's site. The email with personalized links came from that company as well. With no warning to the users.
+
+Setup lapse and randomize the local admin password, limit administrative access. Don’t use a damn domain admin account to login to workstations. Next level shit? Setup MFA for privileged accounts. All of this takes time and effort.

@@ -1,0 +1,15 @@
+Here is a summary of the text, extracted from sentences:
+
+* Is this RAM compatible with my motherboard?
+* I'm thinking of getting a GTX 1070. Which one should I get?
+* I'm on a very tight budget and I'm looking for a case <$50
+* You're right that buying another 8GB stick for 16GB dual channel is the better option value wise, preferably with high frequency.
+* It's unlikely that you will need more than 16GB anytime soon.
+* And you won't get any benefit from quad channel RAM in gaming in the foreseeable future.
+* Just get another 8 GB of the exact same make and model RAM as you currently have.
+* No, dual channel only works with RAM that is of identical speed, timing, and quantity.
+* What GPU are you running?
+* I believe only 3.5 of your 4GB is actually usable.
+* There has to be a way to test it though, so maybe do some more research on that.
+
+Let me know if you'd like me to extract more!

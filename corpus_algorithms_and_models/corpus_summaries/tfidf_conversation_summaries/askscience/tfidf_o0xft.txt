@@ -1,0 +1,41 @@
+Original Response:
+to be more specific, we see that the planets all seem to be on a roughly flat slope going out from the sun in a straight line.  My question is, are any of the planets 'above' or 'below' earth relative to our position and the sun?  Most documentaries about the solar system seem to reinforce this, but I'm not sure if this is done for cinematography or that's really the way it is.
+
+
+Related to this, wouldn't various objects (comets, etc) have altered some of these paths to a greater extent over the millions/billions of years our solar system has existed? 
+
+(I'll apologize if this question has been asked, or seems ... dumb :) )
+Almost all, yes. One is not.
+
+Know which one?
+They are almost all co-planar, the highest inclination is from Mercury, at ~7 degrees. All the inclinations of the planets are listed here: http://en.wikipedia.org/wiki/Orbital_inclination
+
+Most objects like comets are too small to alter the paths of planets significantly.
+you can also notice from that link that they are all basically in the equatorial plane of the sun. this observation is important when thinking about how the solar system formed.
+[deleted]
+There is a reason for this - when planets form there is usually a larger structure influencing the patterns. For instance, the dust planes of most proto systems we've seen tend to follow the Milky Way plane. I am not sure if we have seen this happen in other galaxies yet (they are kinda far...) - but it figures to follow the pattern.
+
+As the dust in the galaxy has this flat shape and the dust in the young solar systems have the same shape - the planets tend to form within the shape of the dust. You get an alignment.
+
+This is also why most things rotate and revolve in the same direction. The general motion of the system of the Milky Way is one direction (not sure if clockwise or counter). The star follows that, the dust follows it, the forming planets follow it, etc etc.
+Conservation of angular momentum writ large.
+well, I'm going to guess from the answer above that it's Mercury?
+That's correct, though Mercury is still pretty close to the ecliptic plane.
+
+Also, the minor planets in the asteroid belt and Kuiper belt have a much larger range of inclinations than the eight major planets. For example:
+
+Ceres: 17 degrees
+
+Pallas: 33
+
+Vesta: 7
+
+Pluto: 17
+
+Eris: 44
+
+Sedna: 12
+
+Summary:
+The star follows that, the dust follows it, the forming planets follow it, etc etc.
+this observation is important when thinking about how the solar system formed.

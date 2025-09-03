@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+I drew some plans earlier in the summer, using a wooden meter stick to add scales, which I had checked against several stainless steel meter sticks earlier in the summer (average daytime temp 30 degree Celsius).
+
+The metal meter sticks are now about 1 mm short compared to the wooden and plastic meter sticks I have.
+
+Did they shrink due to the temperature being much cooler? Or have the other rulers swelled for some reason?
+
+According to [Wikipedia](http://en.wikipedia.org/wiki/Thermal_expansion), thermal expansion coefficient for Stainless steel is 17.3*10^(−6)/°C.
+
+If I didn't make a mistake in calculations your meter stick should be around 0.4mm shorter in winter.

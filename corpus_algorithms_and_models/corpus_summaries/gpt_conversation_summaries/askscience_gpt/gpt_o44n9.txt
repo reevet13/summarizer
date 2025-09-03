@@ -1,0 +1,10 @@
+I actually got is as a sign off from a company I corresponded with on an email.  
+Computers don't produce CO2. I assume that they are referring to the CO2 produced by power plants that are providing electricity to the computer, but that's going to vary a lot based on your energy sources.  
+The Carbon Dioxide Information Analysis Center (a government group) estimated in 1990 that [1 kWh of energy resulted in 2.3 lb of CO2](http://cdiac.ornl.gov/pns/faq.html).  
+274 kg/1.977g/L = 138.59 cubic meters of CO2 per laptop per year of use.  
+For reference, humans produce about [1 kg per day](http://cdiac.ornl.gov/pns/faq.html) just breathing, so this laptop is responsible for 33% less CO2 than any windbag who criticizes you.  
+~~EDIT: I tried to find the origin of this "fact," and traced it back to a non-profit called "Carbon Trust." Apparently they produce employee awareness posters with these "facts" and [a section of their website shows the calculation behind them](http://www.carbontrust.co.uk/cut-carbon-reduce-costs/products-services/technology-advice/employee-awareness/pages/poster-fact-calculations.aspx). Here are the assumptions they made to come up with their figure:~~  
+~~1. ~~Their computer is 3.5 times more energy consuming than mine, at 107W. Probably fair if you are talking about a powerful desktop with a monitor.~~  
+~~2. ~~0.43kgCO2/kWh, which is slightly less CO2 per unit energy than I used. Again, probably fair because my figure is 20 years old~~  
+~~3. ~~1.98 (conversion factor for CO2 weight to volume). **They just chucked in an unexplained, unitless "conversion factor"** to translate weight (kg) into volume (cubic meters). Their "conversion factor" is complete bullshit: it works out to a density of 0.00198004969g/mL, which is 0.1% of the actual density at sea level. So unless their double-decker buses are in space, the "fact" is a complete fraud.~~  
+Sorry but you've made a critical error. 1.562 g/ml is the density of CO2 at 1 atm and **-78.5

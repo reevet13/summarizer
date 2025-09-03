@@ -1,0 +1,9 @@
+Here is the summary:
+
+4K RAW output sounds pretty interesting. Clearly they're pushing the video aspect to the max. It'll be interesting to see how the stills specs and autofocus match up.
+Yeah, raw only makes sense at 1:1 readout, not binned.
+It's possible to use the hardware without adhering to the video standard.
+You can do all kinds of shit with HDMI. For example, Dell switches use them for stacking instead of a proprietary cable like Cisco/Juniper/etc use.
+No device on the other end is going to be able to understand it, unless Panasonic makes a dedicated device.
+It should be possible to do both but you're likely right with how it'll end up.
+There is no way to do it with standard HDMI hardware.

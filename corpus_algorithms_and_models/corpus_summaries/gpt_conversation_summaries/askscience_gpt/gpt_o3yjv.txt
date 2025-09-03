@@ -1,0 +1,12 @@
+As part of a Media Art collective, I am currently looking into ways to get a stable and reliable live 3D model of (human) **movements above / along a large water surface / pool**. With 3D I mean we want to know, besides the X/Y information also the height of a person, and being able to detect when someone's Z-position changes (ie. person jumping etc.) 
+
+I already have some experience with (hacking with) Kinects, so I first looked into those. Compared to industrial range imaging camera's (for instance the [Fotonic C40](http://www.fotonic.com/assets/documents/fotonic_c40_highres.pdf)) Kinects seem to have a very high output resolution, though this could just be a matter of up-scaling inside the Kinect. 
+
+Also they are cheap and easy to come by, and tests above a small pool of water indicate that water movement does not really interfere with the Kinect's structured light field (which is a good thing for us). But.. I am very unsure about their stability and endurance on the long run. 
+
+So I guess I am looking for an industrial quality Kinect-like range imaging camera. Though I am not sure which technique would be best to use (structured light such as Kinect uses, or Time-Of-Flight such as the [SoftKinetic DepthSense](http://www.softkinetic.com/Solutions/DepthSensecameras.aspx), or maybe even something else?). 
+
+- Our software will be written in openFrameworks / C++. 
+- The water surface has a minimum size of 9m * 4.5m, camera range should be somewhere around 6-7m. It would be okay to use multiple camera's, as long as they don't interfere with eachother. 
+
+**TL/DR:** Looking for professional alternatives to MS Kinect sensors.

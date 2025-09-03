@@ -1,0 +1,7 @@
+Here is the summary:
+
+When your blood sugar is low, glucagon is released into your blood stream by your pancreas. (glucagon is a hormone that tries to increase the amount of sugar in your bloodstream) This glucagon can induce hunger but can also cause a feeling of nausea.
+
+Ok, so what is it about glucagon that would make one nauseous?  Or give them a headache?  These seem counter productive if blood sugar is low.
+
+I was trying to come up with a mechanism based on acid-base balance where glucagon increased fatty acid metabolism resulting in an increase in ketone bodies and led to a ketoacidosis.

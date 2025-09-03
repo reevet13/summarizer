@@ -1,0 +1,104 @@
+Original Response:
+Post any and all hurricane questions here! 
+
+Edit: Cat 5!
+
+Some background info and links:
+
+NHC/NOAA: https://www.nhc.noaa.gov/
+
+2017 Hurricane Season Megathread: https://www.reddit.com/r/askscience/comments/6yje2n/megathread_2017_hurricane_season/
+
+Tweets:
+
+https://twitter.com/NHC_Atlantic/status/1039182225030479882
+
+https://twitter.com/capitalweather/status/1039180756503941122
+
+News:
+
+https://www.usatoday.com/story/news/nation/2018/09/10/hurricane-florence-driving-life-threatening-conditions-toward-east-coast/1253945002/
+
+https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/09/09/florence-strengthens-to-hurricane-and-poses-extreme-threat-to-southeast-and-mid-atlantic/?noredirect=on&amp;utm_term=.b760f4ad6228
+Are hurricanes actually becoming more frequent or more powerful due to the effects of climate change? Or are we just hearing and seeing more about them thanks to the Internet and social media?
+[removed]
+[removed]
+Climate change will have weird effects on hurricanes that are not well understood. There is significantly more energy in the atmosphere because of it, but hurricanes are caused by a very complex mix of many factors like temperature gradients, wind shear, ocean temperatures and currents, the jet stream, etc. All of these are likely to change in a warmer world, but some of them will have an impending effect to hurricane development while others will worsen them. All said, the threats from global warming are significant and existential, but mega hurricanes aren’t likely to be a big part.
+At first look there should be more hurricanes since warmer ocean. There are studies done by Soden and others  that show that there might be less hurricanes because of increased wind shear.  Climate change will be dependent on location, some places actually cool.
+[removed]
+Hurricanes are not becoming more frequent nor are they expected to. At least the last two IPCC reports have stated that hurricane frequency will either remain steady or decrease. But intensity is and is expected to continue increasing in a warming world.
+
+&amp;#x200B;
+
+Tropical cyclones and climate change (Knutson et al, 2010) - [http://shoni2.princeton.edu/ftp/lyo/journals/Knutson-etal-TCClimateChange-A-NatGeoSci2010.pdf](http://shoni2.princeton.edu/ftp/lyo/journals/Knutson-etal-TCClimateChange-A-NatGeoSci2010.pdf)
+
+&amp;#x200B;
+
+"However, future projections based on theory and high-resolution dynamical models consistently indicate that greenhouse warming will cause the globally averaged intensity of tropical cyclones to shift towards stronger storms, with intensity increases of 2–11% by 2100. Existing modelling studies also consistently project decreases in the globally averaged frequency of tropical cyclones, by 6–34%."
+
+&amp;#x200B;
+
+Response of Tropical Cyclone Activity and Structure to Global Warming in a High-Resolution Global Nonhydrostatic Model (Yamada et al, 2017) - [https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0068.1](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0068.1)
+
+&amp;#x200B;
+
+"The model projected that the global frequency of TCs is reduced by 22.7%, the ratio of intense TCs is increased by 6.6%, and the precipitation rate within 100 km of the TC center increased by 11.8% under warmer climate conditions."
+
+&amp;#x200B;
+
+Dealing with current trends we see the following:
+
+&amp;#x200B;
+
+Increasing destructiveness of tropical cyclones over the past 30 years (Emanuel, 2005) - [https://nature.berkeley.edu/er100/readings/Emanuel\_2005.pdf](https://nature.berkeley.edu/er100/readings/Emanuel_2005.pdf)
+
+&amp;#x200B;
+
+"Here I define an index of the potential destructiveness of hurricanes based on the total dissipation of power, integrated over the lifetime of the cyclone, and show that this index has increased markedly since the mid-1970s. This trend is due to both longer storm lifetimes and greater storm intensities. I find that the record of net hurricane power dissipation is highly correlated with tropical sea surface temperature, reflecting well-documented climate signals, including multi-decadal oscillations in the North Atlantic and North Pacific, and global warming."
+
+&amp;#x200B;
+
+Deconvolution of the Factors Contributing to the Increase in Global Hurricane Intensity (Hoyos et al, 2006) - [http://faculty.jsd.claremont.edu/emorhardt/159/pdfs/2007/Hoyos%20et%20al.%202006.pdf](http://faculty.jsd.claremont.edu/emorhardt/159/pdfs/2007/Hoyos%20et%20al.%202006.pdf)
+
+&amp;#x200B;
+
+"The results show that the trend of increasing numbers of category 4 and 5 hurricanes for the period 1970–2004 is directly linked to the trend in sea-surface temperature; other aspects of the tropical environment, although they influence shorter-term variations in hurricane intensity, do not contribute substantially to the observed global trend."
+
+&amp;#x200B;
+
+The increasing intensity of the strongest tropical cyclones (Elsner et al, 2008) - [http://www.ssec.wisc.edu/\~kossin/articles/nature07234.pdf](http://www.ssec.wisc.edu/~kossin/articles/nature07234.pdf)
+
+&amp;#x200B;
+
+"We find significant upward trends for wind speed quantiles above the 70th percentile, with trends as high as 0.3 ± 0.09 m s-1 yr-1 (s.e.) for the strongest cyclones."
+
+&amp;#x200B;
+
+Trend Analysis with a New Global Record of Tropical Cyclone Intensity (Kossin et al, 2013) - [http://journals.ametsoc.org/doi/full/10.1175/JCLI-D-13-00262.1](http://journals.ametsoc.org/doi/full/10.1175/JCLI-D-13-00262.1)
+
+&amp;#x200B;
+
+" This additional homogenization step is found to measurably reduce LMI trends, but the global trends in the LMI of the strongest storms remain positive, with amplitudes of around +1 m s-1 decade-1 and p value = 0.1. Regional trends, in m s-1 decade-1, vary from -2 (p = 0.03) in the western North Pacific, +1.7 (p = 0.06) in the south Indian Ocean, +2.5 (p = 0.09) in the South Pacific, to +8 (p &lt; 0.001) in the North Atlantic."
+
+&amp;#x200B;
+
+Trade-off between intensity and frequency of global tropical cyclones (Kang et al, 2015) - [http://myweb.fsu.edu/jelsner/PDF/Research/KangElsner2015.pdf](http://myweb.fsu.edu/jelsner/PDF/Research/KangElsner2015.pdf)
+
+&amp;#x200B;
+
+"We calculate an average increase in global tropical cyclone intensity of 1.3 m s-1 over the past 30 years of ocean warming occurring at the expense of 6.1 tropical cyclones worldwide."
+
+&amp;#x200B;
+Can you give more detail on which places might cool and why?
+Best post on reddit in the history of Reddit
+If the Gulf Stream is disrupted, the maritime climates it warms will turn more like Alaska or Newfoundland (this is the scenario that's fictionalised at the start of The Day After Tomorrow). The disruption is from changes to currents in the Atlantic, which alter in salinity because of lots of melting ice entering the sea. So global warming causes ice melt causes local loss of a heating current.
+
+Heaven only knows what that would do to the Atlantic hurricane season..!
+Awesome response
+The warm Arctic-cold continent scenario looks likely to happen in Europe as the Arctic warms. There's also evidence linking the recent frequency of polar vortices in North America's winter to a warming Arctic.
+
+Summary:
+Hurricanes are not becoming more frequent nor are they expected to.
+Are hurricanes actually becoming more frequent or more powerful due to the effects of climate change?
+But intensity is and is expected to continue increasing in a warming world.
+Existing modelling studies also consistently project decreases in the globally averaged frequency of tropical cyclones, by 6–34%."

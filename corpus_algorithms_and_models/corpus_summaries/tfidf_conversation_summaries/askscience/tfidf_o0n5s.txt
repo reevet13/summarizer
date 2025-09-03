@@ -1,0 +1,52 @@
+Original Response:
+I guess specifically any planets (/moons) in our solar system, that we could realistically travel to in the not-long term?
+I don't know of any cases that will be really satisfying, but people have found microbes that can apparently survive in a "suspended" state indefinitely - basically, microbial seeds. They've been found in fairly deep rocks; conditions at those depths on Mars and other comparable are likely similar in some places, so these types of things could maybe be transplanted. It wouldn't go active and start growing again, though - it'd just have the potential to do so.
+This is an interesting question.
+
+To start, we can rule out all chemotrophs (we haven't found any life on other planets so it's impossible for any cell to live off of other cells).
+
+That leaves us with autotrophs. Let's assume (an oversimplification, and an incorrect simplification), that autotrophs only need sunlight, water, atmospheric carbon dioxide and a suitable temperature to subsist. Sunlight isn't much of a problem on most planets, as is temperature. The difficult comes with finding a planet that contains water.
+
+There are a few cases of watery planets being found [ophiucus](http://www.time.com/time/health/article/0,8599,1947868,00.html), but they are typically from bodies so far away that there is no way of knowing many of the other conditions of the planet.
+
+So to answer your question - no. We haven't as of yet discovered a planet with the necessary components for supporting life. However, there may be other planets that can support life (very far away), and planets may be able to support life in the very distant future (titan, a moon of saturn).
+Liquid water and sources of energy are the essential prerequisites for Life and we have not really found other place where we could survive. You might want to read [this article](http://earthguide.ucsd.edu/virtualmuseum/litu/10_3.shtml) on life on other planets
+Well - the best candidates would be extremophiles, such as (but not restricted to) methanogenic bacteria or Desulfovibrio types. I suspect they could make a living around hydrothermal vents under the ice on Europa or Ganymede.
+
+There are complete  ecosystems supported by sulfate reduction without sunlight around these.
+&gt; Liquid water and sources of energy are the essential prerequisites for Life
+
+It's a little bold to assume liquid water is a necessity. Life as we know it, sure. But we can't say that it's essential for all life.
+There are also [tardigrades](http://en.wikipedia.org/wiki/Tardigrade), which can survive extreme temperatures, extreme radiation, dehydration, extreme pressures, and even the vacuum of space.
+
+They are also bigger than microbes, up to about 1mm in size.
+Deep-earth microbes are not always in suspended states - some are very much alive. [Here](http://news.nationalgeographic.com/news/2011/06/110601-deepest-worm-earth-devil-science-animals-life/) is an example of an animal which lives miles under the surface feeding on such bacteria.
+Deep thermal vent animals could probably survive Europa.
+There is no evidence of life anywhere in the universe that can thrive without liquid water. Assuming that there just *has* to be an exception to this is dreamy speculation, not science.
+There's also no evidence of life anywhere in the universe except on Earth, so (almost) everything about extraterrestrial life is complete speculation.
+It sure is. It gets accepted here that life elsewhere is a given, despite the total lack of evidence in support of that position.
+It's a very good bet that quite a large variety of bacteria could survive under the ice on Europa.  A lot of them will get by on liquid water and basic organic molecules, and we are pretty sure both of those are present on Europa and probably on a number of other moons as well.  
+
+I wonder if microbes in the deep microbial biosphere would be able to make it deep inside Mars.
+Lets try it out then see what happens in 1 billion years from now.
+There is a lack of evidence because more or less we haven't looked for life on other planets. So it is better to say there is an absence of direct evidence in either direction concerning life on other planets.
+
+Indirectly however; there is evidence that life started as far back as ~3.8 billion years ago and some of the early building blocks of life, amino acids, seem to be somewhat common. So we know life got started on Earth almost as soon as it was feasible for it to exist and the stuff of life is relatively common, given these two pieces of evidence it is not unreasonable to speculate that life, microbial or otherwise, to be a somewhat common occurance.
+Unless of course they're eaten by any native Europan animals :)
+It's easier to look for things we know are possible in contrary to things that are imaginary. 
+
+Because we've never seen one/be able to make hypothetical life form to work, we are forced to assume, that carbon based lifeforms that require water to live are the only lifeforms in existence.
+There's a chance that's already what happened. Here.
+
+There are some theories of biogenesis that postulate a chemoautotroph as the first living organism.
+
+[CITE](http://www.biolbull.org/content/217/3/222.long)
+Tardigrades are tough little puppies.
+
+\- http://en.wikipedia.org/wiki/Tardigrade -
+
+Summary:
+Life as we know it, sure.
+There is a lack of evidence because more or less we haven't looked for life on other planets.
+There is no evidence of life anywhere in the universe that can thrive without liquid water.
+Liquid water and sources of energy are the essential prerequisites for Life and we have not really found other place where we could survive.

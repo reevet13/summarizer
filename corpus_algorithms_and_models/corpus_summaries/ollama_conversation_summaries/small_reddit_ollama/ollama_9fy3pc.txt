@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+CPU | [Intel - Core i5-8600 3.1GHz 6-Core Processor](https://ca.pcpartpicker.com/product/XMTPxr/intel-core-i5-8600-31ghz-6-core-processor-bx80684i58600) | $295.99 @ PC-Canada 
+
+**Memory** | [Corsair - Vengeance LPX 16GB (2 x 8GB) DDR4-2666 Memory](https://ca.pcpartpicker.com/product/J27CmG/corsair-memory-cmk16gx4m2a2666c16) | $191.69 @ Amazon Canada 
+
+**Video Card** | [Gigabyte - GeForce GTX 1060 6GB 6GB WINDFORCE OC 6G Video Card](https://ca.pcpartpicker.com/product/7RKhP6/gigabyte-geforce-gtx-1060-6gb-windforce-oc-6g-video-card-gv-n1060wf2oc-6gd) | $347.98 @ Amazon Canada 
+
+**Power Supply** | [Thermaltake - SMART 750W 80+ Bronze Certified ATX Power Supply](https://ca.pcpartpicker.com/product/b3Lypg/thermaltake-power-supply-sp750pcbus) | Purchased For $0.00 
+
+**Operating System** | [Microsoft - Windows 10 Home OEM 64-bit](https://ca.pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140) | $119.75 @ Vuugo 
+
+**Wireless Network Adapter** | [Asus - PCE-AC55BT B1 PCI-Express x1 802.11a/b/g/n/ac Wi-Fi Adapter](https://ca.pcpartpicker.com/product/6Zs8TW/asus-pce-ac55bt-b1-none-wi-fi-adapter-pce-ac55bt-b1) | $39.99 @ Memory Express 
+
+**Monitor** | [LG - 25UM58-P 25.0" 2560x1080 60Hz Monitor](https://ca.pcpartpicker.com/product/wNcMnQ/lg-monitor-25um58p) | $149.99 @ Memory Express

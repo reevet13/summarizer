@@ -1,0 +1,15 @@
+I'll point out the obvious thing and say that your shirt most probably isn't airtight, so you won't technically ever run out.
+
+A deep breath in is around 3-4 liters, and assuming a relatively loose shirt that should give you probably around 3 breaths.
+
+Edit: Actually, breathing back into the shirt is not too bad an option.
+
+There may still be lots of oxygen in the air we exhale, but our breathing [increases its CO2 concentration by a factor of 100](http://www.bbc.co.uk/schools/gcsebitesize/pe/appliedanatomy/1_anatomy_respiratorysys_rev3.shtml).
+
+This is known as the [Bohr effect](http://en.wikipedia.org/wiki/Bohr_effect) (Bonus: it is named after Christian Bohr, father of physics superstar Niels Bohr).
+
+Medically, this situation is called [respiratory acidosis](http://en.wikipedia.org/wiki/Respiratory_acidosis).
+
+We do it in CPR because it is better than nothing.
+
+Truthfully, you may not notice the effect in one or two breaths under a shirt, but it's a neat mechanism so I thought I would share.

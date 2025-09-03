@@ -1,0 +1,35 @@
+Here are the extracted sentences from the original text:
+
+1. Its because *it was* as cold as Canada - or at least as cold as Canada is today(or colder).
+2. Modern humans have been in Europe for 40,000 years but the last ice age only ended 10,000 years ago.
+3. You can drive south from Detroit to go to Canada.
+4. Reno, Nevada is farther west than Los Angeles.
+5. San Francisco has a similar latitude to ~~Cape May, NJ~~Chincoteague island, Viginia.
+6. All of Florida is south of all of California.
+7. The land area of Rhode Island fluctuates by 2-3% twice daily.
+8. The biggest difference lies in the winters, it seems
+9. The average low during the coldest month (Jan for both places) is 26.9F in NYC and 37.6F in Rome
+10. Yes. Also, the ocean currents move a lot of heat around the world. The Gulf Stream also keeps northeast Canada more temperate than Greenland.
+11. How does Argentina have glacier considering it's average temp seems higher? Is it just altitude?
+12. True true. If latitude **was** the only deciding factor in temperature, areas around the Mediterranean would be about as cold as New York City or New York City would be about as warm as those areas around the Mediterranean since the share the same approximate latitude.
+13. (New York City fits **within** the range of Mediterranean latitudes.)
+14. Oh man what did I miss?!
+15. San Francisco's closest cousin to the East is Richmond, VA, which is fairly significantly south of Cape May.
+16. Also, there are parts of Ontario Canada that are further south than northern California
+17. Great, concise explanation and informative maps. Thank you.
+18. Oops. You're right, I must have made a mistake somewhere. It's about parallel with Chincoteague, which might have been what I was thinking.
+19. I live less than an hour from Pelee Island and can attest to it being much much milder than other places I've lived in Canada
+20. The Gulf Stream doesn’t explain the intensity of the sunlight. Besides the Spanish Rivera on into the French Rivera and then Italy. All of this is hundreds of miles into the Med and away from the Atlantic.
+21. Not to mention the Gulf Stream goes up US east coast then curls over to run along UK and then diminishes.
+22. It [doesn't look that asymmetric to me](http://folk.uio.no/sigurdkn/world_temperature_mirrored.png). The bulk of south america matches up pretty well with most of the USA and Canada when flipped around the equator.
+23. The very tip looks a bit warmer, but it's very thin and therefore very coastal, and if we compare it with the west coast of North America at that latitude we see similar temperatures, albeit not stretching as far from the coast there.
+24. It doesn’t look asymmetrical to me either. The southern tip of Argentina is pretty damn far from the equator.
+25. For sure, of course the southern border follows the mountains and it's quite obvious they should have an effect, stopping some Polar air from entering Czechia and Slovakia. I'm more surprised about both Germany and Ukraine being warmer. Not a lot going on at Poland's Eastern and Western borders, while the map indicates that all of Poland is as cold as Bavaria.
+26. Thanks! It seems like a good guess.
+27. Here's another one:
+Distance in more or less a straight line going WNW from El Paso, TX to the California state border across 1.5 states is nearly identical to the distance going ENE from El Paso, TX to Dallas, TX *all while staying inside the state of Texas.*
+28. edit: formatting.
+29. &amp;#x200B;
+30. id guess you really have to calculate this in when building stuff like rails and roads there
+31. &amp;#x200B;
+32. EDIT in verkhoyansk its a 71.8°C difference

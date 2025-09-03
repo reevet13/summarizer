@@ -1,0 +1,3 @@
+As part of a Media Art collective, I am currently looking into ways to get a stable and reliable live 3D model of (human) **movements above / along a large water surface / pool**.
+We're talking about a professional application here, with low-maintenance and long-lifespan requirements.
+Looking for professional alternatives to MS Kinect sensors.

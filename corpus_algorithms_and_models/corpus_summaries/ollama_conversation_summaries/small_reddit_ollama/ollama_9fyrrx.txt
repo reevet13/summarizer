@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+Reduced accuracy and sway but I'm not sure if its implemented yet
+Why is it even an option to remove it if all you get is negatives seems redundant
+Different stocks, less weight, etc. Not implemented yet.
+Maybe we will get the metal bar stock some aks have . Was kind of hoping removing the stock made hip fire tighter or sometthing
+The weapons having different storage shapes/space when assembled/dissembled

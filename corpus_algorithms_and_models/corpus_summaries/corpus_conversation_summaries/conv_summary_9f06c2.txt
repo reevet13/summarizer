@@ -1,0 +1,61 @@
+Original Response: 
+For those who use firemax fireluke tanks, how long do your coils last?
+I seem to have to replace mind like every week.
+I prime them before use and use it at like 60.
+Any help would be greatly appreciated.
+Thanks!
+It's better to measure coil life with amount of juice put through it.
+How many Mls and what type of coil?
+I use the fireluke mesh 0.15ohm coils, I probably go a bottle of 100ml juice every 2 weeks.
+I was just curious if that's the norm or if there was something I could do to prevent them going out so quickly.
+At about 7 days it'll start turning my teeth colors if I don't change them although it doesn't taste burnt like other tanks I've used.
+I've had this tank about a month now.
+I'm assuming you don't have the Mesh Pro tank and just the Mes, so you are using the single mesh 0.15 not-compatible with the Pro.
+I honestly don't have much experience with these coils.
+Getting 50ml before it starts to degrade is about 10 tanks worth, but I feel like it should be a little bit more unless someone wants to correct me.
+I get about 100-120ml through the mesh pro triple coil.
+Are you priming your coils correctly?
+Sweet liquid will kill them quickly, try something without sweeteners.
+My coils for the FL mesh last around 2 weeks, or roughly 240ml at least.
+My current coil is a little over a week old, roughly 120ml run through it, and it still looks like new.
+If you are using a really sweet juice, it'll shorten the coils life.
+&amp;#x200B;
+I did some research on my mod and I think it's because of it and not the coil.
+One video i watched said it's better for higher watt coils.
+I have the vaporesso polar.
+I too have the Polar.
+Actually using the Mesh Pro on it currently.
+It works fine at lower wattages, but without the new Firmware update it has an issue with a locked preheat.
+It does fire a bit harder than it should with that preheat.
+New firmware I think fixed this (Using Ver 1.04, can find it when you turn off your mod)
+So I just checked and mine is using Ver 1.02.
+How do I update?
+I've had the hardest time educating myself in this vaping world and I've been vaping for almost 2 years.
+:(
+- Gonna have to go to Vaporesso.com &gt; Support &gt; Downloads &gt; and find the Polar Firmware kit
+
+- Install the Firmware software and run Vaporesso_V2.7 in the Release folder of the newly installed files
+
+- Remove batteries (I know the included tutorial says otherwise, but it doesn't work and tried a lot of different things to get it to work.
+Not sure what u/VaporessoOfficial is doing differently in the manual but I literally just upgraded to 1.05 this way), plug in mod to laptop and press the fire button.
+Should say it is connected sucessfully now.
+- Choose sfupdate and find the file labeled Polar_Ver1.05_20180718.bin in the extracted zip folder from the website in the ROM_SPCBAT18 folder.
+- Click update and wait until it finishes before unplugging
+
+There's some conflict to get it to boot from USB when there are batteries in the device.
+It seems to only want to charge and the PC will not recognize it.
+This is with a known USB Data cable.
+Awesome thanks I'll try that tonight when I get home.
+I really appreciate your help.
+I followed your directions to the key, and it came back with Err11:USB SendData fail-Overtimer.
+Have you ever encountered that before?
+Just kidding I put the batteries back in and it's updating now lol weird but hopefully the software update will help my issue.
+Good :)
+
+Summary: 
+I too have the Polar.
+I have the vaporesso polar.
+I really appreciate your help.
+I did some research on my mod and I think it's because of it and not the coil.
+I prime them before use and use it at like 60.
+Actually using the Mesh Pro on it currently.

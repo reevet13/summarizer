@@ -1,0 +1,15 @@
+Original Response:
+Are white surfaces and yellow surfaces scientifically similar in some way? Is it just that humans have trouble distinguishing between the two?
+There are probably several answers, depending on if you use physics, or color theory to explain it.
+
+I would say it's because there is so little contrast between the two colors. You have to balance contrast and brightness since one does not necessarily imply ease of view. Black and yellow has quite a lot of contrast, but looking at that would strain your eyes just as much as yellow and white. Yellow in normal light is more luminous to the eyes, whereas green is more luminous in low light, due to the [Purkinje effect](http://en.wikipedia.org/wiki/Purkinje_effect), which is a shift in luminous sensitivity.
+
+That's why black text on a neutral background is much easier to view. It has sufficient contrast but both colors aren't very luminous, like white and yellow are.
+
+If someone has a more physics-centric explanation I'd love to read it.
+&lt;pure speculation&gt;
+Since the red and green receptors in our eyes are much more sensitive than the blue receptors, and yellow light activates the red and green receptors, wouldn't this explain why yellow seems close to white?  The only difference is that the relatively weak and insensitive blue receptors are not being activated.
+&lt;/pure speculation&gt;
+
+Summary:
+It has sufficient contrast but both colors aren't very luminous, like white and yellow are.

@@ -1,0 +1,25 @@
+Here are the selected sentences:
+
+First, it's dominant alleles. We all have the same genes, but different versions of those genes. Second, because the alleles giving us brown eyes are dominant, it means only one copy of that allele will produce brown eyes. So if someone has brown eyes they could have one brown eye allele (let's cal it B) and one "other color" allele (let's call it b). If two Bb people hook up there's a one-in-four chance that any one kid will have not-brown eyes, as that kid will have two "b" alleles for that gene.
+
+Some of the confusion about this may be that "dominant" in the genetic sense, does not mean the same thing as "selected for". As long as the presence of the allele doesn't adversely effect one's ability to procreate then there's a finite probability that that allele will propagate across generations. Dominant just means that the trait produced by that allele only needs one copy of the allele so that it will be expressed.
+
+No. Because when alleles mix they are not inextricably altered, a person with both a dominant and a recessive allele is able to pass on either allele to his progeny with an equal probability. Unless society selects for one of the alleles, meaning people will be more likely to mate with a person with a certain phenotype thus decreasing the total frequency of an allele, then the relative concentrations of dominant and recessive alleles will remain the same.
+
+Also, there are quite a few homozygous dominant, embryonic lethal alleles, that coincidentally are closely linked with other phenotypic traits.
+
+But with a recessive allele you need two to show the phenotype. Doesn't this mean the recessive alleles will become progressively rarer over time, or should the occurrence of the recessive phenotype stay the same if we ignore sexual selection?
+
+No, allele frequency is not a function of whether they're dominant or recessive.
+
+Yeah, kinda, if you just mean the principle that you always expect a nonzero fraction of homozygous recessive genotypes (i.e. individuals who express the recessive phenotype) *if the population is at equilibrium*, but sexual selection is just one of several forms of selection and other forces that cause disequilibrium.
+
+Wanton speculation, but sexual selection seems the most obvious cause of selective pressure if we're talking about eye, hair, and skin color among humans, what with vitamin D supplements and sunscreen.  But you're quite right.
+
+The allele itself isn't lethal, but having two copies of it is. So it's dominant for its original trait, but recessive for lethality.
+
+I think you mean Mendel, not Darwin
+
+No. Dominant genes don't get passed on more, they just get expressed more. We have to distinguish between genotype (the genes you get from your parents) and phenotype (the traits that those genes result in). You can have mixed genes and thus display the dominant trait even though you will pass on each gene equally often.
+
+If you want an example to think about concerning this idea, consider deadly diseases. Genetically inherited diseases can be either dominant or recessive, just like many other traits, and if you look at which diseases remain in a population, you'll probably find that recessive ones will be more likely to persist.

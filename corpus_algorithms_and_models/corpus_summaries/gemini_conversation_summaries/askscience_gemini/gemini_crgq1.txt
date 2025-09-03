@@ -1,0 +1,2 @@
+The physics in the lectures is stable, since it's freshman level physics.
+However, Newton's laws, quantum mechanics, and electromagnetism haven't changed recently, so need no update.

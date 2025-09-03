@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+I opened up the computer to check the battery and found the ribbon cable connecting the power button to the motherboard has come detached. Put it back in place, and now we’re up and running again!
+
+My roommate just got a job in IT, and loves messing with computer stuff. I was complaining about a sluggish laptop, and he asked me if I wanted him to “tune up” my laptop. I said sure (that was fucking stupid).
+
+I don’t have a clue what he did or how he got to disabling buttons and keys and shit, but he someone got the main power button disabled. He also left the laptop sitting out overnight without a charge without turning the switch back on.
+
+Any ideas?
+
+Edit: the laptop is a Dell Inspiron 13 7000 series; Reg model: P69G
+
+The charging led indicates charge when you connect power cable? Power button is not configurable, possible your PC is "hang".

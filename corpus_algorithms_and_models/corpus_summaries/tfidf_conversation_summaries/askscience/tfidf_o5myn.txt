@@ -1,0 +1,105 @@
+Original Response:
+I just got a new coffee maker that I keep at work (lab) and it's got a bunch of settings for varying the strength of the brew. I'm interested in putting it to the test to see how much stronger/weaker the coffee actually gets (wrt caffeine). 
+
+I was thinking I could take samples from each strength setting on my coffee maker and then measure the intensity with a spec. I know the actual strength is going to depend on the beans but we always get the same stuff in my lab so I'm interested in figuring out the relative strength. I'm content making the assumption that caffeine is linearly related to the absorbance, so all I'm not really sure about is what wavelength I should measure at. Any thoughts?
+
+ 
+EDIT: Since its come up a few times, I'll mention that my lab deals primarily with the mechanical side of medical device development and some surface modification. That said, I don't have the equipment to do any extractions. All I've really got to work with that seems relevant is a spec. I was kind of hoping (assuming) that solubility rates would be linear and consistent across the board, so all I'd need to do is dilute down a few samples and take some quick measurements. Does anyone know how poor of an assumption this would actually be? 
+
+Also thanks everyone for your great input!
+Neat question.
+
+According to [this paper](http://pubs.acs.org/doi/pdf/10.1021/jf011702q), they tested absorbance of ~~240~~ 280 nm light and it decreases as the roast darkens.
+I like this question a lot!
+
+[Here's a website](http://web2.slc.qc.ca/jmc/w04/caffeine/the%20caffeine%20on%20the%20web.htm) that performed a similar measurement.  They did calibration measurements for various caffeine concentrations to establish a baseline, and it looks like they were seeing caffeine absorption in the 225nm - 350 nm range ([seen here](http://web2.slc.qc.ca/jmc/w04/caffeine/The%20Caffeine%20on%20the%20web_files/image008.gif)).
+
+Good luck!  You should definitely post a follow-up if you go through with the measurement.
+I think you mean 420 or 280 nm? Various wavelengths were mentioned - 200, 280, 420, and 734 nm. The main ones being 280 and 420 nm.
+With [iorgfeflkd's](http://www.reddit.com/r/askscience/comments/o5myn/what_wavelength_should_i_measure_the_absorbance/c3ejx2w) and [thetripp's](http://www.reddit.com/r/askscience/comments/o5myn/what_wavelength_should_i_measure_the_absorbance/c3ek1ff) answers, there isn't too much for me to add, except to choose your extraction method **very carefully**. Many - and I mean _many_ - aromatic compounds in coffee absorb in the 200 - 400 nm range.
+Yeah 280. They also did 420 but the results didn't show a trend.
+I had a great moment some time ago when a friend (self-described manly man) poked fun at me for drinking lighter roast coffees. His argument was more roasting was more manly and resulted in a more caffeinated brew.
+
+He was deflated to learn that the darker roasts have less of the drug.
+It would be quite helpful if his lab had an HPLC. That would be perfect for separating out the caffeine and measuring only its absorbance.
+Most modern spectrophotometers have a scan function that will take readings across a range of wavelengths, for example 200-600 nm, and then produce a print-out.  The peaks on the print-out represent the wavelengths at which the solution has the highest absorbance.  Some solutions may have only one peak, while others may have two or more.  Anyway, do a spectra scan and pick the wavelength that produces the highest absorbance, that's a good starting point.  Full strength coffee is pretty dark, I'd recommend starting with a diluted solution because you don't want to operate above the linear range of the spec.
+
+Edit:
+
+You will get a plot something like this: http://i.imgur.com/dVeti.gif
+
+In this case for beta carotene, a good wavelength to start with would be ~425nm
+Also start by defining strong - caffeine content or flavor?
+Yeah I don't think you could use a spec for direct measurement of coffee to get any kind of reading on caffeine. There might be a loose relationship between the color of coffee and its potency, but I highly doubt it would be linear.
+You are only measuring caffeine, right? I strongly suggest you do some sample prep first. Raising the sample pH and extracting into methylene chloride or something like that is probably the way to go; that'll lose a lot of the impurities, which are largely acidic while caffeine is basic.
+you will have a problem down at 280 nm with a 10mm cuvette. transmission will be very low and a quartz cuvette will be needed, probably a 1mm one. Water absorbs 280 pretty well, so you need to go further into the visible spectrum. futhermore, depending on the lighting setup (deuterium or xenon or halogen bulb) you should be careful about where in the spectrum you are analyzing (keep the SNR noise ratio as high as possible).
+
+you are better to go up to a higher nm and dilute the coffee to figure out a transmissive range for the testing.
+
+or you can do a multivariate correlation (PLS) between coffee preference with a rank scheme and the multiple wavelength tranmission, which would personally be my way of doing it (including standard variable selection and cross validation).  it could be done with 50 volunteers in a double blind setting, the variable would be coffee brew time, say 10 different brew times(or maybe even do time*temperature!), and you would present the coffees randomly in opaque insulated containers. retain a sample of each brewed pot for spectrometric analysis after the fact once it cools to room temperaure.
+
+what you would be seeking is a PLS latent vector that is positively correlated with perceived coffee quality and corresponds with a previously identified spectral signature in the coffee itself (ie some flavour compound). there would also likely be some compounds that negatively impact coffee preference, and these could also be confirmed. the magnitude of the latent vector should be quadratic with respect to the brewing time (brew too long and the compound is destroyed, brew too little and none is extracted, brew just enough and get maximum results).
+
+the follow up experiment is to isolate the compounds (not easy), and create synthetic coffee which incorporates the optimal concentrations you discovered. double check the concentrations against the previous experiment and perform the same 50 person experiment to see if your synthetic coffee is as enjoyable as the real stuff!
+
+if you have succeeded, they you might stand to make some money from larger flavour producers or food corporations .
+My wife just suggested that you try using decaffinated coffee, with various added amounts of no-doz tablets. That way you could test which wavelength is most appropriate for use.
+Unfortunately we don't. We're primarily working on medical device development (pumps and oxygenators) so the spec is as much as I've got to play around with the idea
+I suppose both. I don't have the equipment to extract the caffeine though, so I'm pretty much limited to using just a spec
+By strength, do you mean taste or caffeine? You mention the latter, but I think the most significant difference would probably come in the former.
+
+For the purposes of your experiment, and given the assumption you say you're happy with, I don't think the wavelength matters all that much.
+
+As I understand it, you want to use a single water supply a single supply of beans/grind with a single machine on different settings to compare how much of of the caffeine are extracted based on the assumption that absorption of some color of light goes linearly with the caffeine concentration.
+
+The "right" way to do it would be to find a peak in the absorption spectrum of caffeine that isn't near one of any of the other constituents, but I think the best candidate is well into the UV, so you need to work in the right kind of lab to be able to do this.
+
+However, I think a pretty good first order approximation could be made using any wavelength in the visible spectrum or just a halogen lamp. As coffee is brewed stronger (usually meaning stronger taste, not necessarily stronger caffeine) it gets darker to the eye. Where this method would fail is if you care about caffeine (and not taste) the caffeine extraction rate is significantly different from the extraction rate of whatever makes coffee(drink not beans) dark.
+
+Now I read that you have some real kit to test this out with; I was thinking it would be a homebrew (*rimshot*) experiment. If you can get signal, work between 200 and 300 nm. To test how well it's working and to baseline, get some trucker pills and dissolve them in water first.
+
+Very interested in the results of your experiment!
+[deleted]
+Most aromatic compounds absorb strongly at 280 nm.  Aromatics compounds were named as such because of their strong smell, so measuring at 280 nm measures most directly the concentration of chemicals that contribute to smell, and therefore taste.  
+
+Source:  I'm a protein chemist, we measure protein concentrations at 280 nm because the aromatic amino acids absorb strongly at that wavelength.
+If you have access to a triple quadrupole mass spectrometer, you could do  [SRM-assays](http://en.wikipedia.org/wiki/Selected_reaction_monitoring), following nanoLC separations, on prepared/processed coffee samples to determine the relative/absolute amount of caffeine in each sample; if that's what you mean by strength. 
+
+EDIT - come to think of it, caffeine is a [variant of a] purine, so would probably absorb strongly at [200-300 nm](http://chrom.tutms.tut.ac.jp/JINNO/DRUGDATA/02caffeine.html).
+
+Also, see [Belay *et al.* (2008) *"Measurement of caffeine in coffee beans with UV/vis spectrometer"*](http://www.sciencedirect.com/science/article/pii/S0308814607010308)
+If he has access to a spectrophotometer he can run an automated test to find the peak wavelength. Then you can compare that to a blank sample (water). In all honesty, you really have to take absorbance readings of known coffee strengths and create your own calibration curve for that particular machine and type of coffee. I really wouldn't trust values from a paper as they may have variables you do not know ( coffee type, whether the blank used was tap or distiller water, what type of machine they used ect.)
+If you want to get an accurate measure of just caffeine content you should use an LC or HPLC. Most of the compounds in coffee will have broad peaks in a spectrophotometer which will interfere, but if you spike the coffee with some dissolved pure caffeine you can get a very accurate idea of where it elutes. That said if you want to get an rough idea of "strength" a spectrophotometer would be fine.
+Wouldn't 420 be for a different psychopharmaceutical?
+Also if he was willing to destroy his HPLC by running something like coffee through it...
+This would have been an awesome idea for the [askscience fair](http://www.reddit.com/r/asksciencefair), maybe you can still squeeze it in?
+He could get nearly pure caffeine pills to get a good baseline.
+This may be inappropriate, but I like the way your wife thinks.
+Aromaticity, even when the term was first introduced in the 1850's is not linked to the smell of the molecules. 
+
+http://en.wikipedia.org/wiki/Aromatic_compounds#History
+
+Terpenes, think terpintine, have very strong odors but they themselves are not aromatic. In a chemical sense an aromatic molecule is one which satisfies three conditions; follows Huckel's rule, cyclic and flat, every cyclic atom has elections contributing to the pi system.
+
+It's these pi system electrons that leads to the absorption of aromatic compounds.
+Hehe, me too.
+
+She's recently been awarded her PhD in pharmacometrics, while I'm still waiting for my thesis to be examined. I was still impressed by her suggested use of the scientific method though!
+Density?
+
+I don't know if the difference between coffee and water is significant, but I expect coffee strength to be correlated with total dissolved/suspended matter. Also I don't know if running dirty stuff in your density meters can be good.
+This sounds like something that would make a great science fair project, actual or virtual!
+The problem is that even decaf coffee has some caffeine, although at a lower rate. Different brands and decaffienation methods result in different amounts of the drug, too. You'd have to make a large batch of decaf with some standard directions, mix it and and make sure it was the proper temperature, then divide it up. But you'd probably get slightly different results, so replication will be really important.
+
+Summary:
+I think you mean 420 or 280 nm?
+Yeah I don't think you could use a spec for direct measurement of coffee to get any kind of reading on caffeine.
+Most aromatic compounds absorb strongly at 280 nm.
+You are only measuring caffeine, right?
+That would be perfect for separating out the caffeine and measuring only its absorbance.
+That way you could test which wavelength is most appropriate for use.
+That said, I don't have the equipment to do any extractions.
+I don't have the equipment to extract the caffeine though, so I'm pretty much limited to using just a spec.
+I like this question a lot!
+By strength, do you mean taste or caffeine?
+If you want to get an accurate measure of just caffeine content you should use an LC or HPLC.

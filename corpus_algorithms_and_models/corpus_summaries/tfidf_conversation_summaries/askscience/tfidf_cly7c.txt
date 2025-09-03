@@ -1,0 +1,52 @@
+Original Response:
+So I personally believe that one day robots will be able to have emotions. I don't mean that you would write to a chat robot "you suck" and it would say "that hurt my feelings". I mean genuine emotions that are generated based on the summation of past experiences. I know that some robots can do this in a basic sense but do you think they will ever be able to do it as uniquely as humans. If so how long do you think before they can? I am new to reddit so maybe this isn't the right space to be asking but I guess we will see.
+You can emulate animals, which have emotions. You can grow ALife critters which have emotions.
+
+You will not be able to code AI from scratch which can get angry at not being able to tie its own shoelaces.
+when you say "not be able to tie its own shoe laces" what do you mean by that?  couldn't you code something to start out with minimal thought process and motor abilities slowly unlocking certain areas through repetition and time?
+Do you mean "you" specifically or are you implying that the mind can't be modelled?
+In my opinion, the question is flawed:
+
+Future (and current) robots can and will show complex *non-*human emotions.
+
+Emotions can be considered a conditioned affective response, with certain mental and physiological effects. For instance, a person will be able to discern motion in a dark room better when fearful than when calm, because the pupils dilate and the brain is primed for threat detection (e.g. motion).
+
+This fear response is more-or-less built-in, and all emotional responses are a combination of essentially built-in hardware, and acquired/learned behavior. Triggers which elicit emotions are also a combination of nature and nurture, so to speak.
+
+Emotions exist to help us thrive in an evolutionary sense, biologically and culturally.
+
+There is no reason that sufficiently complex artificial (robotic of software) agents wouldn't benefit from a similar system. The similarity between their emotion system and the human one should be dependent solely on the similarity of the problem domain the AI faces. If that domain closely resembles that which us humans face, including a large portion of interpersonal communication with humans, modeling human behavior to predict responses as most people do, etc., then I'd expect their emotions to be very similar, indeed!
+
+Then there are questions raised by things like Asimov's Three Laws, and whether emotional beings with a sense of self-preservation can function within such a system, etc., etc., but in the end it's all dependent on the particular implementation of the agent, and I see no reason why robots would be *in principle* unable to show the same complexity of human emotions.
+&gt; couldn't you code something to start out with minimal thought process and motor abilities slowly unlocking certain areas through repetition and time?
+
+In my educated opinion, absolutely not. Human designers have a complexity ceiling well below of what such a seed threshold is.
+Then ultimately the question boils down to this:  Is there any differentiating factor between the emotions we show and the emotions a robot could show other than the level of complexity of said emotion.  If it is a level of complexity issue than a robot could do it eventually with enough programming from enough people.
+
+So on a side note I was thinking about this question last night and it lead me to another question:  Is there a finite amount of ways we can react to a stimulus?  For example, lets say someone punches me in the face.  Is there an infinite amount of ways I can react (mild rage, extreme rage, horniness, depression) or only a finite number.  Are we like an analog input (a record) who can only be aproximated (a cd) or are there a finite amount of ways we can react?
+Hym.  Interesting.  So you are saying there is a limit in our ability to understand and recreate aspects of the universe?
+Ability, no. Human ability, yes. It comes with being a bipedal primate.
+
+Probably not a good idea on the long run.
+I believe robots will eventually be able to do anything humans can do, including showing emotions. Unless we find a clever way to do it (which we probably will) we'll have to simulate a human brain to sufficient detail to capture its function. I'd say we need at least 30 years before we have that technology sufficiently miniaturised to put it in a robot. 50 years tops.
+My concern is funding for robot emotion development is driven by some of the nastiest / fearful humans alive ( Cheney etc.. )  
+I hope the robots are smart enough to act more humanely than the militarized personalities that bring them into being.
+I'm very skeptical of this claim.  Could you provide more information, and a little insight into your education?
+&gt; I'm very skeptical of this claim.
+
+You're welcome to empirically falsify it.
+
+&gt; Could you provide more information, 
+
+As someone who's participating in very complex projects (e.g. in IT) and how adding more people impacts the projects.
+
+&gt; and a little insight into your education?
+
+I have a degree in chemistry, work in IT and am self-taught.
+
+Summary:
+I believe robots will eventually be able to do anything humans can do, including showing emotions.
+So I personally believe that one day robots will be able to have emotions.
+I know that some robots can do this in a basic sense but do you think they will ever be able to do it as uniquely as humans.
+&gt; and a little insight into your education?
+If so how long do you think before they can?

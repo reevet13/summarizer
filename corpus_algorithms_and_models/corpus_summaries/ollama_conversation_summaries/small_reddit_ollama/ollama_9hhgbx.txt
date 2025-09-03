@@ -1,0 +1,14 @@
+Here are some sentences copied verbatim from the original text:
+
+* "Most galaxies revolve around a MASSIVE black hole."
+* "That being said, all of the matter is usually collected inside the center of a galaxy. A good example to think of is Saturn. It isnt spinning fast enough to do anything, but stuff is spinning around it fast enough to make rings."
+* "The reason it commonly happens to solar systems and galaxies and stuff is because there is lots and lots of space between stuff."
+* "It would seem that way, but remember that since since all of those smaller objects end up colliding and coalescing into much larger ones. Even though they may be rotating along various axis to begin with, their combined momentum once condensed into something the size of a star or planet will average out to be along the axis with the most rotation."
+* "There is some variation, of course, which is why galaxies are more like pancakes than pieces of paper."
+* "Another fun fact is that all planets are orbiting around the sun in the same(counter clockwise) direction"
+* "Supposing this is as viewed from 'above', can we not view it from 'below' to see the direction reversed?"
+* "As far as I'm aware there's nothing special about up and down in space, so what's important or special about counter clockwise?"
+* "The counterclockwise rotation is based on the '[Right Hand Rule](http://physicsed.buffalostate.edu/SeatExpts/resource/rhr/rhr.htm)', specifically #2 of angular momentum, which makes it easy to visualize."
+* "Maybe this boils down to semantics, because I'd argue that rotation is determined by observation only until we have more information."
+* "The numbers only apply in a certain reference frame with a given coordinate system though, these choices are totally arbitrary."
+* "But somebody 'above' the sun can make one set of measurements and use the right hand rule to find one direction of rotation, and someone 'below' the sun will make the same measurements and calculations to find the opposite direction of rotation - because all of their measurements will have an extra minus sign somewhere."

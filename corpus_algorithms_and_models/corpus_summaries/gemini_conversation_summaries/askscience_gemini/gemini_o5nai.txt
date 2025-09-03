@@ -1,0 +1,6 @@
+The Earth is a super magnet.
+If the Earth were surrounded by water in the atmosphere, would the water repel the magnetism of the Earth?
+The effect on the Earth's magnetic field would be pretty minimal.
+You mentioned the Meissner effect in your original question.
+Whatever tiny effect there would be, it'd be most noticeable near the poles, since the magnetic field is more intense there.
+If you wanted sufficient repulsive force to double the atmospheric pressure, you'd need a magnetic field billions of times stronger than the earth's magnetic field.

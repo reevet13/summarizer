@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text or up to 250 words:
+
+In physics, when an object is moved further from another, it is said to gain potential gravitational energy (E = mgh) and the universes expansion increases the distance between objects, doesn't this give them energy? Where does this energy come from?
+
+I know that the objects in question cannot said to have undergone motion but it doesn't change the fact that they are further apart afterwards.
+
+Yes it does, but it should be negligible because the galaxies that recede from each other are not gravitationally bound. They are so far away, they don't feel each others presence.
+
+Regarding the conservation of energy: It does not hold on cosmic scales. And we don't expect it to, since there is no time translation invariance. Due to the expansion, the laws of physics depend on time, so to speak.

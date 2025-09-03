@@ -1,0 +1,573 @@
+Original Response: 
+Another example:
+On a warm day, if somebody blows on your face your face gets cold/chill.
+Two words: evaporative cooling.
+EDIT: [source](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/sweat.html)
+[removed]
+What is it evaporating if the body isn't sweating?
+[removed]
+Your skin cells are filled with water so your skin/body is much more humid than the air around it.
+Evaporation (diffusion) still takes place even when you aren't actively "sweating" (its why you get dry skin in winter)
+It's not entirely due to evaporation.
+The air is replacing the air that your body heats around your body.
+[removed]
+Agreed.
+I'd say that this (convection\conveyance) is actually a bigger factor a lot of the time than evaporation (esp when you aren't sweating much).
+Not *visibly* sweating?
+[deleted]
+It's simply taking heat from your body whether that's direct body heat or cooling from the sweat your body makes as a result of it being hot.
+Think of it like this, people can get hypothermia even in tropical waters over 90 degrees if they stay in it long enough.
+Physicals will even out the imbalance of heat regardless of whether or not your body is sweating.
+[removed]
+This is explaining how your body is able to cool even if the temperature is higher than your body temperature.
+However OP was asking why we feel colder specifically when it's windy.
+Gases are very bad at conducting heat, because of their low density - air molecules interact at a low rate and because of that, temperature spreads (or dissipates) more slowly compared to solids or liquids.
+Your body on the other hand will very quickly heat the layer of air directly covering your skin.
+Without wind you are basically sitting in your own bubble of warmth.
+When that layer of air gets constantly replaced by wind, a steeper temperature gradient is maintained.
+With warm wind, a related effect gets important: when sweating, the air layer around your skin is quickly saturated with water, thus exchanging that layer helps your sweating.
+Similar to how it is harder to sweat in a tropical climate with high humidity which will generally feel worse than dry heat.
+This only works to a point.
+I was driving through Death Valley, about 111 degrees F, going about 50 mph, and you could only hold your arm out the window for so long before the burning became unbearable.
+I did this several times cause it was weird.
+I believe it's also how windchill works.
+&amp;#x200B;
+
+[Explanation](https://en.wikipedia.org/wiki/Wind_chill#Explanation)
+&gt; Wet suits are designed to hold a small layer of water between your body and the suit
+
+Sort of...
+The wetsuit itself becomes the layer of water, as it's porous (basically a sponge).
+It eliminates convection against your skin, and reduces conduction depending on how thick the neoprene is.
+The layer of water between the suit and your skin is negligible unless your suit doesn't fit well.
+[removed]
+you are sweating nearly all the time.
+Even at 20C, if you look at the pores on your fingers under a microscope you’ll see microdroplets of sweat that evaporate quite quickly.
+It’s a balance of all these properties en mass.
+It's like blowing on someone on a humid sauna, it feels way hotter than the air feels if you're just sitting there.
+This small fact is so underrated.
+You’ll suddenly understand so much more if you understand this.
+It causes evaporation of sweat on your skin.
+The phase change from a liquid to a gas absorbs energy in the form of heat (from your skin) so it cools you off.
+It's why you sweat, and also why very high humidity makes you feel so much hotter (less water evaporates off your skin when the air is saturated with moisture).
+That actually makes sense a lot.
+I thought that it has to do something with sweat because we always feel the temperature of liquids with more intensity.
+Say, when we go to a swimming pool, eventho the temp of the water is 28°C, we still feel like it is cold.
+That's because water is much better conductor of heat.
+The temperature of air or water isn't the temperature you feel, you actually just feel the temperature of your skin.
+Since air isn't a very good conductor of heat, it doesn't feel as cold as water.
+If you stick your warm hand in a pool, the water will cool it down much faster than air at the same temperature.
+[removed]
+That's the main reason, yes.
+A secondary reason is that even when it's warm, the air is still likely at a lower temperature than your skin, so even without evaporation you'd get cooled down by increased airflow.
+If the warm air causes evaporation of the sweat then it is the air who’s supplying the energy, not your body.
+I don’t get what you’re saying.
+It's more the movement of air over your skin making it easier for the sweat to evaporate.
+https://en.m.wikipedia.org/wiki/Vapor_pressure
+
+If you look at the red dots, you can sort of think of the phase change as diffusion, except there's an equilibrium where there's a lot less water in the gas phase than the liquid.
+If there's a breeze, you get a local drop in vapor pressure (less dots in the gas phase) so more water needs to enter the gas phase to restore equilibrium.
+The phase change still requires energy, though, and it takes that energy from your skin.
+[removed]
+Yeah, water transfers heat something like 20x more efficiently than air.
+But even without water, the effect is still noticeable with enough wind, as long as it's cooler than your body.
+I have a motorcycle, and without a windproof jacket, anything below 75F (24C) is uncomfortable.
+Conversely, when it's more than 95 or so out (35C), it doesn't matter how fast you go.
+At 100+mph, it's still like riding in a furnace.
+That’s not the entire story though, you still feel cold even if you are not sweaty, and the reason is the wind is dislodging that fine layer of warm air on your body kept like that by your body heat (usually captured by body hair)....
+Why does the wind facilitate the evaporation?
+Why doesn't the wind just blow the sweat around on your skin?
+Does it have something to do with the wind increasing the surface area of the water on the skin allowing for evaporation to occur more quickly?
+[removed]
+To add to this, air is a pretty good insulator.
+That's why double pane windows work to keep cold from seeping in through glass windows (or actually the heat inside escaping).
+There is a layer of air between the glass working to insulate your house.
+And so your body warms up the air around you, and it can't get far.
+But then the wind blows it away and there is new air to warm up.
+Also, if the air is cooler than your skin’s surface temperature, the heat transfer due to convective cooling increases with wind speed.
+The above description would imply that computer fans need components to be wet to work.
+Air doesn't hold a lot of hear energy so you have to move a larger amount to effectively reduce temperatures.
+Ah, this explains how the double-walled vacuum sealed water bottles insulate so well.
+Is there anything special about the air in between the two walls?
+Or is it just trapped air?
+if you want the science words to google:
+
+* forced convection (what it's called when you're cooling/heating something with a moving fluid, especially look at what a *heat transfer coefficent (HTC)* is)
+* hydraulic/thermal boundary layer (BL) (the region in which the heat transfer effect occurs.
+The *Dittus-Boetler* correlation is a famous correlation between BLs and HTCs)
+* Laminar vs Turbulent BLs
+
+If you _really_ want to learn more, any intro to/fundamentals of heat transfer textbook worth its salt will have at least a chapter on forced convection.
+You can usually find free PDFs of good textbooks around the interwebs if you know where to look.
+[removed]
+That and most warm air around us is still cooler than 96.8 deg (human temp).
+Anything cooler than us will make us feel cooler.
+Keep in mind that what you call warm is still well under average body temperature and anything cooler than us will make us feel cooler.
+Most dual pane windows use Argon between the panes, not air.
+Argon’s thermal conductivity is much less than air, so you get something like 6x better insulation.
+I live in Phoenix, and while a breeze is always welcome when the temperature is too high (95+ like you said) it's no longer helpful.
+[removed]
+It’s usually an inert gas like Argon, which insulates even better than air.
+In water bottles, usually made of metal or plastic, the vacuum insulates even better than argon.
+However, using a vacuum between panes in a window would make it very easy to break the glass so they use a gas instead.
+[removed]
+Absolutely correct.
+We can actually crunch both reasons together as well.
+Because when you're sweating that warmer layer of air is also quite moist.
+So when wind comes and dislodges it there will be dryer air put in it's place.
+Those vacuum sealed water bottles work so well because heat needs a medium to transfer through.
+If there is a vacuum between the two walls then there is nothing to conduct the heat and your beverage stays warm or cold.
+Yup!
+Stick your hand in your freezer.
+It’s cold, but not as cold as sticking your hand in 32F water.
+Same temperature, higher delta Q (heat energy).
+Yes, was hoping this was here too.
+There is a heat point when the wind no longer cools you.
+Maybe above the body temperature I suppose?
+Yeah, at that point, I don't even wish for shorts and a wifebeater anymore.
+Having done it in the past, pants and a riding jacket is actually cooler than bare skin.
+Well, heat may still be transfered by radiation, so even vacuum wouldn't be the absolute insulation.
+[removed]
+A layer of air on a vertical surface has an r value of around 0.68.
+Not a lot but also not insignificant.
+When the sweat evaporates off of your skin, it goes into the air immediately next to your skin.
+As a result, that air can’t hold as much water as it could before, so its cooling potential is lessened.
+A breeze continually moves that humid air away from your skin and replaces it with drier air, keeping the evaporation going.
+[removed]
+[removed]
+Also why your clothes keep you warm, and fluffy stuff works even better.
+They are increasing the thickness of the boundary layer.
+Conversely, why a top wind breaker layer is important.
+It prevents
+ the wind from pulling that warm air out of your nice thick boundary layer.
+Speaking of sweating and humidity, as other mammal species don't sweat, does humidity affect them at all during a hot day?
+Does wet heat feel hotter to them too?
+Since we now have at least three stories to this, the proper scientific answer would be to estimate how much they each account for in terms of energy.
+What about the sun?
+Energy transferred by the Sun is done by radiation (such as light) and not by conduction (transfer by physical contact)
+Energy can travel as radiation (light) through a vacuum which then gets converted to thermal energy (heat) when it hits something.
+True, but that doesn't *seem* like it would be a huge contributor.
+But apparently I'm a huge nerd, so....
+I used the calculator [here (WARNING: Excel DL)](http://minerva.union.edu/hollochk/c_geochemistry/other_programs/black_body_radiation.xls) and plugged in 400 K, which is 127 degrees C.  VERY hot coffee.
+It gives a total radiant power of 1450 Watts per square meter, which is actually a lot higher than I thought it would be.
+I have a moderately big bottle of Gatorade on my desk and a tape measure in my pocket, and I ballparked the area at about .06 square meters (30 cm circumference, 20 cm height, I assume the slant of the bottle cancels out the bottom.
+Talking about orders of magnitude anyway so....¯\\\_(ツ)_/¯).
+.06\*1450 = 87, so we're looking at about 87 watts of heat put out by our lawsuit-worthy coffee.
+Going further, my bottle says it holds 946 mL, which I'mma call 1L.
+Specific heat of water is about 4 J/mL/deg, so to drop 1 degree, we gotta drop 4000 J.
+Let's say we're only radiating at 80W; that would mean that it only takes 50 seconds to radiate away 1 degree!
+That's a LOT faster than I would have thought, a whopping 72 degrees in an hour!
+Now obviously there's a lot of napkins involved here; it's hard to even know what the biggest handwave is.
+The inner chamber surface area could probably be off from what I calculated; who has a 1L thermos, anyway?
+I didn't even look at radiant heat from the environment, which will be considerable, given that room temperature is 3/4 our coffee's temperature.
+And of course as it cools, the rate of radiation falls.
+Well, one of these can be handled easily; 300 K in the spreadsheet gives 459 W/m^(2), meaning that we should just go ahead and use 1000 W/m^2 in the calculations above.
+A drop of 1/3 in radiation translates to a 1/3 drop in the temperature loss, so we're down to 48 degrees per hour.
+Still a lot, but not quite as insane.
+So yeah, I guess the moral of the story is that if you try to keep something piping hot for much longer than it takes to drink, you're gonna have a bad time.
+Not only would it make them easier to break, but it would also impart force on the shards of glass once the window is broken, due to the vacuum collapsing as air rushes in to fill the void.
+It "could" turn a normal broken window into a omni-directional spray of broken glass.
+[removed]
+These heat transfer comment chains always go this way.
+Let’s take a double metal walled coffee cup that has styrofoam between the walls.
+That’s going to be pretty good insulation.
+And your coffee is going to stay pretty warm.
+An improvement is just an air gap.
+Why?
+Because you are eliminating conductive heat transfer through the styrofoam.
+With an air gap you have only convective heat transfer and radiation.
+Now, Argon is better than air, because it’s less dense (making convection harder).
+And a vacuum is better than Argon.
+Because no gas at all means no convection.
+EDIT: The two paragraphs above aren’t quite right.
+Convection IS the word that describes transfer from a solid to a fluid.
+But it has been correctly pointed out that in still fluids and small gaps, they behave like conductors.
+So in the two walled coffee cup example, we are governed mostly by conduction.
+The gist of the points still stand: styrofoam worse than air which is worse than Argon, however.
+But here’s the thing - the jump from styrofoam to an air gap is a BIG improvement.
+The change to Argon or a vacuum is only a slight improvement over still air.
+If you put coffee in any of these three (still air, Argon, or vacuum) it’s going to be hours before your coffee is cool enough to drink.
+AND Argon and vacuum are both extra manufacturing steps.
+So you pay more for these but don’t GET much in return.
+And of course someone says radiation.
+While technically correct, the mass and temperature of your morning joe isn’t so much that you should worry, or even mention, radiation at all.
+You’re morning joe isn’t close to the temperature of the sun, folks.
+So while Reddit has this love affair with technically correct is the best kind of correct, it can also be misleading when SCALE is ignored.
+Rant over.
+Go find a cheap, double metal walled coffee tumbler and don’t worry about Argon and vacuums.
+That’s marketing.
+(I’m looking at you, Yeti and Starbucks).
+I’m pretty sure they use Argon in Windows  because it’s dry.
+Air has moisture, increasing the risk of condensation between the panes.
+Which doesn’t then easily go away.
+Who wants windows with a constant foggy layer?
+Wow, 48 degrees per hour actually seems way beyond believeable.
+Also isn't the rate of heat transfer a temperature-dependent value?
+I mean, the cooler the coffee, the slower heat radiates away?
+Edit: oh yes, that's what you actually said and considered.
+Still seems off.
+Okay, I'm not really a thermodynamicist or something, so you say that, should I leave my boiling hot coffee in a thermos for a day to cool down to room temperature, the radiation won't really contribute considerably to the process?
+Well remember, I'm actually also being a bit facetious; 127C is literally above boiling, and by a significant amount, in the realm of refreshing drinks, so yes, the radiation and so cooling rate will be much higher than you might expect for typical real world.
+A more reasonable 350K = 77C gives a net heat radiation of only 400 W/m^2, which translates to 20 degrees per hour.
+The big thing that's being glossed over at this point is the exponential slowing of cooling rate, which would take a little more than just algebra to deal with.
+[removed]
+[removed]
+Fair enough.
+Thanks for going out of your way to deliver some food for thought, much appreciated.
+[removed]
+Tell me that when it’s 100 out and on a motorcycle.
+Feels like you’re in an easy bake oven and you don’t even get the brownie...
+Have you considered that both of these properties of argon are a reason to use it?
+[removed]
+[removed]
+It will not.
+It certainly always happens, to be sure.
+I don’t want to give the impression it doesn’t.
+But the amount of heat lost due to radiation is a drop in the bucket compared to conduction (coffee to container to table it is sitting on) and convection (coffee to container to the air around it).
+Things are also misnamed.
+Your car has a “radiator” that cools your engine.
+But it’s not giving up heat (much) via radiation.
+It’s giving up heat through convection (a gas or liquid being the transfer component).
+When your car is sitting still, it is free convection.
+This means the gas or liquid is doing what it wants.
+When your car is moving or the radiator fan is running, it is forced convection.
+Now - let’s really blow your mind.....  you’re about to eat a most awesome grilled cheese sandwich with a bowl of tomato soup.
+Your soups too hot, but if you don’t eat it soon, you’re cheese will get cold.
+Should you stir your soup?
+The answer is maybe.
+See, stirring the soup will add kinetic energy to the soup.
+Which should heat it.
+But .... stirring it will ALSO aid the convection to the air from the surface of the soup being exchanged by stirring.
+Your bringing hotter soup to the top, and that temperature difference also plays into how much heat transfers.
+So .... slowly stirring your soup will add kinetic energy, raising the temperature BUT will aid convection at the surface, lowering the temperature.
+And the heat loss via the stirring through convection will exceed the heat gain by the kinetic energy of stirring.
+Now, if you observe this and decide your REALLY hungry and want your soup RIGHT NOW and your really want your soup cold and you realize stirring it cools it off, you may decide to go all in and stir with an outboard motor.
+You may find that you make your soup HOTTER.
+Because the kinetic energy of stirring via outboard exceeds the heat lost due to convection.
+Heat transfer class makes a lot of mechanical engineers rethink their career choice.
+It’s not the easiest subject.
+:-)
+[removed]
+That would lead to horrific accidents.
+Shuddering just typing that sentince.
+Thanks, that's some interesting stuff, I'll be sure to not use plane turbines to cool my soup as it will probably evaporate.
+[removed]
+I apologize, I’m not near my heat transfer book where I can look up the actual coefficients.
+But I googled a few sites.
+The problem is the convective coefficient depends on a few things such as pressure of gas, any flow, and even the actual temperature difference.
+So it’s not one number, but a range.
+Given this, I’m going to simplify ....
+If we call the heat lost through a pane of glass 100%, then the heat lost through a double pane window with air is roughly 2.5% of glass alone.
+And were we to use Argon it would be 1.3%
+
+Argon is clearly better.
+Half that of air.
+But, if I put all three next to each other and had you feel them, you’d probably say plain glass was bad and could not tell the difference between Argon and air.
+Again, my heat transfer background isn’t in gases, it’s been a while.
+But I do know a good bit about manufacturing.
+I could see (given Argon and air being so close) a window maker TELLING you it was Argon when it was just air.
+How would you even check?
+Both would feel MUCH better than what you are used to.
+But ... your air window would get that internal condensate (I have observed this myself in Windows).
+The thing I’m curious about - I could be an above board window maker and put Argon in there.
+How would I KEEP it in there?
+It’s a glass window with a plastic frame which is going to have different expansion rates (glass to plastic) with just day/night temperature changes.
+That’s seems like a hell of a seal to maintain ....
+
+We need us a dude in the trade.
+You all have exhausted my knowledge on the topic at this point .... ;-)
+[removed]
+I've ridden up to 115F in Vegas during the summer.
+Once you get past a certain point it feels like you're in a blast furnace while moving, and you're actually cooler when you stop and your sweat doesn't evaporate instantly.
+The relief is incredible.
+No, you should run with that.
+In addition to forced (aided by a fan, say) and free (just sitting there doing what it do) there is open (like a bowl or a river) and closed (like a pipe, or the AC in your home) systems.
+So we have now introduced you to four combinations.
+You take your plane turbine in closed pipe system and you could just pump your soup into your stomach.
+At that point, I’m not so sure the temperature would matter.
+It would get by your mouth so fast it wouldn’t burn it.
+(You can quickly tap a hot iron to see if it is on without getting burned).
+We’d need a biologist in here now to comment if we would “feel” boiling tomato soup in our stomachs.
+Not sure if there are nerve endings in there.
+Or, you could try it.
+:-) And report back.
+Here in Canada we even have triple pane.
+They're sealed between the pains, and usually have stickers on new ones indicating argon.
+The only reason you see moisture in a window is when the seal breaks and allows regular air in.
+Ultimately a vaccum would be the ideal choice I'd guess.
+[removed]
+The coffee cup itself is also radiating heat, which is absorbed by the coffee (and the other parts of the cup).
+And not all the heat lost via radiation from either is truly "lost" unless the container is 100% transparent to infrared as the heat radiates off in the infrared spectrum.
+So it's not as simple as "this is how much is lost per unit time" even assuming a linear rate of cooling.
+All the factors I've mentioned would slow the rate of energy loss from the coffee, so it'll be quite a bit slower than 20K/hour from just radiation.
+And another thought.
+...
+If you lose the seal on an Argon window, I can see it exchanging with regular atmospheric air.
+Especially if the window was at a lower pressure.
+Which would pull in whatever the current humidity was and condense on the inside.
+But what if you used dry air?
+(You’d dry it at the factory with a dryer).
+If that seal broke, would it exchange like Argon?
+Seeing as how air is air ... that may fair better long term than Argon.
+Again, I don’t know gases at all.
+We need a dude/dudette in the trade who knows the warranty data.
+I think it's important to mention that the reason wind causes evaporation of sweat on your skin is that it lowers the air pressure around the sweat.
+Moving air is at a lower pressure than still air, so when the wind blows over your body, the air pressure around the sweat is lowered, thus lowering the point of evaporation for your sweat.
+[removed]
+[removed]
+Speaking of humidity, is there typically a higher humidity in the early morning (let’s say 7:00ish) than later in the day?
+Small but important note: Heat isn't energy.
+Heat and work make up the total change in energy of a system in contact with another.
+This can be seen in the basic formulation of the first law of thermodynamics,
+
+    ΔE = q + w       
+
+which states that the change of energy in a system is the sum of the energies transferred through heating and work.
+(What's implied there is that the energy of a closed system is always conserved, which is the big takeaway from the first law).
+The delta in front of the E term (delta meaning the change in something) implies that energy is changing due to q (heat) and w (work).
+You cannot define a change without like terms (i.e.
+final - initial values of the same variable) OR something that is itself defined as the change in something (which both heat and work are).
+The fact that heat does not require initial and final values to denote a change should tell you that heat is not an energy.
+So, to wrap up, the kinetic energy of the photon (which is just energy in a specific context, there is only energy, no different forms apart from human distinction) is absorbed by an atom/molecule and that atom/molecule then begins to move (vibrate).
+Those vibrations are what we feel as warmth.
+It is incorrect to say the kinetic energy is converted to heat, but it's correct to say that the energy from the sun is transferred to the object via heating, which in turn raises the object's kinetic energy, causing it to increase in temperature.
+[removed]
+Many insulated glass units (IGUs) have a material called desiccant within the void space to absorb potential moisture, regardless of which gas is used as filler.
+For brand new windows this is mostly a non-issue, but as windows age and the seals start failing, water vapour inevitably enters this space and the desiccant mitigates the vapour from condensing on either of the glass panes, effectively extending the service life.
+Ideally there would be a vacuum in that void space, but unfortunately the pressure difference would likely cause one of the glass panes to crack/break.
+[removed]
+[removed]
+If two bodies of gas are at all connected, they will eventually diffuse, and the components of one will mix with the components of the other.
+So no matter what is inside the two panes - dry air (which is presumably just air with all water vapor removed, somehow), argon, or even pure oxygen - if the seal breaks, then yes, you would eventually get condensation inside the two panes.
+Heh, imagine the flexing.
+Air pressure is roughly 1kg/cm^2 so a metre square window has 10,000kg pressing on it.
+[removed]
+Dry air wouldn't work any better than Argon.
+Once the seal is broken the composition of the air(including water content) inside and outside of the window is going to be the same eventually.
+Glazier here.
+The glass isn't wrapped in plastic.
+There is a metal band sealed between the edges of the glass with a special caulk/sealant.
+The plastic/vinyl around the glass just holds it snuggly in place.
+[removed]
+[removed]
+Would definitely cause it to break.
+At atmospheric pressure one side of a 1'x1' window would have a little over a ton of force on it if the interior space was a vacuum.
+We take atmospheric pressure for granted but 14.7psi is actually a fair amount of pressure.
+True.
+Our common sense is also skewed by the fact that we’re typically walking around in environments that are colder than us (unless it’s &gt;98° F).
+As warm blooded mammals, we need to dissipate excess heat to a heat sink.
+My understanding is that moving that fluid (air or water) will increase the heat exchange rate (ignoring evaporative cooling effects), trying to bring our bodies and the environment into equilibrium.
+This is good in sub-body temp environments, but is very problematic as soon as temps approach 100° F.  It basically pivots from walking around in a nice cool heat sink to us becoming the heat sink in a convection oven.
+[edit: a word]
+Good info.
+My question still stands - how long does the Argon last?
+I’d imagine pretty long.
+I can’t keep track of all the responses - but the Reddit Borg Collective intelligence is now certain that with any leak, it will eventually get replaced with air.
+That should depend on the size of the leak.
+Somewhere else, someone pointed out that they include desiccant to help with the moisture.
+Given all of this, while vacuum would be better than Argon, I don’t think I’d want vacuum long term.
+If that seal deteriorated, it would actively suck in air that could be moist.
+I’d be curious as to the finished cost of Argon vs dry air.
+I think the insulation difference would be negligible.
+Its the evaporative effect from the higher vapour pressure moist air near your skin interacting with the lower vapour pressure air of the surroundings.
+The water essentially moves from the higher density (pressure) to the lower.
+Like wet clothes on a clothes line.
+[removed]
+&gt; it's hard to even know what the biggest handwave is
+
+I'd say the fact you started with coffee that is magically 127C when the boiling point of water is 100C at sea level is a fairly large handwave.
+Basically when the seal dries up and cracks, it's game over no matter what you put in it.
+Got it.
+Which probably depends very much on the amount of sunlight it’s getting.
+And why it's so damn cold getting out of the shower compared to before getting in.
+Two reasons:
+
+1) if the wind is cooler than your core body temp, the wind will remove heat
+
+2) if the air has the capacity to evaporate water from your skin (below 100% relative humidity) than evaporation will remove latent heat from your skin.
+Even if the air is warmer than your body.
+Argon is *also* used because the molecules are bigger than air molecules, meaning they have a tougher time escaping.
+It's why they use it in car tires.
+The pressure stays higher longer.
+Which can be expanded to also explain why clothing keeps us warm, even if it’s relatively thin.
+It keeps the layer of warmth away from the wind.
+That’s why if you want to get warm at night it’s better to wear less clothing in bed so that the blanket can absorb your body heat easier.
+What, you don't want to calculate each temperature delta over a small  time and then add them all up?
+:-)
+[removed]
+Pffft, that sounds like work, and if I'm gonna do that I'm gonna find something to integrate and let everyone suffer with me X-D.
+&gt;It's why they use it in car tires.
+That's nitrogen.
+And it has more to do with pressure stability over the usable temperature range than preventing seepage.
+Isn't what we feel actually the _rate of change_ in temperature of our skin?
+Why don't we make windows with strong panes that have a very thin vacuum layer?
+Even just a fraction of a millimeter of vacuum should eliminate conduction, right?
+[removed]
+I just learned about this this semester.
+The heat transfer from your body to the environment creates a boundary layer that gets disturbed by wind/movement of the environment (boundary layers exist when submerged in water as well) 
+The temperature gradient drives energy transfer faster when there is a larger difference in temperature, and the boundary layers serve to reduce the magnitude temperature gradient from outside the body to inside it.
+Thank you.
+I feel like this is a very important point that nobody else has mentioned.
+An important reason that many other replies have missed is that moving air has lower pressure than still air.
+With low air pressure it is easier for liquid to evaporate.
+it is the same reason why water boils at a lower temperature at high altitudes.
+There is less air pressure on the surface of the water therefore it takes less energy to transform it from liquid to gas.
+After that transformation the energy is removed from the surface of the body and you feel a decrease in temperature.
+You're almost always sweating, even if it's not literal drops of water coming out of your skin, small secretions are always happening for something known as homeostasis, where the body keeps internal temperature (among other factors) inside a very narrow range.
+So the body is always actively cooling the body if the external temperature is more than the body temperature (sweating etc), and if it gets too cool, it slightly warms it, which overshoots the temperature (delay is response to stop warming) and it cools it again in the cyclical pattern around the mean temperature which is characteristic of these homeostatic mechanisms in our body.
+Of course this is what I know, and my knowledge is limited.
+How did the genetics know this and develop sweating as a thing for this purpose?
+I suppose genetics understands interactions with our world and that humans need to cool off when they're to hot somehow so it invented sweat glands after much trial and error?
+&gt;Ultimately a vaccum would be the ideal choice I'd guess.
+Though this would be pretty hard to achieve because as it turns out, in order to see a meaningful decrease in heat transfer the mean free path of the argon molecules would have to be around the length of free space between the two panes.
+[removed]
+That and water (humidity) is much more dense than air and transfers heat much quicker.
+Partially correct.
+Heat can be transmitted by radiation through a vacuum.
+I’d also argue it’s kind of similar to the fact that if you’re cooling your home with air conditioning during the summer and you open the door on a hot day, you’re letting hot air in, not cold air out.
+On the other hand, if you’re heating your home in the winter and you open the door, you’re letting the hot air out and not the cold air in.
+The same goes for your body.
+The laws of thermodynamics.
+Edit: Also want to add that in terms of the human body, this feeling of change in temperature is just your body’s method of working to maintain homeostasis.
+Or in other words, it’s thermoregulation.
+Our bodies and the cells in it are constantly working to adapt to our external environment.
+[removed]
+Radiation r/vandweller sub guy chiming in here.
+Question about radiant barriers such as reflectix.
+They all state that an air gap must be present, but how small can that air gap be?
+Reflectix states that it has to be a 1/4" gap.
+Why 1/4"?
+Does it have to do with anything related to the IR spectrum and the wavelength that IR energy is transmitted at, or is it a 'round number' that people can understand and adhere to?
+I can not believe this answer is bueried down here.
+Forced convection is the answer here.
+It leads to a better heat transfer (air - skin).
+So if the air-temperature is colder than your skin wind makes it feel even colder.
+It's the other way round when the air is hotter than your skin.
+Yep.
+Evaporation is an endothermic process, it absorbs energy from the environment (your skin/body) to go from liquid to gaseous state and hence you feel cool.
+[removed]
+My guess is going to be it’s partly a round number.
+But it was rounded from an emissivity gap because radiation follow an inverse square law.
+But there’s a lot of point vs plane simplifying assumptions I’m too rusty at.
+(A fact that REALLY makes one appreciate how hit the sun is, given it’s distance ....)
+Also, what is an “air” molecule?
+Air is a mix of other molecules.
+And while Argon is one of the larger atoms, it’s a noble gas and just chilling out.
+All the others are combinations of atoms the sum of which are larger than Argon.
+Even Oxygen, which is a smaller atom, is a diatomic molecule.
+Woah, hey, misinformation... You still get conduction through fluids like air.
+Convection only occurs if the fluid is moving, which is a possibility for the thermos because of buoyancy, but not a given.
+In fact, for tall and narrow enclosures, the heat transfer rate with natural convection is considered to be very well approximated by conduction.
+(Bejan, *Convection Heat Transfer*)
+
+Now, looking at conduction only: If the entrapped air is at, say, 25degC, the thermal conductivity is roughly 0.026 W/m.K, vs. polystyrene (styrofoam), which is 0.033 W/m.K.
+So moving to just air from styrofoam is a 20% decrease in thermal conductivity (which is linear with heat transfer rate).
+I guess I learned my lesson about replying to threads with the science... Should just post a new comment and reiterate what other people have already said and start from scratch.
+Could have enjoyed that sweet, sweet +1k Karma once again...
+
+After all, _that's how science is done, isn't it?_ /s.
+Good addition.
+As I was looking up convection coefficient curves, the did get squirrelly as the fluid velocity approaches zero.
+So this makes sense.
+In the absence of fluid motion it would behave like conduction.
+(I’m going off memory from classes 30 years ago.
+;-) )
+[removed]
+Very similar to why wind is important for plant life.
+The boundary layer around leaves has a high concentration of O2 because the CO2 is all being used for biological processes.
+Without wind to refresh this boundary layers, trees can't be as productive.
+That explains why it also feels super hot if you blow on your skin in a sauna.
+The colder air layer on your skin (cooled by your body) is dislodged and you feel the actual temperature of the air surrounding you.
+By that logic this inverted effect should be noticable when air temperature exceeds body temperature  (~37°C).
+But i never tested it though.
+[removed]
+Humidity is directly related to temperature, so unless there is an odd temperature drop during the day, you are correct.
+Humidity starts high in the morning and drops as the day warms up.
+As the day cools, humidity will rise again.
+This is also why you get dew on the grass only in the evening/night.
+The surface of the grass has to cool down to the "dew point" which is essentially the temperature where humidity reaches 100%.
+The dew point, or vapor pressure, does not change as temperature rises, but it will decrease when temperature falls below dew point--because water is now condensing out of the air.
+[removed]
+This is not true if the air is warmer than your body temperature.
+Have you ever heard of a convection oven?
+Air pressure would potentially fracture the glass at worst, or cause the two panes to attract towards eachother and touch, eliminating the gap and allow direct heat transfer between two solids.
+Even the strongest glass in the world isn't immune to 1 atm pressure flex on a flat plane.
+Moisture would be a problem, but if that was the primary goal they would just use Nitrogen.
+Much cheaper and prevalent.
+[removed]
+[removed]
+From my recollection of building Science courses, the third pane actually provides fairly negligible increase in insulating performance, especially when considering the added cost.
+It would be far more efficient to provide a second low-E coating on the second pane of a double pane window.
+Triple panes are more beneficial for noise reduction in particular, and I feel like I remember it being something to do with stronger pane in large windows.
+
+Summary: 
+Even if the air is warmer than your body.
+Air is a mix of other molecules.
+But what if you used dry air?
+Or is it just trapped air?
+Heat can be transmitted by radiation through a vacuum.
+It leads to a better heat transfer (air - skin).
+The same goes for your body.
+With an air gap you have only convective heat transfer and radiation.
+This is not true if the air is warmer than your body temperature.
+The air is replacing the air that your body heats around your body.
+Maybe above the body temperature I suppose?
+How would I KEEP it in there?
+That's because water is much better conductor of heat.
+It causes evaporation of sweat on your skin.
+And a vacuum is better than Argon.
+An improvement is just an air gap.
+Dry air wouldn't work any better than Argon.
+There is a heat point when the wind no longer cools you.
+What is it evaporating if the body isn't sweating?
+I don’t get what you’re saying.
+It's the other way round when the air is hotter than your skin.
+Isn't what we feel actually the _rate of change_ in temperature of our skin?
+But it’s not giving up heat (much) via radiation.
+It's more the movement of air over your skin making it easier for the sweat to evaporate.
+Does wet heat feel hotter to them too?
+The change to Argon or a vacuum is only a slight improvement over still air.
+Yeah, water transfers heat something like 20x more efficiently than air.
+And so your body warms up the air around you, and it can't get far.
+Both would feel MUCH better than what you are used to.
+How would you even check?
+There is a layer of air between the glass working to insulate your house.
+But then the wind blows it away and there is new air to warm up.
+Because you are eliminating conductive heat transfer through the styrofoam.
+Same temperature, higher delta Q (heat energy).
+The temperature of air or water isn't the temperature you feel, you actually just feel the temperature of your skin.
+That and water (humidity) is much more dense than air and transfers heat much quicker.
+It’s giving up heat through convection (a gas or liquid being the transfer component).
+I mean, the cooler the coffee, the slower heat radiates away?
+Small but important note: Heat isn't energy.
+Especially if the window was at a lower pressure.
+After that transformation the energy is removed from the surface of the body and you feel a decrease in temperature.
+The colder air layer on your skin (cooled by your body) is dislodged and you feel the actual temperature of the air surrounding you.
+Also isn't the rate of heat transfer a temperature-dependent value?
+Your body on the other hand will very quickly heat the layer of air directly covering your skin.
+I just learned about this this semester.
+Air has moisture, increasing the risk of condensation between the panes.
+This only works to a point.
+With low air pressure it is easier for liquid to evaporate.
+But ... your air window would get that internal condensate (I have observed this myself in Windows).
+It’s usually an inert gas like Argon, which insulates even better than air.
+I think the insulation difference would be negligible.
+If the warm air causes evaporation of the sweat then it is the air who’s supplying the energy, not your body.
+Most dual pane windows use Argon between the panes, not air.
+I believe it's also how windchill works.
+Since air isn't a very good conductor of heat, it doesn't feel as cold as water.
+If that seal broke, would it exchange like Argon?
+But I googled a few sites.
+I thought that it has to do something with sweat because we always feel the temperature of liquids with more intensity.
+Physicals will even out the imbalance of heat regardless of whether or not your body is sweating.
+Why doesn't the wind just blow the sweat around on your skin?
+If you stick your warm hand in a pool, the water will cool it down much faster than air at the same temperature.
+The phase change from a liquid to a gas absorbs energy in the form of heat (from your skin) so it cools you off.
+To add to this, air is a pretty good insulator.
+Your skin cells are filled with water so your skin/body is much more humid than the air around it.
+At that point, I’m not so sure the temperature would matter.
+It's not entirely due to evaporation.
+Because no gas at all means no convection.
+Because when you're sweating that warmer layer of air is also quite moist.
+The pressure stays higher longer.
+it is the same reason why water boils at a lower temperature at high altitudes.

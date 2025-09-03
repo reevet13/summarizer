@@ -1,0 +1,44 @@
+Original Response: 
+[deleted]
+You need to click show details and at least show people a little information behind the scenes.
+This sort of a screen-shot really just doesn't do all that much good; all people can offer you is generic advice.
+[deleted]
+[deleted]
+&gt; Memory at address 000001d7`2f179784 could not be read
+
+I looked through a few other support threads with similar errors.
+Try turning character model limit to low or medium.
+&gt; I had a similar issue.
+Deleting local.dat fixed it for me - makes you have to repatch though.
+&gt;You can find local.dat in: C:\Users[Your User Name]\AppData\Roaming\Guild Wars 2
+
+^ this was a suggestion as well, although you'll likely have to re-patch the game.
+[deleted]
+The most likely error for a bad GPU would be artifacting, rather than a memory read error.
+I would try memtest86+ and look for any errors.
+I'd also try making sure your system is warm before running it, as there are certain ram issues that only present themselves when the memory modules are warm.
+Intermittent crashing with memory read errors in a game sounds very much like a RAM issue to me.
+You are correct.
+Its a ram issue.
+I went into the bios and switched the sticks from 3200mhz to 2800 mhz.
+They are 3200 mhz and I put them as that because, well, it makes sense they can do it.
+Apparently not?
+If you have a 2nd GPU or onboard GPU, you can try to sanity-check the RAM that way.
+If it still fails, then it's your new computer and the GPU should be fine.
+But from your earlier comments, it seems that the GPU works fine on another system.
+Try removing one or the other stick of RAM (assuming there's more than one) or lowering the memory frequency.
+It also depends on the motherboard northbridge, the chip that communicates between the CPU and RAM.
+It needs to be able to run a memory clock speed of 1600MHz (since it is DDR).
+If the chipset is able to work at 3200MHz, then you may need to play with some of the memory timings to get it to work properly.
+Edit: Re-read your logs, looks like you're using an AMD CPU?
+In that case, the memory controller is in the CPU.
+Ryzen motherboard chipsets are known to be fairly particular about their ram clocks, and in some cases which vendor your ram is from... or even which company manufactured the actual chips on the RAM stick!
+If you're bothered about it, try raising your ram to 2933mhz (or "3000mhz") and see if it's still stable, on Ryzen platforms ram speeds above 2933mhz give diminishing performance gains, and on certain motherboards are flat out unsupported unless the ram modules are on the QVL (qualified vendor list) for that motherboard.
+That said, if 2800 works fine, going up to 2933 won't see a huge performance gain anyway.
+[deleted]
+
+Summary: 
+&gt; I had a similar issue.
+I would try memtest86+ and look for any errors.
+In that case, the memory controller is in the CPU.
+Deleting local.dat fixed it for me - makes you have to repatch though.

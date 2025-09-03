@@ -1,0 +1,42 @@
+Here is the extracted summary:
+
+http://imgbc.com/images/U6FY3FK/
+
+Serving IP Address
+
+95.142.32.180
+
+Status Code
+
+200
+
+Body Length
+
+5.55 KB
+
+Body SHA-256
+
+21e48444e3251b11b8e9f2a640e7d180e030bf779809f986f386b9f8893c8c0c
+
+Headers
+connection: keep-alive 
+content-type: text/html 
+date: Sun, 02 Sep 2018 21:41:11 GMT
+server: nginx 
+transfer-encoding: chunked 
+vary: Accept-Encoding 
+x-powered-by: PHP/7.1.21
+
+That link is OK, it's the link on the corresponding page you need to worry about.
+
+Not sure if it is a key logger, but it is malicious AF...
+
+Sandbox analysis = https://www.reverse.it/sample/69e94aaef203838685561ba355bb2966d0b899366afb4d60c96f47dab988d715/5b8c8f7c7ca3e14af1277333
+
+Has to be of its talking via Powershell to Russia :-)
+
+So yeah, not a keylogger, but a RAT... the next stage could be a keylogger once 'they' connect via the RAT.
+
+Then as long as you didn't go to the URL you provided at the top of the post, your fine. 
+
+The backdoor has a very low detection for AV, I think 1 out of 67 when I ran it through VT

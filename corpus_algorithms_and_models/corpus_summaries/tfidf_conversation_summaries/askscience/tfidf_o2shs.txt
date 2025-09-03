@@ -1,0 +1,17 @@
+Original Response:
+So here is a problem I am currently trying to solve and its driving me nuts.
+
+We do chirped pulse rotational spectroscopy of "small" molecules and their clusters and record their spectra by direct digitization of the molecular emission on a 50GS scope.  Now one of the problems is that some component on the detection end has some small non-linear frequency response and strong lines (and their beat frequencies) can mix with one another to create spurious "Ghost signals" 70dB or so down from the carrier lines (we look at magnitude spectra of the electric field). 
+
+Now the question comes in when we try to identify what lines are spurs.  We have been manually taking strong lines and guessing where their mixing sidebands could be and seeing if their is a match in the baseline but this gets a bit tedious and is hard to do automatically especially for extremely dense spectra.  The better option (IMO) is to try and use the phase information from the ft since the mixing sidebands should be 180degrees out of phase with the real spectrum.
+
+Here is where the hard part comes in where I need your help. 
+
+[spectrum](http://spectralengine.com/data/water/waterTdomain.txt )
+
+This is a 20us (@50GS) time domain signal from the spectrometer.  The molecules are excited with a linear chirp of 1us and their emission is then collected and digitized.  This emission does retain the coherence of the excitation but by the time it reaches the scope its phase its shifted depending on the frequency you look at.
+
+I am curious if anyone here can actually find the actual pattern to unwrapping the phase so that I can reliably produce a "real" and "spurious" spectrum.  I don't think we can but its worth a shot.
+
+Summary:
+The molecules are excited with a linear chirp of 1us and their emission is then collected and digitized.

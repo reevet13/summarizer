@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+I was wondering if you are able to observe quantum tunneling in action through the use of total internal reflection? To be more specific, if there is a laser beam going through a glass rectangular prism and it is exhibiting total internal reflection, at the points that it is being reflected, will I see light escaping the prism via quantum tunneling?
+
+I use TIR to do microscopy all the time.  The fluorophores are on the far side of the glass from the incident laser beam and while the laser is under TIR, the evanescent wave from the tunneling photons excites the fluorophores very close to the glass/sample interface to yield fluorescence.
+
+Light can escape via frustrated total internal reflection.

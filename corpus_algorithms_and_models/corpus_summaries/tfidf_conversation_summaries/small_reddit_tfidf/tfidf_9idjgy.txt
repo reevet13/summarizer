@@ -1,0 +1,40 @@
+Original Response:
+It's a reality check for all those rushing to scale to infinity.  
+
+55% of nodes remain vulnerable. (https://coin.dance/nodes)
+
+And only 2% have upgraded in the past 24 hours.  
+
+At this rate, it will take weeks for chain split risk to diminish.
+I've upgraded mine in less then 12 hr after the patch was released. But is this making a case for PPAs and automatic updates?
+no, it's not.
+&gt; 55% of nodes remain vulnerable.
+
+Maybe they are the people following the ideology of allowing, or even embracing chainsplit vulnerabilities, summarized by Gregory Maxwell's classic defence of UASF 149: "assume it happens? So? If malicious people do malicious things there will be some disruption-- same thing always holds." (source: https://www.reddit.com/r/Bitcoin/comments/69xs2c/bitcoin_dev_and_blockstream_employee_actually/dhb6lqa/?context=3)
+Conspiracy nonsense  
+
+Those who haven't upgraded are simply unaware of the urgency
+True, but is the cost for exploiting this bug really the cost of a single block's rewards?
+
+A miner can't spend his rewards until they're at least 100 blocks old.
+
+Exploiting the bug successfully would significantly lower Bitcoin's value. So there goes 100 blocks worth of rewards.
+
+Seems to me the true cost of exploiting this bug would be 100 \* 12.5 = 1250 BTC.
+some people just want to watch the world burn
+Then why is the bug not exploited yet?
+It's too late to exploit. Most economic users have upgraded.
+Define 'economic users' please?
+Everyone receiving payments.
+Automatic updates would remove consensus. That you could actually make this comment makes me feel ill.
+Because nobody wants to spend the amount of money required to attack bitcoin in this way.
+how do i feel comfortable upgrading when it seems easy to deploy a client that could contain malware or bad code? if u just say it's an emergency and bam everyone listens and upgrades? how do u prove it, how do i make sure myself, i can't read code, how do i know if they are trying to sabotage the system?
+Bingo.
+&gt; Conspiracy nonsense
+
+Which one are you calling a conspiracy? My whole joke about the stupidity of UASF people, or the quote from Gregory Maxwell?
+
+Summary:
+55% of nodes remain vulnerable.
+&gt; 55% of nodes remain vulnerable.
+Most economic users have upgraded.

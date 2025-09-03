@@ -1,0 +1,17 @@
+Here is the summary:
+
+Earlier this summer, [NASA astronaut Scott Tingle](https://www.nasa.gov/astronauts/biographies/scott-d-tingle/) returned to Earth after spending 168 days living and working in low-Earth orbit aboard the International Space Station.
+
+Yes - we exercise for 2.5 hours every day while on International Space Station (ISS). Our resistive exercise device (ARED) provides us with excellent weight training activity that minimizes bone loss and keeps our muscles conditioned.
+
+No expert, but I know they have major concerns with prolonged exposure to microgravity. Bone density loss, muscle wasting, loss in vascular tone, etc. but they’re very concerned with going blind. The small delicate eye muscles atrophy without being forced to resist pressure (gravity).
+
+When doing calculations for a trip to Mars, do they account for the additional calories they need to bring along to compensate for the 2,5 hours’ worth of calories each astronaut  burns each day, in addition to ~2kCal just for sustainment?
+
+We’ll probably solve that problem with a centrifuge right?
+
+Like the Belters in The Expanse
+
+Never heard this, but interesting! Some quick googling leads me to believe that 2 rpm is the rotational period needed to offset the Coriolis effect and the associated nausea etc, so one rotation every 30 sec. And to produce that, the *radius* of rotation would have to be 224m, so yeah, definitely not feasible for a multitude of engineering reasons.
+
+Note: I've included the original text exactly as written, up to 250 words (about 10% of the original text).

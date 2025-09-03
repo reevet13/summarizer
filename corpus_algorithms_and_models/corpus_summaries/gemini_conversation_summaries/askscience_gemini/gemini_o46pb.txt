@@ -1,0 +1,16 @@
+Short answer: Yes, blue light in the hours prior to sleep onset seems to suppress melatonin production, delay sleep onset, and subsequently alters patterns of sleep during the night.
+No, sorry for any confusion.
+However suppression varies greatly as a function of the amount of blue light; more blue= more suppression, less blue = less suppression, dim/minimal artificial light of any frequency = very little suppression.
+Different photoreceptors have different sensitivities to frequencies of light.
+Past research has suggested that the melanopsin system (which is hypothesized to be related to melatonin production) is most sensitive to blue light frequencies.
+I will preface this by saying that I'm a layperson with a recent interest in melatonin.
+I know that some long-distance truck cabs have blue lights installed in them to do exactly what Brain_Doc82 has suggested; that is, suppress melatonin production in the drivers at night to keep them more awake ([source](http://www.newscientist.com/article/dn13491-blue-leds-to-reset-tired-truckers-body-clocks.html)).
+If red LEDs were used instead, there would be virtually no blue light.
+Most coloured LEDs have a narrow spectrum.
+I've taken a class on this and it is my understanding that melatonin is created in the absence of light and a brief light pulse can reset the melatonin production cycle.
+Specifically, melatonin is produced by your pineal gland which gets its signal from the SCN (superchiasmatic nucleus, which is above the optic chiasm.
+Input to the SCN is dependant in signals from your intrinsically photosensitive retinal ganglion cells, which senses *only a narrow range of light*, that being the blue part of the visible light spectrum with a small shoulder in the UV range.
+The proteins that sense this light arose first as a photolyase that mediated DNA repair in non placental mammals and was copied in a whole genome duplication event.
+However, if you read the very recent (Oct 2011) study I linked to above, you'll see that differences in melatonin suppression were seen in the Near Darkness vs.
+Blue-Depleted conditions, suggesting that even light depleted of blue spectral frequencies has an effect on melatonin production.
+This does go in the face of what was previously hypothesized (that those specific RGC's were only sensitive to blue light) and so that's likely why your class taught you something different.

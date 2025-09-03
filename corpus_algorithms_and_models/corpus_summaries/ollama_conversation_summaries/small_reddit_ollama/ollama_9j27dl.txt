@@ -1,0 +1,10 @@
+Here are the selected sentences copied verbatim from the original text:
+
+* "From personal use, I used to forget my PIN in Touch ID phones because I entered it so rarely. On my X I enter it 5-10 times a day when Face ID fails."
+* "Moreover, I used to press the home button to back out of folders and get back to the first page of the home screen. Two or three quick clicks always brought you back. Can’t do that on the X."
+* "Face ID works great for me even with my phone laying flat on my desk, even off to the side of my laptop or keyboard."
+* "Pro tip: if the lock shakes from side-to-side, that means it can see your face but doesn’t recognize you. When this happens, enter your passcode and it will learn this angle of your face."
+* "I've got them both right here, and pressing the button is quicker and easier."
+* "I don't hate it, but there's a lot of really big drawbacks"
+* "Sounds like you just need to train Face ID a little bit more. If it fails for you, keep the phone and your face in the same position and enter your passcode. This will train FaceID on this new angle/position, and it will get better and better this way."
+* "When I'm using my phone, I’m looking at it. But you can turn off “require attention for FaceID” and it will work without you looking at it."

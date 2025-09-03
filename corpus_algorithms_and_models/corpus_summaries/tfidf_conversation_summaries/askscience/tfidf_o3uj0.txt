@@ -1,0 +1,35 @@
+Original Response:
+I exercise outdoors in the winter. Sometimes I put my mouth under my shirt and gulp a few breaths every now and then to get the warm air, because it feels better.
+
+How many deep breaths of quality air are there inside the shirt before I run out?
+
+*Keep in mind:* I make sure to breathe out with my nostrils, *outside of my shirt*, so I am *not* sending my CO2 sent back into it.
+
+(I'm 500 feet above sea level.)
+I'll point out the obvious thing and say that your shirt most probably isn't airtight, so you won't technically ever run out.
+
+That away, it depends on your shirt and your lung volume. A deep breath in is around 3-4 liters, and assuming a relatively loose shirt that should give you probably around 3 breaths. Like sucking the air out of a shopping bag.
+
+Edit: Actually, breathing back into the shirt is not too bad an option. IIRC the oxygen concentration between breathing in and out only goes down from 21 to 18 percent, so you won't be choking yourself and you would save the heat and humidity.
+There may still be lots of oxygen in the air we exhale, but our breathing [increases its CO2 concentration by a factor of 100](http://www.bbc.co.uk/schools/gcsebitesize/pe/appliedanatomy/1_anatomy_respiratorysys_rev3.shtml). When you re-breathe air there is plenty of oxygen to be had, but the high CO2 concentration means that you cannot unload the CO2 from your blood. This increases the dissolved concentration of CO2, which reacts with water to create carbonic acid. This acidifies our blood, reducing the ability of hemoglobin to bind oxygen. This is known as the [Bohr effect](http://en.wikipedia.org/wiki/Bohr_effect) (Bonus: it is named after Christian Bohr, father of physics superstar Niels Bohr). Medically, this situation is called [respiratory acidosis](http://en.wikipedia.org/wiki/Respiratory_acidosis). So even though there is lots of O2 in re-breathed air, your body can't use it.
+Even already after one, two huffs? Then why do we even bother with CPR if the body can't use exhaled air?
+
+I'm not saying he should put a plastic bag over his head, only that if he's taking a couple of breaths of warm air from under the shirt, that it might not be a big problem if he exhales back into the shirt.
+We do it in CPR because it is better than nothing. Dieing people are so acidotic that they can unload CO2 even into our rebreathed air, improving their situation a little. This is also why, when possible, the rescue breaths are given by a rested person who is not generating a lot of CO2.
+
+Truthfully, you may not notice the effect in one or two breaths under a shirt, but it's a neat mechanism so I thought I would share.
+Sure, sure, no offense intended.
+Well, let's say your shirt is pure silk. Silk is made up of mostly sericin and fibroin. Those are made up primarily of the amino acids Glycine, Serine, and Alanine!
+
+Each of those have oxygen in them. NH2CH2COOH , HO2CCH(NH2)CH2OH , and CH3CH(NH2)COOH respectively.
+
+So there's lots of Oxygen in there!
+
+Good luck getting it out!
+
+Literal minded rrauwl is literal!
+
+Summary:
+So there's lots of Oxygen in there!
+There may still be lots of oxygen in the air we exhale, but our breathing [increases its CO2 concentration by a factor of 100](http://www.bbc.co.uk/schools/gcsebitesize/pe/appliedanatomy/1_anatomy_respiratorysys_rev3.shtml).
+How many deep breaths of quality air are there inside the shirt before I run out?

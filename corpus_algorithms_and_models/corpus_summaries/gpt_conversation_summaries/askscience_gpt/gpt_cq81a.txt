@@ -1,0 +1,7 @@
+Until very recently, Bohr was considered the winner of the dispute [Einstein-Bohr particle randomness], and quantum events were considered to be perhaps the only example of true stochasticity in the universe. But in 1998, physicists Dürr, Nonn, and Rempe (1998) disproved Bohr's theorizing, which had been based on Heisenberg's unceratinty principle. The real soure of quantum "randomness" is now believed to be the interactions or "entanglemenets" of particles, whose behavior is in fact deterministic.
+
+An entangled quantum system cannot be used for instant communication purposes. Yes the wavefunction of an entangled system can collapse instantaneously, but that collapse does not convey information - the observations would be the same, even if the collapse happened in the other direction.
+
+Durr, Nonn and Rompe did not disprove Bohr's Copenhagen model (which is still the de facto model for QM; possibly on equal footing with many worlds) or the uncertainty principle. I can't find anywhere in the article where they claimed to do this.
+
+Also Bohr wasn't conclusively considered winner until [Bell's theorem](http://en.wikipedia.org/wiki/Bell%27s_theorem) came about and was experimentally tested.

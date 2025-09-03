@@ -1,0 +1,13 @@
+Here is the summary of up to 250 words:
+
+Its said that the age of the universe is roughly 13.8 billion years old but since all mass has an effect on space time how do we know if thats the true age? Like from the perspective of someone next to a black hole the universe would be younger and someone in intergalactic space older right?
+
+Yes. The given age of the universe is in the frame of reference of minimal motion relative to the cosmic background radiation.
+
+This means that if we look left, right, up or down we can't tell the difference between the temperature of the background. If we had a large motion it would be blue-shifted in some directions and red shifted in others.
+
+If you were travelling with a high speed relative to the background you could calculate a different "local" age of the universe.
+
+While we could do this for our relative motion the effect is negligible (an few parts in a million, compared to 0.4% uncertainty for the age of the universe from other sources).
+
+Almost no motion at about ~600km per second. This is relative to the speed of light at 300,000km per second.

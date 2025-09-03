@@ -1,0 +1,21 @@
+We all know the experiment that Michelson did to determine the speed of light. Rotating octagonal mirror, distant fixed mirror, etc. Due to finite speed of light, the pulse comes back from the remote mirror only after the rotating octagon is presenting the next reflective facet to it.
+
+First off, just replace the octagon with a reflective cube. This would make the whole thing twice as hard to do, unless...
+
+The rotating cube and the remote mirror act like a very sharp collimation device. Meaning, you'll only get light on the sensor when the cube is in a very narrow position. Rotate the cube a tiny bit, and the sensor goes dark.
+
+Basically, what I'm saying is that the beam of light coming out of the whole device will start leaning slightly forward when the cube is spinning rapidly. By measuring the deviation angle, one could calculate the speed of light.
+
+EDIT: Instead of a rotating cube, I could shoot the laser through a 50/50 beamsplitter towards a rotating flat mirror. The splitter is like $15 online, and mirrors are cheaper and easier to find than reflective cubes. Then I could hook up the sensor on the other side of the splitter. Not sure whether the splitter will affect the angular shift formula - I guess it won't?
+
+It sounds completely reasonable.
+
+It's going to be pretty tough to align the reflections at that distance. You will have a laser at 100m hitting a small cube, then reflecting 100m to a mirror, and from there 100m back to the cube, and then back to your detector 100m away. Any little bit of movement in your apparatus is going to be a pain.
+
+You are going to need to precisely know the angular velocity of the motor. One way to do this, if you have the equipment, is to measure the frequency of the light inbound on the detector. Four flashes is one rotation (assuming you have dealt with the caveat above)!
+
+A Dremel tool may be a reasonable motor setup if you don't have one.
+
+Measuring and stabilizing the RPM will not be a problem. I used to be (probably still am, maybe a bit rusty) an electronics whiz, designed and built everything from automation to HiFi to systems with microprocessors. I'll handle it.
+
+The laser will sit next to the cube. In fact, everything will be near the cube, except the remote flat mirror. The sensor will probably be just 10m away from the cube, to exploit the tiny tangent of the tiny deflection angle. That

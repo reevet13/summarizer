@@ -1,0 +1,11 @@
+Here is a summary of the text in approximately 250 words:
+
+Really? So does this mean I have a higher alcohol tolerance than someone from several hundred (thousand?) years ago, despite never having had a drink? Or that mean we now just metabolize it faster and don't stay drunk for as long? Or am I just totally misinterpreting this line?
+
+Two key enzymes are responsible for the breakdown of alcohol under normal conditions, Alcohol Dehydrogenase and Acetaldehyde Dehydrogenase.
+
+Oh wow, lots of misinformation in this thread. Yes, alcohol has CNS effects. Yes, it affects other organ systems. But **this is not the main reason that it interacts with other drugs**. The source of its interaction is its metabolic pathway.
+
+In a chemistry lab an alcohol group might be noteworthy, but virtually every biological molecule carries an -OH functionality. This is not the source of its drug interactions.
+
+As a minor addition to FlexorCarpiUlnaris' excellent answer, ethanol can also chemically react with other drugs to form different drugs with different pharmacological properties.

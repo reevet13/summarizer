@@ -1,0 +1,31 @@
+Original Response:
+I know you usually end up swallowing some air when you're eating, so does the reverse happen and some very tiny bits of food get into your lungs? And if so, how do they get out?
+[deleted]
+I'm not an expert, but the respiratory epithelium, and mucociliary escalator play important roles in this process.
+
+[Have a read](http://en.wikipedia.org/wiki/Respiratory_epithelium#Mucociliary_Escalator)
+Ideally no.  Your body has a multilayer defense system that tries to prevent this or rectify it after occurring.  Failures in these processes do occur and can be idiopathic (who knows why), pathologic (due to disease), or nosocomial (related to healthcare).  
+
+[Aspiration](http://en.wikipedia.org/wiki/Pulmonary_aspiration) can be benign or have fatal consequences (see: [aspiration pneumonia](http://en.wikipedia.org/wiki/Aspiration_pneumonia) or [asphyxiation](http://en.wikipedia.org/wiki/Asphyxia)).    
+
+It is also not uncommon to see pieces of food in the lung on autopsy with no relation to the cause of death.  This occurs at a rate of about 1 in 4 ([source](http://www.sciencedirect.com/science/article/pii/030094327590014X)).  About 70% of people with decreased conciousness levels and 45% of healthy people while sleeping experience aspiration. ([pdf source](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2568143/pdf/jnma00155-0051.pdf))     
+
+edit: For those with university access, [this](http://www.ncbi.nlm.nih.gov/pubmed/20941656) article goes into the physiology and pathophysiology of the two types of aspiration (anterograde = while swallowing, retrograde = [gastroesophageal reflux](http://en.wikipedia.org/wiki/Gastroesophageal_reflux)).    
+
+"A close functional relationship exists between the airway and the upper gastrointestinal tract, which provides protection against pulmonary aspiration of material passing through the pharyngoesophageal compartments.  nvestigations of pharyngealesophageal–glottal relationships suggest that a hypervigilant state of the glottis is necessary to ensure airway protection. The upper esophageal sphincter further complements protection by preventing oral escape of gastric contents into the supraesophageal space. Coordination of these defensive mechanisms prevents
+unwarranted spillage of materials into the airway during routine daily and strenuous activities."
+My little sister choked on a peanut one day when she was 3.  Weeks later, my mom took her to the hospital because she had begun wheezing.  The doctors all said it was probably just asthma but no medications helped.  After a little exploration, a doctor found the peanut lodged somewhere in one of her lungs.
+
+So speaking from her experience, it *can* happen.
+Did they get it out? or does it come out by its own?
+It would be very hard to inhale bits of food because as has been stated, the body is good at keeping them out.  However, smaller particulates i.e. silica dust (I'm a mason, its a big work hazard) are easily inhaled and once they're in there, well.. they're in there for good.
+Yes.  I'm not exactly sure how they got it out, they didn't have to do surgery though.
+Good follow-up question. Would be nice to get a doctor's ideas.
+[deleted]
+These inhaled foreign bodies in kids are usually removed by instrumentation through a [rigid bronchscope](http://www.chestnet.org/accp/article/chest-physician/rigid-bronchoscope-pulmonologist%E2%80%99s-%E2%80%98forgotten-tool%E2%80%99) under general anesthesia.  TIL someone first did this back in 1897!
+Thanks! The main reason for asking is, I get tonsil stones and my doctor told me they can be very bad if they get into my lungs.
+
+Summary:
+And if so, how do they get out?
+Did they get it out?
+It would be very hard to inhale bits of food because as has been stated, the body is good at keeping them out.

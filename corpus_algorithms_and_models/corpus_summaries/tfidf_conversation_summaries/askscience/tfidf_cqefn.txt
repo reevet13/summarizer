@@ -1,0 +1,283 @@
+Original Response:
+Agree, the experiment what they did it was complete crap.  
+
+EDIT: **GUIDE to my unorganized posts**.  I originally had here a simulation here that treated all artists equally, before I really read his article and saw how he selected the songs and artists unevenly.  I since deleted it, but it was very similar to the next simulation.
+
+My [followup comment](http://www.reddit.com/r/askscience/comments/cqefn/how_many_flaws_in_this_experiment_can_you_find/c0ufzq0) does a simulation accurate to what he did, except I allowed the same song to be played more than once in each playlist, so found typically the most played artist appeared slightly more often than he observed.
+
+I then did [another simulation](http://www.reddit.com/r/askscience/comments/cqefn/how_many_flaws_in_this_experiment_can_you_find/c0ugit1) where I did not allow the same song to appear twice in the same playlist and found deviations almost identical to those observed in his article.
+
+I finally [extended the simulation](http://www.reddit.com/r/askscience/comments/cqefn/how_many_flaws_in_this_experiment_can_you_find/c0ugynd) to counter his specific claims one by one, showing that they are all expected to to the nature of his experiment.
+Ok, so I tried reading through what they did in more detail and think they did the following: Made library with 20 artists having 1 song each (billboard top 20), and 16 artists having 5 songs each (80 songs), and then made a bunch of playlists with the total of 650 songs.
+
+Then they added 20 more artists with 5 songs each from ripped cds, and repeated the test.
+
+I modified my quick monte carlo script:
+
+    #!/usr/bin/python
+
+    import scipy
+
+
+    test1 = scipy.random.randint(0,100,650)
+    #0-19 unique artists ; after 20-24 artist 1, 25-29 artist 2, etc.
+
+    test2 = scipy.random.randint(0,200,650)
+    #0-19 unique artists ; after 20-24 artist 1, 25-29 artist 2, until artist 200, etc.
+
+    results = scipy.zeros(56)
+    test = scipy.array(list(test1)+list(test2))
+    for i in range(20):
+        results[i] = sum(test == i)
+    # billboard artists that only have one song
+
+    for i in range(36):
+        results[i+20] = (sum(test == 20+5*i) + sum(test == 21+5*i) + sum(test == 22+5*i) +
+                      sum(test == 23+5*i) + sum(test == 24+5*i) )
+    # other 36 artists who have 5 songs each
+
+    print scipy.sort(results)
+
+Results of first three runs:
+&gt;[  3.   4.   5.   6.   6.   7.   9.  10.  10.  10.  10.  11.  12.  12.  12.
+  12.  12.  12.  12.  13.  13.  13.  14.  14.  14.  15.  15.  16.  16.  16.
+  17.  17.  17.  17.  18.  18.  19.  20.  22.  25.  36.  36.  41.  43.  45.
+  47.  47.  48.  48.  48.  52.  53.  55.  56.  59.  62.]
+
+&gt;[  6.   6.   6.   7.   7.   8.   8.   9.   9.   9.   9.   9.  10.  11.  11.
+  11.  11.  11.  11.  11.  13.  13.  13.  13.  14.  14.  15.  15.  16.  16.
+  16.  17.  17.  17.  17.  18.  19.  19.  26.  27.  37.  38.  41.  45.  45.
+  46.  48.  49.  49.  50.  53.  54.  55.  58.  58.  59.]
+
+&gt;[  1.   3.   6.   7.   7.   7.   7.   7.   8.   8.   8.   8.   8.   8.   9.
+  10.  10.  11.  11.  12.  12.  12.  12.  12.  13.  13.  13.  14.  14.  14.
+  15.  15.  16.  16.  19.  20.  20.  21.  22.  23.  40.  44.  45.  45.  46.
+  48.  50.  51.  53.  54.  55.  55.  57.  59.  60.  66.]
+
+which produce remarkably similar results to their study.
+interesting... so what is your conclusion?
+The only important flaw is a complete lack of statistics.
+
+They talk about 'randomness', and the various times each artist has occurred in the final result, with no thought given to how much variance there would be for true randomness. It is well known that you get statistical clumping in random samples, as pure homogeneity is actually rather unlikely. But there is no treatment of this, just pointing at the results and saying 'that's a bit weird'.
+
+If one of my students produced work like this I would slap them upside the head.
+
+&gt;Or is this just a natural manifestation of the known deficiencies in computers' random-number algorithms?
+
+I severely doubt that iTunes is coming across 'deficiencies' in random number generators. I use *very* basic random number techniques (read: stolen from Numerical Recipes) sometimes for Monte Carlo simulations, and I've never had a problem with this. Any basic generator worth its salt will produce good pseudo-random strings with periodicities of &gt;billions, and when you add the fact that the programme is probably seeding with the system clock, there is no *way* that I can believe that there is a problem with the algorithm. 
+
+Essentially, the author has no idea what he is talking about.
+My conclusion is that the data showed only the expected variance of actually having a truly random playlist, but that the author was too incompetent to properly interpret his data (which was unnecessarily convoluted).  A simple 10 line python script can show that the artist with the most number of plays should have something like 59-66 plays, where on his results (that he interpreted as being significant the artist with the most plays had only 57).
+
+I regard this discrepancy (e.g., I predict more clustering of the most played artist) to me simplifying the model, not knowing how an itunes random playlist works.  I am now guessing that it will avoid repeated songs in each playlist, whereas my simulation had no preference for that.  I could easily extend the script to do this (EDIT: done [here](http://www.reddit.com/r/askscience/comments/cqefn/how_many_flaws_in_this_experiment_can_you_find/c0ugit1) showing the purely random simulation gives results almost identical to the ones he had).
+Ok, I did one more MC simulation that shows that the observed results, are exactly what you would expect from purely random results if there was absolutely no bias towards any particular artist.  Author of article doesn't understand statistics/randomness.
+
+Code:
+
+    #!/usr/bin/python
+
+    import scipy
+
+    # 0-19 are songs by artists (0-19) each with 1 song each
+    # (these are the 20 songs from billboard 50)
+    # songs 20-24 are by artist 20, songs 25-29 are by artist 21, 
+    # until you complete the 100 song or 200 song library.
+    # as all the other artists each have 5 songs list.
+
+    songs = []
+
+    for i in range(10):
+        songs += list(scipy.random.permutation(100)[0:25]) 
+        # generate ten playlists with 25 songs from 100 songs
+        # using first 25 elements from a random permutation of the digits 0-99
+        # to get a random set of # without repeats.
+        songs += list(scipy.random.permutation(100)[0:40])
+        # generate ten playlists with 40 songs from 100 songs
+        songs += list(scipy.random.permutation(200)[0:25])
+        # generate ten playlists with 25 songs each from 200 songs
+        songs += list(scipy.random.permutation(200)[0:40])
+        # generate ten playlists with 40 songs each from 200 songs
+
+    songs = scipy.array(songs)
+
+    ## Accumulating results
+
+    results = scipy.zeros(56)
+    for i in range(20):
+        results[i] = sum(songs == i)
+    # for first 20 artists (0-19) with only one song each
+
+    for i in range(36):
+        results[i+20] = sum((songs &gt;= 20+5*i) * (songs &lt; 25+5*i))
+
+    # for last 36 artists (20-55) who have 5 songs each.
+
+    print scipy.sort(results)
+    # sorting the results.
+
+Results of 4 simulations of artist play count, for the 56 artists sorted by the number of songs played by them:
+
+&gt;[  5.   5.   6.   6.   8.   8.   8.   9.   9.   9.  10.  10.  10.  11.  11.
+  11.  11.  12.  12.  12.  12.  13.  13.  13.  13.  15.  15.  15.  15.  15.
+  16.  16.  16.  16.  17.  18.  20.  20.  21.  23.  41.  45.  46.  46.  47.
+  48.  48.  48.  51.  52.  52.  52.  54.  54.  54.  57.]
+
+&gt;[  6.   6.   8.   8.   9.   9.   9.  10.  10.  10.  10.  11.  11.  12.  12.
+  12.  12.  12.  12.  13.  13.  13.  13.  13.  13.  14.  14.  15.  15.  15.
+  16.  16.  17.  18.  18.  19.  20.  21.  24.  24.  32.  39.  41.  42.  45.
+  48.  48.  50.  50.  50.  51.  51.  52.  53.  54.  61.]
+
+&gt;[  6.   6.   6.   7.   7.   7.   7.   8.   8.   8.   8.   9.  10.  10.  10.
+  11.  11.  11.  11.  12.  12.  12.  13.  13.  13.  14.  14.  14.  15.  16.
+  16.  17.  17.  18.  18.  18.  19.  19.  19.  22.  39.  44.  46.  46.  49.
+  49.  49.  49.  50.  51.  52.  53.  55.  56.  60.  60.]
+
+&gt;[  5.   7.   8.   8.   8.   8.   9.   9.   9.  10.  10.  10.  10.  10.  11.
+  11.  11.  11.  11.  12.  13.  13.  13.  14.  15.  16.  16.  16.  16.  16.
+  16.  17.  17.  17.  18.  19.  20.  21.  21.  22.  35.  44.  44.  45.  46.
+  47.  48.  48.  50.  51.  51.  52.  53.  53.  53.  56.]
+Yup.  I used the [Mersenne-Twister](http://en.wikipedia.org/wiki/Mersenne_twister) in these simulations which has a period of 2^19937 − 1 ~ 4 x 10^6001 and has been shown to be a very good random number generator passing all the [diehard tests](http://en.wikipedia.org/wiki/Diehard_tests).
+Absolutely. But even the vanilla *rand* out of Numerical Recipes works for loops on the order n=trillions, and a pocket calculator could run it; this is why that I'm skeptical of the suggestion that the iTunes randomiser is failing due to "the known deficiencies in computers' random-number algorithms".
+Here were his claims:
+
+&gt;On average, one would expect each song to appear on 6.5 playlists.
+
+The first 650 of the songs were chosen from a list of only 100 songs and the second 650 songs were chosen from a list of 200 songs (including the original 100).  The first 100 songs (the itunes songs) should show up in 650+(650/2) = 975 of the 1300 songs while the last 100 songs (cd-ripped songs) should only show up in half of the second 325 of the songs.  Thus each of the 100 itunes songs should appear in about 975/100 = 9.75 playlists, and the cd-ripped should only appear in about 3.25 playlists.
+
+&gt; Popular, top-50 singles (all songs from the original 100) were rotated onto our playlists *far more frequently than would be expected*. Some artists, having just one song in the iTunes Library, were played more often than the entire 5-song collections of other artists.
+
+In my purely random Monte Carlo simulations, a typical simulation would have the most popular single-song artist having have 12 to 16 plays, while the least popular 5 song artist has 8 to 12 total plays.  My first run I've done showed that the least popular 1 song artists had playcounts of:
+    [  6.   7.   7.   8.   9.   9.   9.  10.  11.  11.  11.  11.  11.  12.  13.  13.  13.  13.  14.  17.]
+while the 5 song artists had playcounts of 
+    [ 10.  11.  12.  12.  12.  13.  13.  14.  15.  16.  17.  17.  17.  18.  18.  19.  20.  20.  21.  25.  35.  35.  42.  43.  43.  44.  46.  48.  50.  52.  53.  53.  53.  54.  56.  58.]
+
+Hence the top-played single song artist had more plays than the bottom ten of the artists with 5 songs.  Note,  the average single song artist should be played 9.75 (+/- sqrt(9.75)) times, average 5-song artist from a ripped cd should appear 5\*3.25=16.25 (+/- sqrt(16.25)) times, and average 5-song artist bought from itunes should appear 9.75\*5= 48.75 (+/- sqrt(48.75)) times.  Its not surprising that the highest value of 20 values with an expected value of 9.75 +/- 3.1, passes the low-tail of 20 values each with an expected value of 16.25 +/- 4.0.  
+
+[You may ask how to calculate the standard deviations.  Use binomial formula for N trials with a probability of p for each, mean ~ N p and sigma^2 = N p (1-p) (~ N p = mean when p is close to 0). For the single song artists song in the first 100 songs (so p = 1/100) in the first 650 slots, it should occur 6.5 +/- sqrt(6.5) times, and in the second 650 slots (so p = 1/200) it should occur 3.25 +/- sqrt(3.25) times, and adding the two in quadrature gives 9.25 +/- sqrt(9.25) to good approximation.  This doesn't factor in how songs can't be repeated in a playlist, so tends to overestimate the variation slightly compared with the simulation.]
+
+&gt;Artists and singles purchased through iTunes were played more frequently than those that were not.
+
+Obviously.  You create 650 spots populated only with songs from itunes, and then create 650 more where half the songs are ones purchased from itunes.  Hence you should expect 3/4 of the 1300 songs (975 +/- 12.7) of the songs to be purchased from itunes.
+
+&gt;Four songs ... were in the iTunes Library but were not chosen for any of the 40 playlists generated during this exercise.
+
+My simulation above had exactly 4 songs with 0 plays as well, all by multi-song choices cd-ripped artists.  The next ten simulations had 3, 1, 0, 4, 2, 3, 5, 2, 4, 1 for numbers of songs never played.  In all ten simulations, all of the never played songs were from the ripped from cd set of songs, as expected (expectation of 9.75 plays per song, vs 3.25 plays per song).
+
+&gt;[...] was iTunes' favourite artist among songs ripped from CD; their songs were chosen just 24 times for 20 playlists [iTunes songs and ripped MP3s]. TPP = 1.2
+
+Ten simulations showed that the most popular ripped from cd artist was played: 21, 21, 26, 28, 24, 23, 21, 21, 22, 23 times, again consistent with what he saw.
+
+&gt;[...] was iTunes' least favourite artist; his songs were chosen just 32 times for 40 playlists [iTunes songs only].
+
+Using just itunes 5-star artists, ten simulations show the least favorite artist was played: 36, 41, 42, 38, 38, 32, 37, 41, 31, 38 times, again consistent with what he saw.
+
+&gt;[...] was iTunes' least favourite artist; their songs were chosen just 10 times out of 20 playlists.
+
+For least picked 5-song ripped from cd artist, the numbers were 13, 11, 6, 11, 10, 14, 8, 8, 11, 12 times.
+
+The claims about labels can also be dismissed as expected deviations; though since he bought uneven quantities of ripped songs it would be annoying to reconstruct his data.  Note, however that most of the cd-ripped songs (that occur at a lower frequency) were sony songs (e.g., that column grew the biggest), so as cd-ripped songs are played less often you do not expect the proportions to match exactly.
+
+&gt;It's obviously difficult to tell whether back-room marketing deals or just dumb luck were responsible for the results we saw, but it appears that we can safely lend credence to the suspicions of myriad iPod users around the world. When it comes to choosing songs, 'random' clearly is relative.
+
+No it isn't.  It's quite easy to run the following [python](http://www.python.org) simulations (make sure you've installed [scipy](http://www.scipy.org) ) and you can see that the results aren't the least bit abnormal.  If he kept the rules simpler (e.g., compared 100 itunes bought songs to 100 cd ripped songs) from the beginning, the expected mean and variations and [p-values](http://en.wikipedia.org/wiki/P-value) could be easily calculated.
+
+EDIT: To do the simulations in this post, add the following to the end of the script given [here](http://www.reddit.com/r/askscience/comments/cqefn/how_many_flaws_in_this_experiment_can_you_find/c0ugit1):
+
+    print "distibution of all artist counts", scipy.sort(results)
+    print "distribution of 1-song artists", scipy.sort(results[0:20])
+    print "distribution of all 5-song artists", scipy.sort(results[20:56])
+    print "distribution of itunes 5-song artists", scipy.sort(results[20:36])
+    print "distribution of ripped from cd 5-song artists", scipy.sort(results[36:56])
+
+    # sorting the results.
+
+    results2 = scipy.zeros(200)
+    for i in range(200):
+        results2[i] = sum(songs == i)
+
+    print "Songs never played: ", sum(results2==0)
+    print "Songs never played bought from itunes: ", sum(results[0:100]==0)
+Yup.  Just because they are pseudo-random doesn't mean the computer-generated numbers do not pass the same rigors of apparent-randomness (when seeded properly).
+&gt; It's obviously difficult to tell whether back-room marketing deals or just dumb luck were responsible for the results we saw, but it appears that we can safely lend credence to the suspicions of myriad iPod users around the world. 
+
+It is not difficult at all, you just run a [Chi-Squared Test](http://en.wikipedia.org/wiki/Pearson%27s_chi-square_test) with a uniform distribution as your null hypothesis.
+Yes, statistical tests can indicate whether a distribution appears consistent expected deviations and should have been done.  I didn't do them for his experiment, as his experiment was needlessly complicated and would make for annoying to calculate statistics.  
+
+E.g., to test whether some artists are being "favored", I didn't want to calculate the standard deviations for his three distinct categories of artists (1-song, 5-song itunes-bought, 5-song cd-ripped), while factoring in that each 25 and 40 song didn't allow repeats, when quick simulations are so easy to perform.
+
+EDIT: thinking about it in the back of my mind the no-repeat part with playlists of sizes on the order of the library, would make the distributions significantly non-Gaussian so it would be a royal pain to deal with from a X^2 perspective
+
+Summary:
+while the 5 song artists had playcounts of 
+    [ 10.
+&gt;[...] was iTunes' least favourite artist; their songs were chosen just 10 times out of 20 playlists.
+# as all the other artists each have 5 songs list.
+Then they added 20 more artists with 5 songs each from ripped cds, and repeated the test.
+The next ten simulations had 3, 1, 0, 4, 2, 3, 5, 2, 4, 1 for numbers of songs never played.
+&gt;[...] was iTunes' least favourite artist; his songs were chosen just 32 times for 40 playlists [iTunes songs only].
+Results of 4 simulations of artist play count, for the 56 artists sorted by the number of songs played by them:
+
+&gt;[  5.
+My first run I've done showed that the least popular 1 song artists had playcounts of:
+    [  6.
+&gt;Four songs ... were in the iTunes Library but were not chosen for any of the 40 playlists generated during this exercise.
+My simulation above had exactly 4 songs with 0 plays as well, all by multi-song choices cd-ripped artists.
+You create 650 spots populated only with songs from itunes, and then create 650 more where half the songs are ones purchased from itunes.
+For least picked 5-song ripped from cd artist, the numbers were 13, 11, 6, 11, 10, 14, 8, 8, 11, 12 times.
+Here were his claims:
+
+&gt;On average, one would expect each song to appear on 6.5 playlists.
+Hence the top-played single song artist had more plays than the bottom ten of the artists with 5 songs.
+Thus each of the 100 itunes songs should appear in about 975/100 = 9.75 playlists, and the cd-ripped should only appear in about 3.25 playlists.
+print scipy.sort(results)
+    # sorting the results.
+&gt;[...] was iTunes' favourite artist among songs ripped from CD; their songs were chosen just 24 times for 20 playlists [iTunes songs and ripped MP3s].
+I could easily extend the script to do this (EDIT: done [here](http://www.reddit.com/r/askscience/comments/cqefn/how_many_flaws_in_this_experiment_can_you_find/c0ugit1) showing the purely random simulation gives results almost identical to the ones he had).
+I am now guessing that it will avoid repeated songs in each playlist, whereas my simulation had no preference for that.
+&gt;Artists and singles purchased through iTunes were played more frequently than those that were not.
+&gt; Popular, top-50 singles (all songs from the original 100) were rotated onto our playlists *far more frequently than would be expected*.
+I severely doubt that iTunes is coming across 'deficiencies' in random number generators.
+I since deleted it, but it was very similar to the next simulation.
+Yes, statistical tests can indicate whether a distribution appears consistent expected deviations and should have been done.
+results2 = scipy.zeros(200)
+    for i in range(200):
+        results2[i] = sum(songs == i)
+
+    print "Songs never played: ", sum(results2==0)
+    print "Songs never played bought from itunes: ", sum(results[0:100]==0)
+I use *very* basic random number techniques (read: stolen from Numerical Recipes) sometimes for Monte Carlo simulations, and I've never had a problem with this.
+This doesn't factor in how songs can't be repeated in a playlist, so tends to overestimate the variation slightly compared with the simulation.]
+Some artists, having just one song in the iTunes Library, were played more often than the entire 5-song collections of other artists.
+The claims about labels can also be dismissed as expected deviations; though since he bought uneven quantities of ripped songs it would be annoying to reconstruct his data.
+If one of my students produced work like this I would slap them upside the head.
+When it comes to choosing songs, 'random' clearly is relative.
+I originally had here a simulation here that treated all artists equally, before I really read his article and saw how he selected the songs and artists unevenly.
+which produce remarkably similar results to their study.
+The only important flaw is a complete lack of statistics.
+Hence you should expect 3/4 of the 1300 songs (975 +/- 12.7) of the songs to be purchased from itunes.
+It's quite easy to run the following [python](http://www.python.org) simulations (make sure you've installed [scipy](http://www.scipy.org) ) and you can see that the results aren't the least bit abnormal.
+It is well known that you get statistical clumping in random samples, as pure homogeneity is actually rather unlikely.
+[You may ask how to calculate the standard deviations.
+&gt;Or is this just a natural manifestation of the known deficiencies in computers' random-number algorithms?
+Just because they are pseudo-random doesn't mean the computer-generated numbers do not pass the same rigors of apparent-randomness (when seeded properly).
+Author of article doesn't understand statistics/randomness.
+It is not difficult at all, you just run a [Chi-Squared Test](http://en.wikipedia.org/wiki/Pearson%27s_chi-square_test) with a uniform distribution as your null hypothesis.
+Agree, the experiment what they did it was complete crap.
+EDIT: **GUIDE to my unorganized posts**.
+I didn't do them for his experiment, as his experiment was needlessly complicated and would make for annoying to calculate statistics.
+But there is no treatment of this, just pointing at the results and saying 'that's a bit weird'.
+I regard this discrepancy (e.g., I predict more clustering of the most played artist) to me simplifying the model, not knowing how an itunes random playlist works.
+Essentially, the author has no idea what he is talking about.
+I finally [extended the simulation](http://www.reddit.com/r/askscience/comments/cqefn/how_many_flaws_in_this_experiment_can_you_find/c0ugynd) to counter his specific claims one by one, showing that they are all expected to to the nature of his experiment.
+interesting... so what is your conclusion?
+test2 = scipy.random.randint(0,200,650)
+    #0-19 unique artists ; after 20-24 artist 1, 25-29 artist 2, until artist 200, etc.
+I modified my quick monte carlo script:
+
+    #!/usr/bin/python
+
+    import scipy
+
+
+    test1 = scipy.random.randint(0,100,650)
+    #0-19 unique artists ; after 20-24 artist 1, 25-29 artist 2, etc.

@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+"We are paying high attention to these cases, mostly those meltdown situations caused by the leaking juice sinking into the chip inside from the 510 connectors."
+
+"Make sure when you screw on the top cap it’s 100% flush. Some people have had leaking issues because the threads weren’t lined up."
+
+"If you're making a device that's going to have a big tank of liquid sitting on top of it, you should make the circuitry water proof."
+
+"Just noticed some juice leaking out of the crack between the top plate and the Just Drag lettering. It could’ve slipped in through the battery door but I highly doubt it as no juice ever runs down the side of my mod or tank. It is only ever wet on the bottom of the tank, right where the 510 is."
+
+"No, but you have to take it apart and conformal coat it, which should already be done by any manufacturer with a liquid-pcb usage case."

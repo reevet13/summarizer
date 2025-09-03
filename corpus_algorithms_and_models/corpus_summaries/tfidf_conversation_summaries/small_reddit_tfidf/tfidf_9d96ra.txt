@@ -1,0 +1,62 @@
+Original Response:
+Irrelevant metric. Don't pull it out when it looks good to later dismiss it when it doesn't.
+Why irrelevant?
+If I create 10.000.000 muffincoins, and then sell you one coin for one dollar -&gt; boom, muffincoin has a 10 million dollar market cap (10.000.000 x $1). That's how the market cap metric is calculated.  
+
+Yeah they factor in the trading volume, but there are lots of coins who have very low volumes in the top 100.  
+
+The dominance metric by market cap is completely irrelevant and useless.
+Thank you!
+All new shitcoins are compared against btc. No shortage of new icos coming out and suckers who buy them giving a token with 2 guys, website, whitepaper, no working product multimillion dollar valuations. Caps don't mean what they do in stocks.
+So you're saying Bitcoin's dominance is even higher?
+[removed]
+Irrelevant statistics and metrics are the lifeblood of this sub.
+&gt;Yeah they factor in the trading volume
+
+So to recap, it doesn't work at all like your shitty analogy tries to misrepresent it.
+
+&gt;but there are lots of coins who have very low volumes in the top 100
+
+And the whole of this post is comparing market dominance/preference for one coin over the other. Low volume means low popularity, simple as that. You're trying to argue that market cap is irrelevant in a post about comparing popularity of Bitcoin against alts, which is precisely when the metric is most relevant.
+Few months ago I bought a couple hundreds worth of an ultimate shitcoin. With doing that I boosted its market cap on CMC by 3 million USD, because it basically had no volume. The market cap metric on that website is largely useless and misleading.
+I believe that statement is 87.2% accurate.
+It is not irrelevant. It is a contrarian indicator. I always use it to gauge whether we are still in a bear market.
+
+Due to a tweak of fate it historically showed how weak Bitcoin is compared to its true competitors (USD, gold, pound, etc). So the more it rises, generally it means, that the weaker it gets. People here are often acting like freaking m*rons. They cheer signals of weakness.
+Price is also determined by demand.if no one is willing to buy your coin for $1, then the price eventually falls to it's fair market value.
+That is not how it works at all.
+Coinmarketcap claims to use the "circulating supply" for market cap calculation. So in your example the market cap would be 1$. I have no idea though how they get to the circulating supply number or if it is in any way accurate.
+
+E.g. SolarCoin market cap based on total supply would be on rank #5, but based on circulating supply it's just rank #165.
+&gt; Coinmarketcap claims to use the "circulating supply" for market cap calculation. So in your example the market cap would be 1$. I have no idea though how they get to the circulating supply number or if it is in any way accurate.
+
+I'd like to know that as well.
+&gt; Yeah they factor in the trading volume
+&gt; 
+&gt; So to recap, it doesn't work at all like your shitty analogy tries to misrepresent it.
+
+Trading volume is a fairly easy to manipulate metric. In my example, if I sold you 1 muffincoin for a $1, then bought it back from you for the same $1.. The trading volume is $2.  
+
+Now let's do that one million times... Wow, the trading volume is one million dollar! Impressive :) That muffincoin is surely about to eat into bitcoin's marketshare now!
+&gt;Now let's do that one million times..
+
+So you're claiming a bunch of people are throwing a bunch of money away in fees just to make the transaction volume higher for no reason? That's a pretty bold claim for which there's no evidence.
+1. trading volume, not transaction volume  
+
+2. exchanges without trading fees do exist   
+
+3. spending money on trading fees might be profitable if it means you're pumping your coin up, which you can then dump on suckers
+&gt;exchanges without trading fees do exist
+
+At small volumes, sure. But if we're talking manipulation at a significant scale, you can't do it for free.
+
+&gt;spending money on trading fees might be profitable if it means you're pumping your coin up
+
+Might be true for shitcoins, though you obviously don't have the data to back any of this up. Neither do I, but I'm not the one making these dubious claims. At any rate, Bitcoin would be less prone to this as the volume needed to manipulate the price would be much higher, so the comparison against alts is even more relevant, not less.
+
+Summary:
+That's how the market cap metric is calculated.
+So in your example the market cap would be 1$.
+The trading volume is $2.
+Coinmarketcap claims to use the "circulating supply" for market cap calculation.
+&gt; Coinmarketcap claims to use the "circulating supply" for market cap calculation.

@@ -1,0 +1,17 @@
+Here is a summary of approximately 10% of the text (up to 250 words):
+
+&gt;yet today, in macroscopic objects, we do not notice any residual uncertainty
+
+We don't? Most physicists believe that quantum uncertainty lies at the heart of galaxies and the largest structures in the Universe.
+
+...Being too far apart to communicate causally...
+
+Without the quantum fluctuations during inflation, there's no other way to produce the cosmic structure we see today while also staying consistent with observation.
+
+&gt;Anyway, quantum entanglement can never communicate any information faster than light to begin with.
+
+If Alice has one entangled particle and Bob has the other, and Bob makes a measurement or change, then he now knows information about both his and Alice's particle. However, Alice does not know the measurement has been made and can not know this without making a measurement on her end (which Bob already knows the outcome of, but she doesn't), or waiting for that information from Bob via some other means.
+
+...information is not really sent. Entanglement collapses because of measurement (or change) to one of the entangled particles.
+
+&gt;today, in macroscopic objects, we do not notice any residual uncertainty

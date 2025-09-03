@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+In air at sea level, the speed of sound is 343 meters/second.
+
+In water under the same conditions, the speed of sound in 1482 meters/second.
+
+So, underwater, the sonic boom propagates much faster and you have to be moving much faster to create one.
+
+There would also be a significant amount of [cavitation](http://en.wikipedia.org/wiki/Cavitation).
+
+What would happen at a lower tip velocity is that the pressure at the propeller tip would drop (when an object moves quickly through a fluid (air or water) the pressure of the fluid immediately around it drops).

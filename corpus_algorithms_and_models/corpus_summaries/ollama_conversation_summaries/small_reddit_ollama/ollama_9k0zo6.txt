@@ -1,0 +1,15 @@
+Here is a summary of the text in approximately 250 words:
+
+Why do you need two separate SSDs? One SSD and one HDD is more common. The HDD can be used for storage while the SSD can be used for speeding up boot times and for games that need extra performance.
+
+Well, it depends on what you want to do with the PC. Gaming? Processor may be a bit slow for that. That isn't much HDD space. 1 SSD and a larger normal drive like the other poster mentioned.
+
+CPU might bottleneck. Ram is... why so slow? Maybe 2k+?
+
+Fam, you have two SSds?? You should have one SSD for applications you use often and the OS and one HDD for your movies, downloads, games, and all that. Are you using this computer for gaming? If you want to cut costs, can get a cheaper CPU, if you're using the computer for gaming, as an i7 is overkill for most, if not all, games.
+
+Most important part of any gaming PC is probably the graphics card. The 1070 is good and can run almost every game out there on high/maxed settings at 1080p.
+
+However, some parts are a bit old - the CPU is from 2012 for example. i7 might sound 'high-end' but I'm guessing a 2012 i7 is equivalent about equivalent to a 2014 i5. Should be enough for gaming but not very future proof.
+
+Also, 1600 Mhz RAM? What year is this? Most RAM you buy now out there is at least 2400 Mhz.

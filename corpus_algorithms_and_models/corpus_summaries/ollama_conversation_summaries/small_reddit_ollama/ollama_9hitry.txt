@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+Open Disk Management (type "disk management" into the start menu to search for it).  It'll show you a graphical representation of all drives and their partitions, if there are any.  You can then right-click on the drive or it's partitions to remove or create whatever you want.
+
+I did, I see it as two partitions, I can't format it, every time I format, nothing actually happens
+Delete the partitions and then create a new one.
+Forgot to mention, when you create the new partition it'll ask what kind.  Make it FAT32.
+
+Yeah, I managed to get the thing into one volume, no partitions, but now it just says "healthy primary partition" and I can't format it or delete it or allocate anything. Think it might just be fucked.
+Can you post a screen shot?
+I can't actually I don't have an imgur or nothing.

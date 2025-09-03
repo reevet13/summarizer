@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words:
+
+Now pull those magnets up like opposite pendulums (let's say 100m up) and put a person in the middle of where they would violently crash together at the bottom of their downward swing. If you get magnets strong enough that they would suddenly repel one another without physically crashing together, would the magnetic forces still harm the guy standing in the middle? I'm sure my experiment has flaws so feel free to expand on or change it to make my question make sense.
+
+A rapidly changing magnetic field can cause biological effects - not from any mechanical force felt by the person, but from the current induced. This is the same technique used in [transcranial magnetic stimulation](http://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation).
+
+Stronger magnetic field can lead to observable diamagnetism, where the water in your body can repel the external magnetic field. This is the phenomenon behind [the levitating frog](http://www.ru.nl/hfml/research/levitation/diamagnetic/).
+
+If they have a pace maker, the changing magnetic field could also induce a current into the wires, which could send a nasty shock to the heart.
+
+Ions are current carriers, electrolytes are conductors, so they certainly are a "conductor in a magnetic field."

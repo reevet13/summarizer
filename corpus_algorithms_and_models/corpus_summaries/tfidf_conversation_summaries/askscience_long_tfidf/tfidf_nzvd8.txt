@@ -1,0 +1,80 @@
+Original Response:
+I heard that physicists are working on creating a significant amount of anti-hydrogen. Theoretically, if we can create anti-hydrogen, we could create all of the anti-elements. How would this new field of "anti-chemistry" (ie interactions of anti-elements) differ from the chemistry we know today? Would it essentially be the same as chemistry? I guess what this boils down to is whether anti-particle interactions are the same as particle interactions.
+
+Note: I am a chemist, not a physicist.
+As far as we know, they would be the same. There are certain processes that are different depending on which version is there (for example, particles called kaons turn into their antiparticles with *unequal* probabilities), but this isn't expected to affect things on a chemical scale.
+
+However, only single anti-atoms have been produced, so as far as I know no anti-chemistry has actually occurred.
+Well, antiparticles have the same mass as their counterparts, the only difference is reversed charges (electron -, positron +) (proton +, anti-proton -). If the interactions are between strictly anti-matter, there should not be any fundamental difference between strictly matter interactions, for, the electrical sign choices were arbitrary to begin with. However, completely annihilation occurs when a particle comes into contact with it's antiparticle counterpart.
+
+As for synthesizing antiparticles, it seems to me to be rather hard to contain these so that they are unable to touch any matter whatsoever... it would have to be in a vacuum, with some kind of electromagnetic field keeping the particles from touching the edges... they would also have to be fairly light particles as well (gaseous form), otherwise they would sink to the bottom (due to gravity).
+&gt;it would have to be in a vacuum, with some kind of electromagnetic field keeping the particles from touching the edges
+
+That is exactly what they use.
+So if you managed to make a neutral atom or molecule, wouldn't you lose the ability to contain it?
+No, you can hold neutral particles in a magneto-optical trap.
+The wikipedia entry for magneto-optical trap hurts my brain. But it's awesome!
+It's always interesting to see some familiar concepts applied in manners I've never encountered before. Very cool stuff!
+If we've produced multiple atoms of anti-hydrogen, shouldn't there be some way to determine if it has been bonding to form anti-h2?  
+  
+Edit: clarity.
+The problem is that we have produced so astonishingly few anti-hydrogens to turn into anti-H2 in the first place. It is really very difficult to slow down anti-protons to combine them with postrons in particle accelerators. I think the world-wide total is only a few 10s of nanograms.
+Yes. As far as I know (could be wrong), this hasn't been achieved.
+In a somewhat related note... particle meets antiparticle results in mutual annihilation is pretty much straightforward...
+But, what happens if anti-hydrogen hit a, say, lead atom? Or similar occurrences with 'smaller' particles..
+&gt; what happens if anti-hydrogen hit a, say, lead atom?
+
+&gt;
+
+The positron shell hits the electron shell first.
+
+With those out of the way (see: gamma rays) the negative remaining anti-proton drops into the very positive lead nucleus and meets one of its protons, and they trash the place.
+I've heard this about annihilation, but I also know that matter can neither be created nor destroyed. By annihilation, do you mean it just converts to energy at E= mc^2? Or is it more complex?
+Actually, the problem with producing anti-H2 isn't that we've produced too few anti-hydrogens.  The problem is that these anti-hydrogens are very hard to trap because they are electrically neutral.  The people at CERN who are working on this problem have a very, very, very novel design for a trap that works on the magnetic moment of the anti-hydrogen, but it's still extremely tough.
+I have a small bone to pick. 
+
+Technically, based on what we've seen so far, yeah, we should expect the same sorts of reactivity. But we haven't done the experiment yet. Which means we can't say for sure. As scientists you have to maintain a degree of skepticism with this stuff and allow for the possibility that different antimatter reactivity will arise which requires a revision of our understanding. 
+
+Experiment always holds the final say.
+Matter can be created and destroyed.
+
+What happens when matter and antimatter collide depends on the types of particles involved, but it generally results in light, neutrinos, and various subatomic particles.
+So in that case, it isn't 'destroyed' in that it is zapped out of existence - it is just converted to something else in existence. Just wanted to clear myself up on that.
+That's right, while matter (and mass) are not conserved, energy and momentum are. So you can destroy matter, but the energy has to go somewhere.
+Is that because anti-H atoms (unlike positrons or anti-protons\*), are electrically neutral, so you can't just trap them with magnets?
+
+\* *why aren't anti-protons called "negatrons"?*
+Correct.  The classic way for trapping (electrically-charged) particles is to use a [Penning trap](http://en.wikipedia.org/wiki/Penning_trap).  But if your particles are electrically neutral, you have to play with electric and magnetic dipole/quadrupole/etc. moments of the particles (as opposed to the electric charge, which is the electric monopole moment), which are weaker.
+
+Also, "proton" derives from the Greek for "first" according to its Wikipedia page, not from "positive".  We generally just prepend "anti" to antiparticle names, unless a particle is its own antiparticle, with only a couple historical exceptions.  (ex. anti-electron --&gt; positron)
+I'm just gonna say it, the scientific community needs to step up and fix the terminology around electrons. Charge is positive, and anti-electrons are anti-electrons. The textbook industry will love it.
+This is true - however the time it will take to *get* the materials and actually run the experiment is massive. Our computer models and theories aren't 100% bulletproof, but they're darn good enough.
+
+
+Being skeptical and asking for experimental proof is a cornerstone of science, but at this point it's also extremely cost-prohibitive. We could be doing much more useful things with the tiny amount of anti-H that we have than confirming bonding properties.
+That's fine, it's really expensive and we probably can't do the experiment anytime soon. But in no way does it give us licence to believe that our models are "darn good enough" to extrapolate to antimatter.
+
+You cannot ever assume that your theory is complete enough to make leaps like that, you can only do the calculations and hope that the experiment will match your predictions. Anything more is hubris.
+No offense, but I spend a lot of time in the Engineering department at my college. They make leaps like that *constantly* and out of necessity.
+
+
+I think we're talking about two different things, really. I would never try to make a scientific theory based on extrapolation and predictions, but if I were the engineer tasked with storing a bunch of anti-H2, telling my boss "the theory isn't complete enough" is not gonna fly. I'll need to be happy with the predictions to build my storage device on time and on budget.
+You can build a plane using Newtonian mechanics but that doesn't mean it's correct in the ontological sense.
+Rebuttal: You can build a plane using aerodynamics simulators and it can be [freaking awesome.](http://en.wikipedia.org/wiki/Grumman_X-29)
+Well look at that point we're not really arguing about the same thing anymore. You're right, you can. And I'm right, it doesn't say anything about what's true. And that's all either of us is really trying to say.
+Yup. Upvote for both of us being adults!
+That's just a historical curiosity. When electrical charge was discovered to have two opposing forms, they had to call it something and they thought it was flowing from what we now call "positive" to the "negative", but it turns out the were wrong. In any case, the assignation is arbitray.
+
+But why do you feel that charge *has to* be positive?
+He's probably an [electrical engineer](http://xkcd.com/567/)
+
+Summary:
+The problem is that these anti-hydrogens are very hard to trap because they are electrically neutral.
+Matter can be created and destroyed.
+As far as we know, they would be the same.
+But, what happens if anti-hydrogen hit a, say, lead atom?
+&gt; what happens if anti-hydrogen hit a, say, lead atom?
+Charge is positive, and anti-electrons are anti-electrons.
+No, you can hold neutral particles in a magneto-optical trap.
+I've heard this about annihilation, but I also know that matter can neither be created nor destroyed.
+But why do you feel that charge *has to* be positive?

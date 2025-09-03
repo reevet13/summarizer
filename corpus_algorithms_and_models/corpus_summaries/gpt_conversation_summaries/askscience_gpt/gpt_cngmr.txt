@@ -1,0 +1,7 @@
+I know that the problem is that there are 3 X chromosomes and all the other chromosomes have 3 copies too, but I have no idea what sort of condition this is and I'm also trying to figure out what goes wrong during cell division for this to occur? 
+
+That is triploidy and to be more general, euploid which is basically having the entire set rather than some not to confuse it with aneuploid which is having some sets. 
+
+It is rare to have birth since most triploidy cases result in spontaneous abortions. 
+
+There are many ways this can go wrong. Most of the error occurs in meiosis 1 (known as primary non-disjunction) and some in 2 (secondary non-disjunction).

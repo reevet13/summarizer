@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text (up to 250 words) selected exactly as written:
+
+They get shorter in somatic (adult) cells. However, stem cells and germ cells express an enzyme called telomerase, which extends the telomeres to keep them from shortening. It stops being expressed in most cells as they differentiate.
+Telomerase probably wouldn't help with cancer, as one of the things cancer cells do is reactivate the gene for making telomerase.  It's part of how cancer can just keep dividing forever and ever.
+Many cancer cells have mutations that turn on telomerase. Telomeres effectively make cells shut down after they divide too many times. Shutting down when you divide too many times is like the opposite of cancer.
+
+Let me know if you'd like me to extract more!

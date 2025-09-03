@@ -1,0 +1,42 @@
+Here are the selected sentences from the original text:
+
+Still waiting for the download button.
+I'm hoping it's using the steamcmd command. I shouldn't have to run steam to run a server.
+You should be able to download it via steam cmd. As i know you can download every game (that you bought) via steam cmd
+
+@ECHO OFF
+REM ==========================
+SET APP=DayZ_SADS
+SET STEAMLOGIN=username password
+SET APPID=223350
+SET APPDIR=C:\Games\SteamCMD\DayZ_SADS
+SET STEAMPATH=C:\Games\SteamCMD
+REM ==========================
+ECHO %DATE% %TIME% GAME  : %APP%
+ECHO %DATE% %TIME% DIR   : %APPDIR%
+ECHO %DATE% %TIME% APPID : %APPID%
+
+I am currently downloading the server. If you don't see that at the tools section restart steam. If you want to download it via steam cmd just login with your account and type:  app_update 223350 
+
+[http://prntscr.com/kw9vlk](http://prntscr.com/kw9vlk)
+Have you managed to run it? I get        
+       
+     [ERROR][Server config] :: instanceId parameter is mandatory and must be valid 32-bit integer.
+
+You can actually quote the path to your config file if necessary;
+
+    START "" "F:\Games\SteamCMD\dayz_sads\DayZServer_x64.exe" "-config=F:\Games\SteamCMD\dayz_sads\serverDZ.cfg" "-port=2402"
+
+I did that and I'm still getting the same error
+How can I do that? I keep getting the InstanceID error
+
+You can make a shortcut on your desktop and when you got the exe and only use the config parameter. You're good. No batfile needed.
+What do you mean when I got the exe?
+
+The instanceId error is because the server doesn't know where the config file lives.  Specify the file in your server startup command line.  Like so:   
+
+"DayZServer_x64.exe" -port=2302 -config=serverDZ.cfg -profiles=G:\SteamLibrary\SteamApps\common\DayZServer\logs -doLogs -adminLog  
+
+Sorry but... Where exactly is my server startup command line?
+
+Check out [this](https://www.reddit.com/r/dayz/comments/9h62o8/anyone_else_getting_this_when_you_try_to_create_a/e69e6fa/)

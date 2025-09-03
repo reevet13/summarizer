@@ -1,0 +1,159 @@
+Original Response: 
+What is possible if some someone would 51% attack Bcash?
+The chain would be considered compromised and its value would plummet ie btg.
+Is it possible to hardfork Bcash and make all coins just vanish or invalid?
+No, you could hard fork.
+But the idea is the new chain would just be attacked again as it would be even easier now on a new fork to 51% attack.
+These attacks aren't practical for double spending as much as it is for destroying the reputation of a chain.
+They can double their money.
+So you have 10,000BCH, you send them to an exchange, convert them to BTC....meanwhile you start mining on a new chain and send the same 10,000BCH to another exchange and convert them and maintain your hashpower on this chain.
+Then withdraw both sets of BTC.
+The first exchange gave you BTC and got nothing in return.
+At this point various exchanges would delist BCH or at the least require considerably more confirmations, BCH's reputation would be finished as people realized it was too vulnerable.
+censor transactions.
+get all rewards.
+double spend their own txs.
+ddos by mining empty blocks.
+that's it.
+When bitcoin was hard forked, it didn't make the coins invalid, so no.
+Bitmain could do a massive doublespend and then destroy the network.
+They've got 1Million BCH ; they could unload them over the course of a few weeks in exchange for Bitcoin.
+Then once the exchanges allow them to withdraw (I'm sure there will be several hundred if not thousand confirmations required for such large amounts); they can launch a secret 51% attack.
+Remine thousands of blocks and reset the blockchain to a point before they sent their BCH to exchanges.
+This would destroy BCH once and for all.
+The risk is that killing BCH could harm BTC price, at least in the short term; and that wouldn't be good for an organization that just bought a bunch of BTC.
+Hard to say what will happen exactly; but I think its safe to say that once hashrate on BCH drops low enough; it will be attacked.
+Probably needs to be less than 5% ; I'd think it will be attacked before it gets as low as 1%.
+They could cancel a transaction by rewriting their blockchain to exclude a specific transaction (or all of them).
+BCash Cash?
+No, you can't use other's coins even with 51% attack, what you can do is doublespend the coins you own.
+True although that's not how doublespending works, in practice, they would have to start alternative chain before unloading their BCH and publish it after they got rid of it.
+Problem is if they turn off their ASICs from the main BCH chain and unload their BCH in exchanges it would create such a massive dump that it wouldn't be even worth to do a doublespend after that, they'd earn more just by mining BTC instead of attacking BCH chain.
+True, although the first exchange would have the coins from original chain (that's now left behind) and the second exchange will have the coins of the new (long) BCH chain, so it's not exactly like one of the exchanges is left with "nothing".
+I will be surprized if BCH is still listed on exchanges in 6 months, it's incredibly insecure and it will get attacked.
+If there's something to learn from blockchains it's the fact that if you put a big enough honeypot that relies on a broken crybersec it will get taken 100%.
+It's a slippery slope.
+Once you start sliding down it's nearly impossible to get back up again, which is why altcoins are too risky.
+They've got high potential for 51% attacks because the market cap is way too low.
+There's absolutely no protection against this.
+I've never heard of a thing called "invalidateblock" to protect against this as mentioned above, but if there is maybe someone can enlighten us.
+Crypto is all about trust, and the only one that can truly be trusted is Bitcoin.
+It's strong enough to survive such attacks.
+Would nodes automatically reorganize thousands of blocks?
+I think there's a much lower limit.
+If they need people to manually reorganize, why would they?
+Unless no one mines the correct chain at all.
+&gt;so it's not exactly like one of the exchanges is left with "nothing".
+But the Miner stops mining the other chain.
+So they're left with exactly nothing :-)
+Bcash Would become completely untrustworthy, exchanges will delist it and price would plummet.
+It could very likely be the death of bcash.
+[deleted]
+&gt; True, although the first exchange would have the coins from original chain (that's now left behind) and the second exchange will have the coins of the new (long) BCH chain, so it's not exactly like one of the exchanges is left with "nothing".
+I will be surprized if BCH is still listed on exchanges in 6 months, it's incredibly insecure and it will get attacked.
+If there's something to learn from blockchains it's the fact that if you put a big enough honeypot that relies on a broken crybersec it will get taken 100%.
+The only thing is, is there any miner who has 6% of bitcoin's hashrate and who ALSO couldn't be quickly found and prosecuted?
+A doublespend of that magnitude would surely be deemed grand theft in either China or America, and so any miner who has the kind of power would likely be worried about chainalysts linking the transaction to them, and then the resulting arrest, prosecution, and loss of assets.
+I heard exchanges already require more bch confirms to deposit anyway.
+Who's "the Miner"?
+Some people will mine the old one some will mime the new one and we'll have a fork.
+&gt; Some people will mine the old one
+
+who, the [Underminer](http://villains.wikia.com/wiki/The_Underminer)?
+What law is being broken?
+The SW allows it?
+I don't think the US or China would care.
+Hell, they might even do it.
+The way the demise hits the press it would be a PR nightmare.
+An end result I would think both Country's dream of.
+&gt;The SW allows it?
+What does SW stand for in this context?
+Software?
+[[In case you read the above question in a tone that sounds like I'm challenging you, be aware that I'm not -- I just don't know what the acronym stands for in this context.]]
+Yes, software, the code.
+No challenges.
+Just discussion.
+&gt; Yes, software, the code.
+No challenges.
+Just discussion
+
+Yes, the software does allow it, and yet people have been prosecuted before for doing things the software allows.
+Like hacking.
+All successful hacks do things the software allows, whether that's because of poorly designed software or because of poorly chosen passwords.
+But nonetheless, if Party A (who has many U.S. customers) doesn't want you to take $500,000 from them, and if they can make a case that you "abused the system" to do that (even if you didn't), a government will likely be sympathetic.
+&gt; I don't think the US or China would care.
+Hell, they might even do it.
+Governments have this funny idea where it's okay for *them* to break into someone else's computer to take their money, but it's not okay if *you* do it without their authorization.
+&gt; The way the demise hits the press it would be a PR nightmare.
+An end result I would think both Country's dream of.
+Maybe so.
+But I think that governments treat exchanges like mini banks, and if a relatively large exchange such as Coinbase got "stolen" from (even if it's not actual theft), I think the government would want to be seen as "protecting its citizens" (i.e.
+the Coinbase customers) and therefore would prosecute the "thieves" (even if they're not really thieves).
+And at the same time they would hammer home the message: "You shouldn't be using bitcoin.
+It's only a matter of time until you're hacked."
+And people who don't do their research would nod their heads and say "Yeah, yeah, it's just dangerous monopoly money -- I don't know why they don't just ban it."
+I can't disagree with your logic.
+Well stated.
+Like, people who still mine etherium classic?
+If it's allowed within the network rules how is that exactly a theft?
+They didn't break the law, they didn't break the consensus rules, didn't exploit some security bug, doing things that are not nice is not necessarily illegal.
+It's like buying into a dropping stock while someone shorts it and massively profits, you didn't get robbed, you got owned, and exchanges who accept BCH deposits will be exactly that.
+See [my reply](https://www.reddit.com/r/Bitcoin/comments/9du33e/bcash_hashrate_down_365_in_a_day_only_66_of/e5lwi9d) to HumblGeniuz.
+Well, most governments have been prosecuting &amp; murdering it's citizens for nothing since the dawn of time so no one's saying that can't happen, just no legal base for that *as of yet*.
+When it happens the laws will be made up on the fly.
+And I disagree that it's in any shape similar to hacking, 51% attack doesn't exploit any bug or backdoor of the system, it does exactly what the system was designed to do.
+&gt; I disagree that it's in any shape similar to hacking
+
+Would you agree with this statement?
+Hacking and 51% attacks both have the following properties in common: to do them, you have to use software to do something most people don't do, which most companies who use the software don't want people to do, and which can result in financial losses for those companies if people do it.
+My point, btw, is not that 51% attacks are theft; that's not what I'm saying.
+Actual theft is not necessary if you can convince the *government* that something is theft.
+And I think if Coinbase got 51% attacked, they could probably convince the government that it was theft, even if the attacker was just using the standard proof-of-work properties of a blockchain.
+That's a very broad statement that can include anything from debt collection to sport betting.
+And ironically it doesn't apply to 51% attacks because 51% attacker is using the software in exactly the same way for exactly the same purpose as the 49% on the other side.
+It's a race and the winner gets it all.
+If we consider 51% attacks illegal then we might as well consider any kind of race, academic competition, e-sports, stock market and voting illegal.
+&gt; it doesn't apply to 51% attacks because 51% attacker is using the software in exactly the same way for exactly the same purpose as the 49% on the other side.
+That is a very good point.
+I hope it would hold up in court, but I suspect it wouldn't, because in courts logic and facts don't always matter.
+Often, what matters is money and keeping up a good public image.
+&gt; If we consider 51% attacks illegal
+
+I don't consider it illegal, but I bet the government would, if a service like Coinbase and/or their customers lost millions of dollars because of it.
+(Actually it wouldn't be "because of" the 51% attack -- it would be because of their own stupid decision to trust a blockchain that has weak security.
+But they, of course, would claim it wasn't their fault, and I think their money and "good public image" would talk loudly in their favor.)
+Perhaps if we spread awareness better -- a sort of meme or something like "bch has a built-in backdoor: the 51% attack" or "bch: the low-security blockchain" -- and if we connect that security hole with public knowledge, that might help in case a 51% attack on bch ever goes to court.
+The defense could make an argument such as the following:
+
+&gt; Hey, they were warned far ahead of time; bch has a built-in backdoor which is an integral part of its dev's choice to continue using bitcoin's mining protocol with a low hash rate.
+Everyone knew that they kept doing this even after being warned about it; everyone knew that someone with a lot of hash power could do a successful double-spend at any time; everyone knew they chose to keep the backdoor in place in the code.
+They called it a 'feature,' telling miners that bch was good for them because they didn't have to change to a new hash function.
+&gt; Can we be blamed for using a 'feature' that they bragged about?
+They intentionally designed the software so that you could do this; it's in the whitepaper that they widely claim represents their coin: 'The majority decision is represented by the longest chain, which has the greatest proof-of-work effort invested in it.'
+We warned everyone that their decision to keep bitcoin's hash function made them susceptible to a double-spend, but they bragged that using the same hash function was a feature not a bug.
+So when we used this 'feature' to do the very thing mentioned in their white paper as okay, we get sued?
+How is that fair?
+The problem I see is that the whitepaper which they claim represents their coin explicitly calls this an attack.
+The very way we talk about 51% "attacks" involves using language that assigns blame.
+It makes it very hard to legally defend someone's right to do this when we call it an "attack" and the white paper contrasts such an attack with "honest[y]."
+
+Summary: 
+This would destroy BCH once and for all.
+What is possible if some someone would 51% attack Bcash?
+I don't think the US or China would care.
+&gt; I don't think the US or China would care.
+&gt;so it's not exactly like one of the exchanges is left with "nothing".
+&gt; Yes, software, the code.
+I can't disagree with your logic.
+It could very likely be the death of bcash.
+That is a very good point.
+It's strong enough to survive such attacks.
+But the Miner stops mining the other chain.
+If they need people to manually reorganize, why would they?
+Unless no one mines the correct chain at all.
+Hell, they might even do it.
+An end result I would think both Country's dream of.
+No, you could hard fork.
+No, you can't use other's coins even with 51% attack, what you can do is doublespend the coins you own.
+So they're left with exactly nothing :-)
+My point, btw, is not that 51% attacks are theft; that's not what I'm saying.

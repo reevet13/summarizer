@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+Hello, Im being offered a 6700k if I trade in my i5 7600k + 80 dollars, is this a good deal? No it is really not a good deal.
+
+They are not that different and hyperthreading cores are not real cores, but is a tech that allows your OS/software to intelligently queue tasks for the cores that you do have.   For this reason, HT does not have an amazing impact for on-the-fly tasks like gaming and streaming.
+
+So would I be better off getting an AIO to stop the thermal throttle and maybe 8 more gb of ram?

@@ -1,0 +1,58 @@
+Original Response:
+In high school Bio I remember learning that proteins are produced linearly then assume a shape based on the way various series of amino acids along the length adhere to one another. I have a few questions.
+
+* Given the number of amino acids in proteins, it would be my expectation that such a process, if based only on the proteins' random contorting in fluid leading to incidental contacts and adhesions, would take a tremendously long time. Various analogies (appropriate or not) to computer science come to mind. **tl;dr What allows the proteins then to assemble so quickly?**
+
+* Do these adhesions have to occur in a specific order? What prevents them from happening out of order?
+
+* How come adhesions are never skipped or missed? If i flail a long string around for a few minutes there still seems to be a decent chance any two given parts don't come into contact with one another.
+
+Thanks!
+My background is in ab initio methods and folding, and not chemistry, but one assumption we make is that proteins that do not fold in a highly-conserved fashion won't be conserved biologically. That is, there is an overwhelming selection criterion for proteins that fold correctly nearly 100% of the time --- otherwise the associated cellular machinery would fail to work and the organism would not thrive.
+But what are these mechanisms that cause the protein to fold correctly 100% of the time? You just described the meta-machanism that generates these mechanisms, no?
+There's a lot to it. Wikipedia is always a good place to start:
+
+http://en.wikipedia.org/wiki/Protein_folding
+
+&gt; The significant correlation between protein folding rates and the sequence-predicted secondary structure suggests that folding rates are largely determined by the amino acid sequence. The amino-acid sequence of a protein determines its native conformation.[6] A protein molecule folds spontaneously during or after biosynthesis. While these macromolecules may be regarded as "folding themselves", the process also depends on the solvent (water or lipid bilayer),[7] the concentration of salts, the temperature, and the presence of molecular chaperones.
+
+&gt; Folded proteins usually have a side chain packing stabilizes the folded state, and charged or side chains occupy the solvent-exposed surface where they interact with surrounding water. Minimizing the number of hydrophobic side-chains exposed to water is an important driving force behind the folding process.[8] Formation of intramolecular hydrogen bonds provides another important contribution to protein stability.[9] The strength of hydrogen bonds depends on their environment, thus H-bonds enveloped in a hydrophobic core contribute more than H-bonds exposed to the aqueous environment to the stability of the native state.[10]
+You're hinting at Levinthal's paradox, which basically states that the amount of possible confirmations of a protein are so large, that even a 100 residue amino acid chain would need more time than the universe has existed to fold into all possible confirmations.  However, we know this isn't the case, as our bodies aren't flooded with denatured proteins in massive proportion.
+
+For how proteins do fold, the best way to think about it (as far as I know) is Anfinsen's dogma.  Each native confirmation of a protein is the one in the lowest energy state, making it the most stable confirmation.  Anfinsen postulated that the native confirmation must have three charateristics.  1) It must be unique, there can't be another state with an equally low energy state.  2) It must be stable.  Small changes in the environment (pH, temperature, etc) can't lead to small changes in the confirmation.  This isn't to say a large change can't change the confirmation, however.  3) The path to the native state must be easily accessible.  Just rule 2 stated that small changes can't lead to small changes in the shape, no intermediate shape can require a large amount of energy in order to proceed towards the native state.  In other words, it can't have an intermediate folding that it would have trouble going beyond.
+
+I'm not 100% able to explain about the second and third parts, but I can say this semi-related point.  Proteins always refold correctly.  Experiments have been run where proteins with several sulfide-sulfide bonds were denatured, then allowed to refold.  If the disulfide bonds were arranged randomly, such as your flailing string analogy, then only a percentage of the proteins should have refolded with the correct disulfide bonds. Instead, 100% of proteins refolded perfectly.  This is further evidence that proteins do not fold according to random chance, but some sort of order.
+Proteins do sometimes misfold. There are proteins,  [chaperone proteins](https://en.wikipedia.org/wiki/Chaperone_%28protein%29), that assist the folding process and help correct misfoldings.  
+
+Prion diseases and proteopathy diseases are the result of protein misfoldings. Treatments  with small moclecyles (pharmacological chaperone) can be used to fix these errors.
+&gt;Molecular chaperones do not necessarily convey steric information required for proteins to fold
+
+It's my understanding chaperone proteins function more to prevent protein aggregation during folding, rather than actually alter the native state.  I could be wrong on that, however.  And you are right on that last part.  I was referring to proteins without deformities, but as I think about it, I realize I don't know about prions/etc to claim with certainty they're not just plain misfoldings, so I apologize.  The rest still fits for the general idea of how proteins fold: using mostly sterics and finding the lowest energy confirmations, to overly simplify it.
+[deleted]
+I can remove my answer if you want. I can only provide the observational reason why folding is highly deterministic because, as I said, I am not a chemist.
+thats like asking what allows things to fall to the ground without sometimes flying off to the side
+I remember addressing this question in my Biochemistry I class in undergrad. Hopefully my knowledge isnt too fuzzy but the answer to how proteins are near 100% correctly folded is essentially a matter of thermodynamics and the reversibility of each step. The correct folding process is the lowest possible energy and each folding step is not very reversible, so each time you progress in the right direction, you both have limited options (only a few conformations are lower in energy than the one you are currently in) and it is not favorable to go backwards if you make a correct fold, but an incorrect fold is somewhat reversible.
+It goes in stages. There are local structures, such as the [alpha helix](http://en.wikipedia.org/wiki/Alpha_helix), that form first. These can be short, ten or twenty amino acids long, that are strongly disposed to form a particular shape. This can happen very quickly, even before the whole protein is made. These parts then constrain the options of the rest of the protein. The final folding takes longer, but it's a jostling at the 'elbows' between largely fixed structures.
+
+In terms of thermodynamics, some local structures have a very low energy conformation, so those parts of the protein fall into place very quickly. The final lowest energy conformation of the whole protein has some parts that aren't as 'deep', so that settling process takes longer. But the protein doesn't explore the whole folding space; it falls together a certain way.
+[deleted]
+Exactly.
+
+TLDR: Proteins fold because of thermodynamics.
+Peter Wolynes describes the process through a folding funnel which is a folding energy landscape. When the protein reaches its native state it is in an energy minima, which could be the global minimum or just a local minima such as in cases of misfolded proteins.
+with the exception of membrane proteins, water shells also constrain the folding space either by inducing the hydrophobic effect and/or imposing energy barriers due to solvent reorganization.
+There are intrinsically disordered proteins that do not have a conserved fold. The conserved fold allows for a conserved specific function but theories on IDPs suggest the non-conserved structure allows for multiple functions.
+The side-chains of the amino acids each have their own set of properties, be it a positive charge, a polar group, a benzine ring etc.  The interactions between these side chains and the amino acid back-bone are what gives proteins their shape and their properties.  The first "step" of protein folding is known as "hydrophobic collapse"  where all of the hydrophobic side-chains are forced together by the aqueous environment.  The protein is a molten globule at this point and fine-tunes its shape to the lowest energy confirmation.  Proteins *mostly* fold into the "correct" confirmation because the laws of the universe and the composition of the protein stay constant.  
+Fun fact - de novo protein folding predictions are as-yet impossible because the interactions between potentially thousands of atoms in a single molecule is unmanageable.
+My wife (who is in px) also pointed out that most proteins have alternate conformations in the presence of other proteins or phs. For instance, the movement of the helical subdomain in seca2 in the presence of ATP and a target protein.
+I think we understand much of the rationale of why proteins must fold correctly (evolutionary pressure, thermodynamics etc) but we still do not have a complete grasp of it.  This is why there are a lot of research labs on there exploring this problem through computer modeling
+
+Summary:
+TLDR: Proteins fold because of thermodynamics.
+But what are these mechanisms that cause the protein to fold correctly 100% of the time?
+The amino-acid sequence of a protein determines its native conformation.
+I have a few questions.
+There are intrinsically disordered proteins that do not have a conserved fold.
+The protein is a molten globule at this point and fine-tunes its shape to the lowest energy confirmation.
+There are proteins,  [chaperone proteins](https://en.wikipedia.org/wiki/Chaperone_%28protein%29), that assist the folding process and help correct misfoldings.
+The interactions between these side chains and the amino acid back-bone are what gives proteins their shape and their properties.

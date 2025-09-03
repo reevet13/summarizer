@@ -1,0 +1,65 @@
+Original Response: 
+Well the simple answer is yes, if you take someone who has depression or whatever and run them under various diagnostic tools while they are ill and after therapy (or during drug treatment that is working) there are clear differences.
+The other posts show the topic as a whole is more complicated but the way I see it is you asked a direct question and the direct answer to it is yes, even if you need more context to really understand it.
+The hippocampus enlarges, the amygdala shrinks, you'll find alterations in connectivity e.g.
+the vmPFC-amygdala pathway etc.
+Not right.
+You cannot go to a MRI (CT, PET, what have you) scan to conclusively find out if you're suffering from depression.
+An indication, maybe, but no diagnosis, yet.
+What question exactly are you answering?
+Can we diagnose depression conclusively with an MRI?
+Or is there an observable structural change before and after recovery from depression?
+OP is asking the 2nd and that's the one I answered.
+We don't need to be able to diagnose depression physiologically.
+Wrong goalpost.
+There is no structural change before and after recovery that could be observed for every patient.
+[I'm answering] The simple question.
+The answer is not a simple 'yes'.
+Where do you read the requirement that the changes have to be the same for every patient?
+Why do we need to specify what the exact changes are?
+The question only asks if there *are* observable changes with recovery, which there obviously are unless you're suggesting depression has no physiological basis in the brain at all.
+Answering this question does not need us to be able to diagnose depression with an MRI, not even close.
+You're answering a totally different question to the OP.
+You also didn't answer my question, simply repeated your answer.
+[removed]
+&gt; Where do you read the requirement that the changes have to be the same for every patient?
+There is no change, or cluster or changes, that you could claim as diagnostic of remission of depression.
+If you're going to say any change in brain structure is a change in depression then you're going to have a bad time, as the brain's structure is changing continuously.
+&gt; The hippocampus enlarges, the amygdala shrinks, you'll find alterations in connectivity e.g.
+the vmPFC-amygdala pathway etc.
+Are there longitudinal studies that show changes in the volumes of these structures/tracts that change as a consequence of depression?
+Merely showing a difference between two groups is not the same as predicting a change in an individual.
+If a group of patients with MDD has smaller amygdalae than a group of controls, this could have been a structural difference that is unrelated to MDD, or that is not causal of MDD but a consequence of some other process.
+It is plausible that remission of depression would not "reverse" the smaller amygdala.
+&gt;as the brain's structure is changing continuously.
+You're not wrong, but you are grossly overexaggerating the degree of the daily changes within the brain that occur as a result of everyday life.
+The changes you're referring to are nowhere near the scale of the ones that are thought to occur in association with depression.
+Eating lunch is going to make you gain weight, but it is not going to add inches to your waistline.
+&gt; Are there longitudinal studies that show changes in the volumes of these structures/tracts that change as a consequence of depression?
+Merely showing a difference between two groups is not the same as predicting a change in an individual.
+I was just giving examples of what might change off the top of my head.
+There are studies which clearly show changes particularly with successful antidepressant treatment.
+They compare endpoints, not populations.
+But since depression describes a set of symptoms rather than an etiology, the same changes will not be observed for everyone although changes *are* observed.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4630287/ sums it up nicely.
+&gt; If a group of patients with MDD has smaller amygdalae than a group of controls, this could have been a structural difference that is unrelated to MDD, or that is not causal of MDD but a consequence of some other process.
+It is plausible that remission of depression would not "reverse" the smaller amygdala.
+Okay but I'm not saying every single known physiological correlate/predisposition/consequence of depression is going to recover, as if it was never like that.
+So I'm not sure what you're getting at.
+&gt; There is no change, or cluster or changes, that you could claim as diagnostic of remission of depression.
+&gt; If you're going to say any change in brain structure is a change in depression then you're going to have a bad time, as the brain's structure is changing continuously.
+Yes there is no cluster of physiological changes that can consistently be applied to everyone because depression is not a single disease.
+I'm not saying *any* change in brain structure must be related to changes in depression (given there is a clinical improvement) as we have research which shows what changes observed with treatment are specifically associated with improvement.
+I was too quick to say "yes" when I should have said "yes, if you include connectivity and activation which are related but not the same" but your requirement to diagnose the presence or remission of depression physiologically is not strictly necessary because the question is about observing changes, not diagnosing static states of depressed and not depressed.
+If you could diagnose these states then yes you could compare them and say "these are the possible changes" but what I'm getting at is that you can also observe the changes through treatment as they happen without knowing beforehand which ones are actually contributing to depression.
+It can be done both ways.
+
+Summary: 
+Or is there an observable structural change before and after recovery from depression?
+The answer is not a simple 'yes'.
+&gt;as the brain's structure is changing continuously.
+[I'm answering] The simple question.
+Can we diagnose depression conclusively with an MRI?
+You're answering a totally different question to the OP.
+There is no structural change before and after recovery that could be observed for every patient.
+What question exactly are you answering?

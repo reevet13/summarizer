@@ -1,0 +1,29 @@
+I had this simple contraption that I am having a hard time remember if it actually worked.
+The idea was that the water would be elevated against gravity by capillary action and then gravity would win once the fluid tension caused the united strands at the top to form a bead large enough.
+My current hypothesis is that it comes from the heat of the water, and that as water goes through capillaries it cools down as it rises.
+If you were to build this device, you would notice something interesting - water would never drip off of the end of the string!
+The water moves up the tube due to capillary action because that is the lowest energy configuration.
+The water becomes more tighly bound to the molecules of the tube (a lower energy state), and the excess energy can increase the gravitational potential energy (height).
+But if you want to remove the water from the tube, you have to add energy back to the system, and it will take more energy to do this than you can gain due to gravity.
+What you invented (quite cleverly!) was a [capillary siphon](http://www.fofweb.com/Onfiles/SEOF/Science_Experiments/5-48.pdf) [waterwheel](http://en.wikipedia.org/wiki/Waterwheel).
+The energy that would turn the pinwheel is from the gravitational potential energy of the vat of water.
+The siphon doesn't require priming like normal flow siphons because of capillary action, as you mentioned.
+The energy for this effect comes from the wetting of the fibers of the strings, which can be described in terms of [surface energy](http://en.wikipedia.org/wiki/Surface_energy) or surface tension.
+This is, at the atomic level, the energy released by water molecules hanging out with cotton fiber molecules rather than nothing/air.
+Capillary action isn't totally free energy either: it can only pull water a limited height up the string.
+But if it gets over the hump, wetting the rest of the string and causing a siphoning effect is basically free.
+This is one of the perpetual motions that could *appear* to work.
+All it takes is a tiny energy input to make the drop fall.
+The technically correct way to say it is that *in an isolated system*, water would never drip off of the end of the string.
+But it would fail as a perpetual motion machine because it draws tiny amounts of ambient energy.
+Yeah, well even my feverish mind could see that the water would rise up but not drip into the next glass.
+I joked about it with a friend of mine who had a physics degree and he said that once the paper towel was saturated it would reach equilibrium and not drip down the glass.
+Question, if you don't mind.
+You talk about the capillary action happening in tubes, but the OP talks about strings.
+I can see why the tube wouldn't release the water at the top, but why wouldn't the separate strings, bundled together at the top, cause water to draw together into droplets heavy enough to fall?
+If that were the case I'd just assume the energy would come from the heat in the system, and so the system would slowly cool over time, proportional to the amount of energy produced.
+While it will not work, this is still the smartest PMM I've seen on askscience.
+I think you mean noncovalent interactions/intermolecular forces.
+Which are chemical bonds.
+Hydrogen bonding is a nocovalent intermolecular force that is responsible for the capillary action.
+It isn't perpetual motion, though.

@@ -1,0 +1,7 @@
+Here is the extracted summary:
+
+The samples used in solid electrolyte impedance spectroscopy are sintered custom ceramics and are very easy to handle, but making them from pellets can be difficult. The measurements require a coaxial line made from refractory ceramic with platinum layers to mitigate thermal expansion.
+
+Another peculiarity of solid electrolyte impedance spectroscopy is the need for the four-probe method to measure conductivity due to electrode effects.
+
+The field of oxide ferroelectric superlattices is expanding, and my adviser is part of the "second generation" of researchers in this field.

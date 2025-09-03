@@ -1,0 +1,29 @@
+I posted [this calculation](http://www.reddit.com/r/explainlikeimfive/comments/o1sy5/when_people_shoot_guns_in_the_air_why_dont_the/c3ds0kv) in a thread today, which does not take air resistance into account, and seems like nonsense to me too. 
+
+Friction forces are very important in this case. 
+
+What you want to add to your calculation is how smoothly your bullet cuts through the air, or the [ballistic coefficient](http://en.wikipedia.org/wiki/Ballistic_coefficient) of the projectile.
+
+Friction from the air is a fluid friction force, meaning that energy lost during a given displacement is proportional to current kinetic energy and distance.
+
+From the table, we get that this bullet loses 23% of its kinetic energy when it travels 100 yard (91 meters). 
+
+When the bullet is at height h above the point where it was fired, it has lost energy because of:
+
+- gravity : the bullet is losing energy to gravity. When it travels 91 meters, it loses : m * g * 91 m = 2.6 J
+
+- friction : when the bullet travels 91 meters, it loses 23% of its energy like we saw
+
+From these calculations, I get that energy is null at about *1.7 km*.
+
+Yes, solid friction would bring the maximum height down because it would be more energy loss for the bullet
+
+Another way to approach this is to add a force term for friction proportional to the negative velocity. 
+
+What you need here is a bit of a differential equation (some people absolutely hate DEs; I hope you do not). 
+
+F consists of 2 parts; gravitational force and aerodynamic drag. 
+
+Notice that the air resistance depends on the velocity.
+
+Using my numerical solution, I calculated the height to be 4.3 km (this is using a drag coefficient of 0.1. A smaller drag coefficient will give a larger max height).

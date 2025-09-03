@@ -1,0 +1,51 @@
+Original Response:
+As far as I know all plant and animal oils have 9 Cal / g. What about crude oil that is piped out of the ground? What about after it has been refined?
+Yes, crude oil will contain some compounds which are edible and they would have the same approximate 9 Cal/g as other edible oils.  However there are so many other toxic compounds in crude oil that they would need to be purified extensively (beyond normal refining) to isolate.
+
+Edit: I searched some more to try to find percentages of edible oils within crude and realized I had made a bit of a mistake.  [Mineral Oil](http://en.wikipedia.org/wiki/Mineral_oil) can be refined from petroleum and it is indeed edible but it cannot be metabolized for energy (so no calories).  There is [evidence](http://www.sciencedaily.com/releases/2008/08/080811072459.htm) of metabolizable lipids in petroleum but these are 1) in an extreme minority and 2) likely produced by microbes living in the oil.
+So, does that mean there is metabolizable energy available for said microbes (if not humans)?
+Yes, that is correct.  If there is an abundant source of an energy containing compound on this earth, you can almost guarantee that you can find a microbe which eats it.
+Some deductive reasoning: ethanol (alcohol) is distilled from crude oil, ethanol has a large number of calories, therefore the answer is yes.  
+  
+edit: I'm wrong, alcohol can be *produced* using crude oil.  But there isn't any ethanol actually in it.  Method of production:  
+  
+  
+(The ethanol is made by hydrolysing ethene. The ethene comes from cracking long chain hydrocarbons found in crude oil. This cracking requires high temperatures and a catalyst of phosphoric acid in order to work.)
+Ummm, pretty sure ethanol isn't distilled from crude oil.
+Just browsing the Wikipedia articles, a lot of ethanol is produced by [hydrating ethylene](http://en.wikipedia.org/wiki/Ethanol#Ethylene_hydration), which is made  by [steam cracking](http://en.wikipedia.org/wiki/Ethylene#Production) mixed heavy hydrocarbons, i.e. from fractionally distilled [natural gas or crude](http://www.ausetute.com.au/ethene.html). So yes, ethanol can be and is produced from crude.
+Well I'll be damned...my apologies funkmaster
+It is true, though, that ethanol itself is usually not found in very high quantities in crude (and it would be gaseous), hence the complex production process.
+Ah, ok.  I feel slightly vindicated then.  Many thanks for enlightening me
+There is tons of energy for microbes, assuming they have access to oxygen or another oxidant that they can use to react with the oil. This is why oil spills "naturally" break down over time (although some extremely recalcitrant chemicals in oil need to be photolysed before they're accessible for microbial oxidation).
+Crude oil has [very little oxygen or nitrogen](http://en.wikipedia.org/wiki/Petroleum#Composition) and consequently very few molecules of anything resembling the sugars or proteins that people consume. There are straight-chain alkanes which are similar to the saturated fatty acids that people eat, but they're missing the terminal carboxylic acid group so your body has no place to start breaking them down from (some ethers still remain, but most carboxylic acids are broken during oil formation). This is why mineral oil is sometimes used as a laxative, because your body can't absorb it. 
+
+Refinement only separates it into it's constituent groups, so it's still not edible.
+It *can* be, it's just not how one normally obtains it - and certainly not for human consumption.
+You could make ethanol suitable for human consumption. It would never be sanctioned by the FDA. With proper equipment I could make ethanol purer than what goes into McCormick's.
+Ethylene and ethanol aren't the same thing, you have to undergo a chemical process to interconvert. As opposed to distillation, which is a purely physical process based on boiling points.
+Drinking crude oil would kill you, but if you separated out all of the component parts you would find something edible. Not much, but some. And instead of speculating like most of the replies, I intend to prove it to you.
+
+Sugars, amino acids, and nitrogenous bases wouldn't be found in crude oil. They are somewhat fragile molecules that wouldn't survive the [extreme heat and pressure](http://www.energyquest.ca.gov/story/chapter08.html) under which it is formed, and I couldn't find any literature describing their presence. [Crude oil made up of hydrocarbons](http://science.howstuffworks.com/environmental/energy/oil-refining1.htm), but not just simple alkanes. There are many unsaturated produces, like alkenes and aromatic hydrocarbons. Crude oil also contains a goodly number of oxygen compounds such as ethers and esters. These are sometimes metabolizable. For example, [this paper from 1958](www.sciencedirect.com/science/article/pii/0016703758900097) describes the isolation of dioctylphthalate (IUPAC: Bis(2-ethylhexyl) phthalate). In water (eg, in our bodies) this hydrolyzes to release 2-Ethylhexanol, which [can be metabolized](http://www.ncbi.nlm.nih.gov/pubmed/8079503). Now, you might argue that Bis(2-ethylhexyl) phthalate [shrinks male genetalia](http://pubs.acs.org/action/showStoryContent?doi=10.1021%2Fon.2008.11.12.154968), and you'd be right. But that doesn't mean its calorie free!
+Why does it have little oxygen or nitrogen? I was under the impression that crude oil is essentially heated and compacted organic matter, and that should have O/N.
+There are (basically) two steps to forming oil. First, you bury a bunch of organic matter and it goes through a series of reactions called diagenesis to make a substance called kerogen. As you bury it farther and the temperature increases, kerogen is then heated and breaks down into oil (and natural gas) through a process called catagenesis.
+
+Organic geochemists plot these reaction pathways on a [Van Krevelen diagram](http://www.nature.com/nature/journal/v426/n6964/fig_tab/nature02132_F1.html). You can see the actual elemental trends we observe in that digram, but the mechanisms are less well understood. During the very early stages of diagenesis, microbes play a large role in liberating nitrogen (as NH4^+) and phosphorous (as PO4) because they use them as nutrients. Additionally, whatever organic matter is less "recalcitrant" is generally used by fermenters that make methane and carbon dioxide.
+
+Later on, there seems to be a lot of random polymerization (to form [molecules that look like this](http://rimg.geoscienceworld.org/content/42/1/383/F1.large.jpg)) and you have thermodynamic decarboxylation of carboxylic acids to form CO2 along with a slew of other reactions. There's a healthy bit of disagreement over what portion of kerogen comes from complex polymers that were too recalcitrant to be eaten earlier in the process too and in what situations. Basically, complex organics are a field in and of themselves and we're only very recently developing the NMR and mass spectometric tools to have any idea what's even out there, much less what it does.
+
+**TL;DR: In general, O is lost as CO2 and N is lost as NH4 before oil formation even starts.**
+I've edited my comment - you can *obtain* ethanol from crude oil, but there isn't actually any ethanol in it.  
+  
+The ethanol produced is fit for human consumption and (is the largest source of drinking alcohol IIRC.) *wrong again, I blame my chemistry teacher for that one
+Drinking ethanol comes almost exclusively from the fermentation of natural sugars/starches (commonly derived from grapes, sugar cane, corn, barley and potatoes [Wine, Rum, Whiskey, Beer, and Vodka, respectively]).
+Completely vindicated, producing from crude =/= distilling from crude. There wouldn't be any ethanol at all - I've edited my original comment.  Thanks for stopping me from misleading lots of people.
+Ahh, technically correct.  The best kind of correct.
+
+Summary:
+So yes, ethanol can be and is produced from crude.
+edit: I'm wrong, alcohol can be *produced* using crude oil.
+But there isn't any ethanol actually in it.
+Sugars, amino acids, and nitrogenous bases wouldn't be found in crude oil.
+Ummm, pretty sure ethanol isn't distilled from crude oil.
+What about after it has been refined?
+[Crude oil made up of hydrocarbons](http://science.howstuffworks.com/environmental/energy/oil-refining1.htm), but not just simple alkanes.

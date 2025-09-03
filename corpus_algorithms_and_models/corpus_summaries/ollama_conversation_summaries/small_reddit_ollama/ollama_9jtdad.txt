@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text:
+
+Yes. All you need for the Ryzen series CPUs are motherboards with AM4 sockets. The B450 Gaming Pro Carbon uses an AM4 socket and you should be fine considering that the VRMs are pretty much the best out of the B450 line.
+
+Ryzen is better for multitasking/productivity tasks. Basically tasks that are more CPU intensive (like video editing and streaming for example). Not as good at gaming because of a lower single core speed and higher memory latency. Games like having more single core speed over multicore (a lot of games don't really use more than 4 cores).
+
+I just don't have much money so I'm working on a tight budget, but if the Ryzen is only going to give me 5 more frames than I already get then I'm not sure if it's worth it.
+
+Depends on your resolution. However, if we're talking about 1080p, it's usually about 10-12% percent difference in performance. The difference lowering as you start bumping up the resolution because the GPU starts becoming a bottleneck at that point.
+
+I'd only say it's worth upgrading if you're starting to run into bottlenecks in your games or essential tasks. Right now, your 4790K shouldn't be running into massive bottlenecks for the most part and should still be perfectly fine for 1080p gaming.
+
+It is definitely possible for your computer to run into bottlenecks regardless considering that your CPU is almost 5 years old as well. If you don't overclock, your temps should roughly should still be tolerable depending on the cooling you're using.

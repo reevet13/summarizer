@@ -1,0 +1,6 @@
+Well, first of all, you can't use entanglement to transmit actual data.
+It's difficult to explain why, but imagine you have two boxes.
+Entanglement isn't useless, though.
+This has actually been done (with pairs of entangled photons), but the equipment is expensive and prone to interference.
+It is possible for quantum events to influence each other in a way that would require faster-than-light travel, but no useful information can be transmitted by such means.
+No, because you'd need to entangle it with the other photon of the pair, which is sitting in my lab and sealed from outside interference.

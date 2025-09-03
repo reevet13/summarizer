@@ -1,0 +1,11 @@
+Original Response:
+[Link to the video here](https://www.youtube.com/watch?v=56neaeeyTc8)
+There's likely a layer of wax or ink which has a burning temperature that's lower than that of the rest of the paper.
+
+It burns, the rest of the paper doesn't get warm enough under those conditions.
+It's [thermal paper](http://en.wikipedia.org/wiki/Thermal_paper).  The printer uses heat instead of ink to blacken one side.  It is very common in receipts or small paper printing where you can print from a roll of paper and cut it when done.
+That's what I thought. There must have been a temperature sensitive material in the ticket.
+It's [thermochromic paper](http://en.wikipedia.org/wiki/Thermochromic_paper) for a [thermal printer](http://en.wikipedia.org/wiki/Thermal_printer).  The paper has a coating that is sensitive to heat on one side.  The first link has a pic of doing the exact thing you did.
+
+Summary:
+The paper has a coating that is sensitive to heat on one side.

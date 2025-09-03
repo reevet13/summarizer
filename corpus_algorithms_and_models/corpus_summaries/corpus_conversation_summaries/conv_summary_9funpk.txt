@@ -1,0 +1,183 @@
+Original Response: 
+I've got an Aegis Legend, and while in my hand it auto fired for 3 sec maybe, then it seemed to shut itself off.
+Pretty sure it gave a low battery warning even though they were about half way charged.
+I quickly pulled the batteries out which feel totally normal and don't appear to be doing anything weird.
+**Edit**: Waiting to hear back from geekvape to see if they have any ideas.
+Through research, it seems that having a tank even slightly tight on the 510 is what caused the issue by compressing a wire underneath the top plate.
+It works like normal again, but I'm keeping the rda on super loose but enough to read the resistance and so I can quickly pull it off if this happens again.
+Taking the rda off when I'm not using it and going to take batteries out if I'm not around it.
+I'm super paranoid now but going to have to make it work until I can afford to buy a new mod.
+With the rda off, it can't complete the circuit right?
+Just wondering if this could happen even with nothing on it?
+It would just read 'No Coil' I'm assuming?
+If you're mod is autofiring, I would go ahead and start saving for something else.
+The Aegis Legend, which is know for being rugged and waterproof, shouldn't have any juice inside.
+What that says to me is that something on the board is malfunctioning.
+You could, if you're handy enough and willing to, take everything apart and see if you have any broken solder points or juice where it shouldn't be.
+If you're batteries didn't get overly hot and are still charging normally, i would say that they are safe so you're not completely out there.
+I would 110% look into a new mod/buying another Legend.
+Edit: do you have another pair of batteries to see if the device is still functioning?
+I assume that the device is bunk now, but it could be the batteries.
+[deleted]
+Well through researching the geekvape forums there's been a few others with a similar issue.
+Apparently there's a ground wire at the top near the 510 connection that can get smashed down causing the issue.
+I'm starting to think that my rda may have been on ever slightly too tight causing that black wire to short itself.
+I haven't put a tank back on it yet but it's acting normal with batteries back in it.
+I'm hoping that if I keep a loose connection to the 510 I can get away without recreating the issue.
+And if not, I'll have to take it apart and move that wire to a better spot as explained on their forums by a user.
+My legend has juice in the screen.
+Still works fine though.
+[Here’s an album](https://imgur.com/a/JidYm5e) of a dismantle and some testing I did on the Legend if you’re interested.
+By design there’s a lot going on under that top plate, I’d say that theory of a wire in the wrong spot or something getting pushed out of place is a decent guess.
+The autofiring is a worry though, sounds like something shorting as opposed to something losing connection.
+Please be very careful if you continue using it and I’d suggest taking the batteries out before leaving it unattended.
+Thank you a ton, exactly what I'm looking for!
+Yeah I'm taking batteries out and keeping the rda off when not using it.
+Just gotta make it work at minimal use for a few weeks and I'll grab something else.
+So much for such a tough vape lol.
+Man I absolutely loved this thing and repped it to everywhere when people asked about them.
+Gonna ask my buddy if I can maybe borrow his smok stick, never thought I'd see the day of going from a legend to a smok due to durability issues.
+It does suck mate, for sure.
+No matter how durable something is designed it doesn’t prevent it from having some assembly or QC issues unfortunately.
+Always good to have a backup!
+Many people will quote “two is one and one is none” for this very reason.
+I hope Geekvape get back to you with a solution.
+If it turns out that you’re stuck with a dead mod, I’d be happy to work with you to see if we can fix it.
+I have a legend case assembly in pieces so I can easily take further photos of how it’s supposed to fit together, you can also take photos of yours and send them to me if you end up taking it apart.
+I definitely appreciate that and I tend to be good at tinkering/fixing stuff.
+I'd probably be best off taking that plate off and attempting a fix rather than seeing if it happens again I'm guessing?
+Just looking through your album, does there appear to be a better way to orient that black wire or any solution you could think of to stop it from being pressed on so hard?
+If I were to overall just loosen the top plate, could it possibly relieve some pressure?
+That album just saved me a ton of stress, least now I've got an idea what's going on inside.
+Thank you very much!!
+!
+Also with the compressed black wire issue, does that make sense it could have caused an auto fire incident in the first place?
+On the GV forums someone had the exact same issue and claimed that moving that black wire fixed the issue for them.
+It’s hard to say, I’d normally only recommend taking a device apart as a last ditch effort, kinda like “well it’s stuffed anyway” as anything can go wrong when trying to fix it.
+It’s also not good to be using a device which clearly has an internal problem too though.
+Definitely do not try to loosen the top plate to use it, those 4 screws are actually the ground connection to the board.
+Without these it’s possible to completely fry the board.
+Hence why I have a dead board and a spare case btw ;) We don’t know what’s going on inside there so I’m not sure if it’s the black wire that’s the issue.
+Do you have a link to the forum post?
+The 510 does not have a separate negative or ground wire, it uses the case.
+That only leaves the 510 positive contact to short out on something.
+Both the battery negative (black wire) and positive (red wire) go past the 510 positive in the top plate assembly.
+Shorting to the red wire would cause the full battery voltage to be dumped into the atomiser, shorting to the black should only give an atomiser short warning.
+I’m not entirely sure though.
+https://www.geekvape.com/question/aegis-legend-problems/
+
+Here's the comment I'm talking about:
+"My legend shut down and when I tried to update screen said low battery protection.
+Geekvape wouldn’t do anything except say”send video” I guess a video of someone pushing a button is going to give them some mystical diagnostic power.
+So after getting no love from Geekvape I took mine apart and what a nightmare!
+They claim it took them 2 years to design this mod WOW!
+“In my opinion”The problem with mine and probably all of the one’s that go dead is that they have nice big wire literally smashed in the top of this mod and the ground wire is way to short and when you place the battery in on that side the spring loaded contact moves one to many times on the weak solder point of the way to tight negative wire and it breaks off.
+You can pry the top lid off of the device without damaging anything.
+I worked on mine forever but finally extended the ground and better soldered The connection and whammo she fired right up I updated it and so far so good almost 4 days of heavy use.
+So don’t give up and my advice is not to get to much liquid on it because the fire button on mine had leaked just a warning.
+Other than that great device.lol!!"
+Damn the more I'm considering this, it kinda seems outside my ability.
+Most likely I'm just going to absolutely baby it for a few weeks and use it as minimal as possible until I can purchase something new.
+Also if there's no atomizer on it, there wouldn't be anything to short too correct?
+If I only have the atomizer on when using it, could that potentially avoid any issues for now?
+I’m looking at my top plate now and I don’t seem to have either of the issues the guy described.
+Ground wire isn’t too short at all and nothing getting mashed into anything else.
+Here’s another couple of pics I took just now - https://imgur.com/a/BX2nG16.
+I’d be really interested to see what’s going on with yours.
+It’s certainly a difficult call whether to baby it and keep using or take it apart.
+Do you have a soldering iron at home?
+I’d say if you’re not confident, just baby it until you get another device.
+Then you can check it out at your leisure and it’s not mission critical.
+It would really suck if you were stuck without it.
+Just getting the whole mod replaced by Geekvape would be the best outcome though!
+Yeah I think I'm going to have to leave it together for now and when I can one day I'll take it apart.
+On your original photo album, could you take a closer pic of the black battery sense wire?
+You said it looked to be partially pinched, I'm wondering if that may be something to consider.
+Seems like it wasn't destroyed but potentially pinched?
+Do you think having an rda on the 510 tightly could compress everything?
+I'm wondering if keeping it loose could help.
+Same happened to me yesterday after just 2 weeks of use.
+All coils and cartridges I have show as "no coil detected".
+Trying to return to retailer.
+This mod was otherwise perfect in every other way, but, apparently it is bad hardware wrapped in a pretty bow.
+Sorry to hear that man.
+It really is such a beautiful vape but I feel like the problems are starting to show with it.
+On the GV forums there's a lot of other folks with the same issues going on.
+Kinda surprising how many different posts there are.
+Did yours ever auto fire or get hot when in use?
+No unusual heat or auto fires.
+It happened so fast.
+Like the original poster, I saw something about low battery on my very lightly used HG2s, which was strange.
+Next coil and every other one after does not get detected.
+Sounds like a whole new issue interesting.
+Yeah mine auto fired, then flashed low battery warning (on almost full batteries) then shut off after a few seconds.
+Where'd you get yours from?
+I'm still trying to start the whole process with the seller and GV, over a week and it's been one response from them asking about details, aka it's taking quite a bit of time.
+I got mine from VaporDNA.
+I just asked for a return yesterday, heard from them today.
+After sending a video, haven't heard back since.
+Hope I am not in the same boat as you now.
+My guess is they are contacting the manufacturer for a fix, but I don't think there is one, at least not one that doesn't need some mechanical fix that we should not have to do.
+Geekvape website has a topic on this, but it seems like just frustrated people with no help.
+Yeah lol, it's dumb.
+Geekvape at least has gotten back and said they'd take care of it through the distributor.
+Just need to make that little video and send it in.
+If they can fix it, I'm selling the vape on though.
+After trying some other vapes I realized how limited the Legend really is.
+It's a pretty vape for sure but it lacks so much customization and TC mode is pretty bad, after trying to a good TC vape I've realized how much I like it lol.
+Thanks for all the replies and info.
+Which mod are you going with next?
+I looked for hours and it seems all others in a similar price range are flimsy or have other defects I can see before even buying it like a weak battery door.
+By the way.
+Tried to put a 1 star review up on retailers website.
+They took it down.
+Be careful out there...reviews make it seems flawless, but I can assure you it is not.
+Vaporesso Polar.
+Been borrowing an old revenger and it's miles ahead of the legend.
+Nice being able to customize it and have those options.
+Even cheaper than the legend on the site I buy from.
+Also love how much better the thing fits in my hand.
+The proton or revenger x are also similar but I like physical buttons instead of a joystick or touch screen.
+Don't think you could go wrong between those.
+The Revenger I'm borrowing has also been dropped plenty before and works flawlessly.
+That's fucking hilarious about the review lol.
+Yeah everyone loves someone who talks a product up and gives them that confirmation bias but soon as you start bringing up negatives no one likes that lol.
+And exactly, everyone is under the assumption it's bulletproof and perfect, I sure as hell was too.
+Whenever I see someone talking about it these days I try to give them a fair warning.
+I'll always complement its looks and supposed durability but everyone should know that people have been having issues with them.
+Don't know if you looked into it more or saw the tear down photo album, but it's likely from a black ground wire that gets compressed under the top plate.
+I'm pretty sure that's the main culprit, basically just a building defect they could have done better but decided to go into production anyways.
+And GV says they engineered the thing for two years apparently haha.
+Thanks again.
+Looks like the Polar is my next mod.
+I did see those pics.
+Looks like poor craftsmanship.
+I've tried my friends Polar out a bit and it's just an absolutely amazing mod overall, I'll definitely be going that route as well.
+I'm really impressed with vaporesso's omni boards in general.
+The whole experience has been kind of a lesson into disregarding looks and focusing more on a solid chip with a good build.
+Can't say the legend isn't absolutely beautiful though lol.
+
+Summary: 
+I did see those pics.
+Hope I am not in the same boat as you now.
+I got mine from VaporDNA.
+I assume that the device is bunk now, but it could be the batteries.
+Yeah I'm taking batteries out and keeping the rda off when not using it.
+I hope Geekvape get back to you with a solution.
+Where'd you get yours from?
+Don't think you could go wrong between those.
+Looks like the Polar is my next mod.
+Which mod are you going with next?
+Taking the rda off when I'm not using it and going to take batteries out if I'm not around it.
+If I only have the atomizer on when using it, could that potentially avoid any issues for now?
+Even cheaper than the legend on the site I buy from.
+Thank you a ton, exactly what I'm looking for!
+If they can fix it, I'm selling the vape on though.
+I’d be really interested to see what’s going on with yours.
+I'm wondering if keeping it loose could help.
+I would 110% look into a new mod/buying another Legend.
+Sounds like a whole new issue interesting.
+After trying some other vapes I realized how limited the Legend really is.
+Yeah I think I'm going to have to leave it together for now and when I can one day I'll take it apart.
+So after getting no love from Geekvape I took mine apart and what a nightmare!
+The 510 does not have a separate negative or ground wire, it uses the case.

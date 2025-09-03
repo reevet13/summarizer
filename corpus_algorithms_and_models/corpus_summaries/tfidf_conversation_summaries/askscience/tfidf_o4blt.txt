@@ -1,0 +1,21 @@
+Original Response:
+I understand that CO2 isn't much heavier than air so a slight breeze would move it around pretty good but wouldn't the wind cause a pretty even distribution of the gas at all altitudes? I don't see how CO2 is holding in excess heat when its evenly distributed.
+CO2's ability to trap heat has nothing to do with its distribution. CO2 absorbs solar energy and turns it into heat more efficiently than, say, the nitrogen that makes up most of our atmosphere.
+This is called the Greenhouse Effect, right?
+Yes. However CO2 is not the only factor. In fact, methane traps heat ~~four times~~ 72 TIMES better than carbon dioxide. Also, it must be realized that the Greenhouse Effect is not a bad thing, it actually has been a main component in the survival of the organisms on this planet. Although, too much CO2 can accelerate the effect, causing rises in temperature etc.
+
+**Edit:** Thanks to benjamin_kyle for the information about methane and its ability to trap heat, I was completely unaware of the awesome potential methane had to change our planet!
+So how do we cool the planet doc?
+Move the planet further from the Sun.
+The distribution is not relevant. Greenhouse gases such as CO2 absorb radiation and re-radiate it in random directions. This means radiation from the earth sometimes gets reflected back to earth. The radiation from the sun has different wavelengths so it is not affected as much.
+CO2 doesn't turn solar energy into heat. It just absorbs and re-radiates the energy.
+[deleted]
+More than 4.
+http://en.wikipedia.org/wiki/Global_warming_potential
+&gt;CO2 absorbs solar energy and turns it into heat
+
+That's not quite true. CO2 absorbs heat (i.e. infrared longwave radiation) and re-radiates it in a random direction. It is mostly transparent to visible light and higher-frequency solar radiation.
+
+Summary:
+CO2 doesn't turn solar energy into heat.
+It just absorbs and re-radiates the energy.

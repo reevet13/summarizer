@@ -1,0 +1,50 @@
+Original Response:
+It seems cancer can attack virtually every organ of the human body but it rarely attacks such a vital one as the heart? Does modern medicine have a rationale?
+[deleted]
+As rrauwl pointed out, it does exist, but is just rare. You may be wondering why it is so rare so I'll try and answer that.
+
+Cancer is the result of many accumulated mutations over time, usually a result of small errors building up as a cell divides over its lifespan. It requires stimulation of many of the cell's growth signals and many negative checks on cell division to be knocked out before a cell begins proliferating uncontrollably. Every time a cell divides, there are a couple of errors in replicating the 3 billion base pairs in the human genome. These errors accumulate over time, leading to mutations that lead to cancer. 
+
+However, as can be seen [here](http://en.wikipedia.org/wiki/Cardiac_muscle), "researchers estimated that a 20-year-old renews about 1% of heart muscle cells per year". Since cardiac muscle (heart cells) divide so slowly, there is not much risk for accumulated mutations, and thus even the few rare cases of heart cancer arise from other cancers spreading to the heart rather than originating in the heart. That's also why you see cancer frequently in places like the lung, where cells are damaged by smoke or other irritants, or the skin, both places where cells must be replenished daily (lots of dividing = more mutations). Hope that helps!
+[deleted]
+Thanks. I knew it existed, just was puzzled as to why it was such a rare occurrence. A greater chance of mutation in organs with a higher rate of replenishing cells help explain things. But in that light, brain cancer mystifies.
+The most common cancers in the brain are not cancers of neurons, but of the cells that support the neurons-- [glia](http://en.wikipedia.org/wiki/Neuroglia)
+Well to add on to the igg14's comment I can add onto why there may be a difference between this brain and heart thing.
+
+The real basics of what I've learned about free radicals:
+[Start](http://en.wikipedia.org/wiki/Radical_%28chemistry%29)
+[Related](http://en.wikipedia.org/wiki/Free-radical_theory_of_aging)
+
+Anyway free radicals damage cells. They aren't the **sole** cause of aging but one of them. Free radicals also help cause cancer to a fairly large degree. Building off of what igg14 said "Every time a cell divides, there are a couple of errors in replicating", free radicals **are** a cause of this by their reaction with the cell's DNA. They also do many other things, damaging DNA and cells. *Note: There are many things, such as genetics, that cause cancer!*
+
+Now going back to this confusion with heart cancer and brain cancer, the heart produces more free radicals than any other organ (due to the cells working tirelessly to produce energy for the organ, unlike most other organs). Therefore, it would produce more anti-oxidants to combat these free radicals made from the heart as by-products of metabolism.
+
+As for the brain, it doesn't produce as many anti-oxidants to combat free radicals as they aren't made in high quantities there. Therefore, the susceptibility is higher when there are free radicals in their first stages of formation there.
+
+There, feel free to reply if you're still confused.
+In addition, the brain is [immune privileged area](http://en.wikipedia.org/wiki/Immune_privilege) with limited access of many types of immune cells, including cells that fight cancer.
+This limited accessibility may contribute to the increased frequency of brain cancer.
+A really interesting talk by Eva Vertes at TED in 2005 regarding the low rates of cancer in skeletal muscles and the heart. Not sure what came of the theory after the talk, but interesting. Perhaps someone more informed than myself can elaborate / refute the theory:
+http://www.ted.com/talks/eva_vertes_looks_to_the_future_of_medicine.html
+[deleted]
+So, the next logical question is - what happens if we slow down the division (if that's possible) of cells in the areas of the body that replicate rapidly?  
+
+Less Cancer?  Longer life?  Or would it yield side effects that would ultimately kill us anyway?
+The reason that our cells replicate quickly is because it is necessary. Most epithelial tissues - skin, the lining of your GI tract, the lining of glands and ducts - is lost on use. For instance, most of what we consider "dust" in our houses is discarded epidermal tissue. The cells on the outside of your skin are dead and slough off constantly. It follows that quick division is necessary, else we'd just lose all of our skin.
+
+Other quickly-dividing cells function with the same basic process. As that part of your body is used more and more, regeneration is absolutely necessary for maintenance of function. If we were to slow the division of those cells we would die. This is one of the proncies behind chemotherapy, and why that treatment is so carefully controlled.
+Damn it I cannot edit on a phone: "this is one of the CONCEPTS behind chemotherapy, and why it is so carefully controlled. An overuse of the drugs used in chemo would quickly kill humans."
+Glia are just as much part of the brain as neurons, 
+read these:
+[article 1](http://www.scientificamerican.com/article.cfm?id=the-hidden-brain)
+[article 2](http://www.sciencedaily.com/releases/2011/12/111229131354.htm)
+
+tl;dr new finds suggest glia may have a primary role in brain function
+Wow, is this consistent with a low incidence of cancer in muscles? Do other muscle tissues also undergo mitosis less frequently? I haven't heard of any cases of cancer of the gluts or cancer of a tricep.
+
+Summary:
+They also do many other things, damaging DNA and cells.
+The reason that our cells replicate quickly is because it is necessary.
+Free radicals also help cause cancer to a fairly large degree.
+*Note: There are many things, such as genetics, that cause cancer!
+Therefore, it would produce more anti-oxidants to combat these free radicals made from the heart as by-products of metabolism.

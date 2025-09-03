@@ -1,0 +1,24 @@
+Original Response:
+Yes, a bee has mass, and therefore the mass of the bee is included in the mass of the wasp+air+container system. 
+
+I think a more accessible example is a magnet. Consider that the scale it magnetic with its + pole pointing up and a magnet was suspended above with its - pole pointing up. The weight force on the magnet would be balanced by the magnetic force on the magnet from the scale. The scale would then be measuring the weight of the magnet even though it is suspended.
+We should be talking weight, not mass.
+Depends on how it hovers. Something like a wasp is hovering from flapping wings, and that works because those wings are pushing down on the air. The air, in turn, pushes down on the tupperware and that will have the same effect on the measurement from the scale.
+
+If you have a system that isn't closed, and if you've got a different way for how something's hovering, then this gets more complex.
+[Relevant Mythbusters: Birds in a truck.](http://mythbustersresults.com/episode77)
+
+Result: Busted - truck does not get lighter when birds flying inside the cage.
+Indeed, like the scale being right beneath you, but you're freely hovering with two jets 45 degrees down sideways, "missing" the scale. Then you'd actually be like a bridge over the scale. However, OP assumed the wasp inside sealed tupperware, so no way to direct the air such that it wouldn't eventually push the container down.
+It depends on how the object is supported in its "hover".  
+
+For the example of the flying wasp, it is pushing off of the air contained in the tupperware, so the total mass of the system is unchanged.  
+
+Alternately, say you had an magnet inside a container on a scale.  You then use another magnet outside the container to draw the internal magnet up. The would register on the scale as a weight loss, because the weight of the magnet is now supported by something other than the container.
+If the tupperware is air-tight, then it doesn't matter if the wasp is flying or landed.
+
+If the container is open-topped, then the weight of the system is dependent upon the flying height of your wasp. The higher it is, the smaller the force exerted onto the container (thus a scale that measures the weight).
+
+Summary:
+Depends on how it hovers.
+Alternately, say you had an magnet inside a container on a scale.

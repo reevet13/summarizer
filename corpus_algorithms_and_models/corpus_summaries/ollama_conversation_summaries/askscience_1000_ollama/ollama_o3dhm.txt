@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text (up to 250 words), selecting only sentences from the original text exactly as written, separated by newlines:
+
+I have a purple 405 nm 5 mw laser pointer. My friend and I were playing with it and we both think we feel a slight sensation of warmth on having the laser pointer pointed at one spot on our hands for a little bit.
+
+Is this true? Is there another explanation?
+
+This is what irony looks like.
+
+I recognize that experimentation is the basis of science, but our experimentation is inexpert and amateur and not very well regulated. Also, we're looking for an explanation.
+
+Lots of power over a wide area will have less of an effect than a little power over a very small area.
+
+That 404 nm laser isn't actually lasing at 405 nm. It is an IR laser with a doubling crystal. That is, it takes two 808 nm IR photons and combines them into one 404 nm blue photon. This takes a whole lot of power in the IR to do so and this IR could be leaking through.

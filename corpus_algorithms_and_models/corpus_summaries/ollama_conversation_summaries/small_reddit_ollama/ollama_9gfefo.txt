@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the original text (up to 250 words):
+
+ironically very advanced redstone builders love this and this is why Java has better redstone. Once you tame the beast that is BUD powering and Quazi-Connectivity you can do lots that you can't do in Bedrock, or can do but it has to be bigger and less compact.
+
+The layout is different: you added a redstone dust, which changed the update order and caused the blocks on top of the pistons to unpower before the one in diagonal (even if its all in the same tick, there's still an order). Because of this the pistons never received an update and stayed BUDed.
+
+Redstone update order is non-deterministic, just use a transparent block like slab/glowstone for your diagonal block if you need dust on top.
+
+how is it the same? both clearly have redstone dust on top (contraption on left vs contraption on right)
+
+The lever powers the diagonal block, which activates the QC point on the first piston (and also powers the redstone).

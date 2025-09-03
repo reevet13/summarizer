@@ -1,0 +1,13 @@
+Original Response:
+Let's say I have to mow the lawn.  If I went to work, I would make $20.  Skipping work to mow the lawn would cost me $20 in cash.  That's "opportunity cost".
+
+But, I also just hate mowing the lawn.  So much so, I'd rather pay someone else $30 to mow it so I can go to work.  Actually, at $30, I'm indifferent between working and mowing, but at $29.99, I'll go to work; at $30.01, I'll mow myself.
+
+What is the technical term for that $10 cost I would incur by mowing the lawn, just by being unhappy?
+
+(BTW, I'm looking for a link, not a guess.)
+
+I've been calling it "preference cost", but I doubt that that's right.
+
+Summary:
+Skipping work to mow the lawn would cost me $20 in cash.

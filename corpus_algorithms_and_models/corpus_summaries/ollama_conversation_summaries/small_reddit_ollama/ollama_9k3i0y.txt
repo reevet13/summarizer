@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text:
+
+Sound travels as waves
+
+High frequencies/pitch = shorter wave lengths,
+
+Longer frequencies/pitch = longer wave lengths,
+
+Hertz (what frequencies are measured in) = cycles (of the wavelength)/second
+
+Thus, when you speed up a video (or any sound) you are hearing more cycles (or waves) per second (aka higher frequency/pitch) and when you slow it down you are hearing fewer cycles (waves) per second (aka lower frequency/pitch).

@@ -1,0 +1,6 @@
+The nozzle of the vacuum version uses radiative cooling.  
+There are three types of heat transfer:  conduction, convection, and radiation.  
+The third type of heat transfer, radiation, occurs by way of the electromagnetic spectrum.  
+You can lose heat through both conduction/convection or through electromagnetic radiation.  
+Conduction and convection require a medium (as heat energy is "carried off" by particles interacting with the object), but heat is also radiated away through electromagnetic emissions.  
+Consider looking at that engine in space with an infrared camera, you would see it glowing hot in that spectrum because it is giving off radiation.

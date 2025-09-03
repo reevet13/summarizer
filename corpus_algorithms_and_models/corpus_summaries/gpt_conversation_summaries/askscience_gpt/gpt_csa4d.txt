@@ -1,0 +1,9 @@
+Lightning isn't 100% understood yet, but basically the clouds build up an extremely high voltage until the potential difference between the cloud and the earth is so high that electrical current travels through the air (which is not very conductive at all - hence super high voltages are necessary).
+
+What's not completely understood about lightning is the process by which the charge builds up.
+
+The bolt causes the air around it to superheat and expand which causes a shockwave to propogate outward (thunder).
+
+It has something to do with mechanical charge separation. Lightning happens in at least two common natural phenomena: rain storms and volcanic ash clouds. What do these have in common? Motion of lots of fine particles. The fine materials get moved by some mass acting force...like gravity pulling tons of particles down through the atmosphere...or convection lifting tons of fine particles up into the air. In each case energy get stored until the voltages reach ionization and spark across the gap.
+
+The basic idea that I think most theories work with is that the charged particles in a thundercloud get separated because they've got different physical properties (e.g. weight, size, friction, ...) and a roiling motion will send them in two different directions. This creates the charge separation that eventually yields lightning.

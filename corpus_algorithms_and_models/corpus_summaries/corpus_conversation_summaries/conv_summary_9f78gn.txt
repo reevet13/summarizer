@@ -1,0 +1,792 @@
+Original Response: 
+A shell or ball is what you'd expect if the particles don't collide with each other.
+This is why you can get elliptical galaxies - stars almost never collide and don't even have close encounters very often, so once you get a ball of stars, the stars will just keep on buzzing around in a ball for a very long time.
+This is also supposed to be the case for dark matter.
+The dark matter particles don't really collide with each other, so they just stay in a big puffy "halo" around the galaxy.
+However, the dust and rocks and moonlets in a planetary ring *can* collide with each other.
+So if you some particles in a "polar" orbit, going up over the north pole and back around the south pole, and other particles in an "equatorial orbit", going in circles around the equator, then these particles will smash into each other.
+Unless all the particles are orbiting in the same plane, their orbits will cross and they'll collide.
+These collisions transfer momentum between the particles, and also get rid of kinetic energy.
+Eventually, through enough collisions, everything will settle down until you get a disc or a ring.
+Then all the particles can have nice circular orbits without bumping into each other.
+(Another way to think of it is this: you can get rid of energy, but you can't get rid of momentum.
+A ring or disc is the lowest energy system you can get while still conserving angular momentum).
+This is true for more than just planetary rings.
+Gas and plasma particles in space will bump into each other too.
+So when you get a lot of gas coming together to form a galaxy - or, on a smaller scale, a chunk of gas coming together to form a star - it will also collapse into a disc.
+For a galactic gas disc, this will collapse to form stars, so you get a disc of stars.
+For a stellar gas disc, this will collapse to form planets, so you get all the planets within the same plane.
+It's not that the stars or planets need to be in a disc - neither really is good at collisions - it's that the gas they formed from was in a disc.
+[removed]
+&gt;So if you some particles in a "polar" orbit, going up over the north pole and back around the south pole, and other particles in an "equatorial orbit", going in circles around the equator, then these particles will smash into each other.
+Does the spin of the planet also play a role?
+Do any planets settle with just north-south "polar" rings, or some other angle, or does the equator always win?
+[deleted]
+Angular momentum without dissipation just gives you ellipsoids - it doesn't explain discs.
+You need a way to get rid of the kinetic energy, and that means your particles have to collide with each other.
+If the ring particles had a small enough cross section and a low enough density that the collision rate was extremely low, then they wouldn't be in so thin a disc, even with the same angular momentum.
+[deleted]
+Accidentally deleted my last post.
+I asked: “Is this like, a really complicated way of explaining angular momentum?
+Because angular momentum is actually the reason for discs forming and planets orbiting in the orientations that they do.”
+Thanks for the response.
+In the case of planets that we know of, are there any instances where there are clouds of dust surrounding a planet that are not moving toward disc-shapedness?
+I feel like angular momentum is more important than collisions.
+Collisions are going to happen, yes, if the density of the cloud is great enough and the particles can collide, but they wouldn’t even be hanging out in the same place if not for gravity/angular momentum.
+[deleted]
+[removed]
+[removed]
+Does the disc get thinner over time?
+With something like Saturn's rings, you kinda reach an equilibrium where it's getting stirred up by various moons etc, but also getting settled down by collisions.
+With something like the Milky Way galaxy, the disc gradually thickens over time as the stars scatter slightly or get tugged by dwarf galaxies etc.
+It actually has a "thick disc" component of older stars and a "thin disc" component that's mostly younger stars.
+&gt; Eventually, through enough collisions, everything will settle down until you get a disc or a ring  
+
+How exactly does that happen?
+With particles in randomly oriented orbits there are clearly momentum and velocity vector components that are not aligned to the plane of the planet's rotation.
+How is it that these non-rotation-aligned components get canceled out while the components aligned with the rotation persist?
+Wow I came here thinking it was going to be mostly based on centripetal force causing all of the debris to flatten into a single plane...I see how the constant collisions would eventually end up settling into the plane though!
+so cool.
+The spin of a planet is the result of the spin of the debris that collapsed to form the planet, and rings are typically formed from the same spinning debris cloud.
+The rings will eventually coalesce on the debris equator (which mirrors the planets equator), so yes, rings favor equatorial orbits.
+Even planets with wonky axis of rotation, like Uranus, display equatorial rings.
+We don't see this around planets, but that's because the matter is collisional.
+But we do see blobs of stars.
+Elliptical galaxies do have angular momentum - they're often ellipsoidal - but because they're not collisional they don't collapse down into a disc.
+Basically, angular momentum stretches things out equatorially, but collisional dissipation flattens things vertically.
+If you don't have angular momentum, dissipation causes everything to collapse into a point.
+If you don't have dissipation, then you have a big puffy ellipsoid.
+So you really do need both to get a thin disc or ring.
+Why do some black holes (or similar) have a polar "jet", then?
+[removed]
+This is one of the cooler illustrations of the thermodynamic observation that over long time scales, the mean state becomes the median and mode state.
+You can infer the average rotation of the entire nebula that formed the solar system based on how things rotate now.
+[deleted]
+The debris that formed the planet basically never have _perfectly_ equal angular momentum in all directions (a total angular momentum of zero).
+As the particles form the planet and ring, the "left over" angular momentum is what determines the axis of rotation.
+It's not that a certain axis is favored not to cancel out, it's that a certain axis tends to have a bit of surplus after all the cancellations happen.
+We're getting further from the original question, but do we know how uranus formed with its weird axis of rotation?
+Does the gravity of the debris also contribute to them occupying the same plane?
+Like a feedback loop where the more debris on a given plane has stronger gravity to pull in stray debris adding to gravitational pull on more stray debris until all debris are orbiting with minimal collision on the same plane?
+A massive collision with a subplanet's the current theory for that.
+Knocked the entire planet off of its spin axis.
+And because it was so long ago and Uranus is fairly hefty and a gas giant, any impact evidence is hard to spot.
+It's unclear if the rings that we've seen have existed since the planets first formed, or if they came later, likely through an orbiting moon being destroyed (either via impact or being ripped apart by gravitational tidal forces).
+The particles aren't truly randomly oriented.
+The disc that formed the planet and moons/rings were already moving/orbiting before they formed the planet, so the system begins with an angular momentum.
+After enough collisions, the system tends toward the statistical center of the momenta of the particles, which comes out to L_φ = 0, L_θ = whatever the systemic momentum already was.
+Just to counter your answer, I read on here at some point that Saturn's rings were quite young?
+https://www.sciencenews.org/article/saturn-rings-age-young-moons.
+[removed]
+[deleted]
+Wouldn’t a collision massive enough to cause that just end up destroying the subplanet?
+Let's assume as the article states and formed from the result of a moon ripping apart 200 million years ago.
+Moons themselves tend to follow the same preference of formation as rings for the same reason.
+They generally form from the same disk that that planet forms.
+If the moon was equatorial, the rings that formed from its demise would also be equatorial.
+You are very good at explaining such a complicated matter.
+I know nothing about physics (because I chose to learn biology) but I perfectly understood you.
+Bravo.
+[Quasars](https://en.wikipedia.org/wiki/Blazar) have [x-ray jets](https://en.wikipedia.org/wiki/Astrophysical_jet) which, to my understanding is matter and energy produced by matter falling into the black hole getting beamed away from the nucleus.
+Apparently the magnetic fields involved focus the beam into a narrow polar jet.
+For a gas giant, *any* collision just ends up with a larger gas planet... so yes, the protoplanet was destroyed, with most of its mass becoming part of Uranus and some getting flung out across the solar system.
+That made total sense when I thought about your blobs of stars example.
+Very cool!
+Thanks!
+Are all rings equatorial?
+Do equatorial rings have any connection to the 'equatorial bulge' that a spinning ball has?
+As far as I remember, the most widely accepted theory is that the majority of the subplanet was absorbed in the collision, so it was “destroyed.”.
+Awesome explanation.
+Why don't stars in an elliptical galaxy collide with one another like in the creation of flat spiral galaxies?
+Do elliptical galaxies have zero net angular momentum?
+Much of its mass, yes, but perhaps not most.
+I'm guessing that physics models would permit an axial-spin-changing collision that could have possibly been a glancing blow.
+In this case, the impactor may have shattered and mostly continued flying on, along with a good chunk of Uranus.
+Sure would have been something to see from a half-million miles away or so (and with all sorts of filtering and radiation shielding up.
+Don't need no Terminator 2 playground scenes, nosirree).
+yes, of course.
+bits that do not get absorbed eventually go off into space, go into orbit, form rings, etc.
+Same reasons the planets rotate in a disc around the Sun, too.
+[removed]
+Nice explanation, but "you can get rid of energy, but you can't get rid of momentum" is a bit of a confusing statement considering the conversation of energy is a pretty fundamental principle.
+I assume you mean energy can leave the system we are looking at -- if so, how does that happen?
+Heat being radiated of after being generated by friction when particles collide?
+Like when Anakin died and Vader was “born”?
+[removed]
+[removed]
+So if a planet captured a passing asteroid as a moon, and that rock later broke up, it could form a non-equatorial ring?
+[removed]
+[removed]
+Not fully, but we can consider the known data and make a guess.
+It was likely a close gravitational encounter or impact.
+Welp my understanding was way off thanks for this.
+(I thought it had something to do with spin, and the way gas planets form)
+So If you get any kind of ball and coat it with liquid and give it a spinn you will get a ring  of water flinging off .
+Same theory correct ?
+Why will the rings coalesce on the equator?
+Exactly what I was going to say.
+The rings may be young, but the object that created them was formed from the same debris field as the planet.
+I left out a step for simplicity (moon forms, moon "unforms") but the end result is (mostly) the same.
+This is fascinating and seems obvious now that I've read it.
+I feel a little silly for not knowing this previously.
+I get that the ring exists because it's stable (stuff not bumping into other stuff).
+Why does it settle into such a narrow band?
+It seems like would have a wider band of stuff all going parallel and in the same direction?
+Maybe because any debris not parallel by even a small amount will eventually disappear due to collisions?
+And based on this, would we expect the width of rings to get narrower over time?
+I know relativistic effects are very small on these scales, but does the planet's own rotation (and thus the slight prograde frame-dragging) have any effect here?
+Because it's not the whole story.
+Very simply put, It's because when a system forms, it starts by matter spiraling inwards.
+An accreation disk is flat, not round.
+Eventually you end up with a body (in this case Saturn) that is spinning.
+Some matter stayed in orbit and didnt spiral inwards, these condensed in to moons (not counting captured ones).
+Some of the matter that stayed in orbit was however so close, that the gravitational pull stopped it from condensing (they were below the roche limit) and you wind up with rings.
+These rings *do* pull on eachother, so they will eventually be in the same plane.
+&gt;	This is why you can get elliptical galaxies - stars almost never collide and don't even have close encounters very often, so once you get a ball of stars, the stars will just keep on buzzing around in a ball for a very long time.
+So why aren’t all galaxies just big balls of stars?
+How can something collide with a ball of gas?
+Is it just the gravity of the striking subplanet, rather than physically connecting?
+[removed]
+[removed]
+[deleted]
+[removed]
+[deleted]
+Imagine the whole debris cloud spinning around a common axis.
+Everything is (on average) drawn towards the Center of the cloud.
+When everything is spinning, there is a virtual force acting away from the axis in a perpendicular direction.
+That means that each particle exactly on the ring plane has a chance of both the virtual force and gravity cancelling each other out (or almost doing so), while every particle outside that plane experiences a net force "south" or "north", towards that plane, which has no chance of being cancelled out by anything else.
+Eventually, everything that is not in the ring either collects into the central planetary mass, drifts away into space, or joins the ring in some way.
+This is not necessarily true.
+There is evidence to suggest that Saturn's rings are quite young.
+In fact, a captured asteroid could result in an orbit that brings it close to the Roche limit long after the formation of the planet, thus producing rings that are not related to the rotation of the planet.
+However, there are tidal effects with the rings that can slowly shift their axis to align with the rotation axis of the planet.
+The key thing here is Uranus.
+Uranus's high axial tilt suggests that some kind of large collision resulted in an unusual rotational axis, potentially after the formation of the planet.
+However, the rings of Uranus are equatorial, as are the orbits of most of the moons (approximately).
+IF Uranus's axial tilt occurred after formation of the rings, then there needs to be some mechanism by which the rings rotated with the planet.
+More information is needed.
+An interesting discussion on this topic is here: https://astronomy.stackexchange.com/questions/8112/how-long-do-planetary-rings-last.
+[removed]
+Compared to the thin-ness of space, hitting a cloud of gas at kilometers per second could be like hitting concrete.
+Kind of like how you can slip into a pool of water diving from 3 feet up, but high enough that you reach terminal velocity, you can break your legs.
+[removed]
+[removed]
+It's not "just" a ball of gas.
+Uranus gets thicker and thicker as you go deeper into it and you'll hit a "mantle" of ice that's the vast majority of its overall weight.
+There's also an iron core.
+A planetoid would cause some heating and major wind if it just hit the upper atmosphere layers, but if it slaps into that mantle really hard, it'll do pretty major things to the planet.
+Would it be possible in the case, for a planet to be a disc around its star?
+What an interesting insight into stars.
+They're so massive that they have a correspondingly massive sphere of influence.
+On a large scale you can model them as point-like objects.
+Counter-intuitive.
+The comet Shoemaker-Levy 9 didn't go through Jupiter...
+It most definitely impacted.
+[https://en.wikipedia.org/wiki/Comet\_Shoemaker%E2%80%93Levy\_9](https://en.wikipedia.org/wiki/Comet_Shoemaker%E2%80%93Levy_9)
+
+At enough pressure, and enough speed of the impactor even hydrogen gas acts like a solid.
+And even the Earth's own very thin (relative to a gas giant) atmosphere is enough to make a large-ish body stop before getting too far down, as we saw with the Chelyabinsk meteor, which exploded 18 miles above the ground.
+[https://en.wikipedia.org/wiki/Chelyabinsk\_meteor](https://en.wikipedia.org/wiki/Chelyabinsk_meteor)
+
+Each of these objects hit enough "stuff" to be stopped and release a huge amount of kinetic energy...
+I consider that an impact, despite not touching anything that I'd consider solid.
+(Though, to be even more pedantic than I have already been, I used the word 'collision' rather than 'impact'...
+Whichever verb we use, though, the result is the same: Uranus' atmosphere is more than thick enough to stop anything that it touches, and with explosive results.)
+Have you ever hit water at high speeds?
+Water can feel like concrete if you are going fast enough.
+There are different physics involved here, but the principle is the same.
+In addition, gas giants have much stronger gravitational fields, the "liquid" on these planets can extremely heavy and dense compared to what we are used to here on Earth.
+Another more condensed way to say it (perhaps less intuitive though) is: 
+
+The debris cloud stars out shell-like.
+Through many collisions the particles exchange momentum back and forth.
+When two particles collide, they preferentially cancel the parts of each other’s momentum vectors that are directly opposite of each other.
+The cancelled momentum never comes back into the system.
+All the momentum that remains in the system after many collisions is the angular momentum that lines up with the overall system aggregate.
+Particles with aligned momentum rarely collide because they are orbiting in exactly the same direction.
+(Orbits will all circularize because of a similar mechanic, I believe.
+Orbits that cross other orbits due to lateral (radial) motion will bleed out of the system over time until only circular orbits are left.)
+A disk-shaped cloud is the resultant shape where the particles all have aligned angular momentum.
+Think "belly flop".
+Water is a fluid, but it is still something you can impact.
+&gt; you can get rid of energy, but you can't get rid of momentum&gt; 
+
+Physics simplton here.
+Isn't momentum energy?
+How can you get rid of energy but still have momentum which is also a form of energy?
+[removed]
+If Earth somehow had rings (which I understand is unlikely/impossible for a planet of its size) and if its axial tilt is due to a collision, the rings would have remained in the original plane of rotation, correct?
+Follow up question, how long does this process take on average?
+And how does it depend on the size of the planet or the average orbit?
+[removed]
+The current theory is actually a long history of smaller collisions that had the net result of turning it on it's side.
+A single massive impact would likely have not altered the orbits of its moons, but the moons orbit in alignment with the planet's rotation.
+Smaller impacts would allow the torque force of the planetary bulge to nudge the moon orbits along with it.
+Even if it was a glancing blow the impact would still obliterate much of the object and any large chunks remaining would either fall back into Uranus or begin orbiting the planet and become a moon.
+Yeah.
+Non-equatorial rings might not last as long as equatorial rings though since the rings would have to pass though the path of influence of any equatorial satellites that the planet might have.
+well rings can either be from the early stages of planetary formation or the rings could be the result of moons colliding or breaking up.
+In the first case if the ring is formed during planetary formation it is likely that the angular momentum of the ring and the planet is aligned, so the ring will coalesce around the equator.
+In the latter case the ring will have the same angular momentum as the moon.
+Moons tend to orbit in the equatorial plane so the rings also tend to coalesce in the equatorial plane.
+But if the moon is not orbiting the equatorial plane neither will the ring.
+However I believe that tidal forces may force the rings into an equatorial orbit.
+But as far as I know it is also unclear how long rings can last.
+Saturns rings for example a thought to be quite old, but some researchers believe that rings cannot last billions of years.
+So it is still an open question to some degree.
+[removed]
+[removed]
+Very interesting.
+I've never thought of the ability of gases to act as a solid given enough pressure.
+It makes perfect sense but I never thought to apply it this way.
+And at the pressures and densities of a gas giant, that gas is a lot more solid than water.
+Tidal phenomenon will also play a role in stabilizing equatorial orbits.
+This just gave me a braingasm, thank you.
+Think of how it feels to hit water at speed.
+At the pressures and densities of gas in a gas giant, it is more solid than water as you dip below the outermost layers of atmosphere.
+The stars are just too small and too far apart.
+The odds of two colliding are very small, except for sometimes if they are already in the same system or cluster, in which case they share the same orbit anyway.
+Yep that's pretty much it.
+Collisions heat the particles and this heat can be radiated away.
+[removed]
+Friction isn't the only force acting on two colliding objects in space.
+At high mass and low distance, gravity will also help to attract large masses.
+You are correct in saying that the collision will spread out the masses of both bodies.
+However, you have to look at the velocity of the colliding object relative to the planet's frame of motion.
+After the collision occurs, any debris traveling faster than the escape velocity of the new center of mass will continue away from the planet.
+The rest (and probably most) of the mass, will either compress together to form a new planet, or continue to orbit the new planet as a moon or a ring.
+Nope.
+Most planet's and moon's gravity is strong enough to keep all its dust, rocks, ice, etc on the surface.
+Most large rings are caused by moons (like most of Saturn's) or planets (the Sun's asteroid belts) breaking up.
+There are some rings that form from stuff knocked off or ejected from moons.
+Usually this second type of ring is formed from volcanos/geysers (like [Saturn's E ring](https://en.wikipedia.org/wiki/Enceladus#Source_of_the_E_ring)) or meteor impacts (like  [Chariklo](https://en.wikipedia.org/wiki/10199_Chariklo)) rather than the centrifugal like your spinning ball analogy.
+Momentum is not energy!
+If two objects of the same mass are moving at the same speed in opposite directions, the total momentum is actually zero, but the kinetic energy is a positive number.
+That's because Saturn's rings are mostly formed by bodies that have ventured into the Roche Limit of the planet where the gravitational force from Saturn exceeds the the gravitational force that's holding the body of the smaller object together.
+Hence breaking said object into smaller pieces.
+There's only a fixed range of distance from the planet where this can occur.
+Thus all of the potential orbital rings would eventually collide with each other.
+And as for the Roche Divisions, it could have been possibly been made by gravitational forces from Saturn's moons.
+The different densities of the materials could have formed layers as a result.
+&gt; just the gravity
+
+With masses of two planets, and a low distance, the gravity between two objects is enormous.
+The effect of myself on the earth is negligible to the effect of the earth on me.
+However, if I were the size of a planet, the effect on the earth would be no longer negligible, and we would "fall towards each other", similar to two magnets attracting.
+That does have a contribution, but it doesn't quite explain how it gets so flat.
+Classical effects from the planet not being a perfect sphere would be more important than GR here.
+I guess that makes sense.
+Are those effects relevant?
+I know they're enough that they're used for stationkeeping on Earth (e.g.
+Molniya orbits).
+The original stars formed from a disc of gas, and gas does collide with itself.
+If you still have a disc galaxy, it means it hasn't had enough violent mergers to stir up the stars much.
+That's basically the asteroid belt.
+Fun thing.
+At low velocities liquid behave like liquids and solids like solids.
+Go faster and liquids behave like solids.
+Go even faster and solids behave like liquids.
+You die if you hit water at terminal velocity.
+But to be fair, you would also break your legs.
+Of course!
+Far out man/woman.
+[removed]
+&gt; IF Uranus's axial tilt occurred after formation of the rings, then there needs to be some mechanism by which the rings rotated with the planet.
+Let's suppose that Uranus had rings prior to impact when it still had a "normal" axial tilt/rotation direction.
+I would imagine a smaller planet impacting Uranus hard enough to knock it sideways would produce a TON of debris, which would be going every which way in orbit.
+All this debris would collide with the existing ring, and eventually the whole mess would coalesce into a *new* ring, the one we see today.
+Wait, does the Sun spin?
+On the same plane as the solar system?
+Please correct me if i misunderstood your post, but that isnt how the discs are formed.
+Planetary disks are formed due to immense gravitational pull on an orbiting body, such that the gravity felt by the orbiting object at opposite poles and the equator are are different, and over time the orbiting object gets stretched out over the length of the orbit.
+It has nothing to do with planetary bodies coliding together.
+[removed]
+People keep comparing it to water, but I think a better comparison is just sticking your hand out the window when you're driving at high speed.
+The air is exerting force on your hand, even though you can push through it.
+Now imagine that force at much, much higher speeds, and with much, much denser atmosphere.
+People keep comparing it to water, but I think a better comparison is just sticking your hand out the window when you're driving at high speed.
+The air is exerting force on your hand, even though you can push through it.
+Now imagine that force at much, much higher speeds, and with much, much denser atmosphere.
+I've wondered about this and am not an expert.
+The theory that I believe is that the equatorial bulge caused by the rotation of the planet biases the placement of the ring and moons.
+It helps collect the random debris along that plane rather than any other.
+I think that may be plausible...
+[removed]
+well, [yes it does](https://en.wikipedia.org/wiki/Solar_rotation).
+Its so darn big and governed by additional forces so it doesnt all rotate the way a solid planet or even the other gas giants rotate, but it rotates.
+[removed]
+[removed]
+[deleted]
+[removed]
+What if I go head first?
+Yes, though different parts rotate at different speeds.
+The sun's "day" (full rotation) is between 27-31 days, and is slower at the poles (31) than the equator (27).
+[removed]
+Thank you for the answer!
+What you're saying is the planet spin and ring spin are related by way of origin, correct?
+What if a debris sphere was created in orbit of an existing body?
+Would that have a bias towards matching the rotation of the body, or any bias at all?
+&gt;This is true for more than just planetary rings.
+Gas and plasma particles in space will bump into each other too.
+So when you get a lot of gas coming together to form a galaxy - or, on a smaller scale, a chunk of gas coming together to form a star - it will also collapse into a disc.
+For a galactic gas disc, this will collapse to form stars, so you get a disc of stars.
+For a stellar gas disc, this will collapse to form planets, so you get all the planets within the same plane.
+It's not that the stars or planets need to be in a disc - neither really is good at collisions - it's that the gas they formed from was in a disc.
+could it follow that the universe is also disc shaped?
+&gt; Another way to think of it is this: you can get rid of energy, but you can't get rid of momentum.
+A ring or disc is the lowest energy system you can get while still conserving angular momentum
+
+I really like that way of thinking about it!
+Wow this was extremely informational and incredibly well written!
+Thank you!
+At the velocities involved, physical state is irrelevant.
+Any impact reduces most of the bodies to plasma.
+[deleted]
+As others have said, yes.
+The Solar System formed from a cloud of gas.
+One day, some part of that gas became so dense that its gravity caused more gas to fall into it.
+This was a chain reaction, making more and more gas fall into the dense area.
+This dense area became the sun.
+But some parts of the cloud didn't fall into the proto-sun, and instead began to orbit it, in the same direction that the proto-sun rotated.
+After many, many years, the gas cloud was compressed into a disk around the proto-sun.
+This is called the proto-planetary disk.
+All of the objects in the Solar System - the planets, asteroids, and comets - were derived from this disk.
+They began similarly to the sun, as dense areas in the gas that attracted more and more gas.
+But they couldn't get as big as the sun, since the majority of the material had been eaten by it.
+This is why the sun, planets, and most asteroids rotate in the same direction.
+The disk spun in the same direction as the proto-sun, and most of the objects from the disk inherited their spin and orbital direction from it.
+In fact, most of those objects still orbit the sun on a single plane - the ecliptic.
+The ecliptic was defined by the direction the proto-planetary disk spun 4 billion years ago.
+Tidal forces provide the material, but don't explain why the ring is so thin.
+If e.g.
+you just ripped apart a moon and didn't dissipate the energy, you'd expect a thick band.
+This remains the prevalent theory, but at the last Uranus meeting I attended, there were several other very 'interesting' ideas, including that there were two moons, one of which was captured and one which escaped (explaining the lack of a large moon at Uranus), and more than one large collision (the theory argued that one impact would only have tilted the planet so far over, so you need more of them).
+As ever, Uranus drives controversy!
+If a planet is tidally locked to a star, will the ring always rotate around the equator too?
+[removed]
+To add to this, when an object is traveling slowly through the atmosphere the air has plenty of time to get out of the way.
+Speed that object up enough and the air has more trouble getting out of the way of a moving object and compresses.
+Once this pressure builds up enough it can very much be like running into a solid.
+Much like the difference between running your hand under running tap water vs running your hand under a pressure washer.
+That impact is both improbable and unlikely, and if you have ever played with a top, the impact kinetic energy has to go somewhere, so Uranus would oscillate wildly on a constantly changing rotation axis, also it would have absolutely no effect on the orbiting ring, which would then no longer be in the same rotational axis as Uranus itself, if, as you state the 'accepted theory', Uranus was collided with.
+That's the Tower of Babylon which is modern Science.
+Anything they can't explain, they come up with theories that don't match observed phenomenon, which is supposed to be the basis of all rational knowledge, then those 'Oh look, a squirrel' theories become the 'Given Wisdom' issued from the Holy Ivory Tower Pulpit.
+A more accurate theory is that an extra-solar system agglomeration of rocks and ice flew too close to Uranus on that ecliptic, then gravitational forces ripped it apart, then captured the fragments in orbit as they dissipated kinetic energy in collisions, with the remainder fragments ripping back off into the original extra-solar system orbit where it came from.
+The rings are a cosmic 'skid mark' if you will.
+That doesn't fully explain it though.
+With your hand moving through the air, the air just gets pushed out of the way.
+With the speed of an impactor on a gas giant, it is going so fast that the air can not get out of the way fast enough and so it compresses in front of the object.
+This compression is actually what causes the vast majority of the heat when a spacecraft reenters the atmosphere.
+[removed]
+No, because the water isn't orbiting the ball and colliding with other water as it does so.
+Thanks, that was more interesting than i tought :)
+I wonder what would happen if somehow a large mass hit a gas giant *slowly.
+*
+I understand why the ring would focus around the equator of the planet that makes sense now.
+Is the ring always perpendicular to the axis or planetary rotation?
+Or is the angle of the ring totally random with respect to that?
+Thanks!
+This is interesting.
+yup, the ring is just an embodiment of the average angular momentum of the initial debris cloud.
+[removed]
+Its not that different though, just scaled up in terms of energy and ferocity.
+Have a look at how the moon came into being, and how planetesimals form proto-planets, and you'll be on your way.
+The slowest that something could hit a planet is from orbit around that planet...  which is still VERY fast.
+The closest that a moon can orbit is the Roche limit: "The distance in which a celestial body, held together by its own gravity, will disintegrate due to tidal forces exceeding its gravitational self attraction" (Wikipedia).
+For Saturn, that's 60,267km.
+(Depending on the moon itself, of course.
+A dense moon will survive closer than a loosely packed one.)
+The orbital period for such a body would be 4.19 hours.
+That means that the slowest a moon can orbit Saturn is about 14,376km/h, or 3.99km/s.
+This is in contrast to the speed that most objects strike Saturn, going at least at its escape velocity of 35.5km/s.
+Once a moon gets closer than its Roche limit, it breaks up, with about half the mass raining down on the planet, and the other half being boosted to a much higher orbit.
+This happens to be one of the older and most widely taught ideas about how Saturn's rings were formed.
+(And we get the term Roche limit specifically from Edouard Roche proposing this idea.)
+As for how it would look...
+Probably not as dramatic as the Shoemaker-Levy 9 comet, but would last much longer in duration.
+When objects hit the atmosphere, the compression of gasses in front of them will heat everything up until it either explodes or slows down to its terminal velocity and drops below the cloud layers, never to see the light of the sun again.
+Edit to add:  
+
+
+Note that the 4km/s speed is the speed to stay in orbit at the Roche limit.
+Once the moon starts breaking up, parts of the moon will go into eccentric orbits, dipping down to the planet's cloud top and back again.
+At 60,000km away from that cloud top, chunks will be accelerating up to 20km/s when hitting the atmosphere...  keeping in mind that the US Space Shuttle Orbiter's safe deorbit speed was 7.8km/s and needed special heat shields to keep from disintegrating.
+The larger rings are often formed from the same cloud that formed the planet, so they start out with the same - or at least a very similar - angular momentum, which means that they share the rotational axis of the planet.
+Theoretically, a ring can also be accumulated over time from material foreign to the planet itself, and might not necessarily be aligned to the axis, but given that most of the material that could realistically form a ring (instead of orbiting asteroids or small moons) originated in the solar system, it is likely that all rings that can exist already exist, and share the solar system plane.
+[edit] Except for Planet "It's not a phase mom!"
+Uranus.
+[removed]
+Another thing others haven't mentioned is conservation of angular momentum.
+Imagine you have two identical rocks spinning in opposite directions at same speeds.
+If they were to collide and merge they will form a bigger rock with exactly zero spin.
+In general, whenever two objects collide the "amount they spin" (called angular momentum - which depends on their mass, shape, speed and directron of rotation) always stays the same.
+So if you have a giant cloud of rocks orbiting a planet that keep colliding and tending towards rings, the total (sum) angular momentum of the final rings will equal the sum of the angular momentums in the original cloud.
+So if the cloud is rotating along the same axis as the planet (which they usually do, as the planet and the rings-to-be are usually created from a single, bigger pile of stuff), the rings will to.
+Regarding the ellipticals, it can also be noted that these galaxies have depleted much of their star-forming dust, which is one of the reasons why spiral galaxies end up disk-like, while ellipticals can be more bulbous.
+Stars rarely collide, but the dust they travel through does cause friction!
+Fun fact: collisions are the go to answer for most wonky things in the universe.
+Why does Uranus have a weird tilt?
+It was hit with a big rock.
+Why does venus rotate backwards?
+It was hit with a big rock.
+Why are there rings around gas giants inside of and orb of debris?
+A bunch of small rocks hitting each other.
+Why is the solar system flat?
+A bunch of big rocks smashing into each other.
+Why does the earth have a large moon relative to its size?
+It was hit with a large rock.
+Why is Mars lopsided?
+You guessed it... big rock.
+Granted, this is a little over simplified, but whenever something new is discovered, it's almost a knee jerk reaction to ask if it can be explain by a collision, by a bunch of collisions or by an even bigger collision.
+Just thinking of a gas cloud so big it would compress into a galaxy is insane.
+[removed]
+Would it be possible to have two rings in different orbits that don’t cross?
+Either two rings essentially in the same plane but with different orbital radii, or two rings going different directions (e.g.
+a polar orbit and an equatorial orbit, but at different distances from the planet?)
+No, those would not be dynamically stable and therefore decay until only the net angular momentum was left, ie.
+in just one direction of rotation.
+What would cause the dynamic instability to decay?
+The same kinds of events that cause the ring in the first place and continue to happen in our own solar system still.
+Nearby planets and their passes and alignments, solar wind and radiation intensities, and tidal forces from whatever major bodies the rings are orbiting will decay the momentum of the ring bodies, at different rates.
+Any body that loses energy more than others spirals inwards toward the parent mass.
+That would make bodies pass through counter-revolving belts and rapidly destroy them until only net angular momentum was left.
+There's actually bunch of other interesting mechanism that would bleed out that imbalance, but the bigger picture that probably helps understand better is that a system with total component angular momentum much larger than net momentum is inherently dynamically unstable (eqv to not being in lowest energy state), and a whole host of secondary and tertiary mechanisms that are available to it to decay energy states will ALSO end up decaying its total angular momentum till its closer to its lowest state.
+[removed]
+So with all the debris in orbit, is earth going to get a ring in the distant future?
+How do different parts of it rotate at different speeds?
+[removed]
+I can’t fathom that random spherical collisions would lead to a single plane.
+Is it the enormous timespan I’m not taking into account?
+Can magnetic field affects repartition of metallic particules orbiting over the planet ?
+How do solids behave like liquids?
+So solar system models are accurate depictions of actual planets orbits?
+So, why do the rings we see all seem to be around the equator, even with Uranus, whose axis is in the same plane of its orbit around the sun?
+All the principles you listed could lead to the formation of rings in any orientation to their planet.
+[removed]
+And if we wait long enough wont the rotation eventually settle out and be 'normal'
+[removed]
+[removed]
+[removed]
+I think the other thing going unconsidered in a lot of this is just how much more dense everything is there, especially further down.
+It's not like thinking about gas and liquid as we understand it on Earth.
+I don't understand hydro-physics or anything, but I did stay at a Holiday Inn Express last night and I'm pretty sure that stuff is closer to a solid on Uranus than it is here.
+In fairness, collisions are the most probable solution when you're talking about planetary formation time frames.
+Just so much time and so much big crap floating way too close together.
+Nice-
+Was going to say this exactly.
+We saw this happen in real time and saw the scars after, it was really cool and very once in several lifetimes!
+[removed]
+Do if you go even faster liquids behave like solids behaving like liquids?
+Planet fart?
+It would likely be ripped apart by tidal effects and form a debris ring.
+[removed]
+[removed]
+[removed]
+It's impossible for objects in stable orbits on different planes to be going parallel; the orbital planes would be tilted at different degrees and cross over each other.
+Every stable 2 body orbit, be it circular or elliptical, has to have its major axis pass through the center of gravity of the system (barycenter) - which in this case is effectively the center of the planet.
+So in this example, if you were take an object orbiting at the equator and place another copy appreciably further north or south in space with the exact same mass/velocity/direction, the pull of gravity is no longer perpendicular to the prograde (forward) direction of its orbit.
+It will continue to be pulled straight towards the planet's center of gravity at every point on its path, which is in a NEW direction relative to its old orbit, so it will course correct and end up in a stable orbit in a new plane that is higher on one side and lower on the other with the axis passing through the barycenter again - and this will inevitably cross over the old plane at 2 points and have potential for more collisions.
+[removed]
+[removed]
+[removed]
+Huh, interesting, for some reason I always thought it had something to do with the particles having a minute gravitational attraction to one another as well as to the planet.
+Yeah the real answer is, doesn't everyone know that hitting water after jumping off a bridge is like hitting concrete?
+Same thing; *but worse*.
+[removed]
+Would we notice any effects of such a collision back at earth?
+What if is was closer like Mars?
+Excluding the obvious possible debris, that is.
+Got it.
+Very helpful.
+Thanks.
+&gt; With your hand moving through the air, the air just gets pushed out of the way.
+Eh, it gets pushed out of the way *faster* than this happens with a meteor hitting an atmosphere, it's deflected over a shorter distance, but there's still air being compressed in front of your hand, and that *is* the mechanism for feeling resistance when you stick your hand out the window.
+The difference is one of magnitude, not kind.
+With telescopes, yes, definitely.
+A large enough impact on Mars could cause it to brighten temporarily so that it might be noticeable to the naked eye.
+But that would be a catastrophic event.
+In 30 to 50 million years, Mars' moon Phobos will impact Mars, which might be visible to the naked eye, depending on if Mars is even visible from Earth.
+Most impacts on our moon aren't visible to the naked eye, though many are witnessed by astronomers and amateurs with telescopes each year... but there have been day sightings of lunar impacts, with one of the first recorded happening in 1178.
+Beyond just seeing impact events, there are unlikely to be any other effects that anyone would notice from Earth.
+Space is big.
+Other planets, even our moon, are very far away.
+What happens when stuff from space hits earths atmosphere?
+This is the same thing.
+[removed]
+So based on your explanation, why don't all planets have rings?
+It's also why planets orbit the solar system on a similar horizontal plane.
+For a macro example of this.
+[removed]
+Yes, much as two roughly Mars-sized objects once collided and were destroyed, but only the most energetic debris could leave the orbit they were in, so most of the whole mass of crap was still in roughly the same orbit around the sun and eventually formed two objects: one large one that had most of the iron found in the two original planets, and one without much iron; the Earth and Moon, respectively.
+Impact on an atmosphere is basically an extreme form of aerobraking; the heat of the compressed atmosphere plus the high rate of deceleration both contribute their own hazards to something doing the aerobraking.
+For that reason, Apollo spacecraft coming back from the Moon had a narrow range of angles at which they could hit the Earth's atmosphere.
+Too shallow they either skip off or fail to slow their descent and are cast up into another orbit (not to be lost forever, but up their much longer than they need to be, most likely) and too steep, they'd have to deal with both heat and deceleration.
+The heat would kill them first, but a perfect heat shield won't save you if you hit so fast the atmosphere is compressed into something of a higher density than you.
+I was about to ask a follow-up question along this line.
+So in layman's terms, the plane of the disc is the average plane of momentum before collisions, and after collisions?
+Is the average determined only by external input and all collisions that occur within the system maintain the same average plane of momentum?
+I'm also interested in the answer to this question.
+Though my basic understanding of gravity and vectors would say yes?
+[removed]
+I see your flair so I may be digging my own grave here, but yet I'm surprised you only touched on the reason why things like Saturn's rings, the solar system, or galaxies are all flat, and instead gave a misleading answer of 'collisions'.
+The reason this is misleading is that if no  'collisions' could occur - ie hypothetically imagine particles/debris could pass right through each other - you'd *still* end up with a flat ring system.
+The reason I keep quoting the word collisions is that you should have specified that *the vast majority* of all of these collisions are elastic non-contact collisions, not regular physical collisions where 2 things smash into each other.
+The real answer has to do with conservation of angular momentum, which you briefly mentioned but didn't elaborate more on (and you should have).
+Fundamentally, in a 3D world the vector expressing total angular momentum of a system of objects in 3D space will lie on a 2D plane.
+I don't know much more about this other than that is just how the mathematics work, sorry.
+In 2D the angular momentum is still on a 2D plane, but in 4D the angular momentum is on 2x2D planes.
+The dimension of the total angular momentum of a system will always be in *n-(n%2)* dimensions for an *n*-dimensional system.
+[This](https://www.youtube.com/watch?v=tmNXKqeUtJM) video should help clarify more by what I mean and why the total angular momentum is the key to flat (2D) systems of objects in 3D.
+Yep, they formed from a cloud of gas and dust, which means that cloud formed a disc in the process of condensing under gravity.
+Anyone interested in this specifically can look up "protoplanetary disk" and "accretion disk".
+[removed]
+You forgot to tell them about gravity.
+Even if you manually put two rings to not collide with each other, at different angles, gravity would de-orbit them and put the particles in the situation you described.
+Which is exactly what happens when you stick your hand out of the window.
+You compress the air in front of your hand and you feel an increase in pressure.
+Heat is also formed, just not to the level of an object in space interacting with a planets atmosphere.
+It's a better example than water because *it's exactly what's happening* just on a lesser scale.
+If you had your hand out the window and accelerated a car to 17,500 mph your hand would incinerate.
+/u/Treshnell is correct.
+Doesn’t this imply an upper bound for the size of dark matter particles?
+Hydrogen molecules are big enough to collide and form a galactic disk.
+Dark matter must be substantially smaller than an H2 molecule.
+So that would mean that possibly at the core of Uranus (a gas giant) is a solid metal core of a possibly rocky protoplanet?
+[removed]
+[removed]
+[removed]
+Why would that effect the ring?
+Collisions alone will not produce an equatorial orbit for rings or constituent debris.
+This must rely on some interaction with the centripetal equatorial bulge and/or solar tidal bulge of the planet.
+I think that an object in a random orbit with a polar component will be travelling fastest north/south over the equator because it is accelerated towards the bulge.
+Collisions will tend to remove more north/south momentum than east west and eventually the resultant gravel will coalesce into equatorial rings over the bulge.
+Not 100% sure about this explanation, but something along these lines.
+Got any cool graphical simulations of this?
+Depends on size of the object colliding with Uranus.
+(Serious response with slight, tee-hee).
+I was reading this chain and I was wondering: how does one define "a glancing blow" ona a gas planet, for example?
+If I understand correctly gas planets have smooth transition from atmosphere to maybe a dense layers to a burning core inside?
+But I have no idea what I'm talking about, just a guess.
+Nice answer.
+How did you know that?
+Maybe he's talking about vaporizing due to high rate of speed collision with another harder object.
+The "softer" will vaporize.
+Note:.
+This is like a memory of 3rd party knowledge.
+No idea if this is correct.
+Could a planet have two rings at different radii with different angles, like a set of gimbals, since that would prevent collisions between the rings?
+Or would such a system end up aligning in a single plane anyway?
+Uranus actually has weaker gravitational pull than our place does though.
+[removed]
+[removed]
+I genuinely thank you for you thorough answer!
+Thank you for taking the time to answer my question!
+I did not know that, interesting!
+Looks like this is because Uranus' "surface" is defined as the gas equaling 1 Earth atmosphere... which is much closer to the center of the planet than on Earth.
+I didn't realize most of Uranus was so spread out!
+[removed]
+would the gravitational pull of all the other planets have an effect on the orientation of the ring too?
+Isn't there basically a big disc of mass that is our solar system that anything outside the disc would constantly be pulled towards?
+How long would such a collision take to play out?
+[removed]
+don’t forget to mention the most clear and obvious point: the disk structure occurred during the formation of the solar system and presumably saturn’s rings as well.
+for the reasons kinda stated above in a long winded, pedantic but i-just-watched-a-youtube-video-on-this sort of way.
+[removed]
+[removed]
+Well you probably wouldn't break your legs in that case since luckily your torso and head would absorb the shock first.
+Huh, I had no idea that's how the surface was defined for this kind of thing!
+I just remembered seeing a gravity comparison of all the planets and was surprised at Uranus.
+Also, Mars is about the same as Mercury, which is pretty neat.
+The process that created the individual planets (spinning dust clouds that coalesce into solid bodies) also created the solar system and even the galaxy (as far as we know), so the same principle applies on those levels, too.
+I am not sure if the actual gravitational pull of other planets would influence new rings, but I would imagine it does.
+You think Uranus is strange?
+Venus rotates in the "wrong direction."
+While Uranus' axis of rotation is about 90 degrees (Earth is in the 20s), Venus is almost 180 degrees.
+How did the earth form?
+collisions...lots of them...
+
+&amp;#x200B;
+
+Yup.
+Checks out.
+[removed]
+PhD.
+The idea is that dark matter, like neutrinos, doesn't have an electromagnetic charge, so it doesn't really collide with itself at all.
+question: IIRC, if a planet has a very strong pull on a body, eg a moon, the moon can break apart and become a ring.
+If you have a planet with one ring that has a moon orbiting in another plane than the ring, and a different distance then can the planet have rings in different planes at different distances?
+With elastic interactions, you end up with a fat disc or ellipsoid.
+You need dissipation to get rid of the kinetic energy and flatten it down.
+That's why a system of stars with angular momentum remains ellipsoidal,  but a system of gas with angular momentum collapses into a disc.
+[removed]
+[removed]
+Jupiter and Saturn are gas giants.
+Uranus and Neptune are ice giants.
+https://en.m.wikipedia.org/wiki/Jupiter.
+[removed]
+&gt; stars almost never collide and don't even have close encounters very often
+
+Do you know why this is?
+Is it just because starts are relatively rare and spaced out?
+Because thinking about it now, it'd seem logical to me that stars would smash into eachother all the time.
+&gt; Are all rings equatorial?
+No.
+The Phoebe ring around Saturn is tilted 153&amp;deg; relative to Saturn's equatorial plane.
+Phoebe's orbit is tilted 152&amp;deg;.
+You mean like [Phoebe's ring around Saturn](https://en.wikipedia.org/wiki/Phoebe_\(moon\)#Phoebe_ring)?
+So the answer is yes.
+Yes, but since tidal forces are proportional to the size of the objects, they have very little direct effect on ring particles.
+Tidal effects do tend to bring large moons into the equatorial plane and these may in turn affect ring planes.
+Is it not also due to the conservation of momentum.
+The same way a disc of dust forms around a young star.
+Planets also have a very small amount of [frame dragging](https://en.m.wikipedia.org/wiki/Frame-dragging) that also drives the debris to the equatorial plane.
+If it were large enough it would have a gigantic amount of momentum.
+Momentum is mass times speed, so at a constant speed the momentum will increase ()^3 =cubic.
+The atmospheric drag will be related to the surface area so it will probably increase ()^2 =square.
+(I am not sure if this still applies at this scale).
+So there could be a size of an object that is big enough (not necessarily bigger than a gas giant) that could go through.
+But then again gas giants (may?)
+have solid cores (metallic hydrogen?)
+that would impact with the large object.
+Fazit: i dont know.
+[removed]
+Do we have a way to measure the volume of a gas giant precisely?
+Is it possible to observe changes in volume of the planet overtime to predict how much mass it “absorbs” from debris?
+[removed]
+That's fascinating!
+Do you know the answer to my question though?
+:)
+[removed]
+Yes and [no](https://www.spaceanswers.com/solar-system/what-are-the-cores-of-the-gas-giants-made-up-of/).
+The core most likely consist of solid materials, but because of the pressure, it would be molten instead of completely solid.
+Just a guess: the equatorial bulge/ pole flattening of a fast spinning gas giant puts more mass in the equatorial plane than any other plane, producing a slightly larger gravitational field in the equatorial plane.
+Just a guess: the equatorial bulge/ pole flattening of a fast spinning gas giant puts more mass in the equatorial plane than any other plane, producing a slightly larger gravitational field in the equatorial plane.
+Wasn't Uranus and Neptune re-classed as "ice giants" because only something like 20% of their mass is gaseous and they're actual giant oceans of supercritical ices.
+[removed]
+Exactly!
+Thanks for the link, that was neat!
+[removed]
+Yes.
+By knowing how fast an object orbits.
+The heavier a planet (star, black hole), the faster things go at specific distances away.
+For instance, an object orbiting 42,157km from the center of Earth will orbit once per day (geosynchronous orbit).
+An object the same distance from the center of Saturn will orbit once every 2.5 hours.
+If we didn't know the mass of Jupiter, but we saw that an object 42,157km from the center of Jupiter orbits once every 1.34 hours, we can calculate that Jupiter is 318 times more massive than Earth.
+[removed]
+Gas giants have a greater density towards the center, sort of a liquid state.
+That area would provide friction to anything passing through it.
+Depending on the size a velocity of the object moving through that area, it's possible that the whole planet can be effected.
+Is there such a thing as a glancing blow with planets?
+Even the rocky planets are not actually rigid, nothing is solid at that scale.
+Between that, and gravity, I have a hard time picturing any collision where you end up with anything other than one large blob, and a spray of debris.
+At the size of planets, everything is basically either a gas or a liquid.
+And with that much "real" liquid, you're not worrying about friction.
+Things splatter when they contact any sort of dense matter at astronomical velocities.
+So, if I understand correctly, there is a point where gas can compress anymore but still can not go to liquid state due to temperature, so it stays that was as a dense gas?
+Thank you for your explanation.
+Yes there is, and you can look up to see the evidence.
+From [wiki](https://en.wikipedia.org/wiki/Origin_of_the_Moon), the top theory of our moon's formation is it was created by a Mars-sized planet hitting the Earth and knocking off a huge blob in a glancing blow.
+*Not* a glancing blow.
+A collision, which knocked off enough material to form the moon.
+A glancing blow would mean one of the bodies bounced away mostly intact.
+From that wiki: "The standard giant-impact hypothesis suggests the Mars-sized body, called Theia, **impacted Earth, creating a large debris ring around Earth**, which then accreted to form the Moon."
+
+Summary: 
+Why would that effect the ring?
+that would impact with the large object.
+The Solar System formed from a cloud of gas.
+It's not "just" a ball of gas.
+But if the moon is not orbiting the equatorial plane neither will the ring.
+&gt; Are all rings equatorial?
+How did the earth form?
+would the gravitational pull of all the other planets have an effect on the orientation of the ring too?
+I did not know that, interesting!
+However, the rings of Uranus are equatorial, as are the orbits of most of the moons (approximately).
+This is true for more than just planetary rings.
+So based on your explanation, why don't all planets have rings?
+Why will the rings coalesce on the equator?
+in just one direction of rotation.
+Thus all of the potential orbital rings would eventually collide with each other.
+Would it be possible in the case, for a planet to be a disc around its star?
+(I thought it had something to do with spin, and the way gas planets form)
+I feel like angular momentum is more important than collisions.
+a polar orbit and an equatorial orbit, but at different distances from the planet?)
+In the latter case the ring will have the same angular momentum as the moon.
+Eventually, through enough collisions, everything will settle down until you get a disc or a ring.
+The original stars formed from a disc of gas, and gas does collide with itself.
+And how does it depend on the size of the planet or the average orbit?
+This is why the sun, planets, and most asteroids rotate in the same direction.
+If the moon was equatorial, the rings that formed from its demise would also be equatorial.
+As for how it would look...
+Exactly what I was going to say.
+So you really do need both to get a thin disc or ring.
+On the same plane as the solar system?
+Would it be possible to have two rings in different orbits that don’t cross?
+Collisions alone will not produce an equatorial orbit for rings or constituent debris.
+Jupiter and Saturn are gas giants.
+Other planets, even our moon, are very far away.
+By knowing how fast an object orbits.
+It's also why planets orbit the solar system on a similar horizontal plane.
+So with all the debris in orbit, is earth going to get a ring in the distant future?
+&gt;This is true for more than just planetary rings.
+The key thing here is Uranus.
+Even planets with wonky axis of rotation, like Uranus, display equatorial rings.
+This is the same thing.
+Same reasons the planets rotate in a disc around the Sun, too.
+Knocked the entire planet off of its spin axis.
+A collision, which knocked off enough material to form the moon.
+As the particles form the planet and ring, the "left over" angular momentum is what determines the axis of rotation.
+The rings may be young, but the object that created them was formed from the same debris field as the planet.
+Would we notice any effects of such a collision back at earth?
+It would likely be ripped apart by tidal effects and form a debris ring.
+But then again gas giants (may?)
+The same way a disc of dust forms around a young star.
+There are some rings that form from stuff knocked off or ejected from moons.
+Depends on size of the object colliding with Uranus.
+How can something collide with a ball of gas?
+It's not like thinking about gas and liquid as we understand it on Earth.
+The rings are a cosmic 'skid mark' if you will.
+Is there such a thing as a glancing blow with planets?
+I understand why the ring would focus around the equator of the planet that makes sense now.
+They generally form from the same disk that that planet forms.
+These rings *do* pull on eachother, so they will eventually be in the same plane.
+Particles with aligned momentum rarely collide because they are orbiting in exactly the same direction.
+A ring or disc is the lowest energy system you can get while still conserving angular momentum).
+The orbital period for such a body would be 4.19 hours.
+For a stellar gas disc, this will collapse to form planets, so you get all the planets within the same plane.
+Why are there rings around gas giants inside of and orb of debris?
+If it were large enough it would have a gigantic amount of momentum.
+If a planet is tidally locked to a star, will the ring always rotate around the equator too?
+How can you get rid of energy but still have momentum which is also a form of energy?
+It was hit with a large rock.
+It was hit with a big rock.
+You mean like [Phoebe's ring around Saturn](https://en.wikipedia.org/wiki/Phoebe_\(moon\)#Phoebe_ring)?
+Heat is also formed, just not to the level of an object in space interacting with a planets atmosphere.
+The cancelled momentum never comes back into the system.
+(Orbits will all circularize because of a similar mechanic, I believe.
+However I believe that tidal forces may force the rings into an equatorial orbit.
+(Depending on the moon itself, of course.
+Does the disc get thinner over time?
+Phoebe's orbit is tilted 152&amp;deg;.
+Is the ring always perpendicular to the axis or planetary rotation?
+How long would such a collision take to play out?
+Is it not also due to the conservation of momentum.
+Does the spin of the planet also play a role?
+Moons tend to orbit in the equatorial plane so the rings also tend to coalesce in the equatorial plane.
+I get that the ring exists because it's stable (stuff not bumping into other stuff).
+I think that may be plausible...
+Why is the solar system flat?
+I just remembered seeing a gravity comparison of all the planets and was surprised at Uranus.
+The stars are just too small and too far apart.
+Gas and plasma particles in space will bump into each other too.
+Unless all the particles are orbiting in the same plane, their orbits will cross and they'll collide.
+What if I go head first?
+So solar system models are accurate depictions of actual planets orbits?
+So the answer is yes.
+bits that do not get absorbed eventually go off into space, go into orbit, form rings, etc.
+yup, the ring is just an embodiment of the average angular momentum of the initial debris cloud.
+The theory that I believe is that the equatorial bulge caused by the rotation of the planet biases the placement of the ring and moons.
+It was likely a close gravitational encounter or impact.
+The difference is one of magnitude, not kind.
+Moons themselves tend to follow the same preference of formation as rings for the same reason.
+These collisions transfer momentum between the particles, and also get rid of kinetic energy.
+At the size of planets, everything is basically either a gas or a liquid.

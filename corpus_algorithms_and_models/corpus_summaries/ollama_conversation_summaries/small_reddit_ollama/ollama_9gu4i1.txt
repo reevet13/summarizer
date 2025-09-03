@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+We have seen good recent sensors with almost 15 stops of dynamic range. We see video cameras and hybrids implementing dual native iso. There is incredible advancement in making amazing sensors.
+
+But why aren't there more cameras that implement dual native iso? Especially for smaller sensors, this seems like a great opportunity. I own a Panasonic GX85 which has about 12-13 stops of dynamic range. Why not have another native iso at 1600?
+
+Additionally, why do we have to stop there? Why not make sensors with 3 native ISOs? One can be at 100, or even 50, for daylight situations, another native iso right where the sensor stops being able to capture at least 10 stops of dynamic range, then another native iso for low light situations.
+
+Why couldn't we have a camera that captures images with 2 different ISOs at the same time? The Sony A9 is capable of global sensor readout. Understanding that an increase in ISO requires a reduction in shutter speed, why couldn't we have a sensor where half the pixels are at a low iso and the other half are at a higher iso?
+
+Let's take my GX85 again and say it only has 12 stops of dynamic range. If we made a GX85+, we could potentially increase the dynamic range of the sensor by however many stops of separation those two ISOs are at, and this is without counting whatever other gains we could get in noise reduction due to technically combining 2 separate exposures into an image.

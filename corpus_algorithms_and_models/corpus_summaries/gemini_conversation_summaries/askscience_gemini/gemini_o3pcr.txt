@@ -1,0 +1,2 @@
+That is, when you *personally* create a mnemonic, you are assigning more attention to it which makes it more likely that it will be encoded.
+Using mnemonics also helps to link the new knowledge, to existing knowledge networks, or unique (and therefore memorable) identifiers.

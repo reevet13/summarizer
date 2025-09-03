@@ -1,0 +1,19 @@
+Original Response:
+Does the body get used to the caffeine and then require more for the same effect?
+[Absolutely](http://www.reddit.com/r/askscience/comments/lx93w/how_does_our_physiologically_adapt_to_caffeine_to/). Post back if you need further clarification.
+Your tolerance to it does. As time goes on, it takes more and more to achieve the same effect.
+Yes, although not all effects are diminished. See this study for specifics: [Caffeine use in sports](https://docs.google.com/viewer?a=v&amp;q=cache:DpVmDYXdGBcJ:www.simplyfit.com/RS.CaffeineUseinSports.pdf+RS.CaffeineUseinSports.pdf&amp;hl=en&amp;gl=ca&amp;pid=bl&amp;srcid=ADGEESiqRShQupHg_t6Jc62QpIQDlBlD7PWbFQOBIPNceJdC6kZRa0S7vGbxsE89P3qshsnrh9NUItpK-NtLiRQiblHeuVddGxfvTTg6Sux6dsaYvZZFfaVZ5_3I9AOfzuUKfKaGva0X&amp;sig=AHIEtbTbgh1OcvX32Nt6BfFV3lP0424wHA)
+
+Table: http://i.imgur.com/CilTJ.png
+Same basic effect if you run a mile everyday and it makes you tired and sore, after a while it becomes easy and you need to run further to get tired
+An anecdotal, yet apt effect that I have and others do as well is that days-weeks of caffeine consumption causes increased sensitivity or reaction to it.  I imagine this is an oddity due to perhaps an allergy or something else, but I don't think we can say in ALL cases the effects diminish with time.
+Is there any evidence of caffeine withdrawal, is it related to dose?
+Yes. Caffeine withdrawal symptoms are very common after cessation and are related to caffeine use in a dose dependant manner. See [here](http://neuroscience.jhu.edu/griffiths%20papers/CaffwdReview.2004.pdf) for a nice review (you can get a good idea just from the abstract).
+Drug sensitisation is a very real effect although this has been studied mostly in animals at this stage. In animal models, sensitisation to substances is associated with a number of factors including the contingencies of drug exposure, environmental factors and individual differences. It is less common to see studies of drug sensitisation in humans because the effects may be masked by desensitisation effects after chronic use. That is not to say they are not there. A hypothesis is that sensitisation occurs in the the early stages of drug exposure and heightens the individuals motivation to seek drug stimuli. Over time, repeated administration (helped by the sensitisation) begins the cascade of events that may lead to addiction.
+
+I am not familiar with any studies on caffeine sensitisation specifically but there is no reason to suggest it cannot happen with caffeine (note: after a quick search there indeed appears to be [evidence](http://www.sciencedirect.com/science/article/pii/S0166432806002130)).
+A paper that sexy you can't just read the abstract...  Thank you
+
+Summary:
+Yes, although not all effects are diminished.
+Drug sensitisation is a very real effect although this has been studied mostly in animals at this stage.

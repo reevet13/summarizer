@@ -1,0 +1,7 @@
+The water, when kept anoxic, is clear; however, upon exposure to air (oxygen), the water turns black. Reacting the precipitate with a strong acid generates hydrogen sulfide. Why does exposure to oxygen cause the generation of this black precipitate? If the precipitate is ferrous sulfide, why does exposure to oxygen accelerate this precipitation? Thanks for any insight!  
+The water samples come from oil reservoirs.  
+On that note, it may not be oxygen that's "speeding up" the process (oxygen will react with Fe(II) to form Fe(III) which will be reddish), but it may be the CO2 being added into the system which begins to buffer it. If these samples are from oil reservoirs, they probably are not in atmospheric equilibrium with CO2. This (probably) drives the pH to a point where FeS(s) prevails over other Fe(II) species which would cause the black precipiate. If you add a strong acid, it lowers the pH, which speciates S2- to H2S, which is able to exit the solution (HS- and S2- are not able).  
+Another alternative is that O2 is oxidizing dissolved manganese to MnO2 which is also black and the H2S production is just because the acid dropped the pH below the pKa1.  
+Maybe the easiest solution would be to filter the precipitate, redissolve it in water, and then adjust the pH using HCl. If the solution still produces H2S, then you can be pretty sure the black is FeS.  
+Yup, did this, and detected H2S, hence the conclusion that this is a sulfide compound.  
+Mn++ levels were below the detection limit of our atomic absorption photometer.

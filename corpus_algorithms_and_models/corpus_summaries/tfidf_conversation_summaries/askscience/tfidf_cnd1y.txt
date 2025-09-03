@@ -1,0 +1,88 @@
+Original Response:
+[deleted]
+Space?
+Keep in mind there are other kinds of space besides a physical one. There is a Hilbert space, where the dimensions are values of quantum operators, and parameter space, where dimensions are values that different constants or parameters can take, or phase space, which shows all possible states of a system in terms of position and velocty.
+
+There is a name for a bunch of theories that would work if you ignore gravity, but I can't remember the name. Wasteland something.
+
+There's also the String Theory Landscape which maps all the possible string theories (like 10^500 of them), in the hopes that one of them describes our universe.
+[deleted]
+[deleted]
+the universe?
+[deleted]
+When you're referring to different kinds of spaces, you can refer to ours as an Einstein space, or Einstein manifold (which it very aproximately is). It really depends on the context (on which aspect of the observable universe do you wish to comment?).
+
+In reality you never read "in the real universe..." Instead you get statements like "astronomical observations suggest..." or "these constructions have yet to recover 3+1 dimensional solutions..."
+[deleted]
+I have never encountered such a name in physics. Having said that, the context you wish to convey is real vs. hypothetical/theoretical spaces. The reason why it wouldn't be too useful is because people would, say, stop asking if strings exist and start asking if "Feynman space" included strings.
+
+There is a lot of literature in philosophy/metaphysics about the plurality of worlds and spaces. May I suggest you take your query to /r/philosophyofscience ?
+[deleted]
+And I would give you the same answer: this space does not have a unique name, because in the physics community, the question is almost always whether or not the space that has narwhals also has {x}, and so the question is almost always put in the form: "does {x} exist?" rather than "does {x} exist in {the space that has my favorite bacon}?"
+[deleted]
+I agree with the vast majority of what you've said. I was not making a philosophical claim on what science purports to study. Rather, I was explaining what is more or less a matter of nomenclature shorthand. In my example above, the question asked remains the same, but the space is understood *by context*, hence the reason that it has not needed any formal name.
+[deleted]
+I would certainly say so. When I read papers asking, for instance, if weakly interacting massive particles exist, I assume they mean their existence in {this particular universe} as opposed to a hypothetical universe. If the author is talking about a universe with a different set of rules, they often mention that. You can find many, many, papers about "Properties of black holes in {pick your favorite theoretical/hypothetical spacetime, landscape, brane intersection, etc}." Whereas papers about observed black holes omit that last part, and you can tell by this omission to which space they refer.
+[deleted]
+No, but it means that you don't have to explicitly name the indices every time you want to reference them, which is exactly what we have here. We all know about the one real universe which we inhabit. We reference it by omission to its alternatives. That is to say, our universe is "the normal one," others need to be specified.
+
+This is much in the same way that when posters say "Save the planet!" they almost always mean earth, even though in principle it could apply to Mars or Venus or any exoplanet.
+
+I'm not arguing against the formal existence of the thing you're referencing; I'm just trying to say that, in all my years doing physics (admittedly not THAT many compared to others), I haven't heard a formal *name* for it, likely because it hasn't been necessary.
+
+Although I am tempted to start calling it baconspace, because it arguably the space with the most bacon in it.
+[deleted]
+I think it is probably because theoretical physicists don't really talk about "our" world.  They talk about the closest analog to our universe that we have, which is one in which all the laws of physics we think are true are true, but they can't talk about our world much because they don't know all the rules to our world.
+
+Experimental physicists don't talk much about hypothetical universes, so there is no reason to discern between the two.
+[deleted]
+I disagree - I think "the universe" is universally accepted to mean *unambiguously* the "space" (as you call it) in which we exist, which is the object of study when making empirical measurements, etc., etc.
+I like the term "the Cosmos" - everything that exists in the real world, of which we are a small part.
+
+Is that unambiguous enough?
+[deleted]
+[deleted]
+As soon as you attach a name it'll have "baggage".
+
+"Feynmanspace" as you suggest is instantly outdated and incorrect the moment a brilliant physicist discovers or promotes a *different or more accurate way to think about the cosmos*. People will begin arguing about which "version" of the real world they subscribe to, no matter how ridiculous that sounds or how meaningless it is.
+
+I think the concept of a single reality, one universe in which we live, "the cosmos", as it were, is fundamental enough not to warrant a special name or label. 
+
+Besides, the only way we have access to this thing (if it even exists, ask the cosmologists and /r/philosophyofscience), is through our senses and the models we build. What would this word you're looking for refer to?
+[deleted]
+I think you mean the universe.
+
+universe |ˈyoōnəˌvərs|
+noun ( the universe)
+all existing matter and space considered as a whole; the cosmos. The universe is believed to be at least 10 billion light years in diameter and contains a vast number of galaxies; it has been expanding since its creation in the big bang about 13 billion years ago.
+[deleted]
+I'm beginning to think that your concept isn't well defined enough to have a definition.
+[deleted]
+What do you mean by the words sole, non-hypothetical, and space? I would take these things to mean the universe, but you have some other idea of what these words mean.
+[deleted]
+I think you've drifted into meta-physics. So far you've described space something as something that has no size or mass, but can have things like you living in it and friction. 
+
+Once again, I think inconsistencies exist that are preventing you from defining this. You really have to sit down and think about what you mean by the word space.
+[deleted]
+[deleted]
+Ah. Have you read about the [metric](http://en.wikipedia.org/wiki/Metric_\(mathematics\))? It gives the concept of how distances are measured in space. It may be similar to what you're thinking, though the presence of matter changes the metric. 
+
+edit: Our universe is largely flat, except near black holes and stuff, so we use something called the [Minkowski metric](http://en.wikipedia.org/wiki/Minkowski_space).
+[deleted]
+&gt;It is a particular space that has entities embedded in it, where those entities have mass
+
+&gt;it is the set of all frames of reference for which every object in the universe has a corresponding coordinate
+
+It's seems like here you're talking about metrics.
+[deleted]
+Why don't you care? How are they different than what you're talking about?
+
+Summary:
+I think you mean the universe.
+I would certainly say so.
+You really have to sit down and think about what you mean by the word space.
+I have never encountered such a name in physics.
+I think it is probably because theoretical physicists don't really talk about "our" world.
+rather than "does {x} exist in {the space that has my favorite bacon}?"
+How are they different than what you're talking about?
+I like the term "the Cosmos" - everything that exists in the real world, of which we are a small part.

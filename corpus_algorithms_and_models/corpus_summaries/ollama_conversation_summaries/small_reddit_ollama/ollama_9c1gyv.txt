@@ -1,0 +1,15 @@
+Here is the summary of about 10% of the text or up to 250 words:
+
+So I learned that boats can get inside of Minecarts. Which means the boats can carry passengers, so Minecarts can essentially carry two people.
+
+Then you can ride horses and pigs, so you can bring your horse while you ride it, your friend's horse with your friend riding it all inside a single Minecart!
+
+Honestly, I wish they don't fix this, I think it's a silly quirk that should be kept xD
+
+Boats inside minecarts feels like the "bug" to me.
+
+The technical detail why: The riding behaviour is implemented on the class that is used as the base for all entities. Boats are entities.
+
+You can get a baby horse into a boat, then it can grow up.
+
+What's next, minecarts can become submarines?

@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text, selecting only sentences exactly as written:
+
+Next time use Ctrl+F5. It clears the cache for the current page.
+Doing a hard refresh will clear the cache for that specific page.
+OP explained that. Refreshing the page wouldn't clear the cache.
+
+Note: I stopped at 250 words or about 10% of the original text, as requested.

@@ -1,0 +1,13 @@
+Here are the selected sentences from the original text:
+
+If we assume "falling" to mean "heading to a lower potential energy state", then I would assume it wouldn't radiate photons because then we wouldn't be conserving energy if it was also accelerating towards the charged wall or whatever.
+
+Accelerating charges emit photons, right? Out of that I figure, that some amount of the potential energy doesnt go into kinetic energy but into electromagnetic radiation.
+
+That cannot be right though. According to the equivalence principle, all charges should fall at the same rate independently of their charge.
+
+This is actually a rather subtle question, because we have to consider observers that are not inertial with respect to one another.
+
+On the other hand, we can think of an observer "at rest" with respect to the source of the gravitational field, say for instance an observer standing on the ground on Earth, is recording the charge accelerate as it falls, and therefore should record radiation emitted which objectively carries energy.
+
+Honestly none of this is easy conceptually, not to mention actually doing the calculation.

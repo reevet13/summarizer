@@ -1,0 +1,36 @@
+Here's an extractive summary of approximately 10% of the sentences, verbatim and in order:
+
+But in all seriousness, this is at best a wild guess, at worst, simply impossible to give a semi-reasonable answer without doing an immense amount of conjecture based research unless you place some VERY specific stipulations on optimums.
+The optimum population is, then, less than the maximum.
+The difficulty of defining the optimum is enormous; so far as I know, no one has seriously tackled this problem.
+I've answered this elsewhere, but by optimum, I mean a number at which every person can have a decent standard of living without the scarcity created by overpopulation.
+I think it would mostly boil down to limiting population such that no resources are scarce, so you'd have the maximum population coupled with adequate supply for everyone.
+There are roughly [12 billion acres of agricultural land available on Earth](http://en.wikipedia.org/wiki/Arable_land).
+That means that the maximum first-world population we can sustain would be 10 billion people (assuming we use every last bit of land for agriculture).
+When you consider large open space requirements such as massive national parks and animal preserves, I'd say that the ideal population would be around 4 to 5 billion.
+I believe you're referring to the [Georgia Guidestones](http://en.wikipedia.org/wiki/Georgia_Guidestones), and the recommended population on them is 500 million, not 500 thousand.
+I will answer by providing information from the book, "The World Without Us"
+
+**Reasoning for Sentence Selection:**
+
+My goal was to extract sentences that directly address the core question of "optimum population" as defined by the user, and provide concrete numbers or methodologies for arriving at such numbers. I also aimed to include sentences that highlight the complexity and various factors involved in determining this optimum.
+
+1.  **"But in all seriousness, this is at best a wild guess, at worst, simply impossible to give a semi-reasonable answer without doing an immense amount of conjecture based research unless you place some VERY specific stipulations on optimums."** This sentence immediately sets the stage by acknowledging the difficulty of the question, which is crucial given the user's prompt. It also hints at the need for specific definitions, which the user later provides.
+
+2.  **"The optimum population is, then, less than the maximum."** This is a concise and fundamental statement from a linked source that directly relates to the concept of an "optimum" population, distinguishing it from a mere "maximum."
+
+3.  **"The difficulty of defining the optimum is enormous; so far as I know, no one has seriously tackled this problem."** This reinforces the complexity and lack of a definitive answer, aligning with the initial sentiment of the first selected sentence.
+
+4.  **"I've answered this elsewhere, but by optimum, I mean a number at which every person can have a decent standard of living without the scarcity created by overpopulation."** This is the user's *own definition* of optimum population, which is absolutely essential to include as it frames the entire discussion.
+
+5.  **"I think it would mostly boil down to limiting population such that no resources are scarce, so you'd have the maximum population coupled with adequate supply for everyone."** This sentence provides a practical approach to the user's definition, focusing on resource availability.
+
+6.  **"There are roughly [12 billion acres of agricultural land available on Earth](http://en.wikipedia.org/wiki/Arable_land)."** This introduces a key quantitative factor (arable land) that is used in subsequent calculations for a potential optimum.
+
+7.  **"That means that the maximum first-world population we can sustain would be 10 billion people (assuming we use every last bit of land for agriculture)."** This sentence provides a specific numerical estimate based on the previous data point, directly addressing the "how many people" aspect.
+
+8.  **"When you consider large open space requirements such as massive national parks and animal preserves, I'd say that the ideal population would be around 4 to 5 billion."** This refines the previous numerical estimate by adding another important consideration (space for nature), offering a more nuanced "ideal" number.
+
+9.  **"I believe you're referring to the [Georgia Guidestones](http://en.wikipedia.org/wiki/Georgia_Guidestones), and the recommended population on them is 500 million, not 500 thousand."** This sentence introduces another specific, widely cited (though controversial) numerical estimate for an "optimum" population, providing a different perspective and a concrete data point.
+
+10. **"I will answer by providing information from the book, "The World Without Us""** This sentence indicates a source

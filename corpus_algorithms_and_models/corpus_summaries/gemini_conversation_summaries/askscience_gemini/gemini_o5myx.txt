@@ -1,0 +1,2 @@
+Compressing something doesn't change its weight, just its volume.
+This would then generate 500 moles of water, which works out at about 10 litres.

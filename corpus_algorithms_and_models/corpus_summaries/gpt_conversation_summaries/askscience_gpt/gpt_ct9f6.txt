@@ -1,0 +1,18 @@
+The manual says accepted 260/230 readings for "pure" DNA should be between 1.8 and 2.2.  When I find a sample that has a reading below 1.8 I re-purify it and measure again.  
+
+The thing is that sometimes I'll get readings of 2.3 and higher (no more than about 2.8).  I would like to assume this just means I'm super amazing and have reduced the amount of contaminants to practically nothing and I have super pure DNA.  
+
+I use the Qiagen Puregene blood/bone marrow extraction kit.  
+
+I know most proteins typically absorb at 280nm, that's why we use the 260/280 reading to estimate nucleic acid purity in relation to protein contamination.  My 260/280 readings are always between 1.8 and 1.9 so I'm not concerned about protein contamination.  
+
+I'm very careful to allow all EtOH to evaporate before I rehydrate the sample at the end.  I always check the DNA pellets to make sure they're dry.  
+
+Found that the tubes I was using were leeching colour into my samples once... that looked kinda funky when speccing.  
+
+Sample 2925 I rehydrated the second time in 20ul instead of 50ul to concentrate the sample.  
+Sample 2872 I lost half the pellet when I repurified lol.  
+
+Gel electrophoresis images of all 3 samples showed no DNA degradation.  
+
+After purification we do some PCR on it, fluorescently label the product, and put it on a microarray.  That's why I'm so picky about the quality of the sample.

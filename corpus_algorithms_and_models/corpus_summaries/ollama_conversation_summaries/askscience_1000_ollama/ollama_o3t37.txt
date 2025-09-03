@@ -1,0 +1,23 @@
+Here is the extracted summary in the form of sentences copied verbatim from the original text:
+
+And along those lines, how do they map the genome of an entire species? Shouldn't genetic variability across our species make the job essentially impossible?
+
+Genetic mapping is different from DNA sequencing.
+
+DNA sequencing is the process of determining the exact sequence of nucleotides in an organism's DNA. We have had the technology for about 40 years, but it was such a painfully slow process that we've only done whole genomes in the last 15 years.
+
+A genetic map is made when we determine the order of genes on a piece of DNA.
+
+Each gene has a promoter associated with it, which can be regulated by other proteins (which are deemed transcription factors).
+
+So if we make you have lots of kids (this is easier and more ethical with fruit flies...) we can see how often chromosomal crossovers occur and can estimate how far apart two genes are.
+
+Do this for every gene and you can figure out their arrangement on the chromosome.
+
+For many of the genes, we have had a good explanation of how they affect let's say hair color. For example, a gene may encode for melanin protein that specifically localizes to the hair, making it darker.
+
+Each gene has regulatory proteins. The regulatory proteins usually have regulatory proteins of their own. Some of these regulatory proteins interact with the environment (say, by binding to a molecule like estrogen) and cause a cascade of effects that alter gene expression.
+
+Generally when they announce that the genome of a species has been sequenced they mean that the genome of one individual has been "de novo" sequenced (ie they make lots of copies of the genome, break it up into short bits, do some magic to infer the sequence of those then fit all the data together with a computer into one long sequence for each chromosome).
+
+A few years ago genes were identified largely by clever detective work (identifying the Huntington's Disease gene involved convincing a village in venezuela where it was common to all give samples and then figuring out which bit of DNA was implicated without sequencing it all).

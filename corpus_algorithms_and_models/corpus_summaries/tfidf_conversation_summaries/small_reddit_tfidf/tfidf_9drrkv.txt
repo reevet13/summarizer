@@ -1,0 +1,828 @@
+Original Response:
+Nope!
+
+So we're going to pretend the Earth is a perfectly rigid body that can stop on a dime, while the people on top are not attached at all, and also there's no atmosphere. If the Earth suddenly stopped moving, the people would continue to move forwards at their current velocity. Is that fast enough to escape the Earth?
+
+The emphasis here is that you would continue to move *at your current velocity*. If you're not escaping the Earth right now, then your speed is below escape velocity. The Earth stopping won't make you speed up. Think of it this way: if the surface of the Earth was moving close to escape velocity, then the Earth would be basically flying apart.
+
+I'll give you some numbers to get the scale of it anyway. The Earth's equator is about 40,000 km around (that's more or less the original definition of the metre). The Earth rotates about once every 24 hours (it's actually slightly faster than that - a day is 24 hours because that's relative to the Sun and we're moving around the Sun, but 24 hours is close enough for this estimate). 40,000 km/24 hours = about 460 m/s, or 1,700 km/h, or 1,000 mph. It's somewhere between mach 1 and mach 2 at sea level. By contrast, escape velocity is about 11 km/s - that's about 40,000 km/h, or 25,000 mph. And just to orbit in a circle means you have to go at about 8 km/s. The Earth's rotation is fast enough that it *does* matter which direction you launch your rocket - it makes like a 10% difference in speed - but it's still on the level of a supersonic jet rather than an interplanetary rocket.
+You doing it wrong the earth is no longer moving.
+Escape velocity is affected my the earth's momentum. so you take your weight and the speed we travel while on the earth around the sun to calculate our momentum. Then you need to calculate how far earths gravity would let you travel before it reasserts itself on your momentum.
+
+Also depending what side of the earth you on.
+You may just get slammed in to the ground.
+OP said "stopped spinning", not "stopped orbiting".
+
+But anyway: the Earth orbits at 30 km/s, which is well above escape velocity from Earth. So if the Earth suddenly stopped in its orbit, then yeah, half of the population would be thrown into space, and the other half would be be thrown to the ground at a very high speed.
+[removed]
+While earth plunged headlong into the sun as with no orbital velocity earth would become a planet sized comet streaking mercilessly into the burning depths of the sun
+[removed]
+[removed]
+Oh my bad for some reason I just imagined both spinning and orbiting stopped dead.
+Thanks for comprehensive answer! And yes i did mean spin not orbit.
+[removed]
+So you would still experience some momentum (or a lot from our perspective), just not enough to leave Earth?
+Well, it's the momentum you already have, it's just that the Earth is moving at the same rate as you. But yes, if the Earth suddenly stopped spinning, then you would suddenly be moving very fast compared to the Earth's surface.
+[removed]
+Interesting fact in your discourse: escape velocity = earth's circumference / 1 hour. Is this just coincidence, or is there something magical about the moving the distance of the planetary circumference in 1 hour that makes it the escape velocity?
+If it stopped moving entirely (relative to what?), you'd have to account for the solar system whizzing through the galaxy, the galaxy whizzing through the universe, and more.
+Nah it's a coincidence. The rotation speed at the equator happens to be about 5% of escape velocity, which is ~1/20th. We divided the day into 24 chunks because 24 is a nice number with a lot of factors. 1/20th is just sort of close-ish to 1/24th.
+
+Venus has about the same escape velocity as Earth, but is tidally locked and rotates once every 240 days. The rotation speed at the equator of Venus is about 6,000 times lower than its escape velocity.
+[removed]
+Ha! Just a coincidence (it's also not precise). The units end up the same, which is helpful, you're going to have a speed when you calculate EV, and circumference/hr is a speed.
+
+And EV is based (in part) on the radius, and circumference is as well, of course, so you've got at least one common variable. But it stops there.
+
+The mass of an object affects EV, so if the planet was denser or lighter, the relationship would be thrown off without the circumference changing. The hour is also arbitrary here.
+From our perspective it would be just like the ground under our feet started moving at a very high speed. (Except very close to the poles where the speed would be much slower.)
+If the earth stopped rotating, from your point of view you would be launched at close to 1000mph at the equator. A little less the further north or south you were. Provided you weren’t splattered against anything you would gain some altitude and decelerate but would probably not even get close to leaving the atmosphere. Just a pretty long ballistic arc. You would get pretty hot too I imagine. 
+
+Edit: I was wrong, at most you would just skip along the ground at high speed but you would not get launched into the air at all.
+[deleted]
+[removed]
+[removed]
+Why would gravity cease to exist if the planet stops spinning?
+[removed]
+You wouldn't even notice at the poles.
+
+After all, the planet takes a full day to spin 360 degrees. That's basically sitting still.
+The gravitational attraction we have to the Earth is due to the Earth’s mass, nothing to do with its rotation.
+If anything, gravity would feel marginally stronger since you don't have a centripetal force counteracting it slightly lol
+&gt; you would gain some altitude
+
+You wouldn't. If you're not fast enough to gain altitude now, you wouldn't be fast enough to gain altitude when earth stops spinning. Your trajectory is only influenced by the spinning insofar that the spinning determines your velocity. If earth suddenly stopped without you sticking to the surface, your velocity wouldn't change at all, so your trajectory would also stay the same (except that the ground would now slow you down due to friction, so you'd be even less inclined to gain airtime).
+And your momentum would be essentially 'horizontal' right? So you wouldn't just be tossed away from the ground, but at a tangent to the earth's curvature, and you've still go gravity, so you're just going to get shot across the ground basically.
+There's a minute physics or something video on this subject.  That or varitasium
+On a much smaller scale, I'm reminded of an accident involving the attack submarine [USS San Francisco](https://en.wikipedia.org/wiki/USS_San_Francisco_(SSN-711)) which struck a seamount while moving at nearly 35 knots.
+
+For those inside the sub, in their own reference frame, they would have felt relatively motionless, like sitting in an office building. When the sub struck the side of an undersea mountain and came to an abrupt stop everyone on that sub was suddenly hurled at the nearest bulkhead at nearly 40 mph.
+
+Everyone on board was injured, though amazingly only one sailor died.
+[removed]
+The difference is right now our velocity relative to the earth is zero. If the earth stopped spinning our velocity would remain the same, but our velocity relative to the earth would drastically increase and our momentum would carry us in a straight line tangential to the surface of the earth, which from our perspective would be into the air. Gravity would force that into an arc meaning we would spend some time in the air at least. Realistically yes, the surface is uneven so the friction of the initial drag against the ground might prevent lift off or you may just skip off rag doll style and fly in a long arc.
+&gt; you're just going to get shot across the ground 
+
+Correct. Though if gravity still works it means you'll get smeared across the floor at 1700 km/h. If you were standing on a building/hill/mountaintop you'll get to enjoy the flight for a bit, but you'd still go *SPLAT*.
+[removed]
+[removed]
+Yes.  As well as buildings, cars, rivers.... everything around you.  Small buildings may or may not have something left by the end of it but skyscrapers are gonna shear in half.
+
+You'll also have a huge wall of water as the sea, which was spinning along with Earth, is now rushing in-land at 1000 miles an hour.
+The same thing happens in a car accident too.  You just get hurled into the back of your seatbelt, or out of the windshield if you weren't wearing it.
+[removed]
+You're right, of course. They're both analogous to the whole "Earth suddenly stops spinning" scenario.
+
+But at least in a car you can look out the window and see the world rushing by. There's an obvious sense that you're hurtling down the road.
+
+But in a sub it would seem (not completely, but relatively speaking) motionless, kind of how we feel standing in our kitchens or sitting at the desk at work, right up to the sudden stop.
+There is no upward/vertical movement initially, only horizontal, so that arc would be right into the ground; no air time.
+Our momentum is already moving in a straight line tangential to the surface of the Earth. The only thing keeping you on the Earth is that gravity is already curving an arc into your path, and that arc curved greater than the surface of the Earth. Since your velocity and the effect of gravity would not change if the Earth stopped turning, your path through space would be unaffected. The only thing that'd change is the topography under your feet.
+
+If you were on a flat surface such as a lake or salt flat, the only way you'd lift off is if your tangential velocity was greater than escape velocity (about 8km/sec at sea level). Since it's not, you'd smear/tumble along the ground, but otherwise continue on your arc (which due to gravity is a sharper arc than the curvature if the Earth).
+
+The only way you'd gain air is if you were standing on top of a hill or building, or bounced off something.
+Our velocity relative to the earth's surface is irrelevant for our trajectory. Our trajectory is determined by our position and velocity relative to earth's center of mass, which does not depend on how fast the earth is spinning. Our velocity relative to the earths CoM is already non-zero, and our trajectory would already describe an arc - except that every point on this arc is *below* the earth's surface. Since we can't just penetrate the surface, our trajectory is instead determined by the surface. But this holds regardless of how fast the surface is moving relative to us.
+[removed]
+That would be pretty cool to have realistically modeled by a supercomputer.  I'm wondering how far inland would the pacific make it?  Would it flood the high sierras?  How much of Europe/Africa would be innundated?  How about the "slosh-back" once the water lost its momentum and went crashing west?  Would it get up and over the Appalachians?
+The original definition of the meter was one ten millionth the distance from the equator to the north pole, as measured along the line of longitude passing through Paris, France.
+[removed]
+Wouldn't escape velocity change since gravity would be reduced?
+However if we at the same time stopped the earths rotation around the sun I suspect some of us would be hurled out into space depending on where we are at that very specific moment, given that we travel at roughly 107,000 km/h, am I correct in this assumption?
+[removed]
+And if I was *in* a building if this happened?
+This is the right way to think about it.  From our perspective, standing on the Earth, the ground would very suddenly shift in one direction at the speed of 460m/s.  We wouldn't go up or down (immediately), but would go "across" the surface incredibly quickly.
+[removed]
+The same thing?  You'd scrape across the floor into the wall, possibly through it.
+&gt; the only way you'd lift off is if your tangential velocity was greater than escape velocity (about 8km/sec at sea level)
+
+8km/s is orbital velocity at sea level, not escape velocity. But it's correct that you need to reach that speed (as in orbital velocity, not escape velocity) to lift off.
+People on east coasts would be fine though, right?  Or, dry at least.
+I imagine there’d be a drastic change in landscape in mountainous terrain as well.  Everything is gonna be like loose soil if it very suddenly changes relative velocity by 1,000mph.
+Well if the earth suddenly stopped you would keep moving at roughly 1000mph at a tangential curve until you slowed to a stop and fell back to earth. 
+
+How high would an average adult make it before dropping to the ground?
+
+Assuming you were standing at the equator.
+[removed]
+well everything would stop and move, but buildings are tied down, so you'd splat against the side of the building at whatever the speed difference between the two was.
+East or west?
+East or west?
+What about for the people who happened to jump at the moment of the Earth stopping its rotation?
+[removed]
+Side question.
+
+I have always wondered about adding up the velocity of the Earth spin, rotation around sun, solar system around galaxy, galaxy moving.
+
+What is the end result of our speed when we feel it's zero?
+That would also be pretty awesome. Almost all trees uprooted too. Not awesome in a "yay, armageddon" sense, but would look pretty cool realistically rendered in a movie
+[removed]
+Or kind of dry while they also go flying through the air, with a continent full of debris chasing them. 
+
+So maybe dry, but not so fine?
+
+Edit: Reading some of the other posts made me realize that I should clarify that by “flying through the air” I don’t mean lifting off the surface. More like, if you were on the edge of the ocean you would now be on the edge of a slope where the ocean used to be and thus perhaps only briefly airborne until you met sand/rocks/etc.
+Then the *SPLAT* still happens, just against the nearest east facing wall.
+[removed]
+Earth spins at about 0.5 km/s, moves around the Sun at about 30 km/s, and moves around the galaxy at about 200 km/s. So you're dominated by the motion around the galaxy there. Of course, velocity is relative, so this isn't the "real" speed of Earth, because there is no such thing as a "real" speed, just speed relative to other things. The Milky Way is moving relative to Andromeda etc too so you can keep on going.
+I'm gonna go out on a limb here and say the building wouldn't be standing either.
+[removed]
+No one would be fine. We would all die instantly pretty much. Maybe people skydiving at that very moment have a chance to survive.
+The Earth spins to the east (which is why the sun rises in the east) so your momentum would be to the east, so that's the direction you'd go.
+the earth stopping moving is funtionally the equivilent as the ground starting to move at the same rate. , so from above poster
+
+&gt;[at the equator, the earth spins at] about 460 m/s, or 1,700 km/h, or 1,000 mph. It's somewhere between mach 1 and mach 2 at sea level
+
+ it would be as if the ground/ buildings/ etc suddenly started to move at 1000 mph under your feet.
+What if I’m sitting on a rolley chair?
+The sun rises in the east, which means the earth spins towards that direction. So we're all spinning eastward.
+I'd be surprised if a single building on earth is capable of withstanding a sudden 1,700 km/h change in sideways motion.
+Would it affect people in a plane?
+[deleted]
+[removed]
+On average the adult starts on the ground and doesn't really gain any altitude. Tangent to the earth is still indistinguishable from parallel to the ground on a human scale.
+When you are getting randy in the tub, does the water make a wave in one direction?
+[removed]
+[removed]
+How is all this possible, considering the earth is flat? /s
+Then just make sure you keep ahold of your fire extinguisher so you can slow yourself down.
+[removed]
+[removed]
+I'm gonna guess you couldn't survive anywhere but in a plane that the pilot would struggle to keep under control,also you might live on a mountaintop with a parachute and a wing glider so you can try fly for a while
+[removed]
+Even if you didn't immediately flip over, you would in short order due to something hitting you.  Then you would ragdoll into everything just like everyone else.
+I'm going do a quick and dirty estimate assuming the earth is flat, and that an average male is jumping an average height; 0.5 meters. Given 9.81m/s² gravitational acceleration, we can solve for initial upward velocity, and more importantly, time in the air:
+
+Vert. Velocity = sqrt(max height * g * 2) = 3.13 m/s
+
+Air time = 2 * Vertical Velocity / g = 0.64 seconds
+
+1000 mph is 1467 ft/s, or 447 m/s. In that 0.64 seconds, our jumping person will land about 940 feet or 286 meters from where he jumped up. Given the relatively close proximity, it is safe to say that our assumption regarding the earth being flat is close enough.
+
+When impacting the ground, he'll now be moving sideways at 447 m/s and downward at 3.13 m/s. Clearly, survival is not possible in this scenario. Remember that orbital velocity at sea level is about 7900 m/s, so we're only traveling at 5.7% of the required speed to simply maintain a fixed distance above the ground. Even if someone did jump up and that velocity was instantly attained, the orbit would be elliptical, such that the orbital height will reach zero every single orbit...
+[removed]
+Only in the chance they would want to find a runway which isn’t completely destroyed or an aircraft carrier which isn’t capsized. Otherwise, flying would be okay for a while
+Simpsons reference?
+Fine? No. Everyone will instantly die. Dry? Probably for a while (assuming the Pacific Wave can't cross the Rockies and the Great Lakes don't move that far) until the wave rebounds off Europe.
+But you would move though right?
+Also very unlikely that the plane has anywhere safe to land and there would be no communication because everyone on Earth is dead, so they're likely to crash into whatever remains on land and die as well.
+[removed]
+[removed]
+I’m really surprised by how many people don’t understand the sheer magnitude of everything on the planet tumbling out of control on the crust at that velocity.  
+
+Smash your finger with a hammer at 10km/h. Ouch.   Now do that to your whole body a hundred times.  While inside your vehicle tumbling for a full minute against a mountain while another mountain of everything you own follows you and falls on top of you as if dropped from a great height. 
+
+Meanwhile, large boulders are flung off their mountains at over 1,000 km/hr causing sonic booms across the entire terrain shattering anything fragile or malleable.  Then landing into whatever they hit peppering impact craters the size of tall buildings in every direction. 
+
+Sand and glass flung hundreds of feet in the air blocking the sun for weeks and turning all water bodies smaller than Lake Michigan into a muddy soup.  Plus, it’s raining debris. 
+
+All caves collapsing or filling with water. 
+
+Meanwhile every single continental fault and mountain range buckles for hundreds of miles or separates causing shelves of continent to slide for hours into the ocean. 
+
+The tops of all active and inactive volcanoes are sheared and begin to spew magma high into the air.  
+
+But we’ll ok okay, right?
+[removed]
+**Edit: NVM, on second thought even if the earth is a sphere it's way too close to flat on our scale (and with gravity) to matter.**
+
+Even with gravity wouldn't a person in the middle of a perfectly flat parking lot still lift up from the ground before curving back down and going splat? I would imagine that kind of momentum would be enough to do that if we applied it to a person right now in the same location.
+Basically you are traveling at the exact velocity required to orbit the earth at surface level. If the earth stopped spinning you would fly horizontally across the surface. If you didn't hit anything you would go around the earth like the space station orbits it, except your orbit would be at surface level.
+Thank you! The part I don't understand are the comments further down that you wouldn't gain *any* altitude. Wouldn't the trajectory of your sudden relative momentum be a parabolic arc (like a discus thrower) - and at [up to] 460 m/s? In gravity weak enough that we can gain a few feet of altitude just by jumping while standing still, it's hard to visualize why that trajectory and momentum wouldn't buy us *some* altitude.
+[removed]
+think of the ocean wave that would wash over the land. the ground would buckle and roll into giant hills, but the water would wipe everything clean. people. animals. trees. everything would be destroyed in a matter of hours.
+People at the north or south pole wouldn't feel anything, and would almost certainly survive at least the initial catastrophe. There'd be horrific windstorms later, and of course the lack of supplies/ability to support themselves would kill them off eventually though.
+Yep!  An easy thing to picture, all easy numbers to remember too.  
+
+The Earth is about 24,000 miles around the equator, it goes around every 24 hours, so we're going 1,000 miles per hour.  The speed of sound is about that, Mach 1.  Orbital speed is about Mach 25, or 25 times that speed.  Way too slow to launch into orbit.  So, the answer is *Nope!*
+[removed]
+I feel like my best odds in this theoretical scenario is to be paragliding at the exact time this happens. Alone. Far from hills.
+Wouldn't a ton of turbulence start to form fairly quickly from the ground changing the velocity of the lower atmosphere?
+[deleted]
+[removed]
+there would be no vertical lift as such, but if you were going fast enough, and there was nothing to your east blocking your flight then you would get some apparent lift the further you travelled due to the earths curvature.
+
+Unfortunately you wouldn't be moving fast enough. If your forward speed is enough that your fall rate from gravity is less than the earth's curvature, you are looking at being in orbit. In this case the orbit would see you come back to (exactly) the earths surface and you would almost certainly impact something to the west of your start point! This is also ignoring any air resistance which would slow your orbit to at least some degree and cause your orbit to move to below the earths surface, which will mean impact with the ground even if you don't hit a vertical object on the way.
+Depends if the atmosphere stops rotating too.  If it stops, then the plane is suddenly going to be moving 1000mph quicker relative to the air (edit: I suppose the opposite is true if you are traveling East to West, you would lose 1000mph of velocity, which means you are now traveling backwards by several hundred mph.  So... Bad), which I would imagine is far above what an airliner is designed to handle.  If the atmosphere keeps going, then it would be like nothing happened initially, but then it works probably get extremely turbulent very quickly since there are now 1000 mph winds covering most of the globe.  
+
+Very far north or south flightpaths would be better, but anywhere close to the equator would be bad.
+Two details:
+
+The entire air and water mass would ALSO be going at that speed. So stop the earth? Gratz, you got an ocean going over 1000kph, and its coming for you, if the splat and the air mass at 6 times hurricane speed (and 36 times more energy) didn't get you first.
+
+Btw of all the people, the ones most likely to not die immediately would be esquimos. They'd be going a LOT slower. Plus they'd be going along a very flat surface you can slide in.
+
+A much greater percentage of people in siberia, alaska and so on would survive. Those on the equator, or up to say 30th parallel would be right and truly f...
+
+People on planes could also have a chance... very small one.
+[removed]
+You're scraped across the ground with the kaviat that you die from a building falling onto you because the building will also be ripped from the ground.
+[removed]
+[removed]
+[removed]
+[removed]
+So, where you really want to be is in a stationary jet boat, facing East, somewhere in the Arctic.
+[removed]
+[removed]
+[deleted]
+[removed]
+Even someone at the latitude of central Alaska / Iceland / central Siberia would suddenly be moving 400 mph to the east.
+if the earth stopped it's orbit around the sun and all the people did not, it ends up with all the people orbitting the sun but without the niceties of a planet to stand on.
+If the parking lot was flat, no. You would move in a straight line and be pulled down by gravity (which has a much slower acceleration than the lateral g-force you're experiencing in this moment). If the parking lot was curved to match the earth's curvature, you would in theory lift off slightly, but the scale is so huge that I doubt you'd notice it. Plus you're flying east at 1000mph and you would travel 366 feet in 250 milliseconds but fall 4 feet in that same time. The earth's curvature isn't nearly enough to lift you off the ground at that speed. You'll just skid along the ground until you're smashed by something larger than you.
+What if the Earth stopped orbiting around the sun?
+[removed]
+Wouldn't gravity lessen if the rotation stopped leading to a lowered required velocity?
+[removed]
+[removed]
+[deleted]
+[removed]
+You would experience flying into/through walls really hard and rapid death.
+I get the feeling the plane would just get ripped apart by the turbulence before it could even slow back down to a reasonable speed to land. 
+
+If the Earth stopped spinning, you would essentially get 1700km/h winds on the surface the instant it happens. While at higher altitude, the impact might not be immediate (since the air would just get tossed in the same direction as the plane), there is inevitably going to be some nasty aftermath.
+
+Just picture a 1700km/h winds blowing on a mountain. That would create a high pressure front, and huge updraft, which is eventually going to spread and create turbulence in high altitude. When this kind of dramatic event would happens all across the globe, and you're in for a nasty storm.
+[removed]
+The Earth's equator rotates faster than the speed of sound. Therefore, of the Earth stops rotating but not the air, shock waves would be launched at the ground air interface. These shockwaves would propagate upwards from the Earth's surface slightly faster than the speed of sound. The air behind the shock waves would be hot and dense. At some height, the shock front would dissipate into a regular sound wave of large amplitude, with a wind following the wave, moving at almost the speed of sound. The air plane would probably be hit by this intense wind coming from below. I would not be surprised if this wind tears off the wings of the plane, but I'm not sure about that.
+What if I'm swimming in a lake?
+[removed]
+On 400mph winds... wouldn't stop that fast either.
+
+But 400mph is ridiculous, but its not 800 which is ludicrous speed.
+[removed]
+Ok, hear me out. I know next to nothing about physics. What if, you were, say, standing on a tower next to the grand canyon. Wearing a parachute. 
+
+One of my curiosities is air/wind resistance. Could the human body survive that kind of pressure? Like, could you get blasted out into space, fall for a while, then pull your chute and be ok?
+[removed]
+&gt; The ones on the side of the direction of travel probably exploded accelerating into the atmosphere at that rate anyway :D
+
+If we assume that the atmosphere stops when the earth does, then yes. If it behaves as an external object, then not so much.
+It's not going to end well for anybody either way ;)
+[removed]
+&gt; if someone did jump up and that velocity was instantly attained, the orbit would be elliptical
+
+Why would it be elliptical? (as opposed to circular)
+They don't usually include that feature as part of the design specifications, no.
+Does the rotation have an effect on gravity?
+[removed]
+Well...we can't really call them people at that point, since they just got blasted with gale travelling at 100,000 km/h. But there will be billions of small people-chunks orbiting the sun, which will eventually coalesce into a horrifying flesh planetoid.
+Nobody got blasted though. People, air and general debris all set off at the same speed. There would be some relative movement due to fracture energies and surface turbulence, but nothing like the speeds you think.
+Wait where does the wind come from?  A shock wave is a wave moving through the medium, it isn't moving the medium, other than the action of the wave.
+What if I happened to be skydiving at the time?
+[removed]
+What if it ceased spinning and stopped rotating around the sun / travelling through space at all? A lot to calculate I'm sure, but wouldn't the change in rotational and horizontal motion be insanely higher in this case?
+[removed]
+Good point, I was thinking of what would happen if *only humans* stopped orbiting the sun with the rest of the earth.
+[removed]
+[removed]
+that's a less interesting thought experiment though. As you say, everyone would be splattered, or shredded in under a second. Boring!
+If you stopped the earth in its orbit THEN would you have enough speed to reach escape velocity?
+the entire building would be traveling at a thousand miles per hour suddenly, ripped off it's foundations, turning to dust while grinding you to mush inside.
+[removed]
+[removed]
+[removed]
+What about if you were in the sea in a boat?
+A few people asked about this and I'm not sure why. Gravity isn't affected by rotation except in extreme circumstances.
+
+Edit: Ohhh I think I figured out the confusion. The effective centrifugal force in a spinning space station can feel like gravity, and maybe that gave the idea that spinning causes gravity. But that's not really gravity, it just sorta can feel like it for someone in a space station.
+[removed]
+In case it's unclear, though: if we ignore atmosphere, obstacles, the sun/moon/etc, and other such complications, then whether you would escape would actually [not depend on the angle at which you are "launched"](https://www.quora.com/Why-does-escape-velocity-not-depend-on-the-angle-of-projection). Sent straight up with a smidge more than escape velocity, you just keep going out in a straight line, forever slowing down but at a *decreasing rate* that can never overcome your kinetic energy.
+
+Launched on a tangent, you end up with a curved [hyperbolic path](https://en.wikipedia.org/wiki/Hyperbolic_trajectory) that the planet's gravity is never able to bend back toward itself. But the threshold velocity is still the same.
+Follow up, what if the Earth's orbit stopped suddenly? If the earth suddently stopped in space, would that be enough to reach escape velocity? 
+
+What about a combo of rotation and orbit spot?
+Interplanetary rocket does not need to go 11km/s to escape gravitational influence of the Earth, though.
+Randall Munroe actually did a really comprehensive explanation of what would happen in his book what if. Tldr for lots of those is that it doesn't end well. In this particular case the crazy high speed winds rip anything not underground up, only those at the poles or in underground bunkers would live
+[removed]
+You'd die there too. All the water in the North and South would be pulled towards the equator since the momentum of the equator would pull the water away. You'd be in the ocean but it would half empty out. This would be fine. Then it would fill in again. That would not be fine. Tsunami after tsunami would obliterate anything on the oceans in the north or south.
+
+Maybe Antarctica, at the pole would be fine. You want to be away from any large mass of water.
+You mention that the speed is above Mach 1. If we added the atmosphere back into the equation but somehow assume it's "attached" to the earth and stop rotating too... would we all suddenly cause sonic booms?
+The pull of gravity would actually increase slightly since there is no rotation countering it. Gravity is based entirely on the mass of an object, but it’s effects can be lessened by adding velocity in any direction other than straight “Down”.
+So if I was at the North Pole, I'd be fine?
+Related... if the earth stopped *orbiting*, then people on the lucky side of the planet would be flung skyward at roughly 30 km/s, or three times escape velocity. People on the unlucky side would be turned into a thin paste.
+
+Ignoring the fact that the "lucky" ones would be killed instantly by the g-forces and almost certainly incinerated, I still don't think they'd manage to actually escape earth's gravity, since they would have no sustained thrust, and air resistance is a thing. But I could be wrong!
+[removed]
+[removed]
+[removed]
+Spin-off question: Does it take more work to walk from pole to equator than it takes to walk from equator to pole? Because with each step you have to gain a bit of sideways velocity.
+
+Is Coriolis force correct keyword?
+&gt; also there's no atmosphere.
+
+Or so goes this particular hypothetical. I imagine the atmosphere moving at those speeds would cause a whole different mess of problems though.
+Probably best case scenario (for a given interpretation of "best") is standing on a roof in like New York, from which you would find yourself suddenly and rapidly projected out over the Atlantic (or is it LA &amp; the Pacific? I can never keep that straight in my head) at a few hundred feet up. Seems like there'd be a tiny chance (if you had enough of your wits about you as you hurtled through the air) that you could get yourself into a diving-ish position and survive contact with the surface of the water.
+Thank you for this comprehensive answer!
+
+Follow-up question: Let's pretend the earth is perfectly round and you are like 1mm thick and there are no objects you can crash into (and no other forces involved), so you get thrown sideways at 460 m/s - perpendicular to earth's core, so you'd be moving away from the curvature of earth. What would be your highest altitude following your ballistic curve?
+
+Here's what I mean in paint: https://i.imgur.com/0Rk02hr.png
+[removed]
+Your parachute is going to get shredded by the sheer force. I just don't know if the parachute will stay long enough to kill you with the sudden G-force it will create trying to stop you from going, essentially, mach 2(?).
+Did you ever stop to think that the supposed 'leaking o-ring' on Challenger would have had to be perfectly aligned with th LOX tank, then shoot a narrow jet of flame across six-feet of near vacuum slip-stream roaring by at 2,000mph and then magically burn through 3-feet of structural foam and thick stainless steel of just the aft O tank, but the shuttle disintegrated from up at the forward pylon and never achieved 25,000mph escape velocity?
+[removed]
+I feel like you really enjoyed typing this out and I just want to say I appreciate your passion for the subject!
+Depends on whether the ocean is considered to be part of "the Earth" or not.  Presumably, since there is a distinction between "the Earth" and objects on the surface, a line has to be drawn somewhere. So, if all the water stops too, then you would just zip forward at several hundred mph.  And yes, I know that even in this scenario, the boat would be ripped apart from all the sudden extra drag on the hull.  It's a silly conversation in general.
+[deleted]
+Unless from the air/ground friction burned you first, which would be an interesting thing to estimate/simulate.
+If we are using the no atmosphere hypothetical then planes couldn’t be flying. You have to assume some atmosphere for the planes flying hypothetical.
+Because the start point has a velocity vector in the "zenith" direction (outward direction away from the body being orbited). This forces the orbiting object to ascend to a higher orbital height, while simultaneously decreasing to a lower forward velocity. At the highest orbital height, where the speed has decayed to a minimum, the actual speed is now insufficient to maintain that orbital height, and the orbit decays again back to the minimum height, regaining the forward velocity it had lost at the same time. It is important to note that the maximum altitude is called the "apogee", and the minimum height is call the "perigee". Assuming that the person jumped perfectly straight up, the apogee will occur on the opposite side of Earth from where he was when the jump occurred.
+
+All this, of course, assumes zero drag or other losses of energy!
+
+I highly recommend checking out /r/KerbalSpaceProgram/ for a fun way to get hands-on experience with these concepts.
+[removed]
+This right here, the effects of sudden stoppage of spinning, is waaaay more interesting. Equatorial oceans suddenly moving at a 1000mph. People just flying across the street and into a tree, or fence or building...if the building is there. Massive buildings ripped from the foundations, rolling and shredded into short-lived half mile-wide shrapnel storms. I would imagine a lot of top soil just ripped from the ground and, depending on bedrock undulations- sliding to a stop or ramping up in the air hundreds of feet. Even at 45 degrees latitude(between Rome and Paris), you're still going ~500mph.
+
+The northernmost permanent settlement in Nunavut, Canada is at 82 degrees lat- there, you'd be going ~90 mph. Imagine skipping across the ice (or rocks) at 90 mph. Very few, if any survivers, lol.
+Yeah I always think of a similar scenario!
+
+What if you take the velocity of a particle in a particle accelerator on earth, the rotational velocity of the earth, the orbital velocity of the earth and solar system and imagine they are all instantaneously aligned so that their tangential velocities all point in the same direction. Then add that to the velocity at which the Andromeda galaxy is approaching us at. Then imagine a solar system in Andromeda with exact same fortuitous alignment of tangential velocities all the way down to the particle in the particle accelerator.
+
+It seems like the two particles should be moving towards each other at several times the speed of light. But are they actually or is there some weird time dilation thing going on where they somehow actually aren't?
+At what point does the earth stop spinning relative to a building?  Does the crust keep spinning over the mantle? Are the buildings part of the crust?
+[removed]
+Wouldn’t the people in underground bunkers be thrown into the wall of the bunker at 1000 mph and splatter unless their bunker was also exactly on the rotational pole?
+[removed]
+It depends if the atmosphere stops spinning as well... if it does, then that plane just got hit with a Mach 1 crosswind
+This is only assuming the spinning around the earth's polar axis.
+
+One could also interpret spinning around the solar axis, ie; star orbit.
+What if instead of just stopping spin we also stopped movement across the solar system? Would we be hurled around once this happened?
+[removed]
+[removed]
+[removed]
+[removed]
+The wind would be caused by the atmosphere stopping.  Currently our atmosphere is moving along at roughly the same pace we are, which is why you have calm days.  The plane is moving relative to that atmosphere, so if the atmosphere itself is moving 1600+kmph, and plane is moving 500kmph relative to it, and the atmosphere stops, it'll be just like if the plane were traveling through 2100+kmph winds.
+
+This is all based off a shaky understanding of the nature of the atmosphere, so take it with a healthy dose of salt.  Someone confirm or correct this please?
+That doesn’t make sense. Your speed is a function of only two things, your distance from the center of the rotation, and your latitude. Digging a few feet into the ground wouldn’t change your height enough to impact how fast you’re going.
+[removed]
+He's saying you're wearing an undeployed parachute, and then pull it after you peak out and start to slow again.
+[deleted]
+[removed]
+[removed]
+[removed]
+&gt;If you're not escaping the Earth right now, then your speed is below escape velocity. The Earth stopping won't make you speed up. Think of it this way: if the surface of the Earth was moving close to escape velocity, then the Earth would be basically flying apart.
+
+But the Earth stopping will make you speed up *relative to the Earth*, which is what's important in that context.
+
+The Earth couldn't escape itself because it can't move relative to itself.
+My assumption was that the dirt, walls etc would also have some momentum which keeps them moving with you for enough time to make survival plausible.
+Soo if you want to erase most of life just stop the Earth then start it again, cool!
+If the dirt was allowed to slosh and slow to a stop our bunker would be smashed flat in a horizontal landslide. There’s no amount of reinforcement that can hold back that much dirt goin 1000 mph.
+
+I was going with te “all of the dirt magically stops at once” because otherwise what part of the Earth “stops rotating” if the dirt can still move?
+
+Just the mantle? Just everything more than x feet down?
+[removed]
+Basically, a nuclear attack sub ran headlong into an undersea mountain in 2005 because the charts they were using didn't indicate anything was in the way. Other charts did, but that info didn't make it onto the charts they were using. The captain was relieved of command, six others charged with dereliction of duty, and they nearly lost the submarine. It cost around $79m to fix it, even though it was slated to be retired after 2017 anyway. You'd think that there is some type of fancy equipment to help keep a submarine from running into a mountain, but...
+However you'd rocket off at 1000 mph and probably gain quite a bit of altitude too....and then we'd all come crashing back down.  It wouldnt be pretty
+But what if you're on the edge of the earth.  I would imagine you would fly off, because the Earth is flat, no?  /s
+People in planes would definitely have the best chance. The entire plane and people and air would continue in the same direction, so the people in the plane wouldn’t even know what happened at first. 
+
+If they could stay above the debris until the entire atmosphere had calmed down, maybe they could survive. I’m guessing it would take weeks, but the wind ripping over a mountain range might make enough of an updraft to keep a plane up without fuel. At least once the air is moving sub sonic.
+example maybe like.. ant on dashboard of car.. our cars speed doesn’t impact the ant because mass/velocity difference is exponential?
+
+But im more interested if anyone could answer. What would happen to the moon? Would it be launched across the solar system?
+Can anyone answer this please?
+I believe in the book he does assume the exact rotational center, or close enough. If you are a couple kilometers off then your rotational speed is just that couple kilometers over 24 hours, so there is a good deal of space around the rotational poles that would probably be non-lethal.
+[removed]
+Right but the person I was replying to said “on the pole OR in a bunker” implying the bunker isn’t on the pole.
+If it's a rigid body in a simple physics problem, sure. But the surface of the earth can move relative to the centre, for instance.
+Randall Munroe What If?  This book is amazing, and it’s available as an audiobook. Sign into your public library and rent the audiobook on your phone or tablet. It’s great. I have listened to it x10 times. Buy this guys stuff! I really hope he does another one.  Relevant xcdc or whatever
+Oh, in that case, I still don't think you will survive long enough to be able to deploy the parachute. The winds generated will have forces stronger than anything ever recorded. Any directional change will be really bad for your brain, the force acted upon it will be magnitudes worse than any punch or kick.
+it doesnt matter, the g forces would instantly kill almost everyone on the planet
+[deleted]
+[removed]
+[removed]
+[deleted]
+[removed]
+I understand that they mentioned "no atmosphere" two posts above, but it's difficult to answers any questions about plane in a context without air. I suppose we could replace plane with  Space X's booster or something similar, but even in those instances, I'm not sure we've anything flying that could handle landing without atmosphere.
+Ahh, okay, in the book it was specifically a bunker on the poles, otherwise you are screwed.
+so 1 sonic boom for everything not nailed to the floor. that's gonna be loud
+
+(i know u said no atmosphere but where's the fun in that)
+Earth's equatorial circumference and distance/hour escape velocity is roughly the same, how does this translate to other planets with variations in size and mass?
+[removed]
+The scenario assumed only the air kept moving and everything else stops.
+So follow up question to this awesome answer that NO we would not be launched into space.  Theoretically what WOULD happen to everything on earth if the earth stopped spinning?
+I don't think you would experience any g force in this scenario. G force is experienced due to acceleration, and your speed has not changed, only the speed of the planet below your feet. The way you would die is being smashed to pieces in the ensuing maelstrom of debris, or as the previous commenter described. Or, if you were lying on the ground, I imagine you would almost instantly become a mile-long smear.
+[removed]
+The Earth is a ball of rock with groves filled with water. 
+
+
+If that stops spinning, that water suddenly doesn't have a reason to stay where it is, anymore than a person or object on land would. 
+
+
+All bodies of water would do the same thing a tuppaware full of fluid does if you're transporting it in a car (without a lid, you daredevil you!) and have to suddenly slam on the breaks.
+Except we're going far, far faster than that, so the impact of suddenly stopping would be far greater.
+Now, if we weren't to ignore the atmosphere, I believe the first thing you'd notice, other than you're now being flung at up to 1,000mph, is that the air would also suddenly be moving at 1,000mph. To put that in perspective, the fastest hurricane ever was clocked at 190mph. Depending on where you were as this happens, debris would likely rip you to shreds before you even hit the ground again. If you were in your home, depending on the criteria for the earth stopping instantly including structures or not, you'd either splat through the wall as if hit it at up to 1,000mph, or the house would fly apart as well accelerated to 1,000mph.
+Can you explain escape velocity a little more?  Objects that we send to space (satellites, rockets), are not travelling at 11km/s, or so it appears.
+Enjoy is a relative term. You'd be subjected to most of the same forces experienced by a fighter pilot ejecting from his jet while supersonic. And you would need to have a parachute to survive.
+So we'd still die all things else not withstanding. Would be a heck of a way to go out. 🚀
+Better yet, what would happen to a very tall building? Seems like the top would deflect like crazy.
+A shock wave accelerates the gas that it crosses, which then moves at some fraction of the shock wave speed.
+Only the poles? Doesn’t the perceived rotational speed decrease as one moves away from the equator towards the poles. So the chaos would be greatest at equator and be reduced more and more the further away one goes?
+I'm going to say no, that wouldn't work.  There was a video about a pilot being ejected from a jet at supersonic speed and he got shreded up and had a bunch of broken bones, and that was only at 700-800 mph winds.
+Yeah, there's a relativity thing where they would not be approaching each other at FTL speeds, at least not in their own frames.
+[removed]
+I had thought that the rotational force of the earth also counteracted it's gravitational pull as well. Much like if you are on the edge of a spinning disc, like a Merry-go-round, you are pulled away from the center of the disc. Is this correct? And if so, once everything stopped moving from the momentum of the earth's rotation, would we all be squished? Or at least heavier than we were when the earth was moving?
+Since your trajectory would be tangential to the surface, the ground is at least for a moment, moving away from you. The problem is that it's not falling away from you very quickly, so you'd still be on the ground. 
+
+Essentially, it's the same thing as an orbit. You need to be going so fast that the ground falls away faster than you fall toward it. At the Earth's surface, that would require going 17,500+ mph. And you'd only be going 1,000 mph. So, you splat.
+[removed]
+Yes - but only if you were in a position so that you were thrown into space, instead of against the ground.
+I feel like something about the frame of reference being used to define “stop” should be mentioned as well.
+If the dirt, which is part of the Earth, is allowed to keep moving, then what exactly is meant by "the Earth stops rotating"? What part stops rotating?
+That covers like half the planet though right?
+In a sense, that's just the reverse of an impactor. At least, the amount of energy lost to drag would be the same. Running a person-sized thing at 30 km/sec here, it doesn't seem like you'd make it to space: https://impact.ese.ic.ac.uk/ImpactEarth/ImpactEffects/
+If anything from the ground down is suddenly stopped, then no you would be caught in whatever magical force is stopping the earth, and since every part of you was stopped you wouldn't get any sort of splatter either.
+Almost no one actually lives above the artic circle or in the southern hemisphere. 85% of the planet lives within the band that would make you instantly travel between 500 and 1000 mph if the earth stopped turning. So not literally _just_ people at the poles, but you'd have to be pretty close to the poles for you to have a chance. Even at the 80th parallel (the pole is 90, equator is 0), you'd be moving at about 180 mph, which is easily enough to kill you.
+
+Here's a cool calculator.
+
+https://www.vcalc.com/wiki/MichaelBartmess/Rotational+Speed+at+Latitude
+&gt; If you were standing on a building/hill/mountaintop you'll get to enjoy the flight for a bit, but you'd still go SPLAT.
+
+Nah, you'd instantly pass out from the concussion and the shock to your internal organs.
+Probably wouldn't gain any altitude, or imperceptibly little. You'd fly off *exactly* tangent to the surface of the Earth. You'd hit an obstacle or hill first. Consider, how far would you move in one second? Then consider how far you can fall in one second. You'd be ground into the ground.
+You would not gain altitude.  Since you have not achieved orbital velocity, gravity will pull you into the ground faster than your momentum will pull you away on the tangent vector.
+Or head wind. Those planes aren't meant to go mach 1.9. Or a tail wind... They aren't meant to fly backwards either :)
+
+I bet a fighter jet could survive if going the right direction. Might even be able to turn around and land, assuming the "atmosphere stays and keeps rotating" version of the hypothetical.
+That is unfairly and in bad faith twisting this thought experiment. The question was “if the Earth stopped spinning what would happen to the people?”
+
+You’re now defining “the Earth” as everything below surface level?
+
+So then the suggestion of digging bunkers is “get below surface level to take advantage of the magic!”? That is not a good faith argument.
+Your highest altitude will be whatever it was when you start.
+
+I'm not sure exactly how to calculate it, but one crude method might be to think about the horizon: The line between a point on the horizon and your eye is a tangent to the surface of the Earth (theoretically - there's air refraction and land masses and other nonsense we'll ignore).
+
+Rounding, quite a bit, if you assume you're two meters from the surface, the horizon is about 5 km away. So over the course of 5 km, the surface falls away by two meters. Or, in other words, to maintain or gain altitude, you'll need to cover those 5 km in less time than it takes for an object to fall two meters.
+
+The bad news is - that's about a half a second, and you'll only make it 250 meters or so in that time.
+I imagine it as the Earth's centre coming to a sudden stop, as if the axis were an axle and someone applied a brake elsewhere on the axle. Anything relatively loose on the surface, such as dirt, or humans, would continue to move until stability was reached. The waves would certainly be impressive. 
+
+Of course you are welcome to your own interpretation, either way it would not be pleasant.
+I have no idea what is actually considered part of the earth in question. I thought it was a reasonable interpretation?
+
+And I thought it would be interesting to bring up the idea that if you *were* brought to a sudden stop like that, you'd be perfectly fine, because the dangers of stopping comes from the bits of you stopping rather unevenly rather than from the loss of momentum.
+[removed]
+Then why bother digging a bunker? Just lie in a ditch.
+What if you lied on a floor secured against the wall?
+&gt; 40,000 km/24 hours = about 460 m/s, or 1,700 km/h, or 1,000 mph. It's somewhere between mach 1 and mach 2 at sea level.
+
+Only at the equator. There should be two places on Earth where it basically doesn't spin at all.
+The building will also be thrown at 1000mph.  You'll not have a good time.
+[removed]
+You are exactly right about the tangent.  If you draw a line tangent to a circle/sphere...then in comparison to the circle/sphere....you would indeed gain altitude.  As you continue ued in your straight line you would be moving away from the circle....thus gaining altitude.
+Ok what if it stopped both in its orbit and spinning? Would some people fly off?
+What if you factored in all the movement of earth? Like. Our orbit. Our solar systems movement. What if everything in the universe stopped except us?
+[removed]
+Ahhhh ok... now would this throw the moon across our solar system?
+Whil Whheaton you say? He loooves Cool Whhip.
+In the book, I believe he assumes that only the atmosphere keeps spinning, and that the people "freeze" just like the earth did.
+It depends, can you see the actual horizon? If so, how much altitude and horizontal distance would you achieve? Would you live if you were at the coast and had perfect diving form and a helmet? Now we’re asking the real questions.
+What if the earth stopped instantly revolving around the sun?
+So we would all fly "Forward" 1,000 mph into an object in front of us?
+Correct, you wouldn’t experience any G force until you hit an object that had stopped moving with the earth. We all began this journey moving at the same velocity as the earth.
+[removed]
+[removed]
+Which thing? If the earth stopped spinning, it would only have a tiny effect on the Moon, since the tides would go off. Measurable, perhaps, but not significant.
+
+Then, if the Earth stopped in its orbit around the Sun?
+
+Not for any reason I can think of. The moon would stay more or less in its current orbit around the sun, which is to say, our orbit around the sun. Just without the wobbles of being in orbit around Earth. 
+
+The Moon's orbital velocity around the Earth is 1 km/s, and the Earth/Moon system is orbiting the sun around 30 km/s. So depending on when it happened, it would only shift between 29 and 31 km/s. Might get a little more elliptical, but it wouldn't be far off.
+So you're telling me that if the earth randomly stopped I would just go flying sideways at 1000 mph? This planet better keep moving
+Ok, but how far would we shoot into the air (or how Far East would we land)?
+yep.  pretty sure you'd just lurch forward and faceplant/tumble  tumble along the ground at &lt;x&gt;m/s until friction brought you to a stop.
+The issue is you wouldn't be flying in a straight line, it would be more like a parabola because gravity is still working. 
+
+I don't think he's saying you would gain 0 altitude, but rather that you wouldn't gain enoguh to be relevant, especially considering that you'd probably hit a wall first
+[removed]
+Yeah, but what is the axle connected to? Hypotheticals are only interesting or meaningful if they specify things like that. Otherwise it's just imagine whatever you want and you can't really say anything specific. 
+
+If the axle is connected to the core, very different things happen. It it's attached to everything through the axis, how thick is it? If it's only a few miles thick it probably wouldn't affect people at the equator that much or slow rotation, but it would certainly tear up an area near the poles, probably making some kind of lava-lubricated bearing.
+what happens to people in planes? or the air at all
+Well 180mph is a lot more manageable at least. Just get in some kind of supercar and drive as fast as you can in the opposite direction, and you'll be good to go.
+Considering you are going nowhere near orbital velocity, you will fall faster than the tangent moves away from the surface. So to correct my earlier statement, you would gain zero altitude precisely.
+
+If you were on a huge flat frictionless skating rink on skates (pointed East),  you would just start moving really fast. You would be slightly lighter, but wouldn't leave the ground. 
+
+
+**Edit: More info: **
+Orbital speed is higher the closer you are to earth. The ISS orbits at about 7.6km/s. The moon orbits at 1km/s. So orbital speed at the surface is somewhere higher than the ISS. 
+
+But the Earth turns at most 0.47km/s, which is how fast you'll be moving if the Earth stops. Since you're moving tangent to the surface, you have to move faster than the ISS just to maintain your altitude (say, you pull up your legs when the Earth stops). To gain any altitude, you have to go faster than that.
+[removed]
+If Earth were to spin fast enough for its equator exceeding escape velocity, it would have partially disintegrated. The centrifugal force would exceed gravity near the equator and make it appear as if there is negative gravity with everything flying into space. The planet itself would get somewhat flattened at the poles, shedding some of its mass into space.
+A good time to be standing on the north pole?
+[removed]
+You'd be going 1000mph relative to the surface of the earth.  The earth would grind you like a cheese grater when you attempted to land.
+&gt; By contrast, escape velocity is about 11 km/s
+
+Interestingly, if the Earth were to suddenly stop orbiting the sun, some people would go flying off at 30 km/s
+[deleted]
+I imagine you'd be in for some interesting weather not too long after things stopped.
+Venus isn’t actually tidally locked. Its rotational period is longer than its orbital period, meaning that its day is actually longer than its year. 
+
+Mercury, however, is tidally locked. It’s not a 1:1 resonance though it’s a 3:2 resonance which is still considered tidally locked.
+[removed]
+[deleted]
+No their relative speed would never surpass c. Because the addition of velocities isn't actually linear, it is only approximately so for low speeds.
+&gt; Your highest altitude will be whatever it was when you start.
+
+I don't think so - imagine going with a really high (or infinite) speed. You're constantly moving away from earth then and thus constantly increasing your altitude.  
+But then imagine going a really really slow speed like 5 km/h, then either you are right and you basically just drop to the ground, or there is like a super tiny short moment right after the start where you are just ever so slightly higher than at the start because of the curvature of the earth.  
+I don't know which hypothesis is true and it would really be awesome if someone with a nice physics background could solve this using some formulas. (which is not too easy since the direction and even strength of the gravitational force is constantly changing as you are moving).  
+
+I might try some numerical approximations with a small script later... :D
+[removed]
+[removed]
+[removed]
+It depends- if the building breaks or comes off of it's foundation then it will slow down at a much slower rate possibly allowing the person inside to also slow down at a more reasonable rate. It's possible though not likely.
+But aren't the poles moving? So how does that affect placement of the bunker?
+Do celestial bodies drop into other tidal resonances? Will it ever become energetically favorable to make a "quick" transition to 1:1 or 2:1? Reminds me of quantum states.
+[removed]
+The poles are rotating. And very slowly, since they make one full turn every (about) 24 hours. Picture standing on your toes and turning around at this rate and you'll realize anyone at the poles probably wouldn't even notice.
+
+Alternately, think of standing at the very center of a merry-go-round; if it's going fast and suddenly stops, you'd be fine (maybe stagger a bit, because it spins more than once every 24 hours), but anyone standing near the rim would probably fall over. The further you are from the center the faster your speed changes, and the Earth is very big.
+[removed]
+[removed]
+&gt;You'll be good to go
+
+Assuming you manage to dodge all the other cars and people (and air) that weren't going 180mph in the opposite direction. 
+
+Maybe get a really fast tank instead of a fancy car?
+[removed]
+[removed]
+There’s plenty of tidal resonances that are theoretically possible! 5:3 is another relatively common resonance. A 2:1 resonance is actually less stable than a 3:2 resonance so a planet would never go from 3:2 to 2:1, but a 1:1 resonance is almost always favored over 3:2. 
+
+In general there are two main causes of a planet “settling” into a 3:2 resonance, instead of slowing all the way to 1:1. This can happen if the planet has a relatively massive permanent asymmetrical deformation, or if the planet has a high orbital eccentricity. In the first case: the planet will likely stay in a 3:2 resonance without shifting to 1:1 since the “stability” of the 3:2 resonance depends on the deformation of the planet which will likely never change. In the second case, however, highly eccentric orbits will tend to circularize over time meaning that the 3:2 resonance will become less stable and the planet will eventually begin to settle into a 1:1 resonance.
+
+When talking about the solar system, however, this is completely useless information. The circularization timescales for terrestrial planets are generally much much longer than the predicted lifetime of the sun, so mercury will likely never slow to 1:1. This information does, however, become useful when talking about red dwarf systems! Since red dwarfs can theoretically live to be hundreds of billions if not trillions of years old then there’s plenty of time for eccentric orbits to circularize! 
+
+I would share some math, and go a bit more in-depth, but I’m currently in the process of publishing a paper on this exact subject!! So there’s only so much I can say.
+Just chiming in to point out that nearly every impact explosive on the planet would go off simultaneously.
+Follow up to this, in a much broader viewpoint, the earth is moving around the sun and the whole solar system is moving around the center of the galaxy. If all forces are assumed to be tangentially perpendicular, in how many reference frames would the earth need to stop movement in to overcome that exit velocity? 
+
+First: rotation, not enough
+Second: speed with respect to mars or Jupiter around the sun.
+Third: velocity with respect to sun
+Fourth: velocity of sun (and therefore by massive assumption the rest of the solar system) compared to a nearby solar system
+Fifth: velocity with respect to the actual center of the galaxy
+180mph is manageable?
+[removed]
+With those figures I still can't imagine it that it wouldn't be a day ruiner for everybody though.
+Well... maybe.  If we are already drawing arbitrary lines like "the Earth stops moving but all the people on it don't", who is to say whether the water stops or not?  What about the buildings? Trees? Do they stop, or get their roots ripped out of the ground? What can be considered "the Earth" is pretty ambiguous.
+If Earth's orbit around the sun were suddenly stopped, however, objects on earth would more than achieve escape velocity relative to Earth's surface: Earth's orbit around the sun is almost 30 km/s, 2.73 times escape velocity. I'd guess people on the face of the planet pointed in the direction of our orbit would simply be ejected out of the atmosphere assuming there's nothing over their heads, everyone on the opposite side of the planet would simply be pulverized into whatever is under their feet, and the people on the "sides" would be a crapshoot depending on where they're standing and what's in their way.
+[removed]
+Hitting water at speed is the equivalent of hitting concrete. The water just can't get out of the way fast enough and that energy has to go somewhere. Namely bones and internal organs.
+
+Humanity will be made up of the fifteen people in the world who were inside zorb balls at the time of 'the great halting'.
+And a 4-10km high tsunami... the rotation keeps a lot of water at the equator. If you stop the rotation, all this water will be moving at the poles once it has lost its speed.
+[removed]
+What if you were skydiving?
+[deleted]
+[removed]
+The sentiment is the same. It's not going to be rainbows and butterflies.
+If we assume the air also stops spinning, presumably you could fly quite far/high from the lift, with the right body orientation at the moment.
+[removed]
+The question was "if the Earth stops moving"... as in the planet.
+
+
+The responses have been discussing humans and buildings and water and everything else. 
+
+&gt; drawing arbitrary lines like "the Earth stops moving but all the people on it don't"
+
+The premise is that suddenly, there's no more spin. The earth's rotation is abruptly halted. Ergo, it stops moving... and like the bus that suddenly slams on its breaks, everything inside it suddenly experiences a big acceleration.
+
+That's physics. The only way for everything to stop at once (the planet, the people, etc) is if it's really gradual...
+I wonder how somebody would fare in a hot air balloon. If he isn't to far up he may just feel a change in the wind.
+Does the explanation also account for the massive Tsunami's that would also be generated? Oceans which were moving at Mach 1.5 (approximate) prior to the stop would unleash torrents of water.
+
+Normal tsunami's move around Mach 0.7. The North Pole would also likely become the World's largest iceberg.
+
+As mentioned, storms would also be caused of a magnitude that would make a category five hurricane seem like a gentle breeze.
+
+I short, the only thing that may survive is some of the sea life, and even that is open to speculation.
+[removed]
+Also what happens to all the kinetic energy energy of the Earth's rotation? There's enough energy to liquify the whole crust multiple times over. If we survived the stoppage and the winds we would still be cooked.
+The ground would rebound too.  I imagine there will be some brutal earthquakes.
+Vsause or veritasium also did a pretty sweet video on this exact subject. Mobile can't link sorry
+[removed]
+Compared to whatever absurd speeds were mentioned before? Hell yeah. My car can hit 150 top speed, so if the Earth were to suddenly stop spinning and I was at top speed going the right direction, it would essentially be like getting in a collision at 30mph. Much more manageable than being instantly hurled at the nearest wall or object at Mach 1.
+
+Then again, if the Earth stopped spinning, I suspect the lack of atmosphere would be a much bigger problem anyway.
+Well it depends on what stops really. If you take the idea that everything solid or semi solid connected to the earth's core stop at once, then it should not move. However, if only the core or mantle stop moving... the crust might just peel like a potato all over the place. 
+
+If only the core stops, it will still be a world ending scenario, but a tad slower I presume. The mantle inertia might even transfer some of its speed back to the core and make it somewhat move again.
+I figure most people will die in milliseconds. A few people who happen to be on high ground and have a clear line of sight to the east might survive for seconds as they fly through the air. People in airplanes at cruising altitudes might have a minute before the turbulence breaks up their airplanes. People at the south pole would probably avoid a quick death, but I suspect that debris-filled winds would get them in under an hour. Even people on the ISS would be doomed one way or another--the ISS is in a relatively low orbit and it's conceivable that the atmosphere would be disturbed enough to increase drag and bring it down in days or weeks. Even if that didn't happen, they would die from a lack of food/water/air and no where safe to land in under a year.
+Well I imagine it would have to be under very specific circumstances to survive at all(and then die to the lack of atmosphere). But get a fast car, get to top speed right as rotation stops, and the resulting shift in forces would be less instantly-lethal than being hurled into something at 180mph.
+I thought it was going to be like sitting on top of a car, then ifthe car stops completely, since theresnothing attaching me to the roof of the car except gravity, i wouldve been throw in the same direction the car was moving.
+If the atmosphere also stops and you didn't it would be the same as if you stopped and the atmosphere didn't: exposed to a 1000mph wind you would be basically blasted to pieces.
+You wouldn't get smeared, at first. Think about any rotating sphere that is covered in liquid, regardless of gravity, objects in motion tend to stay in motion unless acted upon by an outside force. Water will fling right off a rotating sphere. Putting it in context, given that gravity is 9.8m/s/s and the Earth would come to a complete stop from 447 m/s, you will be imparted with nearly 46 G's of force and you will break from the Earth's gravity. You would effectively be launched due East. Now, everything else would be moving with you, the crust of the Earth included. It seems more likely that the entire Earth would in a sense behave as if it 'exploded' and then if gravity was still having an effect, when everything lands, things would get 'smeared'.
+
+No need to be on a building, you gon fly, and then ded.
+[deleted]
+It depends how deep the bunker is. The closer it is to the Earth's core, the lower its rotational momentum, and therefore the less affected its occupants will be by the cessation of the Earth's spinning. The occupants would probably melt within a fraction of a second at that proximity to the core, but since the spin is ceasing instantaneously, maybe a fraction of a second is all you need to say you survived! Just be sure to say it quickly.
+[removed]
+So we wouldn't leave the planet, but (assuming we survive the 1700km/hr toss) we should get substantially heavier, right? I wonder how many G's we don't experience due to spin, if that is how it works...
+[removed]
+Nah I mean if the whole crust, mantle, and core stop together.  The Earth is slightly flattened at the poles due to its rotation.  It's something like 50km wider at the equator.  Without the rotation, it's going to return to a spherical shape.  No idea how long that would take though.
+[removed]
+Your first and and second paragraphs are amazingly informative !! Thank you
+Am I right in saying if Earth stopped orbitting the sun suddenly that that would be sufficient to launch people into space? Google says we orbit at 67000 mph.
+[removed]
+I imagine if you were able to feel anything it would be the sensation of having the ground instantly ripped out from beneath you.
+what if you were scuba diving at the time and already under the water? does this only apply to the surface tension of water or to something moving through the water as well?
+so what would happen if it stopped spinning would it be detrimental to life on this planet?
+Interesting comparison!
+
+Moving through the air instantly at mach 2 certainly wouldn't feel too good, though :).
+Basically negligible difference in rotational momentum considering the depth possible by conventional means.
+Perhaps, but that's a 180 mph change in wind.
+
+Not to mention, everything moving below you at incredible speed would cause some kind of wind vortex at ground level.
+[removed]
+Given the rate at which the rocks around you heat up and the issues of pressure turning oxygen poisonous, you’re not getting out of the crust, much less near the core. Unsurprisingly, there is an XKCD for that:
+
+https://what-if.xkcd.com/135/
+
+The deepest hole on Earth is a bit over 12 km deep, which is a literal rounding error compared to the radius of the Earth. The equatorial radius is about 22 km larger than the polar radius, which is still just a few tenths of a percent of the total.
+
+That borehole is only about as wide as an open hand, too:
+
+https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole
+
+Even if you dealt with the pressure and temperature within your bunker, as the rock surrounding it heats up and the weight of the rock above increases it will start to behave like a plastic and squeeze your bunker like a pimple. Ocean pressure is crazy, but rocks are denser than water.
+[removed]
+I could definitely be wrong but I believe the air wouldn't immediately react to the sudden change in earth rotation speed due to newton's 1st law . Have you ever tried to rotate a glass of ice water to get the straw closer to you; only find that the straw barely moves in the direction you turned it. 
+
+I thing something similar to the following video would occur would the balloon pilot if the earth suddenly changed speed. 
+
+https://youtu.be/HH4zU76cffY
+[removed]
+watch donald campbells bluebird k7 crash
+
+At the equator you’d be doing more than 3 times his speed (311mph) when you hit the water.
+
+Also you probably wouldn’t hit water rather you’d smash along the seabed because the water would be moving in the same direction as you are at the same speed.
+[removed]
+The air would remain mostly still relative to the balloon, but landing would be pretty much impossible and eventually the enormous wind speeds relatively to the surface are going to cause some ridiculous turbulence higher up.
+You're right, it would take some time to affect the higher altitudes, but damn it would be messy.
+[removed]
+[removed]
+If the air close to the ground has time to settle down a bit from supersonic-hurricanes-are-peanuts speeds you might actually get to land with your chute. 
+
+More likely is you're trying to land with super-hurricane wind speeds and get smeared/smashed against some terrain feature.
+You'd not feel any G-forces, as you're staying in motion, no change in velocity. In the scenario it's the earth (crust and all, presumably also buildings) that suddenly stops. 
+
+Everything not attached (air, water, cars, you) gets launched. And then smeared depending on local topography.
+You wouldn't feel the g forces except that everything attached to the earth would essentially break off. That force has to go somewhere and when a sphere rotates it is forced outward.
+And now you arrived at the very first response to the question. Our rotation speed isn't anywhere near enough escape velocity for stuff to go 'up' if the Earth would suddenly stop rotating.
+The point I was refuting was not the if we would escape the Earth's atmosphere, rather that chaos would ensue. You would still be thrown, significantly, along with quite a bit of Earth in the process. 
+
+Sorry if that wasn't clear enough at first.
+Follow up query, since the consensus is *"nah, we'd just be a planet of skidmarks"*  
+
+Is there any force - scientifically speaking ^no ^"gods ^decide ^to ^pinch ^Earth" - that could actually cause this abrupt stop? A TDE or errant gamma-ray burst?
+Another celestial body would do it. It's widely believed that this is what caused Venus to spin backwards.
+
+As for gamma rays, I would imagine that since they are made of photons with zero mass, they would have no impact on the rotations of celestial bodies.
+(not an expert) I'm pretty sure anything naturally occurring would effectively destroy the earth before forcing it to stop spinning anywhere close to "suddenly".
+Unfortunately I haven't read too deeply into what gamma-ray bursts *can* do, aside from complete and utter annihilation ^which ^would ^technically ^stop ^the ^spin, ^amiright? I just know they're produced from some of the most energetic events in the known universe, which in itself can cause physics to go all whoppy-doodle, so it *seemed* like a plausible *ass*umption to me.  
+
+Now I wonder how massive an object would have to be, how close, and in what nature the event would have to be to just "overwrite" such spinning on such grand scale... Albeit minute in a cosmic sense, huh?  
+
+Thank you so much for the reply!\^_\^
+I was thinking that too, but as u/Sideswipe0009 mentioned, the "celestial body passing too close for comfort" - which would be ^I ^*think* a type of Tidal Disruption Event, but on a **much** "smaller" scale (also not an expert, just a nosey bugger) - could be the cause behind Venus' inverse rotation compared to Earth's own.  
+
+I know the occurrence in itself would be a majorly rare phenomenon, if it were to happen in the first place, but just our existence is a one-in-a-can't-think-of-a-number-big-enough occurrence, and the universe is unfathomable in size, so who knows?\^_\^  
+
+Thank you for chiming in!
+Made me think of Scholtz's star that passed nearly 50 AU to our sun 700,000 years ago. Now i'm just imagining if it was closer and much bigger. Red dwarfs can be pretty hard to spot, so I don't think its too far of a stretch to wonder if we have had one or several giants that grazed to close long ago.
+
+&amp;#x200B;
+
+Impact rates on the earth, moon and mars suggest there is no long period perturbers out there like nemesis (last time I read about it anyway) but I don't think that discounts rouge flybys.
+[removed]
+Collision with large celestial body at a perpendicular opposite earth's rotation with a little bit more than the earth's current rotational energy.
+
+A similar collision is theoretically responsible for our current rotational speed, and the existence of the moon. To better help understand how destructive this would be: [The asteroid responsible for the KT extinction may have made Earth's crust act like a liquid](https://www.npr.org/sections/thetwo-way/2016/11/22/503013290/scientists-say-dinosaur-killing-asteroid-made-earths-surface-act-like-liquid). [The planetesimal Theia would have called that some "pussy bitch shit" and *made the crust liquid for millions of years*.](https://upload.wikimedia.org/wikipedia/commons/7/74/Big_Splash_Theia.gif)
+
+Don't worry. Something like this cannot currently happen because nothing is big enough in our solar system. Rogue planets aside (which we would detect the gravity of approaching long before it hits), all the really crazy collisions finished up billions of years ago.
+And the most amazing part about it is, even with all our "advanced" detection and monitoring systems we have, we could have a "visitor" fly by through a "void" of our solar system - or even outside of it - and that "visitor" have so much mass that its gravity could nudge us ever-so-slightly towards or away from our star, and utterly wipe us out and we be none the wiser.  
+
+Well, amazing or terrifying, depends on your outlook.
+[removed]
+
+Summary:
+Would some people fly off?
+You'd be ground into the ground.
+The question was "if the Earth stops moving"... as in the planet.
+If you're not fast enough to gain altitude now, you wouldn't be fast enough to gain altitude when earth stops spinning.
+What if the Earth stopped orbiting around the sun?
+The wind would be caused by the atmosphere stopping.
+If you stopped the earth in its orbit THEN would you have enough speed to reach escape velocity?
+Follow up, what if the Earth's orbit stopped suddenly?
+Then, if the Earth stopped in its orbit around the Sun?
+If the earth stopped spinning you would fly horizontally across the surface.
+But you would move though right?
+Depends if the atmosphere stops rotating too.
+You'd be going 1000mph relative to the surface of the earth.
+If it stopped moving entirely (relative to what?
+or the air at all.
+If you stop the rotation, all this water will be moving at the poles once it has lost its speed.
+The Earth stopping won't make you speed up.
+If you're not escaping the Earth right now, then your speed is below escape velocity.
+You would not gain altitude.
+Ok what if it stopped both in its orbit and spinning?
+Escape velocity is affected my the earth's momentum.
+That would not be fine.
+I would imagine you would fly off, because the Earth is flat, no?
+And if so, once everything stopped moving from the momentum of the earth's rotation, would we all be squished?
+At what point does the earth stop spinning relative to a building?
+Would it affect people in a plane?
+What would happen to the moon?
+The Earth's equator rotates faster than the speed of sound.
+Theoretically what WOULD happen to everything on earth if the earth stopped spinning?
+What about for the people who happened to jump at the moment of the Earth stopping its rotation?
+The ground would rebound too.
+Would we be hurled around once this happened?
+And if I was *in* a building if this happened?
+The difference is right now our velocity relative to the earth is zero.
+Well it depends on what stops really.
+Also depending what side of the earth you on.
+If the earth suddently stopped in space, would that be enough to reach escape velocity?
+&gt; you would gain some altitude
+
+You wouldn't.
+what happens to people in planes?
+Wouldn't escape velocity change since gravity would be reduced?
+Consider, how far would you move in one second?
+But yes, if the Earth suddenly stopped spinning, then you would suddenly be moving very fast compared to the Earth's surface.
+And you'd only be going 1,000 mph.
+Good point, I was thinking of what would happen if *only humans* stopped orbiting the sun with the rest of the earth.
+The Earth couldn't escape itself because it can't move relative to itself.
+You would get pretty hot too I imagine.
+You'd fly off *exactly* tangent to the surface of the Earth.
+Is that fast enough to escape the Earth?
+If the earth stopped rotating, from your point of view you would be launched at close to 1000mph at the equator.
+What if it ceased spinning and stopped rotating around the sun / travelling through space at all?
+Well, it's the momentum you already have, it's just that the Earth is moving at the same rate as you.
+The earth's curvature isn't nearly enough to lift you off the ground at that speed.
+If the Earth stopped spinning, you would essentially get 1700km/h winds on the surface the instant it happens.
+The rotation speed at the equator happens to be about 5% of escape velocity, which is ~1/20th.
+Since your trajectory would be tangential to the surface, the ground is at least for a moment, moving away from you.
+The moon would stay more or less in its current orbit around the sun, which is to say, our orbit around the sun.
+(Except very close to the poles where the speed would be much slower.)
+Two details:
+
+The entire air and water mass would ALSO be going at that speed.
+Orbital speed is about Mach 25, or 25 times that speed.
+Am I right in saying if Earth stopped orbitting the sun suddenly that that would be sufficient to launch people into space?
+That would also be pretty awesome.
+The water just can't get out of the way fast enough and that energy has to go somewhere.
+I don't think you would experience any g force in this scenario.
+Would it be launched across the solar system?
+But what if you're on the edge of the earth.
+From our perspective it would be just like the ground under our feet started moving at a very high speed.
+If the Earth suddenly stopped moving, the people would continue to move forwards at their current velocity.
+The further you are from the center the faster your speed changes, and the Earth is very big.
+In the scenario it's the earth (crust and all, presumably also buildings) that suddenly stops.
+What if the earth stopped instantly revolving around the sun?
+What if I happened to be skydiving at the time?
+So you're telling me that if the earth randomly stopped I would just go flying sideways at 1000 mph?
+Depending on where you were as this happens, debris would likely rip you to shreds before you even hit the ground again.
+No one would be fine.
+The Earth is slightly flattened at the poles due to its rotation.
+I'm going to say no, that wouldn't work.
+The emphasis here is that you would continue to move *at your current velocity*.
+So you would still experience some momentum (or a lot from our perspective), just not enough to leave Earth?
+The building will also be thrown at 1000mph.
+Basically you are traveling at the exact velocity required to orbit the earth at surface level.
+Way too slow to launch into orbit.
+Now, everything else would be moving with you, the crust of the Earth included.
+So there’s only so much I can say.
+&gt; drawing arbitrary lines like "the Earth stops moving but all the people on it don't"
+
+The premise is that suddenly, there's no more spin.
+The sun rises in the east, which means the earth spins towards that direction.
+And yes i did mean spin not orbit.
+Correct, you wouldn’t experience any G force until you hit an object that had stopped moving with the earth.
+If your forward speed is enough that your fall rate from gravity is less than the earth's curvature, you are looking at being in orbit.
+But aren't the poles moving?
+Would be a heck of a way to go out.
+I don't think so - imagine going with a really high (or infinite) speed.
+&gt; also there's no atmosphere.
+At the Earth's surface, that would require going 17,500+ mph.
+This is the right way to think about it.
+Of course, velocity is relative, so this isn't the "real" speed of Earth, because there is no such thing as a "real" speed, just speed relative to other things.
+And you would need to have a parachute to survive.

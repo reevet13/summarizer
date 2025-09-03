@@ -1,0 +1,13 @@
+Here is the extracted summary of about 10% of the text (up to 250 words):
+
+As per your questions:
+>Could the influences of other bodies eventually pull the moon elsewhere?
+Yes, gravity will see to it that any object that has mass and is not in the same position as the Earth will pull the moon away.
+> Or could it be that if the Earth and Moon had a collision that the Moon is still trying to gain "stable footing"?
+The moon would likely maintain it's elliptical orbit if possible, unless something was pulling it away.
+
+At a linear increase of 3.8e-2 m per year, it would take roughly on the order of ~100 million years for the moon's satellite orbit to achieve escape velocity from Earth.
+Yes, gravity will see to it that any object that has mass and is not in the same position as the Earth will pull the moon away.
+
+The Moon is slowly accelerating due to tidal locking.
+"Eventually" it will leave Earth's orbit, but it is after the projected death of the sun.

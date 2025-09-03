@@ -1,0 +1,25 @@
+Here are the selected sentences from the original text:
+
+Two parallel currents will atract each other such that for example two wires with identical currents running through them will exert a force on each other pulling them together.
+
+Now as far as my understanding goes, in adition to the electrostatic repulsive force, there will also be an atractive magnetic force between them.
+
+A wire is overall electrically neutral, so you have to model both the positive and negative ions.  E.g., if in lab frame you have stationary positive charge, and leftward moving electrons in both wires, they will attract in the lab frame due to the arising magnetic field.
+
+So is there no magnetic force with single particles or what?
+
+A magnetic field is created by all moving charged particles.  However, there is also an electric field created as well.
+
+It won't eliminate the magnetic effect, but the force of magnetic attraction would be overwhelmed by the electrostatic repulsion of the wire.
+
+Let's say you had two 1mm diameter wires of copper that was 100cm, and somehow got rid of all the positive charge in these wires.  In the wire you would have about 10^24 electrons [[1]](http://230nsc1.phy-astr.gsu.edu/hbase/electric/ohmmic.html#c2).
+
+Yes... but the magnetic force is still there in the stationary frame of reference but not in the frame of reference moving along with the electrons, and the equations always have to balance out between static and non static cases.
+
+Two *anti*parallel currents(in opposite directions) attract, two parallel currents to the same direction oppose.
+
+Fucking magnets, how do *they* work?
+
+Parallel currents attract.  Do your right hand rules again.
+
+Say you have two wires going into the page

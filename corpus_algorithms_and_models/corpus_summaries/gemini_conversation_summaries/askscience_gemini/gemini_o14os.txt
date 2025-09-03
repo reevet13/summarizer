@@ -1,0 +1,3 @@
+No, this is not possible at any large scale (at extremely small scales photons have been delayed by having their wave-front reversed, or by being passed through novel metamaterials, but this does not accomplish what you are asking).
+If a surface is 100% reflective to the frequency of light - then it would be possible to trap the light.
+So the very concept you are thinking of is exactly what is used to make gas lasers lase - and the fact that there is no perfect reflector is what produces the beam itself.

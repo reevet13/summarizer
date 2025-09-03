@@ -1,0 +1,11 @@
+I can tell you it shows very generalized data which is fun for trivial tasks and biofeedback, but it isnt as versatile as something like the Emotiv headset.
+Thanks!
+Lol the way it works connecting it like that with the resistor will drive that instrumentation amp crazy.
+When it is hooked up to a person it does really well at cancelling noise.
+Its filter method is differential though and requires a clean lead on you ear to cancel the mainline noise.
+cool, thanks for the help :)
+With any electro-something-ography, you must be careful not to over-interpret.
+We aren't measuring potential difference per se in an electro encephalagraph.
+So the difference isn't measured from electrode to electrode.
+Instead we compare the electrode to ground to find the frequency at which the neurons are firing.
+The second electrode here is only providing a non neurological body signal to use during comparative elimination of noise.

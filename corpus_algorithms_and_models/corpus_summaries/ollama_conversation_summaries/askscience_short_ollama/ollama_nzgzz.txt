@@ -1,0 +1,11 @@
+Here is a summary of up to 250 words, selecting only sentences from the original text exactly as written:
+
+Ok so say you have a giant disk, like really big, and as infinity rigid as you can get. And say you start spinning this disk fast enough so that midpoint of the disk's radius is moving at light speed.
+
+What happens to the outer region of the disk? If you had observers at the center, the midpoint of the radius and the outer edge, what would they see?
+
+This question has been hurting my brain for three days. Please help.
+
+The fastest that this disk could spin would be the speed where the OUTER most part of the disk is going near the speed of light and everything interior to the outer edge would be going slower.
+
+what you describe is the classic [Ehrenfest paradox](http://en.wikipedia.org/wiki/Ehrenfest_paradox).

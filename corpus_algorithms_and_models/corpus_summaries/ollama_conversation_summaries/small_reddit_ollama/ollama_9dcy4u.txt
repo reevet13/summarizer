@@ -1,0 +1,19 @@
+Here are the selected sentences from the original text:
+
+The question I'm asking is, if the strong nuclear force is that much stronger than the electromagnetic force at the distances of a atom nucleus, why does it have a radius?
+
+At very short distances the strong interaction between nuclei gets repulsive.
+
+Two protons in colliders don't have orbitals. If they have sufficient energy the protons can get destroyed and you can get a few to tens of new particles (sometimes more than 100 at the LHC).
+
+What about the mechanism in which atoms nuclei are shot with protons or neutrons(transmutation for example), the reason protons or neutrons can be removed from the nucleus this way, can be explained by the strong interaction being repulsive at small enough distances?
+
+For reaction theory calculations, you often have phenomenological optical potentials that describe the interaction of the incoming nucleon with the entire target nucleus.
+
+The two-proton system has no bound states, but it has at least one resonant state that can be populated (the diproton).
+
+If you collide protons at nuclear physics energies, you'll mostly get elastic scattering (Coulomb and/or nuclear, depending on their relative kinetic energy).
+
+At higher energies, you can start to probe the valence quarks within the protons.
+
+Yes, everything discussed here is quantum.

@@ -1,0 +1,16 @@
+Here is a summary of the original text, up to 250 words:
+
+I know that voltage is the 'potential difference across two points', but what does that actually *mean*?
+
+What's the difference between electrons moving at 1v, 10amps, and 10v, 10 amps? What quality is it that they possess?
+A great analogy is a watercourse, just exchange electric potential for gravitational. A river flows downhill because there is a potential difference, just as an electron moves in a wire because of an *electric* potential difference.
+
+**Voltage** = how hard you push
+**Resistance** = how rough the road is
+**Current** = how fast you wind up going
+
+Is this why batteries charge really fast to, say, 80%, but that last 20% takes significantly longer?
+
+What is voltage? Voltage represents the **energy by unit of charge**. In other words it is a measurement of the energy carried by individual electrons.
+
+So what is the mechanism behind voltage?

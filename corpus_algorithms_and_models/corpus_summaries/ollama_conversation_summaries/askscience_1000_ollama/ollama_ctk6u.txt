@@ -1,0 +1,17 @@
+Here is the summary of about 10% of the text:
+
+From some reading about I've been doing I understand that when the spin of an entangled particle is altered, the other entangled particle's spin is also changed instantly. But didn't Einstein say that nothing (including any information) could travel faster than the speed of light?
+
+No. Entanglement doesn't work that way. It's more like cosmic bookkeeping.
+
+Entanglement is basically a way to remove some of those possibilities, so that instead it becomes, for example, a superposition of HH and TT.
+
+Make sense?
+
+Correct. Entanglement effects are generally observed by, after the fact, bringing the entangled objects (or data about them) together.
+
+I don't know a lot about this, but I think your picture is a little oversimplified.
+
+You don't alter spin, you determine the spin. After that you know what the spin of the other article will be if you'd determine that one.
+
+Einstein is safe because you can't transfer information via entangled particles.

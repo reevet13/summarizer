@@ -1,0 +1,3 @@
+First, it depends on how the trait is determined--one gene, many genes, genes plus environmental factors, etc.  In the absolute simplest case, one gene (which, to be clear, this is not), it would depend on a few things about that gene--the overall diversity of the population in question at that locus, the mutation rate at that locus (how big the gene is and how accessible the DNA there typically is).  It would also depend on how diverse the larger  human population is at the locus and how much the smaller population outbreeds.  
+
+If the mutation rate at that locus is low and the population doesn't outbreed much, the trait would be maintained for a lot longer than if the population did outbreed or if the mutation rate were high.

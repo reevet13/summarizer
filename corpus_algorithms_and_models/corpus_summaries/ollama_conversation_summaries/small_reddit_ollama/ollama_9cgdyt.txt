@@ -1,0 +1,20 @@
+Here is a summary of the text, selecting only sentences exactly as written:
+
+reinstall windows.
+^ this. and then buy a Windows license.
+
+plan for today: either be quick, borrow out another laptop, or: https://www.reddit.com/r/AskReddit/comments/2y8udn/managers_of_reddit_what_is_the_best_worst_excuse/
+
+that would do that also...
+
+When you would know that, then would be too late...
+
+fully understand - don't like subscription plans too - but you could use an alternative such as open/libre-office or just buy a license for an older ms office version (retail/ebay). or ask your university/workplace if they offer office365 for free.
+
+/edit: if you are on Windows 10 or 8.1, your ~~best~~* second-best way is a refresh, see: https://support.microsoft.com/en-us/help/17085/windows-8-restore-refresh-reset-pc
+
+make backup or just simple copy to drive, and reinstall PC, safer than repair.
+
+Also much more safer option to use backup before infection, but I guess you don't have one.
+
+also you can try restore point, but make data copy before doing that also.

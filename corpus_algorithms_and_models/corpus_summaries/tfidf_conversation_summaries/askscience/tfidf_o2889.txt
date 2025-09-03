@@ -1,0 +1,12 @@
+Original Response:
+Basically, if we saw things in Infrared, would we be able to understand what "blue", or "green", etc. was?
+What we call "blue" now would just be light with a wavelength between 440 and 490 Hz. We would be able to understand that, but it wouldn't really occur to us that specific spectrum of wavelengths should have a name.
+It would most likely be the same. The colors as we know them are just our brain's translation of different wavelengths into something that we can recognize. It's even speculated that something that looks like a certain shade of blue to you may look like a different shade of blue to someone else.
+Your question is a difficult one to answer, because infrared light can be considered heat radiating from a source. Blue objects can radiate heat, and that would look very interesting.
+
+Because of how our eyes work, we consider 'visible' light to be in its own category different from other kinds of radiation. There are video cameras and sensors that work as 'infrared' detectors, by turning infrared light into visible light so we can see it. Infrared radiation is lower in energy, and tends to vibrate molecules, so our concept of how we view things may change drastically based on how our brains perceive this vibration.
+
+In theory, we would be able to see in complete darkness, as long as the surrounding area was of varying temperatures. Its hard to really say what we would see because the mechanism on how infrared light affects objects compared to visible light is kinda different.
+
+Summary:
+It would most likely be the same.

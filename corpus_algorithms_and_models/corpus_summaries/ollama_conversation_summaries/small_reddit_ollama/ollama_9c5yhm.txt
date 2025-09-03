@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+But the difference is the same whether you use K or C. The difference is the same so the rate is the same (but in opposite direction)
+
+The difference is still +/-1 though? Newton's law doesn't use percentages unless I'm mistaken...
+
+You threw me off with Newton's law. I was assuming a constant rate constant between the two cases.
+
+You forgot that the proportionality constant in Newton’s law of cooling is also dependent on temperature and that dependency is non linear.

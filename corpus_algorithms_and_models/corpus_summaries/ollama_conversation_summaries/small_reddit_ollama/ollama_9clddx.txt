@@ -1,0 +1,15 @@
+Here is the summary of up to 250 words:
+
+Everything has been restored to what's basically a fresh install of windows, my desktop's all fucked up, seemingly random icons are still there (I had like 40+ icons, like 10 were left, I don't know by which criteria).
+
+All of my settings are gone (stuff like not adding -shortcut when you create a shortcut).
+
+The "downloads" folder from quick access has been defaulted to "default" I guess, making me think I lost all my downloads, but no for some reason it just made the other one default.
+
+I lost all my documents in the my documents folder.
+
+Lost all of the browser settings. Literally. Like I reinstalled firefox. Also chrome and IE even though I don't use them.
+
+What can I do at this point?
+
+Edit: System restore fixed a lot of shit, I spent an hour fixing up the numerous small problems it didn't fix (like only being able to access reddit for some reason, every other site would get stuck at TSL handshake).

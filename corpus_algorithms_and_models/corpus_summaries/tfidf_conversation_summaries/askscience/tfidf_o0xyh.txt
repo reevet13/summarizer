@@ -1,0 +1,29 @@
+Original Response:
+So I'm in the Air Force and currently deployed. We're pretty slow at work most of the time and when we are we like to sit around and talk about science and physics and different things like that, we are the Air Force after all, not the Army. Bazinga. Anyways, my co-worker doesn't believe in time, if that makes sense and also does not believe that time slows down the closer you get to the speed of light. I've used the GPS satellites currently in orbit around the Earth as an example and even explained to him how certain particles that are usually only around for a fraction of a second can be observed for a few seconds at the LHC due to their speed. None of this has convinced him. I need some help explaining the concept of time and why/how things slow down the closer you get to the speed of light. Please help /r/askscience!
+Consider two identical events in space. If these 2 events are separated by some space, that is, a difference in placement, you can call that distance, or displacement. Now, what separates 2 events in the exact same spot (displacement = 0)? Time. Time separates 2 events in space. There is a good post by RobotRollCall floating around  here that has a much better explanation.
+The main culprit behind all the weirdness of special relativity (which you are trying to explain) is this: the speed of light is constant in all reference frames.  In other words, you can't race the light beam from a flashlight, because it will always appear to be faster than you by ~300,000 km/s.  You probably already know this, since you're trying to explain time dilation to your friend, but give him credit for being skeptical: it's an utterly counterintuitive idea, and it'd be crazy if not for the fact that it's also supported by over a century's worth of physics experiments.
+
+Ok, then let's say two people are driving their cars along a long road, and both observe a beam of light whizzing past them (let's say someone on the sidewalk switched on a flashlight).  If the speed of light is an absolute constant, and *everyone* sees the same speed of light no matter how fast their own cars are going, it's pretty clear that *something's* gotta give.  I won't rehash an entire relativity class here, but the idea is that you consider what happens to an individual photon, seen by both observers, and you start by enforcing the universal-speed-of-light rule and by recalling that velocity = (distance traveled) / time.  The basic result is that if the speed of light absolutely has to stay the same, then distance and time start doing weird things to compensate.  One of those things is time dilation: the faster you move, relative to everyone around you, the slower time seems to pass for you.
+
+Another way to think about it is this: let's say you're now an observer standing on the sidewalk, you've got a stopwatch, and all cars around you are either totally still or travelling at a constant speed.  With your stopwatch, you measure out 1 minute and see how far the cars have moved.  In special relativity, the cars aren't just moving through space or travelling forward in time -- they're moving through a combined space-time.  In the minute *you* measured, each car can only move a limited amount through this space-time.  If a car moves a lot through space (i.e. is travelling fast), then it can't move a lot through time (i.e. time passes slowly for it).  If a car were moving very slowly, then it moves very little through space and almost entirely through time: the minute you measure is then basically the same minute that the car experiences.
+
+You might ask, how do you compare a "distance" travelled in time to a "distance" travelled through space?  The answer, it turns out, is that you convert one to the other using the speed of light (300,000 km/s), just as you might convert from lbs to kgs using (2.2 lb/kg).  In everyday experience, there's no way our cars can reach anywhere close to the speed of light.  So if I perform the stopwatch experiment above, all the cars I see are barely moving through space at all, in the grand scheme of things, and the minute I measure from the sidewalk is basically the exact same minute that every car on the street experiences.
+
+
+^ Not much in the way of scientific evidence, I know, but hope it can help as a lay explanation of what's going on.
+Well, I don't know how to convince your friend without giving him a few college courses on physics so he can see the derivations himself if he doesn't believe the various measurements that people made.
+
+Here two guys flew an atomic clock around the earth and the speed of the airplane made it tick slower compared to the clock they left in the lab:
+
+http://en.wikipedia.org/wiki/Hafele–Keating_experiment
+
+Here is the thing about muons that are created in the upper atmosphere. They are usually too short-lived to make it down to the ground, but due to time dilation, they do. They obviously have a different half-life than resting muons:
+ 
+http://www.nobelprize.org/educational/physics/relativity/transformations-4.html
+
+But I don't see why your friend would accept this kind of evidence if he "doesn't believe in time".
+
+Summary:
+Time separates 2 events in space.
+If a car moves a lot through space (i.e.
+time passes slowly for it).

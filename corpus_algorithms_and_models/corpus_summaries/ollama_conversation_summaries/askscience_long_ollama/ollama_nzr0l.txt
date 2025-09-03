@@ -1,0 +1,8 @@
+Here is the extracted summary:
+
+* HIV can't survive inside of mosquitoes, it is digested.
+* The fact that a mosquito can bite a HIV-infected individual prior to biting a uninfected also plays no role in this, because the blood flow and saliva flow in mosquitoes are separated, so blood flow is always unidirectional and no blood from the prior host is flushed into a new one with saliva upon the bite.
+* The enzyme would not be specific enough to only target the HIV. If we are talking about digestive enzymes built to break down proteins, you can pretty much expect that they're going to be very good at breaking down not just one protein but a hell of a lot of them. You would not want that in your body freely.
+* Long story short, the plasmodium (or rather, its gametocytes) are taken up with the blood of an infected person, differentiate inside the mosquito, mature, travel to the salivary glands and are injected into the new host with saliva.
+* There's a theory that the *Plasmodium* genus (and some others) evolved from an older genus that infects leukocytes and liver and spleen cells, and is transmitted by a genus of flies related to the mosquito.
+* While both HIV and *Plasmodium* live in blood cells (T-lymphocytes and erythrocytes, respectively), only *Plasmodium* adapted to survive the mosquito's digestive process, since it relies on it as the means of transmission (due to its evolutionary heritage).

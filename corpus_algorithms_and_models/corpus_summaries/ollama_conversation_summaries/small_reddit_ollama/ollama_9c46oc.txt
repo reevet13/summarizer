@@ -1,0 +1,10 @@
+Here are the sentences copied verbatim from the original text:
+
+* "We say actions speak louder than words, yet we still eat lies when our hearts are hungry"
+* "The new engine took less than a year" (although this is not true, the engine was announced in 2014 and the renderer released in 2016)
+* "BETA by year end wasn't a goal. It was a promise. 1.0 by year end was also a promise."
+* "Most people don't think they're straight up lying but they have a history of not keeping their word."
+* "There's parts of the new engine that have been worked on for 4+ years."
+* "If it had been done right from the start they would not have used the broken rv engine. We all knew its limitations but they used it anyway." (this isn't exactly 100% accurate)
+* "And why is this internal build still not ready for the public?" (because it's not, and whining about it won't make it ready faster)
+* "It will be 'complete', but not complete ;)"

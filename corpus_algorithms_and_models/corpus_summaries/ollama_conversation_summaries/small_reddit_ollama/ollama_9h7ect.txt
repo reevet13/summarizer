@@ -1,0 +1,11 @@
+Here are the selected sentences from the original text, up to 250 words:
+
+We encourage redditors / bitcoiners reading here today to [sign up for an account at Kraken if you're interested](https://support.kraken.com/hc/en-us/articles/226090548-How-to-create-an-account-on-Kraken).
+
+Kraken is currently in the top 5 per 24hr volume and is considered 1st by security ranking, and we will continue to work to make our platform better for our clients.
+
+Here's a transparent ranking of exchanges by 24hour volume (not CMC - this data is adjusted to exclude faked volume) -- [https://www.blockchaintransparency.org/exchangerankings/](https://www.blockchaintransparency.org/exchangerankings/)
+
+Note: Security being an important thing, here's a good security ranking of exchanges -- [https://medium.com/@hacken/crypto-exchanges-cybersecurity-score-review-by-cer-ad76efb34463](https://medium.com/@hacken/crypto-exchanges-cybersecurity-score-review-by-cer-ad76efb34463)
+
+Another view:  [https://platform.cryptoexchangeranks.com/](https://platform.cryptoexchangeranks.com/)

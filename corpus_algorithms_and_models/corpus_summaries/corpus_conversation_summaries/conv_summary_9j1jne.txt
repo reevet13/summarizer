@@ -1,0 +1,107 @@
+Original Response: 
+What advantage does drivechain have over say, bcash devs, who just went and started a new altcoin?
+What would motivate these people to do a drivechain instead of launching a new blockchain?
+You still have to mine your own drivechain yes?
+I don't understand the advantage here, nor do I understand the trade-offs with the security models.
+Miners haven't exactly inspired confidence in the system after all the bitmain shenanigans, why would I want to give them the keys to my wallet?
+I don't get it either.
+How would block rewards be handled on a drivechain?
+Mining couldn't be transferable to the main chain because that would create more inflation and miners need an incentive to include any additional transactions... Maybe the whole thing runs on transaction fees alone which doesn't seem like a lucrative venture for miners.
+The only advantage is your new chain has the security of the bitcoin network behind it.
+I don't think funds can be stolen by way of 51% attack on the drivechain or you would at least need to be capable of 51% attacking the BTC chain in order to do this.
+&amp;#x200B;
+
+I agree this doesn't sound like an appealing trade off.
+It only sounds good for bitcoin maximalists who want everything to be denomiated in BTC haha.
+There wouldn't be block rewards on the side chain ( unless it was some kind of demurrage scheme).
+They can be merge mined with Bitcoin, so the transaction fees would be free money to bitcoin miners.
+I suppose merge mining will work.
+The only thing they will need to do is maintain another blockchain essentially which of course does have a cost.
+If we look at something which would be useful to btc like rootstock, it will have contacts which a data intensive.
+I doubt the fee model would pay for the extra storage space in this situation.
+&amp;#x200B;
+
+Interesting concept and I hope it get's implemented but I doubt it will gain much traction given we have already gone through the ICO / altcoin / fork phase.
+Also, are the black box funds only susceptible of being stolen by miners 1 time when the original owner requested to use the drivechain or can any funds in the box be marked to be moved at any time by a miner?
+&gt; What would motivate these people to do a drivechain instead of launching a new blockchain?
+Nothing, but the blockchain can quite easily be copied as a sidechain.
+What would motivate users to invest in a new altcoin, rather than just  use the drivechain version of it?
+There's no reason to believe an altcoin is better than bitcoin + a copy of the altcoin.
+So I am not an expert here, but I don't think the situation is that a miner can just decide to steal the funds.
+It is that a supermajority of hash power has to publically collude for months to steal the funds, and that assumes no revolt from the userbase (USAF, for example)
+Drivechain comes with a soft fork for blind-merged mining, which is something that allows miners to merged mine without maintaining another blockchain.
+I agree, because I don't see why every scammer or 'entrepreneurial' 'visionary' dev wouldn't make their own altcoin, token, or ERC-whatever token - that way they can scam the F out of people and do nothing, whereas this like actually makes them not be as scammy, for a whole lot of work.
+&amp;#x200B;
+
+I mean you could have a non-scam altcoin or ERC token, for sure, and those would have to be an order of magnitude less hassle for them .
+&amp;#x200B;
+&gt; What would motivate users to invest in a new altcoin, rather than just use the drivechain version of it?
+Because a altcoin is a entirely new system with new goals, ideas, etc.
+A drivechain is something that people don't even understand.
+Why would you invest into something that no one understands?
+As you can see, not a single person was able to describe the benefit.
+If one cannot describe a benefit, then one cannot sell/market that item.
+Seems like common sense to me that a new investor would much rather bet on something they understand, even if only marginally, than something they cannot even grasp.
+A drivechain is essentially an altcoin with the exchange rate pegged to bitcoin.
+The benefit is that you get the safety of holding a bitcoin-backed currency (and not a more risky alt-currency) and benefiting from its hashrate while being able to have the features of the altcoin.
+Plus, you're also able to easily switch to other drivechains or the bitcoin mainchain if you decide you want those features instead without having to worry about exchange rates changing.
+&gt;Why would you invest into something that no one understands?
+You don't need to invest in it.
+Drivechains would be a part of bitcoin, and their value would be pegged to bitcoin.
+You want to use bitcoin in a different capacity than what the main chain allows?
+Send it over to a drivechain which can do what you want.
+No need to buy a new coin.
+They collect fees.
+Block reward only exists to generate bitcoins, not as the long term mining incentive.
+Requires a majority vote by miners to transfer from side to main.
+Voting period takes a few months, which is where the "few times per year" where money can be transferred out from side to main comes from.
+Transfers from main to side occur as fast as normal mainchain transactions.
+The big problem with sidechains is that they're a miner-controlled blocksize increase, which is why most devs are not pushing for it: it could lead to centralization of the mainchain layer, which is not the case for e.g.
+LN.
+Theoretically, sidechains can innovate completely new blockchain designs (e.g.
+MimbleWimble, or "invert the chain" where we commit to the UTXO set instead of transactions (transactions are instead proofs that UTXO set modifications are valid), encoding VarInt consistently across the fucking protocol, etc.).
+In practice, I believe that Blockstream has mostly worked inside the Elements sidechain, which is permissioned, to prototype new things like SegWit or `OP_CHECKSEQUENCEVERIFY` or re-enabling `OP_CAT` and adding `OP_CHECKSIGFROMSTACK` for covenants, so drivechains is not really considered particularly necessary at this point.
+I believe there are concerns about sidechain end-of-life, where a sidechain's features may one day be added to mainchain, reducing the value of the sidecoin (its features will be in mainchain and mainchain has better than SPV security, so...) and triggering a massive pegged conversion to maincoin.
+Unfortunately the value of the pegged conversion is secured by the sidechain fees, which we know will go down because the sidechain will be at end-of-life.
+So... if the sidechain succeeds to the point its features are ported to the mainchain, then sidecoin hodlers are rewarded by... having their sidecoins lose value due to unstable peg :P.
+Great breakdown thank you.
+Do you know the fundamental design difference between a sidechain and a drivechain?
+I thought that side chains were secured through their own proof of work.
+I need a good explainer.
+I consider sidechains to be any blockchain that has some mechanism to peg its value to some coin that is native to another blockchain, called the mainchain, often requiring some support in the mainchain that hosts the coin natively.
+The sidechain defines some rules for transferring that coin within its own chain, and some rules for how a mainchain coin can be somehow locked (which triggers the creation of a pegged version on it on the sidechain; this is the main-to-side peg) and, if you can prove ownership of the equivalent amount within the sidechain, to unlock the mainchain coin (the side-to-main peg).
+As originally conceived in the original sidechains paper, a "classic" sidechain has its blockchain secured via proof-of-work.
+Coins are locked on the mainchain (main-to-side peg) by putting them in a special contract (SCRIPT) which requires an SPV proof of the sidechain, and unlocking the coin (side-to-main peg) requires fulfilling that contract.
+Elements Alpha I believe uses this style.
+Rootstock uses proof-of-work (I think?)
+to secure its blockchain.
+Main-to-side peg is done by paying to an m-of-n multisig, where the n signatories are members of the supposedly-distributed Rootstock Federationm which then releases the equivalent amount within the sidechain.
+The Side-to-main peg is done by paying sidecoin to a similar m-to-n multisig on the sidechain, then triggering the Rootstock Federation to release the equivalent amount from its controlled UTXOs on the mainchain.
+Liquid is similar to the above except its blockchain is secured by a fixed m-of-n signatory set in the Liquid Federation.
+Drivechains secures the sidechain by merge-mining it with the mainchain (although in theory it would be possible to use a different security model for the side blockchain).
+Main-to-side pegs pay to a special contract on the mainchain that can only be spent by miner voting.
+Side-to-main pegs require somehow requesting a majority of miners to vote for unlocking of some amount on the mainchain that was locked to that sidechain, on the assumption that miners are actually also validating the sidechain in addition to the mainchain (how that is a scaling solution is a big question: it has the same rough effects as a miner-controlled blocksize increase).
+-----
+
+Before the original sidechains paper, people had already discussed the possibility of some kind of proof-of-burn on Bitcoin, and then using the proof-of-burn on the Bitcoin blockchain on a different blockchain that would magically create a "pegged Bitcoin" on its own blockchain.
+The main context was scaling across the solar system, I believe (burn some earth-based Bitcoin to set up the Mars Bitcoin blockchain, something like that).
+This had no mechanism to return the coins to the original Bitcoin blockchain, so if the value of the sidecoin drifted below the maincoin, nothing would force them back to parity.
+In designing how to construct a secure proof-of-burn, however, Pieter Wuille (?)
+realized that the verification of the proof-of-burn could also be implemented on the original Bitcoin blockchain too, not just on the other blockchain, so that it *should* be possible to burn the other blockchain's coin and present this proof-of-burn on the Bitcoin blockchain, leading to a two-way peg.
+That was rather extensive and provided much illumunation.
+Thank you for taking the time to write that.
+We need a video with some visual graphics to go along with this for my brain to fully soak it in, I think.
+
+Summary: 
+Send it over to a drivechain which can do what you want.
+I don't get it either.
+I need a good explainer.
+Drivechains would be a part of bitcoin, and their value would be pegged to bitcoin.
+Rootstock uses proof-of-work (I think?)
+What would motivate these people to do a drivechain instead of launching a new blockchain?
+I suppose merge mining will work.
+Why would you invest into something that no one understands?
+&gt;Why would you invest into something that no one understands?
+You don't need to invest in it.
+Nothing, but the blockchain can quite easily be copied as a sidechain.
+I thought that side chains were secured through their own proof of work.

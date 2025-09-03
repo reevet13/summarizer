@@ -1,0 +1,90 @@
+Original Response:
+This thread is dedicated to questions that you've never really felt the need to start a thread for, but would still like to see answered/discussed.
+
+Resources:
+
+* [Old Weekly Questions posts](http://www.reddit.com/r/Guildwars2/search?q=title%3Aquestions+thread+author%3AIntigo+OR+author%3AAutoModerator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+
+* [The Official Guild Wars 2 Wiki](http://wiki.guildwars2.com/wiki/Main_Page)
+
+* [Subreddit new players guide](https://www.reddit.com/r/Guildwars2/wiki/newplayers#sidebar2)
+
+* [Subreddit returning players guide](https://www.reddit.com/r/Guildwars2/wiki/returningplayers#sidebar3)
+
+Please also consider sorting the comments in this thread by "new" so that the newest comments are at the top, since those are most likely to still need answers.
+Do you get better drops and rewards on higher level fractals compared to tier 1?
+
+Should i rush ascended and agonies for that reason?
+So when you do dailies at x tier, you get the daily boxes for all the preceding tiers, and as you go up in tier, you get better boxes. That said, learn what's up with fractals: rushing isn't super worth it.
+Rushing is such a strong word...
+
+You can comfortably skip a whole bunch of fractal levels to rush into T4 if you have the means to get enough Agony Resist. Sure, there's a learning factor over the tiers as well, but it's not exactly brain surgery. 
+
+Deroir has really good [Fractal guide videos](https://www.youtube.com/watch?v=O1R-GiMTON4&amp;list=PLu6e24dQtVRdg1ihFaUnTiRLcAQ5OOr-f) as well, which can be nice to get a recap on all the mechanics.
+I meant rushing ascended armor so i can get agony resistance. 
+I'm already familiar with fractals in tier 1
+Oh, my bad.
+
+There's nothing wrong with rushing ascended armor, as long as you got weapons and trinkets first. The armor makes the least amount of difference, despite us needing those extra 6 infusion slots to keep things economical.
+As long as you properly understand the mechanics, rushing up tiers is fine. You just need to be aware that each tier introduces extra mechanics, and extra punishments for failing pre existing mechanics - you cant assume the fractals work the same on each level.
+Yeah, try to get Ascended armor before buying other stuff. Don't grind too hard though.
+I'm go on record and say I hate infusions. I'd rather a tougher fight than agony being why I can't. But I guess I got used to the lack of gear grind
+It can be a pretty abrupt transition for several reasons.  Try not to rush into T3 or T4; they're very different than T1/T2 Fractals.  I'm not trying to scare you, but there are a lot of extra attacks, mechanics and phases which become much, *much* more dangerous if they're not handled appropriately (and scale to various levels of lethality with certain mistlock instabilities -- 3 of which are active at T4).  If you play a Thief/Elementalist pretty much everything can kill you, for example. 
+
+I'd strongly recommend doing the daily recommended Fractals (eg; 69, 36, 25, today) for **Large** Fractal Potion sets.  [They're very powerful offensive and defensive buffs.](https://wiki.guildwars2.com/wiki/Fractal_Potion) and if you're playing or aspiring to play in more difficult tiers then you need to respect the content until you master it.  15% damage reduction, 15 % extra damage and 50% endurance regeneration are powerful modifiers that make gameplay much smoother.  
+
+1.  Boss HP scaling; -- You can't get away with running mediocre builds and lackluster DPS rotations or you'll hit enrage times or have to wipe/reset multiple times before you're able to get a kill.   
+2.  Innate "Threat"; -- Mobs basically have all their defining characteristics turned up a notch in T3/T4. 
+3.  Animations; -- You need to be able to recognize which animations and environmental textures are dangerous. 
+4.  Mechanics; -- You want a solid understanding of every Fractal in-detail to minimize difficulty with minimal support. 
+5.  Gear/AR are the bare minimum for entry into T3 &amp; T4 Fractals.  Always take large Fractal Mobility/Defense/Offense pots. 
+
+Whether it's slams, mass AoE's, shockwaves, conditions, dazes or interrupts -- there's much more pressure on players.  There's a reason why most T4 Fractal pugs try to bring along a Druid/Chrono, and it's because of QoL (quality of life) improvements.  There's also a big difference between running with a good and a bad support player -- objectively speaking.  Fractal Instabilities like afflicted, adrenaline rush, toxic trails or vindicators can be really difficult to acclimate to without solid foundations. 
+
+Last week I played DPS for the T4 Swamplands Fractal (I usually play Druid/Chrono/Rev support).  Our LFG picked up a Chrono that was new to T4's but told us not to worry because he had done them with his guild before.  Within about 5 minutes he had full died and been revived 2-3 times.  He eventually left saying, "This is stupid."  I believe it was toxic trails / add phases / that screwed him.  He just couldn't kite mobs properly and took all sorts of extra, unnecessary damage.
+&gt; You can comfortably skip a whole bunch of fractal levels to rush into T4
+
+Please don't. This is how I get 5k dps dragonhunters in my group
+
+At least do T3s for a week or 2 to acclimate to the difficulty spike
+fair point, you're right. I looked at it from a veteran's perspective, which is a classic mistake in these threads.
+
+I'd rather not have to deal with things like staff eles that spam each and every skill off cooldown, and happened to have farmed about 200 gold for the gear + AR. 
+
+Gitting gud before joining the big boys league should be done first indeed, as is common courtesy.
+&gt; Boss HP scaling; -- You can't get away with running mediocre builds and lackluster DPS rotations or you'll hit enrage times or have to wipe/reset multiple times before you're able to get a kill.
+&gt;
+
+the bosses in fractals don't have enrage timers, do they?
+may sound stupid but.. is there any point of doing LWS2 when i've already done it on another character? doing LWS3 atleast unlocks new maps but i don't really se a reason to do LWS2 on any of my other characters
+Reasons I've re-done LWS2 stuff in the past: 
+
+* Wanted to re-do the chapter that rewarded a black lion key
+* Wanted to do some of the achievements on another character I originally played, so need to do the story chapter first to attempt achievements. 
+* To clear the story section in the top right of my screen cos $@!%&amp; that thing. 
+
+Other than that. Nah, not really.
+If you want to take a stab at the achievements on another character then yes, completing all the achievements nets you a Central Tyria Mastery Point, though it is a lot of work to get them.
+The story "Tangled Paths" from LWS2 rewards a Black Lion Key for completion with **each character**, no weekly (or daily) limit.
+
+That means you can do the whole chapter in about 30 minutes with each of your Lv 80 chars for easy keys
+Btw to remove the story section from your screen you can probably use the drop-down  menu in F11 (Options) --&gt; Content Guide. I don't remember exactly what are the choices available but there's probably something for you in there.
+That doesn't remove the personal story, unfortunately, it just removes the directional prompt to where your personal story is if there's no events / map stuff in the area. The only way to make that thing gone for good is to do all story related content. And it suuuuuuucks. lol.
+Doesn't quitting the chapter also helps? (not in front of computer so I'm not sure).
+If you quit a chapter it will disappear while you are on that map. As soon as you go somewhere else it will give you your next chronological thing to do. Only way to make it go away permanently is to not give it anything to nag you about.
+I had no idea about the keys, or how long it takes to run it. I am glad you mentioned it!
+If you're trying to get all the value keys out of each character, you can also get 3 keys from the personal story. (the lvl 10 one is only once per week but the 40 and 60 ones aren't). So if you're about to delete a bag opener for whatever reason, it's worth eating 10 exp tomes and getting another key first.
+
+Summary:
+I meant rushing ascended armor so i can get agony resistance.
+Try not to rush into T3 or T4; they're very different than T1/T2 Fractals.
+&gt; You can comfortably skip a whole bunch of fractal levels to rush into T4
+
+Please don't.
+Should i rush ascended and agonies for that reason?
+&gt;
+
+the bosses in fractals don't have enrage timers, do they?
+I had no idea about the keys, or how long it takes to run it.
+I'm already familiar with fractals in tier 1.
+If you're trying to get all the value keys out of each character, you can also get 3 keys from the personal story.

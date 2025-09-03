@@ -1,0 +1,19 @@
+Original Response:
+Hello r/askscience. 
+
+I am wondering, regarding this quote from Philip K. Dick's Exegesis, whether his portrayal of tachyons are scientifically accurate in any way:
+
+&gt;..the concept of tachyons, which are supposed to be particles of cosmic origin (I am quoting Arthur Koestler) which fly faster than light and consequently in a reversed time direction. "They would thus," Koestler says, "carry information from the future into our present, as light and X rays from distant galaxies carry information from the remote past of the universe into our now and here. In the light of these developments, we can no longer exclude on a priori grounds the theoretical possibility of precognitive phenomena." 
+
+I suppose I should frame my queries into a set of questions, so here goes (feel free to correct my if my questions are improperly framed in the first place):
+
+1. Is it correct in any way Koestler's claim (through the parsing of Dick) that one can "no longer exclude on a priori grounds the theoretical possibility of precognitive phenomena"? i.e., it being possible for one to send information into the past? 
+
+I've attempted to [look into it](http://en.wikipedia.org/wiki/Tachyonic_antitelephone) myself but am baffled by wikipedia's treatment of the subject. The main article on tachyons states that "As noted by Gregory Benford, among others, special relativity implies that tachyons, if they existed, could be used to communicate backwards in time", however, the tachyonic antitelephone article notes that "superluminal particles such as Tachyons are therefore not allowed to convey signals." I would appreciate a clarification if not more helpful sources.
+
+2. How does modern physics view the concept of tachyons? Are they treated as a serious scientific theory (i've noted that no evidence of them have been found)? Are tachyons falsifiable? 
+
+Thanks.
+
+Summary:
+In the light of these developments, we can no longer exclude on a priori grounds the theoretical possibility of precognitive phenomena."

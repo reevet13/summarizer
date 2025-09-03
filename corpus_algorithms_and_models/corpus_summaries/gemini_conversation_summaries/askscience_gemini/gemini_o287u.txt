@@ -1,0 +1,18 @@
+I don't know if I'm correct, but I remember reading that temperature (heat) is a huge problem because the circuits on CPUs are so small that they are easily burned out.
+
+Yeah, making the circuits bigger would make it much worse.
+In general smaller circuits are more efficient because the same signal is transmitted over a smaller distance.
+The thing is, CPUs really don't do very much.
+Yes and no.
+Small wires are better for speed, big wires are better for heat.
+You can increase voltages to improve switching times, but you end up with increased power consumption, which is basically what the problem was to begin with.
+On the other hand, you could have a huge die, and cover it with hundreds of normal-size tiny cores.
+Fast becomes a problem when you scale up because of the fundamental limits of the universe.
+It sounds crazy, but light only travels 10cm in the time it takes a modern CPU to take one cycle.
+The reason you always hear about them moving to smaller 60nm 45nm etc productions, its because they need everything smaller and closer together to reduce latency over the tracks.
+Wire delay is a function of the product of capacitance *and* resistance.
+A light nanosecond is about the length of a ruler.
+Exactly.
+Wire delay does provide the theoretical lower limit to CPU size, but as other posts in this thread have pointed out, current CPU's are more closely limited by the speed of light.
+The speed of propagation in copper is typically estimated as between .5c and .66c.
+Electric fields may propagate at nearly the speed of light, but charging a capacitor does not.

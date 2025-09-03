@@ -1,0 +1,20 @@
+Here is a summary of about 10% of the original text, up to 250 words:
+
+```plain
+So we if something hits us, or we hit something, we would change our direction?
+
+Yes, absolutely.
+
+In that case, is it possible to completely stop?
+
+Handwavey answer: yes, with conditions. When you start talking about physics, you need to start talking about reference frames, and you will practically always be able to find a reference frame in which you are rotating.
+
+So: Yes, if two objects hit under exactly the right circumstances, it's entirely possible to stop them relative to one another (so that they're both moving at the same speed and the same direction).
+
+But what happens if the objects aren't equal mass or equal speed?
+
+Then we need to factor in something called momentum. Momentum is the velocity of an object times its mass; the velocity of the object is exactly the vector we've already been talking about, which is to say it's speed in each direction, broken down by however many directions we're talking about.
+
+```
+
+Let me know if you'd like me to extract a summary of a different length or with different sentences.

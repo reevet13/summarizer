@@ -1,0 +1,75 @@
+Original Response:
+I'm creating a series of lectures for my kids (ages 8 and 11) that augments their school science curriculum.  The first is, "What is science?", and I'd really like an experiment they can do that drives home the importance of the scientific method and skeptical thinking.  The idea would be that their intuitive answer to a question would be contradicted by the evidence once they do the experiment.
+
+Can anyone advise me on a good experiment for that purpose?
+I'm not sure if this is age appropriate, but you can mix yeast with various concentrations of sugar water in a test tube, seal it, and leave it upside down for a while, and you'll see different sizes of bubble forming at the top, depending on how sugary it is. It's sort of counterintuitive at first because you'd think more sugar means more bubble, but it actually peaks in the middle.
+You could do the cannon and ball drop. eg drop a bullet and fire one they will both hit the ground at the same time. Ive seen wood toys that both fire a wooden ball and drop one with one switch.
+I bet many first year physics observational experiments would work for this, without needing to get into the formal physics of it all. 
+
+I would suggest timing a pendulum swing. Most people initially guess that the angle you swing it from determines the time it takes to swing back and forth, when in reality it is the length of the pendulum.
+[deleted]
+For small angles.
+I had the fun of doing the Millikan oil drop experiment my first year, ::shudder::
+Yes, but just using a stopwatch you could bring it up to 90 degrees and still not measure a difference.
+crush various kinds of plant against coffee filters with a quarter, dip one end in acetone, as it runs up you get chromatography on the cheap. Can see two bands depending on filter and plants used.
+
+Repeat with other interesting dyes inks or whatever.
+I'm going to disagree with all the suggestions here, and suggest that any sort of canned experiment is a bad way to try to actually teach the scientific method. 
+
+If you really want to teach the scientific method, why not go through it with your kids? Find some natural phenomenon that they think is cool, narrow it down somewhat. Spend a day or two observing the phenomenon (which you should guide towards being something that you can manipulate, like bugs or small plants). Guide your kids towards asking questions about the phenomenon, which you keep track of alongside their observations. Then, pick a question that you think you can test. Make a hypothesis based on that question, using logic. Figure out a way to test it, and do it. If the test doesn't work, try a different way. Keep going until your test works repeatedly, and weigh your hypothesis against your data.
+
+I mentioned insects and plants because they're fun to observe (as opposed to household objects), easy to manipulate, and easy to experiment with. 
+
+Just wondering, what is your own scientific knowledge? I ask because (and I mean no offense) your title question makes it sound like you may not fully comprehend the scientific method.
+I'm pretty scientific, and I think I understand it quite well.  Not sure if you're just trolling me, or as a "panelist" you're attempting an argument from authority.
+
+I think my basic idea is quite sound.  If you pose a question for which a typical initial, intuitive answer is actually wrong, doing an experiment that reveals the truth would be a powerful tool to demonstrate the need for critical thinking, and evidence based reasoning.
+16%
+Not trolling, I just think a lot of people misunderstand the scientific method. If you do a predetermined experiment, you are by definition not going through at least the observation step of the scientific method, and probably also not the hypothesis-building step. Instead, you are only doing the hypothesis-testing step. 
+
+There are guided ways around these problems, though, it was just unclear to me whether you realized them.
+Like [this experiment](http://www.youtube.com/watch?v=0OV1E9M9Kkc#t=47m40)?
+
+A simpler setup consists of a dart on a rubber band, attached to a mechanism that holds a target. When you release the dart from your hand, the mechanism drops the target.
+
+(Walter Lewin lectures should have plenty of other interesting examples you could do.)
+
+Edit: You could start horizontally. Let one of your kids do it, and emphasize the importance of holding the dart at the exact same hight of the target. After you have discussed the outcome, ask them what they'd expect to happen when you repeat the experiment with an angle.
+What's interesting is, by the use of the phrase "predetermined experiment" it almost seems that you're dismissing the usefulness of any experiments that yield known results.  The implication is that you've just dismissed the usefulness of any experiments done at a level lower than PhD research.
+I think what forever_erratic is trying to get at is that science is not just a collection of experiments, it's a *process*, a *method*. Rather than teaching your kids a set of facts (e.g. if I mix A and B I get C, or lemon juice turns this bit of paper a different color), it's better to teach them the whole problem-solving approach and get them to think it through.
+Do you want to teach them the scientific method or do you want to teach them to be skeptical?  If you actually want to teach them the scientific method, then do something like forever_erratic suggests (which would have been my initial thought).  If you want to teach them to be skeptical and learn critical thinking skills, then do something with a predetermined outcome like others in this thread suggested like the ball drop.  
+
+Either way, find something THEY are interested in and it will be much more meaningful.
+This is my favorite ...
+
+http://www.informationphilosopher.com/solutions/experiments/dirac_3-polarizers/
+
+The action of two crossed polarizers is easy to understand with classical optics, but the addition of a third polarizer requires quantum mechanics.
+
+But, that may be too advanced right now.  How about experiments with ice?  Ice is awesomely counter-intuitive.
+
+Show that things denser than water sink and things less dense than water float.  What will ice do?  If they haven't seen it before, it isn't at all obvious that ice is less dense than water - it's the solid form of water, so why is it less dense?  Maybe also show that things usually become more dense when they get cold, and then freeze a glass of water and measure the amount by which it expands.
+I agree with what forever_erratic said, and would like to add: -
+
+A - there is no such thing as "the" scientific method
+
+B - science has little to do with "sceptical thinking" as the term is commonly used (in the true sense of the word, it does, however)
+
+C - the lesson you propose will impart your kids with the message that they should always distrust their intuition, which is quite simply a foolish thing to do, especially at their age. To quote Einstein:
+&gt;The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift.
+Kind of like what GrumpySimon is saying, I'm just saying that canned experiments inevitably fail at teaching integral parts of the scientific method, and personally believe that self-driven research, even if that research re-hashes old ideas, is better for creating scientific minds.
+I hated science class at that age.  We didn't do experiments, we did demonstrations and remembered rote facts, and called them experiments.  Mixing vinegar and baking soda is fun, but it begs the question of why you are doing it in the first place.
+
+They key is asking questions that experiments answer.  Maybe even step away from science at first, and ask "What number am I thinking of?"  Pick a number from 1 to 1000, and offer a prize for the first to guess it.  After a few random guesses miss out, have them "experiment" by asking questions about the number that narrow it down...even/odd, higher/lower.
+
+Once they get the ask a question/narrow it down methodology, then it is just a matter of finding good questions.  "What is fire?" might leads to burning a candle in a bell jar.  "What do bugs eat?" might lead to a field trip collecting things to look at under a microscope.  "What's happens during an earthquake?" might lead to some model building.
+
+Summary:
+The first is, "What is science?
+If you really want to teach the scientific method, why not go through it with your kids?
+I think what forever_erratic is trying to get at is that science is not just a collection of experiments, it's a *process*, a *method*.
+If you actually want to teach them the scientific method, then do something like forever_erratic suggests (which would have been my initial thought).
+Do you want to teach them the scientific method or do you want to teach them to be skeptical?
+Maybe even step away from science at first, and ask "What number am I thinking of?"
+They key is asking questions that experiments answer.
+Then, pick a question that you think you can test.

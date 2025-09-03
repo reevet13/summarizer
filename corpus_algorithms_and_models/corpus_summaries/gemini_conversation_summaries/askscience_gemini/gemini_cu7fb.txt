@@ -1,0 +1,56 @@
+I know that voltage is the 'potential difference across two points', but what does that actually *mean*?
+
+What's the difference between electrons moving at 1v, 10amps, and 10v, 10 amps? What quality is it that they possess?
+A great analogy is a watercourse, just exchange electric potential for gravitational.
+The steeper the drop, the faster the river.
+Electron drift velocity is linearly dependent on velocity, so in your example, they'd be moving at 10x the velocity in the second case.
+Disregard those very intelligent people with their annoying water analogy.
+Trying to understand electricity with with water is by far the best thing that confuses people who are learning it.
+It is only correct when it comes to explain intensity (amperage) which is the flow of electrons but fails to explain voltage which is lost or gain of energy.
+
+So what is voltage?
+Voltage represents the **energy by unit of charge**.
+In other words it is a measurement of the energy carried by individual electrons.
+Don't worry too much about the formal definition of energy at this point if you don't know it, the intuitive one you have will do the job just fine.
+
+It is easier to see it that way because 1) it explains a lot 2) it is physically correct.
+
+So, why current increases when voltage increases?
+It is due to the fact that voltage is created by compressing electrons against each other (remember that they repulse each other).
+More potential means more pressure to pass through the resistor which results in a gain of electron flow.
+
+Why P=VI?
+Since voltage is energy by electrons and intensity the electrons that pass through by unit of time, we can say that VI is energy by unit of time which is the definition of power.
+That still helps explain the electrical concept, but I think what the OP is asking, and what I am stumped on is what is the mechanism behind voltage.
+The analogies and thoughts are understandable and explain the effects, but I don't have a good understanding on why or what actually makes a point on a circuit 10V more than some other point.
+
+Is it the electrons being excited to higher energy levels?
+That is my intuitive guess, but I'm not sure if it would fully explain voltage.
+And **Amperage = Current**
+That's the subtle difference between energy and potential.
+What a voltmeter measures is not the absolute energy of the electrons at one point but rather the *difference* of energy between two points which is potential.
+
+So when you ask what makes a point 10V more than other point, it is pretty much a false problem.
+If you plug the two wires of a voltmeter on the same wire on a circuit the voltmeter would indicate 0V even if the circuit is closed.
+What I mean by this example is that voltage represents the *difference* of energy, not the actual energy carried by electrons.
+I think your edits above answered my question (in addition to bringing back some long lost physics I memories!).
+
+It takes work to move electrons closer together.
+Since electrons repel, there is a force pushing them apart.
+A higher concentration of electrons will have a greater repelling force so when a lower concentration is presented, the electrons will diffuse.
+So it is not necessarily the concentration of electrons, but the distance between electrons that "makes" voltage.
+I.E.
+2 electrons in a vacuum separated by 1 m will have a much lower potential than the same electrons separated by 1 nm.
+
+Thanks!
+Me and my lab mate were confused as to exactly what causes voltage differences.
+If you are interested in learning more about electronics, I would recommend /r/breadboard.
+Tutorials on electrical circuits.
+There may be some info in there that could help you out too.
+The problem with this explanation is that voltage is not just energy per unit charge, you have to specify that its **potential** energy per unit charge, like the height of a hill is potential energy per unit weight (mass times g).
+E.g., if an electron is moving at 10eV doesn't mean it the electron has a voltage of 10V, which is different than if an electron is released through a battery with 10V, then it will have an energy of 10eV (by converting potential energy to kinetic energy).
+
+You would never say height of a hill is energy per unit weight, though it does make sense when its the energy that would be given to a particle of unit weight if it rolls down the full height of the hill.
+That is potential energy, unlike energy which seems to indicate that its been realized.
+
+I love the [water analogies](http://en.wikipedia.org/wiki/Hydraulic_analogy) which are very good analogies as the equations are often

@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text:
+
+You're mixing together different hypotheses/interpretations.
+You could say the probability is 1, but it is expressed as 'almost surely'.
+
+Infinities don't play as nice as you'd expect them to.
+It's a logical fallacy.
+
+We don't know if the universe is infinite, because we can only observe events coming into range at the speed of light, and we're drifting apart at a relative speed faster than that (preserving general relativity because no single impulse is FTL, it's simply traveling in opposite directions).
+
+Some people consider science as including the practice of a) making a set of logically consistent assumptions and then b) determining what the possible measurable outcomes are of said assumptions.

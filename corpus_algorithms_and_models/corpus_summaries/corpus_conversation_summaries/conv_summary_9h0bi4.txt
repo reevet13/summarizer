@@ -1,0 +1,60 @@
+Original Response: 
+I understand that stars can be massive.
+For example, *VY Canis Majoris* would fit inside Jupiter's orbit around our sun.
+But, what about small stars?
+Is there a minimal size they can be and still begin nuclear fusion?
+(I hope I'm asking this clearly!)
+Thanks, science!
+Yes, though it is more useful to think about a minimum mass rather than a minimum radius.
+"Brown dwarfs" are the intermediate between large gas giants and the smallest red dwarf stars.
+There is some fuzziness about where the boundaries lie, but ~80 Jupiter masses marks the point where hydrogen fusion occurs in the core.
+Brown dwarfs (and some gas giants) are able to sustain lithium fusion for a bit but the available lithium runs out real quick so it isn't a long-term power source.
+what happens after the lithium runs out?
+or also, how does lithium find it's way there in the first place ?
+The brown dwarfs form the same way stars do: a cloud of gas collapsing due to gravity.
+The gas comes from the original Big Bang or from previous generations of stars that blew off some/all of their mass.
+The majority of the original Big Bang gas was just hydrogen and helium with smaller amounts of some of the heavier elements including lithium.
+Some of that primordial lithium has stuck around.
+While the lithium is burning, the brown dwarf has an extra source of internal energy supporting it against gravity, so its going to be a little hotter and maybe larger in size.
+Fuel runs out, stuff cools down and maybe contracts.
+Thank you!
+I've always wondered about the opposite end of the star size chart!
+I appreciate the response.
+The scale is always tricky when it comes to visualizing (much less fathoming!)
+the sizes and masses of things like stars, especially from a teeny tiny human perspective.
+So, if I may (for example), offer a "primer/starter scale" —something I can (more or less) wrap my brain around:  If  ≈1M Earths (my turn to fuzz!)
+could fit inside our local star (Sol).
+How many Jupiters would fit in our local star?
+These might help me better comprehend the scale of "~80 Jupiter masses" as the [admittedly, fuzzy] size of a red dwarf.
+Thank you!
+Jupiter is about a thousand times less massive than the sun (2e27 kg vs 2e30 kg), so 80 Jupiters is about 8% of the sun's mass.
+Wow, that's pretty huge.
+Compared to the Earth anyway!
+Thank you!
+While a minimum-mass red dwarf has 80 times the mass of Jupiter, it is approximately the same size as Jupiter.
+About a tenth of the Sun's diameter.
+[deleted]
+Lithium is generated via fusion, so that's how it gets there.
+The difference between these stars and others is the pressure/energy(?)
+In the brown dwarfs are not great enough to fuse to higher elements.
+When the energy of lithium fusion runs out it will probably look something like a white dwarf.
+I don't really know this too well, but I also think that the time for the brown dwarf to run out of fuel would be ridiculously long, even compared to normal stars, because Fusion run slower the smaller the star.
+[removed]
+&gt; Lithium is generated via fusion
+ 
+Getting Lithium out of normal stellar fusion processes is tricky.
+Since it readily fuses to 2 He4 nucleus in the core.
+Most Lithium found in the universe is from the Big Bang and supernovaes.
+If Lithium is being burned it's gone rather quickly about 500Myears.
+It's found in brown dwarfs because they are either young or to light to start fusing it.
+If you never seen this [picture](https://upload.wikimedia.org/wikipedia/commons/c/cc/Star-sizes.jpg) this gives a good comparison between the various sizes of objects.
+Awesome, thank you!
+
+Summary: 
+what happens after the lithium runs out?
+I understand that stars can be massive.
+But, what about small stars?
+Lithium is generated via fusion, so that's how it gets there.
+The difference between these stars and others is the pressure/energy(?)
+How many Jupiters would fit in our local star?
+Some of that primordial lithium has stuck around.

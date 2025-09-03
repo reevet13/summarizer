@@ -1,0 +1,20 @@
+I had always thought that in EM waves, the strength of the E-field and the strength of the B-field would be in some fixed proportion. Is this not true?
+
+Can an EM wave have a strong electric field and a weak magnetic field? 
+Or do they always occur together in fixed ratios?
+
+I have a feeling the answer is NO to both.
+
+They are related by B=E/c.
+
+If B=E/c holds, then the chart for E would fully determine the chart for B, and vice versa right?
+
+I think it is rather simple, B=E/c holds *for waves*, but not in other cases.
+
+&gt; I had always thought that in EM waves, the strength of the E-field and the strength of the B-field would be in some fixed proportion. Is this not true?
+
+Generally speaking, yes. The assumption is that the charges and currents that are the source of the wave are oscillating regularly and that you are observing the fields very far away from the source of the radiation.
+
+Time-varying EM fields are not the same thing as EM waves. An EM wave is a combination of oscillating electric and magnetic fields, wheres a time-varying EM field usually refers to -either- an electric -or- a magnetic field that varies in time.
+
+The top chart in the ICNIRP is a time-varying electric field, the bottom is a time-varying magnetic field.

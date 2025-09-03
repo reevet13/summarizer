@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+As I understand it liquid water arrived on earth during the great bombardment. How much additional water would it take (as a percentage of the actual total) to cover the Earth completely? Or at least so much as to render land-based life unlikely?
+
+IANA-Geologist but I my understanding behind why Earth isn't completely covered in water is that Earth isn't completely smooth.
+
+Ok, so as a first approximation you can ask what volume of water you need to increase the radius of a uniform sphere from R_earth to R_earth + r. The result you get for small r (by which I mean I'm dropping corrections to this which go like r/R_earth) is V~ 500,000,000 km^2 * r
+
+Wikipedia claims the average height of the land above sea level is 840m. For the sake of getting a next order approximation, lets treat the land on Earth as a huge plateau of height 840m.
+
+So this kind of gives one a feel for the scale, something like another 20%-40% of what we have now would probably render most of the land uninhabitable. And of course more would work better for that purpose.

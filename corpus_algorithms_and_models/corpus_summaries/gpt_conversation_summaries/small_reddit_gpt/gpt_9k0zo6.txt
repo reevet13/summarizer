@@ -1,0 +1,10 @@
+Any pc nerds here can give advice on this build? First time building a pc so pardon me for asking.
+Why do you need two separate SSD? 1 SSD and 1 HDD is more common. The HDD can be used for storage while the SSD can be used for speeding up boot times and for games that need the extra performance.
+Well it depends on what you want to do with the PC. Gaming? Processor may be a bit slow for that.
+If you want to cut costs can get a cheaper CPU, if you're using the computer for gaming, as an i7 is q overkill for most, if not all, games. If you plan to use it for work like rendering images processing videos or graphics or all that you can stay with the i7. GTX 1070 is a good choice for gaming rn cause the price is q good with their new release for RTX cards.
+Most important part of any gaming PC is probably the graphics card. The 1070 is good and can run almost every game out there on high/maxed settings at 1080p.
+However, some parts are a bit old - the CPU is from 2012 for example. i7 might sound 'high-end' but I'm guessing a 2012 i7 is equivalent about equivalent to a 2014 i5. Should be enough for gaming but not very future proof.
+Also 1600 Mhz RAM? What year is this? Most RAM you buy now out there is at least 2400 Mhz.
+The SSD configuration (120GB + 240GB) is also a bit weird, but it should be enough for most of your games. If I was building a PC on my own I would go with 240 GB SSD + 1TB HDD though.
+as u/FuzzyPronoun has commented, the processor is old. It is a 3rd generation intel core processor from 2012.
+While the processor itself may still have reasonable computational power, being from 2012 it means that the mobo is also out of warranty and support. In case you didn't know, Intel have always been forcing users to change their mobos whenever they release a new processor generation, usually because they change the number of pin count on the processor itself. Also, that mobo uses DDR3 RAM. We are using DDR4 right now, and DDR4 is not backwards compatible.

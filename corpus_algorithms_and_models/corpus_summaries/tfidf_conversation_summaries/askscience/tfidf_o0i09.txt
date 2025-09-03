@@ -1,0 +1,26 @@
+Original Response:
+The big consideration there is the distance at which you're measuring the volume.  Because the headphones are in your ear instead of at arm's length or farther, they can do the same damage with less power.
+Because of the direct contact. Sound travels in wave forms and decibels are the measure of the intensity of the sound. Sound from speak may be louder but they're traveling a further distance from the speaker to your ear drum and the waves will lose velocity (very little) in that time and bounce around off of your outer ear and inner ear. Headphones, however, emit the sound waves directly into your ear canal and directly towards your ear drum which means the waves will hit your ear drum at a higher frequency and faster than they would if they were emitted by speakers. But I wouldn't worry about ear damage as you'd have to listen to loud sources for over an hour before any permanent damage to your hearing would take place.
+[deleted]
+From [National Institute of Deafness and other Communication Disorders](http://www.nidcd.nih.gov/health/hearing/pages/noise.aspx)
+
+&gt;What sounds cause NIHL?
+
+&gt;NIHL can be caused by a one-time exposure to an intense “impulse” sound, such as an explosion, or by continuous exposure to loud sounds over an extended period of time, such as noise generated in a woodworking shop.
+
+&gt;Sound is measured in units called decibels. On the decibel scale, an increase of 10 means that a sound is 10 times more intense, or powerful. To your ears, it sounds twice as loud. The humming of a refrigerator is 45 decibels, normal conversation is approximately 60 decibels, and the noise from heavy city traffic can reach 85 decibels. Sources of noise that can cause NIHL include motorcycles, firecrackers, and small firearms, all emitting sounds from 120 to 150 decibels. Long or repeated exposure to sounds at or above 85 decibels can cause hearing loss. The louder the sound, the shorter the time period before NIHL can occur. Sounds of less than 75 decibels, even after long exposure, are unlikely to cause hearing loss.
+
+&gt;**Although being aware of decibel levels is an important factor in protecting one’s hearing, distance from the source of the sound and duration of exposure to the sound are equally important. A good rule of thumb is to avoid noises that are “too loud” and “too close” or that last “too long.”**
+Exactly.  Every doubling of distance from source to ear reduces the sound by about 6 dB so if you consider the difference in distance between a headphone and eardrum compared to a speaker and headphone, then you can easily make up for the different initial volumes.
+
+*edit*  I'm pretty sure this is correct but if I'm wrong, please someone explain why instead of downvoting.
+Not just the speed at which they contact the ear drum, the rate at which sound waves make contact is much greater. Think of ripples; drop an object in a small bucket of water and there will be ripples traveling a short distance to the corner of the bucket therefore having a high rate of impact. Now drop a stone in a pond, those ripples will take longer to reach the shore and have more time between each impact. The reason why your ears can still be easily damaged by loud speakers if you're several meters away has to do with the property of decibels. So if headphones operate at a very low decibels (according to a quick search, about 70) compared to speakers at a rock concert, 115 decibels. Every decibel greater is 10 times greater in intensity than its preceding decibel measure. So 2db is 10x greater in intensity than 1db. Therefore the waves from the speakers may be slowing down (microscopically) and hit your ear drums less frequently, but they're doing it at an amazing difference in intensity.
+I don't know why you're being downvoted...
+You are correct. From the inverse-square law, doubling the distance gives you a quarter the amplitude. Every 3 dB drop halves the amplitude, so 6 dB is, as you said, one quarter the amplitude.
+
+An example: Headphone is 2 cm to eardrum. Speaker is 128 cm away. The headphone would have to be 36 dB louder (amplitude) than the speaker to sound the same level. {2^7 = 128 -&gt; (7-1)*6 = 36 dB}
+
+Summary:
+The headphone would have to be 36 dB louder (amplitude) than the speaker to sound the same level.
+Long or repeated exposure to sounds at or above 85 decibels can cause hearing loss.
+To your ears, it sounds twice as loud.

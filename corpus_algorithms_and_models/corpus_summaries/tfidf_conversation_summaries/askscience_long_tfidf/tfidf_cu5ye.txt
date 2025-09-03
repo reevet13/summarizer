@@ -1,0 +1,103 @@
+Original Response:
+Something I have thought about for a while.
+Given that: 
+- Every black whole evaporates in time x, where x is proportional (I guess exponentially?) to it's Schwarzschild radius
+- No matter/energy may "disappear", thus the entire mass of a blackhole will have evaporated by time x
+.. could black holes not be the ultimate energy source, equivalent in efficiency with M/AM collision (and thus having "perfect" efficiency").
+
+Wikipedia states:
+"... a 1-second-lived black hole has a mass of 2.28 × 10^5 kg, equivalent to an energy of 2.05 × 10^22 J that could be released by 5 × 10^6 megatons of TNT. The initial power is 6.84 × 10^21 W."
+
+A 100 ton blackhole doesn't sound out of the possibility, and once created, would only have to be fed at a rate of 100 tons/second to keep it stable while it radiates away it's "old" mass. Of course this is a balancing act of "how fast you can feed it" and "how much mass is realistic". I would imagine a smaller blackhole being much more difficult to keep stable (due to it exponentially faster decay rate).
+
+Given 1 sec for 100 tons, I would imagine something like 10.000 tons to work better, I don't quite get the formula, but I would imagine taking 100*100 times longer to evaporate, which would be around 2,7 hours, let's be pessimistic and say 2 hours.
+
+We can transport a mass (doesn't matter what, rocks, soil, heck air works too) to a certain point  over a period of 2 hours right? The return in energy would be enormous.
+
+Only problem I don't have an answer for is how to create an initial B/H massive enough that we can make it stable. Oh, and it would need to be built in outer space, a big enough asteroid would probably work nicely, 
+
+Pros:
+- Ultra safe, any disruption in "food" supply and it would simply evaporate away.
+- Perfect energy output in regards to input mass
+- Zero emission, "endless" fuel supply
+
+Cons:
+- Initial creation probably very difficult, though to grow it you only need to feed it a tiny bit more than it evaporates, which gets exponentially easier
+- Any interruption in food supply long enough and you have to start from scratch
+- Needs to be built in space, thus costly
+- Bad reputation
+
+Another way to harnest this, might be to create blackholes constantly, but only to the mass that it would take to have them evaporate while they fly through a fuel source, turning it into energy. Shooting mini black holes at high speed around a tube, eating its way through matter, and turning it into pure energy on its way.
+
+Is this complete bs, and if so why? Of course this all hinges on the ratio of energy needed to create those babies, and the energy you ultimately can harvest.
+
+But is this being researched, or should I patent the process right now?
+
+EDIT: Err, sorry for the format, how do I make nice paragraphs?
+This is fascinating. Bookmarking for when someone who knows this stuff replies :)
+Neat idea.
+
+A few things to keep in mind:
+
+A black hole that weighed 10000 tons would be 0.01% the size of a proton.
+
+You'd have to keep it still so you could feed/extract energy. It's very hard to keep something that heavy stable, so I think the only solution would be to have it in orbit.
+
+Things take a long time to fall into black holes, due to time dilation. This is doubly true of a micro-black hole, because gravity is so week.
+
+The temperature of a black hole that size would be 10000 times as hot as the hottest quark gluon plasma created in a lab and about a billion times as hot as the centre of the sun.
+
+Something that hot would release most of its energy as gamma rays, so you'd need a way to harness those for energy. You could use it to boil water for steam power, but that wouldn't be as efficient.
+There are purportedly primeval black holes around, which are about to evaporate. I think one would settle for a more practical evaporation rate, as 1 g/s. The radiation could be attenuated by its accretion disk.
+
+http://en.wikipedia.org/wiki/Micro_black_hole
+Could someone point me in the right direction about black holes evaporating? I'd like to know more about that.
+It's named Hawking Radiation, named after Stephen Hawkings.
+
+It is based on quantum flactuation right at the Event Horizon, requiring a tiny amount of energy (and thus mass) to escape.
+
+I quote Wiki:
+"Close to the event horizon of a black hole, a local observer must accelerate to keep from falling in. An accelerating observer sees a thermal bath of particles that pop out of the local acceleration horizon, turn around, and free-fall back in. The condition of local thermal equilibrium implies that the consistent extension of this local thermal bath has a finite temperature at infinity, which implies that some of these particles emitted by the horizon are not reabsorbed and become outgoing Hawking radiation.[14]"
+
+I would interpret it like this:
+Constantly and everywhere Virtual particles pop in and out of existence, and they come in pairs. They exist for a very short time, and annihilate each other. If two of those pop up right at the event horizon of a black hole, with one ever so slightly closer and falls inside, and the other every so slightly outside, we have a problem, we just created something out of nothing. This is a compute error and god kills a kitten...err makes the BH evaporate.
+I understand that any resulting blackhole will be truly tiny in its SS radius. But would that matter? Do you mean that it would be very hard to feed it a sufficient amount because for particles to collide with the SS is very improbable?
+Time dilation I am aware of, however I don't see why that would be a problem. You say gravity is so weak and thus things fall even slower, but that is not true. Any black hole surely has the same gravitational pull, only over vastly different space dimensions, no?
+
+I once postulated a hypothesis against the notion of a singularity of a black hole, stating that a black hole was merely matter frozen in time (not frozen, but slowed down to nearly frozen) at exactly the event horizon, in essence forever falling towards an eventual singularity (which will never occur). But it was explained to me that such is not the case, in essence because I failed to take different coordinate systems into account. (I was postulating that time dialation was linked merely to the speed with which matters approach the BH due to gravity, which is not true). See Kruskal–Szekeres coordinates(=http://en.wikipedia.org/wiki/Kruskal%E2%80%93Szekeres_coordinates) for more information. I have to admit that this was a bit over my head though.
+Are you suggesting to wait for such (hypothetical) primeval black holes to reach their end of life and harnessing the resulting burst of energy? While interesting, I would think that is a rather impractical way to go about doing this.
+Is the second part of your answer linked to the first, I don't fully understand.
+1g/s evaporation rate sounds implausible, though intuition is often wrong with these kinds of things. But my first thought about that is that the BH would need to be huge.
+The smallness is basically an engineering issue. 10000 tons is the size of a medium sized ship. You can stand next to a ship and feel no gravitational pull whatsoever. In fact, between two protons, the electric force is 10^44 times as strong as the gravitational. Yes the acceleration at the surface is great, but the surface is so small that it's unlikely for a particle to end up there to feel it.
+
+I think the best bet would be to keep the black hole in a tank of water, with water constantly flowing through. The water is heated up by the hawking radiation and converted into electricity, and the water that does manage to get sucked into the black hole contributes to the system lasting a little bit longer.
+&gt; Are you suggesting to wait for such (hypothetical) primeval black holes to reach their end of life and harnessing the resulting burst of energy?
+
+No, just find them well before they expire, and feed them matter so that they stabilize in an optimum luminance range.
+
+&gt; 1g/s evaporation rate sounds implausible
+
+Why, if there's a continuum of luminance between almost zero and kT/s (in the final stage) there's obviously a comfortable range somewhere in-between.
+
+The problem is being able to feed the hole by accretion, if it's too bright it will evaporate more quickly than you can feed it, which will result in a runaway catastrophe.
+Another few things to keep in mind:
+
+We are now assuming that the behavior of black holes is accurately described by current physical theories; it is not unreasonable to expect that this behavior will be modified qualitatively once our understanding of physics improves. 
+
+But okay, lets assume for the moment that this stuff makes sense within our current understanding of physics:
+
+This radiation would result in a huge amount of outward pressure, so it might not even be feasible to feed the black hole more material.
+
+If you cannot feed it more material, you are in trouble because the black hole will give off really nasty stuff right before it evaporates completely.
+
+I do not believe anyone has a feasible idea for creating a black hole at all; and it seems the ones the universe creates for us are no good for your story because they are so big that they radiate less energy than they absorb from the cosmic microwave background radiation.
+
+Summary:
+Something I have thought about for a while.
+Could someone point me in the right direction about black holes evaporating?
+There are purportedly primeval black holes around, which are about to evaporate.
+The return in energy would be enormous.
+But my first thought about that is that the BH would need to be huge.
+I quote Wiki:
+"Close to the event horizon of a black hole, a local observer must accelerate to keep from falling in.
+Are you suggesting to wait for such (hypothetical) primeval black holes to reach their end of life and harnessing the resulting burst of energy?

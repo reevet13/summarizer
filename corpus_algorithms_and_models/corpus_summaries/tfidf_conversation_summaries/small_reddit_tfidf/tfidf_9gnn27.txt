@@ -1,0 +1,68 @@
+Original Response:
+Please don't opt out of this.
+
+Machine learning can do fucking magic shit with this info. 
+
+If you or anyone you know has a chronic illness that could use a better drug or treatment plan this is the thing that can help that happen.
+
+If you or anyone you know has ever had a complication due to mixing drugs the doctor was unaware had a compounding effect, this can help prevent anyone else suffering the same.
+
+This is not some grab at your privacy. 
+
+This is not some joke of a government initiative.
+
+The health industry is years behind where it could be by now because of a lack of sharing medical information with researchers.
+So we should be opting in for this massive privacy risk so some billion dollar companies can play folding@home?
+Plus imagine what machine learning on that dataset could do for insurers! It could be great for identifying and weeding out people from getting health, life, income protection etc so premiums are cheaper for the rest of us. Well, assuming we're in the lucky group, but we'll worry about that later.
+&gt;This is not some grab at your privacy.
+
+It is. Private health insurance companies have come out saying they want this, and that the data looks to be insufficiently deanonymised such that they can determine individual user information.
+
+There simply aren't enough safeguards for anyone concerned about their privacy to sign onto this. The government can do wonders with big data, but this government is keen on selling absolutely every public asset that's not bolted down, and some that are.
+I am a health researcher who would love to see this data. It would be magic. 
+
+I don't trust this government to implement it now, or in future, in a way that protects the privacy and rights of individuals.  I have opted out.
+[removed]
+This. Ive got a chronic disease and this could be very useful if i travel and get sick in another part of australia. The scare mongering on this sub is unreal.
+It would be magic but the government can’t even run a census site, let alone secure millions of public health records. I opted out too, for the same privacy reasons.
+[deleted]
+None of the information in My Health Record will be useful for anything that you have suggested. This system is a complete farce and parents are consenting to publication of records that will be used down the track to deny their children insurance, or even to deny access to employment based on employers’ opinions about certain medical histories indicating — for example — an individual that takes too many risks or has recurring chronic issues that will impact on hours worked for dollars paid.
+
+At no point will My Health Record be used to save a person’s life in ways that aren’t already done with GPs consulting experts, ERs following established protocols, or specialists forming opinions based on the same medical records we have today.
+
+What My Health Record will accomplish is distributing the medical records of every Australian to anyone in the world who has the money to buy them, and fostering the attitude that people are cattle to be herded and processed by industry as they see fit.
+Not linked data like this.
+Linked data?
+Lots of data points linked to an individual.  The data that you get now is linked to things like PBS codes, medicare codes, activity codes, provider numbers etc. It's not linked to individual cases/people which is where the added benefit of MHR would come in for research, because you could track that data over time, say, or look at interactions between things potentially thought to ve unrelated, etc etc.
+My brother almost died due to a complication between meds. It was a rare condition tied with a rare coctail of drugs that seemingly wouldn't / shouldn't interact - nobody knew why he was going immunocompromised but he was.
+
+It wasn't untiil my dad, of all people, read an article about the mix of drugs in another country killing another young boy in the same way.
+
+If that wasn't in the public domain he would be dead too, needlessly.
+
+This shit makes me mad.
+That is not an argument to oppose the mhr. That is an argument to regulate insurers to work in the public good of the people of they insist on playing in our, the people's, sandbox.
+Maybe instead of complaining you should act. When was the last time you did more politically than bitch to your work mates?
+No, and yes. Why is it a problem for you?
+
+Please avoid the fluffy language. The fact that they are or are not a billion dollar company is irrelevant but it sure makes them seem evil doesn't it?
+
+Play? Play folding at home? Do you even know the first thing about what ML is doing in cancer research and early detection right now? It's saving lives already.
+
+The privacy risk is non existent. If you think you have any privacy left you are sorely mistaken and need to adjust your perception of the world.
+It's an argument for opting out. I have no power to change the regulations, I only have the power to protect myself until such regulation exists and is irontight against a new government just changing it.
+&gt; I only have the power to protect myself
+
+I'm sad you feel this way. All you have to do is get out there and speak up.
+Ohhh anecdotal evidence to convince people, I'm sold!
+Someone died because drug interactions are poorly understood because of a lack of data. My brother almost died for the same reason. That isn't anecdotal evidence, that is just evidennce. I can prove it with hospital reports and a Google search.
+
+Now the fact that I can't be bothered todo so might make my claims anecdotal to you but calling the story anecdotal is just the wrong use of the term because it is flat out factual.
+
+Summary:
+It's an argument for opting out.
+I opted out too, for the same privacy reasons.
+This is not some grab at your privacy.
+I am a health researcher who would love to see this data.
+Lots of data points linked to an individual.
+The privacy risk is non existent.

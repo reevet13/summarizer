@@ -1,0 +1,21 @@
+Heat is not used as energy. Energy from exergonic reactions are transferred to electron carriers (NAD+/FAD,NADP+,etc) as hydrides(H-) or H radicals(H*). The energy can also be used to attach a phosphate to ADP to form ATP. ATP has high energy phosphate bonds(chemical potential energy). The energy can then be used by hydrolizing ATP into ADP+Pi. Pi is inorganic phosphate. 
+
+I believe cells are 72% efficient so only 28% of the energy leaves as heat. Heat is largely useless which is why cells have electron carriers which carry "energy". Organisms do heat themselves up and some even undergo respiration without ATP synthesis to produce heat depending on the environment. 
+
+Aerobic respiration requires oxygen in order to generate energy (ATP)
+
+Heat is waste.  But the energy carrier is ATP.  
+
+When the cell wants to do something, it pulls the trigger and shoots a phosphate onto whatever needs energy (the bond breaks providing the activation energy for the next chemical reaction).
+
+Well, heat is a FORM of energy. Though the cells do produce some heat, most of the time the direct production of heat is not their desired primary outcome. So when the cells break down carbohydrates, they use enzymes which are nothing but exquisite molecular machines to "transfer" the energy contained in these carbohydrates et al. into a molecule called ADP to produce ATP. So ATP essentially "stores" the potential energy in the form of a chemical bond. 
+
+In a very basic way, an analogy is your car's engine: what the burning of fuel produces normally is heat, but using a very special machine we try to convert a good chunk of this energy release into mechanical work. In a very distantly similar manner our bodies try to use energy from exothermic reactions to controllably do whatever other things they want to do. 
+
+However, in a cell, the glucose undergoes a series of reactions that allows it to take a good chunk of the chemical potential energy in glucose and use it to make ATP. There is still some heat lost in respiration, but it transfers a lot of the energy in glucose to ATP.
+
+The energy to move the flagella therefore would come from the oxidation of a simple sugar and the electron-transport chain. 
+
+The energy has been passed from the carriers to forming a H+ gradient which is now has potential energy. A flow down the concentration gradient gives the energy required to make ATP.
+
+In short, the energy from glucose is stored in ATP. It takes energy

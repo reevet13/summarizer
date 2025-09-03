@@ -1,0 +1,10 @@
+I've used the GPS satellites currently in orbit around the Earth as an example and even explained to him how certain particles that are usually only around for a fraction of a second can be observed for a few seconds at the LHC due to their speed.
+None of this has convinced him.
+The main culprit behind all the weirdness of special relativity (which you are trying to explain) is this: the speed of light is constant in all reference frames.
+One of those things is time dilation: the faster you move, relative to everyone around you, the slower time seems to pass for you.
+Here two guys flew an atomic clock around the earth and the speed of the airplane made it tick slower compared to the clock they left in the lab:
+
+http://en.wikipedia.org/wiki/Hafele–Keating_experiment
+
+Here is the thing about muons that are created in the upper atmosphere.
+They are usually too short-lived to make it down to the ground, but due to time dilation, they do.

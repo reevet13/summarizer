@@ -1,0 +1,11 @@
+Measure the position of a star, then measure it again six months later when the Earth has moved 300 million km, and use the change in angle to calculate distance.  
+Things that are farther away are measured with what are called standard candles, where we compare how bright something looks with how bright that type of thing actually is.  
+Because of the expansion of the universe, stars that are more distant get away from us at a faster speed that are closer to us.  
+Now the doppler effect tells us that objects that go away from us emit light that is shifted toward lower wavelengths.  
+Now, if we combine this with the fact that all elements can be caracterized by the light they emit or absorb, we can look at the specter of a star, look at how much shift if exhibits from known elements, calculate from this how fast it is going, then from this calculate how far it is.  
+In reality though, Hubble's law is only used for the absolute most distant galaxies.  
+Our most reliable standard candle for extragalactic distances is a supernova 1a.  
+More generally there are relationships that have been discovered between things like the period of pulsations and the luminosity of a certain type of variable star.  
+These two relationships are calibrated, we use another method to find the distance to some of these objects and then use that to calibrate our scale, this is why its called a distance ladder as each method is calibrated on the ones below and then extended to objects farther away.  
+Hubble's constant is about 70+/-2 km/s/Mpc so an error of about 3%.  
+The relative motion of galaxies is high, andromeda has a speed of 300 km/sec and is only one Mpc away.

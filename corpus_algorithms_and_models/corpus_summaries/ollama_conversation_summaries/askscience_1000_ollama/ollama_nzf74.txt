@@ -1,0 +1,15 @@
+Here is the summary:
+
+As for how? I'll leave it to the experts, but that wiki article is really good.
+
+Atoms and molecules aren't so simple. Atoms have electrons in shells which interact with the electrons in the shells of other atoms in highly specific ways. Combining the rules of these interactions with random motions can produce complex structures, like snowflakes and other crystals, or it can produce more fluid, sustained reactions, like those in living creatures.
+
+Well, the whole point of the Urey-Miller experiment was to demonstrate that inorganic molecules known to be present in the early terrestrial environment can spontaneously form amino acids -- the building blocks of proteins.
+
+The fundamental operation of life as we know it is synthesis of proteins, mediated by patterned nucleic acids. It is not likely that both protein synthesis and nucleic acid replication developed at the same time -- what we might call the first life probably developed from protolife systems consisting of one of those systems (proteins that happened to self-replicate, or short nucleic acid chains that happened to self-replicate).
+
+The key is the self-replication: once a sufficiently robust general self-replicating system happens by chance (even once) proper evolution can begin and development of complex life is virtually assured.
+
+There are many examples of inorganic molecules that are large and complex. Conditions on earth allowed for the spontaneous formation of organic molecules. Large and complex carbon-based molecules. Lab work has demonstrated that organic molecules can form spontaneously under the right conditions.
+
+Once amino acids are stitched together, they can fold up to form a protein on their own based on their chemical properties (although chaperone proteins help the process along in cells).

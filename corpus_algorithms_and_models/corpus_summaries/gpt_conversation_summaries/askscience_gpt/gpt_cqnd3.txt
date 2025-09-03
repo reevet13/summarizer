@@ -1,0 +1,15 @@
+Special relativity can still be used to do computations for that (although some of the mathematical tools of GR may be helpful)
+
+General relativity is brought in when your spacetime isn't (approximately) flat.
+
+The differences in length contractions due to relative velocities between inside and outside would more or less on its own be enough to break it.
+
+That's an engineering problem, not a problem with the physics of it.
+
+Well, it seems to be one of many ways that physics says "no truly rigid objects allowed", so it's a bit deeper than merely an engineering thing.
+
+You can model that system with a relativistic Lagrangian.
+
+Basically, the Lagrangian is the kinetic energy minus the potential energy. There's an equation that takes the Lagrangian and turns it into an equation of motion. A relativistic Lagrangian just has a different form for the kinetic energy, to keep everything below the speed of light.
+
+Lagrangian dynamics are a reformulation of Newtonian mechanics that takes forces out of the picture. Hamiltonian dynamics are another reformulation.

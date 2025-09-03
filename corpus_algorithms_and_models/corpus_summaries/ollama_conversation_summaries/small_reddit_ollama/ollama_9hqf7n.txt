@@ -1,0 +1,18 @@
+Here is a summary of the original text, selecting approximately 10% of the content (up to 250 words):
+
+I am looking for sollutions for my lag problem in mainly games. I am connected via cable to an extender, which is connected to our router. We have optical fiber.
+
+Ping: 13, Download mbps: 27 and Upload mbps: 23.
+
+Edit: Specs
+Intel core i5-3470 gpu 3.2 ghz, RAM 8gb, gpu NVIDIA GeForce GTX 750
+
+Your machine shouldn't have much of a problem with rocket league, do you have an fps counter on? What fps do you average in rocket league?
+
+Nvidia drivers upto date?
+
+Idk about the drivers, maybe thats it. My frames are around 60-40 most of the time.
+
+I reinstalled the drivers and at first I though it worked, but than the ping problems returned. It does seem better tho. Any other things I can try?
+
+So just to be sure, ping issues are generally network related (bad connection, software updating in background), fps drop and stuttering is software related (game is demanding and your GPU/CPU can only manage so many frames, game is badly optimised).

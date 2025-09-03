@@ -1,0 +1,136 @@
+Original Response:
+Behavior of [this simple circuit](http://youtu.be/RkTvDjhImwo) is a little unusual.
+
+I understand how it can be done with two LEDs (by adding four extra diodes in parallel to switches and LEDs, and DC-to-AC converter inside the battery connector), but not how to add the third LED.
+I think its a hoax.
+It is.  My question is, how is it done?
+I think the glow off the LEDs is pasted over cleverly, though the lights do interact with a pen at a point (when they are all lit), I think its just some video effects and the lights only light when they are supposed to and those frames are the source of the glowing lights.
+
+Or maybe it is an AC/DC trick as mentioned in the youtube comments.
+Modify the switches to add oscillators. You want to have each switch generate one specific frequency (eventually, block DC current).
+
+Then a band-pass filter in each LED?
+Video editing seems to be a good option given that it's on a very easy to edit out background.
+I'm guessing it is voltage divider trickery, however I can't see the strips on the big resistor so I can't give a quick "is that even a possibility" confirmation.
+[deleted]
+Band-pass filters would be visible in the video.  I don't think there is enough space to hide them under the LEDs.  
+
+Maybe an SMD capacitor under the LED, and coil inside the corresponding switch?
+There are 0.6mm x 0.3mm SMT components nowadays, you can easily fit a few of them under a 5mm LED... then paint them in RED!!! :D
+
+You can also rely on the fact that the LED has a capacitance...
+I don't think there's anything done in post.  The same guy has another video, with two LEDs and two switches in parallel, which can be explained by just extra diodes and AC.
+Everything was pre-cut and carefully measured out ahead of time, and it looks like the work surface is thin enough to be printed on... perhaps a clever use of induction? Notice at about 2:09 how carefully he bends and positions the LEDs with the leads directly down. In the comments, he also mentions that they're 5mm LEDs with some "modifications." My guess is still induction.
+Well, clearly he is hiding something.  The question is what.  If everything is "what it appears to be", this would not work.  No questions asked.  So what is he hiding?
+
+My guess is he modified the 9v to hide an DC to AC circuit in the battery.  I don't see how he can control 3 LEDs otherwise, but maybe there is a way without doing so.  I can definitely come up with a way to do it using a DC source and only two LEDs.
+
+Here are some ways you could get this kind of behavior:
+
+You could use diodes in parallel with the switches to select the direction of current, and diodes in parallel with the LEDs to make sure current can always flow in both directions.
+
+You can play tricks with DIACS or TRAICS so if the voltage and or current exceed a certain threshold, the DIAC or TRIAC trips and shorts that part of the circuit until current is removed.
+
+You can have LEDs of differing voltage levels.
+
+So, for instance, you could have a low voltage LED with a TRIAC.  So long as the voltage is low enough, the LED lights up but the TRIAC doesn't fire.  This could be in series with a high voltage LED in parallel with a resistor, so that the high voltage LED won't turn on, but current can still pass to light up the low voltage LED.
+
+Then you could apply a high voltage in the same direction and trip the TRIAC, thus shorting out the low voltage LED and causing it to go dark, while the high voltage causes the high voltage LED to light up.
+
+Then you could reverse the current direction to light up the third LED.
+
+So you could actually have four switches and four LEDs in a row.  Of course you have to have TRIACS or DIACs in the LEDs (reverse diodes should be easy to find in an LED), and an appropriate circuit.
+
+I notice that when he turns off the three leds the first time that he starts with the middle LED.  That is what is making me think there is a TRIAC or DIAC involved.  My guess is that order is important in whatever circuit he came up with.
+Going off what [proba60](http://www.youtube.com/user/proba60) has posted, the source is defiantly an AC one, he has posted a couple of schematics as video's. Also included the russian-&gt;english google translation from google...
+
+[3 LED's](http://www.youtu.be/watch?v=fdpAtB3rv2c)
+&gt;In the scheme of the two generators. A low-frequency amplitude ≈ 2v.dlya control two LEDs on the basis of the polarity of the high-frequency generator Another amplitude 1.3c. tuned to a frequency of four series-connected capacitance and inductance (30μ)
+
+[2 LED's](http://www.youtube.com/watch?v=FWQpBCQ17E8)
+&gt;I made a video in which reflected the principle of all the schemes for the two LEDs. Maybe it's too late and someone these principles have been called, but the video on this subject I have not seen. Also in the video are the factors that simplify the classical scheme.
+Happy New Year!
+is that wire even long enough to drive LEDs without at least some coils of wires
+2 LED schematic is the one I had in mind, it's clearly going to work.
+
+3 LED is kind of complex, would be interesting to see if it works.  I have a feeling that the actual schematic used is even simpler.
+Did any of you notice one of the bulbs glow a bit when he was arranging it after soldering?
+[deleted]
+After reading some of the comments here and on YouTube, I believe I've figured it out, or at a least a working variation. 
+
+[Here is the schematic](http://imgur.com/XsXcM)
+
+Basically the battery is not just a battery but a frequency generator. It will spit out two frequencies, a low frequency and a high frequency. Also, as mentioned by the circuit creator, the parts he's using are modified with extra components.
+
+The high frequency component will pass through the capacitors (provided capacitance times frequency are large enough, remember impedance is Z=1/(2*pi*f*C) ). Similarly, the capacitors will block the low frequency components, provided capacitance times frequency is low enough.
+
+Similar to, but opposite of, the capacitors, the inductors will block the high frequency component and pass the low frequency component (remember impedance is Z=2*pi*f*L).
+
+**First two switches**
+
+This part controls the low frequency signal, which the first inductor in parallel with the third switch passes through. I use diodes pointing in opposite directions of each other, each with a parallel capacitor and switch. The parallel capacitor is to allow the high frequency signal to pass through. With both switches open, no low frequency current may pass, as the capacitors block the low frequency and we have diodes pointing in opposite direction. Closing the first switch allows low frequency current to flow when the signal is in the negative portion of its cycle (counter-clockwise current through the diode in parallel with the second switch). Closing the second switch allows low frequency current to flow when the signal is in the positive portion of its cycle (clockwise current through the diode in parallel with the first switch). This will control the first two LEDs in the LED stack.
+
+**Third Switch**
+
+This switch has an inductor in parallel with it that will pass low frequencies but block high frequencies. By closing the switch, you allow the high frequencies to pass through.
+
+**LEDs**
+
+You were probably wondering how my circuit works with the LEDs configured as such. I've already established how the switches are functioning, but not the LEDs. First, the capacitors in parallel with the LEDs will allow the high frequency signal to ride right past the LEDs (the capacitor will appear as a short circuit at high frequencies, while appearing as an open at low frequencies). The confusing part is having diodes facing the opposite direction. In my circuit, I assume that the LEDs have low reverse breakdown voltages, which is typical of most LEDs (5V for [this very common red LED](http://search.digikey.com/us/en/products/LH%20N974-KN-1/475-1416-1-ND/1802603)). So when current needs to flow in the opposite direction of the LED, there will be a 5V drop across it (or whatever it's breakdown voltage is). If lower voltage signals are required a parallel diode with opposite polarity may be used, but I'm going for the simplest implementation of the small components. The third LED, on the other hand, simply has a parallel inductor to bypass the low frequencies (an inductor appears as a short at low frequencies and an open at high frequencies), so the LED will only turn on when there is a high frequency signal present (controlled by the third switch).
+
+***EDIT:*** I should mention LEDs do not light up in reverse conduction (or at least not in my experience).
+
+I should also point out that as long as your frequencies are above 120 Hz (or thereabout), you should not have any perceived flickering in the output as seen by your eyes. You may need to increase this frequency further to eliminate aliasing from the digital camera.
+
+Hope this explanation helps you all!
+Disclaimer: Not an electonics guy.
+
+
+
+He says it's simpler than the frequency thing that you're all talking about.
+
+http://www.youtube.com/watch?v=rbapM2AbS9o&amp;list=UUNAAxVKWPAbaZiB90_kjDJw&amp;index=2&amp;feature=plcp
+Nonsense
+Incredible. I have a question though... How exactly is he getting ac out of a 9v cell? Is this a device on the market that I've never heard of?
+I'm guessing it's a smaller battery and an oscillator circuit stuffed into the case of a 9 volt battery.
+That's exactly what I was thinking. He probably has two oscillators and a summing op-amp that can drive a bit of current. At least that's how I would do it to keep it simple. For all we know it could be a microcontroller in there generating the frequencies so that he can play around with it more. There's many and more ways to accomplish this.
+This circuit you're referencing is easily assembled using just some extra diodes like the first two switches use in my other response. You can remove the capacitors and inductors, of course. This, however, can only be accomplished using an AC signal and will only control two LEDs, one set to turn on in the positive direction and one set to turn on in the negative direction. In order to get more than 2 LEDs controlled you need a new method, since the diode method only controls off/forward/backward conduction.
+How did the guy in the video hide those capacitors  and the resistor in the LED'S?? Do they make them like that?
+They don't make them like that, but it is a 5mm LED barrel. That's more than enough room to drill out the center, add some [0603 or 0805 components](http://en.wikipedia.org/wiki/Surface-mount_technology), add two leads and seal it shut.
+I don't have a ready picture, but SMD components was the first thing that came to mind as well. A good example would be [this picture](http://i.imgur.com/sIJIi.jpg), I've had to solder capacitors as small as number 5.
+[deleted]
+[deleted]
+I thought I saw that too, but I can't be sure..
+if the circuit was as claimed then it would only be able to run all three LED's simultaneously if all three switches were on, or am I wrong? 
+
+I.e. if you have a simple battery with three switches in parallel and three LED's in parallel then there is only one possible outcome?
+Do you mean series (one strung right after another)? If so, then yes, you would have to close all 3 switches and current would flow through all three diodes, lighting all three simultaneously. 
+
+If they were in parallel, then closing any one or more of the three switches would turn on all three diodes. 
+
+For the digital logic inclined, the series implementation is an AND gate, the parallel implementation is an OR gate.
+We had a big discussion about this video and the parallel circuit video over in /r/electronics a few weeks ago.
+
+Apparently the author of the videos states in the comments(in polish) that the battery is a regular 9V.
+
+The consensus between our discussion and the one over on Hack-a-day seems to be that he used after effects. 
+
+If it is real then there definitely is some AC trickery going on. The three frequencies would also have to be pretty far apart while still allowing their respective caps and inductors to remain extremely small. Not to mention that the LED's have their own capacitance (~20pF).
+
+Summary:
+I use diodes pointing in opposite directions of each other, each with a parallel capacitor and switch.
+The parallel capacitor is to allow the high frequency signal to pass through.
+Then you could reverse the current direction to light up the third LED.
+**Third Switch**
+
+This switch has an inductor in parallel with it that will pass low frequencies but block high frequencies.
+So, for instance, you could have a low voltage LED with a TRIAC.
+By closing the switch, you allow the high frequencies to pass through.
+I don't think there is enough space to hide them under the LEDs.
+**First two switches**
+
+This part controls the low frequency signal, which the first inductor in parallel with the third switch passes through.
+How did the guy in the video hide those capacitors  and the resistor in the LED'S??
+2 LED schematic is the one I had in mind, it's clearly going to work.
+If they were in parallel, then closing any one or more of the three switches would turn on all three diodes.
+That's exactly what I was thinking.

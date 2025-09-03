@@ -1,0 +1,68 @@
+Original Response:
+It seems logical that it would be.  I did some research myself using University of Google, but so much of what I found was from unreliable quack health sites that I thought I'd ask the experts. :)
+[deleted]
+Which is why smog getting trapped in urban centers has never been a problem, anywhere. Ever. Did you even read the note under the comment submission box?
+Please do not speculate in AskScience. This is a place for science.
+nor is this ask religion, preaching can be left to the points buttons
+Yes it does, but if you measure it accurately, you will find that there will be more oxygen near water and on water compared to land, due to algae and photosynthesizing bacteria, and especially phytoplankton which produce quite a considerable sum of oxygen.
+
+However, the proportions of oxygen in cities to countryside vary so much as you have to take into account a whole range of factors, including, and not limited to: pollution by cars, industry, people, buildings, materials in the city, bodies of water, temperature, wind etc.  and is the reason why you will never get a exact answer, because it is so variable.
+As a moderator of this reddit, I am informing Taslem that their speculations are not welcome here. This is one in a series of official warnings we give people who have a history of not following our rules.
+While I was unable to find an answer to your question I was able to find a relatively [simple experiment](http://www.sciencebuddies.org/science-fair-projects/project_ideas/Weather_p004.shtml) for measuring atmospheric O2.  If you could get a crowd source thing together on reddit you might be able to figure out the answer yourself.
+
+But is the experiment precise enough to see the small differences you're looking for?  And even if it is precise enough the accuracy of the trials would be affected by equipment, and differences in sea level so that would all need to be standardized and corrected for.  Anyway, sorry I can't be of more help.
+[deleted]
+I know I've read some stuff about [ozone in urban centers](http://www.sciencedirect.com/science/article/pii/S0378778896009991)... and lots of stuff about "microclimates" caused by the way [pavement absorbs &amp; releases heat](http://en.wikipedia.org/wiki/Urban_heat_island). 
+
+So things *other* than (breathable) oxygen definitely accumulate around urban centers.
+So oxygen levels vary in cities, but it's not significant enough to affect human health?
+[deleted]
+The products of oxygen combining with other things, i.e. sulphur, nitrogen, or just oxygen, is more significant, as they are far far more dangerous than just oxygen levels being low.
+If common sense answered questions, we wouldn't need experiments. Also, the answer to this question in particular is *not* self evident, so you're just being a douchebag.
+Thank you :)
+[deleted]
+I'm no expert, but physics 101 tells us about the "concentration gradient", which I assume applies directly to how much oxygen is in the atmosphere across the Earth as affected by pressure/temperature. 
+
+Edit: Would love to know why I'm being downvoted. Does this phenomena not have an effect on how gases permeate in a system?
+It seems that the point is moreso that it's nearly impossible to attribute any lesser concentration of oxygen to lack of plants rather than the other things that go with urbanization.
+[deleted]
+[deleted]
+That's the cambrian explosion, but it is debatable if it was due to oxygen levels.
+Just as an aside, lichen levels on trees are a very good indicator of air quality. In urban centers, you will find very low amounts and only very hardy species of lichen on trees. Just go outside and look at tree barks. Compare that to the country or the wild in general, where trees can be completely covered in lichen
+I would be careful with phrases like 'early in earth's history.' Early in earth's history (as I would define it), there was no life at all, and very little oxygen. Even early in life's history, there was no photosynthesizing organisms, and so still no oxygen. I think the time period you are probably referring to is 'before humans.'
+So how does this affect shoreline people's health in relation to inland? Are there any studies on this?
+Here is an interesting talk about [creating plant ecosystems in buildings](http://www.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air.html) designed to provide oxygen required by the tenants. The gentleman claims significant improvements in air quality, improvements in building ventilation, and measurable improvements in employee health.
+Would oxygen concentration matter as much as partial pressure? It seems like this would be the way to determine the potential effect on the human body.
+Observational anecdote:
+
+I lived in a large city and flew indirectly to Iquitos, Peru which is in the middle of the Amazon Jungle.  Stepping off the plane was like putting on an oxygen mask.  It was a little startling how fresh and clean and easy to breath the air was...it gave me a mild buzz.
+Altitude makes more difference than vegetation. If the city you live in was at a higher altitude than the Amazon jungle, then it makes sense that you would not be accustomed to the amount of oxygen there. Lack of pollutants in the jungle vs. your city as well as higher humidity may also have caused this sensation, but I can't say that I believe the effect was actually caused by massive amounts of oxygen being secreted by the vegetation in the jungle.
+Low oxygen concentrations on the body will just make you pass out. Your body has no accurate way to know if you have enough oxygen, but it can sense the  amount of products of oxygen in the body, carbon dioxide quite well.
+
+So, if you got trapped in a room with the oxygen going down, and the carbon dioxide being kept at a steady conc, you will not know until you pass out. While if you filled the room up with CO2 and kept oxygen the same your body will make you gasp more and more for air. 
+
+Also, this is why [Shallow water blackouts occur](http://en.wikipedia.org/wiki/Shallow_water_blackout)
+
+
+So, to answer your question, oxygen concentration only has the effect of you blacking out (and probably other things like suffocation) on your body, but the products of oxygen in a city are far far far worse on your body.
+It does, but the concentration gradient in a city will be so huge, and made up of smaller concentration gradients, that if you mapped them all out in real time, you would see they would all be rapidly changing. 
+
+Plus gases behave differently at different altitudes, so oxygen at sea level will be acting different to that of oxygen at a high altitude such as tibet, then you will get sinks in the land, gases will creep into, and wind acting to mix it all up, heat to make the gases expand etc etc.
+
+There's so many variables that you can't directly see how much oxygen is affected by the pressure/temperature across earth, as you would have to make a lot of assumptions.
+Why would you even subscribe to this subreddit if that is your attitude about learning?
+I have noticed this myself descending from high altitudes in the Himalayas and Tibet; the air you are breathing appears to become noticeably thicker.
+
+Regarding cities vs the countryside I would suspect lack of pollutants outside the city make the bigger difference. I have also noticed the difference entering/ leaving heavily polluted cities (Tehran, Kathmandu) but in both cases the air was easier to breathe at higher altitudes outside the city. The mountains around Tehran are dotted with little shisha cafes where people go to escape the pollution in the city. The Kathmandu valley is surrounded with low ridges on top of which the air is noticeably better. The pollution just sits in the valley; you can actually see it from the ridge.
+Though the ozone in this case forms because of reactive trace-gas emissions (e.g. NOx) + photochemistry, rather than "oxygen" emissions. 
+
+The amount of ozone that forms is negligible compared to the source amount of oxygen in the atmosphere: 80 ppb of ozone (0.000008%) is high [e.g. [here](http://www.epa.gov/air/ozonepollution/pdfs/201107_OMBdraft-OzoneRIA.pdf), p12], whereas the atmosphere is ~20% molecular oxygen.
+
+Summary:
+Low oxygen concentrations on the body will just make you pass out.
+So oxygen levels vary in cities, but it's not significant enough to affect human health?
+Altitude makes more difference than vegetation.
+Early in earth's history (as I would define it), there was no life at all, and very little oxygen.
+It seems logical that it would be.
+I would be careful with phrases like 'early in earth's history.'
+The products of oxygen combining with other things, i.e.

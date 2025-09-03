@@ -1,0 +1,17 @@
+Original Response:
+What makes one knife sharper than another knife, and is sharpness quantifiable?
+hardness
+Is the hardness dependant of the shape of an object? Since I am pretty sure a steel marble for instance isn't really sharp, while a steel knife is.
+You can make a perfectly sharp knife out of mild steel, it just won't stay sharp.  Glass is incredibly sharp, but it isn't very hard.
+glass is harder than steel
+obviously width of the blade is important
+Exactly, so how does that factor in determining how sharp something is? Why is one steel knife sharper than another steel knife?
+[Glass is harder than mild steel, the hardest steels are harder than glass](http://en.wikipedia.org/wiki/Mohs_scale_of_mineral_hardness#Intermediate_hardness)  The average knife is probably in the same range as glass.
+because its thinner and harder
+Objects in nature pretty much never have perfectly angular corners; when you zoom far enough in, you'll find that the corners are actually rounded to some degree. The sharpness of an edge is defined by the radius of its curvature - the smaller the average radius, the sharper the edge.
+
+This has nothing to do with how hard the material is. Hardness affects how easily the edge is dulled by wear, but it has no bearing on the *shape* of the initial edge.
+I see, that sounds very logical, thank you.
+
+Summary:
+glass is harder than steel.

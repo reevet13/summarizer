@@ -1,0 +1,23 @@
+Here is the summary of up to 250 words:
+
+There are two definitions of "logic." The first is Mr. Spock logic, which is based on values and says nothing about the empirical world. The second is mathematical logic, which is used for proofs and doesn't "clearly dictate" anything.
+
+You claim that a logically valid argument can have a false conclusion even though the premises are true. However, this is not possible according to the second definition of logic. If an argument has true premises and a valid derivation, then its conclusion is true.
+
+The original argument you gave translates to predicate calculus as:
+
+(P1) ∀x∀y M(x)∧M(y)⇒G(x,y)
+(P2) ∀x∀y N(x)⇒¬R(x,y)
+(C1) ∀x∀y N(x)∧M(x)∧N(y)∧M(y)⇒G(x,y)∧¬R(x,y)
+(C2) ∀x∀y N(x)∧M(x)∧N(y)∧M(y)⇒C(x,y)
+
+The derivation of C1 is logically valid, but the derivation of C2 is not. No rule of inference has been given that allows us to conclude C(x,y). To make this logic valid, we have to add a rule.
+
+You are trying to use the above as an example to demonstrate that a valid logical derivation with true premises can result in a false conclusion. However, you cannot make it work because either:
+
+- You stick with the original argument, in which case it is false because it is logically invalid
+- Or you use the revised argument, in which case it is false because the new premise is false
+
+In neither case have you given an argument that is logically valid with true premises, yet a false conclusion.
+
+I would also point out that the correct operation of logical inference is required for your "unless the conclusion is empirically tested" to work at all.

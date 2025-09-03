@@ -1,0 +1,10 @@
+the universe had a beginning (bang)  and is constantly expanding. 
+my theory is once everything is really really far apart, gravity will pull everything back together and another bang will happen.
+We can't observe anything prior to the Big Bang, so we have no way of knowing how long the universe existed prior to that, or whether it did at all.  Whether or not the Big Bang is truly the beginning of our universe, for all practical, scientific, and thermodynamic purposes it is.  We can't observe anything before that, so we can't make any conclusions about it.  As far as any science I know of is concerned, the universe had a start.
+This is a legit theory (the "[Big Crunch](http://en.wikipedia.org/wiki/Big_Crunch)"), and a really intuitive idea, but recent observations indicate that it's pretty unlikely to happen.  The expansion of the universe is actually accelerating, the opposite of what the Big Crunch would predict (there's a lot more technical information in the Wikipedia article I linked to, if you're interested).
+The submitter is explicitly making that assumption, and asking about its consequences. 
+To answer your first question: "What does a model of the universe with no start and no end mean for the second law of thermodynamics?" I'd say "Oh, not much," because the second law is itself a model for how we think thermodynamic systems work, and making the universe infinitely old doesn't change of the assumptions that went into deriving it.
+The second law of thermodynamics (my favorite thing ever) basically states that we expect big thermodynamic systems to move towards equilibrium if they're not there, and stay there once they get there. 
+But since you're here, observing the universe, an infinitely old universe doesn't mesh with the second law of thermodynamics.  
+Another reason I don't think stat mech is the right way to think about the universe is because "in the thermodynamic limit" the fluctuations of a system should disappear, but our universe is rife with fluctuations.  
+http://en.wikipedia.org/wiki/Cyclic_model

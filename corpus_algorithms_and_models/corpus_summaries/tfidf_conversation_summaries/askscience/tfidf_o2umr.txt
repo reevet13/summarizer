@@ -1,0 +1,48 @@
+Original Response:
+[deleted]
+But what gives mass the ability to pull things towards it, what energy can it be giving off to have that effect?
+The only solidly established theory that deals with gravity is general relativity, which is a theory *of* gravity, more so than a theory that leads to gravity from more fundamental principles.
+
+There are several string theories/variants out there that attempt to explain both GR and the Standard model, but they are far from being accepted and verified.
+[deleted]
+The best theory we have regarding gravity is Einstein's general theory of relativity, which says that gravity is the curvature of space-time induced by the presence of energy, momentum, mass, et cetera.
+So in essence we have no clue but out math checks out with the place holders we have in place?
+"why" is always a tricky question with fundamental physics.  We can say with high precision *how* gravity works (in that it's an effect of the curvature of spacetime), but answering *why* gravity follows those rules instead of some other rules is a crapshoot.
+A *theory* in Physics has to do two things to be better than a competing theory :
+
+* predict the results of experiments to a degree of accuracy better than competing theory.
+
+* be compatible with other theories. For example, general relativity is perfectly fine with say, classical electromagnetism.
+
+What you refer to as the 'math checking out', is incre-fucking-dibly important, and in certain cases, *the only* criterion. Case in point : GR doesnt fit well with quantum field theories and the Standard model of particle physics, but we use it anyway, because it *works*.
+
+Physicists couldn't care less about fundamental explanations and what not, because there is not such thing. Any theory that you come up with will have postulates or axioms, and a 'more fundamental' theory simply implies a different set of axioms. If a good String theory is found, it will mean that we would then have a single set of postulates that can be used to derive both GR and the Standard model, as opposed to the two mutually incompatible sets of postulates we have now.
+
+If theory A is more fundamental than theory B, or theory A explains theory B, it means that B is a specific case of A. A has fewer assumptions built into it than B. Whether we can find a theory that requires no assumptions whatsoever (and would hence be fundamental in the sense that OP seems to be getting at) is not something I can comment on. because it doesn't seem to make sense to me.
+
+A physical theory is more like a an Ikea manual than a Zen tome. It tells you what to do and gets your job done. For example, [calculations based on general relativity](http://en.wikipedia.org/wiki/Tests_of_general_relativity) are crucial for accurate working of GPS.
+What about the whole gravity wave thing is that a different throey then the warp of space time or something that goes with it
+Ok so if I understand this correctly both the Standard Model and String theory both have math that check out but they are incompatible with eachother?
+[Gravitational Waves](http://en.wikipedia.org/wiki/Gravitational_wave) are one of the many many predictions made by [General Relativity](http://en.wikipedia.org/wiki/General_relativity), which is the current mathematical framework for understanding gravity.
+&gt;Both General relativity and Standard model have math that check out but they are incompatible with eachother?
+
+FTFY.
+
+String theory is an attempt to solve this conundrum.
+Mass is a form of energy, and General Relativity states that concentrations of energy determine the curvature of space-time. Things moving through space-time will follow this curvature, giving the effect we perceive as gravity.
+Relativity explains gravity between large (macro) sized objects. The standard model and quantum physics explain the weak, strong and electromagnetic forces that act between atoms - but not gravity.
+
+When dealing with things like black holes we need to combine both relativity and quantum physics, and then it breaks because we lack an accepted theory of quantum scale gravity. 
+
+String Theory is one of the quantum gravity theories.
+
+The maths of string theory is currently not well understood. It's still a new and developing field. It has also yet to make any testable predictions. It isn't the *only* theory of quantum gravity but is rather popular with the journalists these days.
+Imagine space-time as a sheet. A heavy mass on the table causes it to bend under the mass. Stuff moving across the sheet is therefore affected by the curve in the sheet. That's basically how relativity says gravity works.
+
+The standard model says things move 'through' a field and their mass determines the 'resistance' they experience. I am not sure on the mechanism of this but the Higgs is part of it.
+
+Summary:
+String Theory is one of the quantum gravity theories.
+&gt;Both General relativity and Standard model have math that check out but they are incompatible with eachother?
+The standard model says things move 'through' a field and their mass determines the 'resistance' they experience.
+The maths of string theory is currently not well understood.

@@ -1,0 +1,10 @@
+Here is the summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+OK, I am fairly old by Reddit standards and I don't remember anything like this in my lifetime happening in the US or Canada before.
+Has it happened and I just missed it?
+[It's happened before in Boston.](https://en.wikipedia.org/wiki/East_Boston_gas_surge)
+[1992 Chicago](http://www.chicagotribune.com/news/ct-xpm-1992-01-18-9201050882-story.html)
+Every few years an apartment explodes in NYC due to gas leaks. It's not unheard of.
+I know we have random and rare explosions but evacuating 3 towns, this utility is in for a lot of lawsuits.
+
+Note: The sentences are separated by newlines as requested.

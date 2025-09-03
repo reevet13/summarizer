@@ -1,0 +1,32 @@
+Original Response:
+I have looked around and I cannot seem to find a good explanation for how the marching cubes algorithm works. Any help would be appreciated.
+Okay, here's the basic idea:
+
+If I have two points, A and B, and I evaluate f(A) and f(B)....
+
+If one is negative and one is positive, then there's a boundary between the negative and positive somewhere between A and B.
+
+So if you do with with the 8 corners of a cube, those cubes which are all the same are probably empty, so they don't break down. They are either positive or negative.
+
+Those cubes that DO have differences are broken down into 8 smaller cubes that repeat the process.
+
+When it's small enough, you add triangles to the boundary cubes.
+
+EDIT: [Here](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MarchingCubes.svg/350px-MarchingCubes.svg.png) are the triangles.
+Mabye this will help:
+
+http://en.wikipedia.org/wiki/Marching_squares
+The marching cubes algorithm is for when you have a three-dimensional data set and you want to find the "boundaries" between regions of this set. Imagine you are a doctor examining a CT scan of a patient's head, like in [this](http://www.youtube.com/watch?v=6nAW1oVUouo&amp;feature=related) video. The machine is going to give you a data set showing the density (approximately) of the tissue within a three-dimensional volume. Let's say this volume is a cube, subdivided into some number of smaller cubes in a regular grid. Each one of these small cubes is called a voxel (volumetric pixel) and has a single density value associated with it.
+
+Now it's not too hard to visualize the whole set by cutting two-dimensional slices through it and examining those (first part of the video), this is a good way of visualizing the internal structures. But it's not too intuitive. It would be great if you could visualize a certain structure in 3D by somehow "peeling away" all the outer bits that obscure your view of it. You can do this by only visualizing pixels whose values fall within a certain range. At around 20s into the video, you can see them showing only the skull by removing all the points below a certain density (they show what happens as you vary this threshold value as well). Now we have a simple binary relation in our data, each voxel is either "in" or "out." They define a three-dimensional shape by telling us which regions are solid and which ones are empty.
+
+The problem is that this is not the type of data set that computer graphics can work with directly. Really, computers can only draw triangles. For an object to be drawn, it first needs to be defined in terms of an interconnected set of triangles called a *mesh*. Note that while the object may encompass a three-dimensional volume, the mesh is just a two-dimensional surface. What the marching cubes algorithm does is give us a mesh representing the surface that divides the inside of an object from the outside.
+
+To do this, we again break down the volume into a number of cubes, where each of the eight corners of the cube is at the center of a voxel. We are going to draw a certain arrangement of triangles based on what combination of corner types we have. Since there are 8 corners and each one can be either empty or filled, there are 2^8 = 256 types of cubes we need to account for. Two of these (all eight corners the same) are either entirely outside or entirely within the object, so they aren't part of the boundary surface and don't need to be dealt with. It turns out that if you account for symmetries (geometric ones like rotations and reflections, as well as inversion between inside and outside) the remaining 254 can be reduced to just 15 distinct cases. If we make triangles [like this](http://upload.wikimedia.org/wikipedia/commons/a/a7/MarchingCubes.svg) for each of these types of cubes, then they will all fit together into a nice continuous mesh with no holes or gaps that can be drawn by a computer.
+
+That's it really, it just resolves the surface by breaking it down into combinations of a small number of known cases. TalsemGuy touches on using octrees to store and render the data more efficiently, but that doesn't directly have anything to do with the marching cubes algorithm.
+
+Summary:
+Really, computers can only draw triangles.
+What the marching cubes algorithm does is give us a mesh representing the surface that divides the inside of an object from the outside.
+Since there are 8 corners and each one can be either empty or filled, there are 2^8 = 256 types of cubes we need to account for.

@@ -1,0 +1,5 @@
+No but Ni-MH batteries lose their charge more slowly if kept cold.
+Freezer cold helps them retain a charge longer while not in use.
+You are supposed to thaw them to room temp (70 F) before using them though.
+The difference is in the self-discharge rate.
+Non-rechargeable batteries are much less affected by temp.

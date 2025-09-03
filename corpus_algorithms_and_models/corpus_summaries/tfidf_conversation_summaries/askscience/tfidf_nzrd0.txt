@@ -1,0 +1,23 @@
+Original Response:
+I was playing a game where they used this to communicate vast distances faster than light.
+[deleted]
+Well, first of all, you can't use entanglement to transmit actual data. It's difficult to explain why, but imagine you have two boxes. One of them contains a red sock, and one of them contains a green sock. You do not know which is which until you open them - in fact, it is not determined which box is which until one is opened.
+
+You send one box to your friend on another planet (slower than lightspeed; the boxes are just boxes, after all). Once it arrives there, you could open the boxes and instantly determine which box contains the red sock. But you can't control which one is which, so you can't really use that for communication.
+
+Entanglement isn't useless, though. It could be used for security - for instance, once you've opened your box and determined which sock it contains, you proceed to an ordinary telephone (which, for the purposes of this thought exercise, is not safe from eavesdroppers) and say "If your box contains a red sock, launch the attack immediately. If it contains a green sock, await further instructions." (Switch the colours around if necessary.) Since your friend can determine whether the sock boxes were interfered with before he received them, this allows you to transmit your orders with mathematically perfect security.
+
+
+This has actually been done (with pairs of entangled photons), but the equipment is expensive and prone to interference. So far, I think we've managed to send the photons over distances of several kilometres without breaking the entanglement.
+Thank you for enlightening me as it was bugging me for some time. I can't help but wonder other practical uses for it.
+To be completely fair, I've oversimplified the situation a lot. It is possible for quantum events to influence each other in a way that would require faster-than-light travel, but no useful information can be transmitted by such means.
+
+It is possible to extend the sock box experiment with a machine that, at the press of a button, makes it so that both socks are the same colour (instead of different colours). This machine can operate faster than light, and we can both have one (for two-way communication), but it cannot be used for useful communication because you do not know what colour my sock was. And there is no way for you to find out except by waiting for me to tell you at slower-than-light speeds.
+
+Still, when we both meet up and compare notes, we will have to conclude that some sort of FTL signal was transmitted. It's just that you can't carry information that way.
+How are the entangled particles produced? Suppose I intercepted one of a pair of entangled photons being sent down an optical fibre. Is it possible that I could read the state of the photon then produce a second pair to cover my tracks?
+No, because you'd need to entangle it with the other photon of the pair, which is sitting in my lab and sealed from outside interference.
+
+Summary:
+One of them contains a red sock, and one of them contains a green sock.
+It's just that you can't carry information that way.

@@ -1,0 +1,12 @@
+Original Response:
+I had a thermodynamics professor at a top rated engineering school claim that nearly all commercial jetliners can hover above the ground by firing that engines in a particular way. The only way I can see this occur is if the jetliner were operating its engines at the minimum speed in an extremely high wind. Am I missing something? We all asked him to clarify and he insisted that the jetliner could maintain a stable position above the ground without changing X, Y, or Z coordinates. Unless Boeing or Airbus recently came out with a Jumbo version of the Harrier Jump Jet, I am at a loss. Any clues?
+(pilot here) Theoretically any given airplane could "hover" in the sense that it is maintaining altitude with a groundspeed of 0, however the airspeed would have to be above the aircraft's minimum stall threshold (Vs). The only environment where you would find such conditions is in an extremely high headwind. "Hovering" wouldn't be realistic for airliners because they typically have very high stall speeds, but it is very possible (and even occasionally demonstrated) in light aircraft designed   with very low stall speeds.
+[deleted]
+This sounds to me like an engineering joke.  That is, what he's saying is true, but only for very specific conditions that do not or very rarely exist on Earth.  If a 737 needs 150mph airspeed to keep flying, and you've got a 150mph headwind, then it can fly while remaining directly over the same spot on Earth.  The catch is that 150mph winds aren't common.
+
+Engineering joke.  Tell him the one about the spherical cow.
+With a sufficiently high thrust to weight ratio you could stand on your tail, however an Airbus doesn't come close. Quite a few fighter jets can do it.
+[deleted]
+
+Summary:
+The only way I can see this occur is if the jetliner were operating its engines at the minimum speed in an extremely high wind.

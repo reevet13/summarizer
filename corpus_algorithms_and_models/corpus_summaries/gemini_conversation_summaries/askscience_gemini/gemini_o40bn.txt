@@ -1,0 +1,67 @@
+I'm not sure what you mean by "transformations of the real numbers".
+You can picture a two dimensional axis: the x axis represents the real numbers and the y axis represents imaginary numbers.
+Any point that's not on either axis is a complex number.
+I meant transformations as in in rotating, skewing, translating and so on.
+If you ask me to visualize a 3D vector, I can imagine the space around it - as if I'm holding up a pencil infront of me.
+I was wondering if imaginary numbers could be thought of as something tantamount to that, rather than simply picturing axes.
+A two dimensional vector.
+As simple as that?
+Huh.
+
+Thanks!
+If you want to go further, look up Quaternions.
+However, they have to specifically constructed.
+All operations on real or complex numbers will give you a real or complex number.
+What do you mean by skewing and rotating real numbers?
+As in, the way you are able to generate a 2D shape by drawing it on x,y axes, would you be able to do the same with imaginary numbers (both make shapes with them and transform that shape)?
+Oh, most definitely.
+Even better: rotations in the complex plane correspond to algebraic multiplication.
+
+To give you an example:
+
+The number i is defined as the square root of -1.
+You can produce arbitrary complex numbers Z like this: Z = a + b*i.
+You can visualize this number as an arrow on a 2D plane, pointing from the origin to the coordinate (a, b).
+
+So let's say I draw some number Z in this way.
+Now I multiply this number by i: i*Z = i*a - b.
+Remember, i*i = -1.
+If you draw this number in the same way as the previous one, you can see that you rotated the arrow 90 degrees counter clockwise.
+
+In general, you can multiply any complex number with a number of the form Cos[phi] + i * Sin[phi] and rotate it phi degrees counter clockwise.
+Oh!
+I understand.
+Well, that's interesting.
+
+Are rotations the only transformations complex numbers can manage?
+No, you can also scale them, by multiplying them with a real number (imagine this as making the arrow longer or shorter) or translate them by adding complex numbers (like adding vectors, you just put them head to tail).
+Skewing would be a bit hard, since you can only do that with more than 1 point.
+Since a single point hasn't got any shape to speak of, skewing it would be meaningless.
+
+Complex numbers are quite awesome.
+I'm not a mathematician, but I believe that as far as numbers go, they're the most fundamentally important set.
+There is a theorem that says you can always find n roots of a polynomial of order n using nothing more than complex numbers.
+Also, some integrals that are impossible to solve using real numbers are really easy to do by exploiting some (quite profound) properties of complex numbers.
+
+I realize that this might be a little more technical than you'd be interested in, but complex numbers turn up almost literally everywhere in the mathematics I use from day to day (I'm a physicist) and they make my job a *lot* easier, hence the luvvvv ;)
+No, not at all - be my guest.
+I'm just as enamoured with them as you are; I find them absolutely fascinating.
+
+If you have the time and patience to explain a bit about how you would solve integrals through properties of complex numbers, I'm all ears!
+[Here's a starting point](http://en.wikipedia.org/wiki/Methods_of_contour_integration)
+Ok :).
+Let's say you wanted to integrate the following function on the entire real line (that is, from -infinity to infinity):
+
+f(x) = 1/(1+x^2 )
+
+Ordinarily, you would use the fundamental theorem of calculus to do this, that is, take the primitive function F of f (in this case, F would be arctan(x)) and evaluate it between the end points.
+So:
+
+Integral[f(x), a, b] = F(b) - F(a)
+
+If you try this for the function I wrote above, you would end up with
+
+Integral[1/(1+x^2 ), -infinity, infinity] = arctan(infinity) - arctan(-infinity)
+
+Now these functions are not really well-behaved if you supply them with infinity as their argument (meaning I have no idea what their value would be).
+But if you look at the function f and think about it, there is no good reason why integrating it over all real numbers shouldn'

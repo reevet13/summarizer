@@ -1,0 +1,8 @@
+Here is a summary of approximately 10% of the text, consisting of sentences copied verbatim from the original text:
+
+Ok so say you have a giant disk, like really big, and as infinity rigid as you can get. And say you start spinning this disk fast enough so that midpoint of the disk's radius is moving at light speed.
+
+The fastest that this disk could spin would be the speed where the OUTER most part of the disk is going near the speed of light and everything interior to the outer edge would be going slower.
+http://www.reddit.com/r/askscience/comments/nysbq/what_prevents_a_large_rotating_disc_from/
+
+what you describe is the classic [Ehrenfest paradox](http://en.wikipedia.org/wiki/Ehrenfest_paradox).

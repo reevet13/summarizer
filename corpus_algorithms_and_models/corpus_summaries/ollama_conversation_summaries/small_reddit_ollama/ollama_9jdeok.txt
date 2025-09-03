@@ -1,0 +1,15 @@
+Here is a summary of the original text, extracted and returned in order, separated by newlines:
+
+Recently (in the past week) my pc has been freezing randomly and then bluescreening with this error.
+
+I've updated my GPU drivers and a few others, any more advice would be appreciated. Hopefully it's not a hardware problem.
+
+In the imgur I linked these is a breakdown of what the minidump file showed
+
+If you know, please answer the question about whether or not the 1st parameter is always a 0x1.
+
+I only have one dump file available at the minute so I can't check for the other crashes
+
+The instructions in my original reply are what I'd recommend doing to make the dump file available.
+
+https://mega.nz/#!RNA0XYKJ!rgeB-KoIadOwD6AgchC_C5lQUva-xwV5c4OVX_CEJKA

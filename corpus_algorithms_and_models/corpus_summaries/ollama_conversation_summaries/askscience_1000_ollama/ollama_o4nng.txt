@@ -1,0 +1,13 @@
+Here is the extracted summary:
+
+Nearly 3.8 million people live in LA, and like any big city there's crime but also earthquakes - is it safer to live there than near a nuclear power plant?
+
+In normal operation nuclear power plants release negligible amounts of radiation (i.e. they don't comprise a significant fraction of the background radiation you're exposed to anyway).
+
+From what I know, nuclear power plants do not release much radioactivity at all. They have extremely tight regulations and there are a few feet of concrete separating the uranium from the outside.
+
+US geological survey says about [2 people die a year in the US from earthquakes](http://earthquake.usgs.gov/earthquakes/states/us_deaths.php), with 60+ deaths about every other decade.
+
+The worst nuclear accident, excluding Chernobyl, that is well known is Fukushima. Wikipedia has two sources placing suggesting between 100 and 1000 cancer related deaths can be expected.
+
+With the level of disaster to trigger Fukushima, I'd rather live near a reactor than an earthquake zone.

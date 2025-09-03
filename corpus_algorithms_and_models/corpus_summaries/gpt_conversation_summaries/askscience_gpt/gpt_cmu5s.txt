@@ -1,0 +1,9 @@
+At the center of the earth, you would feel weightlessness, because the mass surrounding you would be pulling on you equally in all directions.  
+Ok, this is a little different. The simple answer is: Not that you would notice.  
+You can use Gauss' Law to calculate the strength of gravity at a particular radius *r* from the center of the earth. You'll find that gravity increases linearly from *r = 0* to *r = r_e*, the surface of the earth, and then decreases quadratically as you move off into space.  
+The answer to your question is that the ball would accelerate *slower* than 9.8 m/s^2.  
+You would experience less gravitational force, so things would fall slower.  
+[Gauss Law](http://en.wikipedia.org/wiki/Gauss%27s_law_for_gravity) (as Quantumtroll said), basically says that you are only affected by mass radially inward of your current location, if the mass is distributed with a spherical symmetry.  
+This assumes the earth is uniformly dense - which it is not. In fact, most of the mass is contained with in the dense core, and by digging a hole you are moving yourself closer to the core.  
+So, we can see that while a uniform density earth would imply decreasing gravity with depth due to Gauss's Law, the actual earth exhibits increasing gravity with depth for depths less than 1/2 earth radius because of the high density core.  
+The end result is of course the same at the center: zero gravity.

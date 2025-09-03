@@ -1,0 +1,29 @@
+Original Response:
+I'm interested in it as a meditation aid and for concentration training, as well as just for personal interest. Is it actually likely to be useful for this purpose, and what limitations should I be aware of?
+
+[Link to the actual product](http://www.neurosky.com/People/WhatWeDo.aspx)
+
+[A guy talking about it.](http://www.youtube.com/watch?v=1tr4CjtGtvg&amp;feature=related) At the beginning of the video in the background you can see the sort of output it gives.
+Hey I have used one of these and I am part of a group engineering and open hardware EEG. I can tell you it shows very generalized data which is fun for trivial tasks and biofeedback, but it isnt as versatile as something like the Emotiv headset. If you have any technical questions I can help. I am more the hardware side than the brain science side. The Neurosky only measures the scalp in general and cannot differentiate any specific areas and to be quite honest it is amazingly uncomfortable.
+Thanks! The main reason I want it is for biofeedback, so if it will do that then it's probably all I need. I'm worried that with only one electrode the actual measurements will be overwhelmed by interference, particularly in light of this video:
+
+http://www.youtube.com/watch?v=Eif7ifwEibU
+Lol the way it works connecting it like that with the resistor will drive that instrumentation amp crazy. When it is hooked up to a person it does really well at cancelling noise. I gutted a neurosky and it has decent filter and digital signal processing takes care of the rest. Its filter method is differential though and requires a clean lead on you ear to cancel the mainline noise.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+cool, thanks for the help :)
+With any electro-something-ography, you must be careful not to over-interpret.  I work with electrical recordings from muscle, so this may not totally apply to brain recordings, but:
+
+Remember, these things tell you about where electrical potential differences occur... if you have lots of electrodes you can be quite specific about where &amp; how much difference.  With only one electrode pair &amp; a huge space between them, this is exceptionally non-specific.
+
+In the muscle, the majority of the surface EMG signal is achieved by the first 40-50% of muscle force.  Going from 50% to 90% of contraction force might increaes the signal by only 10-20%.  In some cases, activity may go up, but the signal may actually be reduced.  Because of this, global EMG recordings are only used to make very broad statements about what's going on.
+
+I would be hesitant to tell someone that a single electrode recording actually says anything about "how hard they're concentrating"
+We aren't measuring potential difference per se in an electro encephalagraph. So the difference isn't measured from electrode to electrode. Instead we compare the electrode to ground to find the frequency at which the neurons are firing. The second electrode here is only providing a non neurological body signal to use during comparative elimination of noise. It is connected to the ear because the ear is very silent in terms of neurological signals.
+
+Summary:
+Is it actually likely to be useful for this purpose, and what limitations should I be aware of?
+The second electrode here is only providing a non neurological body signal to use during comparative elimination of noise.
+So the difference isn't measured from electrode to electrode.

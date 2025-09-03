@@ -1,0 +1,23 @@
+When a light ray travels from air to water (e.g. shining a flashlight in a glass of water), it is traveling at a velocity of 3.0 x 10^8 m/s (c in air). As soon as the light hits the water, the speed of light drops because the water absorbs the light. (c in water < c in air). Let's assume that the same light ray is reflected from the water and back to air. When the light travels back into the air, the speed of light comes back to 3.0 x 10^8 m/s (c in air). That increase in velocity requires a certain amount of energy. Where in the water is the energy coming from in order to speed the light back up to the speed of light in air?
+
+No energy forces it to change speed. The photon doesn't lose energy due to refraction. Additionally, a photon doesn't change speed, the wave propagation speed does.
+
+The speed of propagation of electromagnetic waves is dependent on the electric permitivity and the magnetic permeability of the medium in which the light is travelling, though, again, the photon always travels at the same speed
+
+What seems to slow down light in a material are it's interactions (absorption/emission) with the atoms of that material. Light is traveling at c between those interactions.
+
+The speed of a photo is always c.
+
+The speed of propagation of light, can be slowed.
+
+What this means is that while photons always travel at c, the prorogation of light can be slowed down.
+
+Light only has one speed, regardless of energy. The energy of a photon is in its frequency: the higher the frequency, the greater the energy.
+
+If you prefer to think of the light in terms of photons as waves and not particles then it gets even easier. A photons energy is dependent on its frequency which doesn't change when it enters the water. Both the speed and the wavelength change in such a way that the frequency is constant. The fact that the energy of this wave does not depend on speed is actually common across waves. A louder sound does not move faster, neither does a higher sea wave.
+
+When the velocity changes, the wavelength changes as well, leaving the frequency the same. Since the photon's energy depends on its frequency, the energy remains unchanged.
+
+The speed of light varies according to the medium it is in. The speed of light in a vacuum ≠ the speed of light in water ≠ the speed of light in ice.
+
+The speed of light is always constant. It just gets absorbed

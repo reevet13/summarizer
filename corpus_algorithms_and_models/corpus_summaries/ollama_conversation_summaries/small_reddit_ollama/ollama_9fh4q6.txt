@@ -1,0 +1,17 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+They're based on the byte size of the transaction, which is larger per BTC when your balance comes from many small transactions.
+
+The transaction in the OP was only that cheap to make because that balance came from one single large transaction.
+
+Right but it's still cool to see examples of transferring huge sums instantly for pennies, potentially cross border, with no trusted third parties involved.
+
+That's the whole point, to prove that transfers of data are just a matter of bytes.
+
+Maybe the central system's bandwidth is so lousy that it legitimately costs much more for the extra few bytes of data when you send larger amounts of $.
+
+How do you know that? You can't say that without knowing exactly who to whom and for what that transaction was made. It could have went from or to a centralized exchange.
+
+You can also send that much USD to a centralized exchange, but you're going to have to go through a trusted third party. Something that you don't have to do when it's sent as BTC.
+
+At this point, is anyone even remotely worried that his 1sat/byte transaction won't go through in an hour?

@@ -1,0 +1,36 @@
+Original Response:
+I was reading this thread http://www.reddit.com/r/AskReddit/comments/o3k5q/hey_reddit_what_is_the_scariest_unexplained/c3e48s4 and I am wondering the same thing now.
+[deleted]
+It's a [common misconception](http://www.smbc-comics.com/index.php?db=comics&amp;id=2475#comic) that gravity is an unexplained phenomenon. Sure, there are aspects of it that we haven't figured out yet, but our current theory, the general theory of relativity, describes all relevant phenomena very well. Remember that the goal of theoretical physics is to explain and predict experimental results, not to provide qualitative descriptions. In that regard, it does quite well.
+
+Anyway, gravity (as it's commonly experienced i.e. heavy things moving towards each other) is a consequence of the fact that things with energy (including massive objects) induce curvature in the...let's call them paths of least resistance...through spacetime (the technical term is geodesics). Things follow these geodesics, so their paths are influenced by the presence of other massive objects.
+
+The next question you might ask is "well WHY does energy curve geodesics" to which I reply that any explanation for that could itself be met with "well WHY does blablabla"  in which case it's turtles all the way down.
+[deleted]
+I wouldn't agree with you on endlessly asking another 'why' question if you answered already one. We don't know why gravity works and your answer is leading to 'energy curves geodesics' which is not an answer. You just gave us another question.
+
+Or maybe I have the mount-stupid knowledge of the topic :)
+Why do things fall?
+
+Because massive objects attract each other? (Newton)
+
+Why do massive objects attract each other?
+
+Because massive objects have an energy density which induces curvature in geodesic paths (Einstein)
+
+Why does energy curve spacetime?
+
+Because (let's say; physics hasn't gotten here yet) doing so minimizes the area of the worldsheet of a spin-2 massless string excitation. (Green, Schwarz, Witten, etc)
+
+So perhaps you could say that's the final answer, but generally the more we find out the more questions are revealed.
+Sure, but I'd wonder why minimizing the area of the worldsheet of a spin-2 massless string excitation is the way nature decided to accept as the "right" way. It really *is* turtles all the way down. Or rather, you will eventually find a turtle that is outside the realm of science.
+&gt; things with energy (including massive objects) induce curvature in the..
+
+Is it possible that two objects with same mass generate "curvatures" of different strength? Or "curvature" = mass?
+If they have different shapes.
+
+Summary:
+Because massive objects attract each other?
+(Newton)
+
+Why do massive objects attract each other?

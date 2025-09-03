@@ -1,0 +1,38 @@
+Original Response:
+Is it because they have more efficient bodies for processing food than adults? Maybe it has something to do with the fact that they are growing and so maybe they are naturally more inclined to exert themselves physically to promote proper muscle growth? Or is it an illusion that kids have more energy and really they go to sleep earlier and spend their energy in a shorter amount of time?
+It may not be the only reason, but physical activity is generally cheaper for smaller animals than for larger ones - loosely, the energy required to move your body depends on its mass, which scales with the cube of size, whereas the muscle cross-section doing the moving scales with the square. This is the same reason why e.g. fleas can jump distances that would be utterly ludicrous if scaled up to human dimensions.
+
+[edited for clarity]
+True, but it seems like it degenerates from age rather than size - think about a dog that is 1 year old - it is physically the same size as a dog that is 10 years old, but the younger one is probably more energetic. I think it must have something to do with the muscles themselves.
+I have wondered about this too. I can see there being an evolutionary advantage in a play instinct because children must learn motor skills, socialization, etc. Children do require a lot of sleep (and sometimes a nap), so maybe the lots of energy + lots of sleep gives way to moderate energy that gets you through a whole day + moderate amounts of sleep as we mature.
+My belief is that they redline because they don't know better. After a few years of scraped knees, burnt fingers, bumped heads, they tend to learn to envision the consequences of their immediate actions. This slows them down.  By the time you get old, you become a zen master of consequences, and don't do anything.
+
+TL:DR Young - skip and run because why not?; Old - I don't even want to think what that will do to my knees.
+Maybe I'm being a bit prejudiced here, but we're generally propping our children full of sugar and caffein these days; how could they not be "more active" ?
+
+I'm not convinced you'd see the same thing from a child living on a diet actually balanced for children.
+The "not thinking about consequences" not only frees up energy for play, but it also acts as an energy sink for the adult monitor who is trying to prevent any significant damage.
+
+Inline with this is that adults keep energy reserves (eg I need to be able drive home and fix dinner) while children just play until they have nothing left
+Sugar doesn't make children more active. http://www.ncbi.nlm.nih.gov/pubmed/2666476
+That is not actually how sugar works in the body.  Here are some articles another redditor compiled.
+
+http://www.reddit.com/r/AskReddit/comments/n9nx2/whats_a_fact_you_know_that_almost_everyone_is/c37drvn
+I haven't said anything about a sugar high, that's a different matter. Sugar, however, **is** a quick carb, which gives you an infusion of energy after a short onset.
+well as you get older your metabolism drops, bones lose density, muscles weaken from inactivity, and the brain becomes less responsive. all these will affect physical and mental aptitude.
+I Agree, and like you mentioned caffeine would certainly do the same. I read the words propping our children full of sugar and took it to mean a sugar rush was causing the energy level.  I, however, having worked with children for years believe that even a child with a balanced diet exhibits much higher energy levels than an adolescent or adult.
+Yes, I am certain. Hell, I have psycho-neutrition-freak parents, and I know I could be a handful as a kid too. I just think some parents add to the problem.
+I think that comparison is a little off. 10 years old for a dog is pretty old. Some larger breeds only live 8-10years so if that were a person you're comparing a teenager to someone in their eighties.
+Well that's exactly the point in the comparison - they have around the same body mass, only differing in age.
+&gt;muscle cross-section doing the moving
+
+Are you saying only the outer area of a (say) cylindrical shaped muscle provides the actual work and not the entire volume?
+I'm not sure what you mean by "outer area" - the cross-section in your cylindrical case would be the area of an an ideal circular slice, i.e. pi times the square of the cylinder's radius. See [here](http://en.wikipedia.org/wiki/Muscle#Physiological_strength).
+
+There are other two-dimensional constraints on muscular effort as well, e.g. the strength of a muscle's anchor to the skeleton is necessarily a matter of area, rather than volume, since it's the contact surface between two volumes.
+
+Summary:
+I think it must have something to do with the muscles themselves.
+That is not actually how sugar works in the body.
+I think that comparison is a little off.
+I have wondered about this too.

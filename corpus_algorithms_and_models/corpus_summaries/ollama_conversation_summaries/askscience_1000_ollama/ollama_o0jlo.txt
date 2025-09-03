@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+Additionally - Is there any other work the engine would have to do to compensate for air resistance?
+
+I imagine the air resistance when accelerating would be the similar to that when pulling away in a calm.
+
+In a vacuum there would be no air resistance.
+
+If we are not considering the acceleration up to the speed of the tailwind (that is the car is suddenly placed in the air) and that all the air molecules are traveling in the same direction and speed as the car.  Then the air relative to the car will be stationary and air resistance will be zero.
+
+You would be neglecting the small amount of air resistance from the treads of the tires as they spin.

@@ -1,0 +1,3 @@
+Yeah, most computational fluid dynamics (CFD) programs are ridiculously expensive.
+A Linux distro specialised on modeling.
+Ha! I didn't figure any flight sims would actually care about model shape.

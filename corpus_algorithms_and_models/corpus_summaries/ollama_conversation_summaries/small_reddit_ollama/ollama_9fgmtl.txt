@@ -1,0 +1,9 @@
+Here is the summary of about 10% of the text, up to 250 words:
+
+Hit Shift-Tab in game to open the Steam overlay.  All the way down at the bottom is a button that says "Web Browser".  Open that and then go to either izurvive.com or https://dayz.xam.nu/.  Either of those are good maps updated for 0.63 that will help you navigate the world.
+
+Do you know if there's a way to place Steam Overlay on another monitor while playing?
+
+Not sure... But why not just open it on a browser if u have another screen?
+I usually do that, but I'm searching a solution to not "exit" the game everytime I need to move the map.
+Not sure if you can do that with the Steam overlay but you could always do the same thing with a regular browser window, like Chrome or Firefox, and place it on your second monitor.

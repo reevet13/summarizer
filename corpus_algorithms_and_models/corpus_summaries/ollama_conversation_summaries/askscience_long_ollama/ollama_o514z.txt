@@ -1,0 +1,27 @@
+Here is the extracted summary:
+
+Tried to google it but didn't know exactly how to word the question to get a legit answer.
+
+Also, are there some objects that glow longer than others? 
+
+To answer your second question, yes, different phosphorescent molecules exhibit different lifetimes and quantum yields.
+
+Yes, but it depends on your toy.
+
+If its a glow stick then it is caused by chemiluminescence. A chemical reactions that produces mostly light and little heat.
+
+If it lights up in the dark time after time then the effect is called phosphorescence. These molecules absorb/emit light very slowly.
+
+I have a ball we use to play fetch called "buddy glow ball" and I like to put it on the lamp lightbulb but I tend to forget its there (the lightbulb never gets too hot).
+
+So, the things that make a glow in the dark toy glow are called phosphors. That's a generic term, but the most common one is Zinc sulfide with a 5 ppm copper activator.
+
+When you leave the toy in the light, the energy is stored in a crystalline lattice. Closed system, photons flowing in and out, it should be pretty much permanent, right?
+
+I think your SO's concern is that if you leave it next to the lamp for so long, you're degrading the molecule for no gain, as it is likely fully "charged" - meaning the group of molecules have been excited to some steady state where the number of excitations matched the number of relaxations.
+
+You can test this, if you have another of these toys, by keeping one half lit for a long time (a week? a month? something) and covering the other half, then seeing if you can notice a difference in the brightness of the two sides after a uniform charge.
+
+I think your SO's concern is that if you leave it next to the lamp for so long, you're degrading the molecule for no gain, as it is likely fully "charged" - meaning the group of molecules have been excited to some steady state where the number of excitations matched the number of relaxations.
+
+Yes, your SO is right in that photobleaching (or phosphor degradation) is a real phenomenon and can cause your ball to lose its glow (as more and more molecules are rendered inactive).

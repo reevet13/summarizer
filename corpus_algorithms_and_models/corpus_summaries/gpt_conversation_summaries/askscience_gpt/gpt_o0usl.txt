@@ -1,0 +1,7 @@
+Light carries energy. Well the sun on a bright day runs at about 140 mW/cm^2 A bright laser pointer capable of damaging your eye has an output of &gt; 10mW. With an average focal area point of about 2 mm^2, so 5 mW/mm^2 or 500 mW/cm^2... (and that is actually focused on the retina to a point about 100 um^2)
+
+And it's quite possible to perfectly ordinary, run of the mill laser pointers with outputs of 50 mW, so that brings out peak light density to 2500 mW/cm^2 ....
+
+Now what is actually happening? Well that depends somewhat on the wavelength of the light. At the bottom end of the power intensities needed to cause damage, Infrared laser light will cause photocoagulation, (i.e. blood cells will be what heat up, cook, and clot). Visible light causes a delayed death of retinal cells, though not actually the photoreceptor cells, but the layers of neurons above them. I do not believe we know exactly, but it seems very very likely it again, is due to simply cooking proteins and DNA, and it targets the neurons first because they are the first thing the light hits.
+
+With higher intensity light, everything gets cooked. You get water boiling, which destroys things.. It's a bad scene.

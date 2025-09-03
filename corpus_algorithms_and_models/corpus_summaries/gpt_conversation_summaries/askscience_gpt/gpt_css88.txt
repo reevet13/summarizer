@@ -1,0 +1,13 @@
+I suggest you watch the episode "[Do You Know What Time It Is?](http://www.bbc.co.uk/programmes/b00fyl5z)" from the BBC Horizon series. It explains the history of our view of time.
+
+For many systems we have equations without a time component, and I guess you could pretend that time doesn't exist for the purposes of that analysis, but I don't think it'd gain you anything.  For one, a lot of those equations describe steady-state conditions that are only reached after a sufficient amount of *time*, so the very system that the equations describe only exists because something's been going on for some time.
+
+TL;DR: One of the most basic equations we have is Newton's 2nd Law: f=ma.  We see this in action because acceleration is the second *time* derivative of position.  Ergo, we can't have grade-school physics without time.
+
+Let's take a step back and think about this relativistically.  Time is a fourth dimension.  Photons travel only in spatial dimensions and have zero velocity in time.  Matter particles travel at some velocity through both time and space (with a sum total of *c*, of course, and the time component is positive).  Antimatter does the same, but with a negative time component.
+
+As you travel faster, your subjective experience tells you that time is slowing down for the rest of the Universe. As you hit the speed of light, the equations all fall over, and time stops existing. So, from a photon's point of view, time doesn't exist.
+
+If you sat on a photon and looked at the universe around you, you'd sees a universe standing still. The universe around you would move only in space and not in time. 
+
+But if you look at the Lorentz equations, then from the photon's point of view the outside Universe is infinitely length-contracted too. It's not just the time dimension that vanishes, space does too.

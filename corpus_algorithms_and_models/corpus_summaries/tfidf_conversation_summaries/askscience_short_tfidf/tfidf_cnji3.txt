@@ -1,0 +1,15 @@
+Original Response:
+[deleted]
+Information theory is largely about encoding and decoding complex data across different domains.  
+
+I don't know much about insect biology, but my understanding is there isn't much comples data being transmitted...mostly 1 bit signals like "food present" or "come have sex with me".
+
+It is not entirely clear to me how you would apply information theory in this situation.  Perhaps you could elaborate a little more about the situations you believe information theory would help you?
+I'm not totally sure myself, as I don't know much about it. I guess I'm interested in how information is transmitted, how info is perceived and transmutates into behavior, the filtering of noise to extract "relevant" information from one's environment, shit like that. And looking at these things from a broad taxonomic standpoint, not a narrow "the compound diffuses through the waxy cuticle of the insect's sensilla and is picked up by such-and-such protein etc" or some other taxonomic equivalent. 
+
+&gt;Information theory is largely about encoding and decoding complex data across different domains.
+
+Like I said, I'm not totally sure what I'm looking for, but this sounds like something of it.
+
+Summary:
+Information theory is largely about encoding and decoding complex data across different domains.

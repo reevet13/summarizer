@@ -1,0 +1,15 @@
+Here is the extracted summary in approximately 10% of the original text:
+
+If I have two points, A and B, and I evaluate f(A) and f(B)....
+
+If one is negative and one is positive, then there's a boundary between the negative and positive somewhere between A and B.
+
+So if you do this with the 8 corners of a cube, those cubes which are all the same are probably empty, so they don't break down. They are either positive or negative.
+
+When it's small enough, you add triangles to the boundary cubes.
+
+The marching cubes algorithm is for when you have a three-dimensional data set and you want to find the "boundaries" between regions of this set.
+
+Now we have a simple binary relation in our data, each voxel is either "in" or "out." They define a three-dimensional shape by telling us which regions are solid and which ones are empty.
+
+What the marching cubes algorithm does is give us a mesh representing the surface that divides the inside of an object from the outside.

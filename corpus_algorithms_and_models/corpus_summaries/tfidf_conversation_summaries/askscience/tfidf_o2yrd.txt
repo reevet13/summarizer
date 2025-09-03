@@ -1,0 +1,21 @@
+Original Response:
+My question is pretty straight forward.  Why don't we build hydroelectric generation stations all along our major rivers, as opposed to burning as much fossil fuels as we do?
+
+Is it simply a infrastructure/financial thing, or is there a scientific reason for why this isn't feasible?
+Hydroelectric power is based on gravity moving water down, creating pressure to turn generators. The total amount of energy is based on only one thing: the height difference between where the water falls initially (say, a mountaintop) and where it ends up (the sea). Whether you use that height difference in one big dam or many smaller dams, there is a limited amount of possible drop. Thus a given river can only support so many dams.
+
+Add to that the need for the surrounding geography to be useful, and nearly all the viable hydroelectric sites in the US are already occupied.
+It is indeed possible.  Take a look at the [dams in the Columbia River watershed.](http://en.wikipedia.org/wiki/List_of_dams_in_the_Columbia_River_watershed)
+There are many problems with hydro that are not widely known or thought about in the public eye.  
+
+For example, the most straight forward one is the flood area.  This can cause significant damage to ecosystems and will lose significant amounts of carbon-uptake from vegetation.  For example the reservoirs in the columbia river watershed have reduced carbon uptake on approximately the same order of magnitude as the carbon produced by the alberta oil-sands.  I don't have the sources for this handy, but I recently wrote a paper comparing impacts of hydro to oil-sands.
+
+Another huge issue (and my area of research) is the discontinuity in allowing fish to migrate freely through the rivers.  Fish passes (such as fish ladders) are currently very ineffective.
+
+There are many cases where a significant amount of people must be relocated where the landscape is more flat as the flooded area will most likely encompass many smaller communities, such as the case with the hydro projects in Quebec. 
+
+Just keep in mind that you cannot find a 100% 'green' energy source with the current state of technological innovation.  Hydro is great but is not a perfect solution.
+
+Summary:
+For example, the most straight forward one is the flood area.
+Take a look at the [dams in the Columbia River watershed.

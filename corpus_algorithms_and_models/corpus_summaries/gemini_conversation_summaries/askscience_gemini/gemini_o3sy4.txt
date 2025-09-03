@@ -1,0 +1,3 @@
+Let's say I'm accelerating at a constant rate of 1 km/s^2 and my current speed is just 1000 km/s less than the speed of light.
+At this speed, the factor of change I'm feeling is roughly 12, meaning 1 hour to me is about 12 hours to the observer (Could be wrong on this, please tell if so).
+Repeat until my acceleration to the observer approaches 0.

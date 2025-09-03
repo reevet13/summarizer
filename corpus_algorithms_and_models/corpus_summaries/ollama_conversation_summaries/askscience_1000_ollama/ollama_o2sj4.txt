@@ -1,0 +1,9 @@
+Here is the summary of up to 250 words:
+
+Yes. Neither the foot nor the second were originally defined with any reference to the speed of light.
+Yes, especially since 32 feet/sec^2 is an approximation.
+31536000 seconds * 32 feet per second per second =  191127 miles per second, or about 307590 km per second.
+The speed of light is 299792 km per second. (via wolframalpha)
+That's a difference of 7798 km/s between the speed of light and the velocity you would reach accelerating at 32 feet per second for a year.
+
+Let me know if you need anything else!

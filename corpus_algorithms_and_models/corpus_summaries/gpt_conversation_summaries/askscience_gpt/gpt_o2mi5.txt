@@ -1,0 +1,17 @@
+Measure the position of a star, then measure it again six months later when the Earth has moved 300 million km, and use the change in angle to calculate distance.
+
+Things that are farther away are measured with what are called standard candles, where we compare how bright something looks with how bright that type of thing actually is.
+
+Now the doppler effect tells us that objects that go away from us emit light that is shifted toward lower wavelengths (it's the same effect that creates the pitch difference between an ambulance that is coming towards you and one that is going away. Coming = high pitch; going = low pitch. The faster it goes away, the lower the pitch).
+
+Now, if we combine this with the fact that all elements can be caracterized by the light they emit or absorb, we can look at the specter of a star, look at how much shift if exhibits from known elements (mostly hydrogen I believe: this is what I was taught in high school), calculate from this how fast it is going, then from this calculate how far it is.
+
+Our most reliable standard candle for extragalactic distances is a supernova 1a.
+
+More generally there are relationships that have been discovered between things like the period of pulsations and the luminosity of a certain type of variable star.
+
+Hubble's constant is about 70+/-2 km/s/Mpc so an error of about 3%.
+
+The relative motion of galaxies is high, andromeda has a speed of 300 km/sec and is only one Mpc away.
+
+This makes Hubble's law inherently useless for anything in our local supercluster.

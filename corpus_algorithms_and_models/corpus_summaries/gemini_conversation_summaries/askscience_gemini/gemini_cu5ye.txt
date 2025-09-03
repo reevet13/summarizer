@@ -1,0 +1,14 @@
+Something I have thought about for a while.
+Given that: 
+- Every black whole evaporates in time x, where x is proportional (I guess exponentially?) to it's Schwarzschild radius
+- No matter/energy may "disappear", thus the entire mass of a blackhole will have evaporated by time x
+.. could black holes not be the ultimate energy source, equivalent in efficiency with M/AM collision (and thus having "perfect" efficiency").
+A 100 ton blackhole doesn't sound out of the possibility, and once created, would only have to be fed at a rate of 100 tons/second to keep it stable while it radiates away it's "old" mass.
+Only problem I don't have an answer for is how to create an initial B/H massive enough that we can make it stable.
+A black hole that weighed 10000 tons would be 0.01% the size of a proton.
+You'd have to keep it still so you could feed/extract energy.
+The temperature of a black hole that size would be 10000 times as hot as the hottest quark gluon plasma created in a lab and about a billion times as hot as the centre of the sun.
+Something that hot would release most of its energy as gamma rays, so you'd need a way to harness those for energy.
+I think the best bet would be to keep the black hole in a tank of water, with water constantly flowing through.
+The water is heated up by the hawking radiation and converted into electricity, and the water that does manage to get sucked into the black hole contributes to the system lasting a little bit longer.
+This radiation would result in a huge amount of outward pressure, so it might not even be feasible to feed the black hole more material.

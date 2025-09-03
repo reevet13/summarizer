@@ -1,0 +1,15 @@
+Here are the extracted sentences:
+
+* The human body is very complex and dynamic in terms of resistance so it's hard to gauge exactly what it takes in voltage to be lethal.
+* We know what current it takes through the heart to stop it, but it's rare for a voltage to be applied directly to the heart so you have to find out the *path of least resistance* that the electricity travels through your body.
+* The current can loosely be defined as the number of electrons flowing through a circuit. The more electrons you accidentally pump through your body to ground, the more they interfere with your physiological electrical circuits etc.
+* Voltage and current are linked in terms of the resistance of the body (V = IR) but really the damage is done by the electricity, i.e. the current.
+* A 20 amp circuit is capped at 20 amperes (if it gets higher the circuit burns/breaks). However, the resistance of your skin will mean that unless you touch something with extreme voltage, you will not get anywhere near that number through your body.
+* The internal resistance of the light bulb is 240 Ohm, meaning that 120/240=0.5 ampere current will pass through for an effect of 120*0.5=60 Watts.
+* While technically it was the 1A current passing through the filament that caused it to burn up, the question is in itself completely irrelevant because the 1A current could not have existed without the voltage increase (or a resistance decrease).
+* The amperage cap on the fuse of the circuit is completely irrelevant because nowhere near that amount will ever pass through the filament.
+* That "it's not the volts that hurt you, its the amps" is one of the most persistent myths among relatively informed people. I regret that I arrived here too late for people to read this.
+* The reason the amperage is very low is that the static shock is jumping through the air (with very high resistance). Also contributing is the fact that they are less than a microsecond.
+* We're talking about static shocks here. You wouldn't notice a 120V static shock at all.
+* An "LD50" value for current might give us a far better idea of the actual danger.
+* The timing thing is real and I've heard it labeled the "death window." But it's not just timing of applied pulses, it also involves pulse energy.

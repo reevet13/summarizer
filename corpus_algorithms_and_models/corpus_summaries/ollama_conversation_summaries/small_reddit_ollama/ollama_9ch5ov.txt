@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+I have the basics of networking down, I've been through network+, started dabbling in cisco ios, but know absolutely nothing about networking on the scale of an ISP.
+
+So here's where the meat is, I live in an area where we have a "private" ISP, as in, not comcast or TWC or something...
+
+My question is this, how the hell did a VPN fix my issue? Is it something with their routing?
+
+I know this is a crazy long post, and ultimately, it doesn't matter, they say they know what the issue is, but I'm just supremely curious, and I really want to know what they fucked up.
+
+It seems most likely that they're load balancing multiple internet connections in order to supply enough bandwidth to all of their customers.

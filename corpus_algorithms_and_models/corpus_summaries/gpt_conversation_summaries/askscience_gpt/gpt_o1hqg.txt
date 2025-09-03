@@ -1,0 +1,27 @@
+Actually, the average speed of the ISS is around 17,000 mph.
+
+Yes, and other factors as well.   Also remember, an object in motion tends to stay in motion unless acted on by and outside force.  There are far fewer outside forces in space, than in earth atmosphere.
+
+Edit:  Also, keep in mind that you have to have enough fuel to get up to that speed, and then get down from that speed.  You are fighting a lot of friction - so heat dispersal would be a problem, etc, etc, etc.
+
+As far as the speed difference goes, travelling at 25,000 mph would create so much heat from air friction that your airplane would be liquified.
+
+The third flight of the X-43A set a record speed of 7546 mi/hr at an altitude of around 112,000 ft.  That's still experimental technology, but it was meant as a proof of concept demonstration.
+
+The main issue for planes flying at that speed is they heat up due to friction.  This heating is considerable.
+
+The Space Shuttle's re-entry speed was around 17,500 mph and also required some special protection.  It was nearly a fireball when doing that.  A plane flying at double that speed would either melt or cook the occupants.
+
+The only real way to achieve anything like those speeds is to get out of the atmosphere.
+
+This is one of the reasons why high speed aircraft operation only occurs at high altitudes.
+
+The air density (and therefore friction) at 30,000 feet is much higher than at 100,000.
+
+The big difference here is engine design.
+
+Air pressure is about 10 millibars at 100,000 feet, and about 300 millibars at 30,000 feet.  So there's a 30 fold difference.
+
+The SR71 was certainly limited by its engine tech, but air resistance is a much bigger issue than you are assuming.
+
+The point is that the ISS travels about 15x faster than the fastest thing at 30,000 feet.

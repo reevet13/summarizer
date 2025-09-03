@@ -1,0 +1,38 @@
+Original Response:
+My understanding is that relativity only applies to inertial reference frames. Is there an analog to relativity that applies to non-inertial reference frames?
+
+Perhaps a useful hypothetical example: Suppose I had a turbine. I spun the rotor until it was going fast enough that the outer rim was travelling at or near the speed of light. What physics govern this situation?
+Special relativity can still be used to do computations for that (although some of the mathematical tools of GR may be helpful)
+
+General relativity is brought in when your spacetime isn't (approximately) flat.
+
+As far as your turbine, it would pretty much have to be created already in motion. The differences in length contractions due to relative velocities between inside and outside would more or less on its own be enough to break it.
+
+EDIT: wait, is anyone allowed to answer, or in this reddit only panelists are supposed to?
+Everyone is allowed to answer, or at least that's what people do in practice.  At the beginning, there were a few isolated complaints about non-experts answering (or experts answering outside their field), but once it started rolling no one seemed to care.
+
+If you know the answer from a scientific perspective you should say it, regardless of where you got it from (e.g., being a bona fide researcher in that specific sub-field, or whether you took an intro course/read a book on that subject).  If you have no clue about something, its probably not best to guess.
+Okay, thanks. After I replied, I realized that I wasn't sure if I should or not, so wanted to make sure of that.
+&gt;The differences in length contractions due to relative velocities between inside and outside would more or less on its own be enough to break it.
+
+That's an engineering problem, not a problem with the physics of it.
+Well, it seems to be one of many ways that physics says "no truly rigid objects allowed", so it's a bit deeper than merely an engineering thing.
+
+Anyways, as I noted, it could potentially be built "already in motion".
+You can model that system with a relativistic Lagrangian.
+Everybody is definitely allowed to answer. Also, panelists of one subfield may answer questions in an unrelated subfield.
+
+The only "special" thing that panelists get is that extra boost of trust when they speak about things they know, and people with questions also seem more comfortable addressing them  specifically, so it seems like everything worked out more or less how I envisioned when I came up with the concept.
+What is a relativistic Lagrangian, explained in a more accessible way than Wikipedia?
+Basically, the Lagrangian is the kinetic energy minus the potential energy. There's an equation that takes the Lagrangian and turns it into an equation of motion. A relativistic Lagrangian just has a different form for the kinetic energy, to keep everything below the speed of light.
+Ahhh, I understand now!
+
+I've heard of so-called "Lagrange points" before, and now also see the connection (well, aside from the person after which these concepts are named, of course).
+They're not directly related, they were just discovered by the same guy.
+
+Lagrangian dynamics are a reformulation of Newtonian mechanics that takes forces out of the picture. Hamiltonian dynamics are another reformulation.
+
+Summary:
+The differences in length contractions due to relative velocities between inside and outside would more or less on its own be enough to break it.
+&gt;The differences in length contractions due to relative velocities between inside and outside would more or less on its own be enough to break it.
+Everybody is definitely allowed to answer.

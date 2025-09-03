@@ -1,0 +1,13 @@
+Here is the extracted summary:
+
+It's not that chaos pendulums are random -- they certainly aren't.  We can write down equations describing chaos pendulums.  First, the solutions aren't sine-like in behavior.  But the real "problem" is that a small change in initial conditions or a small miscalculation of starting parameters (mass, length, moment of inertia, etc...) lead to very, very different long-term behavior.
+
+In general, the idea that small changes in initial conditions (or the inability to exactly describe a system) leads to unpredictable long-term behavior is the definition of a chaotic system.
+
+Oh wow that makes sense. I've never really thought about how small things could lead to much different outcomes later on.
+
+This is why pendulums are used in devices that predict earthquakes
+
+No.
+
+1. There is currently no way to predict earthquakes

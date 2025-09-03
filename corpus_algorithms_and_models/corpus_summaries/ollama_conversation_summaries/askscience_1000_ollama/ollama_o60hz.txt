@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+Carbonated water is CO2 dissolved into water.  When the CO2 [nucleates](http://en.wikipedia.org/wiki/Nucleation) it forms a bubble, which grows in size until its bouyancy is enough to lift it off the surface and 'fizz'.
+
+Nucleation is dependent on the surface (the wiki mentions high surface area and sharp corners).  So, say a cup is scratched - it may nucleate CO2 better.
+
+This is actually used to design fancy champagne glasses that have specific etched patterns so the bubbles stream off the glass in specific spots.
+
+Keep in mind that the nucleation sites are really small, and not something you would be able to tell with your fingers (or your eyes, most of the time).  I'm thinking nano- or micron-sized defects is about the range of nucleation sites (correct me if I'm wrong).

@@ -1,0 +1,13 @@
+Original Response:
+I'm on a ski vacation with the family and they are convinced their phones are dying quicker because of the cold weather.  Is there a correlation between battery life and temperature, or are we just using our phones more?
+[deleted]
+Yes, batteries have [degraded performance in the cold.](http://www.mpoweruk.com/performance.htm)
+You will, however, not that this same link shows that they retain charge better when stored in the cold.
+Please read the [guidelines for posting](http://www.reddit.com/help/faqs/AskScience).  Assumption has no place here.
+Batteries produce energy via chemical reactions of various sorts for the most part.  Chemical reactions, for the most part, slow in cold conditions, reducing how much total chemical energy a battery contains, along with how many amps you can pull off of it over a period of time.
+
+The corollary of this is that if you heat up a battery, it will be able to hold more energy, and you will be able to pull more amps off it over a period of time because the increased temperature allows things to react faster.  Like most things though, there are other factors to consider, and heating up a battery to anything besides normal ambient temperature is probably a bad idea unless you are about to die and absolutely need more power, consequences be damned.
+I knew it! Everyone told me I was crazy for experimenting by stocking a bunch of batteries in the refrigerator!
+
+Summary:
+Yes, batteries have [degraded performance in the cold.

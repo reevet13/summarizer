@@ -1,0 +1,17 @@
+Here is a summary of about 10% of the original text (up to 250 words):
+
+I switched to a static IP, turned off my firewalls, and opened a port yesterday so my friends could play with me. It worked and all, it was cool.
+
+Terraria default port is 7777, which is what almost every server uses. That's what im using as well
+
+You should be able to change it in the server config, set it to 7778 and do the same on the router.
+
+I turned firewall off and ran a rule. just to be extra sure.
+
+Anyway I changed the server port to 7778 and connected. I then changed the open port on my router to 7778 as well.
+
+Is your IP still the same? Most residential IPs aren’t static and will change often.
+
+My IP was dynamic before i changed it to static yesterday. It is still the same as yesterday.
+
+Your internal IP within your house is static yes. That’s 192.168.x.x but I am saying your public IP very much could have changed, you can find it by going to google and typing what’s my IP

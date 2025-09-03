@@ -1,0 +1,144 @@
+Original Response:
+[deleted]
+New minds are cultures ready to be infected.  We are the sum of our infections.  Consciousness is a side effect of infections warring for control.
+i always find it strange that your brain tries, and fails to figure out what your brain in doing.
+Also suicide (i.e. a self-inflicted death lacking sacrifice for another of the community) is very strange to me. How did that little quirk not get the evolutionary boot millennia ago?
+I really don't think personality is figured out quite yet.  It's mostly measured currently - biologically - by fMRI scans showing activity in specific areas of the brain, and your different neurotransmitter levels like dopamine, serotonin, etc..  The genes you get influence these.
+
+Self-awareness, is really far out in understanding.  You're basically asking, what is consciousness, or what is the meaning of life, or how does emotion work.  The world may never know.
+Personality is really about forces, and how they act upon us:   
+Unconscious forces   
+Ego forces   
+Cognitive forces   
+Biological forces   
+Conditioning/shaping forces   
+Traits/skills   
+Spiritual/existential forces   
+Person-situation interaction   
+   
+And there are various perspectives and theories about how these forces affect us:   
+Psychoanalytic   
+Neo-analytic   
+Cognitive      
+Biological   
+Behaviorist   
+Trait/skill   
+Humanistic/existential   
+Person-situation interactionist   
+
+Sorry my answer is just a list, but it's a good starting point for things to google.
+Because your death could potentially assure the survival of your family genetics.
+Statistically, suicide is very, very rare.  Almost to the point of being evolutionarily insignificant.
+Personality is an emergent property of our neural network.
+Oooh, fun question. I'm a neuropsychologist, so my perspective is going to be fairly neuroanatomically-driven, but here goes:
+
+I think 'personality' is the term used to describe the amalgamated influence of three different forces (described below) on our behavior. That is, when we think of the 'personality' of one of our friends, we are basically weighing our knowledge of those three forces (and their reciprical interactions) on our friend, and using that knowledge to explain what our friend is doing or has done (or to predict what they will do in the future), e.g., 'subtextual is a prolix bastard who constantly blathers on about psych-related topics, so I bet she's going to write yet another tl;dr and unfortunately-parentheses-strewn comment in this thread.'
+
+I think these "three factors" are temperament (also known as 'nature'), learning (also known as 'nurture'), and the current environmental constraints (also known as the entire fields of social and cultural psychology). In more detail: 
+
+**Temperament**: 
+
+* Our innate tendency to process information in specific ways that may differ from other people - e.g., our tendency to view certain activities or situations as rewarding, aversive, threatening, etc. 
+* My perspective is that temperament is related to functional neuroanatomical or other physical differences between people, such as the size, structure, or function of certain brain regions, neurotransmitter/hormone levels, etc, which I believe is why so much of our 'personality' is genetic. 
+* Examples of innate temperament would include: people who are prone to be introverted being more dependent on processing information through brain pathways mediated by the neurotranmitter acetylcholine (rather than extroverts and their increased use of dopamine-mediated pathways when processing information), or people who are prone to antisocial behavior demonstrating underactivity of the ventromedial prefrontal cortex relative to people who are more prosocial, or people who are highly anxious demonstrating overactivity of the amygdala relative to people who are less anxious.
+
+**Learning**: 
+
+* What we have been taught, what we have directly experienced, and what our brains have learned to do in previous situations. 
+* Certainly, experience shapes personality to a large degree, in both obvious and subtle ways. Obvious examples would include if your parents reward you for acting a certain way as a young child, you're more likely to act that way than a different way as an adult. Or, if you have a bad experience with a particular stimulus, you'll behave differently towards that stimulus in the future.
+* Perhaps a more subtle example of how learning molds our personality would involve the selective pruning that occurs during early childhood, where synaptic pathways that we do not use regularly get destroyed. In other words, the neural connections that we use often get strengthened, while the connections we do not use disappear, and so what we learned, and experienced, and did, as young children actually shapes the structure and function of our brains, and in turn our future behavior, because we will keep using those early neural pathways that were established (and become less able to develop new pathways as we age, which may help explain why 'personality' becomes more stable as we get older). 
+* As another potentially subtle example of how learning shapes our personality: the brain prefers having a way to handle situations that it has seen before, so it prefers using a habitual response to having to develop a new response if at all possible. Thus, if you are in a new situation and try response A and you get a neutral to positive response (or maybe even a 'not terrible' response), you are more likely to handle similar future situations with response A even if responses B, C, or D might be more effective (e.g., that old (and incorrect!) saw about 'letting out anger' actually makes people *more* likely to react angrily in future situations, even if it is unproductive, because it's what we did in the past). Thus, our brains like to go with the known, rather than the unknown, so what we have done in the past shapes what we will do in the future. In fact, the *best* predictor of future behavior is not any specific traits or combination of traits: it is past behavior.
+* Importantly, our learning and our temperament reciprocally interact in lots of ways... for instance, your temperament may influence what types of learning situations you put yourself in (e.g., a risk-aversive person may not try out many new risky situations, and thus may become even more risk-aversive and less likely to try new situations over time). Your temperament may also influence what your first reaction to something (and therefore potentially your go-to reaction in future situations) is going to be.
+* As another example of this interaction, certain learning experiences can alter brain structure, function, and chemistry, thereby altering your personality... for instance, exposure to chronic stress elevates glucocorticoid levels, and overexposure to glucocorticoids causes neuronal changes in the frontal lobes, amygdala, and hippocampus, which will certainly affect your personality and future behavior. 
+
+**Environmental constraints**: 
+
+* Some people might lump this in with learning, above, or not consider it 'personality' at all, but for me this is a separate category. Here, I am thinking about the effect of your macroenvironment (culture) on shaping who you are and how you are likely to behave, but I am also thinking about the interaction of the effects of specific situation you are in *with* your specific temperament. 
+* For example, the [bystander effect](http://en.wikipedia.org/wiki/Bystander_effect) is a known phenomenon whereby people are less likely to help others if there are a lot of people around than if there are few people around. But the situation does not *automatically* dictate your behavior -- for instance, some people still help, whileas others might be the only one around and yet never help anyone -- the situation just *predisposes* you to act in certain ways. 
+* I think the interaction between your temperament, your previous learning, and those environmental predispositions are also part of personality. As an analogy, if your personality could be described as 'authoritarian', then I would predict that your brain and your previous learning will react strongly in situations in which there are environmental pressures to let out your inner [prison guard](http://en.wikipedia.org/wiki/Stanford_prison_experiment), whereas if you are less 'authoritarian', then I would predict that the environmental pressures would need to be stronger before you would, say, deliver a [large shock](http://en.wikipedia.org/wiki/Milgram_experiment) to someone. 
+* As a less dramatic example, I think this also helps explain how I can be both introverted in some social situations, and yet cannot stop talking in other types of situations (e.g., on reddit). 
+* I view this as a transaction that exists along a continuum... under minimal environmental influence, temperamental differences and previous experience will be the most important predictor of how the person's personality expresses itself and determines their behavior, whereas in situations with strong environmental pressures, those presses will be much more important in determining how people express their personality and how they behave. For me, this transactional perspective helps me explain both social psychology research and personality psychology research. 
+
+Shameless Plug: I'm trying to start a [Neuropsych/Psych Book Club](http://www.reddit.com/r/Neuropsychology/comments/cmoeb/would_anyone_be_interested_in_a_sort_of/), and I'm really hoping that we'll read and discuss books related to questions such as this one!
+
+Edit: Formatting is hard.
+Right well I'm not asking in the sense that i want a specific answer. I'm asking in the sense of ideas and theories out there right now, studies being done. I'm fairly competent enough not to ask something as naive as "Why are we here" and expect a direct answer.
+Oh my gosh I can't thank you enough for taking the time to write all this. People like you are why I love reddit.
+I once read that the first 20 days of our life have a tremendous impact on personality, but I can't find a cite for it.
+Ah yes. That's a good point.
+Apart from pstryder's point, "community" is not strictly who we're predisposed to sacrifice ourselves for. A gene for suicide in a situation where, on average, at least one other copy of the gene would survive, is  likely to multiply. Consider two babies, and a parent that can feed only one. A gene commanding the smaller of the two to kill itself might live on, as it's got at least a 50% chance of being present in the sibling as well.
+
+The discrimination between family and community, however, is often too costly or useless to implement, much to the benefit of modern humans.
+I didn't mean to imply that you were being naive, it's just really that far out of our grasp.  I've been studying the unconscious mind for years and I still have no clue where to even begin describing consciousness.
+From now on you are my favorite redditor :)
+
+I have few questions for you. 
+
+- I am an extreme case of introvert. I know this. I am OK with it but I also know that it is not "healthy" personality, there needs to be some kind of balance between social life and my introvert tendencies, do you have any recommendations to help me help myself?
+
+- I also have anxiety problem. I think I had this for as long as I can remember. I like to think that this has something to do with my introvertism, is there a single solution to both my problems or are they unrelated?
+
+- I am a voracious reader and I would greatly appreciate some book recommendations on psychology, social psychology, personality and self-therapy on anxiety/introvertism.
+
+Thanks!
+
+**Edit:** Some of the book I have recently read which includes [Pop-psychology](http://blogriot.com/books/). I am looking for less wishy-washy stuff.
+I'm a serious introvert myself, so this is a topic of some considerable interest to me. :)
+
+Introversion is not *necessarily* associated with anxiety, in that the traits are not that highly correlated and lots of introverts are not anxious. However, many people who are both introverted and anxious find that the two are intertwined. When that is the case, then getting better at coping with the anxiety can help you be more flexible in being introverted. There are a million self-help anxiety books, and most of them are pretty good because they are based on cognitive-behavioral principles. Personally, however, I am more intrigued by Acceptance and Commitment Therapy ideas, as described in books like [Get Out of Your Mind and Into Your Life](http://www.amazon.com/Get-Your-Mind-Into-Life/dp/1572244259/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1278809265&amp;sr=8-1), [The Happiness Trap](http://www.amazon.com/Happiness-Trap-Struggling-Start-Living/dp/1590305841/ref=sr_1_4?ie=UTF8&amp;s=books&amp;qid=1278809265&amp;sr=8-4), and [The Mindfulness and Acceptance Workbook for Anxiety](http://www.amazon.com/Mindfulness-Acceptance-Workbook-Anxiety-Commitment/dp/1572244992/ref=sr_1_5?ie=UTF8&amp;s=books&amp;qid=1278809265&amp;sr=8-5). 
+
+While we're on the topic of reading, if you haven't found it already, I'd suggest [The Introvert Advantage](http://www.amazon.com/Introvert-Advantage-Thrive-Extrovert-World/dp/0761123695/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1278809444&amp;sr=1-1) -- a great book focusing on accepting, accommodating, and even feeling pretty good about your introversion. 
+
+Introversion appears to be very genetically-based and resistant to change, so accepting being an introvert will be an important first step. Introversion is not, in and of itself, healthy or unhealthy, although when you are surrounded by extroverts and a culture that values extroversion, it sure can feel like being introverted is unhealthy. IMHO, traits are only a problem when people are *inflexible* about applying them... that is, when they can only behave *one* way regardless of the situation. When people are interested in changing who they are, I often suggest, instead, trying to change how *flexible* they are about how they display the trait they are interested in changing. 
+
+To do that, you could think about the situations in which you are less introverted, and trying to figure out what it is about those situations that allow you to be less introverted. For me, I do better in situations that are structured, familiar, and relevant to my interests -- in those types of situations, you literally cannot shut me up. So, I can be more extroverted when I'm with a small group of good friends, or when I'm meeting a new therapy client for the first time (which is structured because I know exactly what I'm going to say), or when I'm commenting on reddit, or even when I'm teaching a large class or giving a talk to a huge audience. In contrast, in a small group of people I do not know well, when meeting a new person socially for the first time, or when doing something spontaneous that would cause a lot of people to pay attention to me (e.g., something terrible like karaoke), I am not able to be extroverted. But, if I wanted to be more extroverted, I could work to make those types of situations more structured, more familiar, or more relevant to my interests. Does that make sense?
+
+Oh, and one more thing -- please join the [Neuropsychology Book Club](http://www.reddit.com/r/psychology/comments/cnvl0/invitation_to_join_the_neuropsychology_book_club/) I am trying to start... I'm hoping it will be really interesting, especially for us voracious readers!!
+First, thanks for such a helpful reply.
+
+&gt;However, many people who are both introverted and anxious find that the two are intertwined. When that is the case, then getting better at coping with the anxiety can help you be more **flexible** in being introverted. 
+
+. 
+
+&gt; IMHO, traits are only a problem when people are **inflexible** about applying them... that is, when they can only behave one way regardless of the situation. When people are interested in changing who they are, I often suggest, instead, trying to change how **flexible** they are about how they display the trait they are interested in changing.
+
+You have correctly diagnosed my problem. I am very adamant to change, there are certain things I will do in certain ways and it is very hard for me to break out of my wall of fixed ways of doing things. I am not flexible at all and whenever someone pointed out to me I would just brush it off as a personality trait that I am born with and there is nothing I can do about it. I am hoping there is something I can do about it.
+
+My introversion is so bad that I often find myself shutting myself from outside world completely. So when I say my "unhealthy" aspect of introversion I don't mean to say that introversion itself is unhealthy, I am very content with my "normal" introversion side. Its the extreme case of introversion that is made worse by my anxiety and the fact that I am not flexible, is what I consider not "normal". I don't think I have any acceptance problem with my introvert self. I would love to see a somewhat reasonable balance between my introvert side and my non-existant extrovert side. I believe my anxiety is holding me back.
+
+So my plan of action is:
+
+- Attack my anxiety issues.
+- Attack my inflexibility issues.
+- Find a happy balance with my introvert side.
+
+I will definitely check out the anxiety and introvert books you recommended.
+
+&gt;Oh, and one more thing -- please join the Neuropsychology Book Club I am trying to start... I'm hoping it will be really interesting, especially for us voracious readers!!
+
+Yes I checked it out and I just bought (*cough* downloaded) both books and I am looking forward to discussion on those books.
+
+Cheers!
+thanks for the awesome perspective! In the future, can you make your responses dumber, to accommodate folks like me?
+
+example:
+
+&gt; ...people who are prone to antisocial behavior demonstrating underactivity of the ventromedial prefrontal cortex relative to people who are more prosocial
+
+could probably be
+
+&gt; antisocial people with less activity in the risk, fear, and decision making part of the brain.
+
+Summary:
+- I also have anxiety problem.
+People like you are why I love reddit.
+- I am an extreme case of introvert.
+I am hoping there is something I can do about it.
+* I think the interaction between your temperament, your previous learning, and those environmental predispositions are also part of personality.
+I really don't think personality is figured out quite yet.
+I will definitely check out the anxiety and introvert books you recommended.
+When that is the case, then getting better at coping with the anxiety can help you be more flexible in being introverted.
+When that is the case, then getting better at coping with the anxiety can help you be more **flexible** in being introverted.
+IMHO, traits are only a problem when people are *inflexible* about applying them... that is, when they can only behave *one* way regardless of the situation.
+However, many people who are both introverted and anxious find that the two are intertwined.
+The genes you get influence these.

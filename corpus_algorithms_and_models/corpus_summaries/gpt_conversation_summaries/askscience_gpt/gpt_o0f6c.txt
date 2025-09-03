@@ -1,0 +1,11 @@
+It's actually just really hard thing to do, technologically. Uranium has to be enriched by a factor of approximately 100 (a separation of atoms that differ in mass by about 1% and literally in no other way), and every atom of plutonium we've ever seen has been synthetic. And once you have a critical mass, getting it to detonate is exceptionally difficult - it took possibly the greatest collection of scientific ability ever several years in the NM desert to develop a design that worked. 
+
+Criticality is an unstable condition, because the heat and energy generated is always working to disassemble the reactor. In a bomb, you need to hold the materials together for long enough to release all the energy within milliseconds. Whats hard is producing the fuel. To make a fission bomb, you need either U-235 or Pu-239. Both of these are really hard to get. Natural uranium is 99.2% U-238, which is not good for bombs, so it has to be enriched to at least 80% U-235. 
+
+There are [various enrichment methods](http://en.wikipedia.org/wiki/Uranium_enrichment#Enrichment_methods), all very expensive, time consuming, and requiring large facilities. If you could get enough U-235, that would be the easiest bomb to make, because all you need to do is make a gun bomb like [Little Boy](http://en.wikipedia.org/wiki/Little_Boy#Assembly_details). 
+
+The most difficult part is to get enriched Uranium. Weapons-grade uranium, or isotope U-235, is a highly unstable form that makes up less than 1 percent (.7 percent) of the concentration of the crude uranium Uranium needs to be refined to a concentration of at least 80 percent U-235 to be weapons grade. 
+
+The timing/triggering of it is very difficult. You need to have a weapon which stays subcritical and safe to handle during normal operation, but then the moment you want it to react, it must very rapidly be changed into a critical mass, and stay that way until enough energy is released to caused the explosion at a minimum. 
+
+I would argue that the entire problem to building 'my country's first bomb' is acquiring the fuel, not design. A gun type device does not require complicated physics (by current standards - remember the Manhattan project was measuring a lot of properties like fission cross sections that are now available), and requires only rudimentary understanding of ordinance and engineering.

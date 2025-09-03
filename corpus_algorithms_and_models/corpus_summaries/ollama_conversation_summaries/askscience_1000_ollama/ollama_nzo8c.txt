@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+Gravity affects water the same way it affects solid matter.
+
+Or are you asking about [buoyancy](http://en.wikipedia.org/wiki/Buoyancy)? When an object is in water the gravitational force on it is *exactly* the same. However, the water provides an extra upward force called buoyancy.
+
+The reason for this is that as you get deeper the water pressure increases due to the weight of all the water above it. Thus the water pressure below the object will be higher than the pressure above the object. This results in a net upward force.
+
+If the object is less dense than water itself then the buoyancy force is greater than the gravitational force and the object will rise.
+
+Note that all this applies to air as well.

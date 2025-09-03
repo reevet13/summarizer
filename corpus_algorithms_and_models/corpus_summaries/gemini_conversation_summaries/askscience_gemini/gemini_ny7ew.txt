@@ -1,0 +1,10 @@
+Some computer science courses seem to incorrectly imply that entropy represents the theoretical limit of compression, but that's simply wrong.
+However if you found the generating function of the pseudorandom sequence more or less equal to its Kolmogorov complexity, you have ideal compression.
+Now of course, Kolmogorov complexity isn't computable, but that doesn't mean we can't approach it, and achieve better compression algorithmically than entropically.
+So that's why we don't try to get better than entropy compression.
+They are different ideas.
+Kolmogorov complexity is defined for numbers, sequences etc.; Shannon entropy is defined for random variables.
+Entropy does not change if you apply an injective function to the variable, it cares only about *distribution* not about values.
+Kolmogorov complexity is defined for constants and it cares only about *values* not about distribution.
+Using different alphabets can get you different *numerical values* for entropy, but that's just because the units are different.
+You seem to be under impression that Kolmogorov complexity is "better" than Shannon entropy, therefore entropy is not "optimal".

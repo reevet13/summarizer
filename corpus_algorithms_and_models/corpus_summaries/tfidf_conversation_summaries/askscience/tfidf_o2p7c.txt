@@ -1,0 +1,21 @@
+Original Response:
+I was reading up on Linus Pauling's and Matthias Rath's extended theory on lipoprotein(a) and vitamin C's connection with heart disease [here.](http://en.wikipedia.org/wiki/Atherosclerotic#Causes)
+
+It made me think.  Human beings seem to have so many essential nutrients that are required for their diet, yet we are one of the most successful organisms on this planet.  Why is this so?  It seems logical to me that people who evolved "back" mutations for these enzyme would be most reproductively successful during (possibly long) periods of dietary stress.  This has clearly not been the case though.
+
+Vitamin C for instance.  We lost the enzyme to produce it supposedly 63 million years ago when we were swinging in trees and fruit was plentiful.  How come we don't have ancestors that evolved a mutation to make the gene effective again during one of the many glacial periods during the ice ages of the Quarternary Period when fruit and vitamin c was very scare?
+Never make what you can find for cheap.  
+
+Vitamin C isn't just in fruit - the young growth of many evergreen trees has plenty of vitamin C in it.  These grow just fine in iced-over environments that you would find in the ice age.
+First, in general, it's a heck of a lot easier to break a gene than it is to "fix" it, and it's possible to break a gene in such a way that it's impossible or really hard to "fix" it.  Also, while we do not really understand evolutionary "currency", manufacturing some of these substances in the body, especially at the levels some animals maintain (vitamin C levels are maintained really, really high in some animals) is energy intensive itself, so there may be pressures both for and against such an ability.  If the substance comes along in your diet frequently, the scales might be tipped quite hard in favor of losing it and keeping it lost (and note that eating organ meats of animals, especially liver and kidney, provides lots of vitamins that humans can't make but those animals can, even if a typical modern, say citrus, source of vitamin c is not available).
+
+With respect to your specific example, it's interesting to note that a lot of different animal lineages have lost the ability to produce vitamin C totally independently, indicating that there may in fact be some advantage to it if you can get enough in your diet, and that some branches coming off those groups *have* reacquired it--humans just aren't one of them.
+This is an educated guess essentially along with some actual knowledge:
+
+Genes can be lost for many reasons, they may be pleiotropic and cause detrimental effects as well as beneficial ones so offer very low survival rates which would mean selection for the gene would decrease and it would eventually be "lost". Other reasons could be that the gene in question isn't any harm but it is in linkage disequilibrium with another gene that is detrimental. Due to the genes being close they will rarely get separated during chiasmata formation and will thus, as above, be selected against and be lost. If a gene offers no advantage, as in the case of vitamin C production because vitamin C is readily available and consumed because it is associated with high energy food such as fruit, then there will be no advantage for it so it will either eventually become fixed or lost, (or close enough).
+
+As a side note, though Linus Pauling has won 2 Nobel prizes, his work on vitamin C is complete ****. I hope you were reading because you were pointed in that direction by a science critic. Also Matthias Rath is probably worse.
+
+Summary:
+Human beings seem to have so many essential nutrients that are required for their diet, yet we are one of the most successful organisms on this planet.
+Vitamin C isn't just in fruit - the young growth of many evergreen trees has plenty of vitamin C in it.

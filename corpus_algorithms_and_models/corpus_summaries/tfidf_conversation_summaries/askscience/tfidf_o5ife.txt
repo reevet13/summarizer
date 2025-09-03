@@ -1,0 +1,15 @@
+Original Response:
+if our planet was broken down into the periodic elements how alike elementally is it to others in the known universe, is there anything that sets out earth as being special.
+I am not asking about water or other compounds.
+Well, the universe is mostly hydrogen and helium and the Earth is mostly iron and oxygen.
+So it's unusual as matter, but not unusual as a rocky planet?
+This would be an accurate description of the situation. Basically the rocky planets are what you end up with if you take away the gas (H, He) from a solar composition; with the *caveat* that some of the H remains bonded to oxygen. CI chondrites, one of the types of [carbonaceous chondrite meteorites](http://en.wikipedia.org/wiki/Carbonaceous_chondrite), are often considered examples of the primordial material from which the non-gaseous parts of the planets formed.
+Just to point out, we have 3 rocky planets we've closely studied and only a handful outside our solar system. We can't be sure what the distribution is like, but we expect Earth's *elemental* composition to be pretty ordinary.
+It's only iron and oxygen by mass, because iron and oxygen are quite large. It isn't iron and oxygen by actual composition.
+So I guess my next question is, The process that left our planet with excess iron and oxygen (originally when the matter was condensed most recently), is it fairly common, would it be expected that many other planets share this elemental make-up?  And is having a elemental make-up heavy in oxygen and iron give more likeliness to having a o2, h2o cycle, and furthermore habitable for life?
+The relative proportions of silicon and iron are about the same as in the Sun, they've just been concentrated by gas loss. Observations suggest that within this part of the galaxy, [elemental abundance ratios are fairly uniform](http://ned.ipac.caltech.edu/level5/Sept01/Pagel2/Pagel2.html) (e.g., Orion nebula abundances ratios are similar to those of the Sun). This suggests that extrasolar planets in our galactic neighborhood might well have Earth-like bulk compositions. Unfortunately, this says nothing about how habitable a Earth-like a planet might be, just that the potential exists.
+my hair is a mess. and theory bores me. yupppp
+
+Summary:
+It isn't iron and oxygen by actual composition.
+So it's unusual as matter, but not unusual as a rocky planet?

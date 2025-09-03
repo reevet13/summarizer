@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+You can show particle-like properties using the photoelectric effect, which you can demonstrate using a solar panel or photodiode.
+
+Some other experiments you could look into are the Frank Hertz experiment, or maybe even the Zeeman effect. The zeeman effect is neat because you can see the lines being split on a digital camera; you just need a bulb, a magnet, and an interferometer.
+
+Entanglement is the norm, rather than an exception. As in, every particle is entangled with every other particle to *some* extent.
+
+The hard part is producing entangled pairs in coherent states, and having the finesse to observe them. If you went the optics route, you'd need a (probably argon) laser and some single photon detectors along with the crystal, and that's pretty expensive.
+
+You can do a basic quantum entanglement experiment at home? Or is this really the sort of science that's presently limited to well-funded research institutions?
+
+There's no real way to demonstrate entanglement in a garage. It's quite difficult to do in a well-funded laboratory.

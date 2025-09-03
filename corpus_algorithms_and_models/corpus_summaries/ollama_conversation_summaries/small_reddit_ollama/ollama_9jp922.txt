@@ -1,0 +1,13 @@
+Here is the extracted summary of up to 250 words:
+
+I like that you have to manually load magazines, but would it be possible for them to make it so we can just simply press R to put a new magazine into our guns? It really takes away from the action and fast-paced nature of a gun fight when I have to manually drag a new magazine onto my gun, obscuring my vision because of the inventory screen.
+
+Put the magazine on the hotbar and HOLD the key down to reload that mag.
+
+To reload a mag, put the mag in your hand, ammo on the hotbar, and hold down the ammo key.
+
+We tried but still couldn't get it to work, maybe it was just wonky that day.
+
+But still, if they want us to use the hotbar to swap mags, I think they need to give us more than four slots, because smart people will also keep bandages and tools as well as weapons down there, and four slots just simply isn't enough to also put new magazines.
+
+The R is reserved for the cycling of chamber, so mosin, shotguns etc will reload using R from the internal chamber. Also guns with magazines will discard bullets one by one pressing R. But make sure you have the extra magazine in the hotbar and not the one you have in the gun

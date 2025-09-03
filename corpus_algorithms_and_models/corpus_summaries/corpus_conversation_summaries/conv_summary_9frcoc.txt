@@ -1,0 +1,66 @@
+Original Response: 
+This will be posted on r/bitcoin and r/btc 
+
+Okay so we have gold and we have cash.
+We have this in society in today, why not in crypto?
+Yeah, we have gold, and that’s cool.
+It’s heavy and hard to destroy or steal, but we cannot pay for stuff with it.
+We also have cash, which everyone takes and is lightweight, but at the end of the day, it’s just paper.
+Let’s keep both and tone down the hostilities.
+Probably going to get shit in the comments.
+Not responding.
+Only cash in real life doesn't even claim to be anything like gold anymore.
+So why does BCH?
+Don’t ask me to explain their logic.
+In a perfect world, they wouldn’t.
+You do know the history of paper money/cash right?
+How it is connected to gold?
+I will answer your question but I find it slightly demeaning that you are questioning my intelligence.
+For a while currencies were backed by precious metals (gold) held by the government.
+It’s what gave money value.
+Now they aren’t (I think they switched to the US’s credit in the 70s), but some countries still follow this principle.
+I am not saying BTC should back BCH, but rather one is hard to move and expensive, and the other is cheaper but easier to move.
+I understand how you could’ve misunderstood that part of what I said, but that’s when the comparison stops.
+That’s on me for not explaining.
+Cheaper in what sense and hard to move in what sense?
+BTC obviously costs more than BCH, so BCH is cheaper.
+But BTC takes longer to move and has higher fees.
+A fiat currency has value by decree.
+It has value because you are forced to pay taxes with that currency.
+Taxes creates a demand that creates value.
+Bitcoin is digital gold in your comparison, but is also cash.
+To speed things up, a second layer (settlement layer) handles the cashpayments and is backed by btc/digital gold.
+You don't want two chains because you need as high a hashrate as possible on the gold chain.
+If you don't do second layer, but a separate chain with a separate hash to handle cash payments, you will take hashrate from where it makes most sense and in turn make the network less secure.
+Damn.
+You clearly know Fiat economics better than me.
+You make some good points, and I am admittedly taking only the Econ view.
+Well done!
+Cost more as in a higher price?
+You do understand the difference between price and value?
+Is silver worst than gold in your mind?
+The price doesn't really matter as you can divided as you like no?
+For instance my country accepts only 0.05, my bank accepts 0.01 and my bitcoin adress accepts 0.00000001.
+Bitcoin takes the time to move as it is setup that way.
+It is never setup the way to be the most fast, it is about security.
+Last time i send XRP it took like a second, but it isn't better than bitcoin.
+If you want you can send a LN transaction in seconds and it keeps the security from the bitcoin blockchain.
+So if you are really looking for fast transactions go ahead, it is already working.
+I think about the fee there was lately a calculation on how much the fee in bitcoin really cost per total input and it came out that bitcoin is more efficient in sending transactions for lower cost, but i'm not really into that so someone else might know more about that stuff.
+Bonus info: By doing cash payments in a settlement layer you increase privacy because the payments are not recorded on the public chain.
+You have less security, but more privacy.
+So you can buy porn, drugs and hookers without the wife ever knowing ;)
+&gt; So you can buy porn
+
+who buys porn in 2018?
+?
+i'm getting old...
+
+Summary: 
+You have less security, but more privacy.
+How it is connected to gold?
+Cost more as in a higher price?
+Bitcoin is digital gold in your comparison, but is also cash.
+That’s on me for not explaining.
+Bitcoin takes the time to move as it is setup that way.
+Yeah, we have gold, and that’s cool.

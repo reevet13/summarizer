@@ -1,0 +1,16 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+You need to figure out where they all lead to. Probably a patch panel somewhere in a closet or basement. Then you need to plug them in to a switch, then the switch in to your router.
+
+Find the patch panel and post a picture of its insides it could be home networking or could be just voip.
+
+Tf a patch panel
+It will look something like this https://i.ytimg.com/vi/RaK1TmRa7SY/maxresdefault.jpg but potentially with a metal cover on it. Likely in the master bedroom closet, garage, or basement.
+
+A switch works with the router so plug the router into one of those wall outlets and your Xbox pc etc on other ports
+
+Yep. That's your patch panel on top with an unmanaged switch on bottom.
+
+You should be able to plug one of your routers LAN ports into one of the ethernet ports in the house and the switch will make that connection available to the rest of the ports in your house.
+
+It might not be a gigabit switch, though. Will have to see model number to verify.

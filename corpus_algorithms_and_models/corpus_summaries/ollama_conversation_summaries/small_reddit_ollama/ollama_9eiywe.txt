@@ -1,0 +1,13 @@
+Here is the extracted summary:
+
+I left my lights on on my bike and then left it dead overnight. Went to jump it up, and the battery (or something) was obviously toast.
+
+The gauges were fluttering and it wasn't performing well. It was decent at first just had a couple of skips, but it got worse as I rode until it slowed down and completely died.
+
+I went down the road and bought a new battery and it did not fix the problem even after a jump, the bike idles but the dash is still fluttering and when I give it torque it sounds super weak.
+
+The battery connect on the new battery was a little bent, so its either the battery or I messed something up. Any comments?
+
+I drive a 2007 Yamaha YZF600R Thundercat.
+
+If you jumped it from a car, yes, you may have done some damage. Cars are 12v systems, bikes are 6v

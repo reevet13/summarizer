@@ -1,0 +1,12 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+Also are super sonic planes only capable of flying at very high altitudes, hoping to have the cooler atmosphere temper the heat created by such high speeds?
+
+hot air at roughly the same pressure as surrounding air goes up, yes.
+but with height, you also decrease pressure (exponentially) and decreasing pressure causes temperature to drop (that's one part of how the fridge works).
+
+However, it is slightly more complicated, since the thermodynamical state also depends on composition (i.e. weight of individual particles that constitute the gas). earth atmosphere consists of many components and in the resulting state (at given temperature and pressure profile) their concentration changes with altitude (which in turn affects the temperature and pressure)...
+
+also, the initial statement is not necessarily true.
+
+Pretty sure it's mostly the lower pressure which result in lower frictions.

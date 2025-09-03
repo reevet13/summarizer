@@ -1,0 +1,10 @@
+Original Response:
+It seems like, from an early evolutionary perspective, it would be "easier" to just get bigger, rather than to form multicellular organisms. If this is true, it also seems like multicellular organisms would only start to appear once single-cells reach maximum size. This is, of course, all going off of high-school biology.
+It's easier to become multicellular. Single-celled organisms reproduce by mitosis, and if cells were to clump together as opposed to drifting apart, they would, in theory, form a multicellular organism.
+Nope. You have a surface area to volume ratio, after a certain size diffusion is unable to adequately nourish the cell.
+Big cells are diffusion limited.  As you get bigger, volume increases at a far higher rate than surface area.  A high surface area to volume ratio is needed to pass substances in and out of the cell effectively.  
+
+[Here](http://www.biologymad.com/cells/diffusion.htm) is further reading.
+
+Summary:
+It's easier to become multicellular.

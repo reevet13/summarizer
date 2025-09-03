@@ -1,0 +1,21 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Acceleration would decrease over time as you moved away from the Sun. Your acceleration would also depend on the area of the sail; it would have to be huge to provide any decent acceleration.
+
+Specifically, it seems to me in my ignorance, that it would be a function of the method of generating force against the solar sail, whether Solar radiation, or laser from earth...etm; the area of the sail; and the total mass of the ship.
+
+It would depend on the surface area of the sail and the mass of the ship. The larger the surface area, the faster it will go and the larger the mass, it slower it will go.
+
+Start here: http://en.wikipedia.org/wiki/Solar_sail
+
+You want to read about Robert L. Forward's "Starwisp" concept.
+
+Not only do you have to accelerate the satellite but you also have to heat it and power its electronics.
+
+If you went as fast as Pioneer or Voyager you'd be something like 40K to 80K years to the next star.
+
+In short, I don't think it's at all possible.
+
+It could be 10k years or a million years... or 15 years. That part doesn't matter to me as much, since I'm not talking about human passengers.
+
+Theoretically since a sailboat can (proven) sail faster than the wind speed, you could probably get up to almost light speed, given a few thousand (tens of thousand?) or so years to accelerate ...

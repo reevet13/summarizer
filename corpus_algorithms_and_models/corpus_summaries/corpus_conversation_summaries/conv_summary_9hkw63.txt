@@ -1,0 +1,30 @@
+Original Response: 
+It appears that pre-0.15 version nodes would've caught the attempted inflation and would reject the block.
+So I think it's good to have older versions co-exist with newer ones.
+:)
+Not to mention alternative clients.
+Avid fan of btcd!
+Btcd slavishly copied bitcoin's code, reimplementing bugs along the way.
+I would bet pretty much any amount of money that if it had been built later-- after this issue was introduced-- it simply would have copied the behavior.
+Not that this is a bad way to do things: it makes it more likely to be compatible.
+For a consensus system being "fixed" creates weakness, not strength, because consistency is almost always more important than correctness.
+And they say soft forking is bad :P.
+[deleted]
+100%.
+In my mind this is why backwards compatibility is a must.
+&gt; So I think it's good to have older versions co-exist with newer ones.
+:)
+
+The top stickied post in this sub suggests otherwise.
+* https://old.reddit.com/r/Bitcoin/comments/9hkoo6/new_info_escalates_importance_upgrading_to_0163/
+I wish the alert flag was still around, because upgrade notices could be posted this way.
+I suppose other channels to communicate it are effective, but nothing beats a "HEY UPGRADE" right on the client.
+There shall be no authoritative voice in Bitcoin!!
+!
+Maybe such could be re-introduced, as a warning-filled opt-in feature requiring multiple signatures from Core devs.
+On the other hand, information about the urgency of fixing the bug / updating seems to be spreading fine.
+
+Summary: 
+Not to mention alternative clients.
+So I think it's good to have older versions co-exist with newer ones.
+Not that this is a bad way to do things: it makes it more likely to be compatible.

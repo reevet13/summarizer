@@ -1,0 +1,14 @@
+Do all elements, under the right conditions, have enough of their electrons delocalized in order to exhibit metallic properties?  
+I don't know, but here's some related stuff which makes me lean toward probably.  
+
+EDIT: Yes, all of them, judging from [this book](http://books.google.com/books?id=vHBE3Vp91-8C&amp;pg=PA188&amp;lpg=PA188&amp;dq=metallic+chlorine+gpa&amp;source=bl&amp;ots=IQof7dMa--&amp;sig=2T_0H8swGANMBD5NWk-BJ20J8qo&amp;hl=en&amp;sa=X&amp;ei=Kv4AT4jDM4Xc0QGf3vmnAg&amp;ved=0CB0Q6AEwAA#v=onepage&amp;q=metallic%20chlorine%20gpa&amp;f=false).  
+Depends on how you define metallic, however in my experience people have theorized and actually created metallic phases for quite a few nonmetallic elements.  
+
+If we call the defining characteristic of metal as the "sea" of interchangeable electrons. Then with some imagination you can imagine any element having some densely packed phase that exhibits these properties.  
+
+Anyway, there should be metallic properties for any element under the correct circumstances.  
+Indeed, is partially also a semantic issue.  
+
+There is a continuum of metallic properties across the periodic table; some elements are more metallic than others, and some are correspondingly less. As such, using the qualifier 'metallic' applied to hydrogen means that it is relatively more metallic, but also meets some kind of criteria for displaying 'metallic' behaviour.  
+
+If you have a look at the periodic table there really aren't that many 'non-metals', a quick google/wiki reveals evidence for metallic behaviour in the vast majority of them.

@@ -1,0 +1,118 @@
+Original Response: 
+Paging u/Anet_Ben.
+It seems like every boss that teleports have a chance to break, yesterday’s daily fractals is nearly unplayable for me and my teammates, my in game setting is at 1:01, and my system spec is i7-7700HQ, 16g ram, GTX 1060 (laptop ver).
+My first encounter of this issue is on Sept. 3rd, Arkk disappeared and I have no ways to dodge Overhead Smash, thankfully Red Orb from Solar Fury is still visible.
+I’m still working hard on this, it is a tough one!
+I’ve added some logging and we’re going to keep trying to reproduce this internally, haven’t been able to yet.
+Teleporting seems like another clue to follow, though I know for a fact it’s not the root cause.
+Thank you!
+Thank you for your hard work!
+Hopefully your awesome team can nail this down quickly.
+This looks suspiciously similar to a very common issue that occurs in WvW, where all veteran guard's models are becoming invisible, but the hitboxes are still there.
+It seems to affect mostly people who spend a lot of time (few hours) on the same map or are a part of many fights with big number of enemies, changing map or relogging works as a fix.
+I hope this helps.
+From my personal experience this happens very easily in Twilight Oasis compared to the other fractals.
+It happened again to me recently with a PUG where we started TO before reset and so sat in front of the final room for several minutes until we got ported in (after the NPCs phased it, lol).
+After that everything became progressively more invisible.
+At the end of the run I couldn't even see my own character.
+Other people in the party also noted same symptoms.
+Another thing to add is that sometimes instead of going invisible the models will bug into one animation/pose, or they may reappear if selected/targeted (but usually in a bugged pose).
+Not sure if that helps you at all, just thought maybe if you're trying to reproduce internally more symptoms might be useful, and you may have more success reproducing the problem in TO.
+Chiming in on this re: teleporting, as our fractal static has this problem with Arkk almost daily.
+Things like the cultist spawns or the little golems will show up, along with the anomaly you need to kill to make the bubble appear.
+I don't know if it's related, but player models will revert back to the pinkish WvW stock model \~50% of the time when party members take the final gateway to get to his arena, and that's a strong indicator that boss models will have issues.
+Usually Arkk's model won't appear at all, but occasionally he'll appear or disappear when he phases from stuff like the solar bloom mechanics.
+It was particularly bad earlier today where many of us didn't see the gladiator or archdiviner models either.
+Ben just so you know, these bugs **never** happen to my group, not once, to anybody and i tried to make it happen with a lot of things ppl said here.
+So i still think your previous idea of certain hardware/software interaction is helping this issue to appear is true.
+No wonder it is hard for you to fix this or even reproduce it, i that is true.
+Gotta hit one of the magical combo (whatever it is).
+Good luck :)
+I don't know if this is related to the same bug but today I experienced something similar at Deimos... all the squad got invisible in the middle of the fight, I could only see the health bars/names.
+I wasn't the only one with this issue, other squad members also had the same problem.
+Due to this bug I couldn't see either the green circle that teleports u up.
+My system spec is i7-7700HQ, 16GB, GTX 1060 (MSI laptop).
+edit: This bug happened just after getting teleported back with deimos and saul.
+Oh, we share the same laptop, maybe it’s the hardware / driver issue?
+Recently I updated my driver to 399.07 for battlefield 5, I will try to update/roll back my driver to see if that would fix it.
+Maybe its the Nvidia drivers... mine is 399.24 version.
+But idk...it's happening to so many people :/
+Just dropping some feedback here.
+Mai Trin was invisible for us today, Horrik wasn’t.
+The mobs that spawned during the Mai Trin fight were also invisible.
+In addition, Arkk was invisible for us today as well.
+Note- 2 player portraits in our party group ui were invisible during the Arkk fight.
+Shower thought- we the players are teleporting into the areas for these fights (from the cave through the portal for Mai and from the platform up top to the platform below for Arkk.)
+Could be related?
+It never happened to me, but it did happen to my teammates yesterday with Mai Trin and in other groups it happened too, but only a few times.
+So it's either random or it has something to do with the computers.
+The case of invisible fractal boss for me was Amala :D I blame myself for managing to dodge into my party members and moaing them (but not getting moa-d myself :)), but the invisible bug seems to be triggered by her re-appearing.
+It was.... weird.
+Video: https://www.youtube.com/watch?v=lWd0vpAVrV4
+
+p.s.
+bonus -- if you are moa-ed and moa timer expires while you're still in the air, you turn invisible, but fantom bird will continue flapping at the high point of your jump trajectory :(
+Did my first set of fractals in like 3 months yesterday and ran into this bug straight away on mai trin, then again on the last boss of deepstone.
+Honestly what a miserable experience, I think I'm staying away from fractals until this is fixed because it's just plain not fun, getting downed by something you can't even see.
+character model amount set to?
+We encountered a bug similar to this at KC too.
+The status would spawn, but their nameplates wouldnt move and the tethers wouldnt appear, and the statue itself would remain invisible.
+The Chaos endboss would also remain invisible for us and his nameplate wouldnt move.
+For the arkk fight the full invisibility only happened after we wiped once.
+I have a video of arkk too need be.
+If your allies are turning into the default bland character models, that's indicative of your game hitting the character model limit.
+Wouldn't be surprised if model limit issues is related to the invisible hitbox bugs we've been seeing.
+As Lihas already posted: This is nothing new in wvw either.
+My guildies and I have disappearing guards and sometimes even our own weapons and animation of us and other players.
+Also the portrait of party members will disappear.
+A combat tonic restores our own animations.
+only a relog helps to see guards.
+We all have this for over a year now and reported it multiple times.
+I find it sad that it got ignored there for so long and now where it gets reported in pve as well for like a month.
+we get at least some response that it is worked on, don't get me wrong I appreciate the communication.
+But it looks like wvw is dead content, if we get no communication.
+Ben, I'm not sure if this may be related but 2 weeks ago I died in Deepstone fractal spinning out on mirage of the sliding platform (had no enemy to "anchor") before final encounter and when we reached the boss, only his icon was visible, static in the middle of tiled floor, there was no model until I relogged.
+For reference, I just checked, and the model limit is on high, /u/RandommUser .
+The truly odd bit about the team members reverting to the WvW model issue is one of them will often zone in wearing their back piece but otherwise be the stock model, but that's oddly consistent.
+As for the invisible hitbox stuff, like, Arkk has been a hot mess above and beyond the models for weeks for us.
+Specifically his fan attack that sweeps the arena and knocks people away has been way out of sync with the orange evade decals that are drawn on the ground.
+We make it through, but it feels glitchy af and seems to be getting worse.
+&amp;#x200B;
+
+I just hope something cues them into the source of it all.
+I'm running a GTX 1070 with the 398.82 drivers, for what it's worth.
+Just adding my experience and what I seen here.
+Chaos boss, last one was invisible for us.
+Druid staff beam was invisible when attacking (animation played) targeting never showed up, thought it might.
+all the adds showed, you could see the AOE pull-spin mark.
+There was at least 3 of us who chimed in that it was invisible.
+I5 4770k r9 toxic 8gb ram on high settings and no post processing.
+I recently turned post processing off  and first invisible boss?
+May be a coincidence.
+I have a question, because this never happened to me until recently, do you have post processing on?
+Turned it off because shattered was too difficult on Skolvard and encountered my first invisible boss a few days later.
+I personally play with lowest graphic settings for faster loading times so it is off always.
+I'll add to this that when we did Mattias in my static the exact same happened to half the squad.
+Mattias disappeared at 40% and no spirits / storms spawned for them.
+This is a very long standing wvw bug along with 2 minute respawn.
+After getting a ticket escalated to a dev, it was determined to be an engine issue that wouldn't be fixed.
+Thanks for the info.
+Arcdps fixes the 2 minute wp issue, FYI.
+I am using a custom made PC, 3.2GhZ octa core processor, 32GB RAM, GTX 1080. is it the driver?
+has anyone found the issue yet?
+
+Summary: 
+I have a video of arkk too need be.
+Chaos boss, last one was invisible for us.
+character model amount set to?
+I recently turned post processing off  and first invisible boss?
+I have a question, because this never happened to me until recently, do you have post processing on?
+For the arkk fight the full invisibility only happened after we wiped once.
+only a relog helps to see guards.
+I wasn't the only one with this issue, other squad members also had the same problem.
+Just adding my experience and what I seen here.
+In addition, Arkk was invisible for us today as well.
+The mobs that spawned during the Mai Trin fight were also invisible.
+Mai Trin was invisible for us today, Horrik wasn’t.
+Also the portrait of party members will disappear.
+Wouldn't be surprised if model limit issues is related to the invisible hitbox bugs we've been seeing.

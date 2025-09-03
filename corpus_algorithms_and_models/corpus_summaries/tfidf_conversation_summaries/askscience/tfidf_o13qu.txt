@@ -1,0 +1,32 @@
+Original Response:
+Hello everyone,
+
+I did thermodynnamics a little time ago, and I kind of remember that there exists some sort of "thermic exchange" factor that controls the rate at which object A and object B would exchange thermic energy.
+
+I have got 3 questions about this factor:
+
+- does something like this exist ? or is it just me inventing things
+
+- is it possible to put between A and B, a third object C that would slow down the thermic exchange between A and B, beyond the effect that would be expected from the fact that you have an object of intermediate temperature
+
+- can you also put an object that would accelerate the transfer of temperature between A and B ?
+
+Thank you very much
+Yes:  two bodies in contact with each other at different temperatures will conduct "heat" (molecular kinetic energy) from the warmer body to the colder body.  
+
+The rate of transfer depends on a few things, one is the thermal conductivity of the material, another is the surface area of the two materials in contact with each other.   Some materials are excellent thermal conductors, such as metals -- that's why they feel cool to the touch; it is rapidly conducting the heat away from your skin.    Others, such as rubber, are poor conductors of heat, and will rapidly come to the same temperature as your hand. 
+
+So placing a thick sheet of rubber between two metal blocks of different temperature would vastly slow the rate of energy exchange via conduction between the two bodies.
+
+Accelerating the rate of exchange is not quite as easy because the rate of energy flow from the warmer block to anything colder is also determined by the thermal gradient inside the block itself.    Imagine block A is a really long cylinder, and block B is also a really long cylinder, but they only touch at the ends -- there will be a thermal gradient along the lengths of both cylinders, as the temperatures of the two attempt to equilibrate.   The best (only?) way to passively accelerate this process is to increase the surface area with a material with a higher thermal conductivity than the two blocks.    
+
+This is how "thermal paste" works, it creates a larger thermally connected surface area using a high thermal conductivity paste.
+Thank you for your great answer.
+
+Does this mean that thermal conductivity is a caracteristic of one material and that the thermal flow between two objects is only dependant on the conductivities of both objects, and not some sort of special combination factor between the two of them ?
+
+Like, for example, if I have an object that is made of two materials with the same thermal conductivites, it will behave, for thermic purposes, like it was made of only one material
+Thermal conductivity is a characteristic of the material itself,  see this [wikipedia article](http://en.wikipedia.org/wiki/Thermal_conductivity).
+
+Summary:
+way to passively accelerate this process is to increase the surface area with a material with a higher thermal conductivity than the two blocks.

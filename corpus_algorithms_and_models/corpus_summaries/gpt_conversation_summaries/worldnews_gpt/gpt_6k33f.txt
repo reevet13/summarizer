@@ -1,0 +1,16 @@
+The terrorist United States Government likes unsecure electronic voting machines, and unsecure ballots.  
+No, they like them because Diebold makes campaign contributions.  
+I want this to happen in the US as well. Maybe we should start a movement to demand that they change back. Anybody with me?  
+Go in, use a touch screen machine and cast your ballot. It prints you a paper ballot that you verify is correct, and you put that in a box. Then it prints you a receipt with a hash on it that you take home. The touch screen vote gets counted immediately, then the paper ballot gets counted by hand for the final count. The totals should match between the two methods.  
+The government doesn't rig elections. At least not on the large scale.  
+I logged in to say that I think this is a fantastic development for electoral politics in here in teh USA. From teh very begining, I always thought that electronic voting was sketchy at best, especially because Diebold is involved. But I'm relieved to read that teh Dutch have banned this practice. Hopefully, one-by-one, other state governments will soon follow Denmark's lead.  
+"Dutch government bans electronic voting"...  
+Bad idea on multiple counts. a) As has been explained the article it's nearly impossible to build a voting computer that will not compromise the secrecy of your vote through compromising emanations (aka TEMPEST). b) A voter-verified paper audit trail is only really useful if it is manually counted all the time, but no current or proposed system includes that, they all use the VVPAT as a backup measure, which allows for vote manipulation.  
+One of the best ways to electronically assist in the counting process is to use optically readable ballots that can be used in a traditional paper voting process and then have an OCR sorting machine that will do nothing else but sort the ballots into heaps of identical ballots.  
+&gt; A voter-verified paper audit trail is only really useful if it is manually counted all the time, but no current or proposed system includes that  
+I believe I just proposed it. But yeah, I'm suggesting that there is a manual count every time, and an electronic count every time.  
+Ireland bought these same voting machines, spent around €50 million on them.  
+You still can't get much safer than writing a name on a piece of paper.  
+When electronic voting is outlawed, only outlaws will vote electronically.  
+I'd be in favor of open-source, cryptographically signed electronic voting.  
+Online voting would be amazing-

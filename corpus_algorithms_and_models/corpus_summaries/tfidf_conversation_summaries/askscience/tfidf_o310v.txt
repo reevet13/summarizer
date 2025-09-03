@@ -1,0 +1,12 @@
+Original Response:
+Hi Ask Sceince,
+
+When designing/aligning a Michelson interferometer for imaging, how important is the beam collimation in terms of data collection? For example, when using a multimode source and fiber optic but a single mode factory aligned collimator, we will get a lot more light but the collimation will be off a little. How badly will this offset of collimation effect our data? Is it negligible?
+
+Thanks askscience!
+What is the total path of the light in the interferometer?  if you know how much of an angle we are talking, you should be able to figure out how much light you are losing.  No lasers are *perfectly* collimated.
+The factory aligned collimator has a theoretical beam divergence of 0.049degrees. This isn't including any errors that may add to that divergence. The beam path is about 40mm before it enters into our objective and through the microscope light train.
+Also the field of view of the objective is about 0.4mm.
+
+Summary:
+The factory aligned collimator has a theoretical beam divergence of 0.049degrees.

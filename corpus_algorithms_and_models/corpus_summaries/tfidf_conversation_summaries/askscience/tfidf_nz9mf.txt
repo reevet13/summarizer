@@ -1,0 +1,28 @@
+Original Response:
+To make a weak analogy:
+
+Magnetism is a strong force, detectable from even a very low-mass magnet, which is able to overcome the force of gravity here on Earth.
+
+Gravity is a weaker force, which although not strong enough to overcome magnetism even with something as high in mass as the Earth, but on cosmic scales dictates orbits and star formation and so many other things we see.
+
+Is it possible that there is an even weaker force, normally overcome by gravity, and showing so little effect that we don't currently recognize it, but that on the scale of galaxies or other superstructures in the universe, _is_ acting to effect their movements in a way not predicted by gravity alone?
+
+Or to put it another way: are we sure there is such a thing as dark energy, and not some additional low-level force which is only making itself seen at the scales where people start needing to add the idea of dark matter in order for gravitational forces to produce the right calculations.
+The possibility of more interactions than the current four described by the Standard Model and General Relativity exist, however, there is no evidence right not to suggest it.
+[Here's a paper](http://www.npl.washington.edu/eotwash/publications/pdf/lowfrontier2.pdf) that discusses a simple experiment that puts constraints on said forces.
+Wow, that's very interesting! 
+
+I would have been surprised if I was the only one to wonder about this, so it's interesting that back in the 80's a fifth force was actually postulated and so many experiments performed. I'm only about a fifth of the way into it, I may have more questions later.
+
+Thanks!
+&gt;are we sure there is such a thing as dark energy, and not some additional low-level force which is only making itself seen at the scales where people start needing to add the idea of dark **energy** in order for gravitational forces to produce the right calculations.
+
+Congratulations! You've just discovered [scalar-tensor theories](http://en.wikipedia.org/wiki/Scalar-tensor_theory) of gravity. These are quite a popular way of solving the dark energy problem, as it turns out. The idea is to modify Einstein's theory of general relativity by adding a new type of field, called a scalar field, which interacts in some way with the gravitational field. (Alternatively, you could think of these theories as having gravity mediated by a spinless particle, a scalar, in addition to the usual graviton.) This scalar would add a "fifth force" which could manifest itself primarily on the largest scales, and it's surprisingly easy to get an accelerated expansion out of these types of models. This fifth force would be experimentally constrained by the sort of experiments that iorgelschmidt linked to.
+Usual question for any beyond-standard theory: any predictions that aren't found in GR+lCDM?
+Plenty. It depends on the scalar-tensor theory, obviously - you can always tune your potentials and things to look arbitrarily close to ΛCDM, but realistic models don't always have these properties, and plenty of proposed theories have either been constrained or ruled out by, for example, fifth force experiments (like eotwash), solar system PPN constraints (measurements from the Cassini probe, for example, put severe constraints on the coupling constant in Brans-Dicke theory, the oldest scalar-tensor model), etc. Also, since these tend to be basically equivalent to dark energy with a time-dependent equation of state, and one that isn't necessarily equal to -1 today, there are plenty of ways to probe these cosmologically, in theory. Of course, in practice the theories that get the most attention are the ones that do what we want them to do (like give accelerated expansion) while staying consistent with the data to date! So they end up looking quite similar to ΛCDM at the present.
+What is ICDM?
+Lambda-Cold Dark Matter
+
+Summary:
+This fifth force would be experimentally constrained by the sort of experiments that iorgelschmidt linked to.
+I'm only about a fifth of the way into it, I may have more questions later.

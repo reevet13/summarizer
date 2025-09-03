@@ -1,0 +1,55 @@
+Original Response: 
+We have guided missiles which travel quickly and accurately... would need some course corrections for g reduction, but I don’t see why it isn’t feasible.
+It has been done, see JATO pods and the Messerschmitt 163 for example.
+The issue is that it is very inefficient for planes.
+Rockets have to carry their own fuel and oxidizer.
+But since planes by definition stay in Earth's atmosphere they can just use the oxygen in the air to burn the fuel in the engines.
+The only advantage of rockets in the atmosphere (for missiles and such) is that they can be made relatively simple and can provide great acceleration which is useful when you are trying to catch up with another aircraft.
+Ah, thank you, this makes sense, and of course great acceleration is moot when you want human passengers to stay identifiable.
+I figured it wouldn’t be feasible widely, but for flights where speed is critical, diplomatic flights, aid missions, just found it strange there wasn’t a market for that.
+For any significant distance in atmosphere it is more efficient to cruise with a turbojet or ramjet than use a rocket engine that will run out of propellant faster.
+Rocket propulsion is only really viable if you leave the atmosphere like the X-15 or SpaceShipTwo.
+Ah, ok...
+I assume that’s the non linear relation of speed and air resistance.
+Amazing that it’s actually more economical to fly higher and further, all the same.
+It's more about how turbo jets work.
+They have vastly better fuel efficiency, which is the driving factor.
+A rocket which does not carry its own oxidizer.
+Probably too simple is it not?
+This is basically what is done right now.
+That's called a ramjet if you keep it simple.
+It has no moving parts but can only work at high speed.
+If you want something that works at lower speeds you need a compressor for the air which makes it a regular turbojet.
+You can get fancy like with the SABER concept where you liquefy the oxygen out of the air before burning it but then it gets very complicated.
+From memory, the JATO units are used for some really large aircraft that would struggle to reach takeoff speed under their engine power alone with the length of runway available.
+Do they stay airborne for the flight?
+I'm not sure what you mean here.
+If something is in flight it is airborne right?
+I mean does the rocket booster separate from the plane or stay attached  for the duration of the flight.
+[removed]
+The rocket boosters are dropped shortly after takeoff, their purpose is to reduce takeoff distance, because of limited available runway length and/or because the plane is under-powered/over-loaded.
+Also minor addition to rocket advantages if i am not mistaken, air breathing engines are limited by their max exhaust velocity since they have to increase the velocity of the intake air to produce a net force.
+Rockets are not limited by this.
+[BFR](https://en.wikipedia.org/wiki/BFR_(rocket\)) plans to do that.
+So far rockets are simply too expensive and too unreliable, but that might change in the future.
+A smaller market means it gets even more expensive.
+It is not just the oxygen as difference.
+Commercial airplanes get nearly all of their thrust from propellers ("fans").
+While burning fuel in the turbine does generate some thrust it is mainly used to drive the fan.
+I guess you could used a rocket engine to drive a fan but that would be ... weird.
+&gt; I guess you could used a rocket engine to drive a fan but that would be ... weird.
+That is what they do in rockets to power the fuel pumps.
+Fuel/oxygen is burned to drive turbine blades, which then drive a centrifugal pump.
+also, all kind of US experimental X-series aircraft used rocket engines.
+With X1 (first to break the speed of sound in level flight) or X15 suborbital plane being most famous.
+Sure, experimental aircraft can get away with it.
+And it can be advantageous for some specific (and often exotic) applications.
+But I think OP was wondering about regular fighter jets or commercial airliners.
+
+Summary: 
+Rockets are not limited by this.
+Rockets have to carry their own fuel and oxidizer.
+A rocket which does not carry its own oxidizer.
+That is what they do in rockets to power the fuel pumps.
+Do they stay airborne for the flight?
+It is not just the oxygen as difference.

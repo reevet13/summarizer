@@ -1,0 +1,3 @@
+It's not negative mass-dimension, but every operator that has mass dimension &gt; 4 leads to a non-renormalizable theory.
+
+But from the modern point of view of effective field theories, nonrenormalizabilty is not really an issue (at least as long as one expects some form of a more general theory at a higher scale).

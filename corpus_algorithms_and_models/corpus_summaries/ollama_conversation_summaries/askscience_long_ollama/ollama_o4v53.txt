@@ -1,0 +1,22 @@
+Here is the summary:
+
+C6H12O6 (aq) + 6 O2 (g) → 6 CO2 (g) + 6 H2O (l)   
+ΔG = -2880 kJ per mole of C6H12O6
+
+Energy from exergonic reactions are transferred to electron carriers (NAD+/FAD,NADP+,etc) as hydrides(H-) or H radicals(H*). The energy can also be used to attach a phosphate to ADP to form ATP. ATP has high energy phosphate bonds(chemical potential energy).
+
+The article states, "Aerobic respiration requires oxygen in order to generate energy (ATP)"
+
+Heat is not used as energy. Energy from exergonic reactions are transferred to electron carriers which carry "energy". Organisms do heat themselves up and some even undergo respiration without ATP synthesis to produce heat depending on the environment.
+
+I believe cells are 72% efficient so only 28% of the energy leaves as heat. Heat is largely useless which is why cells have electron carriers which carry "energy".
+
+The energy can then be used by hydrolizing ATP into ADP+Pi. Pi is inorganic phosphate.
+
+Imagine that the ATP molecule is a spring-loaded gun loaded with a phosphate group (the phosphate are connected by high energy bonds - these represent the compressed spring's potential energy).  When the cell wants to do something, it pulls the trigger and shoots a phosphate onto whatever needs energy (the bond breaks providing the activation energy for the next chemical reaction).
+
+The engine is powered by proton motive force, i.e., by the flow of protons (hydrogen ions) across the bacterial cell membrane due to a concentration gradient set up by the cell's metabolism 
+
+In short, the energy from glucose is stored in ATP. It takes energy to make ATP out of ADP which is provided by the exergonic breakdown of glucose.
+
+And you can define energy as the ability to do work I guess.

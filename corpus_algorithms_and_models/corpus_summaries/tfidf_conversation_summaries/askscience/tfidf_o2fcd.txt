@@ -1,0 +1,349 @@
+Original Response:
+With [Andrea Rossi recently claiming to have a working, commercially viable cold fusion reactor](http://www.wired.co.uk/news/archive/2011-10/29/rossi-success), but not producing any convincing evidence to back it up, everyone seems convinced that the field of LENR in general is Pseudoscience.
+
+However, I recently found [this video](http://www.youtube.com/watch?v=VymhJCcNBBc) from the US Navy's Space and Naval Warfare Systems Command. The evidence they produce looks pretty credible to me, but I'm not an expert, so I'm not really sure if there's a fundamental flaw that I'm missing, or whether the field isn't getting the attention it deserves.
+
+[**Edit: Link to the lecture slides for those who don't want to sit through the video.**](http://bisbee.net/wp/wp-content/uploads/2011/12/SPAWAR-MAY-9-2009.pdf)
+
+**Edit 2:** List of replications and publications for SPAWAR research linked above.
+
+&gt;**Replications:**  
+&gt;• Heat and Radiation
+&gt;
+&gt;– Dr. Melvin Miles, Navy Laboratory in China Lake
+&gt;
+&gt;• Tritium
+&gt;
+&gt;– Dr. John Bockris, Texas A&amp;M
+&gt;
+&gt;• Energetic Particles
+&gt;
+&gt;– Dr. Fran Tanzella, SRI  
+&gt;– Dr. Winthrop Williams, UC Berkeley  
+&gt;– Dr. Ludwik Kowalski, Montclair State University  
+&gt;– 2006, 2007, and 2008 Undergraduate Chemical
+&gt;Engineering Senior Project Groups at UCSD
+&gt;
+&gt;**Peer Reviewed Publications:**  
+&gt;1. “On the Behavior of Pd Deposited in the Presence of Evolving Deuterium", S. Szpak, P.A. Mosier-Boss, and J.J. Smith, J. Electroanal. Chem., 302, 255 (1991).  
+&gt;2. “Electrochemical Charging of Pd Rods”, S. Szpak, C.J. Gabriel, J.J. Smith, J., R.J. Nowak, Electroanal. Chem., 309, 273 (1991).  
+&gt;3. “Charging of the Pd/ nH System: Role of the Interphase", S. Szpak, P.A. Mosier-Boss, S.R. Scharber, and J.J. Smith, J. Electroanal. Chem., 337, 147 (1992).  
+&gt;4. “Absorption of Deuterium in Palladium Rods: Model vs. Experiment", S. Szpak, P.A. Mosier-Boss, C.J. Gabriel, and J.J. Smith, J. Electroanal. Chem., 365, 275 (1994).  
+&gt;5. “Comments on the Analysis of Tritium Content in Electrochemical Cells", S. Szpak, P.A. Mosier-Boss, R.D. Boss, and J.J. Smith, J. Electroanal. Chem., 373, 1 (1994).  
+&gt;6. “Deuterium Uptake During Pd-D Codeposition", S. Szpak, P.A. Mosier-Boss, and J.J. Smith, J. Electroanal. Chem., 379, 121 (1994).  
+&gt;7. “Cyclic Voltammetry of Pd/D Co-deposition'', S. Szpak, P.A. Mosier-Boss, S.R. Scharber, and J.J. Smith, J. Electroanal. Chem., 380, 1 (1995).  
+&gt;8. “On the Behavior of the Cathodically Polarized Pd/D System: Search for Emanating Radiation", S. Szpak, P.A. Mosier-Boss, and J.J. Smith, Physics Letters A, 210, 382 (1995).  
+&gt;9. “On the Behavior of the Cathodically Polarized Pd/D System: A Response to Vigier's Comments", S. Szpak and P.A. Mosier-Boss, Physics Letters A, 211, 141 (1996).  
+&gt;10. “On the Behavior of the Pd/D System: Evidence for Tritium Production", S. Szpak, P.A. Mosier-Boss, R.D. Boss, and J.J. Smith, Fusion Technology, 33, 38 (1998).  
+&gt;11. “On the Release of nH from Cathodically Polarized Palladium Electrodes", S. Szpak and P.A. Mosier-Boss, Fusion Technology, 34, 273 (1998).  
+&gt;12. “Calorimetry of the Pd + D Codeposition", with S. Szpak, P.A. Mosier-Boss and M.H. Miles, Fusion Technology, 36, 234 (1999).  
+&gt;13. “The Pd/ nH System: Transport Processes and Development of Thermal Instabilities", P.A. Mosier-Boss and S. Szpak, Il Nuovo Cimento, 112, 577 (1999).  
+&gt;14. “ Thermal Behavior of Polarized Pd/D Electrodes Prepared by Co-Deposition”, S. Szpak, P.A. Mosier-Boss, M.H. Miles, and M. Fleischmann, Thermochimica Acta, 410, 101 (2004).  
+&gt;15. “The Effect of an External Electric Field on Surface Morphology of Co-Deposited Pd/D Films”, S Szpak, P.A. Mosier-Boss, C. Young, and F.E. Gordon, J. Electroanal. Chem., 580, 284 (2005).  
+&gt;16. “Evidence of Nuclear Reactions in the Pd Lattice”, S Szpak, P.A. Mosier-Boss, C. Young, and F.E. Gordon, Naturwissenschaften, 92, 394 (2005).  
+&gt;17. “Further Evidence of Nuclear Reactions in the Pd/D Lattice: Emission of Charged Particles”, S. Szpak, P.A. Mosier-Boss, and F.E. Gordon, Naturwissenschaften,, 94, 511 (2007).  
+&gt;18. “Use of CR-39 in Pd/D Co-deposition Experiments”, P.A. Mosier-Boss. S. Szpak, F.E. Gordon, and F.P.G. Forsley, EPJ Applied Physics, 40, 293 (2007).  
+&gt;19. "Triple Tracks in CR-39 as the Result of Pd–D Co-deposition: Evidence of Energetic Neutrons," Pamela A. Mosier-Boss, Stanislaw Szpak, Frank E. Gordon and Lawrence P. G. Forsley, Naturwissenschaften, DOI 10.1007/s00114-008-0449-x  
+&gt;20. "Reply to comment on 'The use of CR-39 in Pd/D co-deposition experiments': a response to Kowalski," Mosier-Boss, Pamela, Szpak, Stan, Gordon, Frank, and Forsley, Lawrence P.G., European Physical Journal, Applied Physics, Vol. 44, p. 291–295 (2008)  
+&gt;21. "Comparison of Pd/D Co-deposition and DT Neutron-Generated Triple Tracks Observed in CR-39 Detectors," Mosier-Boss, Pamela A., Dea, J. Y. and Forsley, Lawrence P.G., Morey, M. S. , Tinsley, J. R. Hurley, J. P. and Gordon, Frank E., European Physical Journal, Applied Physics, Vol. 51 (2), p. ???, (2010)  
+
+&gt;[*Source*](http://newenergytimes.com/v2/reports/SSC-SD-Refereed-Journal-Articles.shtml)
+When you say "However, I recently found this video ", the link you gave is a link to wikipedia, not a link to any kind of video.
+Fixed, sorry.
+Thanks, I'll see the video now.
+Really the short answer to "how much credibility does this cold fusion experiment have" is always none.
+
+No matter how much you want to touch two hydrogen nuclei together, you need to slam them together with massive force to overcome the repulsive electrostatic force. No chemical reaction currently known can produce anywhere near the energy to overcome this barrier.
+
+More specifically for his experiment, based on a very brief read of that article and some of the ones it links to.
+
+Where is the radiation, a fusion experiment should be emitting gamma rays which as far as I can tell were not present, bear in mind that you need about a foot of lead to prevent the death of the observers. On the other side of radiation the spent fuel should be radioactive after use.
+
+On the academic side, so far every journal has refused publication of his paper, his university has insisted they have had absolutely no part in his experiments, just some staff have been there as observers.
+
+There are [questions raised](http://aleklett.wordpress.com/2011/04/11/rossi-energy-catalyst-a-big-hoax-or-new-physics/) over the content of the spent fuel. For example, there is mysterious copper appearing with exactly the same isotope ratio as natural copper (so unlikely to be a fusion product). If you want to know more about all the problems with the relative abundances of the spent fuel elements then that link is very good.
+
+Basically, when you see a claim of cold fusion, assume it to be false. You need a large input of energy to slam two nuclei together. You also need a high density to get a decent reaction rate (remember that the conditions of the centre of our star are not enough for an earth based fusion experiment, we need to go hotter and denser). These conditions are obtainable in the centre of fusion reactors, not in a shipping container at room temperature.
+Sorry, to clarify, I wasn't after a refutation of Rossi's work (which as you point out, is full of massive flaws) but rather an analysis of the presentation from SPAWAR on the field (which I think may be getting unfairly dismissed due to the bad reputation the field has developed). SPAWAR's research seems to be a lot closer to the original Pons and Fleischmann experiments than to those of Andrea Rossi.
+The original Pons and Fleischmann experiments which were heavily refuted and completely non reproducible. You should also not that not once has SPAWAR claimed to have obtained any sort of cold fusion.
+But in the video I linked, they seem to state that they had managed to reproduce the Pons and Fleischmann experiments?
+I must say I am not willing to watch an hour long youtube video, but I read their abstract and would like to reiterate. Unpublished, Un-reproducible, Unexplained. 
+
+In case "unexplained" isn't clear it means having an anomalous result isn't enough, you gotta explain the mechanism. Otherwise you are gonna get called a hoax.
+How do you mean unpublished? They've made 23 publications to peer reviewed journals.
+
+Edit: I guess in the interests of science, I better go find them all now, so someone smarter than me can go through them.
+Not any paper with remotely believable claims of "cold-fusion" that I've ever heard of.
+**Replications:**  
+• Heat and Radiation
+
+– Dr. Melvin Miles, Navy Laboratory in China Lake
+
+• Tritium
+
+– Dr. John Bockris, Texas A&amp;M
+
+• Energetic Particles
+
+– Dr. Fran Tanzella, SRI  
+– Dr. Winthrop Williams, UC Berkeley  
+– Dr. Ludwik Kowalski, Montclair State University  
+– 2006, 2007, and 2008 Undergraduate Chemical
+Engineering Senior Project Groups at UCSD
+
+**Peer Reviewed Publications:**  
+21 peer reviewed Journal articles and 2 book chapters
+have been published or are going to print:
+
+– American Chemical Society Low Energy Nuclear Reactions
+Source Books Vol. 1 and Vol. 2  
+– Journal of Electroanalytic Chemistry  
+– Naturwissenschaften (Germany)  
+&gt; *Einstein published here.*
+
+– European Physical Journal of Applied Physics  
+&gt; *Nobel Prize winners, 2007, for Chemistry and Physics published here.*
+
+– Thermochimica Acta  
+– Journal of Fusion Technology  
+– Il Nuovo Cimento (Italy)  
+– Physics Letters A  
+
+
+[*Source*](http://bisbee.net/wp/wp-content/uploads/2011/12/SPAWAR-MAY-9-2009.pdf) Pages 53 - 54
+I don't get the point. They have published papers yes and in journals yes. This does not change the fact that their results (which to start with are completely underwhelming, tiny amounts of energy) are not recreatable. Which does not mean someone else hasn't made the same claim, these claims have been going on for decades, it means that if any research group took their EXACT experimental setup they would, in all likelihood, not see this so called "excess heat" which as I said is underwhelming at best even if true.
+
+The other important fact which is glossed over in any kind of reputable look at cold fusion (which theirs is) is that there is no mechanism for the fusion. 
+
+One of the most surprising, unexplained results of modern physics was the discovery of high temperature super conductors. It was instantly reproducible and despite there being no mechanism know prior to the results the behind the scenes physics was quickly worked out. The result was never contested. Any attempt at looking into "magic fusion" has so far only led to negative findings.
+
+This will seem rude but, you asked for an opinion on the current state of merit in any claims of cold fusion. The answer is there isn't any. No matter how many slideshows and review papers this body publishes (remember they are under CONSTANT risk of the removal of their entire funding), it does not change the fact that the collective opinion of the physics community is that any cold fusion result is either regarded as a hoax or a erroneous result. This will continue until there is an experiment that can reliably be recreated or *at least* some reasonable explanation into the how, as opposed to the what.
+What's wrong with the replications they listed?
+&gt;The thing is a 1 litre container, so if you are producing 500kW that for hours on end where on earth is this heat going, it is in a shipping container.
+
+500kW/L is ~670hp/L.  That's not radically different than the specific output of an F1 engine, which certainly isn't a "power plant level of heat", and doesn't take "masses of cooling systems taking up entire buildings".  It *certainly* wouldn't "be at tens of thousands of degrees after a minute."  In fact, that specific output is easily obtainable by slapping a larger turbo on a 1989 rx-7.
+
+Yes, it requires cooling; no, it's not extreme or anything we don't already deal with on a day-to-day basis.  I'm not by any means saying his design works, but your refutation of it is equally full of holes.
+&gt;Really the short answer to "how much credibility does this cold fusion experiment have" is always none.
+
+This statement seems a bit too definitive. I'm not saying I doubt any of your specific criticisms for these claims, but to say that no cold fusion claim will ever be credible discounts the possibility of finding something new and unexpected, which seems short sighted to me. 
+
+Of course, if someone makes this sort of claim, they will have to present a mountain of evidence to make it credible, which these guys have clearly failed to do.
+A formula one car has an output of ~~2 kW according to wikipedia so hundreds of times less and still does actually need serious cooling (picture them using dry ice whenever its at rest) with parts reaching 1000 C. Perhaps you are thinking of the power of a formula one car in horsepower, remember that this is mechanical power not heat. I probably exaggerated about that point as I was thinking megawatts at the time. But it isn't as bad as you suggested!
+What is wrong with the hundreds of failed replications that they didn't list? As is the status quo with these claims.
+Do you have links to any of these?
+&gt;This will continue until there is an experiment that can reliably be recreated or at least some reasonable explanation into the how, as opposed to the what.
+
+Sorry, I did clarify that in a later post. Remember that it isn't just a new experiment with proof that we need to be convinced. We need an entirely new understanding of nuclear reactions. Current theory completely forbids any possibility of a chemical reaction overcoming the coulomb barrier and enabling nuclear fusion.
+Scienceblogs' "Starts With A Bang" has an excellent writeup on Rossi and his claims [here](http://scienceblogs.com/startswithabang/2011/11/cold_fusion_is_it_possible_is.php) and [here](http://scienceblogs.com/startswithabang/2011/12/the_nuclear_physics_of_why_we.php).
+
+Spoiler - There are photos of Rossi and others standing right next to devices that are supposedly "live". However, if they were they'd generate huge amounts of radiation that would -with no visible shielding in the pictures, at least not much of it- kill bystanders in minutes.
+
+The point is not even so much the fusion, but the fact that the fusion products are unstable isotopes and would decay. So even if Rossi found a novel way to fuse the substances he's using, he'd still be sitting with massive amounts of radiation from the resulting decays.
+
+I've done a back-of-the-envelope calculation [here](http://www.reddit.com/r/energy/comments/n4r1c/a_very_convincing_rebuttal_of_the_ecat_claims/), well actually a bit further down in the comments [here](http://www.reddit.com/r/energy/comments/n4r1c/a_very_convincing_rebuttal_of_the_ecat_claims/c36qapm).
+
+There are other arguments why Rossi's claims (in the scienceblogs articles) most likely are void, but this strikes me as the most obvious.
+The [wikipedia page](http://en.wikipedia.org/wiki/Cold_fusion) for cold fusion will provide you with dozens of hours of reading of papers from failed recreations. Also remember that once the initial hype has died down over a specific experiment (which it has for these guys) there is absolutely no incentive for someone to recreate. 
+
+If you are willing to waste your time recreating the experiment and find it fails then you are unlikely to waste your time writing up (which takes months). Similarly, a journal is unlikely to wish to publish a paper which just says we tried this and nothing happened especially when such papers already exist. This is in contrast to their papers which are along the lines, we have discovered tiny amounts of excess heat, we think it is nuclear reactions, here are our results.
+
+I don't understand your incredible want for these to be true. If cold fusion existed I believe there would be a massive research effort, the fact that the research effort is minuscule should suggest there is little hope. Although, as you suggested in the op, there could be an element of boy who cried wolf. Experience suggests that no cold fusion experiment is to be believed and, as I said before, this will continue to be my belief and the belief of the vast majority of the physics community until there is either: An element of reproduciblity that is simply not present with the Fleischmann-Pons experiments; A proper theoretical explanation of the process or preferably, both.
+I think just citing *where* they were published but not *when* they were published is fairly disingenuous. If most of these papers were published in 1989 or around that time then it holds no weight to current investigatory claims of successful LENR.
+
+Of all of those publications, only *Die Naturwissenschaften* (which is a reputable journal, it translates to "the natural sciences" in English) published an LENR paper in 2005. However, the 2005 paper was widely criticized as having improper information about the actual ß-radiation emitted. I believe that the result is useless without this data and it probably shouldn't have been published except that Naturwissenschaften has a LENR supporter as an editor.
+
+Overall, I'd say that the most damning evidence against LENR is this[1] report noting that evidence for cold fusion is basically the same as it was in 1989. Research may suffer because most physicists don't believe it's possible, but at the same time that also indicates that most physicists don't believe it's possible.
+
+[1] http://physicstoday.org/journals/doc/PHTOAD-ft/vol_58/iss_1/31_1.shtml?bypassSSO=1
+Thanks, that's the sort of answer I was looking for. I've now updated the OP, as I found a list of publications rather than just journals published to. Interestingly there are two papers published since the 2005 one in Naturwissenschaften, I'll have a look at them and see if there's any improvements, but I'm no expert, so this might be something for someone more knowledgeable than I to look into.
+&gt; Remember that it isn't just a new experiment with proof that we need to be convinced. We need an entirely new understanding of nuclear reactions.
+
+In biology, we often find out *that* things work long before we understand *how* they work, so maybe my standards are just a little more lax. That said, if someone did figure out cold fusion without providing a mechanism, at the very least it would have to be reproducible enough that physicists would have the tools to figure out the mechanism, and upend current theories in the process.
+FIRST: I am *not* saying cold fusion is genuine.
+
+Now in my opinion there is *probably* some kind of "anomaly" related to "cold fusion" but it doesn't necessarily have to be fusion, or even a nuclear process.
+
+There are a number of credible anomalies in science that are as yet unresolved. For example:
+
+* the placebo effect (how does it work?)
+
+* the pioneer anomaly (the spacecraft's speed is at odd with predictions)
+
+* ball lightning and lightning sprites (what causes them?)
+
+* rogue waves (ocean, what causes them?)
+
+I do not think Rossi is legit --- but there is something happening that we don't yet understand.
+You have your numbers wrong.  1kW ~= 1.3 hp.  Heat and power are equivalent (especially in the context of a steam-powered turbine!).
+
+For example, the [Tesla Roadster](http://en.wikipedia.org/wiki/Tesla_Roadster) has an output of 185kW, or 248hp.  The use of exotic cooling systems in Formula 1 is driven more by weight considerations than by the physical impossibility of cooling an engine that powerful (which it really isn't).  A [Koenigsegg CCXR](http://en.wikipedia.org/wiki/Koenigsegg_CCXR) has a (much) higher output than an F1 car, and it gets by on a radiator just fine.
+Sorry but no, engines produce power in order to turn wheels not in order to heat them up. When you state 640hp you mean it produces that amount of power in the wheels not that it is a 500kW fire.
+But doesn't the Carnot cycle limit the amount of heat energy transformation to 50% with most car engines only getting about 30%?
+
+In which case the heat output is going to be even higher than energy put into turning the wheels.
+Good point, Carnot only limits the efficiency between two heat reservoirs to 1- Th/Tc. This means that for very large temperature differences efficiency can theoretically reach 100%. However, I believe you are correct about cars being around 30%. So apologies.
+
+Anyway, they have 0 cooling for 500kW aside from natural convection/radiation, an f1 car has many many many kilowatts cooling. They would still reach insanely high temperatures, hook up 50 electric heaters in a sealed room see how hot it can get.
+A F1 engine has 2.4 liter displacement, which means the entire assembly is much bigger than that.  A typical one would only produce 224 kilowatts, so less than 100kw/liter.
+
+http://en.wikipedia.org/wiki/Formula_One_engines
+&gt; No chemical reaction currently known can produce anywhere near the energy to overcome this barrier.
+
+The energy you cite is a kinetic energy basis, with respect to the colliding ion's coloumb repulsion and their mass.  The supposed use of lattice enabled fusion would not utilize such a method and as a result the energy/work factor is no longer in play.  For example, if I could simultaneously fire 2 electrons at each other, and two protons at each other with sufficient accuracy, their respective coloumb repulsions would cancel out and the energy required to initiate the fusion reaction would be nearly 0.
+&gt;The energy you cite is a kinetic energy basis, with respect to the colliding ion's coloumb repulsion and their mass
+
+Their mass has absolutely nothing to do with it, I made no mention of either kinetic energy or mass but yes it is kinetic energy you need to overcome the potential energy that is a result of the electrostatic repulsion.
+
+&gt;The supposed use of lattice enabled fusion would not utilize such a method 
+
+If you wish to fuse two nuclei you must get them so close to each other that the strong nuclear force is stronger than the electrostatic force. This requires a lot of energy.
+
+&gt;as a result the energy/work factor is no longer in play.
+
+What.
+
+&gt;their respective coloumb repulsions would cancel out
+
+What...
+
+
+edit: the real mystery is who upvoted this...
+&gt;we often find out that things work long before we understand how they work.
+
+Yep, you are right that biological systems are much more complicated and generally more poorly understood.
+
+The other thing isn't that the result is unexplained it is contrary to expectations. If you understood the immune system perfectly and make a simple prediction, an experiment appears that goes against this simple prediction and offers no explanation why the prediction is wrong. You are immediately skeptical. This is *before* you realise that no one else can recreate their anomaly.
+
+The example from physics I had was high temperature superconductors they went against theory but were reproducible and it didn't take long before new theory could explain these anomalies. There is still no more evidence that cold fusion is possible than 20 years ago (along with more evidence against it) and in 20 years no one has explained the physics behind the supposed cold fusion.
+&gt; Heat and power are equivalent (especially in the context of a steam-powered turbine!).
+
+No they aren't.  Heat is a form of work or energy, power is a measure the rate at which energy is produced or converted.
+What makes you think hydrogen+hydrogen fusion is the only way to go? This is definitely not the reaction Rossi claims to use.
+It isn't just hydrogen that has a positively charged nucleus. In fact hydrogen has the least positively charged nucleus. All nuclei repel not just hydrogen.
+Specifically about Rossi, his current "product" has not been refuted in any way, simply because no one knows what's inside his magic box. Rossi has declined to reveal what he's doing to produce the energy since he wants to get rich of selling it rather than get famous for discovering it.
+
+The scientific community isn't paying all that much attention to his remarkable claims. There have been some attempts to figure out his methods but mostly it's just "wait and see" if he manages something in the end while believing he won't. It's definitely a bigger thing in the media and in the internet than in scientific circles.
+
+He did allow some tests of the machine at a Swedish university and managed to show the box gave a higher energy output than the input. However, as no one was allowed to look inside the box and the conditions were far from optimal, there could be many reasons for this.
+Two isolated positive ions repel, everyone understands this.  If I add in 2 negative ions or electrons then they will suppress a large portion of the replusion.  
+
+Try [Muon Catalyzed Fusion](http://en.wikipedia.org/wiki/Muon-catalyzed_fusion).  
+
+Also, to elaborate:  
+
+The presence of negative charges radically reduces the energy required to overcome coloumb repulsion, equating to a drastic reduction in the energy needed to initiate a fusion reaction.  The highest possible energy needed would be for two positive ions colliding due strictly to their inital kinetic energy, which is a function of their mass and velocity.  Charge negation would radically reduce the coloiumb replusion, and thus allow a fusion reaction to occur with significantly less input energy.
+All nuclei repel, but all fusion reactions don't have the same energy barrier to overcome. Just because hydrogen has the least amount of protons does not mean hydrogen+hydrogen has the lowest barrier.
+It isn't actually that large a portion of the repulsion as you think. As you should know the repulsive force is inverse to radius squared, so as you get closer it becomes more serious. Most of the coulomb barrier potential is from the radii closest to the nucleus. 
+
+Muon catalysed fusion reduces the energy required not just because it introduces a negative charge but also because that negative charge is closer to the nucleus than an electron would be. 207 times closer is huge.
+
+The reason people do not try to fuse atoms instead of positive ions is pretty clear. How do you accelerate an atom? it is very difficult, if you heated it to fusion temperatures it will long since have become a plasma, other techniques that we use to accelerate ions (electric fields, electromagnetic radiation) just do not work on non charged objects. And the reason they don't use muons is that it costs more energy to create muons than you get out from them in fusion.
+That's all fine and good, but it doesn't correlate with my original point, that LENR reactions don't behave like kinetically driven fusion reactions.  As the claim goes, and I'm not saying it's a valid one, the solid lattice provides and environment that brings electrons in very close proximity to potential fusion reactants, which in turn drastically reduces their replusion barrier and allows them to fuse at kinetic energies associated with room temperature, or relatively "low" temperatures.
+&gt; Really the short answer to "how much credibility does this cold fusion experiment have" is always none.
+
+And that's how the Inquisition operated, not science.
+
+It does seem extremely unlikely that something like this would ever work. However, if someone (unlike Rossi) provides compelling evidence, and the results are replicated by independent teams, then the phenomenon deserves a much more careful investigation. The reaction might be catalyzed in a way previously unforeseen.
+
+That being said, everything about Rossi's device looks very sketchy. They haven't reached the "compelling evidence" threshold IMO, not by a long shot.
+Indeed, hydrogen+lithium-&gt; helium has a lower energy barrier. None of the barriers of any elements are fusing are low enough to be obtainable by chemical reactions. You need many keV to overcome the coulomb barriers of any combination of elements. This is just not present in chemical reactions.
+
+Oh and the reason a lot of fusion talks about hydrogen into helium-4 is because of the [massive jump in binding energies](http://ib-revision-09.synthasite.com/resources/binding_energy.jpg) which means you get a lot more energy out of hydrogen fusion than anything else. This doesn't make an individual fusion event more likely, rather makes the sustainability much easier.
+I believe at least part of science is building rules based on testable and explainable phenomena. I would argue that this applies to cold fusion, it is a repeatable experiment that if you present with working cold fusion, it will be refuted. This leads me to predict the result that when presented with working cold fusion I expect it to be refuted, this is taking into consideration it would require our entire understanding of nuclear reactions to be wrong.
+
+Granted this is an empirical law and not fundamental but this does not mean it is "how the inquisition started".
+Your original post does not even make sense. You keep misusing words making it incredibly hard to decipher your point. 
+
+Onto the claims of lattice fusion. Deuterium nuclei in a palladium lattice are further apart than in just a gas, so I don't get the whole "close proximity"  They don't work. Magnetic confinement fusion works. Inertial confinement fusion works. There is no evidence that cold fusion works and perhaps more importantly, as I have reiterated time and again in this thread, no theory put forward that allows cold fusion to work even by the cold fusion researchers.
+Your original claim was that chemical reactions don't have enough energy to drive a fusion reaction.  You were basing that on the energy required to force two nuclei together in a plasma, such as seen in magnetic and inertia confinement fusion.  As claimed though, for a LENR type environment, this is not the method utilized to intiate the fusion reaction.  Supposedly, and again I'm not saying it's realistic, the high volume of electrons being forced through the lattice help to mitigate the electrostatic repulsion of the fusion reactants.  
+
+That being the case, your intial statement that "you need to slam them together with massive force to overcome the repulsive electrostatic force" would not be a valid rejection.
+Be honest, have you ever read a cold fusion paper in your life?
+Incorrect.  Science is the practice of organizing knowledge.  Theory is just there to help classify data.  Organizing experimental observations is the practice of science.
+
+It is also incorrect to assume that working cold fusion requires that the current understanding of nuclear reactions is wrong.
+No.   The closed loop cooling system was connected to three external industrial air cooled chillers.  Their combined cooling capacity was much greater than 500kW.
+
+This is very basic information.  You are making comments without doing any research at all.
+The device does not produce 500kW/L.  Around 100 modules of around 30L capacity combined produced the observed heat.
+Deuterium nuclei in a palladium lattice are more densely packed than in the gas phase.
+&gt;Incorrect. Science is the practice of organizing knowledge. 
+
+One definition of science differs from another, using observation to make future predictions is definitely part of science no matter your definition.
+
+&gt;It is also incorrect to assume that working cold fusion requires that the current understanding of nuclear reactions is wrong.
+
+It is not, we need energy to overcome the repulsive force between atomic nuclei, there is nowhere near this energy available in cold fusion, hence cold. If there is another mechanism form fusing nuclei without overcoming the coulomb barrier then it is unknown, making it correct to say we would need a new understanding of nuclear reactions to explain cold fusion.
+Wrong.
+I am a professional plasma physicist. Yes. None of their papers ever really claim cold fusion, they just say "we saw this heat, we think it is from nuclear reaction" no mechanism for the how and never reliably reproducible.
+[deleted]
+I am professional photonics materials chemist.  Your characterization of the literature is inaccurate.  I recommend you read the 2010 review of the field by Storms
+To be honest, I am done with this thread, least polite and most controversial thread ever. This is surprising given it is on a topic that is completely non controversial (all physicists agree cold fusion isn't possible, except those who are trying to get funding for cold fusion research). I think there is a hefty amount of [mount stupid](http://www.smbc-comics.com/?id=2475) in this thread.
+
+edit: oh and i am glad your expertise of photonics materials is as relevant as my fusion research in a discussion about fusion.....
+The concept of science is well defined.  It is described by the tenets of the philosophy of science.  No one is entitled to a personal definition of science.  
+
+That the mechanism of cold fusion is unknown does not mean that our current understanding of nuclear fusion is wrong.  Your modified statement is correct, thank you for clarifying your position.
+At room temperature the 1 mol of palladium is approximately 10ml.  It is well known that deuterium can load into palladium at a ratio of greater than 0.8.
+
+1 mol of deuterium gas at room temperature is 22L.  
+
+You are plainly mistaken.
+The discussion is about the possibility of low energy nuclear reactions within a solid state medium.  There is obviously no possibility of any of the reactions you are familiar with happening, it doesn't take an expert in plasma physics to say that none of the nuclei in the experiment have 100kev.  It also doesn't take an einstein to note that mainstream science does not find cold fusion credible.  However, 99.9% of mainstream scientists have no interest, and do not read the cold fusion literature.
+
+As someone who deals with intricate nanomaterials, I am very qualified to read and understand the current literature.
+Yes, when you have a gas they sit in a structure, with even separation between each atom. The random motion never once brings two atoms close together.
+Of course in a solid the screening effects of the metal lattice can never allow two deuteriums to occupy a single lattice defect.  And of course the observation of ultra-dense deuterium never happened.
+[deleted]
+I forgot to raise the point about transmutations - there's a lot of respected universities (see page 24 of the document linked in OP) who claim to have witnessed transmutation in replicating these experiments. I was under the impression that a nuclear reaction was the only method of producing transmutations. Am I incorrect in this, or is it to be assumed that all of the universities who witnessed the transmutations were incorrect (which I admit is a possibility, although due to the number of claims, I'd be surprised).
+Fusion of Hydrogen typically produces He3 or He4 and some spare neutrons. The "spent fuel" is a harmless gas.
+
+But otherwise, yeah, this case is bunk.
+searching through askscience, I am dumbfounded at the complete dismissal of the LENR field and complete lack of even REVIEW.
+
+This thread is everything that is wrong with askscience.  A "scientist" who dismissively ignores citations and cites his "expertise" in a nonrelated field.
+
+I will be saving all LENR threads and ask for resignations when this comes up again in July when Defkalion is supposed to unveil their lenr.
+
+Truly incredible intellectual dishonesty on here.  Utterly astounding that these people pass themselves off as "scientists" with this intellectual arrogance and complete failure to even review the evidence.
+
+What is your take?
+
+Summary:
+I don't get the point.
+This is definitely not the reaction Rossi claims to use.
+It is also incorrect to assume that working cold fusion requires that the current understanding of nuclear reactions is wrong.
+This is just not present in chemical reactions.
+The answer is there isn't any.
+All nuclei repel, but all fusion reactions don't have the same energy barrier to overcome.
+This requires a lot of energy.
+&gt;It is also incorrect to assume that working cold fusion requires that the current understanding of nuclear reactions is wrong.
+Mosier-Boss, and J.J. Smith, J. Electroanal.
+You should also not that not once has SPAWAR claimed to have obtained any sort of cold fusion.
+We need an entirely new understanding of nuclear reactions.
+Really the short answer to "how much credibility does this cold fusion experiment have" is always none.
+Onto the claims of lattice fusion.
+&gt; Really the short answer to "how much credibility does this cold fusion experiment have" is always none.
+“On the Behavior of the Pd/D System: Evidence for Tritium Production", S. Szpak, P.A.
+FIRST: I am *not* saying cold fusion is genuine.
+I was under the impression that a nuclear reaction was the only method of producing transmutations.
+No chemical reaction currently known can produce anywhere near the energy to overcome this barrier.
+Current theory completely forbids any possibility of a chemical reaction overcoming the coulomb barrier and enabling nuclear fusion.
+&gt; No chemical reaction currently known can produce anywhere near the energy to overcome this barrier.
+Basically, when you see a claim of cold fusion, assume it to be false.
+&gt;Really the short answer to "how much credibility does this cold fusion experiment have" is always none.
+What makes you think hydrogen+hydrogen fusion is the only way to go?
+“Evidence of Nuclear Reactions in the Pd Lattice”, S Szpak, P.A.
+It isn't just hydrogen that has a positively charged nucleus.
+You need a large input of energy to slam two nuclei together.
+It also doesn't take an einstein to note that mainstream science does not find cold fusion credible.
+I don't understand your incredible want for these to be true.
+Remember that it isn't just a new experiment with proof that we need to be convinced.
+&gt; Remember that it isn't just a new experiment with proof that we need to be convinced.
+“Further Evidence of Nuclear Reactions in the Pd/D Lattice: Emission of Charged Particles”, S. Szpak, P.A.
+It does seem extremely unlikely that something like this would ever work.
+None of the barriers of any elements are fusing are low enough to be obtainable by chemical reactions.
+I would argue that this applies to cold fusion, it is a repeatable experiment that if you present with working cold fusion, it will be refuted.
+Thanks, that's the sort of answer I was looking for.
+You have your numbers wrong.

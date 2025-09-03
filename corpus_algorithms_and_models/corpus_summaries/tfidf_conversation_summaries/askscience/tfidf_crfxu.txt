@@ -1,0 +1,27 @@
+Original Response:
+My mom asked me this question and while I think I have a decent understanding of astronomy and astrophysics, I don't know the answer. Googling was unhelpful (it told me the age, and vague hand-waving about how stars are formed, but not a real answer).
+
+I guess that we just know what stage of the star's lifecycle the sun is in, but that raises another question: how do we know how long each stage of a star's lifecycle is? We can see millions of them in their own parts of the lifecycle, but how do stitch that information together into a coherent timeline?
+Wikipedia is your friend.  From the [article](http://en.wikipedia.org/wiki/Sun#Life_cycle)
+
+&gt;Solar formation is dated in two ways: the Sun's current main sequence age, determined using computer models of stellar evolution and nucleocosmochronology, is thought to be about 4.57 billion years.[86] This is in close accord with the radiometric date of the oldest Solar System material, at 4.567 billion years ago.[87][88]
+We assume that the sun and earth formed around the same time, then measure the age of the earth.
+[Recent article](http://arxiv.org/PS_cache/arxiv/pdf/1004/1004.2215v1.pdf) which goes a bit deeper, with lots of relevant references.
+Well, that's a bit closer to what I was hoping for. A bit confusing, but I can try to get it.
+We can measure the sun's mass, energy output, and chemical composition.
+
+On earth, we can measure the mass of various atomic nuclei, the energy output of various fusion processes, and the age of the oldest rocks.
+
+Put this all together, and we can start making some reasonable guesses and set upper and lower bounds.  
+
+For example, we know if a star with the sun's mass and energy output were more than about 10 billion years old, it would have burned up its nuclear fuel by now.
+
+Similar, if the sun were less than a billion years, it wouldn't have had time to create the helium, carbon, and oxygen we can see in its chemical makeup.
+
+So with a few facts and solid assumptions, we built theories that say the sun is between 1 and 10 billion years.  It also makes predictions about what other stars will be like, so we can test its validity.  With more observations, we can built better theories, tighten those upper and lower bounds until we have a really good estimate: 4.5 billion years.
+
+Unfortunately, it took a lot of different theories to get here.  There is no easy, one sentence, "the sun is 4.5 billion years old because..." answer you can give your mother.
+
+Summary:
+We can measure the sun's mass, energy output, and chemical composition.
+So with a few facts and solid assumptions, we built theories that say the sun is between 1 and 10 billion years.

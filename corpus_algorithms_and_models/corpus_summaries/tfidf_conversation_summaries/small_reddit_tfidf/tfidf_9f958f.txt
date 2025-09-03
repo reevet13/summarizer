@@ -1,0 +1,34 @@
+Original Response:
+&gt; Ultimately, though, there is no security measure which will make any town’s network completely invulnerable to ransomware attacks – something which has officials in Midland describing a second attack as “a matter of when, not if.”
+
+You can, it's not hard, but it pisses off the users because then they can't do whatever non-work related tasks they want on the computer. If they had AppLocker configured, which comes with Windows since 7, this ransomware attack would have been impossible.
+Also, if users didn't compulsively click on everything that crosses their inbox.
+Can't fix stupid.
+As a stupid would say "do you think I'm stupid?"
+replace user.dll
+[deleted]
+My work sent out a survey about 6 months ago. They hired a third party company to make the survey and it was hosted on that company's site. The email with personalized links came from that company as well.
+
+With no warning to the users. 
+
+Like dudes, you spend so long teaching people not to click these fucking links, then undo all that training in a single email. All of which could have been solved by sending that email from a corporate email and hosting the survey.
+Some people actually do get legitimate invoices in their inbox from random suppliers.
+
+Or CVs.
+
+My favourite vector was the corporate home page (which was the default browser homepage) infecting systems through an IE 0-day.
+
+IT didn’t believe me when I said I saw a suspicious Java splash screen.
+[What are you going to do? Stab me?](https://i.redditmedia.com/BSlT06uWiOeyQrmZq1cSb44HyUD-YEgmCNhUtf5R73E.jpg?w=500&amp;s=d2630b91f2379d6926963e5f9f021014)
+Setup lapse and randomize the local admin password, limit administrative access.  Don’t use a damn domain admin account to login to workstations.  Next level shit? Setup MFA for privileged accounts.  All of this takes time and effort.
+Applocker makes the attacks more difficult, not impossible.  When cryptolocker was fairly new, I was working in an IT job.  I was extremely worried about it at the time, unlike management.  We got hit (surprise).  I had verified working backups and didn't over assign privlidges and after a few hours of hell we were all good a few hours later.
+
+No data loss though the cost of paying the attackers would have been cheaper than the lost labour prices.  Windows doesn't work very well when you turn off all the file servers that the computers are trying to write to.  
+
+
+After this management was fine with me enabling limited application whitelisting and having top notch functional always on web traffic scanning, email scanning and canary files that would stop file sharing and alert me if deleted or modified.
+
+Summary:
+Applocker makes the attacks more difficult, not impossible.
+If they had AppLocker configured, which comes with Windows since 7, this ransomware attack would have been impossible.
+The email with personalized links came from that company as well.

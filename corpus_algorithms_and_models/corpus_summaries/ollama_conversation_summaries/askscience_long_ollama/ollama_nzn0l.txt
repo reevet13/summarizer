@@ -1,0 +1,15 @@
+Here is a summary of approximately 10% of the text (up to 250 words):
+
+We have never encountered alien technology that we could reverse engineer so we could learn to understand it (and then create it for ourselves).
+
+During the cold war, pretty much all recovered listening devices were disassembled and studied. During the second world war, Enigma encryption machines were studied by the allies to break the encryption.
+
+Reverse-engineering itself happens all the time. One of the reasons PCs are not all made by IBM is because Compaq reverse engineered the PC BIOS to make "IBM-compatible" computers.
+
+The Soviets would actually dissect western microprocessors and develop clones based off of them. I know in the hardware business companies reverse engineer each other's products all the time (often to see if their competitors impinging on any of their patents).
+
+It depends on your definition of "we", but it happens all the time. Unfortunately it's not as glamorous as you might think.
+
+We have. Mostly technology which was stolen from enemy nations, etc.
+
+During the Vietnam war, the Soviets reverse engineered an AIM-9 Sidewinder missile which got lodged in one of their Migs without exploding.

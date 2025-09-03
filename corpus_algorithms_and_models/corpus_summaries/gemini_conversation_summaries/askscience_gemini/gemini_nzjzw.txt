@@ -1,0 +1,3 @@
+The nozzle of the vacuum version uses radiative cooling.
+There are three types of heat transfer: conduction, convection, and radiation.
+The third type of heat transfer, radiation, occurs by way of the electromagnetic spectrum.

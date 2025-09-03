@@ -1,0 +1,22 @@
+Original Response:
+I was looking up what actually causes boiling to occur, and read that it's when the pressure from the water vapor in a bubble exceeds the ambient pressure + surface tension of the water.  [This image helped explain it to me.](http://en.wikipedia.org/wiki/File:Superheating.svg)
+
+I also remember reading how soap helps lower the surface tension of water.  This makes me think that all of the surface tension of water would be lowered, but would it also be lowered on the "surface" of a water vapor bubble, causing it to boil faster?
+
+At first I wanted to say that it did, but then I remember that the whole reason soap lowered surface tension was due to the hydrophobic parts of the soap trying to keep away from water.  It would sit on the surface of the water, thus lowering the surfaces surface tension.  But if the gas in the bubble is water vapor, would the hydrophobic parts of the soap molecule react the same?  I guess another factor would be WHERE in the container the soap is sitting once you put the water on heat.  Does it mix fully with the water, or will it all attempt to puddle near the surface, which happens to be away from the source of heat?  If that's the case, there might not even be soap in those areas to help lower the surface tension of the bubble.
+
+I'm asking too many questions.  Sorry.
+As a general rule, *any* contaminant in a pure compound will lower the boiling/melting points. In testing compounds for chemistry, comparing their actual melting point to the ideal is a good way to estimate purity.
+
+
+That said, there may be interactions in the soap that are not the same as a simple contaminant (adding salt to water does lower the boiling point). I can't speculate on those, but I doubt they would have much of an impact.
+That is only half true. As a general rule, any contaminant will lower the melting point (see: [freezing point depression](http://en.wikipedia.org/wiki/Freezing-point_depression)), but will *raise* the boiling point (see: [boiling point elevation](http://en.wikipedia.org/wiki/Boiling-point_elevation)). These Wikipedia links explain the phenomena pretty well.
+Your comment immediately made me think of the coke melting scene in the movie [Blow](http://www.imdb.com/title/tt0221027/).  In the scene, Paul Reubens, Johnny Depp, and Bobcat Goldthwait are measuring the melting point of the cocaine.  Your comment made that particular scene make much more sense.  Thanks!
+I stand corrected. Normally Wikipedia is pretty verbose, but that was a darn good thermodynamic explanation.
+Never seen the movie, but we use [these mammojammas](http://capitalequipmentrecycling.com/photos/1291126358_Bm6fnB2kKGrHqYH-C4EtsQs0yqHBLhYg65QY_12.JPG) in our lab to find out if our extracted samples *actually* extracted properly. Fun stuff!
+
+Summary:
+](http://en.wikipedia.org/wiki/File:Superheating.svg)
+
+I also remember reading how soap helps lower the surface tension of water.
+If that's the case, there might not even be soap in those areas to help lower the surface tension of the bubble.

@@ -1,0 +1,28 @@
+Here are the selected sentences copied verbatim from the original text:
+
+Is this RAM compatible with my motherboard?
+I'm thinking of getting a GTX 1070. Which one should I get?
+I'm on a very tight budget and I'm looking for a case <$50
+Remember that Discord is great places to ask quick questions as well: http://www.reddit.com/r/buildapc/wiki/livechat
+
+So.. Kind of an obvious answer but is it time to stop being cheap and upgrade from an i7 - 870 to a custom built Ryzen 5 2600?
+
+SSD is much faster. But HDD is cheaper. Generally people put Windows on the SSD and whatever game they're heavily playing and put everything else on the HDD.
+
+Yes, booting from an SSD will be *leagues* faster than from an HDD. Same goes for any data being stored, SSDs will load games and move files faster than HDDs in general.
+
+The biggest benefit is for booting the OS though. Game load times get faster for some games but it's not usually much worse to run off an HDD, unless it's something like skyrim with big load times.
+
+Most people will still use an HDD for mass storage because they are cheaper for more capacity, but SSDs are pretty cheap right now.
+
+Once you go SSD you won't go back, it's a blessing on your own PC. It's a curse to use other PCs that don't have it.
+
+Is it worth it to buy an aftermarket air cooler for the 2400g if planning to overclock?
+
+The ryzen stock fans for the previous gen were pretty decent, some people could even do a slight overclock with the stock cooler. If you want to do anything more than a small overclocking, then I would go aftermarket cooler.
+
+Noctua coolers are normally great, I just can't stand the colors as they are brown and beige. I did a quick google search and I would look Cooler Master Evo 212, Cryiorg H7 or Noctua NHD-15, or be quiet! Dark Rock Pro 4.
+
+If that is true I don't think I need one as my budget is too limited to care about noise (and anything would be less noisy that the old laptop I have right now).
+
+Assuming you have fast, dual channel ram, yes it will be worth it for the OC.

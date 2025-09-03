@@ -1,0 +1,175 @@
+Original Response:
+It's interesting that the emergent consciousness of the highly parallel brain would lead to one highly serialized stream of consciousness rather than multiple. It seems like it would be more efficient if we could consciously do more than one thing at a time. I realize we do many non-conscious things in parallel (i.e., walk, perceive objects, breathe, etc.) but it seems that you can only actively "think" about one thing at a time.
+[deleted]
+[deleted]
+I asked a similar question a while ago but got no response: how many conscious thoughts can we have at once?  I can easily manage two and more with a bit of concentration.
+[deleted]
+[this](http://boingboing.net/2011/11/07/eyal-ophir-on-the-science-of-multitasking.html) is the closest I am getting to real evidence on the matter this early in the morning, but nonetheless:
+
+No you cannot multitask- you essentially do more than one thing at a time, but switch really quickly between those things. Then, at any instance in time, you are only doing a single task (hence not truly parallel). 
+
+There is some evidence that multitasking actually is bad for your cognitive health. [Here](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/04/17/BUTO1J0S2P.DTL) is something like that.
+
+
+Side Note: It is so motherflipping frustrating to find evidence. It goes 1) find article. 2) click on article's link to evidence 3) link leads to another article, meaning first article was just a regurgitation of the second, which has no sources. News was doing r/circlejerk wayy before reddit
+[deleted]
+Multitasking seems to me as something slightly different. I'm thinking more of thinking (!) about something while also singing along to a song in your head.  One of those streams is clearly more 'conscious' than the other but they are independent and feel simultaneous.
+Isn't that the definition of a conscious thought? The ones we are observing?
+I can see what you're saying- however I would suggest that those would be considered more so subconscious than strictly conscious processes. For instance, I can drive and listen to music at the same time, but my conscious attention is only ever on one of the tasks at a given moment.
+[deleted]
+[deleted]
+[deleted]
+While we're waiting for an expert on brain anatomy to offer some material (brain-based) causes for singular consciousness, I think we should clarify a few things here. First:
+
+&gt;It seems like it would be more efficient if we could consciously do more than one thing at a time.
+
+This may not be true. A lot of studies recently have shown the decrease in efficiency when we multitask too much; a quick google search could pull a few of these up. Consider also that we have limited processing power, and using this processing power to explore too many things shallowly rather than a smaller subset in deeper detail has major disadvantages.
+
+Furthermore, it's clear that thought involves more than we are consciously aware of. If I ask you to free associate about the word "Dog" a bunch of concepts probably come up: those that come from past memories, from associations with recent memories, blabla. There is likely some parallelized processing going on there.
+
+It's hard to get much more than speculative about that though, even for those of us who are doing research in related fields. A brain expert might, as I said, offer a different perspective.
+Disclaimer: Did not sleep.  East coast, so its 9:20.  May regret this tomorrow/today.
+
+I would imagine that it is this conscience that is responsible for decision making.  It would be deleterious to have two streams of consciousness because it would imply two decision making processes, which could lead to strange race conditions (imagine if they both decided to go in opposite directions), but once you reintroduce traditional control structures like mutexes ostensibly you are back at the concept of actively thinking about one thing at a time.
+
+To give a biological example. look at [polycephaly](http://i.imgur.com/wHomx.jpg) as an example of what happens when you have two decision making structures on one organism.  The results are not pretty.
+What you're looking for may be more related to what we call [working memory](http://en.wikipedia.org/wiki/Working_memory). The answer to your question about how many thoughts we can hold at once has to do with the size of WM and the ['chunking'](http://en.wikipedia.org/wiki/Chunking_\(psychology\)) of the relevant thoughts, which may differ from person to person and depending on the subject's familiarity with the types of thoughts in question. This makes it difficult to answer you with a solid number.
+[deleted]
+[deleted]
+As someone stated before substances like LSD do give you this ability but like all things it is a trade off. You can be running down multiple pathways in your brain but it comes at the cost of motor skills and spatial awareness.
+
+Now this is a layman answer so take it with a grain of salt. It has always seemed tO me like there is much more power in the tank when it comes o thinking but much like weightlifting if you used your maximum strength you would cause injury. You can often lift much more but it would hurt you too much to do so.
+[There's a hypothesis that our brain once did act in parallel in terms of thought\(one portion of the brain would speak to other "conscious" portion through auditory hallucinations and that modern humans fused this bicameralism.](http://en.wikipedia.org/wiki/Bicameral_mind)
+
+So if that hypothesis (completely untestable) is correct, then modern humans ability for serial thought is an innovation and superior to parallel processing.
+Yes, multi-tasking has been shown in numerous studies to result in decreased efficiency, but its not because multi-tasking is inefficient.  It's because we are incapable of true multitasking and instead attempt to engage in rapid task switching.  There seems to be a high temporal cost to task switching resulting in decreased performance.
+WhatDoes and Rocker323, you are both heavily invested in [Epiphenomenalism](http://www.bigissueground.com/philosophy/ash-mindandbrain.shtml). This essay should help clear up some things.
+
+It is one thing to say neurons are firing (as with singing a song) and being conscious or perceiving that event. Additionally, while the brain can be exercised and pushed like muscles with weightlifting, the analogy fails when trying to say you can push yourself to become multiple conscious beings. At this point, you are deviating away from what science is currently able to answer, and you are pushing into the philosophy of what it means to exist as a consciousness.
+
+
+A caveat to this: schizophrenia is an interesting condition in which multiple "beings" do exist in a person (or rather multiple personality disorder, apologies for confusion), but even so, only one is in control or conscious or "driving" at any one time.
+Could this then be why dogs bark at nothing? Part of their brain is hallucinating to get in touch with the other?
+[deleted]
+I can only speak accurately for the visual cortex, but it seems that the restriction on one (or at least very very few) active visual percepts is a necessity of the complexity of the tasks being carried out.
+
+Tsotsos has argued from a computational viewpoint and has proven that unbounded visual search is NP-complete (placing it in a fundamentally hard to compute class of problems) yet adding restrictions like "attention" can bring this complexity down to linear - more details and further references [here](http://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=np%20complete%20visual%20search&amp;source=web&amp;cd=1&amp;ved=0CCcQFjAA&amp;url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.1.5055%26rep%3Drep1%26type%3Dpdf&amp;ei=E5AAT8PCBMOt8QO8ovDzBQ&amp;usg=AFQjCNFYPM78NB146pd3Og3r-mQMe9BO4w&amp;cad=rja). This gives strong evidence that the brain has found solutions to these fundamentally *hard* computational problems by limiting the scope (and clever architectures like hierarchies) - and hence giving us a narrowed realm of experience by necessity.
+
+The brain isn't a magical device, it can't do better than a proven complexity class without simplifying the task or living with approximations. It seems highly plausible that the answer to your question boils down to the fact that creating a consistent experience from precepts is extremely hard; to manufacture *two at once* is that much harder again and beyond the capabilities of our cortex.
+[deleted]
+I wish I new more of the terminology, it would make discussion so much easier.
+
+Driving and listening to music can both be done without thought, they are tasks and I can do several simultaneous but I can only attend to one at a time and (presumably) my subconscious takes care of the others.  That isn't really what I'm asking about.
+
+Using music as an example was perhaps a poor choice.  I can have one dominant 'voice' and also simultaneously have other voices saying something independent but simpler.  For example, I can think about something complex, and count to a hundred, and look around the room naming the colours of things.  All three vocalised in my mind and occurring simultaneously.  My full attention is only ever on one of them, I think, but I am certainly aware of all at the same time.  Indeed, awareness of doing this can often provide an additional thought.
+
+This is a tricky thing to find information about and can potentially only be explored though introspection.  Maybe I should go and ask the nice men in a white coats.
+[deleted]
+[deleted]
+[deleted]
+I am not sure that we can say that consciousness is 'serial'. You may be somewhat aware of multiple things taking place at the same time, both within and across modalities. What does appear to be more limited to a single 'stream' is selective attention, which is often referred to as serial. Even this is not entirely clear-cut since,  it seems that is possible for people to attend to multiple objects or locations under 'divided attention. This is dependent on the cognitive load of the individual sub-tasks.
+
+In any case, it seems clear that the reason we have attention at all is that the tasks that depend on it are such that they are very resource intensive, in part because they require binding together information from multiple distinct regions of the brain.
+
+ Thus, the limitations on attention (or consciousness, if you want) are due to: 
+
+* The resource-intensive demands of certain cogntive tasks 
+* the limited processing resources of the brain.
+[deleted]
+&gt;It would be deleterious to have two streams of consciousness because it would imply two decision making processes
+
+There's plenty of research suggesting that we have two (or more) systems dedicated to decision making, although only one of them (typically called, snappily, "System 2") is generally seen as involving conscious awareness.
+Complete misunderstanding of my post, but I will admi the fault lies with my wording. I skimmed through what you posted and I believe we are standing on different ground. I speak more of a redistribution than a creation. Perhaps thinking of the minds abilities as being more like a pie is more beneficial for the argument. Within this pie there are abilities such as creativity, logic, abstract thought, future planning etc
+
+I merely attest that under some substances the ratios are distributed in a way that gives my "creative" ability much more of the pie than I would be able to access in a baseline state of mind but as we know we canno increase one function without decreasing the other. I think schizophrenia is an interesting point to bring up because what is it but a different rationing of the minds abilities albeit one that causes a multitude of issues for the one affected. Regardless the states of mind are so outworldly and show a potential of the mind that seems so beyond normal cognition (but at the same time rendering basic tasks impossible) that I think they warrant more investigation. Why I mentioned the weight lifting argument is as followed
+
+I myself have a somewhat poor visual imagination. I've mad many posts on here and have done quite a bit of reading as well. While under the influence of entheogens my visual capabilities seem infinitely greater to the point that the visions seem more real than the extrnal world. If we as organisms could do this willingly how drastically would it affect survival rates? The brain cannot allow us to have  the full potential of that ability.
+
+I hope that made it clearer. I am no expert in neuroscience but due to the lack of research on the topic (although I have faith this will improve) I feel speculation is valid.
+Building on your point, who's to say that what we would define as one 'thought' isn't a whole variety of different parallel processes that the OP is talking about? Basically what you've said:
+
+&gt; If I ask you to free associate about the word "Dog" a bunch of concepts probably come up: those that come from past memories, from associations with recent memories, blabla. There is likely some parallelized processing going on there.
+[deleted]
+I would be curious to know if training children in mental exercises that are designed to promote functional mental multi-tasking would produce an adult that is better at it.
+[deleted]
+How would you know you were thinking of two things at the same time?
+My comp sci intuition says to think of it like focus ina windows system - many concurrent operations can work at once - but only one gets the keyboard or your attention.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+I don't know if it's been studied in children, but there's some evidence that the more one multitasks, the *worse* one gets at it. Further, the ability to concentrate on a single task is diminished.
+[deleted]
+[deleted]
+It's likely that it is, and in fact the cognitive models that I've worked with seem to suggest that.
+[deleted]
+What are your thoughts on practicing to concentrate on one thing while many other distractions are involved? Say trying to do homework while I'm at my friend's house and a movie is on and other friends are talking.
+[deleted]
+[deleted]
+[deleted]
+There is a lot of research on mindfulness training, which if I recall can be done to train to tune out distractions. Unfortunately I'm not familiar with the current literature; but if that's what you're interested in that would be a subject to start reading up on.
+Sounds like you're just trying to say "I can increase my efficiency by doing something else while my code compiles."
+It is interesting how you could also be talking about computers here...
+Think of your consciousness as a layered hierarchy with the topmost thought being the only thing you are consciously 'aware' of. All thoughts beneath that lie in your subconscious or unconscious. There is a flow of relevant information from bottom to top. If you are thinking about something but suddenly a baseball is seen whizzing toward your face, your body pushes that subconscious thought into your consciousness. Your body may even react before you are conscious of the ball coming toward your face!
+I'd like to bring up Starcraft here, specifically Brood War.
+
+If the top level progamers got worse at multitasking with time, you would never see the type of dominence that exists in the Korean Scene. Mind sourcing your evidence?
+&gt; Yes, multi-tasking has been shown in numerous studies to result in decreased efficiency, but its not because multi-tasking is inefficient.
+
+This isn't entirely accurate.
+
+Given a finite set of resources (in this case brain processing power) and assuming there aren't other factors limiting resource utilization for a particular task,  multitasking is inherently less efficient than serial processing. This is a result of the overhead needed to allocate, coordinate resources and communicate between processes and applies to everything from abstract processes, such as computing or thought, to physical processes, such as building a house or moving dirt.
+
+In the context of the OP, this means that a portion of the brain needs to concentrate on managing all of this resource allocation overhead between multiple conscious tasks. This in turn means you have less total brain capacity available for those tasks.
+
+Could the mechanisms for multitasking in the human brain be made more efficient (or *less inefficient*) than they currently are? Possibly. But there would still be a fairly large amount of overhead inherent in sharing and coordinating the brain's finite resources between tasks.
+
+As someone else pointed out, there are a lot of parallels to computing - a field where the inherent inefficiencies of multitasking are well understood.
+[deleted]
+[deleted]
+Consciousness is poorly understood. It's been theorized that consciousness is an extension of working memory, which can hold a limited amount of information. 
+
+Consciousness also involves a certain level of concentration. Right now, you are receiving countless bits of sensory information, but you are only aware of them if you focus or if one catches your attention. The feeling of the clothes on your skin, your arm resting on your lap, and the sounds of the cars outside your house are the kinds of sensory inputs you wouldn't notice as you process this paragraph. 
+
+Consciousness our ability to be aware and our ability to construct an inner narrative. If you removed the limitations of how much information our consciousness could hold, would it still be consciousness?
+If I understand correctly, you're basically arguing for dis-economies of scale; that recruiting sub-populations of neurons to act as managers results in wasted potential.  Your citation of building houses as an example of this is curious to me.  What does it mean to build a house by multitasking?  I've built many houses, some mostly by myself and some with large groups, and I'm pretty sure its less efficient by myself.  This is for several reasons which don't apply to the topic at hand (e.g., people get lazy when they're working alone) but mainly because of specialization, which does apply to the brain.
+
+Anyways, drawing parallels between brains and computers is ill-advised, and basing conclusions on the assumption of equality between the two would never stand up to scrutiny.  I don't know whether neural multitasking could be more efficient than serial processing, but I think its plausible for the same reasons as economies of scale works.  Neurons benefit from greater specialization.  Plus, its not obvious to me that "manager neurons" are necessary.  The problem I foresee relates more to interference between different streams.  I guess the bottom line is we don't know enough about consciousness to speculate about the efficiency of multiple streams of it.
+A related Radiolab short: [A 4-Track Mind](http://www.radiolab.org/blogs/radiolab-blog/2011/jul/26/4-track-mind/).
+Diseconomies of scale has to do with inefficiencies introduced by adding resources, whereas the key constraints of my argument are having a *fixed quantity* of a resource and the ability to *efficiently apply 100% of that resource* to a task. My argument wouldn’t necessarily apply when you have spare capacity or the ability to add more resources.
+
+Maybe building houses was a confusing example. There are many factors that contribute to efficiency, and the complexity of a project like building a house makes it difficult to isolate out one factor and have a conversation about that without listing a page full of assumptions and parameters for the exercise. My argument wouldn’t apply to your counter-example of building a house with a group versus going it alone; that’s an example of adding resources. Where it would apply is if you were trying to build two or three houses at once, rather than finishing one and moving on to the next. Obviously, there are lots of instances where you might be blocked on one project and could work on the second project while waiting for the block on the first to be removed, and the frequency of these events will increase as your group size increases. But this is addressed by my point about spare capacity.
+
+&gt; drawing parallels between brains and computers is ill-advised, and basing conclusions on the assumption of equality between the two would never stand up to scrutiny.
+
+I have a fair amount of academic and professional experience with AI and machine learning, and have had a long-time interest in neurobiology and cognitive sciences (both out of necessity for my work as well as personal interest). I would strongly disagree with your assertion that drawing parallels between the two is ill-advised, not least because there are many aspects of the former that are patterned after our understanding of the latter. However, I did not and would not base any conclusions on an assumption of equality between computers and the brain – they are obviously not the same thing. The parallels are simply for illustrative purposes.
+
+By the way, I'm not arguing that improvements to the brain's ability to multitask aren't possible or that improved multitasking wouldn't be of great benefit to humans. I'm merely arguing that there's no way around the fact that both task switching and resource allocation are tasks that, in and of themselves, consume resources (no matter what the context) and therefore reduce your overall *potential* throughput. Whether your *actual* overall throughput falls depends on whether or not you have spare capacity or existing inefficiencies in other areas that could be fixed to make up the difference.
+Can't imagine why you got downvoted. Try [here](http://www.thenewatlantis.com/publications/the-myth-of-multitasking).
+Do you think there are any side effects to long term mindfulness training? I keep thinking of the episode of Dexter's Laboratory where he fires Deedee for being a huge distraction, and then later on he can't focus on his work at all because it's too quiet and he's too used to just doing his work while Deedee's running around making noise and blowing shit up.
+
+Summary:
+It seems like it would be more efficient if we could consciously do more than one thing at a time.
+I'm thinking more of thinking (!)
+but it seems that you can only actively "think" about one thing at a time.
+First:
+
+&gt;It seems like it would be more efficient if we could consciously do more than one thing at a time.
+There is likely some parallelized processing going on there.
+I am not sure that we can say that consciousness is 'serial'.
+How would you know you were thinking of two things at the same time?
+What does it mean to build a house by multitasking?
+It is interesting how you could also be talking about computers here...
+Multitasking seems to me as something slightly different.
+What are your thoughts on practicing to concentrate on one thing while many other distractions are involved?
+The ones we are observing?
+I would imagine that it is this conscience that is responsible for decision making.
+Could the mechanisms for multitasking in the human brain be made more efficient (or *less inefficient*) than they currently are?
+However, I did not and would not base any conclusions on an assumption of equality between computers and the brain – they are obviously not the same thing.
+Furthermore, it's clear that thought involves more than we are consciously aware of.
+It's likely that it is, and in fact the cognitive models that I've worked with seem to suggest that.
+Isn't that the definition of a conscious thought?
+It is one thing to say neurons are firing (as with singing a song) and being conscious or perceiving that event.
+I can easily manage two and more with a bit of concentration.

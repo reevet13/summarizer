@@ -1,0 +1,9 @@
+There are a variety of different notions of a technological singularity.
+Part of why people don't take the idea so seriously is precisely because a variety of different ideas.
+There are [three different broad suggested types of Singularities](http://yudkowsky.net/singularity/schools).
+What you are talking about is the third type, the  I.J. Good/ Eliezer Yudkowsky sort of Singularity, where an AI bootstraps itself by self-modification to become successively more intelligent.
+
+This is in many respects the most plausible type of Singularity.
+However, there's very little to do about it.
+Even if one thinks that this sort of Singularity is likely, the main point of this sort is that it occurs quickly by a single entity.
+So while one could potentially take preventative steps (For example, giving a potential general AI internet access would be a bad idea.) there's nothing much to do once it happens.

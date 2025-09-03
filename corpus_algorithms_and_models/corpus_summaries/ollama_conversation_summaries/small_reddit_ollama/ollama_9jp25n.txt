@@ -1,0 +1,21 @@
+Here is the extracted summary in approximately 10% of the original text (up to 250 words):
+
+In the last few years we've hit a new level of megapixel wars. The D850 and A7rIII came out with massive MP cameras at affordable prices in FF formats. With Medium format going even farther with the X1D, 645Z.
+
+I'd be lying if I wasn't tempted to upgrade by the arms race, but there is the question, how much of the megapixel wars is just a dick measuring contest with no increase in useable resolution.
+
+The eye has photoreceptors that peak at about 200,000 per mm^2 with a "focal length" of about 17mm = 0.669in.
+
+Feet|Meters|Photoreceptors per inch|
+:--|:--|:--|
+1|0.3048|670.67|
+2|0.6096|325.72|
+5|1.542|128.08|
+10|3.048|63.68|
+20|6.096|31.75|
+50|15.24|12.68|
+100|30.48|6.34|
+500|152.4|1.27|
+1000|304.8|0.63|
+
+Let me know if you want more!

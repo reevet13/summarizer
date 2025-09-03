@@ -1,0 +1,17 @@
+Here is the summary:
+
+This is what speed would look at as a function of kinetic energy. http://www.wolframalpha.com/input/?i=plot[sqrt(1-1/(q+1)^2),{q,0,10}]
+
+Ok. For what would be a constant acceleration in a Newtonian system, a, the velocity as a function of time is v/c=tanh(a*T/c). Tanh (hyperbolic tangent) just approaches 1 as its argument increases.
+
+http://www.wolframalpha.com/input/?i=Plot[tanh[x],{x,0,7}]
+
+The key being 'tends' and 'asymptotically'.
+
+In the accelerating object's frame of reference, it would feel a constant force (indistinguishable from a gravitational field) opposite the direction of travel.
+
+An object doesn't have speed in its own frame of reference.
+
+It works out when viewed from an external frame. In the accelerating frame, the acceleration still feels constant.
+
+An object undergoing constant acceleration is [described by a hyperbola on a space-time diagram](http://www.absoluteastronomy.com/topics/Hyperbolic_motion_(relativity\)).

@@ -1,0 +1,862 @@
+Original Response:
+Debate how you generate the heat to convert water to steam however you want (nuclear, solar, coal, oil, whatever), but there has got to be a better way to convert that stored energy in the fuels into usable electricity?  Isn't there?
+[deleted]
+[This website](http://library.thinkquest.org/C006011/english/sites/dampfturbine.php3?v=2) puts the efficiency of steam turbines at 40%. That is very efficient from an engineering perspective, but you are still losing 60% of the energy. Clearly we would like to avoid that loss, and where possible, these extra steps are avoided: hydroelectric and wind power don't use them. But in coal, nuclear, gas, etc the primary fuel generates *heat*. How else are you going to turn heat into electricity? Until we find a better way, steam turbines are a necessary evil.
+A little background: You may be familiar with the concept of [Carnot's theorem](http://en.wikipedia.org/wiki/Carnot%27s_theorem_(thermodynamics), which sets a thermodynamic limit on the maximum efficiency of a heat engine.  A heat engine is just a device which produces work by operating between two hot/cold reservoirs.  Almost all electricity is generated this way,* by heating steam to very high temperatures/pressures and extracting energy as it returns to atmospheric conditions.  Carnot says that the maximum allowable efficiency increases if either the hot temperature is raised, or the cold temperature is lower.  (Note that power plants don't run at full Carnot efficiency, but they are pretty close - most nuclear/coal power plants operate around 40% absolute efficiency compared to ~50% theoretical max).  In other words, the hotter we heat the steam, the greater the fraction of its energy that can be utilized as work as the steam is exposed to normal water/air.  
+
+There are more efficient ways to produce power, sometimes by using a working fluid/reactor material combination that can sustain higher temperatures.  For instance, there are some high-temperature gas cooled nuclear reactors being designed that use helium as a moderator/coolant.  Another important class of high-efficiency reactors use internal combustion of natural gas to turn a turbine directly - [see this comment](http://www.reddit.com/r/askscience/comments/o2ng3/is_converting_water_to_steam_to_turn_a_turbine/c3dx2nv).  
+
+However, electric companies don't get paid based on how much energy they save or what their efficiency is.  They get paid for how much electricity they make.  Steam cycles are cheap, easy to make, and easy to manage, and they remain the most *cost-effective* way to generate large-scale electricity.
+
+*Wind, photovoltaic, and hydro power are the only main sources of electricity I can think of that aren't heat engines.  Some large-scale solar projects are still heat engines, though.
+Here's the major issue.  All forms of energy ultimately revert to heat in an atmosphere, such as here on planet Earth.  As such, any method which converts thermal energy (heat) into mechanical energy (spinning a turbine) is bounded by the Carnot effeciency.  This limit is based on the temperature differentials between your concentrated heat source, and the reject source.  Typically speaking, the reject source is always around standard temperature (atmospheric temperature for air cooled generation systems, or water temperature for lake side generation systems.  So, the only thing we can do is to take the temperature of a heat source up as high as possible.  The limit on the high side is the temperature and pressure that the mechaincal structures can take.  Get too hot, and the turbine blades melt or creep and fail.  Too much pressure and you can't manufacture a system that can contain it.  As a result, we are really at our limit for the maximum effeciencies that a working fluid (steam) type energy conversion method will operate at short of some major materials break throughs.  
+
+Ideally, we would be able to capture usable energy (mechanical or electrical) from other forms more effeciently.  For example, if we could perfect an aneutronic fusion reaction using hydrogen and boron-11, the reaction byproducts are high velocity ions, which in theory could be used to directly generate electrical energy forgoing to carnot effeciency limit.  Photovoltaics are another example of converting EMenergy from incoming photons into electrical energy directly, also forgoing the Carnot Effeciency.  
+
+The big problem we have is cost.  Fossil fuels and conventional fission reaction fuel is very cheap and the technology is very well developed.  What would be great, is if someone could devlop a method for converting the chemical potential energy of hydrocarbons, for example, directly into mechanical or electrical energy.  The current chain takes that chemical potential energy, releases it as heat in combustion, then transfers that heat into a working fluid, which then turns a turbine to generate electricity. All of those steps have effeciency losses.  Finding a way to skip some of those steps would be huge, especially the heat transfer effeciency loss, and the Carnot effeciency loss.  
+
+One idea I have always subjectively liked, is finding a way to create artifical muscle tissue which could directly convert chemical potential energy into mechanical energy.  The mechanical to electrical conversion is very effecient, around 95%.  As a result, we could utilize a lot of our deactivated farm lands to grow fuel instead of our current methods.  I don't know what kind of effeciency is associated with the chemical conversion processes though, so it may not be viable.
+&gt; There are more efficient ways to produce power, mostly by using a working fluid/reactor material combination that can sustain higher temperatures. For instance, there are some high-temperature gas cooled nuclear reactors being designed that use helium as a moderator/coolant. 
+
+This raises an interesting questions.  Considering that pumping heat is significantly more effecient than raw delivery, and the carnot effeciency scales with the temperature differential of the working fluid, could an effeciency gain be made by a large heat pump working on the reject side to draw down the reject working temperature?  
+
+Assuming a typical operation of 820° K hot side and and 300° K reject side, the maximum effeciency is 63%.  If we drop the cold side 100° K to 200°, then the maximum effeciency is 76%.  Assuming the other criteria scale with the overall carnot effeciency, 76/63 = 1.2 multiplier for energy generated.  So a heat pump with a COP of 5 or greater would be break even.  Looking at aquick reference and the maximum heat pump effeciency going from 200°K to 300° K is 2.  So no, it wouldn't work.....damn.
+This is a very good explanation as to why steam is the most effective. It is worth noting that other forms of generating electricity also have similar theoretical limits that can be derived from making certain assumptions. For example, in the case of photovoltaics you have the Shockley-Queisser limit which places the limit of efficiency of solar cells at about 33.7% for a solar cell that uses a silicon semiconductor (this makes a number of assumptions that can in fact be broken--most frequently in labs by using multiple p-n junctions.) 
+(http://en.wikipedia.org/wiki/Shockley%E2%80%93Queisser_limit)
+
+In practice, however, the materials to make solar cells are also quite expensive and not as frequently produced, so there are economic factors to consider. In fact, economics is extremely important when considering "efficiency", as in an economic sense, efficiency at large scales is often different than making a single efficient source of electricity.  
+
+I'd also like to reiterate something which may not be perfectly clear in the above post: that the Carnot limit is a hard theoretical limit assuming a cycle of perfectly isothermal and adiabatic expansions and compressions. We can only ever approach the Carnot efficiency using gas as a means to do work, and will never beat it. However, by using materials in engines that can survive higher temperatures we can raise this limit. There have been theoretical experiments done to use ceramics in engines (and in some places they are used) because they can take higher heat. Problem is they are notoriously fragile compared to metals, and could break fairly easily due to stress.  So again, theoretical efficiency and practical efficiency are two different things.
+Wave power is also not a heat engine.
+In other words, efficiency is not the primary goal.
+
+Since we already have turbine technology infrastructure, supply chain, design engineers, etc., it would be way more expensive to backtrack and replace it with some other tech.
+
+Where it might be done is in high-funding projects where cost is no object:  military portable power, NASA aerospace, etc.
+
+A similar thing happened centuries ago with clocks, when 24hr days and the 12-hour/clockwise standard spontaneously emerged.  Once you've standardized, it's usually too expensive to replace it with improved versions.
+Increasing the energy conversion efficiency is interesting from an engineering perspective, and may result in better methods, but it is only loosely related to the two important metrics of power generation:
+
+* total cost of delivering a kWh of energy to consumers over the lifetime of the infrastructure
+* total pollution caused by delivering a kWh of energy to consumers over the lifetime of the infrastructure
+
+A simple, cheap power conversion process with 40% efficiency may be far better than a complex one that needs hazardous materials with 50% efficiency.
+wave can be a subset of hydro power.
+What about a [stirling cycle](http://en.wikipedia.org/wiki/Stirling_engine)?  Why aren't those used in large-scale power production?
+I'm reading your question as, "How do the different ways of generating electricity compare as far as overall efficiency is concerned." in which case a knowledge of methods of [Electricity Generation](http://en.wikipedia.org/wiki/Electricity_generation) might help.
+In the link you provided there is an 
+[analysis](http://en.wikipedia.org/wiki/Stirling_engine#Analysis)  that sums it up nicely
+Most efficient nuclear power plants operate close to seas and lakes in the north where cooling water is 5°C  on average during wintertime.
+[deleted]
+[deleted]
+Wind and hydro power are indirect heat engines.  The wind blows because of differences in atmospheric pressure, which are caused by uneven heating by the sun.  Hydro power is possible because heat evaporates water which then cools and condenses at a higher altitude.  In both cases, work is extracted from a temperature difference.
+
+EDIT: If you feel that this is scientifically unsound, inaccurate, etc, please reply explaining why.  askscience is a subreddit about scientific enlightenment.  Simply downvoting something doesn't contribute to that goal.
+The stirling cycle is a representation of the Carnot cycle also based around heat engines, so they are effectively the same thing in regards to turbine power.
+are solar cells theoretically the most efficient types, but they cost so much?
+[Stirling engines are being developed for use in solar power](http://www.infiniacorp.com/powerdish.html). Once built they are an efficient way to transform heat into motion but generating power at a reasonable scale usually means making them really big and with the entire mechanism inside a pressurized enclosure which has made other options more economical unless there are special circumstances.
+No they are actually theoretically less efficient than heat engines
+Improved time-standards? Do go on.
+Hydropower normally refers to a Hydroelectric Dam which operates very differently.
+[deleted]
+[deleted]
+Not sure it's cost effective but [generating electricity directly from radioactive decay](http://www.newscientist.com/article/dn13545-nanomaterial-turns-radiation-directly-into-electricity.html) looks like a possibility in the next decade.
+Assuming the artificial muscle is biological, won't it deteriorate rapidly and need constant replacements/supplies for regrowth?
+[deleted]
+[Anyone here familiar with the Gulfstream Turbine Project?](http://chippewa.gtsav.gatech.edu/outreach/workshop/presentations/mhoover.pdf)
+Not exactly the case here, as it's not an infrastructure problem.  You might want to look at advantages/disadvantages of [stirling enges](http://en.wikipedia.org/wiki/Sterling_cycle#Analysis) which run on a stirling cycle, which is closer to a carnot cycle.  If you look at the first power/torque issue it states that the heat transfer coefficient is pretty much constant (and low because the working fluid is a gas).  This raises a scalability issue... if you wanted to scale up to say a nuclear power plant size, the heat exchanger would have to be astronomically huge.  Rankine cycles transfer heat into water (which has a higher heat transfer coeffient because it's a liquid), so they aren't as limited and wouldn't have to be as big.  Steam is also a good choice of a working fluid because it can hold a lot of heat in the the phase transition between water to vapor.  A striling engine needs to run using a gas, and thus would also have to be scaled up even more.  This is because power is generated by moving heat from a hot reservoir to a cold reservoir.  The energy density of your working fluid determines how much heat you can move for a given size engine.  Basically, even if the infrastructure were there, rankine cycles would still be cheaper as they'd be a lot smaller for a given size powerplant.  Because they only have a limited lifecycle, they would be the best option unless fuel prices go up by a lot (I'd wager 10-20 times what they are now if there was no inflation).
+
+EDIT: On 2nd look, Stirling engines do not run on carnot cycle.
+Probably, but I don't know that the biological assumption is neccesarily required.  
+
+Ideally, we would identify a chemical reaction that is reversible by input from solar energy along wtih other chemicals.  The reaction would need some manifestation of usable mechanical power, as far as I know few exist.  The mechanism of muscle tissue consumming ATP in order to generate mechanical power is still very poorly understood.
+This is more suited for long-term batteries than large-scale electricity.  Ignoring the earth's core, there just isn't that much radioactive energy available.  Inside a nuclear reactor, by far the most powerful source of radioactivity on earth, only around 10-15% of the energy is due to spontaneous decay (the rest being from fission).  The amount of radiation that would kill a person is about the same amount of energy as a thrown baseball.
+Hydro is anything to do with water.
+
+http://en.wikipedia.org/wiki/Hydropower
+&gt; There are more efficient ways to produce power, mostly by using a working fluid/reactor material combination that can sustain higher temperatures.
+
+Typically the limiting component for the upper temperature bound in a steam plant is the blades of the steam turbines.  High temperature steam is viciously erosive on turbine blades.  The highest temperature systems use ceramic or monocrystaline turbine blades to resist that erosion.  Also, coal-fired boilers are typically more thermodynamically efficient than nuclear, because the former may use [dry superheaters](http://en.wikipedia.org/wiki/Superheater).  Nuclear reactor plants only get low to mid-30's in thermodynamic efficiency because the fuel rods must be wetted for safe levels of heat transfer.
+
+But the highest-efficiency heat engines in use today are not (solely) steam plants, and certainly not nuclear.  They are combined-cycle plants.  A gas-turbine generator is the first stage (think: jet engine spinning a generator instead of using exhaust reaction for thrust) running on the Brayton cycle.  The somewhat cooler exhaust gasses are then used to heat a secondary steam plant.  These systems get up to around 50% actual efficiency.
+
+Combined heat-and-power plants (CHP) can get even higher overall efficiency by using the low-grade heat in the exhaust for process heat or HVAC heat.
+In that the "hot and cold" reservoirs of a steam engine are analogous to high and low water levels in a Hydroelectric Dam
+Would hydroelectric power be a "gravity engine"?
+[deleted]
+I would posit an additional metric.
+
+Facility size required per kWh required to meet demand.
+
+Spacecraft propulsion methods are an excellent way of looking at the problem. Nuclear and Electric/Ion propulsion have high efficiencies but only Nuclear has thrust force capable for launching satellites. A 99% efficiency conversion process that supplies 5kWh/km without pollution cost may not be better than a 1% conversion process that supplies 2MWh/km.
+Current solar cells are not very efficient at all in capturing power. However the efficiency of a single power source is less important than the need to diversify our power base. So building more solar panels particularly in supplementary ways to run street lights and similar things, building wind turbines, and expanding nuclear and hydroelectric systems.
+It works for me. The idea of a heat engine can certainly be generalized to any place where you have two different energy potentials. The greater the difference, the higher the theoretical efficiency limit will go.
+
+Even photovoltaic cells can be described as using the difference in energy potential between the sun and the surface of the panel.
+
+What should be kept in mind is that Carnot engines are just a thought experiment that can't actually be built (although Stirlings come close). In some abstract way, there is always a Carnot engine involved in doing any useful work.
+In the case of NASA, they are limited by size and weight. That's way the RTGs on deep space probes use peltier-seebeck devices rather than turbines.
+[deleted]
+I'm surprised a quick ctrl+f doesn't find a single mention of fuel cells, especially given the discussion of Carnot limited cylces.  Fuel cells, while still needing of serious development for portability and cost, are not limited by thermodynamic processes.
+If you could do that, then you could build a perpetual motion machine.
+Thanks for clarifying, I admit that my knowledge of turbines is limited.  They were always just the thing you stuck on the end of the Rankine cycle when we talked about nuclear plant design.  And I always clump natural gas reactors in with coal reactors in my head, and forget about combined-cycle - which will be an especially important source of energy if natural gas prices continue the way they have been.
+&gt; Fuel cells [...] are not limited by thermodynamic processes.
+
+Please explain?
+In Canada, [hydro](https://secure.wikimedia.org/wiktionary/en/wiki/hydro) is anything to do with electricity
+It's important to remember that the real issue is the **cost** of providing electricity, not the *efficiency* of the energy generation.  The steam engine [has been around for a really long time](http://en.wikipedia.org/wiki/Aeolipile) and therefore has significant "inertia" behind it's widespread application.  The existing infrastructure acts as an economic barrier for any novel technologies.
+
+In short, it's good enough the way it is.  "Better" is defined by more cost effective, not more efficient.
+&gt; However, electric companies don't get paid based on how much energy they save or what their efficiency is. They get paid for how much electricity they make.
+
+
+This is not true in California, and many other states are following suit (Oregon, Massachusetts, Washington). The alternative scenario is called "Decoupling" and it means that utility companies in California (PG&amp;E, SMUD, SDG&amp;E) are all paid by a government regulatory commission (CPUC) based on how much energy they SAVE. I work for a company that helps perform the calculations and set the regulations. I think this is important to the discussion of efficient electricity generation because it impacts how those that generate are motivated.
+For discussion's sake, I'll ask you instead of Google.
+
+What materials in solar panels are expensive? Couldn't the government subsidize these materials and make solar cheaper and therefor more economical? If they did, would that make them efficient (economically speaking) enough to compete or even beat coal/oil/etc.?
+oh my god, this is blowing my mind.  What a huge, fatal flaw, I had no idea.  Surely, though, it is a flaw though, right?  The idea of "too expensive to improve the system" has got to change as the cost of fuel/climate change balance gets tipped further into the other direction (as well as a better understanding of full life cycle costing), doesn't it?
+I think there is a significant component of infrastructure "inertia".  The steam turbine (Rankine cycle) is a very developed technology.  The design concepts, equipment designs, material of construction, etc. are all fairly standardized.  When the true metric of evaluation is the delivered cost of electricity, not efficiency, this "infrastructure" gives a significant advantage to established methods (steam turbines).
+
+On your note about different engine types and cycles, see the [Brayton cycle](http://en.wikipedia.org/wiki/Brayton_cycle) which is also widely used to generate electricity (natural gas turbines).
+The main consideration is likely dependability for space missions.  Designs with moving parts will always have more failure mechanisms than RTGs (which is why the shortage of [238Pu](http://en.wikipedia.org/wiki/Plutonium-238) is so concerning).
+&gt; So no, it wouldn't work.....damn.
+
+Sooo... I read your whole post for nothing. Awesome.
+&gt; The amount of radiation that would kill a person is about the same amount of energy as a thrown baseball.
+
+That's crazy.
+
+I'm a layman, I think I get the gist of what you're saying, but can you elaborate a little and pretend you're explaining it to a kid?
+If you read up on what Carnot was talking about you will realize that the "cold" temperature would be better explained as the "temperature that heat will be rejected to".  It takes work to produce a temperature cooler than that "reject temperature" (i.e. you have to plug in your refrigerator).  This is why it's easy to dismiss your idea conceptually.
+There's tidal power too, which is hydro but doesn't need the water cycle :)
+Probably more correct to call it a "fusion engine" as it is the sun driving the evaporation of the water...
+Russia has always been a big user of liquid sodium to cool their nuclear reactors and submarines. It's apparently less bulky and more efficient than the common water-cooling reactors. However, their reactors also have a higher chance of going supercritical.
+But why water? Would a fluid of different heat capacity change efficiency? Or is it another case of cost efficiency that water is typically used?
+&gt; If you feel that this is scientifically unsound, inaccurate, etc, please reply explaining why.
+
+Frustrating, isn't it?
+
+Your post is 100% absolutely correct and very concise.
+The amount of blunt force trauma to the head required to kill a person is also about the same amount of energy as a thrown baseball.
+[deleted]
+Good point.
+
+Different constraints require different designs.  Defining "best" is often the most difficult part of the exercise.
+[deleted]
+supercritical is fine, its promt critical you want to worry about
+[deleted]
+I'm no solar expert, but I believe the primary expense in solar is producing the high purity silicon required for PV cells. That being said, even assuming you could subsidize the production/construction of numerous giant solar installations all over the US, they still can't compete with a steam plant until an acceptable energy storage solution is figured out. As long as the sun doesn't shine all day, everyday, solar is a niche power source at best. Baseload units are still necessary to back up the grid.
+
+Secondly, you couldn't do one giant solar installation in a desert because then you have a massive weakness in the grid. One simple malfunction and the whole country is without power. Or if you follow the Sahara desert idea, then the whole world is without power from very minor issues. Currently, a whole generating plant can go down generally with little disruption to the grid. 
+
+Something has to replace coal/oil/nuclear eventually, but currently we are doing our best to get rid of them while having no truly viable replacement. Its a road to disaster. Or perhaps we can also buy our power from China...
+We measure absorbed radiation dose in terms of the amount of energy deposited per unit mass it is deposited in.  In other words, if a Cs-137 nucleus decays near me, and I absorb the 662 keV photon that was emitted, I would have received about 662 keV / 70 kg radiation dose expressed in terms of whole-body absorption.
+
+The amount of radiation needed to cause lethal damage is around 2-5 Gray, or 2-5 joules of ionizing radiation energy per kg of body mass.  For a 70 kg person, that is around 200 Joules, which is roughly the same order of magnitude of kinetic energy that a baseball has when it is thrown.  Note also that, for our 662 keV cesium gamma ray, we would need around 10^15 of them to equal 200 Joules.
+Which I guess would make everything an indirect fusion engine, except tidal, and maybe geothermal, which'd be a fission engine, but then again those elements were created by fusion at some point, and the moon at some point got spat out by some star exploding on fission power, so I guess it's fission for everything after all.  A little besides the point though.
+I'm an operator for a plant that has 3 1-on-1 Combined Cycle (Brayton to Rankine) power plants of various ages. Our newest plant is by far the most efficient and most cost effective, thanks to a Heat Rate of around 7 Mbtu/MWh and natural gas $ &lt; coal $, in our collective pool. (On phone, links not available.)
+
+With new tech (read: fracking) allowing us to get more natural gas out of the gigantic shales under the Adirondacks/Appalachian/Pocono's, expect to see more and more GT-HRSG-ST, or multiple GTs (I've seen a 4-on-1!), configurations in the future. 2yrs to build, clean, "cheap", easier to obtain permits for, etc, etc.  Until we find a way to make nuclear smaller and cheaper, natural gas will rule.
+But even when you use sodium to cool the reactor, you use the hot sodium to heat up water to turn a turbine!
+I get what you are saying.  However, typical Hydroelectric power (dams) are a bit less removed from the fusion process, as the working fluid is actually the water.
+Being killed by nuclear radiation is like being killed by millions of really tiny but really fast baseballs, which summed up have the same energy as a normal baseball.
+&gt; Hydro power is possible because heat evaporates water which then cools and condenses at a higher altitude. In both cases, work is extracted from a temperature difference.
+
+There's also pumped hydro, which uses the network's extra power (produced from other sources, generally nuclear).
+
+And hydro is sometimes used to qualify marine power as well, including tidal barrages which indirectly extract energy from gravity differential fields AKA MAGIC.
+Yes, I've heard of it. Last I read, they were trying to calculate the effects on the ecosystem. From there you get into how to harness a flowing mass that isn't always in the same place. Then, how to transfer it back to shore...
+Unless it's a tidal generator (barrage or turbine)
+You're talking about a different efficiency than thetripp is.  thetripp is talking about energy conversion efficiency at the power plant, you're talking about usage efficiency of delivered energy.
+It’s hard to beat the 90%+ efficiency of running a river through hydraulic turbines…
+Combined cycle power plants utilize the waste heat for work, such as providing heating to an industrial process or for space heating.  So there are ways of using that heat besides just venting it to atmosphere, but there is not, as you say, a way of turning that 60% into more electricity.
+Yeah, I know about the Brayton cycle as I study gas turnine combustion.  It closely resembles the rankine cycle, except uses only a gas as the working fluid, and adds energy through constant pressure combustion rather than boiling.
+
+The problem is that there really aren't any other higher efficiency alternatives that are practical for replacing the steam turbine.  Steam is ideal because of it's high heat capacity from phase change, it also can be recycled (condensed and put back through the cycle) so it runs in a closed loop.  It is a "more developed" technology because it is very well suited to its task.  Changing to some stirling cycle or somethign closer to a carnot cycle would cost a lot more (even if the infrastructure inertia were removed), because the power density is a lot lower.  Higher efficiency processes are closer to being reversible (with a carnot cycle being perfectly reversible), which means that they take a long time to occur.  To scale to larger power outputs, the size of the plant would have to be a lot larger (I can't imagine how large a stirling engine would have to be to replace the rankine cycle in a nuclear power plant for example).  The cost of the materials alone would offset any efficiency gained (roughly 1.5-2 times efficeint AT MOST) for the lifetime of the powerplant.
+http://en.wikipedia.org/wiki/Metric_time
+
+http://en.wikipedia.org/wiki/Decimal_time
+
+http://en.wikipedia.org/wiki/Swatch_Internet_Time
+[deleted]
+[deleted]
+The working fluid is largely irrelevant.  In most power plants, the actual working fluid is mostly water with several other additives to condition it for the operating temperatures, lubrications propoerties, corrosive properties, etc...  The Carnot Effeciency is not dependent on the working fluid though.  We could easily heat the steam to higher temperatures and gain effeciency, but instead it is the mechanical structures that cannot tolerate hgiher temperatures or pressures.
+Yeah, the exercise is fun though.
+Not really, it's a case example of why entropy wins out.
+Not really, you would still be limited by the input energy required to power the system.
+Also consider the generation curve of the resource.  Power is not stored on the grid, the supply must match the demand nearly exactly, at all times.  We want our lights to turn on when we flip the switch, not when we flip the switch and it is sunny outside.  
+
+Traditional power generation is very flexible in that regard; you want more power, toss in some more fuel (/handwaving).
+
+At low levels of adoption the generation profile of the alternative resource does not have a large impact on the stability of the grid (the other generation sources compensate for its variability).  As the alternative generation makes up a larger and larger share of total power supply the generation curve considerations become more important (expensive).
+No. Why would you think that? "Too expensive to improve the system" is a perfectly valid conclusion, and not a flaw, especially not a huge or fatal one.
+
+Let's take it from a carbon emission stand point, since you brought that up. Replacing the steam plants "costs" you carbon emissions: mining, smelting, manufacturing, transporting, installing. What if it turns out that that + the more efficient solution is more carbon emission than sticking with the existing steam plant? Then indeed, from that perspective, it is "too expensive to replace the system".
+
+Nothing is free. Ever. There is no such thing as "just" money. IMO the real challenge of engineering isn't solving formulas, it's considering the myriad of "cost", whatever you want to measure that cost in. So yeah, "too expensive" is sometimes the case.
+The earth's rotation contributes to wind, so it's only half a heat engine.
+
+Edit: Why am I getting downvoted. It's a clear flaw in his story and he asked mention them if they were there, instead of downvoting. Have the honesty to do the same with my comment.
+Carnot's limit dictates the highest possible efficiency of a system which converts heat to another form of energy.  Fuel cells derive their power from a chemical reaction which takes place at the interfaces of an anode and cathode separated by an electrolytic substance.  The fuel, usually Hydrogen, is oxidized at the anode and broken down into positively charged ions and negatively charged electrons.  The positive ions are allowed to travel through the electrolytic boundary; the electrons are not. By separating these charges, a potential difference is achieved and current drawn.  
+
+The short version is, you are directly producing electricity through a chemical reaction, rather than converting chemical energy of a fossil fuel to heat, converting this heat energy to mechanical energy (through use of a steam turbine) and then converting mechanical energy to electricity (through use of a generator).  
+
+As fuel cells directly produce this current flow (electricity), rather than using a heat engine (like a steam plant), they are not limited by Carnot and theoretically could reach 100% efficiency.  (The efficiency of fuel cells is measured in a slightly more complicated manner than that of heat engines, but that's beyond the scope)
+Woah.  Good point.  Really.  One whose implications will actually take a bit to percolate through my thick skull into real opinions.
+
+However, with a shortage of time, I have some qualifiers of mental masturbation to add.
+
+Wouldn't our standard burny-style methods of generation end up being a combination of indirect and direct heat engines?  The source of energy in say, a lump of coal, was hugely dependent on the previous indirect cycles, no?
+For those curious, here is a link to one of GE's combined cycle gas turbines (nice diagrams explaining how it works on the site). My local power plant operates these in addition to their older coal powered turbines.
+
+[GE-7FA combined cycle gas turbines](http://www.ge-7fa.com/businesses/ge-7fa/en/about-7FA.html)
+
+Anyone have any idea of how much one of these cost?
+I think that would probably be great, considering that about 35-40% of farmland has been fallowed in the last 50 years, assuming a food based fuel source.  
+
+For that matter, we could probably use something like the sealed algae farm proposals for bio-diesel and put them in sealed tanks int he deserts to get some mega production energy wise.
+[deleted]
+I see - by thermodynamic processes, you're specifically referring to the *mechanical* processes in e.g. turbine generation that introduce a steeper limit to the efficiency of the system.  That wasn't clear from your first post, which kind of implied that chemical reactions aren't subject to the laws of thermodynamics.
+
+Edit: also, wouldn't it be fair to say that in theory, fuel cells could *never* reach 100% efficiency, specifically due to thermodynamics?
+Siemens claim an efficiency of 60% for their newest gas turbine when run in a combined cycle.
+High purity silicon (higher efficiency cells are made from a single crystal of silicon, so manufacturing silicon like this also costs $$$).  The silicon then must be doped to make p-type and n-type at very specific concentrations.  These doping agents are usually elements like arsenic, gallium, phosphorus.  Other semiconductors like gallium-arsenide cost a lot of money (gallium is rare).  I know people who work at a lab on campus which has set records for silicon cell efficiency, and one of them was saying that the higher efficiency cells lose their efficiency really quick with time.  This occurs because the light energy can sometimes mobalize the doping agents in the crystal.  This would cause some P dopings to leak into the N doped reagion and vice versa.  The result was a 20% cell's efficiency becomeing ~10% in around a year's time.  Not sure if lower efficiency cells lose their efficiency at this rate, but a 1 year half-life would make higher-efficiency cells very uneconomical (law of diminishing returns would make them very expensive to begin with in comparison with lower efficiency cells).
+
+I don't think that subsidizing the materials alone would make solar cheaper than coal/oil/etc as the manufacturing processes are also really expensive.  The other issue (more of an economics argument, somewhat off on a tangent) is that the government subsidy has to come from somewhere.  Is it worth taxing the nation, and enduring a weaker economy (economic intervention always results in a deadweight loss with the economy becoming less efficient than it could be) to promote solar?  Is there a concrete reason why this should be done that isn't politically motivated or enthusiast motivated?  If you want to get off foreign oil (most is used for cars anyways and not powerplants), nuclear would be the best option, or heavy investment into fusion (if sucessful the price of energy would dramatically drop).
+I had been thinking a while ago if a compressed air system could power a turbine and create electricity like steam would. I was thinking on a small scale you could just power the compressor to recompress air with the energy from the small turbine. Anyone have any idea whether this would be a viable power generator?
+[deleted]
+[deleted]
+This isn't unsound per say, it is a little misleading however. 
+
+In a similar vein, you could say that everything is nuclear power, as fundamentally the sun is a fusion reactor that powers solar, wind, water cycle, biofuels, fossil fuels; fusion/fission have their own 'domestic' forms (though fusion isn't commercial yet); tidal is the only exception by this analogy (though I'm sure someone could link it to stellar explosions if they really wanted).
+
+The context of separating energy generate routes into heat engines here is to give context to the type efficiency gains to be considered and why steam is a very successful method of electrical energy generation. In contrast, wind/non-tidal hydro has an efficiency bottle neck that is dissimilar (related instead to the principals of a generator/motor and losses due to friction).
+
+tl:dr It is not wrong to consider wind+hydro as a heat engine, but it isn't helpful in this context. Alternatively everything could be considered as nuclear power.
+It depends what you mean by efficiency. Economic efficiency is the goal. There are any number of reasons why this may be good or bad, but it is reality.
+
+A goal of conservationists should be to ensure that the two coincide safely. For example you could increase the efficiency by changing the working fluid of the system from water (which is hugely inefficient due to the high heat of vaporization) but you would increase costs and environmental hazards astronomically.
+How do you propose generation (and storage) of the fuel? I suspect that'll be a bigger bottleneck for fuel cells.
+Oops - didn't see this post when I wrote something elsewhere in this thread.
+
+I'd agree with you fully, so upvotes to you. Context to choice of nomenclature is everything!
+actually, in PWR, the external water source is not directly part of the thermodynamic cycle. the point of this water source is only to make the steam condense back into liquid. but to keep the cycle efficient, you have to maintain the temperature as close as possible to the saturation temperature (the T° when the liquid water is turning into steam). otherwise, the heat comming from the primary coolant is used to heat the cold water instead of creating steam!
+=&gt; you are wasting nuclear energy and it's not efficient.
+
+
+I hope this is clear enough, otherwise don't hesitate to ask anything more!
+
+[IAmA French student graduating in nuclear engineering ^^]
+I'm surprised to see no mention of [MHD Generators](http://en.wikipedia.org/wiki/MHD_generator) here.
+Can you elaborate on what you mean by 'need'?
+Don't most of the more powerful reactors use molten salt now instead of water?
+Actually most hydroelectric dams (that i know of) generate electricity through it flowing down a mountain or hill, then pump it back up using electricity from the grid. At night. When it's cheaper.
+[deleted]
+How common is wave power? I know there's a lot of potential, but AFAIK there hasn't been much actualization.
+It would be on the order of 1 Billion USD for a new one with no existing infrastructure (fuel handling, etc...). That is just an extremely rough, out of my ass guess. Though I have been working on preparing bids for petrochem facilites the last year or so, so hopefully my out-of-nowhere guess is worth a little more.
+Most of their nuclear reactors are VVER (PWR) and RMBK (Chernobyl model) which are relying on water. but they indeed have reactor using soduim.
+
+the point of using sodium is not really to improve the thermodynamic efficiency. Using Sodium requires a big change in the way the reactor works. In most of the current reactors that use water as a primary coolant, water is also used as a moderator (it slows down neutrons so that they can induce fission reaction on 235U)
+But when you use Sodium, it's only for its cooling power. and you can't use sodium as a moderator (the probability for a neutron hitting a sodium nucleus to slows down is way too low). And you have to induce fissions on uranium atoms with neutrons going at full speed. it's really a whole different thing.
+
+I won't go into more details (unless you want more details about that) cause it's wayyy off-topic ^^
+To be clear, I'm not referring to the inefficiencies added to the system through use of turbines and generators.  While chemical reactions are indeed subject to the laws of thermodynamics, I meant that the power generation taking place in a fuel cell is not limited by *Carnot's maximum efficiency* as that applies only to heat engines. 
+
+http://en.wikipedia.org/wiki/Carnot%27s_theorem_(thermodynamics)
+
+Taking efficiency to be measured simply as the energy produced over the latent chemical energy within the source fuel, heat engines are limited by Carnot; fuel cells are not.
+
+While mechanical inefficiencies certainly lower the overall efficiency of power production in a steam cycle power plant, it is the Carnot limit that plays the largest role in keeping efficiency at around 40-50% rather than anywhere near 100%.
+economic efficiency is the primary goal not energy efficiency.
+Well I can't claim to be able to solve that problem, though there are alternative methods of hydrogen production being investigated that don't inherently rely on fossil fuels. 
+
+As far as storage, light-weight, high-strength materials like carbon fiber can be used to create tanks for storing hydrogen at pressures exceeding 10,000 psi.  High pressurization and/or liquid nitrogen based cooling, should it become economical, could be possible solutions for storing liquid or gaseous hydrogen. 
+
+Also, there are cells which can use hydrogen stored in a metallic structure, but other than obviously increasing the weight of the fuel, the reaction this process uses necessarily takes place at significantly higher temperatures than conventional methods.
+So, any machine can only reach 50% efficiency?
+50% is just the maximum theoretical efficiency for an engine that has a hot-side temperature of 300ºC and a cold-side at room temperature.  In other words, if you heat up water to 300ºC, you can ever only get back half the energy you put in.  If you heat it up higher, you can get a greater percentage of the original energy back.
+An alternative being researched is [thermophotovoltaic](http://en.wikipedia.org/wiki/Thermophotovoltaic).
+
+You use the heat generated to heat an "emitter" ( a piece of of black material usually ) and this emitter will emit blackbody radiation toward a solar cell that's tuned for a specific temperature ( as opposed to 6000K for the sun ).
+[deleted]
+[deleted]
+I was unaware that you need a [dictionary](http://www.merriam-webster.com/dictionary/need)
+
+Current development on any one alternative energy source to fossil fuels is too slow to keep up with consumption. Therefore we must diversify our energy production in order to keep up with demand and have a stable alternative to fossil fuels. Basically exactly what I already said.
+[deleted]
+&gt; And photovoltaic! Can't believe I forgot that one. Some large-scale solar projects are still heat engines, though.
+
+It's also worth pointing out that STE power is currently three or four times as efficient as photovoltaic, at least at large scales.
+the point of using molten salt is not that much about getting the highest power possible. And i think the most powerfull reactor currently in working condition is a Light Water Reactor (PWR or BWR, i'm not really sure about wich reactor exactly).
+
+I quickly looked at the most powerfull reactors in Russia, USA and France, and i think the french N4 reactors are the most powerfull (1450MWe, 4270MWth), and the future EPR is going to be even more powerfull (1600MWe)
+all those reactors are running on water ^^
+
+
+In addition, most of the current prototypes based on molten salt are smaller (either because it's for research activities, or because they are built to demonstrate the viability of a new concept)
+And how would you power the compressor?
+It really can't be, but it's the most reliable and understood system that we have.  It also can be produced on an repeatable manufacturable level, and that is important in the marketplace.
+[deleted]
+[This video shows a one meter lens magnifying sunlight and melting rock.](http://www.youtube.com/watch?v=z0_nuvPKIi8) How many lenses used in a small boiler application would be sufficient  to produce an average home's energy consumption? Would this system be more efficient than solar panels?
+[deleted]
+Are researchers making any tangible progress towards fusion reactors?
+Technically you use that hot sodium to heat cold sodium which then becomes hot and heats water and turns a turbine.
+
+You know, so that any issues with the heat exchanger don't result in an explosion in the primary cooling loop.
+For a medical expert, you sure as hell nailed it:
+
+&gt; However, electric companies don't get paid based on how much energy they save or what their efficiency is. They get paid for how much electricity they make. Steam cycles are cheap, easy to make, and easy to manage, and they remain the most cost-effective way to generate large-scale electricity.
+
+Can't point this out enough. 
+
+&gt; Wind and hydro power are the only main sources of electricity I can think of that aren't heat engines.
+
+My understanding is that they're indirectly heat engines. Please correct me if I'm wrong.
+Other than solar panels, if you want to generate your own electricity for personal consumption what would be a good system?
+[deleted]
+i think what you're thinking about looks like that : http://fr.wikipedia.org/wiki/Four_solaire_d%27Odeillo (sorry it's in french, but the pictures are pretty self explanatory) 
+
+Well as usual, the problem is not really about making something that works, it's making something that is pertinent on an industrial level. And in this case, making a very good installation requires : 
+1/ lot of space
+2/ very clean lenses/ very well polished mirrors =&gt; cost an awfull lot of money.
+There are also a lot of rare metals that go into conventional solar cells. [ITO](http://en.wikipedia.org/wiki/Indium_tin_oxide), indium-tin-oxide, is one of the big culprits because of how expensive indium is but for now is an irreplacable material. 
+
+Many of the active light emitting layers of LEDs (which in a crude sense can be thought of as horribly inefficient reverse solar cells) also contain rare metals.
+Someone needs to code in a little example clock ticking away in the top right of those articles.
+Well initially I was thinking you would use normal mains (I'm thinking home generator) to get the initial air compressed and then once it's running it would power itself...assuming it could produce enough power for itself and other applications. This is where I'm unsure on how much power a turbine could produce and whether it would be viable.
+That's what 4 years in engineering undergrad will do to you!
+
+If you want to call it an "indirect" heat engine, you can, but I don't find that classification particularly interesting.  I mean, we can trace almost every source of energy back to the sun.  We don't analyze the carnot cycle of the sun/hot air/wind cycle when we look at wind power the same way we would if we were designing a coal plant.
+[deleted]
+there are even some project that might use (it's not decided yet. it's still in early development) argon gas in the cycle instead of water to avoid at all cost the combination of water + sodium in the building. The issue being that using argon makes you lose a few % in the overall efficiency of the reactor... quite a dilemma (since losing 2/3% of efficiency on an industrial reactor is a HUGE amount of energy lost for nothing)
+I believe you are imagining a gas turbine without a combustion stage. It would be impossible to generate net power from such a device.
+
+If you intend to expand compressed air stored in an accumulator through a turbine you will generate some power. But in this design the accumulator is basically a battery and it will take more energy to replenish the accumulator than you could generate through a turbine.
+Your idea could work for [energy storage](http://en.wikipedia.org/wiki/Compressed_air_energy_storage), but I don't think it would be a viable energy generating source. What would the applications of this compressed air generator be?
+
+Also a turbine would not be able to put in the work to recompress the air, and do useful work. I can't remember the specific thermodynamics at all, but hopefully a panelist or real scientist can drop in and prove why.
+You can subsidize silicon and rare earths all you want, but you're just moving your power bill from your monthly bill to your tax bill.
+
+On top of it, its not just panels, but batteries. The nice thing about generators is that you can spin them up or down as you need them. Panels are either on or off and you need to store tons of energy for overnight.  Now you're just not subsidizing solar tech but also battery tech. The ugly truth is that battery tech hasn't advanced like other technology. There are no battery revolutions, just small evolutions every so often. In the end you're probably just going back to hydroelectricty anyway to store energy for overnight:
+
+http://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity
+
+Why the rube goldberg scheme of using solar, batteries, and lakes? Just heat that stuff and drive a generator. As long as uranium, thorium, or whatever is still plentiful, it makes sense to use "low tech" like steam driving turbines.
+[deleted]
+I understand your comment to yoshhash, but your statement
+&gt;What if it turns out that that + the more efficient solution is more carbon emission than sticking with the existing steam plant? Then indeed, from that perspective, it is "too expensive to replace the system".
+
+is only true if looked at from an instantaneous perspective.  Quick but related tangent: I work in Solar, and one thing I have realized is that everyone seems to link kW to kWh as if they're the same thing.  They're related, yes, but everyone forgets *time*, which is critical.
+
+So continuing (and keep in mind this is all pertaining emissions), your statement is absolutely true, but only if looked at from an instantaneous or short-term view.  Of course there's an emissions cost to switch to the new technology.  However, if the technology is indeed better or more efficient, there *is* a payback period/break point.  It's just whether that payback period is palatable to the parties involved.  If the new tech + installation emissions cost is more than sticking with the existing plant, that doesn't nullify the new tech, it simply asks the question "Is a short-term increased cost in emissions worth it to improve long-term emissions?"  Here's an example, with numbers chosen purely to show a point:
+
+-Existing steam plant outputs 10k lbs of CO2 a year
+
+-New Tech X outputs 5k lbs of CO2 a year
+
+-To install New Tech X, the "cost" is 20k lbs of CO2
+
+-If you install New Tech X, sure, you put out 25k lbs of CO2 in the first year, but by the end of year 4 you've both put out a cumulative 40k lbs of CO2 and from year 5 onward, the steam plant is now polluting more than New Tech X.
+
+In this example, it's ridiculous for anyone to suggest that New Tech X is a bad choice because its year 1 cost is more than the steam plant.  Those people are simply not looking at the long game.  I believe this is what yoshhash was getting at when he made his post.
+
+Oh, and not only that, but since we're trying to take a holistic view of things, people seem to have forgotten that the existing power plant *was built at one time*.  It didn't miraculously spring into existence.  There was an emissions cost to build that as well.  Since we're factoring in build costs for New Tech X and looking at everything, it only makes sense to factor in build costs for the steam plant.  That's going to make New Tech X that much more attractive.
+
+Implementing newer tech (that will positively impact the entire globe) is a massive problem with economies driven on ridiculous quarterly results, and let's be optimistic and completely ignore the inevitable lies and misinformation on the newer tech by the incumbent tech supporters.  Hell, it's a problem with *humans*.  We all want stuff immediately.  But sitting back and derping because a change for the better requires some short-term pain does nothing but hurt us in the long-term, and our current nation is a fine example of the outcome when we neglect that long-term.
+
+**TL;DR:** If a new technology is demonstrably better/more efficient than an old technology, it will *always* trump the older technology cost-wise given a long enough time scale.  Whether that time scale is acceptable to the parties involved is a different beast and merits its own forum of arguments and discussion.
+ITO is not used in conventional solar cells. The only "rare" metal is silver. Otherwise its silicon, nitrogen, aluminum, boron, and phosphorous. 
+
+ITO is used in solar cells not based off crystalline silicon; but those make up a small market share.
+Will nuclear fusion plants also use heat engines when we finally start using that technology? Such a reactor almost seems impractically hot for this method.
+Ah I see. Thanks so much. Woa I see you do Medical physics. Do you have an MD or are you a scientist? I'm pursuing an MD and hoping to do neuroscience of some kind.
+One of my radiation-protection professor once said that the radiation energy required to kill someone is roughly equal to the amount of heat contained in a cup of hot beverage. But in one case you're dead, in the other you're just feeling warmer!
+
+the way nuclear particles deposits energy in your body is not very easy to explain. There are some fact that are counter intuitive.
+for example : 
+-depending on the kind of particle(neutron, electron, alpha particle, photon, ion etc...), the amount of damage made to your cells is different (even if the particles are of equal energy).
+-depending of the organ where the particle interacts with your body, the effect won't be the same (even if the energy deposited is the same)
+
+that is why the unit called the Gray (J/Kg, it's the amount of energy that has been deposited in a 1kg mass) is not enough to evaluate the dangerousness of the exposition.
+You may have heard of Sieverts (Sv) : this unit is based on the amount of energy deposited in a certain mass, but it also takes into consideration the organ and the type of radiation you've been exposed to.
+for example, a photon has a weighting factor = 1, a neutron has a weighting factor between 1 and 20 depending on its energy, an alpha particle has a weighting factor of 20!
+
+the weighting factor for your organs are calculated so that the sums of all the organs is equal to 1. =&gt; http://en.wikipedia.org/wiki/Sievert#Effective_dose
+[deleted]
+That's a great method of storing off-peak energy.
+I work in the solar industry.  I do not make the panels (I do design and installation) but I interact with the people that do at conventions and training sessions because 1) I have to know these panels 2) It's fascinating stuff.  I also can simply look at the cost of panels when we purchase them and compare historically.
+
+It's really not industry-shattering costly.  If it were, then the cost per watt (for panels) would not have plummeted over the last 2 years.  The industry wouldn't be the fastest growing industry in the US.  China would not be pouring as much money as they have been to make panels and sell them to the rest of the world at dirt-cheap prices.  I've been working in the industry for 2 years now and have watched the cost per watt go from the mid $2/W range down to (in some cases) $0.80/W in those two years.  Furthermore, seeing technologies like the [Optical Cavity Furnace](http://www.nrel.gov/news/features/feature_detail.cfm/feature_id=1629) show massive promise in lowering production costs even further.
+
+Doping the silicon is necessary, of course, and it seems the base method of making the ingots (melt silicon, draw it out/pour it, let it cool) will stick around for a bit.  Improvements in furnaces and doping will continue to help as well.  Progress in those multi-junction cells will obviously help, although IIRC NASA's really the only ones that can are actively making (and can afford) multi-junction panels because of their size and weight constraints.  You don't see those panels in commercial installations yet.  Lastly, there was a very neat article I had read about some kind of quantum-dot solar cells that utilize a single photon's energy to excite two electrons to different energy levels.  MEG, was it called?  Multiple Excitation Generation or something?
+
+The solar industry still has a way to go, and there will always be room for improvement (like any other technology), but it's surprisingly a very financially stable investment and not that expensive to make.  If your ROI is 5 years for the array you put on your business, then after 5 years you literally are making free electricity.  The return can be amazing.
+
+It's important, however, to note that there is no magic bullet.  We need a range of power generation to satisfy our needs and balance out the sources that have limitations (no solar at night, no wind turbines when it's not windy).  It's very encouraging most of the posters around this portion of the thread are saying that very thing.  Moderation and balance is what we need.
+Thanks for the input. I don't really have the scientific knowledge on making that sort of thing work. Had been bugging me as to whether it would though.
+Here in California, the California Energy Comission (http://www.energy.ca.gov/) estimates Solar PV plants at ~60c/kWh, with thermal as low as 27c/kWh. (This is after subsidies, so it's not the true cost.) But rooftop PV solar on my house ran 23c/kWh (again, after subsidies). So PV solar is competitive with thermal.
+
+While thermal can use molten salt or similar methods to continue producing during times that the sun is not out, it's preferable to just have nuclear capacity as a power backstop if you're looking to have a zero-CO2 energy production state.
+
+Pumped storage and batteries, as you say, are not capable of handling society's power needs.
+I've wondered this myself,  coal is used to boil water, even freaking nuclear plants from my understanding are used to still boil freaking water. The whole time I thought we just had some tech that could collect the radioation and turn it into power much like photovolatics does with sunlight. Nope boiling water.
+All commercial PV panels I've seen are rated at retaining 90% of their capacity after 20 years, or you get a refund on them. (I think they actually overprovision capacity as a bit of a buffer against this.)
+
+Nuclear won't help us get off foreign oil, though it really is our best choice for power.
+
+To get of foreign oil (damn those Canadians!) we need to convert coal to gas using the Fischer-Tropsch Process (http://en.wikipedia.org/wiki/Fischer%E2%80%93Tropsch_process). America has tons of coal.
+
+Combining the two, you have the Shaka Plan for Energy Independence - replace our coal power plants with nuclear, and use our coal to run our cars. Everyone wins.
+&gt;clean, "cheap", easier to obtain permits for, etc, etc.
+
+clean-*er*, not "clean".
+
+Natural Gas plants emit half the CO2 of coal, and so are as bad as biofuels (which people mistakenly think are a zero-CO2 source of energy). They're certainly not at the level of hydro or nuclear in terms of being clean.
+Bingo.  All this technology, and I was wondering why we are still boiling water to make electricity.
+Actually the previous poster has a good point. The dead state is an important consideration in employing heat engines for power generation. In nuclear power stations a reactor, such as a pressurized water reactor, is simply used to provide the heat input for a Rankine power cycle. But the heat rejection is controlled by the dead state, which we cannot control other than by choosing a location for our power stations. Since steam turbines are heat engines their efficiency is limited by the temperature ratio that they operate on. The upper temperature is limited by the design of the turbines, because the turbine blades are manufactured for certain operating conditions, and the lower temperature is defined by the dead state. 
+
+However, as you stated, we indeed do not want to spend much energy raising our water to the saturation temperature as this is energy that could be used to generate steam. Because modern steam turbines can expand to pressures much lower than atmospheric this allows them to reject heat a much lower temperature. This improves efficiency but also creates the problem of raising the water to the saturation temperature at the boiler pressure. This problem is typically mitigated by using multi-stage turbines and a device called a [feedwater heater](http://en.wikipedia.org/wiki/Feedwater_heater) which is used to raise the boiler inlet temperature closer to saturation.
+The only problem with water power plants is that there is a limited amount of running water areas on the earth, when wind, sun, and water to boil is easy to access.
+I am just wondering if there is a major damage to using this? or if the efficiency is the reason you call it a necessary evil?  Are there ecological effects if the former were the case?
+It really all depends on location. When all was said and done, our newest, 320MW rated 1-on-1 was about half that. That was for everything; from planning, to construction, to start-up. ...a billion can be achieved I'm sure, but that'd be a very large plant. I better get at least 1GW for that price!
+&gt;So, any machine can only reach 50% efficiency?
+
+No, not "any machine" - we're only talking about steam engines and similar technologies. The theoretical efficiency depends entirely on the temperature (in K) of the hot (Th) and cold (Tc) reservoirs. The formula is simple: 1 - Tc/Th. So if your cold reservoir is at the freezing point of water (273K) and your hot reservoir is at the boiling point (373K), your maximum efficiency is ~27%. If you have a cold reservoir at absolute zero, a Carnot engine will run at 100% efficiency.
+ 
+http://en.wikipedia.org/wiki/Carnot_cycle#The_Carnot_cycle
+It would produce less then it took to compress the gas in the first place.
+It's all just strings, man.
+This seems too easy.
+
+Don't we need to convert all of our current gasoline/diesel engines to run off of gas first? I am aware that we have some pretty impressive modern, commercial gas engines, but it would seem like a massive undertaking to convert millions of cars to run off of gas.
+Truth. We're compliant!
+Look at the [SEGS](http://en.wikipedia.org/wiki/Solar_Energy_Generating_Systems) projects installed in the Mojave Desert for an example. These power stations use parabolic troughs to focus the Sun's radiation to heat a fluid and drive turbines. The largest installations can generate 80MW but the collectors occupy an area of of about 50 hectares. I believe that the performance of solar thermal installations is generally better than photovoltaics but recent advances in photovoltaic technology may have changed that.
+Gas is a common abbreviation for gasoline. :p
+
+We can run our cars on *petrol* from coal without having to convert our cars at all. The technology to do this has been around and working in gas-poor countries for 80 years.
+
+I nearly punched my TV when Feinstein voted against it, saying it was "new and unproven" on CSPAN.
+I wish I saw this earlier - you should check [r/sciencefaqs](http://www.reddit.com/r/sciencefaqs/comments/jkjo0/why_do_we_use_water_for_a_working_fluid_in/), as per the guidelines.
+This violates the first law of thermodynamics; you can't generate more energy than what you're putting into a system. The absolute best-case-scenario would be 100% efficiency (which means that the energy supplied to the system is equal to the energy coming out), but this is not achievable. 
+
+Closed loop power generation cannot work. Somewhere along the line, you need to supply energy to the system in order to produce usable energy. In most cases, the energy inputs to a power plant are MANY times higher than the outputs. This is where cost comes in. 
+
+EDIT: I just realized...You COULD do something like use solar energy as an energy source for your compressor, but the costs and resulting power outputs probably don't make it worthwhile.
+What would it take to store power on the grid? Or have sitting reservoirs of "energy" (aka giant batteries)?
+Al thought this is a different topic:
+
+Energy of a thrown base ball~150 joules
+
+Energy of a shot bullet~50 joules  (varies hugely)
+
+Power of the human body ~100 watts
+
+The human body consumes the energy needed to kill itself every second. This is no surprise because the energy used to throw the killer baseball is supplied by a human body. Anyway, its not the energy that kills someone, its how it is applied.
+Pretty much exactly what I was going to say, except worded better.
+Commercial panels are not the high efficiency panels.  If you start with a lower efficiency, you don't have as much to lose.  Also, some kind of cooling for the cells will delay the loss in efficiency.  The main issue is that it will take the 20 years or so to pay for itself.
+
+For nuclear, the high cost occurs upfront, and then it is relatively cheap to run/maintain.  If we ran nuclear plants overnight, when demand is typically low, we could split water to make hydrogen.  More investment into a hydrogen infrastructure would allow us to replace gasoline as a source of power for vehicles (although storage is a problem that has still yet to be solved).  Internal combustion engines could me modified relatively simply to accept hydrogen (no need to vaporize the fuel, just make sure it mixes well.  adjust the timing slightly as hydrogen is a very fast fuel from a kinetics standpoint).  Imagine where we'd be now if the ~$1 trillion dollars in economic recovery went into the large initial investment for nuclear powerplants.  Energy would be extremely cheap, and would stimulate the economy much more effectively than the special interest projects it was dumped into.  Manufacturing would be cheaper, as would be the cost of living.
+
+We can already convert coal into a different fuel, known as syngas.  It is basically a mixture of CO, H2, CH4, and CO2 depending on the source in particular, although it is mostly CO and H2.  With some modifications to combustor design it could be used as a fuel.  I work as a graduate student at a lab studying combustion... a few of our projects deal with CO/H2 blends for this very reason.
+[deleted]
+Sure it's infrastructure: you want a new commercial megawatt plant, there's already in-place infrastructure for mass produced parts of conventional turbine systems.  This "infrastructure" includes all the engineers and techs in the schooling pipeline for turbine installation, operation and maint.  Don't want turbines?  Then you can't take advantage, can't "order out of catalog," or hire turbine-experienced personnel. Instead you hire a team to engineer a non-turbine megawatt plant.  Then you train a staff in unconventional power plant operation.  Expensive, but if your way is that much better, costs will eventually come down if you can successfully compete with turbine sales.
+
+Analogy:  IBM mainframe sales being out-competed by microcomputer companies.
+
+And maybe large centralized turbine plants will eventually be threatened by non-turbine direct conversion e.g. onsite solar.
+
+The Bussard Fusor was supposed to be direct conversion nuclear, no steam or turbines required.  In a hundred years will we all have a little one in the cellar?  Or will each town have its own Fusor?
+Including a preheater in a design makes it so that some of that 60% that would otherwise be lost gets turned into electricity.
+Simple answer: more money than people generally want to spend.
+
+Complex answer:  There are many different concepts on the drawing board.  None have really gained much traction in the utility world.  Probably the most common is "demand side management" which is what is going on when the utility asks large industrial users to back off on their energy use, or when your utility adjusts your thermostat for you.  Not an actual battery, but the grid can't tell the difference.
+It works.  Unfortunately, it's only great relative to the other poor options the utilities have.  It's unusual to have a geographic location that lends its self well to pumped hydro storage.  Additionally, the cost of building those facilities is prohibitive.
+Wind turbines, water turbines, engine genset running off tank of propane/gasoline/natural gas.
+
+"Home Power" magazine is a good place to start.  The people with off-grid wilderness cabins have solved these problems multiple times.
+Burning coal is really dirty, especially if it's not treated properly. It puts out chemicals that cause acid rain (NOx, SOx), puts mercury into the atmosphere, and of course releases CO2. Naively looking at numbers, you could say that since a power plant only gets 30-40% of the energy out of the coal, we are burning three times the amount we need and putting a lot more of these pollutants into the atmosphere. The current system, steam engines, has an upper bound of efficiency, the Carnot cycle, which is determined by how hot you will run the plant. If we didn't use steam engines, maybe we wouldn't have the upper bound of the Carnot cycle, in which case we could burn less fuel. But there isn't another technology that does it, so it's a necessary evil.
+I'm thinking of implementing this if I were to ever have my own house in the wilderness or not... Also this would be costly to set up but you'll be saving a lot in the long run, right?
+Newer generations of solar cell materials include cheaper multi-crystalline silicon. And once you start making these things in bulk, the cost reduces drastically by economies of scale. Take the semiconductor industry for example, the cost of a Silicon wafer is fractions than what it used to be. That's why I don't buy into your argument that it's the material cost which is deciding factor. The deciding factor for solar power as @keithps pointed out is the Energy Storage dilemma.
+Thank you, you saved me a whole lot of typing.  I wholeheartedly agree, the "fatal flaw" I referred to is exactly that: yes it's expensive to upgrade, maybe devastatingly so.  However, when you look at another 200 years or more of using an inefficient system, I would think it's foolish not to consider that.
+
+- and I never said anything about thinking any system is free, burrowowl.
+Efficiency is the goal, however they are in effect taking a system with many factors and minimizing the variable for total costs. If fuel prices increase then it is rational for them to invest in more efficient equipment. If fuel is cheap then it is a waste of resources like labor and high quality steel to build the certain types of generators.
+
+This one of the reasons that fuel subsidies are wasteful—they lead to inaccurate conclusions. For an equitable solution, the cost of the externalities of any type of electricity generation should be paid for by the producers and indirectly the consumers of that energy. Once those two problems are taken care of, then engineers and executives will naturally choose the new most (power/labor/materials)-efficient design.
+solar cells theoretically can reach 95% or whatever ridiculously high number for efficiency. Not currently obviously.
+[deleted]
+Hydrogen storage in things like porous materials or metal-organic-frameworks (MOFs) is a pretty big project currently being looked in to. I know that NIST's NCNR has a group dedicated to looking at MOFs for hydrogen storage. The main problem with hydrogen storage is that conventional energy storage - fossil fuels - are extremely dense in terms of weight and volume, way above current hydrogen storage or things like Lithium ion batteries.
+Too bad were running out of helium.
+I have seen two ideas: store energy by spinning huge mass discs, and store energy by pumping a lake up a hill/mountain.
+I'm not denying that there isn't an infrastructure advantage for rankine/brayton cycle turbines.  What I'm saying is that in comparison to other **heat cycle engines**, this infrastructure gap is likely a **byproduct** of these cycles being more cost effective than the other cycles to begin with.  They are inherently a better choice than more efficient cycles from an engineering economics point of view (**without needing to take into effect the infrastructure**).  I'm not sure how your analogy helps your argument.  It states that if something is actually better (infrastructure costs aside), it will become dominant in the long run.  If it were the case that rankine/carnot cycle engines only had an infrastructure advantage, steam engines (been around since the late 1800s) would have been replaced by now with other cycles (say stirling or something closer to a carnot cycle).
+
+The main issue with non-heat cycle power generation is its energy density.  You can generate megawatts of power using combustion with a brayton cycle setup that could fit into a large room.  The same cannot be said for any other non-nuclear or non-heat cycle energy source.  At 100% efficiency, solar cells are limited to 5kw/m^2 assuming it's midday on the equator and they are normal to the sun's rays.  You can generate a lot of power from wind, but it's not dependable and requires huge farms with tons of turbines to do so.  Direct conversion fusion would be nice, but that's probably even further away than heat-cycle fusion.
+I haven't read up on fusion as much as I probably should, but last I read, they were able to sustain a fusion reaction for some time (I think it was on the order of seconds).  The next step is to be able to do this continuously (like provide cooling for it), and then lastly generate more energy out of the reaction than was put in.
+Where have you seen that number? I don't think it's possible with the semi-conductor technology we have today. Just like how processors will never exceed the 3-4GHz speed, we've hit the limits of silicone technology.
+However even at $0.23/kWh, that isn't competitive where I am (TN). Here we give around $0.08/kWh. That being said, while I like nuclear, ever since the Fukushima incident it has been taking a beating as far as popularity is concerned. I suspect it will be 10+ years before we see a new reactor come online (yes, TVA is currently finishing one about 40 miles from me, but it was 80% complete when it was mothballed).
+
+Pumped storage is about the best option we have for energy storage right now. Sadly, as with everything else, the environmentalists fight them as well, because they do generally destroy mountaintops.
+
+Batteries currently are nowhere near what is necessary for power storage (a single plant may need to store 5-10GWh worth of energy to make it through the night and meet demand).
+[deleted]
+Exactly on the moderation and balance. Obviously as my tag points out, my background is in coal fired plants. That said, I know they are dirty and unpopular and I understand. But we just really aren't there on renewables yet and we're trying to destroy the coal units we already have by putting, at times, nearly impossible emissions control regulations on the existing units. We are simply making our grid robust, and due to the unreliable nature of solar/wind, we are making it incredibly unstable.
+
+We need to solve more problems before we dump what we currently have.
+I've seen some PV cells produced, and it seemed like a very energy-intensive process (lots of baking involved).  Although, it would then cleanly produce much more energy over time than went into making it.  Energy adds to the cost of production, as well as materials and construction.  The cost is steadily dropping as solar technologies get more efficient and begin to reach economies of scale (and cost parity!).
+[deleted]
+Hydroelectricity. Nuff said.
+[deleted]
+Ah. I got my knowledge from a passing conversation with a nuclear engineer, so my information was pretty incomplete. Thank you for clarifying.
+Thank you for explaining things so well :)
+[deleted]
+It may be efficient, but as a high school policy debater, I've been researching the concept of space based solar power (SBSP) pretty extensively. There is overwhelming evidence supporting it as one of the most efficient ways to get electricity- send up a satellite equipped with solar cells, put it out into geosynchronous earth orbit, give it exposure to the sun 24/7, and send the energy back to ground rectennas with either microwave rays or a laser. 
+
+Sounds a little farfetched, but it could actually be really efficient and has the potential to eliminate fossil fuel consumption, just because of the massive amount of energy it could produce. Obviously, there are a LOT of things that need to happen before it becomes a reality (there needs to be government interest, space launches need to be cheap and cost effective, it requires more infrastructure than is currently available and it needs to be done on a large scale to get much benefit). But once in mature, it could produce enough electricity to sell commercially at $0.02 per kWh. No big deal.
+[Ill just leave this here]( http://www.youtube.com/watch?v=IWGOpuca7cs&amp;feature=youtube_gdata_player)
+Im too lazy to read everything here, so im not sure if its been mentioned. But there are at least one or two fusion projects that are aiming to produce high velocity positively charged particles (from memory they were alpha particles) which would be focused through a coil. 
+
+This would be direct kinetic to electric energy conversion by inducing a current in the coil with moving charge.
+
+ From memory it was the Lawrenceville Plasma Physics group that intended to do this, though I dont have the time atm to find the article.
+Only because BC Hydro is our electric company (in BC).
+What makes it even worse is most current nuclear reactors make saturated steam as opposed to super heated steam in a coal plant so they are even less thermodynamically efficient than coal.  Nuclear has it's obvious benefits but more energy is being thrown away per usable energy produced.
+I have a degree in physics and never noticed this.  Now I feel stupid.
+[deleted]
+As an engineer, "K" gets used in various types of problems for different units or measures, so I always try to throw the degree symbol in just to clarify I'm referring to temperature and not kips or some variable representing kinetic energy, and so on...
+It's like we are metaphorically still cavemen.  Water, fire, and the wheel seem to be the only things we've ever really mastered when it comes to energy production.
+[deleted]
+So if we could get a lot of materials into space, and built a large enough spaceship to accommodate a full sized nuclear reactor, then it would likely be steam engine driven?
+That almost clears it up. Got a link that explains this process? Is it a direct chemical conversion from coal to something that we can run in a gasoline engine?
+Don't forget [tidal power,](http://en.wikipedia.org/wiki/Tidal_power) [solar power,](http://en.wikipedia.org/wiki/Solar_energy) and [wave power](http://en.wikipedia.org/wiki/Wave_power) for more sources of electricity that are not heat engines.
+the carnot cycle is the ideal thermodynamic cyle. the maximum theoretical efficiency of a thermodynamic goes up as the operating temperature goes up and the ambient temperature goes down. you could boil something with a higher boiling point to increase efficiency. [direct energy conversion is an interesting thing that i don't understand very well](http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=7&amp;ved=0CIUBEBYwBg&amp;url=http%3A%2F%2Fwww.aps.org%2Fmeetings%2Fmultimedia%2Fupload%2FDirect_Energy_Conversion_Chemistry_Physics_Materials_Science_and_Thermoelectrics_Kanatzidis.pdf&amp;ei=3TQFT_uaGKji2gWhuomeAg&amp;usg=AFQjCNH_ByXC5TD17R_AXCAJyWZoj2DvMA&amp;sig2=ROlmpUbugUPQChlHCJn0WA). It doesn't look like it can break the carnot efficiency, but it can be a no-moving-parts replacement for the turbine. [It also looks like it could be useful in fusion energy.](http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;ved=0CF8QFjAC&amp;url=http%3A%2F%2Fwww.askmar.com%2FFusion_files%2FDirect%2520Energy%2520Conversion%2520in%2520Fusion%2520Reactors.pdf&amp;ei=3TQFT_uaGKji2gWhuomeAg&amp;usg=AFQjCNGpdB80EtUmiZ3its1jcbfIb2ZJmQ&amp;sig2=ScH9ySX0edKzqkR3uKUHbA)
+Absolutely. Was that a brand new facility or just an additional unit. It seems like it wouldn't be worth it to make a brand new plant for only 320 MW. Granted when I worked at a fossil station it was around 1400 MW. Absolutely huge.
+You missed the bit where big multi-MW or TW beams of laser or microwave from space have to be carefully targeted and not fry anything in-between :)
+
+It's not that we don't think the death star was awesome, it's just that we don't trust each other enough to let someone build a sun-powered one in space.
+Actually probably, but not in the same way - there's a reasonable chance (there are many possible ways to power a spacecraft using a nuclear reactor) that the reactor heat would be used to melt ice or water into steam and use it as a direct propellant.
+Watch that last step- its a doozy!
+Well, efficiency is the primary goal for any given method of electricity generation. Just not the main criteria when choosing between different methods of generating electricity.
+Because water is almost perfect for the job.  
+
+It has a very high specific heat, a very high expansion ratio, and undergoes phase change at very useful pressure/temperature combinations.   
+
+You're making the attributional mistake of assuming that since it is common, it must have average-at-best performance.  That's far from the case- water is an amazing substance, no hyperbole.  We're just so used to it we tend to take its remarkable properties for granted.
+[deleted]
+If you want to generate electricity to move it interstate distances, you need very high voltages. High voltage needs high RPMs, Hydroelectric with a high head pressure and coal-fired water-steam both are cost-effective per Watt if you can afford a large plant.
+
+Organic Rankine Cycle (ORC) can be considered Freon-steam. Toluene, propane, and Freon can be used to spin a turbine with a much lower heat source, but...the lower heat difference means there fewer RPMs available under load. Chena Hot Springs uses ORC, but it is only for local generation.
+
+On that same vein, A solar Stirling has an even lower temperature difference between the hot and cold sides. This of course results in a lower pressure difference, lower RPMs and less volts. No company will make home-sized solar Stirlings because they are so easy to copy, you will go out of business trying to sell them.
+
+If you want to make one, they are not hard to make, but they will be a large engine that makes a small amount of Watts. For the home builder, I would recommend a triple Gamma. Wind a PMA design from otherpower.com for 24V to 48V.
+Doesn't improved efficiency mean better too, though?  Improved efficiency in this method means you need less of A to produce the same amount of B.  In other words you require fewer resources, and therefore less cash to acquire said resources.  Isn't requiring less cash for the same end is essentially the same as being cost-effective?  Am I missing something, maybe?  Was the purpose of what you meant something more like "even if input costs are lowered, overall costs rise due to the technology required", perhaps?  Hopefully I'm not mangling the understanding of some words or anything; I'm not too familiar with the subjects, though they do interest me.
+I have always wondered why they don't make the plants dual purpose.  Boil saltwater to make steam and then capture the steam and cool it to become potable water.
+&gt;it would seem like a massive undertaking to convert millions of cars to run off of gas.
+
+Not really, a lot of cars were converted in Europe during WWII: [wood gas](http://en.wikipedia.org/wiki/Wood_gas)
+Check out [wood gas](http://en.wikipedia.org/wiki/Wood_gas) on Wikipedia. You basically put logs of regular wood chips in you car's gas tank to run it.
+That is really interesting, thanks for the link.
+[deleted]
+I think everything is a heat engine, including wind and hydro power. The sun is the one that heats the air so that it has currents that turn the blades. Likewise with water. The sun evaporates it and then it transfers it to the back side of a reservoir.
+
+correct me if I am wrong.
+Why store power on the grid?  The real trick is to improve the efficiency of transmission (I'm looking at YOU room temperature super conductors!), and then just pipe power as needed globally.  If every roof was high efficiency solar panels, and power transmission was exponentially more efficient than than it currently is, power would be pretty much free.  It's always sunny somewhere on the planet.
+Your comment about efficiency is incorrect and your use of 'need' is distracting in this discussion. 
+
+On efficiency: Commercial Si cells, if they are running on a clear day typically run in the ~20% range. There are some cells which you can run at [40%](http://en.wikipedia.org/wiki/File:PVeff\(rev111205\).jpg). This is a direct transfer of solar energy to electrical energy (Fossil fuels etc. have organisms as the middle man - typically giving a 10% conversion to stored energy, which is subsequently hit with the 40% heat engine conversion problem discussed elsewhere).
+
+&gt;Current development on any one alternative energy source to fossil fuels is too slow to keep up with consumption. Therefore we must diversify our energy production in order to keep up with demand and have a stable alternative to fossil fuels. Basically exactly what I already said.
+
+This is a pile of rubbish.
+
+If your only imperative is to keep up with energy demand, then build more coal and gas plants, much like China is currently doing. Start building nuclear fission for use in ~2-5 years which will reduce the number of coal/gas plants you need to build considerably. Movement away from fossil fuels could be desirable but there is no 'need' at present.
+
+Alternative fuels have no market place on this 'needs' based approach. Given the unpredictability in supply of raw materials for alternative fuels, they aren't needed, as the current energy grid systems cannot reliably cope with their supply (i.e. it is cloudy occasionally, sunny places are in low population zones like deserts, the wind doesn't blow at times [required by demand](http://www.telegraph.co.uk/earth/greenpolitics/8978458/10m-cost-of-turning-off-wind-farms.html)) nor do we have sufficient storage capabilities currently in place.
+
+The 'need' to build alternative fuel sources is not an efficiency argument, it is an economical one based upon pollution at the generation site (n.b. cost of production of the plant should be also included). The west has plenty of (dirty) coal locked up which they could use, but removal of CO2 via carbon capture and other containments makes natural gas (while it is available) a much more pleasant alternative.
+
+If we could sort out energy storage and the grid system, then need would be important, especially for the alternative markets. [This excludes specialist applications like PV to supply emergency phones in remote locations.]
+
+However, I agree that diversification is probably a good thing, given that supplies of raw materials are in 'interesting' locations which can affect supply. Furthermore, Greenhouse gasses are a problem and movement away from Fossil fuels are a good thing.
+
+tl:dr from a consumption point of view, alternative fuel sources are probably a waste of time, if your only need is to keep up with demand. Improvements to distribution and storage are key to changing this landscape.
+
+p.s. I wanted you to clarify what route you wished to argue need, it seems it also clarified about how dickish you can be too.
+There are several magic bullets:  Disgustingly cheap solar panels (possibly a future generation of high efficiency graphene nanotube type), Better storage (Super conductors, Nano Capacitors, New Batteries, Fuel cells), Better transmission (Superconductors, materials science, high efficiency laser/electric conversion), Workable fusion reactors, thorium fission reactors.....  We are making progress in literally all of those fields.  Enough progress in any one or two of them, and we have infinite global power nearly for free.  I'd be more concerned about breaking the corporate and political hegemony(s) in order to implement them.  I believe that is the primary barrier to many of them RIGHT NOW.
+The link is above.
+
+Yeah, it produces gasoline directly from coal and electricity. You run it directly in your car without modification.
+You may be interested in fuel cells. http://www.nfcrc.uci.edu/2/FUEL_CELL_INFORMATION/MonetaryValueOfFuelCells/Index.aspx
+it's one of those miracles that MIT students are capable of, but at the end of the article it's always like "annnnnnd it will take a long time before this hits the market, and it's insanely expensive, but it's theoretically possible".
+&gt;Here we give around $0.08/kWh.
+
+Yeah, that sounds about right for nationwide rates. I was just comparing solar thermal and PV solar. Also, those numbers include subsidies. The actual prices are about a third higher, and it's not like subsidies are free money. Taxpayers are on the hook for the bill one way or the other.
+
+Coal is a good source for power solely because it is cheap - if you want to put a scrubber on it, to avoid dumping mercury et cetera into the atmosphere, the price goes up by a little bit. (As the current debate over the new EPA regs illustrates, people would be upset from the price of coal moving up from 8c to 10c.) Put a CC system on it, and the price goes up even more.
+
+Here in California, top-tier power reaches 50c/kWh, which is why rooftop solar is now very powerful. If you run your AC in the summertime, you *will* hit top tier rates, and get a $800 or $1000 power bill for a month's electricity.
+&gt;The main issue is that it will take the 20 years or so to pay for itself.
+
+This was true with older panels, not true now.
+
+My solar panels will pay for themselves in 6 years. After that, it's a net win.
+
+I agree with you about what you said about nuclear, and yeah, people have been running cars without modification on petrol from coal for 80 years now.
+[deleted]
+[deleted]
+The most efficient way to generate electricity is to use gravity and water pressure.
+
+Rain falls, snow melts, the run off goes to rivers . . .
+
+A dam with a head pond of water, a twenty foot diameter tube running to a turbine that spins when the water runs out through the tube.
+
+In Quebec, the cost of electricity is absurdly low because almost all of it is generated hydraulically. We call it 'hydro' and we sell it to New York.
+I think the problem with that is that bringing your panels into space (+setting up the space cannon that delivers the electricity it back to earth) is quite expensive. As earth does have more than enough surface to satisfy our current needs with solar panels sitting below the atmosphere, there is no reason why we don't just produce more solar panels that are sitting on earth instead of producing less and shooting them into space. In the foreseeable future I don't see a credible low-cost space infrastructure (especially while we are still struggling for energy). It might be more cost-efficient to just go for fusion instead of space-solar panels (the amount of research and engineering needed is huge for both, but with fusion we at least have working prototypes of most necessary components).
+
+On the other hand, you never know how this will turn out. I have read that the theoretical return of invested energy for space-based solar is not too bad once you figure out all the problems, so maybe this might become an attractive option in the future.
+There are some other non-water chemicals that get used too in special situations, but the idea is the same, add easy energy (heat) to the working fluid to then later extract the type of energy you want (spinning a driveshaft).
+[Here you go!](http://whattimeisitreally.com)
+I think you missed the entire point of what I was saying, and that is, without speaking to specifics, "too expensive to upgrade" can be a valid conclusion, even when looked at the entire lifecycle and not get into quarter to quarter short term, even when you don't use cash money as the sole definition of expensive. For instance, take your above example and change the cost to install New Tech X to 20 million lbs of CO2. All of a sudden it is indeed "too expensive to upgrade". Because you will never recover that cost.
+
+Think of it another way: Do you buy a new car or computer every time a new model comes out? Of course not. Even though they are demonstrably better in every way. But if you have a 3 month old computer or a 2 year old car you subconsciously take the entire life cycle into account and determine that it isn't worth the upgrade, even though the new car might get 2mpg better. Hence, not worth the upgrade.
+
+At the risk of wandering way too far off topic for Askscience and getting banhammered (if I haven't already) I can tell you that electric utility companies absolutely consider the entire life cycle of equipment, they do consider CO2 (at least the ones I've worked for/with), and since their profits are capped by law they have no incentive to pump up end of quarter profits at the expense of the long term.
+
+That's a relatively recent phenomenon, though. The "deregulation will fix everything!!!" 30 year period between St. Ronnie and Obama are a different story. A story that lead to the north east eating blackouts.
+*What follows is not science; it is handwaving, intended to explain the impacts of economic analysis on engineering decisions.*
+
+You can buy a commuter car for around 10,000.  Let's say you could buy a custom designed car for around 100,000 (probably wishful thinking).  Let's say your designer car is 15 percent more efficient than the standard commuter (a huge difference!).  Your designer car gets 34.5 miles per gallon instead of 30 miles per gallon.  It's easy to see that the standard car is more effective at current gas prices.
+
+Typically, in order to improve efficiencies additional dollars must be spent on better equipment.  There is nearly always an economic/engineering tipping point when spending more on efficiency improvements does not pay back.  At the end of the day, we just want our car to take us from point A to point B.
+They ignore the fact that it takes energy to bring that vessel down to the sea floor. Once the pressure has equalized no more energy would be produced.
+[deleted]
+Hydropower means power derived from water. Marine power (power from falling and rising waves) are a subset of hydropower. The term hydropower means falling water, or in more scientific terms water with some kinetic energy. In ancient terms, water bucket wheels were used in small streams' falls to generate power and the term came into use. 
+
+Also, because of the common misconception of hydropower === power generated ONLY through DAM, I wrote  that wave can be a subset of hydropower. Although the true statement should be "wave or tidal power is a subset of hydropower"
+evaporation ?
+&gt;My solar panels will pay for themselves in 6 years. After that, it's a net win.
+
+Wow, kinda curious about your situation.  Was there gov't subsidy/tax breaks for the solar panels?  What kind of efficiency are they?  Where are you located (something general like the state would be sufficient)?
+
+I was talking with sombody just 2 days ago, and one said he looked at doing solar panels on his roof and the payback (with gov't subsidy) would be like 18 years.  Not sure when he looked at doing it, though.
+My understanding is that would be the most practical way.  D-T fusion gives off a pretty energetic neutron that could be stopped in a tank of water surrounding the reactor, which would heat up the water.  You could also allow some kind of heat transfer between the plasma and an external water tank.
+[Evaporation](http://en.wikipedia.org/wiki/Water_cycle).
+there has never been anything like what I present here The Comprehensive Energy Production System http://expandedtechnologies.blogspot.com/ To be concise and to the point, this is a a system to generate steam which is then used to produce electricity. This is done by combining 200deg. Water and 700deg. coherent light, doing so by incorporating a conical shaped Plano-concave lens to spread the 700deg. light over the 200deg. water, inlet of the water and escape of the steam occur simultaneously with magnetic valves and controlled via crankshaft position sensors. All points of rotation are with sealed needle bearings. The escaping steam is forced through a pipe reducing in diameter, which increases the velocity. At this point the steam is forced over a turbine which rotates the secondary generator (for use and sale), following the turbine the steam is dumped into a large diameter velocity dissipation chamber and into the condensation tank where the moisture content is collected and water is routed back into the inlet side via the primary pump. All electrical components are supplied via the primary generator which incorporates a centrifugal clutch to enable operating speed. Process is initiated by key switch/starter/12v battery. What has been outlined here has the potential to replace the petroleum based socioeconomic system, allowing each individual to become an energy producer and can be implemented with the existing infrastructure...in short water combined with light will power the world to come. 
+ http://expandedtechnologies.blogspot.com/
+I know of no modern power generation technologies that would imply that New Tech X has an upgrade and installation cost of 20MM lbs of CO2.  I'm well aware that we both chose numbers to demonstrate a point, but come on man.  Since solar and wind are the two "New Tech X" technologies we all seem to be talking about, there is no way in hell either of those two have costs along those lines.  What possible energy-generation tech considered in today's world has an upgrade cost that significant?
+
+I don't quite understand your new car or computer analogy, and what I think I get from it, I disagree with.  How is adopting solar, wind, or biomass in the 2000s equivalent to buying a new computer every few months?  That implies that the entrenched steam plant sources that we have are considered to have been implemented recently enough to still be considered new and not worth replacing.  I don't know what you consider to be recent, but having had fossil fuel steam plants for *more than 125 years*, I seriously wouldn't consider implementing solar and wind *now* as "buying a new computer every 3 months."  (Source on the timeframe: [Second paragraph from the bottom](http://www.netl.doe.gov/keyissues/historyofcoaluse.html))
+
+I cannot comment on profits being capped as I am not knowledgeable about the topic.  I am aware that there is regulation in some industries, most likely ones in which there's a natural monopoly, like your water or your power.  Regardless, I didn't mean to imply that the *power companies themselves* are rejecting these alternative sources for quarterly results.  I was hoping to show that politicians, businesses, average people, analysts, etc are so focused on the short-term and quarterly results that alternative energies are immediately and conveniently dismissed because they're held to an impossible standard.  There's an entirely new emerging industry here and they aren't profitable immediately?  No kidding, folks.  That never happens on something of this scale.  It's just the same status-quo BS that impedes any actual progress.
+
+I don't want to wander too far off topic as well.  My view of this chain so far is that:
+
+1) Yoshhash made a post in which the gist is that a high initial cost should not be used as an excuse like it has, is, and will be to reject new sources of energy.  Whatever you wish to say about the quality of his post, that's fine, but I think most everyone got the base idea.
+
+2) You countered by saying that there is such a thing as too expensive.
+
+3) I countered by saying that there really isn't such a thing as too expensive.  Everything has a payback, but whether that quantity of time is acceptable is up for additional discussion.
+
+4) You imply that some sources are so costly that they will literally never be viable and that moving to alternatives sources now to replace steam plants is like buying a new computer every 3 months.
+
+5) I completely and fully disagree.  I know of no potential sources of energy today that we're considering that are so costly (financially or emission-wise) that they meet any of your conditions in #4.
+
+Are we agreed on this so far?
+
+PS - And yes, deregulation really hasn't helped and now we're stuck with an old and continually aging distribution system.  Gotta keep lining those pockets and making money, I guess, infrastructure of the country be damned.
+Again, I'd love to see this article/paper. I'm a physics PhD student, so bring it on.
+What is your light source?
+500watt halogen circular bulb mounted to crystal rod then silvered.
+And are you expecting to generate more than 500 watts using your apparatus?
+The Comprehensive Energy Production System http://expandedtechnologies.blogspot.com/ To be concise and to the point, this is a system to generate steam which is then used to produce electricity. This is done by combining 200deg. Water and 700deg. coherent light produced with a 500w halogen bulb mounted to a crystal rod and silvered, incorporating a conical shaped Plano-concave lens to spread the 700deg. light over the 200deg. water, inlet of the water and escape of the steam occur simultaneously with magnetic valves and controlled via crankshaft position sensors. All points of rotation are with sealed needle bearings. The escaping steam is forced through a pipe reducing in diameter, which increases the velocity. At this point the steam is forced over a turbine which rotates the secondary generator (for use and sale), following the turbine the steam is dumped into a large diameter velocity dissipation chamber and into the condensation tank where the moisture content is collected and water is routed back into the inlet side via the primary pump. All electrical components are supplied via the primary generator which incorporates a centrifugal clutch to enable operating speed. Process is initiated by key switch/starter/12v battery. 
+ http://expandedtechnologies.blogspot.com/
+and I'm not a physics PhD student, so I don't even care if I'm right or not anymore. what's with the "bring it on?" thing
+yes...I know it does not follow the current laws of thermodynamics, the application is intended to generate 567deg steam which produces 1200 psi. on a constant basis, (two cylinder configuration 180deg out). directing the steam via reducing diameter pipe to increase the velocity and routed over a turbine which turns a 20kw generator. MY DEVICE CANNOT GENERATE MORE THAN 500W BUT I can make this light coherent and capitalize on the benefits of lasing the light. when we look at what happens during the lasing process it is the PHENOMENA of Light AMPLIFICATION through Stimulated Emission of Radiation.  the light is for heat only and heat is used to generste steam and the expanding properties of the steam are used to rotate a 20kw generator.
+You are still missing the point. I was not speaking about power generation specifically. I was speaking about you asserting that "too expensive to upgrade" is a fatal flaw. Some times it is not. That is all I was trying to say. Hence my car/computer analogy. You yourself make that same decision all the time.
+
+But as long as we are talking about power generation, here's how it works for electric utilities: Profits are capped as a percentage of revenue - cost by law. Further, any infrastructure improvements whatsoever are not counted in that cost column and are instead passed on to ratepayers directly; those costs are not used to calculate the annual profit. So whether a utility spends $0 or $Billions on new lines, new plants, improvements, etc. has absolutely no impact on their profits at all.
+
+So there is no grand conspiracy to keep coal instead of solar to make more money, because there is no monetary incentive for doing so. The only reason every utility hasn't moved to sustainable power (which would free them from fluctuating and ever increasing fuel prices) is quite simply the technology is not capable of producing the watts required. If they could power companies would drop fossil fuels in a heartbeat, trust me.
+
+There is no grand conspiracy, nor greed and short sightedness. In fact my former employer (a huge utility owned by one Warren Buffet) has a very sizable sustainable energy group full of some pretty smart folks that do nothing all day but try to figure out how to get off of fossil fuels ASAP.
+Coal may be cheaper to build, but coal units are not allowed to be built anymore in my state... despite Clean Coal technologies. It was for a new unit, being added at an existing site. Keep in mind that that was total bill, not just for the turbines and HRSG.
+I'm just saying I've never seen this number quoted before and you seem to be so confident about it. I'm not trying to challenge you on this, I just was interested in seeing the original source.
+Actually in several areas, California for example, electric companies earn incentives from state governments for increasing energy efficiency. They have programs to finance insulation, efficient appliances, solar panels, etc.
+hm, can't find it. i probably remembered it wrong. I remember having an argument with someone else online, with me saying something doesn't have 95% efficiency, and them turning out to be right. It seems it wasn't about solar cells though.
+That's true, it's definitely an issue that NASA is struggling to resolve. One major debate is whether or not the satellites should be assembled manually on ground before launch, or assembled in space with robotic equipment. However, I have researched specific launch systems (SKYLON rockets and laser propulsion) which are actually pretty cost effective and would be capable of the amount of launches required.
+
+The reason SBSP is preferable to GROUND solar panels is the efficiency. Since SBSP sats are in geosynchronous orbit, they have far more exposure to the sun, and don't have to be interrupted by cloud cover or bad weather. In fact, they can get up to 270% *more* efficient, which is a staggering number! But of course, you bring up the point again that we would need low-cost space infrastructure.
+Actually, the microwave beams used by space based solar power are completely non-harmful :) They are non-ionized, just like radio waves, so they don't actually harm any wildlife or humans. This ray is sent to a ground station called a "rectenna", technology that has been proven to work efficiently for collecting the solar power and converting it to electricity. Not quite death star-esque... but still pretty awesome.
+&gt;Was there gov't subsidy/tax breaks for the solar panels?
+
+33% subsidy, mostly federal but PG&amp;E/California have a 5% subsidy. The subsidy rate used to be quite a bit higher (50% just a year or two ago).
+
+I have the panel specs filed away somewhere, but efficiency isn't really the right word. The actual output of the panels is guaranteed at 90% of the listed capacity, but they overprovision the panels a bit so they don't have to offer a refund, so this number isn't really meaningful. They're run of the mill Kyocera panels.
+
+If you're talking about absolute efficiency (irradiance in vs wattage produced), it's around 15%, off the top of my head.
+Um, terawatts of radiation doesn't need to be ionising to harm things - it just converts to terawatts of heat. I assume you're talking about spreading it over a large area instead which helps.avoid having anything wander into a spot where it's absorbing all that energy at once? Url please! I'm genuinely interested :)
+The heat has nothing to do with whether or not it could actually harm wildlife/humans- think of it as a radio wave. You aren't injured when you listen to the radio or watch TV, right? 
+
+http://www.scientificamerican.com/article.cfm?id=will-space-based-solar-power-finally-see-the-light-of-day&amp;page=2
+
+---^ link one, last three paragraphs. 
+
+http://www.wfs.org/content/space-based-solar-power-could-arrive-ten-years-and-create-millions-jobs-says-researcher
+
+---^ link two, sixth paragraph. 
+
+I love that people other than me are interested in this too. I finally get a chance to geek out about this :)
+The only problem is that most of those forms of energy have harmful byproducts like pollution (oil coal etc) and solar energy not being very abundant in many areas like with cloud coverage. The turbines would produce more electricity compared to burning the fossil fuels. 
+
+That some how brings me to this question. What if you burn a small amount of fuels to get the turbines going and used some of the electricity to produce heat to form steam and used the rest to power generators or what have you, would that be a plausible means of alternative fuel sources for say hospitals backup generators?
+sorry, somehow my full text didn't post through.. 
+What  evaporation has to do with generating electricity ? But now that I think about it I see what you mean. Its all about the water cycle.
+http://expandedtechnologies.blogspot.com/
+I would like to say that this discussion is fantastic.  If we look at each process individually there is nothing outside the laws of thermodynamics.  First all light can be reflected upon itself to become coherent and actually achieving the source power (temperature wise cannot exceed) second water will begin conversion or expansion at 212deg. fact that current optical technology for a lasing device has no application for a diverging beam lens (knowing these facts when conventional laws were written there was no exception for laser light, theorized in 1917 by Einstein and perfected in 1949(or '47) by Maiman.  fact if  input 611deg to 200deg water I will achieve beyond 567deg steam which will generate 1200psi+, by inputting water and evacuating steam at the same we lose the compression stroke. this is consistent with the laws of thermodynamics. because this steam is expanding and the input of steam is constant behind it together with the reduction in diameter the velocity will increase, it is at this point where we capitalize on the expansion characteristics of the steam by putting it across a turbine.  the whole process is allowed because Light Amplification through the Stimulated Emission of Radiation coupled with a diverging beam lens (conical shaped Plano-concave). If this system is analyzed in each stage, will it NOT work?  I know and understand it does not conform to what we have known in the past but in the twenty years I have been working and meeting with engineers none have told me it will not work or cannot work. http://expandedtechnologies.blogspot.com/
+French physicist Sadi Carnot first formulated a basic principle of thermodynamics in 1824.
+The second law of thermodynamics, formulated in 1850 by Dr. Rudolf Clausius.
+The first and second laws of thermodynamics emerged simultaneously in the 1850s.
+The validity of these laws in terms to modern applications may need to be revisited or at least amended to account for newer technology.  We are in constant flux as a species and our laws that govern the possibilities should allow for innovation. Again, Light Amplification through the Stimulated Emission of Radiation was not theorized until 1917.  it is upon this basis that The Comprehensive Energy Production System operates.
+You can continue to state that I'm missing the point all you want, but that line imparts no particular wisdom to this thread at all.  I assume it makes you feel better.
+
+I never once said "too expensive to upgrade" is a fatal flaw.  Yoshhash did.  I don't even like that term, as it's not a fatal flaw.  "Too expensive to upgrade" is a valid consideration in the upgrade process, and I clearly and explicitly said as much, multiple times, when I spoke of how the parties involved would have to be comfortable with the payback times.  But that comfortability was not pertinent to the discussion, because at its core, I was trying to say that everything truly does have a payback time; some require a much longer time scale.  Call that nitpicking, fine.  I then tried to say that "too expensive to upgrade" unfortunately is often *unjustifiably* applied because it is an easy and convenient excuse to not budge from the status quo, even when better technologies are clearly demonstrating that the payback times aren't anywhere near your heat-death-of-the-universe time frame.
+
+I appreciate the clarification on the utilities.  My interaction with them is limited to the engineering side of things, not the financial, so this was interesting information to learn.  However, I never stated there was a grand conspiracy.  I like how you take this
+
+&gt;Regardless, I didn't mean to imply that the power companies themselves are rejecting these alternative sources for quarterly results. I was hoping to show that politicians, businesses, average people, analysts, etc are so focused on the short-term and quarterly results that alternative energies are immediately and conveniently dismissed because they're held to an impossible standard. There's an entirely new emerging industry here and they aren't profitable immediately? No kidding, folks. That never happens on something of this scale. It's just the same status-quo BS that impedes any actual progress.
+
+and get "grand conspiracy".  I would like to make a comment on "keep coal instead of solar to make more money", though.  There's a reason that the utilities would rather buy SRECs (solar renewable energy credits) instead of building utility-scale solar farms:  It's cheaper.  It's far cheaper to buy tens of thousands of SRECs from installations that small businesses like us would do (residential/commercial/industrial) than it is to 1) Install their own solar or 2) Pay the fines for not hitting RPS (renewable portfolio standards) targets.
+
+So yes, there is very much a reason to keep coal instead of solar or wind.  Yes, there is very much a monetary incentive to do so:  It's too expensive to install their own.  Grand conspiracy?  No.  But I already told you that I never said grand conspiracy.
+
+And I would disagree that the technology is not capable of supplying the watts necessary.  The utility in my area absorbed another utility in Q2 2011.  They are now the largest electric utility in the US based on customers served (6MM+) and have approx 23,000MW of generation capacity with operations in six states.  Now that's generation capacity, not necessarily demand.  And over six states?  We absolutely have the physical space.  The capacity?  Well, while we're greater than [3100MW](http://www.seia.org/galleries/pdf/Solar_Energy_Facts_Q2_2011.pdf) in the nation (more now because that was a Q2 report), and thus not anywhere close to just my utilities' capacity, the issue is not that the tech can't do it.  It's just that installing that much capacity *takes time*.  It takes public support.  It requires our industry to keep driving down cost.  These are all inevitable achievements.  So yes, I would disagree that it's not capable of producing the watts required.
+
+And on the topic of dropping fossil fuels, yes, even some of them don't want to drop it.  That same utility company is the only anti-renewable company in the area.  At a conference of utility companies a few months ago, my boss watched every other utility's CEO express a willingness and desire to integrate renewables into their portfolio.  Then our utility's CEO gets up there and whines and moans about how it's costing them money and will hurt business and how they're trying to avoid it.  So no, not all power companies would drop fossil fuels in an instant and yes, some actively are fighting against it.
+
+And to say that there is no short-sightedness is confusing, as I watched media heads spread misinformation to uneducated jackasses which then lambasted an entire, new, very rapidly growing industry for the failure of a single company with a bad business model banking on an iffy technology that was using a somewhat shortcut DoE loan process.  If you haven't guessed it yet, I'm talking about Solyndra.  And greed?  When I hear uninformed (again uninformed, notice the trend here?) schmucks claim they don't want nun-a them there lib'rals taking their hard-earned union money (lol) and subsidizin' no hippie socialist renewable shit, despite the fact that we *really* need to make bigger and faster strides to different energy sources *now*, nevermind the fact that their hard-earned union money was used to fight two wars and bail out a casino financial industry... oh, and it subsidizes their coal/oil/gas-powered electricity right now.  Yes, there's greed.
+
+And since I know you're going to make the assumption, let me clear it up now.  No, not everyone is like this.  No, not every utility is like that.  Yes, there are people and companies working hard at getting off fossil fuels, like yours.  Just to make sure you know again:  No, I do not think there is grand conspiracy.  But the active push-back and misinformation from people, companies, and political officials who *don't* want to get off fossil fuels is very much alive and well.
+You missed the point. I wasn't talking about efficiency at all. I was expanding on the point that "They get paid based on how much electricity they make." In California, this is not true. 
+
+I understand the difference between site and source energy and the differences in efficiencies of generation versus consumption, however none of that has relation to what I wrote.
+In that case how is what you wrote at all relevant to the discussion at hand?  Whether or not a utility's revenue is decoupled does not affect it's incentives, or lack thereof, to improve their generation efficiency.
+If the utility company's revenue is not traditional (in that the more product it sells at the highest price translates to higher profits), and is decoupled, then the utility company is paid higher profit by delivering less energy year after year. The utility company is given incentives to  save energy. So whether the company is decoupled or not has a strong influence on how it's board decides to invest profits.
+Wow thanks! Didn't think about this, it makes a lot of sense.
+
+Summary:
+Would this system be more efficient than solar panels?
+I get what you are saying.
+Its all about the water cycle.
+I work in the solar industry.
+[It also looks like it could be useful in fusion energy.
+Wave power is also not a heat engine.
+The most efficient way to generate electricity is to use gravity and water pressure.
+Current solar cells are not very efficient at all in capturing power.
+are solar cells theoretically the most efficient types, but they cost so much?
+&gt; Wind and hydro power are the only main sources of electricity I can think of that aren't heat engines.
+But in coal, nuclear, gas, etc the primary fuel generates *heat*.
+I think everything is a heat engine, including wind and hydro power.
+I was not speaking about power generation specifically.
+That is all I was trying to say.
+*Wind, photovoltaic, and hydro power are the only main sources of electricity I can think of that aren't heat engines.
+Would a fluid of different heat capacity change efficiency?
+However, electric companies don't get paid based on how much energy they save or what their efficiency is.
+Not really, you would still be limited by the input energy required to power the system.
+the point of using sodium is not really to improve the thermodynamic efficiency.
+No they are actually theoretically less efficient than heat engines.
+The big problem we have is cost.
+The turbines would produce more electricity compared to burning the fossil fuels.
+I had been thinking a while ago if a compressed air system could power a turbine and create electricity like steam would.
+Since steam turbines are heat engines their efficiency is limited by the temperature ratio that they operate on.
+It depends what you mean by efficiency.
+The steam turbine (Rankine cycle) is a very developed technology.
+=&gt; you are wasting nuclear energy and it's not efficient.
+Wind and hydro power are indirect heat engines.
+Alternatively everything could be considered as nuclear power.
+What would it take to store power on the grid?
+So, the only thing we can do is to take the temperature of a heat source up as high as possible.
+They get paid for how much electricity they make.
+&gt; However, electric companies don't get paid based on how much energy they save or what their efficiency is.
+What materials in solar panels are expensive?
+I was expanding on the point that "They get paid based on how much electricity they make."
+The idea of a heat engine can certainly be generalized to any place where you have two different energy potentials.
+There's tidal power too, which is hydro but doesn't need the water cycle :)
+&gt; Fuel cells [...] are not limited by thermodynamic processes.
+The problem is that there really aren't any other higher efficiency alternatives that are practical for replacing the steam turbine.
+The greater the difference, the higher the theoretical efficiency limit will go.
+It's just that installing that much capacity *takes time*.
+This is where cost comes in.
+Would hydroelectric power be a "gravity engine"?
+Or is it another case of cost efficiency that water is typically used?
+cost of production of the plant should be also included).
+The current system, steam engines, has an upper bound of efficiency, the Carnot cycle, which is determined by how hot you will run the plant.
+The Carnot Effeciency is not dependent on the working fluid though.
+I wasn't talking about efficiency at all.
+All this technology, and I was wondering why we are still boiling water to make electricity.
+Commercial panels are not the high efficiency panels.
+Don't most of the more powerful reactors use molten salt now instead of water?
+You may be interested in fuel cells.
+Well, efficiency is the primary goal for any given method of electricity generation.
+the point of this water source is only to make the steam condense back into liquid.
+It's important to remember that the real issue is the **cost** of providing electricity, not the *efficiency* of the energy generation.
+In most cases, the energy inputs to a power plant are MANY times higher than the outputs.
+And how would you power the compressor?
+What kind of efficiency are they?
+There are more efficient ways to produce power, sometimes by using a working fluid/reactor material combination that can sustain higher temperatures.
+The nice thing about generators is that you can spin them up or down as you need them.
+What is your light source?
+&gt; There are more efficient ways to produce power, mostly by using a working fluid/reactor material combination that can sustain higher temperatures.
+This is where I'm unsure on how much power a turbine could produce and whether it would be viable.
+I assume it makes you feel better.
+Why would you think that?
+Doesn't improved efficiency mean better too, though?
+The sun is the one that heats the air so that it has currents that turn the blades.
+Yes, there are people and companies working hard at getting off fossil fuels, like yours.
+I don't even like that term, as it's not a fatal flaw.
+The main issue with non-heat cycle power generation is its energy density.
+These systems get up to around 50% actual efficiency.
+In both cases, work is extracted from a temperature difference.
+Using Sodium requires a big change in the way the reactor works.
+But now that I think about it I see what you mean.
+There was an emissions cost to build that as well.
+"Better" is defined by more cost effective, not more efficient.
+So yes, there is very much a reason to keep coal instead of solar or wind.
+Other than solar panels, if you want to generate your own electricity for personal consumption what would be a good system?
+There's also pumped hydro, which uses the network's extra power (produced from other sources, generally nuclear).
+Economic efficiency is the goal.
+Once the pressure has equalized no more energy would be produced.
+The dead state is an important consideration in employing heat engines for power generation.
+It seems it wasn't about solar cells though.
+it's really a whole different thing.
+But even when you use sodium to cool the reactor, you use the hot sodium to heat up water to turn a turbine!
+That is very efficient from an engineering perspective, but you are still losing 60% of the energy.
+If you start with a lower efficiency, you don't have as much to lose.
+The result was a 20% cell's efficiency becomeing ~10% in around a year's time.
+Anyone have any idea whether this would be a viable power generator?
+It would be impossible to generate net power from such a device.
+The reaction would need some manifestation of usable mechanical power, as far as I know few exist.
+A striling engine needs to run using a gas, and thus would also have to be scaled up even more.
+There is no such thing as "just" money.
+I don't think that subsidizing the materials alone would make solar cheaper than coal/oil/etc as the manufacturing processes are also really expensive.
+Closed loop power generation cannot work.
+economic efficiency is the primary goal not energy efficiency.
+No, not every utility is like that.
+The energy density of your working fluid determines how much heat you can move for a given size engine.
+The utility company is given incentives to  save energy.
+In some abstract way, there is always a Carnot engine involved in doing any useful work.
+It doesn't look like it can break the carnot efficiency, but it can be a no-moving-parts replacement for the turbine.
+It requires our industry to keep driving down cost.
+So yes, I would disagree that it's not capable of producing the watts required.
+I've wondered this myself,  coal is used to boil water, even freaking nuclear plants from my understanding are used to still boil freaking water.
+Don't we need to convert all of our current gasoline/diesel engines to run off of gas first?
+ITO is not used in conventional solar cells.
+Some large-scale solar projects are still heat engines, though.
+I don't really have the scientific knowledge on making that sort of thing work.
+the point of using molten salt is not that much about getting the highest power possible.
+(This is after subsidies, so it's not the true cost.)
+Hydro is anything to do with water.
+I don't think it's possible with the semi-conductor technology we have today.
+The mechanical to electrical conversion is very effecient, around 95%.
+If your only imperative is to keep up with energy demand, then build more coal and gas plants, much like China is currently doing.
+3) I countered by saying that there really isn't such a thing as too expensive.
+Technically you use that hot sodium to heat cold sodium which then becomes hot and heats water and turns a turbine.

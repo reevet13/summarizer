@@ -1,0 +1,17 @@
+Here is a summary of approximately 10% of the original text:
+
+A lot of EU cyber legislation is British anyway, so we don't have much objection to it.
+
+The UK has codified GDPR into UK law as the Data Protection Act 2018, and intends to keep it after Brexit.
+
+GDPR is at least in part a translation of UK law to the EU*.
+
+EU law continues in operation after withdrawal, which includes the GDPR.
+
+Yeah, because it'll be transposed into UK law, which I believe was OP's point.
+
+The main difference is making sure that its built around how UK law work, and adding specific details, since GDPR was a directive and left the details down to each country to implement so that it worked in their own legal systems.
+
+Unless there is outstanding amendments to the Data Protection Act 2018, not immediately.
+
+The GDPR was a Regulation not a Directive though.

@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+I use the fireluke mesh 0.15ohm coils, I probably go a bottle of 100ml juice every 2 weeks. I was just curious if that's the norm or if there was something I could do to prevent them going out so quickly.
+
+My coils for the FL mesh last around 2 weeks, or roughly 240ml at least. My current coil is a little over a week old, roughly 120ml run through it, and it still looks like new.
+
+I did some research on my mod and I think it's because of it and not the coil. One video i watched said it's better for higher watt coils. I have the vaporesso polar.
+
+So I just checked and mine is using Ver 1.02. How do I update? - Gonna have to go to Vaporesso.com > Support > Downloads > and find the Polar Firmware kit
+
+- Install the Firmware software and run Vaporesso_V2.7 in the Release folder of the newly installed files

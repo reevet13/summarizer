@@ -1,0 +1,3 @@
+Diver here, the regulator on your gear increases the pressure it delivers to match the ambient pressure. So, for example, at 33 feet, the external pressure is 2 ATM, one ATM from the water and one from the air above it, that's the pressure we equalize to in our ears. 
+
+So, your reg delivers air into your mouth at 2 ATM, when the pressure in the body is equal to that, you clear your ears to match the pressure there to the pressure in the lungs.

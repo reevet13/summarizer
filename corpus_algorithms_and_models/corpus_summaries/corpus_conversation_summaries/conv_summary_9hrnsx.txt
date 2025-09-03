@@ -1,0 +1,53 @@
+Original Response: 
+[removed]
+You do not need a space suit to survive at 26,000 feet, supplemental oxygen is enough.
+That's the limit for oxygen, but that doesn't need a space suit to be corrected: a simple oxygen mask will suffice.
+For mountaineering, it's considered particularly daring to go up an 8000er without any bottled oxygen.
+If you have a plentiful supply of oxygen, the bigger issue to face will either be the cold - which depends fully on how well wrapped up you are- or the pressure.
+At this point the question becomes: what altitude can you survive at without a [pressure suit](https://en.wikipedia.org/wiki/Pressure_suit)?
+That article is a decent read to get a general idea: it suggests the ["Armstrong Limit"](https://en.wikipedia.org/wiki/Armstrong_limit) (19000m) as the hard limit for survival without a pressure suit, even with supplemental oxygen.
+This point is where water will boil at just 37C (human body temperature).
+Hmmm.
+I'm not sure I buy into this entirely.
+When you say "space suit" I assume you mean full-body pressure suit, which maintains a minimum amount of atmospheric pressure on your entire body all the time.
+You can avoid altitude sickness without a pressure suit at altitudes far in excess of 26k, you just need a pressure breathing apparatus.
+This would be a fitted face mask that allows breathing of pure oxygen under pressure.
+Here's some info about [aviation oxygen systems](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Oxygen_Equipment.pdf).
+This FAA pamphlet says a pressure demand regulator allows flight above 40k ft.
+
+You can, in fact, avoid death even at zero pressure for quite some time if you have pressurized breathing apparatus.
+Human skin is gas tight, but [requires the mechanical compression afforded by a full-body pressure suit to prevent swelling](https://en.wikipedia.org/wiki/Pressure_suit).
+USAF pilots do not wear pressure suits unless they fly above 60k feet.
+Agreed.
+However, my intention was to answer OP’s question in absolute terms with a space suit being the only alternative to no apparatus at all.
+[deleted]
+I agree.
+My answer to this question is based on the premise of a space suit being the only alternative apparatus.
+[removed]
+&gt; For clarification, you can indeed survive well above the Death Zone with a supplemental oxygen apparatus OTHER THAN a space suit.
+So at what point in the atmosphere would you need a spacesuit to survive?
+Don't want to be obtuse, but it seems like this is an answer to a different question than the one I asked.
+Maybe I worded it wrong.
+Slight correction.
+Among many of the experienced in the community not using oxygen isn't seen as daring, it's seen as sensible.
+If you can't make it up without oxygen, you shouldn't be going up.
+If you go up relying on oxygen and you run out, which does happen, you will die.
+Unfortunately it's lead to a black market of oxygen on Everest, where people will essentially sell life to a dying person for whatever they feel they can get.
+[removed]
+Is this just due to conditioning?
+Like the rapid change in oxygen levels is too much?
+Or is it just a question of physical endurance/metabolism?
+Sort of both.
+If you go up without, your body adapts a bit if done right, but also if you do reach a point you can't deal with, it's more gradual and you simply drop back down to where you were last ok.
+
+Go up with oxygen and you're on it all the time.
+Peoples bodies rely on it, you even sleep on it past a certain height, and if you're beyond a point where your body could naturally cope when you run out, you're too far out of your safety zone to make it back down before bits start failing and you die.
+If I ever have a crack at Everest I'm not going near the stuff.
+
+Summary: 
+If you can't make it up without oxygen, you shouldn't be going up.
+If you go up relying on oxygen and you run out, which does happen, you will die.
+At this point the question becomes: what altitude can you survive at without a [pressure suit](https://en.wikipedia.org/wiki/Pressure_suit)?
+You do not need a space suit to survive at 26,000 feet, supplemental oxygen is enough.
+Here's some info about [aviation oxygen systems](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/Oxygen_Equipment.pdf).
+My answer to this question is based on the premise of a space suit being the only alternative apparatus.

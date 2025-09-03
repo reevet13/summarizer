@@ -1,0 +1,8 @@
+I'm still going through them, but so far they seem like the correspondence between the special counsel and the press.  
+Apparently these were obtained as a result of a [FOIA request. ](https://imgur.com/a/b7cgy4Y)  
+Gmail with MFA is as secure as any other transmission across https. Nothing intrinsically insecure about Gmail except the user.  
+Podesta fell for a phishing scam. Email provider is irrelevant.  
+These emails are all formatted like outlook formats emails.  
+The emails are a .gov domain.  
+I checked half a dozen, and they all come from the DOJ domain. The files are on Google though.  
+DOJ used Gmail to send the files to Freedom Watch via email.

@@ -1,0 +1,31 @@
+Original Response:
+Well you have to find the resulting vector of the x and y directions. The Nile flows upwards at an average speed of 4 knots, 7.4 km/h. That's your y vector. If you're trying to go straight across that's your x vector. Use the Pythagorean Theorem and solve for your resultant vector. That's the speed and direction you'd have to travel at to go straight across. You'd have to supply the x value by the way. And as for a sailboat doing this, most likely considering sailboats aren't completely slow, the fastest reportedly being able to achieve 51 knots. But depending on the flow of the river's speed and direction, more or less energy than cruising speed will be required. 
+
+
+EDIT: misread the question thought you said across the flow of the water. Well if you're opposing the flow of 7.5km/h then you'd have to use the energy to go higher than 7.5km/h. F=MA , so your energy is = mass of the boat * the acceleration to get to the higher speed. So say you're in a 1000kg dinghy and you accelerate from 7.5km/h to 10km/h to overcome the power of the stream at a rate of .5km/s (not sure how realistic that is for sailboats) then the energy required to overcome the force of the stream would be 1000*.5 or 500N
+I saw a fairly clever set-up once that allowed boats to go upstream with no extra force applied. Only downside is that it would have to be a straight path traveled. Set-up consists of a rig at the upper end of a river consisting of a waterwheel halfway partly submerged with a rope fixed to its axis. The other end of the rope is fixed to the boat. As the water flows, it turns the wheel and winds in the rope, pulling the boat upstream.
+
+Not practical, but a scientific/historical factoid that fits pretty well.
+I actually know a bit about sailboats.
+
+Sailboats can sail at a decent clip in any direction at least ~ 25 degrees from the direction wind is coming from. 
+
+The Nile is a fairly slow river but you'd still need a decent breeze to sail it.
+
+How big is this hypothetical sailboat?
+25 degrees?  Most racing boats are proud to maintain 40 in decent winds.  Anything under 30 is America's Cup material.  Source:  life long sailor &amp; racer.
+I was talking about apparent wind there.
+Very well.  Not to nitpick, but if the goal is to make progress upstream, angle to apparent is not as important as angle to true.  If you're maintaining an average of 45* over time (including crabbing, tacks and repowering), you're making .707 times your forward velocity in VMG.  To stand still in a 2 knot current, you will have to be sailing forward at 2.82 knots.  At this pace there is of course no shift in apparent wind as you are not moving.  
+
+I guess this more or less answers OP's question - it's certainly possible, if not terribly fast.  A boat capable of maintaining a 6 knot hull speed under beating conditions would be making 4.42 knots VMG through the water and 2.42 knots VMG over ground.  That's about 2.46 MPH....you'd be better off walking.
+You're not necessarily sailing upwind though.  As long as it isn't blowing from upstream you could make considerably better time.
+You know, I'd mentally configured the answer to be as difficult as possible.  I suppose that's true.  At a nice tight reach, you could just point upstream and make hull speed minus river speed like any other ship.
+For the Nile, here you go -
+
+\- http://en.wikipedia.org/wiki/Felucca -
+
+Summary:
+That's the speed and direction you'd have to travel at to go straight across.
+If you're trying to go straight across that's your x vector.
+The other end of the rope is fixed to the boat.
+I was talking about apparent wind there.

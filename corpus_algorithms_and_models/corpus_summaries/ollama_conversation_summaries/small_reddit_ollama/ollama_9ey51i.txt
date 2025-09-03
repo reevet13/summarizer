@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the original text:
+
+I've got a skeleton farm on the server I'm playing on right now, but the chests keeps getting filled up with bows. So is there away I can filter away the bows? Also, I'm not looking too keep any arrows cause I'll just need one with infinity, so is there a sorting system tutorial or something that explains how you would do to achieve this?
+
+To be fair, those separate hopper chains were just set up for the tutorial to show how different items behave. If your sorting items that stack to 64, you need it one way, compared to stacking items that stack to only 16 or items that don’t stack.
+
+Which tutorial is this based on? It looks different from the video linked in this comment chain.
+
+I’m by no means a redstone wiz myself - I just know some basics and a few select nuances.

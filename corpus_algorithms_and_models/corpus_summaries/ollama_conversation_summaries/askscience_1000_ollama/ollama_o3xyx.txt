@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words:
+
+There seemed to be a phase-change system in place, with the cooling of the hot, sun-facing side done on the cold, earth-facing side. Without air, how is a satellite cooled? Is it purely down to radiation? Yes. Conduction through the satellite itself to the cold side where it then radiates away.
+
+Without a tethered solution (which by the gives me an awesome reason to talk about space elevators and their potential for energy exchange), yes, radiation is how you cool things in space.
+
+The Law is the law! Stefan-Boltzmann Law. Play with this equation. The alternative to exchanging not just heat, but other forms of energy in space, is via a tether. Imagine a highly thermally conductive material being connected to your satellite to something else.
+
+We're talking Graphene and carbon nanotubes, the MOST thermally conductive materials we have... and also the perfect building blocks for a space elevator, a different kind of tether.
+
+Yes, recall that there are three methods of heat transfer: conduction, convection and radiation. The first two require matter to be present in addition to the thing transferring the heat. Hence, in a vacuum, only radiation is possible.

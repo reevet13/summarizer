@@ -1,0 +1,48 @@
+Original Response:
+Both are for use from an airplane thats crashing above the ocean.
+
+1. A heavy, elongated escape pod. You lock yourself inside of it and plummet into the ocean. When it hits the ocean it would go down very deep and slow down gently enough for you to survive the deceleration. It would be like when you trow a heavy long stick vertically into the water. 
+
+2. A pair of retractable wings. You jump out of the airplane wearing these wings but they are folded. You go down head first like in a nose dive. When you get close enough to the surface of the ocean you open the wings and achieve horizontal flight. Then you skit over the surface like a waterskier slowing down to a safe speed.
+Interesting thoughts...here are some thoughts:
+
+The elongated escape pod could theoretically fit the bill, but you then have to worry about some other things. First of all, it needs to be retrievable - therefore it needs to be buoyant. Secondly, it needs to provide enough breathable air for the passengers to breathe until they are rescued. Finally, it needs to be stored somewhere in the airplane to be accessed by passengers - this is really the most prohibitive of the requirements that I see (not to mention the cost). This would add a tremendous amount of space and mass to the airplane, which is a big negative.
+
+The retractable wing idea is pretty cool (and sounds fun). However, there are a few problems with it - the biggest one that I can think of is that almost no regular people would be able to use it - skydiving is a difficult enough activity for inexperienced people (most people go tandem their first jump), and that's a low-stress, recreational environment. 
+
+So, tl;dr: Could they work? Yes, but they're not very plausible.
+The first would have to break the surface tension. Otherwise it will just smack the water and you'll fly into the front and splat. Maybe some sort of nose cone. I'm not sure this would work when going at hundreds of kilometers per hour.
+
+The second sounds way more dangerous than a parachute.
+You've got two flaws.  The first is that descending safely from height is a solved problem. We could easily place every passenger into a little pod with a parachute and ejector seat (like they do in fighters). That's way more practical than either of your suggestions.
+
+The second flaw is that the reason we don't have better safety mechanisms isn't due to a lack of engineering ideas. The problem is expense. Would you be willing to pay thousands of extra dollars for every intercontinental flight, even though the odds of actually crashing are vanishingly small?
+
+Similarly, we could design cars that were completely safe and would allow all of the passengers to walk away from head-on 70mph collisions. Would you be willing to pay 100 grand for a car like that? (not to mention pay for all the extra gas - indestructible vehicles are usually _heavy_).
+
+So it's a matter of risk-assessment and affordability.  So no, your ideas aren't really practical.
+&gt; The problem is expense. Would you be willing to pay thousands of extra dollars for every intercontinental flight, even though the odds of actually crashing are vanishingly small?
+
+While I think that's part of it, I don't think its only cost.  (Online a parachute costs ~$4000, which if it lasts on a plane for 2 flights a day for 5 years would only add about $1 a ticket).  I think its also a risk for the airlines to have parachutes on board if everyone is untrained in how to use them.  Someone could try jumping out of a plane in a non-emergency (e.g., a prankster/criminal/hijacker jumping out of the emergency exit midflight) which would mean pressure loss and danger for everyone else and the stability of the flight, or added risk if at the first sign of trouble everyone evacuates, but the pilot then recovers control, or if the people jumping land in the middle of nowhere, or in an unsafe environment (powerlines, city street, middle of the ocean) etc.
+
+My understanding may be flawed, but I think most pilots would rather try landing the plane safely than have everyone try parachuting out (at great risk) when they run into trouble.  I think by designing planes to be able to withstand water/air landings even with malfunctioning hardware is probably safer.  Looking at [wikipedia](http://en.wikipedia.org/wiki/Aviation_accidents_and_incidents) it seems that over 95% of people in US plane crashes between 1983 and 2000, survived.
+
+Anyhow, I do agree that its a matter of risk-assessment and affordability.
+
+EDIT: I want to add two comments.  (1)  Definitely agree with your car analogy.  If you drove very heavy cars designed for safety, you would survive more accidents, but if people drive lighter vehicles like Priuses they at greater risk of death from accidents.  (2) If you do put parachutes on a plane, then you have to have the pilot reach the conclusion that its safe to release the parachutes, then everyone on the plane at 30000 ft moving 500mph has to calmly put on their parachute (including children, the elderly, the handicapped) before anyone opens the door to the outside (where the air is super thin (200 mbars) and cold -60F, so you would likely black out) and all quickly evacuate out the emergency exits in an orderly fashion in the middle of an emergency.  This is quite distinct from 1-2 people evacuating from a small plane, or from people skydiving (typical height under 13500 ft above which you would need oxygen in the cabin and possibly while skydiving).  (3) Also in the US, adding parachutes would open up potential legal liabilities, if say the parachutes weren't adequately checked or passengers weren't properly trained to use them and some passengers failed to use them correctly.
+
+EDIT2: I don't know if this was an edit, but I totally missed the part about it being a totally passive ejector seat.  That probably would work better than parachutes, but also would be a design of a plane that would be fundamentally less safe as every ejector seat has a potential chance of failure and would have to be thoroughly checked.
+Emergency doors can not be opened when the cabin is pressurized and your at cruising altitude. The physics don't allow it.
+Interesting.  It has more to do with the design of the door, rather than the fact that the cabin is pressurized.  E.g., the emergency doors opening inward first, so you can't open them.  If they opened inwards or sideways, you would be able to easily open them (though it probably would be difficult to keep them locked in).
+Thanks for the reactions. I already guessed that there would be practical problems but its cool to see that some of you agree that it may work theoretically. Maybe they would be safe enough then to be an extreme sport.
+The pointy heavy pod thing might be quite fun if it had windows, especially a glass floor. You can see yourself hurtling towards Earth and then all the fishies around you!  
+
+...it might kill a lot of fish.
+
+Summary:
+The first would have to break the surface tension.
+Both are for use from an airplane thats crashing above the ocean.
+Would you be willing to pay 100 grand for a car like that?
+The first is that descending safely from height is a solved problem.
+The second sounds way more dangerous than a parachute.
+Would you be willing to pay thousands of extra dollars for every intercontinental flight, even though the odds of actually crashing are vanishingly small?

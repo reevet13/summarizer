@@ -1,0 +1,4 @@
+How is this kinetic energy of the group of particles distributed about the average?
+Each particle surely doesn't have the same energy.
+If we're talking about a classical gas, the particles will behave according to a [Maxwell-Boltzmann distribution](http://en.wikipedia.org/wiki/Maxwell-boltzmann_distribution).
+Temperature is said to be a measure of the average kinetic energy of a group of particles

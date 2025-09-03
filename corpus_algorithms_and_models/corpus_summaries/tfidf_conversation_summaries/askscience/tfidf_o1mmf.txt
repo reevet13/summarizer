@@ -1,0 +1,49 @@
+Original Response:
+[deleted]
+_Than_ not _then_.
+
+Yes, most people are related to themselves. Especially in small, less mobile communities, there's almost no way to avoid having children with a cousin of some degree.
+If we went by your math we would be extinct. People tend to have more than one child.
+But from parent generation to child generation it is always at least 2:1.  So his point still stands.  
+
+The real issue is that he's assuming one linear abstraction.  Given 2, there would be an increase in overlapping parent nodes in the parent generation. The other issue is that the time it takes to cycle generations becomes greater than the lifespan of the individuals. It's statistically very likely that no more than 3 generations in a sequence will be alive at a given time.
+That's irrelevant though - a child can only have two parents. Going back 32 generations requires a base of over 4 billion people to produce one child that's not severally related, but really there were only around [400 million people](http://en.wikipedia.org/wiki/World_population_estimates) back 32 generations ago.
+That's not the OP's question. If you go back 5 generations, for example, you should have 32 great^5 -grandparents if nobody ever had children with someone they were even remotely related to. If you go back 10 generations you would have 1024 great^10 -grandparents, and so on and so forth.
+
+However in a small village, and sometimes even in cities, it's not unlikely that you will marry your 3rd or 4th cousin, or even your 1st in some cases. So instead of having 32 great^5 -grandparents you might have just 28, or instead of having 1024 great^10 -grandparents, you might have only 300 or 400. The further back you go, the more your ancestors will have been related to each other.
+I think I see where you're falling apart.  You've falsely assumed that each individual must have two parents *who are separate, distinct, and unique to himself,* or are the parents of no other individual. 
+
+Obviously, in application, there is a point at which, let's say, 1,000 people, freely breeding, can bring about 5,000 descendants.  Stability can be, and often is achieved.
+Yea my question was worded horribly but this is kind of what I was going for, thank you, but I still can't wrap my head around it and have a hard time seeing how incest is the only contributing factor to this narrowing of population as you go back in time.
+Inbreeding is only bad if it's too intense for too long. All animals have some degree of interbreeding, there just aren't enough bodies to go around.
+
+And incest is a bit strong of a word for cousin-love going back past 2nd cousins, maybe even including 2nd cousins. If you go back 6 generations say, and then look at the children of those 64 great^6 -grandparents, it's likely that none of them knew each other even if they were related. So if the child of ancestor^6.1 married the child of ancestor^6.64, they might never have thought of it as incest.
+
+Then if you imagine the amount of genetic mixing that would go on, it most likely wouldn't be dangerous to the genetic heritage, especially if the genes of the occasional outsider were thrown into the mix.
+
+There are instances where this inbreeding has been taken to extremes, leading to a fouled gene pool. The [Syrian village of Kesten](http://www.npr.org/templates/story/story.php?storyId=6509680), for example:
+
+&gt; Deep in the northern Syrian countryside lies a tiny village with a very big problem. For more than 100 years, it has been common practice for the village of Kesten's 5,000 inhabitants to intermarry.
+
+&gt; The tradition of marriage between first cousins in the Arab world is a way to keep property and businesses in the family. But it also keeps family in the family, and now up to 800 children in this impoverished village are living with extreme genetic defects. 
+
+Here's another [article on inbreeding](http://blog.bioethics.net/2007/03/considering-consanguinity-inbreeding/).
+A lot of people seem to be misunderstanding your question. This is actually a somewhat famous paradox. But yes, if n is the number of generations you want to go back, then you have 2^n great great great.... great grandparents (where I guess you'd have n-2 greats in front of that?) However, the reason it works is because a lot of those people are related to each other as well. AKA- any family tree that is big enough becomes a family vine, which is what saves you in this case from the paradox.
+Upvote for "family vine", thats a great way of understanding this.  Thanks!
+A lot of those people 32 generations back would have been the same person due to a certain degree of inevitable inbreeding.
+Article on this from The Straight Dope - http://www.chicagoreader.com/chicago/the-straight-dope/Content?oid=871012 -
+I love reddit I did a google search and /askscience search before putting this up and couldn't figure it out on my own.  Article was awesome!
+Glad to be of help.
+Yes.
+I sit corrected.  It seems like we were edging at the same point, I misunderstood the first reply.
+For one, we have siblings. Multiple people can share the same parent. This merely puts a *maximum* on the population a long time ago.
+
+There's also the fact that inbreeding is relatively common, especially with 90th cousins who don't realize they're related (ie: everyone of your nationality if you're European).
+Don't forget people dying!
+
+Summary:
+Yes, most people are related to themselves.
+The further back you go, the more your ancestors will have been related to each other.
+People tend to have more than one child.
+If you go back 10 generations you would have 1024 great^10 -grandparents, and so on and so forth.
+If you go back 5 generations, for example, you should have 32 great^5 -grandparents if nobody ever had children with someone they were even remotely related to.

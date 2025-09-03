@@ -1,0 +1,41 @@
+Here are the selected sentences from the original text, in order:
+
+Nature Digital Medicine published our study last week, and it is open access.
+
+After the approval, many physicians, scientists, and patients had questions about the safety of the AI system, its design, the design of the clinical trial, the trial results, as well as what the results mean for people with diabetes, for the healthcare system, and the future of AI in healthcare.
+
+I am a retinal specialist - a physician who specialized in ophthalmology and then did a fellowship in vitreoretinal surgery - who treats patients with retinal diseases and teaches medical students, residents, and fellows.
+
+There are different views on the training data for machine learning - we focus on high quality data rather than large quantities of data - though we still used over 1 million samples to train the detectors.
+
+So that actually required an assistive AI coupled with a robotic camera to help primary care staff that never took images of the eye before take high quality images.
+
+Again because of the environment it will be used in, a probability output was not deemed appropriate, so it actually outputs a clinical decision with a referral recommendation.
+
+Wow, that's impressive. So you use the robotic system to get good quality data and it actually takes a decision.
+
+No issues with primary care docs, because they typically feel uncomfortable making this decion. So they are used to referring these patients to specialists like me - and now they can do it while the patient is with them.
+
+That said, if you're a GP who only does algorithm medicine (as many are) yes, AI might be a concern.
+
+Social workers can take care of client's concerns when it comes to questions no one can answer as well as someone who spent 10 years in med school (perhaps better).
+
+At the same time, however, AI cannot cover *everyone.* There will always be a large population of technophobes, as well as people who live in areas too rural or poor to support the use of advanced technology.
+
+We're still trying to convince people to use *vaccines* which are a demonstrably safe form of medical care that has been around for a century. If this many people don't trust vaccines, how many more will be hesitant to trust a robot over a family doctor?
+
+OP said this a number of times throughout the AMA so i'll reiterate. This does something that the GP can't, it doesn't make the GP obsolete, it's a tool they use on the patient instead of sending them to a specialist.
+
+If an AI could ever entirely replace a medical specialist then it's reasonable to assume that most human activity could be entirely replaced as well so there would probably be more pressing issues at that point.
+
+A small number of GPs do do the retinal exam in their practice, but the vast majority does not feel comfortable doing it. Maybe "diagnostic empowerment" for GPs is what it does.
+
+How does that compare with other diagnostic methods in terms of the amount of false positive/negative results?
+
+Sorry, I should have caught that from other posts.
+
+Not going for criticism here, just wondering if we're looking against a benchmark or reported results.
+
+Why is your system contraindicated for women who are pregnant? Isn’t a camera the only patient facing part of the Dx apparatus?
+
+IDx-DR is intended to conform to the AAO preferred practice pattern for managing diabetic retinopathy. Gestational diabetes requires different management for diabetic retinopathy and the IDx-DR outputs do not align.

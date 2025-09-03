@@ -1,0 +1,8 @@
+Genetic mapping is different from DNA sequencing.
+A genetic map is made when we determine the order of genes on a piece of DNA.
+The closer together the genes are on a chromosome, the less likely it is that they will get scrambled like this.
+For many of the genes, we have had a good explanation of how they affect let's say hair color.
+Yes, exactly.
+Generally when they announce that the genome of a species has been sequenced they mean that the genome of one individual has been "de novo" sequenced (ie they make lots of copies of the genome, break it up into short bits, do some magic to infer the sequence of those then fit all the data together with a computer into one long sequence for each chromosome).
+All good clarifications.
+To put it simply, genetic mapping is the process of finding which gene, located where on the chromosome, does what.

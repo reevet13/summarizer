@@ -1,0 +1,11 @@
+Here are some sentences copied verbatim from the original text:
+
+* "Has anyone else used their nose to activate the display when turning your wrist didn't work? If I’m driving or something and my other hand can’t tap to activate it."
+* "It felt as if the Watch was lit up more often when I didn't want it to be than when I did. In a way, that's almost worst than 24 hour battery life, because it requires charging at irregular intervals that don't match the charging patterns for your other devices."
+* "The would not be a problem with an appropriately dimmed color scheme that automatically adjusted to ambient lighting conditions. And with an OLED display, you would only see the lit up characters, not the background."
+* "I'm saying, if they've fixed the burn in problem, they could have an always on display."
+* "The patent application was (as usual) vague, dense, and difficult to translate into real world terms. The best I could interpret was that they created several algorithms to detect which pixels would degrade sooner and then either tweak the display to protect those pixels or to mask their degraded appearance."
+* "I don't, I usually can drag the battery out for two days so I'll sleep with it to track my sleep cycle"
+* "Yea I've never seen an OLED screen used for a year go without burn-in or discoloration. People on /r/Android will preach about how Samsung has it figured out with the modern problems and there's never an issue, but I just think those people aren't looking for the signs."
+* "It's just that people don't really notice it. Even if you don't get burn-in, the colors get inaccurate as the screen becomes warm and yellowish. Honestly with my last phone I was pretty much just used to it until I got my new phone with an LCD display and it's immediately clear how bad the old phone's screen was."
+* "Ah. That's pretty cool. I wouldn't be able to do that. It is almost 10:30pm right now and my S2 is at 26%."

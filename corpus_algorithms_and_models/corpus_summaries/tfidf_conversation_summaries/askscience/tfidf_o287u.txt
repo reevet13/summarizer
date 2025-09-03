@@ -1,0 +1,86 @@
+Original Response:
+I don't know if I'm correct, but I remember reading that temperature (heat) is a huge problem because the circuits on CPUs are so small that they are easily burned out.
+
+Would this hold true still, even for bigger circuits/connections?
+Yeah, making the circuits bigger would make it much worse. In general smaller circuits are more efficient because the same signal is transmitted over a smaller distance. Instead, you want to increase the effective area of heat dissipation, which is what all cooling devices do in some sense or another.
+But if the circuits were bigger, then the (copper?) connections/lines would be thicker and be able to support a higher temperature, no?
+They would be able to support higher temperatures, but they would be much slower.  I don't remember the exact numbers offhand, but to illustrate - roughly - a CPU accessing its level 1 cache is 10 times slower than the processor speed.  Level 2 cache is 100x slower, *even though the cache is still on the CPU*.  The same CPU accessing its RAM is about 10,000x slower.  Size is very important.
+The thing is, CPUs really don't do very much. They do have lots of tiny electronics on them, but they perform essentially just the basic math calculations for the machine to run off of. 
+
+More than likely, if such a 'large' CPU was created it would have additional cores similar to the multi-core CPUs you see being released by Intel and AMD over the past 7 years or so. It would not necessarily gain any new capability, but certainly gaining concurrent computation capability.
+
+&gt; Would this hold true still, even for bigger circuits/connections?
+
+Yes and no. It depends on the frequency of the chip. The old CPUs had much larger circuits, but you couldn't get very high frequencies through them without a large amount of power (which would generate ungodly heat).
+Small wires are better for speed, big wires are better for heat. This is because all the wires have some intrinsic capacitance, and if you've done electronic theory, you should know that larger surface area means higher capacitance. Higher capacitance means more time needed to (dis)charge the wire to the voltage you need to get a 0 or 1 at the other end.
+
+Nub version: Think of the wires as little toggle switches. The size of the wire (capacitance) is the "weight" of the switch - the bigger the wire, the heavier the switch is, so the more time it takes to change its state between 1 and 0.
+
+You can increase voltages to improve switching times, but you end up with increased power consumption, which is basically what the problem was to begin with.
+
+At the end of all of this... it's always a tradeoff, and a smaller chip means you can run it at a higher speed for the same power consumption.
+The [Larrabee](http://en.wikipedia.org/wiki/Larrabee_(microarchitecture\)) cpu was a *very* large processor (it had 32 cores of with 4 hardware threads, giving an effective core count of 128 using 16-wide SIMD units), and was something like a [square inch](http://www.pcgameshardware.com/aid,681498/Intel-presents-Larrabee-Wafer-at-the-IDF-Sample-chips-ready/News/). The [next generation CPUs](http://en.wikipedia.org/wiki/Intel_MIC) in that line are expected to be about double the number of processors, but the same size.
+
+So, how powerful are these processors? At 1Ghz the Larrabee would retire 512 distinct x86 SIMD ops/clock, or 512 gigaops/second. (The part is superscalar, so theoretical throughput is twice this rate.) In terms of 'GPU' performance numbers this equates to ~1 tera-op (madd) or ~1.5 tera-op (madd + v-pipe). The next gen part with double the cores would be at ~2 tera-ops / 4 tera-ops. (The Bonnel uses equal A/B superscalar pipes.)
+
+Assuming you could cool it, putting 8-or-so of the MIC would be about the size of a video card, and would be ~16 tera-ops/second. Of course, you're going to need something like a 1600-2500w continuous power supply. A 'motherboard full' (assuming a reasonable sized desktop) would be in the 1/4--1/2 peta-op range, but would consume, say, &gt;75kw. You'd probably singe your socks if you kept it under the desk.
+On the other hand, you could have a huge die, and cover it with hundreds of normal-size tiny cores. We don't do that because it's really stupid expensive and difficult to make large dies, really hard to make them talk to the outside world, and while we're talking about power, it would be really hard to keep a large die cool. Not to mention you have to have all sorts of inter-processor communication overhead on the chip, and if two processors on opposite ends of the die want to share data, it would be really slow. But it's mainly the first few reasons.
+Fast becomes a problem when you scale up because of the fundamental limits of the universe.
+It sounds crazy, but light only travels 10cm in the time it takes a modern CPU to take one cycle. 
+
+This means that as you scale up you lose the capability of running a synchronous system if you want to maintain (or increase) the clock frequency. 
+
+The obvious solution to this is to localize the working areas of the chip e.g. spit the code onto different threads which are synchronized by software and run these on different processing units. This is essentially what is already done in multiple CPU designs and GPUs
+The reason you always hear about them moving to smaller 60nm 45nm etc productions, its because they need everything smaller and closer together to reduce latency over the tracks.
+
+It is the same limitation they have so they can't double the ghz each year like they used to, so they have to create different technologies to use the current clock speeds faster.
+Wire delay is a function of the product of capacitance *and* resistance. Resistance grows as wires shrink, and the effect of this is that smaller wires of the same absolute length increase in delay. Wires of the "same scaled length" remain roughly constant.
+
+www-vlsi.stanford.edu/papers/rh_iitc03.pdf
+
+I am not an EE, but I do know wire delay scaling has been a large concern for CPU design for a long time, e.g., for clock signal and large control structures like schedulers you find in deep out of order CPUs.
+
+So small wires are not good, other than being physically smaller so taking up less room. Lots of techniques to work around this, such as using multiple metal layers, where larger wires in upper layers carry global signals (some modern CPUs use about a dozen metal layers, with varying wire size in each layer).
+A light nanosecond is about the length of a ruler. There are 10^9 nanoseconds in a second. Which means if you want to run a circuit at 1GHz you can only transmit information at most the length of a ruler per cycle. And due to the fact that electricity travels slower than the speed of light and that there are other propagation delays you can't even send it that far.
+Exactly. Interconnect length is the bottleneck. Which is why so much research is undertaken on optical interconnects.
+[deleted]
+~~Also, inside the chip it is gold or silicon.~~ Apparently they figured out how to get copper to work on 22nm.
+Wire delay does provide the theoretical lower limit to CPU size, but as other posts in this thread have pointed out, current CPU's are more closely limited by the speed of light. Any processor with any single connection more than 10cm long could never operate faster than (3.0e8m/s / 0.10m) = 3GHz, even if those connections were made with a laser or some other light source. The maximum speed of a processor will never be higher than 3e8 / (length of longest connection).
+Others have already explained how scaling a chip affects performance - so I will just say that it will (with current tech) be worse than an equivalent sized board containing multiple individual regular size CPUs.
+
+Right now increasing the power and efficiency of concurrent and distributed systems is probably more important than ramping up CPU power.
+
+I'm not saying that more powerful (or energy efficient) CPUs aren't required. These days the energy cost of running a server for 2 years can exceed its hardware purchase price.
+But I thought that electricity flows through wires via an induced electric field, which propagates at near the speed of light (in contrast to the electron drift speed of several hundred m/s, if I recall correctly). Why would optics be faster, especially since the light would bounce around its guiding container, significantly increasing the distance it has to travel and thus its propagation speed?
+
+Sorry for the poor vocabulary, obviously I'm a layman.
+[deleted]
+I had no idea size was that important and there was such a big difference, thanks for that. :)
+The speed of propagation in copper is typically estimated as between .5c and .66c.
+On what basis?
+[Wiki](http://en.wikipedia.org/wiki/Velocity_of_propagation#Typical_velocity_factors)
+
+These are common transmission lines pulled from the ARRL handbook.  Not *specifically* only copper, but there you go.
+I don't know what you're getting at. Wire delay -- length and propagation size of wires -- *is* the same speed of light problem you are talking about.
+
+"Speed of light", in fact, is what is the *theoretical* lower limit. The *actual* lower limit is determined by the actual signal propagation across wires (wire delay) and gates.
+I meant to ask why is it so low? What model predicts it and on what basis is the prediction made? Just seeing the formula on Wikipedia doesn't help much.
+It has to do with the distributed capacitance and inductance of a transmission given conductor, which resist change in fields.  I don't know enough about it to give you a confident description more accurate than that.
+
+Perhaps someone with a better understanding from the photon side can give a better explanation.  Values such as the inductance and capacitance or permittivity affect the scattering of photons in the medium.
+I'm not sure we're saying the same things here. When I referred to wire delay, it was because your post ("small wires are not good," etc.) sounded like you were arguing for larger chips. Glad we're both on the same page then, even if we didn't know it at the time.
+Well I don't know how you read from my post that I was arguing for larger chips. Feature size, of course, has nothing to do with chip size or wire routing distance.
+Electric fields may propagate at nearly the speed of light, but charging a capacitor does not. Don't consider just the metallic transmission line, consider the entire system including the surrounding dielectric insulators, and you find that the flow is limited by the [RC time constant](http://en.wikipedia.org/wiki/RC_time_constant). In integrated circuits there are multiple sources of parasitic capacitance which can slow down propagation. I'm not an expert on photonics, but I don't think this applies to optical propagation, which should only be limited by the dielectric permittivity of the material and the path increase resulting from total internal reflection.
+Ah that makes sense. Thank you.
+
+Summary:
+The thing is, CPUs really don't do very much.
+I don't know what you're getting at.
+"Speed of light", in fact, is what is the *theoretical* lower limit.
+Small wires are better for speed, big wires are better for heat.
+So, how powerful are these processors?
+Wire delay -- length and propagation size of wires -- *is* the same speed of light problem you are talking about.
+But if the circuits were bigger, then the (copper?)
+At the end of all of this... it's always a tradeoff, and a smaller chip means you can run it at a higher speed for the same power consumption.
+Wire delay is a function of the product of capacitance *and* resistance.
+sounded like you were arguing for larger chips.

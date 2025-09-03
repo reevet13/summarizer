@@ -1,0 +1,11 @@
+Here are the selected sentences:
+
+* "Auto Zone turn off your CEL with an ODB scanner and you immediately go get the inspection" (This is absolute bullshit. It's better to stay silent when ignorant than make false claims.)
+* "I think scale is the problem. If only a few people were going around these controls it wouldn't matter much"
+* "The idea is that the system is self-monitoring."
+* "IMO if you're doing emission testing, this is how it SHOULD be done. It shouldn't matter what's under the hood if what's coming out the tailpipe is clean."
+* "OBD-II compliant vehicles are supposed to be able to trip a check engine light for any fault that could allow emissions to exceed 50% above standards."
+* "Problem is that most of those emissions tests are nowhere near as accurate as the EPA/CARB certification tests done on new vehicles and are intended to be a rough estimate only."
+* "Drive cycles. This is the holy grail for emission check defeat"
+* "AFAIK, all modern gasoline cars have an upstream and downstream O2 sensor."
+* "One issue with the tailpipe sniffer is that it only takes a snapshot. You can artificially lean out the car so that it passes the test."

@@ -1,0 +1,13 @@
+Original Response:
+Even when I use a measuring cup with a spout, the water will stick to the spout and travel down the side of the cup and spill off of the bottom of the cup. It's like it maliciously defies gravity in order to spill all over my bare feet.
+If you look though the side of a glass of water you can see the water is not flat across but actually curves up the side a bit.  I believe this has to do with the interaction between the glass, the water and the water's surface tension.  I don't know how this interaction exactly works.  But I'm pretty sure that when you pour the water out of the bowl, it is this same effect that causes the water to not pour straight down but instead causes some to run down the side of the bowl and onto your feet.
+Have you tried with cold water too? Maybe make 2 videos with cold and hot water? Because regardless of the container heating up too, the decreased surface tension of the hot water should actually have the opposite effet and let it disconnect from the container more easily.
+
+But maybe I'm just an idiot and the decreased viscosity makes it bend around the corner more easily.
+What you're talking about is capillarity.  It comes from the difference in attraction of liquid molecules to each other vs. to the container.  In the case of water and glass, the glass tends to be charged, so water molecules are more attracted to it and thus "climb up" the walls (opposed by gravity).  Surface tension enhances this effect, but isn't necessary (surface tension comes from the intermolecular ordering of the water molecules - fluids without surface tension still exhibit capillarity).
+
+To address the OP's question, there's a balance of forces: capillarity (the tendency of the water to stick to glass), surface tension (the tendency of the water to stick to itself), and gravity.  The first tends to be 1D (force is proportional to the length of the water-glass-air interface), the second is 2D (i.e., force is proportional to surface area), the last 3D (force is proportional to volume).  When you pour slowly, not a lot of liquid comes out of the glass, so the first two tend to win out.  If you pour more quickly, gravity will win out and your feet will stay dry.
+Water is a reactive element and because if its shape is sticky in a way because its physical shape can fit like a puzzle piece in other elements
+
+Summary:
+I believe this has to do with the interaction between the glass, the water and the water's surface tension.

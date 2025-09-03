@@ -1,0 +1,31 @@
+Original Response:
+For instance, is it physically possible for planets to be in various shapes (i.g. rectangular, triangular, ring) other than the spherical-ish ones known to man?
+Not really. At the point where an object has enough mass to become a planet, gravity tries to pull all of the mass into the centre. The only shape it can reach hydrostatic equilibrium is as a sphere.
+No.  [Why are planets round?](http://www.scientificamerican.com/article.cfm?id=why-are-planets-round)
+One of the definitions of a planet is that it has to be big enough to be spherical (meaning it's in hydrostatic equilibrium with gravity).
+
+However, planets that spin on an axis can be oblate spheroids. Saturn is the most oblate.
+By definition, [They are spheres or ellipsoids](http://en.wikipedia.org/wiki/IAU_definition_of_planet)
+
+In practice, massive objects can't really be anything other than spheres or ellipsoids.
+Thanks for the reply. That's kinda what I assumed, but was never sure since the objects man has put into orbit never actually mimic the shape of planets.
+Couldn't something be massive enough to be spherical from self gravitation then have its shape altered by a massive collision resulting in a (temporarily) non-spherical planet for an extended period of time.
+Absolutely - that's what happened to Earth during the collision that ultimately formed the moon. However, as you said, this is only temporary. As I recall (it's been a while since I've read about this), models suggest that the moon would have coalesced from fragments in just a few tens of thousands of years, or possibly even faster. I assume that the Earth would take even less time to reform into a sphere, since its gravity is stronger.
+No, since IAU had defined planets to be only those that are round.
+
+http://en.wikipedia.org/wiki/IAU_definition_of_planet
+
+Another word, if it's not round, we say it's not a planet.
+Things that are small like spacecraft can be any shape.
+
+Asteroids and small moons are "lumpy" or  "distorted spheres". 
+
+\- http://en.wikipedia.org/wiki/Deimos_%28moon%29 - 
+
+\- http://upload.wikimedia.org/wikipedia/commons/c/c0/Asteroidsscale.jpg - 
+
+Larger things are spherical.
+
+Summary:
+No, since IAU had defined planets to be only those that are round.
+One of the definitions of a planet is that it has to be big enough to be spherical (meaning it's in hydrostatic equilibrium with gravity).

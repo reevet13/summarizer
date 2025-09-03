@@ -1,0 +1,139 @@
+Original Response: 
+What you're describing are [tangent circles](https://en.wikipedia.org/wiki/Tangent_circles).
+The circles touch at exactly one point.
+Algebraically, we can write the equations of the two circles as:
+
+(x - x_1)^(2) \+ (y - y_1)^(2) = r_1^(2)
+
+and
+
+(x - x_2)^(2) \+ (y - y_2)^(2) = r_2^(2)
+
+where the first circle has center (x_1,y_1) and radius r_1, and the second circle has center (x_2,y_2) and radius r_2.
+If we look for values of x and y that satisfy both of these equations, there are three possibilities:
+
+1.
+There are no solutions.
+The circles do not touch.
+2.
+There is one solution.
+The circles are tangent.
+3.
+There are two solutions.
+The circles overlap.
+But what is the value of the point at which the touch?
+That’s always bugged me.
+The only equations I have seen basically are to determine whether or not they touch.
+And that’s the basic answer I get from a lot of math teachers.
+But what is the value of the point?
+Can it even be measured, or would that be an example of a value not zero, but just above?
+Could you have a 4th solution of the two existing at the same place so that all points meet?
+In that case the two circles would be the same and you wouldn't have 2 circles.
+It's a point.
+It has no length, and I wouldn't say it is an infinitesimal.
+As was said above, two tangents circles have only one solution, described by two coordinates, not a "value".
+&amp;#x200B;
+
+Maybe I misunderstood your question, but it feels unclear what you mean with "value".
+What do you mean by "value" of a point?
+A point is zero-dimensional - it has no length, width, or height.
+It has a location (like x/y coordinates), but that's about it.
+Curiously, if one circle is completely inside the other, it falls into the first category.
+[removed]
+[removed]
+There's no such thing as the value of a point.
+If you want to know the coordinates of the point, then you have to solve a system of equations.
+But what if you could?
+It's not permitted.
+Two figures are considered litterally "the same" in that case.
+I'm afraid I can't explain it better than this since english is not my native language.
+e.g.
+: two squares having the same size and the same (obv bi-dimensional) position on the plane are exactly the same object on the plane, unless you are switching in a 3d space where two squares having same starting two coordinates and size may float one on top of the other (from a top-down perspective).
+In that case "the same" square would be a square with all the equal three coordinates.
+Same for a 3 object.
+Sorry if I made any confusion.
+Maybe someone else can be more clear :)
+You will not be able to describe them differently, that is to say both will be described by the same mathematical equation, and hence they cannot be different.
+It's sort of similar to the answer of "how much volume does a 2D square have?
+", which is basically 0.
+It might not be that satisfying to answer it that way, but if you have a bit of calculus knowledge, you could also explain it as the limit as x approaches 0.
+Ok, so, think about a game of pool.
+The balls strike each other.
+In order for energy to be transferred from on ball to another they make contact.
+So, matter connects with matter, so, there is a measurable value of the surface of one that connects with the surface of the other.
+Those aren’t spheres/circles during the moment of collision.
+When the billiard balls collide, they squish very slightly.
+If you mean a perfect sphere/circle moving towards another, there will be some point in time when exactly one point of each is in contact.
+The question I think you are intending to ask is more of a physics/engineering problem than a math problem.
+Idk why it was tagged as math, but even still, I would assume, not necessarily pool, that was more of an example, but, sphere or circle.
+Either is the same.
+But when you talk about a point, a point has to have value, either 0, which means there is no point, or 0.0000001(with infinite zeros) being the smallest amount of contact possible, which technically, should be an infinitesimal, correct?
+But the question remains, if two perfect circles, or spheres, are tangent, there is contact, so the value, so to speak, cannot be zero.
+That would mean they are not tangent.
+They touch, meaning, the circumference of each touch, but how much touches?
+If they were tangent squares, than, whatever the value of a side is, would be the value of which they make contact.
+But let’s just say they were absolutely solid spheres, moving slow, so the shape does not change.
+They would make impact at some point no matter how slow or how much Force is driving them,
+I mean - now you're requiring things that don't exist.
+There are no perfect spheres, no perfect solids, etc.
+&gt;a point has to have value
+
+Define "value."
+There's a mathematical concept of "measure" which is probably closest to what you're trying to say.
+&gt;either 0, which means there is no point
+
+Why can't there be a point?
+Points have 0 length, width, or height.
+In terms of measure, a single point has 0 measure.
+In fact, there are infinite collections of points which have 0 measure.
+&gt;0.0000001(with infinite zeros)
+
+This is not a valid real number.
+Every digit must occur a finite number of places after the decimal.
+At what position does the 1 occur?
+&gt;infinitesimal
+
+Infinitesimals are generally not considered to exist in standard real analysis (essentially the study of real numbers and functions on the real numbers).
+There are ways to formalize the concept, but for non-experts its best to forget about them entirely.
+You're describing a real physical system, not a pair of perfect mathematical circles.
+They don't obey the same rules.
+Two tangent circles meet at a single point.
+Each circle is a set of points which form the curve of the .
+circle.
+There is exactly one coordinate that is on the curve of both of them; that's where they meet.
+You won't find your answer because you're using mathematical models to describe physics, without taking into consideration the validity of your models.
+In maths, there is only one point.
+In reality, you'll never have a perfect circle, and you need to take into account elasticity, perhaps even quantum phsyics to study the very close point of impact, for all I know.
+There will always be a reason why it'll never truly be a point of impact.
+It's like trying to apply 1+2+3+.. = -1/12 to your everyday life.
+It holds some value but you've got to be very careful about how to use your mathematical results in the reality.
+&amp;#x200B;
+
+That being said, it's considered as a point for physics, and you can calculate the distribution of energies with a -point- of impact.
+But again, it's just a model.
+Not reality.
+Reality is, your circumference is practically impossible to determinate, as there are too many factors.
+You are assuming the Universe has some pixel size (it doesn't), and you're also asking a mathematical question in the context of physical reality, where mathematically perfect objects simply do not exist.
+At a small enough scale there's not really points to speak of.
+Just collections of atoms that get close.
+They don't even contact each other in a conventional sense, they just get close enough that electromagnetic forces act on each other.
+They collide like "north" sides of two magnets push each other around without them even touching.
+In the case of perfect spheres, if a point has no area, then how much pressure is exerted by the cue ball when it collides with another ball?
+
+Summary: 
+But what is the value of the point?
+But what is the value of the point at which the touch?
+The circles do not touch.
+There's no such thing as the value of a point.
+What do you mean by "value" of a point?
+In maths, there is only one point.
+The circles touch at exactly one point.
+Two tangent circles meet at a single point.
+That would mean they are not tangent.
+But what if you could?
+But again, it's just a model.
+&gt;a point has to have value
+
+Define "value."
+Points have 0 length, width, or height.
+In fact, there are infinite collections of points which have 0 measure.

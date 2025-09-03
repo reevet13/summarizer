@@ -1,0 +1,73 @@
+Original Response:
+1  
+A [null hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) is really useful when you are using statistical tests to determine significance.  Like a [t-test](http://en.wikipedia.org/wiki/T-test) or using a [p-value](http://en.wikipedia.org/wiki/P-value).    
+
+An example would be giving someone a drug to reduce blood sugar.  You have two measurements. Initial blood sugar and blood sugar after giving the drug.  The null hypothesis (H_0) is that the initial blood sugar - blood sugar after giving the drug = 0.   
+
+Essentially you are saying that both experimental parameters are not significantly different.  You can also have an alternative hypothesis (H_a) which states that the after drug blood sugar is lower and/or higher than the initial.  The p-value and t-test tell you with a certain confidence level whether there is a difference.  
+
+So, if you are looking into two or more populations and trying to determine a change, a null hypothesis is good.  If you are adding a chemical to a solution to see if it turns the solution blue or red, a null hypothesis doesn't really make sense.  
+
+2  
+If it makes sense individually in both cases.  You can also then go on to perform statistics to determine whether both are simultaneously significant and there are ways of adjusting confidence levels to test multiple hypotheses from the same data (might be something to worry about later in your career)  
+
+3    
+Ideally you set up an experiment with a specific hypothesis in mind, but plenty of people approach a dataset and test a hypothesis have it fail and test another hypothesis, etc (think of people looking for trends in nationwide datasets)
+Thank you for your reply. I am doing a t-test and it is statistically significant. 
+
+But how does a null hypothesis change anything? To me it seems more symbolic than anything else!?
+It is important conceptually from a statistical perspective.  When you perform your t-test you reject the null hypothesis with 95% confidence (or whatever yours is), statistically you are looking at one mean and saying that you are pretty sure the location of a second mean is not the same as the first.  Both of these means have distributions associated with them (like in [this picture](http://www.psychstat.missouristate.edu/introbook/sbgraph/errors05.gif)) How much these distributions overlap determine how significant your results are. (Important to note that a failure to reject H_0 doesn't make it true)    
+
+If you are in a statistics class it is imperative that you write out both hypotheses.  If you're in a bio class and you are trying to develop a hypothesis statement for a report, you probably don't need to say "hypothesis 1 is the null hypothesis that a and b are not significantly different".  You can say "the predicted effect of drug a is a reduction in serum levels of whateverdrugyoureresearchingiximab."  
+
+I guess I don't know what you're working on.  I know I murdered my hyothesis statements in first year bio, but I also tried to finish my reports early so I could bring my questions into my TA/teacher for clarification (which is a protip for all writing in college, assuming you're in college).
+If you have statistical questions, they would be better suited for /r/statistics (but no homework questions, please).
+
+
+1) There is always a null hypothesis. If a frequentist: thing A is no different from thing B. Or, thing A is no different from 0 or no different from the population mean. If Bayesian... it gets weird.
+
+2) No. You have a null and an alternative.
+
+
+3) It's often looked down upon to not have the hypotheses laid out unless you're very sure of what you're doing in the first place.
+Bayesian stuff blew my mind in undergrad.  I've never heard it mentioned since.  Always thought it was very interesting.
+1) I have had my hypothesis in my head for some time. I did my research. This hypothesis is accepted on the 95% level. What is the point of making Ho, to reject, just to approve of Ha?
+
+2) Based on my hypothesis in 1), I figured that if that was true then also the new hypothesis must be true. And my second hypothesis is accepted on the 99% level. So I should basically ignore my second hypothesis? Or create another null hypothesis for it?
+So it is impossible to accept an hypothesis without a null hypothesis?
+No, you don't get to create the null or the alternative. They just _are_. That's one of the most counter-intuitive points of statistical testing.
+
+
+You have _your hypothesis_ about what should happen. That is not the null, nor the alternative.
+
+
+Let's say your hypothesis is that brown-eyed people have faster reaction times than all other eye colors. You set up a test where a ruler is dropped and their finger and thumb are an inch apart. As soon as the ruler drops, they have to snap their fingers close to get it. Time can be measured with a stop watch or measuring distance on the ruler... whatever.
+
+
+The null hypothesis (H0) is that _there is no reason to suspect that brown-eyed people are any different from other-color-eyed people_. And, very importantly, the null hypothesis does not say _these groups are the same_. It simply says that _these two groups aren't different enough to call them different_. 
+
+
+The alternative hypothesis (H1) is that _brown-eyed people have a faster reaction time than other-color-eyed-people_. In sum:
+
+
+* H0: Brown-eyed people's reaction times are no different from everyone else.
+
+* H1: Brown-eyed people's reaction times are different (truthfully: "not the same") from everyone else.
+
+
+You can only reject H0. When H0 is rejected, you are only left with H1. **But that doesn't mean you accept H1**. There is no accepting. Only rejecting (in nearly all cases).
+The (very) short answer is: you can _only_ reject the null. You can't accept it. You also can't reject or accept the alternative. 
+
+
+
+I'm leaving a lot out here so I'm boiling it down to a basic premise. But it appears you're confusing your hypothesis, the null and the alternative in your _t_-test.
+That explained everything I was looking for! Thank you :)
+
+Summary:
+You have a null and an alternative.
+You can only reject H0.
+That is not the null, nor the alternative.
+You also can't reject or accept the alternative.
+I am doing a t-test and it is statistically significant.
+1) There is always a null hypothesis.
+You have _your hypothesis_ about what should happen.

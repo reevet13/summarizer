@@ -1,0 +1,13 @@
+Here is the extracted summary:
+
+it would have been better if you just linked the actual parts list. its super messy now
+
+again, it would help if you *linked* your build. your "list" here is really messy
+
+anyways, youre using old gen Ryzen cpu. Get a 2xxx cpu and to avoid bois update issues, get a 450 motherboard with it. also, for a ryzen cpu, you would want to get fast ram. around 2666 MHz or higher (3000 reccomended if you have the cash)
+
+you dont need that aftermarket CPU cooler since ryzen cpus come with a decent one already. youll only need to get one if youre gonna be majorly overclocking
+
+yes, but a 470 is a little overkill for a 2200g. just get a 450 and you should be fine.
+
+Thank you

@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text (up to 250 words) in sentences copied verbatim from the original text:
+
+They reflect light from the sun onto a pipe filled with a fluid, probably petroleum, which then is used to heat water.
+Came here to say this, however its molten salt, not petroleum. They work 24/7 because when the sun goes down, the salt drains into a vessel and is pumped back out when the sun comes back on.
+
+This turns out to be more efficient. Lenses are very expensive. Parabolic mirrors work better.
+A mirror is far less expensive than a lens, and if you have a 1 square meter lens that's focused a certain way, a 1 square meter mirror that's focused the same way will be almost exactly as efficient at heating up the water.
+
+One of the main reasons you don't evaporate water directly is that that gives you an immediate burst of energy. You have no control over how much electricity you generate; you simply convert *all* of the thermal energy into electricity at all times.
+
+So a more efficient solution is not to heat the water directly, but to heat up something that can hold all of that thermal energy.

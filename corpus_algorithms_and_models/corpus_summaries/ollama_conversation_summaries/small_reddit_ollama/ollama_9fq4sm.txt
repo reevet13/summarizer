@@ -1,0 +1,11 @@
+Here is a summary of the text, selecting sentences verbatim up to 250 words:
+
+We have guided missiles which travel quickly and accurately... would need some course corrections for g reduction, but I don’t see why it isn’t feasible.
+It has been done, see JATO pods and the Messerschmitt 163 for example. The issue is that it is very inefficient for planes.
+
+Rockets have to carry their own fuel and oxidizer. But since planes by definition stay in Earth's atmosphere they can just use the oxygen in the air to burn the fuel in the engines.
+For any significant distance in atmosphere it is more efficient to cruise with a turbojet or ramjet than use a rocket engine that will run out of propellant faster.
+
+Rocket propulsion is only really viable if you leave the atmosphere like the X-15 or SpaceShipTwo.
+Probably too simple is it not?
+This is basically what is done right now. That's called a ramjet if you keep it simple.

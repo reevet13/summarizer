@@ -1,0 +1,67 @@
+Original Response:
+Science is based, at it's most basic, in measurement. If if cannot be measured in some way, there is no way we can know for certain what properties something has. If you break it down to it's lowest level, though, measurement is all about the interactions between particles. On a macroscopic scale, there aren't any problems with changing the properties of what we're looking at because the interactions between the particles are so insignificant that the effect is drowned out by statistics.
+
+But when we deal with things on the scale of individual particles, the effect of the measurement isn't drowned out by anything. So, by observing something we change it's properties, and we get the Uncertainty Principle. When scientists say that a wave function collapses when we observe it, it isn't that our conscious observation changes reality, it's that it changes what we know about that particle. We also came up with superposition to describe where a particle is without actually knowing for certain.
+
+Am I right about all this? Does a lot of the confusion about quantum physics really come from a simple misunderstanding of how science has to operate at that level?
+&gt; Am I right about all this? Does all of the confusion about quantum physics really come from a simple misunderstanding of how science has to operate at that level?
+
+What you explain is one way to rationalize the unintuitive quantum world as something more intuitive.  But QM is more complex than this.
+
+Quantum mechanics operates in the domain where position and momentum are basically Fourier transforms of each other.  As an analogy you can think of momentum being the frequency-space of position.  Due to this construction, a particle cannot have a ultra-precise momentum and ultra-precise position  at the same time, due to the Fourier relationship between the two.  There is no unmeasured position and unmeasured momentum that it really has before the measurements were done.  
+
+There are experiments like Aspect's tests of [Bell's Inequality](http://en.wikipedia.org/wiki/Bell%27s_theorem) that showed that there can be no (local) hidden variables.  (A hidden variable being something like a particle having an absolute position and momentum that we can't measure).  So QM is something fundamentally different.  E.g., the double slit experiment shows how wavefunctions of particles really behave like waves even when its just single particles going through the slit every time.  (Read the first few chapters of Feynman vol 3 for a really good intro).
+Well... it's more like the fundamental nature of objective reality doesn't seem to be so much individual particles with separate positions and momenta... but complex numbers assigned to each possible "arrangement" of stuff, and certain laws for how that complex amplitude field flows over the space of all possible arrangements. Now, the rules for how that field flows are linear (in the linear algebra sense. ie, it will be well behaved in such a way that you can operate on individual components (not as in individual particles, but as in individual functions/components that sum to the amplitude field, and then add the results to get the result you would have gotten if you operated on the thing as a whole), so that allows superposition stuff. Oh, and for some mysterious reason, the probability of subjectively experiencing a particular blob of that amplitude (that is, of the associated arrangements of stuff) is proportional to the squared modulus of the amplitudes associated with it.
+
+You can get effects, for instance, in which different possibilities "cancel out", so that individually they would have allowed a certain thing to happen, but together they don't.
+
+Now, I'm going to inject something that perhaps isn't universally accepted among physics, but is, as far as I know, at least widely seen as plausible: There's never any collapse. Collapse is silly. The notion that the amplitude field suddenly goes flat everywhere except one particular "arrangement" is an additional extra bit tacked on to the rest of QM that doesn't actually add much other than confusion.
+
+(mods/panelists, if it was inappropriate for me, especially as a nonpanelist, to add here the "no collapse" bit, lemme know and I'll edit my comment to remove it)
+I should append that by saying it doesn't help to understand most of the phenomena of quantum mechanics, just things regarding observation like, as I understand it, entanglement and uncertainty. This is stretching the limits of my knowledge, so I'm probably wrong about most of this. How wrong am I and about what?
+I've only done undergrad QM, so forgive my lack of understanding... but I've never come across the concept of Hermitian operators being Fourier transforms of one another. Can you explain this? Cheers :)
+Don't worry - we're more worried about people claiming knowledge that they just don't have. 
+
+As long as you qualify it as speculation, then you're free to say whatever the hell you like :)
+http://en.wikipedia.org/wiki/Momentum_operator#Fourier_transform
+No...but that was the answer before I even read your text.
+Seriously? You're a panelist and you aren't even trying to be helpful.
+I was trying to be funny, honestly its not my area of expertise, and I know that other panelists can give (and apparently have given) better answers than what I can contribute. I was referring to the career physicists I've seen say something along the lines "The more about QM you think you know, the less you know."
+
+I guess its looks like I was being a jerk, but I smirked when I saw the post title and felt like I had to post that.　All I know is that I dont know nothin, lighten up.
+Yeah I saw that you were trying to be funny. I just don't think this subreddit is the place for that. It's not a big deal though.
+I like my science with a bit of humor, to each his own.
+Sorry for only the brief link earlier.  
+
+In say 1-d QM, you have in position space p = (-i hbar) d/dx  (gradient with respect to x), and in momentum space x = (i hbar) d/dp.  
+
+Note that the [Fourier transform](http://en.wikipedia.org/wiki/Fourier_transform#Functional_relationships) of x f(x) is (i/(2pi)) (d/dp) f(p) and the transform of (d/dx) f(x) is (2pi i p) f(p), or equivalently -i/(2pi) d/dx f(x) has transform p f(p).  Throw in the h as a constant to just convert the units and you get the equations given above.  
+
+This is the theoretical underpinning of QM, which gives rise to the Schrodinger eqn being p^2/2m + V = E becoming (-hbar^2/2m d^2/dx^2 + V) psi = E psi.  Landau's non-relativistic QM (vol 3) stresses this pretty well.  The [uncertainty principle](http://en.wikipedia.org/wiki/Fourier_transform#Uncertainty_principle) thus arises as a simple consequence of being position and momentum being a Fourier pair.
+No problem! Anybody can post what they want - as long as they're trying their best to be helpful. Part of being helpful is qualifying your statements: "I am not a physicist, but..." and "According to what Hawking told me yesterday over a cup of tea..." are both very helpful for people to ascertain the level trust they they place on the science in the comment.
+
+The "panelist" label is also just a means to this goal. :)
+I have a similar mental problem with accepting QM, but as the famous quote goes:
+"Anyone who says they understand quantum mechanism doesn't understand quantum mechanics."  (Feynman?  I can't find a source)
+
+After reading a number of books on QM, I've realized that once you hit this point, you have to give up logic and stick with the Math; logic requires determinism, and the QM world isn't deterministic.
+
+
+If, however, it turns out years from now that we're just missing something (like trying to apply particle math or wave math on something neither a wave nor a particle but a waveparticle), I'd love it.  The experiments to disprove the idea of hidden variable, however, make this seem sadly unlikely.
+Moderators can turn their mod status on an off when they post, depending how official they need to be.
+
+I would be nice nice if panelist could do the same...to distinguish be between an "expert" and "I'm just another redditor" responses...
+You're wrong about this part:
+
+&gt; We also came up with superposition to describe where a particle is without actually knowing for certain.
+
+A superposition doesn't mean that a particle has a specific state but we don't know what the state is.  It means the particle is literally in more than one state at once.  I realize this seems counter-intuitive or crazy, but it's just a fundamental part of how the universe works that particles don't have to be in only one state at a time.
+
+Summary:
+I like my science with a bit of humor, to each his own.
+(A hidden variable being something like a particle having an absolute position and momentum that we can't measure).
+Am I right about all this?
+So QM is something fundamentally different.
+Quantum mechanics operates in the domain where position and momentum are basically Fourier transforms of each other.
+We also came up with superposition to describe where a particle is without actually knowing for certain.
+Does all of the confusion about quantum physics really come from a simple misunderstanding of how science has to operate at that level?

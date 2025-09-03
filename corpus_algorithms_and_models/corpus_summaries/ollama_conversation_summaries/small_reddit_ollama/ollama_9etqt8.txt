@@ -1,0 +1,11 @@
+Here is the summary:
+
+The search for dark matter comes from a discrepancy between how much mass we think there is in certain cosmic structures (such as galaxies) based on what we can directly measure and how much mass we think there is based on the motion of objects that we observe.
+
+We can estimate the mass of something like a galaxy by measuring the amount of light it emits (and correcting that for distance) using the knowledge that we have on the structure of stars and how mass and light emission are related.
+
+Estimates based on gravitational effects suggest a mass that is much higher than estimates based on direct observation of emissions.
+
+There are two reasonable explanations for this large discrepancy. Either there is something there that we can't see, but that's rather heavy. Or our theories on how gravity, stars and other cosmic objects work are wrong.
+
+The fact that we don't know what this matter would consist of makes searching for it rather difficult, which is why dark matter is one of the most important open problems in astro- and particle physics.

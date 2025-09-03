@@ -1,0 +1,81 @@
+Original Response:
+Edit: there are a lot of answers given but it seems to me that the most reliable answers is momentum.
+So force is just mass times acceleration as depicted in F = m*a. Since you are interested in a falling object the main source of acceleration is gravity. On earth gravity is relatively consistent and the variations that exist are negligible. Thus F = m*g, where g is roughly 9.8 meters per second. So a falling object will always exhibit a force of 
+F = 9.8*m (neglecting all forms of wind resistance etc). So the real variation in falling objects in this scenario is the mass. Things with larger mass exhibit more force when falling than things with smaller mass. When you add in the variation of height of free fall it doesn’t change the acceleration or the mass so force remains constant.
+That's been going through my head too but the problem is that it obviously does a lot more damage when something falls from 10 meters than from 1 meter which means the force can't be constant.
+Well the force you're calculating there is from gravity, which pulls an object toward the ground.
+
+But that's not what causes damage - it's the force applied that makes a falling object *stop* moving toward the ground. That has to be a greater force, otherwise, whatever you dropped would keep falling through the ground.
+The force generated when you hit the ground is a function of your mass and velocity. The velocity is a function of the height from which you fell and gravitational acceleration.
+[removed]
+[As an aside, if you want to have a character like \* show up, you need to type an escape character like \ before it; e.g., \\\*. This is because reddit interprets \* differently from regular characters, to allow for some formatting. One asterisk marks italics, two marks bold, and three marks bold italics:
+
+\*italics\* gets rendered as *italics*  
+\*\*bold\*\* gets rendered as **bold**  
+\*\*\*bold italics\*\*\* gets rendered as ***bold italics***
+
+So, because you tried to write F=m\*a, followed by text and then F=m\*g, what you got was F=m*a, followed by italic text and then F=m*g.]
+It's not the fall that kills you, it's the sudden stop at the end.
+
+The gravitational force is mg, but that's pretty harmless. The higher the fall, though, the longer gravity has to speed you up.
+
+When you hit the ground, your velocity has to go back to zero in a very short distance (say, 1 metre). The ground pushes back on you to do this. The faster you were going, the harder the ground has to push, and the more damage it can do.
+
+Worse, gravity affects every atom of your body the same, but the ground is only pushing on the bits of you touching it. So the force from the ground distorts your shape, breaking skin, stressing bones, moving organs around and pressing them against each other, just generally doing stuff your body isn't happy with.
+g = 9.8 meters per second *per second.*  (9.8 m/s^2 mathematically) Very important.
+[removed]
+[removed]
+First, because I tent to ramble, TL;DR:  The higher you fall from, the more kinetic energy you build.  Your body has to absorb all of that energy to come to a stop.
+
+Ok, so...for the following calculations, I'm ignoring air resistance and terminal velocity, just to simplify things a bit.
+
+Kinetic energy (the amount of damage a projectile is capable of inflicting) is equal to one half the mass of the projectile, times its velocity squared.
+
+The acceleration due to gravity near the Earth's surface is equal to roughly 9.8 meters per second squared.
+
+What that means is, for every second an object is falling, you add 9/8 meters per second to its speed.  After one second, 9.8 m/s.  After 2 seconds, it's 19.6 meters per second.  After 3, it's 29.4 meters per second.  And so forth.
+
+Ok.  Now that we got that out of the way...
+
+The higher you are, the more seconds you're falling.  The formula for how long you fall from a given height is h = .5a * t^2.  H is the height of the fall, .5a is half the acceleration (4.9, in this case), and t is time in seconds.
+
+So, for a hundred meter fall, it's ~ 4.518 seconds.
+
+Ok, so now we know how long we're falling.
+
+4.518 * 9.8 = roughly 44.276 m/s.
+
+A 10 kg mass moving at 44.276 m/s carries 5 * (44.276)^2, or 9801.998 joules of energy.
+
+The same mass falling half the distance, or 50 meters, carries roughly 4900 joules of energy, if I'm doing the math correctly.
+
+In both cases, that's how much energy your body has to absorb on impact to come to a stop.  Well...your body and the ground, but still.
+
+Now, I don't know how many joules it takes to shatter a femur or detonate a spleen (which is almost, but not quite exactly what would happen in either scenario), but I'm pretty sure it's less than 4.9 kilojoules.  That's a bit more than a gram of TNT (If I did the math correctly) for a 50 meter fall, according to Wikipedia.
+It's not a greater force.  Newton's Third Law applies:  for every applied force, there is an equal and opposite applied force.
+
+When you hit the ground, the ground hits you back *exactly as hard.*
+You're misunderstanding what he said. The force of the object hitting the ground (and the ground hitting back) is stronger than the force of gravity acting on the object. Otherwise, it would indeed continue to accelerate downwards.
+That's the force that is accelerating you. The force when you hit the ground come from how fast you are going (v at impact) and the speed at which you stop (t of impact).
+
+a=v/t
+
+That a is different than gravity acceleration, so the force is different too.
+Look up impulse.  It's not the force that's the problem, it's how quickly or slowly it's applied to your body.
+[removed]
+That is not relevant, we are talking about the force due to gravity compared to the force of deceleration on the ground on the same object. Newton's Third Law applies to forces of the same type (Ours are different) on different objects (Ours are the same)
+Other than for very short time scales it is the force that is the problem. If a force of 100,000 newtons acts on you for 0.1 seconds vs 10 seconds you are still likely dead
+Question was about falling from heights. How much it hurts you is absolutely dependent on how quickly you stop.
+Yes I agree, but the reason is that if you stop over a greater time there is less force on your body as there is less acceleration and f=ma applies. The reason the time matters is the magnitude of the force
+That's not true. Force is an instantaneous property, it doesn't make sense to talk about it over a time period like that.  If you simplified things drastically and assumed you stopped instantly when you hit the ground, then both acceleration and force would be infinite.  The property you are looking for is impulse, which, like momentum, is what you deal with when you are talking about forces, accelerations, etc. over time periods.  For example: how far does a baseball go when you hit it? You need can't get the answer just from force. You need force + time, i.e. impulse.
+A high impulse is only dangerous over a short time i.e when there is a high force, similarly a low impulse over a very short time is also dangerous. The magnitude of force applied is what matters. if you stopped instantly on hitting the ground then the force applied as you said would approach infinite which would kill you, if there was a slower stop then the impulse would be the same but the much lower force would mean you survive
+
+Summary:
+That's the force that is accelerating you.
+The higher you are, the more seconds you're falling.
+The force of the object hitting the ground (and the ground hitting back) is stronger than the force of gravity acting on the object.
+The ground pushes back on you to do this.
+The force generated when you hit the ground is a function of your mass and velocity.
+g = 9.8 meters per second *per second.
+The magnitude of force applied is what matters.
+So force is just mass times acceleration as depicted in F = m*a.

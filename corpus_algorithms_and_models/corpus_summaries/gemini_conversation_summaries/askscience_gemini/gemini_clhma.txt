@@ -1,0 +1,46 @@
+If the rocket is "thrusting against itself", then how is this any different to trying to jump by pulling up on one's shoelaces?
+With the brick, F is high due to high mass and non-zero acceleration.
+With the gas, mass is low but acceleration is very high, therefore a strong force is generated.
+
+Thanks, that's a great analogy.
+Neutrinos do not interact strongly enough to be useful for this.
+You cannot use charged particles, for reasons that I hope are clear.
+You cannot use baryons, since they're heavy enough that you might as well fire hydrogen gas.
+And you cannot use any of the neutral mesons, because they decay.
+That leaves photons; use those and you've got yourself a [solar sail](http://en.wikipedia.org/wiki/Solar_sail).
+Better way of visualizing rocketry, is by net momentum.
+In the absence of gravity, net momentum is constant.
+You can get a rocket moving as the when the (low mass) gases are propelled downwards with high momentum, the rocket moves upward to keep the net momentum constant.
+All the gravity does, is cause the net momentum to constantly decrease (its an external force).
+
+Your idea doesn't really work, because its not feasible.
+You can't just get a significant number of neutrinos/leptons to go in one direction, without huge nuclear reactors/synchrotrons/etc, and even then because the subatomic particles are subatomic they don't impart that much momentum and you wasted lots of energy in accelerating them to those energies.
+Take the LHC; it has about 2800 bunches of protons circulating in the beam; and each bunch has about 10^5 J of energy.
+10^5 J is roughly the energy of [anti-tank shell](http://blogs.uslhc.us/what-does-7-tev-mean), but that will not be enough energy to really get a rocket out of orbit.
+
+If you deal with charged particles (or neutrons) you are going to also have to deal with the consequences of their stream; e.g., people don't want to be bombarded with radiation.
+Dealing with neutral particles is even more difficult, because it is inefficient to accelerate/direct them (as you have to deal with charged particles that then create the neutral particles).
+I was just studying this stuff, so I'll try to explain it for my own practice instead of anyone elses.
+Another way of thinking of it is imagine you weigh 5 kg, and imagine you stand on a 5kg block of wood.
+If you jump to the right, going at 5 m/s, the wood will go to the left at 5 m/s.
+It's basically a reverse collission where momentum is conserved, since in the start you and the block were not moving the total momentum there was 0.
+If you  move in one direction at 5 m/s since the block weighs as much as you do it has to move in the opposite direction at 5 m/s, so that the sum of momentums (mass times velocity) sums up to 0.
+
+I know what i said is exactly what shaneoffline said but longer and more complicated.
+I just wanted a chance to see if i actually knew what i was studying.
+Agree with this.
+Except a solar sail is a little different as it would be reflecting light rather than being a directed "cannon".
+Also good to recognize that reflecting a photon imparts double the momentum, as you get the momentum of the photon once when it hits, and also the momentum of the photon as it reflect backwards.
+Unfortunately, you are not even wrong.
+
+However, you may enjoy reading this: http://blog.xkcd.com/2008/02/15/the-laser-elevator/
+See: [space fountain](http://en.wikipedia.org/wiki/Space_fountain).
+Technically it could be done, but is impractical with our current level of technology.
+Maybe someday...
+Look into microwave or laser-pushed probes.
+Most advanced propulsion concepts supply energy remotely, or do direct momentum transfer.
+This is incorrect.
+You can provide about 3 g worth of acceleration to a carbon truss sail via microwave flux.
+The mistake made in your first sentence is the subject of a famous [retraction made by the New York Times about propulsion in a vacuum.](http://i.imgur.com/5J1mr.jpg)
+Rockets don't do better/worse in atmosphere than they do in space.(well in principle it might make a small difference, but neglible for any real rockets.)
+The reason they use rockets is that air-pushing engines don't work in the speed and air density range that is needed

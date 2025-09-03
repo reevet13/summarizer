@@ -1,0 +1,14 @@
+Here is the summary extracted from the original text:
+
+Is iron the only element that can be magnetic at STP?
+No. I believe neodymium is the strongest.
+The element neodymium at normal temperatures is not magnetic.  Nd2Fe14B is the compound that goes into the very strong neodymium magnets.
+That is generally true, but there are many exceptions, particularly among transition metals and rare earths.
+Electrons around an atom are organized into shells, which, very roughly, indicate how far away the electron is from the atom.
+But it does explain why the Fe-Co-Ni group is more similar to each other than they are to the platinum group metals below them.
+It is the unpaired electrons in the outer shell that give rise to ferromagnetism, right?
+You are on the right track, but you are still missing a few pieces. :)
+First, each vertical row of the period table corresponds to a shell, so by the time you get to the transition metals, you are starting work on the fourth shell.
+But you got the gist of it.
+
+(Note: I've extracted around 10% of the original text, which is about 250 words.)

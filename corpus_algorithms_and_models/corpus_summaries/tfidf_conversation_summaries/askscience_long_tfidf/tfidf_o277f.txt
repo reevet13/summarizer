@@ -1,0 +1,72 @@
+Original Response:
+A lot of drugs carry a warning to not mix with alcohol. Is it just because it's legal and widely used or is there a chemical explanation?
+[deleted]
+[deleted]
+[deleted]
+&gt;and humans have used it for so long, our bodies have numerous adaptations to its consumption
+
+Really? So does this mean I have a higher alcohol tolerance than someone from several hundred (thousand?) years ago, despite never having had a drink? Or that mean we now just metabolize it faster and don't stay drunk for as long? Or am I just totally misinterpreting this line?
+That seems to be the case.
+
+Two key enzymes are responsible for the breakdown of alcohol under normal conditions, Alcohol Dehydrogenase and Acetaldehyde Dehydrogenase.
+
+These two enzymes are found in a higher concentration (Up Scaling) near europe and Near Eastern parts, as beer was commonly consumed instead of water due to its antibacterial alcohol content. Not much, a lot weaker than the beers today, but enough to warrant that people with more alcohol processing abilities would survive longer.
+
+For example, the standard asian flush is due to the lack of Acetaldehyde Dehydrogenase, which leads to accumulation of acetaldehyde in the blood stream. This increases the chance of esophageal cancer.
+
+To be fair: I am not too certain whether alcohol dehydrogenase enzymes can be as quickily upregulated a few thousand years ago if fed beers constantly, but i'm sure evolutionary aspects are part of it.
+
+Sources:
+[Esophageal Cancer](http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1000050)
+Oh wow, lots of misinformation in this thread. Yes, alcohol has CNS effects. Yes, it affects other organ systems. But **this is not the main reason that it interacts with other drugs**. The source of its interaction is its metabolic pathway.
+
+Alcohol is oxidized in the liver, primarily by the enzyme Alcohol Dehydrogenase. However it is also oxidized by the cytochrome P450 enzyme CYP2E1. Alcohol consumption upregulates CYP2E1. This enzyme also metabolizes lots of drugs, including many anesthetics. So if you drink while on these drugs, the drugs are metabolized more quickly.
+
+Metabolizing drugs more quickly does three things. Firstly, and most obviously, it means that the drug is consumed and therefore less effective. Secondly, it means the the drug's metabolic by-products build up more quickly. This effect can be very dangerous, and is the source of most Tylenol (paracetamol) toxicity. Thirdly, some drugs are given in an inactive form, and their metabolization by CYP2E1 *activates* them. In this case, alcohol will quickly (and sometimes catastrophically) increase the amount of active drug in your body.
+In a chemistry lab an alcohol group might be noteworthy, but virtually every biological molecule carries an -OH functionality. This is not the source of its drug interactions.
+Yes, thank you for posting this. I opened this thread looking for "P450" to see if I had to give the proper answer. Thank you for describing this so well.
+Thanks for the correct answer! As a toxicologist I'm shaking my head as to why the wrong answer has more points than this.  It all has to do with metabolism - alcohol and certain drugs (ex. acetaminophen) are metabolized by CYP2E1 in the liver.  Also, why some drugs (ex. lipitor) can't be taken with grapefruit juice because they are both metabolized by CYP3A4.
+[deleted]
+[deleted]
+Not really. If it were not small and polar we probably wouldn't absorb much of it, so it could never affect our biochemistry, but that's not terribly relevant to its metabolism.
+No.  A chemical being called a 'solvent' in lab chemistry usually has no bearing on that chemical's effects in vivo, since water is the dominant 'solvent' in living things.  Even calling water a solvent in biology is misleading, however.  The physical distribution of water in cells is much more akin to motor oil - a thin film separating organelles - than it is to a flask in which reactants are dissolved.
+
+As a minor addition to FlexorCarpiUlnaris' excellent answer, ethanol can also chemically react with other drugs to from different drugs with different pharmacological properties.  For example, methylphenidate and cocaine react with ethanol via transesterification to form ethylphenidate and cocaethylene, respectively.
+To clarify on the beer part of what you said. I recall reading that while they drank beer it was more like they only used 10% beer and 90% water. That was done for many reasons such as: cost, not having a town of drunks, hydration, and to kill bacteria. I don't think they actually understood the concept of bacteria (correct me if I'm wrong please), but they knew that if you put a little bit of beer in the water you wouldn't get sick. I'm going to try finding sources on this when I can and I'll edit my post with such info if I find it.
+It's worth noting as well that not all ethnic backgrounds have the same tolerance to alcohol.  Traditionally (and this is just a generalization and should not be considered true for every individual) people of Asiatic and Native American ancestry are less capable at dealing with liquor.
+
+Anecdotally, I worked with a gentleman who lacked the enzymes that break down alcohol mentioned by KindleFlame, and he was quite tipsy after a single beer.  After three or so he would yell at street signs and traffic for being offensive.
+&gt;I don't think they actually understood the concept of bacteria
+
+To provide a little context historically, since I'm not sure what era you're referring to specifically.  But paraphrasing wikipedia on bacteria:
+
+- First observed directly in the late 17th century
+
+- Late 19th century Pasteur experimented and discovered that mocrobial growth came from the air and wasn't spontaneous.  He also linked fermentation with microbial growth (though not bacteria).
+
+- 1905 - The germ theory of disease won Koch a nobel prize.  It was believed before then to be true but this was when it was official in a way.
+
+From the page on Germ Theory
+
+- longer than 2 millenia ago, disease was thought to be spontaneous.  Over time people thought it to be environmental (there is reference to not building a home near a swamp in 36 BC).
+
+- In the 1500's someone proposed that disease from epidemics may have some type of spreadable seed or spore.
+
+edit: clarity
+This is neat information and all, but how does it relate to the post it's replying to?
+Zurratype mentioned that he/she was not sure if 'they' understood the concept of bacteria, so I wanted to provide some context that might help that understanding.  I wasn't sure when specifically 'they' were around (there seems to be a general sense of 'the past people' in the thread) so I'm pointing to a few key times in the development of the study of bacteria for reference.
+Okay, I see. I'm still not used to being in a subreddit that's not full of idiots who comment without reading posts, so I get a little trigger-happy.
+
+My bad.
+Hey, no worries :)  I admit that my post could have used a little more clarity as well.  I'm going to edit it now so people can see more easily why I wrote it.
+Yeah, sorry for not clarifying what I was saying at all. I was talking about the dark ages which is when I'm pretty sure they diluted beer to around 10% (iirc) so they wouldn't get sick/possibly die from staying hydrated. Thank you for your reply as that clarifies that they were not familiar with the concept of bacteria at that time period.
+
+Summary:
+This is not the source of its drug interactions.
+It all has to do with metabolism - alcohol and certain drugs (ex.
+Also, why some drugs (ex.
+Metabolizing drugs more quickly does three things.
+Yes, thank you for posting this.
+This enzyme also metabolizes lots of drugs, including many anesthetics.
+Yes, alcohol has CNS effects.
+The source of its interaction is its metabolic pathway.

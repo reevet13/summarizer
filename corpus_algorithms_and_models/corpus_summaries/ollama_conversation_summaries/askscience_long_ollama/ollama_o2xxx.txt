@@ -1,0 +1,19 @@
+Here is the summary:
+
+If you have something with mass, then it goes closer to the bigger mass (in this case the sun), right?
+
+Even the moon is kept in place by earth, while I think that if it is in between of the sun and the earth, than the sun would pull the moon out of it's normal orbit around the earth, which it doesn't.
+
+The short answer is because the things are moving really fast. Gravity pulls inward, but by the time the thing has been pulled towards the source, it's speed has moved it out of the way.
+
+Another way to say that, is the centrifical force of the Earth in orbit around the Sun is the same as the gravitational pull of the Sun
+
+Why would it (go further or closer)?
+
+We think of gravity as "things fall towards masses," but that's not really correct. The correct interpretation is "a force is exerted on objects towards masses."
+
+In the case of the Earth, that force is basically exactly what it takes to stay in orbit.
+
+"An object in motion (being pulled by the sun) will remain in motion unless acted upon by another force" - Newtons 1st law
+
+Your question is a tad bit confusing, but I will try to help.

@@ -1,0 +1,17 @@
+For a LONG time nanotech has supposedly promised grand things that will change our life drastically. That hasn't seemed to have arrived, and as a layman I don't really see it around me yet. I guess I'm just looking for a laymans, top level overview of what nanotech is mature and finding it's way into the real world around us?
+
+We work with a deposition process called molecular beam epitaxy (MBE) in which we evaporate metals onto a substrate and our newly evaporated materials try to mimic the crystalline structure of the substrate. Specifically we work on thin film oxides for a variety of uses such as solar cells, interfacial studies, and transistor-like devices.
+
+This isn't really what the average person thinks of when they think of nanotech, and in fact nanotechnology already has enhanced your life greatly, look at your cell phone, computer, any electronic device out there really. They all employ it.
+
+As I understand it, several labs around the world regularly make nanomachines that can do potentially useful things. The problem is that there is no commercially viable way to mass produce them in quantities that would have an impact on a regular person's daily life.
+
+For example, one of the more well-known (and controversial) applications is the use of titanium dioxide nanoparticles in sunscreens.
+
+I work personally with the synthesis of nanoparticles; usually from the 10 nm to <300 nm range, and they're usually made of gold, silver, iron, and platinum. I use them as part of a "theranostic" platform, the word being a combination of the term 'therapeutic' and 'diagnostic.'
+
+As to what the future will hold, I only have concrete projections for my particular field, but in general, as we refine our abilities to synthesize, manufacture, and otherwise shape the formation of nanoscale structures, we will better be able to improve our existing technologies, such as the improvement of personalized health-care platforms, electronics manufacturing (e.g. smaller, faster, more efficient devices), and textiles (e.g. coating of textile fibers with nanostructures for added functionality such as cleanliness, durability, and possibly electronics integration).
+
+There is something called the [international semiconductor roadmap](http://www.itrs.net/) which is this awesome publication that talks about current state of the art science as well as future hurdles to overcome.
+
+There are a lot of technologues currently utilising nanotech, but most of us just don't realise it.

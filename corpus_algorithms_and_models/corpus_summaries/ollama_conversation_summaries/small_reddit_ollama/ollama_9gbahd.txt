@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words:
+
+Is the Max slightly wider than the R? It’s kinda hard to tell where that .4 difference is at. Or is it more evened out in both height and width that it makes it hard to tell the difference.
+I think XR and XS Max have same content resolution scale so the software displays them as the same size but physically they are not the same size.
+Oh ok. It was throwing me off cause in the pic they looked identical.
+Yup that definitely helped out. Thanks.
+Correct. Both are 896x414 points. The XS max is a @3x display whereas the XR is @2x display, but both display exactly the same amount of content.
+This means elements will be physically bigger on the XS and XS max compared to the XR. The XR is more content-dense, even though it's less pixel-dense.
+The XR is more content-dense, even though it's less pixel-dense.
+
+Let me know if you'd like me to extract a different amount of text!

@@ -1,0 +1,13 @@
+Here are the selected sentences from the original text:
+
+Let's say somehow tomorrow we find/are given/discover a method of space travel that would allow you to get in a ship and go explore any star in our galaxy (or others). Somehow your ship can move across the vast expanse of space in a timely mannor.
+
+When we plan a trip to say Mars, we can figure out what path to take by doing the math for where we are and where Mars is and adjust for where it will be when we get there right? How could we do this with a distant star? One thats light took years just to get to us?
+
+Astronomers can track star movements across the sky and can estimate distances pretty accurately.  As long as you had those two pieces of information for your destination and knew how long it would take to travel that distance (to adjust the flight path for the illusion of a distant star's location in the sky) you could navigate accurately.
+
+One option is to use [pulsars to define cosmic location](http://arxiv.org/abs/0905.4121). Individual pulsars are readily identifiable by their rate of spin (pulsation).
+
+Guiding things in space is surprisingly tough. Even to send things to Mars we regularly need to make a variety of course corrections on the way.
+
+I don't see why we couldn't do that given the right information.  Interstellar travel should only vary in the distance between you and your destination, and the direction you're heading in.

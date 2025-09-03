@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Yes, blue light in the hours prior to sleep onset seems to suppress melatonin production, delay sleep onset, and subsequently alters patterns of sleep during the night. [Supported by a recent study](http://onlinelibrary.wiley.com/doi/10.1111/j.1600-079X.2011.00970.x/full) (the most comprehensive study on the topic to date).
+
+Regardless of frequency, light will suppress the production of melatonin. However suppression varies greatly as a function of the amount of blue light; more blue= more suppression, less blue = less suppression, dim/minimal artificial light of any frequency = very little suppression.
+
+In simplicity, light stimulates certain cells that are sensitive to light (aptly named photoreceptors).  Different photoreceptors have different sensitivities to frequencies of light.

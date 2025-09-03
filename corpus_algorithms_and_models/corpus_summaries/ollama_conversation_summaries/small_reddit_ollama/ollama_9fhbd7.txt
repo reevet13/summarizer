@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text, consisting of sentences copied verbatim from the original text:
+
+i've been having a bunch of problems with a laptop a currently mainly with cs go. i've been only getting about 22 fps max. so i opened task manager to see what was going and i saw that my gpu on my apu was only using about 15% while playing  cs go. Cpu usage was at around 95% and ram usage was about 80% while playing cs go.
+
+Sounds like your CPU is bottlenecking you, the bad performance probably has nothing to do with low GPU usage and everything to do with CPU or maybe RAM
+
+You don't usually, a bottleneck means your system isn't good enough. You can try to do a system cleanup to see if it helps, maybe a malware scan 
+
+4 gb of ram is plenty for CS:GO. He just shouldnt have web pages or other documents in the background taking up it all.
+
+Well ram is either enough or not enough. It's plenty because you would get identical performance to a 8gb set

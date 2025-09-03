@@ -1,0 +1,31 @@
+Original Response:
+It's not the nicotine. It's not the juice. Anytime I try to make these coils (5 wraps, 0.4 ohms), smoke between 20 and 60 watts, it burns. I can make Kanthal fine. I have SS 316L 22 AWG I can smoke at 55W. No issues. I feel like I'm completely missing out on flavor with these.
+
+Wires are not overlapped. They're squeezed together. On the TFV8 if that helps.
+5 wraps of 22G 316SS doesn't get you to 0.4 more like 0.15
+It's a dual coil. Coil master puts new at 0.38, Aegis 0.37
+
+Edit: and 0.15 in other wire combos doesn't burn at 55W
+Something isn't right. Your numbers break physics.
+
+Go to steam-engine.org, put in dual coil SS316, 22G, and 0.4ohms, 3mm diameter. Then look at the wraps. That's 26 wraps to get 0.4ohms. 
+
+Or your coils are 25mm in diameter, in which case, dafuq.
+That can't be right. One of my go to builds was 22g SS, 8 wraps, dual coil. And that was .12.
+https://imgur.com/LSq0K1z.jpg
+You put in 28G, not 22G. Which is it?
+Well shit. Damned if I know! Whichever is thinnest is the one that's burning.
+Not possible!
+
+You either not using 22G, not using SS or have a bed connection.
+28g is the thinner one. Look at the bottom right hand corner where it says Heat Flux, 17W, and 200mW/mm^2. That's the watts you wanna be vaping around for that build. Also as you can see this is a .2ohm build, not a .4ohm build.
+
+A 10 wrap dual coil should give you .5ohms, and you could probably use 45-50W if your wicking is very good haha.
+Thanks for the reply! I wasn't sure what the heat flux reading meant. Good to know. But I have 5 wraps like the site suggested. I wanted 0.2 but my coil master and mod said upper .3's so I just assumed I miscalculated something somewhere.
+If it's supposed to read .2 with dual coils, and it's reading double, one of your coils is probably loose or shorting
+
+Summary:
+One of my go to builds was 22g SS, 8 wraps, dual coil.
+You put in 28G, not 22G.
+5 wraps of 22G 316SS doesn't get you to 0.4 more like 0.15.
+That's 26 wraps to get 0.4ohms.

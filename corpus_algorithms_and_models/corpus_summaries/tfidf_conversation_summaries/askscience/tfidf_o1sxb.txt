@@ -1,0 +1,20 @@
+Original Response:
+I'm talking about the phenomenon illustrated in [this image](http://nrumiano.free.fr/Images/bh_warp1_E.gif).
+
+Does that really happen, or is that just the best way to illustrate the effects of massive objects in space?  
+
+Let's assume that I can go near a neutron star without being affected by its gravity, because of magic or something.  Would I have to "look down" to see the neutron star?
+&gt; Does that really happen, or is that just the best way to illustrate the effects of massive objects in space?
+
+Whether it 'really happens' depends on what you understand the word 'sink' to mean. The picture shows a very good analogy with how things roll down holes, but really what is affected is the three dimensional curvature of space, which is something much harder to visualise.
+
+&gt; Let's assume that I can go near a neutron star without being affected by its gravity, because of magic or something. Would I have to "look down" to see the neutron star?
+
+If you define 'down' to be 'towards the neutron star', then sure. If you define it to be 'the direction of greatest rate of decrease of gravitational potential', then also sure. But the word 'down' doesn't have an automatic meaning that makes it useful here.
+[Relevant.](http://xkcd.com/895/)
+Yea. If you imagination is so inclined, you could imagine this as a sinkhole in all 4 dimensions (3 spacial and time).
+
+However it's important to emphasize the non-euclidean nature of general relativity. In reality, the shortest distance between two points is usually a curve.
+
+Summary:
+Would I have to "look down" to see the neutron star?

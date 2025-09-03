@@ -1,0 +1,21 @@
+There is an upper limit to speed - we all know this. As objects approach C, space and time distort such that they cannot exceed that rate of motion.
+
+Ignoring engineering challenges like the disk ripping apart, the thing would just get closer and closer to the speed of light at the edges without ever reaching it.
+
+It's not a useful case, because in the physical world you can't even *approach* infinite rigidity. The fact that things can't travel faster than the speed of light implies a hard upper limit to rigidity; the approximation of infinite rigidity is only useful in classical mechanics because no physical constraint prevents you from getting arbitrarily rigid objects.
+
+Infinitely rigid objects are impossible in special relativity.
+
+True. Special relativity and infinitely rigid objects are mutually exclusive: a universe can have either, but never both at the same time.
+
+An interesting thing to note is that that some "things" can move faster than light, such as the dot of a laser pointer. Of course this is because none of the light itself moves any faster, and no information can be sent from one point to the other faster than light.
+
+Because if you had an infinitely rigid object you could swing it and make the ends move FTL. This breaks special relativity.
+
+In an infinitely rigid object, the elastic modulus is infinite. The speed of sound is directly related to the elastic modulus, so it would also have to be infinite. Thus, you could send sound waves faster than the speed of light, which is clearly in violation of relativity, so an infinitely rigid object is therefore not a useful case to consider.
+
+If a universe has infinitely rigid objects, that means the speed of light must be infinite, which in turn means that there is no special relativity (which depends on a finite speed of light).
+
+If a universe has special relativity, there is a finite speed of light, so objects cannot be infinitely rigid anymore.
+
+It would require and infinite amount of energy to supply the torque necessary to accelerate the disk.

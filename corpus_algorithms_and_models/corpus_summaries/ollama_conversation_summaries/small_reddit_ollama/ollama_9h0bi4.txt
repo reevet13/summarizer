@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+Yes, though it is more useful to think about a minimum mass rather than a minimum radius. "Brown dwarfs" are the intermediate between large gas giants and the smallest red dwarf stars. There is some fuzziness about where the boundaries lie, but ~80 Jupiter masses marks the point where hydrogen fusion occurs in the core.
+
+The brown dwarfs form the same way stars do: a cloud of gas collapsing due to gravity. The gas comes from the original Big Bang or from previous generations of stars that blew off some/all of their mass. Some of that primordial lithium has stuck around.
+
+While the lithium is burning, the brown dwarf has an extra source of internal energy supporting it against gravity, so its going to be a little hotter and maybe larger in size. Fuel runs out, stuff cools down and maybe contracts.
+
+Jupiter is about a thousand times less massive than the sun (2e27 kg vs 2e30 kg), so 80 Jupiters is about 8% of the sun's mass
+
+When the energy of lithium fusion runs out it will probably look something like a white dwarf.

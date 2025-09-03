@@ -1,0 +1,18 @@
+Original Response:
+In nuclear fusion, two hydrogen atoms fuse to form one of helium. This releases energy. If E=MC2, then this energy must come from a reduction in the mass of the atoms, but what exactly is lost?
+It's actually two deuterium atoms, or a deuterium and tritium, or four hydrogens. From the mass energy equivalence we know that the mass of an object is not just the mass of its constituent particles, but also the energy that binds them together. 
+
+So the deuterium atoms have a binding energy between the two particles, and helium has it between four particles, and the energy per particle is less in helium than deuterium, so the final helium as less mass than the initial deuterium.
+Just memorize this curve ...
+
+http://www.alaskajohn.com/physics/charts/binding_energy.jpg
+thanks for your help
+Quick guide to the curve: you release useful energy by maximizing binding energy. Iron (Fe) is at the top of the curve. For elements to the left of Fe, you do fusion (towards higher atomic number). For elements to the right, you do fission (towards lower atomic number).
+It isn't just fusion, this applies to all energy releasing reactions.
+
+If you took the mass of say, a kg of coal, along with the air around it, and weighed it before and after burning, it would weight slightly less, even though you have the exact same atoms before and after.
+
+What you have lost is the potential to do additional work.
+
+Summary:
+For elements to the left of Fe, you do fusion (towards higher atomic number).

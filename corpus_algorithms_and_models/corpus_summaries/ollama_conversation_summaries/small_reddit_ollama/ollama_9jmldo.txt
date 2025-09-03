@@ -1,0 +1,18 @@
+Here is the extracted summary:
+
+From OP's comment in his other thread:
+&gt;These are the Camera libs present inside the system/vendor/libs and define many parameters of Camera including, ISO, Shutter speed, Resolution etc
+&gt;
+&gt;What Xiaomi here did is add a change in lib, where if the Dxo Mark's Green water or Yellow wood table test comes up, the Camera will boost sharpness, contrast etc to get best results and eventually higher scores
+
+About DxOMark Mobile tests: For scoring and analysis in our smartphone camera reviews, DxOMark engineers capture and evaluate over 1500 test images and more than 2 hours of video both in controlled lab environments and in natural indoor and outdoor scenes, using the camera’s default settings.
+
+The mobile phone will have no control of the evaluation process, because all it is aware of is camera app being used to take pictures.
+
+So now you're saying dxomark is accurate? How come it rates mi8 and p20 over pixel 2 when anyone can see thats not the case?
+
+Yeah, no. Pixel 2 produces the best point and click images. P20 Pro wins because of its lenses.
+
+P20 ranks higher because Zoom quality is included in the final score.
+
+But from what I understood the settings come to play when the default camera app detects a scene it applies the settings on it?

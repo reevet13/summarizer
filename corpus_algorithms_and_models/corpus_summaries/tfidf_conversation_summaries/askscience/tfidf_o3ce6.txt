@@ -1,0 +1,24 @@
+Original Response:
+My thought is that it would produce slightly more heat than it's cooling - because the electricity it's using must be going somewhere.
+yes it would get hotter. The first law of thermodynamics says that energy can neither be created or destroyed. Since the ac unit is not 100% efficient (and the fact that by drawing a current it is increasing the amount of energy in the room) the temperature will increase.
+Thank you, I suspected that the case, it's just interesting to imagine that an air conditioner as a system actually produces heat.
+Assuming the room is a small one then the room would heat up-- a lot and in a fairly short amount of time.  If the A/C is using, say, 1200 watts then there is 1200 joules of heat being dumped into the room every second.  You would basically be running a space heater.
+And so, naturally, an air conditioner could be put in "backwards" and heat the room more efficiently than if the entire unit was inside.
+If you then run the evaporator coils underground you would have a simple heat pump.
+A 100 watt AC unit will heat a closed room just the same as a 100 watt heating unit would.
+Yes.
+
+An air conditioner is a heat pump. When you supply it with power, it takes heat from one side (usually the hot side) and dumps it on the cold side. So the air conditioner has 3 energy connections: power supply line, cool side (where it absorbs heat), and warm side (where it rejects heat).
+
+The air conditioner takes in energy from the cool side and power side, and dumps all of it on the warm side.
+
+When you put the a/c in a box, you are still supplying energy into the box via a power cable, thus you will result in the box heating up.
+I maintain an AC unit in the Air Force that if you can reverse the flow of refrigerant, thus turning your evaporator into a condenser (and vice versa) and it is now a heater.
+I can confirm anecdotally what everyone else is saying, thanks to having a freestanding AC unit which is prone to having its exhaust fall off.  In one case, this happened and I didn't notice for an hour, and it caused the temperature in the room it was in to go up by about 4C.
+Remember that the aim of an air conditioner is to transfer heat, and air conditioners are usually positioned so as to transfer heat from inside a building to outside. If you put the air conditioner fully inside, it still will transfer heat but as has already been said, will add heat because of its inefficiency.
+
+Refrigerators and freezers work essentially the same way as AC units. The back of a refrigerator is warm. Leave a refrigerator with the door open in a closed room and the net effect will be to warm the room.
+
+Summary:
+An air conditioner is a heat pump.
+A 100 watt AC unit will heat a closed room just the same as a 100 watt heating unit would.

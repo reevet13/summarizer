@@ -1,0 +1,24 @@
+Here is a summary of about 10% of the text, consisting of selected sentences copied verbatim from the original text:
+
+When you select directions to a place, it shows you option "Depart At". You can use that.
+There is another option "Steps &amp; More" which shows traffic info and a streetview preview. But no "Depart At" option anywhere.
+
+Edit: It does show up for public transport - but that's not very useful if you're driving a car.
+
+I think the iOS app has it.
+And I want is the **drag to change routes** in Android which is available in Desktop
+
+LPT: Use phone's internet browser and go to Google maps and you can set desired depart/arrival time
+
+It's an iOS only feature. :(
+You can do that on mobile now, but you have to do it from Maps on the Chrome browser.
+
+Isn't there some "share route to smartphone" option or so in desktop maps?
+
+So here's where the problem lies. You can send your custom route to your phone but it won't "navigate" like a standard route.
+
+It's not exactly an elegant solution, but it may suit your needs: when faced with that scenario, I plan with My Maps (a Google product) on the desktop, and then use it on the phone to bring up the saved map.
+
+I believe LocusPro will do this for you, but it's really an app designed for hiking, not for driving, so it isn't ideal.
+
+Instructions unclear. Poured coffee on cell phone.

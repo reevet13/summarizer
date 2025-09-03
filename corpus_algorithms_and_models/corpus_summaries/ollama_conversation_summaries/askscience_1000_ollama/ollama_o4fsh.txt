@@ -1,0 +1,17 @@
+Here is a summary of the original text, extracted and separated by newlines:
+
+I have a very small solar powered toy car, but no sunshine in Scotland!
+
+It works with using regular bulbs, although barely does anything when using a 2.4V bulb to shine light on it.
+
+All of the LED light torches I've tried so far, do not work.
+
+It would not be practical to use LEDs.
+
+LEDs are very bright because they are efficient at converting electricity to light in the visible spectrum.
+
+The amount of power LEDs emit is comparatively small to other light sources of similar intensities (such as incandescent light bulbs).
+
+Just use a high wattage light source.
+
+Think about this: the LEDs in the flashlights require very little power.

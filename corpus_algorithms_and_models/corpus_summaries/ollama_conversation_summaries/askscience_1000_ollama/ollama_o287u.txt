@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+Would this hold true still, even for bigger circuits/connections?
+Yeah, making the circuits bigger would make it much worse. In general smaller circuits are more efficient because the same signal is transmitted over a smaller distance. Instead, you want to increase the effective area of heat dissipation, which is what all cooling devices do in some sense or another.
+
+But if the circuits were bigger, then the (copper?) connections/lines would be thicker and be able to support a higher temperature, no?
+They would be able to support higher temperatures, but they would be much slower.  I don't remember the exact numbers offhand, but to illustrate - roughly - a CPU accessing its level 1 cache is 10 times slower than the processor speed.  Level 2 cache is 100x slower, *even though the cache is still on the CPU*.  The same CPU accessing its RAM is about 10,000x slower.  Size is very important.
+
+Size is very important.
+The thing is, CPUs really don't do very much. They do have lots of tiny electronics on them, but they perform essentially just the basic math calculations for the machine to run off of.
+
+More than likely, if such a 'large' CPU was created it would have additional cores similar to the multi-core CPUs you see being released by Intel and AMD over the past 7 years or so. It would not necessarily gain any new capability, but certainly gaining concurrent computation capability.
+
+Would this hold true still, even for bigger circuits/connections?
+Yes and no.

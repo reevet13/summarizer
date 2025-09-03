@@ -1,0 +1,43 @@
+Original Response:
+Is there any answer beyond "It just is"?
+visible to us you mean?  different eyes see different things.
+Because thats all our Eyes evolved to see.. 
+
+The Visible EM spectrum is different for most animals. 
+
+Bees see into the UV and Cats can see into the Near IR. 
+
+"Visible" Is what people call the light they can see. 
+
+Its all very anthropocentric, as are all things we seek to describe.
+This is correct... by *visual spectrum* we mean the frequencies of light that human eyes detect.
+
+Certain other species can see into the IR, and UV.
+
+So the *it just is*... is based on how our senses have evolved - not on the actual frequencies.
+Our eyes only respond to wavelengths of light between [390 to 750nm](http://en.wikipedia.org/wiki/1_E-7_m). Higher and lower wavelengths do not stimulate the rod and cone cells in the eye to transmit signals to the brain.
+[deleted]
+Just add to Sycosys's explanation that these wavelengths are what our eyes evolved to see. 
+
+Our eyes (and others) evolved to see these wavelengths because they're the ones that penetrate our atmosphere. [Here's a cute picture that shows what wavelengths penetrate the atmosphere](http://www.daviddarling.info/images/atmospheric_windows.jpg). The atmosphere filters out much of the EM spectrum.
+
+You'll notice that radio waves also travel well through the atmosphere. This is why we can use them to transmit signals. The real question is why don't we use them to see?
+
+The resolution of our eye is dictated by the wavelength of light. Very roughly, we can clearly distinguish two objects if the wavelength of light is the same order of magnitude as the distance between the objects. The wavelength of light is about 500nm, which means we can make out the micrometer grooves within the gullies of our finger prints, but we can't make out the structure of the atoms in our finger. In order to do this we need to use something with small wavelength such as x-rays, or even electrons. 
+
+Now let's use this to think about radio waves. From the little picture I linked, the smallest radio waves that penetrate the atmosphere are about 5cm.  Imagine our eye had evolved to used radio waves. The smallest distance that your eye could resolve is about 5cm. That's huge! We wouldn't even be able to see the gap between our fingers, our hand would just look like a big blurry mess. The majority of life on our planet is even smaller than this. Foraging and hunting would be impossible with these radio eyes.
+We can see them. By using specially made machines designed to detect such wavelengths.
+&gt;adio waves also travel well through the atmosphere. This is why we can use them to transmit signals. The real question is why don't we use them to see?
+
+upvote for anticipating my question. sadly, i have no upvote left for the answer
+Any finite interval seems tiny when compared to an infinite set...
+
+Alternative answer: The visible spectrum is roughly the region of the EM spectrum where the sun emits most of its light. This is because of evolution. The sun emits most of its light in a "small region" because it emits nearly as a blackbody at 6000K - the natural spectrum for hot objects as per the laws of statistical mechanics and quantum mechanics. 6000K is the natural surface temperature for a star of 1 solar mass because of the laws of high temperature nuclear fusion, and radiation transport through convection and conduction, and basic stellar hydrodynamics. 1 solar mass is in the range of acceptable star masses because of the laws of star formation through gravitational collapse. We could keep going down the rabbit hole, but I'll stop here.
+This is a fun way to approach this question.
+[deleted]
+
+Summary:
+The real question is why don't we use them to see?
+Imagine our eye had evolved to used radio waves.
+This is why we can use them to transmit signals.
+The resolution of our eye is dictated by the wavelength of light.

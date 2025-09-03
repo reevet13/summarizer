@@ -1,0 +1,16 @@
+Here is the summary of up to 250 words:
+
+Why hasn't a hybridoma to produce these antibodies been made yet? It would cost $$$ to manufacture, but plenty of other medications are biologics.
+
+We need to know the efficacy and side effects before we market any drugs. If the researchers patented the antiviral properties of the antibodies before publishing, then it would take at least 15 years of further research and clinical trial before commercial application
+
+Just crispr the antibody-gene to a patients own cells.
+Someday
+
+Hybridoma's are only really useful for monoclonal antibodies. Most immune responses are polyclonal in nature, which is why you need to sub-clone if you want to isolate the monoclonal.
+
+In this case though, you WANT a polyclonal response for a number of reasons. First and foremost being it reduces the chance for the development of resistance.
+
+They have, and people have been working on the therapeutic applications for years.
+
+The other replies to this are somewhat technically correct but don't actually answer your question properly. Hybridomas are unnecessary at this point to produce monoclonal antibodies since we can now do single B cell sorting and cloning of the CDR regions of the antibodies we want.

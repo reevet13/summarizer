@@ -1,0 +1,9 @@
+Here is the extracted summary:
+
+I extract genomic DNA and quantify it using a nanodrop spectrophotometer.  The manual says accepted 260/230 readings for "pure" DNA should be between 1.8 and 2.2.  When I find a sample that has a reading below 1.8 I re-purify it and measure again.
+
+The thing is that sometimes I'll get readings of 2.3 and higher (no more than about 2.8).  I would like to assume this just means I'm super amazing and have reduced the amount of contaminants to practically nothing and I have super pure DNA.
+
+What should I consider to be too high?  Could these high readings relate to problems with the DNA itself?
+
+I know most proteins typically absorb at 280nm, that's why we use the 260/280 reading to estimate nucleic acid purity in relation to protein contamination.

@@ -1,0 +1,57 @@
+Original Response: 
+[removed]
+&gt;How can a nuclear reactor produce more energy than it consumes?
+Because there are exothermic reactions happening inside the reactor.
+&gt;Doesn't that sound like a perpetual motion machine?
+No, because it can't continue to produce energy indefinitely.
+Could you elaborate on the exothermic reactions part?
+What reactions are happening?
+In a fission reactor, they're fission reactions, and in a fusion reactor, they're fusion reactions.
+They're exothermic, meaning that they release energy.
+Okay fair enough.
+To be more clear, how much energy does it take to fuse hydrogen and hydrogen and how much energy does that reaction release?
+The sum of the kinetic energies of the products, minus the sum of the kinetic energies of the reactants is called the "Q-value".
+This is the net amount of energy released by each individual reaction.
+For thermal neutron-induced fission of uranium-235, the Q-value is about 200 MeV, on average (average because there are many possible final states).
+For fusion of deuterium with tritium, producing a neutron and an alpha particle, the Q-value is about 17 MeV.
+Okay thank you :) also this sounds kind of random but is there a difference between mass excess and mass defect?
+Mass excess and mass defect, under the definitions you’ve given, so *not* represent the same thing.
+I see...
+I'm getting a bit confused because in this book that I have it defines the mass difference (aka mass excess aka mass decrement) as Delta = M - A where M is apparently given by the semi-empirical mass formula and A is the mass number.
+Then the book gives the energy of a neutron, using this Delta, as 8.0714 MeV.
+I'm not sure how they arrived at this value.
+From my understanding, mass defect has an associated binding energy which tells you how much energy is needed to free the nucleus into individual nucleons.
+But a neutron is already free so how can it have a mass difference whose corresponding energy is 8.0714 MeV?
+I see.
+Well (M - Au) (what you’ve called “mass excess”) and BE/c^(2) (the mass deficit) are numerically different quantities.
+The first represents the deviation of the true atomic mass to the naive estimate of A atomic mass units.
+The second is just the binding energy in mass units.
+Ahh okay so the mass excess aka mass defect is not the same thing as binding energy?
+So it is possible that there is mass excess but not binding energy?
+E.g.
+a neutron has mass excess, since its mass isn't exactly 1 amu (which is defined in terms of carbon-12) however it doesn't have binding energy, since it is a lone nucleon.
+So the binding energy and the mass defect expressed in terms of energy (via mass-energy equivalence) are different?
+Well mass defect and binding energy are basically the same thing.
+The quantity we’ve defined here as “mass excess” is different from them.
+I edited my comment above to clarify.
+A neutron and proton don’t have binding energies (in a nuclear sense), but they do have mass excess.
+And carbon-12 has exactly zero mass excess, but it does have binding energy.
+Okay fair.
+So then what is the difference between mass defect and mass excess?
+O_O I get that mass excess is the difference between the actual mass of the nucleus and the mass number but what is mass defect?
+Does the mass defect include the electron mass as well?
+Oh and I'm also assuming that the "mass deficit" (binding energy/ c^2) is the same as mass defect?
+The mass defect is the difference between the actual mass of the nucleus, and the mass of Z isolated protons plus N isolated neutrons.
+The mass excess is the difference between the actual mass of the atom, and A atomic mass units.
+Typically everything is calculated in terms of atomic rather than nuclear masses (so electrons are included), but the contributions from the electrons are often cancelled out when you take differences, and contributions due to electronic binding energies are on the order of eV, so they’re often neglected.
+Oh okay so the difference between mass defect and excess lies in the fact that for defect, we are considering isolated nucleons whereas for excess we are considering the nucleons as a system?
+Sort of, yes.
+
+Summary: 
+So then what is the difference between mass defect and mass excess?
+So it is possible that there is mass excess but not binding energy?
+The second is just the binding energy in mass units.
+Well mass defect and binding energy are basically the same thing.
+Does the mass defect include the electron mass as well?
+They're exothermic, meaning that they release energy.
+Ahh okay so the mass excess aka mass defect is not the same thing as binding energy?

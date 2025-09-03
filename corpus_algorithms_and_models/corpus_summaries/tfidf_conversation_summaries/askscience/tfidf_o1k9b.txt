@@ -1,0 +1,32 @@
+Original Response:
+So I'm glad I found this subreddit. For the usual reasons but also for a far more selfish reason; I love physics and sometimes I have questions about something I read (and having no physicist friends I'm hopeful you guys don't mind an occasional questions about random topics). 
+
+I read 6 Easy Pieces and have a couple questions re: the Dual Slit experiment:
+
+As I understand it when you try to view/monitor/measure which slit an electron goes through the electron acts as a particle and piles up like sand in an hourglass.  When you aren’t trying to view/monitor/measure which slit it goes through you get an interference pattern; soooooo...
+
+So lets say you set up the experiment and the device you had monitoring which slit the electron went through would flash a single LED Blue if it went through Slit #1 and flash the same LED Red if it went through Slit #2 . We will call this the Tim's Dual Slit Watcher (or TDSW for short)
+
+A.  I’m assuming if you didn’t have the TDSW (and therefore no way of knowing which slit the electron went through) you get interference.
+
+B.  I’m also assuming if you do have the TDSW turned on and are monitoring which slit the electron goes through you get the hourglass effect.
+
+Q1.  What would happen if you had the TDSW in place but turned off, would you get the electrons still pile up like particles or would interference occur?
+
+Q2.  What if you turned on the TDSW but disconnected the LED (so the monitoring device knows which slit the electron went through but you had no way of knowing) would you get interference?
+
+Q3.  What if you turned on the TDSW left the LED connected but you covered them with black electrical tape so you had no way of knowing which slit the electron went through. Would you get interference?
+
+Q4.  What if you have the TDSW turned on and are looking at the LED but you were totally colorblind, so you had no way of differentiating red from blue so you personally had no idea what slit it went through.
+
+I guess my REAL question is where is the line is drawn and when does superposition becomes a reality. 
+
+My Background: I barely graduated from High School, my entire physics education comes from Six Easy Pieces (which I don’t fully understand), so I'm sorry if my terminology/descriptions are confusing.  Basically what I’m saying is please be nice; I have no formal training.
+
+Thanks Redditors!!!!!!!!!!!
+
+Tim
+
+Summary:
+B.  I’m also assuming if you do have the TDSW turned on and are monitoring which slit the electron goes through you get the hourglass effect.
+When you aren’t trying to view/monitor/measure which slit it goes through you get an interference pattern; soooooo...

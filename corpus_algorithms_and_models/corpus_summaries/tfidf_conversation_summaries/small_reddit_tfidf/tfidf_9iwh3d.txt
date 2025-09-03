@@ -1,0 +1,1192 @@
+Original Response:
+The RWR (radar warning receiver) basically can "see" all radar that is being pointed at the aircraft. When the radar "locks" (switches from scan mode to tracking a single target), the RWR can tell and alerts the pilot. This does not work if someone has fired a heat seeking missile at the aircraft, because this missile type is not reliant on radar. However, some modern aircraft have additional sensors that detect the heat from the missile's rocket engine and can notify the pilot if a missile is fired nearby.
+Does that mean that the old internet copy pasta of the bored cop pointing a speed gun at a fighter jet and triggering defensive maneuvers is legit?
+[deleted]
+No. Cop radar isn’t powerful enough to reach an aircraft under normal circumstances.
+&gt; would imagine that a pilot temporarily passing out would still be preferable to immediate death, right?
+
+Doubtful. It's not like the plane can choose when the pilot wakes up. He might be out for seconds or minutes. Long enough that the maneuver will result in him being shot down. Plus going unconscious is not good. There's no "it's okay he's just knocked out" in real life.
+The "zone of confusion" that follows g-force induced loss of consciousness (GLOC) can last 2-4 minutes. cant really afford to lose critical decision making skills for that long after evading a missile
+[removed]
+[deleted]
+Ok, but aside from passing out, can aircraft preform automatic counter maneuvers?
+Not sure that applies because your premise is the variability is difficult to predict. In reality each pilot is going to be specifically measured for GLOC resistance and timing.
+No, this could cause trouble. Even discounting false positives, Turning tightly isn't necessarily the right course of action. Most of the time it is best to try and outrun a missile, or duck behind cover. Some aircraft however, can, if you want them too, start spewing out chaff and flares if the missile launch warning goes off.
+Yes, sort of.  Some aircraft are equipped with an automatic ground collison avoidance system.  Of course,  avoiding the ground is much easier than evading something that's actively trying to kill you. 
+
+http://m.aviationweek.com/air-combat-safety/auto-gcas-saves-unconscious-f-16-pilot-declassified-usaf-footage
+[removed]
+Military aircraft can also automatically release chaff and flares if it detects an incoming missile.
+[removed]
+[removed]
+[removed]
+There's also primary radar missle approach warning which works on doppler. These will detect any incoming object and give a caption/warning.
+[removed]
+Luckily Electronic Warfare systems can dial in on cop's radar guns and fry them.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Planes are generally more expendable than their pilots. It's time consuming and expensive to train a replacement pilot, more so than it is to build a replacement aircraft. I doubt there's any such system in place to take over like you're saying but even if there was it would be more likely that such a system would favor sacrificing the machine to save the person flying it.
+Pilots have always been harder to replace than planes.
+
+And think of the impact on morale. In WW1 they didn't issue parachutes to pilots because they thought it would encourage them to abandon perfectly good planes.
+
+That didn't last long.
+
+Even if they built a plane that acted as you described, it'd eject the pilot first.
+[removed]
+If you've got AI that complex and reliable, you're at a point where you don't need pilots at all.
+
+Clearly, we're not there yet.
+At that point, though, you might as well just build a combat drone. If it's advanced enough to do all that autonomously, just take the organics out of the equation.
+[deleted]
+There are plenty of missile countermeasures that are much more effective than trying to outmaneuver the missile, and yes, they are automatically triggered when a missile lock-on/launch is detected.
+Thanks! Clear answer!
+[removed]
+[removed]
+[removed]
+We are at that level but still can't use AI for decision making, more to do with legal and ethical concerns that technology. AI's can currently perform automated maneuvers and land planes. They can't accept responsibility for blowing up targets.
+Curious, what's that?
+[removed]
+Any feature that automatically makes a specific maneuver would be exploitable once known.
+It also doesn't work if the attacking aircraft is capable of firing radar-guided missiles like the AIM-120 which can fly toward a predicted position without the attacking aircraft ever needing to switch it's radar to single target track mode. In that case, the target only gets a radar lock warning in the last few seconds as the missile turns on it's own radar for terminal guidance.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+It's like shining a powerful focused flashlight back at somebody who is watching at night with binoculars, blinding them. 
+
+Except in this case, it's radar rather than visible light.
+[removed]
+[removed]
+An F35 takes over 41,000 man hours to assemble at a cost of over $80 million. A skilled pilot takes about 2.5 years to fully train and season at a cost of around $2.6 million.
+I mean you don't really need it to be autonomous
+
+&amp;#x200B;
+
+\- stick a couple of camera pods onto the plane. one on top, one on bottom, that can swivel just like a real pilot's head, and have them follow a drone pilot's head movements. Have the drone pilot's view switch between the two pods automatically based on where he's looking so he's never obstructed by the nose or wings of the plane
+
+\- equip each camera pod with two colour cameras for depth perception, two low light cameras for night flying, and an IR camera that can overlay hotspots on to the colour/NOD picture (some [civilian NVG sets](http://www.nitevis.com/images/DSNVG_Image_03.jpg) already do this) so all the hot bits like enemy plane exhaust or incoming missile exhaust glows red
+
+\- put your best fighter pilots in command of these things, who can now fly with better situational awareness and no G-force restrictions (other than what the airframe can handle), and can take control of any plane on the planet instantly (although obviously the closer the better, before they have to deal with input lag). They can get shot down as many times as you like and you'll never lose them, and can even switch to take control of the next reinforcing set of fighters if the first set the were flying were shot down, so you basically have aces flying every plane, especially in low intensity conflicts where the chances of more than 10 of your planes being in immediate combat at any time is low
+
+&amp;#x200B;
+
+Pretty much the main drawback is it isn't a closed system. Something can jam the signal between the pilot and the plane much more easily than jamming a self contained AI program that's already in the plane instead of being transmitted to it
+Not sure if anyone had mentioned this but there was a US jet shot down in I think was Bosnia by an anti aircraft gun with radar detection. The jets were flying the same path so the Bosnians locked on to the jets once or twice to make the pilots think the the system that can tell they have been locked on was malfunctioning. Then they shot one down, there’s a doco on YouTube.
+A pilot still has a better vantage point?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Does this mean RWR won't pick up radars used in scan mode?
+[removed]
+This isn't exactly how it went. Some did feel that way, but ultimately parachutes basically doubled your odds of dying. You could only use them if you bailed out of your plane while it was straight and level, as far as I remember. And they were unreliable, being designed for stationary balloons, not planes that were on a crash course. Your odds were legitimately better if you attempted a controlled crash, which is a lot less dangerous at the low speeds biplanes flew at. Germany was the only country to have parachutes on planes and they did not work very well.
+
+Experienced pilots were very hard to come by. For many countries, pilots had a **much** higher death ratio than men in the trenches. It was in everyone's best interests to keep them alive as effectively as possible.
+How do you communicate between the plane/cameras and the pilot?
+
+There’s a signal that has to be sent (high bandwidth as it requires video at a minimum, and likely sound as well). 
+
+This communication is not instantaneous. It likely needs to be encoded and beamed to a satellite in space, then beamed back to the pilot. The pilot needs to make his/her decision based on what is seen or heard.  Then the pilot needs to input his commands. 
+
+The time between each signal sent and received isn’t trivial. It takes time on the magnitude of seconds. 
+
+I’m not a fighter pilot, but I imagine if I’m a second or two behind the fight with a human enemy, the enemy that’s seeing and experiencing everything firsthand is going to win.
+[removed]
+[removed]
+The real problem here is not cost its the lead time training a new pilot and experience loss from losing the first one.
+
+An F35 takes 41,000 man hours to build but can be built in a couple of weeks. Pilots take 2.5 years to train meaning your down a pilot that entire time. Additionally training that pilot is going to tie up the time of both the machines and other pilots you still have decreasing operational effectiveness. Furthermore, if you lose too meny veteran pilots you will begin to lose the institutional knowledge of how to effectively fight in the planes. 
+
+TL;DR: Replacement of pilots carries a logistical cost that makes sacrificing a plane to save the pilot appealing despite the price tag.
+[removed]
+No, this wouldn't be useful, anyway, and if the pilot wanted to make this happen, they can do it on their own.
+[removed]
+[removed]
+[removed]
+[removed]
+That's if you send it to a satellite in space
+
+if you only used these drones in areas with supporting aircraft to bounce the signal, similar to AWACS planes now, except with the function of just collecting drone signals and sending them to nearby airbases with drone pilots, say, ones in a 500 mile radius from the drone for minimum lag, that delay would be tiny.
+
+&amp;#x200B;
+
+it would still be there, but even just seeing the red flash of a missile launch from your IR camera will gain you back more reaction time than you lose, and having the situational awareness and maneuverability advantage a drone could give you will always be better, because instead of having to quickly react to bad situations like losing sight of the guy you were fighting to the background and then being surprised when he shows up in your blind spot, you just won't have to react to to those situations because he'll be showing up on your thermal the entire time and you don't have a blind spot, so you wouldn't lose sight of him in the first place
+Which leads to a new era of information and technology warfare as militaries try to jam or even take control of other drones while preventing them from doing the same, speculatively.
+[removed]
+Let's not forget that life, if not precious, is worth to be 9.6 million by the DoT
+that's the other downside of human controlled drones
+
+You have to make a system for that drone to communicate with the guy on the ground hundreds of miles away. That system will almost definitely have to include a "middle man" to capture the signal, restrengthen it, and make sure it isn't blocked by the mountains or the horizon. This middle man will probably be a plane, so it has as few signal obstructions as possible, and each plane will probably be bouncing the signals of an entire area of operation's worth of drones, with maybe another one or two planes up in the sky as backups if that ones has problems
+
+&amp;#x200B;
+
+you take those communication planes out or find out a way to jam them, even in a way that just decreases the number of updates per second a pilot gets, and the strength of your entire drone force in that area goes down massively
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Mostly it triggers the deployment of flares or chaff to trick the missile. Some aircraft have infrared generators as well that are ment to confuse the missile. These action are normally performed via computer as human reaction just isn't fast enough. But normally the aircraft will have the option for all action to be pilot controlled.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+You would still have signal lag simply by virtue of having to bounce a signal *anywhere at all*, not to mention signal processing lag (all that video data needs to be encoded and decoded, after all).
+
+You can easily eliminate the signal lag by having a pilot in the machine, with all those fancy sensors right there so they can react in real time.
+[removed]
+Because a plane that is returning to base is a plane that is not performing useful duties.
+
+I can understand the concept of what the other guy was saying, but I have a different idea.
+
+If we have systems that can detect those things, why not design a plane that has a small turret that can fire small rounds at the incoming rockets? I wouldnt want it automatically firing, but target tracking would be good.
+
+Maybe even slowly work on it until it is automatic, but idk.
+
+How dumb is my thought? Or is that basically just what chaff is?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+sure, but then now you have to add extra space and weight for them and their life support, and their ejection system, and their controls, and you can no longer undeniably out-turn any enemy human piloted plane just by not having to worry about pilot blackout, and you again face the possibility of the pilot not making it out alive to use all their combat experience to win the next fight they get into
+
+&amp;#x200B;
+
+I totally get where you're coming from, and I'm sure the main reason the F-35 *didn't* end up being pilotless was because they had this same discussion and determined it just was too risky at the time of development with there being too much lag or too many links in the chain that were vulnerable to electronic warfare or just outright destruction of those communication pathways, but it's just cool to think of the advantages and disadvantages of each system, and what it would take to make a different system viable
+[removed]
+No, the problem with AA missile is that they can turn harder and accelerate faster then a fighter.
+
+However, missiles are limited in size and hence in fuel and every mile and every maneuver wastes precious energy.
+
+So an aircraft has two ways to defeat a missile. 
+
+* Miss-guide
+* Waste energy
+
+ By wrong radar targets(caff, decoy), wrong infared targets(IR Flares) or Jamming. On the other hand there are evasive maneuvers that try to waste as much energy as possible(sharp turns) or in some cases even outrun the missile.
+
+This however all depends on energy the missile has left. A 60mile missile may intercept a target after 40 miles and only have enough energy to turn sharply once. The same missile might be almost unavoidable at 20 miles.
+
+Even though getting closer means the attacking fighter is more exposed to incoming fire.
+
+It all depends on the situation.
+
+&amp;#x200B;
+[removed]
+I don’t know of automatic maneuvers, but fighter pilots are trained in maneuvers that the body can’t handle for special situations. For instance, some high g turns to evade SAMs can cause so much blood to leave your head that the pilot is temporarily blind. If you listen to recordings you can hear some pilots time the maneuvers to know when to level off and regain vision or breathing. Or their wingman will tell them when to level off.
+[removed]
+My issue of drones in war is the removal of the human life as a cost.  A society that doesn't experience loss of life when they make war will inevitably become corrupt and become a threat to the world at large. 
+
+Nothing more than tyrants who order the deaths of their enemies without fear of reprisal who've become numb to the horrors and suffering they inflict.  Sooner or later, they'll see their enemies as sub human and won't hesitate to use more and more extremely destructive measures such as nukes.
+This is also the reason why parachutes are basically not used in almost any kind of airplane. It's generally safer to use the plane as a glider than to go impromptu skydiving.
+Imo the answer is swarms of cheap drones each with a single missile. Imagine trying to evade 100 missiles at once. The whole swarm would cost no where near as much as a single f35
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+They use systems like that on ships and vehicles. I would guess it’s too much extra weight for the possible benefit.
+
+Chaff is small chunks of metal that confuse the radar tracker.
+[removed]
+[deleted]
+UAV Engineer here, there are several interconnecting factors.  
+&amp;nbsp;  
+1. There is a huge debate and a lot of moral and ethical issues if a machine is given the power to decide whether to "take the shot" and possibly kill a human being.  
+2. You can put a human at the other end of the computer like at a desk in base. But comms tech have limitations such as latency and fixed lag. This will hinder the agility of the drone. Imagine playing FPS with a constant lag, it is REALLY incapacitating.  
+3. Comms jamming. Makes your entire fleet/squadron useless. (Then the Qn: how about fully autonomous and self-localized computing w/o comms. Ans: See point 1 and point 4)  
+4. Dogfighting. The AI required for LIVE dogfighting is very complex. Flying in free space with just control surfaces is VERY different from Computer game simulation.  
+&amp;nbsp;  
+Edit: formatting
+[removed]
+Some WW2 German dive bombers had an apparatus that would automatically take the plane out of the dive. This was in case the pilot blacked out due to high Gs.
+[removed]
+[removed]
+[removed]
+[removed]
+Ah, and the flares are for the thermal yes?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Infrastructural hurdles aside, situational awareness is possibly the next largest issue, for both manned and autonomous operational schemes. Looking down a straw is fine for relatively level flight, comparatively slow targets, and effectively safe skies--not so much for near-peer adversaries in contested environments. The lack of vestibular and proprioceptive input with current ground control schemes is also another potential consideration--core senses that to a certain degree do play a role in situational awareness and split-second combat decision making.
+
+Being able to rapidly process and synthesize the amount of information needed to form a coherent picture of the space and situation around you is difficult enough for human pilots, requiring considerable training and the ability to adapt and function with an incomplete picture. We'll likely have trained software systems that effectively duplicate human combat pilot capability eventually, but that is definitely not an easy challenge.
+[removed]
+There’s a system like that called CIWS, usually mounted on ships, that fires hundred of rounds at oncoming missiles. The main problem is such a system would be far too bulky to install on a fighter aircraft, and the amount of ammunition needed would complicate it even more.
+[removed]
+[removed]
+[removed]
+This is the key advantage of armed UAVs. None exists at the moment (that I'm aware of), but if pilots were removed from fast jets, those aircraft could pull significantly more Gs than a manned aircraft and would have a much better chance of dodging ordnance.
+
+The reasons this hasn't been done yet are:
+
+1. There are serious legal and moral questions about allowing robots to make autonomous combat decisions; and
+
+2. There are some things that humans can do better than algorithms - such as cooperate and make 'intuitive' decisions.
+[removed]
+[removed]
+[removed]
+Yes. There are also other 'decoys' such as Nulka and some other sneaky towed and organic EW which mess with the guidance of incoming weapons. But you'd have to talk to an EW expert about that. And then he'd probably have to shoot you.
+[removed]
+[removed]
+[removed]
+Ive been in various levels of pain for years now, so where is this weapons guy? We need to have a chat about weapons jamming.
+
+/s Im in pain but not suicidal.
+[removed]
+The AI not advanced enough and the connection lag (if you want to control the fighter plane remotely) is could be deadly during a dogfight. For a "normal" attack where you just fly in, drop bombs/fire missiles drones are fine, this is why they are being used.
+Radar works by directing energy at something and then picking up the signal that's bounced back - as in /u/Terr_ example, the flashlight sends out a beam of light energy and your eyes pick up the light reflected off whatever the beam hit.
+
+Electronic Attack (a component of EW) works, among other ways, by detecting the flashlight being pointed at it and returning fire with one of those old searchlights from WWII, effectively blinding you, except with electronics it fries the circuits, destroying the sensor.
+[removed]
+to piggy back on Crudboy's comment. 
+radar's have two main modes of operation - search &amp; track.  Imagine you're in a pitch black area, you can see that someone has a flashlight and they're sweeping it side to side - that's search mode.   
+now imagine they're pointing the flashlight in your eyes and keeping it there as you move - that's track mode and what is called radar lock.   
+
+the RWR system can tell the difference and will warn the pilot when the mode changes
+Other than turning g war into a video game?
+Oh look at that, you just spent 80 million dollars on the worst modern fighter.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+This is false. Police RADAR is capable and has resulted in defensive responses from military aircraft. Its source is also easily identifiable and generally results in a visit from the FAA and/or any other relevant law enforcement authority. 
+Fireworks show: 10/10
+Aftermath: 0/10
+
+Source: NHTSA RADAR/LIDAR Master Instructor
+
+Edit: grammar
+The days where aircraft were dogfighting and dodging around the sky are long gone. Fights between modern jets happen at great distances. The definition of a *short range* air to air missile is a missile designed to kill a target at *30 kilometres or less.*
+
+If flares and chaff won't save you, a barrel roll won't either. Planes are comparatively fragile and missiles aren't designed to actually hit a plane. They use proximity fuses to explode when near a plane, which is all it needs.  
+
+
+Direct hit missiles are mostly reserved for tanks and other armour. Easy targets with thick skins.
+[removed]
+Doing aerobatic maneuvers generally doesn't shake a missile. One would use a combination of chaff/flares, and a "notching" maneuver that tricks the missile to mix the target with ground clutter.
+[removed]
+“It is the opinion of the board that the presence of such an apparatus might impair the fighting spirit of pilots and cause them to abandon machines which might otherwise be capable of returning to base for repair”. - RFC Air Board.
+
+http://www.eastsussexww1.org.uk/dont-look-parachutes-first-world-war/
+[removed]
+[removed]
+None exist? What do you mean? Aren't drones considered armed UAVs?
+[deleted]
+At that point, there's no reason to even have a pilot. Just make the entire system autonomous or remote-controlled.
+[removed]
+How about the part of movies where you watch the missile close in on the radar screen?
+
+I would think a missile might be too small to really show up, but idk.
+[removed]
+This is definitely true for head injuries, but not so much for sleeper-hold/carotid-restraint type stuff.  The latter are for the most part harmless assuming they’re healthy to begin with.  Unconsciousness due to acceleration would be more like the latter than the former.  Mostly harmless.
+[removed]
+There is a big difference between blacking out and getting knocked out.  You are correct, there isn't a, 'he's just knocked out, it's ok' in real life, but there really isn't any danger when it comes to passing out due to gravitational forces.  
+
+[This](http://www.youtube.com/watch?v=DMKcO-T5Y4o&amp;t=3m23s) is more of what it would look like.
+
+https://www.google.com/search?q=g+lock&amp;ie=utf-8&amp;oe=utf-8&amp;client=firefox-b-1
+Wouldn't deploying flares or something similar in an array behind the target plane be what you would want?
+
+Essentially if the plane could save itself in that situation I assume it could just fly itself and the pilot could go get KFC
+Sounds bleak but also sounds like we’re already just a hair away from that. Consider Iraq, where American casualties were several orders of magnitude less that Iraqi. That’s not to say we don’t lose anyone, but certainly compared to WWI or II, or even Vietnam, the human cost of war in the US has become more symbolic. More soldiers die from suicide than combat.
+Well what you're suggesting is essentially an air-to-air capable drone, and they are in development. However, you vastly underestimate the cost of training pilots. Even purely from a monetary standpoint, it is a significant percentage of the cost of a 5th gen fighter. Not only that, but the turnaround times on training versus replacement are vastly different, you can't just train new pilots like you make new planes. Finally, if pilots know that as soon as they get in the plane, there's a good chance their own plane will kill them if they engage in aerial combat, then they probably won't engage, or they won't join, or they will just refuse to get into the plane.
+
+Wildly impractical. I know I wouldn't get into a car as a driver if you told me in an emergency situation it will perform a manoeuvre automatically that may kill me.
+Can heat seeking missile hit the aircraft that launched it?
+That additional sensor is also sometimes known as an MWS or Missile Warning System. On an aircraft such as an A-10c (warning layman description inbound) this system can detect a missile launch with UV cameras. It does this by searching for a rocket motor’s UV signature.
+But if there was a need to get close for whatever reason, do modern fighter jets still have capabilities such as "normal" guns and bullets that could reasonably be used against other aircraft?
+Civilian Airliners have a system to avoid head-on collision that works similarly to what you described, except it remains in the realm of human possibility.
+
+Military fighter jets already operate beyond what is capable of humans, which is why the pilots require oxygen masks and G-Suits.
+
+More info on missile avoidance and warning systems can be found: https://en.wikipedia.org/wiki/Missile_approach_warning_system
+[deleted]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+You're thinking of "civilian" as a person with no aviation experience. A factory worker, or a teacher. 
+
+How fast could you train up an airline pilot, air traffic controller, news chopper pilot, or a crop duster?
+Some aircraft like the F-16 have an automatic recovery system that will level the plane out if the pilot passes out. Trained pilots are expensive, and they wouldn't want to do the job if they were expendable.
+[removed]
+&gt; the RWR can tell
+
+How?
+I mean, there ARE different types of knocked out.  I've practiced choke holes before, until your partner passes out, and it never resulted in any sort of issues.  Obviously, temporary blood loss from the sort of G forces from that sort of turn would be much more severe.
+Modern fighter planes will "pull up" automatically if they sense the pilot is unconscious and the plane is in a dive that would result in a crash.  So I don't see why they couldn't also perform evasive maneuvers.  However, I'm sure that would be classified.
+[removed]
+Actually, in WW2 some dive bombers had mechanical systems to automatically pull up the plane again because diver bomber pilots would frequently pass out.
+
+I would’ve assumed with modern technology even more sophisticated automation should be possible.
+You are correct. With the advent of computer aided stability systems, fighters can be designed so that they are unstable. First (US) aircraft to do it was the f-16,which...had a few bugs early in development that caused several mishaps and earned the aircraft the moniker "lawn dart" because it had a tendency to nose down and crash with its tail in the air.
+
+Between that and advances in auto pilot systems (mostly on the civilian side), you could make an aircraft that could take off, fire weapons at a target, return, and land with little human help. But that is a far cry from the situational awareness required in combat, which is why our drones still have humans at the controls.
+[removed]
+[removed]
+They do. As far as I know the last time a fighter shot down another fighter with canons was sometime in the 70s though.
+Yes, back in Vietnam the idea that a missile only plane the F-4 Phantom was used. This quickly was found to be a very bad idea because the missiles used at the time weren't as accurate as advertised and there were more MiGs than the F-4 had missiles. A hard point attached external gun was added to the F-4 and every fighter jet since has had a gun in its design. The only exception to this that I know of is the F-117 but that wasn't a true fighter as it had no air to air ability and due to fuel constraints only could carry one bomb for actual missions.
+Duck behind cover?
+How can it tell the difference?
+[removed]
+Thank you for correcting my mistake. I assumed incorrectly that traffic radar would not have enough power to trigger the countermeasures since military radars really push some high power for tracking.
+I've read that some aircraft will automatically level out if they sense the controls are released.
+I’ve heard Intelligence assets are often trained to start and fly an enemy aircraft. They aren’t trained to land them, though. Compromised intelligence assets are easier to deal with after they’ve been shot down or have crashed.
+[removed]
+[removed]
+[removed]
+Even when they were sheet metal and over a million parts women at Ford plants turning them out every minute. Prior to this the plant built a car with around a thousand parts. 
+
+Under the stress of total war and forced factory conversions people can do things.
+Maybe break the line of site with a mountain or structure?  No clue what else it could possibly be.
+Most fighter aircraft now carry a cannon of some variation. Some countries have thought about "equipped for, but not with" a cannon, with the intention to put it on if necessary later. But it turns out the cheapest way to maintain the aircraft balance was to just buy the gun to put in.
+
+The F-35 is one of the first new fighters to be designed without a gun, but a gun pod is available for the variants that don't have an internal gun.
+[removed]
+A fighter pilot I spoke to recently said that the aircraft he flies does do very minor automatic corrections during regular flight, to the extent of essentially smoothing out the flight. While it may not perform actual automated aerobatics, I expect those corrections would remain in place during manual maneuvers and would make the maneuver slightly easier.
+[removed]
+[removed]
+&gt; Plus going unconscious is not good. There's no "it's okay he's just knocked out" in real life.
+
+Passing out due to a temporary lack of blood to the brain is not amazing for you, but if it is for a short period you will be absolutely fine. It's not at all equivalent to being knocked out by blunt force to the head.
+
+I have no idea whether modern fighter planes can, will or should do automatic manoeuvres that make their pilots unconscious but the idea isn't absurd just on the grounds that "going unconscious is not good".
+
+However my amateurish guess is that a missile that just has to move itself and a little payload of explosives will always outrace and outmanoeuvre a plane that has to carry a pilot, weapons, ammunition, fuel for it all and so on.
+Hi, RF radar engineer here. Modern cruise missiles are extremely hard to out-manoeuvre, something that movies and games get wrong.  Missiles hone in on the infra-red wavelengths emitted from the engine. Special systems called Infra-Red counter measures (IRCM) use lasers to ‘blind’ missiles by shooting them with infra red signals at a higher power than those emitted from the aircraft. This allows them to be set of course and steered away from the aircraft. Its such an incredibly effective technique that an aircraft equipped with an IRCM system should never have to perform an evasive manoeuvre. 
+
+Edit: first sentence originally said ballistic missiles, I of course meant cruise missiles.
+No, no airplane can do that as of right now. The pilot controls the movement of the aircraft. The only thing comparable to aircraft that automatically dodge incoming fire are some anti-ship cruise missiles which are designed to evade incoming fire from the target ships CIWS (Close In Weapons System) or missiles fired from the target ship to shoot it down.
+Yes.  Modern fighters still use guns.  The F-4 was the first fighter that didn't have a gun, it was a disaster. Early F-4's had no fixed gun, but this was corrected after combat experience in Vietnam showed the need for one.
+[removed]
+[removed]
+When a Radar locks a target, this is what's called STT or Single Target Track mode. The Radar focuses all it's energy on the one contact in order to receive near real-time range, speed and position information (Sometimes other information too). This is detected by the RWR as a large, continuous radar waveform. Each radar produces a different waveform, which is how threats can be identified.
+
+Once a missile is fired, depending on the type of missile, the radar waveform my change again to 'illuminate' the target for a semi-active radar homing missile - or to send additional data to an active radar homing missile to update it on the enemies position. The RAR can listen to the waveform and decide what the threat radar is doing.
+
+Not all missiles require a radar to lock a target to fire, however. Some missiles can fire on targets that have merely been scanned by the radar, and not locked. A good example of this is the AIM-54 Pheonix missile used by USNavy F-14 Tomcats.
+[deleted]
+I recall (possibly incorrectly) that russia's WW2 tanks were leaving the factories once every 16 minutes, and would only take on the Panzers by significantly outnumbering them.
+[removed]
+Missiles are generally more maneuverable than the planes they are fired at.  They are lighter, faster, and have a higher thrust to weight ratio.  Imagine - is there anything that a tanker truck could do to avoid a motorcycle determined to catch it?
+
+Even more interestingly - missiles (generally) don't "touch" the airplane and then blow up like a hand grenade - or an RPG where there is a "button" on the nose that makes it blow up when it touches something.  Rather missiles can tell how far away they are from the plane, and when they get within say a hundred feet they explode projecting a cone of shrapnel at the plane.  Imagine if instead of trying to grab the Road Runner from atop an acme rocket, Wile E. Coyote instead had a shotgun and as soon as he got close he blasted the Road Runner with the shotgun.
+[removed]
+[removed]
+[removed]
+This article covers the unclassified info available about airborne detection and defense systems:
+
+https://www.defensemedianetwork.com/stories/air-force-one-has-new-defensive-systems-antennas/
+
+There are, of course, systems we don't know about because the data is classified.
+[removed]
+Realistically, is it possible for a pilot to evade a missle or is that another movie/video game exaggeration?
+[removed]
+[removed]
+[removed]
+Several US planes will stop you flying into the ground automatically.
+
+&amp;#x200B;
+
+[https://www.f35.com/news/detail/f-35-to-incorporate-automatic-ground-collision-avoidance-system](https://www.f35.com/news/detail/f-35-to-incorporate-automatic-ground-collision-avoidance-system)
+[removed]
+[removed]
+Drones in full rate production right now are designed for long-duration loitering and are therefore pretty low-speed, mostly turbo-prop.  They're also almost all used against ground targets (although i think an MQ-9 got an air-air test kill the other week).
+
+&amp;#x200B;
+
+Lots of air-superiority UCAVs are being developed, but none are particularly far along.  
+
+
+Oh, and in the important bits of UAV operation they're directly piloted by humans, avoiding the moral conundrum of letting machines decide to kill humans. Air-air combat would be challenging to achieve without automation, due to satellite latency and general importance of speed in being successful.
+I'd think it'd be doubtful too, but not because for not knowing how long the pilot would be out. If the choice is between getting hit by a missile and blacking out for a variable amount of time then blacking out is the easy choice. The bigger problem would be the risk of false positives. Having the plane automatically take control from the pilot and perform a maneuver that has a high chance to cause them to black out would be a dangerous system to have installed. It could also be something that is targeted directly. Tricking a plane to knock out its pilot could be highly beneficial.
+
+However I could see such a system as something that the pilot could initiate.
+[deleted]
+I swear I saw a video of a head position/vitals/response detector that would apply power, keep the nose up, sound an alarm, shake the stick and possibly waggle the wings a little to prevent the plane from *crashing* if a pilot in a single place plane went lights out. Any fighter pilots here?
+
+Not far fetched as these days the pilot flys the computer (FBW) and the computer flys the plane. Also I have read that nowdays, any fixed wing plane that can land on a carrier, can land *itself* on a carrier.
+Yep. A nearly destroyed carrier was refurbished and repaired in 48 hours when the original repair estimate was several weeks...
+[removed]
+It can pick them up but the point is that it can detect the change in mode from scanning to tracking, and alert the pilot of the immediate danger. Just receiving radio waves intermittently is not such a cause for concern - it doesn't even mean you have been detected necessarily.
+[removed]
+Because the radar signal is constantly on the airplane's sensor instead of just intermittently like when it's scanning the entire area.
+The probability of a hit in that mode is very low. The target would need to be maintaining the same height and speed as the view the amraam seeker has is quite small. The money maker is AWACS led targeting.  Radar off aircraft fires on the target having been data linked it's location by an AWACS hundreds of miles away. AWACS continues to data link the missile until the seeker sees the target. Target can't act against the AWACS as it is too far away.
+So I had an opportunity to talk to an F-16 crew chief when they first arrived. Fly-by-wire is what you guys are talking about.  Pressure on the stick is translated to movement by the computers to move control surfaces. He told me when the A models first arrived the stick was rigid and the pilots had a very difficult time judging how much control input they were giving the aircraft. It led to over Gs and botched maneuvers and injuries. One of the very first upgrades they have the aircraft was to add very slight movement to the stick.  It fixed the issues. 
+
+The F-22 also had some mishaps during testing. It has porpoised down to the runway and iirc a programming error during a test flight multiplied the pilots inputs by a high multiplication. He went to level the nose out and it pulled negative 13 Gs and he went to correct it and it pulled positive 11 Gs. All in like 1 second. He passed out and the plane went into a holding pattern at an assigned altitude until he came back. Plane structure was fine other than the hard points had minor cracks and the pilot has busted blood vessels in his eyes. 
+
+Edit: as pointed out my phone auto corrected fly-by-wire to fly-by-night. It's fixed now.
+Someone mentioned this earlier and I liked the metaphor. It would be like a semi trying to evade a motorcyclist with a bomb strapped to them. The missile has way greater thrust to weight ratio so its maneuverability and speed is much better than a fighter aircraft.
+Negative, all evasive maneuvers are accomplished by the pilot. Usually the other pilots flying together will verbally tell a targeted pilot to "break left/right" in order to dodge the missile by turning harder than the weapon can. 
+
+The only exception might be terrain avoidance used for flying low to the ground. I'm not sure if fighters have this system (TCAS), but I know most of our heavy aircraft do (at least in the military). My knowledge is limited, I only work bombers.
+Can heat seekers pick up on a human body heat signature? What are anti-air measures against wingsuit gliders?
+Kind of. They can deploy a magnesium flare, that burns hotter than the jet the missile is homing in on, hence confusing and hopefully distracting it.
+
+Also, fighters employ electronic counter-measures to dupe enemy radar into thinking there are multiple targets, or into following a seemingly stronger signal. Can't say much more I'm afraid.
+If a pilot is getting hit by a missile, there's zero difference between being conscious and not conscious
+It's important to note that an RWR can only tell the pilot about things it can detect a difference in - you'll really only get a lock warning if the aircraft locking you up switches to single-target mode (where his radar directs all it's energy into one target only).  If he stays in scan mode and let's his computer "track" your position digitally, you won't get a lock tone, just the scan warnings.
+
+With a hostile Russian aircraft, the IRST sensor won't trigger the RWR at all, so even if you know he's there, you won't know if he's planning to shoot until he does.
+[removed]
+It might take days to learn the take off and landing for a Cessna, but it won't take more than an hour for the flying aspect. Combat, yeah, but flying?
+&gt;Fly-by-night
+
+It's actually fly-by-wire.
+
+Source: military aviation nerd whose roommate is an F-16 avionics tech.
+Yes, in limited circumstances.  For example, newer f16s have an automatic pull up system that will cause the aircraft to climb away from terrain if the computer thinks the pilot is unresponsive, such as having blacked out during high g manuvers.
+Yeah. Dunno how night showed up there honestly. Probably auto correct. I just woke up so I'm gonna fix it thx.
+[removed]
+[removed]
+&gt; A hard point attached external gun was added to the F-4 ...
+
+Which actually didn't work all that well, so later versions of the F-4 Phantom II had the M61 Vulcan cannon built into the nose.
+It's actually quite an interesting problem and there's a bit more to it than just maximum G's. In a nutshell to directly answer your question in order to keep them a light as possible aircraft are designed to break only a bit higher than the the pilot breaks. As a result the maximum G this theoretical system can turn at before the plane falls apart around the unconscious pilots is really only a bit higher than what the pilot could tolerate anyway.
+
+The question of "if it would actually help anyway" is really, really complicated; missile guidance and control is a really fun topic.
+
+For some numbers, most fighter aircraft airframes are designed to withstand a maximum maneuvering loading of say 15gs and this is sensibly based in human endurance; there's no real reason to design it any stronger and that would make it much heavier.
+
+A SAM or air to air missile can maneuver at &gt;60g.
+
+An aircraft simply cannot hope to purely "out G" a missile. No pilot or airframe can survive 60g.
+
+However! That is not the only determining factor of if the missile can maneuver to hit. Turn rate is a function of velocity squared and G loading. Turn Rate = Velocity^(2)/(gravity * G loading).
+
+This means that, for example, an F15 at cruise speed can actually turn a smaller radius than than an AIM9x at its top speed despite the fact than the missile can maneuver at ~5x higher G's.
+
+However Mk2! Consider than the AIM9x's motor has burnt out shortly after launch and so its technically gliding into the target and so has probably slowed down a fair bit by the time it's reached its target. Does that put it in a situation where it can now out turn the aircraft? Maybe, maybe not.
+
+However Mk2 Mod 0! Turn rate isn't the only determining factor for if the missile will actually hit the target. A very basic terminal guidance algorithm is called Pro-Nav (short for proportional navigation) guidance. This guidance algorithm basically holds the angle that the missile sees the target as a constant. If this angle is constant then the missile is tracking the most efficient course into the target at that point in time since it must be closing purely in distance.
+
+What this effectively means is that because the missile is chasing the target it doesnt need to turn as fast. Does that put it in a situation where it can now hit/get close enough to the aircraft? Probably, maybe not.
+
+This is where the tricks a pilot can come into play. If the missile is a long way off, in Pro-Nav a course change by the target will require a correction for the missile; and this uses energy of which the missile has a finite amount of, and the jet has fuel to spare. A bunch of jinking could make these corrections burn the kinetic energy of the missile up hopefully enough that it runs out of steam before it reaches the target.
+
+However Mk2 A2! Missiles nowadays don't purely rely on Pro-Nav guidance and will use some other mid course guidance algorithm before swapping to a terminal guidance algorithm like Pro-nav. This is where the GNC engineers earn their wage. We are just as aware of the ways to try and defeat missiles as pilots are (probably more so!) and have no intention of letting them have an easy time dodging. The goal is to ignore the jinking and figure out what the pilots doing long term until you're close enough that the missiles lower turn radius but very high closing rate (from the terminal guidance algorithm) means the pilot can't maneuver out of the lethal radius of the warhead in time. Sure the pilot can maybe turn tighter than the missile, but usually the missile doesn't need to turn as much sinces its chasing and a near miss is good enough with the warheads they are carrying.
+
+The end result is an envelope that says "This missile can probably hit this aircraft going this fast if launched from these distances and angles. Probably". The designers/analysts of these systems are *very* aware of these envelopes and are most definitely classified!
+
+High G maneuvering to escape destruction was far more important in cannon/machine gun combat, not missile combat. If you can turn faster/tighter than the other guy close behind you, he can't shoot you. If you're interested in this sort of system, have a read about the auto pull up system on the [Junkers Ju-87](https://en.wikipedia.org/wiki/Junkers_Ju_87#Basic_design_(based_on_the_B_series)) dive bomber from WW2. That aircraft has a near system to allow the aircraft to pull out of the dive bomb run if the pilot suffered G effects. Pretty neato, and fairly unique as far as I know
+
+Source: Am aeronautical engineer and have worked on missile seeker guidance algorithms
+
+Tl;Dr Aircraft aren't designed to take much higher G's than the pilot and theoretical system wouldn't really help that much given how missile guidance works.
+[removed]
+This is half true: 
+
+"The F-35A is armed with a GAU-22/A, a four-barrel version of the 25 mm GAU-12 Equalizer cannon.[78] The cannon is mounted internally with 182 rounds for the F-35A or in an external pod with 220 rounds for the F-35B and F-35C;[79][80] the gun pod has stealth features."
+
+from: https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II
+[removed]
+[removed]
+Also, here’s a great (if Butt-clenching) video of a F-16 having multiple SAMs locked into it and avoiding them. You can hear the lock alarms and the pilot breathing to try to avoid blacking out (and from fear) as they hit crazy high G turns. Also, I believe there are 2 other fighters that are hit and downed in the same clip. 
+
+[Link](https://m.youtube.com/watch?v=qUjX1RntqVw)
+I have built such systems and that is only partly true. The pilot has to select chaff or flares, press a button to start dispensing and depending on the info the system will dispense a certain number of countermeasures then stop. To send out another set the button has to be pushed again. Chaff/flares are in limited numbers, I recall 128 chaff bundles and 64 flares was the limit.
+[removed]
+&gt;This quickly was found to be a very bad idea because the missiles used at the time weren't as accurate as advertised and there were more MiGs than the F-4 had missiles. A hard point attached external gun was added to the F-4 and every fighter jet since has had a gun in its design. 
+
+this is half facts. yes the navy and the air force struggle with early missiles and both of them came up with 2 different way to solve it. the air force put a gun pod on it as a band aid and requesting a new version of phantom with guns meanwhile the navy built a think tank /fighter school that create a doctrine to optimize the missiles. the results are the K/D ratio of USAF phantoms were not changed meanwhile the navy K/D goes up to 12 migs to 1 phantom.
+
+also, that fighter school is called "top gun". a name that you might know.
+while BVR might be what aircombat looks like with 4th generation fighters, with 5th generation fighters, some people argue that BVR will actually be less of a thing, and WVR may actually happen a lot more often than you would think due to them being much harder to target for BVR. WVR will be significantly more deadly due to the extreme lethality of modern WVR weapons and targeting systems on these aircraft so its unlikely aircraft will truly merge and get into a turning fight - if that were to happen though, it would almost certainly have to be a 1 circle scissors fight - any 2 circle fight would likely lead to attrition as both pilots would easily be able to target and hit the other.
+it is not a disaster. i don't know why people kept repeating this but you can see the stats about the details of downed aircraft by USAF and the navy and the most used weapon is AIM 4 and early AIM 9. the vulcan is all the way down.
+A lot of the maneuvers that are hard on the human body are also hard on the airframe. Pull enough G's in a turn, and the wings will snap off while you black out.
+Yes. but they are not fast jets like raptors or lightnings. creating an UAV with the same capability of a fighter jets is a huge task that probably takes decades from now.
+? I specifically called out that some F-35 variants did have an internal gun, and some did not.
+the ~~Blackhawk~~ F117 Nighthawk has a button used in dogfighting or stealth manoeuvres that automatically rights the plane using computers the quickest way possible. apparently it's super disorienting.
+With current flight systems  and controls in modern fighters, pilots don't do near as much flying as the electronics do.  It's more like the pilot suggests to the computer the correct course of action, then the control system says "yeah we'll do something like that"
+[removed]
+Still, if the two options are blow up now for sure or pass out now and maybe blow up later it still seems like an easy choice.
+No. A maneuver like that would carry a significant risk of stalling the aircraft and if the pilot is passed out then there’s no way of knowing if they’d be able to recover the plane to stable flight or if they’d even be able to wake up before a crash (fun fact, when they were experimenting with the F-16 program a big problem was that the modern systems allowed for maneuvers well above what the human body could handle so they had to ad manual resistance to the controls otherwise it was too easy for a pilot to accidentally pull a high G turn stall the plane and pass out). Usually if a pilot knows there is a missile like that they will try and use countermeasures to break the lock stuff like chaff to confuse the radar, or flares to throw off a heat sealing missile ( attack helicopters do this too especially when coming in on an attack run to help prevent getting shit down by a manpad), pilots may also try and make maneuvers to break the lock such as taking a sharp enough turn that the missile can’t track it anymore or going close enough to the ground that the ambient heat messes with the heat seeking system. You also want to keep the conscious and aware since they might have to eject immediately either after they’re hit and they realize they can’t limp back to base, or if the pull a maneuver to dodge the middle that results in an unrecoverable loss of control. A lot of the modern stuff is kinda stuck in a theoretical lurch though as we haven’t really seen large scale air to air combat between near peer forces since Vietnam, so who knows exactly how well modern missiles and countermeasures will actually work.
+Not counter maneuvers against missiles, no.
+
+But as pointed out some aircraft have a ground collision avoidance system to pull the plane up if the pilot is unconscious.
+
+Way back in WW2, the German Ju-87 had the ability to hit a button and it would pull up and level out, allowing the pilot to do a high G pull up in his vertical dive even if he passes out
+[removed]
+[removed]
+As coyote blasts his acme shotgun, the recoil knocks him off the rocket into its flaming tail, where he is blacked and holds up an Ouch sign. Roadrunner managed to avoid the blast somehow and meeps in his face.
+A modern radar on a fighter jet would have no problem picking out a missile. They also have passive means of picking up such activity like IR cameras.
+
+I don't know how that information is related to the pilot though.
+Those corrections are because fighters are typically designed to be *un*stable.  Meaning, any disturbance will actually push the plane further and further out of equilibrium rather than return to it.  Maneuverability and stability are opposites; the more stable your airplane is, the less maneuverable it will be, and vice versa.  Correcting for this requires constant minor control inputs to fix any disturbance before it gets out of control.  Think of trying to balance a stick or something upright in your hand.  This is *exhausting* for a human to do on by itself, let alone on top of any other high stress task for hours on end, so the fly-by-wire systems constantly adjust the control surfaces by itself to hold the fighter steady.
+[removed]
+It's possible but not likely that it would be immediate death. Anti air weaponry is typically low explosive because it doesn't take much damage to take an aircraft down, just damaging it significantly is good enough and the goal. Also in most combat scenarios, the missile will hit the engines.
+
+Also, I'm not sure the aircraft is going to be able to out maneuver the missile, what you would hope for is to somehow maneuver quickly enough to get out of sight of the missile's tracking system. However that won't really happen considering the missile can out maneuver the aircraft and is much faster than the aircraft as well.
+Those systems do exist. The JU87 Stuka famously pulled out of dives on its own (provided the pilot clicked the bomb release button while the dive brake was deployed). It wasn't hugely precise, but it could pull harder than the pilot, allowing for a lower and more accurate release.
+
+Some modern fighters like the F16 and F/A18 trialed systems that would save the pilot from hitting the ground completely automatically. Called GCAS, there's [footage of it saving a pilot who blacked out on youtube](https://www.youtube.com/watch?v=WkZGL7RQBVw). I'm not sure of its current status, it may be in widespread use already.
+Realistically there's not really any chance you'd be in a position for it to happen.
+
+But, a Heatseaker has a IFF (identification friend or foe) before launching the missile, after firing the missile it is locked onto its target and will go after that, but if it looses the infrared lock (or something hotter comes along), it will go after the next heat source which can be a friendly plane as the missile only cares about the heat source of whatever its following once launched and has no distinguishing abilities on its own. 
+
+The main issue with the missile hitting the aircraft that launched it isn't that it can't happen due to mechanics, but it's somehow physically doing some movie type maneuver to make the missile curve round and hit the plane that launched it
+They use both in modern aircraft? What are the advantages to chaff over flares? Is chaff better for Radar-targeted weapons?
+[removed]
+Yes, but you CANNOT skip the 2.5 years in any way, whereas 41K man hours means that if you have 41 people doing 60 hour work weeks, you're done in 4 months. It doesn't scale indefinitely, but it does scale.
+
+Also, the supply of skilled pilots is considerably more limited than the supply of materials to build fighter jets. Just the amount of people that can handle the G-forces a figher pilot must already limits the amount. 
+
+&amp;#x200B;
+[removed]
+Chaff interfere with missiles that track with radar.
+
+Flares interfere with heat seeking missiles.
+Well I got that with a quick google! 
+
+I was kinda hoping for a more detailed response from the guy I was replying to as he seemed quite informative.
+[removed]
+In real life, the idea is always to avoid a strike. Either through electronic warfare, blinding the missile, decoys, or maneuvering. Possibly soon, it will involve destroying the incoming missile.
+
+Thoughts on defense against ground based anti-aircraft defenses have varied over the years. Initially it was all about going higher and faster. See the transition from B-36 to B-52 to B-70.
+
+Then it was thought that the SAMs had gotten too good for that to work, so they decided to try low and relatively fast (but still subsonic, because it's hard to move supersonic down low). Turns out this is a mistake for two reasons: SAMs weren't actually that good, as evidenced by the later stages of the Vietnam war, once doctrine caught up with reality. Low and fast doesn't give you as much time to think of options as high and fast, because the missile doesn't have as much time to hit you. And going low exposes you to a lot more potential anti-aircraft fire. The big expensive SAMs required for defense against high altitude bombing might not work so well down low, but you can give cheap SAMs to a bunch more people, and even use stuff otherwise considered obsolete (radar guided artillery cannons).
+
+This last problem wasn't realized for a while (not until OIF, roughly). It wasn't what spurred the idea of every fighter being Stealth, but it definitely didn't hurt. SAM defense now is mostly: try to avoid where it's defending, and when you can't, make sure the SAM site isn't there to be defending.
+
+Heading for the ground might still be helpful, but more for being able to turn your potential energy into kinetic energy in order to run away better.
+Fighters rely on several things to evade radar guidance systems.
+
+1. Radar jamming. Some more modern aircraft radars are capable of entering a “jamming mode” where they can interfere with the incoming radar signal. The F-22 Raptor and F-35 Lightning both have this, and some other older US fighters have been upgraded with it.
+
+2. Pilot evasive maneuvers. A fighter jet will never be completely out of the control of its pilot, even if the automatic pilot is engaged, mostly because of the idea that you always want a *person* making decisions about when to employ a weapon system.
+
+3. Chaff. https://en.m.wikipedia.org/wiki/Chaff_(countermeasure)
+
+Basically a short range projectile that contains metal or plastic fragments that can disrupt missile radars.
+[removed]
+He has a safety harness keeping him strapped to the rocket.  When he fires he is knocked off the harness and cooked in the rocket's exhaust as the safety harness keeps him tied to the rocket.  The rocket races forward straight while the road turns and slams into the side of a cliff - exploding and cracking the side of the cliff.  Wile E. Coyote peels off the side of the cliff, and falls down onto the desert floor below with a little mushroom cloud.  The force of his impact expands the cracked cliff face and a huge chunk of rock detaches and falls down, right onto our unfortunate predator.
+[removed]
+In addition to what the other guy said, the radar frequency might also change to one that's not as good for setting, but better for tracking one object. Depends on the radar system though.
+[removed]
+Do you have a source on the f-16 and f-22 problems? I wanna have it ready when someone says the f-35 is a waste of money because of the bugs...
+what fly by wire aircraft are you referring to that are in the “4-5G crop”?
+Then maybe you should ask the question in a manner to get that info?
+[removed]
+[removed]
+[removed]
+[removed]
+Better yet, build an organic plane. Now you have a pilot and and plane all in one.
+[removed]
+You're asking for a detailed answer, but it's really that simple.
+
+Flares burn really hot, misleading anything relying on heat for targeting. Chaff interferes with radar, misleading anything using radar.
+Trying to pick a fight? The pilots love it and rack up ridiculous kill ratios in red flag exercises.
+easy - if the radar signal power level fades in and out - it's sweeping (looking for a target).  if the signal is strong &amp; continuous it's locked on targeting you.
+
+Edit - clarification on fades in and out...when the enemy's radar is pointed at you, the radar signal will be clear and distinct, when it points away from away from you the signal will be weaker and somewhat fuzzy since what you are sensing are jumbled reflections.
+[removed]
+G-induced unconsciousness is different from being knocked out, though. You come back almost immediately as soon as the blood pressure in the brain is restored to normal level i.e. the plane levels in flight.
+[deleted]
+[removed]
+Guy at the airport a couple miles from me has an f4 trainer, which isn't as modern, but it's not even getting off the ground without 2 people on the ground outside to start it..
+Neat, thank you.
+[removed]
+I work on EW systems. Usually when there's a threat detected, a specific maneuver is selected for avoiding the threat and notification is given to the pilot when to execute the maneuver. These systems have simulated training scenarios that pilots use to train carrying out these maneuvers with the right timing. These maneuvers are also timed in relation to dispensing countermeasures.
+The occasional GLOC is not believed to be very harmful long term. The issue is that in the ~10 seconds you're unconscious, and subsequent minute or two it takes to fully recover, you're much more likely to crash. Some planes can automatically take control to prevent a crash. Example: https://youtu.be/WkZGL7RQBVw
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Yes and yes. Flares are for IR seeking missiles such as the Stinger. Chaff for radar seeking, Neither one is 100% effective and effective patterns have been developed for various threat types and are encodded into the software of the dispenser.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+The plane would be incapable of outmanuvering the missile anyway. Even without the pilot to consider it is still much bigger and slower.
+Not out of the realm of possibility in the near future.  As it turns out, however- airplanes are designed with the pilot in mind. The airplane is usually stressed to 8-10 G forces- about the same as the pilot. Combine that with the short duration of the maneuver and it’s unlikely that the maneuver would incapacitate a pilot.  The F-16 currently has “computer in the loop” flight controls which help prevent controlled flight into terrain (CFIT) via Automatic Ground Collision Avoidance.
+[removed]
+[removed]
+[removed]
+That is more than just an “analogy”. That is exactly how it works, just in a different frequency.
+The f18 super-hornet knows if you pass out though. If you release grip on the sticks it will just fly straight and level. This is not what that plane wants to do, without the flight computer if you took your hands of the sticks for long it would just tumble out of hte sky. They also auto launch, so when you are comming off the carrier the pilot doesn't actually control the aircraft. You will see they actually hold onto the handles during launch and only grab the controls after they start to pull up off the end of the ship.
+Good thing America is still the manufacturing powerhouse it was in the 40's and 50's
+Can? The more advanced one certainly could.  Almost certainly couldn’t happen accidentally.
+It could certainly be detected.  It’s signal does not match a threat signal. It’s most likely a CW Doppler radar with low power in a civilian band.  Not sophisticated enough for target tracking.
+When I was in Iraq, we had infrared based missile warning systems on our helicopters. It was rather hilarious seeing the contractors trying to eliminate all the false positives. Which were being caused by common house fires.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+How long do you lose critical decision making skills when you don't evade the missile?
+Public knowledge? No. In reality? Probably.
+
+Despite what people say here g force recovery times are fairly reproducible and consistent for a trained pilot. Modern jets monitor their pilots internals and can fly themselves for the most part. From an engineering perspective there's no real reason why the jet cant make the maneuver and fly itself until the human regains control.
+
+That being said you could just make the jet fly itself with no pilot but to answer your specific question yes I'm sure this technology exists in a lab somewhere. I'm also sure it's in use in some aircraft.
+Yeah, hiding behind terrain is still a good way to not get shot. Radar waves cannot track targets if there’s a mountain between the radar and the target, after all.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+That's a really good analogy, really helped me picture what was going on.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Just a 'ping'- I re-asked your question (basically) and got a lot of responses in my thread.  Just so's you don't miss them.
+Can't aircraft force the AWACS to shut off radar by dropping a fat ARM?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+I don't think that's accurate either. The A-10C, for example, has multiple countermeasure modes; Manual, Semi-Automatic, and Automatic. In the automatic mode, the CMSP will automatically select the correct counter measure profile based on what the system *thinks* was shot at you, and then automatically dispense those countermeasures without the pilot having to do anything.
+
+Semi-Automatic mode will automatically select the counter measure profile for the pilot, but the pilot will have to manually press a button to begin dispensing counter meausres.
+
+And in Manual mode, the pilot has to select both the counter measure profile and manually activate it.
+Perhaps you're envisioning a situation like a dog fight or near range shot where the attacker and target both are aware of each other. Future combat might not be like that. 
+
+A stealth fighter might not turn on their radar at all because doing so also gives away their location. They might rely on passive data or data from other aircraft. Firing from &gt;50 miles away. The missile turns on radar last mile or so. But yes according to public data, bvr shots have a ~60% kill rate.
+[removed]
+Hee hee, I just had a vision of a future in which combat aircraft have pilots at the insistence of humans... so the aircraft are constantly tossing their pilot compartments out of the fray and rushing back to catch them after a series of 25g combat maneuvers.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+The opposite - the longer the range the more probability of error in a shot like the setup above. The slightest variation will put the amramm in the wrong position  to track.
+[removed]
+With a 200+ mile range? Phoenix might have been able to make that shot not many today can
+Of course, there have been virtually no air-to-air engagements since the '70s either.  Gulf of Sidra is the only one I can think of off the top of my head.  No, wait, there was one on the Turkish-Syrian border a couple years ago.
+[removed]
+[removed]
+But what about Goose?  Goose wouldnt pass out....wait.
+[removed]
+[The pulse radar range of the AWACS is over 400mi](https://en.wikipedia.org/wiki/Boeing_E-3_Sentry#Avionics)
+
+An air-launched ARM like the [AGM-88 HARM](https://en.wikipedia.org/wiki/AGM-88_HARM) only has a range of 92mi.
+Cirrus Aircraft (a small single engine personal) has a parachute system built into the fuselage.
+[removed]
+Wasn't the f117a Nighthawk the first computer designed and unstable aircraft? Without its flight computers it was un flyable
+[removed]
+While you are technically correct “cone of shrapnel” isn’t a valid way to describe the warhead action of a missile, depending on the missile type it could be a radial fragmentation (bunch of metal cubes blown out in a circle around the missile), to continuous rod (basically an expanding buzz saw rotating at high speed).
+
+Again depending on the missile depends on the warhead (and even different models of the same missile can have different warhead types), and my comments reflect knowledge of US based missiles only.
+[removed]
+Do planes have a proximity sensor for objects approaching it? Seems like that would detect even a remotely guided missile (if such a thing actually existed for air combat)
+Like an old school radar detector to spot a cops radar pointed at you right?
+
+And there are also radar detector detectors, for detecting radar detectors.  
+... And radar detector detector detectors, and even radar detector detector detector detectors!
+
+I wonder if the military has similar such anti counter measures in place.
+[removed]
+Semantics aside, the valid point made there is that the amount of time it would take the pilot to recover enough functionality to take over is unpredictable, and could well be many minutes.
+Just for shits and giggles, if a US pilot were locked by an AIM-120 (or foreign analog), what is the protocol to not end up dead?
+I think for the average reader "cone" might be the better way to think about a warhead explosion.  While the shape of the explosion might be spherical or directional from the missile's frame of reference to an outside observer on the ground the explosion will always look "cone-ish" because of the speed the missile itself has added to the equation.
+[removed]
+[removed]
+[removed]
+[removed]
+[deleted]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Even back in the 90s some of the systems were automated.  The dispensing system was tied to the RWR system.  The pilot or EWO could select manual or automatic dispensing.
+[removed]
+[removed]
+&gt;Is there a feature that forces the aircraft into a non-human capable maneuver, even temporarily, to avoid a strike once this happens? I would imagine that a pilot temporarily passing out would still be preferable to immediate death, right?
+
+Computers are not smart enough to know how to counter an incoming missile with maneuver. That's something that pilots are trained in.
+If I remember right, an A10 shot down an Iraqi helicopter in the first gulf war with its cannon.
+[removed]
+[removed]
+Also it’s important to remember that turning on that flashlight exposes you.  This is unavoidable for ground sites, but for other aircraft this is very important.  And being radio silent is key.
+[removed]
+Depends on what countermeasure system the aircraft has on board. Many absolutely do have an automatic function.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Don't mean to hijack OPs post, but tactical aircraft are generally equipped with a flare system to defeat things like heat seekers. I've been told newer generations of missiles are capable of "blinking" and defeating decoy flares. How do heat seekers distinguish heat signatures?
+American planes would have the technology to do that but it's not desired.  I've heard the Russians are less averse to maneuvers that might ride the edge of loss of consciousness.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+AIM-54 couldn't reach 200 miles, it'll be too low on speed by then. Not even S-400 could pull that range off. As far as I know, there's no anti-aircraft missile that can reach that, you'll be looking into anti-ballistic missile system for that.
+The only reason to use canons is when the enemy is within the minimum range of your missiles. If that happens, you ended up in a seriously bizarre situation.
+Wouldn't it be better that the pilot passed out and dodged a missle than the plane didn't automatically dodge and the pilot is dead?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Is computer vision tech good enough yet for a couple of cameras on the pursuing fighter to lock on to the target and determine its location visually? Though maybe it doesn't matter whether the target knows your radar is pointed at it.
+[removed]
+To clarify one point: the RWR cannot always detect when the radar has switched from scanning to a lock because there are different ways of locking up a target. The RWR generally knows when the aircraft has been locked because the locking radar narrows the radar sweep so instead of scanning the area immediately around the target, for example, once every two seconds, it scans that area several times per second and continually adjusts the focus of the sweep to keep it centered on the target.
+
+Modern "conventional" (versus even more modern active electronically scanned array systems) radar systems can guide active radar homing missiles (i.e. those with their own onboard radar in the seeker) within the shorter acquisition range of the missile (a little over a few miles) with only a "soft lock," which involves having the aircraft's onboard computer extrapolate target movements. The target can't tell the difference, so you don't know when you're locked/launched on versus just being scanned until the missile seeker goes active very roughly ~10 seconds from impact. This is all very fuzzy information, though, since all of this is still largely classified and it's hard to find definitive public information.
+
+I have no idea how this works with AESA systems since they scan ridiculously fast all the time.
+[removed]
+[removed]
+I suspect neither of you know what you're talking about beyond armchair level.
+That's almost not fair... The A10 was built around that cannon.. that's its whole purpose for being in the air.
+[removed]
+Even the ones who know what they are talking about are still operating from armchairs ^_^
+Uh how about the entire Iraq-Iran war?
+I doubt they'd be able to talk about it here if their knowledge had much backing
+Yes, but most missiles will burn through all its fuel in matter of seconds. After that, it'll lose its speed quickly. If the pilot have ample warning time, a proper maneuver can force the missile to bleed its speed to the point that it can no longer catch up with the aircraft. Missiles don't "chase" planes the way movie portrayed, unless the targeted aircraft is very close to the launching point, the missiles will basically be "gliding" toward the aircraft by then because after the burnout, it no longer have the power. It'll be more like a tanker truck encountering an out-of-fuel motorcycle that still have a lot of momentum from prior speeding.
+[removed]
+It's not impossible.  I used to bullseye **womp rats** in my T-16 back home, they're not much bigger than two meters.
+Taking it a bit further, different radars operate on different frequencies. You can tell what kind of radar is pointing at you based on that. In the flashlight analogy, you could think of it as color of the light (that literally is the frequency of the light actually). And if you know that a green light is a search radar, and a red light a guidance radar, you can then know if you're targetted or just being spotted.
+
+Taking what /u/__redruM said also, its important to note that besides just exposing you, radar exposes you at much further distances than its capable of seeing. Again, the flashlight analogy works well. A flashlight really only illuminates everything for a few feet in front of you, but someone a mile away might be able to see the flashlight when its pointed in their direction. The person with the flashlight can't see this other person, but this other person can see them (or at least the light of their flashlight). Radar works the same way.
+If it's anything like the automatic collision braking in my Jeep, the pilot wears a diaper from constantly shitting his pants.
+[removed]
+[removed]
+[deleted]
+The US is actually one the the biggest manufacturers in the world, [second only to China.](https://www.worldatlas.com/articles/10-countries-with-the-highest-industrial-outputs-in-the-world.html) We just automate production rather than relying on human labor. That's part of what makes Trump sound ridiculous; even if tariffs and other trade barriers did bring manufacturing back, it would be done by robots and not lead to massive growth in low-skilled employment.
+My chair has no arms, it’s actually dinner table chair level over here.
+[removed]
+[removed]
+That’s crazy cool how accurate of an analogy that is.
+But it really makes sense that it is.
+[removed]
+You can dodge a missile, but you really need to have advanced warning. If someone is right behind you, there isn't much you can do other then spam countermeasures and turn and hope the missile is fooled.
+It does.  Shits annoying.  It even picks up your wingman.  Tone goes off, yup wing man's there. Tone goes off a few seconds later. Yup wimgans still there
+Good question. Considering there's an f-22 game for the Sega Genises chances are the answer is YES and it's being test flown TODAY
+How reliable is that heat sensor to identify the missile so far away and moving at the speed it does?
+Is that why kills with a missile look like the plane just lets it happen? As opposed to pulling some evasive maneuver, they don't really know they're about to be hit?
+Not sure about missiles, but the technology is there to terrain avoidance. Auto GCAS (ground collision avoidance system) has already been credited with saving a number of pilots.
+
+"Once the program recognizes the aircraft is likely to crash, it prompts the pilot to evade either a ground crash or a controlled flight into terrain situation. If no action is taken, Auto GCAS assumes temporary control, engaging an autopilot maneuver to roll the aircraft upright and initiate a 5-G climb, diverting the plane and pilot out of harm’s way.
+
+After putting the aircraft on a safe trajectory, the system then returns aircraft control to the pilot."
+
+https://www.acc.af.mil/News/Article-Display/Article/1026196/point-of-recovery-ground-collision-avoidance-system-saving-pilots-lives/    article about it
+
+https://youtu.be/WkZGL7RQBVw       video of it in action, referenced in article. You can tell when the pilot passes out based on his breathing. You can hear another pilot yelling "two (his callsign sully-2), recover" as he dives below the "floor" of the exercise, 12,000 ft (numbers on the right side). The x across the screen with "fly up" is the auto GCAS kicking in, with an audible tone and verbal warning "pull up." The other pilot calls "knock it off" (cease activity due to a safety concern) and tells him to "get yourself back above the floor" (return to the airspace they're cleared to be in)
+[removed]
+[removed]
+The radar warning receiver is simply a series of sensors that are capable of measuring the wavelengths/frequencies of incoming emr (electromagnetic radiation). They are capable of sensing emr in the range of the electromagnetic spectrum that is used for radar, and they send the raw data to a computer in the plane.
+
+The computer is able to take parameters such as frequency, wavelength, and power, and identify not only what mode the radar that is painting the aircraft is in, but what type of radar it is, and from that information what type of plane is locking you up or searching you. The way this is accomplished is a combination of really good programming, and military intelligence to gather information on enemy radar systems and their specific radar signatures. I'm not sure the exact methods they use to build databases of different radar patterns, but I'm sure there is a huge amount of human effort and money that goes into the construction and maintenance of an RWR system.  
+
+
+&amp;#x200B;
+[removed]
+[removed]
+I could?
+Way better to just work on eliminating the human pilot all together, which is what the current R&amp;D is mostly focused on.
+[removed]
+[deleted]
+It does, but it's not always the safest option. Depending on terrain, it may be preferable to glide to a landing on open ground (or better yet, a nearby airport) than to pull the chute over trees or steep ground.
+
+Also, pulling the chute totals the plane. An engine-off landing if you have good options probably doesn't.
+[removed]
+When locking on, does it have to be right on the crosshair or, since it's sweeping, in a cone?
+That's really cool, but IR is strangely not what I would think of in RF Radar. I wish I could break into the RF radar industry.
+[removed]
+Likely the future of air combat will be swarms of drones (jet style ones not quadcopters) deployed from a slower carrier aircraft miles away from the engagement. Each drone will have radar and paint a super accurate picture of the sky and some may even carry arms big enough to down other aircraft. I can't find the one video that explained it really well but[ this is pretty decent information.](https://www.businessinsider.com/darpa-drone-swarm-project-2017-12)
+'any danger' is too broad of a hand-wave my dude.
+even 'medical danger' is broad enough to include the uncertainty in recovery latency resulting in further weapons vulnerability, aircraft malfunction, and crashing.
+
+Yes we know 'knocked out' doesn't imply death, except in totally complicated scenarios or something.... like being in a plane, hurtling through air at supersonice speeds, that may or may not have just evaded a missile, it relies on you waking up within a 100ms-2s to qualify as 'fault tolerant'.
+Are there laser tracking missles? And does the plane have warning of that?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Is it possible to learn this power?
+Neat, thank you.
+[removed]
+[removed]
+[removed]
+Also doesn't work if the enemy radar is using quantum entangled photons.
+[removed]
+Yeah, missiles have gotten a lot better, on both sides.  The F4 occasionally ended up in gun range in very large part *because the Migs needed to be in gun range*.  Both sides use missiles, now.
+
+Most fighters still have guns mainly because they're occasionally called to fire at soft targets where a missile wouldn't be appropriate, like strafing an enemy ground position or shooting down a non-threatening air target that isn't worth the cost of a missile.
+This also leaves out AWACS support and the battle networking some modern fighter planes do. One plane can lock on the target, and another can fire the missle.
+The sensors for detecting IR missile launches are generally looking for a UV burst as the rocket motor ignites, rather than a heat signature. While IR missiles aren't particularly long range, they're likely launching from multiple kilometers away and detecting a small heat signature at that range with a wide field of view system is seriously difficult. On the other hand, picking a bright flash of UV (that tends not to come from many other sources) is relatively easy. 
+
+Of course, this can be taken advantage of. If someone on the ground was to be say, arc welding, it can set off the IR warning system within a limited range.
+[removed]
+In fact, wouldn't the evasive maneuver make it harder for the IRCM to keep its laser on the enemy missile?  And afterburners would significantly increase your IR profile for the missile's targeting.
+Not yet. All fighter planes operate assuming a human is present. The airframe's performance can kill a human, but the computer wont let it.
+[removed]
+[removed]
+[removed]
+And then there was the clever guy who shot down an F-117.  
+
+Again, they were flying a predictable path.  The F-117 is not 100% invisible to radar, just nearly impossible to detect from far away.  So they blind-fired the missile into the predicted vicinity of the F-117, at which point it turned on its radar and was close enough to lock on.
+[removed]
+[removed]
+[removed]
+[removed]
+[deleted]
+The Russians at one point were developing very long range ARMs (basically air to air cruise missiles) specifically to try and engage Western AWACS platforms.
+luke is there for 4 minutes. Proceeds to talk smack to officers and enlisted men.
+[removed]
+[removed]
+[removed]
+[removed]
+evading the missile and passing out doesn't do you any good because then you're a sitting duck for the next 2-4 minutes.
+The Russians were working on a HUGE (like 1,500 lb) anti-radiation missile with a 400km+ range specifically for the purpose of engaging AWACS (and possibly tanker, homing in on emissions like TACAN) aircraft.
+
+Even if they couldn't reliably kill AWACS it would force them to evade and be less effective. I'm pretty sure the program ran out of money before anything was fielded but the concept wasn't totally ludicrous.
+
+Another plan that I don't think ever got beyond planning was a turbine powered cruise missile-like first stage with a solid rocket second stage that lit off when near the target.
+[deleted]
+Mental Health doctor for Opiods and sedatives. I understand your pain. Lower back and joint replacements - try a chiro ouptpatient doctor. If they say 'No.' You say : 'Right, choices are between proper painkillers or a bottle of bourbon a night. What's your prescription? I'm recording this on my phone.'
+[removed]
+[removed]
+you mean the R-37 , or as it seems ot be today, R-37 M? (came from the R-33 which was also nearly as good)
+they DID create them, be advised
+
+the R-37 can go 400 km(250 miles)- and there's been reports of longer missiles being worked on by the chinese and russians (though the russians historically have made these)
+
+This is why i think the US is finally researching making  a true AIM 54 successor, as the amraam isn't quite able to play ball
+Why do we need all this tech on a fighter jet? To fight what?
+[removed]
+&gt;  Semantics aside 
+
+Don't be rude. OP made two claims and the user above you simply explained how the second one was incorrect. That's not "Semantics"...
+
+He never questioned the first claim that you are defending.
+[removed]
+It depends on what missile you're using for what purpose. The aim 120's effective operational range is beyond visual range (BVR). If you're in a dog fight you want to use a short range high turning missile such as the aim9x which can make almost 180 degree turns.
+A10 was mostly for firing on ground targets to support troops near the front line.  (The cannon was designed to be anti-tank).  It wasn't really designed as an anti-air platform specifically.
+There are some situations where the plane can take actions if the pilot is unresponsive for a short time, such as [AGCAS](https://www.youtube.com/watch?v=WkZGL7RQBVw).   Theoretically a plane equipped with that might have the potential to recover if the pilot made an avoiding maneuver that caused a blackout.  I am not aware of any that would respond like that because of an inbound missile though.
+none of the ones I worked on for F16 and F15 did and none of the pilots wanted one. Bombers may be different.
+And to extend it to stealth/radar cross section: imagine you're wearing a white t-shirt. You'll be seen much sooner than if you were covered in all black clothes. That's the difference between radar reflective and radar absorbent material.
+
+Now imagine you're covered in mirrors carefully angled away from the guy with the flashlight. That's stealth shaping. The nightmare there is you have to make sure that every edge is perfectly fit so it doesn't glint.
+Automatic meant it ran a program where things were dispensed based in certain quantities based on threat data. Pilot or EWO still had to kick off the program. Manual meant one button push one flare or chaff.
+[removed]
+[removed]
+[removed]
+I would not be surprised if we find that we need a second human either in the aircraft or remotely to be a drone/sensor/weapons operator and the pilot does piloting.
+
+Managing the cloud of drones that operate sensors, carry additional fuel and/or weapons and fly on hostile airspace is a complex task. Some of the theories blending drones, stealth fighters and non-stealth weapons trucks is interesting. Can't wait to see how it all settles once the technologies mature.
+[removed]
+[removed]
+[deleted]
+[removed]
+[removed]
+[removed]
+If we want to start handing out credit for helo kills then we have to say bombs are effective too.
+
+In the first Gulf War an F-15E crew "shot down" a Hind with a laser guided bomb. They dropped when it was on the ground and it took off. The weapons system operator just kept the laser designator lock and then *poof*, no more helicopter.
+Not airborne but spent a LOT of time in C130s that year. Got pretty accustomed to it; and I was flying up front with the pilots so I was taking cues from them on whether to shit my pants or not.
+[removed]
+[removed]
+[removed]
+[removed]
+I once was present as a Marine on an Air Force base (Tyndall)  when an Avionics Tech accidentially dispensed one chaff round on the deck while assisting the Ordnance guys troubleshooting the system. Air Force was NOT happy. Idiots. First item on the checklist "Ensure chaff/flare buckets are empty/removed from the aircraft". My "Career Low Light" momentarily illuminated on that one.
+[removed]
+[removed]
+False. This is a lie and a fake post.
+Thank you for this explanation. That analogy worked really well.
+Us lowly ground forces were always told not to paint fast air or rotary assets with laser as they would interperate this as weapons lock and react accordingly.
+
+Is this true or was it just to stop us from getting bored and blinding everyone?
+[removed]
+Does locking radar onto a target affect the target's ability to use their own radar?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+It's worth noting that this was actually a thing on the Stuka dive bomber. Pulling out of the dive would induce extremely high G-forces, and many pilots grayed or blacked out, so they created an automatic pull-up device which just pulled out of the dive at about 6 Gs, and the pilot would then regain consciousness with the plane in level flight.
+Really cool, thank you
+&gt; Of course, there have been virtually no air-to-air engagements since the '70s either.
+
+The Gulf War had a [pretty decent size](https://en.wikipedia.org/wiki/Gulf_War_air_campaign#Some_of_Iraq's_air_force_squadrons_escape) air battle. Not... uh... not super evenly matched, but coalition forces shot down about 38 Iraqi MiGs.
+[removed]
+[removed]
+Adding to this, the RWR does it magic by analyzing a radar transmission mainly through its frequency and pulse rate.  It will compare this data with a library of known radar signatures and present this information to the pilot.  If an unknown radar signature is encountered, I imagine some sort of heuristics is used.  There is little to no information in this area that is available to the public for obvious reasons.  The frequency and pulse rate of a search radar is generally not the same as they are for a radar that is used to "lock on" to a target.  Certain frequencies are good for searching for a target but not good enough to guide a missile to hit a target.  Other frequencies are just the opposite.  You can see evidence of this in articles about stealth detecting radars.  They never mention how good it is at shooting down a stealth airplane.  Pulse rates are generally higher when a radar is "locked on" to get the most up to date information to get the best chance of hitting a target with a missile.  
+
+ Just having a RWR does not automatically mean a pilot has a clear picture of all radar activity in the area.  During the Yom Kippur War, the SA-6 made its combat debut and spanked the IAF because they did not have any information on its radar signature.  The effectiveness of a RWR is mainly dependent on the signature library.  A library is worthless if there are no books in it.  One can imagine how some of these signatures were acquired and what is required to keep this information up to date.
+
+&amp;#x200B;
+Haha that would add even more of a thrill to wingsuits!
+
+&amp;#x200B;
+
+Think about it, though. A jet engine obviously burns almost infinite times hotter than the human body does.
+[removed]
+Generally no, there are various ways of reducing/eliminating interference, to allow friendly forces to recognize their own signals, and to hopefully prevent enemies from spoofing or jamming. There are a range of frequencies available, schemes that may jump around or sweep across frequencies, ways of coding the signal to make it stand out, and equipment able to detect which direction a signal is coming from.
+
+While you could jam a target's radar systems, you probably wouldn't try this at the same time as attempting your own radar lock, unless you were certain the two systems wouldn't interfere with each other. There is also the risk of weapons being trained on anything emitting radar (e.g. anti-radiation missiles).
+He's been gifted and guided by the force his entire life, and has no experience to judge that what he thinks is normal is actually extraordinary.
+[removed]
+[removed]
+It is avoidable for ground sites, thats how the Serbian air defence network was able to do so well with essentially obsolete equipment vs NATO air power during the breakup of the former Yugoslavia.
+
+Just because they didnt WIN (yeah, winning vs any coalition involving the USAF, let alone their allies aint happening unless you're a nuclear power) doesnt take away from the achievement of what they did do, which was drastically reduce the effectiveness of NATO's airpower during the campaign.
+Blackhawk helicopter?
+Ahhh yeah that's right! I remember him saying that too, almost word for word. The aircraft *wants* to start spiraling out of control, because that's just the nature of a fighter jet with immense maneuverability.
+To piggy back on tasteslikesardines comment. The search radar is pulse and the tracker is CW (at least on the last system I worked on). We used to set the radar to work before fitting it on the type 42 destroyer. One way to test the tracker was to scan for a nice fast flying aircraft and get a missile lock on it so the tracker could track. This worked fine and didn't upset anybody until the air-force started flying over. The tornado crews were not happy when the alarms all went off. I later worked with one of the navigators and he told me the adrenaline rush was very difficult to come down from and that we were very lucky they never flew with live missiles because they would probably have just fired on us as an auto response. We still thought it was funny. Ground crew don't often get one up on the fly boys.
+&gt; The pulse radar range of the AWACS is over 400mi
+
+Is it true the AWACS could focus on a plane and dial up the power until the electronics are all fried and the pilot can no longer sire children?
+
+I think I read that in a Tom Clancy book. He talks about them using it as a way to express displeasure (you're getting too close to the mother ship!) without shooting them down and starting a war.
+This is one of the reasons that the Russians and Chinese are developing super long range SAMs and AAMs to attack AWACS (and tankers) - they want to reduce some of the advantages available to US and NATO aircraft.
+The countermeasure to these will likely be towed decoys which are already available to combat aircraft.  
+
+The decoys mimick the signature of the target aircraft.
+[removed]
+Depends on the frequency of the laser being used. Its probably not easy to differentiate em waves that are similar
+My question is more so directed towards the advancement of technology. Can we make heatseekers that would seek a 98 degree target?
+[removed]
+[removed]
+Haha nice.  The post I first replied to, just asked for aircraft kills or something like that and I consider a helicopter an aircraft.  The one above that thought specified fighter kills and of course a helicopter is not.
+Who remembers the story of a team of engineers working on radar that pointed their system at a f14 landing at an airport nearby?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+It's mounted on large passenger-size aircraft... realistically it can only disable the radar assuming an ARM with long enough range is launched at it.
+I have a family and am the primary breadwinner. I understand that it is supposed to be a 'threat' but it is something I couldn't do.
+
+Just yesterday I went to see a doctor for it as I was referred to them, and their response to 'Ive had physical therapy, which made it worse, ive had muscle relaxers, which didnt help, ive had nerve relaxers, which helped only a little, a mixture of the two which worked but made it hard for me to make it to the bathroom, much less function at work, ive had several different anti inflammatories because 3 differwnt doctors thought it was a swelling of a muscle aggrivating a muscle at the base of the head that was aggivating the nerve cluster. Thosr never helped. Ive also been perscribed a medication for nerve pain and depression, but after two weeks i couldnt handle the insomnia, the mini blackouts, the dizziness, the heat waves, and the like. Ive also had 2 injections of some steroid which made things worse, and had Xrays and an MRI which showed nothing.'
+
+And the fucker responded with 'Its your posture, im gunna refer you to a physical therapist, and give you a steroid injection for today'.
+
+I kinda just threw in the towel on the whole institution for the moment. I guess I will work like always, maybe black out from pain every once in awhile, lose tons of sleep to the pain, but ill be damned if Im gunna put more money into getting told 'Hey theres nothing wrong' and have to deal with those symptoms anyway.
+
+Maybe ill get into illegal narcotics (/s). More than likely though ill just be miserable and depressed though. And its tough to explain to people that I usually hover around a 3/10 pain for a normal day, but that usually goes up to a 6 by the end of the day, and can hover at a 8 or 9 for several days at a time, and that the pain is depressing me, not some sycophantic self loathing (though i figure we all have our fair share of that)
+
+Sorry for the wall. Felt like venting.
+
+Have a good day m8.
+You’re right, I don’t actually work on electro-optics systems like IRCMs, its totally separate to radar. I just happen to have some knowledge of both fields as the company I work for specialises in them both. 
+I would highly recommend it, its hard work but super rewarding and interesting!
+Indeed, depending on where the laser head is positioned on the plane you could  take the missile out of its line of sight. 
+Afterburners tend to be used for takeoff and sudden bursts of speed. I would expect they are disabled once the aircraft is in stealth mode because as you say, that would make for a very obvious target!
+[removed]
+[removed]
+It's the R-37, its operational range is somewhere between 150-400 km. While 400 km is doable for a missile that large, being able to target an AWACS from that distance is unrealistic since an interceptor's radar can't hope to match AWACS' huge radar. The launch would definitely be noticed. 
+
+R-37 is reported to have a speed of around Mach 6, or about 2 km per second. So if an AWACS is exactly 4 km, it'll still take almost 3 minutes and a half for the missile to travel that distance (and I'm ignoring the fact that the missile will already ran out of fuel like a third of the way before and is just "gliding" at this point), I wouldn't doubt that even a 707 could evade a missile very low on energy from that range with that much warning time. The escorting fighter would be throwing chaffs to distract it away as well. 
+
+It is possible to build a cruise missile that can targeted other aircraft, however, those will have a large RCS and could be shot down by an escorting fighter. That's why the idea doesn't really lift off.
+[removed]
+Is satellite guided heat signature tracking a thing nowadays? Basically a Low orbiting satellite could detect the exhaust heat of an aircraft and send the position data to an intercepting missile which does the last 2 miles at own radar/heat tracking.
+Satellites will only have a limited window of visibility as they pass over, possibly not enough to coordinate the engagement. You'd also need a lot of them to have sufficient coverage. Closest I've read to that is signals intelligence satellites detecting the radar emissions of warships. As they're slower moving, you can lob a missile in their direction (from an undetected submarine for bonus points) and it'll generally be in the right place when it arrives.
+No worries! I would hate to see someone wander into trouble because they thought it’d be safe. 
+
+The difference is send versus receive.  Pilots want to know when they’re being targeted by shoulder launched weapons as well as big SAM sites. As to how the pilot or the aircraft responds, I would hazard to guess is based on aircraft configuration, model and experience. I would imagine, since the frequencies of police RADAR are known, it is negligible these days. 
+
+The effective range of many modern police RADAR units are usually around a mile, but the actual range the beam can travel is significant (technically infinite, until reflected, refracted or absorbed). This is usually why car RADAR detectors go off for no explicable reason.
+[removed]
+I used to work in the Air Warfare Centre at RAF Waddington (England)... 
+
+&amp;#x200B;
+
+creating packages to load into the RWR systems for Tornado aircraft.
+At peak output they will only be producing 17 per month for the F-35. What is the max they could feasibly produce per month? 50? Let's say 50 planes per month for 2.5 years. That is 1,500 aircraft produced at a cost of $120 billion. 
+
+Individual pilots may take longer to train but you can train thousands of them at a time if necessary. Over the same 2.5 year period you can train 1,500 pilots for just $3.9 billion, a tiny fraction of the cost of the aircraft. Let's include the statistical total value of a human life which is between $7 and $9 million. Let's say they are all really exceptional people worth $18 per head. That is a total net value to society for 1,500 pilots including  training investment, lifetime support to include college, and total lifetime potential future earnings of $30.9 billion dollars.
+
+I'm not saying we should view human life as an expendable commodity ever but as a statistical matter for war planning on average an 80 million aircraft is worth 4 to 7 times as much as the pilot that flies it.
+I seem to fit in better with smaller companies and the only ones that seem to do this stuff are large orgs, unsurprisingly.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+
+Summary:
+... And radar detector detector detectors, and even radar detector detector detector detectors!
+Radar works the same way.
+The pilot controls the movement of the aircraft.
+The missile turns on radar last mile or so.
+I'm also sure it's in use in some aircraft.
+They use both in modern aircraft?
+Depends on the radar system though.
+That's something that pilots are trained in.
+A modern radar on a fighter jet would have no problem picking out a missile.
+And there are also radar detector detectors, for detecting radar detectors.
+Not all missiles require a radar to lock a target to fire, however.
+I wouldnt want it automatically firing, but target tracking would be good.
+Modern fighters still use guns.
+Chaff interfere with missiles that track with radar.
+I work on EW systems.
+Some aircraft like the F-16 have an automatic recovery system that will level the plane out if the pilot passes out.
+But as pointed out some aircraft have a ground collision avoidance system to pull the plane up if the pilot is unconscious.
+Missiles are generally more maneuverable than the planes they are fired at.
+Not counter maneuvers against missiles, no.
+Now you have a pilot and and plane all in one.
+And does the plane have warning of that?
+Planes are generally more expendable than their pilots.
+Low and fast doesn't give you as much time to think of options as high and fast, because the missile doesn't have as much time to hit you.
+The probability of a hit in that mode is very low.
+It depends on what missile you're using for what purpose.
+One plane can lock on the target, and another can fire the missle.
+the plane levels in flight.
+Military aircraft can also automatically release chaff and flares if it detects an incoming missile.
+It could also be something that is targeted directly.
+It's possible but not likely that it would be immediate death.
+the RWR system can tell the difference and will warn the pilot when the mode changes.
+Is that why kills with a missile look like the plane just lets it happen?
+At that point, there's no reason to even have a pilot.
+The only exception might be terrain avoidance used for flying low to the ground.
+I don't know how that information is related to the pilot though.
+Some missiles can fire on targets that have merely been scanned by the radar, and not locked.
+Some planes can automatically take control to prevent a crash.
+So an aircraft has two ways to defeat a missile.
+Fighters rely on several things to evade radar guidance systems.
+With current flight systems  and controls in modern fighters, pilots don't do near as much flying as the electronics do.
+It all depends on the situation.
+It could certainly be detected.
+That analogy worked really well.
+No, this wouldn't be useful, anyway, and if the pilot wanted to make this happen, they can do it on their own.
+Can heat seeking missile hit the aircraft that launched it?
+We are just as aware of the ways to try and defeat missiles as pilots are (probably more so!)
+I am not aware of any that would respond like that because of an inbound missile though.
+A stealth fighter might not turn on their radar at all because doing so also gives away their location.
+Also in most combat scenarios, the missile will hit the engines.
+I would think a missile might be too small to really show up, but idk.
+I don't think that's accurate either.
+The more advanced one certainly could.
+But normally the aircraft will have the option for all action to be pilot controlled.
+Long enough that the maneuver will result in him being shot down.
+You can dodge a missile, but you really need to have advanced warning.
+Depends on what countermeasure system the aircraft has on board.
+What this effectively means is that because the missile is chasing the target it doesnt need to turn as fast.
+That is not the only determining factor of if the missile can maneuver to hit.
+Future combat might not be like that.
+Does that put it in a situation where it can now out turn the aircraft?
+It's not like the plane can choose when the pilot wakes up.
+Pilots have always been harder to replace than planes.
+Seems like that would detect even a remotely guided missile (if such a thing actually existed for air combat)
+Several US planes will stop you flying into the ground automatically.
+Yes, back in Vietnam the idea that a missile only plane the F-4 Phantom was used.
+Turn rate isn't the only determining factor for if the missile will actually hit the target.
+The person with the flashlight can't see this other person, but this other person can see them (or at least the light of their flashlight).
+&amp;#x200B;
+
+Think about it, though.
+Not sure about missiles, but the technology is there to terrain avoidance.
+Though maybe it doesn't matter whether the target knows your radar is pointed at it.
+My issue of drones in war is the removal of the human life as a cost.
+none of the ones I worked on for F16 and F15 did and none of the pilots wanted one.
+Some aircraft are equipped with an automatic ground collison avoidance system.
+A pilot still has a better vantage point?
+You can tell what kind of radar is pointing at you based on that.
+It takes time on the magnitude of seconds.
+However I could see such a system as something that the pilot could initiate.
+The pilot or EWO could select manual or automatic dispensing.
+The decoys mimick the signature of the target aircraft.
+They also auto launch, so when you are comming off the carrier the pilot doesn't actually control the aircraft.
+It is possible to build a cruise missile that can targeted other aircraft, however, those will have a large RCS and could be shot down by an escorting fighter.
+You can tell when the pilot passes out based on his breathing.
+Flares interfere with heat seeking missiles.
+So I don't see why they couldn't also perform evasive maneuvers.
+Does this mean RWR won't pick up radars used in scan mode?
+The end result is an envelope that says "This missile can probably hit this aircraft going this fast if launched from these distances and angles.
+Ans: See point 1 and point 4)  
+4.
+That is exactly how it works, just in a different frequency.
+Imagine trying to evade 100 missiles at once.
+When the radar "locks" (switches from scan mode to tracking a single target), the RWR can tell and alerts the pilot.
+Computers are not smart enough to know how to counter an incoming missile with maneuver.
+However, I'm sure that would be classified.
+But it really makes sense that it is.
+This was in case the pilot blacked out due to high Gs.
+The F-4 was the first fighter that didn't have a gun, it was a disaster.
+The RWR (radar warning receiver) basically can "see" all radar that is being pointed at the aircraft.
+Radar off aircraft fires on the target having been data linked it's location by an AWACS hundreds of miles away.
+The airframe's performance can kill a human, but the computer wont let it.
+There is a big difference between blacking out and getting knocked out.
+Just having a RWR does not automatically mean a pilot has a clear picture of all radar activity in the area.
+The countermeasure to these will likely be towed decoys which are already available to combat aircraft.
+Certain frequencies are good for searching for a target but not good enough to guide a missile to hit a target.
+Depends on the frequency of the laser being used.
+When I was in Iraq, we had infrared based missile warning systems on our helicopters.
+The real problem here is not cost its the lead time training a new pilot and experience loss from losing the first one.
+Some modern fighters like the F16 and F/A18 trialed systems that would save the pilot from hitting the ground completely automatically.
+The only reason to use canons is when the enemy is within the minimum range of your missiles.
+Even the ones who know what they are talking about are still operating from armchairs ^_^
+Not sophisticated enough for target tracking.
+That's really cool, but IR is strangely not what I would think of in RF Radar.
+now imagine they're pointing the flashlight in your eyes and keeping it there as you move - that's track mode and what is called radar lock.
+Some aircraft however, can, if you want them too, start spewing out chaff and flares if the missile launch warning goes off.
+Also, pulling the chute totals the plane.
+This is detected by the RWR as a large, continuous radar waveform.
+AWACS continues to data link the missile until the seeker sees the target.
+They use systems like that on ships and vehicles.
+Even without the pilot to consider it is still much bigger and slower.
+I've read that some aircraft will automatically level out if they sense the controls are released.
+The missile has way greater thrust to weight ratio so its maneuverability and speed is much better than a fighter aircraft.
+The search radar is pulse and the tracker is CW (at least on the last system I worked on).
+Taking it a bit further, different radars operate on different frequencies.
+At that point, though, you might as well just build a combat drone.
+It can pick them up but the point is that it can detect the change in mode from scanning to tracking, and alert the pilot of the immediate danger.
+You could only use them if you bailed out of your plane while it was straight and level, as far as I remember.
+He might be out for seconds or minutes.
+There are some situations where the plane can take actions if the pilot is unresponsive for a short time, such as [AGCAS](https://www.youtube.com/watch?v=WkZGL7RQBVw).
+The plane would be incapable of outmanuvering the missile anyway.
+Not even S-400 could pull that range off.
+The one above that thought specified fighter kills and of course a helicopter is not.
+I have no idea how this works with AESA systems since they scan ridiculously fast all the time.
+Not sure if anyone had mentioned this but there was a US jet shot down in I think was Bosnia by an anti aircraft gun with radar detection.
+The dispensing system was tied to the RWR system.
+Even if they couldn't reliably kill AWACS it would force them to evade and be less effective.

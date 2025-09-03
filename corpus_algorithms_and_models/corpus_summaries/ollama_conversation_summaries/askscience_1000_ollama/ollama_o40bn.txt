@@ -1,0 +1,37 @@
+Here are the selected sentences from the original text:
+
+Any point that's not on either axis is a complex number.
+
+As simple as that? Huh.
+
+Oh, most definitely. Even better: rotations in the complex plane correspond to algebraic multiplication.
+
+So let's say I draw some number Z in this way. Now I multiply this number by i: i*Z = i*a - b. Remember, i*i = -1. If you draw this number in the same way as the previous one, you can see that you rotated the arrow 90 degrees counter clockwise.
+
+In general, you can multiply any complex number with a number of the form Cos[phi] + i * Sin[phi] and rotate it phi degrees counter clockwise.
+
+Oh! I understand. Well, that's interesting.
+
+Complex numbers are quite awesome. I'm not a mathematician, but I believe that as far as numbers go, they're the most fundamentally important set.
+
+No, you can also scale them, by multiplying them with a real number (imagine this as making the arrow longer or shorter) or translate them by adding complex numbers (like adding vectors, you just put them head to tail).
+
+Complex numbers are quite awesome. I'm not a mathematician, but I believe that as far as numbers go, they're the most fundamentally important set.
+
+Let's say you wanted to integrate the following function on the entire real line (that is, from -infinity to infinity):
+
+f(x) = 1/(1+x^2 )
+
+Alright, so what we do now is replace the x in this function by z (meaning any complex number, whereas x would mean any real number).
+
+The theorem I linked to says roughly the following:
+
+If you try this for the function I wrote above, you would end up with
+
+Integral[1/(1+x^2 ), -infinity, infinity] = arctan(infinity) - arctan(-infinity)
+
+We are left with the value of the integral on the entire real line, which is what we were looking for.
+
+That page has a nicely worked example of what I tried to explain above (apart from another square).
+
+Let's be careful with terminology: a two-dimensional vector can be used to represent a *complex* number, which is the sum of a real number and an imaginary number.

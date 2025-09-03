@@ -1,0 +1,82 @@
+Original Response: 
+If the Earth vanished, the moon will simply continue orbiting the sun with minor changes to its current trajectory.
+Since the moon is currently orbiting the Earth, its velocity relative to the sun is already close to the orbital velocity required to maintain an orbit at this distance.
+It won't fall into the sun.
+[removed]
+The effects of gravity are felt at light speed correct?
+[removed]
+[removed]
+[removed]
+Any change in gravity will propagate at the speed of light.
+Cool, I have more questions, but I don't want to take more of your time.
+[removed]
+The fun thing about the Internet is that if you post your question, I'm not the only one that's able to respond.
+[removed]
+So if I have two stars, one light year apart, and this is more of a though experiment than an actual situation, and they wink into existence at the same time, It would take one year for those stars to have any type of gravitational force on each other?
+And to expand, from the perspective of each of those stars, would the other one not even "exist" for the first year since their light would need a year to travel to the other one?
+I suppose that's a variable I did not take into consideration.
+Perhaps I overestimated the influence the Earth has on the moon simply because it's so close to us.
+Makes me think of all the other variables like what if the earth vanished when the moon was in orbit away from the sun as opposed to moving toward it.
+Altenratively if it made a full stop before being affected by gravity again.
+Thank you for your answer!
+[removed]
+In that hypothetical scenario, yes.
+The earth orbits the sun with a speed of ~30km/s.
+The moon orbits the earth at ~1km/s.
+So if the moon is going "forwards" when earth vanishes, it has an orbital velocity of 31km/s around the sun, if it goes "backwards" in that moment, it's 29km/s.
+So it would only get to a slightly different orbit depending on the time earth vanishes.
+Movement perpendicular to its current direction (towards the sun or away) will only make the orbit more elliptical, but the average orbiting distance stays the same cause the speed stays the same.
+To fall into the sun, a body needs to get rid of all the speed it's currently orbiting with.
+Earth's orbital speed round the Sun is 30 km/s .
+The Moon's orbital speed round the Earth is 1 km/s.
+So if the Earth vanished, the Moon's orbital speed round the Sun would be between 29 and 31 km/s, not a huge difference.
+(I think that wouldn't be enough to make the Moon cross the orbits of Venus or Mars but I'd need to check.)
+For other moons the effect could be more dramatic.
+Io and Europa orbit Jupiter faster than Jupiter orbits the Sun, so if Jupiter vanished then those moons could be put on an escape trajectory, or a retrograde orbit round the Sun, or if the position is just right they could impact the Sun after Jupiter's disappearance.
+Suppose the Moon, or the Earth, or any object significantly less massive than the Sun winked into existence 1 AU from the Sun, with a heliocentric velocity of zero.
+Ignoring the minor effects of the other planets, that object would immediately begin accelerating toward the Sun at puny 5.93 mm/s^2.
+As the object approaches the Sun, its acceleration and speed increase further, decreasing its distance even faster, in a positive feedback loop.
+Q.
+So how much time will elapse before our magic object impacts the Sun's photosphere ?
+A. TBD.
+&gt;If the Earth vanished, the moon will simply continue orbiting the sun with minor changes to its current trajectory.
+To put numbers on "minor changes":  the Moon would enter an elliptical orbit whose distance from the Sun was never more than 14% different from if the Earth's orbit now.
+Whether it would go closer to the Sun or farther depends on where the Moon was in its orbit when the Earth disappeared, but it wouldn't get anywhere near Mars or Venus.
+[https://en.wikipedia.org/wiki/Vis-viva\_equation](https://en.wikipedia.org/wiki/Vis-viva_equation)
+Using Kepler's 3rd law, an elliptical orbit that just intersects the sun would have an orbital period of 1/2^(3/2) years, so half of that is 1/2^(5/2) years or ~65 days.
+That's how long it would take for a stationary object from the distance of Earth's orbit to collide into the sun.
+&gt; Altenratively if it made a full stop before being affected by gravity again.
+It would fall straight towards the sun and collide with it in about 65 days.
+See my other comment below for details.
+Hypothetically yes, but in any real-life scenario all the matter and/or energy constituting that star would have to come from somewhere, so you never see a sudden jump in gravity in nature.
+I was skeptical of the crossing Venus or Mars thing, but on further research yes, reaching Venus requires about 640 m/s extra velocity past Earth escape, and reaching Mars 1060 m/s, so there could be a risk of a collision if this happened at just the right time.
+[removed]
+If the Earth disappeared, wouldn’t there be a huge mass change in the Earth/Moon system?
+Less mass in the system would mean that it would have less mutual attraction between the Sun and moon.
+So a system which is now experiencing less mutual attraction, which is now traveling faster than it should be.
+It would fly away from the sun, wouldn’t it?
+[removed]
+The mass of the earth and/or moon is nothing compared to the mass of the sun so the mutual attraction stays roughly the same.
+The escape velocity from the sun does not depend on the mass of the object orbiting it, assuming the object has no significant mass compared to the sun.
+Escape velocity from the sun from earths position is about 40 km/s and earth/moon orbit is 30 km/s so you need at least 10 km/s extra in the right direction.
+[removed]
+[deleted]
+All the mass/energy in a black hole had to be in the area in the first place.
+So if an object is outside of that collection of mass before formation (and at a constant distance from the center of mass of that system), then after formation the gravity will be the same.
+So it’s pretty balanced out then aye.
+Cool, thanks!
+Yes.
+Outside of the original object the gravitational attraction stays the same when the object collapses to a black hole.
+Black holes are just special because you can now get much closer to all that mass.
+
+Summary: 
+The moon orbits the earth at ~1km/s.
+The earth orbits the sun with a speed of ~30km/s.
+Earth's orbital speed round the Sun is 30 km/s .
+It won't fall into the sun.
+The Moon's orbital speed round the Earth is 1 km/s.
+It would fly away from the sun, wouldn’t it?
+So it would only get to a slightly different orbit depending on the time earth vanishes.
+For other moons the effect could be more dramatic.
+That's how long it would take for a stationary object from the distance of Earth's orbit to collide into the sun.
+Any change in gravity will propagate at the speed of light.

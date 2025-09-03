@@ -1,0 +1,287 @@
+Original Response:
+Is there any scientific evidence to show "lower" quality liquor leaves someone more susceptible to hangovers?
+Quality... not that I am aware of. Even in relatively nasty bootlegged Ukrainian booze (just as an example) there seems to be little evidence that bad stuff (e.g. methanol, acetyladehyde) reach particularly nasty levels. (http://www.ncbi.nlm.nih.gov/pubmed/20638436).
+
+It seems far more likely that the type of booze you drink has an effect:
+
+And as a deeply proficient drinker, I always think it goes like this: If a hangover was a noise, the amount of alcohol you drink decides the volume. The type decides the timbre. The citation below kinda agrees with me. The amount of alcohol is the biggest factor. Other things just swing it slightly one way or the other.
+
+Check out
+http://www.ncbi.nlm.nih.gov/pubmed/20028364
+http://www.ncbi.nlm.nih.gov/pubmed/20712591
+[deleted]
+Yeah. That is what I'm talking about. I.e. the first study shows that there is a limited amount of patently toxic compounds, other than alcohol. The second study then says that drinking spirits with high levels of "congeners" i.e. random organic compounds produced during production, cause worse hang overs. But this has little to do with the "quality"...
+
+Though of course, internationally, at the very bottom end of "quality" you do just get plainly toxic booze.
+
+http://www.onenewspage.co.uk/n/UK/74myxyktb/Bootleg-toxic-alcohol-spiked-with-methanol-kills-126.htm
+There will be more variety of unwanted chemicals in a fine whisky than in cheap vodka. The amount of bad stuff (non-ethanol alcohols like methanol) will vary more between types of drinks than over their pricetags.
+edit: when I say unwanted I of course mean unwanted in terms of hangovers, not that I want less complex whisky as a person
+[deleted]
+While this doesn't strictly pertain to your question as it relates to hangovers, the following study finds that, "A possible risk factor is the consumption of illegally produced home-made spirits in [Central and Eastern Europe] containing varying amounts of aliphatic alcohols and which may be hepatotoxic... The results suggest that the consumption of home-made spirits is an additional risk factor for the development of alcohol-induced cirrhosis and may have contributed to high level of liver cirrhosis mortality in Central and Eastern Europe."
+
+http://onlinelibrary.wiley.com/doi/10.1111/j.1360-0443.2005.01009.x/full
+
+Alternatively, just look up [alcohol congeners](http://lmgtfy.com/?q=Alcohol+congeners).  You'll find more articles that relate to their contribution to hangovers.
+[deleted]
+Interesting. What is it about the home production of alcohol that encourages a higher percent of hepatotoxic alcohols? Is it the yeast? The fermentation temperature? It's not the method of distillation, because wine and beer don't need to be distilled.
+[deleted]
+While it was nice if you to take the time to type out your experience, please see the sidebar: "Personal anecdotes and layman answers are not acceptable posts."
+[deleted]
+I considered that to be at least partially informative. I mentioned multiple kinds of alcohol, at least.
+Yes. Lower quality liquor has a higher methanol content as an impurity, among other ones that may cause unwanted effects. For more details, see this simple piece: [http://pubs.niaaa.nih.gov/publications/arh22-1/54-60.pdf](http://pubs.niaaa.nih.gov/publications/arh22-1/54-60.pdf)
+[deleted]
+Hangovers are not just caused by dehydration, but by the metabolites of alcohol, notably acetyldehide.
+[deleted]
+I beleive that the body also has a very limited store of the enzyme that breaks down acetyldehide.  Which is why after going on a bender for several days those hangovers start to add up.  Plus the eventual onset of withdrawl symptoms - which I can assure you - suck balls.
+[deleted]
+[deleted]
+[deleted]
+Yes, but I'm sure what the OP means is the difference between a $10 bottle of vodka off a store shelf in a first world country versus say a $60. (adjust for liquor prices/currencies)
+
+In these situations, you're not going to see any of that sort of thing.
+[deleted]
+[deleted]
+[deleted]
+Given that separation of trace amounts of methanol from ethanol is extremely difficult, I would not expect cheap alcohol to be completely methanol free. Below toxic levels - yes. Enough to cause a stronger headache in the morning? Yes again.
+
+Can't find any supportive evidence online right now, but during my undergraduate studies my organics professor told me that traces of methanol can be found in many cheap vodka bottles and that if I have a spare gas chromatography setup at home I can test it. I didn't have one so I didn't test it.
+Don't blame the yeast
+[deleted]
+[deleted]
+[deleted]
+The fact that it's bootleg causes this. Without proper equipment and rigid adherence to production guidelines, making a safe product is difficult. Same goes for meth.
+I've never heard of anyone getting a hangover from drinking several cups of cranberry or orange juice though.
+[deleted]
+This, plus the fact that since it's cheaper, you can afford to drink more of it. There may be some additional effects from the liquor itself, but I think it has more to do with the way it's consumed rather than its chemical makeup.
+That's a non-answer. What violated production guidelines would cause the formation of undesirable alcohols?
+&gt;Enough to cause a stronger headache in the morning? Yes again.
+
+I'd like to see a citation showing methanol in any capacity can cause headaches.
+[deleted]
+The levels of methanol  present should have almost no effect. Ethanol competitively out binds methanol.
+&gt; Sugar contribute heavily to your hangover (part of the reason why wine gives such bad hangovers)
+
+wine has very minimal sugar in it
+[deleted]
+[deleted]
+You probably haven't seen too many people dehydrated after several cups of orange juice either though. I think this calls for a study of pure ethanol cut with water to test the effects. 3 groups: water only, ethanol/water mix, same ethanol/water mix with additional water to stave dehydration. I wonder if I can get a government grant for this.
+From what I remember from the mandatory college drinking course, it's the sugar *in combination* with the alcohol. Drinking cranberry juice and vodka is more likely to cause a hangover than just straight vodka.
+That's interesting, what about kinetics?
+&gt;...in any capacity
+
+Please help me with the english, you are referring to minute concentrations, right? because in large concentrations headaches will definitely be there.
+[deleted]
+hrm... I don't know off the top of my head. I just know if you go to the hospital with methanol ingestion issues, they will give you an IV of what is essentially vodka. If your poisoning is acute, it will take up to 36 hours of being constantly drunk to cure your ills.
+i thought it was pretty obvious what i meant: sugar+alcohol=hangover
+
+obviously sugar by itself won't give you a hangover...
+unless it's super dry there's a lot of sugar in wine
+[deleted]
+Which also hints at the thermodynamic limit. You can't tell about any kinetic effects from that. Hell, if you can prove that it is the trace amounts of methanol alone that cause hangovers you'd be filthy rich.
+some studies I read of showed that cheaper liquor had, aside from methanol levels, also significantly higher contents of [fusel alcohols](https://en.wikipedia.org/wiki/Fusel_alcohol), which will "enhance" your hangover, and not in a good way.
+My understanding is that hangover is mostly caused by dehydration that can often be severe. 
+
+I'm not an expert, but my understanding is that diuretic effect of alcohol comes from suppression of  vasopressin hormone. When  vasopressin is suppressed, drinking water  will not hydrate body because  kidneys send water to  bladder. Vasopressin supression is based on the alcohol content of  blood and not the alcohol content of the drink.
+I believe this is because the fructose half of sugar is processed almost entirely by the liver, thereby decreasing the liver's ability to process alcohol.
+Alcohol contains long chain alkaloids that greatly contribute to hangovers. Filtration via activated carbon typically reduces this effect greatly because the harmful molecules are absorbed by the carbon. Many studies have been performed where the cheapest vodkas have been filtered numerous times through activated carbon to achieve a final product indistinguishable from expensive vodkas by professional taste testers. [Although Mythbusters disagrees](http://www.youtube.com/watch?v=kO077nu2m5E)
+
+To save the time of home filtering, many liquors are distributed without a significant amount of filtration, leading to the "cheap liquor hangover".  Top shelf liquors are often filtered more to achieve a smoother, less toxic effect. See black label [Jack Daniels vs. Gentleman Jack](http://en.wikipedia.org/wiki/Gentleman_Jack), for example.
+My understanding, from reading that i did while studying home distilling is that when you make poor choices in your "cuts" of which distillate to toss out you can get more of these unwanted organic compounds. In general, during the production of low quality alcohol cuts are made a little wider than necessary, to get more total volume output. So it's low quality alcohol that has more of these chemicals.
+I try to give a reasonable answer and it gets downvoted to oblivion. Top poster has a story about Ukrainian booze and compares hangovers to different sounds? Logical.
+The good thing about drinking traces of methanol with your ethanol is that the latter is an antidote for the former. Ethanol and methanol are both metabolized in the liver by the enzyme alcohol dehydrogenase. Unfortunately, methanol is tranformed into the toxic formic acid by this process. Since ethanol is not metabolized into anything quite so toxic, one can overwhelm this enzyme by consuming a significantly larger fraction of ethanol, forcing the methanol out through the kidneys and bypassing the formic acid.
+There are simpler ways to poison someone than to find your Reddit comment and brew/distill methanol. Please continue.
+Either way, hydration is the cure.
+I was under the impression that a hang over is basically just dehydration and lack of sleep so if you drink a glass of water for each drink of booze and go to bed instead of passing out you'll be fine.
+
+The way you put it sounds more like drinking == hangover, unavoidably.
+I mean at all. I don't know much about the effects of ingesting menthol, but I would expect large concentrations to make one pass out or vomit, not necessarily cause headaches.
+Here's [a link to an article about a study](http://news.bbc.co.uk/2/hi/health/8416431.stm) that suggests that it is the congeners in the drink that are responsible for this phenomenon.
+That is not true, unless the sugar is something like mannitol.  The types of sugar used in spirits are absorbed from the digestive tract and metabolized.  Healthy humans do not excrete things like sucrose in urine.
+[ctrl+f headache](http://en.wikipedia.org/wiki/Methanol)
+The proper name is acetaldehyde btw...  Call me a chemo nazi
+Top poster has cited two published sources, you give anecdotal experience as a non-expert in the field.
+
+It's not personal, please don't take it as such.
+This is ask science. Not ask me to make up something.
+I actually learned about this in my botany class, and the answer is yes!
+According to my professor, this is how lower quality alcohol gives you a worse hangover.
+First let's review how alcohol is produced. In the fermentation process yeast eats sugars and produces CO2 and Ethanol. When you drink alcohol, your body easily breaks down the ethanol into Acetylaldehyde, a substance that breaks downs into sugar and fat and whatever else with no problems.
+HOWEVER!
+In low quality alcohol there is often a lot of other bacteria present during fermentation. These bacteria eat sugar and produce METHANOL (as opposed to ethanol), and when that is broken down by your body it is turned into FORMALDEHYDE. Meaning when you wake up in the morning you feel bad because you are "partially embalmed". 
+That's how it was explained to me in class. 
+I hope that helps.
+What about sugars from mixers?
+[deleted]
+[deleted]
+Alright, thanks!
+There's not a problem that I can't fix 'cause I can do it in the mix
+and if your man gives you trouble gets to move out on the double
+and you don't let it trouble your brain
+'cause away goes trouble down the drain
+said away goes trouble down the drain… well alright
+[deleted]
+When you ingest sugar (regardless of whether it's in solid food or in solution in a liquid), your body metabolizes that sugar.  Sugar is a very available form of energy that your body can readily process.  As Xenophon said, healthy humans do not excrete unprocessed sugar.
+Not necessarily.  If you're still very drunk when you go to bed, despite having drank a lot of water, and then stay asleep for a full night, you can easily still be hung over and dehydrated in the morning.  You need to get up every few hours and continue chugging water.  This is why it's oftentimes a good idea to stay up a bit longer and let the drunkeness fade instead of passing out immediately.
+Methanol (or products extremely high in methanol) can be purchased at automotive supply stores quite easily. Don't worry, you're only providing an extremely time-consuming and circuitous method of poisoning someone.
+How does sugar do that? Doesn't it have to do with a salt gradient and the amount of aquaporins, not sugar?
+No need to downvote legit questions...  The sugars from the mixers are metabolized in the digestive tract as well - it doesn't matter which drink the sugars come from.
+Sugar used in foods is usually sucrose (table sugar, used in "throwback" soda and what you find in those bags of sugar in a grocery store), or HFCS.  Sucrose is a dissaccharide of one molecule glucose and one molecule fructose, but your body hydrolyzes that disaccharide bond very quickly so you end up with 50/50 mix of monosaccharides.  HFCS is a mixture of 55% fructose monosaccharides and 45% fructose monosaccharides.
+
+Both fructose and glucose are absorbed in the small intestine and then metabolized.  Our bodies have an incredible capacity to absorb these- up to 20 lbs per day!
+So does that mean that mixing your drinks (e.g. beer, then whiskey) doesn't really cause hangovers?
+Now on the other hand, when you do shots of Tequila with salt, that will dehydrate you more. Not sure if it'd be significant though.
+&gt;The initial symptoms of methanol intoxication include central nervous system depression, headache, dizziness, nausea, lack of coordination, confusion, and with sufficiently large doses, unconsciousness and death. The initial symptoms of methanol exposure are usually less severe than the symptoms resulting from the ingestion of a similar quantity of ethanol.[4] Once the initial symptoms have passed, a second set of symptoms arises, 10 to as many as 30 hours after the initial exposure to methanol, including blurring or complete loss of vision and acidosis.
+
+
+Interestingly, the headache is in the initial set of symptoms, not the later set.
+I learned that acetaldehyde is no longer present in the body once BAC reaches zero. So would anyone happen to know how acetaldehyde contributes to the hangover?
+You can buy precursors the most potent poison known to man for $5 on amazon. Talking about alcohol poisoning is relatively insignificant.
+Right. That's just an urban myth. The reality is probably just that you tend to drink more when you're mixing your drinks.
+what about the timing? does it matter if I drink stronger alcohol after or before a beer for the volume and timbre of my hangover?
+[deleted]
+What about the effects of high-quality white vs. brown liquors, such as a top shelf vodka vs. a similar quality whiskey or tequila? My understanding has always been any adjunct (e.g., flavoring) may constitute an "impurity" that would comparatively contribute to a hangover.
+You could have an alcohol inolerance to shitty booze,
+[deleted]
+Even expensive vodkas aren't methanol-free. Methanol is a key component to the taste. The level will be very precise and in the low ppm, but it won't be zero.
+Can someone tell me why tequilla gives me a colossally gargantuan hangover complete with the yarfs and joint/organ pain but the same amount of VODKA leaves me feeling a bit unpleasant but still mostly human and not like a car-crash-victim?
+[deleted]
+[deleted]
+So how do you explain White Russians?
+Not really...  Part of what gives whisky its unique flavour is the presence of 'rotgut' as it were.
+
+I believe that in general, the darker the liquor, the more rotgut it contains.
+The milk is going to curdle from your stomach acid long before the tequila gets to it.
+I would love to see someone with access to a Mass Spectrometer review a bunch of liquors and give a scientific, chemical analysis of the actual differences.  What exactly is in each one, in what percentages, etc.  Why hasn't someone already done a review site like this?  I'd love to see a chemical comparison between stoli, gray goose, ketel one, etc.  Honestly, vodka is supposed to be just water and ethanol.  So the ideal vodka would be the purest water and the purest ethanol.  An analysis in a mass spec could prove once and for all which is truly the best vodka.
+Layman here, but vodka is judged based on how pure it is, how close to only ethanol and water.  The best vodkas are the best filtered/purified ones.   Some of the things that give you a hangover also contribute to the flavor of the alcohol.  Tequila probably has a few different compounds which make you really sad.  People who get massive headaches from drinking alcohol often have an increased sensitivity to these other compounds.  Some people can only drink vodka or risk a massive headache, I mean not a hangover but a quickly arriving pain.
+Actually a lot of alcohols will make you intoxicated, ethanol is the least toxic of them.  As is it takes a lot of ethanol to kill your liver, drinking a few milliliters of methanol will turn you blind.
+While this is a terribly phrased answer, he has a point that cheap booze often contains impurities to which some people are extremely sensitive.
+&gt;Filtration via activated carbon typically reduces this effect greatly because the harmful molecules are absorbed by the carbon. Many studies have been performed where the cheapest vodkas have been filtered numerous times through activated carbon to achieve a final product indistinguishable from expensive vodkas by professional taste testers.
+
+Source?
+
+My understanding has been that distilled spirits are purified through the process of (fractional) distillation. The only use of "activated carbon filtering" I've heard of is with certain bourbons, but it seems that that process is more about imparting a distinct flavor rather than removing impurities.
+
+I'm also skeptical because activated carbon is sometimes used as a treatment for people suffering from alcohol poisoning (although it doesn't seem to be a preferred method) so that makes it likely that AC adsorbs a significant amount of the ethanol.
+Well, Russia isn't exactly tropical.
+&gt; HFCS is a mixture of 55% fructose monosaccharides and 45% fructose monosaccharides.
+
+So what do you get if you alter this ratio of fructose monosaccharides to itself? Salt?
+I too am a layman, but I think the difference in hard alcohols is more due to the distilling process and further purification.  Methanol and other unwanted chemicals will often form during fermentation, and must be removed.  If you leave it in it can cause blindness, though I am unsure of the metabolism of it.
+Ohh, i thought it was the aspartame breakdown into methyl alcohol that caused this effect.
+Yes, but there's no guarantee that more expensive alcohol manufacturers are making better cuts than cheap ones.
+well... hydration helps the symptoms, the cure is not getting drunk to begin with...
+If you have any questions regarding methanol and other poisons that show up in or were added to alcohol during prohibition i suggest reading The Poisoner's Handbook.
+Wow lol 6 downvotes. I recall from my use and effects of drugs that it was how I said with regards to the artificial sweetener. Aspartame = artificial sweetener which is what I meant when I said artificial sugar if that was not clear. 
+
+I also seem to recall that they did not know the exact mechanism of why diet drinks get you more drunk. Perhaps this has changed in the past few years. 
+
+Finally you can take it to the bank that any fruity alcohol will get you more hung over, theres no question. Drink a bunch of wine versus beer, or wine versus comparable amounts of liquor. You will be hurting quite a bit more. Experience doesnt lie.
+Eh, i try to stick to quality scotch, treats me just fine the next morning..
+Source: http://homedistiller.org/polish.htm
+
+Activated carbon filtration is used by the majority of home distillers. You will even see on some commercial bottles that the spirit has been purified through activated charcoal several times. You're partly correct in that fractional distillation is indeed the primary source of purification, however, activated carbon of any sort will work too, it's just a lot more bulky and tedious than fractional distilling.
+its about quantities too. If you can sip a nice scotch and call it a night you sir have it made. If you are like most people and once you start drinking are completely compelled to drink that entire bottle, look right the fuck out. Guess that goes without saying though.
+I don't understand.  Salt is a crystal lattice of Na+ ions and Ca+ ions.  Sugars are complex molecules composed of many atoms, and in cases of molecules like glycogen they can be composed of hundreds of thousands of atoms.  There is really no relation between the sugars and salt.
+
+Things like apples tend to be very high in fructose relative to glucose.
+of course.. and i find when drinking a fine scotch, i drink much less, 1 or 2 glencairns at the most... anymore and ya might as well switch to jamisons...
+In my limited personal research, there are three main factors that "help" you experience a hangover.
+1) Dehydration
+2) Acealdehyde build-up
+3) Cogeners.
+
+Only the last one is dependent upon liquor quality, as the first two occur due to the metabolism and presence of ethanol in the human body.
+
+Drinking a liquid containing electrolytes such as pedialyte or gatorade after drinking but before going to sleep helps negate the issue of dehydration by restoring (at least partially) the electrolytes urinated out.
+
+A compound sold as a dietary supplement (acetylcysteine) helps out acetaldehyde metabolism by topping off what is used in your liver during metabolism of alcohol (the compound is used in acute paracetamol poisoning). Since chronic alcoholism leads to increased toxicity of paracetamol, this fits with the assumption that drinking too much bottoms out the liver's ability to completely metabolize ethanol, leading to excess build-up of acetaldehyde.
+
+Finally, cogeners are least present in vodka. Gin is also low, while the characteristic flavor of whisky and brandy is due to the presence of these. 
+
+One night, try drinking vodka, and before bed supplement with a gatorade and acetylcysteine. Hangovers should be minimal, if even existant.
+The Mythbuster thing is about turning cheap crap into expensive tasting stuff. The higher end alcohols use better quality ingredients in the production process than low end rotgut. They produce a higher quality product even before the filtration. A crappy product can't be made as good as high quality ones.
+[deleted]
+[deleted]
+[deleted]
+Aw man, if only I didn't leave my hard drive at school! In October, we did a GC analysis of Jim Beam, Johnny Walker, and Jack Daniels testing for 1-propanol, 2-methyl-1-propanol, and something else that I don't remember. IIRC, one of them had a ridiculously high concentration of 1-propanol compared to the other two.
+So my high tolerance means I am hearing impaired.
+
+Makes me wonder who the Daredevil of drinking would be.
+bullshit, where are your sources?
+First off, nobody understands what causes hangovers. We have a few theories, but at this point it seems unlikely to be just 1 problem. I can go into a "pathophysiology of hangovers" if anyone's interested, one of the more interested medical things we all experience.
+
+There is data to suggest that congeners (mainly dark alcoholic drinks) don't cause hangovers, but can worsen the severity of them. Interestingly, it could partly explain the common clinical observation that most chronic alcoholics drink clear liquor.
+I don't see how it could.
+Mass Spec doesn't quite work like that...
+
+But people have done things like that. But you could get in a lot of trouble if you made a mistake in some of your percentages and ranked one booze ahead of another for something nasty.
+
+Also, vodka is not supposed to be just ethanol and water.
+What exactly does Tequila have that vodka doesn't that would make you hungover? 
+
+My knowledge of hangovers:
+
+They are caused by the water/ mineral balance in your brain.
+
+Reduced by:
+
+Intake of water before or during drinking.
+
+Enhanced by:
+
+The consumption of sugar in your drinks (like soda, sugar water dehydrates you).
+
+Reduced by:
+
+Certain minerals like vitamin B.
+
+Wikipedia agrees:
+
+&gt;Vitamin B6 (pyritinol): Some studies have found large doses of Vitamin B6 (several hundred times the recommended daily intake) can help to reduce hangovers.[21][23]
+
+Also, from my copious drinking experience, having a 5-hour energy before or during drinking effectively prevents hangovers (it has 2000% of Vitamin B6). Whether or not this is a sort of placebo effect is unknown, but everyone else I know has reported the same findings.
+[deleted]
+In Bulgaria where I'm from, we knew people have died from drinking bad booze. It is no myth, it's a fact. Also, hangover depends a lot on the quality, I can guarantee.
+Alright, let me try to sum this all up starting from the beginning. In distillation you are concentrating alcohols, talking an 8% beer to a 80% whiskey or 12% wine to 70% grappa. Now in the case of vodka start with anything and distill it up to 95% Vodka by definition must be distilled up to 190 proof. When alcohol is that concentrated it makes it easier to separate the congeners out, the lowest boiling point alcohols will be the first out of the still, these include, methanol, isl-propyl alcohol and acetone then the ethanol in the center (the part we drink ) and lastly the fusil alcohol. At 190 proof these are more easily extracted, the lower the proof the the more of those congeners are bonded to the ethanol, so vodka by nature will always give you the least hangover.  Filtration can play a factor, generally vodka is filtered with activated carbon, you can over filter, and filtering with diamonds and crystals is a load of BS, with the case of whiskey minimal filtering is preferred, why age something for years just to filter out the flavor.  If you want smooth whiskey drink vodka or blended whiskey most blended whiskys are predominantly vodka. Now within the vodkas there will be a difference in quality. Just because some thing is "top shelf" does not mean quality there are a lot of companies spending a lot of money on marketing sub standard products, if you are in for mostly profits you will be leaving in more of those "cuts' to save on waist. So that's one factor, sugary mixers are also contributing factors, a lot of bars use some pretty nasty mixers like sour mix and that nasty Cherry juice from you cherry garnish that have a lot of artificial stuff, take a minute to read the ingredients on some of them and BTW "natural flavor" is not regulated by the FDA it could be anything. And lastly dehydration is a major factor as well.
+I think it might contain more of the larger alcohols, those with more than 2 carbon in them.
+lol precisely
+people need to learn to just read between the lines here
+Oh and I'm a she.  I speak from experience.  When I drink certain cheap domestic beers, I get red face like WOAH, but it's not all beer.
+
+Summary:
+I didn't have one so I didn't test it.
+I don't see how it could.
+So it's low quality alcohol that has more of these chemicals.
+Some of the things that give you a hangover also contribute to the flavor of the alcohol.
+Also, vodka is not supposed to be just ethanol and water.
+Also, hangover depends a lot on the quality, I can guarantee.
+beer, then whiskey) doesn't really cause hangovers?
+The amount of alcohol is the biggest factor.
+The levels of methanol  present should have almost no effect.
+My understanding is that hangover is mostly caused by dehydration that can often be severe.
+does it matter if I drink stronger alcohol after or before a beer for the volume and timbre of my hangover?
+Quality... not that I am aware of.
+Ethanol and methanol are both metabolized in the liver by the enzyme alcohol dehydrogenase.
+Actually a lot of alcohols will make you intoxicated, ethanol is the least toxic of them.
+So does that mean that mixing your drinks (e.g.
+I think this calls for a study of pure ethanol cut with water to test the effects.
+Reduced by:
+
+Intake of water before or during drinking.
+First off, nobody understands what causes hangovers.
+In low quality alcohol there is often a lot of other bacteria present during fermentation.
+The amount of bad stuff (non-ethanol alcohols like methanol) will vary more between types of drinks than over their pricetags.
+People who get massive headaches from drinking alcohol often have an increased sensitivity to these other compounds.
+What about sugars from mixers?
+Lower quality liquor has a higher methanol content as an impurity, among other ones that may cause unwanted effects.
+The fact that it's bootleg causes this.
+First let's review how alcohol is produced.
+I don't know off the top of my head.
+I'd like to see a citation showing methanol in any capacity can cause headaches.
+I think it might contain more of the larger alcohols, those with more than 2 carbon in them.
+The second study then says that drinking spirits with high levels of "congeners" i.e.
+The way you put it sounds more like drinking == hangover, unavoidably.
+The types of sugar used in spirits are absorbed from the digestive tract and metabolized.
+the first study shows that there is a limited amount of patently toxic compounds, other than alcohol.
+There is really no relation between the sugars and salt.

@@ -1,0 +1,6 @@
+Ethanol's vapor pressure is only 5.95 kPa at 20 Celsius.  
+Azeotrope refers to the point where composition of the solution and the composition of the vapour in equilibrium with it are equal.  
+If the water has a tendency to go with the alcohol in equal parts (i.e. strong azeotrope) then the concentration should stay the same regardless whether evaporation has occurred.  
+correct me if I'm wrong, but ethanol/water have an azeotropic ratio of approx. 95.5%/4.5%...meaning that distillation (or evaporation) will result in a distillate that has higher EtOH concentration, leaving the leftover solution with less.  
+The azeotrope of water/ethanol mixture, as justthedeets has mentioned, is near 95% ethanol, which is beyond the usual concentrations of alcoholic beverages. At any concentration below that, evaporation will decrease the concentration of ethanol in solution.  
+You are correct. Quarkster's main point is that the headspace of your bottle and the vapour pressure of ethanol are sufficiently small for changes in concentration in the solution to be significant.

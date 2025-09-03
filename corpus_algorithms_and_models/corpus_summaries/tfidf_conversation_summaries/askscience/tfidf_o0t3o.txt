@@ -1,0 +1,76 @@
+Original Response:
+I notice that sometimes bigger animals seem to live longer, but then I think about how many domestic cats can live 20+ years, but most domesticated dogs live only around 10 years, so that seems to negate my thought.
+
+Any insight into this question would be much appreciated.
+I read that wildly disparate animals, from hummingbirds to tortoises have roughly the same number of heartbeats in a lifetime.
+Its something like 1.5 billion heartbeats and most living organisms are around that mark. The length of life in years is relative to the frequency(as in how often) of heartbeats.  SOURCE: http://beholders.org/mind/scienceandfacts/124-1billionheartbeats.html
+In truth, we don't know. There is correlatory data indicating that average heart beats over lifetime for mammals is approximately similar. However, this does not actually give the cause of senescence. Some animals show no senescence at all and some die incredibly fast. Size seems to be irrelevant considering that humans can live the same length of time as some medium sized birds. There are a number of hormones and genes attributed to affecting senescence but no confirmed complete view of what causes length of life.
+
+[Senescence](http://www.senescence.info/aging_animals.html)
+
+[Negligible Senescence](http://www.programmed-aging.org/negligible_senescence.html)
+
+[TED.com - Experiments that hint of longer lives](http://www.ted.com/talks/cynthia_kenyon_experiments_that_hint_of_longer_lives.html)
+But the question is still why this is the case - after all the heart doesn't just shut down after that many beats, and it's often other organs entirely that fail.
+
+I would probably start by looking into metabolism in general. There would be a tie in with heart rate there and it seems logical that the faster a body "runs", the faster it will wear out. There's research that might corroborate this too, eg. lower calorie diets in older age can lengthen lifespan in many animals ( http://en.wikipedia.org/wiki/Calorie_restriction ). It mentions metabolism there too.
+
+Depends which out of metabolism or heartbeat you pick as the cause and the effect I suppose!
+
+I actually figured this heartbeat thing out on my own one time when I was looking at a table of heartbeat rates and I realised there was a pattern with lifespan of each animal. Which is irrelevant here but I just felt like telling everyone :P
+In a guided tour of a zoo last year I heared that for monkeys life expectancies roughly correlates with their grade of sedentariness. The fact that animals in captivity often live longer than their wild conspecifics supports this proposition.
+
+In my opinion this sounds logic but it probably is only one of *many* different causes. Body size probably is another cause but some fish grow way too old for this to be the dominant factor... EDIT: e.g. neon tetra have a lifespan of up to 10 years and only weigh a few grams.
+This isn't an entire answer to your question, but there are evolutionary reasons behind why animals produce many offspring that die young while others produce few that live a long time (a.k.a. low and high fecundity). 
+
+One animal (e.g. sea turtle) might have a litter of a few hundred babies, with the expectation that many will be eaten, starve, etc. in their first two years. Conversely, another animal (e.g. giraffe) will only have one baby and will devote a lot of time/resources to raising it and keeping it safe.
+
+I'm not sure if your hypothesis is true or not, but if we extrapolate from what we know about fecundity, it would make sense that a large predatory animal has opportunities to live longer while a smaller animal of prey might produce a lot of offspring that die young (and do its best to reproduce early in case it bites the dust).
+
+tl;dr Life expectancy is affected by the environment an animal lives in and the possible threats it may face.
+That isn't an answer to the question whatsoever.
+Then why do doctors encourage exercise if it means a shorter life, according to the heartbeat theory?
+This doesn't really apply to many animals, though. The echidna, for example, lives for up to 45 years in the wild, and the longest-lived captive was 49 years old - only a 4 year difference.
+While your heart speeds up *during* exercise, your resting heartbeat is slower when you're in better shape. So overall, exercise slows down your total heartbeats.
+
+Conversely, your doctor may just not like you very much.
+well, or about 9%... but I get your point, the above mentioned neon tetra live up to 10 years in wilderness but only about 5 in aquaria.
+
+the main point is that there are many factors that could influence live expectancy.
+Lifespan is something that like all traits is under natural selection.
+
+The study of how life events including senescence are timed is called [Life history theory] (http://en.wikipedia.org/wiki/Life_history_theory).
+
+In cats and dogs, however, it's a bit more messy because they've been subject to artificial selection. Some dog breeds have particularly low lifespans because they've been selected for certain characteristics at the cost of say, being able to breathe (English bulldogs).
+Cardio exercise strengthens the heart muscle, among many other benefits.
+[Telomeres](http://learn.genetics.utah.edu/content/begin/traits/telomeres/)!
+This is just a correlation, one that most of the biogerontology community rejects at this point. That doesn't necessarily mean it's wrong, but if so there are some major exceptions that need to be explained. 
+
+Currently, the major theories are either telomere shortening (major problems are here though, #1 of which is that some animals like mice express telomerase and still have very short lives), oxidative stress (metabolism, but doesn't explain everything), and the more general "stress resistance", which seems like the favorite right now.
+
+I don't feel like typing it all out again, but check some of my other posts ([here you go](http://www.reddit.com/r/askscience/comments/mzyrb/how_close_are_we_to_zeroing_in_the_causecauses_of/c3591so) )
+If your average heart rate is 70 it will beat 100,800 times a day. On the other hand if you exercise for an hour at 180 bpm and it drops down to 50 for the rest of the day, that's only 72,180.
+And what about booty size?
+This [NOVA documentary about fractals](http://www.pbs.org/wgbh/nova/physics/hunting-hidden-dimension.html) talks a little about how the varying fractal design of blood vessels in large and small animals seems to relate to how efficiently they use energy (around the 39 minute mark).
+
+Here's some more links relating to that theory:
+
+[Basal Metabolic Rate (Longevity)](http://en.wikipedia.org/wiki/Basal_metabolic_rate#Longevity)
+
+[Of Mice and Elephants: A Matter of Scale](http://hep.ucsb.edu/courses/ph6b_99/0111299sci-scaling.html)
+&gt;[TIL the lifespan of every mammal is one billion heartbeats, more or less](http://www.reddit.com/r/todayilearned/comments/ms6co/til_the_lifespan_of_every_mammal_is_one_billion/)
+A cat will out live a dog because of how it maintains it's body.  Where a dog is often rigid and stiff, only rarely ever stretching out or finding new ways to contort its body, a cat will stretch and primp itself all day long.  This keeps the body relaxed and makes it less likely to receive injuries or wear. Also keep in mind that the constant climbing and jumping of a cat makes it so that in comparison, the cat is stronger and more balanced than the dog, allowing for it to maintain its frame and health more easily.  Plus, often times cat's have a much healthier food source.
+
+If you look through the animal kingdom, you'll find the majority of the animals that live a longer life, are the ones that take better care of themselves.
+Sort of. The problem is that there are a lot of mammals. If you cherry pick a few examples you can get a reasonable range. However, if you select from all the mammals you get a range that spans almost an order of magnitude. So it's mostly just a sort of interesting bit of trivia.
+Fuck this thread now i m afraid of getting afraid because it will make me die earlier? fuck you
+Exercise decreases resting heart rate so over all it is way healthier
+
+Summary:
+A cat will out live a dog because of how it maintains it's body.
+The length of life in years is relative to the frequency(as in how often) of heartbeats.
+The problem is that there are a lot of mammals.
+This doesn't really apply to many animals, though.
+Exercise decreases resting heart rate so over all it is way healthier.
+I would probably start by looking into metabolism in general.
+Its something like 1.5 billion heartbeats and most living organisms are around that mark.

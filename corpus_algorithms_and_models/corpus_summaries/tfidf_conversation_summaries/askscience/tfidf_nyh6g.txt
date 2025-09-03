@@ -1,0 +1,164 @@
+Original Response:
+I have been confused by this for a while now, if light does not experience time, that means that it is already at its destination when it is created, and yet this seems to imply that time experiences a form of deterministic time. meaning it already knows in advance where it will be absorbed to in a sense. 
+
+and yet this is exactly what relativity shows is false in our universe. is it that, to us we see time dialation effects on the light ray but in reality the photon *does* experience absolute time? how can something like that be so seemingly contradictory? (besides my puny brain not being able to understand)
+
+or is it that this is why they came up with quantum mechanics, to allow the ray to travel all possible paths.. so in effect it doesnt just experience one timeline but multiple? thereby allowing it to still exist in a realtivistic universe? 
+
+dont both of these explanations sound horrible? someone please help me understand this :)
+
+side question, otoh light can experience time if it is slowed down right ? doesnt this just screw everything up even more? so basically light experiences an instant and then time, and then an instant later its somewhere else .. but in a relativistic world it seems like this would give a chance for relativity to play a part on the photon so it couldnt be deterministic. or could it? 
+
+sorry for wall of text, i hope someone can give me a simple answer that will make me feel dumb for not realizing it. 
+
+tl:dr , how can something that doesn't experience time, exist in a universe governed by relativity.
+It makes very little sense to refer to light's frame of reference.  It's basically a singularity (the limit isn't even a number), and a non-useful extension of time dilation.
+
+Why would you say that a photon knows in advance where it will be absorbed?
+
+The photon has to travel from point A to point B, and that takes time according to every relevant inertial frame.
+
+If it helps, imagine the limit of a faster and faster object moving between two points.  Its perception of time slows down as it goes faster.  But "halfway" during the journey for it is still halfway, distance-wise, to any frame of reference.  It's not like it takes ten seconds and is "already there", when someone standing still thinks it takes 100 seconds.  Rather, the ten seconds it perceives are stretched out into the 100 seconds the stationary observer perceives.
+
+Light is the limit of this as that 10 goes to 0 -- which really leads to a lot of non-useful extrapolations that don't actually mean anything.
+
+Why do you say the photon experiences absolute time?  I'm not sure where you are getting this.
+
+Quantum mechanics had nothing to do with this, really.
+
+Addressing your tldr --
+
+Light not experiencing time is the "only thing" that would make sense in relativity.
+
+Say you are traveling at 0.5c relative to someone standing still, and you shine a flashlight in front of you.  To the person standing still, the light is traveling only 0.5c faster than you, so is "apparently" traveling 0.5c relative to you.  That can't be, though!  How can light travel slower than light to someone?
+However, from your perspective, time "slows down" for you -- ticks of the clock slow down -- such that that 0.5c light relative to you actually "seems" faster.  Try measuring something's speed with a slow clock (using v=d/t) and you'll see that you get a much faster speed than it actually is.  So the slower time is for you, the faster things around you seem to be moving.  Relativity says that time slows down exactly the amount such that that light, to you, seems like the speed of light, c.
+
+So what if you were traveling 0.75c, and shined a light in front of you, then?  To the stationary observer, that light is only 0.25c faster than you.  Time would have to slow down *even more*, for you to perceive that light as c.
+
+If you're at 0.9c, time would have to slow down time even more to stretch 0.1c to a whole 1c.
+
+Now imagine you are traveling at the speed of light, and you shine a flashlight in front of you.  To the stationary observer, that light is traveling with you at the same speed, so is stationary with respect to you.
+How much does time have to slow down for you to experience that stationary light as moving at c?
+
+What we really have here is a division by 0 error, basically.  Even if time slows down infinitely, you will never perceive that stationary thing as moving any speed at all.  That's why 1/0 isn't infinity -- because 0 * infinity is still 0.
+
+But if we look at the limit -- time having to slow down more and more to compensate for a slower and slower relative light ... then you will see why people say "photons experience no time".
+
+But really, the "kind of time" photons experience makes no sense, division-by-zero-wise.
+When we say that there's no absolute time, that just means that the different measurements you get from time dilation are all equally valid. It has nothing to do with quantum mechanics, or determinism, or whether or not a photon "knows in advance where it will be absorbed to in a sense".
+
+And it's impossible to meaningfully talk about what photons can do if they're slowed down, because they can't be. When you hear about how light is slower in suchandsuch medium, the actual photons are traveling the same speed; they're just bouncing around a bunch.
+ok sorry for the anthropomorphism of light i will try to do that less. i am however still confused, 
+
+you say light is basically a singularity, this makes sense to me in that i imagine the path of the light to be the 4dimensional path of the particle/wave. can this be considered to be correct? if so can you consider the opposite of what is outside of that frame of reference to also be a 4 dimensional path/space? 
+
+
+ your last example is what i was confused about, lets say i approach the speed of light. time has been slowing down more and more, so it would be logical to assume once i hit the speed of light time would stop for me? or put it another way i would reach whatever destination (b) instantly to my frame of reference? 
+
+relativity shows nothing can be instantaneous, and yet this is what seems to be happening if i follow your train of thought. in a sense our experience of time is just watching slices of a part of a 4dimensional object and since its an object the end of the path is already determined since there is no time for it to change. from the frame of reference of the light particle woudnt everything have to travel infinitely fast in order for there to be no time? if this is the case, would it mean that the path of the light particle is fixed and cannot be changed, hence determinsitic?
+thanks for explaining about photons and that they dont really slow down, this makes more sense.
+&gt;It makes very little sense to refer to light's frame of reference.
+
+THANK YOU. It's terrifying how few people here even bother to mention this when answering this kind of question.
+It's not logical to assume that once you hit the speed of light, time would stop.
+
+Think about it.
+
+Time slows down so that it stretches the "slower light" to be fully c.
+
+However, when you hit c, there is no amount of stretching that would make it c.  Even if you stretched time infinitely long, it would never be enough.
+
+Time in the photon's perspective makes no sense.
+ok, thanks. 
+
+you say time in the photon's perspective makes no sense, so what would make sense to use instead of time? im trying to imagine how a photon can not be deterministic if it doesnt have the ability of time to be able to change. 
+
+does time have an effect on a photon?
+
+also i see somewhat why it makes little sense to refer to the frame of reference of a photon now (infinity is annoying) but can light have a frame of reference as nonsensical as that can be?
+Time affects a photon because it takes time to go from one place to another, in any useful frame of reference.  You can arbitrary define an inertial frame of reference as one that is moving at velocity c relative to something else.
+
+I'm not sure what you mean by 'deterministic', though.  Can you elaborate on what you mean, and what it contradicts?
+
+You could say a rock flying through space is deterministic too, right?
+the rock is not being thrown at the speed of light. 
+
+the jist of it, is that you can get infinitely close to the speed of light but never reach it, when you get that close a second of your time would make an infinite amount of time around you go by. this is all well and good until you actually reach the speed of light, in essence time breaks down for you. but what does it mean for time to break down here? if you follow the logic, instead of it taking an infinitely short amount of time to reach something it would take no time to reach somehting. when a photon is emitted, to its frame of reference it would be absorbed as soon as it was emitted, possibly at the exact moment. something like this would violate causality you would know your future and essentialy exist outside of time because you are already present at your future. the rest of us time dwelling beings simply watch the slices of your vestigial 4d body as time passes in our dimension?
+
+so with that said im pretty sure that im misunderstanding something but so far all the explanations dont really explain away this problem.
+even though it makes little sense shoudnt it still be understood well? also can you explain in your own words why? this is all very interesting and im definitely getting a more firm understanding of relativity thanks to this. much appreciated!
+You wouldn't know the future until it happened, wouldn't you?  You wouldn't know you were "there" until you actually *got* "there".  And by the time you are there, everyone already knows you are there, as well.  Light "knows" it is somewhere the same moment everyone else realizes light is there.  It's not like light is shot, "instantly knows", from the observer's standpoint, and then we find out later on what was already known.  We find out where it lands at the same time the light finds out where it lands.
+His(/her) statement was a bit loose. It should have read it makes *no* sense to talk about light's frame of reference. The reason is that a particle's frame of reference really means its rest frame; i.e., the frame in which that particle is at rest. However, half the point of relativity is that the speed of light is constant in *all* reference frames, so there's no such thing as a frame in which a photon is at rest.
+
+This is why it doesn't really make sense to say things like "light doesn't experience the passage of time." There's a way in which this is sort of true - either as a limit of time dilation, or in terms of a thing called proper time - but since there's no such thing as a photon's frame of reference, there isn't even any consistent way of describing physics as seen by light. It simply doesn't exist.
+ok imagine this, a light is emitted 13.7 billion years ago and then hits your eye, it travelled a long way to do that. it took 13.7 billion years ! but for the light particle that 13.7 billion years didnt happen it simply hit your eye. 
+
+now consider, from the frame of reference of the light that this happend instantaneously the moment it was created. doesnt this bother you? 
+
+now imagine you shine a laser, some of this laser light reaches the cold death of the universe. this laser light in effect already reached that destination as soon as it was emitted from its frame of reference. 
+
+this would denote a determinsitic universe to me from the frame of reference of the light, since leading up to c you can only get infinitely close to slowing time down to a stop. or to put it another way time flies past you infinitely faster until it becomes an instant. once you travel at c it makes sense that it would fly past instantly no? and by instant meaning there is no here then there. theres here and there at the same time. 
+
+otoh if the universe isnt deterministic it would mean that once you are travelling at the speed of light you would actually travel all possible paths and the path that you actually took based on a more stationary reference frame and the path you actually take based on your frame of reference can now actually be one and the same. (this part still confuses me but seems somewhat logical, following this train of thought atleast)
+
+sorry for so much anthropomrphism its much easier to imagine yourself in these frames of reference then to talk about something else like a photon doing it.
+so could you just describe light not only as a particle or a wave but also as literally its path through space? 
+
+also, proper time?
+How about imagining it as this
+
+When light is created, it blinks its eyes.
+
+When it opens its eyes, it is where it has traveled, normally.
+
+This process of travel can be whatever.  It can be deterministic or not.  An atom decaying may trigger a device that bends the light in one direction or not ... this is a nondeterministic process.  But during this time, the light's eyes are "closed".
+
+Then finally, when it is absorbed, it opens its eyes and finds itself where it ends up.  To light, it's like blinking.  An instant.
+
+If some laser light reaches the cold death of the universe, it will be "born", blink, and when it wakes up, it will be wherever the non-deterministic processes control its trajectory to be at the cold death of the universe.
+yes but thats assuming that the light had a beginning or end, when infact its a constant so it would be all those moments at once? 
+
+and the parts that most disturbs me, if you think of light as a constant is that it would see all this before our non deterministic view of time had a chance to catch up thereby in essence going to a future that shouldnt exist yet?
+
+i appreciate you continuing this conversation, very interesting thanks.
+A photon does have a beginning and an end though -- from when it is emitted to when it is absorbed.  Then that photon is gone, forever.
+
+If a photon doesn't ever get absorbed, then we can just say it's the same as it not waking up from its blinking.
+
+Light doesn't jump to the future, where we then catch up.  It doesn't know where it is going to be until it is actually there.  It doesn't arrive at the future before we do; we get to the same location at the same time.
+ooo ok maybe i get it. .
+
+so put it the other way around yes it is emitted and then immediately absorbed .. but as fast as this happend from its point of view so too would the universe have had to moved instantly fast through its own history to catch up, yes?
+Yeah, that's one way to think about it.  And in that universe moving, all of the nondeterministic things still affect the trajectory of the light during its journey.
+yes theres no need for anything fancy, thanks again for helping me out!
+no problem :)  i can only hope i was understandable.
+relativity is wrong. light does experience time from its perspective. example, bounce a light from earth to alpha centari and back. it was winter when the light left but summer when it arrives back. time fucking passed, obviously.
+
+also, light is NOT the same speed from all perspectives which should be fucking obvious when you realize that light can be red and blue shifted like a fucking sound wave.
+
+the medium that light travels through is spacetime, just like the medium that sound travels through is air, which is an actual medium, which again should be fucking  obvious when you realize that spacetime is not empty because it can clearly store information in the warping of gravity.
+
+can I have my fucking nobel prize already. you people fucking bore me.
+Proper time is a geometric quantity. It really describes the length of a path throiugh spacetime, but for paths corresponding to particles travelling at less than the speed of light, it also turns out to have an interpretation as the time that particle measures along the path. You can't interpret it similarly for light, since light doesn't have a rest frame, but the proper time along a photon's path is zero.
+so everything elses path would be non zero?
+Yeah. There are three types of spacetime paths. There are *timelike* paths, which are the ones massive objects like you and I move along. These have either positive or negative spacetime length, depending on convention. There are *null* or *lightlike* paths which, as the name suggests, are the spacetime paths traversed by light and other massless particles, and these have zero length. Bear in mind that spacetime length is equal to proper time (up to a certain multiplicative factor, again depending on convention). Then there are *spacelike* paths which, as the name suggests, are paths between points that are so far separated that nothing can communicate from one end to the other. It's impossible for any physical particle to move along a spacelike path. These have lengths which are the opposite sign of timelike paths.
+No, absolutely everything you said was wrong there.
+
+Summary:
+light does experience time from its perspective.
+theres here and there at the same time.
+Time in the photon's perspective makes no sense.
+does time have an effect on a photon?
+It makes very little sense to refer to light's frame of reference.
+It can be deterministic or not.
+It should have read it makes *no* sense to talk about light's frame of reference.
+How much does time have to slow down for you to experience that stationary light as moving at c?
+But during this time, the light's eyes are "closed".
+It's not logical to assume that once you hit the speed of light, time would stop.
+Why do you say the photon experiences absolute time?
+you say time in the photon's perspective makes no sense, so what would make sense to use instead of time?
+To light, it's like blinking.
+but what does it mean for time to break down here?
+It doesn't know where it is going to be until it is actually there.
+thanks for explaining about photons and that they dont really slow down, this makes more sense.
+meaning it already knows in advance where it will be absorbed to in a sense.

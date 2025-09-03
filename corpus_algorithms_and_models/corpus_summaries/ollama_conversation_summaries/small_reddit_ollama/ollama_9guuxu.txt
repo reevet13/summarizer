@@ -1,0 +1,17 @@
+Here is a summary of the text, extracted from sentences approximately 10% of the original text:
+
+Curious to whether the additional attachments for the ballistic vest such as the pockets/pouch or holster are available in either the stress test branch or main branch as I am yet to find any of them (while playing stress test branch) as a 14KG vest that has no pockets is quite a dead weight when you have to carry around a backpack instead of having vest space available from a assault vest for example.
+
+After some minor research I found that generally speaking these vests should not weigh nearly as much as 14KG and more towards less than 5KG with LevelIII ballistic vests weighing 4.5KG and providing protection against some rifle rounds such as the 7.62x51.
+
+Like many military items in DayZ, the ballistic vest is probably Russian or Soviet, like a Russian military plate carrier [6B45/43].
+
+I don't know though, the vests themselves look more American / western especially when you take the fact that they're tanned in colour and there are American USMC clothing items in-game so I presumed it was those.
+
+Well, a [US military plate carrier](http://soldiersystems.net/2009/12/16/the-soldier-plate-carrier-system-a-journey/) with full set of plates weigh from 10-14kg (21.8 - 31.09 lbs).
+
+The in-game item description says "**hard-plate** reinforced vest offering **full torso protection**".
+
+I'm not arguing or presuming anything. Everything is still WIP and visuals and balance changes are probable, so almost everything is subject to change.
+
+Thanks for that, wasn't certain about the description myself, appreciate it.

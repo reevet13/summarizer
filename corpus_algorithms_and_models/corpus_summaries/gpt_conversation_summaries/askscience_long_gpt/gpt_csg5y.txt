@@ -1,0 +1,17 @@
+The boring part is that Maxwell's equations and the Lorentz force would be slightly modified so that the magnetic field would act sort of like an electric field does around an electron.
+
+The interesting part is that the existence of a single magnetic monopole in the universe implies that the [electromagnetic interaction is quantized](http://en.wikipedia.org/wiki/Magnetic_monopole#Dirac.27s_quantization).
+
+The behavior would be identical to the already understood behavior for electric charges with relation to electric/magnetic fields, if you swap magnetic and electric (except for the addition of a few minus sign changes).  They be sources/sinks of magnetic field lines, just as electric charge is sources/sinks of electric field lines.  E.g., an moving monopole would feel a force from a electric field, stationary monopole have a force from a static electric field.
+
+Yes.  The biggest difference is normal magnets only generate [magnetic field](http://en.wikipedia.org/wiki/Magnetic_field) lines that are loops, that is have no start or end.  A monopole would have magnetic field lines start or end at the monopole, depending on whether it is a positive/negative monopole (possibly they could be equivalently labeled north or south monopoles).
+
+Yes.  One design could in principle use a magnetic monopole to create a magnetic field, have a wire loop rotate in that magnetic field in such a way that the magnetic flux changes with time (the loop shouldn't contain the monopole, but the loop should be rotating above the monopole).  Then via Faraday's law a electric field is induced in the wire producing an AC current.
+
+A magnetic charge in a magnetic field follows the direction of the field while an electric charge moves perpendicular to it. A magnetic charge in an electric field moves perpendicular to it, while an electric charge follows it.
+
+The magnetic field around a monopole is the same as an electric field around an electron.
+
+When a magnetic pole and an electric pole are near each other, there is net angular momentum even without the particles moving. Because angular momentum is quantized, it implies that electric charge is also quantized.
+
+Quantisation is the fact that something is not continuous - it is made up of small, finite bits.

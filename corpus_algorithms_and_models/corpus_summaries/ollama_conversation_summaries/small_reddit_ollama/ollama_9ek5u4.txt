@@ -1,0 +1,16 @@
+Here is a summary of the original text, consisting of about 10% of the content or up to 250 words:
+
+Not handing over my phone as a license, no sir.
+Why though?
+Because I'm not handing my phone over to police under any circumstances, I don't trust them not to sift through it, clone it, or confiscate it.
+
+Wouldn't anything they retrieve from your device without a warrant be inadmissible in court? Also couldn't you stick anything you didn't want them to find behind some sort of encryption?
+
+They don’t necessarily need to use what they find in court, there’s cases where cops used parallel construction to “find” the same information they got from your phone via other means.
+
+Never give police an unlocked device.
+If you have to do it, on Android you can open the application then pin it to the screen and lock the phone so they cannot access anything else. Not sure if Apple has this feature or not.
+
+Yep, this is Guided Access.
+
+You enable it in accessibility settings and trigger it with three clicks of the home button, then you can draw exclusion zones for touch input (or disable touch input entirely), and hand your temporarily crippled phone over to do whatever with

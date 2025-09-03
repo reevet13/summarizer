@@ -1,0 +1,230 @@
+Original Response: 
+Time is not some weird abstract thing, time is how long a process takes (e.g.
+ticks of a clock).
+You measure how long something takes by starting to count clock ticks at the start of a process and you stop counting at the end of the process.
+Time dilations means that the time it takes for any process (including clock ticks) to occur in one system changes when measured with a clock in a different reference system.
+Discussing whether this means that all processes run slower or whether time runs slower is purely tautological.
+[removed]
+[removed]
+How long processes take is not just how we measure time, it is the definition of time.
+So if we say that all processes slow down then *by definition* time is slowed down.
+If you only ever measure one process, how can you be sure from that source of evidence alone that it doesn't just apply to the process you used for measurement?
+Unless you know of a different type of clock that has verified this effect under these conditions.
+We define time.
+Therefore one second is always one second no matter where you are in the universe.
+Any effect of gravity, is in the instrument used to detect as well as our perception of that instrument.
+Time does not actually slow because we define time.
+For instance, if we lived elsewhere in the universe what we would define as one second may differ, but that will always be one second in "that time."
+We don't only ever measure one process.
+And furthermore, the effects of time dilation were mathematically predicted before being confirmed experimentally, based on the fact that the speed of light is constant in all reference frames.
+If you're going 50% the speed of light, and you observe a photon to be moving away from you at the same speed that someone standing still sees it, the only way for that to happen is if you are experiencing time slower.
+That's not how things work.
+One second at 50% the speed of light has been *mathematically proven* to be longer than one second standing still.
+If you're going 50% the speed of light, and you observe a photon to be moving away from you at the same speed that someone standing still sees it, the only way for that to happen is if you are experiencing time slower.
+And since the speed of light is constant in all reference frames, that's exactly what happens.
+This is still just perception of time.
+I'm not saying you are incorrect.
+I'm saying you are misrepresenting the concept of time.
+Relativity is real.
+We can assume with little doubt that Einstein's theory is accurate.
+What you can't change is what is defined as one second.
+That would be the same as saying one meter is actually 1.2 meters in space.
+It's not and that doesn't make any sense to say it is.
+Okay, now we're getting into the realm of philosophy, but I ask you this: What is the difference between these two:
+
+* Everything, no matter what, taking longer to happen.
+* Time slowing down.
+&gt; That would be the same as saying one meter is actually 1.2 meters in space.
+Funny you should say that.
+Look up length contraction.
+Well, actually lengths and distances do change when objects move, and it becomes noticable as an object approached the speed of light.
+It's called length contraction.
+So your own example is actually a thing, except more like 1.0 meter becoming 0.8 meter.
+I'm familiar with length contraction and my claim would be it's the exact same argument.
+We can perceive measurable differences in time, weight, length, it anything else we are choosing to measure with.
+Whatever the case though, the perceived difference in measurement is a result of outside influences and not a change in the "object" we are measuring itself.
+So, with length contraction specifically the measured object returns to it's normal "state" in each environment it is tested in.
+So again, it's not that the definition of 1 meter changes a high speeds, it's that our perception of that definition changes.
+Essentially to provide a most accurate comparable measurement, we would need to refine what a meter is in various environments.
+If we took that step, the measurement of the object would come back the same as the original control measurement.
+Therefore, if we did see an measurable change in length we could assume it is due to a physical force of some sort.
+To your first point, I do see a difference in your two points, but again only in measurement.
+If we maintain a certain frame of reference for everything we perceive, and then we experience a new frame of reference where literally everything takes longer then it absolutely does feel like time has slowed down.
+It "feeling that way" is just our perception.
+You said it yourself.
+Everything just takes longer.
+I'm typing on mobile so apologies for formatting and grammer issues.
+He is asking how we know that all processes are affected and not just a few like the movement of electrons.
+If time is really affected then all processes would be affected but all processes does not need to be affected to change the speed of a clock.
+You keep talking about perception, but this doesn't just occur for humans.
+Radioactive particles last longer than they "should," for example.
+Rather than reply again, please read my other length contraction reply and let me know if you agree or disagree.
+I appreciate the dialogue.
+So let's go down that road.
+What is that occurrence an effect of?
+What is causing the decay process to slow?
+[removed]
+The decay process isn't slowed - it occurs at exactly the same rate in its own frame of reference.
+It's only when observing it from a different frame of reference that it appears slow.
+This is what relativity is - there is no absolute time reference.
+You can't say that your time reference is the correct one and someone else is on the 'wrong' time.
+From their perspective the reverse is true.
+You both have your own time (and length scale) and you can use special or general relativity to transform measurements from one to the other.
+[removed]
+Reading this comment, it seems to me that you believe that the laws of relativity can be used to model our observations, but reject the common explanation that time moves at different rates at different reference frames.
+Is that correct?
+Would you say that there exists a singular "true" reference frame?
+Or rather do you believe that the truth is only expressed in a reference frame in which it is local, and all observations in nonlocal reference frames are distorted, and GR models that distortion?
+Please let me know.
+I guess the latter would be closest to my thoughts on it.
+To put my argument in its simplest form, I mainly believe that there tends to be a generalized misrepresentation of the concept.
+It comes down to saying 1.0 seconds is 1.2 seconds or 1.0 seconds feels like 1.2 seconds.
+Personally I equate it to framerate.
+30 vs 60 offers a very different experience for the same 1 second representation of time.
+I feel like this comes to a head with the twin theory.
+I view time in this theory as a "cellular second" or the rate at which our "cells" decay and ultimately kill us.
+If we accept two twins are going to live exactly 1 million cellular seconds, then those two twins will die at the exact same "time" relative to when they begin no matter where they are in the universe.
+However in relation to reach other the experience could feel very different.
+Thoughts?
+I haven't quite figured out my thoughts with the twin theory perfectly.
+I'm certainly open to criticism if I've missed something.
+I see.
+Your problem is one of the language used to describe the physics, not so much the physical laws themselves.
+As with much of modern physics, there exists a certain dogmatic interpretation which is propagated amongst science enthusiasts and even some scientists that are less conformable with nuances in interpretations.
+These individuals often confuse doubt in interpretations with doubt in the laws themselves, and often react with vitriol more appropriate for Flat Earthers than people confused about relativistic interpretations.
+When people believe these things dogmatically instead of with nuance, it is easy to fall into trouble.
+Think of all those people that claim centrifugal force doesn't exist, when it clearly appears in derivations in rotating reference frames.
+Their zealotry can actually impede them from accepting that both descriptions are equivalent.
+Personally, I'm less certain about how to interpret the twin paradox.
+To model the acceleration requires GR, which I'm less familiar with.
+I know that the experiment has been conducted multiple times with atomic clocks, but there are a number of atomic phenomena (i.e.
+tunneling, entanglement, etc) that do not exist on the macroscale.
+I would be interested to know if the experiment has ever been conducted with bacteria.
+I think that would put my mind at ease about the twin paradox once and for all.
+It doesn't matter if you use cesium or any other clock.
+*All* processes are influenced.
+And we did measure this with a large variety of clocks and clock-like processes.
+Edit: See [this follow-up comment](https://www.reddit.com/r/askscience/comments/9hxx53/how_do_we_know_that_gravitys_effect_on_time/e6gcd91/) for measurements.
+That's a "because we said so" explanation.
+Btw, can you find an example of a non-nuclear clock testing time dilation due to gravity?
+I'd be interested to know if there were any.
+If scientists measured time with a variety of methods and they all showed gravity made clocks count differently, which is more likely... That gravity causes time dilation, or that all these different ways of tracking time were affected the same amount by something else?
+This.
+If it were an atomic-scale side-effect, the effect would **vary** from one measuring device to another.
+[removed]
+[removed]
+The [Pound-Rebka experiment](https://en.wikipedia.org/wiki/Pound%E2%80%93Rebka_experiment) used gamma rays emitted by iron nuclei (not by the electrons around the nucleus!).
+It's not exactly the same as time dilation because they didn't use a clock based on the nucleus, but the effects are closely linked.
+[removed]
+[removed]
+[removed]
+Nice, thanks!
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Say you have 2 clocks, one orbiting the earth and one on the surface.
+The  one on the surface will experience more gravity and because electrons have mass the orbit of the electrons in the atomic clock  will be slightly displaced by the gravity as compared to the one experiencing less gravity  in orbit.
+Is this effect completely swamped by the more powerful nuclear force acting on the electrons so that it is impossible to measure or is it accounted for?
+[removed]
+[removed]
+[removed]
+&gt; And we did measure this with a large variety of clocks and clock-like processes.
+I'd like to echo some of the other comments and ask if you could you post some sources, please?
+Presumably the OP is looking for pointers to the respective experiments / results.
+[removed]
+[removed]
+You experience almost as much gravity in low earth orbit as you do on the surface, you're just freefalling endlessly.
+Actually, if you have a clock on Earth, and a clock in low orbit, the clock in low orbit will run slower, despite the fact that earth's gravity well is slowing the clock on Earth more.
+Puzzle that one out.
+[removed]
+[removed]
+Yes the binding forces inside atoms overwhelmingly swamp out gravitational effects.
+A common comparison is done for the attraction between an electron and a proton.
+Doing it quickly at ~1 femtometer, I get the electrostatic attraction at ≈3×10^(4) N and the gravitational attraction at ≈1×10^(-37) N. So gravity is around a factor of ≈3×10^(-42) weaker than electrostatic attraction.
+Even considering entire Earth's gravitational attraction, the ratio of that to the electrostatic attraction is ≈3×10^(-34).
+This is why gravity is so negligible at small scales.
+We can also see that the properties of atoms in higher gravity environments - like the Sun - behave in exactly the same way as they do here on Earth.
+With regards to Special Relativity, you can detect time dilation occurring in [Cosmic Muons](https://en.wikipedia.org/wiki/Experimental_testing_of_time_dilation#Atmospheric_tests), which are fundamental particles as far as we can tell.
+For General Relativity, we see other predicted effects like frame-dragging (see [Gravity Probe B](https://en.wikipedia.org/wiki/Gravity_Probe_B#Experimental_setup)).
+Edit: Just to clarify; atoms do behave differently under differing gravitational fields.
+This effect, [gravitational redshift](https://en.wikipedia.org/wiki/Gravitational_redshift#Experimental_verification) is one of the tests of General Relativity.
+However, if you subtract this effect you see the same behaviour as in a lab.
+[removed]
+This depends very much on the orbit's characteristics, i.e.
+how high it is.
+In low earth orbit, at about the altitude that the International Space Station orbits (~400km), gravity is still ~90% of that experienced on the surface.
+But an object in a geostationary orbit (~36,000km) experiences less than 3% of the gravitational acceleration it would on the surface.
+Both are equally in orbit and "endlessly free falling", though frankly the "endlessly" bit is pretty suspect for objects in LEO.
+The decay rates are just too high.
+[removed]
+Since it's moving faster than the surface of the earth, and is still well inside the earths gravity well?
+That is most of the answer.
+However, relative to the satellite, it is the earth that is moving, and it is stationary.
+How does the clock still fall behind?
+I mean, relative to the sun, both are moving?
+But the sattelite covers more distance, hence faster (as a percentage of the speed of light?)
+From it's perspective, the satellite covers no distance, and is always perfectly stationary.
+According to general relativity, any reference frame is equally legitimate to all other, and all they same physics should work in all of them, including the satellites.
+However, despite the fact that is stays perfectly stationary, it still finds its clock consistently slow compared to the quicker moving earth.
+What a puzzle!
+It is so basic that it is just taken into account today.
+[Wikipedia lists a couple of explicit tests](https://en.wikipedia.org/wiki/Gravitational_redshift#Experimental_verification).
+Redshift of various stars (absorption by many different elements), Pound–Rebka experiment (emission/absorption of x-rays), hydrogen masers, various atomic clocks including optical clocks, ...
+Can you edit them in the top post?
+Thanks!
+It is completely negligible.
+In addition the most precise clocks today use atoms in free fall - not because gravity would matter but because this allows measurements of ultra cold atoms with less Doppler effect.
+Added there.
+I added a link to measurements.
+Hydrogen masers, stellar spectra, Pound-Rebka experiment, optical clocks, ...
+All of this is false.
+The satellite in orbit will have the faster clock.
+The satellite’s clock is slowed relative to us as a result of special relativity (it is traveling quickly relative to us).
+Our own clocks are slowed relative to the satellite’s clocks as a result of being deeper in the gravity well of Earth (general relativity).
+In this case, the effect of the gravity well contributes more than the effect of the satellite’s orbital velocity (about ~6X more), so the satellite’s clock is faster than ours.
+Not slower.
+Depends on the orbit.
+Low orbit objects are moving very fast, and really aren't all that high up in the scheme of things, only about 250 miles, so the effect from the speed wins out.
+So on the ISS, clocks run about 0.0000000014% slow.
+In higher orbit, the orbital velocity is low, and the satellites are much higher up, so the effect from gravity wins out.
+The GPS satellites for instance about .000000044% fast.
+Which is why I specified low orbit.
+I’m seeing a lot of good comments in here.
+I would like to add that if the Global Positioning System (due to the difference in gravity and the satellites’ non-uniform moving frames of reference in respect to one another and receivers on the ground) didn’t take into account the effects of time dilation then GPS would be off by a matter of miles within a day.
+
+Summary: 
+This is what relativity is - there is no absolute time reference.
+This is still just perception of time.
+The satellite in orbit will have the faster clock.
+Time does not actually slow because we define time.
+I added a link to measurements.
+We don't only ever measure one process.
+So if we say that all processes slow down then *by definition* time is slowed down.
+Say you have 2 clocks, one orbiting the earth and one on the surface.
+I'm saying you are misrepresenting the concept of time.
+I mean, relative to the sun, both are moving?
+It's only when observing it from a different frame of reference that it appears slow.
+How long processes take is not just how we measure time, it is the definition of time.
+And we did measure this with a large variety of clocks and clock-like processes.
+What is that occurrence an effect of?
+It doesn't matter if you use cesium or any other clock.
+What you can't change is what is defined as one second.
+What is causing the decay process to slow?
+Which is why I specified low orbit.
+However, relative to the satellite, it is the earth that is moving, and it is stationary.
+Funny you should say that.
+How does the clock still fall behind?
+Would you say that there exists a singular "true" reference frame?
+I'm not saying you are incorrect.
+This effect, [gravitational redshift](https://en.wikipedia.org/wiki/Gravitational_redshift#Experimental_verification) is one of the tests of General Relativity.
+So on the ISS, clocks run about 0.0000000014% slow.
+&gt; And we did measure this with a large variety of clocks and clock-like processes.
+You both have your own time (and length scale) and you can use special or general relativity to transform measurements from one to the other.
+Edit: See [this follow-up comment](https://www.reddit.com/r/askscience/comments/9hxx53/how_do_we_know_that_gravitys_effect_on_time/e6gcd91/) for measurements.
+It "feeling that way" is just our perception.

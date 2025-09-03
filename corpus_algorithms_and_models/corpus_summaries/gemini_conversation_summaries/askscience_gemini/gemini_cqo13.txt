@@ -1,0 +1,5 @@
+Hello, I was wondering if Metatrons Cube a fractal.
+It is self similar, infinite and diverse.
+it's a fractal like pattern but it's not a complex-plane type fractal like mandelbrot/julias and variants.
+definitely you could model most of its features as IFS fractals.
+When you zoom in on it it just look bigger, so it's not a fractal.

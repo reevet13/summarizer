@@ -1,0 +1,19 @@
+Here are the selected sentences:
+
+Chess, for example, has 10^120 potential moves, far more than the number of atoms in the universe.
+
+The number of atoms in the [observable universe](http://en.wikipedia.org/wiki/Observable_universe) is probably between 10^79 - 10^83.
+
+100 billions stars/galaxy x 100 billion galaxies x 10^30 kg/star / 1.67E-27 kg/atom=~10^78 atoms, give or take a few orders. Sounds about right.
+
+The board has 361 positions instead of 64.
+
+You can have from 0 to 361 pieces on the board at once, wheras in chess you can only have 0-16 :)
+
+According to Wikipedia "Go" is solved.
+
+For all board sizes (including 19x19) the games is a win or a draw for white player.
+
+Go, for example, which is a little easier to [analyze](http://en.wikipedia.org/wiki/Go_and_mathematics), has about 10^700 possible positions, and as many as 10^2000 possible games.
+
+Imagine each proton was a super computer capable of play a trillion go games every second, and has been running since the big bang.

@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words:
+
+How long does it take to download the entire blockchain?
+It took me around 5 days using the raspberry.
+How large is it?
+~230GB
+Sweet, thanks!
+Once the Blockchain is downloaded, how much data does it use? I might be completely wrong, but I thought it needed to occasionally re-download everything. Data consumption is what has put me off building one, so hopefully I'm wrong.
+You won't have to re-download everything unless you loose your install and don't have a backup.
+The data usage is dependant on the transactions during that year.
+Of course you can also use nodes for paying and accepting payment so not like it's useless

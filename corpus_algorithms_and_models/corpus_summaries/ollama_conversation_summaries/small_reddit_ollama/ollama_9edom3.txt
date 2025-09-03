@@ -1,0 +1,16 @@
+Here is a summary of about 10% of the text, up to 250 words, by selecting sentences from the original text exactly as written:
+
+This is actually a good thing.
+
+Now small companies can A) get in on legacy updates, B) provide some financial incentive to MS to keep updating.
+
+Really smart and consumer friendly approach to extending the life of legacy systems. What makes it better is sometimes huge flaws are found in past OSes that affect newer ones as well. This is going to put money straight into the security pipeline.
+
+In fact, Microsoft has actually been pretty decent at patching XP, etc, after the fact when the vulnerability could be widespread and devastating. I know of no other vendor that goes back this far to correct vulnerabilities.
+
+Microsoft will help further shed their “vulnerable” reputation, which has always been more about market share and improper updates for years now.
+
+For the question of privacy, a lot of the telemetry gathering and reporting as been added to Windows 7. If you're using an updated Windows 7, you're already sending most all of the information that Windows 10 sends.
+
+Not if you're using "Security Patches" only and not any cumulative updates
+Not if you're using "Security Patches" only and not any cumulative updates

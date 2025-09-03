@@ -1,0 +1,13 @@
+Here are the selected sentences:
+
+according to their privacy policy they're collecting package names of apps installed on your device. I think I'll pass.
+Data is only collected to improve the launcher not to sell it or something like that. Why there are package names on the list? It’s because I am planning on a feature to recommend apps which should be hidden. However, I cannot guess which apps users hide often. So, they are only collected for that.
+With the new permissions you could (and should) make this opt in for privacy minded people.
+You’re right. There will be definitely one in the release version, when the launcher is out of beta. Thanks for your suggestion!
+Is it possible to get those wallpapers you used for the screenshots?
+Or Google services at all...
+no, I'm concerned about a brand new app that collects information about what apps am I using without providing any apparent benefits for me in exchange.
+so if I'm using some of Google services, I shouldn't worry about whoever else is collecting my data in addition to that? that doesn't sound right.
+Not having to pay for their app isn't a good enough benefit?
+it's not open source, as far as I can tell. Github page only contains a readme file and appears to be only used for tracking issues.
+Just a heads-up, they data isn't and won't be commercialized in any way - also, the launcher will always stay ad-free.

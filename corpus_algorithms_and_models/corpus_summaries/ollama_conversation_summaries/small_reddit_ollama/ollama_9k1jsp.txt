@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the original text, up to 250 words:
+
+A startup founded by Tim Berners-Lee (the person who basically invented HTTP) is making a thing where you can host all of your private data on a single server that you (theoretically) control, and have applications request access to it. It's super vague because they're trying to pretend that this isn't, like, the thirtieth project of its kind, because it's got Tim Berners-Lee's name on it.
+
+Currently, nearly all web applications are designed to run on a single thus centralised database which contains data from everybody on the platform.
+
+SOLID tries to tackle mainly those two problems; * linked data solves the Babylon tower of everyone using their own models though shared descriptions... * secondly, it sets out a stack of protocols designed to remove the centralised part...
+
+That makes sense, thank you!

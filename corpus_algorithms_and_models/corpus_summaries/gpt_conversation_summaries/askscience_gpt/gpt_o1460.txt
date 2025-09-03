@@ -1,0 +1,11 @@
+I worked with several engineers two years ago to design an apparatus to deliver stem cell solutions. This was a challenging mechanical design problem, as we had to keep the stem cells suspended in solution for several hours while they were being delivered, but couldn't agitate them very vigorously, as it would shred cell walls.
+
+Anyhow, the purpose of this apparatus was to inject stem cells, *very slowly*, into a human knee joint for the purpose of regrowing articular cartilage. The patient undergoes a minor surgery to drill an access hole into the interior of the knee joint. The stem cell solution is slowly dripped over the cartilage, and shows remarkable efficacy in repairing wear/damage.
+
+On a related note, I can't find a source - maybe someone can help - but I read somewhere that it might be possible for a fetus to 'donate' stem cells to his/her mother. Male stem cells have been found in female brains and other organs before, I believe. If this is true (help, someone!), perhaps it's a similar mechanism of stem cells traveling through your blood?
+
+I read this article not too long ago. The fetus helped to repair the mothers damaged heart tissue by sending stem cells to the areas of the heart that needed repair. 
+
+Seem to have read an article last month where they did something to rats to make their cells glow and then mated them normal rats. They then gave the female rat a heart attack, later the found glowing cells in the mother's heart. 
+
+It would likely lead to many [teratomas](http://en.wikipedia.org/wiki/Teratoma). You cannot simply inject stem cells systemically and get good results.

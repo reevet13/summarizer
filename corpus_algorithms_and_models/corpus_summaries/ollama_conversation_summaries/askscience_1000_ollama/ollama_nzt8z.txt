@@ -1,0 +1,15 @@
+Here is a summary of the original text, up to 250 words, in the form of selected sentences:
+
+When i was curious about alcohol-related blackouts, i found this article on it. Don't know the actual link i found it under, so uploaded to Google Docs (had it saved).
+
+I believe it states in the article that alcohol blocks the formation of long term memories, effectively making you reliant on the roughly 30 second span of your short term memory (unless repetition is applied). Either way, you won't remember short term memories when you wake up in the morning.
+
+As far specific activity is concerned, this review mentioned that alcohol affects activity of certain neurotransmitter receptors. As far as memory inhibition is concerned, I think one of its most relevant activities is as an agonist of the GABA(A) receptor [1].
+
+A brain cell works via the separation of charged particles. When enough positively charged particles enter the cell, the cell produces an "action potential", a large electrical event that travels around the cell, and cause it to release chemicals onto other brain cells.
+
+What ethanol does (as well as benzodiazepines, many anaesthetics, barbiturates and a few other things) is increase the affinity that GABA has for its ion channel (i.e. it binds more strongly). This means that more ion channels open, and more chloride flows into the cell.
+
+It's also worth noting that the hippocampus, an area of the brain highly related to memory, has a population of brain cells that as very very sensitive to the actions of GABA (dentate gyrus granule cells).
+
+TLDR: Ethanol enhances the action of a brain chemical that stops neurons from firing.

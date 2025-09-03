@@ -1,0 +1,12 @@
+I'll provide the requested extractive summary of the provided text. Please note that the original text contains personal attacks and emotional language, which are not included in this summary.
+
+The main points discussed in the text are:
+
+1. The security vulnerabilities of electronic voting machines (EVMs) are well-documented, and experts agree that they are fundamentally insecure.
+2. The lack of a voter-verified paper audit trail (VVPAT) in current EVMs makes it impossible to verify election results.
+3. The vulnerability of EVMs is not just theoretical; demonstrations have been shown on hacked machines, replacing EEPROMs in minutes without leaving a trace.
+4. The security flaws are not due to outdated software or systems but rather a fundamentally insecure design that cannot be secured.
+5. Experts in the field agree that writing secure code is extremely difficult and requires significant expertise, which is lacking in EVM manufacturers.
+6. The need for caution when addressing election security issues is emphasized, as well as the importance of basing actions on actual data, not opinions or speculation.
+
+These points are supported by various references and links provided in the original text.

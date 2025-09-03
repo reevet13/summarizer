@@ -1,0 +1,19 @@
+Here are the selected sentences from the original text, separated by newlines:
+
+Light comes in and "impact" the surface. Physically, this is the photon being absorbed by electrons in the material the surface is made out of.
+
+Absorption makes electrons jump to a higher energy level. Eventually, the excited electron drops back down to a lower (usually the original) energy level and emits a photon of equal energy as the one that just went in.
+
+Now, the photon is emitted in a random direction, so sometimes it just gets shot further into the surface and the same process repeats.
+
+If, however, the photon gets emitted out of the surface, it can travel back to your eye, which you see as a reflection.
+
+There are kind of two interpretations of this phenomena based on whether you are taking the "light is a particle" or "light is a wave" approach.
+
+Light as a wave - As we know, however, light can be thought of as a planar electromagnetic wave.
+
+A good way to think about this is like a piece of with one end in your hand and the other attached to a flag poll.
+
+The actual directions and magnitudes of the reflected electromagnet wave depends on vector calculus and Maxwell's equations, but that's probably more than you want.
+
+So I'm probably missing something here, but in the "light as a particle" explanation I'm not understanding how this can be the case.

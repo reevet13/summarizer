@@ -1,0 +1,61 @@
+Original Response: 
+I understand that the Transit method is the best current way to find exoplanets, but I was just thinking about how a planet like Jupiter takes 12 earth years for one Jupiter year, would that mean that we'd probably be completely unaware of the largest planet in the solar system (and gas giant with the shortest year) even if we've been examining it's star closely for a whole decade?
+Following on from that, could that mean that we've got an extremely skewed perception of the makeup extra-solar systems?
+Maybe systems more like the solar system are common with large planets on the outskirts but we can't really see that with the transit method?
+Yes!
+And this bias is something that we do have to take into account.
+Different methods for detecting planets have different biases, so we always have to account for that if we're trying to make statements about the population of planets as a whole.
+The transit method works best when the planet is big enough to create a noticeable drop in the star's brightness, and when the planet's orbit is rapid enough that you can see lots of transits happen.
+You also need the planet's orbit to be lined up with our line of sight - i.e.
+the orbit is edge-on.
+So we're biased towards large planets that are close to the star.
+However, this method is quite sensitive, and we can actually see more than just the hugest and closest planets, but it definitely is easier to see the huge close ones.
+Radial velocity measurements are even worse for this.
+For these, you look at how the star moves towards and away from you.
+We can see this with the redshift and blueshift of specific lines of radiation from the star.
+But again, this is easiest if the planet is huge and close to the star, so that it has a significant effect on the star.
+This method isn't quite as sensitive, so what you end up finding is a lot of "hot Jupiters" - i.e.
+massive planets really close to the star.
+Another method is *direct imaging*, where you try to actually see the light of the planet directly.
+Here, it's easiest if the planet is *far away* from the star so that you can separate the images and not get blown away by the star's light.
+It's still easiest to see big planets, especially if they're hot and bright, but in terms of distance we get the opposite bias - it's easier to see distant rather than close planets.
+It's also easiest when the planet's orbit is *face-on*, because then we can see the planet go in a nice ellipse in the sky.
+There's also microlensing which can be used to detect planets, but it relies on star systems just happening to line up at the right time, and while it's quite sensitive, it doesn't detect very many planets per year.
+So yes, the various methods do create a skewed view of planets, and we really need to be careful what information we take from what we see.
+But bias is a universal problem in astrophysics.
+For example, the easiest stars to see at a large distance are the brightest stars, so we have to remember that the further away you look, the more dim stars you're missing etc.
+But in terms of planets, it means that we would still have difficulty finding a lot of the planets in our solar system, and instead find large planets that are really close to their stars.
+How many observed stars have planets in the same plane as observation?
+Wouldn't most solar systems be at every angle possible with only a few "laying flat" to our direction of observation?
+Yep, it's not many of them.
+Transit methods only capture a small fraction of planets.
+But transit surveys cover so many stars that they end up finding lots of planets anyway.
+Do you know of a 3d rendering of the known universe what would show the Milky Way in relation to everything else?
+I'm guessing it would be finite and give some idea of the "center of the universe" since everything is expanding from SOMEwhere.
+Cool!
+Thanks for the answer!
+[On this website](http://certificate.ulo.ucl.ac.uk/modules/year_one/NASA_Kepler/character.html) there are some calculations about which percent of stars should have transits visible for us.
+That's pretty off-topic, but you can see some simulation results [here](http://www.illustris-project.org/media/) - what you get is a filamentary structure that's uniform on very large scales.
+You can see a map based on observations of real galaxies [here](https://www.sdss.org/wp-content/uploads/2014/06/orangepie.jpg) - this big black slices are regions that aren't visible because the Milky Way is blocking the view.
+Basically, the universe is supposed to have this filamentary structure uniformly everywhere.
+There is no centre to the universe - the universe is actually thought to be infinite in size.
+It's best not to thing of the Big Bang as an explosion of stuff flying outwards from a point - it's better to think of it as the universe as a whole getting less dense over time, as everything stretches away from everything else.
+I figured it was somewhat relevant based on the idea of only finding transiting planets that perfectly line up with Earth.
+Thanks for the detailed reply.
+In that sense, planetary orbits around stars are pretty random - they depend on the angular momentum of the small chunk of gas that formed the stellar system, and on that scale it's dominated by turbulence, making it random.
+So there's no real structure there - the stars and planets just have random orientations.
+About 1% of terrestrial planets should transit.
+Little higher (likely negligibly higher) for gas planets.
+The Universe is expanding everywhere.
+There is no center to the expansion.
+The big bang occurred everywhere.
+So how close would an Earth clone have to be in order to be likely detected by these methods?
+
+Summary: 
+massive planets really close to the star.
+So we're biased towards large planets that are close to the star.
+Transit methods only capture a small fraction of planets.
+About 1% of terrestrial planets should transit.
+The Universe is expanding everywhere.
+How many observed stars have planets in the same plane as observation?
+So there's no real structure there - the stars and planets just have random orientations.

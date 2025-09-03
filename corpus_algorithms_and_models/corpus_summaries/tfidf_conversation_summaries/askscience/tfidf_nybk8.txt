@@ -1,0 +1,36 @@
+Original Response:
+I can't seem to find an answer for this and have turned to this forum.
+
+During the Apollo missions to land on the Moon, the Lunar Modules would land as a whole. When the Astronauts needed to leave the Lunar atmosphere and start the return mission, the bottom portion of the module was used as a launch pad.  Leaving it behind on the Moon.
+
+The Moon's atmosphere seems to be primarily Argon, Hydrogen and Sodium, nothing that could potentially attack and decay the Lunar Modules.  There are no Earth weather-like events on the Moon.  I can only imagine the cold temperature of the Moon's surface preserving them to some extent, i could be wrong. 
+
+Barring any theoretical physical impact or any other catastrophic events, how long will the modules be there?  Are the modules (and other items left on the moon) deteriorating or decaying in any noticeable fashion?  Any ideas on what that rate may be?
+I've thought about that myself.  I've always wondered if we could actually see them from earth. (hope my ignorance didn't just bleed all over the place)
+I know we can't see them from Earth.  *Actually* i should restate that.  The last time i did any research on that, i found that we don't have the optics on Earth to pick up that much detail on the moon.  Our telescopes aren't currently strong enough resolution wise.  
+
+(I may be showing my ignorance here too, the last time i looked into that was a few years ago, i don't know how far telescopes have come in that time)
+
+I do know that the Apollo missions resulted in reflective mirrors being placed at described locations on the Moon.  We use those reflective mirrors to reflect a laser off of them and determine how long it takes the reflection to occur.  This gives us the math to determine how far the Moon is from the Earth.  It also solidifies the proof that the moon landings were not a hoax.
+
+The photon displacement from the laser is quite amazing to me.  The number of photons we send as compared to what we receive is enormous.  I *think* we send a couple million photons in the laser and only receive around a couple thousand of them back.
+The lunar module has a width of 14 feet.  You can calculate the angle that 14 feet subtends at the distance of the moon, and it comes out to about .01 arcseconds.  If you could make a diffraction-limited image using some kind of fancy adaptive optics system, you would need a telescope with a mirror with a diameter of five to ten meters.  The biggest telescope in the world, Keck, could therefore probably marginally resolve the lunar module.  This would be a very difficult observation and I don't know how often the telescope is pointed directly at the moon, as such a bright target might damage the optics.
+[The Keck Observatory](http://astro.nineplanets.org/bigeyes.html) is the second largest telescope in the world.  The largest was built and finished in 2009 in Spain.  That was something i ran across when i was researching this topic.  Outside of size, my knowledge of how they actually work is extremely limited.
+You can't see them from earth. Though they have been seen from Luna orbit by a satellite a few years ago.
+Oh wow!  That's cool to know!  Thanks for posting!
+[Here's a linky](http://lroc.sese.asu.edu/news/?archives/454-Skimming-the-Moon.html)
+thanks man!  ( or woman :)
+that's an awesome link, thank you for that!
+The ratio is quite a bit more drastic than that.  Assuming Mythbusters is accurate at all, it's more like 200 quadrillion photons per pulse, and 1 to 3 per signal return. [(Source)](http://www.youtube.com/watch?v=orvMZn8L1f0#t=2m45s)
+
+As to your original question...  things like solar wind and hard radiation may affect the chemical composition of any artifact left unprotected (embrittlement of both metal and plastic components might result), and micrometeorite bombardment would basically "sandblast" the descent stage of the lander, just as the rest of the lunar surface has been sandblasted by micrometeorite bombardment for eons.  Another minor point: the moon's surface is not uniformly cold-- quite the opposite is the case.  Very wide temperature variations can occur, since there is effectively no atmosphere to redistribute heat between objects sitting in direct sunlight, and those in shadow (although during lunar night, it's safe to say everything gets very cold).  It's conceivable that thermal stress cycles might damage anything left on the moon long enough, but since a "cycle" is 28 days (one lunar day), it would take a very long time for any structural components to succumb to fatigue.
+
+Assuming some later group of people don't come along and decide to move or otherwise disturb it, it's safe to assume the lander descent stage would probably remain intact for a very, very long time.
+Moon has no weather and almost no atmosphere. It will remain there for aeons, unless somebody takes them from the surface in the future, which is probable.
+
+Summary:
+I know we can't see them from Earth.
+The lunar module has a width of 14 feet.
+You can't see them from earth.
+Leaving it behind on the Moon.
+The biggest telescope in the world, Keck, could therefore probably marginally resolve the lunar module.

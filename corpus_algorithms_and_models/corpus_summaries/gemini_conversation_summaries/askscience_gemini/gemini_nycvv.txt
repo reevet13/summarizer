@@ -1,0 +1,30 @@
+Relativistic equations talk about conservation of 4-momentum.
+A four-vector is formed of the energy and momentum, combined, which is the conserved quantity.
+So, four-momentum is conserved.
+No such thing as a time step.
+Lorentz invariant quantities are independent of the frame of reference.
+For every symmetry, there is a corresponding conserved quantity.
+In short, as I said originally, 4-momentum is conserved.
+With special relativity, the conserved energy is given by
+
+E^2 = (pc)^2 + (mc^2 ) ^2
+
+As you can see, for an object at rest (p=0) this reduces to the famous E=mc^2 , while for a massless object like a photon you get another well-known formula, E=pc (which explains why photons have energy even though they don't have mass).
+This energy E is conserved in a given reference frame (though it won't have the same value across different reference frames).
+However, in full general relativity the situation is changed, and in many cases there is no conserved energy.
+The reason is that energy as a conserved quantity is linked to time symmetry by *Noether's theorem*, a mathematical result associating every conserved quantity with a symmetry of physics.
+In special relativity, physics is time symmetric, but in general relativity you can have time asymmetric physics, the most prominent example being the expanding Universe.
+In an expanding spacetime you can't define a conserved energy because it has a clear time asymmetry.
+If we conserve 4-momentum, that means that energy and each component of momentum are conserved.
+Generally that gives us 4 conservation equations.
+Additionally, P^2 = E^2 - px^2 - py^2 - pz^2 = m^2.
+So we have a relationship between the rest mass and the energy of a relativistically moving object.
+This is true for any value of m and (px,py,pz).
+It is always conserved.
+I am not familiar with general relativity.
+However, I stand by the symmetry principle of Noether's Theorem.
+When I talk about physics being time symmetric, I just mean that the equations describing how particles behave don't change over time.
+This is the case in most of classical physics, where things like Newton's law of gravity and Maxwell's equations don't have an explicit time dependence, but can change when spacetime is time-dependent.
+So in an expanding Universe, the equations that govern how particles behave will be different depending on how long it's been since the Big Bang.
+In GR, local conservation of energy is expressed as the [stress tensor](http://en.wikipedia.org/wiki/Stress-energy_tensor) being divergence free.
+Furthermore, if your spacetime admits a timelike [Killing vector](http://en.wikipedia.org/wiki/Killing_vector_field) you can construct a globally conserved quantity which can be considered to be the energy (and similarly, translational and rotational Killing vectors give rise to globally conserved momentum and angular momentum).

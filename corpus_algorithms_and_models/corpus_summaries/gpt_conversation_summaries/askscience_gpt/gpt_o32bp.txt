@@ -1,0 +1,17 @@
+Well the thing that really drew me to study selection was the realization of just how simple of a concept it is, and yet how many ways it can get done. Selection is simply the preferential copying of genetic elements that are better at making copies of themselves. I mean, it's almost sort of tautological.
+
+But the ways in which it occurs, and the stuff it results in is just mind-blowing. We have segregation distorters, complex polygenic traits and interconnected genetic networks, the lactase example and other strong mendelian traits like it, genes associated with fertility, etc etc etc.
+
+I guess I tend to think of a gene's function as its method of finding a way to make as many copies of itself as possible (by ensuring survival and reproduction of it's host), and it just blows me away how many different routes can be taken to this end goal.
+
+I'm interested in developing ways to detect natural selection within genomes on polygenic and weakly selected traits. This involves building mathematical models of certain evolutionary processes to use as a framework for some sort of statistical test to identify selection.
+
+I came into the field through my interest of mining genomes for interesting regions. I was inspired by some the work done at UCSC and UCSF in the human genome, mining it for conservation and adaptation. It was pretty clear to me that by understanding selection, and being able to detect its signature, we can make it do the brunt of the work in finding important regions of the genome. Or in other words, annotation of functional regions and patterns of natural selection overlap very well, so it makes sense to use natural selection to predict functional regions.
+
+There are a few different ways it's done, but primarily what you are looking for are stretches of DNA that "look" unusual.
+
+So then we just go hunting for regions that break from these expectations. Strong natural selection has the effect of wiping out most of the genetic diversity in the region surrounding the gene it is acting on^1 so we look for regions that have much lower diversity than would be expected if it was evolving neutrally according to the processes that govern the genome at large. Much of what's been done so far relies on this basic idea, or related ones.
+
+These sorts of approaches have proven pretty effective at identifying genes that have faced really strong natural selection, and which exist in one gene/one trait relationships. The classic example is [lactase persistence](http://en.wikipedia.org/wiki/Lactase_persistence).
+
+The thing is that most phenotypes that we care about are not likely to be that simple in

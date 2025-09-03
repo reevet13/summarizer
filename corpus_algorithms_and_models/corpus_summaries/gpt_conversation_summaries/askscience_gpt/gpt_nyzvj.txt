@@ -1,0 +1,29 @@
+Behavior of [this simple circuit](http://youtu.be/RkTvDjhImwo) is a little unusual.
+
+I think its a hoax.
+I think the glow off the LEDs is pasted over cleverly, though the lights do interact with a pen at a point (when they are all lit), I think its just some video effects and the lights only light when they are supposed to and those frames are the source of the glowing lights.
+
+Or maybe it is an AC/DC trick as mentioned in the youtube comments.
+Video editing seems to be a good option given that it's on a very easy to edit out background.
+
+I don't think there's anything done in post.  The same guy has another video, with two LEDs and two switches in parallel, which can be explained by just extra diodes and AC.
+
+Well, clearly he is hiding something.  The question is what.  If everything is "what it appears to be", this would not work.  No questions asked.  So what is he hiding?
+
+My guess is he modified the 9v to hide an DC to AC circuit in the battery.  I don't see how he can control 3 LEDs otherwise, but maybe there is a way without doing so.  I can definitely come up with a way to do it using a DC source and only two LEDs.
+
+You could use diodes in parallel with the switches to select the direction of current, and diodes in parallel with the LEDs to make sure current can always flow in both directions.
+
+You can have LEDs of differing voltage levels.
+
+Then you could reverse the current direction to light up the third LED.
+
+I notice that when he turns off the three leds the first time that he starts with the middle LED.  That is what is making me think there is a TRIAC or DIAC involved.  My guess is that order is important in whatever circuit he came up with.
+
+After reading some of the comments here and on YouTube, I believe I've figured it out, or at a least a working variation. 
+
+Basically the battery is not just a battery but a frequency generator. It will spit out two frequencies, a low frequency and a high frequency. Also, as mentioned by the circuit creator, the parts he's using are modified with extra components.
+
+The high frequency component will pass through the capacitors (provided capacitance times frequency are large enough, remember impedance is Z=1/(2*pi*f*C) ). Similarly, the capacitors will block the low frequency components, provided capacitance times frequency is low enough.
+
+Similar

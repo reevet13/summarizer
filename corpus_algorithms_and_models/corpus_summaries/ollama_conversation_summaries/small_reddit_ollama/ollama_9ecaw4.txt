@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the original text, selected from sentences exactly as written:
+
+Hello all,
+The CPU wont sit in the socket!
+I don’t understand why. Ive built an FX system before, know the triangle thing and yet no biscuit, doesnt fit.
+As it sat on top of the socket I thought that was where it sat so closed the socket, but no pressure came ofcourse . Not sure whats going on.
+
+Now i am severely sight impaired so can’t tell if the pins are bent. Ive attached some pictures.
+Many thanks for your help!
+
+Pix : https://imgur.com/a/fkSbKp8

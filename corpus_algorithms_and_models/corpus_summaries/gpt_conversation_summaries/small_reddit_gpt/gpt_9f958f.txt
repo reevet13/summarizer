@@ -1,0 +1,6 @@
+Ultimately, though, there is no security measure which will make any town’s network completely invulnerable to ransomware attacks – something which has officials in Midland describing a second attack as “a matter of when, not if.”  
+If they had AppLocker configured, which comes with Windows since 7, this ransomware attack would have been impossible.  
+Like dudes, you spend so long teaching people not to click these fucking links, then undo all that training in a single email.  
+Setup lapse and randomize the local admin password, limit administrative access. Don’t use a damn domain admin account to login to workstations. Next level shit? Setup MFA for privileged accounts. All of this takes time and effort.  
+Applocker makes the attacks more difficult, not impossible.  
+After this management was fine with me enabling limited application whitelisting and having top notch functional always on web traffic scanning, email scanning and canary files that would stop file sharing and alert me if deleted or modified.

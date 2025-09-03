@@ -1,0 +1,27 @@
+Original Response:
+This doesn't even need an article. MoviePass had to *pay retail* for movie tickets because they had no wholesale supplier deals.
+Wow I did not know this. How on earth did this crazy idea get off the ground?!
+It’s how business works in Silicon Valley now. You go way into debt (cheap, cheap money that investors keep throwing at companies) by giving people a stupid deal, and then hope it works out by getting the deals you need (like wholesaler deals) simply because you can argue that you’re a first mover with the network effect at your back.
+[deleted]
+[deleted]
+It's not just how Silicon Valley works "now" - it's EXACTLY the 'business model' that was used in the 90s in the first .com bubble.  Sites like [pets.com](https://pets.com), (RIP, 1999-2000) sold pet food for less than they paid for it, and incinerated $300M of investor money in something like 6mo before blowing up, [diapers.com](https://diapers.com) was sold for $500M, but was really just a front for paying retail for diapers, discounting them, and then selling them online.  The SV business plan is to: bilk customers with an ever increasing subscription-model price, bilk investors by burning their capital for "customer acquisition" while having no long term plan, and bilk developers with fake equity.  
+
+That's why you hear them brag about the amount RAISED, not the amount that they're earning.
+Seemed to work for Amazon.
+They also assumed that after an initial binge, most users would only see a couple of movies per year (gym membership model). There was also supposed to be a user data revenue stream but Google already knows/sells all the data they expected to sell.
+They forgot one critical flaw...people hate going to the gym.
+With many of these companies the path to getting wholesale prices or better is at least obvious. With Moviepass that is not the case.
+
+People do over-celebrate rounds over subsequent results, no argument there.
+Not necessarily - the market for pet supplies and diapers are both likely to be tightly controlled by existing wholesale deals, ones that require pricing to be higher than those sites sell products for.  Their only model was to "acquire" customers by advertising promo pricing as normal pricing...then slowly lose those customers as prices increase.  Not a surprise - these founders also started [jet.com](https://jet.com) more recently.  It also sold products at below wholesale sometimes.  Sold for $3B a couple years ago, so I'm guessing Wal-Mart is trying to copy Amazon in 2005? haha.
+Yes, certain brands are locked in to various deals. The OEMs largely aren't, which is why there is the potential for disruption in consumer packaged goods today as the shelf space is losing some of its market power vs online product discovery and distribution.
+
+With diapers wasn't Amazon driving prices down to drive them out of business/reduce the price Amazon would have to pay to acquire them?
+
+http://www.slate.com/blogs/future_tense/2013/10/10/amazon_book_how_jeff_bezos_went_thermonuclear_on_diapers_com.html
+Well yes and no.  Yes they got into a price war and attempted to destroy it - but in the end, they acquired it for $545M, which hardly feels like a failure for a *website that sells diapers.*
+
+Summary:
+It also sold products at below wholesale sometimes.
+Seemed to work for Amazon.
+It’s how business works in Silicon Valley now.

@@ -1,0 +1,20 @@
+Here are the extracted sentences from the original text:
+
+* Never really thought about it much haha
+* Watched the whole thing! So interesting!
+* It takes curiosity and imagination to find all the other potential paths and see if those work (throw in a good dash of communication skills because bug reports can't just be "it broke").
+* I'm in QA. That kind of thinking is critical to testing.
+* One of my buddies does it for a company here and he was trying to get me a job there (I'm an engineer with a background in IT) for a while.
+* Look into getting your A+ cert first off (just a good, general IT cert), and start learning about VMs, and Metasploit in particular.
+* Then it's all about getting your name out there and applying for jobs.
+* Last interview I had, it's because they had already closed the application process, but I was able to land my email in the head of HR's inbox, which wasn't publicly listed - that counted for a surprising amount, which I thought was funny.
+* A wire coat hanger would defeat every door on campus at my university, including dorm rooms... Wasn't a very comfortable feeling realizing how garbage physical security actually is most places.
+* Thanks! Didn’t even realize
+* Security consultant here. The previous poster gave an excellent example, but I thought I might try to give you another that was "computer hacking" related as well.
+* Imagine a burger joint that allows you to place your order online. You add a $5 burger to the cart and now you have a few choices of toppings. You see that adding a tomato slice is $0.20 and there is a box to enter how many tomato slices you want. You enter -24 and hit apply. Now the cart shows 1 burger and -24 tomatoes for a total of $0.20. You proceed to checkout, and it works! You just found a way to get reduced or even free food, pretty cool right?
+* In reality, the website probably used a drop-down box that only allows you to select 1-3 tomatoes. Additionally, they may also use JavaScript code in your browser to verify a quantity between 1 and 3 tomatoes.
+* But that's ok, you can intercept the web traffic using a tool called a proxy. It sits between your browser and the website allowing you to capture, view, and modify all requests.
+* When you see the request to add a tomato, you would intercept and modify the quantity with the proxy to -24 and send the request off. If you are lucky, the server would not validate the quantity, because the web interface should have already did it.
+* This is a common mistake that I still see web developers make. To any developers reading this, please validate things at the server side too!
+* Once upon a time, we dismissed these people as "script kiddies", but now they have financial and political motivations and... I'm not sure what to call them now. But they're not hackers.
+* They're no longer kids but they have matured into full-fledged skid marks.

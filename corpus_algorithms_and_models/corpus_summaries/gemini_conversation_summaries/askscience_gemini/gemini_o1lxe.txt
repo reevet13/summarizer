@@ -1,0 +1,7 @@
+When you heat something, you're giving it (thermal) energy.
+If you double the amount of stuff you want to heat, you have to double the amount of energy spent.
+The microwave oven emits light waves that in the frequency wavelength of the microwave band (about 5 inches long... much longer than the visual spectrum of light), and these microwaves have energy.
+The energy of the electromagnetic wave is turned into heat, aka your food is warmed up.
+If you have more food to warn up, it is going to take more heat, and thus more energy, and thus more microwaves, to heat it up.
+Energy in = Energy Out.
+If you put twice as much food in there, the Energy the microwave has to use is split between the doubled amount of food.

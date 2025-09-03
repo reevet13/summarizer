@@ -1,0 +1,11 @@
+Here is a summary of the text, selecting sentences exactly as written and limited to about 10% or up to 250 words:
+
+I was looking up what actually causes boiling to occur, and read that it's when the pressure from the water vapor in a bubble exceeds the ambient pressure + surface tension of the water.
+
+At first I wanted to say that [soap] did, but then I remember that the whole reason [soap] lowered surface tension was due to the hydrophobic parts of the soap trying to keep away from water.  It would sit on the surface of the water, thus lowering the surfaces surface tension.
+
+As a general rule, any contaminant in a pure compound will lower the boiling/melting points.
+
+That said, there may be interactions in the soap that are not the same as a simple contaminant (adding salt to water does lower the boiling point). I can't speculate on those, but I doubt they would have much of an impact.
+
+I stand corrected. Normally Wikipedia is pretty verbose, but that was a darn good thermodynamic explanation.

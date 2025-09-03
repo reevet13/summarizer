@@ -1,0 +1,13 @@
+Here is the summary of approximately 10% of the original text, up to 250 words:
+
+I have a 7200 rpm 1 TB hard drive (nod SSD) and whenever I try running things I wonder why it takes a little longer than Normal. So I checked task manager and saw my disk was at 100% so much.
+
+Your hard drive is probably very slow, in the performance section of task manager click the disk and see what kind of read and write speeds you are getting. Post them here for science, im guessing 50mb/s maximum.
+
+Upgrading to a SSD will literally change your life.
+
+Also I have 2-3 mb/s write speed. Is this bad or good?
+
+Pretty bad but for a harddrive thats about average.
+
+My parents are using an old Am3 machine and when I switched them from win7 to 10 I put a 500gb samsung ssd in with a fresh install.

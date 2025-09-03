@@ -1,0 +1,13 @@
+Original Response:
+I'm not sure how to explain it, but if you have an object resting on a surface that requires n amount of force to start sliding across the surface, but only requires n/5 to keep going, for how long would you have to apply n before you can switch to n/5 and keep it going?
+according to newtonian mechanics, the instant the object starts moving the friction switches from being the static coefficient to the kinetic coefficient.
+How long is an instant though? Is it possible to only apply n force for that instant?
+An instant, in this case, is the limit of time T as T approaches zero.  So, basically an infinitesimally small amount of time. It's not really possible to only apply the force for this amount of time, but as small an amount of time as you can apply the force for will be suitable to only then require the lower amount of force to overcome sliding friction.
+It suddenly dawned on me (while I was trying to sleep no less), that I think it is possible to only apply that force for a single instant. To do so you'd have to use a projectile. Say for instance you had someone pushing on a big crate with a force of n/5, so that they crate wasn't moving yet, but had enough force to overcome the kinetic friction. Then you throw a ball hard enough at the crate so that it caused a 4n/5 force on the crate. That would give it, for the instant that the ball hit the crate, a net force of n. The ball would bounce off, and the continual force would be able to do its work. 
+
+Edit: If you wanted to figure out how fast you needed to throw the ball, it would be a little more complicated than you might think, particularly if the crate was standing up tall (because you don't want it to fall over, which would probably happen if you hit it dead center), or if the ball was hallow (because then air friction matters more). But assuming those aren't factors, I think you'd just need to take the mass of the ball (m1) and the mass of the crate (m2), then use this equation: [(m1)/(m2)]*4n/5
+But wouldn't it take longer than an instant for whatever projectile you used to apply 4n/5 to bounce off of the object you're moving?
+Theoretically not necessarily, practically yes. *shrug* tried my best lol.
+
+Summary:
+Is it possible to only apply n force for that instant?

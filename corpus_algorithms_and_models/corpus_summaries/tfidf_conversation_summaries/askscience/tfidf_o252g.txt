@@ -1,0 +1,37 @@
+Original Response:
+We've all seen the demonstration where someone plops a bowling ball into the center of a stretched rubber sheet and compares it to our sun and its gravity well.
+
+That just shows one plane, what would the gravity well look like in 3 dimensions? 
+
+I always thought "inverted sphere" sounded best, since one would assume if the large object was equal density throughout the gravity it makes would bend space spherically toward its center.
+It would be difficult to represent a gravity well in three dimensions.  Your "inverted sphere" suggestion doesn't sound too off.  The best way to represent it would be to draw a bunch of force vectors pointing toward the center of mass.  The vectors would increase in magnitude as you approach the surface of the gravitational body, but then would begin to decrease as you reach the center.
+I just said inverted sphere because it sounded ok.  Though its hard for me to imagine an inverted sphere in my mind.
+Yeah, it's hard to imagine a gravity well in my mind without using vectors.  Probably the easiest way to visualize it.
+Yep. Basically, the OP is asking for at least four different variables to be represented pictorially.
+I have no idea how accurate this is, or even if it's what you're looking for but...
+
+http://www.ariebaris.com/homepage/uploaded_images/spacetimelu3-795133.jpg
+
+EDIT:  Just found this as well: http://www.rationalresponders.com/forum/15545
+I pictured the first image as well.
+Those are pretty much what i was looking for, still, its hard to imagine what it looks like WITHOUT the grid pattern.
+&gt;its hard to imagine what it looks like WITHOUT the grid pattern.
+
+Like [this](http://i.imgur.com/4eGfU.jpg)?
+No, i mean what the space looks like in the gravity well without the grid pattern.
+
+Sure I can look at the sun too, just because i can see the sun does not mean i can see the space being pulled toward the center from the gravity.
+&gt;No, i mean what the space looks like in the gravity well without the grid pattern.
+
+Space doesn't *look* like anything; it's space.
+
+Maybe I don't understand what you're asking, though.
+
+[edit]
+
+I suppose that one could say you see "what the space looks like in the gravity well without the grid pattern" in that you see Earth moving around the Sun rather than flying off (over the course of, say, a year); that circular path we're following can be thought of as a "grid line" being curved "in the gravity well".
+I imagine it like an "atmosphere", so that the earth's sphere becomes progressively less dense as you move away.
+
+Summary:
+No, i mean what the space looks like in the gravity well without the grid pattern.
+&gt;No, i mean what the space looks like in the gravity well without the grid pattern.

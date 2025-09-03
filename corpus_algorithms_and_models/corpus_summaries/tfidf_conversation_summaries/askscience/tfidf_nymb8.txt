@@ -1,0 +1,224 @@
+Original Response:
+Or more broadly, can gravity be used to accelerate something to a speed greater than the speed of light?
+
+I might be misunderstanding how gravity works.
+
+**edit for context** - *this question occurred to me while thinking about the possibility of masking the mass of an object temporarily so as to line up stars and make a giant gravity rail gun by masking and unmasking the masses of sequentially heavier stars.*
+Nope, the lorentz factor will continue to increase as the velocity of the object approaches the speed of light allowing the momentum to tend towards infinity but the velocity itself will never exceed (or reach) c assuming the object has mass.  Photons travel at c.
+Greater than light speeds cannot be produce by matter.  As your object falls closer to singularity it increasingly deteriorates because the tidal forces become exponentially greater.  The total distance the object can achieve away from singularity is dependent on the objects density.  For that reason, matter can never pass the event horizon.
+
+To hypothesize, both sides of the event horizon (interior and exterior) are of equal infinite intensity.  Whereas, in this universe all matter are of finite origins.  Nothing goes in, so nothing comes out.
+
+Edit: Statement - If nothing comes out, then nothing goes in.
+
+Also, I guess I'm terrible at answering questions however it's hardly noise.  My adjectives added for clarity may have cause misunderstanding.  Ahem.  While the volume of the object deteriorates when it accelerates the total mass increases.  It gains mass from other particles it attracts along the way, in the form of energy.  This happens due to the crushing power of the tidal forces outside the horizon.  If it collects enough power it may radiate from the black hole as a new type of energy (hawking radiation).  Simply getting recycled.  The time it takes for this to happen is completely relative.
+[deleted]
+haha, yes, "Gravity masking" was just an idle sci-fi daydream and I mentioned it because it's how I got to my question. Though it does beg the more specific question of why would it be impossible to obscure the mass of an object from affecting another massive object? I don't see how one could but I also lack a justification for saying it's impossible.
+
+You did answer my question, so thank you. I don't know why I thought relativity wouldn't apply just because the accelerating object wasn't expending energy.
+
+Can I bother you for one more answer; What is the difference between a singularity and a black hole? I was under the impression they were synonymous.
+Nope; nothing can be made to go from a speed less than light to one greater than light (or vice versa). Period. This is built directly into the structure of general relativity, which *is* our theory of gravity.
+
+I'd note, though, that in such highly curved spacetimes, how you define velocity is a bit ambiguous in the first place, since distance and time are just coordinates which can be changed as you please. There are different answers to what the speed of an infalling object is depending on how you propose to measure it.
+"Black holes are regions of spacetime from which nothing, not even light, can escape. A typical black hole is the result of the gravitational force becoming so strong that one would have to travel faster than light to escape its pull. Such black holes contain a spacetime singularity at their center; thus we cannot fully understand a black hole without also understanding the nature of singularities."
+
+http://seop.leeds.ac.uk/entries/spacetime-singularities/
+
+That sounds like a singularity is the 'math' of what happens and a black hole is the 'result'.
+Nope. Nothing that has mass can reach the speed of light.
+Kind of like a graph approaching an asymptote right?
+Exactly
+[deleted]
+I believe I understand what you're saying, but is there definitively no way of un-curving spacetime? It seems to me that if mass could bend it one direction would an anti-mass not bend it the other?
+
+It gets a bit foggy in this area for me as I'm at the edge of my understanding. I don't want to just plug in "Dark Energy" but it was explained to me that dark energy *is* responsible for driving the universe apart against the force of gravity. Could it not work to un-curve spacetime?
+What would "anti-mass" be?
+That's why I say I'm at the edge of my meager understanding and that Dark Energy might apply, maybe, possibly. My reasoning being that if dark energy is working against gravity, and energy can become mass, ?????, anit-mass.
+
+Please bear with me as I fumble around in the dark here.
+When you say "A Black holes mass and density curve"
+
+Is this the same as gravitational waves? Also, has this been factored into the scenario?
+&gt; Nope; nothing can be made to go from a speed less than light to one greater than light (or vice versa).
+
+Wait, with that sentence you're strongly implying that something can... I dunno *be born* past the speed of light but never slow down? Is that how tachyons theoretically work without violating General Relativity?
+If you take the common rubber sheet analogy, then you can visualize that the curvature of space is caused by the presence of a massive object (an analogous bowling ball sitting in a rubber sheet causes the sheet to deform). The only way to straighten the sheet is to remove the ball.
+
+To answer your hypothesis by analogy, to resist the deformation of the rubber sheet by applying an opposite force to the underside would be to apply your fictional energy to this region of space from outside the universe.
+Right, what adamsolomon said is just another way of saying "nothing travels at or faster than the speed of light except for certain exceptions", except to add that those exceptions don't ever (really) travel slower than that.
+And *that* answers that question. It does seem a bit silly when phrased as "outside the universe." Thank you!
+Interestingly, objects moving away from a singularity do exceed the speed of light.  Sort of.  If we assume the big bang began in a singularity, then galaxies are currently receding away from each other fast than the speed of light "away" from the singularity, if not in space then in time at least.  
+
+This is due to the expansion of space itself, so it doesn't violate GR.  It's not really what you were asking for, but I thought it was interesting.
+Some of the answers here are slightly misleading so I want to clear up one thing:
+
+If I am very far away from a black hole, and I drop an object into it, I will never observe it to cross the event horizon. I will see the object fall asymptotically to the event horizon for the rest of time.
+
+EDIT: slight clarification and addition
+There aren't exceptions.
+
+The mathematics of space-time fully permit objects to travel faster than the speed of light in an unambiguous way. If an object exists slower than light (and has mass) it can never travel at the speed of light or faster. If it exists faster than light (outside of the light-cone) it can never slow down and travel slower than the speed of light.
+
+Einstein didn't like the idea of things traveling faster than light so on more than one occasion he just said it couldn't happen. But the math does not disallow it, there are no "exceptions" to be made.
+Exactly. Mathematically you *can* describe tachyons, though we have some very strong reasons to suspect they're impossible in practice. And they would have more or less the opposite properties of massive (v&lt;c) particles, one of which is that much as a massive particle can never be accelerated to the speed of light, always reaching it asymptotically, a tachyon can never be *slowed down* to the speed of light, though it has no theoretical speed maximum.
+That *is* interesting, yes!
+That's true, but there are very good reasons to think that tachyons can't exist, besides just "Einstein didn't like it." Violation of causality is one. From a quantum perspective, tachyonic modes (and their cousins, closed timelike curves) are pretty much always unstable, suggesting that particle physics has its ways of protecting chronology.
+light passing very close to the event horizon of a black hole and in the direction of its rotation can **appear**, to a distant observer, to travel faster than the speed of light. but nothing ever truly violates causality.
+
+**edit:**
+lense-thirring effect. it's rather well-documented.
+
+[CERN](http://cdsweb.cern.ch/record/382017)
+
+[nature-dot-com](http://www.nature.com/nature/journal/v431/n7011/full/nature03007.html)
+If we somehow manage to generate a black hole in front of a spaceship (or other object, satellite, etc...)  and can control it's size and all, would it allow the spaceship to travel faster then light? Since it doesn't really move "an object" but the spacetime around it too...
+
+Is this hypothetically possible?
+&gt; light passing very close to the event horizon of a black hole and in the direction of its rotation can appear, to a distant observer, to travel faster than the speed of light.
+
+No, it can't.
+
+edit: really, reddit? *really*?
+&gt;nothing can be made to go from a speed less than light to one greater than light (or vice versa)
+
+That's not *quite* right. Something massive can't go at the speed of light, but if it can instantaneously gain or lose speed, say through some totally inelastic collision, it can "switch sides" of the light speed barrier. I don't know of any way that such a collision could happen, though, since macroscopic objects collide and bounce through electromagnetic force, and I'm a bit fuzzy on how particle collisions work.
+source?
+I love this. If you could somehow cross an event horizon (the asymptote in this example) and then come back an infinite number of years will have passed for everyone else. Better, if I counted down to zero and at zero crossed the event horizon (from my perspective only say 10 secondary pass to do this) and this countdown (sent with radio waves) would spend an infinite number of years on the number one.
+
+
+
+
+Also, since a photon acts at the asymptote it would seem, from the photons pov, it is absorbed the minute it is created because its time dialiation is infinite.
+I'd like to see a source too. Unless this collision can change the sign of a particle's mass squared (which is possible on a quantum scale but not classically) it wouldn't be able to "switch sides," as you say, of the light speed barrier.
+Actually, yes it can. According to the theory of general relativity, any object can move at the speed of light relative to another object. It doesn't actually go at the speed of light, but it appears to do so.
+Does this mean that the muon neutrinos from CERN has now been officially debunked? Or are you just playing the safe odds and counting on it being wrong?
+
+(I wouldn't bet against you, don't get me wrong.)
+How are the things that are traveling at the speed of light not exceptions to "Nothing can travel the speed of light"?
+
+I don't think you and I disagree on anything.
+[deleted]
+&gt;... so unless one could figure out a way to un-curve the spacetime ...
+
+... meaning you could also curve it ... which would in effect be a warp drive (which works by folding aka. curving space-time in front and behind the ship) ... not to mention you could theoretically curve it into a wormhole and thus create near instant travel across large distances and have no need for the whole hubbub in the OP with travelling past c. If only we could ...
+No, it just hasn't yet gotten any supporting evidence nearly compelling enough to make you believe the results.
+Like I said, I don't what sort of collision it would have to be, but I don't see a mathematical reason why it *couldn't* cause the velocities (or I suppose masses) to each take up a complex component and become tachionic. I don't have a source for any theorized collision like that, but it is strictly speaking allowed by GR as far as I can tell.
+Because it's a function that has a vertical asymptote there, yes ;) The lorentz factor is a function of velocity that is the top half of an ellipse, and it equals zero at c. Divide by that and you've broken everything.
+But iirc that's also because the light takes longer and longer to reach you, right?
+Just to be clear, from a photon's point of view, it is absorbed the same *instant* it is created.
+Negative energy would work also, and sometimes the casimir effect acts like that on an extremely small scale, but it's not likely that we'd ever be able to use it for antigravity.
+Technically yes, but I wouldn't look at it that way. As far as a faraway observer is concerned, an infalling object *never* reaches the event horizon in finite time. It's not just a matter of how light behaves, it's actually what happens in the coordinate system that observer uses to describe the Universe. Of course, light taking longer and longer to reach you is a consequence of this too.
+Alright, fair enough. I'm certainly not holding my breath waiting for it to be confirmed, no.
+I always feel like this can't be right. I don't know General Relativity, so what I'm about to say is probably completely wrong, but if objects can't fall into an event horizon, then there can't be any event horizons. Or very small ones at most, since as soon as you create an event horizon, nothing gets added to it to make it bigger, ever.
+So it could be said that space is expanding into the black hole and it's carrying objects with it? I suppose that's another way of saying that inertial, "straight" trajectories aren't really straight once you factor in spacetime curvature
+That's a really interesting question and I hope someone can answer it. I don't know if light crosses the even horizon in the coordinate system of a far-off observer. If it does, that carries mass-energy into the black hole.
+&gt; Particle physics has its way of protecting chronology.
+
+This blew my mind.
+Yes now I think I remember what the Lorentz factor actually means, its a way to measure length contractions due to high velocities if I'm right.
+Both length contractions and time dilations, in fact.
+Yeah, this is a very interesting point. We'll need to detect gravity waves to determined this sort of thing, but it suggests to me that mass should accumulate around the event horizon rather than at the singularity. I've heard some quantum gravity ideas that use the event horizon as a much more important aspect of the black hole because it functions as a one way information barrier.
+
+If anybody has insight into this please share!
+&gt; Also, since a photon acts at the asymptote it would seem, from the photons pov, it is absorbed the minute it is created because its time dialiation is infinite.
+
+I love these threads because frankly I don't think about these sorts of things.
+Mass does still get added even if nothing new ever reaches the singularity. Say nothing crosses the event horizon. You essentially get a shell on the outside of the EH. This increases the overall mass of the black hole. To everything outside the EH, the black hole can be treated as a point mass. 
+
+How this affects the size of EH I do not know. Help someone?
+I subscribe to realigion too. It's the realest.
+So basically what I'm hearing from you is that if you were to travel in a straight line from point A to point B to point C you would never go past the speed of light if you used any form of acceleration known to man.
+
+But if you managed to open up some wormhole and go from point A to point C and shrink the distance by warping space (make it from 5 light years to maybe 50 feet for example) and you were to travel just under the speed of light it would appear to be going faster than the speed of light to an outside viewer who was viewing the A to C journey as linear.
+
+Did I get that right?
+If it is massless it can travel at the speed of light, i.e. photons.
+
+Particles with mass travelling up to and beyond the speed of light require infinite energy to do so, and the same with particles going faster that try to slow down to subluminal speeds.
+so how does something accelerate to C and then stop? Or is this just theoretically impossible and an object would just indefinitely approach C
+ok shoot a laser at the moon and move the dot across the surface of the moon. The light isn't moving faster than light but the dot on the surface can "move" across the moon faster than light.
+So there's still hope for FTL travel? :')
+[deleted]
+Quoted from [here](http://cosmology.berkeley.edu/Education/BHfaq.html#q4), using a character Penelope as an observer watching you fall into a black hole:
+&gt;In fact, more or less the same thing can be said about the material that formed the black hole in the first place. Suppose that the black hole formed from a collapsing star. As the material that is to form the black hole collapses, Penelope sees it get smaller and smaller, approaching but never quite reaching its Schwarzschild radius. This is why black holes were originally called frozen stars: because they seem to 'freeze' at a size just slightly bigger than the Schwarzschild radius.
+
+&gt;Why does she see things this way? The best way to think about it is that it's really just an optical illusion. It doesn't really take an infinite amount of time for the black hole to form, and it doesn't really take an infinite amount of time for you to cross the horizon. (If you don't believe me, just try jumping in! You'll be across the horizon in eight minutes, and crushed to death mere seconds later.) As you get closer and closer to the horizon, the light that you're emitting takes longer and longer to climb back out to reach Penelope. In fact, the radiation you emit right as you cross the horizon will hover right there at the horizon forever and never reach her. You've long since passed through the horizon, but the light signal telling her that won't reach her for an infinitely long time.
+As I said, we very strongly suspect tachyons are impossible to achieve in practice, even if they can at least be described mathematically.
+Yeah, you can only approach c, never reach it. A massless particle - the only kind that can travel at c - is created travelling at c and never slows down or speeds up.
+See my post [here](http://www.reddit.com/r/askscience/comments/nymb8/does_the_velocity_of_an_object_falling_into_a/c3d2jeu).
+Objects *do* fall into event horizons in their own reference frames. In fact, there's nothing all that special about horizon crossing for someone falling in. It's the observers outside the black hole who never see this happening. As far as they're concerned, a black hole can be treated as a shell of mass on the horizon.
+This suggests to me that in a frame outside the event horizon a singularity doesn't exist at all. Instead one observes an ellipsoid of mass that asymptotically approaches the event horizon as time goes to infinity.
+It does suggest that but continue reading on the link. It explains that the light doesn't touch the singularity but from the reference point of the object falling in the object does reach the singularity. As such it increase the event horizon to the observer outside. (from my interpretation of a following paragraph in the article) But I would appreciate a physicist backing me up on this.
+lense-thirring effect. it's rather well-documented.
+
+[CERN](http://cdsweb.cern.ch/record/382017)
+
+[nature-dot-com](http://www.nature.com/nature/journal/v431/n7011/full/nature03007.html)
+No. You just wouldn't be travelling as far. Wormholes are shortcuts, not speed boosts.
+
+If you drive 80mph from New York to Boston, but pass through Montreal on the way (in this analogy, going the speed of light through normal space), and I go directly from New York to Boston at 60mph (below the speed of light through a wormhole), I would get there first, but I wouldn't have gone faster than you (although someone in Boston might assume that if I get there first).
+[deleted]
+Reading that has made me very confused. It says that the two explanations are identical, but I don't see how that could be. Under one explanation, from Penelope's point of view, assuming that you don't fire thrusters to get out before some finite time t, you will never get out. Under the other explanation, you have infinitely long to get out. If it's just an optical illusion, your velocity only increases, and that time passes pretty fast.
+I understand that... but whatever, I guess I'll just get downvoted and argued with for trying to rephrase something in a way that might have helped someone understand.
+Yeah that's what I meant to say. Wormholes would be a shortcut, not a speedboost, I just messed up on the outside viewer perspective part.
+I yield to someone who is more knowledgeable than I. I can give no more than layman speculation which will be downvoted and removed.
+Perhaps I misunderstand something (just beginning to study GR in depth), but I was under the impression that light was simply redshifted when travelling away from a convergence of the gravitational field.  
+
+I haven't been over the Schwarzschild solutions of the field equation, but I sort of figured that the Schwarzschild radius was a good enough distance away from the actual singularity to render the spacetime in the neighborhood of said event horizon smooth enough for "c" to remain "c".
+
+Enlighten me!
+The closer an emitter is to the event horizon when it emits a photon, the longer that photon takes to escape. As the emitter gets arbitrarily close to the horizon, the photon it emits will take arbitrarily long to reach some distant observer. Which makes sense if you think about it since once the emitter reaches the horizon, photons it emits will *never* escape.
+I understand what you're saying, but this answer seems to be the same point that my question was hinging on.  I guess what I'm asking is this: is the metric near the horizon so skewed that, in essence, the photons are traveling through an interval approaching infinity?
+
+For some reason I had pictured this severity of curvature happening well within the event horizon; probably due to reading lay literature about supermassive black holes.
+No, the metric near the horizon is perfectly regular. I don't know what you mean by "traveling through an interval approaching infinity," sorry...
+So, the way you're describing this makes it seem like it's just an illusion that objects don't fall inside. They do fall inside from my reference frame, i just don't see it happening. Using special relativity, suppose a spaceship is travelling towards me at half the speed of light. I would see it travelling at the speed of light, but i could calculate its velocity, and it would be half the speed of light. Is the same true for black holes? If I calculate the velocity of the object (rather than just looking at it), it will be increasing?
+No. In your reference frame they *never* fall in. Looking at how photons travel is a useful way to think about this conceptually, but in your reference frame, which is the coordinate system you use to describe the Universe, the event literally never happens.
+
+I'm not sure I understand your example. If an object is travelling towards you at 0.5c, you'd see it travelling at 0.5c. Why would you see it travelling at the speed of light?
+In my example, suppose at time 0 an object is distance d away. It's travelling towards me at 0.5c. It emits a photon at d. The photon is travelling at c towards me. Then, at time t the object is (d-.5ct) away. It emits another photon, which is now travelling at c towards me. By that time, the first photon is (d-ct) away from me. So, the distance between the two photons is (d-.5ct)- (d-ct) = .5ct And that will always be the distance between the two photons. So, the second photon will hit my eye .5t after the first. Which means that I will see the spaceship being d away at some time, when the first photon hits my eye, and then .5t later, when the second photon hits my eye, I will see the spaceship being d-.5ct away. Which means that it looks like it's moving at c. But since I know that the speed of light is finite, I can calculate its actual velocity as 0.5c.
+
+I think I responded to the wrong post
+
+&gt;The closer an emitter is to the event horizon when it emits a photon, the longer that photon takes to escape. As the emitter gets arbitrarily close to the horizon, the photon it emits will take arbitrarily long to reach some distant observer. Which makes sense if you think about it since once the emitter reaches the horizon, photons it emits will never escape.
+
+This is the one I meant to respond to. You're describing this never falling in as a property of the photons that are emitted rather than the body itself.
+&gt;You're describing this never falling in as a property of the photons that are emitted rather than the body itself.
+
+No, I'm describing it as both. As I said, the former is an easier way of understanding this, but the latter is really more fundamental. But it's a property of both how photons move in the spacetime and of your frame of reference itself.
+
+I'll respond to the other bit later - if no one gets to it first - as I have to run, physicists' cocktail party awaits!
+Okay, so in special relativity (i.e., no gravity) an object is travelling towards you at 0.5c, and yes, things would work as you say. Obviously, knowing physics, you'd realize that the thing you're calling its velocity isn't its velocity, so the fact that the number you get out is c shouldn't concern you. It's not an actual velocity. As it is, such an experiment would be difficult or even impossible in practice since you usually don't know how far away a photon was emitted. If you use a method like measuring the object's redshift you'll get the right velocity.
+
+In your reference frame, however, the quantity d/t *is* its velocity and is always unambiguously 0.5c. Remember that a reference frame is just a coordinate system you put on the Universe, so in this case d and t are coordinates describing the object's position (on some axis) and time, respectively. In Schwarzschild coordinates - the coordinates a faraway observer puts on the spacetime of a non-rotating, uncharged black hole - an infalling object never passes the event horizon, only getting closer and closer as your time coordinate t goes to infinity. Same thing here. This is why I said in my last post, it's more than just an optical illusion.
+Thank you for the explanation. I think it makes sense now.
+
+Summary:
+Nothing that has mass can reach the speed of light.
+Say nothing crosses the event horizon.
+Objects *do* fall into event horizons in their own reference frames.
+It's the observers outside the black hole who never see this happening.
+Why would you see it travelling at the speed of light?
+I will see the object fall asymptotically to the event horizon for the rest of time.
+As such it increase the event horizon to the observer outside.
+I would see it travelling at the speed of light, but i could calculate its velocity, and it would be half the speed of light.
+How are the things that are traveling at the speed of light not exceptions to "Nothing can travel the speed of light"?
+It emits another photon, which is now travelling at c towards me.
+It doesn't actually go at the speed of light, but it appears to do so.
+It's not an actual velocity.
+It's travelling towards me at 0.5c.
+If it is massless it can travel at the speed of light, i.e.
+"Black holes are regions of spacetime from which nothing, not even light, can escape.
+Yeah, you can only approach c, never reach it.
+I think it makes sense now.
+If I calculate the velocity of the object (rather than just looking at it), it will be increasing?
+Which makes sense if you think about it since once the emitter reaches the horizon, photons it emits will *never* escape.
+Which makes sense if you think about it since once the emitter reaches the horizon, photons it emits will never escape.
+In your reference frame they *never* fall in.
+If an object is travelling towards you at 0.5c, you'd see it travelling at 0.5c.
+I don't know if light crosses the even horizon in the coordinate system of a far-off observer.
+As far as a faraway observer is concerned, an infalling object *never* reaches the event horizon in finite time.
+If an object exists slower than light (and has mass) it can never travel at the speed of light or faster.
+It emits a photon at d. The photon is travelling at c towards me.
+This suggests to me that in a frame outside the event horizon a singularity doesn't exist at all.

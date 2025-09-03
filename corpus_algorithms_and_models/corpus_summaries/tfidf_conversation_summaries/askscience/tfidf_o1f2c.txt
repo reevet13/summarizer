@@ -1,0 +1,19 @@
+Original Response:
+Because the rock and the air are also rotating at that speed.  And the speed you speak of depends on latitude - it's zero at the poles.
+Basicly because the rock is also moving 1000 MPH at the time its thrown.
+[deleted]
+Why don't we feel friction due to this speed?
+Because the air is moving at the same speed.
+The Earth and its atmosphere are rotating at the same rate, so there's no friction between them - at least not on a scale we can feel.
+I see. So there is no observable difference in experience from the North Pole and say, New York, despite these speeds varying?
+There are some differences.  You can use a [Foucault Pendulum](http://en.wikipedia.org/wiki/Foucault_pendulum) to measure the acceleration of the Earth beneath you, for instance.  It's the difference between the velocities in two different places that makes the effect, not just how fast the velocity is.  So you *can* see effects, but they're only big if they're over big distances.
+Keep in mind that while the Earth is rotating at a high speed, it's also revolving around the Sun at an even higher speed, and rotating around the center of the Milky Way at an even *higher* speed.
+There is observable difference. The sun and moon and stars follow different paths in the sky depending on your latitude. At the north pole you have 6 months of daylight and 6 months of night.
+
+No real difference in the motion you feel, though. It's acceleration--change in speed--that you feel, not speed itself. Now there is some acceleration on us due to the fact that we're moving in a circle as the Earth rotates, not a straight line. The centrifugal "force" from this rotation will make you weigh slightly less at the equator than at the pole, because it pushes you outward. The difference is very small, however.
+Because an object in motion tends to remain in motion unless an outside force acts upon it.
+There is a tiny, tiny difference due to the Coriolis effect.
+
+Summary:
+Because the air is moving at the same speed.
+Because the rock and the air are also rotating at that speed.

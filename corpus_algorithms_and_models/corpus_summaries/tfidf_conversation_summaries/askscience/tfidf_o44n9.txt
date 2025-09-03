@@ -1,0 +1,319 @@
+Original Response:
+I thought this was an interesting factoid but I don't think it gives much real information. I can't seem to find anything else but the statement itself. 
+
+Edit: I'm really glad this has drawn so much attention. I've been reading through responses and many are very thought out and interesting. Thanks!
+Maybe they were referring to the relation between how much CO2 is produced from creating enough electricity to keep the computer running for that period of time.
+I have always presumed sea level pressure - 14.7 pounds per square inch - http://en.m.wikipedia.org/wiki/Atmospheric_pressure. 
+
+Any other pressure for such a generic measurement would significantly skew the result as you imply.
+that's exactly what they are referring to. i'm just curious as to the pressure of the CO2 in the bus.
+It doesn't sound like a very scientific statement in the first place.  Who exactly is making the claim?
+1 atm
+I actually got is as a sign off from a company I corresponded with on an email. Quick link to the google results: [here](https://www.google.com/search?q=%22A+computer+left+on+overnight+for+a+year+creates+enough+CO2+to+fill+one+and+a+half+double+decker+buses.%22&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a#hl=en&amp;client=firefox-a&amp;hs=t3C&amp;rls=org.mozilla:en-US:official&amp;q=A+computer+left+on+overnight+for+a+year+creates+enough+CO2+to+fill+one+and+a+half+double+decker+buses.&amp;sa=X&amp;ei=1uAFT5P3NsiKsgLMnsCRCg&amp;ved=0CBgQgwM&amp;bav=on.2,or.r_gc.r_pw.r_cp.,cf.osb&amp;fp=4b3c420078196b39&amp;biw=1280&amp;bih=557)
+
+edit: i linked that because i'm not sure who initially made the claim.
+a modern pc draws 50 - 100 Watts in idle mode, lets assume 75 watts. 
+At a 8 hour night this makes about 365*8*75 Watthours ~= 24kWh every year.
+
+according to this wiki chart: 
+http://upload.wikimedia.org/wikipedia/commons/d/d3/Greenhouse_emissions_by_electricity_source.PNG
+
+thats about 20g to 2.5 kg of carbon, depending on the power plant.
+**EDIT:** When I first wrote this, I grabbed the wrong carbon dioxide density from Wikipedia. I used the density of solid CO2 at room pressure instead of CO2 gas. Upvotes to the redditors who pointed this out. The calculations have been corrected, but the tl;dr version is that the statement is more or less correct.
+
+Computers don't produce CO2. I assume that they are referring to the CO2 produced by power plants that are providing electricity to the computer, but that's going to vary a lot based on your energy sources. If carbon-neutral sources like wind, solar, biomatter, and nuclear are used, the computer won't contribute any CO2.
+
+Also, the composition of energy sources at night is different than during the day. Demand is lower and nuclear plants can't be turned off, so coal/oil plants slow down at night.
+
+But on to the numbers.
+
+My laptop uses about [30 Watts](http://www.upenn.edu/computing/provider/docs/hardware/powerusage.html). Over a year that is 30 Watts x 24 hours/day x 365.24 days/year = 262.9728 kiloWatt hours per year.
+
+The Carbon Dioxide Information Analysis Center (a government group) estimated in 1990 that [1 kWh of energy resulted in 2.3 lb of CO2](http://cdiac.ornl.gov/pns/faq.html). I would guess that our investments in renewable resources have decreased this a little, but we'll go with it for now.
+
+262.9728 kWh * 2.3 lb/kWh = 274 kg of CO2
+
+[The density of CO2 at room temp and pressure is ~~1.562 g/mL~~1.977g/L](http://en.wikipedia.org/wiki/Carbon_dioxide)
+
+274 kg/1.977g/L = 138.59 cubic meters of CO2 per laptop per year of use. That's a little more than a [102 cubic meter double-decker bus](http://www.carbontrust.co.uk/cut-carbon-reduce-costs/products-services/technology-advice/employee-awareness/pages/poster-fact-calculations.aspx).
+
+For reference, humans produce about [1 kg per day](http://cdiac.ornl.gov/pns/faq.html) just breathing, so this laptop is responsible for 33% less CO2 than any windbag who criticizes you.
+
+~~EDIT: I tried to find the origin of this "fact," and traced it back to a non-profit called "Carbon Trust." Apparently they produce employee awareness posters with these "facts" and [a section of their website shows the calculation behind them](http://www.carbontrust.co.uk/cut-carbon-reduce-costs/products-services/technology-advice/employee-awareness/pages/poster-fact-calculations.aspx). Here are the assumptions they made to come up with their figure:~~
+
+1. ~~Their computer is 3.5 times more energy consuming than mine, at 107W. Probably fair if you are talking about a powerful desktop with a monitor.~~
+2. ~~0.43kgCO2/kWh, which is slightly less CO2 per unit energy than I used. Again, probably fair because my figure is 20 years old~~
+3. ~~1.98 (conversion factor for CO2 weight to volume). **They just chucked in an unexplained, unitless "conversion factor"** to translate weight (kg) into volume (cubic meters). Their "conversion factor" is complete bullshit: it works out to a density of 0.00198004969g/mL, which is 0.1% of the actual density at sea level. So unless their double-decker buses are in space, the "fact" is a complete fraud.~~
+No worries.  I'm not trying to call you out, it just seems like one of those things that some unidentifiable person said, and nobody tried very hard to validate.
+[deleted]
+water has a density of 1 g/ml there is no way that the gas CO2 is denser than that. Perhaps you meant 1.562g/L which would make the fact about correct.
+[deleted]
+Um, I'm pretty sure they mean CO2 gas &amp;#3232;\_&amp;#3232;
+. Your calculations use a density of 1.562 g/mL which is strange since this means that CO2 would sink in water. I think you accidentally used the wrong conversion, and used the one for dry ice instead. Nice calcs though... 
+
+Edit: the density is 1.977 g/L for CO2 gas. Yeah I checked and you used the wrong one. This means that the volume of gas should be 
+274 kg / 1.977 g/L = 138593.829 L which is 138.59 m^3. 
+
+This means from your estimate for bus volume, that it will fill 2.88 buses. I think that the saying is actually conservative! if you halve that (because we are just talking nights) then you would get about 1.5 buses.
+Oh no, I used the density of solid co2 at room pressure. My mobile app doesn't have an edit button, but I'll make the corrections when I get back home.
+Great detailed answer, especially about the distinction of carbon neutral sources.  In that spirit, I would just point out that windbags are carbon neutral too.
+My calculation using my gaming computer/server:
+
+~400W average use (Idle + gaming use), taken from my KillAWatt
+-24 hours a day
+
+= 9.6kW*hr / day
+
+Let us assume that "overnight" means for 1/3 of that time:
+
+ = 3.2 kW*hr / day  "overnight" use.
+
+Total "overnight" use per year: 1,168 kW*hr
+
+Giving generous assumptions for transmission loss, as well as taking into account my nation's penchant for burning very, very old trees, I will assume 1Kg/kW of CO2 produced (http://upload.wikimedia.org/wikipedia/commons/d/d3/Greenhouse_emissions_by_electricity_source.PNG).
+
+Which brings my "nighttime" use to 1,168 Kg of CO2. At 1.562g/mL that gives us ~748L.
+
+To fill 1.5 Busses (a volume approximated to be 75 cubic meters) My computer would have to be using at least a 10kW power supply.
+This is also assuming that your, for no particular reason not using standby.  So long as your computer was made within the last ten years it will drop to S3 and consume almost no power (less than 10W).
+And very few people leave a monitor on overnight.
+Sorry but you've made a critical error. 1.562 g/ml is the density of CO2 at 1 atm and **-78.5 C** and so is a solid.
+
+So going from your work of 274 kg of CO2
+Convert that to moles: 274,000 g / [(44.01 g/mol)](http://en.wikipedia.org/wiki/Carbon_dioxide) = **6225.85 moles of CO2**
+
+[**Using Ideal Gas law V = nRT/P**](http://www.ajdesigner.com/idealgas/ideal_gas_law_volume_equation.php) we can find the volume of one mole of CO2 at 1 atm of presure and 72 F to be **176.33 m^3**
+
+Which acroding to the number you provided above is (176.33 m^3 / 48 m^3 =) **3.6 London double-decker buses.**
+
+So in fact they severely underestimated the volume of CO2 by over 1.5 buses
+
+**Edit: As Hi_Kate points out below they said over night and not 24 hours so they where correct in saying 1.5 London buses if you have 12 hours of night.**
+Followup question - How big a plant would you need to grow to make up for that much co2?
+i actually had a friend ask that! that's the whole reason i wanted to figure this out.
+probably atmosphere... if not, then it is simply intellectually dishonest at worst,  open ended at best.
+I'll simplify this for you.  A computer uses about as much electricity as a light bulb.  Generally speaking.
+That's so much simpler, as opposed to using terms that are meant for shock value. Thanks.
+Or night doesn't have 24 hours but, say, 12 and their estimation is accurate. Not to mention 30W for standby is way to much.
+But if the computer is in sleep mode or hibernation it will draw probably &lt;15% of that.
+Most of the CO2 is actually processed by algae iirc.
+Depends on the computer though.  Overclocked, my desktop probably uses ~5x as much as my laptop.  Still a good description.
+Is this true? Seems too good to be, to me, you see. 
+Do you have any sources or anything?
+One thing to note, is that your calculations are for the laptop being on for an entire year, not just the overnight portion. Depending on how long you consider overnight, you might cut the CO2 by up to 2/3!  The 2/3 comes from you only having your computer on for an eight hour work day. If you only count the eight hours "you should get per night", then its a 1/3 reduction..
+[deleted]
+http://www.tpcdb.com/list.php?type=13
+A hibernating computer draws no power.
+&gt; _For reference, humans produce about 1 kg per day just breathing, so this laptop is responsible for 33% less CO2 than any windbag who criticizes you._
+
+Except the windbag is carbon neutral because the carbon they exhale was fixed from the atmosphere by plants in the modern era. Digging up carbon from millions of years ago and releasing it into the atmosphere to generate power has a different effect.
+&gt;A hibernating computer draws **very little power**.
+
+FTFY
+Well it suspends to a hard disk so its the same as if it was turned off yet plugged in.
+That can be way off.
+
+Average computers can use up to 200W when under a full load, gaming computers can easily draw up to 500W-600W, and really intense workstations and gaming computers can draw well past 600W to 800W.
+
+Now that's under full load and really pushing the systems (which can and will happen).
+
+Saying it draws as much as a lightbulb is plain wrong, that's bare minimum usage. In fact, that's probably an underestimation.
+Yes I know.
+
+ the power supply will still use some power unless you unplug it or use the hard switch at the back, it is very little power though
+They mean at STP, probably.
+I just want to point out that a "powerful desktop with a monitor" draws much much more than 107W.  Maybe perfectly idle they draw 107W, but under load my desktop pulls around 550W (if you're a hardware nerd - 2x hp w1907's, keyboard/mouse, 2 sticks of 1600MHz ram, phenom 1100T, an AMD 6950 GPU, case fans, and other peripherals.  I'm going to make the assumption that my desktop pulls about 200W idle, *but that is a random out-my-ass guess based on the figures of 30W idle draw from processor, 40-50W idle draw from the GPU, 50W from each monitor (HP says 49W, 50W is a round number).  I use a mechanical set of hard disks (2), WD black drives, blues draw about 8W, I'm once again guessing that blacks pull about 10.  RAM sticks draw 4.5W a piece, 9W is rounded to 10W for the purpose of this example.  
+
+30+40+50+50+10+10+10=200W.  That is of course not a scientifically measured figure(!) and a rough estimate, but my (non-average) desktop draws much more than 107W.  I'd assume 107W is a "standard desk job" low-power machine for word processing and web browsing.
+They are talking about leaving the computer on overnight, not gaming on your sleep.
+no power.  **Sleep** draws little power because the session "lives" in the RAM and requires power to "stay alive."  A hibernation writes a summary of the session to the end of the HDD platter and leaves a boot instruction to load that on startup.  Theoretically, that data will degrade and corrupt if left for a long time, but "in the real world" a hibernating computer needs no power.
+My computer uses Asus 6 in 1 power saving.. even kicks off major parts of video card.  I have measured it to go as low as 40 watts (and as high as 500 watts)
+Those are all low power laptops.  That's like saying car emissions aren't a problem because "look how efficient hybrids are!"
+if hibernation draws no power, how can it sense the on switch?
+&gt;For reference, humans produce about 1 kg per day just breathing, so this laptop is responsible for 33% less CO2 than any windbag who criticizes you.
+
+I know I shouldn't post stuff like this, but slipping that in there like that was just beautiful, and I laughed pretty hard.
+Even those who do usually have it go in to standby, which consumes significantly less power.  This [table](http://standby.lbl.gov/summary-table.html) is probably a little bit outdated by now, but it wouldn't surprise me if it still ballparks the numbers well enough.
+Does this take into account Daylight savings time, as well includes a variance on possible power outages?
+You're right but we're talking about maybe 10ma of current here.
+I don't think you have any understanding of computers.  
+
+The "on switch" in some cases (depends on computer case design) physically activates a geared simply machine completing a circuit [bridging the power supply and the motherboard] providing power to a motherboard, which will in turn feed power to [nearly] all the other components.  One of many exceptions are discrete graphics cards, which have enough power draw that they have a direct connection to the power supply.  Once the motherboard receives power, it will initiate a boot, starting with BIOS (Basic In/Out System).  The fisrt task, if enabled in BIOS, is to POST or perform a Power on Self Test, simply checking that all attached components are functional and memory is error-free (you will get a beep error if you have bad RAM [memory]).  After a computer passes POST, the BIOS boots from the designated media, commonly an attached Hard Disk Drive (HDD) or Solid State Drive (SSD).  From there, the drive reads info to the components and boots the OS.  
+
+It is at this stage, the OS level where hibernation rests.  The OS boot sequence will read hibernation protocols (I'm simplifying here) and read the last, saved user session off of the boot storage media.  For this one boot, it will use that data as the default logon session for the user who initiated the hibernation.  The OS will boot as 'locked' which prevents a user switch.  
+
+Now, the other kind of case design uses an electrical power on switch, which typically has a wire run from the power supply to the button that will send a signal to complete the circuit to the motherboard and perform the operations described above.  It is common for this design to have a "flash power" button built into the case exterior, which simply breaks the circuit and then immediately completes it performing a hard reset (this cannot damage hardware, though it might corrupt any data being written to storage media at the time.)
+Exactly.  People don't seem to understand that if it's plugged in to a live power socket, it's probably drawing power regardless of whether the device is on or not.  Albeit, a very small amount of power.
+*The "on switch" in some cases*  this is the power supply switch.  not the computer switch to wake up from hibernation.
+
+the point is you are making is about unplugging vs the question is about hibernation.  The power supply switch (your simple machine analogy) is equivalent to unplugging, hibernation is not.
+
+the on switch in all cases is a simple pull up / pull down, which requires power to be sensed.  The power supply switch is mechanical, and sits between the wall and a fuse.
+Most modern operating systems will enter a sort of "power-saving" mode when left overnight (computer left idle).
+
+This includes shutting down the monitor, spinning down the hard-drives ("shutting them off") etc.
+
+Your calculations might be correct for a computer without a power-saving mode, but if does features kick they power usage will drop to around 35-40 Watt (Can't "shutdown" ram, and an idle CPU requires very little power)
+ehh, the option is enabled by default but I disable it on my machines simply because when I walk away from them i leave them doing stuff (defrag, virus scan, or data crunching/rendering) and I don't want windows starting sleep and fucking that stuff up.  
+
+Sure, their example (a 107W draw machine) would have that, but I disable it.  then again, my setup is not a great example for an everyday setup.
+&gt; the point is you are making is about unplugging vs the question is about hibernation. The power supply switch (your simple machine analogy) is equivalent to unplugging, hibernation is not.
+
+my point is that you can unplug a hibernating machine without any repercussions because of what a hibernation is.  *Hibernation* does not cause a computer to draw power, because a hibernating computer is in a fully powered-down state.  
+
+As far as power consumption goes, hibernation is not an exclusive scenario.  That is, a hibernating computer can have the same power draw as either an unplugged one, or one that is plugged in and supplied power from a source but not currently "on."
+Off = 2 Watts
+
+Idle = 230 W
+
+Idle with screen saver = 134 W
+
+Sleep ~ 5 W
+
+Still wrong.
+
+Source: http://www.librador.com/2011/01/18/Computer's-Standby-Power-Consumption/
+
+EDIT: Conservative estimate for an idling computer = 54W
+
+For high end computer = 123 W
+
+Both do not include monitor.
+
+http://www.tomshardware.com/reviews/power-supply-psu-review,2916-7.html
+
+123
+[deleted]
+if a computer is hibernating and waiting for the case switch, it is most certainly drawing power.  However, since it is suspended to disk and not ram, it is less than sleep.  The only way a computer draws no power is when it is physically separated from the power supply.
+[deleted]
+Sure, but I can't easily build an algae farm in my back yard.
+
+I can, however, plant bamboo that grows 30' trees each spring.
+Actually, algae perform about half of total [primary productivity](http://en.wikipedia.org/wiki/Primary_production#Global).
+
+Now, how big a plant? Assuming wood is basically cellulose of which [22% is carbon (6\*12 / (6\*12 + 10 + 5\*16))](http://en.wikipedia.org/wiki/Cellulose) and the [average weight of a cord of wood](http://www.consumerenergycenter.org/home/heating_cooling/firewood.html) is around 1200 kg, there are about 264 kilograms of carbon in a cord. This is pretty close to the estimate above, so leaving your laptop on is about equivalent to burning a cord of wood (or a few trees).
+A bit pedantic.  By the same token, a powered-off computer draws "very little" power unless you physically unplug it from the wall.  Point is, a hibernating computer *is* powered off, and has the same power draw as if you clicked "shut down" instead.  The system state is stored to nonvolatile storage.
+The only time my system draws over 100 watts from the wall is when I'm playing a 3D-intensive game.  Otherwise, it's ~95W.  And that's with a 1090T, 8 Gigs of RAM, 2 hard drives and a GTX460 video card.
+
+These numbers have been verified via kill-a-watt.
+the computer is completely and totally off when hibernating. it draws no more or less power than when you turn it off normally.
+
+simply all hibernation does is save the current state of the machine (essentially the contents of the ram) to disk then it shuts down as normal and then when the computer turns back on it loads it back and ends up just as it was before the hibernation.
+agree.
+
+and we all agree that the computer draws power while off?
+&gt; A hibernating computer draws **the same amount of power as a turned-off computer**.
+[deleted]
+STP is cold. I'd hope RTP.
+yes but that's not what you wrote.
+what you wrote basically implies that hibernation is different to shutting down, and implied it draws more power. hence the argument. perhaps you should have worded it differently?
+So basically the same amount as an incandescent night light.
+
+Although the night light is a lot cheaper to replace than a computer that accumulates wear and tear as you leave it on for no reason overnight.
+I disagree strongly, but it doesn't matter because very few people have it configured *not* to go into power-save mode when it's idle. Except my goddamn idiot coworker who went out of town for a week with his screensaver flickering the whole time...
+that's like saying a computer that is powered down and plugged in uses power.  Yes, it does, but it's under 1kW/h so it's generally disregarded.
+Related: what about the wear and tear that the machine accumulates while it's left on?
+
+That is, how much CO2 is added to the atmosphere in production of a computer, and how long do we expect it to run before it fails? If we reduce its lifetime threefold (assuming it's in use for an eight-hour workday and "overnight" is the other two-thirds of a day, though we're still ignoring weekends for simplicity), is that a realistic time in which parts will burn out and need to be replaced?
+So you're saying it generally uses somewhere in the vicinity of a 60w to 100w lightbulb, maybe a bit more if it's a high-end computer?
+If we're talking about work days, then we might as well think about weekends too and just call it a 40-hour work week, i.e. the computer is idling roughly 75% of the time, so it's a 1/4 reduction.
+The 6950 is a beefier card than the 460, likewise the 1100T is a beefier CPU.  GB of memory does not matter as much as stick count does (though a stick is about 4.5W, the difference is pretty moot).  
+
+The Tower/box/case/what-have-you of my computer probably draws about 100-110W idle/light load, it's because I run two monitors that HP rates at 49W consumption that my system takes ~200W idle.
+&gt; ehh, the option is enabled by default but I disable it on my machines simply because when I walk away from them i leave them doing stuff (defrag, virus scan, or data crunching/rendering) and I don't want windows starting sleep and fucking that stuff up.
+
+I don't think Windows goes into sleep mode when it's doing those things, but even if it does, you could just reduce the power-saving settings when you actually leave it doing something important, rather than all the time.
+Most of the constants you will get, though, are in relation to STP.
+I disabled it after windows went into sleep and forced me to do a hard reset while I was defragging (I do not use the windows defrag tool - that could be why it does not auto-sleep).  The tl;dr is that it went into sleep while defragging and locked up while it went to sleep (but did not BSOD).
+can you point out where i implied shut down was different than hibernate?  i was pointing out that hibernation and unplugged is different, and specifically the function of the power swich requires power to sense the pulldown to trigger power up.  this imies power off also requires power, as it reacts to the case switch.
+but this is precisely what we are discussing.  1 is not zero.
+I am willing to bet that if you measured actual draw from the wall, you'd be pleasantly surprised.  Most rated draws are for peak loads, and don't accurately represent steady-state usage.
+
+My hard drives, for example, will draw ~10W on spin-up, but never flicker above ~3-4W after.  They're 'rated' at 8W draw.
+Well, that sounds like a serious flaw in either the defrag tool or Windows, because it's understood that you leave the computer alone for a long time while it's defragging. Still, that doesn't seem like a reason to leave the machine fully awake 24/7.
+What wear and tear does a computer accumulate in standby?
+Idling, but under load it's way more.
+If I read that statement I would automatically assume the author was referring to one and a half double decker buses full of CO2 at atmospheric pressure at sea level.  And if he wasn't referring to that (for instance, if he meant one and a half buses full of dry ice), and he failed to qualify it, I wouldn't take him seriously.  And I kind of don't take him seriously already, because he said "one and a half double decker buses," instead of just saying "three buses... the single decker kind."
+
+But computers do use electricity so they do generate CO2 somewhere.  But if I wasn't using a computer I would have been running around outside my whole life exhaling CO2 and filling many more buses than I am just sitting here barely breathing.
+This statement is reliant on a huge number of factors. For [example](http://www.telegraph.co.uk/technology/google/4217055/Two-Google-searches-produce-same-CO2-as-boiling-a-kettle.html), a Harvard professor says Google produces 7 grams of CO2 per search vs the Google estimate of 0.2 grams. It boils down to the type of energy, energy company, specifications of equipment, room temperature, etc.
+That wattage is too low for a typical desktop computer.
+Indeed. What about in areas that are predominantly/totally powered by renewable methods, like hydro in NZ or wind/solar in Europe?
+Seriously? You would need to have a pretty extreme system to draw 230W on idle. The vast majority wouldn't even draw 100W on idle.
+Plasma televisions do not draw a very small amount of power while they are off.
+[deleted]
+people who down-voted this comment lack an understanding of the difference between zero and non-zero.
+
+the issue at hand is similar to the argument that the human brain consistently is orders of magnitude more computationally efficient than a computer.
+1 micro amp, compared to zero, is infinitely times more than zero
+Sure. But most people will rarely run their computers at full load. For most people, their computers will be idle or less than idle the majority of the time.
+A valid point considering how on switches actually work in modern computers. But it is technically possible to build a computer that doesn't "sense" the switch and can thus be turned on from a zero power state.
+Minor quibble: the carbon used to produce that vegetable matter (and animal feed, so- much of the animal fat and protein that is consumed) is partially derived from fossil fuels: fertilizer production, energy consumed in harvesting, fuel used in transportation. So, while not direct, there is atmospheric carbon production used in agriculture.
+
+Of course, it's a sink as well, particularly with things like produce and nuts that are grown on trees, forming wood.
+But my PS3 is essentially a computer, but with a game disc in and left with the game running it uses about as much energy as my fridge. So, does my fridge use about as much energy as my energy saving lightbulbs?
+
+But my fridge has a lightbulb *inside* of it...
+If your computer emits CO2 you should probably switch to an electric.
+how many minutes a day is the average computer under full load?  What percentage of computers are gaming computers?  Both are very small when you consider a large majority of computers are used and built for work and not gaming.  I'm in IT and I've setup literally thousands of basic computers for business, I know about 10 people with high power gaming computers.  
+That "can" be way off, that's why I said generally speaking and when generally speaking it is not plain wrong.  Its actually a very good estimation for everything that is not a high power gaming computer which is a very large majority of systems.
+you can triple the power usage of those systems and still be under a 75 watt light bulb.  perhaps that wasn't the best source.
+your ps3 uses about 8 times as many watts as a ps2 which is essentially a computer...
+Wish I could upvote twice.
+
+This is almost as bad as, "if everyone did &lt;insignificant action&gt;, we would save &lt;impressive-looking number&gt;!" Ignore the fact that total consumption is 10000 × &lt;impressive-looking number&gt;.
+
+We're also not supposed to notice that the average American generates **150 buses** full of CO2/year. Also, we don't really understand numbers that big.
+one unrelated comment: if your desktop computer takes at least a minute to boot up and if it uses at least 200W of power during that time and if you use it every day, you actually save energy by not turning it off at all. switching it to sleep power saving mode is just more effective.
+For a normal user, the most "wear" your computer experiences is actual caused by turning it on and off.  This won't apply if you have an over-clocked rig running high-end games or doing 3d rendering or something.  So, S3 will cause somewhat less wear than actual shutdown.
+
+Your processor is running in a super-down-clocked mode (basically doing nothing but waiting for keyboard input).  So, probably little to no wear there.
+
+Maybe your power supply would take a hit over time depending on how it deals with being on but only having a minimal power draw - it might wear as fast as if it was running normally.
+it's not on 24/7 (week days 6-8hours, weekends 12-16hrs) I just don't shut it off once I turn it on for a day (usually) so I do maintenance while I'm away from it.
+You're missing the god damn point here.  
+
+**Hibernation for a computer does not directly consume power.**
+I actually got my draw figures for my GPU and CPU from CPU-Z/CPUID and GPU-Z/GPUID respectively.  As far as other components go I was guessing as to power consumption, but the motherboard probably takes as much as the difference for one or two of them.
+that is not true in all cases, which *is* the point.  if it's hibernating, and NOT PLUGGED IN, then it is true.  if it is hibernating, AND PLUGGED IN, it is not true, regardless of why.
+
+to consume zero power, you MUST unplug the machine.
+You're still missing this part:
+
+&gt; directly
+the question was about power consumption during hibernation, so please continue to make your point about how much power is consumed by each individual component, it's completely irrelevent.  Power is consumed by all computers in all states unless it's unplugged from the wall.  That was my point, i have clearly made it
+and for the record:
+http://smackerelofopinion.blogspot.com/2009/07/power-consumption-during-hibernation.html
+
+Summary:
+A hibernating computer draws no power.
+if hibernation draws no power, how can it sense the on switch?
+and we all agree that the computer draws power while off?
+&gt;A hibernating computer draws **very little power**.
+**Hibernation for a computer does not directly consume power.
+it draws no more or less power than when you turn it off normally.
+the computer is completely and totally off when hibernating.
+*The "on switch" in some cases*  this is the power supply switch.
+I don't think you have any understanding of computers.
+that's like saying a computer that is powered down and plugged in uses power.
+if a computer is hibernating and waiting for the case switch, it is most certainly drawing power.
+But computers do use electricity so they do generate CO2 somewhere.
+Depends on the computer though.
+But if the computer is in sleep mode or hibernation it will draw probably &lt;15% of that.
+not the computer switch to wake up from hibernation.
+Power is consumed by all computers in all states unless it's unplugged from the wall.
+That can be way off.
+switching it to sleep power saving mode is just more effective.
+The power supply switch (your simple machine analogy) is equivalent to unplugging, hibernation is not.
+Sure, their example (a 107W draw machine) would have that, but I disable it.
+If your computer emits CO2 you should probably switch to an electric.
+Idling, but under load it's way more.
+So, probably little to no wear there.
+A computer uses about as much electricity as a light bulb.
+They are talking about leaving the computer on overnight, not gaming on your sleep.
+can you point out where i implied shut down was different than hibernate?
+I think that the saying is actually conservative!
+the point is you are making is about unplugging vs the question is about hibernation.
+I just want to point out that a "powerful desktop with a monitor" draws much much more than 107W.
+Oh no, I used the density of solid co2 at room pressure.
+That "can" be way off, that's why I said generally speaking and when generally speaking it is not plain wrong.

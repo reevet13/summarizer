@@ -1,0 +1,52 @@
+My phone runs a much lighter OS than my laptop did, yet it is at least three times slower than my old laptop at loading/rendering webpages.
+I know the bottleneck is not the 3G network speed, because if I tether my phone to my laptop, webpages load very quickly.
+Is the ARM architecture just that much less powerful?
+Or is the chip simply designed differently (perhaps to maximize battery life in a phone)?
+I wrote an explanation to a similar question [here](http://www.reddit.com/r/cansomeoneexplain/comments/c8wgb/cse_cpus/c0qx8oz).
+Both processors have around 500 million clock cycles per second, but different processor architectures will take varying numbers of clock cycles to complete similar tasks.
+ARM is a reduced instruction set architecture, whereas the modern x86 architecture has a huge number of instructions.
+Another thing that makes a huge difference is the memory cache on the processor.
+Accessing cached data might take 5-10 clock cycles, accessing main memory can take hundreds of clock cycles.
+A processor with more cache will typically waste less time waiting for memory reads.
+Interesting.
+I figured the fundamentally-different architecture had something to do with it, but I hadn't considered cache size.
+I wonder how large of a cache a typical smartphone has.
+Thanks for the reply.
+Yeah, I do get that it's not as simple as raw clock speed (hence why my 2GHz Core2Duo is faster than my old 3GHz P4, and my girlfriend's 1.6GHz i7 is faster still).
+I'm just wondering if there's anything specific that makes phones/ARMs so much slower.
+Is it just that they're built to use less power?
+Do they have fewer [something]s?
+Or is it simply that they are less complex, as you said.
+And whatever the case, what prevents such technology from making it into a phone?
+That's a good point about Desktop vs phone OSes.
+I recall my 500MHz laptop running XP, and I wonder how much more complex XP is than WinMo or iOS/Android/etc.
+My guess is that branch prediction and caching are the two biggest.
+Other than that, take a look at the zillion features that Intel had been advertising for their CPU's since the Pentium line came out.
+I doubt that much of that tech has trickled down to the mobile space
+
+&gt; Is it just that they're built to use less power?
+
+Yes, performance sacrifices in favor of power consumption are the reason (along with physical die size to a lesser extent) for all of that fabulous missing tech.
+Desktop processors can easily hit the 100-150W range in power consumption.
+Your phone processor is likely somewhere around 500mW
+Makes sense.
+Even if we're talking about laptop processors, they can consume 40W.
+I guess a positive is that we've sort of "started" over in terms of processor architecture, meaning once smartphone processors get good enough, maybe they'll be powerful enough to power a laptop?
+(Kind of like how the A4 powers the iPad... but in a laptop and with a better OS.)
+Load a modern webpage on your old laptop and compare the speed to your mobile.
+Modern websites are more complex than the web pages of several years ago.
+Ah, that makes sense.
+Unfortunately that machine bit the dust a long time ago.
+But even simple sites that haven't changed in years (like Drudge Report, for lack of a better example) take a relatively long time to load, when compared to how I remember them all those years ago.
+Wish I could though!
+You also may have a web browser that's not as well-coded as that of your desktop.
+Also your phone processor may be occupied doing things things with less ram than your PC did, which could cause VM swap slowness.
+Yeah, I'm sure the browser software, while Opera is in its tenth version, is not as mature as desktop browsers.
+Didn't think about VM swaps.
+The phone only has 256MB which is considerably limited.
+[deleted]
+[Processor "speed" is not given by it's frequency](http://en.wikipedia.org/wiki/Megahertz_myth).
+Oh but you can =D There are tools that will consume your RAM and underclock your CPU [temporarily] to test stuff in low performance [a.k.a. old hardware] conditions.
+I can't quite find the website but they are all freeware.
+I'm amazed that no-one has mentioned available battery power, yet.
+The phone may have a 528mhz processor

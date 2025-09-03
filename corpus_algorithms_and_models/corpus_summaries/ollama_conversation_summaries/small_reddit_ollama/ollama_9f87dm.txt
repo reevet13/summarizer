@@ -1,0 +1,8 @@
+Here is the summary of about 10% of the text:
+
+Soo earlier today out of the blue Google stopped working on my PC. I was talking with some friends on discord, and they were able to hear me. I decided to reboot my pc. Now I don't have a connection at all. Just to be clear, I have access to the internet on other devices, so it isn't the router and my wifi adapter has signal, my PC is just not connecting to the internet.
+
+dumb question, but is it actually connected to the wifi? it may seem simple, but sometimes its a simple solution.
+
+Yes, it is connected to the wifi.
+I've connected another router a few days ago, but the problem occured about 2 hours ago, so I doubt that the new router is the cause

@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words:
+
+A decent telescope (6-8 inches) can be a lot of fun. You can see neat stuff like Saturn's rings and Jupiter's moons, and also multicoloured double stars, globular clusters, galaxies, etc.
+
+You could probably measure the spectrum of a star by focusing it through a pair of binoculars (or a telescope) onto a prism, then shining the diffracted light from the prism into a digital camera, and writing some code to analyse the strength of each colour. I'm not sure how well this will work, but Isaac Newton did it (sans digital camera). Start with the sun (no telescope needed, just a prism), or Venus.
+
+You can measure the speed of light if you have an oscilloscope. There are actually some other neat things you can do with an oscilloscope; check out Clifford Stoll's TED talk. You can probably find an old one at an electronics hobby store.
+
+Another easy experiment: Young's double slit. Get a very sharp pin and make two holes very close together on a piece of paper, and shine a laser through them.
+
+Go see some fireworks. Watch for a flash, and time how long it takes for you to hear the sound. Sound travels at 1100 ft/sec roughly.

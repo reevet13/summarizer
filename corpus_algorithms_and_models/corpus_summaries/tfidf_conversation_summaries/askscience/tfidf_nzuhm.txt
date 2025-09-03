@@ -1,0 +1,26 @@
+Original Response:
+I understand that it's an X-linked gene, and that this means that females are more likely to have a functional allele on one sex chromosome. I was just reading, however, about how one X chromosome is deactivated early in development. If that's the case, it seems like the chance of ending up with the non-functional allele should be the same within both sexes. That isn't true, so what's going on here?
+[deleted]
+Females are mosaics. At the 64 cell stage one X in each cell is randomly inactivated. So half the cells express one X and one half express the other.
+This answer might be a bit ELI5, but here's the jist of it.
+
+The retina of our eyes contain two types of receptors: rods and cones. Rods are are concentrated mostly on the edge of the retina and are monochromatic. They are better for low-light situations and motion detection. Cones are concentrated on the center of the retina and provide more detailed vision and color reception. Cones themselves come in three types that roughly correspond to red, green, and blue.
+
+A person with red-green colorblindness (the most common type) only has two types of cones: one for blue and another that corresponds to yellow-green. The lack of separate red and green receptors is what causes the colorblindness. The gene that causes this is attached to the X chromosome. Men only have one X chromosome, so if they have this gene, they will be colorblind. However, women have two X chromosomes, so as long as the other X chromosome is normal, they will be fine. In fact, they will end up with four types of cones, which will give them slightly better color acuity. For a woman to have red-green colorblindness, both of her X chromosomes would have to have this gene.
+[deleted]
+That is fascinating.  Do you have a source for this?  Are women more likely of be chimeras?
+&gt;Do you have a source for this?
+
+[Here you go.](http://www.med.uc.edu/embryology/chapter1/updates/mosaic.htm)
+
+&gt;Are women more likely of be chimeras?
+
+Chimerism usually means one or more tissues is derived from one individual and others are derived from another. The X chromosome is the only one (out of 23 pairs in humans) that has this feature, and all cells actually contain all the DNA (it's just that one of the chromosomes get's turned off), so this is not considered an example of chimerism.
+You clearly didn't read the text of his question.
+This is a great explanation, but you didn't read the text of his question. He's really asking about X-inactivation - though someone else answered it.
+This is why all calico/tortoiseshell cats are female. It's also a good representation of how X chromosomes work. The black on [this cat](http://images.mooseyscountrygarden.com/gardening-journals/garden-journal-03/tortoiseshell-cat-photo.jpg) is from one X chromosome, the brown is from the other. The unused X chromosome gets rolled up and becomes the barr body.
+
+Summary:
+Men only have one X chromosome, so if they have this gene, they will be colorblind.
+The gene that causes this is attached to the X chromosome.
+So half the cells express one X and one half express the other.

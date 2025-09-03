@@ -1,0 +1,41 @@
+I'm not going to use exact temperatures because that would confuse me further while writing this. Lets say you have 100ml of 'hot' water and add 10ml of 'cold water, the resulting water is 110ml of X heat.
+You also have 100ml of 'cold' water and add 10ml of 'hot' water, the result of this is 110ml of Y heat.
+Would X and Y either; be the same temperature?
+For your first scenario - adding 100mL of hot water and 10mL of cold water will give a different temperature than adding 100mL of cold water and 10mL of hot water (edit - defining 'hot' and 'cold' as fixed temperatures greater than 273K and below 373K, with hot being a higher temperature than cold so some pedantic physicist doesn't call me out).
+For your second scenario - If you add X amount of hot water to Y amount of cold water to reach temperature T, then you must add Y amount of cold water to X amount of hot water to reach the same temperature.
+It doesn't matter what order you go in.
+Using specific heat, and knowing the initial temperatures, you can easily calculate the resulting temperature from two quantities of water.
+You get a weighted average of the temperatures.
+The formula is T = (m1⋅T1 + m2⋅T2) ÷ (m1 + m2)
+If Hot is 100° and Cold is 10°, X = 91.(81)° and Y = 18.(18)°, so "same difference from original".
+This is correct, but I need to caution you against the use of the freezing and boiling terminology.
+In addition to the specific heat of water, there's also energy transfers involved in phase changes.
+Combining 60c liquid water and 110c steam is a different beast from combining 70c liquid water and 100c liquid water.
+I'm sure you know this, but I felt it neccessary to point out.
+I'm starting to regret posting this, i'm way out of my league, i don't understand that at all.
+Suppose you have some object O, and you want to inject some energy into it to raise its temperature.
+The relationship between the energy you inject **E** and the temperature change **dT** would be (mostly) linear.
+This defines the **heat capacity** (maybe that's not the correct english term ?) **C**.
+E = dT * C
+This heat capacity is a caracteristic of the object.
+What happens when we put object A at temperature Ta and object B at temperature Tb together.
+These have actually some level of energy
+Ea = Ta * Ca and Eb = Tb * Cb
+These will be at equilibrium when they actually have the same temperature, which is given by:
+Tequilibrium = (Ca * Ta + Cb * Tb) / (Ca + Cb)
+In layman terms, Tequilibirum is the mean of the respective temperatures, pondered by the capacities.
+This is what you were hinting with your idea of strength: the object with the biggest capacity sets the final temperature more.
+Now, coming back at your question, the heat capacity of liquid water is almost constant.
+So their "heat strenght" is almost the same.
+I don't remember if it's stronger or weaker at hot temperatures.
+I hope this clarifies temperature for you.
+He just posted a formula that shows how temperature is a weighted average.
+If you add 100mL of 90c water and 10mL of 10c water, your final temperatire is (0.1 * 90 + 0.01 * 10) / (0.1 + 0.01), which is 82.7c.
+If you flip the quantities, your final temperature is (0.01 * 90 + 0.1 * 10) / (0.01 + 0.10), which is 17.3c.
+So, yes, the differences in temperature are the same.
+Adding the small quantity of cold water to the hot water decreased the temperature by 7.3 degrees.
+Adding the same quantity of hot water to the cold water increased the temperature by 7.3 degrees.
+I knew exactly what you meant.
+I said that in my original post.
+I'm pointing it out for OP, so he knows that the formulae posted are only relevant when no phase change is involved.
+A simple weighted average is fine for dealing with only liquid water, but if he

@@ -1,0 +1,9 @@
+The worker bees don't mate in general - only the queen does with her male drones. As this would obv benefit the queen via hive defence, it still makes sense under natural selection.  
+The bees that the dead bee saves are genetically very closely related to the dead bee. Helping your close relations helps your own genes. Hence people are prepared to do a lot for close family.  
+It's called [Kin Selection](http://en.wikipedia.org/wiki/Kin_selection).  
+It may not affect an individual bee, but if there were two hives of bees, chances are the hive that was warned off by the smell of their dead would have a higher chance of surviving than ones without (assuming everything else was the same).  
+Also, as Tont_Voles mentions below, the drones generally do not reproduce, and therefore a drone with the specified gene dying does not reduce the frequency of the specified gene in the gene pool.  
+The queen carries all genetic information. When she dies, so does the colony.  
+Evolution in some parts of the insect world works pretty differently than it does with the kinds of sexual reproduction we humans are more familiar with.  
+The bee reproductive model involves [haploid sex determination](http://en.wikipedia.org/wiki/Haplodiploid_sex-determination_system) in which different 'genders' within the colony have different numbers of chromosomes.  
+In this model, it is appropriate to say that the hive as a whole operates as a distinct "evolutionary unit", since it collectively shares one set of DNA and reproduces, survives and evolves as a cohesive unit.

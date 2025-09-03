@@ -1,0 +1,14 @@
+Here is the summary of approximately 10% of the text, up to 250 words:
+
+I have tried finding an answer to this one before [not here] but I did not get an answer.
+
+It will seem silly to the initiated but I honestly don't know the answer and I'm extremely interested in it.
+
+Is it possible to build a filter, like in a gas mask, that filters out carbon dioxide?
+
+Reddit luminaries, how say you?
+What you are referring to is called "carbon fixation"
+
+You cannot filter it out in the traditional sense. Molecules of carbon dioxide are about 3.3 angstroms long. This is very small. Nitrogen, the most common gas in our atmosphere, is about 3.6 angstroms long. Other gases are similarly sized. So even if you could build a filter with pores that size, it would be hard to differentially pull out certain gases and not others.
+
+There are other ways to withdraw carbon dioxide from the atmosphere. Most of them involve absorbing in into other materials or consuming it in chemical reactions.

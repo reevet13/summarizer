@@ -1,0 +1,68 @@
+Original Response:
+So I received a Tac21 in the mail, I popped in my Fireluke Mesh Coil (which I know is .15), however the device displays it at .10, I obviously know what wattage I’m going to vape at, and other than the low ohm error in bypass, is there anything wrong with ignoring the displayed ohms on the device. 
+
+Does the device use ohm readings to specify your vape settings?
+In VW the mod measures the resistance dynamically then adjusts the voltage to reach that desired wattage.
+
+Some mods are more accurate then others in reading the resistance.
+
+If the mod is reading the resistance wrong it will supply the wrong wattage.
+
+Since the required wattage is not something etched in stone, it's more of a personal preference, it doesn't really matter if the mod is not entirely accurate as long as it's consistent with it's inaccuracy.
+
+For example, you may set a mod to let's say 100W, the mod will display 100W you will think you're using 100W but in reality you'll be using 95W but it doesn't really matter since what you're used to vaping is 95W you just don't know it.
+
+That's also why some refulated mods seem stronger then others with the same wattage, that's because they are, because they are reading the resistance slightly differently.
+
+Besides that, the fact that a coil head is supposed to be in a specific resistance, doesn't necessarily make it so, inconsistencies and inaccuracies happen, coils are not perfect and identical every time.
+No I totally understand the concept...I appreciate the response.
+
+The mod is a wattage only mod, with bypass option.  It doesn’t set wattage automagically based off read Coil resistance, but does have a safeguard in bypass mode that limits builds passed 0.10 (and it should).
+
+Since it doesn’t adjust wattage based off coil resistance and the ONLY thing I can think of that affects the operation, would be in bypass mode only with builds less than 0.10, I would t think it would matter.
+
+It’s still supplying the wattage you set it at, although ohms are reading lower.  I’m assuming that is the ONLY thing the chip on this device reads ohms for.
+You can either set the voltage manually and have the mod regulate to it, no matter the resistance, which is VV mode, set the wattage and have the mod regulate the voltage dynamically to reach that wattage which is VW mode or work in bypass.
+
+Bypass means no regulation is being done, what is currently available from the battery(s) is what you get, you have no control on either the voltage or the wattage and both drop gradually as the battery(s) drain, the resistance of the coil is most definitely a factor in this since the lower the resistance is the higher the wattage is, based on the currently available voltage.
+In your case it doesn't really matter how the mod reads the resistance it only matters what the actual resistance is since you can't break the rules of ohm's law.
+
+Bypass is taking a regulated mod and making it work like a mech, only with protections.
+I think we’re misunderstanding each other.
+
+This mod is as simple as they come.  No menu, just wattage or bypass modes.  The user is able to set wattage and obviously your resistance is based off your build for bypass. 
+
+Only thing this mod does is prevent a user running a build under 0.10 ...
+
+In wattage mode I can adjust the wattage no matter what the ohm of the coil is...
+
+I can always build higher to compensate for the 0.05 variance in what the board of the mod reads vs. what I know is actual. 
+
+My question is other than in bypass mode and the restriction one a build under the 0.10 safety net, is there anything else that this device would use an ohm reading for?
+
+I can’t set ohms, can’t set hit strength, no VV mode, no curves, or anything else fancy on this mod...
+In wattage mode it will use the ohm reading either accurate or on inaccurate to set the wattage either accurately or inaccurately.
+
+In bypass mode you will get a wattage based on the actual resistance, no matter what the resistance reading is.
+Ohm reading has NO bearing on anything in regulated mode then correct?
+
+I know bypass is “technically” regulated bypass, but I’m talking about Wattage, Curve, VV, Joule, Temp, and whatever else they come up with...
+Bypass mode in a regulated mod benefits from the protection existing in a regulated mod, but it is not regulated, there is no regulated bypass mode since bypass means not regulated.
+Is it the same for all mods with bypass mode? I've heard some regulate bypass to a certain voltage limit. So with bypass you could say vent a battery if not careful, the chip won't limit the amps being used from the battery? I always thought it was regulated but giving as much battery potential as available.
+My understanding of bypass mode on a regulated device in it's general application is to simulate a mech but still has all of the base chip protections.
+Regulation in the sense of a regulated mod means regulating the voltage by either boosting or bucking it from what is currently available to what is currently needed.
+Limiting the voltage to not go below a certain point is a protection feature the is available in just about any modern regulated mod, no matter what mode it is in.
+That's what I always thought it was as well. Does it vary much between different mods?
+That's what I always thought it was as well. Does it vary much between different mods?
+When you said above, "there is no regulated bypass mode since bypass mode means not regulated" was that just in reference to to his vape or what did you mean?
+Honestly I can't speak to it other than generally as it's not a mode I have any use for personally.  I think some of our reviewers speak to it on various mods that offer that mode.
+
+I believe though that any regulated mod that offers it should have the built-in chip protections carry over as it's only simulating direct output as the power still has to pass through the chip.
+It's a simulation. It doesn't actually do what you think it does in bypass mode. It cannot do anything the chip isnt designed to do. It's not bypassing anything, regardless of what the mode is called.
+
+Summary:
+Is it the same for all mods with bypass mode?
+It doesn't actually do what you think it does in bypass mode.
+In wattage mode it will use the ohm reading either accurate or on inaccurate to set the wattage either accurately or inaccurately.
+No menu, just wattage or bypass modes.
+In wattage mode I can adjust the wattage no matter what the ohm of the coil is...

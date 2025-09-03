@@ -1,0 +1,2 @@
+I was lucky enough to get a telescope for Christmas, and I find myself quite internet savvy but all resources I find on the web are just too damn confusing!
+Download [stellarium](http://www.stellarium.org/), input your location and it will show you what's in the sky at the time and you can search for objects.

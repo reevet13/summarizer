@@ -1,0 +1,14 @@
+Here is a summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+I mean keep just Windows as a software not files, like I don't want to have to buy another Windows.
+
+On back of my case I have small sticker with Windows 7 inscription and below it there is key image with something that looks like W3irD-L33TErrS-4Nd-NuMb3R5 sequence, is it it? What do I do with those
+
+If you want Windows 10, just ignore the Win7 COA sticker and reinstall with the same edition that you upgraded to (whether it is Home or Pro). Windows will automatically activate it for you using a digital license linked to your hardware.
+
+Create a Windows 10 installation media (using Media Creation Tool, or by downloading an ISO then burning it to USB drive using Rufus or similar tools), then boot from it to reinstall Windows.
+
+I need to create thing using Media Creation Tool and then I need to burn it on usb? You mean burn like on CD with cdburner?
+
+And after it, I can format my drives and turn computer on with burned usb connected to it, right?
+Yes, and boot from that installation media.

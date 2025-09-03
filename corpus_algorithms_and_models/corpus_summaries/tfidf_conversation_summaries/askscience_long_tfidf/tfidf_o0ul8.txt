@@ -1,0 +1,92 @@
+Original Response:
+Looking directly up while holding my arm out, I can place my index finger and thumb about one inch apart and roughly cover the visual diameter of the moon. 
+
+Shouldn't taking a picture with the camera at arms length result in the image of the moon approximately the same size as what my naked eye could see?
+
+[What I see when looking up at the night sky] (http://www.nasa.gov/images/content/145455main_iss012e19253.jpg)
+
+[What my camera sees when taking a picture of the night sky](http://imgur.com/4ZUax)
+
+Edit: I should have specified that the first picture is just used as an example to explain my point of the way the moon tends to look when looking up. It was most likely taken from outer space and not at ground or sea level.
+[deleted]
+[deleted]
+The easy answer is that you did not enlarge the picture enough. If you blow it up, the moon will eventually cover the size you want it to on the picture. There is a much more complicated explaination involving FoV, focal lengths and sensor resolution. Feel free to reply if you are ready for some basic optics and camera technology.
+You could always use the camera the first guy used.
+OP may not be interested, but an explanation with respect to optics would be fantastic for myself.
+NOTE: I tend to use image interchangeably to mean "image of an object" and "image from a camera"  they are actually different.
+
+Geometric optics is a fun thing to learn, and can help you realize some things which might not be so apparently otherwise.
+
+For Diagrams : http://en.wikipedia.org/wiki/Lens_(optics)
+
+The main principles to note are how to draw certain lines to find where an image forms.
+
+Assume you have a lens with a certain focal length. 
+
+1) Parallel rays to the optic axis (that is going directly to the right or left) which hit the lens, will be bent to cross the focal point on the opposite side of the lens.
+
+2) Rays which pass through the center of the lens are not bent at all but continue going.
+
+3) (there is a 3rd rule, but I forget what it is and can't seem to find it anywhere).
+
+If you draw lines using the first two rules, where they intersect should be where an image is formed.
+
+quick diagram as well [Imgur](http://i.imgur.com/ZJW8i.png)
+
+Notice that as you move your object further and further away, the size of the object (represented by the blue line on the right side) becomes smaller, and would decrease to a point when the object when to infinity (the line going through the center of the lens would be along the middle line / optical axis).
+
+As you move the object closer to the focal length, the image size becomes amazingly large and comes to a focus at an infinite distance.  Essentially the two cases are the same, just flipped from each other, calling one the image and one the object.
+
+The equation which relates a few quantities is called the Watchmaker's formula or the [Thin Lens Equation](http://hyperphysics.phy-astr.gsu.edu/hbase/geoopt/lenseq.html) due to the approximations involved.
+
+It states that 1/f (the focal length) = 1/s (object distance) + 1/i (image distance)
+
+You can play around with that equation to see that in fact if you want an image of an object at infinite distance, it will appear at the focal point, (1/infinity = 0 =&gt; 1/f = 1/i =&gt; f = i )
+
+In a camera, we will look at the fixed focal length lens (single lens) system, rather than a compound lens (for simplicity).
+
+If you stand at the same distance away and vary the focal length, your field of view will change, [example photographs](http://en.wikipedia.org/wiki/Focal_length#In_photography) and if you 
+
+In these cases, your 1/i can't change very much, nor can 1/f, so you have a limited range of focus.  If you need your image to be crisp at ~ about 6 cm, and you have a 50 mm lens (.5 cm focal length) your object must be at ~30 cms away (but this can be slightly off and still appear crisp).  Play with the numbers a bit (only changing the 6 cm slightly) and see how much you can vary the object distance.  This tells you about how far you have to be for an object to be in focus.
+
+**Now to FOV**
+
+[Look at this picture for a moment](http://upload.wikimedia.org/wikipedia/en/7/72/Angle_of_view.svg) and think about what would happen if you pulled the little square in the box farther and farther backwards from the entry point (all of the rays must pass through that point since that is the lens opening).
+
+I hope it is clear that if you pull that little square backwards, to maintain the entry point, the big box must get smaller and smaller.  Pulling the square backwards is essentially like changing to a longer focal length.  The image must form farther away from the lens, and the field of view gets much smaller.  But the interesting point is that since the image formed on the CCD is the same size, the objects within the field of view get enlarged.  The same number of pixels are forming an image, but that image in the camera seems to enlarge the objects being photographed because the objects now fill up the whole field of view.
+Basically, most point and shoot (P&amp;S) cameras are incapable of zooming in far enough to resolve any meaningful detail in the moon. Different camera lenses have different fields of view; when you "zoom in" you are narrowing the field of view, allowing you to fill more of the camera frame with the object. Distance also plays a large role -- instead of zooming in to take a picture of a coin, you could walk closer and fill more of the frame in that way. But for all practical purposes you can't get closer to the moon. So you need to rely solely on your lens's field of view. Most P&amp;S camera are designed for things like taking party pictures, and snapshots of people no more than a few yards away. Because of this, camera makers give them a somewhat wide angle of view. A typical P&amp;S lens might for instance start at what we call 28mm. As a ballpark figure, that would probably let you take a picture of 6 or 7 people from no more than 10 feet. A standard P&amp;S will let you zoom in from there to, say, 110 or 120mm. This is at the very low range of what we call telephoto. It's easily enough to take an uncomfortably large photo of someone's face from 10 feet away. (Portrait lenses, for instance, are about 85mm.) If you were trying to take a photo from 100 yards, however, you would not get an impressive amount of detail. So when you turn that same lens up to the moon, you find that it's woefully inadequate -- the angle of view is just too wide. ~~The reference photo you linked was probably taken at around 500mm.~~ I would guess that in order to get such a large moon from earth, the lens would need to be around 500mm. For reference, [here's](http://farm5.staticflickr.com/4131/5208284449_4e42f62d2f_b.jpg) a photo I took at around 300mm. 500mm is a truly telephoto lenses, and can provide impressive amounts of detail at hundreds of yards. Unfortunately, such glass is large and expensive. That's why you don't see it in many P&amp;S cameras. It's such a narrow field of view that you only want it if you need it -- if you're not on a safari, taking bird photos, or stalking someone, it probably won't be very useful. 
+
+Edit: OP's picture was clearly taken from space, but I somehow missed that. Corrected.
+A photograph is a projection. The size of objects on this projection is determined by 3 things
+
+* Size of the object
+
+* Distance of the object to the projection screen
+
+* Field of view // size of the projection screen
+
+You probably know the first two and how they cause what, so let's focus on FoV.
+
+Nowadays, projections usually happen onto rectangular shapes. In more advanced photo cameras, the relation of width to height is usually 3:2 (keep that in mind for later). Also, the sensors capturing the light have distinct sizes (usually ~20mmx13mm). Let's imagine a cube with 1m width we want to photograph, so it fills all of the height of the sensor (it's image on the sensor should be ~13mm ... basically miniaturizing the block by a factor of almost 100). How can we calculate a distance where this occurrs? You might guess by now that we are still missing something and you are right, we are missing a lens! Lenses take the incoming light, refract it and thus can enlargen/miniaturize images of objects. To get our distance, we need to either know the focal lenght of our lens &amp; the distance of the focal point to our projection OR we need to know the FoV (which is different for vertical and horizontal if the projection is not square) of the lens/camera combination.
+
+Let's say we have a FoV of 45° (vertical, since we want the block to cover the whole height). Now we can draw an equal sided triangle with the 1m of the cube being the base of the triangle and the 45° building the top angle (just picture the whole setup from the side). If I can do these things right, the height of the triangle (and thus our distance) should be 0.83m.
+
+Back to the moon. The moon is ~3.500.000m across and has a distance of ~380.000.000m. Now if you want the moon to cover the whole sensor vertically, you need a lense/camera comination with a vertical FoV of ~0.5°. For typical zoom lenses, FoV ranges from 75° (wide-angle) to ~5° for normal tele lenses. So even with normal tele lenses, the moon will only take up about 1/10th of the height of the picture. This corresponds to ~200-300mm focal lenght on consumer DSLR cameras. Some compact or bridge cameras might have FoV's in the range of 2-1° when fully zoomed in, so you can make cool moon pictures with those. Cheap normal cameras (like in the example of OP) have minimal FoV's of 35-25°. The moon will be very small in those pictures.
+
+Now to the OPs comparison using fingers/thumbs. It really is as simple as I said in my previous post: just enlarge the picture until the moon is the size you want. The camera you use probably has different FoV, sensor size and focal length than your eye so it's natural tha the moon will have different sizes. Additionally, the pictures you get out of your camera are already enlarged. The pictures on your screen are already enlarged 5-10 fold when compared with sensor size.
+
+There are other cool things going on too. If you hold up your thumb with your arm extended and can cover the moon do the same through the camera's view and measure the distance you need for your thumb to cover the moon. The relationships of the distances represent the relationship of the FoV of your eye to the FoV of the camera. Also when you know sensor size and focal lenght of the camera, you can calculate the focal lenght of the human eye using approximations for the size of the retina. But thats more advanced stuff.
+
+Sorry, this got longer than I intended it to be, but maybe you will read it anyway. Also please excuse the spelling mistakes ... my first language is German :)
+This is enlightening, thank you
+
+Summary:
+The moon will be very small in those pictures.
+The image must form farther away from the lens, and the field of view gets much smaller.
+The relationships of the distances represent the relationship of the FoV of your eye to the FoV of the camera.
+Additionally, the pictures you get out of your camera are already enlarged.
+If you blow it up, the moon will eventually cover the size you want it to on the picture.
+But the interesting point is that since the image formed on the CCD is the same size, the objects within the field of view get enlarged.
+Shouldn't taking a picture with the camera at arms length result in the image of the moon approximately the same size as what my naked eye could see?
+Assume you have a lens with a certain focal length.
+The camera you use probably has different FoV, sensor size and focal length than your eye so it's natural tha the moon will have different sizes.

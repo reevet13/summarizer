@@ -1,0 +1,3 @@
+The point of the diagram is suggest that with an air temp of 22°F and a ground temp of 55°F that heat pump is able to maintain a 75°F living space.
+
+It does this by taking the heat out of the ground and moving it into the house... Like an air-conditioner only running the other direction and using ground water as the exchange medium rather than outside air.

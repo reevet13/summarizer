@@ -1,0 +1,28 @@
+Here is a summary of the original text in approximately 250 words:
+
+Right now or at least rather recently there was a discussion about random crits and making casual as close to comp as possible. Both sides clearly are represented strongly in the TF2 community, so making any choice is going to make many people unhappy. Therefore I propose the following idea: In the current casual system, make a simple tickmark to enable "sixes"/"comp-like"/"competitive-training"/"whatever".
+
+Here are the differences between the two modes as I imagine it:
+
+* Regular TF2 casual:
+	+ Shotgun bloom (random spread): off
+	+ Random crits: on
+	+ Team Changing: on
+	+ Max Players: 24
+	+ Classlimits: no
+	+ Weapon Limits: no
+	+ Ready-Up: no
+	+ Team-Scramble: on
+	+ Auto-Balance: on
+	+ Map Rotation: TF2 default map rotation, with maybe new maps added in?
+* Sixes/comp-like TF2 casual:
+	+ Shotgun bloom (random spread): off
+	+ Random crits: off
+	+ Team Changing: off
+	+ Max Players: 12 (6v6) / 18 (Highlanders?) / whatever the current competitive counterpart requires OR 24 players if community doesn't like less players (after a trial period)
+	+ Classlimits: According to current competitive counterpart
+	+ Weapon Limits: According to current competitive counterpart
+	+ Ready-Up: According to current competitive counterpart
+	+ Team-Scramble: off
+	+ Auto-Balance: depends on community decision?
+	+ Map Rotation: Competitive Map rotation

@@ -1,0 +1,9 @@
+Here is the summary of up to 250 words:
+
+Science is based, at its most basic, in measurement. If it cannot be measured in some way, there is no way we can know for certain what properties something has. If you break it down to its lowest level, though, measurement is all about the interactions between particles.
+
+But when we deal with things on the scale of individual particles, the effect of the measurement isn't drowned out by anything. So, by observing something we change its properties, and we get the Uncertainty Principle.
+
+What you explain is one way to rationalize the unintuitive quantum world as something more intuitive.  But QM is more complex than this.
+
+Quantum mechanics operates in the domain where position and momentum are basically Fourier transforms of each other.

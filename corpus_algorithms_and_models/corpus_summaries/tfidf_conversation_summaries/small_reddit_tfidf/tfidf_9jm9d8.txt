@@ -1,0 +1,35 @@
+Original Response:
+Its said that the age of the universe is roughly 13.8 billion years old but since all mass has an effect on space time how do we know if thats the true age? Like from the perspective of someone next to a black hole the universe would be younger and someone in intergalactic space older right? Do scientists take this into account when they estimate ages of space objects? And if time doesnt run at exactly the same speed in any two parts of the universe is there any way to know the exact age of anything far away?
+Yes.  The given age of the universe is in the frame of reference of minimal motion relative to the cosmic background radiation.  This means that if we look left, right, up or down we can't tell the difference between the temperature of the background.  If we had a large motion it would be blue-shifted in some directions and red shifted in others.  
+
+It is also given relative to being in an area with no strong gravitational fields.
+
+
+If you were travelling with a high speed relative to the background you could calculate a different "local" age of the universe.
+
+
+If you were stationary in a strong gravitation field and you would also calculate a different age of the universe, however this would not help you much, as you would be dead.
+&gt; If you were travelling with a high speed relative to the background you could calculate a different "local" age of the universe.
+
+While we could do this for our relative motion the effect is negligible (an few parts in a million, compared to 0.4% uncertainty for the age of the universe from other sources).
+&gt; This means that if we look left, right, up or down we can't tell the difference between the temperature of the background. If we had a large motion it would be blue-shifted in some directions and red shifted in others.
+
+[The CMB does have a dipole anisotropy](https://apod.nasa.gov/apod/ap140615.html), but it is very small compared to the monopole (less than 10^(-3)).
+If it all started with all the mass concentrated on one place, how could there ever be time? Time would basically stand still before the big bang?
+Time dilatation is relative between two points.  There was nothing far away from the big bang.  It was everywhere.  It is the same reason that the big bang didn't collapse into a huge black hole.
+Is Earth in minimal or large motion relative to CBR?
+Almost no motion at about ~600km per second. This is relative to the speed of light at 300,000km per second.
+[removed]
+Wouldn't our galaxy be counted as a "strong gravitational field?" As compared to if we were observing from a lone planet in intergalactic space?
+No, because strong in this case refers to how strong gravity can be.  Just as 600km/s ( our speed relative to CMB )  is crazy fast in comparison to 0m/s, but basically a rounding error in comparison to 300,000km per second, so is 11.2km/s ( escape velocity of earth ) basically 0 in comparison to the escape velocity of a neutron star (100,000 to 150,000 km/s), the strongest gravitational field one can be stationary in.
+&gt;If you were travelling with a high speed relative to the background you could calculate a different "local" age of the universe.
+
+&gt;If you were stationary in a strong gravitation field and you would also calculate a different age of the universe, however this would not help you much, as you would be dead.
+
+Given the length of a human life and the necessary speed/acceleration to achieve the first option, would this really be less deadly than the second option?
+You could accelerate to near the speed of light at a steady 1G in little more than a year.  There is no issue that would kill you from that speed if you were in intergallagic space.  There is about 100 other issues, but you nothing prevents it in principle.
+
+Summary:
+If you were travelling with a high speed relative to the background you could calculate a different "local" age of the universe.
+&gt; If you were travelling with a high speed relative to the background you could calculate a different "local" age of the universe.
+&gt;If you were travelling with a high speed relative to the background you could calculate a different "local" age of the universe.

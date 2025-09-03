@@ -1,0 +1,65 @@
+Original Response:
+I understand that liquids form a ball in space, due to 0 gravity. I was wondering, if you touch (a ball of) water whilst in space, do your hands get wet? Does water attach to your skin or does it "bounce off"?
+[deleted]
+why not?
+[deleted]
+Yes, it would feel the same. If you think about it, water clings to your skin even against gravity, so it would do the same without gravity.
+A wet feel also come from evaporation of water creating a cooling effect.  The weight of water might be removed but it should still feel cool.
+
+Where's an astronaut when you need one!
+First you have to find water in space, but I am assuming you mean an astronaut in a space shuttle playing around with those blobs of juice or water.  The technical answer (the best kind!) is that, yes, you would still get wet.  Gravity has nothing to do with the process.  The phenomena is somewhat dully named ["wetting"](http://en.wikipedia.org/wiki/Wetting).  Through a [adhesive force](http://en.wikipedia.org/wiki/Adhesion) the water molecules and your skin have an attraction mediated the electromagnetic force (sometimes van Der Waals).  Again, this has nothing to do with gravity.
+
+Your skin is hydrophilic, meaning these electrons can align to get pretty decent cohesion.  There are substances that are hydrophobic, meaning they generally repel water so droplets beed off, think Goretex.  Your skin, though, is at least mildly hydrophilic.
+
+EDIT: Anyone want to explain why I am getting down voted for this?
+
+EDIT 2: Fair enough.  Reworded for accuracy.  Also, I realized i should have stated the force as "adhesive" which is between two unlike molecules rather than cohesive.
+The forces that cause water to attach and stick to your skin are unrelated to gravity. Consider touching saturated sponge with your hand from the top, bottom and sides. In all cases, your hand will be moistened by the sponge.
+
+Getting wet in space would feel no different from on Earth in the same way that getting shot by a gun in space would feel no different.
+[Water blob in the face in space](http://www.youtube.com/watch?v=TxRZvRrj8NA)
+[deleted]
+That's like saying, "our notion of what 'red' looks like was firmly developed in a relatively high gravity setting".
+
+It makes no sense.
+For "electrons align"
+Let's assume you're in micro gravity but has an atmosphere, such as on a space shuttle.
+[deleted]
+It looks like he was drowning for a second.
+Water maintains its cohesive and adhesive properties in space. In layman's terms: water is just as wet in space as it is on Earth.
+Looks like he was very deliberately breathing out of his mouth to avoid that awful feeling when you breathe in water through your nose. Or maybe that was what happened.
+Astronauts sweat from working out and their tears (from emotions obviously) do not flow down in space ... they collect in place ...
+
+Scott Kelly confirmed the tear information when he heard about the shooting of his twin brother Mark's wife Congresswoman Giffords during Scott's tenure as ISS Commander.
+He's correct, wetness is a feeling of pressure and cold. There is no "wet" sensor on the body. The cold would come from water itself, and the pressure comes from gravity.
+
+http://www.whyzz.com/why-is-water-wet
+Or surface tension.
+Thanks! Perhaps I should have done a quick youtube search for that fist but you guys were the first to spring to mind.
+Thanks! I suspected the Vander Waals forces would do the trick but somehow i could not bend my mind around that it would actually be "sticky" enough.
+Love the last comment; hope it has never been tried though
+[deleted]
+I'm surprised that's allowed up there as they're super nervous about things shorting out electrical equipment.
+The Shuttles did a *much* better job when it comes to water-proofing everything in the cabin than, for instance, the apollo programs.
+
+In a funny way, they can play with water up there exactly because they are so paranoid about shorts. Apollo 13 demonstrated that even extremely carefully constructed electronic interfaces would have water literally running out of them if it was allowed to cool enough for vapor to start condensing out of the air. These days those electronics are insulated to such a degree that it should remain basically 0% humidity anywhere there is current. I also believe that a lot of the electronics are coated in a silicone(?) spray that protects against that. This is also a modern invention.
+In the aerospace industry we call this "conformal coat". Protects the hardware from "FOD" too. This is foreign object debris and can be anything from solder balls to conductive dust or metallic space ants. Kidding on that last one of course. :)
+also! Protects from "tin whiskers" which are more conducive to growing in 0 gravity. http://en.wikipedia.org/wiki/Whisker_(metallurgy)
+Once the water touches your skin it should stay just because of surface tension
+Wonderful clip, but I wonder why YouTube recommended [this one](http://www.youtube.com/watch?v=odYffFwXxWU&amp;feature=related). I look at the right column and see "Water in Space", "Water Balloons in Zero G" and other cool stuff, followed by "The Revenge of Sven Nader" and "Cat's Reaction To Fart". Come on, YouTube, you can do better than naked computer generated ladies and fart jokes!
+&gt;Fist you would have to find water in space....
+
+[Done](http://news.nationalgeographic.com/news/2011/07/110726-most-massive-water-cloud-quasar-black-hole-space-science/)
+
+Okay, not liquid water, but still very cool.
+Agree.  Very cool.  My comment about finding water was that the OP would likely have to travel 12 billion light years to said water cloud.
+What's a few extra billion light years? Gotta stop and smell the roses if you make the trip to space.
+
+Summary:
+Yes, it would feel the same.
+is that, yes, you would still get wet.
+I was wondering, if you touch (a ball of) water whilst in space, do your hands get wet?
+Getting wet in space would feel no different from on Earth in the same way that getting shot by a gun in space would feel no different.
+The cold would come from water itself, and the pressure comes from gravity.
+In layman's terms: water is just as wet in space as it is on Earth.
+Water maintains its cohesive and adhesive properties in space.

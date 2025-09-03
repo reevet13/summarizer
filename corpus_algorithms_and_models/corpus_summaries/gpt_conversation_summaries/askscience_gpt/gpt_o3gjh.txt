@@ -1,0 +1,45 @@
+Although we're perfectly capable of grasping the idea of an alien dimension, [we still don't fully understand what would happen if we existed in a 2 dimensional universe instead.](http://space.mit.edu/home/tegmark/dimensions.gif)
+
+A 2-D universe is a massless universe.
+
+For example: In a 2-D world, gravity and energy wouldn't exist.
+
+In a 4-D world, traditional atoms wouldn't exist.
+
+We humans are aware of 3 dimensions which means the universe is either 3D or greater than 3D.
+
+M-theory is not mainstream.
+
+Unfortunately, the answer to your question is that nobody knows (yet).
+
+We can construct fully functional quantum field theories and spacetimes in lower- and higher-dimensional spaces.
+
+But we haven't yet found the reason why we should have a universe with three spatial dimensions, just as we don't yet know why the electron should have the mass it has, etc.
+
+There are various theories people are working on - especially string theories - where a 3D universe results from other things in the theory.
+
+And here I thought we did live in at least a 4D world...time is the fourth dimension in many applicable problems.
+
+Additionally, according to string theory we likely live in an 11 dimensional world.
+
+Life requires stability to evolve and the article concentrates on the stability of the two-body problem (which is required for planetary orbits and electron orbits).
+
+Universes with n<3 are discounted because they do not sufficient complexity for highly evolved organism.
+
+Time is one-dimensional because fundamental laws (Laplace equation or Poisson equation) are ultrahyperbolic solutions to partial differential equations for n_t>1 and are very sensitive to small variations of the initial conditions.
+
+As I understood it, membrane theory postulated that universes could have up to 11 dimensions (10 spatial + 1 temporal) and still be stable.
+
+We, however, most definitely live in a universe with 3 spatial dimensions.
+
+We can't construct exact replicas of hypercubes or other 4d objects, and I have trouble trying to visualize what a 4d object would even look like, much less objects with greater than 4 dimensions.
+
+I'm referring to strictly spatial dimensions, not including the fourth temporal dimension.
+
+What is shown in the paper I've linked to above is that certain basic physical laws take on a form which results in such unpredictable solutions if there are more one time dimensions.
+
+We don't know.
+
+There may be a reason, but it's possibly arbitrary.
+
+And the string theorists

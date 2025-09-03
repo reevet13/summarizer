@@ -1,0 +1,10 @@
+Here is a summary of about 10% of the text (up to 250 words), selecting only sentences from the original text exactly as written:
+
+When I installed forge I wasn't given the Mercurius Updater and none of the pre-req mods for Galacticraft are showing up when I launch the game.
+I am using MC version 1.12.2, Forge version 1.12.2-14.23.4.2705, and Galacticraft version 1.12.2-4.0.1.181(as well as the micdoodle pre-req's of the same version).
+Any advice as to what I may be doing wrong?
+When you launch the game, make sure you are launching from the forge 1.12 jar file, make sure youve run the installer so that it creates a mod folder, drop your galacticraft jar and other mod jars in the mod folder then launch minecraft off the forge jar file.
+Do I copy all files over? 8zip unpacks the jar when I download it and i see 6 different folders.
+What jar are you talking about here? :P
+Sorry, I should have clarified. I'm currently looking at the Micdoodle Core.
+Just a simple question, Did you install the forge 1.12 installer, if yes have you launched the forge 1.12 version at least once (It creates the directories you'll need when you launch it)

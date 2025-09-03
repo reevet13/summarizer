@@ -1,0 +1,15 @@
+Here is the summary:
+
+As title, built in mic does not "work", headset that works on my desktop will only play sound, but again, mic does not work.
+
+Reinstalled Audio Drivers, and updated, still no luck.
+
+Assuming your using windows. Right click on the sound icon. Click Recording devices. Check all devices are enabled.
+
+Try running https://sdi-tool.org/download/ to see if the mic requires its own driver or of there is a driver conflict.
+
+EDIT: Go to laptop website an check for drivers there.
+
+Even tried my line in on a spare mic, nothing.
+
+No, No Mic i have tried works.

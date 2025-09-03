@@ -1,0 +1,13 @@
+Here is the extracted summary:
+
+impossible to tell, much less without ANY details
+1x 8gb Ram, a320m mother board, 1TB HDD 120 GBssd, 400w
+&gt; 1x 8gb Ram
+
+A LOT sooner than you think, considering that when you run an integrated graphics Ryzen you lose nearly half the GPU performance in single-channel mode.
+Yep.
+
+Also try to get a motherboard with 4 slots if possible. Preferably a B350 or B450 Chipset. That will allow an easy upgrade to 16GB later, and you can't overclock an A320.
+I would definitely recommend getting a b350 board as well if possible. From what I can see they are maybe only $10-15 more if you get one on sale. The ability to overclock will definitely help performance, and it will be better down the road if you ever upgrade CPU.
+
+Edit: And yeah, dual channel RAM is super important for a Ryzen APU, also the faster RAM you can get the better.

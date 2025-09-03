@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+A molecule can absorb light of a particular wavelength if the energy increase from the absorption can induce a change from one allowed energy state of the molecule to another. The possible transitions allowed for the molecules are governed by what are known as selection rules.
+
+For instance this can be a change in the rotational or vibrational energy level (when the frequency of the vibration or rotation changes) or changes in the electronic configuration of the molecule.
+
+As electrons orbit the nucleus of an atom, they move so fast/their position is so uncertain that it is best to think of them as an electron shell, or an electron cloud.  As this shell moves away from the nucleus, it is pulled back to the center, just like a spring.
+
+It is this principle of resonance which causes some frequencies of light to be absorbed and others to not.

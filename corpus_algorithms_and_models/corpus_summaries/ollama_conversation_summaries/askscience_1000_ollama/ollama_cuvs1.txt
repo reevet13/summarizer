@@ -1,0 +1,11 @@
+Here is a summary of approximately 10% of the text, up to 250 words:
+
+Assuming that spacetime is quantized, how can large scale spacetime expansion occur?  Are additional spacetime "bins" (equal in size to the Planck length) being added, or is the size of the bins increasing?
+
+From http://en.wikipedia.org/wiki/Quantum_spacetime :
+
+> In mathematical physics quantum spacetime is the proposal that the actual spacetime that we live in is more accurately described not by usual local coordinates x,y,z,t but operator or algebra variables where the order of at least some of the products matters.
+
+> There are fundamental physical reasons to believe that spacetime is better modeled in this way. Because of wave particle duality the energy needed to probe smaller and smaller distances would be greater and greater, until the test particles doing the probing would form black holes and destroy the very geometry trying to be measured.
+
+Let me know if you'd like me to extract more!

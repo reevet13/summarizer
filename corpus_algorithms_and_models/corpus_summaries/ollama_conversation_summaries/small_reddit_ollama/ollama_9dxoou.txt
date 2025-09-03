@@ -1,0 +1,13 @@
+Here is the summary of up to 250 words:
+
+I made a post here yesterday about how I think maybe my GPU is broken. Turns out afaik it's working fine, so I tried to look at other possible solutions.
+
+As I stated in my previous post, I got a local PC shop to put my pc back together after I moved overseas, and the only thing they had to do was reapply thermal paste and connect my CPU cooler and GPU to the machine again. Is this just a case of someone doing a bad job with the thermal paste, or can it maybe be software related?
+
+Download a software like Speccy and check your temps while idle and then while in game, then report back.
+
+Are you sure the game is running through your GPU and not the Intel graphics chip from your CPU ?
+
+Installed, average temperature when idle: 25, average temperature when in game: 48
+
+How do I check/make sure that the game is running through my GPU and not the intel one?

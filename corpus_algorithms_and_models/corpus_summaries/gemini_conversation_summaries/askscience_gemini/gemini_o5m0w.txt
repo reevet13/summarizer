@@ -1,0 +1,2 @@
+High pitches are usually the first ones humans lose hearing in - look into the Mosquito Ringtone, a pitch so high that most people over twenty-five are unable to hear it.
+The high pitched noise you hear from electronic devices is usually the switching that happens inside, like a switched mode power supply ([smps](http://en.wikipedia.org/wiki/Smps)) or a transistor inside switching at an audible frequency.

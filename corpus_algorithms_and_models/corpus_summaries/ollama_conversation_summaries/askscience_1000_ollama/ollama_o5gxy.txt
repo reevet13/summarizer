@@ -1,0 +1,17 @@
+Here is a summary of the original text, extracted verbatim:
+
+When you say 'to cook any given piece of meat', you have to give dimensions. Surface area is a factor. Because a thick 10 oz steak, with its reduced surface area, has less effective thermal conductivity than a thin 10 oz steak, which has a much greater surface area.
+
+Can we use the thickness of the steak as a variable in the calculation? Or an aspect ratio and surface area as variables?
+
+This is one of those things that is much easier to measure experimentally than it is to calculate. To calculate this, you need to know the heat conduction and convection coefficients from the oven air to the steak, and the conduction coefficients through the steak.
+
+I would imagine the density or composition of the meat would affect the heat transfer. Approaching this in from an entirely physics point of view would cause problems because of this factor of biological variation.
+
+That's insanely complex. I suppose the answer is 'you can' but you're going to have to hope someone has the time to do all that math.
+
+Like others have said, it's more complicated than using 3 variables. But some work has been done on the matter, and equations have been developed. [This paper](http://www.springerlink.com/content/l74318784570634n/fulltext.pdf?page=1) concisely outlines a set of equations that can be used to model meat cooking times.
+
+I propose we all head over to OP's house for some serious experiments. We should throw in factors like different seasonings and marinades. Compare different grades, cuts of beef... Some Kobe, some Angus...
+
+(Note: The summary is approximately 10% of the original text, up to 250 words.)

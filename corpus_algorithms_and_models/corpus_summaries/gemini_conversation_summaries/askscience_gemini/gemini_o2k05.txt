@@ -1,0 +1,5 @@
+What you're seeing are [Faraday waves](http://en.wikipedia.org/wiki/Faraday_wave).
+The vibrations are what's driving them.
+You can sometimes produce them by sliding a wineglass over a semi-smooth surface in such a way that the base vibrates as you slide it ([stick-slip motion](http://en.wikipedia.org/wiki/Stick-slip_phenomenon)).
+And no it has nothing to do with the Coriolis effect.
+Strange things can happen on video when the frame rate of the camera and the frequency of the oscillations interact.

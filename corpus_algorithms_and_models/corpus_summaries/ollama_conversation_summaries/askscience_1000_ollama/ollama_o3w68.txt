@@ -1,0 +1,13 @@
+Here are the selected sentences from the original text:
+
+Anyone who's lived in the bay area and ridden BART knows that BART trains have a very distinctive sound to them:
+
+What's interesting to me is that the pitch of the initial whine doesn't seem to correspond with the speed of the wheels at all. It rises quickly to a certain frequency, and then stays there as the train acccelerates, getting someone more ethereal.
+
+New York City's R143 and R142A trains (which are MUCH newer than bart trains) have almost but not quite the same sound.
+
+My current theory (based on pure speculation) is that there are two motors involved, which are coupled to the wheels by a system similar to the Hybrid Synergy Drive. The one you hear first spins up to a constant RPM and stays there while the second one's RPM varies. This is just a harebrained theory.
+
+It's always the same four pitches, in that order.
+
+Finally, I was wondering: BART trains never make high pitched squealing noises when rounding corners, like most trains do.

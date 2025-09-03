@@ -1,0 +1,64 @@
+People claim that say... a car battery will hurt you more than 120 volt home circuit will, if you get shocked.
+Having been shocked by both I can say it appeared the car battery was MUCH stronger.
+This makes sense though, as most car batteries push 500+ amps at 12 volts.
+This is 6000 watts.
+A home electrical circuit is usually 20 amps at 120 volts, that's only 2400 watts.
+Is it really the total power that hurts you, and amps or volts is irrelevant?
+This makes sense but as I said, even an electrician I talked to seemed confused by this.
+I said a 20 amp circuit at 120 volts should 'hurt' or be as dangerous as a 10 amp 240 volt circuit, but most people I ask say the 20 amp circuit would be more dangerous.
+That doesn't seem to make sense.
+Yes it is true.
+10ma can cause fibrillation.
+yes, amps are what kill you.
+BUT... you need a high voltage for the current to overcome the resistance of your skin.
+
+you can touch both terminals of a car battery and not get shocked because its only 12 volts.
+
+also be aware that even current less than one amp is enough to kill you if it pass through your heart
+So 10 amps at 120 volts is just as dangerous as 10 amps at 480 volts?
+(this is drawing 4 times the 'power' from the electric company)
+10 amps at 480 volts means the resistance is entirely different.
+you can't think of it like that.
+It is current that hurts you.
+
+But you have to remember that most power circuits are *voltage sources* with some sort of internal resistance.
+And your skin is a pretty good resistor (tens of thousands of ohms when it is intact).
+
+So even though the car battery has a very low internal resistance (it can push more current if needbe), it's NOT going to be able to push much current through your skin.
+
+Your 120 volt outlet will send approximately 10x as many amps through you, since the voltage is higher\*.
+
+\* note that it is not a 1:1 relationship since the skin will begin to break down as voltage increases.
+The outlet doesn't provide 10 A constantly.
+It can provide up to 10 A.
+I=V/R, where R is the resistance of the path between the terminals.
+The human body has a pretty high resistance, on the order of megaohms(depending on the distance between contact points on the skin).
+
+Also: The 240 V circuit is more dangerous because it will provide more current than the 120 V circuit at the same resistance, unless the resistance is lower than 24 ohms, but more than 10 A are not needed for something to be dangerous.
+[deleted]
+http://www.physics.ohio-state.edu/~p616/safety/fatal_current.html
+Why is it that a nine volt battery will shock my tongue but not my finger?
+your finger has more resistance
+Ohm's law is the relationship between voltage, current and resistance.
+Voltage is potential difference.
+If everything in the world has electrical potential, a voltage is when the electrical potential of two things are different (for instance, the pins on a battery).
+When you have a voltage, electrons will move between the two points you are measuring the difference of.
+This is called current.
+Resistance is what is stopping the electrons from moving between these two points.
+Consider a 9v battery.
+By itself, the current between the two pins is almost negligible because air has a very high resistance.
+Put your tongue on it though, and you'll get an unpleasant shock.
+
+The voltage of the battery has not changed when you licked it.
+Rather, the resistance between the pins has been lowered and that allowed a current to flow.
+That is how it is easy to understand how it is 'not the volts'.
+
+Similarly, if you were to touch a live mains wire, you'd receive a dangerous electric shock because such a large amount of current was passing through you.
+If you were to touch it wearing thick rubber gloves though, although you'd still be touching a high voltage wire, the current would be much lower because of the resistance.
+Your saliva makes your tongue more conductive.
+[deleted]
+[deleted]
+Static shocks are very high voltage, often around 40,000 volts.
+However, their amperage is very low.
+That's why they are not harmful.
+If you can feel it, it's at least 1

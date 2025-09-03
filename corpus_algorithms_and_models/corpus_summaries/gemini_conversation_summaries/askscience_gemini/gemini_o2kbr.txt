@@ -1,0 +1,10 @@
+IS it possible for an amateur to build a planar array detector for a radio telescope to show positions of sources without scanning?
+The planer array would be at the focus of a parabolic dish just as a light detecting array (camera) is placed at the focus of a parabolic mirror
+
+There has to be a way to make such a planar array that is sensitive to radio spectrum rather than say light.
+Ideally it would NOT be thousands of individually constructed tuners assembled into an array but something more like a addressable CCD chip for radio spectrum.
+
+make no mistake the planer array would be at the focus of a parabolic dish just as a light detecting array (camera) is placed at the focus of a parabolic mirror
+
+I am looking for a pixel array image of the sky.
+Oh, you are asking for a CCD equivalent of for radio waves to get multiple pixels of the sky?

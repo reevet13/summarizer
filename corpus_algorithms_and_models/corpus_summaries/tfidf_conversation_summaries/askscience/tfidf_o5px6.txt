@@ -1,0 +1,52 @@
+Original Response:
+Suppose you dropped a full keg of beer in a lake.  Anecdotal evidence aside, will the keg sink, or float?  I assume there are factors that the answer depends on -- what are those? Does it depend on the beer?
+[deleted]
+The mass of an empty standard US 1/2 keg is 13.5kg so there would need to be at least 13.5 litres of air in the keg - somehow I doubt this is possible
+In lakes &amp; pools, **full** kegs will sink .  Like rocks.  Rocks full of sorrow and wasted beer.  I wouldn't expect the type of beer to make any difference, except on how angry you get when it's gone.
+
+Also, I'm not sure about salt water, though I'd expect the same results, but with the keg starting to float earlier in the emptying/drinking process.
+Especially considering a half-keg is defined to be 7.75 gal, or 29.3 L
+
+That would be a half-empty half-keg.
+
+Or half-full if you're an optimist, which few people are when it comes to empty space in kegs.
+The factors it depends on are:
+
+-Density of the keg (must be less than density of water)
+
+This can further be broken down:
+
+-Mass of the Keg  
+-Volume of the Keg
+
+Mass breaks down into:
+
+-Mass of beer inside keg  
+-Mass of empty keg  
+(M[beer] + M[emptykeg] = M[keg])
+
+and mass of beer inside keg is made of:
+
+-Density of beer  
+-Volume of beer  
+(Density x Volume = mass)  
+
+The volume of beer inside a full keg is 7.75 gal, or 29.33 L. The rest are properties of the beer or of the keg itself.
+
+EDIT: See IWTHFP's comment or Chiz511's comment for the actual answer.
+Let's assume we're talking about pure water (1g/cm3)
+
+Using the values for a [U.S. 1/2 barrel keg](http://en.wikipedia.org/wiki/Keg#Specifications_for_a_U.S._1.2F2_barrel_keg) we get following values for the keg.
+Volume: 0.0777 m3 (the amount of displaced water will be less since the height listed also includes the top and bottom rims and the quantity of beer is not accurate for judging volume because it doesn't take into account the pressurized gasses present.)
+Mass of a full keg: 72.8 Kg
+
+For the keg to sink, the mass of water displaced must be less than or equal to the mass of the full keg. The mass of the water dispersed is 77.73kg. If the keg actually displaced 0.077m3 of water, then it would float, but because of the reason listed above for it to displace less, it likely wouldn't.
+
+If you were to try to sink it in sea water, it would displace 79.675 kg of water as salt water is denser than pure water so it is more likely to float, but again is at the mercy of the previously mentioned issues.
+[deleted]
+I'm assuming you are asking this because alcohol is less dense than water. When making beer, keeping track of the density is extremely important for a variety of reasons. One of these is that as it ferments, CO2 will escape and alcohol content will rise, lowering the density. Starting densities (specific gravity) for beers can range from around 1.040 g/cm^3 to as high as 1.100 or above, but by the time it's done its usually no less than 1.010 and (almost) never below 1.000. Since the specific gravity of water is very close to 1, a keg will not float due to the beer alone. It could if there is a gas trapped inside, or perhaps if the lake is saltwater.
+I wish i did this kind of science more.
+
+Summary:
+Suppose you dropped a full keg of beer in a lake.
+Does it depend on the beer?

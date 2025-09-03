@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+Would this hold true still, even for bigger circuits/connections?
+Yeah, making the circuits bigger would make it much worse. In general smaller circuits are more efficient because the same signal is transmitted over a smaller distance.
+
+Size is very important.
+The thing is, CPUs really don't do very much. They do have lots of tiny electronics on them, but they perform essentially just the basic math calculations for the machine to run off of.
+
+Small wires are better for speed, big wires are better for heat.
+Think of the wires as little toggle switches. The size of the wire (capacitance) is the "weight" of the switch - the bigger the wire, the heavier the switch is, so the more time it takes to change its state between 1 and 0.
+
+At the end of all of this... it's always a tradeoff, and a smaller chip means you can run it at a higher speed for the same power consumption.
+The Larrabee cpu was a *very* large processor (it had 32 cores of with 4 hardware threads, giving an effective core count of 128 using 16-wide SIMD units), and was something like a [square inch](http://www.pcgameshardware.com/aid,681498/Intel-presents-Larrabee-Wafer-at-the-IDF-Sample-chips-ready/News/).
+
+Let me know if you would like me to continue the summary.

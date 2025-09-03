@@ -1,0 +1,3 @@
+For example, does 300 dpi use less ink than 600 dpi, or are the dots in 300 dpi bigger to try to fill the same space, using more ink in the process?
+
+In my opinion, a lower dpi setting seems to use more ink because the printed text does not appear lighter and the jagged effect is present.

@@ -1,0 +1,26 @@
+Original Response:
+This video: http://www.youtube.com/watch?v=VyOtIsnG71U demonstrates what I'm talking about. As someone who is trying to be scientific, I am always skeptical of claims but even with everything seeming to point to this being real it's still hard for me to accept. Can someone give me the science behind this? What we could apply it to? When was it first discovered? Et cetera...
+The scientific topic responsible for the effects seen here is called superconductivity (discovered in 1911!).  Superconductors are materials that have zero electrical resistance (not just very low, but zero) and generally expel all magnetic fields.
+
+It turns out that when you bring these superconductors near to magnets you set up a current in the superconductor that creates a magnetic field that exactly opposes the applied field.  Imagine taking two ordinary magnetics and balancing the opposing poles on top of each other.  This situation with ordinary magnets is unstable, and will quickly become unbalanced and collapse.
+
+These materials are particular types of superconductors called Type II superconductors, that do allow magnetic fields to penetrate at certain defects in their structure.  As the magnetic field can only penetrate certain regions they become pinned in place and it's energetically favourable for the superconductor to just float above the magnet.  This pinning effect means that the instability you would get with ordinary magnetic levitation no longer occurs, hence stable magnetic levitation.
+
+
+Superconductivity usually only occurs at very low temperatures, which is why in the video you see the disc being removed from a bath of very cold liquid.  These types of cooled superconductors are used fairly commonly around the world, for instance in MRI machines.  If we could make a large enough quantity of high temperature (room temperature or above) superconductor then we could use the same principle to create almost frictionless maglev train systems, and zero loss power distribution networks, etc.
+It's a very real phenomena, and an *amazing* demonstration to people who have never seen it.  Superconductors in general and amazing and correspondingly have amazing properties.
+
+One such property is that they expel magnetic fields from within themselves (named the [Meissner effect](http://en.wikipedia.org/wiki/Meissner_effect)).  This causes an external magnetic field to wrap around the object instead of penetrating it; this leads to some very complex electromagnetic phenomena but the upshot is it reaches an equilibrium where small currents are generated in the object that cancel out the external magnetic field allowing levitation over a permanent magnet.
+
+If there are imperfections in the crystalline structure parts of the field can be funneled through the object and effectively get stuck inside.  This is what [flux pinning](http://en.wikipedia.org/wiki/Flux_pinning) is all about, and leads to some more really complicated properties that I am only vaguely aware of.
+
+I do know that the Meissner effect was first discovered in the early 1930's (1933 according to wikipedia) but I don't know about flux pinning and the article has no date.  Because of the tight relationship between flux pinning and other superconducting properties I can't imagine it took too long to find once serious work started.
+
+Superconductive materials find applications in many place, most notably in extremely powerful electromagnetic devices.  Since they have zero resistance you can push very large electric currents through them without destroying the material with resistive heat losses; this is a phenomenal property because you can generated extremely powerful magnetic fields in a controlled manner that would be impossible to create otherwise.
+
+There is, however, one glaring downside: all known superconducting materials require cryogenic temperatures to operate.  This means they all must be kept close to absolute zero, usually by bathing them in a liquid gas (hydrogen, helium, etc) and making damn sure it never gets too hot.  You will *definitely* know if a superconductive material is found that can be made to work at room-temperatures because the uproar would be huge!
+
+Summary:
+Superconductors are materials that have zero electrical resistance (not just very low, but zero) and generally expel all magnetic fields.
+Superconductors in general and amazing and correspondingly have amazing properties.
+One such property is that they expel magnetic fields from within themselves (named the [Meissner effect](http://en.wikipedia.org/wiki/Meissner_effect)).

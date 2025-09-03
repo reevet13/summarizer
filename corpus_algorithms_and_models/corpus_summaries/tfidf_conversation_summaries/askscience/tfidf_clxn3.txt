@@ -1,0 +1,38 @@
+Original Response:
+Also why does the vacuum have energy?
+I'm not qualified to answer this but I think a lot is covered in this wikipedia article: http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics
+
+And this one
+http://en.wikipedia.org/wiki/Beyond_the_Standard_Model
+Basically, when you solve a problem in quantum field theory, you have to do something called Renormalization, which involves separating out the finite and infinite quantities, then subtracting off the infinities. When you try to do this with the gravitational interaction, it's mathematically impossible (or at least very, very difficult).
+
+http://en.wikipedia.org/wiki/Quantum_gravity#Nonrenormalizability_of_gravity
+You should look at this review article posted on reddit quite a while ago:
+
+http://arxiv.org/abs/0907.4238
+
+Here is a sample quote:
+
+&gt; The unsatisfactory state of affairs in quantum general relativity is that the only computational tool we currently possess offers the choice between two hopelessly incorrect predictions:
+&gt; * Either quantum gravitational effects are infinitely strong;
+&gt; * Or else the universe blows up instantly.
+It's because particle-antiparticle pairs can spontaneously appear and annihilate so long as they obey the uncertainty principle. What's interesting is that the experimental vacuum energy and the theoretical one differ by a factor of 10^120.
+A less formal explanation is that Quantum Theory and Relativity have conflicting descriptions of space-time.  Its flat in Relativity but foamy in the quantum description.
+&gt;the experimental vacuum energy and the theoretical one differ by a factor of 10^120.
+
+Oh, so they're pretty close. Someone probably made an arithmetic error somewhere.
+Pretty close? That's 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 times.
+Or just about a factor of h^-4. those h^2's keep adding up, I can see how that'd be easy to do :P
+
+(Edit: there should be kidding tags for the internet)
+It depends on which theory.  With SUSY the cosmological constant should be zero, so with an imperfect SUSY getting lambda ~ 10^-120 isn't that unreasonable from some broken symmetry.  It just means you have to have a shitload of very ugly and inelegant fine tuning (to 120 digits of accuracy) to get a bunch of non-zero things of size ~1 to add up to 10^-120.  [[1](http://en.wikipedia.org/wiki/Cosmological_constant#Cosmological_constant_problem)]
+I don't understand why this was downvoted. It's not an illuminating answer but it's an earnest attempt to provide some guiding references.
+Thanks but in retrospect it was kind of a low quality post and I can see how it isn't the answer the op wanted... Luckily I don't take downvotes personally :&gt; The quality of this reddit would probably suffer if it was all non-experts posting tangentially related wikipedia links
+I can't find it now, but there was a Mod post expressing that one of the original intents of this subreddit was to have experts provide explanations that are supplemented by reading selected parts of articles or wiki's. Just linking a wikipedia article is not considered good form.
+
+The assumption is that a person sufficiently interested enough to ask a question here would have probably already attempted to read the wikipedia articles on the subject.
+This makes perfect sense. :)
+
+Summary:
+&gt;the experimental vacuum energy and the theoretical one differ by a factor of 10^120.
+What's interesting is that the experimental vacuum energy and the theoretical one differ by a factor of 10^120.

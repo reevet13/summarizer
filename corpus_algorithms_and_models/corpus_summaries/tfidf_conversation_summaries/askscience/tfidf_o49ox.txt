@@ -1,0 +1,25 @@
+Original Response:
+Depending on the temperature and pressure, you can get different kinds of ice forming, as seen on the [phase diagram](http://en.wikipedia.org/wiki/File:Phase_diagram_of_water.svg). 
+
+You can read about them [here](http://en.wikipedia.org/wiki/Ice#Phases)
+It stays in the liquid phase, but at high pressure.  [Here is a phase diagram of water](http://upload.wikimedia.org/wikipedia/commons/0/08/Phase_diagram_of_water.svg) showing the relationship between temperature, pressure, and phase.  If the container is strong enough to withstand extremely high pressures, and you keep cooling the water (to around 250 K), eventually it will solidify with a different crystal structure.
+Can 1TPa be broken, and perhaps a XII be found? Are materials too weak, or does nothing really happen beyond 1TPa?
+Diamond anvil cells usually reach some three-figure GPa pressure. I think most of the exploration above those pressure is carried out with computational methods.
+Does this graph show that at a constant temperature (say 100 C), if you keep increasing pressure, the water will solidify?
+Yep!  This is true for most other materials as well.  Pressure has a huge effect on what phase you will find a substance in.
+but would it stay at 100C, or actually lose the heat? picturing boil temp ice is hard for me :)
+[deleted]
+No, it wouldn't lose the heat.  The phase diagram shows you that, although it doesn't make intuitive sense, water can exist as a solid at high temperatures if it is under enough pressure.
+[deleted]
+[deleted]
+Realize it does get the point where electrons can no longer exist in their own orbit because the pressure pushes them too close together. Then they start fusing with protons because it is a more favorable state. Here lies the point where matter can exist as a mass of neutrons. Passed that we get black holes. So there is an eventual end to the kinds of ice.
+Sodas do this much more reliably, though they lose most of their carbonation in the process, so opening them can be messy.
+[deleted]
+You get beautiful blue glacial ice.
+The triple point part is fascinating. id love to see a video of that in action in slow motion.
+Thanks!!
+
+Summary:
+It stays in the liquid phase, but at high pressure.
+Depending on the temperature and pressure, you can get different kinds of ice forming, as seen on the [phase diagram](http://en.wikipedia.org/wiki/File:Phase_diagram_of_water.svg).
+The phase diagram shows you that, although it doesn't make intuitive sense, water can exist as a solid at high temperatures if it is under enough pressure.

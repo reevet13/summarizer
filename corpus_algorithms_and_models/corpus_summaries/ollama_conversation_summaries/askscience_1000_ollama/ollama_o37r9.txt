@@ -1,0 +1,10 @@
+Here is the extracted summary:
+
+I remember reading a few years ago about anti-matter and matter and how if they meet they explode, or whatever the technical term is for that.
+
+So why is it that we only see matter today and anti-matter has to be created in labs? Why is there more matter than anti-matter?
+This is still an open question as far as I know. It might have something to do with the fact that the weak force isn't the same if you flip it left/right so matter and anti-matter aren't 100% identical.
+
+As BlazeOrangeDeer says, we don't know yet. One idea that's been floating around is (as BlazeOrangeDeer said) CP violation: you would think that a process would occur at the same rate as its matter-antimatter-flipped counterpart, but we've discovered that this isn't the case for some processes involving the weak force.
+
+The theory you're referring to is one where there's equal amounts of matter and antimatter at the beginning of the universe, and this CP violation asymmetrically changes some of the antimatter over to matter before everything recombines.

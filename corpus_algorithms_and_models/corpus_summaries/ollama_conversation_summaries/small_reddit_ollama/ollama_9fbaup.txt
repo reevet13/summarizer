@@ -1,0 +1,25 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+&gt; Hardware wallet (highest security): Trezor or Ledger Nano S   
+
+&gt; Desktop wallet: Electrum   
+
+&gt; Android wallet: Samourai Wallet  
+
+&gt; iPhone wallet: GreenAddress
+
+I second that.
+
+Am I the only one who likes this feature? Can anyone recommend a wallet that does this?
+
+Mycellium I think.
+
+I want a wallet that I can show and my inexperienced friends can use without too much hustle.
+
+Greenaddress.
+
+Electrum has a mobile app.
+
+Thanks!
+
+GreenAddress is OK, but the interface is a bit ugly, to be honest.

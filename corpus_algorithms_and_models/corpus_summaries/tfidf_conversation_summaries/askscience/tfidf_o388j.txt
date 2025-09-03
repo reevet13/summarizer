@@ -1,0 +1,29 @@
+Original Response:
+There is a more efficient version.
+
+[This is a solar system.](http://blogs.business2.com/greenwombat/images/2007/09/10/ausra_mirrors_tilted.jpg) [Here's another.](http://www.applied-solar.info/wp-content/uploads/2009/09/solar_thermal_parabolic_troughs.jpg) They reflect light from the sun onto a pipe filled with a fluid, probably petroleum, which then is used to heat water.
+Came here to say this, however its molten salt, not petroleum. They work 24/7 because when the sun goes down, the salt drains into a vessel and is pumped back out when the sun comes back on. The salt retains its heat and continues to provide power. 
+
+Edit: didnt look at your original pictures. I'm not sure how those work, I was referring to [this](http://www.google.com/imgres?um=1&amp;hl=en&amp;safe=off&amp;client=firefox-a&amp;sa=N&amp;rls=org.mozilla:en-US:official&amp;biw=1280&amp;bih=650&amp;tbm=isch&amp;tbnid=aKQtZMiOISStaM:&amp;imgrefurl=http://www.treehugger.com/renewable-energy/six-new-solar-power-plant-plans-pulverize-old-records.html&amp;docid=iDTmjOGSaPXm3M&amp;imgurl=http://media.treehugger.com/assets/images/2011/10/brightsource-solar-mojave-tower-080911.jpg&amp;w=450&amp;h=355&amp;ei=7fAET46EJcSbiQL41bybDQ&amp;zoom=1&amp;iact=hc&amp;vpx=185&amp;vpy=149&amp;dur=251&amp;hovh=199&amp;hovw=253&amp;tx=113&amp;ty=113&amp;sig=105160082872649098280&amp;page=1&amp;tbnh=138&amp;tbnw=183&amp;start=0&amp;ndsp=15&amp;ved=1t:429,r:0,s:0).
+Couldn't they just concentrate the sun enough with a big enough lens to directly evaporate the water, though?
+This turns out to be more efficient. Lenses are very expensive. Parabolic mirrors work better.
+A mirror is far less expensive than a lens, and if you have a 1 square meter lens that's focused a certain way, a 1 square meter mirror that's focused the same way will be almost exactly as efficient at heating up the water.
+Here's a couple of different systems
+[Solar Updraft System](http://en.wikipedia.org/wiki/Solar_updraft_tower) and the
+[Heliostat Power](http://en.wikipedia.org/wiki/Solar_power_tower)
+You can never get past the fundamental limits of lens design - the bigger the lens, the thicker it needs to be. If you want one with an area comparable to the mirror system of a [solar power tower](http://en.wikipedia.org/wiki/Solar_power_tower) (and the refractive power of one), you'll need a ridiculously thick lens - which ultimately means less light is transmitted through the majority of it. Even designs such as a [Fresnel lens](http://en.wikipedia.org/wiki/Fresnel_lens), though it cuts down on material, has limits on transmittance.
+Also, larger lenses are more susceptible to chromatic aberration.  This may or may not be a problem depending on how small your focal area is.
+Lenses are expensive, big and heavy. It is also much harder to move a big lens to track the sun than it is to move small mirrors.
+This is a viable method that is used (or has been planned) to increase the efficiency of creating hydrogen fuel.
+People are answering the lens part of your question, but not the direct evaporation part.
+
+One of the main reasons you don't evaporate water directly is that that gives you an immediate burst of energy. You have no control over how much electricity you generate; you simply convert *all* of the thermal energy into electricity at all times. The problem is that a power plant must supply energy when it is *needed*, not when it is *available*. For example, people need still need electricity at night, when the sun is not around to boil water.
+
+So then you have to store the electricity in a battery. Which is fine, as far as it goes, but batteries are not very efficient.
+
+So a more efficient solution is not to heat the water directly, but to heat up something that can hold all of that thermal energy. So you want something with a very high boiling point. So you take, say, a salt, and you use solar energy to heat it up to the point that it's molten. You continue to heat it throughout the day, and then you adjust the amount of heat that you leech off to produce steam based on how much electricity you need to produce. Even at night, the salt will still be very hot, and so your electricity production is determined by consumption rather than availability, and you don't have to mess around with wasteful batteries.
+
+Summary:
+[This is a solar system.
+So you take, say, a salt, and you use solar energy to heat it up to the point that it's molten.
+This turns out to be more efficient.

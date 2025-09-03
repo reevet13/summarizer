@@ -1,0 +1,35 @@
+Original Response:
+Thanks.
+Oh hey Zulban. Me again.
+
+This is what speed would look at as a function of kinetic energy. http://www.wolframalpha.com/input/?i=plot[sqrt(1-1/(q%2B1)^2),{q,0,10}]
+
+I'll see if I can recall the force version after I finish moving.
+Hehehe.. I figured there was a good chance you'd answer, seeing as you are online and are part of the 'physics panel'. Actually I found this subreddit looking at your comments.
+Ok. For what would be a constant acceleration in a Newtonian system, a, the velocity as a function of time is v/c=tanh(a*T/c). Tanh (hyperbolic tangent) just approaches 1 as its argument increases.
+
+http://www.wolframalpha.com/input/?i=Plot[tanh[x],{x,0,7}]
+As speed increases, so does mass, and with force being constant, you'd expect acceleration to decrease. As velocity tends to c, mass tends to infinity and acceleration tends to zero. So the velocity vs time graph starts off with a positive slope, but slope decreases asymptotically to zero, and velocity asymptotically approaches c.
+
+The key being 'tends' and 'asymptotically'. 
+
+Too lazy to do the math :| But looks like its been done by someone else.
+i'm assuming this is from an external inertial perspective? what would it look like in the object's own frame of reference?
+In the accelerating object's frame of reference, it would feel a constant force (indistinguishable from a gravitational field) opposite the direction of travel. An object doesn't have speed in its own frame of reference.
+RIGHT. Mass increases. I forgot about that.
+oh oops sorry, retarded, I meant the speed of the object relative to something in the fixed frame of the external inertia frame. like assuming the distance from 'here' (inertia starting point) to alpha centauri is constant, what velocity does the observer observed himself to be moving relative to that frame, versus the observer's proper time?
+Well he'd see points A and B moving in the opposite direction at the same speed. However, they'd still appear to get closer to each other. This is where I have to start to trust math over intuition. The distance would be length contracted by the Lorentz factor where v is the hyperbolic function I described earlier.
+It works out when viewed from an external frame. In the accelerating frame, the acceleration still feels constant.
+so for if the traveler from A to B experiences a constant acceleration, and we defined the distance from A to B as being a constant (i.e. its value in the starting inertial frame), the traveler's proper trip time would be arbitrarily small given arbitrary acceleration?
+
+i.e. (i think) would the experience of the traveler be as if their were no 'speed limit', with perceived distance over proper time given constant acceleration being newtonian (ignoring the blueshift and lensing)? 
+
+edit: redshift =&gt; blueshift
+I'll have to wait until I unpack my pad of paper to work that out.
+An object undergoing constant acceleration is [described by a hyperbola on a space-time diagram](http://www.absoluteastronomy.com/topics/Hyperbolic_motion_\(relativity\)). The linked website seems a bit broken, but you can get the basic idea from there.
+That site is just a broken mirror of wikipedia - [here's the original](http://en.wikipedia.org/wiki/Hyperbolic_motion_(relativity\)).
+
+Summary:
+what would it look like in the object's own frame of reference?
+An object doesn't have speed in its own frame of reference.
+As speed increases, so does mass, and with force being constant, you'd expect acceleration to decrease.

@@ -1,0 +1,3 @@
+Hey everyone!
+
+If you have a fixed volume of air that is at, say, 30 degrees Celsius. Will the ambient air temperature drop if the air is agitated with a fan? The flow of air from the fan will feel cold to the skin, but will the actual temperature of the volume of air drop?

@@ -1,0 +1,17 @@
+Original Response:
+Common ancestor had symmetry.
+
+Symmetry is useful, because without it, movement is nearly impossible to coordinate.
+
+Radial symmetry permits free movement in the ocean or water, like jellyfish. Bilateral movement permits swimming movement like fish and land movement.
+From a developmental standpoint, much of development happens because a common ancestor developed that way (with tweaks along the way).  As to whether this was beneficial, TaslemGuy has noted that symmetry has important ramifications for movement.  It also allows for redundancy.
+
+As to how it happens, during development (especially before any sort of circulatory system has been established, or in organisms that do not have such a system), many processes are determined by a signalling molecule diffusing out from a part of the developing embryo--whether it be a midline or a pole or something else.  This diffusion, in a physical sense, happens symmetrically--in all axes, if the molecules is diffusing from the center, or just some, if it's diffusing from a point like a pole.  So barring cells that are unable to respond to the signalling molecule (which are usually set up by a different signalling event), you wind up with cells responding to signal in a roughly symmetrical fashion throughout development, with exceptions.  This generally sets up tissues in the later organism that are symmetrical, because they responded to signal in the same fashion as other cells the same distance from the signal on the other side.
+I will not begin to simplify embryology &amp; body symmetry... here is a pdf I found googling
+http://www.pnas.org/content/67/1/156.full.pdf
+see also http://www.reddit.com/r/askscience/comments/fdujo/last_night_it_occurred_to_me_that_animals_are/, http://www.reddit.com/r/askscience/comments/m04q6/why_are_so_many_animals_including_humans/
+Animals that aren't only move in circles, and don't survive.
+The way life has proliferated on this earth leads to axial symmetry along a nervous center. Lower life forms have sometimes more or less points of symmetry, with higher life forms exhibiting bilateral symmetry. This is just a result of the development of organisms from common ancestry. Somewhere on some planet in Galaxy X there are animals that may have also evolved under the format of axial symmetry, and somewhere on some planet in Galaxy asdfjkl; there are weird organisms that have no symmetry, and do not process information using 5 senses, and do not have a body, head, and appendages. Use your knowledge of the interactions between matter and evolution to speculate that life on Earth is actually quite limited, and although millions of species/subspecies have developed, life is not finished changing, and neither is the rest of the universe.
+
+Summary:
+This is just a result of the development of organisms from common ancestry.

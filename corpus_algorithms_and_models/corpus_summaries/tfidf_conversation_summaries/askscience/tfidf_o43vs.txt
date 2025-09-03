@@ -1,0 +1,29 @@
+Original Response:
+Assuming a perfect 90 degree (perpendicular) "impact." Or am I completely misunderstanding the concept? If so, what does happen?
+I was going to answer with what I know about the physics of reflection...but then I found [this](http://en.wikipedia.org/wiki/Reflection_(physics)) instead. Hope this helps.
+
+edit: due to weird formatting just click the first link: Reflection (physics). Cheers.
+There are kind of two interpretations of this phenomena based on whether you are taking the "light is a particle" or "light is a wave" approach.
+
+"Light is a particle" - Photons comes in and "impact" the surface.  Physically, this is the photon being absorbed by electrons in the material the surface is made out of.  Absorption makes electrons jump to a higher energy level.  Eventually, the excited electron drops back down to a lower (usually the original) energy level and emits a photon of equal energy as the one that just went in.  Now, the photon is emitted in a random direction, so sometimes it just gets shot further into the surface and the same process repeats.  If, however, the photon gets emitted out of the surface, it can travel back to your eye, which you see as a reflection.  Though the photon is emitted in a random direction, this doesn't mean that all directions are created equal.  For rough surfaces, the probability that a random direction means smacking into a peak or value on the surface is increased.  For smooth surfaces, the chances that a photon can travel, unimpeded back to your eye is increased.  This is why smooth things tend to be more reflective than rough surfaces.
+
+"Light as a wave" - As we know, however, light can be thought of as a planar electromagnetic wave.  A oscillating electric field and perpendicular magnetic field travel towards the surface.  When these waves strike a surface, different boundary conditions exists depending on the properties of the material.  A good way to think about this is like a piece of with one end in your hand and the other attached to a flag poll.  A fixed boundary condition is when the rope is tied to a single spot on the flag poll.  When you wave your end of the rope, it has to stop and come back towards you.  If, however, the rop is attached to a ring slipped over the flag poll, so that the ring can move up and down, then the point that the rope itself can move up and down at the flag poll and the energy does not get sent back.  The actual directions and magnitudes of the reflected electromagnet wave depends on vector calculus and Maxwell's equations, but that's probably more than you want.
+So I'm probably missing something here, but in the "light as a particle" explanation I'm not understanding how this can be the case.  If I shine a light at an angle at a mirror.  and the photons interact with the mirror are absorbed by the atom excite it and then it kicks a photon off as it drops back down, what is causing the majority of the photons to exit at the same angle I shined the light on the mirror with?  If it's just the atom kicking off the photon wouldn't it, for the most part, be kicking it out in a direction perpendicular to the surface of the mirror regardless of the angle at which we shine a light on it?
+
+Edit: Proofreading fail
+So is it that we don't know which one it is, does it change depending on situation, or is it some combination of the two theories? Thanks for the great explanation.
+Sorry, I should have made this distinction in my first post, but I wasn't sure it was helpful.  There are two types of reflection that go on, diffuse and specular (see the bottom section of this http://www.newworldencyclopedia.org/entry/Reflection_(physics)).  Diffuse reflection is what I described in my "light as a particle" section.  In this case, the random direction emission of the photon basically wrecks the "image" as your break sees it.  You can tell light is bouncing back at you, but you can't see a picture of it.
+
+There is another type of reflection called specular reflection.  This is probably what the OP was thinking of.  The ball hits the wall and bounces off at the same angle of incidence.  Specular reflection is very difficult to describe using the "light as a particle" interpretation, so its generally taught using the wave terminology.  The actual explanation relies on Quantum Electro Dynamics and involves the fact that the incident photon has certain properties like moment (kinetic and angular) as well as spin that bias emission.
+I have a second question but I'd rather not make another post if I can avoid it.
+
+Does a photon ever stop or "die?" Through impact or anything. Also, if a photon somehow traveled an infinite distance, would it degrade or "age" in any way since it's traveling at the speed if light?
+This is a big, big philosophical point in physics.  I don't really feel comfortable getting into it, although I am sure others on this board do.  In short, however, both theories are correct.  Light displays properties of particles and waves.  Different properties manifest themselves depending on the situation.
+Thank you for the explanation.  This makes more sense now.  For some reason I had thought that Diffuse reflection was based only on the surface of reflection being more "jagged" then smooth causing the reflection to lack clarity and had assumed the mechanism was the same.  Can one have diffuse reflection while still having a surface that is as smooth as a substance with Specular reflection?
+
+Summary:
+"Light is a particle" - Photons comes in and "impact" the surface.
+If, however, the photon gets emitted out of the surface, it can travel back to your eye, which you see as a reflection.
+If I shine a light at an angle at a mirror.
+Diffuse reflection is what I described in my "light as a particle" section.
+Light displays properties of particles and waves.

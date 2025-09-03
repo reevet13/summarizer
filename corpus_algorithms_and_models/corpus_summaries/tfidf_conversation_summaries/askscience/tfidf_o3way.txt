@@ -1,0 +1,43 @@
+Original Response:
+Mind you, I am aware that [artificial gravity](http://en.wikipedia.org/wiki/Artificial_Gravity) doesn't really exist yet. But still ...I'm sure there's a more flattering form that can serve similar or better function.
+
+Pictures of [ISS](http://upload.wikimedia.org/wikipedia/commons/c/c9/STS-134_International_Space_Station_after_undocking.jpg) and [Deep Space 9](http://upload.wikimedia.org/wikipedia/en/4/48/DS9station.jpg).
+Because one is an animation in a TV show and the other is an actual satellite that had to be launched into orbit piece by piece at ruinous expense?
+[deleted]
+Because when you rely on solar power, surface area is important. The "coke cans" are living quarters and laboratories, and the "waffer biscuits" (sic) are solar panels.
+
+I had written out a longer answer on the geometry of cylinders being well suited for space (surface area to volume ratio, etc) but I suspect you aren't interested in such things.
+I'm interested, please explain.
+
+EDIT: Oh boy, the day scientific inquiry is downvoted...
+meplusone, "flattering form" won't really be a consideration for spacecraft and -installations until the cost comes down by several orders of magnitude.
+I understand your salient, yet slightly sarcastic point. Thanks for your input.
+
+However, what's to stop NASA from having a sort of "space factory", if you will, that produces refined materials and to build ships as well as stations in orbit? I understand that the initial costs (capital investment) would be extraneous and exorbitant but once that's out of the way I'm sure costs of building spacecraft and launching them will pale in comparison to current numbers.
+
+I suppose the only problem would be supplying these factories with raw materials? Solar energy would probably suffice. And if not, could a nuclear power facility not be established in orbit aswell (I don't really know whether gravity plays an important part in the fission process).
+Please do...
+out of curiosity, how old are you? There are economic reasons why that would be cost prohibitive, as well as, for example, environmental arguments preventing launching a fission plant to orbit, NASA barely manages to get RTGs launched, there's so much protest. Launching anything to orbit costs a fortune. And raw materials are the ultimate dead weight, plus manufacturing equipment, etc... It's not feasible
+Rocket science is both really difficult and very expensive. There are a lot of private (non-government) space companies looking to get into low earth orbit. Perhaps in 25 years the situation will be much different, but DS9 is still just a fantasy.
+
+BTW why all the NASA hype? Why would NASA do it all? It's the *international* space station. NASA Atlas-V rockets have Russian engines. I wonder if everyone actually co-operated properly instead of building their own stuff, if space launches and exploration wouldn't be much easier.
+Because the ISS modules were launched on rockets. The "Coke Can" modules are for storage and living space and so you want the greatest interior volume you can get. To accomplish that, you need a cylinder because the rockets you can launch modules on are all cylinders (because long, thin cylinders have a high "fineness ratio" and thus a low drag).
+
+By all means you may launch oddly shaped parts, but you're going to need more launches because you're not efficiently using your possible payload volume on a rocket.
+
+Think about it like packing up your stuff and moving into a new house. You can cram a few weirdly shaped things in your back seat or you can stack lots of efficiently-shaped boxes. The same sort of problem occurs when you want to get things into space.
+
+Lastly, referring to your point elsewhere about a "space factory" -- it is actually more efficient to start making things in space if the materials are to be used in space. But you need a large, operational, and reliable lunar base to do that. Until you can manufacture parts in the light gravity well of the moon, you can't get much benefit from it because you just have to haul all the materials up there anyway. So bottom line: No moon base, no fancy spacedocks. (You could also mine asteroids to the same effect, but the moon tends to hang around more usefully)
+Thanks for the reply.
+
+I have wondered the very same thing. NASA was just a "default" choice of organisation in my suppositioning.
+Look at the space station in the scifi book "2001 a space odyessy". It's a similar design to DS9 but closer to today's technological level. They made it into a film too.
+Because DS9 was designed my Cardassians, and Cardassians are shit.
+Yes. I particularly like Kim.
+
+Summary:
+I have wondered the very same thing.
+Because the ISS modules were launched on rockets.
+Why would NASA do it all?
+It's the *international* space station.
+The same sort of problem occurs when you want to get things into space.

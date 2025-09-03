@@ -1,0 +1,139 @@
+Original Response: 
+I'm a former financial auditor who used to audit a pharma company so I have a bit of a different perspective.
+Stealing from an old post of mine that I saved:
+https://www.reddit.com/r/TrueAskReddit/comments/5s1160/why_are_medications_so_much_cheaper_in_socialist/ddclxty/?context=3 
+
+&gt; [Drug patents only last for 20 years from the date a patent was filed.
+Exclusivity periods are even shorter than that but if a company releases a competing drug before the patent has expired they will owe royalties.
+](http://www.fda.gov/Drugs/DevelopmentApprovalProcess/ucm079031.htm) 
+
+&gt; Because drug development is so incredibly expensive ([estimated at $2.6 Billion for a successful drug, as of a 2014 study](http://csdd.tufts.edu/news/complete_story/pr_tufts_csdd_2014_cost_study)), drug companies need to file their patents very early in the process.
+[This is a problem because drug development takes 12 years on average](http://www.ca-biomed.org/pdf/media-kit/fact-sheets/CBRADrugDevelop.pdf).
+So, over the course of a decade a pharmaceutical company needs to commit up to ~$2.5 Billion in development costs on a drug that might not even be successful, and then it only has 8 years to recoup those costs and actually make a profit (which they are obligated to do in accordance with stakeholder requirements) by building a brand from scratch.
+Thus, because they have such a small window to recoup their investment, they need to incur massive sales and marketing costs just to ensure that their new drug can even be competitive in the short time frame it can be sold before facing generic competition.
+&gt; Meanwhile, even though patents last for 20 years, a pharmaceutical company realistically only has a few years of exclusivity before another company will challenge their patent.
+These patent challenges typically result in a settlement in which the challenger receives the right to produce a competitor before the exclusivity period or patent has expired for established royalty charges (or sometimes no royalty at all).
+So now the drug company that funded this development has even less time to recoup its investment.
+&gt; That's why you see such exorbitant drug pricing - pharmaceutical companies incur a significant risk and have a very limited window with which to see a return.
+There is ample room to still develop safe drugs without the requiring so many hurdles that it takes 12+ years to develop.
+Alternatively, patent life could be extended to ensure pharmaceutical companies have more time to recoup their costs - thus they could justify lower pricing (but spread out over a longer period of time).
+&gt; As far as why they "happily accept much lower prices from national healthcare systems", that also relates to the points I've stated above.
+They have a very limited window with which to make a return on their very significant investment.
+During that time, they're better off taking whatever they can get and "less money from Socialist countries" is better than "no money from Socialist countries" in an industry where most of the drug's costs have already been incurred by that point.
+The end result is that countries like America end up having to pick up the slack and get charged more.
+Trust me on this, if America went to a single-payer system, you would see the leverage of all of these other socialist countries immediately eroded and they would be forced to pay significantly more.
+One other point I will add to this is that the "Big Pharma" companies are shifting toward an acquisition approach for R&amp;D versus in-house R&amp;D to offset the risk of failed development.
+Thus a lot of R&amp;D spend is now borne by small pharmaceutical companies hoping to hit the jackpot with a blockbuster product that they can then sell, at a premium, to a large pharmaceutical company that has the infrastructure and expertise to sell the product.
+Big pharma companies get an almost "sure thing" to sell without bearing much of the R&amp;D risk and small pharma companies get rewarded for innovation.
+However, because of this approach the big pharma companies' financials will show significantly less R&amp;D expense because that expense is now classified as Business Development.
+Counter point though - it’s somewhat typical to get an extension on patents, is it not?
+The new model makes so much sense I’m surprised that it took so long to become “mainstream”.
+It’s absolutely bonkers for a big company to spend billions on something that may not work.
+Big companies also are not made for cutting edge R&amp;D. Too much overhead.
+The whole point of startups is to spread risk into smaller companies backed by VCs who are willing to take those risks.
+The other reform that could possibly lower drug prices is to give “bonus” patent time for approved drugs.
+Hi!
+I recall your last post too and appreciate the insight.
+I practice out of a primary care doctor’s office (I work on MSK injuries) and we have lunch provided by a drug/Pharma rep about 4/5 days per week.
+I suspect this is also coming from their marketing budget and I see a good benefit from this, as it helps the docs keep up on new research.
+But, the direct-to-patient advertising I find pretty shady.
+The rules are kind of funny on if they say some things, they must say others; but, if they avoid saying some things they don’t have to say other specific things.
+Often, this makes their marketing so vague, it could mean anything.
+Which, might be the intention, but I also don’t see the public benefit given all the issues with medications (upwards of 115 people per day die from opioid use, though I believe that stat has non-prescribed deaths associated with it).
+Would it hurt the pharma industry to have them unable to do (or limited) direct to consumer marketing, similar to other industries like alcohol   And tobacco?
+An episode of Dirty Money talks about how Valaent Pharmaceuticals did all acquisitions and little to no R&amp;D.  They would jack up the price once they purchased the company/drug.
+&gt; pharmaceutical companies incur a significant risk and have a very limited window with which to see a return.
+That's the challenge for universal healthcare.
+Somehow we need to balance everybody being able to afford care while rewarding companies that take on development risk.
+The U.S. *by far* leads the world in healthcare advances - we need to maintain that while having affordable care for all.
+A lot of big pharma companies also have marketing partnerships with small biotechs.
+So they don't have to buy the biotech in order to market a drug.
+My father was an executive at a top pharma company (listed in this graph) and what you said matches perfectly with what he's told me.
+The business side of big pharma is very interesting, especially the recent acquisition approach which you mentioned.
+Edit: Here's an interesting graph on how rare it is for a drug to actually make it to market: [https://i.imgur.com/LVPPGIB.png](https://i.imgur.com/LVPPGIB.png)
+It is already very restricted on what they can say.
+It was actually illegal for most of the 20th century to advertise prescription drugs.
+They made the case that someone could see the symptoms laid out in an ad and it would convince them to see a doctor, and based on that, they made advertising them legal.
+They also don't know what the marketing budget is spent on.
+They think it's tv commercials.
+Because it's true.
+UK is actually ahead, if you look at advances/capita.
+Japan is also way up there.
+Most of those advances are paid for by the government too, also in the US.
+Government subsidies/funding towards health advances &amp; R&amp;D are the #1 funding channel, I believe it’s 2-3x that of private entities.
+The rest of the world does a decent job, with some areas performing better than others, but a lot of those advances are directly carried by taxpayers, and the profits are usually held by private entities.
+R&amp;D in healthcare &amp; drugs is primarily a taxpayer expense.
+Look it up ... much more money is spent from governments than private entities.
+Sounds like the only solution is to take patent rights away from big pharma all together, and allow research grants exclusively to the grant writer.
+All reasearch becomes public domain and any company who can sustainably and responsibly produce them can do so.
+Research would have to be done within public facilities that are certified by a 3rd party civilian board of scientists.
+Good info but the links are bad.
+And why would a company pay 2.5 billion dollars for the pleasure of a competitor just stealing their investment?
+Would the government  have to pay for all the expenses and wages?
+I've always wondered, are the patient prescription assistance/copay cards/PBM rebates included in the cost of marketing?
+It would seem possible to me.
+If that's the case, a large chunk of money is purely number shuffling.
+Are the percentages success or failure?
+In other words do 69.5% fail in phase 1 or do 69.5 make it through phase 1?
+If you ask me, the value of big companies is no longer worth the overhead cost.
+They have outsourced many of their key value adds (world wide distribution, research funding and production) The result is that a savvy small company can get their product manufactured and distributed without a huge corporation.
+If contracts could be standardized and made public, it could break the last advantage of the huge corporations.
+The last advantage of huge corporations is they have deep knowledge of the market and can maximize profit by pricing in each market based on existing contracts.
+They are success rates.
+&gt; Because drug development is so incredibly expensive (estimated at $2.6 Billion for a successful drug, as of a 2014 study), drug companies need to file their patents very early in the process.
+This is dishonest as it uses economic costs (including *opportunity costs*) and not *accounting* costs; as an auditor know the difference.
+[Tufts itself is a pharma funded effort:](https://www.nytimes.com/2014/11/19/upshot/calculating-the-real-costs-of-developing-a-new-drug.html)
+
+&gt;"The Tufts Center is funded, to a large extent, by the pharmaceutical industry.
+It is in the pharmaceutical industry’s best interests to have the public believe that it is very expensive to develop a drug.
+This belief helps drug companies justify the high prices they often charge.
+As I’ve said before here at The Upshot, financial conflicts of interest can have a great deal of influence, and we would be remiss to ignore them in this case."
+Regardless at no point do you address how it can be such a burden to undertake R&amp;D while spending *more* money on marketing.
+Pharma's not cash strapped.
+&gt;Thus a lot of R&amp;D spend is now borne by small pharmaceutical companies hoping to hit the jackpot with a blockbuster product that they can then sell, at a premium, to a large pharmaceutical company that has the infrastructure and expertise to sell the product.
+[Not even.
+](https://medicine.wustl.edu/news/cutting-nih-budget-cripple-drug-development/)
+
+&gt;"Kinch said that for decades, pharmaceutical companies have been moving further away from the earliest stages of research.
+For years, he explained, that withdrawal of private-sector funding was less noticeable because new biotech companies were appearing on the scene, and those firms helped pay for the early research that pharma companies no longer funded.
+But in recent years, many biotech firms have disappeared, and the creation of new biotech companies has fallen by about 50 percent."
+Working high tech software, these are great numbers!
+The odds of a Software company making it are one in a thousand!
+Yes some get bought out, but Billion dollar web sites or apps are called unicorns for a reason, they are very rare!
+Pharmacy folks cry about these numbers, but web sites and app builders would be very happy with these odds!
+If by expenses, you mean the grant to conduct the research, then yes.
+No company would be paying 2.5bil.
+It would be the same way we discovered nuclear energy and invented microwaves.
+Suddenly medicine is no longer the property of an organization which holds it for ransom against people who are dying.
+The cost of a prescription is no longer thousands or tens of thousands of times more than the cost to produce.
+And finally, the government will always make their money back because they take their cut in sales tax.
+I work in the same industry, and while you're not wrong, I doubt unsuccessful software costs companies several billions of dollars.
+I'm sure there are lots of markets with high failure rates.
+Companies bet based on the pay off, given the better odds and better returns, they are willing to bet more.
+My point is we would find more drugs if more bets were made with less money on each bet.
+Large companies also favor higher up front costs, complex rules and regulations because they can afford to dedicate the dollars and staff to compliance and it creates a barrier to entry for potential competitors.
+The point is the pharma sky high Prices are not justified by the risk.
+Many companies risk greater odds for much less money.
+There is no need to reward drugs with high prices to get money invested in drug discovery!
+except you still need to go to a doctor, so its bullshit.
+all this does is pressure doctors to prescribe whatever brand of medicine the patient saw on TV rather than have a treatment plan based on what actually works.
+Everything approved by the fda works.
+You have to prove it works.
+
+Summary: 
+No company would be paying 2.5bil.
+The odds of a Software company making it are one in a thousand!
+So now the drug company that funded this development has even less time to recoup its investment.
+Would the government  have to pay for all the expenses and wages?
+Many companies risk greater odds for much less money.
+The point is the pharma sky high Prices are not justified by the risk.
+A lot of big pharma companies also have marketing partnerships with small biotechs.
+&gt; pharmaceutical companies incur a significant risk and have a very limited window with which to see a return.
+R&amp;D in healthcare &amp; drugs is primarily a taxpayer expense.
+It would seem possible to me.
+So they don't have to buy the biotech in order to market a drug.
+[This is a problem because drug development takes 12 years on average](http://www.ca-biomed.org/pdf/media-kit/fact-sheets/CBRADrugDevelop.pdf).
+My point is we would find more drugs if more bets were made with less money on each bet.
+It is in the pharmaceutical industry’s best interests to have the public believe that it is very expensive to develop a drug.
+This belief helps drug companies justify the high prices they often charge.
+If you ask me, the value of big companies is no longer worth the overhead cost.

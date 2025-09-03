@@ -1,0 +1,45 @@
+Original Response:
+Short of dropping $500 on a nonlinear crystal or a quantum dot, is there any way I can do a basic quantum entanglement experiment at home? Or is this really the sort of science that's presently limited to well-funded research institutions?
+
+Edit: I'm thinking of something maybe along the lines of the [double-slit experiment](http://en.wikipedia.org/wiki/Double-slit_experiment), which demonstrates some pretty fundamental aspects of physics (particle/wave duality) while still being doable at home with minimal equipment.
+The double slit experiment is different from entanglement. You can do that with a laser and two very close slits. Entanglement would be much harder; you'd need some serious optics (for photons) or a special magnet (for electrons).
+
+You can show the particle like properties using the photoelectric effect, which you can demonstrate using a solar panel or photodiode. For the double slit experiment you'd have to make the slits on the order of microns apart if you're using red light.
+
+Some other experiments you could look into are the Frank Hertz experiment, or maybe even the Zeeman effect. The zeeman effect is neat because you can see the lines being split on a digital camera; you just need a bulb, a magnet, and an interferometer.
+As far as I know there's no real way to demonstrate entanglement in a garage.  It's quite difficult to do in a well funded laboratory.  Also, $500 for a decent nonlinear crystal or a quantum dot would be incredible.
+
+Sorry dude.
+The cheapest way I can think to do this would require a very powerful magnet with lots of cooling. You could implement a 2-bit quantum computer like [this one](http://web.mit.edu/8.13/www/49.shtml). Having said that, that's still really expensive and really hard.
+:(
+
+Entanglement is the norm, rather than an exception. As in, every particle is entangled with every other particle to *some* extent.
+
+The hard part is producing entangled pairs in coherent states, and having the finesse to observe them. If you went the optics route, you'd need a (probably argon) laser and some single photon detectors along with the crystal, and that's pretty expensive.
+
+Homemade entanglement doesn't look like its around the corner, stick with the tesla coils i guess...
+Yup, I didn't mean to suggest that the double slit experiment has anything to do entanglement. I was just hoping for some sort of entanglement experiment of that same general level of difficulty/equipment.
+
+I'll check out some of the other experiments you mentioned. Thanks!
+The Millikan oil drop experiment is probably the easiest "Quantum" experiment to do. It's significant in that it lead to the knowledge of charge being quantized, which was the first quantity known to be so.
+There's a [nonlinear crystal on ebay now](http://cgi.ebay.com/LBO-nonlinear-optical-crystal-473nm-blue-laser-/130405899978?cmd=ViewItem&amp;pt=LH_DefaultDomain_0&amp;hash=item1e5ccc1eca#ht_1293wt_913) for US$170. I'm pretty sure it wouldn't qualify as "decent" though. :)
+
+And there's a [Quantum Dot test kit](http://www.evidenttech.com/products/evidots/evidot-test-kits/pbs-quantum-dot-test-kit-specifications.html) for US$449.
+Thanks, I'll at least check out the quantum computer experiment.
+&gt; Entanglement is the norm, rather than an exception. As in, every particle is entangled with every other particle to some extent.
+
+Woah, so it's kind of like gravity in that regard.
+Well tickle me purple.
+Howso? Or are you thinking of the QFT Graviton/Gravitino explanation of gravity?
+Every body is subject to the gravitational attraction of every other body.
+As I understand it, there's a gravitational interaction between every pair of bodies/particles. It's just the inverse square law that determines how much. Correct me if I'm wrong here. :)
+True, although QE is rather more direct, as there's no limit on distance (although information exchange about entangled states is limited to C), and a single entangled particle has only a single partner, rather than affecting all other particles (although you could say that to an extent the entire universe exists in an entangled state as a result of the nature of its formation).
+It also happens to be an incredibly elegant experiment.  A+, would recommend to all.
+
+Summary:
+As in, every particle is entangled with every other particle to *some* extent.
+As in, every particle is entangled with every other particle to some extent.
+The double slit experiment is different from entanglement.
+:(
+
+Entanglement is the norm, rather than an exception.

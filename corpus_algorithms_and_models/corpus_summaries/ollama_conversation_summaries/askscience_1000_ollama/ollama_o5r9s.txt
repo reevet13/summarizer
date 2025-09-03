@@ -1,0 +1,39 @@
+Here is the summary:
+
+There is not zero gravity between the Earth and the Moon. The Earth's gravity still has a fairly strong influence there.
+
+Gravity actually spreads out everywhere, just like light, - but at some point it's so small as to not be measurable (or detectable). Gravity travels at *c* just like light.
+
+Science does not have a good grasp of gravity yet - other than we know an object's mass can distort space-time. Beyond that, the actual mechanics of gravity are still being researched (gravity may be linked to dimensional strings).
+
+There is an [L1](http://en.wikipedia.org/wiki/Lagrangian_point#L1) point in the Earth-Moon system where their gravity cancel out.
+
+Gravity does not stop. It's a vector force that has both magnitude and direction.
+
+The forces can act in stasis, but they don't interfere. They don't cancel.
+
+You're right that there are no objects with the "magnitude" of their gravity less than zero, and it's impossible to add two positive scalar numbers and get zero. When you consider gravity as a vector force, you suddenly can add two gravitational force vectors with positive magnitude and get zero, without need for either one to be negative.
+
+While this may be true, I think it's a misleading response in this context. Although a complete theory of gravity (linking relativity to quantum mechanics, etc.) does not exist, we do understand gravity incredibly well. The parts we don't understand are the minutiae.
+
+Gravitational force is a vector quantity. Therefore it has both magnitude and direction.
+
+You should also be careful not to confuse "understanding" with "describing it accurately". While they can be connected, ancient peoples could accurately describe astronomical events, but I would hardly say they understood them.
+
+When you understand that nothing can be finite, that everything is infinite (time, space); then the L1 point is just a theoretical representation.
+
+But you can't practically identify that point/curve, nor can you make an object orbit exactly through the L1 curve (where the gravity vector is 0).
+
+Do we know why gravity travels at the speed of light?
+
+Yes, it would take 8.2 minutes for the gravity to go away. Without the influence of the gravity the earth would start to leave its orbit.
+
+I will point you to [this article](http://math.ucr.edu/home/baez/physics/Relativity/GR/grav_speed.html)
+
+Avoid letting the 2nd paragraph trip you up until you have finished the 3rd :)
+
+OP, the reason it seems that there's a region of zero gravity, is because you're forgetting that the moon is not stationary. It's orbiting the earth, very very fast.
+
+Imagine you fire a bullet tangent to your current position on the earth. The bullet leaves the gun in a straight line, but as it travels further and further gravity curves its path towards the ground. Imagine you could fire the bullet much faster, so fast that as its path curves towards the earth, it falls but never gets closer. It enters orbit since it is always falling but moving too fast to ever hit ground.
+
+or another analogy, someone down thread mentioned a rope. Imagine gravity is like an elastic band. You are the earth. Tie the elastic onto some heavyish object, and spin it around you. If you spin the object very slowly, the elastic will contract and pull the object back towards you. But you could also spin at just the right speed, where the object's inertia (tendency to keep moving the same direction it's already moving) cancels out the force of the elastic pulling it towards you, and it will orbit - it will move in a circle around you, with the distance from you unchanging.

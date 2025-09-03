@@ -1,0 +1,18 @@
+Here are the selected sentences, copied verbatim from the original text:
+
+One day I noticed my chips were gone.
+
+I contacted support which returned said chips and suggested using 2-factor auth, changing psw, etc...
+
+At this point, I'm not even mad, but quite curious how this can even happen again and where I can look further.
+
+I always log out from that profile and the psw is not stored. I delete history daily.
+
+As suggested I ran malwarebytes which found adware.elex.shrtcln, HitmanPro as the av didn't find anything.
+
+At this point, as said before, I don't care anymore for any chips, but I wonder wether it is my whole system that is compromised, in which case I guess I'm in for a reformat/reinstall or just my chrome/facebook. Any ideas, any guesses?
+
+Thanks for reading
+get a VPN
+
+What would the do

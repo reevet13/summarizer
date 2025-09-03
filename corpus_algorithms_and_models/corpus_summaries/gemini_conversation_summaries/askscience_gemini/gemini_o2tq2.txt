@@ -1,0 +1,3 @@
+I did some reading on how static shock works, but I'm curious as to if it could have been prevented by the wire being grounded.
+As soon as the bottom of the phone touched the contact, the shock came from the phone I was setting onto it.
+Does the surge protector still ground it, or is the speaker still ungrounded?

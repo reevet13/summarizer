@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text, up to 250 words:
+
+Hello scientists,
+
+Is it possible to trap photons within a bubble, then move the bubble to another location and allow the recipient to pop the bubble to view the photons?
+
+It would be like taking a picture, except you deliver the actual photons. You could then view the scene as if you were there in person, especially if you also light some well selected scented candles...
+
+No, this is not possible at any large scale (at extremely small scales photons have been delayed by having their wave-front reversed, or by being passed through novel metamaterials, but this does not accomplish what you are asking).
+
+For simplicity - let's keep this at visible light...

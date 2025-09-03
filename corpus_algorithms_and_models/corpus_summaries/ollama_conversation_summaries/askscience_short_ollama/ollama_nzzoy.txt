@@ -1,0 +1,10 @@
+Here is a summary of about 10% of the text:
+
+Anyone care to run the numbers?
+
+As extra credit: how much gas would need to be expelled to propel a 150 pound person into the air 2cm? Assume a duration of expulsion of 0.5 seconds, and an exit hole diameter of 1mm.
+
+Without running the numbers, you won't have any sort of upward propulsion.
+
+Remember a 80 kg person, has about ~800 N of downwardforce pulling them down due to gravity.
+Thus to have any sort of upward lift, you must have more than ~800 N of force to lift your body upwards.

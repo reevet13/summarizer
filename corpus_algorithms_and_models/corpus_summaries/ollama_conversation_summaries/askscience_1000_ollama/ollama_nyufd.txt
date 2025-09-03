@@ -1,0 +1,13 @@
+Here is the summary of about 10% of the text or up to 250 words by selecting only sentences from the original text exactly as written:
+
+No, [A, B, and AB are all different](http://en.wikipedia.org/wiki/File:ABO_blood_group_diagram.svg).
+Someone with AB blood can receive blood from an A type donor or a B type donor so long as Rh factors are compatible.
+The A blood would have anti-B compounds and the B blood would have anti-A compounds.
+It doesn't quite work that way... the various blood types refer to what kind of stuff that individual blood cells use to fight invading bacteria.
+AB+ will have all three kinds.
+
+Mixing a batch of B cells and A cells is just going to get you a mess that you can't use for transfusions; you need AB cells specifically.
+No. Mixing the two blood types would, just as in the case of transfusion of a wrong blood type to a person (eg. type A to a person with type B blood), cause agglutination (clumping) of blood cells.
+
+Antigens are proteins that, when transferred to another organism, cause an immunological response, in this case agglutination of erythrocites.
+So if you were to mix the two blood types, the antibodies in type A blood would react with the antigens on the B-type erythrocites, and vice versa, thus causing clumping.

@@ -1,0 +1,25 @@
+Here are the selected sentences in order, separated by newlines:
+
+Surly Microsoft are opening themselves up to some sort of an anti trust lawsuit with this.
+
+Microsoft continues to roll out nag-ware damaging to their brand.
+
+I assume Microsoft intends to stay in the industry for the long-term. Under that constraint, brand matters. The reputation of the product matters. It's much more difficult to build up trust in the brand than it is to quickly cash out by turning to the nagging crapware model.
+
+Futures on Microsoft are probably not so high for the decision. I predict earnings fall short in future years. In the long-run the pool of customers willing to spend energy to get into an alternative, any alternative, grows when trust is burned.
+
+Deploy golden parachutes and good luck to those left holding the brand.
+
+As soon as Linux becomes a viable OS for gaming computers, Microsoft is going to lose a large chunk of their install base.
+
+Google does the same shit.  Any time i log into gmail not in chrome im bombarded with "hey you arent on chrome you should use chrome chrome is better download chrome here"
+
+It's part of a test build. They are dicking around and not actually implementing it. (The test builds have all kinds of things that don't make it to "production")
+
+What's it got that Ubuntu doesn't? I'm asking because I run Ubuntu on my laptop.
+
+I think you are right in who they are targeting but if they drive away tech people they lose developers.
+
+That's a good point. There's a ton of annoyances I don't see because of ad blockers.
+
+Just FYI Ubuntu 18.04 installs with vanilla gnome now. They ditched their unity interface.

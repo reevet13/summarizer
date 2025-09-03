@@ -1,0 +1,12 @@
+Water condenses on your glasses because you go from cold (and dry) air to hot and wet air.  The glass of your glasses is below the dew point of the inside air so air in contact with the glass drops its water.  Stay inside for a while and the glass warms up and the water evaporates.  If you go outside for just a bit the glass doesn't have time to get cold enough to cause this to happen again.  
+Go outside -&gt; glasses get cold.  
+Come inside -&gt; glasses are below dew point, fog.  
+Stay inside -&gt; glasses warm up.  
+-then-  
+Go outside short time -&gt; glasses don't get as cold as before  
+Go back inside -&gt; glasses aren't below dew point now, don't fog  
+-or-  
+Go outside long time -&gt; glasses get as cold as before  
+Go back inside -&gt; glasses are below dew point, fog  
+What makes a 'short time' or 'long time' depends on the relative temperatures, relative humidities, and the material of the glasses.  The point is that your glasses are *not* as cold coming inside the second time if you don't stay outside for long enough.  
+Gotcha.  Humidity is the key, along with a difference in kinetics.  Walk inside and the warm, wet air condenses on your cold glasses.  Go outside and the cold, dry air soaks up the water off your warm, wet glasses very quickly - more quickly than the warm, wet air inside would.  Return inside and your now warmer, dry glasses don't pick up much water on the return trip.

@@ -1,0 +1,7 @@
+The bulk modulus (how much something compresses when it's squished) of water is 2.2 gigapascals, while the ocean depths are about 0.1 gigapascals. That means it compresses by about 5%.
+Basically.
+This answer covers it from a pressure perspective. But the deep ocean is [about 2 C](http://en.wikipedia.org/wiki/Deep_ocean_water). Moving water up to 20 C will [decrease its density by about 0.25%](http://www.engineeringtoolbox.com/water-density-specific-weight-d_595.html). Not what he is asking though, is it.
+Practically speaking, the amount of force needed to compress water is so large that we tend to think of it as not being compressible at all. This is not literally true though and under extreme pressures (like at the bottom of the Marianas Trench) water will be compressed slightly.
+Yes. If we compress it isothermally from room-temperature, at about 1 GPa of pressure (145,000 psi) it will turn from liquid to Ice VI. Further compression would result in conversion to Ice VII, then Ice X, then Ice XI. Each of these 'ices' represent different arrangements of the water molecules within the solid lattice structure of ice.
+Pressure is absolutely required. Have a look at the [phase diagram](http://www.lsbu.ac.uk/water/phase.html) KevZero posted earlier. It shows that at fridge-freezer conditions, ice Ih is formed, but to produce the higher structures, you must hold your ice block above a certain pressure (very high) and within a specific temperature range which depends on the pressure.
+Still a gallon, just denser.

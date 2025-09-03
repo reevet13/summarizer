@@ -1,0 +1,6 @@
+I have a purple 405 nm 5 mw laser pointer.
+Is this true?
+Experimentation might help, but I was wondering if there might be a science-based answer.
+First, its not the power that matters.
+Second, that 404 nm laser isn't actually lasing at 405 nm.
+Chances are this is what is felt.

@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text or up to 250 words:
+
+I have a Lenovo Y50-70 laptop that I use mainly for gaming. Under CPU+GPU load, the CPU is severely overheating, so much that even at minimum frequency (800MHz) and on a cooling pad it goes up to ~70°C. GPU doesn't throttle but still heats up to ~85°C.
+
+I have recently cleaned the insides free of any dust and the fans are seemingly working properly, so I believe the culprits to the poor heat dissipation are 1) the air extraction located on the hinge (!), and 2) the thermal compound gone bad.
+
+Since I obviously can't do anything about the first one, I was planning to buy some Thermal Grizzly Kryonaut, but I remembered I had some ProlimaTech thermal compound remaining in a syringe that was bundled with my heatsink from 5 years ago.
+
+So my question is : can I use this 5-year-old thermal compound to put into my laptop, or should I just buy a new syringe ?
+
+EDIT : added details about the ProlimaTech compound

@@ -1,0 +1,11 @@
+Here is a summary of approximately 10% of the original text:
+
+Two parallel currents will attract each other, such that for example two wires with identical currents running through them will exert a force on each other pulling them together.
+
+A magnetic field is created by all moving charged particles. However, there is also an electric field created as well.
+
+It won't eliminate the magnetic effect, but the force of magnetic attraction would be overwhelmed by the electrostatic repulsion of the wire.
+
+Yes... but the magnetic force is still there in the stationary frame of reference but not in the frame of reference moving along with the electrons, and the equations always have to balance out between static and non-static cases.
+
+Parallel currents attract.

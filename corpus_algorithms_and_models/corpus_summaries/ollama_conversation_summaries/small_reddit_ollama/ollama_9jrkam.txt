@@ -1,0 +1,8 @@
+Here is a summary of about 10% of the text, selecting sentences verbatim from the original text:
+
+I wonder how long the sizes of battery we use will be around?. With 20700 and 21700 batteries. How long is left for things like the 18650 or 18350? Already I can't find a single OEM company selling 18350 batteries. So, how long? 5 years? 2 years? Any thought?
+
+* 18650, 18350 will be around for a long time.
+* You can not find an OEM for batteries, because no OEM sells to end-users, you need to check with sellers (from the sidebar) like illum, liion, or akkuteile.
+
+Let me know if you'd like me to extract more!

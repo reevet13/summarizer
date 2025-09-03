@@ -1,0 +1,13 @@
+Here is a summary of approximately 10% of the original text (up to 250 words) in the form of selected sentences:
+
+What are you using for benchmarks? Is something else using the disk while you are doing the benchmark (check via task manager)?
+
+Are you absolutely certain? Things like Windows update or similar can wreak havoc on the disk. If that's going on while you're doing the benchmark, it can seriously impact the score.
+
+So the results are around 250-300 MB/s read?
+
+Any antivirus installed?
+
+Is the SATA mode in BIOS set to AHCI?
+
+In that case, I would guess the drivers (SATA controller drivers) somehow accidentally got jumbled up.

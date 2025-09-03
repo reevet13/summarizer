@@ -1,0 +1,30 @@
+For your first scenario - adding 100mL of hot water and 10mL of cold water will give a different temperature than adding 100mL of cold water and 10mL of hot water (edit - defining 'hot' and 'cold' as fixed temperatures greater than 273K and below 373K, with hot being a higher temperature than cold so some pedantic physicist doesn't call me out). 
+
+For your second scenario - If you add X amount of hot water to Y amount of cold water to reach temperature T, then you must add Y amount of cold water to X amount of hot water to reach the same temperature. It doesn't matter what order you go in. 
+
+You get a weighted average of the temperatures.
+
+Think of it like this, if you added the same volume of "hot" and "cold" water (i.e. 50mL of each), you would end up with 100 mL of water that would have the average temperature of the two. 
+
+The maths goes like this
+V1 = Volume of the first water
+T1 = Temperature of first water
+V2 = Volume of the second water
+T2 = Temperature of the second water
+Tf = Final Temperature
+
+Tf = (V1*T1+V2*T2)/(V1+V2)
+
+The formula is T = (m1⋅T1 + m2⋅T2) ÷ (m1 + m2)
+
+If Hot is 100° and Cold is 10°, X = 91.(81)° and Y = 18.(18)°, so "same difference from original".
+
+He just posted a formula that shows how temperature is a weighted average.
+
+If you add 100mL of 90c water and 10mL of 10c water, your final temperatire is (0.1 * 90 + 0.01 * 10) / (0.1 + 0.01), which is 82.7c. 
+
+If you flip the quantities, your final temperature is (0.01 * 90 + 0.1 * 10) / (0.01 + 0.10), which is 17.3c.
+
+So, yes, the differences in temperature are the same. 
+
+A simple weighted average is fine for dealing with only liquid water, but if he wants to get into phase changes he needs to use specific heat and heat of evaporation to calculate the temperatures.

@@ -1,0 +1,12 @@
+Here is a summary of about 10% of the original text:
+
+Sildurs lite. Modified a bit of course but with 200 entities around my base my fps tanks with anything more. Still looks great though!
+How do you suppose it would work on a laptop?
+depends on the specs. maybe on a superflat world or void.
+I think so, I use high shaders with a gtx 1060 and an I5 and I get a constant 80 FPS
+Yea, keep the draw distance lower with shaders.
+Link please
+This is correct, reshade is just for post processing over the final frames
+Play with it until you get your respires fps.
+
+Let me know if you'd like me to extract more!

@@ -1,0 +1,37 @@
+Original Response:
+Hi Askscience. I would like to get a definitive answer on this. It's well known in my country that mixing alcohol and antibiotics is not recommended and in some cases lethal. Searching on google I can see that this is not only the case in my country (Mexico) people from other places belive the same. I remember a pharmacologist say on an interview that (paraprhasing) "there is no interaction between antibiotics and alcohol whatsoever" What is the final truth on this?
+It depends on the pharmacology profile of the specific antibiotic. It should be listed on the side of the prescription bottle, or you can try a website like drugs.com which will list drug interactions and such.
+My understanding was that its not the interaction, but that both are hard on the liver.When combined, your liver is super burdened.
+I thought it was because alcohol messed with CYP450, rendering the medicine less effective. (Looking for Katzung, will post source when I find it in there.)
+EDIT: I got this [link](http://www.psychresidentonline.com/CYP450%20drug%20interactions.htm) with substrates and inducers and I dont see alcohol in it. I was wrong, sorry
+It really depends on the antibiotic, there is a very small percentage of antibiotics that when mixed with alcohol are/can be lethal.
+I'm not an expert on the subject but have done some research in past about amoxicillin, and found out that most antibiotics are ok with alcohol. Just need to take them 1h or so before drinking the alcohol, so they can be fully absorbed.
+
+Anyway, a medical / pharmacology expert point of view would be good to see here.
+Just curious, what exactly did you find about amoxicillin and alcohol?
+Anecdotally, drinking while on amoxicillin will get you drunk very very fast.
+As previously mentioned, it is highly dependent upon the antibiotic/class of antibiotic in question. The main factors to consider are: liver metabolism (different drugs are metabolised by different enzymes in the liver [mainly involving different [P450 isoforms](http://en.wikipedia.org/wiki/Cytochrome_P450)]); [pharmacodynamics](http://en.wikipedia.org/wiki/Pharmacodynamics) of the antibiotic in question; [pharmacokinetics](http://en.wikipedia.org/wiki/Pharmacokinetics) of the antibiotic; route by which the antibiotic is absorbed in the GI tract; an individual's capacity to metabolise ethanol (alcohol); and any interactions that may occur in the blood-stream (of which I have little knowledge). 
+
+To my knowledge, there are actually very few antibiotics for which alcohol consumption is strictly prohibited; [this link has more information](http://www.nhs.uk/chq/Pages/871.aspx?CategoryID=73&amp;SubCategoryID=103). As a consequence, I believe that drinking alcohol *in moderation* shouldn't be a problem while on most antibiotics. However, drinking alcohol isn't advisable when suffering from some of the common infections antibiotics are prescribed for (e.g. urinary tract infections).
+
+I would be more worried about interactions with other drugs; for example in the case of [ciprofloxacin](http://en.wikipedia.org/wiki/Ciprofloxacin#Significant_drug_interactions), some NSAIDS (non-steroidal anti-inflammatory drugs - e.g. ibuprofen) are known to interact and cause side-effects, and cipro inhibits the P450 isoform (CYP1A2) that is responsible for metabolising caffeine.
+
+In summary, *always read the leaflet provided in the box*!
+I'm not 100% sure but I believe Amoxicillin is an enzymatic inhibitor, it reduces the effectiveness of the liver enzymes and therefore of the alcohol dehydrogenase causing a diminished hepatic breakdown of alcohol
+The answers posted are partially correct and partially incorrect.
+
+There are indeed some antibiotics that are hard on the liver (and alcohol is harmful to the liver as well). This information can be found online or in the info that comes with the antibiotic or by asking your doctor. It is not wise to trash your liver with alcohol and/or antibiotics, but there are some unfortunate patients who have no choice but to take hepatotoxic (= toxic to liver) antibiotics for their infections.
+
+However, there ARE antibiotics that interact with alcohol in a more direct fashion. The major case of this is metronidazole, or Flagyl, which is an antibiotic commonly used for infections in the abdomen/intestines and vaginal infections. Metronidazole interferes with the body's normal processing mechanisms that detoxify and get rid of alcohol. Combining the two causes nausea, vomiting, facial flushing, and general feeling crappy.
+Would make sense if it was. I just know that as much fun as it was defending my thesis while in the midst of a sinus infection, getting sloppy drunk off of two glasses of champagne in front of my parents and thesis committee was even better thanks to the antibiotics.
+When penicillin was first introduced to treat VD, doctors warned patients not to drink while taking it - the logic being that if they didn't drink, they were much less likely to go out, have sex and spread the disease.
+
+Although some of the modern antibiotics may well have contraindications, it does appear that reducing social interaction and consequent spread of STIs was the original purpose behind this advice.
+Well, this explains a lot...
+If I remember correctly, the 2 don't really interact.. I didn't saw anything about getting drunk faster, an,d from personal experience, I didn't got drunk faster. The experience was really as normal as when I wasn't taking amoxicillin. Of course, getting drunk while sick won't be very good, because of dehydration, etc. But I'd do it again, if needed.. Didn't really saw any counter indications in my experience.
+
+Summary:
+The experience was really as normal as when I wasn't taking amoxicillin.
+I would like to get a definitive answer on this.
+It's well known in my country that mixing alcohol and antibiotics is not recommended and in some cases lethal.
+As a consequence, I believe that drinking alcohol *in moderation* shouldn't be a problem while on most antibiotics.

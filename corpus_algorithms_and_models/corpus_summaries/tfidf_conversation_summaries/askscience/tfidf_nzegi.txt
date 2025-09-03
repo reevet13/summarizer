@@ -1,0 +1,30 @@
+Original Response:
+Hey,
+
+I have a home theater system that worked fine for many years. Just last week we moved the living room around and changed the cable that goes from the TV to the system to a 50ft Stereo Audio Cable (red and white).
+
+Since then, when watching tv, the home theater always has music from a radio station playing faintly as background noise. I've made sure to verify all connections (I've plugged in a shorter cable, turned the TV off, etc...) so this is my last hypothesis. I don't even know if it's possible.
+
+So my question: Can RCA cables act as a FM radio antenna ? If so, how does it work so I almost perfectly catch a station?
+Well, I dunno anything about science, but I do know that many guitar/bass amplifiers unintentionally pick up radio stations. I've had it happen multiple times in the last few months, and it could certainly be due to a similar phenomena.
+Which reminds me of the follow up question I had... How to prevent it? Hehe.
+This is pretty common actually, but figuring out how to make it go away will sometimes make you pull your hair out.
+
+Primarily the cause is usually poor quality RCA cables with inadequate shielding.  Another cause is a ground-loop created when some components of your system are improperly grounded.
+
+Sometimes the easiest remedy is to simply move the nest of cables around until the ingress signal goes away.  Placing a ferrite bead on the ends of the long cable may also remedy the problem.
+Me and my bandmates have wrestled with this for days on end, to no avail. The only fix we've managed to find (as is mentioned in the post below) is tossing the cables about and moving the amps until it goes away.
+All wires act as pickups for radio stations.  You'll need long lengths of wire (a few hundred feet) to pickup AM stations, but only a few feet's worth to pickup FM.  
+
+Since this occurs when you TV is off, I suspect that the its coming from the power lines, and that your TV doesn't have adequate line filtering.
+
+As for the "perfectly catching a station", you might live close enough to one station that the signal received is much stronger than all the others.
+
+Also, how do you know it's FM?  Power lines also pickup AM really well, especially the ground line you your house (they're long enough)
+I recognized the station. It was 96.9. I'm glad to know it's not a technical defect. Now we just have to figure out the best way to filter it out. Let the hair pulling begins!
+Ferrite bead on your power line might work.....
+
+Summary:
+Also, how do you know it's FM?
+All wires act as pickups for radio stations.
+Ferrite bead on your power line might work.....

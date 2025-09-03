@@ -1,0 +1,20 @@
+Here is a summary of up to 250 words by selecting sentences from the original text:
+
+I've been thinking of building a pc for a while and with the new 2080s coming out i figured this will be the right time. After trying some things I settled with this build https://it.pcpartpicker.com/list/kQrbRJ.
+
+This is the first time I build a pc and i'm worried the CPU could overheat, is my fan good enough? Should I replace it?
+
+My budget is around €950 but I can go up if necessary
+
+Why not use the stock one?
+What do you mean with a stock one? A stock pc?
+
+The cooler that comes with the 2600x. Unless you're doing a bunch of overclocking, it's plenty.
+
+Haven't used it myself, but from what I hear it's plenty unless you want to do more than a slight overclock.
+
+Yes it does. You're thinking of Intel "K" CPUs.
+
+Manually setting the CPU speed to something higher than the stock speeds.
+
+Ah my bad, then it should be fine, even with light overclocking

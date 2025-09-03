@@ -1,0 +1,21 @@
+You do not directly capture this information. Instead, you look for some sort of a signature that it was there - specifically what it decays into.
+
+For example, the Higgs boson is theorized to sometimes decay into four muons, which live a long time and are detected by a variety of detectors.
+
+So you look at all events that have four muons, but how does this show you if there is a Higgs?
+
+1. Conservation of energy and momentum - the total energy and momentum of the four muons must be equal to that of the Higgs that decays into them.
+
+2. Einstein's formula: E^2 = m^2c^4 + p^2c^2 where E is energy, m is mass, and p is momentum. The important thing to note is that if you know E and p, then you can determine the mass m.
+
+3. Add up E and p for every possible set of four muons in all your events with four muons. This tells you what the mass of a particle that decayed into the four muons would have been. You don't know that a specific particle decayed into the four muons, they may be unrelated.
+
+4. Now you look at all the masses from all your four muon sets. There should be sets adding up to many possible masses, but if you see a signal of a great many sets adding up to a specific mass, this means that something is happening that cannot be easily explained by chance. This is the signal of the new particle.
+
+Great question! Muons may be small, but they have a lot of energy and interact electromagnetically.
+
+As they travel through matter, they deposit energy through multiple electromagnetic interactions. You can detect this through something like a Geiger counter or a piece of silicon sensitive to this sort of energy deposit. If you want to know the specifics, reading up on a Geiger counter is a good place to start. Many modern muon detectors are similar to Geiger counters but use multiple wires to determine the exact position of the particle as it passes through.
+
+The muon is special as it is very penetrating and can pass through very thick layers of metal. If you put detectors outside of thick materials, you can stop everything but the muons. This allows you to identify that a particle is most likely a muon.
+
+You also need to know the energy and momentum of the particle. This is the reason to create a strong magnetic field. The field will bend the trajectory of the particle and by

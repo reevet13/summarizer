@@ -1,0 +1,16 @@
+Original Response:
+If so, this mutation wouldn't be passed on to children would it?
+This is basically what cancer is, so I guess the answer would be "yes."  Our bodies rely on order amongst our cells, so the ability for a group of them to divide out of control tends to be detrimental.
+
+For a mutation to be passed to one's offspring, the mutation would have to take place in a sperm or egg cell.
+Yes and no.  This is, basically, the principle by which cancer operates, as thetripp noted--it's called clonal expansion.  This can also take place in aging immune systems, where t-cells recognizing only a few antigens take over the population, depriving you of a diverse immune system that can recognize and attack lots of different threats efficiently.  In *development*, this can happen when a developing fetus is made up of cells from more than one embryo or if a mutation occurs very early in development, and the result is called a chimera or mosaic, respectively (though a chimera is a type of mosaic).  This can also happen in transplants--if you irradiate a patient and give them a bone marrow transplant, their bone marrow and later their blood will have the DNA of the donor.
+
+In terms of organs, once an organism has reached a fairly late stage of development, this would not happen practically speaking.  Some organs don't turn over much (for example, neurons in the brain, though other brain cells do), whereas other tissues or organs that do turn over rapidly, like your skin or the lining of your intestines, do so from lots of different (usually designated) cells in different (usually designated) spots--so, realistically, you'd have to either change a bunch of them in the same way or change one very, very radically--but the latter is how you wind up with cancer, because at that point the cells are usually so radically altered that they no longer behave like the normal tissue.
+
+You would not pass such a condition on, but in some of these examples, like a mosaicism affecting the germ line or a chimera with a germ line that's one of the tissues very different than the rest of the organism, the children would be genetically "descended" from the DNA that makes up that tissue.
+Your DNA consists of a nearly uncountable amount of nucleotide bases, and various mutations occur every day, especially when a cell is replicating. Granted, most of the mutations are corrected for (by the polymerases or some other enzyme), or the detrimental cells are rapidly selected out. 
+
+Though I would say that from cell to cell, the genome may vary by as few as several nucleotide bases, to thousands, or perhaps more - I wish I was more certain of this (I'm not a geneticist, unfortunately!). You could argue that, from cell to cell, the exact genetic makeup is not the same. So what would the "rest of me" expression that you provided mean, exactly?
+
+Summary:
+If so, this mutation wouldn't be passed on to children would it?

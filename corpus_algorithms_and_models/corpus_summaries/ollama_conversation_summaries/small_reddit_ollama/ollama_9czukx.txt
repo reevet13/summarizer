@@ -1,0 +1,17 @@
+Here is the extracted summary:
+
+So I put my computer in sleep last night, but wouldn't wake this morning. I reset it, but nothing would display on my monitor, can't even see bios menu.
+
+I know my monitor &amp; hdmi cables work, as I tested them with my laptop. My computer's fans turn on and led lights come on, but nothing for video input.
+
+Also my error code on my motherboard led screen say A2, which is an ide/sata issue but unplugging my hard drive and optical drive didn't work.
+
+Pull the gpu and use onboard. See if it posts then.
+
+So I just tried to take the GPU again, and use the onboard and it worked, (I realized I hadn't tried that again after I rest the cmos earlier). It is now at a black screen saying CMOS date/time not set
+Press f2 or DEL to run setup
+Press F1 to continue
+
+Awesome. Looks like the gpu took a shit. Default settings will work. F1.
+
+Thank you so much!

@@ -1,0 +1,90 @@
+Original Response:
+I was researching LASIK for my fiancee and I notice mixed messages on the various internet sources.
+
+On one hand, doctors and manufacturers [**claim extremely high success**](http://en.wikipedia.org/wiki/LASIK#LASIK_surgery_results) rates, yet on the other hand I see [**warnings from the FDA**](http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/SurgeryandLifeSupport/LASIK/ucm272960.htm), and a [**petition filed**](http://lasikcomplications.com/LasikPetition/petition.html) for the recall of LASIK devices by the former FDA Chief of Ophthalmic Surgical Devices - and the [**FDA's interim response** (pdf)](http://lasikcomplications.com/FDA_interim_response_LASIK_petition.pdf).
+
+What is the real scientific consensus?  Is the risk really negligible for properly screened LASIK patients? Is there an unknown long-term risk?
+
+
+EDIT: I should clarify that I am in no way requesting medical advice.  I am asking the Reddit science community for the scientific long term safety of the procedure on the general public.
+[deleted]
+Hey, I hope posting here helps you find what you are looking for, but you really should talk to a doctor or another expert and not rely on internet sources. If you already are planning on talking to a doctor, than disregard this advice. Good luck!
+
+Edit: Assuming your fiancee is interested in getting LASIK, and not researching it for some other reason.
+[deleted]
+[deleted]
+Yes, she will talk to a doctor regardless.   ...but I'm curious about the communities thoughts on the matter.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Thank you for your comment.  I clarified my post that I am in no way looking for medical advice, and am instead looking for the scientific recommendation of the general case.
+Check out [this thread](http://www.reddit.com/r/askscience/comments/mzzdr/askscience_ama_series_iama_biomedical_engineer/). The top comment is about LASIK and the risks involved.
+&gt; I had near-diffraction-limited vision for almost a year
+
+What does this mean?
+It means that my vision was diffraction limited in the daytime and not at night -- it appeared to be limited to about a 4mm equivalent aperture, based on apparent separation of distant lights.
+[deleted]
+[deleted]
+As with most surgeries (and it is a surgery), the safety of LASIK depends a lot on the patient.
+
+With modern femtosecond lasers to make the flap and wavefront-guided computer stippling lasers to shape the cornea, the LASIK procedure itself is basically setting the whole thing up and pressing a button.
+
+The critical part of LASIK is what happens before then: evaluating the patient.  The doctor needs to determine if the patient is a good candidate.  There are a lot of factors that go into this, such as corneal thickness, dry eyes, etc.
+
+So, nobody on here, even the people that know a great deal about LASIK, can comment on how safe it is for YOU.  Your doctor can determine how good of a candidate you are and discuss the risks.
+
+That FDA article you linked to is about misleading patients.  Make sure you know what you are getting into.  Ask about complication rates and about alternative procedures (PRK is more appropriate for some people).
+[deleted]
+[deleted]
+[deleted]
+There are some indications that it might increase the risk of floaters (not a big deal) and retinal detachment (big f'ing deal). 
+
+Having suffered a retinal detachment myself (whether that is related to my LASIK or not I have no idea of knowing), I can assure you this is **not** a surgery you want. 
+
+Detached retinas are a big deal; blindness is a possible outcome, and if the detachment reaches your yellow spot, your vision will be forever deteriorated even if you get the retina fixed. 
+
+Add to the fact that it's quite possible your vision will keep deteriorating after the LASIK and you might end up needing new prescriptions after a few years anyway.
+
+My vision is "back down" to -1.5 approximately 6 years after my LASIK, so to me, it has been a completely wasted procedure that may or may not have contributed to my retinal detachment. 
+
+
+http://www.lasikcomplications.com/vitreoretinal_damage.htm
+http://eyes.emedtv.com/lasik/retinal-detachment-with-lasik-eye-surgery.html
+http://journals.lww.com/retinajournal/Abstract/2000/04000/Rhegmatogenous_Retinal_Detachment_After.3.aspx
+[deleted]
+[deleted]
+"Diffraction limited vision" means that the resolution is at the physical theoretical limit.
+[deleted]
+[deleted]
+And what does this mean?
+
+(you only know something if you can explain your 92 year old grandmother how it works?)
+The ultimate limit of visual acuity is set by the [Heisenberg uncertainty principle](http://en.wikipedia.org/wiki/Heisenberg_uncertainty_principle).  
+Your eyes don't measure the size of things, they measure the *angle* (hence [momentum vector](http://en.wikipedia.org/wiki/Momentum)) of incoming light.
+
+Since each photon that enters your eye has a known location (it had to pass through the pupil), its momentum is uncertain.  Even if the optics of the eye work perfectly, this uncertainty is reflected in a slight blurring of the image.  A 4mm aperture camera can (just barely) resolve objects 0.5 arcminute apart if the focusing optics are perfect; a 2mm aperture is limited to 1 arcminute.  In the daytime your pupil contracts to about 2mm.  At dusk it expands to about 4mm, and at night it expands further to 6mm or so.  
+
+Normally, dusk and night vision have *lower* acuity than daytime vision, because the optics in your eye aren't perfect -- closing down the pupil (in the daytime) makes the eye more like a pinhole camera, and acuity improves to a maximum of a little over 1 arcmin in bright sunlight with young eyes and 20/20 vision.  But with near-perfect post-LASIK optics your eye has just been tuned up with full wavefront correction, and it is as close to perfect as it can be made.  Under that condition, acuity actually improves as your pupil expands into dusk.  Very strange (if subtle) effect.
+No worries.
+wow, I actually understand now :)
+
+thnx!
+You may want to also look into [PRK](http://en.wikipedia.org/wiki/Photorefractive_keratectomy) if the side effects are acceptable in your particular situation.
+[deleted]
+For what its worth I have had eye surgery but it was not LASIK but a newer method design by a very good doctor close to my family. It was called Supralase. It does not involve cutting the cornea  After I had it done I could see nearly 20/20.(I had a minor stigmatizium I think) I am not a medically trained person but I have a family member in that field who has worked on the surgery end of things for many years.  I would suggest a lot of research first and look into the doctors history if possible. There are a lot of good doctors out there who will do you right. The doctor is the biggest factor in medicine imo/ what I have been told. Hope you find what you are looking for!
+[deleted]
+
+Summary:
+The doctor needs to determine if the patient is a good candidate.
+There are a lot of good doctors out there who will do you right.
+The top comment is about LASIK and the risks involved.
+Your doctor can determine how good of a candidate you are and discuss the risks.
+For what its worth I have had eye surgery but it was not LASIK but a newer method design by a very good doctor close to my family.
+Hope you find what you are looking for!
+&gt; I had near-diffraction-limited vision for almost a year
+
+What does this mean?
+I would suggest a lot of research first and look into the doctors history if possible.

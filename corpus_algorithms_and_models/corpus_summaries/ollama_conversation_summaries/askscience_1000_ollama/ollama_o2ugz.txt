@@ -1,0 +1,15 @@
+Here are some sentences copied verbatim from the original text:
+
+* "It's a couple bucks, takes a few minutes to apply, and will prevent the interior glass from fogging up in the first place."
+* "Under normal circumstances, yes, because hot air tends to pick up more moisture than cold air, so that when it hits the cold window, it condenses. However, if the air has just come from your A/C, it has not had an opportunity to pick up any moisture, so it will easily evaporate the condensation on the glass."
+* "In some cars these are actually two separate controls, and this is the proper setting for defrost. Other cars just know to turn on the A/C when you move the selectors to 'Defrost' and 'Hot'."
+* "The heat and the air conditioner. In some cars these are actually two separate controls, and this is the proper setting for defrost."
+* "In a typical sedan, running an A/C system adds about 8-10% load."
+* "According to WP, it uses about 4 horsepower. That's not much, even for a small car."
+* "Windows down an inch and full heat."
+* "Partially correct. Below a certain temperature, my two cars for instance - one shuts the compressor off below 40f degrees, and the other below 35f, the compressor is turned off."
+* "Is that temperature limit inside or outside the car, or on the evaporator itself?"
+* "It's based on outside ambient air temp. For instance, my 70s land yacht has an actual temperature switch that measures the temperature of the evaporator itself and cycles the compressor off around 35-45 degrees F."
+* "My Explorer has a much more contemporary setup and it has a pressure switch much like a lot of other cars, on the outlet line of the evaporator and shuts off the compressor when the pressure drops below 20psi which corresponds to around 33 degrees."
+* "The difference is exaggerated in normal driving because simply cruising or accelerating with traffic doesn't involve using the car's maximum power output."
+* "Most cars now come with alternators big enough to handle that kind of load."

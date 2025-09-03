@@ -1,0 +1,9 @@
+Here is the summary of about 10% of the text:
+
+I did very poorly in freshman chemistry.
+the compounds that make lemon smell and orange smell are different by one atom being in a different configuration
+single nucleotide mutations can lead to huge effects in a biological sytem.
+Most [stereoisomers](http://en.wikipedia.org/wiki/Stereoisomer) will do different things in a biological system.
+Some molecules cannot be superimposed on their mirror images (kind of like your hands), they are known as enantiomers.
+A famous example is [Ibuprophen](http://en.wikipedia.org/wiki/Ibuprophen#Stereochemistry)
+An example of atom substitution affecting biological activity is acetic acid (in vinegar) and [fluoroacetic acid](http://en.wikipedia.org/wiki/Fluoroacetic_acid)

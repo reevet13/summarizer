@@ -1,0 +1,19 @@
+Here is the extracted summary:
+
+There is a name for a bunch of theories that would work if you ignore gravity, but I can't remember the name. Wasteland something.
+
+When you're referring to different kinds of spaces, you can refer to ours as an Einstein space, or Einstein manifold (which it very aproximately is). It really depends on the context (on which aspect of the observable universe do you wish to comment?).
+
+In reality you never read "in the real universe..." Instead you get statements like "astronomical observations suggest..." or "these constructions have yet to recover 3+1 dimensional solutions..."
+
+I would certainly say so. When I read papers asking, for instance, if weakly interacting massive particles exist, I assume they mean their existence in {this particular universe} as opposed to a hypothetical universe.
+
+No, but it means that you don't have to explicitly name the indices every time you want to reference them, which is exactly what we have here. We all know about the one real universe which we inhabit. We reference it by omission to its alternatives.
+
+I think it is probably because theoretical physicists don't really talk about "our" world.  They talk about the closest analog to our universe that we have, which is one in which all the laws of physics we think are true are true, but they can't talk about our world much because they don't know all the rules to our world.
+
+I disagree - I think "the universe" is universally accepted to mean *unambiguously* the "space" (as you call it) in which we exist, which is the object of study when making empirical measurements, etc., etc.
+
+Is that unambiguous enough?
+
+The only way we have access to this thing (if it even exists, ask the cosmologists and /r/philosophyofscience), is through our senses and the models we build.

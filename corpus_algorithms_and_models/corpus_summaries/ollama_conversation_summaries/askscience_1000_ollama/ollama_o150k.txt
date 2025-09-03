@@ -1,0 +1,8 @@
+Here is the summary of about 10% of the text:
+
+They have the same DNA - right?
+You can tell them apart, although it would be difficult. Human have an extremely high mutation rate (on average 175 point mutations per haploid genome per generation); many of these mutations occur early in development, and thus will be unique mutations present in most if not all of the cells of one, but not both, of the identical twins.
+Can you explain the "175 point mutations per haploid genome generation." I'm confused as to what that means.
+A moment's thought should make you realize that their children will not be identical, for the same reason why two (non-twin) children from the same set of parents are not identical.
+
+Note: The selected sentences are verbatim copies from the original text and are separated by newlines.

@@ -1,0 +1,11 @@
+Golf balls are dimples and not holes, the dimples in the ball are more like dips in the surface. You'd be better off surrounding an object with dimples if you wanted to reduce drag. The holes that the jets would be emitting from would cause a bigger disruption in the layer you're after. Add in the air coming out and it gets worse. You could make a hovercraft though using that principle.
+
+Aircraft wings have been created with holes and plumbing to suck off the turbulent boundary layer of air near the skin and promote laminar flow. This increased the wing efficiency. It was also impossible to keep clean.
+
+The idea of sucking the boundary layer out through the perforations is really interesting, and that second link is an *amazing* reference. 30% reduction in fuel is a pretty amazing claim. I am curious about something that I read in there though (just from the introduction): "the frictional force between the fluid and the surface, known as viscous drag, is much larger in a turbulent boundary layer than in a laminar one because of the momentum losses associated with the mixing action."
+
+[This ](http://www.desy.de/user/projects/Physics/General/golf.html) says it's because while the dimples do add to drag the spinning causes lift which lengthens the balls trajectory.
+
+Your own linked article says that the dimples cause turbulence, and turbulence is a good thing in this case, decreasing the drag.
+
+Keep in mind that on an air hockey table, the cushion of air prevents friction between the puck and the table. The same thing occurs with a hovercraft, as well as the torpedo that highintensitycanada linked too.

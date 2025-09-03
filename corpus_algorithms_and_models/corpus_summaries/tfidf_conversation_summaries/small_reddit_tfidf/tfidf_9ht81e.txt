@@ -1,0 +1,49 @@
+Original Response:
+I just wanted to know if the business owner needs to deduct some out of whatevr he is paying to his emploees? or should directly transfer the payment to his / her acount via paypal.
+
+Thanks!
+Is it “freelance” aka an independent contractor, or an employee? 
+
+One gets a 1099, and that is so the amount you paid them gets taken off your taxable income. The other gets a W2, because you have to pay for state taxes and stuff like that for them, as well as taking the amount you pay them off your taxable income.
+All are freelancers and I would let them fill the w-9 form which has necesssary details like SSN no. TIN number etc. and I will kep that form. But my doubt is after that do i need to deduct any tax too if yes how much?wat is the criteria?
+No then. You just pay them and keep a record of how much you paid to who. You will need an accountant to issue 1099 to them. But I don’t think you have to pay anything to the state for an independent contractor
+But like I am from India and the freelancers are from different countries. Ao how to issue them 1099? And also what is the difference between 1099 form and w-9 then?
+Oh hell, I don’t even know then. I have no idea how your taxes work.
+
+A 1099 is a summary of what you paid to the person who filled out the w9. It’s what that person then pays their taxes off of.
+If they're freelancers you just send them a 1099 form at the end or the year.
+
+Word to the wise. Collect the W-9 before paying them otherwise you'll be chasing them down come tax season and some of them will avoid it.
+But what u read that freelancers while getting paid by me would request the paypal invoice request and then I will release the money.
+So after that the tax won't be my side problem. It will be now there's responsibility to avail the taxes.
+
+And also freelancers who are working for me are bound get less than $20k a year which hence doesn't requires to send the details to IRS.
+Always get a W-9 before first payment to vendor. Doesn't matter the amount.
+
+You are responsible for sending them the 1099 form during tax season for anyone that received more than $600 from you.
+
+They are responsible for paying their taxes.
+Okay.
+And after that I have to keep the w-9 form to myself and who would fill up the 109o form for them?
+You keep the W9 and you fill out the 1099 and mail to them. 1099 forms come in duplicates with one copy going to the vendor, one to the IRS and you retain one copy. You also send the IRS a 1096 form which is a summary of all the 1099 details. 
+
+These forms are available in all office supply stores starting around January. You have to get new forms every year.
+Thanks for referring me this.
+
+.
+
+But i am going to do all the transactions to freelancers via PayPal.
+
+And I think that is for what paypal is made for.
+
+The freelancers will directly request me for the payment via "Invoice Paypal" and then I will accept it and send the money directly. So in this way paying tax and concering about it will only be the responsibility of those freelancers if the threshold exceeds $600.
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+Summary:
+And also what is the difference between 1099 form and w-9 then?
+and I will kep that form.
+You keep the W9 and you fill out the 1099 and mail to them.
+They are responsible for paying their taxes.

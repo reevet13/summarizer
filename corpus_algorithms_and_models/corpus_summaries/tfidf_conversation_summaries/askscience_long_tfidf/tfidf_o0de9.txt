@@ -1,0 +1,58 @@
+Original Response:
+The answer so far seems to be that it would depend on the distance away from a person and the size of the object, but that the object would have to be moving pretty goddamn quick regardless.
+That would depend on how big the something is no? The planet mercury is moving pretty darn fast but when I look up at it in the night sky it appears to be standing still. When a pitcher throws a fastball over 100 mph my eyes have trouble tracking it, and when I flick a small booger off my desk I can't follow it at all.
+The F-14 Tomcat you could begin to see at about 7 miles out (really good eyes could see it at 8 miles out) . The F-14 is 63 feet long. So using that as kind of a base, that you can see an object 63 feet long at 7 miles with the naked eye.
+
+Drawing a 7 mile radius, with you being at one apex, you have a triangle with 7 mile long legs and your field of vision would be 60 degrees. Now it is a matter of determining how long it takes for your eyes to sweep across the horizon in a 60 degree pattern, 7 miles out.
+
+I would suggest you need not turn your eyes at that distance (kind of like seeing a shooting star where you only see it in your peripheral vision ) and rely on how fast your peripheral vision is.
+
+
+I would think you could detect a 1/20 th of a second fairly reliably.
+
+So if you could detect an 63 foot long object 7 miles out going 7 miles in 0.05 seconds that is:
+
+36,960 feet / 0.05 sec = 504,000 mph or 140 miles per second or 225,308 meters/sec 
+Taken from :http://answers.yahoo.com/question/index?qid=20100327163759AAKg9Kt
+It would also depend on the weather and the lighting.
+So the speed that matters is probably speed across your vision, or angular velocity.
+So a person within 10 feet of me would need to be moving exponentially faster right?
+It would be slower I think because he would move through your field of vision more quickly...unless I'm missing something here.
+Yep but I think you still need the size term in your equation because I don't imagine a baseball and a grain of sand travelling past at equal distance and speed will be equally visible. Maybe what you want is speed across your vision and percentage of your visual field occupied by the object, probably modified with a few variables like brightness of the object, contrast against the background etc
+[deleted]
+Keep in mind that these absurdly fast speeds, like 200 kilometres a second, are going to cause massive fireballs if they are in the atmosphere, which will be visible. Even at lower speeds closer in the atmospheric distortion will be noticeable.
+As stated several times, it's more about size &amp; distance, relative to velocity, than pure velocity.  As an aside, I have a quick story to demonstrate the importance of perspective in seeing fast moving objects.  
+
+I was at a friend's land shooting a few guns in the evening.  We were facing east and the sun was about to set behind us.  The location is in a steep valley running east to west, so ambient light was low even though the sun was still shining behind us.  For an ever-so-brief period of time, we could actually see .40 caliber bullets flying downrange from our pistols as the sun reflected off the copper bases.  That's an object .40 inches across, moving at about 1600 feet per second.  Under normal circumstances, the human eye would never be able to pick up an object so small and close moving at that speed.
+You're right there. He got that backwards
+This is probably wrong, but let me take a shot. According to Wikipedia, although the human eye doesn't have a frame-rate, it can't distinguish between flickers at around 60 FPS... so if something comes in and out of your field of vision in &lt; 1/60 of a second, it theoretically shouldn't be detectable. If you assume a distance of ~10 ft. away (obviously distance from the object will matter), then you can see in a circumference of ~31 ft-- so simple r = d/t = (31)/(1/60) = 1860 feet per second, or, ~1300 mph.
+&gt; According to Wikipedia, although the human eye doesn't have a frame-rate, it can't distinguish between flickers at around 60 FPS
+
+I'm trying to find the source now, but I *think* this isn't the correct number to use in your calculation. Basically, just because we see something as indistinguishably smooth at 60fps, doesn't actually mean that we can't see something that appears in front of us for less than 1/60th of a second - because apparently we can... at least that's what the thing I read before about this said, and I'm desperately looking for it!
+
+I figured I should write this comment anyway so that people can be a bit cautious about the answer here and maybe look into this a little more too - so please don't take my word for it yet either but if nothing else maybe someone else knows what I'm talking about?
+[deleted]
+Interesting, I had always wondered if it might be possible to actually see a bullet in flight.  Many years ago, my cousin and I were shooting BBs/pellets and noticed we could see them flying down range.  Even standing next to each other however, I could only see my BBs and he could only see his own, since you had to be in just the right position to see it (otherwise, even standing slightly off center, and it would be too small, and move across your field of view too fast, as opposed to staying relatively "stationary" in your field of view as it travels downrange).  Granted, they move at a considerably slower pace than a bullet, but they were also roughly half the diameter of a .40 caliber round.
+They have tracer rounds for this reason. Usually they put in a few tracer rounds in a clip, so that you can see where your bullets are going. Here is an example
+
+http://www.youtube.com/watch?v=Gk3uFZu47fo&amp;feature=fvst
+Right.  The interesting thing about .40 experience was that the bullets were not light sources; they were lit naturally as any other object would be.  Light sources tend to streak in our vision (especially as it gets darker) but these were clearly visible arcing down range.  A lot of these videos tend to diminish this effect for some reason; if you've ever seen tracer fire in person you'll note that the tracer rounds have the illusion of being line segments rather than points.
+From my electronics background I can tell you that an LED that blinks on for ~16ms (1/60th a second) is easily visible. Even 100us flashes can be seen.
+
+The thing is that the flashes become dimmer as their duration becomes shorter. So in a pitch black room you would be able to see the fastest flashes, especially if your source emits a ton of light.
+A reference perhaps? This is really interesting to me.
+&gt;Even 100μs flashes can be seen.
+
+FTFY
+Yeah, I'm aware that tracer rounds exist.  I thought about commenting about them as well, to illustrate that there's so many other factors beyond just speed and size when it comes to whether or not something is visible.  You'd never be able to see a regular bullet traveling side to side across your peripheral vision, because it's just too small, too fast, and you'd generally be hard pressed to easily see a stationary bullet at a distance as well.  Add in a really bright light source to the mix though, and it changes everything.  Suddenly, the bullet will stand out better from it's surroundings, as opposed to sort of blending in under natural lighting with no self illumination, etc.
+[deleted]
+Not to derail this thread, but have you actually observed Mercury?  I hear it's quite difficult to get the timing and location right since it rises and sets pretty much in sync in the sun.
+No I have to admit I picked it's name out of my head simply as a fast moving planet without thinking about that but I wasn't really flicking boogers off a desk either, just imagining examples. You can mentally sub venus in there if you want, it's not much slower and easy to see, but now that you've put the idea in my head I guess I'm going to have to make a goal of seeing mercury.
+
+Summary:
+The F-14 is 63 feet long.
+So using that as kind of a base, that you can see an object 63 feet long at 7 miles with the naked eye.
+That's an object .40 inches across, moving at about 1600 feet per second.
+The interesting thing about .40 experience was that the bullets were not light sources; they were lit naturally as any other object would be.
+That would depend on how big the something is no?
+Usually they put in a few tracer rounds in a clip, so that you can see where your bullets are going.

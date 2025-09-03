@@ -1,0 +1,32 @@
+Original Response:
+.
+Not sure what someone who really knows about this would say, but I have  [this](http://www.amazon.com/National-Audubon-Society-Field-Guide/dp/0679408525) guide book and it worked well for me.
+Turn left at Orion is what I always recommend to amateur astronomers starting out. 
+
+http://www.amazon.co.uk/Turn-Left-Orion-Hundred-Telescope/dp/0521781906
+[This.](http://www.amazon.com/Stars-New-Way-See-Them/dp/0547132794/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1279470935&amp;sr=8-1)
+
+It is written by the same author as the Curious George books, in 1952.  While it is aimed at children, remains an excellent and enduring introduction to the night sky, and has introduced generations to astronomy.
+
+EDIT: Look up the date if of publication
+[Get your real-time geo-specific sky maps and more at "heavens-above.org"](http://www.heavens-above.com/)  
+
+First link in the content lets you pick your location on earth from a google map.   
+
+I believe there's a way to set up a cookie so that it remembers you..or sign in or something. Read.  
+
+Anyway, once your coordinates are in, you can bring up a live real-time sky map for your exact position on earth. You can follow several other satellite events like ISS and Space Shuttle flyovers.  
+
+Whenever there's something in the news about sky watching I go to this site to get coordinates, maps and info... Comet McNaught, bright satellites, eclipses etc... You can also fast forward to a time in the future to see if you will be able to observe particular eclipses etc....
+I have the Audobon field guide to the night sky, it's a very accessible introduction to amateur astronomy.  It doesn't go much into the astrophysics side of things, but is a great guide to constellations, planets, nebula, meteor showers, and the like.
+
+I'd also recommend getting a red flashlight for reading the book (or cover a normal flashlight with red cellophane), so your eyes can stay night adjusted while reading it.  
+
+Also there are a lot of free night sky viewer/labeler software available.  E.g., [Celestia](http://www.shatters.net/celestia/), [stellarium](http://www.stellarium.org/), and [google sky](http://www.google.com/sky/).
+
+Note that scientific astronomers aren't necessarily knowledgeable about constellations and looking at the night sky (some are as amateur astronomy may be a hobby).  Professional astronomers find a specific subfield and study that in depth (e.g., gamma ray bursters, magnetospheres, planetary surfaces/rings, extra solar planets, etc), and that never involves looking at the night sky visually with the unaided eye.
+Stellarium (already linked by djimbob) has really helped me.  Install it on a laptop and bring it outside, make sure you have it set to highlight and label constellations and off you go.  I like looking up and finding constellations on my own, taking a peek at stellarium to figure out its name, then tabbing out to Wikipedia (if you have wifi access) to learn more about the constellation.  Same goes for bright stars etc.
+
+Summary:
+I have the Audobon field guide to the night sky, it's a very accessible introduction to amateur astronomy.
+Note that scientific astronomers aren't necessarily knowledgeable about constellations and looking at the night sky (some are as amateur astronomy may be a hobby).

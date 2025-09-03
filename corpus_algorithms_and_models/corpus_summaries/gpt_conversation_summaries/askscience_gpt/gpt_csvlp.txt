@@ -1,0 +1,9 @@
+There is no way we'd be able to spread a sufficient amount to be detected. 
+
+When astronomers talk about 'small amounts' of molecules being detected, it's still on the order of trillions and trillions of tons of the stuff.  
+
+Also it is pretty difficult to detect molecules from small-scale production in outer-space.  You need a sun-sized or bigger object that is comprised of a significant percentage of the molecules being this type to be able to discern its signal from the background noise.  
+
+That said there are people looking for extra-terrestrial life via a similar method.  Rather than looking for an individual type of molecule that can only be produced artificially, they look for atmospheres that have compositions that indicate the presence of life by the ratios of compounds that exist in significant fractions (and are able to be produced naturally).  
+
+Sure, we could detect them using spectroscopy, and that is the first thing that planet-hunting astrophysicists will be looking for when they find earth-like planets. :-)

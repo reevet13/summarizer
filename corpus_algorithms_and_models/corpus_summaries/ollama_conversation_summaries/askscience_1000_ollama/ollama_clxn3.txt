@@ -1,0 +1,14 @@
+Here is the extracted summary:
+
+And this one
+http://en.wikipedia.org/wiki/Beyond_the_Standard_Model
+
+When you solve a problem in quantum field theory, you have to do something called Renormalization, which involves separating out the finite and infinite quantities, then subtracting off the infinities. When you try to do this with the gravitational interaction, it's mathematically impossible (or at least very, very difficult).
+
+http://en.wikipedia.org/wiki/Quantum_gravity#Nonrenormalizability_of_gravity
+
+* Either quantum gravitational effects are infinitely strong;
+* Or else the universe blows up instantly.
+
+Oh, so they're pretty close. Someone probably made an arithmetic error somewhere.
+Pretty close? That's 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

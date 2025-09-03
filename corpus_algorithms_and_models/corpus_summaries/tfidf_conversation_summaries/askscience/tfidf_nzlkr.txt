@@ -1,0 +1,68 @@
+Original Response:
+My friend posted [this](http://i.imgur.com/EZYQy.jpg) really annoying picture on facebook, and while I know it wouldn't work, how much momentum would this beam of light have?
+
+My main question question is, if you did have a lot of flashlights would you be able to get a cart to at least accelerate to realatavistic speeds? How many flashlights would you need?  I know there are problems when it comes to realatavistic speeds and momentum, so what about at a slower speed like  say 5 meters per second?
+
+My other question is you this work in this orientation, as in the light strapped to the cart. Would it work if you had some surface for the photons to transfer momentum too like a sail?
+[deleted]
+theoretically yes
+practically......maybe, if it could be done you would need an infinite number of torches as every time you add a torch it would add more weight
+https://secure.wikimedia.org/wikipedia/en/wiki/Laser_propulsion
+
+In essence: pushing something along using a remote laser (rather than having it mounted on the thing you're moving).
+Since infinite is practically impossible,  you would need torches with more significant output and less weight.
+See http://en.wikipedia.org/wiki/Solar_sail
+
+Despite having no mass photons have momentum so they impart radiation pressure on an object they impact. In practice this means this kind of propulsion only works with very large, light, highly reflective reflective mirrored surfaces with near zero resistance (in space), over long distances.
+
+So to answer your question, if you put a bunch of flashlights on a cart will it go fast? No. the friction created between the ground and tires would be astronomical compared to the forces exerted by the photons, in addition there is no practical way to power a flashlight that would produce enough photons to overcome this.
+
+No object which has mass can go at the speed of light.
+As pictured, no, because each flashlight creates more static friction than thrust.  Solar sails can work, however, although you can't do it with standard flashlights (their bulk and dispersion means that there's a practical limit to how many you can use, even if you have an infinite supply).
+Think about the fact a flashlight doesn't just scoot itself along when you turn it on and set in on a table. One flashlight can't even move its own weight. Adding more flashlights adds more weight. 
+
+I wonder if it would work in zero-gravity....
+Plain wrong, as the mass added with every torch is much higher than the propulsion power added.
+I was under the assumption photons had mass and that's why they have momentum.
+A typical photon has [1.325×10^-27 kg m/s](http://www.wolframalpha.com/input/?i=momentum+of+photon) of momentum, and has an energy of [3.973×10^-19 J](http://www.wolframalpha.com/input/?i=energy+of+photon&amp;a=*MC.~-_*Formula.dflt-&amp;a=*FS-_**PhotonEnergy.E-.*PhotonEnergy.lambda--&amp;f3=500+nm&amp;f=PhotonEnergy.lambda_500+nm&amp;a=*FVarOpt.1-_***PhotonEnergy.lambda--.***PhotonEnergy.nu--.**PhotonEnergy.omega---.*--).  To get one pound of force, which is 4.44 kg m/s per second, you then need 1.31 GW of power.  Not exactly what you'd get out of a flashlight.
+&gt; One flashlight can't even move its own weight.
+
+It could if nothing else was acting on it.
+True, but carts *do* have other forces acting on them.
+Photons are massless, otherwise they wouldn't be able to travel at the speed of light.
+Yep, I was just going by the drawing. In that picture it is being used to propel a cart. Obviously friction would hold it back. That's why I was wondering if it would work in zero gravity/outerspace
+It definitely is possible. The only problem is that your "flashlight" has to be MUCH more powerful than the one you could buy in a local store.
+
+[This](http://www.youtube.com/watch?feature=player_detailpage&amp;v=LAdj6vpYppA#t=147s) is how it could be used in Earth's atmosphere.
+This reminded me of a short story by Arthur C. Clarke. 
+
+http://en.wikipedia.org/wiki/Sunjammer
+
+In which spaceships with huge sails are blown by the wind from the sun.
+
+I wonder, is it only photons which are emitted by the sun, en masse, or are significant amounts of massive particles (hydrogen, electrons, neutrinos and other subatomic particales) also ejected?
+
+Sorry for the tangentially related question.
+[deleted]
+You would think they would have a more high-tech recovery system than some dude catching it.
+By throwing the flashlights out of the cart, you will gain more momentum than the beam could ever give you.
+
+In terms of your question though, photon assisted travel is definitely possible, just not practical for any use other than ultra long distance space travel because of the very slow acceleration (and therefore force as F=ma) it gives you.
+
+A better alternative would be to use an antilasers (http://www.bbc.co.uk/news/technology-12453893) which means that you can gain all the power from someone firing a laser at you which you could use to fire mass backwards and gain momentum.
+mind = blown
+I would be lying if I said I understood it, however, it is generally accepted that photons to not have a rest mass.
+[deleted]
+Solar wind is a stream of charged particulars, so no, not only photons.
+You comment made me google 'solar wind.'
+
+I really should have done that before. Thank you.
+
+Anyway, it's always nice to remind people A. C. Clarke's stories, so I don't feel my comment was a complete waste. : )
+
+Summary:
+I wonder if it would work in zero-gravity....
+I was under the assumption photons had mass and that's why they have momentum.
+One flashlight can't even move its own weight.
+Would it work if you had some surface for the photons to transfer momentum too like a sail?
+How many flashlights would you need?

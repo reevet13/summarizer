@@ -1,0 +1,6 @@
+A magnetic field is created by all moving charged particles.
+However, there is also an electric field created as well.
+The Lorentz transformations for electric and magnetic fields are such that if you change to a frame with no magnetic forces, the electric field will increase proportionately.
+The net effect will be that the physical force, and thus the acceleration, will be identical in both frames.
+Electromagnetism is one phenomenon that appears as an e-field or b-field depending on the frame of reference.
+Parallel currents attract.

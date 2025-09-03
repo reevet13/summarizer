@@ -1,0 +1,18 @@
+Here is the summary of approximately 10% of the text, up to 250 words:
+
+* In the scientific computing community, there's an increasing focus on making programming more efficient.
+* It's a recognition that the time spent programming is often a bottleneck in the production of science.
+* This is due to increasing complexity in three regions: *model complexity, hardware complexity, and algorithm complexity*.
+* We need better tools in scientific computing. Obviously, not all problems are the same.
+
+Take a quantum-mechanical chemistry code, for example. These might involve solving the time-independent 3d Schrödinger equation. For each atom in a chemical reaction, you get 3 dimensions in your solution grid. If you need 100 grid points per dimension in order to get reasonable accuracy, just 4 atoms requires 100^12 grid points.
+
+Here, extremely complex algorithms have been developed to optimize various aspects of this computation and map it effectively to various hardware architectures.
+
+Is it:
+
+* Hardware availability (insufficient computing time)
+* Programming (insufficient programming time)
+* Model complexity (insufficient programming expertise)
+
+Newline is used to separate the sentences.

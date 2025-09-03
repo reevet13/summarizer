@@ -1,0 +1,52 @@
+Original Response:
+So I hear people saying how LN is great etc and "elcair works rn bro!". I dont really understand all the complicated videos about it, and I tend learn better kinesthetically so out of interest I download elcair wallet to my phone, and send $1.50 to the wallet, (as I am told it is for small transactions). I dont have any nodes to connect to and "random node" didnt work.. so i selected "ACINQ NODE" which I presume is just a big node used by loads of people and im met with a message saying I have to send "1000 bits minimum".. thats like $5000 in a couple years time and I dont even think I can withdraw funds from this eclair thing. Theres no send option and no private key. Its also a "3..." address which means its some complicated multisig thing I dont understand.
+
+I'm going to be honest, I cant be bothered to learn to become a programmer or computer wiz kid, I just want to be a ley man. Is lightning network aimed at the 7 billion lay men on earth like myself or just a group of nerds? Cause i'm pretty confused with it all. Obviously I appreciate its still in early development so I'm willing to go a little further to learn some basic to intermediate stuff, but I dont want to invest too much time into it
+
+The point of this post is to provoke so I can question people about it
+LN is a protocol dummy, not a UI.  I bet you don't understand TCP/IP either. UIs are still in experimental beta.  
+
+Worst thing ever? Yeah like email and internet were in the 90s.
+for every unhelpful comment im going to convert 5% of my btc holdings to [the forbidden one]
+How idiotic *are* you? Just move on. Cheers.
+by "unhelpful" you mean contrary to your stupidity?
+Ok so I want to help you.  Lightning network is not ready for you.  It is not point and click.  
+
+Use Bitcoin as it was originally conceived (send your BTC on chain to the recipient).  It works extraordinarily well, is user friendly and is safe and secure.  If for some reason you need faster transaction times for a particular send, you can convert your BTC to Litecoin on a one-off basis for your transaction as needed.   It is rare that you would ever really need to do that today.  
+
+In a year or two lightning might be in a place where non-technical people can comfortably use it.  
+
+BCH has centralization concerns and that is why you should consider not using it.  It has issues at its very core.  Many may disagree with that and that is fine.  It is a free world.  But the point of this whole thing is to get away from having your money controlled by a single person or group.  BCH was not an organic development like BTC was.  It was a sponsored event and it still looks to me like it is controlled by faketoshi, Ver and Bitmain.  DYOR on that one and make your own judgment.  
+
+People calling you stupid on here don’t quite see beyond their own noses and don’t realize that people can legitimately raise questions even if it cuts against the grain of their cult like beliefs.
+It's probably not a good idea to base your investment decisions on how nice people are to you on forums.
+You fundamentally misunderstand the reason behind that statement
+I think this illuminates your real point for being here
+I think you're a pedo, but just because I think that doesn't mean its true. Blocked.
+That escalated quickly
+Why not all of it, 5% is weak
+You're trolling so the only unhelpful comments here are yours
+Go ahead.  I dare ya.
+[you fucking asked for this, buddy](http://pre10.deviantart.net/f6dc/th/pre/f/2013/347/9/b/left_leg_of_the_forbidden_one_by_playstationscience-d6xoicj.jpg)
+Thanks
+
+I cant convert BTC to LTC for a one time transaction without using an exchange and trusting a third party. It also makes absolutely no sense to me to have multiple small chains rather than just one big one.
+
+I think BCH is very good actually, but in my view has become too controversial and wont overtake BTC. Its only big problem is it has the same POW algorithm as BTC and much lower hash rate which raises security concerns but I see no reason why BTC shouldnt just raise its blocksize and do away with BCH for good. Surely we cant just keep 1mb forever when 5 billion people are sending transactions? Even with LN unless we make an almost complete departure from the actual blockchain all together, which kinda sounds like "bitcoin has failed". "The underlying technology we've been celebrating for the past 10 years, we no longer care about"
+Are you Craig Wright?
+Do you not use an exchange?   How do you obtain your BTC otherwise?  
+
+Re BCH I think those guys made a huge mistake and everyone should start working together again.  But what the hell do I know. 
+
+Re block size are you noticing an inability to get your transactions completed within a reasonable time at this time?  I haven’t had that issue.  I don’t believe anyone ever said the block size will never be increased if truly needed.
+BOTH email and the internet were great in the 90s.
+
+None of it was controlled by tech giants, the NSA was clueless, it wasn't a tool to control the narrative and everything worked fine.
+
+Summary:
+BCH was not an organic development like BTC was.
+It is not point and click.
+I think this illuminates your real point for being here.
+I haven’t had that issue.
+Its also a "3..." address which means its some complicated multisig thing I dont understand.
+It has issues at its very core.

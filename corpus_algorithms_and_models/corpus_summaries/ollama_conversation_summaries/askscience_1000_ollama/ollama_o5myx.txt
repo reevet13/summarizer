@@ -1,0 +1,10 @@
+Here is the extracted summary:
+
+Yes. Gasses are much more compressible than liquids.
+But it won't create "compressed" water. If that is what OP was asking.
+I was thinking, instead of carrying 5 gallons of water, wouldn't the same amount in compressed gasses be much lighter?
+No - think about the number of atoms.  The weight of an oxygen atom doesn't change* when it is bound or unbound to hydrogen.
+Compressing something doesn't change its weight, just its volume.
+can you compress the gasses *more* than water? So a gallon of compressed Hydrogen and Oxygen in a 2:1 ratio would weigh more than a gallon of water?
+A typical K-size gas cylinder contains maybe 6 or 7 cubic meters of gas, if I remember correctly, once expanded to standard temperature and pressure.
+This works out to about 250 moles of gas.

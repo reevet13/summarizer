@@ -1,0 +1,8 @@
+Here is the extracted summary of about 10% of the original text:
+
+You don't, Apple wants you to buy iCloud storage.
+Yeah, but I don’t want to have my iMessages to be “publicly” accessible, which they are if you sync to iCloud.
+No?
+iMessage is e2e encrypted, unless you sync to iCloud, because decryption keys are also stored in iCloud. Therefore Apple can decrypt your messages any time without you knowing, is that correct?
+
+Please let me know if I'm wrong on this :P

@@ -1,0 +1,12 @@
+Here is a summary of approximately 10% of the original text, up to 250 words:
+
+As always, remember to uninstall ArcDPS pre-patch to avoid crashes. After a fixed version is released a couple of hours/days after, you may use it again.
+
+That being said: happy patch day!
+PSA: just run the game normally and without giving up build templates for nothing. if it crashes, try deactivating arc to see if it helps.
+
+deleting arc preemptively makes little sense nowadays, usually it works just fine after patches, and build templates are too valuable a tool to give up over some fearmongering about what could might or may happen.
+
+after finishing story and the first raid boss: I kept arc, it was invaluable during raiding (as I swapped my mesmer around a lot) and didn't cause any crashes and I think DPS reporting was fine as well, the distribution was as expected - besides condi chrono being able to outdps some DPS on twins, confusion hits like a truck there, but that was only unexpected, looked correct in terms of arcs reporting.
+
+This, basically.

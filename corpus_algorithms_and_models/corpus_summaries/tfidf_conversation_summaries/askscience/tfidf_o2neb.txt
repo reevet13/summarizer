@@ -1,0 +1,58 @@
+Original Response:
+Sorry if I'm using bad english in the post title :/
+
+edit: Thanks for the answers. Please link to a source if you can :D
+False.  In order for our ecosystem to work there has to be greater biomass at the bottom of the food chain: plants.
+
+[Relevant Wiki](http://en.wikipedia.org/wiki/Trophic_level#Biomass_transfer_efficiency)
+Well considering that [ants make up maybe 20% of terrestrial biomass](http://www.pnas.org/content/97/26/14028.full) I'm gonna go ahead and say this is false. But I am not a biologist.
+This is radically false.  Firstly, most of the worlds biomass is contained within prokaryotes (bacteria and archea) which live in earthworms but the percentage of their biomass in earthworms would be relatively insignificant. It is also estimated that more than 50% of the worlds biomass is present in prokaryotes beneath the upper layer of the earths crust which includes the entire terrestrial surface, oceans and the area where earthworms live. I can't find the exact source for this but I literally just listened to my professor rant about it.
+[deleted]
+That's the efficiency, not the total biomass. Different communities have different biomass structures.
+More than 50%! That's amazing. Thanks.
+I must have a misunderstanding then.  I'm not scientist.
+
+My understanding is since energy goes from sun&gt;plants before going to earthworms and other animals, that the biomass would have to be greatest at that low level, since the transfer of energy between levels is not 100% efficient.  
+
+Given those facts it is not possible for 80% of the world's biomass to be earthworms, countering the OP's father's assertion.
+Consider a system of one plant, and one primary consumer. Assume, as is the case sometimes, that the plant is able to reproduce at lightning fast rates, but that its biomass is kept in check by the primary consumer. Because the rate of change of the plant biomass can be incredibly large, it can support a much larger primary consumer population than it itself. 
+
+I agree that 80% of the world's biomass is not earthworms, that statement is silly. However your reasoning was also false.
+Throughput is not the same as standing biomass.
+
+The throughput (total energy going through) tapers in a pyramid as you describe, losing ~90% at each level.  But the biomass producing that throughput can vary, as organisms have different (per-unit-biomass) production rates.
+
+Edit:  dug out an example from a marine ecosystem I study:
+
+Production ratio of phytoplankton: bacteria: zooplankton: mud animals (clams and worms) : fish and above is
+
+    88 : 45 : 6 : 4 : 1 
+(pretty much the pyramid you'd expect)
+
+Standing biomass ratio is:
+
+    0.6 : 0.8 : 0.5 : 1.4 : 1
+
+So, low biomass of high turnover plankton and bacteria.  Lots of slow growing clams/worms buried in deep mud, overall much more even distribution of biomass than production.  Even in this marine system with LOTS of mud, worms are high, but not OP-question high.
+Excellent response, I am wiser than I was 5 minutes ago.
+
+Thanks!
+I am not saying you shouldn't post here, but a college major in Biology does not a Biologist make. A biologist is a scientist focused on and producing results (Data) in life sciences. I wouldn't say you are a biologist until grad school.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Animals consume much more than their body weight in any given year.  For most plants, only a small fraction is viable as food(fruits, leaves, seeds), so plant biomass must be much greater than animals.
+No, you were right.
+
+Only a small fraction of a plant is viable as food(fruits, leaves, seeds), so plant biomass must be much greater than animals.
+&gt; radically false
+
+lol, well phrased!
+Fascinating. Thanks for expanding.
+
+Summary:
+Throughput is not the same as standing biomass.
+But I am not a biologist.
+That's the efficiency, not the total biomass.
+I must have a misunderstanding then.

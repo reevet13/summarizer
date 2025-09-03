@@ -1,0 +1,33 @@
+Original Response:
+I am just curious based on Newton's law of cooling and other science how long it should theoretically take to cook a steak to variable doneness temperatures at various oven temps. Use variable W as the starting temp of the meat. For an example assume an 230 gram steak fillet starting at 5C and cooked to 60C with an oven temp of 180C.
+
+EDIT: Beef steaks only and temps changed to C per rrauwl's comment.
+There's a problem with your dataset. I'll explain, and then you can decide if you would like to rephrase, or add more data.
+
+When you say 'to cook any given piece of meat', you have to give dimensions. Surface area is a factor. Because a thick 10 oz steak, with its reduced surface area, has less effective [thermal conductivity](http://en.wikipedia.org/wiki/Thermal_conductivity) than a thin 10 oz steak, which has a much greater surface area. Because the key temps have to be achieved in the center of the steak (for both the correct done-ness and health goals for certain types of meat).
+
+The second factor to consider is that you say 'meat' and then give the specific example of steak. Would you like to ONLY consider steak, and not other meats? I feel this would be wise since pork, poultry, etc have different standards of 'done' and minimums for health and safety, while beef (properly prepared) can be eaten 'blue', or even raw.
+
+Third, and this is more of a side bar, I would suggest C, not F. It's far easier to work with in these sorts of calculations.
+Can we use the thickness of the steak as a variable in the calculation? Or an aspect ratio and surface area as variables?
+This is one of those things that is much easier to measure experimentally than it is to calculate.  To calculate this, you need to know the heat conduction and convection coefficients from the oven air to the steak, and the conduction coefficients through the steak.  Than you would have to solve the time-dependent heat transfer through a 3-D object, which depends very strongly on the exact size and shape of the steak.
+
+Or you could just take successive measurements of the steak center temperature as a function of time.
+I would imagine the density or composition of the meat would affect the heat transfer. Approaching this in from an entirely physics point of view would cause problems because of this factor of biological variation. If you can taste the difference between different steaks, (i.e. fattier ones or leaner ones) then there must be a difference in their composition. If you accept this then you have to individually measure the make up of the steak before figuring out how to cook it, and you probably will have destroyed the steak by the time you've got all the data you need.
+That's insanely complex. I suppose the answer is 'you can' but you're going to have to hope someone has the time to do all that math.
+It would be nice to place multiple small sensors throughout the meat and oven and record the temperature changes over time. That would give a good amount of info for that cut of meat, volume and aspect.
+You'd also have to consider the type of cut, since the ratio of fat/muscle could have an impact on cooking time as well.
+Like others have said, it's more complicated than using 3 variables.  But some work has been done on the matter, and equations have been developed.  [This paper](http://www.springerlink.com/content/l74318784570634n/fulltext.pdf?page=1) concisely outlines a set of equations that can be used to model meat cooking times.  It uses rate constants of denaturation of things like actin and myosin.  It also takes into account things like thermal flux, whatever that is.  I'm more involved in the chemistry of food, so I can't really talk much about the math and physics with any great insight.  
+
+That link only let's you see the first page, I'll try to post the full one later.     
+
+Edit: Spelling
+I propose we all head over to OP's house for some serious experiments. We should throw in factors like different seasonings and marinades. Compare different grades, cuts of beef... Some Kobe, some Angus...
+
+For science.
+
+Summary:
+Would you like to ONLY consider steak, and not other meats?
+Can we use the thickness of the steak as a variable in the calculation?
+Use variable W as the starting temp of the meat.
+Surface area is a factor.

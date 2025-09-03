@@ -1,0 +1,15 @@
+Some computer science courses seem to incorrectly imply that entropy represents the theoretical limit of compression, but that's simply wrong.
+
+If I give a stream of pseudorandom numbers to an entropic coding algorithm, no compression is achieved. However if you found the generating function of the pseudorandom sequence more or less equal to its Kolmogorov complexity, you have ideal compression.
+
+Now of course, Kolmogorov complexity isn't computable, but that doesn't mean we can't approach it, and achieve better compression algorithmically than entropically. It seems to me a lot of real world "algorithmic" compression algorithms do in fact approach Kolmogorov complexity much more so than Shannon entropy.
+
+Also the efficiency of an entropic coding seems to vary vastly with the choice of alphabet, since it's assuming each element from the data stream is independent from the others. However this seems a very odd assumption to make for data compression, since real information practically never forms nice little self-independent pieces -- it seems to me.
+
+Kolmogorov complexity is defined for numbers, sequences etc.; Shannon entropy is defined for random variables.
+
+Entropy does not change if you apply an injective function to the variable, it cares only about *distribution* not about values. Kolmogorov complexity is defined for constants and it cares only about *values* not about distribution.
+
+And yes, choosing your alphabet is an assumptoin of the underlying structure. Encoding the file in a different alphabet might change the structure. But entropy is representation-independent, so an ideal entropic encoding won't care.
+
+Data is structured, and so we have developed algorithms which can identify and compress that structure.

@@ -1,0 +1,9 @@
+Original Response:
+Entropy is a measure that, in a closed system, cannot decrease with time. My question is, how much does it increase each second, for a given closed system... or for the universe as a whole?
+[deleted]
+The change in entropy will be different given different situations. For instance, in a quick, exothermic dissociation reaction, entropy of the system (and the universe) may change quicker than in the freezing of water.
+Is it possible to measure how has entropy changed in the universe since the big bang? (Or something close to that idea)
+[deleted]
+First we'd need to know exactly what's in the universe right now, and we have no idea.
+
+Summary:

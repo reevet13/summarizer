@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+My asus m32ad pc will no longer boot windows and seems to be stuck on bios. When ever i try turning it on it immediately boots the bios. Ive messed around with the settings and still cant get to windows. please help im a dumbass when it comes to stuff like this.
+
+In the bios, do you see the hd ?
+
+HDD = Hard Drive. Do you see it listed as a boot device in Bios?
+
+Hard disk. System need something to boot on. You should have a list of your devices in the bios, to define on wich one to boot.
+
+it says boot options and boot override. For both of them the only two options seem to be "toshiba DT01ACA200" and "asus dvd ram GHC1N"
+
+So one hd and one dvd. Toshiba need to be in the list of bootable devices. If it is, then you may have a problem with bios settings.
+
+Depend on the bios, you'll have to cycle through pages to find it. You should se it as 'bios reset', or 'factory reset'.

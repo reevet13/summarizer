@@ -1,0 +1,27 @@
+Speeding up going downhill will save you a small amount of fuel going up the other side.  Accelerating downhill will not take as much fuel to get to the same speed as it would on a flat surface due to gravity, and going uphill will take even more fuel.  Now, if you're flooring the accelerator on either side, it's going to be a wash, it's just your speed that's going to be affected (e.g. slower going uphill).
+
+There are factors such the non linear increase in drag as velocity increases, drag coeffecient of the object, along with the effeciency of the driveline at certain speeds that play into how the scenerio would come out.
+
+So my guess would be that you should try to stay at whatever speeds your engine is most efficient at. If you're going too slow or too fast, you'll burn more fuel per mile. I think this means you should coast downhill and then give it a little gas while still decelerating uphill, which is counter intuitive.
+
+Our car is affected mainly by two classes of forces :
+
+- gravity, which is a conservative force, meaning that this force doesn't cost the system energy if you account for the potential gravitational energy the object has
+
+- friction forces (air on the car, internal friction resulting in heating of the mecanical pieces, etc) which are non-conservative, meaning they take away energy from the system.
+
+So, if we want to be as efficient as possible, we should strive to **minimise our friction forces while driving**.
+
+So another part of the problem is **maximising our energy extraction from our fuel**.
+
+Let's simplify this a bit more: At the top of the downhill, you drop the car to neutral then turn off the engine. Thus, your car is using absolutely no fuel. You coast down the hill and crank the vehicle again on the uphill, just in time to resume traveling at the same speed you were traveling before turning off the car. Compared to this, **absolutely anything** that involves using gasoline is less efficient.
+
+Finally, we simply release the accelerator and coast down the hill in gear. This once again uses less fuel than braking on the downhill, then pressing the accelerator to travel back up.
+
+If you're talking about actually pressing the gas going downhill, that's a whole different story.
+
+tl;dr most efficient way to drive is to coast down hills
+
+In the highway case then, pressing the gas pedal while traveling downhill is a given, in order to maintain speed.
+
+For most cars, in the case of a perfectly flat

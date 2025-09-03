@@ -1,0 +1,93 @@
+Original Response:
+I dont get this at all as a reason of value.
+Bitcoin is the computer science breakthrough of digital scarcity. Before bitcoin, all data could be copied 100% perfectly for free at no cost, so had no inherent value. We used rare commodities as money because they are scarce. We used gold as money for thousands of years because it was expensive to mine so new supply inflation was low. Bitcoin is the first asset in human history that the supply is truly limited and a known quantity. 21 Million that's it. Only a small fraction of the planet's population can ever possibly own whole bitcoin.
+I understand bitcoin. I don't understand the value of this post as it simply says "hey bitcoin is great because digitization"... digitization has been around for a LONG time.
+Yeah if you read the article it goes into more detail. If you understand bitcoin, then you should already get why a scarce digital asset can possess value.
+
+It's not about just making something digital, it's about the cryptography that provides provable scarcity.
+miners only exist because they can get fiat, no more fiat, no more miners, no more bitcoin. Once there was 147m bitcoin, but apparently you don’t remember that.
+But what about Bitcoin2, or Bitcoin3? If Bitcoin scarity is only in the first mover advantage, how long will that be relevant?
+
+The alt bubble was larger than BTC only a few months ago, so clearly first mover is not the sole criteria.
+
+Bitcoin adoption eg replacing money means all vendors having payment terminals that accept BTC. What is to stop the software provider rolling out an update to accept the top 100 cryptos seamlessly (like Coinbase)?
+
+Also, does 21 million even matter as a “whole” unit when the indivisible unit is a satoshi? I guess “Only so many people can have a 100 million satoshi’s” does not have the same ring to it?
+No more fiat is closer than you think. The central bank system was not designed to last forever, it was never designed to begin with. Fiat only has value if the banks and governments remain solvent. If you remember they were't solvent. We had to bail them out creating even more government debt. Since then they have been doing quantitative easing, literally money printing from thin air just to keep the ball rolling. These are temporary emergency measures just like the removal of gold backing was in 1971. This system will not last, you will see the end of fiat money in your life time. 
+
+&amp;#x200B;
+
+Most of the bitcoin has already been mined. The ledger of UTXOs that everyone running a full node is enforcing is not going anywhere unless you shut down the Internet.
+Bitcoin's value is in the security of the network. If another coin gains greater security in its consensus mechanism then OK, we can use that, but I don't see any sign of that in any other coin.
+
+&amp;#x200B;
+
+People think Bitcoin needs to be adopted as a means of exchange in order for it to be successful. This is putting the cart before the horse. Store of Value is the greatest utility of bitcoin. Separating political leaders from the money printing presses and preventing them from diluting your savings is a real use case. People in developing nations can store there own wealth for the first time without the expense and counter party risk of holding gold. When the world understands bitcoin is not a scam and see's the need for a global apolitical store of value, only then will the volatility subside and people choose to use it in transactions. Until then, merchants will use stable coins, that's fine, it doesn't detract from Bitcoin's real use.
+
+&amp;#x200B;
+
+If you slice a loaf a bread into smaller pieces you don't get any more bread. You can use Bitcoin in smaller denominations but there is still only 21 million bitcoins.
+How big do you think the consumer store of value market is (gold and equivalent)? eg how many people do you know who have gold?
+
+How many people do you know with enough savings for inflation to matter?
+
+It’s such a weird problem to be solving ... like the people who benefit from this have so much cash they arent the people that need Bitcoin.
+Size of the market? Everyone with an internet connection and a piggy bank. Bitcoin is a better version of gold, zero cost to hold. Just protect your private key. 
+
+Currently inflation matters to about [half of the world's population](https://tradingeconomics.com/country-list/inflation-rate). Over a longer time frame it matters to everyone as no fiat money remains stable forever. We just lurch from one economic disaster to the next and all politicians do is print more money to pull themselves out of the mess they make. You may use a stable fiat currency for now, but you are part of a developed nation elite of about 1.5 Billion people. What about the rest of the world?
+
+Anyone can benefit from holding Bitcoin no matter how little or how much money they have. People either buy Bitcoin before their national currency is devalued or after. They just get more if they buy before.
+What makes you think they want fiat in particular? If the reason there's no more fiat is because everyone is using bitcoin, then miners will want bitcoin too.
+
+I'm skeptical if one can argue that bugged and worthless hard fork coins are "bitcoin". We already know that counterfeiting risk goes down with more confirmations anyways.
+Okay how many people have a piggy bank given the majority of the worlds people have less than $1000 in savings?
+
+The point is that if you live paycheck to paycheck (like most people) Bitcoin doesn’t save you from inflation.
+
+Store of Value solves a problem most people simply don’t have.
+People live paycheck to paycheck because the inflation gives them a high time preference for money. You are encouraged to spend today and take on debt as the inflation will reduce the burden of paying it back. Our whole culture is based on instant gratification as you may as well spend today because it will be worth less tomorrow. For the first time in your life you have access to a deflationary money. Those how make the correct economic decisions today will be rewarded tomorrow.
+&gt;People live paycheque to paycheque because of inflation
+
+Are you serious? Do you really believe that?
+The economy you live under has the biggest influence on your life. The way your money works dictates many aspects of society.  Only because you have lived under the same system all your life do you not notice. We can't even envision a different history under alternative circumstances. 
+
+When they print money, the people who spend it first get the full value before the inflation has effected prices. It's called the Cantillon Effect. The inequality is built into the system. Money is being robbed from the poorest and handed to the wealthiest.
+So for how many people is Bitcoin really solving a problem for as a Store of Value?
+
+Let's say it doesn't really solve problems for the upper and middle classes, and the middle-lower class. These workers all receive annual CPI increases or have investments that outperform inflation.
+
+There's going to be a set of jobs for which this isn't the case at the very bottom. This bottom end does not have savings (by definition) so it's not their savings that are getting "robbed", I assume you mean they are being robbed because their purchasing power does not keep up if their wages aren't increased each year?
+
+For Bitcoin to actually help these people, they would need to be paid in Bitcoin right? Simply having access to Bitcoin doesn't help because they are living paycheque to paycheque so converting to BTC and back to fiat each month would actually cost them more.
+
+So we're talking about a timeline where both a) people are paid entirely in bitcoin and b) bitcoin is no longer deflationary, the latter (and likely, former) of which won't be in your lifetime.
+
+I like the crypto-utopia you're selling, but when you dig a little deeper it all falls to pieces. 
+
+&amp;#x200B;
+Of course people will be paid in bitcoin. Government shitcoin doesn't stand a chance. Good money chases out the bad money. What do you think happens when the next recession hits? Just bail out the banks again? Create even more public debt? They will default, or hyper-inflate from money printing. It's just a mathematical certainty.
+
+After another reward halvening Bitcoin will be inherently deflationary because the inflation is lower than growth of global GDP.
+https://www.reddit.com/r/Bitcoin/comments/1s3buc/chart_of_bitcoin_inherent_inflation_rate_til_it/
+So how do companies get enough Bitcoin to pay their workers?
+What do you mean? It's money you just transact like fiat money. Customers pay with Bitcoin, workers are compensated in Bitcoin. The only difference is it's peer to peer so you don't have payment services in the middle taking their cut.
+No, its a chicken and egg network effect problem. There is no benefit to employers to pay their staff in BTC and no benefit to employees to convert their paycheque into BTC to buy things with.
+
+You need motivation on both sides for this to work - and the inflation boogeyman isn't a motivator for people at the bottom end of the wealth spectrum because when you break it down Bitcoin doesn't really solve a problem for them.
+
+And it's not going to suddenly start solving a problem for them until they get paid in BTC, which isn't going to happen because no one is spending it so the business would have to buy BTC OTC and that's going to cost them dearly because of the scarcity. Chicken and egg.
+
+You talk about Bitcoin as a solution to people living paycheque to paycheque - it's just not. Employers need to pay a living wage.
+
+Summary:
+So for how many people is Bitcoin really solving a problem for as a Store of Value?
+miners only exist because they can get fiat, no more fiat, no more miners, no more bitcoin.
+Store of Value solves a problem most people simply don’t have.
+I dont get this at all as a reason of value.
+Bitcoin's value is in the security of the network.
+eg how many people do you know who have gold?
+When they print money, the people who spend it first get the full value before the inflation has effected prices.
+How many people do you know with enough savings for inflation to matter?
+This system will not last, you will see the end of fiat money in your life time.
+It's money you just transact like fiat money.
+If you understand bitcoin, then you should already get why a scarce digital asset can possess value.

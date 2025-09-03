@@ -1,0 +1,19 @@
+Here is the extracted summary:
+
+Dearest reddit, the photo linked below was taken around 7pm on Nov 12, 2010 in Eureka Valley, CA. It's a 16 minute exposure.
+
+There's a straight line starting in the bottom left corner, and I have no idea what it is. I've ruled out anything stuck to my lens or image sensor, because it doesn't appear on any other shots from that night.
+
+What do you think?
+
+Based on the brightness relative to the stars, I'd rule out meteor. 1/4 second of something dimmer than a star over a 16 minute exposure won't leave that kind of trail. An airplane is also not terribly likely, as they tend to leave multiple trails, and usually red/green for the left/right side of the plane. At the light levels in the picture, you would also expect to see the vapor trail.
+
+Doesn't it seem a bit large to be a satellite? And why are there no others visible?
+
+I would propose that the conjectured satellite was so clearly visible when a part of it happened to reflect sunlight straight into your lens. The others are not reflecting light to your detectors (eyes/camera) so they are not noticed.
+
+Oh! OK, here are the satellite passes for the coordinates you gave in the map: [http://www.heavens-above.com/allsats.asp?lat=37.113104&amp;lng=-117.663231&amp;alt=0&amp;loc=Eureka+Valley&amp;TZ=PST&amp;Date=40494.1041666667&amp;Mag=3.5](http://www.heavens-above.com/allsats.asp?lat=37.113104&amp;lng=-117.663231&amp;alt=0&amp;loc=Eureka+Valley&amp;TZ=PST&amp;Date=40494.1041666667&amp;Mag=3.5)
+
+[OAO 2 Rocket](http://www.heavens-above.com/PassDetails.asp?Size=600&amp;SatID=3598&amp;lat=37.113104&amp;lng=-117.663231&amp;alt=0&amp;loc=Eureka+Valley&amp;TZ=PST&amp;Date=40494.1185853494) still looks like the best candidate I think.
+
+Satellites that you can see usually appear to be about the same size as stars, the obvious distinction is that you can easily see them moving across the sky.

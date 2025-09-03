@@ -1,0 +1,6 @@
+The level will stay the same.
+Reason: The ice, when floating in the water, is displacing its weight, pushing exactly that much water away from itself.
+After melting, the same weight of water is present, thus displacing the same amount of water.
+Check out this nice [time-lapse](http://upload.wikimedia.org/wikipedia/commons/1/16/Melting_icecubes.gif).
+Wait till the ice is actually floating, then watch the water level.
+No change.

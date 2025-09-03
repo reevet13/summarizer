@@ -1,0 +1,13 @@
+Original Response:
+Yes, absolutely. however this would require a lot of energy to split the two carbon=oxygen bonds and form one oxygen=oxygen bond. So instead of carrying oxygen, you would need to carry an even larger battery supply.
+Yes, carrying CO2 and converting to O2 would be far more energy consuming. And this may not work for scuba gear, but [plants aboard space stations and such](http://www.nasa.gov/audience/foreducators/topnav/materials/listbytype/Growing_the_Future_Plants_in_Space.html) could theoretically provide not only O2, but food as well.
+[deleted]
+This question is based on a false premise.  The oxygen produced during photosynthesis does *not* come from CO2, it comes from H2O.
+[deleted]
+http://en.wikipedia.org/wiki/Rebreather#Theory
+
+Doesn't convert CO2 to O2, but that would be energy intensive to do.
+Just to clarify for everyone else, rebreathers don't give you more oxygen or new oxygen, they just capture CO2 to prevent poisoning from it (doing so allows you to keep the air you had, instead of throwing out CO2 with O2).
+
+Summary:
+Yes, carrying CO2 and converting to O2 would be far more energy consuming.

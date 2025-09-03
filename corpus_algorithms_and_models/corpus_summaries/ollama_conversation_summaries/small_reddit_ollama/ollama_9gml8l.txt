@@ -1,0 +1,19 @@
+Here is a summary of about 10% of the text or up to 250 words by selecting only sentences from the original text exactly as written:
+
+When I run CPUZ it shows that my motherboard is a lenovo 36EF.  I am trying to find out more about it.  What size it is,  Maximum supported RAM and stuff like that.  Any help?
+
+Is this a laptop, desktop, or server?
+
+It is a Desktop.  I bought it from Lenovo.  It is the Y520.
+
+What specific information are you trying to find?
+
+I was just trying to find more info about it.  What is the maximum supported ram?  I know it only has two slots but will it handle 16gb sticks?
+
+The specs at the URL you give mention:
+
+> Memory Up to 16 GB DDR4 2666 MHz
+
+Cant think of any reason they would not let someone buy it with the max memory it can support.
+
+Check crucial see what their site says.

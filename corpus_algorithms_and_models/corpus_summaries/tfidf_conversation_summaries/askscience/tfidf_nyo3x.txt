@@ -1,0 +1,40 @@
+Original Response:
+I've been told that the wavelengths that can pass through a barrier such as a wall between two rooms is directly related to the thickness(?) of the wall, apart from the material characteristics itself. So a regular wall might allow lower wavelengths to pass through (like the bass-y tones in a song can be heard next door but not the entire song itself). Now if the wall were to be thinner we'd have even mid frequencies passing through the wall (like someone speaking can be overheard next door).
+
+I'm trying to figure out the science behind it. Do the higher wavelengths get caught as resonant modes within the wall? Does only wall thickness matter or do length and breadth matter as well? How do material properties play in? Additionally, it'd be great if you could go beyond fact to assist with visualization perhaps.
+Sound waves, like all forms of energy, can do one of three things when confronted with an object (a wall): Either reflect off the surface, be absorbed by the object, or pass right through it. In terms of material, a wall with a solid surface would reflect sound waves pretty well. A wall with some sort of insulation in it would be better at absorbing sound waves, and a thin wall would have sound waves pass through it.
+
+With bass frequencies, they are literally longer than higher frequencies. In technical terms, the period of a low frequency is longer than that of a higher frequency. Really low frequencies have a period that's longer than a bus! This means they are not easily reflected or absorbed by a wall. They would need a wall that's as long as one period in order to reflect or absorb them.
+Thanks, could you please explain why this is so? Why can't ~~low frequencies~~ any frequency be reflected or absorbed by a wall that isn't at least as long as one period?
+When a wave enters a new medium, it is refracted according to snell's law: (refractive index of one medium)\*sin(angle of wave propogation from the normal) = (refractive index of other medium)\*sin(angle of wave propogation from the normal in that medium) 
+
+Index of refraction for sound has to do with the structure of the material *and* the frequency of the wave. This is why prisms can separate white light into a rainbow, each frequency bends a little different. Note that this is for waves in general, I'm not sure *exactly* how it applies to acoustics.
+Radomes in radio design are covers for radio equipment which are particularly designed in both thickness and material such that they pass the deisred frequency perfectly and perhaps also absorb or reflect undesired frequencies.
+Sound Transmission Loss (STL,the amount of sound level lost from one side of a wall to the other) is dominated by the frequency of the sound and the mass of the wall. In general, doubling the mass of the wall will result in a 6dB improvement in transmission loss. Also, transmission loss generally increases by 6dB every time you double the frequency.
+
+So the thickness of the wall is not as important as the mass. That is, a  1 inch thick lead wall, will be much much better than a 1 inch thick plaster board wall. If you want to improve the STL a wall using normal build materials, the easiest way is to make the wall thicker using the same materials. Two layers of plaster board on each side, will double the mass, for example.
+
+Things get more complicated, because the STL of a wall is reduced at the resonant frequency of the wall. In a plaster board wall this is caused by the air gap in the wall. So to get around this, you can damp the resonance with insulation (although often this is not used on internal walls where heat loss is not an issue), or lower the resonant frequency to below the frequencies of interest by increasing the width of the air gap, giving a thicker wall. 
+
+Traditionally, the frequencies that warranted the most attention were those in the vocal range to prevent voices from being heard on the other side of the wall. This meant pushing the resonant frequency down to to around 100Hz, where kick drum and bass guitar have much of here energy.
+
+Also, the overall STL of a wall is generally dominated by the weakest part. Putting a door into a wall will significantly reduce the STL. 
+
+Sound will also find its way around obstacles,, so even is your wall has a high STL, if sound can go from your room into the ceiling, over the wall, and into the next room, you will have lost the benefit of the high STL wall.
+Thanks, I understand that, but I'm still having trouble visualizing what happens when a sound wave interacts with a barrier, for example two plane waves travelling perpendicular to a wall, one whose wavelength is longer than the thickness of the wall, and the other whose wavelength is shorter. But thanks anyways for the insight :)
+Thanks, I understand that something called the "mass law" exists, governing sound transmission in the lower frequency range(?). But how do dimensions of a wall play in specifically, given other material properties are the same? For simplicity, could we assume an isotropic homogeneous material in the wall, and if the length and breadth can be neglected (ignoring flanking) - an infinite wall?
+For your infinite wall:
+
+Reduction = 20log(mf ) - 47
+
+where m=mass and f=frequency
+
+So if you double the mass you get 6dB more reduction at all frequencies. And the reduction at any frequency is 6dB less than the reduction at double that frequency.
+
+[See this pdf for more realistic scenarios.](http://www.insul.co.nz/download/Paper586-BallaghNew.PDF)
+
+Summary:
+So the thickness of the wall is not as important as the mass.
+In general, doubling the mass of the wall will result in a 6dB improvement in transmission loss.
+In terms of material, a wall with a solid surface would reflect sound waves pretty well.
+This means they are not easily reflected or absorbed by a wall.

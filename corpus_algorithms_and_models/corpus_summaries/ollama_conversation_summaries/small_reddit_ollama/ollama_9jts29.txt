@@ -1,0 +1,14 @@
+Here is a summary of about 10% of the text:
+
+You'll need the [faction id](http://elderscrolls.wikia.com/wiki/Console_Commands_(Skyrim)/Factions) that you want them removed from, then you can use the following console command: removefac <faction id>
+
+Ok then where's Alesan the kids faction id
+What do I put? I'm so confused
+
+So I only have to put on of the factions in right? Any one of them will work yes?
+
+I don't know what you're trying to do. Find the faction you want to remove him from, look up the id, and use the console command I gave you.
+
+Alright I give up. I'm done
+Okie dokie.
+Not good enough.

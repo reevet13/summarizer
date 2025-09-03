@@ -1,0 +1,2 @@
+The photons are not stored anywhere, they are created.
+As these electrons drop to a lower energy level, the energy lost is emitted as a photon.

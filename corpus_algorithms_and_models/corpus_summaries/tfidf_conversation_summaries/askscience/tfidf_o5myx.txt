@@ -1,0 +1,25 @@
+Original Response:
+There was another thread about how water is almost incompressible. But can you compress hydrogen and oxygen in let's say separate tanks - and then later merge them to make water?
+Yes. Gasses are much more compressible than liquids.
+But it won't create "compressed" water. If that is what OP was asking.
+I was thinking, instead of carrying 5 gallons of water, wouldn't the same amount in compressed gasses be much lighter?
+
+Edit: and then use the gasses to make regular water on demand - sort of?
+No - think about the number of atoms.  The weight of an oxygen atom doesn't change* when it is bound or unbound to hydrogen.  To make a gallon of water, you would need to start with the same number of oxygen/hydrogen atoms as are in the final product.
+
+*To pre-empt the pedants, it does change, because energy is released, but this is so small as to be negligible.
+can you compress the gasses *more* than water? So a gallon of compressed Hydrogen and Oxygen in a 2:1 ratio would weigh more than a gallon of water?
+
+(Not that I would ever suggest you compress hydrogen and oxygen gas in a 2:1 raio, or even mix it to begin with)
+
+EDIT: rewording suggested by [Butters877](http://www.reddit.com/r/askscience/comments/o5myx/cant_compress_water_but_can_you_compress_hydrogen/c3enz3o)  "can you compress the gasses to a density that is greater than that in its liquid state"*
+
+(with the caveat that the liquid state we're talking about isn't water, but liquified gas)
+Compressing something doesn't change its weight, just its volume.
+A typical K-size gas cylinder contains maybe 6 or 7 cubic meters of gas, if I remember correctly, once expanded to standard temperature and pressure. They are normally charged to about 150 bar, which is about 150 times the pressure of the atmosphere. This works out to about 250 moles of gas. To combine a cylinder of oxygen and a cylinder of hydrogen into water, you would have to mix the two gasses and then burn them, then condense the resulting water vapour somehow and collect it. Since this would require a 2:1 H2:O2 stoichoimetry, we shall assume we have two hydrogen cylinders and one oxygen cylinder. This would then generate 500 moles of water, which works out at about 10 litres. Gas cylinders though are enormous, heavy, and dangerous, so it's not remotely practical unless you could compress them to a much much higher pressure. This also isn't practical though, since we don't have gas cylidners that good.
+Thx for the detailed reply - it makes sense now. Too bad though, would have been a great business idea :)
+I think he means to say "can you compress the gasses to a density that is greater than that in its liquid state"
+
+Summary:
+can you compress the gasses *more* than water?
+Gasses are much more compressible than liquids.

@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text or up to 250 words:
+
+Currently every spec (for example on Monk) has its own layout.
+I suspect that the pain of setting up the add-on to do it automatically would be just as hard as doing it manually.
+You'd still have to tell the add-on which ones needed to stay and which ones change.
+Of course you have to do an initial setup. After that it'd be automatic.
+But isn't that also true of doing it manually? The game doesn't forget what skills are where every time you change specs.
+
+For example: once you've set up 9 to be mount on each spec, it's done. If you do it with an add-on, you've got to:
+
+a) Specify which buttons change and which don't for each spec;
+
+b) Specify what is bound to each.
+
+Maybe I'm misunderstanding what you're after, but that seems to me to be just as much work as doing it without the add-on.

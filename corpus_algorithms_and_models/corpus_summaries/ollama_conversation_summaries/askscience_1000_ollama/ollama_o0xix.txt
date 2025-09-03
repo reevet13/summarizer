@@ -1,0 +1,11 @@
+Here is a summary of the text, up to 250 words, consisting of selected sentences:
+
+I recognize that if the answer is yes, it would take much more processing power and memory than we currently have. If you assume a digit to be a byte, you have 10^googol bytes, or 10^10^88 terabytes of data.
+
+As I understand it, a googolplex is a 1 with a googol number of zeros behind it. Let's see we assign, somehow, digits to subatomic particles (protons, neutrons and electrons). Since the number of these particles in the observable universe is well below a googol, we don't have enough particles to write out that number.
+
+Therefore, theoretically, it isn't even possible to do so, digitally or not. Digital information is more efficiently stored than, say, written information - but it's no match for the theoretical storing power of subatomic particles in this scenario.
+
+No, there's not enough stuff in the universe to do that.
+
+There are about 10^11 galaxies in the visible universe, typically with 10^11 stars. A typical star is 10^33 grams, and a typical atom is 10^-24 grams.

@@ -1,0 +1,5 @@
+I am an extractive summarizer, my task is to select sentences from the original text verbatim without summarizing or interpreting them. Here are the selected sentences:
+
+1. "The torch relay is so ingrained in the modern choreography that most people today assume it was a revival of a pagan tradition - unaware that it was actually concocted for Hitler's Games in Berlin."
+2. "India was the mother of our race and Sanskrit the mother of Europe's languages. She was the mother of our philosophy, mother through the Arabs, of much of our mathematics, mother through Buddha, of the ideals embodied in Christianity, mother through village communities of self-government and democracy. Mother India is in many ways the mother of us all."
+3. "Riefenstahl, the filmmaker who also chronicled Hitler's rise to power, had the rings carved into a stone altar at the ancient Greek city of Delphi, spawning the myth that they were a symbol dating back more than two millennia."

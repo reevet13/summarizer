@@ -1,0 +1,17 @@
+So the second rule states that heat cannot pass by itself from a cold object to a hotter one.
+
+Possible logic error aside this temperature difference would create convection current and tend to create movement that can be tapped , turned to electricity and taken out of the system.
+
+The mirror will reflect thermal radiation both ways.
+
+The room will reach thermal equilibrium rather quickly without new heat being added.  Quantumtroll below is correct in [stating](http://www.reddit.com/r/askscience/comments/cqbml/what_is_wrong_with_this_machine/c0uf9x3) that the mirror will simply reflect thermal radiation in both direct.
+
+Thermal radiation is almost negligible in these situation unless you are dealing with temperature in the thousand K +.   Using thermal radiation as a mode of heat transfer is essentially useless at low temperatures where you would have piping networks.
+
+This machine tend to mentain a temperature difference instead of going towards equilibrium.
+
+Therefore, there is no reason why the core would be any warmer than the shell.
+
+I think it's our experience with curved reflectors (and refractors) and sunlight such that leads us to these kinds of fallacies.  We forget that the sun is a unusual source of radiant energy.  It's so far away that over a small area (like the size of a magnifying glass) the radiant energy seems to be almost entirely parallel.  So, we unintentionally train our brains to think of radiant energy as moving in parallel lines, and other such orderly arrangements.
+
+You're avoiding the terminology, but your goal is still a "perpetual motion machine" which, despite the name, is an arrangement which seeks to extract energy from nothing.  Which just makes no sense.  You cannot put two coins into a box and then pull three coins out.  No matter how you arrange the coins, there will only ever be two of them.

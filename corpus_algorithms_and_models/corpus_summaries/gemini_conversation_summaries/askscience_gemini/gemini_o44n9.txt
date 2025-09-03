@@ -1,0 +1,34 @@
+I thought this was an interesting factoid but I don't think it gives much real information.
+I can't seem to find anything else but the statement itself.
+Maybe they were referring to the relation between how much CO2 is produced from creating enough electricity to keep the computer running for that period of time.
+I have always presumed sea level pressure - 14.7 pounds per square inch - http://en.m.wikipedia.org/wiki/Atmospheric_pressure.
+Any other pressure for such a generic measurement would significantly skew the result as you imply.
+It doesn't sound like a very scientific statement in the first place.
+Who exactly is making the claim?
+I actually got is as a sign off from a company I corresponded with on an email.
+Quick link to the google results: [here](https://www.google.com/search?q=%22A+computer+left+on+overnight+for+a+year+creates+enough+CO2+to+fill+one+and+a+half+double+decker+buses.%22&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a#hl=en&amp;client=firefox-a&amp;hs=t3C&amp;rls=org.mozilla:en-US:official&amp;q=A+computer+left+on+overnight+for+a+year+creates+enough+CO2+to+fill+one+and+a+half+double+decker+buses.&amp;sa=X&amp;ei=1uAFT5P3NsiKsgLMnsCRCg&amp;ved=0CBgQgwM&amp;bav=on.2,or.r_gc.r_pw.r_cp.,cf.osb&amp;fp=4b3c420078196b39&amp;biw=1280&amp;bih=557)
+
+edit: i linked that because i'm not sure who initially made the claim.
+a modern pc draws 50 - 100 Watts in idle mode, lets assume 75 watts.
+At a 8 hour night this makes about 365*8*75 Watthours ~= 24kWh every year.
+according to this wiki chart:
+http://upload.wikimedia.org/wikipedia/commons/d/d3/Greenhouse_emissions_by_electricity_source.PNG
+
+thats about 20g to 2.5 kg of carbon, depending on the power plant.
+**EDIT:** When I first wrote this, I grabbed the wrong carbon dioxide density from Wikipedia.
+I used the density of solid CO2 at room pressure instead of CO2 gas.
+Upvotes to the redditors who pointed this out.
+The calculations have been corrected, but the tl;dr version is that the statement is more or less correct.
+Computers don't produce CO2.
+I assume that they are referring to the CO2 produced by power plants that are providing electricity to the computer, but that's going to vary a lot based on your energy sources.
+If carbon-neutral sources like wind, solar, biomatter, and nuclear are used, the computer won't contribute any CO2.
+Also, the composition of energy sources at night is different than during the day.
+Demand is lower and nuclear plants can't be turned off, so coal/oil plants slow down at night.
+But on to the numbers.
+My laptop uses about [30 Watts](http://www.upenn.edu/computing/provider/docs/hardware/powerusage.html).
+Over a year that is 30 Watts x 24 hours/day x 365.24 days/year = 262.9728 kiloWatt hours per year.
+The Carbon Dioxide Information Analysis Center (a government group) estimated in 1990 that [1 kWh of energy resulted in 2.3 lb of CO2](http://cdiac.ornl.gov/pns/faq.html).
+I would guess that our investments in renewable resources have decreased this a little, but we'll go with it for now.
+262.9728 kWh * 2.3 lb/kWh = 274 kg of CO2
+
+[The density of CO2 at room temp and pressure is ~~1.562 g/mL~~1.977g/L](http://en.wikipedia.org/wiki/Carbon_dioxide

@@ -1,0 +1,75 @@
+Original Response:
+Why does an airplane flying at 30,000 feet only go 300MPH when the space station above it is traveling at 25,000MPH in the same direction and circles the globe before the plane reaches it's destination? Does wind resistance, thrust to weight ratio, and gravity really make that big of a difference?
+
+Doesn't the space station cover more distance than the plane in the atmosphere? 
+
+What would it take to get an airplane to achieve speeds of the space station, only at 30,000 feet?
+
+/Edit: I'm aware that airplanes go faster than 300mph.  But I don't think air liners would travel at Mach 15.  I was thinking of a 747 at cruising altitude.
+&gt; when the space station above it is traveling at 25,000MPH
+
+Actually, the average speed of the ISS is around 17,000 mph.
+
+&gt; Does wind resistance, thrust to weight ratio, and gravity really make that big of a difference?
+
+Yes, and other factors as well.   Also remember, an object in motion tends to stay in motion unless acted on by and outside force.  There are far fewer outside forces in space, than in earth atmosphere.
+
+Edit:  Also, keep in mind that you have to have enough fuel to get up to that speed, and then get down from that speed.  You are fighting a lot of friction - so heat dispersal would be a problem, etc, etc, etc.
+[deleted]
+As far as the speed difference goes, travelling at 25,000 mph would create so much heat from air friction that your airplane would be liquified. As far as the speed difference goes, here is what you get using your numbers. Lets say they each go around the earth once. 
+
+Airplane- ~5 miles about earths surface. That would travel (8010)(3.14) = 25,151.4 miles at 300 mph, for 83.838 hours.
+
+Space station- ~250 miles above earths surface. That would travel (8500)(3.14) = 26,690 miles at 25,000 mph, for 1.0676 hours. 
+
+The space station would travel about 80 times faster through the sky.
+We've actually had aircraft go MUCH faster than 300 mph.
+
+The third flight of the X-43A set a record speed of 7546 mi/hr at an altitude of around 112,000 ft.  That's still experimental technology, but it was meant as a proof of concept demonstration.
+
+Here's what you want to look at:
+
+http://en.wikipedia.org/wiki/Space_plane   
+http://en.wikipedia.org/wiki/Propulsive_efficiency   
+http://en.wikipedia.org/wiki/X-43   
+http://en.wikipedia.org/wiki/Scramjet   
+http://gltrs.grc.nasa.gov/reports/2001/TM-2001-210953.pdf (Check out page 6)
+
+If produced, the X-43D is hoped to have a top speed about 50% faster than the current record held by the X-43A, if it is ever produced.
+The main issue for planes flying at that speed is they heat up due to friction.  This heating is considerable.  Consider the [SR-71 Blackbird](http://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird) (I think it is still officially the fastest plane ever made although there have probably been some test vehicles that beat it).
+
+Its top speed was somewhere around 2,200 mph and even at that speed and considerable altitude (where the air is thinner) the Blackbird would [reach temperatures of 800F](http://www.nasa.gov/centers/dryden/news/FactSheets/FS-030-DFRC.html) and required very special engineering to deal with it.
+
+The Space Shuttle's re-entry speed was around 17,500 mph and also required some special protection.  It was nearly a fireball when doing that.  A plane flying at double that speed would either melt or cook the occupants.
+
+The only real way to achieve anything like those speeds is to get out of the atmosphere.  That said the fastest thing we have ever got something going from Earth is the [New Horizon's space probe](http://www.daviddarling.info/encyclopedia/F/fastest_spacecraft.html) which is going around 35,800 mph.  As you can see getting into that range is pushing the limits of what we can do.
+This is one of the reasons why high speed aircraft operation only occurs at high altitudes.
+The air density (and therefore friction) at 30,000 feet is much higher than at 100,000.
+Yes, but the difference is not large enough to explain the disparity.  For instance, the F-101 can reach 1,134 mph at 35,000 ft.  The SR-71 can reach only around 2,200 mph at 80,000 ft.
+
+The big difference here is engine design.
+Air pressure is about 10 millibars at 100,000 feet, and about 300 millibars at 30,000 feet.  So there's a 30 fold difference.
+
+The SR71 was certainly limited by its engine tech, but air resistance is a much bigger issue than you are assuming.
+I know, scramjet technology, but I was thinking of a common air liner.
+I think the X-15 is faster @ 3,856MPH.
+What is the difference between wind and air resistance?
+&gt;1,134 mph at 35,000 ft.
+
+A far cry from 300 mph at 30,000 ft
+The precise numbers are irrelevant (it was clear from the start that 300 mph was a rough approximation of average altitude speeds), but even so you're still within an order of magnitude of the OP's post, and the spirit of the question remains valid.  The point is that the ISS travels about 15x faster than the fastest thing at 30,000 feet.
+He asked what it would take to get an airplane to fly at that speed.  Using scram jets and flying at a higher altitude brings it much closer.
+Then it's impossible, as explained in [this link](http://en.wikipedia.org/wiki/Propulsive_efficiency) which I already provided.  The exhaust speed of a jet engine is limited by energy imparted to the exhaust products when the fuel is burned.
+He asked "What would it take to get an airplane to achieve speeds of the space station, only at 30,000 feet".
+I know.  Is it so awful to show how choosing different constraints can give much more favorable results?
+[deleted]
+The X-15 was a single test vehicle. The SR-71 was series of crafts, but both speeds are correct of course.
+If by single you mean 3, and flew for 6.5 years then ok.
+
+Summary:
+What would it take to get an airplane to achieve speeds of the space station, only at 30,000 feet?
+He asked "What would it take to get an airplane to achieve speeds of the space station, only at 30,000 feet".
+He asked what it would take to get an airplane to fly at that speed.
+What is the difference between wind and air resistance?
+The SR-71 can reach only around 2,200 mph at 80,000 ft.
+As far as the speed difference goes, here is what you get using your numbers.

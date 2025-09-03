@@ -1,0 +1,9 @@
+Here is the summary:
+
+You kind of need to do both.
+If you make your own installation media it will be up to date, if you buy it on USB it will probably be out-of-date and need to be updated, or if you have just-released hardware, you might have to make your own installation media anyway.
+Well i think that's a bit relative. OP, do you have a Windows PC currently? With your account associated? If so, then you only need the installation media, as the license is tied to your Microsoft account and should activate windows when you log in in the new computer. If not, well then you need both as the user above explained very well
+Yes, I have a windows pc with the account tied to it.
+Start Menu, Settings, System, scroll down and click About, scroll down again and click "change product key or upgrade your edition of windows", and when the thingie appears, look at the "activation" description, if it says something like "Windows is activated through a digital license tied to your Windows account" well then you're set, it should activate when you log into the new computer!
+Probably not since laptops usually come with the OS pre-installed and if so, it would be OEM and OEM licenses are bound to the machine they are originally installed on and can't be transferred off.
+Isn't it one license per machine?

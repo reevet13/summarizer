@@ -1,0 +1,17 @@
+Original Response:
+i drew a [shitty diagram](http://imgur.com/8YlPi)
+
+Also I forgot to mention that the valves would be opened and locked with energy from the turbine.
+You have two pipes of water - one on the left side coming from the lake, and one on the right side.  In order for the device to work, the pressure from the left tube raises the weight, and this weight then is able to exert a force on the water in the right pipe.
+
+The problem is that the pressure is the same at valve 1 as it is at valve 2.  Both pipes of water have the same depth.  In other words, the weigh of the water in the right side pipe will create pressure at valve 2.  Since the pressure at valve 1 was able to raise the weight, the weight cannot force any water out of valve 2.
+I think OPs error in reasoning is thinking that the pressure is depended on the volume of water above the left pipe -- i.e. big mass of water = more force to lift the weight. This is, of course, not true. The pressure in the pipes is proportional to the mass of the water column above the pipes -- that is, above the cross sectional area of the pipes, not merely "above" in terms of flow. While there is certainly a large mass of water "above" in terms of flow, this mass is supposed by the bottom of the tank, and so only the mass directly above the pipe is pushing down on the water in the pipe.
+Either that, or lots of times people think that the pressure is equal to the pressure at the outlet, and ignore the depth-dependence of pressure.  [like this guy, for instance](http://www.beyondfossilfuel.com/hydroelectric/rick_dickson.html).
+Thanks! So what if the pipe on the left was much thicker than the pipe on the right? Would that change matters?
+No. Pressure is force over area. A thicker pipe has more water in a column above it, for more force, but it also has more area, so the pressure is exactly the same.
+In addition to what people are saying about pressures, let me add: good luck finding a totally frictionless pipe, as well as getting water to be completely non-viscous.  If you can achieve both those things, then you're set for Step 4. :)
+The thing still wouldn't work.
+
+Summary:
+Pressure is force over area.
+A thicker pipe has more water in a column above it, for more force, but it also has more area, so the pressure is exactly the same.

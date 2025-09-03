@@ -1,0 +1,25 @@
+Here is the extracted summary:
+
+I just got a new coffee maker that I keep at work (lab) and it's got a bunch of settings for varying the strength of the brew. I'm interested in putting it to the test to see how much stronger/weaker the coffee actually gets (wrt caffeine).
+
+Since its come up a few times, I'll mention that my lab deals primarily with the mechanical side of medical device development and some surface modification.
+
+According to [this paper](http://pubs.acs.org/doi/pdf/10.1021/jf011702q), they tested absorbance of ~~240~~ 280 nm light and it decreases as the roast darkens.
+
+I like this question a lot!
+
+[Here's a website](http://web2.slc.qc.ca/jmc/w04/caffeine/the%20caffeine%20on%20the%20web.htm) that performed a similar measurement. 
+
+You should definitely post a follow-up if you go through with the measurement.
+
+Yeah 280. They also did 420 but the results didn't show a trend.
+
+I had a great moment some time ago when a friend (self-described manly man) poked fun at me for drinking lighter roast coffees. His argument was more roasting was more manly and resulted in a more caffeinated brew.
+
+He was deflated to learn that the darker roasts have less of the drug.
+
+Anyway, do a spectra scan and pick the wavelength that produces the highest absorbance, that's a good starting point.
+
+In this case for beta carotene, a good wavelength to start with would be ~425nm
+
+You will get a plot something like this: http://i.imgur.com/dVeti.gif

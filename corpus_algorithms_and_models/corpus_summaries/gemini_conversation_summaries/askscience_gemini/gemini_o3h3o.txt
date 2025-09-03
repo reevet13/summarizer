@@ -1,0 +1,42 @@
+This was asked [before](http://www.reddit.com/r/askscience/comments/ngek7/can_anybody_explain_to_me_where_the_energy_for/).
+The comments there still hold, but I think it's important to point out that in my experience people posing this question to infer god think the big bang was some sort of explosion like what we would see on Earth.
+That certainly was not the case, and it isn't very useful to think of the big bang in that way.
+The universe did not need additional energy in order to expand, nor did it need a trigger like we would think of an explosion needing on Earth.
+You possibly think that the big bang was an explosion and thus required energy - it wasn't.
+In fact if you add up the energy budget for the universe (positive energy from matter and motion and negative energy from gravitational potential) it adds up to zero^* .
+[Here is a good lecture on the subject](http://www.youtube.com/watch?v=7ImvlS8PLIo) - please watch and ask if you have anymore questions!
+Not quite right here.
+While our universe has dark energy, and dark energy is causing our universe to expand at an accelerating rate, one can easily write down the equations for a universe without dark energy that will expand forever - so dark energy isn't a **requirement** for a universe to keep expanding despite gravitational attraction, it just happens to be there in our universe.
+Now, it is true that you don't need energy to expand ^*.
+Perhaps you can think of it in the same way that you don't need an energy input for an object to maintain a constant speed (with no friction).
+The way it works is that expansion or contraction is a natural state of a homogeneous isotropic universe, but you only enter the contraction phase if there is enough stuff around to reverse the expansion eventually.
+However if the total energy of the expanding universe is zero (there are good arguments for this), and the total energy of (before the big bang) is zero I don't think that implies energy being spent - just energy changing forms.
+Indeed!
+But there are also gravitational attractions between everything, and with that associated gravitational potential energies.
+These are negative!^* .
+Add up the negatives and the positives, and you seem to get 0.
+I think he's referring to the sum of all positive and all negative energy in the universe.
+Momentum is required to overcome inertia or resistance - properties which, I assume, would not exist outside the universe.
+Energy total = mass of stuff + kinetic energy of stuff + gravitational potential energy of stuff (which is negative even if you don't believe me).
+It is surely posible to tune these dials to make the left hand side zero.
+:p All I'm trying to convince you is that it's possible, in principle, for the dials to be that way.
+Perhaps the more interesting thing is that this is what our observations of the universe seem to show to be true.
+Well first, here's a simple example of something negative in nature - electrons carry negative charge.
+Now you might object to that, charge is an abstract concept whereas electrons and photons are physical objects.
+Fine.
+But in fact, I would say the same thing about energy!
+Energy is, at its heart, basically an accounting trick to describe the physical state of a system.
+It's nothing physical like the system itself.
+It's just a number, or a sum of numbers, describing the system, so asking what it's made out of doesn't even really make sense.
+[Here is actually a really good post about the subject that I will link to.](http://www.reddit.com/r/askscience/comments/mndns/what_is_energy_really/c32b4jg)
+It's not physically negative, but has characteristics that are negative quantities.
+Say two particles are heading towards each other, same mass and speed.
+The net velocity would be 0, but both particles still physically experience speed.
+One particle will have the negative velocity of the other as it will be travelling in the opposite direction.
+This is not to say it physically has negative speed, but relative to the other particle it does.
+It's not as though this negative potential energy is any different, it just is considered negative to balance equations and make the physics a bit easier to work with when dealing with reference frames.
+I understand what you mean.
+And of course, charge came as the first thing I thought of when I asked myself if there are negative things in nature.
+Now, I don't think that charge is an abstract concept.
+It exists, it can be felt physically.
+But the negative/positive thing of the charge is a concept

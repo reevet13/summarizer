@@ -1,0 +1,80 @@
+Original Response:
+Video 1: On a flight between Warsaw, Poland and Montreal, Quebec(Canada), I recorded a glass of wine vibrating/resonating in such a way that the fluid appears to be spinning counter clockwise, or at least the pattern appears to be. Can anyone explain this? Could this be related to the Coriolis effect?
+http://www.youtube.com/watch?v=V-TpglDg1HI
+
+Video 2: Block shaped ripple pattenrs in a glass of wine on the same flight. I've never seen patterns like this caused in liquids and cant wrap my head around whats happening. I figured that someone on here might know.
+http://www.youtube.com/watch?v=yo5cJ4V9HAg
+
+Edit: Sorry about the crappy quality of the videos. 
+
+Edit2: Fixed the link of Video 2
+It's the vibrations from the plane setting up standing waves in the glass.  Something like this:
+
+http://www.youtube.com/watch?v=5xboAs4WlGg&amp;feature=related
+A ha! This is my specialty exactly. What you're seeing are [Faraday waves](http://en.wikipedia.org/wiki/Faraday_wave). The vibrations are what's driving them. You can sometimes produce them by sliding a wineglass over a semi-smooth surface in such a way that the base vibrates as you slide it ([stick-slip motion](http://en.wikipedia.org/wiki/Stick-slip_phenomenon)).
+
+There are some great great videos of Faraday waves on youtube.
+[Here](http://www.youtube.com/watch?v=nrcwKVBw-u8) is a neat one. You can see a variety of different patterns that appear. Stripes, squares, hexagons, concentric circles, and competitions and superpositions of all of those are possible.
+Another vid:
+
+http://www.youtube.com/watch?v=tI6S5CS-6JI&amp;feature=related
+Very cool. :)
+
+Do Faraday waves also explain why the water appears to be spinning in the one video? I suspect it was an optical illusion or somehow related to the the zigzag structure of the plastic cup at the bottom
+And no it has nothing to do with the Coriolis effect.
+Strange things can happen on video when the frame rate of the camera and the frequency of the oscillations interact. It can create visual beats. A similar thing is happening when it looks like car wheels are spinning backwards on video. 
+
+The shape of the container at the surface (is in a round glass or a square glass) will change the pattern you see, most prominently near the boundary between fluid and container. But the bottom of the container likely won't make an impact. Faraday waves are a surface effect.
+
+In the video I linked to, the swirling isn't due to the bulk liquid rotation, but rather the surface pattern moving. Think of doing the wave in a football stadium. Everyone stays in the same seat as the "wave" moves around the stadium.
+Thats right. I didn't consider how it was recorded. This makes sense now.
+
+Thank you for the explanation and introducing me to Faraday waves!
+[deleted]
+I can tell you that it is definitely not the Coriolis effect.  Contrary to common belief the Coriolis effect only become a factor if the system is very large (km) or persistent for a long time (4-12 hours), depending on you latitude.  For example, if you are drifting in the ocean on a raft for days-weeks, you will drift with the current, say to the east, but in sweeping circles.  However theoretically, if you were able to keep a barrel of water unperturbed and bring it from the north pole to the equator it would start to slowly rotate due to potential vorticity.
+&gt;However theoretically, if you were able to keep a barrel of water unperturbed and bring it from the north pole to the equator it would start to slowly rotate due to potential vorticity.
+
+Is there a name for this effect?
+Something that might be overlooked here: Through reading these comments, I do agree with the Faraday waves answer. However, it has been said that it is the vibrations of the plane that cause it. I'm not too sure of that. I am a pilot with many friends in the mechanics side of things and they tell of how Active-Noise-Reduction (ANR) amplifiers are used during flight. Basically to counter the white noise produced during flight. I'm just thinking that this sound (quite loud in fact, I have heard possibly around 70db) could be making these faraday waves. The silencing sound is low in tone too. Just another possibility I thought of.
+Do you think the most likely source for the standing waves is the two large turbofan engines spinning at around the same speed?
+[deleted]
+It is called [conservation of potential vorticity.](http://oceanworld.tamu.edu/resources/ocng_textbook/chapter12/chapter12_02.htm)
+[deleted]
+An example of [rolling shutter](http://en.wikipedia.org/wiki/Rolling_shutter) making things [look funky.](http://www.blogcdn.com/www.tuaw.com/media/2010/08/blades-1282772892.jpg)
+Interesting.  Thank you!
+Not to be rude, but seeing how this is your specialty, why don't you have accompanying flair?
+The information on how to get it isn't trivial to find and he's only been registered for 10 days.
+Thank you! I'd like to add, for the others, that the Coriolis effect only comes into play on a scale where the curvature of the Earth is relevant.
+I'll do the research next time ;)
+I posted on a thread requesting some flair. I'm unsure if I did so correctly or how long the process takes.
+Thanks, I was just curious :)
+[Relevant?](http://www.youtube.com/watch?v=GtiSCBXbHAg)
+Ah, I'm actually really happy you mentioned this. What you're seeing here is the waveforms of the soundwaves generated by the speaker. Basically, this shows you the shape of the surface of the speaker when creating the sounds. The sand falls into the nodes of the wave --- the spots that aren't vibrating. 
+
+This is a different effect than the Faraday waves. One way to understand this is that if you vibrate a plate too rigid to deform, Faraday waves will still form on a pool of water on that plate. A thin layer of sand, however, will just spread out uniformly. A thick layer of sand will actually exhibit an analogy to the Faraday waves. And it's **amazing**. [Here's a video](http://www.youtube.com/watch?v=gY9WVPGpoAU). The crazy needle structures at the beginning are called oscillons. Toward the end, the sand forms Faraday waves. Also, [this is what happens when you do the experiment with a non-newtonian fluid.](http://www.youtube.com/watch?v=lVkjP5d6ulc) I got to see this experiment in person back as an undergrad.
+This reminds me, why does a cup of water on a flight remain completely level even when the plane is banking dramatically?
+The same reason why you don't fall out of your seat. If the plane banks and moves to the side, the water wants to stay where it was so it pushes in the opposite direction of the planes new movement which happens to be the bottom of the cup.
+Wow, and here I thought Faraday only made major developments in electromagnetics. I know the next biography I'm going to read.
+The square blocks pattern also arises in another system involving surface tension: spike patterns in ferrofluids.   One would expect that hex close-packing and triangular arrays would be more common, yet the liquid surface breaks out in checkerboards.
+You really should; he's one of my scientific heroes. He came from a humble background in an era when science was for the aristocracy. He was primarily an autodidact and was able to compensate for his lack of education with an elegant cleverness.
+The inertia of the water balances with the gravity. Imagine if the plane turned without tipping, your water would tip out of the turn because the plane is applying a sideways force to it. But in your situation the plane tilts into the turn, so gravity is pulling the water down into the turn and it cancels the other force, so the water stays flat.
+comment for future reference
+To complete the physicsy explanations you have already received:
+
+Planes have an instrument called a "[turn coordinator](http://www.falcongauge.com/images/productimages/coordinator.jpg)" which pilots use to keep the force-sum pointing straight down (relative to the plane) during turns. It's all about the comfort and a conscious action by the pilot. The thing on the bottom is basically a water-level.
+Thanks guys!
+[deleted]
+
+Summary:
+Faraday waves are a surface effect.
+This is a different effect than the Faraday waves.
+:)
+
+Do Faraday waves also explain why the water appears to be spinning in the one video?
+Thank you for the explanation and introducing me to Faraday waves!
+Thanks, I was just curious :)
+It's the vibrations from the plane setting up standing waves in the glass.
+I can tell you that it is definitely not the Coriolis effect.
+The vibrations are what's driving them.
+Could this be related to the Coriolis effect?
+The thing on the bottom is basically a water-level.

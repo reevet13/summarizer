@@ -1,0 +1,17 @@
+Here is the extracted summary:
+
+They're working on it, the main functionality has to be built out first. That said, please feel free to help contribute to the development effort if you're not satisfied with the progress being made to this wonderful free and open source software.
+
+It took a LONG time before GUI miners became available. Expect same for lightning.
+
+So they're complete and working?  Mind listing their node counts?
+
+The first version of Bitcoin had a GUI and mining built in
+
+But thank god you are here to tell them it needs to be user friendly
+
+Both of those sacrifice decentralization for speed which is fine if that's what you want, but there is a trade-off.
+
+Quite frankly, the fact that so much dev activity has come into the LN space in such a short amount of time is pretty incredible.
+
+When someone is getting paid because you bought their token you can bet they will build any given shitty thing in a slapdash hurry, borrowing code from every corner of open source to do it, and then loudly exclaim how great it is so you buy more.

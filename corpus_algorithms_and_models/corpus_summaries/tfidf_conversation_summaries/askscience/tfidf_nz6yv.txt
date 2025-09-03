@@ -1,0 +1,17 @@
+Original Response:
+Assuming water level means the boat height in the water,
+
+Your water level should increase and you see more of the boat initially as the anchor is in water freefall and not appreciably adding to the weight of the boat. If the chain is heavy enough you might even see it rise even more.
+
+Once the chain becomes taunt and the anchor settles suspended under your boat, your water level should shrink to it's original level.
+
+Edit: The depth of the anchor actually doesn't matter (all else being symmetrical) as long as the density of water doesn't change with the depths involved.
+Another way to think of that last point (when the chain is taut, the boat is at the same level as it originally was):
+Whether the anchor is hanging from the boat or in the boat, the boat/anchor system has the same weight, so it must displace the same amount of water to float
+Thanks!
+Exactly! :D
+But the anchor and chain also displace some water, so the boat itself will sit slightly higher in the water once the chain is taught than it did when the chain was in the boat. (Most likely a negligible effect, I suppose).
+I think the boat would actually float slightly higher up.  Although the mass stays the same, the volume of the boat/anchor system has increased, and therefore the density has decreased.
+
+Summary:
+I think the boat would actually float slightly higher up.

@@ -1,0 +1,62 @@
+Look up cosmic distance ladder on youtube for a complete description, but yes, relatively close stars are measured with paralax.
+Measure the position of a star, then measure it again six months later when the Earth has moved 300 million km, and use the change in angle to calculate distance.
+
+Things that are farther away are measured with what are called standard candles, where we compare how bright something looks with how bright that type of thing actually is.
+Because of the expansion of the universe, stars that are more distant get away from us at a faster speed that are closer to us.
+Now the doppler effect tells us that objects that go away from us emit light that is shifted toward lower wavelengths (it's the same effect that creates the pitch difference between an ambulance that is coming towards you and one that is going away.
+Coming = high pitch; going = low pitch.
+The faster it goes away, the lower the pitch).
+
+Now, if we combine this with the fact that all elements can be caracterized by the light they emit or absorb, we can look at the specter of a star, look at how much shift if exhibits from known elements (mostly hydrogen I believe: this is what I was taught in high school), calculate from this how fast it is going, then from this calculate how far it is.
+
+This is one possible method.
+[Parallax can be used too](http://en.wikipedia.org/wiki/Parallax) by making a measurement on one day and one 6 months later.
+
+[wikipedia page](http://en.wikipedia.org/wiki/Redshift)
+http://www.youtube.com/watch?v=7ne0GArfeMs
+
+Cosmic Distance Ladder Lecture - Terence Tao, UCLA
+^
+
+that one
+How do you determine what type of thing it is, to know what color it should be?
+&gt;stars that are more distant get away from us at a faster speed that are closer to us.
+
+I assume you mean galaxies here.
+The expansion of the universe only works for scales larger than our local supercluster, which doesn't include stars in our galaxy.
+
+In reality though, Hubble's law is only used for the absolute most distant galaxies.
+This is because there are much better techniques for measuring nearby galaxies such as using supernova 1a standard candles.
+Our most reliable standard candle for extragalactic distances is a supernova 1a.
+This supernova occurs when a white dwarf accretes mass up to the Chandrasekhar Limit.
+This means that all the stars that supernova this way are the same mass so their explosions should be very very similar.
+The differences in brightness we observe must come from the fact the explosion happens further away.
+
+More generally there are relationships that have been discovered between things like the period of pulsations and the luminosity of a certain type of variable star.
+This means we can measure the period (since it doesn't depend on distance) and work out its absolute brightness, giving us the distance when we compare with our observed brightness.
+Other relationships include the Tulley-Fisher relationship between the rotation curve (which we can measure at any distance) of a galaxy and its total mas (which gives us its absolute brightness).
+
+These two relationships are calibrated, we use another method to find the distance to some of these objects and then use that to calibrate our scale, this is why its called a distance ladder as each method is calibrated on the ones below and then extended to objects farther away.
+What are the error bars on using Hubble's law to calculate distance?
+Hubble's constant is about 70+/-2 km/s/Mpc so an error of about 3%.
+This would give you approximately a 3% error on distance purely from the constant.
+
+This sounds good but there are other factors here.
+
+The relative motion of galaxies is high, andromeda has a speed of 300 km/sec and is only one Mpc away.
+So if you take say 500 km/s as typical then you are introducing a flat error of almost 10Mpc.
+This makes any measurement of stuff nearer than a 100 or so Mpc is pretty inaccurate.
+
+Other sources of error would be extinction by intervening gas which can red shift the light (this doesn't hurt if you use spectral lines but a lot of distances use red shifts obtained by photometry, not spectrometry)
+
+You should also note that nearby stuff isn't actually moving apart with the expansion of the universe since there is strong enough gravity between us and our nearest galaxies to hold us together.
+This makes Hubble's law inherently useless for anything in our local supercluster.
+Solved!
+
+THanks for all the responses.
+WOW.
+That lecture was GREAT.
+Please post this link in r/science.
+Already posted?
+I don't care, post it again!
+(Maybe

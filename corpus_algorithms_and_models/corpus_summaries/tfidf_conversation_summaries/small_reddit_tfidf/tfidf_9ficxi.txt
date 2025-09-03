@@ -1,0 +1,41 @@
+Original Response:
+KzPvQE7xnRbFw8VnU6cyoYnXNbd8tRNHuTKa1bpnspz9Xtot4aFS =&gt; 1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH
+??? No, that's not the address.
+What I got when scanning it: KzPvQE7xnRbFw8VnU6cyoYnXNbd8tRNHuTKa1bpnspz9Xtot4aFS
+
+Which looked like a private key to me, so I got the public key of that which is: 1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH
+Nope, the address was https://www.blockchain.com/btc/address/17CNy6h74cpQDfubYD1tizm5DgoPyezmto
+weird, try scanning it from the image you posted.
+185VJnon7wxgCkRv2bbfZzWkktGz5xnbWt is the uncompressed Adress and 17CNy6h74cpQDfubYD1tizm5DgoPyezmto is the compressed. 
+Compressed should be used my most wallets today.
+You might want to double check your software, maybe you have an address substitution virus.
+
+The possible addresses for that wallet are:
+
+P2PKH:  17CNy6h74cpQDfubYD1tizm5DgoPyezmto
+
+P2SH-P2WPKH: 3H7Ro8PRefNcvFZbsBt2CFkC8qq6mxK8Nn
+
+P2WPKH: bc1qg0m64ek643xymd9qsgts2ekttr3khc0awpvc55
+Maybe compressed / uncompressed pubkey.
+&gt; maybe you have an address substitution virus.
+
+Looking at the transactions of that address, that seems highly likely.
+Check the transactions of the address you got. /u/cm9kZW8K probably has the right idea - your computer is likely compromised. You got incredibly lucky to learn it this way!
+
+Edit: See below, could just be a bug in the address decoder.
+I guess not, Even I scanned the same address
+I got the same thing scanning the QR code with my phone camera and viewing the raw content.  Can someone explain what's going on?
+Okay, the private key is indeed correct, but the public address /u/bringeroflefaceface calculated is incorrect.  I used https://brainwalletx.github.io/#generator to calculate it.
+[deleted]
+I think I may have solved the riddle: Incorrect key decoding. https://bitcointalk.org/index.php?topic=1702503.0 says the address corresponds to a private key of "1". The "Bitcoin Manual Mining Helper" stuff visible in the tx history for the address is probably just spam.
+[blockchain.info](https://blockchain.info) has switched to .com? How odd...
+
+Cool that they want to let a bitcoiner into their space and give a talk; I figured most wouldn't want a guy who is into the the tech that is set out to ruin their archaic, ruinous business model anywhere near them.
+
+That's what they loaded your speaking fee on to?
+
+Summary:
+Check the transactions of the address you got.
+&gt; maybe you have an address substitution virus.
+No, that's not the address.

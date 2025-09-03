@@ -1,0 +1,70 @@
+Original Response:
+Since humans exist (200 000 or 100 000 years ago), has there ever been a supernova which lit the sky during the night as if it was the sun itself? (or maybe it was bright as a full moon etc) Or was/is every other sun than ours too far away? Will humans ever experience such an event in the next 100 000 years?
+I don't know the answer to your question re: the past, but a star would have to be *extremely* close on an astronomical scale to do this. When Betelgeuse goes supernova - due to it's proximity and size, it's expected to be fairly bright, but still no where near enough to be such as our sun.
+Stars are too far apart and light reaching any given surface decreases with square of distance, so the star would have to be infeasibly big - so big that it would probably collapse into a black hole before having the chance to explode.
+Google tells me the brightest stellar event in recorded history was the SN 1006 supernova, which was described as being around a quarter as bright as the full moon.
+
+[History of supernova](http://en.wikipedia.org/wiki/History_of_supernova_observation#Early_history)
+
+[Apparent Magnitude, SN 1006 is at -7.5](http://en.wikipedia.org/wiki/Apparent_magnitude)
+
+You might also be interested in reading about Betelgeuse, a star which is expected to go Supernova sometime in the 'near' future. Near future meaning sometime between now and a million years from now.
+
+When it does go supernova, it is expected to be as bright as a full moon.
+
+[Link](http://en.wikipedia.org/wiki/Betelgeuse#Approaching_supernova)
+awesome links and information, thanks!
+[deleted]
+according to the link posted by FappingtoScience: "At its current distance from Earth, such a supernova explosion would be the brightest recorded, outshining the Moon in the night sky and becoming easily visible in broad daylight." - so this means that it would be like a bright star, only that it's visible during daylight too - right? So speaking of size it would still be a very bright dot?
+According to Chinese historical records, the SN 1054 (the supernova that produced the Crab Nebula) was visible during daytime. [more info here](http://messier.seds.org/more/m001_sn.html)
+No, if supernova resulted from a somewhat nearby star it could be as bright as the sun as viewed from Earth.
+Yet I've read that there were virtually no records anywhere else in the world of that event.  You'd think super-religious Europe would have at least associated it with some sort of symbol.  Thoughts?
+&gt;Since humans exist (200 000 or 100 000 years ago), has there ever been a supernova which lit the sky during the night as if it was the sun itself?
+
+I'm reasonably sure that that would be dangerous to us.
+It's been speculated that [white dwarf hypernovas](http://www.dailygalaxy.com/my_weblog/2011/03/white-dwarf-hypernova-explosions-the-cause-of-the-great-silence-todays-most-popular.html) periodically cleansing regions of the galaxy of life might be responsible for the apparent lack of extraterrestrials (what Carl Sagan called the "Great Silence").
+Thank you for showing me something I've never heard of.
+A rendering: http://en.wikipedia.org/wiki/File:Betelgeuse_supernova.png
+Carl Sagan makes a mention in Cosmos of a priest at some European temple witnessing what is thought to be a supernova. Apparently it was really taboo to suggest something supernatural happened without it being directly from God but the temple kept with their oath to faithfully record things as they happened which led to the event being recorded. 
+
+edit: Nevermind, it was an asteroid impact on the moon, not a supernova.
+If I could ask a follow-up...
+
+Whenever Betelgeuse goes supernova, how long will that (the increased visibility) last? Is it instantaneous? Or will it last days/months/years?
+I'm not sure about Betelgeuse in particular, but the usual timescale for supernova light is on the order of weeks-couple months.
+Yes, it would be dangerous. The brightest supernovas are type Ia, at absolute magnitude -19.3. To be close to the Sun's apparent magnitude of -26.7, it would have to be less than one parsec (3.2 light years) away. A type II supernova, since it is dimmer, would have to be even closer. Supernovas are generally dangerous to an Earthlike planet within about ten parsecs.
+I think you mixed something up. The monks presumably witnessed an asteroid impact on the moon. More on that in [this excerpt from the episode.](http://www.youtube.com/watch?v=1t43AOsezEM)
+Ah shit you're right. I got everything right except the actual event. Thanks, I'll edit my post.
+It might be bright as a full moon, but will it be the same size as the full moon or will it just look like a very bright star that we can sort of see in the day?
+So if  Betelgeuse went supernova would that be dangerous to us? How so?
+Not dangerous at all. Betelgeuse is 200 or so parsecs from us.
+Probably not. Betelgeuse is hundreds of parsecs away.
+If that happens in our lifetime I will be so amazed. How large in the sky will it be? The size of the moon or smaller?
+it will be the same size as it is now, maybe slightly bigger, it is to far away to become visibly larger, it will however be a lot brighter and  perhaps even visible during the day for weeks and months
+it will not be the same size as the full moon, just a star that shines as much light as the full moon might do, and thus it might also be visible during the day depending on your location and the location of the sun
+i believe brian cox talked about this supernova in Wonders of the Universe and that it was recorded by desert people in africa (or south america?) as an new star that suddenly appeared next to the moon for a couple of weeks. They recorded this in murals. Scientists backtracked the position of the earth to the time the murals were created and resolved that they indeed witnessed a very bright supernova
+Would something like a Betelgeuse supernova, as bright as the moon, affect the reproductive cycles of corals and other organisms that rely on full moon moonlight for reproduction?
+thanks very much, I haven't seen that before!
+This made me curious as to hypothetically how bright could a supernova be:
+
+supernova type Ia absolute magnitude, M = -19.3
+
+the nearest star is proxima centauri, D = 1.3 pc (it's not going to supernova, but if it could how bright would it be?)
+
+m = M - 5 (1-log D)
+
+that gives an apparent magnitude of m = -23.7
+
+apparent magnitude of the Sun = -26.7
+
+So even if a supernova occurred at the distance of the nearest star other than the Sun, it would still not be as bright as the Sun by a factor of ~16 times (from 2.5^(m1-m2) ). 
+
+[edit: this would be the same brightness as the Sun as seen from 4 AU, so in the asteroid belt]
+
+Summary:
+When it does go supernova, it is expected to be as bright as a full moon.
+So if  Betelgeuse went supernova would that be dangerous to us?
+- so this means that it would be like a bright star, only that it's visible during daylight too - right?
+Betelgeuse is 200 or so parsecs from us.
+Yes, it would be dangerous.
+edit: Nevermind, it was an asteroid impact on the moon, not a supernova.

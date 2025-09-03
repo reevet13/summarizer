@@ -1,0 +1,27 @@
+Positive molecules have more protons than electrons.
+
+Negative molecules have more electrons than protons.
+
+Positive ions have more protons than electrons.
+
+Negative ions have more electrons than protons.
+
+Charge is a fundamental property of subatomic particles, like spin and mass.
+
+The important feature is that they are equal and opposite of each other.
+
+The experimental answer (which is the always the one ww turn to if there's any doubt) is that we observe charge to be a fundamental property of matter that appears in discrete units.
+
+The interesting this about this quantum number is that like charges repel, and opposing charge attract.
+
+The potential energy is inversely proportional to the distance between the the two particles.
+
+In the system with two particles with like charges, the potential energy is positive, which means that the potential energy of the system is lowered as the charges move away from each other.
+
+In the system with particles of oppositie charges the potential energy is negative, which means that the energy of the system is decreased if the two particles moves closer together.
+
+The crux of this argument is that systems always want to be in a lowest energy configuration.
+
+I would be really, really interested if you could elaborate on that last paragraph.
+
+I'm not sure what your training is, but I'm going to recommend a book to you called Quantum Field Theory in a Nutshell by Zee.

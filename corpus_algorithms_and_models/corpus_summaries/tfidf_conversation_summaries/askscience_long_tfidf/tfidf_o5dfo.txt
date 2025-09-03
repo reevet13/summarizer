@@ -1,0 +1,94 @@
+Original Response:
+My intuition tells me that I can accelerate using relatively less fuel on the downhill slope due to gravity, and that this increase in momentum will allow me to use less gas than I would have when ascending the uphill.  What I can't work out is how the initial expenditure of fuel compares to the savings.
+Speeding up going downhill will save you a small amount of fuel going up the other side.  Accelerating downhill will not take as much fuel to get to the same speed as it would on a flat surface due to gravity, and going uphill will take even more fuel.  Now, if you're flooring the accelerator on either side, it's going to be a wash, it's just your speed that's going to be affected (e.g. slower going uphill).
+It's all about the [torque] (http://en.wikipedia.org/wiki/Torque), baby.
+It certainly *can* be more complicated of a problem than the other posters allude to.  There are factors such the non linear increase in drag as velocity increases, drag coeffecient of the object, along with the effeciency of the driveline at certain speeds that play into how the scenerio would come out.
+
+I will say that thier statements are fair assumptions to make given a typical four-wheel internal combustion engined vehicle though.  They should not be taken for granted if you are considering anything besides a car however, such as any vehicle with a very high drag coeffecient.
+I've been wondering this for quite awhile. Work done is basically force times distance, so the amount of energy taken from or added to your vehicle doesn't really care how fast you're traveling.
+
+So my guess would be that you should try to stay at whatever speeds your engine is most efficient at. If you're going too slow or too fast, you'll burn more fuel per mile. I think this means you should coast downhill and then give it a little gas while still decelerating uphill, which is counter intuitive.
+
+I'll be interested to see what other people have to say.
+Like you say, this is a complicated problem, but I think we can put the problem into a good perspective if we look at the energy:
+
+Our car is affected mainly by two classes of forces :
+
+- gravity, which is a conservative force, meaning that this force doesn't cost the system energy if you account for the potential gravitational energy the object has
+
+- friction forces (air on the car, internal friction resulting in heating of the mecanical pieces, etc) which are non-conservative, meaning they take away energy from the system.
+
+So, if we want to be as efficient as possible, we should strive to **minimise our friction forces while driving**.
+
+
+but where does the energy come from ? From the engine burning fuel. This process can be more or less efficient depending on the conditions (my car's owner's manual has a little chart indicating fuel efficiency as a function of speed in all the different gears but I don't know if that's a really realistic chart or not).
+So another part of the problem is **maximising our energy extraction from our fuel**.
+
+So these are the two main constraints on our fuel-efficiency maximisation problem.
+I suspect fuel efficiency is a much larger influence on the problem than drag is. Without having any actual data at my fingertips, it's hard to be sure.
+Let's simplify this a bit more: At the top of the downhill, you drop the car to neutral then turn off the engine. Thus, your car is using absolutely no fuel. You coast down the hill and crank the vehicle again on the uphill, just in time to resume traveling at the same speed you were traveling before turning off the car. Compared to this, **absolutely anything** that involves using gasoline is less efficient.
+
+Now we do the same thing, except we simply turn the car to neutral instead of off, so it's using a constant amount of gas. This is the least gasoline the vehicle can use while the engine is running. Again, we end up at the same final speed having used less fuel.
+
+Finally, we simply release the accelerator and coast down the hill in gear. This once again uses less fuel than braking on the downhill, then pressing the accelerator to travel back up.
+
+Think about it: You're never going to end up going faster (relative to the surface on which you're driving) if you brake as opposed to if you don't. Therefore, you'll always end up with more energy at the bottom of the hill, and more distance up the hill. Even with ridiculously high coefficient of drag, a faster object will ALWAYS go further than a slower identical object.
+
+If you're talking about actually pressing the gas going downhill, that's a whole different story.
+
+tl;dr most efficient way to drive is to coast down hills
+This question came to mind while driving on the highway.  Because the road angle isn't terribly steep, coasting at highway speed will almost always result in a decrease in speed due to drag.  In the highway case then, pressing the gas pedal while traveling downhill is a given, in order to maintain speed.
+Okay. In this case I'd say that because drag is directly related to something between the velocity and the square of the velocity, energy loss to drag is less at lower speeds, and thus traveling more slowly will give you a more efficient performance from a purely exterior standpoint. The engine itself will affect this, but I'm not entirely sure how. I think I remember reading somewhere that most cars' fuel efficiency on a flat surface peaks around 55mph?
+Heh, maybe if you consider the energy used going up the hill as "free".  It isn't though, and not really telling of anything to say "ignore the fuel expenditure going up the hills, it don't count".
+
+You basically misunderstand the problem ... think of it as "how should I drive an object over a series of hills with a set amount of fuel in order to maximize the distance I go."  Your solution ignores the kinetic energy of the car as a factor.
+
+The answer lies in doing what is probably a very complicated set of calculus equations, partial differential equations and other shit I know nothing about that take into account drag coeffecient, the grade of the hill, engine eff. at a series of speeds and throttle openings, rolling resistance at various speeds, amount of gasoline consumed to start an engine, and anything that has an effect on the utilization of the potential energy or preservation of the kinetic energy of that object.  It would be so complicated to get absolute peak effeciency that it would take a computer controlling the accelerator in order to do it.
+Let’s start by neglecting frictional forces and the nuances of IC engine efficiency. And we’ll assume that our road varies sinusoidally in height. If we start out at 27 m/s (60 mph), and just coast in neutral, we will still be traveling 27 m/s three hills later (6*pi from the start on our sine curve), even though we were going faster at some points and slower at some points. This is conservation of potential energy. The force of gravity at any point will be mass * (-9.81 m/s^2) * sin (theta), where theta is the angle of incline from the horizontal. A Honda Accord on a steep road (20 degrees), will have gravity accelerating it with a force of 4539 N.
+
+In the real world, we have frictional forces, which would slow us down if we didn’t burn fuel to create power and transmit it to the road. These forces will vary according to your gear ratio, engine RPM, and vehicle speed. For most cars, in the case of a perfectly flat road (with real frictional forces), the most efficient way to travel is at a constant speed, at around 80% of your peak-torque engine speed. Above this speed you have frictional losses, below these speeds you have "pumping losses".
+ 
+Could you just accelerate to a high speed for half of the distance on the flat road, then coast/slow due to friction for the second half? No – this is less efficient because you’re wasting more energy at high speeds (drag increases with the square of velocity). The formula is: drag force = .5 * density of air * velocity^2 * drag coefficient * frontal area. At 60 mph, sea-level, 20 degrees Celsius, in a Honda Accord, this is around .5 * 1.2 * 26.8^2 * .69 = 297 Newtons, or 79 N at 30mph, or  1189 N at 120mph. So gravity overpowers drag at common driving speeds and slopes – this should be obvious because we generally accelerate when going downhill in neutral.
+
+So basically, we need to combine the three conditions above. For the best efficiency: your engine wants constant load (ideally at 80% peak-torque RPMs), aerodynamics wants constant velocity, and gravity wants you to travel faster downhill than up. So the simple answer? For small hills (at low speeds in general), keep the gas pedal in one place. This will keep your engine seeing constant load, although your vehicle will accelerate downhill and decelerate up hill. For large, steep hills, aerodynamic effects become more noticeable. Therefore, it would be beneficial to apply slightly more throttle when going uphill and less when going downhill, to maintain a more constant vehicle speed. And always stay inside your torque band, ideally just below peak torque.
+I don't ignore any of those things, no. Given the assumption that to maintain velocity you have to brake, my answer IS correct:
+
+Pick 6 points on the hill system:  
+A, the top of the first hill;  
+B, an arbitrary point on the down slope;  
+C, the bottom of the hill;  
+D, an arbitrary point on the up slope, before you start using the gas pedal again;
+E, an arbitrary point on the up slope, after you start using the gas pedal again;  
+F, the top of the second hill.  
+and assume the second method involves traveling at speed S.
+
+At point A, you haven't adjusted anything yet. You're traveling at speed S with a certain fuel efficiency F.  
+**Result: At point A, both are functionally equivalent**
+
+At point B, coasting down the hill results in a fuel efficiency approaching infinity. Maintaining your speed using the brake ALSO results in fuel efficiency approaching infinity, but because the fuel consumption of the engine is only based on time at this point, coasting gets you down faster and thus uses less fuel.  
+**Result: Coasting is better at point B**
+
+At point C, with the coasting method you're still coasting, and using almost no fuel. With the constant velocity method you have to press the gas to maintain speed S, and thus use fuel.  
+**Result: Coasting is better at point C**
+
+At point D, you're still coasting with the coasting method, but actively using the gas with the constant velocity method.  
+**Result: Coasting is better at point D**
+
+Now, with the coasting method, your car slows back down to speed S and you use the gas pedal.
+
+**At points E and F, both methods are using the same fuel.** They're at the same point on the road with the same velocity.
+
+**tl;dr You're not getting "free" energy, it's just energy that you're not squandering by converting it to heat in your brakes.**
+
+Source: I was a mechanical engineering major, then transferred to physics with an education focus. I'm 2 years away from being a high school physics teacher.
+
+Summary:
+Thus, your car is using absolutely no fuel.
+This once again uses less fuel than braking on the downhill, then pressing the accelerator to travel back up.
+**At points E and F, both methods are using the same fuel.
+With the constant velocity method you have to press the gas to maintain speed S, and thus use fuel.
+tl;dr most efficient way to drive is to coast down hills.
+Again, we end up at the same final speed having used less fuel.
+In the highway case then, pressing the gas pedal while traveling downhill is a given, in order to maintain speed.
+From the engine burning fuel.
+Compared to this, **absolutely anything** that involves using gasoline is less efficient.

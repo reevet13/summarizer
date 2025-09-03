@@ -1,0 +1,173 @@
+Original Response:
+Hi All, Anthony Vapes back here with my review of the Lostvape Furyan Mech Squonk Mod. Please see bottom for disclaimers and links. Note: This is the retail version and not a sample
+
+
+ 
+##Introduction: 
+ 
+The Lostvape Furyan is the first Mechanical Squonk Mod from longtime popular vape manufacturer Lostvape. Mostly known for their DNA mods like the Therion and Triad series of mods. What is a furyan? Well it’s from the chronicles of riddick comics and are humans who lived on the planet Furya which yes Riddick is one of them. The Furyan mod however is a mechanical single 2x700 battery squonk mod. It’s available in 2 colors, Black and Amber both with a brass top and bottom. Sourcemore has them listed at 57.72 USD so a pretty good price point. I see them online in the 60-80 USD range
+ 
+##Manufacturer's Specs: Mod
+
+* Colors: Amber,Black
+* Size:84 x 50 x 27mm
+* Squonk Bottle Capacity:9ml
+* Battery:1pc 18650/20700/21700(Sold Separately)
+* Connector:510
+* Fire Button Lock System
+* Working Mode: Direct Full Power Output
+* Body Material: Ultem/Brass/SS
+* Silver Plated Copper Positive/Negative Contacts
+* Spring Loaded Nickel Plated Brass Positive 510 Pin
+* SS 510 negative
+
+
+##Included in box:
+ 
+* 1 x Lost Vape Furyan Squonk Box Mod
+* 1 x User Manual
+* 2 x 9ML Silicone Squonk Bottles
+* 1x 18650 Battery Adapter
+* 1x Brass Polishing Cloth
+
+
+
+
+##Picture Album
+
+[album](https://imgur.com/a/EX9BHy6) 
+
+
+
+##Initial Impressions and features
+
+When I first got this Mod, I was pretty impressed with it. I know not everyone likes ultem but i do and was hoping for the ultem one and it is just beautiful in person. I love the see through body and the brass on the top and bottom. You don’t see brass very often these days in mods unless it’s a mech tube. I think it’s one of the better looking mech squonkers out there. Much nicer than 3d printed box ones. It also has some nice weight to it and feels solid without feeling too heavy. Very well built. I don’t talk much about boxes normally but the box for this thing is huge. The presentation is excellent like most lost vape products. I love the easy to turn on and off kill switch as well which simple locks the fire button right below the fire button. Overall Pretty impressed from the start
+
+##Performance and Safety
+
+Performance wise it’s a mech mod so i just did some simple testing, nothing fancy. I just used a multimeter and a fully charged samsung 30T 21700 battery. Remember this is voltage sag plus voltage drop and not pure voltage drop numbers. With a .2 ohm build I got 3.5 volts and 61 watts. With a .15 ohm build I got 3.47 Volts and 80 watts. So it’s a good performer. Typically at around .2 ohm i expect 60 watts from a mech squonk box to be a good performer which is right where it’s at. Looking back at some other mech squonkers I’ve tested this puts it on par with the Azeroth squonk mod, a little behind the crea, and quite a bit above the poor performing pulse BF mech squonk box. It performed well, not the hardest hitting out there but on par with most of the better ones. Safety wise my suggestion is (and mind you if you know what your doing you don’t need this part but it’s intended to be a guide for people who don’t with extra safety headroom) is if you plan on using an 18650 battery use the sony VTC5A and build around a .2 ohm resistance or higher and if you plan to use a 21700 battery use the samsung 30T and still build around .2 ohm but you can build down to .15 ohms with it if needed. But realistically speaking .2 ohms is a good resistance for a large single coil in a mech and it’s best used with a single coil squonk RDA. Also make sure to lock it if you plan to pocket it and remove the battery when not in use. 
+
+
+
+
+
+## Other Usage Notes
+
+The mod uses a lock switch located under the fire button to turn the device on and off. Up locks the fire button so it can't be pressed and down unlocks it so you can fire it. It’s a mech so really that’s all there is to it. There isn’t a chip or menu or any protections. Just push a button. The mod itself is built solid with no rattle outside of a slight rattle coming from the squonk bottle cap, and feels solid with a good weight to it. The Battery door is a standard screw in cap much like the aspire feedlink or geekvape aegis legend. The threading on the cap is excellent and it’s easy to screw and unscrew and the latch you pull out to unscrew it is easy to pull out and put back. Really nicely made. I’m not normally a fan of this style battery door but on a mech it’s ok. It’s easy to get batteries in and out without damaging wraps and takes 1 2x700 or 18650 battery (with included adapter). All the batteries i used fit really nicely in the mod including the vapecell gold 20700, ijoy 5 leg 20700, samsung 30T 21700, and VTC5a with the included adapter. No issues with any of them and no damaged wraps. Now for the adapter, it’s a standard cover to put over an 18650 battery however isn’t silicon and is instead made of ultem to match the mod which i loved.
+
+
+There really isn’t any paint on this mod at all. It’s just an ultem body with a Brass top and bottom so nothing to peel off or wear. Should look good for a long time. They also include a polishing rag (microfiber cloth)  The fire button is a good size circle on the front and feels good to use. The 510 pin gave me no issues and every atomizer i used on it worked great with no gaps and is spring loaded. The mod handles 27mm atomizer flush. Anything bigger will overhang the mod but i can't imagine anyone going bigger than a 24 or 25mm RDA on a single battery mech mod. Also for branding on the mod itself is simple. Just the word furyan in script on the top engraved into the brass. 
+
+
+## Squonk System
+
+The Lostvape Furyan uses a proprietary squonk system similar to the aspire feedlink or desire rage mod, where you pop in a bottle from the bottom. It’s more similar to the feedlink IMO since it has a lock in bracket as well but is made of metal not plastic like the feedlink. To remove it just pull out the latch then do a slight turn about 1/8th to the right. To put it back in line up the notches and pop it in then do a slight turn to the left to lock it in. While i’m not a fan of proprietary systems usually this one works the best out of any I tried. Really easy to do.
+ It comes with 2 extra 9ml bottles both are soft silicon one black and one clear, that are nice however it only comes with hardware for one so you can’t use the extra to carry around. It’s only for if you break your original bottle you can take the hardware off and put it on the spare. If you lose the original one your pretty much screwed. They should have included all the hardware for the spare and a cap to put on it so it can be used as a spare to carry around. The squonking works as it should. No issues or leaks personally. The threading on the bottle is nice and the caps have knurling on them for easy grip. Overall Very Nice squonk system but would have preferred a standard one.
+
+
+
+
+##Pros:
+
+* Build Quality 
+* Beautiful Looking Mod
+* batteries are easy to get in and out without damaging wraps
+* large juice bottles (9ml)
+* Battery compatibility (21700, 20700, 18650)
+* nice small size for a single 2x700 squonker
+* mod handles 27mm atomizer without overhang
+* Great 510 pin
+* locking switch
+* Nice fire button
+* squonk system works well and is easy to remove and replace bottle
+* 2 spare bottles (black and clear)
+* Good performance for a mech squonker
+* nice threading on the battery cap
+
+
+
+
+##Cons:
+ 
+* Proprietary Squonk Systems aren’t my favorite
+* Spare squonk bottles didn’t come with any hardware
+* Some more color options would have been nice
+
+
+
+
+
+##Conclusion
+ 
+So with all that said, do I recommend this mod or not? I don’t like to do a hard yes but this will lean pretty heavy towards the yes. Not for beginners because it is a mech, but if you know what your doing and are in the market for a mech squonker this one is a beauty that performs as it should and feels really well built and unique all at a price point under 80 bucks and even as low as 60ish. I’ve seen people pay hundreds for a basic 3d printed mech box which really makes this feel like a value for the quality and looks. Definitely my favorite mech squonker to date. I’ve added it to my list of recs.
+
+
+This is Anthony Vapes just keeping it honest, hopefully you all can say the same and i’ll catch you on my next review. 
+
+
+##Product Disclaimer 
+This product was sent to me from sourcemore.com
+
+ 
+ 
+##Review Disclaimer
+Due to possible QC difference your experience may vary.
+
+
+##Reviewer Disclaimer
+
+I’ve been doing vape reviews since late 2016 and have done around 200 reviews to date. I enjoy helping vapers on forums as well and helping contribute to the great vape community. I’m not an “out of the box” reviewer. I do my best to be thorough at all times and have enough experience with many products to tell what’s good and what’s not.  All mods get tested with an oscilloscope and stress tested and results are posted in my reviews.
+
+
+##Recommendations and Past Review Links
+
+written reviews list [here](https://www.reddit.com/r/electronic_cigarette/wiki/anthony_vapes_reviews)
+
+Youtube Channel [here](https://www.youtube.com/channel/UC89GbHGYh2xwLTvdTk1vgMw)  
+
+
+Spreadhseet of Recommendations [here](https://docs.google.com/spreadsheets/d/1c4MZ2xYBE-1-0A6rLYY46OHtzHCM-roJINpxghmhzXM/edit?usp=sharing)
+
+Best of 2018 so far list [here](https://www.reddit.com/r/electronic_cigarette/comments/8vjokk/anthony_vapes_best_products_of_2018_so_far/?st=jjafe9zh&amp;sh=4a9df4a4)
+
+Best of 2017 list [here](https://www.reddit.com/r/electronic_cigarette/comments/7pbq1y/anthony_vapes_best_of_2017/?st=jd1xm28v&amp;sh=beacf9bc)
+If they would make another version of this as a 2x21700 box in parallel I would probably snatch it up ASAP just for dripping. Still yet this thing is a beauty and I’m glad it’s a good performer. Haven’t gotten my hands on one yet as getting a hold of Lost Vape or DNA mods in person is hard if you don’t purchase them yourself.
+Yeah for sure. i'm waiting for their 250c drone personally lol hope they make one
+I just honestly want a mech that can keep up with my battery needs for the day when I work 13 hours on Fri and Sat. EZ-Drip + Mech and a nice dripper is my favorite vape style unless hitting up TC.
+IDK to keep up with mine i'd need like a quad 21700 mech and 40ml bottle LMAO not really feasible lol
+😂 Just at work. Two 40T’s on a dripper would be fine until I got home; either .2ohm fat single coil or .16 dual coil.
+LMAO just enough to make it though the day huh
+Lmao when I drip dude it will be non-stop rips pretty much. The Desire Cut on a 40T at 45w will be on its last leg by the time I get off a shift like this but that’s also Bc I won’t hit a Squonk as much as I will a dripper.
+
+
+Back in the day I’d carry 2 EZ-Drips and 4 VTC5A’s on me for construction jobs rocking a Patriot Clone or a FUhattan v2. Sometimes pull out a serial dual with 6 sets of HG2’s. I was a walking vape box on construction sites.
+LMAO dam that's a lot of gear to carry. but i know the feeling of being overly cautious so i'm not without vape lol. glad your liking the cut though it is pretty awesome
+Hahaha I kept the VTC5A’s in a battery flask in a pouch hanging off my belt and same with the HG batteries just two in the mod. Mod would be in a pouch that was in a bag with the EZ-Drips. Surprisingly easy to manage when you wore a tool belt all day.
+
+
+Edit: Yeah dude I really like the Cut as well. It’s a good edition to the collection.
+LMAO makes sense. Ijoy makes some cool battery boxes. they are silicon with a belt clip might be handy for cases like yours
+
+also glad you enjoy the cut!
+Hahaha I deliver pizzas now and my new job is right down the street from my house so I always have a fresh set whenever I need them.
+
+
+Can’t be a construction worker and a nursing student at the same time. I got out of that business completely around a year ago. Still do grass cutting side business sometimes that requires me to carry some extra shit but these days a lot of pods can last through a few grass cutting jobs before going on a USB.
+
+
+Yeah dude it’s greaaaat. Still trying to find the perfect Single Coil setup for it. I use the Yup to drip a lot though. Really love it for that.
+I hear you bud! and always good to go to school to learn a much needed trade. construction pays well but can be up and down and hard on the body over time. Nursing is pretty much a guaranteed job that won't wear down your body as much
+
+Summary:
+The squonking works as it should.
+It’s a mech so really that’s all there is to it.
+So it’s a good performer.
+I think it’s one of the better looking mech squonkers out there.
+Really love it for that.
+Edit: Yeah dude I really like the Cut as well.
+I love the see through body and the brass on the top and bottom.
+Hi All, Anthony Vapes back here with my review of the Lostvape Furyan Mech Squonk Mod.
+Typically at around .2 ohm i expect 60 watts from a mech squonk box to be a good performer which is right where it’s at.
+Still yet this thing is a beauty and I’m glad it’s a good performer.
+I was a walking vape box on construction sites.
+Also make sure to lock it if you plan to pocket it and remove the battery when not in use.

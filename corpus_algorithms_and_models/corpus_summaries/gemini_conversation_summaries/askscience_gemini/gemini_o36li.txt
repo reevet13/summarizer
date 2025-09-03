@@ -1,0 +1,6 @@
+An "observation" is just an interaction with some macroscopic object.
+Observation, is not "observation by a conscious observer". It is **any** interaction with an external system, where we ignore the evolution of that external system after the interaction. So the particles are effectively "observed" when they impact the helmet.
+Schrodinger's cat was never in a quantum state because it is too large a system to maintain quantum coherence for any meaningful amount of time.
+It is more correct to think of microscopic objects having BOTH wave and particle properties. Also do not confuse waves and wavefunctions. I like to think of wavefunctions as a mathematical description of microscopic objects.
+These systems are kept **extremely** well isolated from the environment. That's what is going on.
+That's not correct. Every interaction is possible of causing wavefunction "collapse", or perhaps more poignantly, there is no interaction that **must** cause wavefunction collapse. It all boils down to what the experimenter (the person actually using QM), cares about describing.

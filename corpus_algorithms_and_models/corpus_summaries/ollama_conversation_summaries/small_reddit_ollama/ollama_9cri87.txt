@@ -1,0 +1,15 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+New to the sub, but I have been having issues with my computer being laggy and not wanting to run as smooth. When I talked to people I have opened up my task manager to see what’s going on.
+
+I have 16gb of ram but every time I doing anything such as playing Pubg and having discord open, my ram is being nearly maxed out. Any suggestions on how to make my pc not as laggy and not have issues with my ram?
+
+This would seem like a stupid question, but what is using up all your memory?
+
+Also, if you open the task manager, click the performance tab, click on memory - what does it say under non-paged pool?
+
+I don’t know what’s using all the memory, that’s what I’m confused on, and non-pages pool is 8.8 gb
+
+Yea. That's your problem. It's supposed to only be like 100-200MB.
+
+This is typically due to a memory leak. What board do you have?

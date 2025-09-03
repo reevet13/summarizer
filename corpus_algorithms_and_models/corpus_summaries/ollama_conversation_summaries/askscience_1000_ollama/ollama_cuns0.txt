@@ -1,0 +1,11 @@
+Here are the sentences copied verbatim from the original text:
+
+* Astrophysical models failing to predict the presence and behaviour of 80% of the universe is a huge failed prediction. I don't think it's embarrassing but it is certainly a big theoretical problem.
+* No, I'm pretty sure the universe would have expanded far too fast for galaxies (and probably even stars) to form.
+* Because neutrinos are so small they move fast, and are therefore kinematically 'hot'. All of our theories of structure formation tell us that the dark matter that leads to the kind of clumpiness that we see in our own Universe has to be cold.
+* If neutrinos were the dark matter, then we'd be able to see their signature in the characteristic 'clustering scale' of objects in the Universe - the fact that this doesn't agree tells us that whatever the Dark Matter is, it has to be cold.
+* On the wider point, IMO astrophysical models have for some decades been approaching the point where they no longer reflect meaningful theoretical insight but rather arbitrary equations refined after each unpredicted observation to match that observation. That's a red flag that the theoretical paradigm is lacking.
+* But do we see the effects of neutrinos anywhere in space? I mean, they represent 99% of the exploded stars and likely have some mass. They ought to have some effect on the visible universe, no?
+* And could we not get around the "neutrinos are too hot" problem with neutrino oscillation? What if they change into different neutrinos (or decay into different particles altogether) which are cold enough to explain dark matter?
+* Yeah, apologies for being unclear. It's 99% of the energy outputted from the star during the event.
+* This is about 10% of the total rest mass of the star (mc^2).

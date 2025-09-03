@@ -1,0 +1,33 @@
+Original Response:
+imagine that lights medium is spacetime, since spacetime can hold information as has been proven by the warping caused by gravity.
+
+how then does red and blue shift not prove that light is affected by speed?
+
+its okay guys. I know that you paid lots of money for your degrees and will defend relativity to the death, much like the early church defended the theory that Earth was the center of the universe because they had so much invested in the idea, but seriously? shit is pretty obvious. relativity is false. 
+
+prove my assertion wrong. thanks.
+It's good of you to finally ask this after asserting it in numerous places.  I'd like to take this opportunity to respond to several of your posts in one place because they all contain the same fundamental misunderstanding and I'm tired of seeing it being propagated:
+
+&gt;[also, light is NOT the same speed from all perspectives which should be fucking obvious when you realize that light can be red and blue shifted like a fucking sound wave.](http://www.reddit.com/r/askscience/comments/nyh6g/if_light_while_travelling_at_the_speed_of_light/c3d6mwf)
+
+and
+
+&gt;[If light is subject to doppler than it does not travel the same speed regardless of observer. period. therefore relativity theory is wrong. period.](http://www.reddit.com/r/askscience/comments/nxq5p/what_is_happening_with_light_or_photons_not_sure/c3cx6z8)
+
+and
+
+&gt;[that is real?!?!?! wholely fuck!!!!!!!!!
+relativity is false!!!!!!!!!!!!!!
+light would not doplar if it traveled at the same speed from all references. period.
+"but light travels independent of a medium"
+false!!!!!! the medium is spacetime which has proven to retain information by the warping of spacetime.
+wholely fuck I published this (admitably by humble, but provable means, years ago). I am smarter than Einstein, including the rest of you fucktards!!!!!!7!!77!7!!!!!!!!!](http://www.reddit.com/r/askscience/comments/nsfut/when_driving_a_car_down_the_highway_would_the/c3c2tik)
+
+You fundamentally misunderstand relativity and the [relativistic doppler effect](http://en.wikipedia.org/wiki/Relativistic_Doppler_effect).  The light isn't just being shifted in space (ie you're 'seeing' more/less crests of a wave because you're moving towards/away from the source), it's also being shifted in time via time dilation.  This isn't merely an academic distinction, it makes a world of difference because blindly applying the thought processes used to imagine non-relativistic doppler shifts leads you to the wrong conclusion.  Predictions of relativistic doppler shifts have been experimentally verified to extremely high precision, high enough to discredit any theory that posits more than a one-part-per-billion shift in speed.
+
+You have your answer and the means to learn more but I don't expect that to stop you from posting in more threads about light with all the vitriol you've already made apparent here and in other subreddits.
+
+Summary:
+"but light travels independent of a medium"
+false!!!!!!
+how then does red and blue shift not prove that light is affected by speed?

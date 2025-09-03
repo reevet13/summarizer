@@ -1,0 +1,226 @@
+Original Response: 
+First of all I'd like to say that fractals still are one of my favorite content in the game right now, however I liked them a lot more when the instabilities changed on a weekly and not a daily base, mainly because we really do not have enough instabilities for that.
+There are really unfun ones such as social awkwardness which demotivate me personally quite quickly as soon as I see it being in the instability pool (especially when it is included in one of the CMs).
+&amp;nbsp;
+
+When the daily instab change got implemented there was some critique by players about there simply not being enough instabilities to justify such a change and it kinda disappoints me that we still are at the same number of instabilities 4-5 months later, even though there was some talk about more instabilities being added by the devs themselves.
+Imo getting some new instabilities into fractals would be even more interesting than getting new fractals in the first place as it would change the way of playing quite a lot depending on what you have to do.
+It also would make me personally enjoy fractals a lot more again and, judging by comments I've been reading on reddit and the forums, I think a lot of other people would too.
+&amp;nbsp;
+
+[Here](https://i.imgur.com/4svqlde.pnghttps://i.imgur.com/4svqlde.png) you can find a strawpoll regarding random instabilities thats show the general enjoyment of fractals went down after the change by a bit.
+&amp;nbsp;
+
+As a personal advice that you obviously don't have to follow: I think removing social awkwardness and maybe also Last Laugh as a whole would be a good thing to do aswell while you are adding new instabilities.
+I think those are really counterproductive when it comes to fun.
+&amp;nbsp;
+
+Lastly, and I admit this won’t concern a lot of people, the current instability situation basically killed fractal records.
+Now, if you want to speedkill / speedrun something, you’d have to basically get a group together and then decided spontaneously on instab reset wether “instabs are good”.
+Most people who do records, including me, do not have an open enough time schedule to freely decide on which day to go, which makes organizing this close to impossible.
+Cooler instabilities and a wider variety would probably help solve this problem.
+&amp;nbsp;
+
+I really hope the adding of instabilities or just any update to the current instability system isn’t just completely off the table, fractals have so much potential and it’s a shame for them to be more fun on some days and way less to no fun on other days.
+&gt; Social Awkwardness
+
+Something I don't see mentioned often enough is that SA is unduly punishing to certain professions/specs.
+For example, both Mirage and Daredevil have a lot of forced movement in their rotation, making it easy to trigger SA unintentionally.
+Meanwhile, Scourge can move freely and even retreat to range while maintaining dps.
+(Yes, I know two of those are condi, but they are examples of the extremes)
+Yea, social awkwardness is an incredibely "unfair" advantage regarding classes with strong ranged alternatives honestly and makes builds with mobility skills in their rotation really hard to play, if not impossible like mirage with axe 3.
+And idk about others, but imo fighting meele is more fun than ranging anyway, so not being able to do that is kind of demotivating.
+It's even worse how these instabilities unfairly treat certain builds as it isn't even viable for a lot of players to swap classes.
+The AR requirement usually locks most non-hardcore players to 1-2 classes/builds, even worse if you care about stat infusions.
+&gt;Yea, social awkwardness is an incredibely "unfair" advantage regarding classes with strong ranged alternatives honestly
+
+so when's the guildkick?
+I also don't WANT to swap and have to use potions on several chars just to do my dailies... (And I actually have all roles available)
+Yea it is getting to a point to where you have to ask what even is the target demographic for fractals?
+Players with low multiclass potential get screwed by certain sets of instabs.
+While more hardcore players can't really build any consistent strategies/comps (especially for speedclears) due to extremely random instabs.
+Do you know if SA has an internal cooldown?
+If I blurred frenzy and someone runs into me I feel like I get absolutely popped.
+SA  on my condi FB is basically a giant  fuck your dps potential.
+Even if the class you're playing doesn't need to move boss attacks can force it, or you need to avoid other players who do.
+And the amount of agony generally means my panic tome healing does shit all if there is really any number of melee characters.
+3 per second followed by a swift rightclick votekick combo.
+Seaweed got bopped forever ago.
+Monkeys need to learn.
+The wiki shows the ice as 1 second.
+Can't give you any details, but we are in full production on instability changes.
+And yes, Social Awkwardness is going to change quite a bit.
+Thank you Ben!
+Any update on invisible boss models?
+[deleted]
+&gt; Can't give you any details
+
+Aw :(  
+
+Not even a hint?
+;)
+No good news there, still unable to reproduce.
+Been adding more logging and debug rendering internally and doing investigation between other work.
+I get it you aren't able to reproduce it, but it happens quite often on CM100 Arkk.
+I run CMs+T4s daily and it happens at random, and it can happen party-wide, or just an individual or two.
+It's frustrating because some of his mechanics don't show either, making it RNG if you get hit by something or not.
+It doesn't discriminate whether we wipe on a boss or are at LNHB at the point, either.
+It's random as hell.
+EDIT: For me personally, it seems to happen 2 times on a weekly basis, so 2/7 days attempts on Arkk, he goes invisible.
+Thanks for the update.
+If it helps any Arkks model is normally there at the start, but disappears after he ports back at 70 or 50%.
+The same for Mai trin at 50%.
+Maybe helpful information.
+3 weeks ago is when I began to experience problems that I noticed.
+During the first event of spirit woods (standing in circles to close rifts), I noticed that I couldn't see time warp anymore.
+Note:  my druids screw around here and use the adrenal mushrooms to spawn a ton of spirits.
+Later that night I couldn't see flame wall at sabetha.
+Pretty much the rest of the night (i.e.
+from w1 spirit woods all the way to end of wing 3) I couldn't see time warp anymore.
+[deleted]
+I am increasingly worried that this may only be reproducible on live builds.
+With friends, we've been talking about it and think that this happens with ennemy that spawns instantly, not present ennemy like trashmobs.
+So boss like Arkk have most likely that abilty to be invisible.
+It also happened to me in raid, unable to see Xera, I put marker on her, the marker was still in the middle (when she spawns) but wasnt following her when invis (when tank moved).
+If this can help, even a bit...
+It happens alot on Arkk, Xera (phase 2).
+And in Mai Trin fractal.
+Depends i think i don't see arkk ever.
+:(
+Could it perhaps be related to the GPU you're running on at all?
+Because I know that for example there was a lightning bug before that only appeared on some GPUs.
+just did a quick poll in discord (very very small sample size, n=6) of my fractal group and one of our subs.
+I am the only person who has never seen this bug.
+I am also the only person with an AMD gpu (r9 280x) the others are spread from 1050 to 1080s and have all encounted this bug.
+some more frequently than others.
+In this case I don't think so, I have a 1080 and weve seen people get it with that.
+It could be that im not getting lucky, we've not been testing this non stop or anything.
+I'm also worried it has something to do with common player behavior/skills that we may not be using.
+We'll keep at it.
+(I have a 1080 too and I get it too so I guess).
+Can it at all be related to arc?
+Because I haven't tried to uninstall that yet actually.
+Hey, thanks for update!
+I know it's a little bit off topic bit, do you have any word about this https://www.reddit.com/r/Guildwars2/comments/7y41zr/any_news_about_updating_the_celestial_infusion/duevz4r/ ?
+Is there no way to register and catch the bug on live by playing with a player and then fix on the dev build?
+I can't stress enough how much SA being removed (or changed to something completely different) would make a difference to me.
+I enjoy fractals enough to the point of soloing them, but I would never commit to a static group because SA being in the instab list makes me just want to not play the content, and I don't want to be that guy who would randomly drop out on some days because "lol SA cya"
+i use arc and have never seen this bug.
+I have an AMD R9 Toxic, I've seen it once myself on the last boss on Chaos.
+I got this bug on the last boss of Chaos.
+Not only that, there were other members of the same party with this bug.
+It was really, really hard when you had to dance between the changing platforms but couldn't tell where the boss was.
+Edit: GTX 1060 6gb.
+First time i had ever seen this bug.
+The same debugging information I added is not present on the live build, so reproing live doesn't give me much to work with.
+I could try building a modified live client and running through 100 a bunch of times.
+[deleted]
+GeForce, had this as well.
+Redownloaded client since that and for now it seems fine.
+Not playing cm100 or 100 too often, though.
+Edit: Typo.
+Can you please just cut your losses and remove instabilities from the game already?
+Literally no one likes them and they just make fractals less fun.
+To add to MorpheusDV said, I have everything except the second split robots invisible on Arkk every day.
+It hasn't changed for weeks.
+One of the players in my group was the one who (I think) initially brought this to your attention with the reddit post.
+It happens a lot in deepstone as well but a little less consistently.
+On Arkk I am always able to see the anomoly spawn and that doesn't seem to be an issue.
+Edit:  This initially started happening on Arkk specifically for one player in our static, then me and then another.
+One of us doesn't have the issue at all.
+After it happened on Arkk a few times is when it started happening in deepstone and then chaos and a few others as well.
+It started with Arkk first and felt like it slowly started progressing to other fractals.
+Not sure if this helps at all.
+Can you add me in game and mail me?
+If I can get custom live build made with extra logging id love to run with you guys and hopefully experience it too.
+I am sure groups of people would be more than willing to run the boss with you -)
+SA is the reason why I stopped playing thief in fractals once I reached t4.
+I have zero idea why anyone would think that SA is in line with good game design.
+It's not hard to deal with, but is annoying as fuck.
+&gt; It could be that im not getting lucky
+
+I love bug testing and when finding a bug is considered "getting lucky."
+:p
+
+Good luck, Ben!
+Yes I can definitely do that, will add and mail after work.
+My "invisible Amala" was on 1070.
+Do video recording even help?
+:(
+Maybe latency or FPS dependant?
+Maybe a model doesn't load "in time" and then it never loads?
+But downloading another 40gb of that altenative live client just to test that... ugh.
+No need to record, I do have videos sent to me already.
+Getting it on a 970 if that helps.
+I can start happening even after you've seen the boss if you wipe, when resetting the model is no longer there.
+It's recently gotten more widespread for me also, the adds on bloomhunger, the ghosts on gorseval, then the boss on sabetha and xera have all lost their models before for me.
+Gl pinning it down, we're rooting for you!
+Did the rework I suggested a while ago ([this one](https://www.reddit.com/r/Guildwars2/comments/8l1tod/random_instabilities_feel_like_themed_weeks/dze111i); I probably should have saved that comment, took me a while to dig up) prove even remotely workable?
+I'll admit I'm rather proud of that idea, even if it probably isn't the most practical in the end.
+I would like to pitch in and say that I have never used any add-ons or whatever Arc is and still got this bug.
+To me it was even worse, at some point the boss started showing up again but he was immobile like a statue and I simply could not see the cone-knockback AoE he does.
+The only thing that would show up was the Eye, everything else was invisible.
+my graphics card is a GTX 970, btw.
+got a 1080 as well.
+And had it already on Chrono, Weaver (staff), holo and pWar/Spb \[meta Builds all - aka SC\]...
+Using Stones and Plank @2nd boss.
+Dont know if it is smth from that.
+ArcDPS is a dps meter that also has a phenomenal add-on for in-game working build templates.
+The person who developed the add-on works with Anet devs so his program is perfectly legal.
+If you change builds a lot or have separate characters just so you don't have to swap builds, I'd look into it.
+I want to also point out the deepstone fractal has a bug (or not?)
+wherein falling off the platform at the final boss kills you and you spawn only to fall again.
+Your dead body keeps teleporting up and falling over and over again and it's really nauseating.
+Had to log out and log back in when that happened to me.
+For what it's worth, I am enjoying the daily instability change.
+Though, I am just a general T4 runner not a speed runner that tries to break records.
+Are you considering adding positive instabilities?
+Is it possible that it has something to do with the HDD and the loading of the model?
+I know that when my HDD is working, models (especially player models) load extremely slow.
+Maybe it unloads the model or something and has to find it again (with a low priority or something)?
+Probably need to create another thread again.
+Last thing I heard is that it's somewhere in the artists backlog and they are mostly busy with ls stuff.
+Though the update in the infusion is needed a lot.
+I've had this bug both with and without arc.
+GPU is a 1060.
+[deleted]
+We had it happen on ARK to different players in party at different times.
+We took the skip after orb bounce mini event, ignoring trash mob.
+I got stuck in geometry heading to Cube boss.
+I gg and when I came back I was invisible.
+I leave party and rejoin before Asteria to fix.
+We get to Ark, Ark went Invisible for another party member.
+They log out, then he goes invisible for someone else.
+Just keep it and make it a new instability.
+&gt; It's random as hell.
+As a software developer I can tell you that bugs that seemingly occur randomly are indeed also the most hellish ones to solve.
+[deleted]
+I added you and sent you a mail yesterday evening.
+
+Summary: 
+I am the only person who has never seen this bug.
+(I have a 1080 too and I get it too so I guess).
+I got this bug on the last boss of Chaos.
+I want to also point out the deepstone fractal has a bug (or not?)
+Getting it on a 970 if that helps.
+I added you and sent you a mail yesterday evening.
+For what it's worth, I am enjoying the daily instability change.
+If this can help, even a bit...
+I think those are really counterproductive when it comes to fun.
+I gg and when I came back I was invisible.
+It hasn't changed for weeks.
+Yes I can definitely do that, will add and mail after work.
+I am sure groups of people would be more than willing to run the boss with you -)
+Any update on invisible boss models?
+First time i had ever seen this bug.
+i use arc and have never seen this bug.
+&gt; It's random as hell.
+I am increasingly worried that this may only be reproducible on live builds.
+Just keep it and make it a new instability.
+Literally no one likes them and they just make fractals less fun.
+Depends i think i don't see arkk ever.
+And in Mai Trin fractal.
+Not only that, there were other members of the same party with this bug.
+Dont know if it is smth from that.
+I got stuck in geometry heading to Cube boss.
+got a 1080 as well.

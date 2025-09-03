@@ -1,0 +1,9 @@
+Here are the selected sentences from the original text:
+
+So completely out of the blue, overnight my computer stopped functioning properly and everything really las behind and I have no idea what the issue might be.
+Everything is fine for the first couple minutes after booting up but that’s when everything starts to slow down.
+I noticed that when I open task manager during the initial start up the disk usage percentage shoots up to 99% but then gradually makes it way down then starts to fluctuate a little bit.
+I have 16 GB of ram yet 33% of memory is being used while nothing but background processes are running.
+I did notice a bit of a weird Grinding noise coming from the computer but after looking into it further the noise was coming from the Corsair liquid cooler and when the fan was unplugged the noise stopped but the computer continued to be slow.
+
+Let me know if you'd like me to extract more!

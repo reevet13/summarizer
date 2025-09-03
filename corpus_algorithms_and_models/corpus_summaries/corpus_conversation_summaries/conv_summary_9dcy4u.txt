@@ -1,0 +1,52 @@
+Original Response: 
+I'm not talking about the reason electrons don't crash into the atom nucleus.
+The question I'm asking is, if the strong nuclear force is that much stronger than the electromagnetic force at the distances of a atom nucleus, why does it have a radius?
+At very short distances the strong interaction between nuclei gets repulsive.
+Not that it would be necessary: See the other reply, the nucleons have their orbitals.
+They are just more complicated than in an electron as the potential they see is created by these nucleons.
+Thank you!
+Let me ask another question: when two protons crash in an particle accelerator, for example, do they have enough energy to "break" each other apart as if they would collide inside their orbitals would imply the strong interaction doesn't have enough time to repulse them - or would the breaking into quarks be a result of the strong interaction getting so repulsive(as to counteract the protons getting closer and closer) that the energy generated would explain it.
+Two protons in colliders don't have orbitals.
+If they have sufficient energy the protons can get destroyed and you can get a few to tens of new particles (sometimes more than 100 at the LHC).
+At this energy level you are more looking at collisions between quarks and gluons - that they happen to be in a proton doesn't matter much as the proton binding energy (and all other potential energies) is tiny compared to the energy from the accelerator.
+What about the mechanism in which atoms nuclei are shot with protons or neutrons(transmutation for example), the reason protons or neutrons can be removed from the nucleus this way, can be explained by the strong interaction being repulsive at small enough distances?
+Meaning that the proton shot manages to get so close to the other proton, that the repulsion generated is larger than the binding of the proton being shot at and the nucleus it is bound to.
+Nuclear reactions occur at much lower energies than LHC collisions.
+But both attractive or repulsive interactions can cause nucleons to be knocked out of some target nucleus in a reaction.
+The repulsion of the NN force at short distances isn’t really directly observable in the case of a reaction between a nucleon and a nucleus of A &gt; 1, because you can’t pinpoint locations of individual nucleons within the nucleus.
+For reaction theory calculations, you often have phenomenological optical potentials that describe the interaction of the incoming nucleon with the entire target nucleus.
+The optical potential is complex, so it allows probability flux to leave the elastic channel, and go into reaction channels.
+&gt; The repulsion of the NN Force at short distances isn’t really directly observable in the case of a reaction between a nucleon and a nucleus of A &gt; 1, because you can’t pinpoint locations of individual nucleons within the nucleus.
+In that case, would you have a different answer for the first follow-up question I asked?
+I also don't think I completely understand your second paragraph, but I guess it's on the realm of quantum mechanics?
+/u/mfb- answered the question at HEP energies (TeV), and I'm answering at nuclear physics energies (MeV-GeV).
+The two-proton system has no bound states, but it has at least one resonant state that can be populated (the diproton).
+There is also a reaction channel, where the protons combine to form a deuteron in a weak-mediated reaction.
+This happens in the sun, but the cross section is too low to observe it in accelerator experiments.
+If you collide protons at nuclear physics energies, you'll mostly get elastic scattering (Coulomb and/or nuclear, depending on their relative kinetic energy).
+You'll also get some resonant diproton production, and deuteron production, both with extremely small probabilities.
+At higher energies, you can start to probe the valence quarks within the protons.
+You can flip one of their spins, and turn a proton into a delta resonance.
+You can have all kinds of weak reactions, where some number of quarks change flavors, and turn one or both protons into some other heavier hadron.
+At extremely high energies, you'll start to smash apart protons, as mentioned above.
+&gt;I also don't think I completely understand your second paragraph, but I guess it's on the realm of quantum mechanics?
+Yes, everything discussed here is quantum.
+Classical mechanics can't really describe anything in nuclear or particle physics.
+&gt; If you collide protons at nuclear physics energies, you'll mostly get elastic scattering (Coulomb and/or nuclear, depending on their relative kinetic energy).
+Correct me if I'm wrong, would this mean that Coulomb scattering would occur in lower kinetic energy levels, whereas nuclear would occur on higher, but yet, nuclear energy levels?
+&gt; At extremely high energies, you'll start to smash apart protons, as mentioned above.
+What force is responsible for that?
+Yes, Coulomb effects will dominate until the nuclei have close to enough energy to overcome the Coulomb barrier.
+When they have enough for that, nuclear scattering will also play a role.
+The Coulomb barrier for hydrogen on hydrogen is about 0.6 MeV.
+As for the second question, the strong, electromagnetic, and weak forces all play a role in things that happen in LHC collisions.
+[deleted]
+Thank you very much!
+
+Summary: 
+Two protons in colliders don't have orbitals.
+Nuclear reactions occur at much lower energies than LHC collisions.
+At very short distances the strong interaction between nuclei gets repulsive.
+What force is responsible for that?
+When they have enough for that, nuclear scattering will also play a role.
+At higher energies, you can start to probe the valence quarks within the protons.

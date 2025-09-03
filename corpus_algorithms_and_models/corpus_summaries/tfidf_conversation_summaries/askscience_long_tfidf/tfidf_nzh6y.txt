@@ -1,0 +1,89 @@
+Original Response:
+I imagine precise calculations of planet orbits use center of mass of solar system as the coordinate origin. Let's also do that here.
+
+What would be the major contribution of the movement? Perturbation from the moon? 
+
+I am satisfied with an order-of-magnitude answer. As a blind guess, anywhere between 10m to 1000km seems pretty reasonable to me.
+
+(well, when I was counting down for the New Year I was thinking, "Am I close to where I was last year?")
+I'm assuming relative to the solar system, correct? because in reality, Our galaxy is FLYING through space, so...
+yes, relative to the center of mass of solar system.
+The sun moves too, you know. If we take the sun as moving 223,600 meters per second, or 223.6km/s, and presume the earth is in a stable orbit, we can then use math for the figures.
+
+223.6 x 60s = 13,416km/minute
+13,416 X 60m = 804,960km/hr
+804,960 X 24hrs = 19,319,040km/day
+19,319,040 X 365days = 7,051,449,600km.
+
+To simplify, you are approximately 7 billion kilometres (4.381b miles) from where you were last year.
+
+Edit: After all that, I realise you want to use the centre of our solar system as the reference, not the whole universe. If you're wanting as a relative point to the centre, then [this wiki article](http://en.wikipedia.org/wiki/Earth%27s_orbit#Future) might help explain the difficulty in figuring it. Axial tilt and a non-perfect orbit make it pretty much impossible to begin to guess for me.
+I don't know. It's worth keeping in mind that the distance from the Earth CM to the Earth-Moon CM is [4,700 km](http://en.wikipedia.org/wiki/Orbit_of_the_Moon), which is comparable to the distance from your house to the Earth's spin axis ([6,400 km](http://en.wikipedia.org/wiki/Earth_radius) if you live at the equator, or less elsewhere). A year doesn't divide evenly into months or days, so both of these might be relevant.
+The centre of mass is not the centre of the solar system. You need to be more careful when asking these questions.
+
+
+You should use NASA's HORIZONs service to get the answer to this. You'll need to do some trivial trig.
+I don't think the distinction is necessary when he's asking for an order of magnitude answer.
+In terms of Earth's scale, you'd be surprised: http://upload.wikimedia.org/wikipedia/commons/0/0c/Solar_system_barycenter.svg
+As a first approximation, we can throw away other objects in solar system except the sun, the earth and the moon? Then, is it okay, as an order-of-magnitude estimation, to assume Earth-Moon CM as one body having an elliptic orbiting around the sun?
+Well I don't know, we might not be able to throw away Jupiter.
+the great thing about science is that asking questions actually makes you smarter. that's a nice way of saying we don't know for sure. and here's why:
+
+you may be standing on the same patch of earth as last year, but if we use the center of the sun (as  the OP suggested) and a set of fixed stars (very distant bodies that appear not to move over time) as coordinates, you are actually father than 100,000 miles relative to your same position this time last year. you can thank the kozai mechanism. roughly stated, one sidereal orbit is very, to use a technical term, wobbly - like a top. very eccentric, or oblique. the earth spins in an elliptical orbit around our sun, with an inclination of 5% above or below the **ecliptic**. meaning it's sometimes farther out, sometimes above the plane of the solar system, sometimes below. and these don't return to origin in exactly a year.
+
+and, yes, the sun orbits at about 220km/s around the galaxy, and the galaxy is traveling, and the supercluster is traveling...and so on.
+Relativity says that there is no such thing as "the same place" at different times, anymore than there is "the same time" at different places.  We can choose a coordinate system that gives the answer zero, but we can choose coordinate systems that give *any* answer we want, though the "reasonable" ones with nice properties will have answers under one light-year.  But there is fundamentally no "right" way to ~~do~~ pick coordinate systems, merely more or less *convenient* ones.
+[deleted]
+As you suggested, the earth goes around the sun in 365.256363 days. So the centre of Earth would be in approximately the same position, relative to the Sun. However you would be  .256363 of an earth rotation away. This could be several thousand km.
+You'd be 0.256363 times the circumference of the Earth away from where you were last year. Depending on your latitude, this could be up to 10,000 km.
+Took me a second to understand what you're saying, but this makes sense.  Even if, for the sake of simplicity, we assumed the sun was stationary and the earth's orbit perfectly stable, at midnight the earth would be a quarter-day behind where it was at midnight the year before, and obviously six hours later, when the earth has made one full orbit, it will have rotated ~90 degrees past where it was last year.
+Pardon my ignorance. Are the points on the line the center of mass for each labeled year in a position relative to the sun? If so, do we know if the pattern repeats periodically?
+As the sun is denoted on the diagram, it's a reasonable assumption.
+
+Also, very likely that the pattern repeats, although it will require the orbits of all the planets to get back to the exact same place again... so it'll take longer than the sun will exist for it to repeat.
+Then you also have to consider the galaxy itself moving through space. We have no idea how massive the biggest orbit we're involved in is.
+Well if you want an absolute answer you need to find the following: Earth's rotation speed and axis. Rotation and axis around the sun, the suns movement through the galaxy, the galaxies movement through the universe, the universes expansion, and the movement of our universes 'light bubble' through whatever spans beyond.
+They are, and the repeating is a question for people far more qualified for me. It depends on the distribution of mass of the planets, and I don't know of any well established periodicity for their distribution.
+
+
+
+However, getting quite close to it probably requires only the first few gas giants, so it may be enough just to model those.
+
+
+
+Very very tricky questions deserve better answers than I can give.
+You might also want to consider the inflaton if you are going to go to those scales.
+&gt;You need to be more careful when asking these questions.
+
+Please don't be so condescending- we're not all scientists in here. Sometimes you have to ask a question in the only way you know how in order to get an answer that satisfies your curiosity.
+Doesn't that just mean the sun itself, therefore the center of the solar system, is moving?
+So this effect contributes to a latitude-dependent difference in position of 1000km in order of magnitude. What if I am located at north pole? What will be causing the position difference?
+My understanding is that the motion of galaxies is taken relative to the CMB.
+*the earth spins in an elliptical orbit around our sun, with an inclination of 5% above or below the elliptic*
+
+Huh, are you sure? I thought that the ecliptic circle is defined as a projection of Earth's orbit on the celestial sphere at a given epoch...
+You're right - it shifts much more than I expected! I was comparing the relative masses of the planets vs the sun in my mind, and forgetting that distance matters in determining centre of mass.
+I believe (not an expert) that yes, given my assumptions above, the north and south poles would be in the same place.  Though, like I said, you would be rotated 90 degrees from where you were facing previously.
+There are ways that are more right than others. 
+
+For example, how about movement compared against  cosmic background radiation or aginst average motion of galaxies in observable universe?
+Every body in the solar system is moving in response to forces exerted by every other body. The barycenter depends on distance and position, and as planets orbit at different rates and have different orbital characteristics, it's a lot more complex than it might seem.
+I apologise if that's the way it came across. I did write it rather quickly but I simply meant to say that questions need to be asked with significant rigour in complex systems like this.
+only if the sun is used as our frame of reference.  And to nitpick a little more: it would be 10,000km if you travel along the surface of the earth at the equator, but the straight path through the earth would only be 9020km.
+can I ask where did you get 365.256363 days as the number of days in a year? I've always thought it was 365.242..
+http://hpiers.obspm.fr/eop-pc/models/constants.html
+How about, "Where am I relative to the center of the sun"
+In the OP, he references the center of mass of the solar system. Couldn't we use that as the origin, and use last year as t=0 and now as t=T to define a reference frame? So the center of mass of the solar system is at the origin at both t=0 and t=T.
+you're referring to coordinate systems, the verbiage for which i believe you lifted from [Wikipedia](http://en.wikipedia.org/wiki/Ecliptic_coordinate_system). to clarify my original answer, the plane of the ecliptic, or simply the ecliptic, in this instance refers to the plane (a circle viewed from the side) of the earth's orbit around the sun. fwiw, the term "ecliptic," when used on its own to describe the plane of the earth's orbit, is a holdover from astrology.
+The absolutely wonder [HORIZONS](http://ssd.jpl.nasa.gov/horizons.cgi) web interface tells me that the center of the Earth will have drifted close to 1.8 million kilometers, in reference to the Solar System Barycenter. That's a lot.
+
+Summary:
+yes, relative to the center of mass of solar system.
+The sun moves too, you know.
+So the centre of Earth would be in approximately the same position, relative to the Sun.
+only if the sun is used as our frame of reference.
+The centre of mass is not the centre of the solar system.
+In the OP, he references the center of mass of the solar system.
+the earth spins in an elliptical orbit around our sun, with an inclination of 5% above or below the **ecliptic**.
+So the center of mass of the solar system is at the origin at both t=0 and t=T.
+I imagine precise calculations of planet orbits use center of mass of solar system as the coordinate origin.

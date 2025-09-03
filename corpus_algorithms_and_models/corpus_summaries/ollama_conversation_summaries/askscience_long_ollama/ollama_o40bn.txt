@@ -1,0 +1,27 @@
+Here are the selected sentences from the original text:
+
+You can picture a two dimensional axis: the x axis represents the real numbers and the y axis represents imaginary numbers. Any point that's not on either axis is a complex number.
+
+As simple as that? Huh.
+
+Oh, most definitely. Even better: rotations in the complex plane correspond to algebraic multiplication.
+
+The number i is defined as the square root of -1. You can produce arbitrary complex numbers Z like this: Z = a + b*i. You can visualize this number as an arrow on a 2D plane, pointing from the origin to the coordinate (a, b).
+
+In general, you can multiply any complex number with a number of the form Cos[phi] + i * Sin[phi] and rotate it phi degrees counter clockwise.
+
+Oh! I understand. Well, that's interesting.
+
+Complex numbers are quite awesome. I'm not a mathematician, but I believe that as far as numbers go, they're the most fundamentally important set.
+
+I realize that this might be a little more technical than you'd be interested in, but complex numbers turn up almost literally everywhere in the mathematics I use from day to day (I'm a physicist) and they make my job a *lot* easier, hence the luvvvv ;)
+
+If you have the time and patience to explain a bit about how you would solve integrals through properties of complex numbers, I'm all ears!
+
+Let's say you wanted to integrate the following function on the entire real line (that is, from -infinity to infinity): f(x) = 1/(1+x^2 )
+
+Alright, so what we do now is replace the x in this function by z (meaning any complex number, whereas x would mean any real number). This is going to allow us to do something really cool, using [this](http://en.wikipedia.org/wiki/Residue_theorem).
+
+This was all just one giant braindump, so if I was unclear or anything let me know and I'll try to do better.
+
+That page has a nicely worked example of what I tried to explain above (apart from another square).

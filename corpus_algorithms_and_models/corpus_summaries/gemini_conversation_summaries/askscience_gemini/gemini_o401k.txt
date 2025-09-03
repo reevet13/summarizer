@@ -1,0 +1,13 @@
+Well if they had a pacemaker, metal prosthetic devices or embedded metal particles ( as can happen to welders who can get tiny slivers of metal in their eye without realising it ) they could be in big trouble as the pacemaker leads whip around and the metal fragments shred the inner eye.
+A rapidly changing magnetic field can cause biological effects - not from any mechanical force felt by the person, but from the current induced.
+This is the same technique used in [transcranial magnetic stimulation](http://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation).
+Stronger magnetic field can lead to observable [diamagnetism](http://en.wikipedia.org/wiki/Diamagnetism), where the water in your body can repel the external magnetic field.
+This is the phenomenon behind [the levitating frog](http://www.ru.nl/hfml/research/levitation/diamagnetic/).
+If they have a pace maker, the changing magnetic field could also induce a current into the wires, which could send a nasty shock to the heart.
+I'm a med student going into radiology.
+At a conference I went to, the speaker suggested that the upper limit of MRIs will be around 11T since after that point, the flow of blood in the coronary arteries can induce currents leading to cardiac arrhythmias.
+Ions are current carriers, electrolytes are conductors, so they certainly are a "conductor in a magnetic field."
+Any material is a conductor if it contains mobile charges.
+You can build electric circuitry using hoses full of salt water, although metals are preffered because of higher conductivity and lack of dripping leaks.
+The energy/force that pushes two magnets is not "created" by having them near eachother.
+The magnetic fields are always there (assuming permanent magnets) and simply act on eachother when they are nearby.

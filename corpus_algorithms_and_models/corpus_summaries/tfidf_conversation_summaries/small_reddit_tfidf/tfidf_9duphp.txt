@@ -1,0 +1,425 @@
+Original Response:
+If you are knocked out, choked out, or faint, do you effectively fall asleep or is that state of unconscious in some way different from sleep? I was pondering this as I could not fall asleep and wondered if you could induce regular sleep through oxygen deprivation or something. Not something I would seriously consider trying, but something I was curious about.
+No, it's not the same. Sleep is a complex neurological state that we've only recently begun to understand where, while there is no alert consciousness, the brain is still cycling through a series of neurological activity (the chief of which, at least as far as day to day relevance goes, is memory reorginization and conversion of the day's memories and information to patterns more reliable for retrieval) as well as monitoring for extreme inputs from sensory capabilities (ie loud sounds or sudden body movements will awaken the sleeper). 
+
+Loss of consciousness from lack of oxygen or through the use of psychoactive substances is a different mechanism that involves actually shutting down gross neuronal activity. In the case of oxygen deprivation, you're literally starving the brain of oxygen, forcing it to shut down processes in a survival-dependent manner. Brains take a lot of energy, but someone in a hypoxic environment can still survive if there is enough oxygen to maintain cardiac and respiratory function (though how long and at what cost are definitely things to consider). 
+
+Your entire brain goes through neurological rhythms while asleep. If you're inducing loss of consciousness, the resources necessary for those rhythms to occur are being cut off. 
+
+I'm not the biggest fan of brains-as-computers analogies, but I'll make a simple one here: You can shut down a computer by yanking the cord out of the wall, or by shutting it down through the OS. It's off either way, but one of those ways can cause the computer to malfunction depending on the state it was in when the shutdown occurred, and how often that method of shutdown is employed.
+That makes sense.Thanks!
+I really love this answer it’s detailed enough without being too complex 👍
+[removed]
+How do 'sleep inducing' medications, like antihistamines/narcotics/CNS depressants/alcohol, play into this?
+
+Do they simply promote that natural physiology (brain chemistry?) that induces sleep, or do they force the brain into an altered state of consciousness?
+[removed]
+Medications release chemicals into the brain that affect the brains natural chemistry to what it would be when falling asleep naturally, essentially prodding it along. However as with anything changing brain chemistry it becomes harder to recover the more the medication is used and the brain would eventually become dependent on it. The chemical is no longer released by the brain as it has learned that it will be administered via foreign sources (the pill/tablet). So long term use can be very harmful.
+When your head gets slammed into the ground what is it that actually induces unconsciousness?
+
+Does the squishing of your brain interfere with signals or something?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Does a patient in a coma or other unconscious state have sleep and waking cycles?
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Also, being knocked unconscious via traumatic brain injury is yet different from fainting (due to low blood pressure, hypoxia, etc.). 
+
+They're also dangerous in different ways. As long as the issue causing the hypoxia or low blood pressure is fixed in a timely manner, fainting is unlikely to cause any permanent damage (unless you hit your head on something).
+
+A traumatic brain injury is, in general terms, at least partially permanent (the injury persists, brain can learn to work around it).
+[removed]
+[removed]
+Interrupting the process can render the saved data unusable though, an important part could be lost in a volatile cache or the sudden cessation of the write could make it difficult or impossible to read that portion of a primitive file structure.
+
+We've developed ways around this,  but it's easier to redesign a computer system than a brain.
+Okay but how about when people just faint?  And come to in less than a minute?  How does that differ from O2-deprivation unconsciousness, or unconsciousness due to head injury? if you know
+Just so you know, you lose zero, and I mean ZERO time while knocked out. It's why so many fighters seemed confused when they come to. It's like, hey I was just punching you two thousandths of a second ago, why am I looking at you from the mat??
+
+The experienced fighters will recognize the confusion as the sign they were knocked out, since there is no actual like, remembered trigger? Either way it's something I've always found interesting.
+[removed]
+[removed]
+Thank you for the explanation, learned something new
+[removed]
+I distinctly remember being at the top of the bowl at the skate park, and then being on my back at the bottom. Wear a helmet, kids
+[removed]
+This may be off topic, specifically, but as far as training the brain and limbs/muscles (e.g. drum technique), when is the actual technique “learned” as a whole (not only the muscle memory is complete but the brain understands it in unity with the muscle itself)? During sleep? Away from the practice/training? During? All of the above?
+[removed]
+If you experience enough concussions that you get used to it that's too many concussions.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Did you just cite Joe Rogan?
+What about sleep gas? Does that have the same effect has sleep?
+[removed]
+Yup my 4th MMA fight I was square to the guy and he threw up a head kick I didn't even see. Next thing I knew, one millisecond later I was sitting against the cage talking to my corner. Had to ask him what happened, was so confusing. One of the weirdest feelings ever.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Right!? 
+
+Sorry to hear you lost, keep training diligently!!!
+[removed]
+[removed]
+[removed]
+Analogies with computers work in reverse too.  We were taught modern computer architecture by comparing it to the function of the brain.
+
+In reality though, the brain is more similar to a massive network of computers than a single one. 
+
+This is even more apparent in a recent experiment
+where researchers used 80000+ processors over 40 minutes of real-time to simulate the biological processing of ~1% of the brain over one second.
+
+Apparently, in a real brain there are as many neurons as there are stars in our galaxy and each of those neurons are "networked with" about 10000 others.
+
+The complexity and sophistication of a human brain is just mind-boggling.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+So basically when you go to sleep you're using the disk defragmenter. But when you're unconscious it's a blue screen of death.
+[removed]
+[removed]
+[removed]
+Ok, so if I'm reading this right; tranquilizers do not put you to sleep in the literal sense... but what about sleep aids like Diphenhydramine HCl?
+Would it be weird to ask to see this footage? 
+
+Yeah its wierd, nevermind
+I’d just clarify that narcotics and alcohol are not medications do **not** necessarily follow this mechanism. A glass of wine before bed more likely functions by relaxing or depressing other stress stimuli that are keeping you awake: literally inhibiting an inhibitor to normal sleep function. In moderation, this should be safe and possibly even healthy, in that sleep is critical to normal function and activates repair mechanisms in the body. However, drinking until you pass out can be more akin to a concussion than normal sleep.
+[removed]
+[removed]
+Is there a difference from these two scenarios when one gets knocked out by blunt force?
+[removed]
+[removed]
+[removed]
+In saying that, alcohol and narcotics actually inhibit REM sleep which is the most important stage in our sleep cycle so while they may help you sleep they are actually rather inhibitory regardless of moderation. Granted, as you said a glass of wine isn't too bad but if you do it every night it has the same effect in that your brain becomes accustomed to it and changes its chemistry
+What about if you're knocked unconscious? Like, baseball bat / frying pan over the head style, in a non braindamagey way
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+This is a fantastic answer and I learned something, thank you!
+[removed]
+[removed]
+[removed]
+I was intubated and sedated for a week and remember dreaming. I still vividly remember some of the dreams...scary crap!
+So if a student were to stay up all night studying, he would actually remember less of what he learned? Am I getting this right?
+So if a student were to stay up all night studying, he would actually remember less of what he learned? Am I getting this right?
+So if a student were to stay up all night studying, he would actually remember less of what he learned? Am I getting this right?
+&gt;Sleep is a complex neurological state
+
+Not really, it's pretty god damn simple tbh. Hell even drosphila flies sleep... That shits not complex
+&gt;Sleep is a complex neurological state
+
+Not really, it's pretty god damn simple tbh. Hell even drosphila flies sleep... That shits not complex
+&gt;Sleep is a complex neurological state
+
+Not really, it's pretty god damn simple tbh. Hell even drosphila flies sleep... That shits not complex
+&gt;Sleep is a complex neurological state
+
+Not really, it's pretty god damn simple tbh. Hell even drosphila flies sleep... That shits not complex
+Sleep is not complex, it's pretty god damn simple tbh. Hell even drosphila flies sleep... That shits not complex
+Sleep is not complex, it's pretty god damn simple tbh. Hell even drosphila flies sleep... That shits not complex
+Sleep is not complex, it's pretty god damn simple tbh. Hell even drosphila flies sleep... That shits not complex
+my oral surgeon said they actually stop the drip early, before they have the last couple stitches in, so it's easier to wake up. as I was waking up I faintly recall someone saying "go back to sleep" so I happily obliged and drifted off for another couple minutes. no idea if I woke up 2 minutes early or 20, though. but by the time they wanted me out of the chair and over to the recovery area I was mostly mentally all there again, I remember it all pretty clearly after being told it was time to get up. I did remember totally wanting to sleep for an hour or so though. I dozed a bit in the recovery area but I'm pretty sure that was more like normal sleep because it did actually feel like time passed. but I have absolutely no memory of anyone shoving 6 cotton balls in my mouth, but there they were, all wedged up in those holes in my jaw.
+my oral surgeon said they actually stop the drip early, before they have the last couple stitches in, so it's easier to wake up. as I was waking up I faintly recall someone saying "go back to sleep" so I happily obliged and drifted off for another couple minutes. no idea if I woke up 2 minutes early or 20, though. but by the time they wanted me out of the chair and over to the recovery area I was mostly mentally all there again, I remember it all pretty clearly after being told it was time to get up. I did remember totally wanting to sleep for an hour or so though. I dozed a bit in the recovery area but I'm pretty sure that was more like normal sleep because it did actually feel like time passed. but I have absolutely no memory of anyone shoving 6 cotton balls in my mouth, but there they were, all wedged up in those holes in my jaw.
+my oral surgeon said they actually stop the drip early, before they have the last couple stitches in, so it's easier to wake up. as I was waking up I faintly recall someone saying "go back to sleep" so I happily obliged and drifted off for another couple minutes. no idea if I woke up 2 minutes early or 20, though. but by the time they wanted me out of the chair and over to the recovery area I was mostly mentally all there again, I remember it all pretty clearly after being told it was time to get up. I did remember totally wanting to sleep for an hour or so though. I dozed a bit in the recovery area but I'm pretty sure that was more like normal sleep because it did actually feel like time passed. but I have absolutely no memory of anyone shoving 6 cotton balls in my mouth, but there they were, all wedged up in those holes in my jaw.
+If I had a fuckin' dime
+If I had a fuckin' dime
+If I had a dime...
+Absolutely true. I actually started writing about this, but it was running longer than my original comment. 
+
+Alcohol has one of the [worst safety margins of any recreational drugs. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4311234/#!po=25.0000)  There are many methodologies to estimate this, but in general the Therapeutic Index is [the ratio of the toxic dose over the therapeutic (or recreational) dose. ](https://en.m.wikipedia.org/wiki/Therapeutic_index#Safety_ratio) Toxicity is generally estimated as lethality in 1% of the population. 
+
+Alcohol, heroin, cocain, and nicotine come in &lt;=10. Most drugs are 10-100. THC/LSD are around 1000. higher is safer (lol). The small ratio strongly implies that toxic effects (i.e. sleep impairment) have already started by the time you start feeling any effect. Definitely by the time you’ve got a buzz going. 
+
+On a population level (availability vs. toxicity), alcohol is the [most dangerous recreational drug](http://bfy.tw/Jmp7) by an order of magnitude. But I’m not going to try to nanny redit. A glass of wine 1-2x a week is likely cool for most people who would follow conservative medical advice on reddit. As a public service, i will provide the best scientific evidence available from a quick check of the primary biomedical literature:
+
+___
+
+
+Alcohol Clin Exp Res. 2013 Apr;37(4):539-49. doi: 10.1111/acer.12006. Epub 2013
+Jan 24.
+
+[Alcohol and sleep I: effects on normal sleep.](https://www.ncbi.nlm.nih.gov/pubmed/23347102)
+
+Ebrahim IO(1), Shapiro CM, Williams AJ, Fenwick PB.
+
+Author information: 
+(1)London Sleep Centre-Neuropsychiatry, London, United Kingdom.
+info@londonsleepcentre.com
+
+This review provides a qualitative assessment of all known scientific studies on 
+the impact of alcohol ingestion on nocturnal sleep in healthy volunteers. At all 
+dosages, alcohol causes a reduction in sleep onset latency, a more consolidated
+first half sleep and an increase in sleep disruption in the second half of sleep.
+The effects on rapid eye movement (REM) sleep in the first half of sleep appear
+to be dose related with low and moderate doses showing no clear trend on REM
+sleep in the first half of the night whereas at high doses, REM sleep reduction
+in the first part of sleep is significant. Total night REM sleep percentage is
+decreased in the majority of studies at moderate and high doses with no clear
+trend apparent at low doses. The onset of the first REM sleep period is
+significantly delayed at all doses and appears to be the most recognizable effect
+of alcohol on REM sleep followed by the reduction in total night REM sleep. The
+majority of studies, across dose, age and gender, confirm an increase in slow
+wave sleep (SWS) in the first half of the night relative to baseline values. The 
+impact of alcohol on SWS in the first half of night appears to be more robust
+than the effect on REM sleep and does not appear to be an epiphenomenon REM sleep
+reduction. Total night SWS is increased at high alcohol doses across gender and
+age groups.
+
+Copyright © 2013 by the Research Society on Alcoholism.
+
+DOI: 10.1111/acer.12006 
+PMID: 23347102  [Indexed for MEDLINE]
+Yep. Had my wisdom teeth removed and had to be sedated for about an hour. Last thing I remember was them putting the mask on me. Next thing I remember was them taking off the mask and me thinking they were just readjusting it and asking when they were going to start because I was really nervous. Was shocked to find out they were all done. 
+
+Was also in a car accident several years ago. Car had structural damage and I was able to walk away with a bad case of whiplash, so it wasn’t a horrible accident, thankfully. I was knocked out, though. 
+
+I don’t even remember getting hit, I just remember being stopped in traffic and then hearing this loud, godawful sound. Next “second”, I was wondering why my headband had fallen off and was on my face, the doors for the storage under my car stereo were open, why my car was halfway in the other lane at an angle, and why there was a woman with a very worried look knocking on my car window. I have no idea how long I was out and it took me a minute to realize that I had been hit. 
+
+Pretty scary shit.
+Yep. Had my wisdom teeth removed and had to be sedated for about an hour. Last thing I remember was them putting the mask on me. Next thing I remember was them taking off the mask and me thinking they were just readjusting it and asking when they were going to start because I was really nervous. Was shocked to find out they were all done. 
+
+Was also in a car accident several years ago. Car had structural damage and I was able to walk away with a bad case of whiplash, so it wasn’t a horrible accident, thankfully. I was knocked out, though. 
+
+I don’t even remember getting hit, I just remember being stopped in traffic and then hearing this loud, godawful sound. Next “second”, I was wondering why my headband had fallen off and was on my face, the doors for the storage under my car stereo were open, why my car was halfway in the other lane at an angle, and why there was a woman with a very worried look knocking on my car window. I have no idea how long I was out and it took me a minute to realize that I had been hit. 
+
+Pretty scary shit.
+Yep. Had my wisdom teeth removed and had to be sedated for about an hour. Last thing I remember was them putting the mask on me. Next thing I remember was them taking off the mask and me thinking they were just readjusting it and asking when they were going to start because I was really nervous. Was shocked to find out they were all done. 
+
+Was also in a car accident several years ago. Car had structural damage and I was able to walk away with a bad case of whiplash, so it wasn’t a horrible accident, thankfully. I was knocked out, though. 
+
+I don’t even remember getting hit, I just remember being stopped in traffic and then hearing this loud, godawful sound. Next “second”, I was wondering why my headband had fallen off and was on my face, the doors for the storage under my car stereo were open, why my car was halfway in the other lane at an angle, and why there was a woman with a very worried look knocking on my car window. I have no idea how long I was out and it took me a minute to realize that I had been hit. 
+
+Pretty scary shit.
+Yep. Had my wisdom teeth removed and had to be sedated for about an hour. Last thing I remember was them putting the mask on me. Next thing I remember was them taking off the mask and me thinking they were just readjusting it and asking when they were going to start because I was really nervous. Was shocked to find out they were all done. 
+
+Was also in a car accident several years ago. Car had structural damage and I was able to walk away with a bad case of whiplash, so it wasn’t a horrible accident, thankfully. I was knocked out, though. 
+
+I don’t even remember getting hit, I just remember being stopped in traffic and then hearing this loud, godawful sound. Next “second”, I was wondering why my headband had fallen off and was on my face, the doors for the storage under my car stereo were open, why my car was halfway in the other lane at an angle, and why there was a woman with a very worried look knocking on my car window. I have no idea how long I was out and it took me a minute to realize that I had been hit. 
+
+Pretty scary shit.
+Happened to me about a month ago. Wisdom teeth were getting pulled out, IV getting stuck in my arm and I'm about to shit myself because it was my first surgery. Next thing I know my mouth is all numb and my face is a balloon and I'm told it was over.
+Thanks for the ELI5!
+[removed]
+[removed]
+[removed]
+&gt; Loss of consciousness from lack of oxygen or through the use of psychoactive substances is a different mechanism
+
+What about being knocked out for some time by a blunt object? How does this compare to lack of oxygen and to using psychoactive substances?
+Joe Rogan is a meathead, he isn't a smart dude at all.  He's positioned himself to talk to very smart people, but it's clear how out of his element he is with most guests.
+[removed]
+[removed]
+However, not all knock outs come with concussions. I’ve mainly been knocked out by chokes. The more experienced guys are pretty quick at realizing they got choked out pretty quick. But also some people will still fight while being knocked out. Shits weird.
+[removed]
+[removed]
+Reddit apparently lost a long comment I just wrote about alcohol’s terrible [margin of safety](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4311234/#!po=25.0000), where I broadly agree about balancing relaxation vs. REM interference. It turns out a [recent review paper](https://www.ncbi.nlm.nih.gov/pubmed/23347102) found that 1 drink seems OK. 2-4 had less REM% but more sleep overall. Not good, but not as bad as I’d have expected. 
+
+You are over generalizing across a huge range of types of narcotics, especially with regards to dosage. I doubt that the effects on sleep are well established for many drugs simply because almost all drug studies are effectively banned in humans and bureaucratically difficult even in animals. Results for alcohol are mixed even with a $500 million yearly budget for NIAAA. As one counterexample, a [recent review of cannibis and sleep](https://www.ncbi.nlm.nih.gov/pubmed/28349316) suggests that high CBD strains may actually promote REM sleep.
+
+I’m not suggesting drugs are great for sleep or anything, merely advocating that we stick to scientific answers here.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Great post. You talk about unconsciousness caused by hypoxia, what about from trauma?. Is it the same if I get knocked out by a physical blow?
+Truth. Sometimes I get overheated + dehydrated and teleport to the floor.
+I have fainted a fair few times due to low blood pressure, high altitude, etc. Almost every time it happens or nearly happens, I first lose my vision. Sometimes I still have enough motor function and cognition left to lie down and/or put my head down or feet up and prevent actually fainting.
+I've passed out from blood loss. It was my final exams week. Went a night with very little sleep. Skipped lunch and breakfast except for a coffee to study/review. Had a friend convince me to donate blood. I lied to the doctor that was checking my blood and doing the test questions when he asked stuff like, "Did you get plenty of sleep? Eat a big meal? Drink lots of fluids today?" Shortly after the donation process started...my attendant left to go do something so I was left unattended. At some point I was unconscious and then suddenly woke up to the attendant pressing on my chest really hard with a big block of ice. It seemed like an instant but it was literally the greatest feeling in my life. Like my brain was instantly refreshed, clear, and charged to 100%. I doubt you can get anywhere near that feeling without using drugs or being put into the same state I was in. The Doctor had even asked me if I experienced the feeling. She mentioned that it feels like the greatest night of sleep in your life.
+You can safely yank the cord on a journaled file system. any modern OS uses one.
+It’s worth pointing out in REM sleep your brain activity resembles wakefulness-and the amount of these cycles determine restfulness during sleep.
+Do we know why humans evolved to have so many neurons an no other species did?
+[removed]
+It seems to happen most often in highly social vertebrates as a kind of arms race. Birds, dolphins, apes.
+[removed]
+Does this only happen when getting knocked out or also when depriving the brain of oxygen? I always got light headed when I getting up from bed in the morning when I was a teenager and once I fainted completely just to wake up confused on the floor. Does this mean that I banged my head on the floor or is the memory loss just from fainting?
+[removed]
+Your sleep theory is just one of many theories on what happens in our brains during sleep! We can measure the stages of sleep and record them, but as to what is going on in there, there are some other theories as well! Some theorists claim its a time where the neurons in the brain randomely fire! Sleep is so interesting. And its interesting that we force ourselves into unnatural sleep patterns to accomodate for our 9-5 work days of productivity!
+&gt;  Sleep is a complex neurological state
+
+Not really, sleep is actually pretty simple. Even drosphillia flies sleep, it's not that complicated
+[removed]
+&gt;no alert consciousness
+
+I'd argue there's at least a bit for all but the deepest sleepers. That's why sometimes outside stimulations sometimes manifest in your dream.
+[removed]
+Very interesting. Does this mean that when you pass out due to drugs or alcohol, you are not entering a state of rest that the brain needs to continue functioning properly? Lack of sleep can cause all kind of issues (hallucinations, impaired cognitive function, etc)- does passing out from intoxication cause you to "lose sleep" and make the situation worse, or is it just the damage cause by the substances themselves and their effect on the brain?
+[removed]
+[removed]
+Maybe more like you can either shut a pc down for the night or put it in a low energy state and tell it to defrag it's memory.
+[removed]
+That's what's known as anterograde amnesia, meaning that after the event (blunt force trauma, onset of action of specific drugs etc.) you were unable to form new memories for some time
+[removed]
+What do you mean no alert consciousness in the dream? For me dream state and waking state are not different.
+Alcohol is a poor choice for (quality) sleep induction for a variety of reasons but I would note that there's lots of brain chemistry that inhibits the chemicals that inhibit sleep onset. In some senses, sleep could be seen as the normal state!
+
+I guess all I mean there is that something that *causes* a certain action and something that inhibits the things that normally inhibits that action are functionally similar and not at all uncommon. We see this everywhere from muscular triggering to sensory actuation.
+[removed]
+[removed]
+[removed]
+[removed]
+Antihistamines tell your brain "hey, sleeping (or eating) would be a cool idea." Or, at least the ones that can actually reach your brain (non-drowsy ones don't cross the blood-brain barrier).
+
+Depressants actually cause inhibition of neural activity. A high enough dose of depressants can knock you unconscious.
+I believe fainting is *typically* caused by a temporary drop in blood pressure. So, oxygen deprivation.
+But what about G-LOC? Anecdotally, pilots undergoing high G’s testing will state they’ve experienced brief but vivid and full dreams
+https://en.m.wikipedia.org/wiki/G-LOC
+May I ask why you don't like "brain as computer" analogies? I have a hard time seeing how there is a better analogy. Not that it's perfect - but functional neural networks are just... Computers?
+BSOD, or just whatever happens when you drop your laptop...might wipe the ram, loose some data, etc
+If you fainted from low blood pressure in the brain, that would be enough to blank out your memories of actually falling to the ground.
+
+I've tried this too once, stood up quickly and everything went grey, and next thing I knew I was face down on the floor. I didn't really hit my head apparently, judging from the lack of pain, but the moment between standing up and being on the floor never registered. A friend of mine was in the room and he said I was only out for a second or two, so I think it was equivalent to being choked out rather than being knocked out by a hit to the head.
+
+Watch some MMA knockouts vs choke outs. Getting choked, you're fine a few seconds after being let go. Getting knocked out, you're usually confused and groggy for a while after.
+Do people who need more sleep reorganize more memories/need long to reorganize? Is there any developing theory on that?
+What about something like anesthesia? Is that still very different from regular sleep cycles?
+&gt; you lose zero, and I mean ZERO time while knocked out
+
+wait... that's gotta be a typo, right? You lose *more than* zero time when you're knocked out - you lose the time you spent knocked out, which is to say, you don't experience (or remember experiencing) the time you lost while knocked out, and that length of time is more than zero.
+
+right? so you *don't* lose zero time while knocked out. You lose more than zero, and I mean MORE THAN ZERO time while knocked out. Right?
+&gt; I'm not the biggest fan of brains-as-computers analogies
+
+Why not?
+When you mentioned fighting and passing out my mind immediately went to fighter jet pilots. And I was like “Wait, the jet pilot punched who?”
+The analogie you used is really impressive and self explanatory. That's pretty cool explanation. Thanks
+&gt; I'm not the biggest fan of brains-as-computers analogies
+
+Thank you for that!
+[removed]
+Regarding what u said in the first paragraph abt the brain organizing memories and such, do u think that's why so many adults with ADD have sleep difficulties? Or rather, could the sleep difficulties/disorders be creating some of the ADD symptoms?
+Can I piggyback on this &amp; where sleeping pills fit in between the two?
+He means the stream of perceived consciousness isn’t interrupted, unlike sleep.
+When I wake up in the morning, even if I didn’t dream, the night before seems like hours ago.
+The brain more or less floats in a water balloon. It can resist a lot of motion, but it can't stop it entirely. Any severe enough change in motion that can cause a concussion will have the possibility of knocking you unconscious when the brain hits the skull wall. That's why the classic "hit to the jaw" is a knock out button, it whips your head back and the brain can't get out of the way fast enough.
+
+&amp;#x200B;
+
+I think it's the neural overload that comes with it being stimulated by a physical shock.
+Normal Sleep is like this to me. No sense of time passing. I have to check the clock when I first wake up to make sure I slept and I very rarely remember my dreams.
+They're just too simplistic most of the time and more importantly, they often can't be extrapolated. Quick example off-hand: individual parts of the brain can often be repurposed and used to compensate for damaged brain tissue - if part of your CPU, HDD, RAM or GPU is fried, the computer probably doesn't work at all. 
+
+They're okay to quickly elucidate confined and simple concepts, but if you try to extrapolate them or dive deeper they often fall apart. 
+
+They're fundamentally different systems, but they're pretty similar on the surface and the public has at least basic familiarity with them, which is why they're not entirely worthless, despite the predisposition to be misleading.
+Where would a general anaesthetic fit in? I had one a year ago for surgery and when I woke up I felt like I had had the best sleep ever (though I concede that having a severely broken arm probably meant my sleep wasn't great for those couple of days prior).
+Yes, in that under anesthesia you're not cycling through normal sleep stages at all.
+I'd say a better analogy is suspending or hibernating the computer versus unplugging it from the wall. When you suspend/hibernate the computer, it's still on, the state is saved (in RAM or on disk respectively), and it's polling for input (keyboard, wake on lan, etc.). This is fairly similar to our sleep states (hence why suspend is usually called "sleep") in that the computer is still on and easily woken in case of "extreme" event like a keypress.
+
+Unplugging a computer prevents it from being woken at all; not even pressing the power button from an off state can turn it on.
+
+Filesystem defragmentation is something else entirely and has to do with arranging segments of files sequentially on spinning disk drives for faster/more efficient access. I suppose this could be analogous to the rearrangement of memories, but there's nothing actively preventing you from using the computer during defragmentation (and most filesystems (and anything on a solid state drive) don't require defragmentation anyway; NTFS is the only one I can think of that requires active defragmentation).
+Correct, substance induced states of unconsciousness are not as restful as natural sleep, though some substances at low doses may make a person more likely to fall into the standard sleep waves.
+You could compare being knocked unconscious to a power surge sufficient to cause the computer to shut down, then. 
+
+Or compare it to an older computer.
+[removed]
+[removed]
+Dude I love my dreams. I can even Lucid Dream because I'm constantly realizing I'm dreaming which is a real good time. I dunno.
+That was a great explanation. I always hear about how supercomputers are being equated to the human brain but your point on repurposing shows how the analogy doesn’t work well.
+[removed]
+&gt;Not really, sleep is actually pretty simple. Even drosphillia flies sleep, it's not that complicated
+
+Lights turn on and off, too, but I'm not about to compare that to a computer shutting down. 
+
+&gt;Sleep is a complex and dynamic process that affects how you function in ways scientists are now beginning to understand. 
+
+https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Understanding-Sleep
+That may be your perception of it, but even if you are lucid in your dream, you're still dreaming. You brain is still working through the neurological stages of sleep.
+I know that research indicates difficulty/disturbance in sleeping has a significant overlap with ADHD symptoms, and obviously poor sleep will lead to reduced capacity to hold focus. Beyond that I don't know enough to confidently say much off hand without reading more.
+If you're being knocked unconscious due to physical trauma and were not otherwise exhausted or intoxicated, it's almost a guarantee that you have a minor concussion. Considering the research on having multiple concussions, even minor ones, it's hard to believe that unconsciousness due to impact trauma doesn't cause at least very minor brain damage.
+[removed]
+[removed]
+[removed]
+GLOC is the same as hypoxic/anoxic loss of consciousness or choking someone out. Also not sleep, but less traumatic than physical impact. 
+
+Neurological activity may occur, but it's not *dreaming* in the normal sense of the word.
+If I look at my subjective experience of my consciousness I dont think I can separate it and alertness, it is in the nature of consciousness to be alert just like it is the nature of light to illumine. How much stuff the light shines upon may vary. Also funnily enough from the subjective point of view of consciousness/alertness it never goes off or comes on, it is ever present and unchanging in its own experience of itself.
+Yeah it's wrong. Sleep isn't complex, it's simple. Now stop spreading misinformation, thanks 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3571757/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738085/
+[removed]
+[removed]
+Why do you say that REM sleep is more important than non-REM? Afaik slow wave sleep is responsible for most of the regenerative effects and if you miss sleep then your next sleep prioritises it over REM.
+More REM = more refreshed? I always thought it was the other way around.
+[removed]
+
+Summary:
+I was knocked out, though.
+Normal Sleep is like this to me.
+[Alcohol and sleep I: effects on normal sleep.
+I did remember totally wanting to sleep for an hour or so though.
+Does that have the same effect has sleep?
+May I ask why you don't like "brain as computer" analogies?
+Hell even drosphila flies sleep... That shits not complex.
+Last thing I remember was them putting the mask on me.
+Sleep isn't complex, it's simple.
+Sleep is not complex, it's pretty god damn simple tbh.
+Am I getting this right?
+What about if you're knocked unconscious?
+Your sleep theory is just one of many theories on what happens in our brains during sleep!
+&gt;Not really, sleep is actually pretty simple.
+If I had a dime...
+You brain is still working through the neurological stages of sleep.
+If you are knocked out, choked out, or faint, do you effectively fall asleep or is that state of unconscious in some way different from sleep?
+Does this only happen when getting knocked out or also when depriving the brain of oxygen?
+so you *don't* lose zero time while knocked out.
+The Doctor had even asked me if I experienced the feeling.
+&gt;Sleep is a complex neurological state
+
+Not really, it's pretty god damn simple tbh.
+that induces sleep, or do they force the brain into an altered state of consciousness?
+Is it the same if I get knocked out by a physical blow?
+&gt;  Sleep is a complex neurological state
+
+Not really, sleep is actually pretty simple.
+Had my wisdom teeth removed and had to be sedated for about an hour.
+A high enough dose of depressants can knock you unconscious.
+Even drosphillia flies sleep, it's not that complicated.
+no idea if I woke up 2 minutes early or 20, though.
+So if a student were to stay up all night studying, he would actually remember less of what he learned?
+I have a hard time seeing how there is a better analogy.
+Is that still very different from regular sleep cycles?
+I was intubated and sedated for a week and remember dreaming.
+Does this mean that I banged my head on the floor or is the memory loss just from fainting?
+Was also in a car accident several years ago.
+So basically when you go to sleep you're using the disk defragmenter.
+If I had a fuckin' dime.
+In some senses, sleep could be seen as the normal state!
+If you fainted from low blood pressure in the brain, that would be enough to blank out your memories of actually falling to the ground.
+Also not sleep, but less traumatic than physical impact.
+What do you mean no alert consciousness in the dream?
+But also some people will still fight while being knocked out.
+What about something like anesthesia?
+Dude I love my dreams.
+Even drosphillia flies sleep, it's not that complicated
+
+Lights turn on and off, too, but I'm not about to compare that to a computer shutting down.
+Does a patient in a coma or other unconscious state have sleep and waking cycles?
+Car had structural damage and I was able to walk away with a bad case of whiplash, so it wasn’t a horrible accident, thankfully.
+This is a fantastic answer and I learned something, thank you!

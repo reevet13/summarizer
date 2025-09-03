@@ -1,0 +1,17 @@
+Here is the summary of about 10% of the text or up to 250 words:
+
+No one will read the text. Use diagrams that can be seen and understood from 1 metre away. Use text to annotate these diagrams and provide a few more details.
+
+It sounds like you're about to fall into one of the poster traps: treating it like a paper that is put onto a board.
+
+For a post, this sentence should just be "Aphid density was examined. ."
+
+Your focus should be your figures. These should be BIG, readable, with short, clear, understandable axes.
+
+One problem with arranging things this way is that conclusions end up on the far bottom right, which can be hard to read/notice in many poster session setups. I recommend putting your main results front and center, where people will notice them.
+
+Think of the poster more like a talk than a paper - keep specific methods with specific figures and interpretations, rather than having a comprehensive methods section before multiple figures before a comprehensive conclusions section.
+
+Finally, you say you want to have 10 citations. This is overkill! I would keep it at <3.
+
+I hope these suggestions (which is all they are, not rules) are useful!

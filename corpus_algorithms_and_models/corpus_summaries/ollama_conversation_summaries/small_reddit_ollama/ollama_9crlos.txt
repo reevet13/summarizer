@@ -1,0 +1,16 @@
+Here are the selected sentences from the original text, verbatim and separated by newlines:
+
+I don't mind the notch if I can hide it
+You are paying for it,you know that?
+That's a great way to get burn in on an OLED phone.
+
+Edit: I love how I'm downvoted for stating basic facts. An unlit static area such as a hidden notch will cause the pixels to wear a lot slower and unevenly with the rest of the lit up screen causing burn it.
+Production of notched displays is pricier than non-notched displays
+https://news.ihsmarkit.com/press-release/technology/smartphone-display-notch-design-estimated-cost-about-20-percent-more-ihs-ma
+
+It would be hidden via black pixels. Black doesn’t burn in as the pixels are off.
+ok, this seems to true then.
+
+Always on displays don’t move to even out burn in, they move to prevent burn in by reducing single pixel wear.
+
+What you’re trying to explain is AMOLED dimming, where a pixel will naturally grow dim over time and use due to the molecular breakdown of the organic material.

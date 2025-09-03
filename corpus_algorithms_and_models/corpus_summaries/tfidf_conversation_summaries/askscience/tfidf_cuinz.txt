@@ -1,0 +1,83 @@
+Original Response:
+A few weeks ago, I saw the wikipedia "List of Common Misconceptions" somewhere on reddit. I decided to read through them, and one really struck my as being incorrect.
+
+In the physics category it states: "Gyroscopic forces are not required for a rider to balance a bicycle. The stability of a bicycle is determined by its geometry and the rider's ability to counteract tilting by steering." (http://en.wikipedia.org/wiki/List_of_common_misconceptions#Physics)
+
+I have given this some thought, and I keep coming back to the idea that when you sit on a bicycle that is stationary, it is very difficult, if not impossible, to keep it from falling over. Yet, at speed, it is extremely easy to keep from falling over. The wheels do have a gyroscopic effect on the stability of the bike. The same is true for motorcycles, and if anyone has seen a motorcycle rider in full lean, they would know that simply steering cannot pull you out of something like that. (Serious lean in MotoGP http://imgur.com/IpG7Z.jpg)
+
+And so I submit this to reddit for a scientific peer review of sorts.
+The geometry of the bike keeps you from falling forwards.  Combine that with your forward momentum and you've got yourself a model that doesn't *require* gyroscopic forces.
+I thought the way bicycles worked was a great mystery?
+I think it's quite right, actually.
+
+If you are leaning right on a bicycle, the main reason you don't fall down is not gyroscopic forces, but the fact that you're (hopefully) turning right at the same time.
+
+Leaning right produces a rightward force that will cause you to fall down. This is simply a result of gravity and a lever (you and the bike are the arm, the tire-pavement interface is the fulcrum).
+
+Turning right produces centripetal forces on you, towards the left - enabled by the friction between the ground and the bike tires, the same "fulcrum" so to speak. This leftward force (hopefully) balances the rightward force, and you remain in equilibrium.
+[deleted]
+Not really related to the problem but it is extremely easy to balance on a stationary bicycle. 
+
+Simply turn your front wheel a bit into a slightly upwards slope, stand up on your pedals and very slowly move back and forth a few inches by pedalling and then rolling backwards down the hill. It's called a trackstand and with a few hours practise you should be able to do it with no hands!
+Here is where that particular statement probably came from, it's an old Physics Today article (warning: PDF):
+
+http://www.google.com/url?sa=t&amp;source=web&amp;cd=1&amp;ved=0CBIQFjAA&amp;url=http%3A%2F%2Fwww.physik.uni-regensburg.de%2Fforschung%2Ffabian%2Fpages%2Fmainframes%2Fteaching%2Fteaching_files%2FPhysics%2520Around%2520Us_files%2Fvol59no9p51_56.pdf&amp;ei=2_dPTOzmFITksQPkpPmYBw&amp;usg=AFQjCNHYr6HoCy6I3DWgo50F6INJ_mMtpQ&amp;sig2=JcLMI4LPClGFvEVavd0hdw
+This is exactly right. The other thing to be aware of is that gyroscopic forces make it easier to rotate about the centre of the gyroscope, and harder to rotate elsewhere. Because the centre of mass is above the wheel centres on a bike, gyroscopic forces actually make it easier to fall. 
+
+This is why bikes with small wheels are less stable at high speeds.
+&gt;The same is true for motorcycles, and if anyone has seen a motorcycle rider in full lean, they would know that simply steering cannot pull you out of something like that.
+
+As a motorcycle rider, I can tell you that steering is what puts you into a lean and gets you out of it.  All the waggin-yer-butt stuff is really to lower your center of gravity, and to get a better feel for what the bike is doing.
+Yes, I agree.  I think that I was wrong in my turning theory, but I still think gyroscopic forces play a role in motorcycles especially.  Let me ask you this, why is it easier to turn left than it is to turn right?
+&gt;why is it easier to turn left than it is to turn right?
+
+It isn't.  I mean, there is no left v. right preference in the motorcycle--any preference stems from the rider.  
+
+(I seem to prefer left--that's always been the direction I'm going when I lean too far and the rear tire starts skipping out.  Yes, I know, I need a better tire.  I don't know if I prefer left because there's more road over there, or because the throttle is on the right grip--pushing and rolling with the same hand being more complicated.)
+I hope Mythbuster touch this. Maybe they can come up with some kind of bicycle with no rotating part and test it.
+Bikes are surprisingly complicated and still being actively researched.  I saw a very interesting talk by [Andy Ruina](http://ruina.tam.cornell.edu/research/topics/bicycle_mechanics/overview.php) on this and other [non-holonomic systems](http://en.wikipedia.org/wiki/Nonholonomic_system) a few years ago.
+
+No one is arguing that gyroscopic forces aren't present when someone rides a normal bike and that they contribute towards stability.  But people do argue that they aren't the main source of stability, or a requirement for stability.  That said you can't put all the blame for stability on the rider either, at the right range of speeds riderless and even riderless perturbed bikes become stable [video](http://www.youtube.com/watch?v=PXRQdWG9FuM).  
+
+To quote their [review paper](http://audiophile.tam.cornell.edu/~als93/Publications/06PA0459BicyclePaperv45.pdf):
+
+&gt;Today these same two basic features of bicycle balance
+are clear:
+
+&gt;&gt; i. A controlling rider can balance a forward-moving bicycle by turning the front wheel in the direction of an undesired lean. This moves the ground-contact points under the rider, just like an inverted broom or stick can be balanced on an open hand by accelerating the support point in the direction of lean.
+
+&gt;&gt; ii. Some uncontrolled bicycles can balance themselves. If an appropriate typical bicycle is given a push to about 6 m/s, it steadies itself and then progresses stably until its speed gets too low. The torques for the self-correcting steer motions can come from various geometric, inertial and gyroscopic features of the bicycle.
+
+&gt; Beyond these two generalities, there is little that has been solidly accepted in the literature, perhaps because of the lack of need. Through trial and error bicycles had evolved by 1890 to be stable enough to survive to the present day with essentially no modification. Because bicycle design has been based on tinkering rather than
+equations, there has been little scrutiny of bicycle analyses.
+
+&gt; [...]
+&gt;
+&gt;The equations here can be the basis for future work addressing how bicycle selfstability does and does not depend on the bicycle design parameters. For example, we hope to dispel some bicycle mythology about the need for mechanical trail or **gyroscopic wheels** for bicycle self-stability.
+
+You might wonder how one would test for stability without a gyroscopic effect.  I can imagine several ways, which may or may not have been done:
+
+* One might construct a bike with a system of wheels with no net angular momentum that one could ride. This could be done by a set of three wheels, one big one rotating forward, and two smaller ones (not touching the ground) rotating backwards at the same velocity by a system of gears, where the sum of the moment of inertia of the backward wheels equals the momentum of inertia of the forward wheel.  If a bicyclist could easily ride this than stability is not solely a function of gyroscopic forces.  
+
+* You could construct a bike with gyroscopic forces but has a funky design that makes it difficult to ride (something like change the handlebar location, location of the rider relative to the wheels/handlebar, which wheels are fixed or can pivot, etc.).  
+
+* You could construct a bike that can tilt left or right, but is suspended off of the ground and held stationary (e.g., by a suspended rod going through the front to the back of the bike) that a rider can sit on.  You could see the difference in the left/right stability of the bike with rotating or stationary wheels due to the gyroscopic forces.
+I wouldn't say that it's "extremely easy", but it's certainly possible.
+I learned it in less than 5 minutes. I would consider that as an extremely easy skill.
+I assume you were a pretty proficient cyclist to begin with. I can stand on my bike on flat ground for 30-60 s, but I don't consider it easy.
+Well maybe I just got lucky. I'm not a cyclist really, I used to ride trails and do freeriding and dirt jumping when I was 15 or so. Broke a lot of bones hahaha.
+Imagine iceskating on one foot. There are no gyroscopic forces present and after some practice it's easy to do. You correct your balance very similar to how a bike does as described in the wiki.
+
+Exiting a severe bike lean also doesn't use gyroscopic forces, but rather inertia. Skaters or skiers use inertia to pull themselves out of similar leans all the time. 
+
+This isn't to say gyroscopic forces don't exist on a bike. The spinning tires definitely aid in balancing the bike through conservation of angular momentum.
+
+Summary:
+The wheels do have a gyroscopic effect on the stability of the bike.
+This isn't to say gyroscopic forces don't exist on a bike.
+The geometry of the bike keeps you from falling forwards.
+Leaning right produces a rightward force that will cause you to fall down.
+There are no gyroscopic forces present and after some practice it's easy to do.
+You could see the difference in the left/right stability of the bike with rotating or stationary wheels due to the gyroscopic forces.
+In the physics category it states: "Gyroscopic forces are not required for a rider to balance a bicycle.
+A controlling rider can balance a forward-moving bicycle by turning the front wheel in the direction of an undesired lean.

@@ -1,0 +1,21 @@
+That's because you don't just inject naked DNA. I'll explain :)
+
+First, a virology lesson. Some viruses, when they infect you, insert their DNA into your DNA. They literally become part of your genetic code. When this happens, your cells unintentionally follow the instructions that are coded on that DNA, and make more viruses.
+
+In gene therapy, we take advantage of that. We genetically engineer a virus to carry the DNA of a gene we want to insert into the patient. We also engineer the virus to not kill the patient because death would make measuring the gene therapy outcome difficult and because killing patients is bad.
+
+We then infect the patient with the virus. It inserts itself into the DNA of a cell, replicates, and inserts itself into the DNA of another. This continues until your immune system gets wise and stops it. Hopefully by then the virus has deposited the gene into enough of your cells!
+
+Note: You usually don't need to insert the gene into *every* cell. Just enough to restore whatever function was lost. Sometimes you *don't want* to insert it into every cell, because the gene you are replacing is only meant to be active in, say, the liver or the pancreas; you don't want in the brain!
+
+Also note: Gene therapies are highly experimental and don't work very well. Problems include inserting DNA in the wrong place and causing millions of tumors. And sometimes you get cytokine storms.
+
+You usually don't need every cell to carry the gene. As long as some of the cells are working correctly, the disease will be cured. Even if only 1% of the cells are corrected that may provide enough function for the person to live comfortably.
+
+Regarding targeting specific organs or cell types, we aren't very good at it. Typically, if we want to insert a gene into the liver we will take a virus that naturally targets the liver, such as the Hepatitis C virus.
+
+Correct me if I'm wrong but I was under the impression that gene therapy is not permanent solution and, as the technology stands now, the best we can do is alter somatic cells to behave differently and then repeat the entire treatment again when those cells die from aging.
+
+I think a little more clarification is needed.  Gene therapy, as it experimentally exists now, is mostly focused on expressing proteins that are missing or lacking.  We're not really at the point of removing defunct genes and replacing them with better ones.
+
+Viruses are the best way (currently) to insert new DNA, as other vectors don't have the innate ways to bypass the numerous hurdles (

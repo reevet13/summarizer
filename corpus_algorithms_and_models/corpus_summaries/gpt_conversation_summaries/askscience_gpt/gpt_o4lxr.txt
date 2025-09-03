@@ -1,0 +1,13 @@
+You need a definition of efficiency that takes into account how "lossy" you allow your signal to be. Every non-trivial statement you make is a lossy compression of your idea -- the compression is where the efficiency comes from. That signal is uncompressed back into a (hopefully) similar idea by the receiver.
+
+From a strictly computational standpoint, this actually leads to some deep questions such as "what is the minimal amount of information I need to send to you to covey something". It is hard to get a foothold on this problem as stated, so maybe we have to make some simplifying assumptions -- for example, maybe we talk just about all the words and how to more succinctly represent them in a language.
+
+Interestingly, you can make a language even more succinct than that. The language above assumes that *every* word has the same length. It is unlikely that you use the concept "monotheism" with the same frequency as the concept "go", and if you want shorter words on *average based on use*, you can assign more common concepts shorter words at the cost of longer words for less common concepts.
+
+Interestingly, even this is not the *best* you can do. For example, you could exploit the fact the different words tend to follow one another with high frequency and encode special "words" that are shorter when used together.
+
+Natural languages have a pretty high degree of redundancy.
+
+This is helpful when somebody is trying to talk over the noise of a crowd or a battle or something.
+
+Like you said, even with (or maybe especially with) words dense with meaning, there is inevitable loss of meaning between speaker and listener. It's hard (maybe impossible) to imagine a "lossless" language.

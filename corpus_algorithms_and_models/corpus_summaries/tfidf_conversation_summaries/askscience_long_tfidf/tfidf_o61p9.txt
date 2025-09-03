@@ -1,0 +1,103 @@
+Original Response:
+...is this really the case?
+
+I've read too much Wikipedia today and got all confused, I guess.
+The problem is, when you're talking about spacetime curvature, you're talking about the relativistic theory of gravity. When you're talking about force-mediating particles, you're talking about a quantum description of gravity. You may have heard that quantum mechanics and relativity don't agree with one another. This, right here, is essentially why. Looking for the patch that clears this incongruity up is a big part of what is sometimes called the search for the Grand Unification Theory.
+No, a working theory of quantum gravity doesn't have to converge at high energies. That would be nice but it isn't necessary.
+
+EDIT: Maybe I should clarify.
+
+&gt;Looking for the patch that clears this incongruity up is a big part of what is sometimes called the search for the Grand Unification Theory.
+
+This isn't true, a Grand Unified Theory (GUT) is when there is a convergence of three elementary interactions namely: electroweak (EM + weak interactions), and strong interactions. A GUT doesn't require the high energy convergence of gravity. In fact, the entire quantum gravity program isn't even aimed at doing that, it's just trying to find a theory which gives a description of quantum space-time and how it interacts with mass and energy. Some notable theories:
+
+- Loop Quantum Gravity
+
+- Superstring Theory
+
+I think one thing that wasn't brought up that has a lot to say in this conversation is the [Weinberg-Witten theorem](http://en.wikipedia.org/wiki/Weinberg%E2%80%93Witten_theorem).
+Can you elaborate a bit? I'm not sure what specific comment of mine you're correcting.
+Read the edit and tell me if you still don't get it :).
+Perfect thanks. What then would you call a theory that resolves QM with GR?
+A theory of quantum gravity ;).
+There are two things to bear in mind here: what does it mean, mathematically, for spacetime to have curvature, and what does it mean (again mathematically) for a force to be mediated by a particle?
+
+The curvature of spacetime is described by a matrix called the *metric tensor* which has different values at each point in space and time, telling you exactly how the usual Pythagorean theorem is modified to measure distances. Because it's an object with a certain value at each point in spacetime, it's what we call a field.
+
+In quantum theory, particles arise as energetic excitations in fields. The electromagnetic field is one - it's made up of a vector at each point in spacetime - and its excitations are called photons. All the other elementary particles - quarks, electrons, neutrinos and the rest - are also quantum excitations of fields. This leads to dual descriptions; the electromagnetic force can be described in terms of particles responding to the electromagnetic field, but we can also talk about that field in terms of photons. Similarly, the metric tensor which describes spacetime curvature is also a field, so in principle it should be able to be quantized as well, and its excitations are particles called gravitons. It's really a different description of the same underlying physics.
+Perhaps it would be illuminating to take a step back and construct a simpler or more familiar analogy.
+
+This is sort of building on what WappMetropolis is saying, but might be a little bit clearer.
+
+You can break General Relativity down to a fundamental idea that a system undergoing constant acceleration is indiscernable from a system within a gravitational well.
+
+That is to say, when you experience being under the influence of gravity (which in turn could be described as you 'interacting' with the gravity [or 'higgs'] field such that the more gravity you feel the stronger the thing responsible for that gravity is interacting with the field) it is exactly the same in every way as your experience of being in constant acceleration.
+
+Think of it like this: you wake up and are in an elevator with no windows. You must have just gotten trashed and passed out in your apartment elevator, sucks to be you - that's embarrassing. But if instead your friends played a cruel trick on you, and put your passed-out body inside of a perfect mock-up elevator in a spaceship that is in space really far away from any local massive objects and constantly accelerating at 9.81m/s/s -- then when you wake up you will not be able to tell whether you are on earth or in space until you open the door. In fact, there is no experiment you can do that would allow you tell apart constant acceleration VS being on a planet except opening the door and finding out you were on a rocket ship.
+
+Okay, cool. So, now let's say a graviton is the force-mediating particle of the gravity field. 
+
+So, if you are familiar with the concept of "inertial reference frame" from *special* relativity, you know that a particle moving at a constant velocity has a reference frame indistinguishable from a particle at rest, wherein similarly there is no experiment you can do to tell them apart -- physics operates in exactly the same way. Let's construct the same sort of concept here.
+
+In that sense, in one of our GR reference frames, person A can describe what he is experiencing as his interaction with a gravitational field produced by the large mass of a planet (which we will generalize for the moment to be the force-mediator responsible for that field, but is in fact the result of a bunch of other particles that collectively are interacting with that field even more strongly than guy A is with the that field). He can do all sorts of fun experiments, and type the results up in LaTeX and say proudly that he is in a gravity field and this is what it does!
+
+Now, let's take a second GR reference frame in that perfect space-elevator. Person B can describe what she is experiencing as the inertial effects of constant acceleration in that elevator (which for our purposes can stand in for the idea of 'curved spacetime'). She can do all of the same experiments as person A, will get all of the same results, put together a three hour power point, and proudly say that she is accelerating constantly, and *THIS* is what that does.
+
+General Relativity is saying that Person A and Person B don't just *feel* like they are experiencing the same thing, but that fundamentally (as long as Person B's acceleration is perfectly constant at the correct rate), they ARE experiencing exactly the same thing, in every way.
+Therefore, General Relativity never has to deal with things like 'Gravity Fields' because gravity wells can just be treated as properly configured GR Accelerating Reference Frames.
+
+That is all that the above statement is saying.
+
+GR *could* try to do all of it's physics using quantum behaviors like gravity wells and gravitons -- but that seems ridiculously messy, kind of defeats the point, and as we have seen, every time we try and get QM and GR to play well together, somebody gets hurt. So instead it just doesn't bother with them at all, and then puts forth a way to justify making its life easier that way.
+
+EDIT: You know, adamsolomen actually hits the nail on the head. I was trying to avoid talking about the physics of why higgs bosons / gravitons are just excitations of a field that we can describe as space-time curvature because I thought that it would just be more confusing -- but he actually explains that rather elegantly, and in a way that makes my long-winded analogy quite cumbersome. Take my Upvotes, sir.
+&gt; Similarly, the metric tensor which describes spacetime curvature is also a field, so in principle it should be able to be quantized as well
+
+Why?
+Why is it believed that a field must be excitable or able to be quantized?  Couldn't it be that the metric tensor is describing something fundamentally different?
+If it wasn't excitable, that means it would be static and unchanging forever, and nothing would ever happen. As far as quantization is concerned, there isn't a quantization of gravity that we have been able to experimentally determine, but the quantization of other fields (electromagnetic, quark, lepton, etc...) leads us to expect that maybe this one can be quantized too.
+Oh ... so by "excitable" do you mean "dynamic"?  Or am I misunderstanding you?
+
+Ok, sure, other fields can be quantized, but why would we expect that the space-time metric is a similar kind of entity?  A field can be used to describe all sorts of things, many of which are not fundamental particle fields.
+
+I guess I have to admit - GR and quantum theory aren't compatible as is.  The whole concept of a "world line" completely violates the uncertainty principle.  Would the quantization of gravity solve this problem?
+If we quantize a field, we basically find that it behaves like a quantum harmonic oscillator (basically a quantized pendulum, called a QHO) at every point in space. People studied QHOs before they actually quantized fields, so a lot of the results were carried across. But QHOs have a zero state, and excitations in modes that count up (0, 1, 2, 3...)
+
+When we quantize fields, we find that these excitations travel across the space of the "QHOs" that make up the field. They occasionally do other stuff when in they come close to other excitations (we call this scattering) or just by themselves (we call this decay).
+&gt; You can break General Relativity down to a fundamental idea that a system undergoing constant acceleration is indiscernable from a system within a gravitational well.
+
+This is not true.
+
+A free-falling frame does not remove tidal effects. That's the diffeomorphic-invariant that we can actually equate to gravity. If constant acceleration was identical to gravity, then it would always be possible to "transform away" the effects. However, GR posits that physics in all reference frames (inertial and non-inertial) are identical. So if we ever are to admit that gravitation/curvature is a real thing, then it must be impossible to completely transform it away.
+
+And indeed, if a tensor is non-zero in one frame, it is non-zero in all frames. Which is why we use tensors (e.g. the Riemann tensor) in the first place.
+This is correct.
+
+I should have made more explicit that I was going for a qualitative analogy. But as my edit was meant to say, it got away from me pretty quickly. I don't think that post is an informative way to think about this question.
+&gt; But QHOs have a zero state, and excitations in modes that count up (0, 1, 2, 3...)
+
+But isn't this only for bound particles?  A free electron doesn't have discreet states like that, does it?
+
+How could a graviton possibly have a bound state?
+It's not the particle which has the state, but the field. A free particle is an oscillation that propagates.
+What's the difference between an excitation of an electron field of mode 0 or mode 1?
+Mode 0 would be the vacuum, and mode 1 would be a single electron. You can't get mode 2 for fermions (as far as I know, we build that in to the theory).
+Ooh.  Ok that makes sense.  I'm remembering now ... second quantization, right?  What kind of particle can have a mode &gt;= 2?
+
+Alright fine, so maybe you can excite the metric-tensor field, and we would call that a graviton.  I'm unclear on how the graviton would then act as the "intermediate particle" when two particles interact gravitationally.  I mean, GR describes gravity to be the result of objects moving along their geodesics through space-time at the speed of light.  I don't see how objects would be compelled to move through spacetime in this way by exchanging gravitons.
+
+Would a particle with mass emit zillions of gravitons that somehow perturb the metric-tensor into a curved space surrounding the particle?
+
+Summary:
+A theory of quantum gravity ;).
+So, now let's say a graviton is the force-mediating particle of the gravity field.
+It's not the particle which has the state, but the field.
+In quantum theory, particles arise as energetic excitations in fields.
+&gt; Similarly, the metric tensor which describes spacetime curvature is also a field, so in principle it should be able to be quantized as well
+
+Why?
+Would the quantization of gravity solve this problem?
+The electromagnetic field is one - it's made up of a vector at each point in spacetime - and its excitations are called photons.
+What kind of particle can have a mode &gt;= 2?
+What then would you call a theory that resolves QM with GR?
+Why is it believed that a field must be excitable or able to be quantized?

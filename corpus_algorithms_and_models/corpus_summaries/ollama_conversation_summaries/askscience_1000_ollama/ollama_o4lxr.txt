@@ -1,0 +1,11 @@
+Here is the summary of around 10% of the original text:
+
+Aren't we directly limited by "transfer rate" (for lack of a better term)? Like, I understand that complex ideas can be communicated by a single word or short phrase, like *democracy* or *monotheism*. But can we get much more specific than broad terms and ideas than that?
+
+You need a definition of efficiency that takes into account how "lossy" you allow your signal to be.  Every non-trivial statement you make is a lossy compression of your idea -- the compression is where the efficiency comes from.
+
+Is that loss of precision OK in your theoretical highly-efficient language?
+
+From a strictly computational standpoint, this actually leads to some deep questions such as "what is the minimal amount of information I need to send to you to convey something". 
+
+Let's say there are around [1 million words](http://oxforddictionaries.com/words/how-many-words-are-there-in-the-english-language) you would ever want to say.

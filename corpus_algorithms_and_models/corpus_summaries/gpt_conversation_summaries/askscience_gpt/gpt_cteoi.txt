@@ -1,0 +1,19 @@
+Well you would eventually hit the earth, but barring that you would continue to accelerate, approaching but never reaching the speed of light.
+
+Terminal velocity is just when the force of friction from your drag equals the force of gravity, so you have no acceleration.
+
+If you dug a tunnel through the centre of the earth to the other side, it would take 42 minutes to fall through. The acceleration would decrease until it reached zero at the centre.
+
+In short, the answer is yes because terminal velocity arises from air resistance on earth.
+
+On the other hand if you kept going, I suppose the universe has a kind of terminal velocity which is the speed of light. (it's not a terminal velocity though because you'll never reach that velocity, but carry on getting closer and closer to it)
+
+If you're talking about actual terminal velocity in a non-vaccum then by definition terminal velocity is the maximum speed attained.
+
+Not technically. Terminal velocity is when the drag force balances the force of gravity. The actual acceleration of the falling object is directly proportional to the difference between those forces. The closer to terminal velocity an object gets, the smaller that difference becomes, and the lower the acceleration, so the object never technically gets there, just infinitely close.
+
+Falling through the earth is equivalent to simple harmonic motion with a period of 84 minutes and an amplitude of 6380 km. That gives you 8 km/s at the centre.
+
+Yes, except the infinite part.
+
+You'll eventually either run out of earth, or start butting up against the speed of light.

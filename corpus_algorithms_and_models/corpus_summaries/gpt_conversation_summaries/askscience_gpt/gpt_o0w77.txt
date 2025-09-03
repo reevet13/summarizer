@@ -1,0 +1,9 @@
+Photons are light. Quantum mechanics says everything exists in discrete, individual levels, and photons are the discrete, individual energy packets that light exists as. Additionally, all forces are mediated by some particle. For the electromagnetic force, this mediator particle is also photons.
+
+For your other question, to see at small scales, you need light of a smaller wavelength than what you want to image. If you use really small bullets, smaller than the object, some of them hit the object and stop, whilst others go through and create a silhouette of the object, and you get an image. In a similar way, light that has a smaller wavelength (think, bullet size) than the object can be used to take images, but light with long wavelengths cannot.
+
+To view atoms, you need a really small wavelength, but also a good camera for the rays. Things like x-rays or gamma-rays could be used, but sometimes it is better to use electrons, which behave like waves sometimes,  or even a neutral atom like helium, which also can behave like a wave sometimes. Electron microscopes are really good at taking pictures of very small things.
+
+To your first question: physics doesn't distinguish qualitatively between visible light and other wavelengths. Only our eyes do :)
+
+We already do that now. We use x-rays to measure the structure of crystals, because the typical distance between two atoms in a crystal lattice is lower than the wavelength of visible light. Blue light has the lowest wavelength, about 400nm, but the distances in crystals are typically 10-100nm, which is pretty much the wavelength of x-rays.

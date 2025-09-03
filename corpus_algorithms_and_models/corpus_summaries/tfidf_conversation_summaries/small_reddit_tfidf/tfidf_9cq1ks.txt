@@ -1,0 +1,42 @@
+Original Response:
+[deleted]
+Is taking   2 hours a day learning to code everyday overkill? Is learning web development a good pre-req?
+Web developer here. There is no such thing as overkill when learning to code. I've been coding for well over a decade and I spend more time then that learning every single day as part of my job.
+It depends on you. 2 hours a day of learning code would cause me to get bored quickly. While I was learning, I spread it out over a long time.
+Also a (self taught, junior, primarily web) developer. 2 hours a day isn’t overkill. Consistency is key. I have had about 4 friends in the past few years say that they want to become developers and they all made one of two mistakes. They either 1) Picked a project too big to try and build, and got frustrated when they couldn’t make real progress, or 2) Got stuck in the planning-how-to-learn phase and never really put anything into action. 
+
+Based on those experiences as well as my own, I would suggest the following things:
+- Pick a language or stack and stick with it for a while. Use it as your main vehicle for learning all the basics. Bonus points if the language lines up well with the type of development you want to do, and double bonus points if it’s beginner-friendly (google this stuff). 
+- Once you’ve got the basics down-ish and understand what the language can do, choose a simple project and start working towards it. Getting stuck on things and working past them will help you grow past the basics. If you find yourself googling complicated things that lead down multiple rabbit holes, you need to simplify/mock that feature or perhaps your project isn’t simple enough. 
+- Be consistent without burning out. Commit to writing some code (or learning something code related) every day, and tone it back if you start to feel burned out, but never stop. It’s all too common for people to stop for months and take forever to get back into it. 
+
+Personal/Bonus tips:
+- I recommend Python or JavaScript for beginners. I’d choose JS if you plan on working on webpages and applications with sleek UI’s, otherwise Python.
+- Learn git early on, and start using GitHub no later than your first mini project I mentioned above. This is a very strong portfolio when you start applying for jobs. 
+- Have fun! Seriously, if you’re not having fun (in general) then programming may not be for you! But give it time and some patience and you’ll eventually know. And worst case scenario, you tried something new and you can move on to trying other new things!
+Not OP. 
+1.) No
+2.) Yes
+Thank you for your advice, I’m a restaurant industry worker just looking for something else in life..that’s all..:/
+I’m a complete noob right now in html, so I’m currently learning &lt;img src=&gt; &lt;a&gt;&lt;/a&gt; ..I’m taking my time cause I’m slow learner..🤷🏻‍♂️
+I gotchu, better to do it small increments then a heavy grind...
+Nice man..I’m still trying to learn but sometimes it gets overwhelming
+Take your time. and always remember, http://spacejam.com is still around, so you will never have the worst site on the internet
+Thank you 🙏 I appreciate it man
+Hey I’m sorry to bother you again, what happened to that guys post? I came back and I have some more noob questions..:/
+I assume the fact that the AMA was a rather blatant attempt at publicity as opposed to offering anything of substance, as well as the fact that his idea was a rehash of what has already existed in gawd knows how many forms since before www was even a thing.
+if you have any specific questions, I would be willing to try to help you. I'm a Senior Dev with well north of 30 years experience in one language or another. At a minimum, I know the best places to look for the answers.
+Thank you fatherstorm, currently I told my friend I’d make a website for him, so i did that so it’ll force me to action do about it rather then talk about it. It’s intimidating but I’m doing the basics like &lt;!DOCTYPE html&gt; and &lt;img src&gt; my question is should I master HTML fully before I move on to html5? I heard html5 is more orientated towards audio and video files. My friend wants a website to show case his music samples. Don’t know how to go about this.
+You will want to use HTML5. HTML4 is pretty well deprecated at this point. Also, don't be afraid to just install a Wordpress site. As long as you have hosting that has MySQL available, Wordpress will be your friend and let you put up a site that is reasonably secure, easy to style (Think themes), and can just about hold your hand. From there you can tweak the theme, which will help you learn HTML5., learn to make plugins, which will teach you PHP, and still have something that is useable in a real-world way.
+Depending on your hosting company, they may even have a click-to-install option for Wordpress  (Or Drupal.. [ I hate Drupal])
+I’m using godaddy for domain and bluehost to host. Do I always mandatorily need hosting ?
+I’m going to go and try out Wordpress
+yes. hosting is where your files sit on the internet. without that, you would have to have a static IP for your home internet and a dedicated server there. It's an option, but not one worth trying to maintain.
+
+Summary:
+There is no such thing as overkill when learning to code.
+I’m going to go and try out Wordpress.
+Is taking   2 hours a day learning to code everyday overkill?
+2 hours a day isn’t overkill.
+2 hours a day of learning code would cause me to get bored quickly.
+if you have any specific questions, I would be willing to try to help you.

@@ -1,0 +1,27 @@
+Here are the selected sentences from the original text:
+
+A light pulse has a certain bandwidth (i.e. it contains a bunch of different frequencies), which is larger the shorter the pulse is.
+
+In this time-cloaking experiment, they "pull apart" this light pulse by accelerating the blue part of the spectrum and slowing down the red part of it, creating a spectral hole in the middle.
+
+Now that you have that spectral hole, you can put an event inside which is now "cloaked" (not really, but ok). Put the pulse together afterwards by reversing the initial dispersion and it will now look like that event in the middle never happened, the light pulse comes out exactly like it went in.
+
+"The fibre-based system steers light ‘around’ an event so that no evidence (a change in the temporal or spectral properties of the light beam) of the event is detectable, by speeding up and slowing down different parts of a light beam."
+
+Because fiber optics can carry multiple frequencies of light on the same physical medium, you can [split red and blue light streams with a special lens](http://www.nature.com/nature/journal/v481/n7379/carousel/nature10695-f2.2.jpg).
+
+It's optical. The only reason time is mentioned is because there's a speed difference between the light frequencies.
+
+The previously demonstrated "optical cloak" works just in very limited ways, for a single frequency which is bent around a tiny, specially engineered object.
+
+You're going a bit too far though, the PhysOrg description you quote is actually very accurate. And your description of what's going on stops making sense halfway through.
+
+"The (not very enlightening) answer is because the technique is happening in the temporal domain and not in the spatial domain."
+
+Pretend for a moment that you're the length of fiber. There is ZERO time manipulation going on. There are frequencies flowing at different rates through your medium, that's it.
+
+And what do you think is the principle behind the atomic clock? Yes, that's right, a frequency—optical, in the newest and most accurate clocks—measurement.
+
+Also, temporal measurement in the context of this experiment can refer to a stable time basis, which can be established via the clock rate of an optical transmission.
+
+And when frequencies travel at different speeds than normal, how is that not a time manipulation? I'm sorry to say it, but this cannot be argued from a physics point of view. Frequency and time in physics are inextricably linked.

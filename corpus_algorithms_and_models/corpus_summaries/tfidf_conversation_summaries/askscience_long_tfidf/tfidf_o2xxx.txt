@@ -1,0 +1,52 @@
+Original Response:
+If you have something with mass, then it goes closer to the bigger mass (in this case the sun), right? 
+
+Is earth created exactly at a point where the amount of gravity is enough to keep it in this place, or is there something else keeping Earth in place so that it doesn't come closer to the sun and eventually bump into it.
+
+Even the moon is kept in place by earth, while I think that if it is in between of the sun and the earth, than the sun would pull the moon out of it's normal orbit around the earth, which it doesn't.
+
+These are some things that have been bugging me for months now, and I hope somebody here can explain me!
+Basically, your question is "how do things stay in orbit," right?
+
+The short answer is because the things are moving really fast. Gravity pulls inward, but by the time the thing has been pulled towards the source, it's speed has moved it out of the way. Let's say sun was on a piece of paper in the center, and the Earth was on the right side of the paper, moving upwards. The sun pulls it left, and the Earth moves up and left, until it's on the top of the page. Now the sun is pulling down and the Earth is moving left (having been influenced to move left by the sun). The Earth moves down and left, and is now on the left side of the page, being pulled right.
+
+etc
+Another way to say that, is the the centrifical force of the Earth in orbit around the Sun is the same as the gravitational pull of the Sun
+why would it (go further or closer)?
+
+the basic rule of physics is, that nothing happens unless it has some reason to.
+Try tying  a small mass (an apple or something would do) to the end of a string, and whirl it around your head. Once you've got it going, try to hold your hand completely still and see what happens.
+
+The answer is (well...should be) that it keeps whirling for a little while, until air resistance slows it down and it falls. But this is almost exactly the same situation as the planet; your string is only pulling the apple straight inwards, there's no outward force, and yet it doesn't immediately come in and hit your hand.
+
+Perhaps this way you can more intuitively see that the apple/planet keeps going because at each position it's already moving in a direction that's *not* towards your hand/the sun. By the time it's been pulled mostly into a direction that is towards the centre, it's already travelled far enough that this direction is now away from the centre!
+
+It turns out that this is stable for lots of different orbiting shapes, not just a circle, though other ones can't really be done with your piece of string.
+Because gravity is pulling on the Earth, the rules of Physics say that somthing must be countering that, or the Earth would, in fact fall into the Sun
+No, they don't.
+Orbit is one of the properties of gravity, as I guess you could say.
+
+We think of gravity as "things fall towards masses," but that's not really correct. The correct interpretation is "a force is exerted on objects towards masses." We get this incorrect interpretation due to the high-mass Earth and generally low velocity of objects we interact with.
+
+In the case of the Earth, that force is basically exactly what it takes to stay in orbit. For this force to move it any closer, the Earth's velocity would need to decrease. This would involve something getting in the way (dust and rocks are scarce in space) or severe tidal friction which isn't going to happen.
+"An object in motion (being pulled by the sun) will remain in motion unless acted upon by another force" - Newtons 1st law
+Your question is a tad bit confusing, but I will try to help. 
+
+First, if you are asking about how an orbit can come to be, why they don't fall into each other, I recommend reading [this section](http://en.wikipedia.org/wiki/Orbit#Understanding_orbits) of the wikipedia article on orbits. Basically, it is because the orbiting body is in a state of constant free fall, but it is also moving in a perpendicular direction. The pics in the article help.
+
+What I think is your more interesting question is the one about why the Sun doesn't pull the Moon out of orbit around the Sun. This is because of two reasons. First, because the Sun's pull on the Moon is very nearly constant in its entire orbit around the Earth. The average distance from the Earth to the Sun is 93 million miles. The average distance from the Earth to the Moon is 220000 miles. That means that the biggest difference in closeness of the Moon to the Sun is 440000 miles, or 0.4% of the average distance. But since the force of gravity is an inverse square law (double the distance away, gravity is 1/4 as strong), that means that the difference in the force is 0.002%. That means the force from the time it is closest (between Earth and Sun) to the time it is furthest (Earth between Moon and Sun) the force of gravity due to the Sun only changes by 0.002%, barely anything!
+
+"But, that barely anything over billions of years could add up to something," you may say. And that is true. However, the Moon's orbit around the Earth is a stable equilibrium. What does this mean? Well, you can think of it like a ball bearing being at the bottom of a bowl. If you flick the ball bearing a little bit, it will roll up the side of the bowl, but then come back down to the bottom. The forces on the Moon are the same. It is orbiting where it wants, but if it gets pushed away from the Earth a little bit, there is a restoring force to place it back where it goes. Of course, just like if you were to flick the ball bearing hard enough it would fly out of the bowl, pull on the Moon hard enough, and it could fly out of Earth's orbit. However, the Sun's pull isn't strong enough to do this.
+Thank you very much for this answer! Excuse me for the confusing part in the question, English isn't my main language. Together with iorgfeflkd's answer this was very satisfying for me.
+Actually, it's "The velocity of a body remains constant unless the body is acted upon by an external force." Understanding this, it is of course obvious that the application of the force of gravity towards a point will result in an orbit, not a spiral.
+No need to apologize for the confusing question, I only mentioned it in case I wasn't answering the question you were actually asking. 
+
+Glad I could help.
+
+Summary:
+The forces on the Moon are the same.
+Now the sun is pulling down and the Earth is moving left (having been influenced to move left by the sun).
+First, because the Sun's pull on the Moon is very nearly constant in its entire orbit around the Earth.
+why would it (go further or closer)?
+Basically, your question is "how do things stay in orbit," right?
+The average distance from the Earth to the Moon is 220000 miles.

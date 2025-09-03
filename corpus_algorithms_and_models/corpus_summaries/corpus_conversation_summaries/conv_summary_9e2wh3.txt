@@ -1,0 +1,41 @@
+Original Response: 
+So the "visual spectrum" for humans is 700-400 ish nm light.
+I know certain insects see in the ultraviolet band as well.
+I would assume some animals see somewhat lower into the infrared.
+My question is, what makes that narrow portion of thr em spectrum optimal?
+Is it optimal?
+Or did it evolve because other life interacted with that band and so early photoreceptors evolved to sense it?
+Would it be conceivable that some alien species sees in microwaves, for instance and has named small slices of that the way we name colors?
+So for them our visual spectrum would be lumped in with the "infra red" or "radio" bands?
+It's the band at which our atmosphere is most transparent, and light can best propagate.
+And the sun emits heavily around there.
+So, for our planet, for things above ground and on land,  it's universally optimal.
+There's a graph about this somewhere, I'll see if I can find it.
+Edit: http://gsp.humboldt.edu/olm_2015/Courses/GSP_216_Online/images/atmo-abs.jpg
+
+It's not the one, but it gets the point across.
+Based on that graph, why do we not see radio waves instead of the visible light that has minor atmospheric distortion?
+Radio waves have a much greater wavelength, so we'd need gigantic eyes to see with any detail.
+The sun also emits far less radio compared to visual light.
+The longer the wavelength of a wave, the less useful it is for resolving detail, and the less energetic the wave (so the harder it is to detect).
+I believe that you also need a much larger antenna to detect them efficiently, with the best-tuned antenna being related to the wavelength of what it's trying to pick up.
+&gt;Based on that graph, why do we not see radio waves instead of the visible light that has minor atmospheric distortion?
+Because the sun hardly sends out any radio frequency light.
+[Here's](https://d2gne97vdumgn3.cloudfront.net/api/file/JoZ95jB0S5ni8RYaplz1) the sun's emmision spectrum.
+Correct me if I'm wrong, but isn't visible light also the best at shining through water?
+Now can someone multiply this graph by the sun's emission spectrum?
+[removed]
+All very good points!
+I'd like to add another: the energy of photons within the 400-700 nm (ish) range is conveniently on the order of electronic transitions within small organic molecules.
+Higher energy light (UV, for example) typically has enough energy to start breaking down certain molecules (despite a greater degree of scattering through tissues limiting its depth of penetration), while lower energy light (beyond the infrared range) would not be able to excite the types of molecules in our photosensitive cells (rods and cones in the retina).
+Right, that is a biological limitation (physical chemistry) of  detecting high energy UV light, which would likely inherently require a higher turnover of protein synthesis to recover proteins / cellular damage.
+&amp;#x200B;
+
+That being said, we also have engineered proteins used for EM imaging, which is extremely high energy, called miniSOG ([source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001041)).
+It's a little more complicated than I am describing here, but I am referencing it just to show that from a theoretical perspective you are right, but it is still possible to produce proteins that are responsive to high energy radiation despite those limitations.
+
+Summary: 
+[Here's](https://d2gne97vdumgn3.cloudfront.net/api/file/JoZ95jB0S5ni8RYaplz1) the sun's emmision spectrum.
+It's the band at which our atmosphere is most transparent, and light can best propagate.
+Because the sun hardly sends out any radio frequency light.
+So the "visual spectrum" for humans is 700-400 ish nm light.

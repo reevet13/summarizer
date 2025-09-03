@@ -1,0 +1,15 @@
+Well if they had a pacemaker, metal prosthetic devices or embedded metal particles ( as can happen to welders who can get tiny slivers of metal in their eye without realising it ) they could be in big trouble as the pacemaker leads whip around and the metal fragments shred the inner eye.
+
+A rapidly changing magnetic field can cause biological effects - not from any mechanical force felt by the person, but from the current induced. This is the same technique used in [transcranial magnetic stimulation](http://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation).
+
+Stronger magnetic field can lead to observable [diamagnetism](http://en.wikipedia.org/wiki/Diamagnetism), where the water in your body can repel the external magnetic field. This is the phenomenon behind [the levitating frog](http://www.ru.nl/hfml/research/levitation/diamagnetic/).
+
+If they have a pace maker, the changing magnetic field could also induce a current into the wires, which could send a nasty shock to the heart.
+
+I'm a med student going into radiology.  At a conference I went to, the speaker suggested that the upper limit of MRIs will be around 11T since after that point, the flow of blood in the coronary arteries can induce currents leading to cardiac arrhythmias.
+
+Certainly horrendous accidents have occurred from large neodymium magnets coming together from magnetic attraction to crush fingers etc. - afraid I have no data on repellent type injuries
+
+The energy/force that pushes two magnets is not "created" by having them near eachother. The magnetic fields are always there (assuming permanent magnets) and simply act on eachother when they are nearby.
+
+The large radius of the swing (assuming 100m) and the opposed-pole orientation of the fields means that the magnetic fields approaching the person in question will be moving so as to minimize the cutting of field lines. I would think that this would initially minimize any inductive effects (current induced in various conductive tissues).

@@ -1,0 +1,19 @@
+The F-14 Tomcat you could begin to see at about 7 miles out (really good eyes could see it at 8 miles out) . The F-14 is 63 feet long. So using that as kind of a base, that you can see an object 63 feet long at 7 miles with the naked eye.
+
+I would suggest you need not turn your eyes at that distance (kind of like seeing a shooting star where you only see it in your peripheral vision ) and rely on how fast your peripheral vision is.
+
+So if you could detect an 63 foot long object 7 miles out going 7 miles in 0.05 seconds that is:
+
+36,960 feet / 0.05 sec = 504,000 mph or 140 miles per second or 225,308 meters/sec 
+Taken from :http://answers.yahoo.com/question/index?qid=20100327163759AAKg9Kt
+It would also depend on the weather and the lighting.
+
+As stated several times, it's more about size &amp; distance, relative to velocity, than pure velocity.  As an aside, I have a quick story to demonstrate the importance of perspective in seeing fast moving objects.  
+
+I was at a friend's land shooting a few guns in the evening.  We were facing east and the sun was about to set behind us.  The location is in a steep valley running east to west, so ambient light was low even though the sun was still shining behind us.  For an ever-so-brief period of time, we could actually see .40 caliber bullets flying downrange from our pistols as the sun reflected off the copper bases.  That's an object .40 inches across, moving at about 1600 feet per second.  Under normal circumstances, the human eye would never be able to pick up an object so small and close moving at that speed.
+
+They have tracer rounds for this reason. Usually they put in a few tracer rounds in a clip, so that you can see where your bullets are going. Here is an example
+
+http://www.youtube.com/watch?v=Gk3uFZu47fo&amp;feature=fvst
+
+From my electronics background I can tell you that an LED that blinks on for ~16ms (1/60th a second) is easily visible. Even 100us flashes can be seen.

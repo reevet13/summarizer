@@ -1,0 +1,72 @@
+Original Response: 
+Now, the sticking point for me is whether they are allowing a HFT firm to front run my trades.
+I.e if I tell Robinhood I want to buy 1 BTC, and they broadcast that to a HFT firm so they can buy 1 BTC before my trade executes, then they are failing to fill my trade in good faith.
+How many other people (and for how many other dollars) get to buy before me then?
+It's giving me a worse market price and letting others cut in first.
+No when ever you press the buy button it locks in that price and that is the price you pay.
+My concern though is that it is unclear wether Robinhood actually owns any crypto or are they just selling you the position the crypto is at when you press buy.
+I think it is rather “sketchy” that they don’t clarify that and I think that might even be illegal.
+Yes the price is locked, but what if it becomes that there’s not enough supply for that price due to front-running?
+That’s how Abra does it (doesn’t actually give you the alt coin you buy) and it is some sketchy stuff.
+That is the risk they take..
+If we are talking about front-running, that’s illegal, I believe, because it’s asymmetric information, similar to insider trading.
+The risks are taken, but this one is imposed without any probability, it’s just 100% risk exposure.
+That’s not the same as risk.
+Front-running again is when you take advantage from knowing which orders will come to exchange before they are available to the public.
+I think that is the idea behind HFT no?
+At least in a documentary i saw years ago that was their practice and they did in on US stock market.
+Okay, I may be wrong, but there is a difference between quicker reaction and first hand on the information.
+Yea true.
+I don't know it was very likely they do such things.
+Even online broker accounts have some strange rules which seems to be allowed.
+Weird stuff it is.
+But this seems very valid here:
+"If you're not paying for the product, you are the product"
+&gt; My concern though is that it is unclear wether Robinhood actually owns any crypto or are they just selling you the position the crypto is at when you press buy.
+Unless I'm mistaken, that would be considered a CFD, which is illegal in the US.
+It is extremely unlikely Robinhood would break the law in that manner — they would lose their license very quickly.
+Edit: Further research suggests that CFDs are illegal for securities and commodities in the US, but not for forex, so maybe bitcoin is permitted.
+Yeah CFDs can still be sold as forex, because it basically falls under a gamble or something like that.
+We shouldn't encourage this kind of trading on Bitcoin because it's just falsely inflating/deflating its price based on speculators and has no physical tie to the coin itself.
+Companies can disguise frontrunning as slippage, can't they?
+Not to extreme amounts but I'm sure they can get away with a few pips here and there as they execute orders.
+I'm not surprised Robinhood is selling your data, how else could they have such cheap fees?
+I don't trust these guys one bit.
+&gt;  there is a difference between quicker reaction and first hand on the information
+
+First, not to the person who ends up holding the bag.
+Second, the only reason there would be a difference is if latency didn't matter.
+Lower latency is what makes high frequency trading profitable even when everything else is equal.
+It's also why the decentralization that bitcoin provides is more important than getting to the moon quickly.
+Humanity has been to the moon.
+It's never had sound money before.
+As long as crypto keeps going down in value they will lock in huge profits if they aren’t actually buying it..
+Sort of: But If I understand it correctly (Big if) the difference is High Freq Trading "sees" which stocks are currently seeing alot of action and makes trades on that in realtime.
+So while it is not seeing them before they are taking place, it is in theory faster than a human seeing the tickers going up, checking info and then trading.
+So jumping on the train when it is moving vs already being on the train when it starts and seeing the typical traders at the next stop.
+Yes its what they do.
+In that documentary they even showed how they send stocks with a special kind of trading flag so that it can skip the open orders.
+(So they get themselves ahead in the FIFO order book).
+They showed it happens a lot when the stock market opens in the morning and suddenly many big orders start to flow-in and execute directly.
+I’ve pressed sell on a particular stock on RH but it would sell at a price like 25 cents off.
+I know RH is not great but that doesn’t sound normal.
+Is that illegal too?
+And how do I prove something like that?
+Edit: missed word.
+[deleted]
+If you use limit order that is quite a red flag.
+I see, admittedly I am very new at this stuff so I only have a rough idea of what a limit order is but no I didn’t use a limit order.
+But I will start to use that, thank you.
+I have placed a limit order on Robinhood that did not get filled even after the price they show dropped below my limit price (definitely a limit, not a stop or even a stop-limit).
+Eventually the order filled at 10 cents less than my limit order.
+I'm not complaining in the end, but it made absolutely no sense to me how that could happen if my order went on the books immediately and was executed as FIFO.
+
+Summary: 
+That’s not the same as risk.
+But I will start to use that, thank you.
+I don't know it was very likely they do such things.
+I think that is the idea behind HFT no?
+And how do I prove something like that?
+(So they get themselves ahead in the FIFO order book).
+Yes its what they do.
+If you use limit order that is quite a red flag.

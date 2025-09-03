@@ -1,0 +1,17 @@
+Here is a summary of about 10% of the original text (up to 250 words):
+
+I got up to Open a command prompt window with administrator privileges. That I can do but dont understand how to "Run the executable file from the common prompt"
+
+It gives the example 82579VSKUW64e. I see that file but dont know how to make it go.
+
+Three tools are included, to support three different operation systems (Windows 32 bit; Windows 64 bit; DOS).
+
+Steps to run the update tool:
+
+1.	Download the utility from the Intel download center
+2.	Select the correct tool file name based on the operating system installed
+3.	Open a command prompt window with administrator privileges
+4.	Run the executable file from the common prompt
+
+Example command line using the Windows* 64 bit operating system:
+	82579VSKUW64e -nosilent

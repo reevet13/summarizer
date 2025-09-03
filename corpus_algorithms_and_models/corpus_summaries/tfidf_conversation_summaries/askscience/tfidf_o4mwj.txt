@@ -1,0 +1,30 @@
+Original Response:
+Im thinking it has to do with Ionization energy...If you look at where the Sodium atom is at on the periodic table you can see that it is going to have a configuration of [Ne]3s^1 ...meaning that its valence shell electron in the S orbital only has one electron in it....
+
+So as far as Ionization energies go it is simply the energy that is required to remove 1 electron from the valence shell of the atom. you can have multiple ionization energies but each ionization energy increases greatly because the protons/ charge on the nucleus wants to hold onto the negatively charged electrons so less negative with the same positive pull = stronger hold on electrons thus more energy to remove it.
+
+ it is much easier to remove that one electron than it is to have a second electron removed.
+
+When the sodium metal reacts in water they make NaOH and hydrogen gas.. Since sodium is "happy" as a 1+ cation, its electron configuration is that of neon with a full happy s^2 p^6 configuration. it really does not want to react any more...
+
+I hope this helps, in summary it is energetically unfavorable for it to react again to go to its second ionization energy. with with you question would be for it to react again.
+
+
+I need to edit for typos.....I was on my iphone to defend myself.
+Metalic sodium reacts with water to create Hydrogen gas, Hydroxide anion and Sodium Cation. This is because the electron in sodium is at a very high energy level and will lower it's energy by reducing water.
+Na + H20 -&gt; H^+ + OH^- + Na^+
+
+Edit: and Na^+ (sodium ion) doesn't have an electron at a high energy level like metallic sodium.
+To complete: The sodium ion is indeed very stable because of its full shell, the reaction that drives it's production is a redox reaction. All alkali (lithium, sodium, potassium, ...) metals have very negative redox potentials which results in a hefty reaction when combined with water.
+[deleted]
+Sodium ions don't come on their own - they are balanced by something else, like chlorine. Sodium + water exist in a high energy state, relative to the reaction products. When combined, the sodium reacts with the water to produce a lower energy state. Sodium ions, since they are combined with something else (like chlorine) already exist in a lower energy state.
+[deleted]
+I think he was asking why pure elemental sodium reacts with water but then an isolation of just the sodium cation does not react with water.
+
+Sodium does appear in its normal electron state and alkali metal state, it just isolated by humans and put in niffty little jars with mineral oil for humans.
+[ cool video](http://www.instructables.com/id/Making-Sodium-Metal-Sodium-Extraction/)
+To make it simple and easy to understand- Sodium metal only reacts with water because it want to loose its only valence electron. Sodium ions already have lost that electron, so it's not reactive.
+
+Summary:
+When combined, the sodium reacts with the water to produce a lower energy state.
+Sodium + water exist in a high energy state, relative to the reaction products.

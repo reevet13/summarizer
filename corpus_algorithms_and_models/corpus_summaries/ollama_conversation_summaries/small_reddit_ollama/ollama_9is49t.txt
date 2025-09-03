@@ -1,0 +1,19 @@
+Here is the summary of the text in about 250 words:
+
+I've been playing Skyrim for years but never got very far. I'm currently stuck at level 13 and can't kill bosses or dragons. My build is Archery, Sneak, and Destruction, but I may not be focusing on the right skills.
+
+As players improve, they often realize they should have done something differently early on. The question is whether to start over or fix the character with cash and trainers. I've discovered a lot of the map and don't want to kill my character just yet.
+
+Some people restart characters only if they don't like the story. Resetting skills with console commands can be helpful, especially at low levels.
+
+Historically, I was a Destruction Mage, so it's familiar. I chose Archery for its challenge and Destruction for early damage. Restoration is not available to me due to my two-handed bow.
+
+For healing, I use Restoration spells, but they require too much magika. My defenses are bad, and I don't have any defensive effects.
+
+To fix my build, I need to level the right skills at the right time and focus on Archery and Destruction.
+
+Sneak is my highest skill (43 or 46), but I'm not doing enough damage to survive boss fights. The command for resetting skills is player.setav <skill name>, and for perks, it's player.removeperk and player.addperk.
+
+For fighting dragons, the Become Ethereal shout would be helpful. It makes me immune to damage for a few seconds.
+
+Fighting takes time in Skyrim; 3-5 minutes is not unusual. Followers can die, but I don't want mine to.

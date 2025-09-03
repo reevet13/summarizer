@@ -1,0 +1,53 @@
+Original Response:
+I think this is mostly in the real of nuclear thins, for example uranium 238 or something like that; but what exactly separates that from regular uranium? Are only nuclear elements capable of having a number? Could there be something like iron 222 or something?
+Every nucleus has some number of protons (Z) and some number of neutrons (N). The total number of nucleons is A = Z + N.
+
+An element specifies the Z, but it doesn't specify the N (or by extension, the A). 
+
+Different isotopes of an element have different N, but the same Z.
+
+Because the name of the element specifies Z, in order to talk about a specific nuclide, you have to specify the N as well. Or you can just specify the Z and the A, and the N is determined by N = A - Z.
+
+In your example of uranium-238, the 238 is the A of the nucleus. Uranium always 92 protons. Uranium-238 has 238 nucleons. So that means that it's the isotope of uranium with (238 - 92) neutrons.
+
+[Here](https://www.nndc.bnl.gov/chart/) is a chart where you can see every known isotope of every element.
+
+&gt;Are only nuclear elements capable of having a number?
+
+I don't know what you mean by "nuclear elements", but every element has multiple isotopes.
+
+&gt;Could there be something like iron 222 or something?
+
+No, there can't be iron-222. The stable isotopes of iron are around iron-56. If you try to add too many neutrons to an iron nucleus, you'll reach a point where any additional neutrons you add cannot form bound states with the nucleus. It's not known experimentally where this occurs for iron (it's known for elements up to fluorine), but it's almost certainly long before A = 222.
+&gt; I don't know what you mean by "nuclear elements", but every element has multiple isotopes
+
+I meant like heavy elements that could be used in fission (IE uranium, plutionium, etc.) or light elements that could be used in fusion (IE hydrogen, helium, etc.); I don't believe that you could make a nuclear fuel out of iron so that's kind of what I meant.
+
+&gt; No, there can't be iron-222. The stable isotopes of iron are around iron-56. If you try to add too many neutrons to an iron nucleus, you'll reach a point where any additional neutrons you add cannot form bound states with the nucleus. It's not known experimentally where this occurs for iron (it's known for elements up to fluorine), but it's almost certainly long before A = 222.
+
+But there could be an iron-x then? Let's say Iron 12 or something? Any element can be/have an isotope?
+[removed]
+At best, there could be resonances that exist for 10^(-21) seconds or less. Certainly no bound states.
+&gt;Any element can be/have an isotope?
+
+Every element has multiple isotopes. Iron has 30 isotopes listed in the chart I linked above.
+[removed]
+[deleted]
+[removed]
+Think of it like trying to build a tower out of dry-ish sand - no matter how careful you are to pack your sand well and stack it carefully, eventually you'll get to a point where adding more sand means that it will just fall off the sides of the tower instead of actually making the tower higher. To remedy this, you can start with a larger base or build a shorter tower.
+
+It doesn't matter how hard you try, eventually you'll get to a point where the nucleus will reject additional neutrons, and they'll effectively just get pushed out, which is why it's so difficult to do something like add 100 extra neutrons to iron.
+You can't have Iron 12. Iron has 26 protons, so the lowest you could go would technically be 26, but the iron nucleus would become too unstable well before you got to a nucleus of only 26 protons. The lightest observed isotope of iron is Iron 45 which has a half life less than 2 milliseconds. Iron 54 is the lightest stable isotope. The heaviest is Iron 72 which also has a half-life measured in milliseconds.
+No, there's something called the ["nuclear drip line"](https://en.wikipedia.org/wiki/Nuclear_drip_line), which is the limit of stability for proton-neutron ratios. If you try making nuclei more unstable than this, the excess nucleons literally "drip off" the nuclei, because they can't form bound states.
+To put it simply the number is the weight. An atom of U-238 weighs about 238 atomic mass units. A proton and a neutron weigh roughly 1 amu each. 
+
+So hydrogen would be H-1. Deuterium would be H-2. Tritium would be H-3. Goes all the way up to H-7 but H-4 and above the atom breaks apart in about .0000000000000000000001 seconds.
+
+It's just a way of presenting the info that can be done with every isotope of every element, doesn't have anything to do with the isotopes stability.
+
+Summary:
+Every element has multiple isotopes.
+Could there be something like iron 222 or something?
+The stable isotopes of iron are around iron-56.
+Different isotopes of an element have different N, but the same Z.
+So that means that it's the isotope of uranium with (238 - 92) neutrons.

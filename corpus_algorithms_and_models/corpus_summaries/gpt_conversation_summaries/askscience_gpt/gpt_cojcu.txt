@@ -1,0 +1,10 @@
+No, you've also got nickel, cobalt and gadolinium.  
+That is generally true, but there are many exceptions, particularly among transition metals and rare earths.  
+Electrons around an atom are organized into shells, which, very roughly, indicate how far away the electron is from the atom.  
+The outermost shell has the most influence on chemistry...that is the reason elements in the same columns have similar properties.  
+Towards the middle of the table, things get a little messy, and inner shells don't fill all the way before electrons go to the outer shells.  
+But that outer shell still dictates a lot of the chemistry, so transition metals and rare earths often show more similarity left to right than top to bottom.  
+Now, this doesn't explain magnetism directly.  
+It is the unpaired electrons in the outer shell that give rise to ferromagnetism, right?  
+First, each vertical row of the period table corresponds to a shell, so by the time you get to the transition metals, you are starting work on the fourth shell.  
+Second, shells are divided into subshells...and some of the inner subshells don't come into play until the outer shell starts filling...and even that is not completely regular.

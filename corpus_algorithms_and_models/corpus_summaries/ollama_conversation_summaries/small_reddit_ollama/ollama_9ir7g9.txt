@@ -1,0 +1,11 @@
+Here are the extracted sentences:
+
+* Sadly no, I don't have specific knowledge of neuronal recovery.
+* It seems that the parameters of the electrical stimulation machine are important as well and is something to consider in the studies where it showed it doesn't work.
+* Well, I do appreciate the information you've been able to give! I love running into redditors that have such interesting backgrounds.
+* I'm interested in the nerve-electrode interface, the analog-digital conversion. Right from the start both systems operate with different currencies, analog with positively charged ions (mostly Sodium, Potassium, Calcium), whereas electrical circuitry utilizes electrons.
+* To my knowledge we have seen limited success with sending signals, I am hoping to train up and contribute to the receiving, or input to the brain, of digital-analog signals, or, "is my super powerful robot hand about to crush this wineglass and cause a scene?"
+* Maybe when one reported out, someone said "Hey this other group is doing similar work too" so they reported on that also?
+* But perhaps the funding is from different sources? Also, doc's want their own name on the study, and some NEED to write study papers to keep their jobs...   
+* NJEM: Supported by the Leona M. and Harry B. Helmsley Charitable Trust, University of Louisville Hospital, and Medtronic.
+* NATURE: (Competing Interests) “V.R.E. and Y.G. are shareholders in NeuroRecovery Technologies and hold inventorship rights on intellectual property licensed by the regents of the University of California to NeuroRecovery Technologies and its subsidiaries. K.H.L. previously served as a consultant to Medtronic’s Department of Technology Development focused on deep brain stimulation.”

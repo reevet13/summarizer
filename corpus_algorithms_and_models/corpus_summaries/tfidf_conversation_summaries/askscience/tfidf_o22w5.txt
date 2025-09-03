@@ -1,0 +1,54 @@
+Original Response:
+[deleted]
+The IQ test was developed as a standardized test for placement in public education. All an IQ score says is how good you are at taking IQ tests.
+
+More people around the world now are receiving education, working with technology, and communicating in ways which make your brain better at the sort of problems you see in an IQ test. Hence the average score of the world population goes up. If you know about this effect you probably already know, but standard tests are normalized every so often such that the median score of the world's population should be around 100, as much as that's possible.
+&gt; The IQ test was developed as a standardized test for placement in public education. All an IQ score says is how good you are at taking IQ tests.
+
+This  is only true in an extremely limited sense and may be outright wrong. There's a fair bit of evidence that a variety of different intelligence tests all correlated with each other. This includes tests which were not invented to even test the same thing such as [wonderlic](http://en.wikipedia.org/wiki/Wonderlic_Test).  Moreover, there are a variety of tests which correlate with IQ which are extremely simple tasks such as [n-back and dual n-back](http://en.wikipedia.org/wiki/N-back). This is all part of a massive amount of evident that there's really a general intelligence, often labeled [g](http://en.wikipedia.org/wiki/G_factor_(psychometrics). (Tangent: Spearman did extensive research in the early 1900s which found this pattern. He came up with some very clever statistical methods in the process which are now in use through a variety of different sciences).
+
+Now, let's move on to the claim that the Flynn effect is due to increased familiarity with modern technology and education. This is an interesting hypothesis at a naive level, and is almost certainly wrong. More likely, increased childhood nutrition, less disease, and less stress at young ages has allowed greater brain development. See for example [this paper by Eppig et. al.](http://www.sciencedirect.com/science/article/pii/S0160289611000286) which found that in the US higher disease levels correlated with lower IQ and that this result stayed even when one controlled for education and income levels. The evidence for the nutrition effect is similarly strong since most of the Flynn effect has occurred on the lower end of the IQ (that is the left end of the bell curve has moved towards the center) which is more consistent with the nutrition hypothesis. ([Source](http://www.sciencedirect.com/science/article/pii/S0160289604000807))
+
+There are a variety of other hypotheses also, but the nutrition and infectious disease hypotheses have the most raw data behind them. There are a few other hypotheses but they are not supported by the data or deeply don't fit the data (such as hybrid vigor).
+&gt; maybe hegel would argue that we are reaching the end of history.
+
+Hegel was an obnoxious philosopher who couldn't write very well. He wasn't a scientist. Moreover, increasing intelligence wouldn't even have much to do with the claim. 
+
+&gt; maybe dawkins would argue neo-darwinian synthesis makes us "arms-race" with each other for intelligence.
+
+The idea that an arms-race for social intelligence is what caused humans to become so smart in the first place is [a well known hypothesis](http://en.wikipedia.org/wiki/Machiavellian_intelligence) which fits pretty well. But the Flynn effect, the apparent increase in intelligence by a variety of tests in the last 70 years, has occurred over much too fast a time period for this to be due to natural selection.
+[deleted]
+yawn steven pinker's appropriation of peter singer's egalitarian vanguardist anglo-saxon western-supremacist idea of the "escalator of reason" is probably what you're looking for.
+I'm sorry, what? Can you expand on what you mean? I'm not following.
+as was clear from your first response. the one i'm commenting on now is just redundant.
+So explain what I'm missing.
+[deleted]
+I presume that you are responding specifically to the nutrition claim. A citation for your statement would be nice. For now, I'm going to take it for granted and respond in that context.
+
+A big mac has at [most around 540 calories](http://www.livestrong.com/article/312522-how-many-calories-are-in-a-big-mac-meal/). There's a [large amount of variation in how many calories a given culture consume daily](http://en.wikipedia.org/wiki/File:World_map_of_Energy_consumption_1979-1981.svg) but 600 calories is still very much on the low end. 
+
+Moreover, nutrition level is not the same as calorie level. Thus, one can for example have more than enough calories but not have some vital nutrient. People who suffer from [scurvy](http://en.wikipedia.org/wiki/Scurvy) for example suffer from a lack of vitamin C regardless of their caloric intake. Similar remarks apply to a wide variety of different trace nutrients. 
+
+Moreover, average caloric intake isn't as important for child development as is minimum daily intake. Similarly, for many trace nutrients, having regular intake is important, not just having had total intake be enough. This is especially true with water soluble nutrients like vitamin C. If one consumed a large quantity of L-ascorbic acid for a few days, it wouldn't add that much to how long you could go without any before you had scurvy symptoms because you would urinate away most of the vitamin C. 
+
+There's also a fair bit of evidence that the transition from hunter-gatherers to urban civilizations had lower total calories. See [this essay](http://www.ditext.com/diamond/mistake.html).  Since the Flynn effect is primarily observed in areas that already have heavy urbanization (the US, Europe, China, Japan, etc.), looking at the behavior or consumption patterns of hunter-gatherer groups really doesn't tell us much.
+
+&gt; neoliberal vanguard self-back patting.
+
+In general, AskScience is a bit different from much of the rest of reddit. There are stricter rules about types of evidence allowed and general epistemological approaches. AskScience likes citations and reasoned discussion a lot. We don't like philosophical name dropping or generic accusations of cultural imperialism. And insults are really not well-received. You are welcome to post here, but you may want to develop some basic habits about how to post in this subreddit.
+[Resolving the IQ paradox: heterosis as a cause of the Flynn effect and other trends.](http://www.ncbi.nlm.nih.gov/pubmed/17638507)
+
+&gt; The author argues that the phenomenon heterosis represents the most likely cause. Heterosis, often referred to as hybrid vigor, is a genetic effect that results from matings between members of genetically distinct subpopulations, such as has been occurring in human populations through the breakup of small, relatively isolated communities owing to urbanization and greater population mobility. In Part 1 of the article, empirical findings are listed that are consistent with a heterosis hypothesis but render other hypotheses either implausible or very difficult to test. In Part 2, a formal model of the process of heterosis is presented. The goal of the modeling is to develop a quantitatively rigorous method for estimating the potential contribution of heterosis in the Flynn effect, as well as trends observed in other heritable traits and conditions.
+
+From [a geneticist's blog entry on the article](http://www.gnxp.com/blog/2007/09/heterosis-and-flynn-effect.php): 
+
+&gt; The possibility of heterosis increasing IQ scores is not controversial. Close inbreeding (e.g. cousin marriage) usually reduces the IQ of the offspring. This suggests that some genes for low IQ are recessive. Conversely, genes for higher IQ are probably often dominant. If so, then for any given set of underlying gene frequencies in the population, the mean IQ will be higher when the proportion of heterozygotes is higher. Random mating will therefore produce higher mean IQ than inbreeding, which for this purpose includes not only inbreeding in the traditional sense, but also breeding confined within subpopulations. If gene frequencies within such subpopulations vary, then the proportion of homozygotes will on average be higher than if the subpopulations were merged together in a random-mating total population.
+
+Summary:
+There's a fair bit of evidence that a variety of different intelligence tests all correlated with each other.
+Moreover, increasing intelligence wouldn't even have much to do with the claim.
+Moreover, nutrition level is not the same as calorie level.
+[Resolving the IQ paradox: heterosis as a cause of the Flynn effect and other trends.
+The IQ test was developed as a standardized test for placement in public education.
+&gt; The IQ test was developed as a standardized test for placement in public education.
+Conversely, genes for higher IQ are probably often dominant.

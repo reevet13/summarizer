@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+It's a RTX2080, and my power adaptor is a Corsair VS-550. I know it's recommended to have a 650w PSU for this card but somebody told me that mine should be okay...
+
+The port on the right has 8 pins, I've plugged both the 6 pin and the extra little 2 pin one into it, does this sound correct?
+
+that is good
+
+Thank you very much for your help, appreciate it.
+
+Out of curiosity: How did you end up with that rather high end rig of yours and that PSU? I mean no offense, but Corsair's VS series is absolute dogshit.
+
+I'm looking at upgrading the PSU next, any recommendations?
+
+Corsair's RMx-series, EVGA's G2s and G3s and Seasonic's Focus Plus Gold PSU are commonly recommended. In terms of capacity, 550 W is probably fine.

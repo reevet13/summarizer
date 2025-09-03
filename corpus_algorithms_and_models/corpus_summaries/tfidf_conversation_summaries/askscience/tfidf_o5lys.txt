@@ -1,0 +1,111 @@
+Original Response:
+Since asphalt has a very low albedo, either due to it being black or from the tars it uses, would adding a dye, such as green, to the mixture increase its albedo? I'd imagine this may reduce urban island effects due to heat increases. I know asphalt can be dyed because some places uses red-dyed asphalt to make those fake brick looking walkways in places.
+I would assume for cost reasons - making the pavement any color other than the natural color of the asphalt + aggregate will cost more than leaving it dark grey.
+
+Interestingly, concrete pavement has an albedo something like 3 times as high as asphalt pavement. It also lasts much longer. As far as I know, the primary reason asphalt is used in roads at all is because it's much cheaper and easier to handle than concrete.
+
+http://heatisland.lbl.gov/coolscience/cool-science-cool-pavements
+Asphalt is also recyclable. When they tear it up, it goes back into the slurry they use to pour a new layer. [About 80% of the torn up stuff gets reused.](http://en.wikipedia.org/wiki/Asphalt#Rolled_asphalt_concrete)
+We have red asphalt here in Sweden in some places. Apparently it's very common on the Åland Islands because almost all their stone is Porphyry as far as i understand. More reading can be found [here](http://books.google.se/books?id=rPN6Mw1-TMMC&amp;pg=PA20&amp;lpg=PA20&amp;dq=Porphyry+asphalt&amp;source=bl&amp;ots=4OCyOdchSW&amp;sig=8joMErA_Gf58fHwAab9W_Fn6vxw&amp;hl=sv&amp;sa=X&amp;ei=_EUHT-HFN-nf4QTe_8iNCA&amp;ved=0CCQQ6AEwAA#v=onepage&amp;q&amp;f=false).
+It does last longer, but when you get potholes or degradation, concrete is a pain in the ass to maintain.
+
+Asphalt can be driven on the same day it's laid down, and as salamander said, recyclable. I'm curious to the difference in cost, especially between concrete, those "cool pavements," and dyed asphalts, if dying actually helps increase albedo.
+This, all the way. A concrete road can't be patched like an asphalt one. If you fill a pothole in a concrete road with new material, it will get pulled out, and the pothole will be there again fairly quickly, whereas an Asphalt road can be patched with new, or recycled, asphalt.
+I had no idea.  Thank you.
+No problem. I had the same question about asphalt over concrete a while back, and my grandfather explained it to me since he was a consultant for the NJ transportation dept
+I always wondered if it was possible to put in a system to collect heat and use it somehow; maybe collect the heat generated in the summer and store it underground, and release it during the winter to keep the roads free of ice.
+[deleted]
+Maybe just turn it to electricity
+The highway system in Chicago is almost completely concrete, especially the raised parts. If asphalt has advantages over concrete, I wonder what the reasons for using concrete here can be.
+Well I also believe that concrete has some advantage in colder climates and also holds up better to salts and plows used to clear the snow. Correct me if I am wrong but I would also imagine you deal with a lot less pot holes?
+Asphalt is not structural, which is why it must be layed on top of an engineered base of sand, gravel, and crushed rock.  For an elevated roadway you would need a concrete foundation onto which you would put the base mixture and then the asphalt (since asphalt binds poorly to concrete directly) - which is more costly than simply making the roadway concrete to start with.
+
+If substantial amounts of the roadway are going to be elevated and therefore concrete, it is likely more cost effective to make the entire roadway concrete.  It's also preferred in urban areas since the lifespan of a concrete roadway is many times longer than that of an asphalt roadway and having to shut down a freeway for repaving is much more difficult in an urban area than a rural one.
+I think you are correct about the concrete having more longevity in colder climates, but we still have a lot of pot holes. I don't know whether that has to do with the nature of the concrete or the rate at which the holes are filled.
+It's found in many parts of the Southwest USA as well, it's simply because the sand/gravel aggregate used to mix the concrete or asphalt has a high proportion of iron-rich minerals.
+That makes a lot of sense. Thank you.
+It also gives a more pleasant driving experience as you can make a continuous layer instead of the blocks used for concrete.
+http://solarroadways.com/prototype.shtml
+There are quite a few examples of this. Google for "Road Energy Systems".
+[deleted]
+I think snow plows are responsible for many of those pot holes.
+[deleted]
+So those fake brick pavers aren't dyed, but use an iron-rich base material?
+Most of them are probably dyed, unless you are buying them in Arizona or surrounding areas.  It's pretty expensive to haul red sand thousands of miles to make paving stones.
+[deleted]
+[deleted]
+Asphalt does have SOME advantages over concrete. Mainly that it stands up to chains or studded tires much MUCH better than concrete, which has a tendency to crumble under such loads. 
+
+This is why places that uses concrete roads generally forbids studded tires and chains. 
+and places that have to rely on studded tires and chains, don't ever use concrete on their roads. 
+
+In addition, As i understand, Concrete holds up less well to the the stress of cold climates because of all the stretching, compressing and buckling the earth does when thawing after freezing solid.
+
+Basically, asphalt makes a lot more sense in really cold climates, Where as in more temperate ones, there are more consideration.
+Prince Edward Island, on the east coast of Canada, is practically entirely red (red roads, dirt, sand, etc). After staying there for two weeks, I noticed that my eyes had acclimated to seeing red, so when I left, everything looked weird for a while.
+Having worked in asphalt paving many years ago, you are exactly correct on this.  Asphalt cures about 80% within four hours, whereas concrete can take over two weeks to get there.
+
+As far as dying the asphalt are you thinking of something like what is done for recreational tennis courts and the like?  If so, that is a coating that isn't very durable and wouldn't last long in traffic.
+It is worth noting that some places pave over their concrete roads with asphalt.  Best of both worlds, except as it pertains to this question.
+In Australia, asphalt is made with slightly more stone and slightly less tar. Helps it survive the heat and gives it a mid-grey, not black, colour.
+
+Still, regular green spaces (parkland) are better at mitigating urban heat island effects than any minor building material changes. At least, that the line from urban planning here.
+&gt; since asphalt binds poorly to concrete directly
+
+With reference to the paving material (and not the asphalt tar itself) it actually binds poorly with everything.  When laying it on top of other materials (including previously laid asphalt) a form of the asphalt tar is used as a glue to [hold it together](http://training.ce.washington.edu/pgi/Modules/07_construction/tack_coats.htm).  The tack I used to work with was water-soluble which is a big part of the reason asphalt paving doesn't happen when it rains.
+No, I was thinking about just a coloration. I'm not sure if you've seen crosswalks which look like brick pavers, but is simply red asphalt with a stenciled-on indented design to make it appear like bricks. Something like that, but a darkish green to increase albedo.
+I drove through southern Tennessee once in the 90s and the road was tan with I think green street lines. I had never seen that anywhere and haven't seen it since. I thought it was great. Much more pleasant to drive on and it seemed like it would be less hot. Felt more natural. I don't know what it was made of and I haven't had luck googling it.
+[deleted]
+I don't know about cold weather but I know that in hot weather asphalt has a tendency to become soft which makes it more susceptibile to damage.
+The adhering badly to everything kinda explains why I often see chunks of asphalt off to the side of road in urban areas around here, correct me if I'm wrong.
+The way they handle it on I-80 over the pass is that they have a program of grinding down the road every year to get a fresh surface and after X number of years they re-pour the concrete.
+Is that why we have nature strips? Or does it have to be parklands?
+No.  Many roads are layered with concrete under asphalt.  Asphalt has better car to road interaction properties and is the preferred surface to drive on.  I have been a civil engineer for 3 years, and working in road construction for 9.  In this time I have seen as many concrete only roads, as concrete with asphalt wear course roads.  Perhaps its due to some change in technology but that tech came out before my time which has been the last 9 years.  I have never had an issue with bonding.  Strictly asphalt roads are the most common that I have and continue to see.
+
+An asphalt road is cheaper than a concrete one, a concrete asphalt hybrid is cheaper than concrete only.  All 3 types have a wear course, the asphalt wear course is the best one for drivers for audio reasons as well as vibration ones.  The paving materials of a concrete road cost more than an asphalt road, and the engineered base of a concrete road must be more robust and therefore costs more also.  The hybrid road has a engineered base closer to the concrete road.  
+
+When an asphalt road is built with an ideal engineered base it will perform equally to any concrete road.  An ideal base would be one built over solid rock.  The engineer base lifting the road surface about 5 feet from the rock.  Its rare, but does happen.  I work in MN, and our winters are brutal on our roadways.  There are rural roads that my grandfather built 50 years ago with asphalt and drive like they are new, no resurfacing, nothing, the original asphalt.  These roads are in long areas of surface rock.
+
+One of the fundamental problems with asphalt roads is the goal of saving money.  There is this idea that an asphalt road can be floated over poor in situ soils do to its lighter weight and ductile nature.  This of course never works, the road does move, and ungulate as the swamp freezes and thaws from winter to summer, welcome to pot hole hell.  I was on the building crew for a road over a swamp.   We "floated" it, followed the specs and built a nice bit of road.  4 years later, I was on the crew that removed the road and the 20 to 30 feet of swamp under it, to build a firm and solid road.  Floating the road is tried and fails over and over again all over the country, because if it works and it does in the right geographic area, (where it never gets cold) it can save a lot of money.  In my example the second time we did the work the road cost more than the first time, had they spent that money the first time, they would not have needed any work on the road for much longer.
+
+Raised roadways and bridges are often hybrid with asphalt as the wear surface.  Concrete wears out just like asphalt, it does take longer, but when it happens its a much more costly ordeal than a resurfacing for asphalt.
+
+tl;dr I have never had any issues on roads built with asphalt as a wear course and concrete as the primary structural pavement.  I have built roads of both types as well as many asphalt roads.
+They both have pros and cons.  A properly built asphalt road will do better in the cold than concrete.  In both cases potholes are primarily due to failures in the underlying soils.  Failures in the underlying soils are usually due to not designing the road to excavate deep enough to remove the bad materials underneath.  This is a hard choice to make, you can't see threw dirt so deciding how deep to excavate for your road can be a largely economical choice.  Construction crews aren't going to remove and replace extra material at there cost to make the road better, but often it should be done, but due to cost is not.  Then, 5 to 10 years later after many freeze and thaw cycles a void begins opening up.  At first the pavement will bridge the void, and the void can be as far down as 30 feet or more bellow the surface, but usually are in the 5 to 10 foot range.  Concrete bridges the void better, and will for a few years.  Then when a particularly heavy load goes over failure finally occurs.  Now we have a pothole.  The voids are usually not very large, think about how big a pothole is and that that same volume of space and there you have it.  This is the primary source of potholes.  If you know of a spot that always has a pothole, and the road workers come and refile it year after year, this is whats happening.  The void can be caused by some dynamic actions happening deep underground, usually some movement in the water table is creating a condition we call piping.  I removed a section of road once that was to be replaced and we had 15ft deep worth of pavement patches over one 5ft pot hole.  When we excavated that spot we dug down 30 ft and found evidence on an old rotting tree, standing vertically, every year the traffic was compressing the tree, and every year they added more pavement over it to patch the pothole.  Remember  that these problems are less prevalent with concrete since it most often has structural steel in it and will bridge over such voids.
+
+Concrete can be bad in the cold since it cracks and handles the expansion and contraction much worse.  Asphalt just moves, concrete spalls.  Potholes in concrete roads are often due to this, it is more pronounces with a bad mix design or in areas that had a bad batch or a partial bad batch.
+
+Prose and cons for both, its more and more common to see asphalt paved over concrete, and you get the best of both worlds.  If the concrete cracks it doesn't matter, and the concrete will bridge any voids in the underlying soils.  This is also usually cheaper than strait concrete roads since less concrete is used.
+
+But as with all things, it depends.
+We have some red asphalt roads where I live.  Its not from dying, its from being so old the oil is lost.  When an asphalt road is built very close to a continuous rock surface they will hold up exceptionally well.  Where I live we have some areas with such conditions and there are roads that my grandfather built 50 years ago that have never been resurfaced or worked on, and they don't need to be.  They drive like they are new.  Most of the deterioration problems with asphalt are actually problems with the underlying soils.  Anyway, I don't know if its from being sun bleached or loss of oil from age, but these roads are the color of the aggregate.  In this particular case, the roads are a really cool red color, and look dyed.
+
+I have no idea how to dye and asphalt road the ingredients we are dealing with is bitumen and rock.  (bitumen is black).  Concrete is very simple to dye so dying a concrete road would be simple (but costly).  However a concrete road would already have a much higher albedo than an asphalt road.  I'm wondering if the pavers you are seeing ether have a coating on them to give color, or are perhaps concrete.
+
+edit: When I say close I mean vertically, as in less than 10 feet above a rock surface and continually on an engineered base.
+[deleted]
+FYI, its partly incorrect. Asphalt is placed over concrete very often.  Asphalt is considered to have superior characteristics for driving on.  Being more ductile makes it better in a number of ways for being the driving surface.  However for raised roads concrete is needed for structural purposes, think of a raised road as a bridge over land, so you ether need lots of large steel beams, or a concrete structure.  Though its common to place asphalt over the concrete on raised roads and bridges that just depends on the local designers and budgets.
+Potentially, but not likely.  It could be that it just has gotten old, wasn't laid thick enough, and many other reasons that'd be hard to determine without looking.  Most commonly it is just because it got old.
+My town is a college town, and the colors are white and green. A few years ago there was a possibility of renaming third ave to "Herd ave" (Thundering Herd is our football team, you see) and dying the entire ave green.
+
+It was shot down *because* of the cost, and the fact that it was render the asphalt useless, as others have pointed out, because it would be more difficult to recycle.
+hey fuck yall this shit is true
+
+Summary:
+Many roads are layered with concrete under asphalt.
+Asphalt is placed over concrete very often.
+Concrete bridges the void better, and will for a few years.
+We have some red asphalt roads where I live.
+A concrete road can't be patched like an asphalt one.
+An asphalt road is cheaper than a concrete one, a concrete asphalt hybrid is cheaper than concrete only.
+A properly built asphalt road will do better in the cold than concrete.
+It is worth noting that some places pave over their concrete roads with asphalt.
+Strictly asphalt roads are the most common that I have and continue to see.
+I have built roads of both types as well as many asphalt roads.
+In this time I have seen as many concrete only roads, as concrete with asphalt wear course roads.
+No, I was thinking about just a coloration.
+I was on the building crew for a road over a swamp.
+Asphalt does have SOME advantages over concrete.
+As far as I know, the primary reason asphalt is used in roads at all is because it's much cheaper and easier to handle than concrete.
+tl;dr I have never had any issues on roads built with asphalt as a wear course and concrete as the primary structural pavement.
+If asphalt has advantages over concrete, I wonder what the reasons for using concrete here can be.

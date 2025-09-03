@@ -1,0 +1,45 @@
+Here are the selected sentences:
+
+Well, for me, *e* is super interesting because in a way, it *should* be infinity; as it is the product of adding an infinite number of fractions together.
+
+The original conception of e was in concern to economics.
+
+P(1 + r/n)^(nt)
+
+lim (n -&gt; inf) P(1 + r/n)^(nt)
+
+Pe^(rt)
+
+e also appears in e^(i*pi) + 1 = 0, as stated in this question.
+
+e also appears in calculus, for unknown reasons.
+
+d/dx (log_b(x)) is:
+
+1/(x * ln(b))
+
+d/dx(ln(x)) = d/dx(log_e(x)) = 1/(x * ln(e)) = 1/(x * 1) = 1/x.
+
+Oh man! I can't believe I forgot that one!
+
+I woulnd't say it's unknown. It's simple(ish): the slope of the function y=e^x at any point x, is e^x .
+
+Literally every real number has that property.
+
+Since we don't (intuitively) know why d/dx(e^x ) = e^x, it just "appears for unknown reasons" in this formula.
+
+e is that special number where e^x is its same derivative.
+
+In other words at any point x of that function, the slope around that point is also exactly x.
+
+If the base number is bigger than e, then the slope is going to be higher. If instead the base number is smaller than e, the slope is going to be lower. So e is that special equilibrium point
+
+Taking the derivative of a function gives a new function that describes the slope of the original function. And as I said:
+
+the slope of the function y=e^x at any point x, is e^x 
+
+This doesn't validly argue that it's intuitive. You haven't shown that "the slope of the function y=ex at any point x, is ex" is intuitive. All you did is shift the blame by using the definition of a derivative.
+
+I don't buy the whole "e is important and shows up everywhere because it has elegant properties as a base" argument.
+
+I think that the antiderivative of 1/x being ln(x) is fairly surprising. Why is it a log? Dunno. Why is it the _log base e_? Sure, you can argue that it's e because of e's special properties, but that's really lackluster.

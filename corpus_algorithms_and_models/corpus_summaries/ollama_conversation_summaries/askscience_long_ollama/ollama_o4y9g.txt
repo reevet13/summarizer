@@ -1,0 +1,15 @@
+Here is the extracted summary, approximately 10% of the original text:
+
+Magma formed in the upper mantle (not the core, or even close - as far as the whole Earth goes, these processes are skin-deep) would normally migrate to a secondary magmatic chamber  (not the best figures, but ok for our purposes:  http://publishing.cdlib.org/ucpressebooks/data/13030/51/ft6v19p151/figures/ft6v19p151_00011.gif, and : http://www.largeigneousprovinces.org/sites/default/files/2011Oct-fig-4.png) where it would accumulate until eruption.
+
+Differentiation: The magma issuing from mantle fusion has a relatively homogeneous composition, when it reaches a secondary magmatic chamber it will undergo magmatic segregation. This process is analogous to the unmixing of a salad dressing: Oil floats on water, denser solids settle to the bottom. In the case of magmatic segregation, ferromagnesian minerals (olivine, magnetite, pyroxene) settle in the bottom while lighter silicates such as feldspar and quartz concentrate at the top (as well as volatiles - more about those later).
+
+Convection: as magmatic segregation goes on, density and temperature differentials induce convective circulation. This is akin to the roiling inside a boiling soup pot. Stuff goes up the middle (warmer) part of the magmatic chamber and down along the sides, which are cooler.
+
+The combination of convection and segregation can lead to forming magmatic bedding, whereby different layers of progressively different composition accumulate at the bottom and top of the magmatic chamber with the addition of each new magmatic pulse. These layers are a few meters thick and are haver denser minerals at the bottom at less-dense ones at the top, leading to segregation at several scales, in a sort of fractal pattern.
+
+Interaction with the wall-rock: During its stay in the magmatic chamber, the magma may rip off chunks of material from the surrounding wall rock. These will remain in the magma as "enclaves", or melt and change the composition of the magma if the P-T-pH2O conditions are right.
+
+Juvenile magma would be quite fluid, while a more highly differenciated melt, enriched in volatiles, would be more viscous.
+
+The composition of the liquid going to the volcano would thus differ from that introduced into the magmatic chamber, and would depend on how long differentiation has been going on, and on how much fresh magma was introduced in the secondary magmatic chamber.

@@ -1,0 +1,16 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+When a jet flies over, the amplitude of the sound varies drastically--loud quiet loud quiet loud.
+
+I thought initially it has to do with portions of different air pressures transferring sound at different speed, but I think I read that air pressure doesn't affect the speed of sound, but temperature does (I may be wrong).
+
+Are variations in the temperature and perhaps humidity affecting the amplitude of the jet sound?
+
+The description says "I'm not talking about frequency; I know how the Doplar effect works"
+
+Air is like a prism for sound.  Air is denser at lower altitudes, so sound waves are deflected upwards.
+
+In countries at war, people notice that distant bomb explosions are silent.  But if you're far enough away, they're audible again.
+
+That's Poplar.
+http://en.wikipedia.org/wiki/Doppler_effect

@@ -1,0 +1,19 @@
+Here is the summary of about 10% of the text or up to 250 words:
+
+Exposure does not have a crop factor.
+Total sensor light gathering does not matter, the exposure of your picture does.
+If you need to shoot at f 1.8, 6400 ISO 1/60 SS on FF, you will need to shoot those same exact settings on crop, and you will end up with the same exposure.
+
+That is what most people actually care about, not the total light gathered by the sensor.
+
+Total sensor light gathering tells you [more or less] how much noise you get in the final image.
+
+It doesn't matter. Also I will take a noisy picture over an under exposed picture any day of the week.
+
+Not really the camera can do all that for them. It's much better to know what the DOF, FOV and noise will be, than knowing what an arbitrary setting that the camera will calculate for you in a split second will be.
+
+Focal length of a lens does not change between sensor size.
+
+It tells you that noise levels with modern cameras will be similar.
+
+That's a very strange preference since you can correct exposure far more easily than you can correct noise.

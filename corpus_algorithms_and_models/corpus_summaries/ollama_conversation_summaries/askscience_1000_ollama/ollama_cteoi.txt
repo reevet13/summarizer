@@ -1,0 +1,15 @@
+Here are the selected sentences:
+
+Well you would eventually hit the earth, but barring that you would continue to accelerate, approaching but never reaching the speed of light.
+
+Terminal velocity is just when the force of friction from your drag equals the force of gravity, so you have no acceleration.
+
+If you dug a tunnel through the centre of the earth to the other side, it would take 42 minutes to fall through. The acceleration would decrease until it reached zero at the centre.
+
+The Newtonian gravitation field equation is equivalent too 4πGρ= ∇²g which can then calculated easiest essentially with the [divergence theorem](http://en.wikipedia.org/wiki/Divergence_theorem).
+
+Now we have a field, get the potential, which is the integral of the field, below the earth surface: V(r)/m= G ρ 2πr²/3, then compare above with below to get the energy: v²/2 = E/m= V(R) - V(0) = G ρ 2πR²/3, so v=2 R sqrt(πG ρ/3)
+
+According to my calculations, 8 km/second.
+
+You'd only get up to about 8 km/s.

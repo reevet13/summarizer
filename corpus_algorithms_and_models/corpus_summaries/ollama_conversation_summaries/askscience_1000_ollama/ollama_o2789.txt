@@ -1,0 +1,7 @@
+Here is the extracted summary:
+
+I'm not sure how to properly phrase this, but I was wondering where the center of the land-area of the world is.
+
+The idea would be to take a map, assume connection between Eurasia and Africa, Eurasia and North America, and North and South America, make it into "points" (say, 200km x 200km squares?) and then find the point which is the least distant (by land-travel) from all other points.
+
+Another point to find, should the first be found, would be the geographic center without the Americas.

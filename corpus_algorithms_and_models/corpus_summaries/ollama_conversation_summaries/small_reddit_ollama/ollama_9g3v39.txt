@@ -1,0 +1,13 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+For quite some time I have been concerned with Google's level of power, and the fact that their motto was once "dont be evil." I think location tracking has its benefits for navigating, but the sacrifice of privacy in the sense of where I am is strictly violated because a computer tracks me at all times; I don't like the feel of that trade off. I value my freedom, and privacy is part of that.
+
+So perhaps don’t use google? Or at least don’t expect their services to be free.
+
+With your location data, and the location data of others, we can roughly infer your health (including short lived viruses), social circle, guess on political beliefs, your employment (and employment status), mental health, and roughly your psychological state.
+
+Yes, it's not *knowing* these things, but it's relatively high probabilities.
+
+I'm not saying it's not worth the ability to navigate, but I don't think the public at large understands what they're giving up in regards to privacy.
+
+So perhaps don’t use google?

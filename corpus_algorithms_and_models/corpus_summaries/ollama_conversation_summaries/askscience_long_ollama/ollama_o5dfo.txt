@@ -1,0 +1,21 @@
+Here is the summary of about 10% of the text (up to 250 words) by selecting only sentences from the original text exactly as written:
+
+My intuition tells me that I can accelerate using relatively less fuel on the downhill slope due to gravity, and that this increase in momentum will allow me to use less gas than I would have when ascending the uphill.
+
+Speeding up going downhill will save you a small amount of fuel going up the other side.
+
+It's all about the [torque], baby.
+
+So my guess would be that you should try to stay at whatever speeds your engine is most efficient at. If you're going too slow or too fast, you'll burn more fuel per mile.
+
+Like you say, this is a complicated problem, but I think we can put the problem into a good perspective if we look at the energy:
+
+Our car is affected mainly by two classes of forces :
+
+- gravity, which is a conservative force, meaning that this force doesn't cost the system energy if you account for the potential gravitational energy the object has
+
+So, if we want to be as efficient as possible, we should strive to **minimise our friction forces while driving**.
+
+But where does the energy come from ? From the engine burning fuel. This process can be more or less efficient depending on the conditions.
+
+I suspect fuel efficiency is a much larger influence on the problem than drag is.

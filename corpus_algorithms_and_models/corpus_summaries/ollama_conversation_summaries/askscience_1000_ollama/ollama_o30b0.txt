@@ -1,0 +1,10 @@
+Here is the summary:
+
+The humming usually comes from the transformer, not the wires.
+When it's raining or snowing it's also quite often windy, and it's the wind that causes the power lines to hum.
+Essentially, the flow around a circular cylinder (like the cross-section of a power line wire) is unstable and vortices are shed alternately from either side of the cylinder.
+You can hear these vortices as they represent periodic pressure fluctuations in the air, or sound.
+If the wind is strong enough then the amplitude of the pressure fluctuations can be loud enough for you to hear it.
+These are high voltage transmission lines if it helps.
+
+(Note: I stopped at 250 words as per your request)

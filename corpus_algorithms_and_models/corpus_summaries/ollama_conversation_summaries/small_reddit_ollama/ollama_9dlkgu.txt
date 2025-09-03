@@ -1,0 +1,13 @@
+Here are the selected sentences from the original text:
+
+The gpu is overkill for 1080p 60fps. You can save some money there.
+
+I'd go with this. https://pcpartpicker.com/list/dKH4YT
+
+So going with a 1080p 144hz monitor then I would want to get the gtx 1080 card you recommended, would you also recommend the Ryzen 5 2600 for CPU or would it be better to use the 5 2600x at this point?
+
+You're original build is better. You always wanna try to max out your gpu while getting the best cpu you can get to match it.
+
+Looking at your build again, you used an i5-8400, but would the i7 8700 be more preferable here, as it is a good bit cheaper than the 8700k and only a little more expensive than the i5 8600?
+
+It'd be easier if i knew your total budget and anything else you needed included in the build like monitors, keyboards and mouses etc

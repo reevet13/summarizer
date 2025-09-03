@@ -1,0 +1,50 @@
+I know that speed affects time.
+The faster you go the slower time goes.
+
+I also know that mass affects time.
+The more mass the slower time goes.
+
+Now for speed the limit seems to be the speed of light, where time stands still.
+
+Is there then also such a limit on mass?
+Or will time stand still at infinite mass?
+[deleted]
+http://en.wikipedia.org/wiki/Gravitational_singularity
+
+http://en.wikipedia.org/wiki/Black_hole
+Well the heaviest an object can be without collapsing into a black hole is the mass which brings the object below its  Schwarzschild radius.
+The mass for that would be M=r*c^2/2G.
+Inside that radius, going towards the centre is mathematically equivalent to going forward in time.
+Not sure if that's what you're asking.
+Also relevant: http://en.wikipedia.org/wiki/Chandrasekar_limit
+&gt;Inside that radius, going towards the centre is mathematically equivalent to going forward in time.
+
+Can you expand on this?
+Aren't we always going forward in time?
+Basically it means that if you're inside a black hole, and you try to go away from the centre, you'd have to go back in time.
+
+Check out the section "Inside the black hole"
+
+http://members.cox.net/jhaldenwang/black_hole.htm
+Does that mean that if an object's radius is the same as it's Schwarzschild radius time would stand still at it's edge?
+From an external reference frame.
+Of course.
+Thanks.
+Infinite mass doesn't really make sense.
+
+An infinite mass would exert an infinite force on everything in the universe.  
+
+An infinite force could presumably accelerate objects with mass to the speed of light, at which point everything in the universe now has infinite mass.
+
+If you want time to stand still next, ok, sure, you just broke the universe, making time stop is no biggee.
+
+To answer your question, there is no inherent, derivable limit to mass analogous to the speed of light.  You could come up with some practical limits, like "This experiment would detect any mass in the universe greater than mass X" or "If an object of mass Y ever existed, we'd all be in its black hole by now".
+&gt; An infinite mass would exert an infinite force on everything in the universe.
+
+I hadn't thought about that.
+
+The Schwarzschild radius answered my question pretty good.
+Gravity also propagates at (close to) the speed of light in a vacuum, so not everything would fall into this "infinity-mass" thing.
+Has that been confirmed experimentally, or is it still just a theoretical consensus?
+I think [this thread](http://www.reddit.com/r/askscience/comments/bvm7w/what_is_the_speed_of_gravity/) will be helpful in answering your question!
+Thank you sir.

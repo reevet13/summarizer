@@ -1,0 +1,21 @@
+Original Response:
+For example. The Mars Science Laboratory was a very costly program; and even though there were no people in it, wouldn't it be practical to have an LES just in case things didn't go so well? Or would the added weight be such a hindrance that it wouldn't be practical?  
+
+edit: LES - Launch Escape System
+       LAS - Launch Abort System
+[deleted]
+Oh i'm sorry. Launch Escape System and Launch Abort System respectively.
+To take your specific example of MSL ... MSL is designed around entry descent and landing on Mars ... a planet with significantly LESS atmosphere and LESS gravity than Earth ... all of its infrastructure is designed to withstand the rigors of launch on Earth and landing on Mars ... an abort on launch and a recovery landing on Earth would destroy the rover anyway ... or making sure that it could survive an Earth Recovery event would push its already astronomical cost much much higher.
+
+The only cargo that is worth the extra expense and weight of a LAS is humans.
+This is not strictly true. An abort system could be designed that would allow a descent that is less violent than that seen on Mars. 
+
+I think the real problem is in where the payload would eventually land. None of what you send to mars is built to handle a seawater environment, so on top of the payload fairing around your capsule for mars reentry, you need to add something in between that keeps seawater out in the event of a launch abort. Then under normal operation that's what's called a "single-point failure" mode. If your seawater prevention system (even if it's as simple as a bag) doesn't separate properly, your whole mission is shot (unless you can mitigate it other ways which would make it *not* a single-point failure. 
+
+I think a bigger problem is that even if you have to abort and you keep the landing and recover under what you expect to see during Mars reentry and landing, the vehicle isn't usually meant to do that *twice*. You need to check fatigue on a lot of parts and design that into the system from the first place. It could be done, but in reality it's easier just to lose the spacecraft altogether than to accept the level of risk involved in so many systems having so many possibly undiagnosed problems after an abort. It's just easier and less risky to build two spacecraft and not fly the aborted one. This is actually common and the reason we have museum pieces of things like Sojourner rover and whatnot.
+
+TL;DR: I think it's a complexity and risk aversion problem not a cost one.
+
+Summary:
+Launch Escape System and Launch Abort System respectively.
+An abort system could be designed that would allow a descent that is less violent than that seen on Mars.

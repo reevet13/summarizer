@@ -1,0 +1,15 @@
+Here is a summary of approximately 10% of the original text, consisting of selected sentences:
+
+The atmosphere absorbs all colours well except for blue and green. It absorbs blue terribly, and absorbs green fantastically.
+
+Even if the atmosphere were completely transparent (no absorption or emission) it could still give us colorful sunsets by scattering light differently as a function of wavelength.
+
+Think of "scattering" as when a light ray hits something (usually a particle) it bounces in another direction. The color that is scattered depends on the size of the particle.
+
+The air scatters the blue light the more air light goes through the more blue that will be scattered away - some leaking into space (that's why we are the "blue planet"), some hitting the ground (why it is blue when you look up).
+
+The reason you rarely see green skies is because air "filters out" the blues, and there aren't a lot of mechanisms in the sky to filter out red, so the green that is there is always mixed with dominant reds.
+
+What happens at mid-day is the blue is bouncing off air molecules and that's why you see it. At sunset the air is bouncing all the blue out of the spectrum before it gets to your eye, so the light looks red.
+
+To get purple, the air would need to filter out the middle of the spectrum (yellows and greens) and that doesn't happen.

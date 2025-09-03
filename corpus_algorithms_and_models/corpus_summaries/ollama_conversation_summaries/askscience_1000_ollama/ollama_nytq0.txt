@@ -1,0 +1,16 @@
+Here is a summary of approximately 10% of the original text:
+
+Protein folding rates and sequence-predicted secondary structure suggest that folding rates are largely determined by amino acid sequence.
+A protein molecule folds spontaneously during or after biosynthesis, and the process also depends on solvent (water or lipid bilayer), concentration of salts, temperature, and presence of molecular chaperones.
+
+Folded proteins usually have side chain packing stabilizes the folded state, and charged or side chains occupy the solvent-exposed surface where they interact with surrounding water.
+Minimizing the number of hydrophobic side-chains exposed to water is an important driving force behind the folding process.
+Formation of intramolecular hydrogen bonds provides another important contribution to protein stability.
+
+The best way to think about protein folding is Anfinsen's dogma: each native confirmation of a protein is the one in the lowest energy state, making it the most stable confirmation.
+Proteins always refold correctly, and experiments have shown that 100% of proteins refolded perfectly after denaturation.
+
+Treatments with small molecules (pharmacological chaperone) can be used to fix errors in protein folding.
+
+Each native confirmation of a protein is the one in the lowest energy state, making it the most stable confirmation.
+The correct folding process is the lowest possible energy and each folding step is not very reversible.

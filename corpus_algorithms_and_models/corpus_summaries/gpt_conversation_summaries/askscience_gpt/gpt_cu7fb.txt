@@ -1,0 +1,27 @@
+I know that voltage is the 'potential difference across two points', but what does that actually *mean*?
+
+A great analogy is a watercourse, just exchange electric potential for gravitational. A river flows downhill because there is a potential difference, just as an electron moves in a wire because of an *electric* potential difference. The steeper the drop, the faster the river.
+
+Electron drift velocity is linearly dependent on velocity, so in your example, they'd be moving at 10x the velocity in the second case. (Don't confuse the velocity of the electrons for the rate the signal is propagated at.. that happens at the speed of light)
+
+**Voltage** = how hard you push
+
+**Resistance** = how rough the road is
+
+**Current** = how fast you wind up going
+
+So what is voltage? Voltage represents the **energy by unit of charge**. In other words it is a measurement of the energy carried by individual electrons.
+
+So, why current increases when voltage increases? It is due to the fact that voltage is created by compressing electrons against each other (remember that they repulse each other). More potential means more pressure to pass through the resistor which results in a gain of electron flow.
+
+That's the subtle difference between energy and potential. What a voltmeter measures is not the absolute energy of the electrons at one point but rather the *difference* of energy between two points which is potential.
+
+It takes work to move electrons closer together. Since electrons repel, there is a force pushing them apart. A higher concentration of electrons will have a greater repelling force so when a lower concentration is presented, the electrons will diffuse.
+
+The problem with this explanation is that voltage is not just energy per unit charge, you have to specify that its **potential** energy per unit charge, like the height of a hill is potential energy per unit weight (mass times g).
+
+Voltage is slang for electric potential, or electric potential difference (e.g., the difference in electric potential), since both are measured in units of Volts (and a volt is a Joule per Coulomb, or equivalently energy per unit charge).
+
+Imagine you have a ball rolling down a hill. How fast the ball moves is a function of the height of the hill. Potential is analogous to height.
+
+The reason it takes longer is because you need more force to create that new potential. Ripping 1 electron off a plate and sticking it on the other is easy. But as more electrons are ripped, the more other protons are pulling on the remaining electrons,

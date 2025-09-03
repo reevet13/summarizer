@@ -1,0 +1,15 @@
+Here are the selected sentences from the original text:
+
+When I put a bottle of water in my freezer and then take it out a few hours later it often hasn't turned to ice yet. When I hit the bottle into something then ice begins to form at the collision point until it fills the whole bottle. From what I've read this is known as supercooling.
+
+I thought I would try this myself so I put 5 bottles of water in the freezer. I hit three of them to make sure they would turn to ice (which they did) then I poured the other 2 into cups, but they never turned to ice like in the videos I watched.
+
+Usually pouring is enough of a shock to promote crystal growth. Heck, its pretty tough just to open the bottles. Dust in the air, dust in the cup...
+
+It could've been a fluke. Crystallization is a randomized process, maybe you got the funny end of the distribution.
+
+You need a nucleation point. It's hard to convince a liquid to crystallize because you lose a lot of entropy, meaning your gibbs free energy increases.
+
+Ice crystals have a lot more order in them than liquid water, so convincing a liquid to crystallize takes a bit of work. If you have a nucleation point though you can speed up the process.
+
+If OP is using a thick warm glass with smaller amounts of water, the water may end up not being supercooled. For best effect, try freezing the glasses before you pour the water.

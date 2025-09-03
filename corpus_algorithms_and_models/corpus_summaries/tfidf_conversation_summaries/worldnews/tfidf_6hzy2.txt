@@ -1,0 +1,169 @@
+Original Response:
+[deleted]
+Am I the only one who thinks BBC is doing a public service with this article?
+This just in: don't post your personal info on the internet, jackass.
+Are you saying the article is incorrect?
+No.
+Regardless of what you do with your security settings, there is one party who always has access to all of your data: Facebook itself.
+Irresponsible journalism. What the article fails to mention is that the 'secret personal information' is the same info that gets displayed to the screen. The apps get the same amount of access as anyone in your network (in fact less, since an app can't access your friends' data). The only difference is that they can get it in machine readable format. 
+
+(Downmodders - is this not true? Did I misunderstand how fb apps work?)
+What sort of moron would have a Facebook page that has accurate personal data?
+I've had just had a very unpleasant incident which borders on stalking. Why was it so easy to find my email, telephone number and address? Because I am an idiot who uses Facebook.
+
+Just a word of warning, bad stuff can happen to you.
+They present it being a worry that third-parties can get your info through applications. I'd say Facebook having your data is the biggest risk.
+Facebook sucks anyway. Not that myspace is much better, but it's still better than facebook.
+
+Facebook should have never opened their garden up to non-college people, they really fucked up there.
+This article is misleading. You can control the amount of access a Facebook app has to your data, and you don't have to put all this data on Facebook in the first place - my profile doesn't even have my real name - only a 'nic.
+
+Dissapointed in the BBC for this silly scare-mongering.
+And god knows it needs to be scared off.
+No. Not at all.
+
+The idiots who would have a Facebook presence in the first place are too stupid to think far enough ahead to recognize the security threat on their own. Gh0D certainly knows they can't read or write code.
+
+As my mother once admonished, "Fools names and fools faces are always seen in public places."
+Every single one of my facebook "friends" it seems. I've tried warning the folk I care about the most but they simply don't care.
+Here is a tip.
+
+Don't put information you don't want everyone to know.  If you put information on your facebook that you don't want people to know, then you are a moron who deserves what exactly what you get.
+
+Congratulations, you lose at internet.
+&gt; You can control the amount of access a Facebook app has to your data, and you don't have to put all this data on Facebook in the first place
+
+No you can't. You can specify a single application and restrict it but you would need to do it for every single application that your friends use. That's the issue here, the applications get access to your friends details as well as your own when they are added.
+&gt; applications get access to your friends details as well as your own when they are added
+
+Really? But how would that be different than someone in your friend's network being able to see what you put up?
+It's the same thing really. If you set your privacy to "friends only" then their applications get the same access to your details. 
+
+I'm going on the basis of an article I read recently, so don't take my word as bond on this but I'm pretty sure that's how this works.
+When you add an applicaiton, the dialog says:
+
+&gt; Allow this application to..
+
+&gt; Know who I am and access my information
+
+&gt; Put a box in my profile
+
+&gt; Place a link in my left hand navigation
+
+&gt; Publish stories in my News Feed and Mini-Feed
+
+&gt; Place a link below the profile picture on any profile
+
+&gt; Send me notifications via email
+
+So a modicum of control is provided. The API will only allow you to perform actions on a user that the user has allowed - and the only data it can obtain from your friends is data that your friends have publically published and visible to anyone who comes across their profile.
+From the article:
+
+&gt; When you add an application, unless you say otherwise, it is given access to most of the information in your profile. That includes information you have on your friends even if they think they have tight security settings.
+So the article says that - the only information the app can obtain is information that is already public and on your profile. So, really, what's the issue? 
+
+If my friend installs an app, and that app accesses my data - the only data it can get is the data I have set to be *public* by placing it on my *profile*. In other words - the data that *anyone* can *already see* if they visit my profile. You cannot restrict user or application access to only certain areas of your profile - any data you put up there is public. The only thing you can restrict is the users allowed to see/search for it.
+
+The app cannot access data outside of my profile - such as email, notifications, posts, and so on. It can't even access markup (FBML) that other applications have placed on my profile page.
+
+Seriously, this is one big non-issue.
+You're 100% right; I've just spent a couple months writing a Facebook app.
+
+The sad thing is the down-modders have no idea what they're talking about, but are willing to downmod you for a differing opinion.
+
+Welcome to Reddit..
+I write code, I have a Facebook profile, I write Facebook apps. 
+
+You don't have to put any real personal data on Facebook, you can even use a 'nic or fake name. The only thing that needs to be real is the email address you give. You don't have to supply your address or phone number, or eductional history or any of the rest of that crap - it's all *optional*.
+
+Jesus Christ, people. Facebook is just a bit of fun, it not a "security risk" unless you choose to make it one.
+No, read it again. Right now if you were to find me on Facebook (fat chance), you would see nothing. You get my name and no profile picture or contact info. This is my "public" profile.
+
+Should a friend add an application that application gets to see all of my private information that my friend has access to. Thus an application has gained access to my info despite me trying to restrict it and without my permission. This is unacceptable.
+
+Why do I get the feeling you are connected to Facebook in some way...?
+&gt; No, read it again. Right now if you were to find me on Facebook (fat chance), you would see nothing. You get my name and no profile picture or contact info. This is my "public" profile.
+
+No. Your "public" profile is what you expose to  the people that you allow to access your profile page. The application cannot see any more than these people. If you add friends, then you allow those friends, and their applications, to access your public data. You are confusing your public profile with the ability of people to *find* your profile, and view your profile page - two totally different things.
+
+&gt; Should a friend add an application that application gets to see all of my private information that my friend has access to. Thus an application has gained access to my info despite me trying to restrict it and without my permission. This is unacceptable.
+
+As I said above, the application cannot see any more than your friend - in fact it can see far less - read my above post.
+
+&gt; Why do I get the feeling you are connected to Facebook in some way...?
+
+Thats weak. Just because I know the platform, and am trying to give people the facts, rather than ill informed panic-mongering, doesn't mean I'm a Facebook employee. You don't need to take my word for it - go and write a Facebook app yourself that prints out all someones friend data - takes a couple of hours to write.
+&gt; Your "public" profile is what you expose to the people that you allow to access your profile page. The application cannot see any more than these people.
+
+YES! And that's the point. Unless you are my friend you can't see squat on me. Just a name, there isn't even a "view profile" link. When you are my friend you have access to my profile. Ergo, the applications have access to things that I don't want them to have. I would prefer to see all applications limited to only what is available via a search. I don't want any applications to see any part of my profile unless I specifically add them myself. 
+
+&gt; Just because I know the platform, and am trying to give people the facts
+
+Ah, so you are an application writer. If I didn't value my online identities so much I'd link you to a search for me and you'd see my point.
+What you are describing here is your opinion on how the Facebook permissions model should actually work. What you are proposing is that applications have access to a users "public search listing" (like a phone book entry) - which contains only a name and a profile pic for most people. I agree that what you describe might make a better permissions model - but that doesn't make the existing model a *security risk*.
+
+The fact still stands that the original article claimed that applications on Facebook could obtain access to "private" data on Facebook, and this just isn't true. Part of the problem here is the confusion over what is "public" and what is "private".
+The article is true, this information is PRIVATE.
+
+It's actually illegal under EU and UK law. They are not allowed to collect this info without my IMPLIED consent. Having a friend add an application is not consent. 
+
+&gt; I agree that what you describe might make a better permissions model - but that doesn't make the existing model a security risk.
+
+Really? So "companies" having access to:
+
+* email address
+* phone numbers
+* full name
+* address
+* date of birth
+
+is not a privacy concern? What the fuck are you smoking there?
+Do you always become so rude when you lose an argument?
+
+The information that you put up on a public web page is not private. You do not **have** to put up your email address, phone numbers, full name, address, or DOB, - and if you don't put them up on a *public* page, then the applications can't get at them, can they?
+
+&gt; It's actually illegal under EU and UK law. They are not allowed to collect this info without my IMPLIED consent. Having a friend add an application is not consent.
+
+Nonsense. When you place your details up on Facebook, and accept their "Terms and Conditions", then you have given Facebook permission to collect this info. So it's not "illegal under EU law". Other applications would only be violating the law if they chose to store this data on their on servers - not if they simply accessed it.
+
+For the umpteenth time - applications only have access to the data you describe if you choose to put it up there. **YOU DON'T HAVE TO PUT IT UP THERE.** Facebooks only mistake has been to let people think that retricting search access to your profile makes your profile "private" in some way. It doesn't. 
+
+As you're becoming unpleasant, I don't think theres any point in continuing this conversation further.
+&gt; Do you always become so rude when you lose an argument?
+
+Rude? I'm sorry but you completely miss the point here. 
+
+&gt; Nonsense. When you place your details up on Facebook, and accept their "Terms and Conditions", then you have given Facebook permission to collect this info.
+
+Since when did "terms and conditions" trump law? Their terms and conditions could say that you are allowed to rob banks and have underage sex but it doesn't change the law of the land. Facebook is illegally selling my details and I'm not happy about that. 
+
+Under EU law it has to be an opt-in process. There needs to be a checkbox that I voluntarily tick that enables them to sell my details onto entities outside Facebook. They can sell consolidated data of course, just nothing personally identifying. 
+
+&gt; For the umpteenth time - applications only have access to the data you describe if you choose to put it up there. YOU DON'T HAVE TO PUT IT UP THERE. 
+
+True, but most people are unaware at the wanton wholesale of their data which is precisely why laws like The Data Protection Act exist. You might not live in a country where the law cares about public interest more than corporate profit, but that's the way it is for some of us. We want these laws to protect the less-aware, in the same way that there are laws against pyramid schemes and other ways of scamming people. 
+
+&gt; Facebooks only mistake has been to let people think that retricting search access to your profile makes your profile "private" in some way. 
+
+No, their "mistake" is fully intentional seeing as Facebooks core business model is to make money from selling personal data and advertising. This isn't ignorance, it's a deliberate incentive for application writers to use their platform.
+
+Summary:
+When you are my friend you have access to my profile.
+This is my "public" profile.
+The application cannot see any more than these people.
+I write code, I have a Facebook profile, I write Facebook apps.
+If you add friends, then you allow those friends, and their applications, to access your public data.
+Should a friend add an application that application gets to see all of my private information that my friend has access to.
+If you set your privacy to "friends only" then their applications get the same access to your details.
+Ergo, the applications have access to things that I don't want them to have.
+Having a friend add an application is not consent.
+&gt; Should a friend add an application that application gets to see all of my private information that my friend has access to.
+&gt; applications get access to your friends details as well as your own when they are added
+
+Really?
+The article is true, this information is PRIVATE.
+You get my name and no profile picture or contact info.
+&gt; No, read it again.
+You cannot restrict user or application access to only certain areas of your profile - any data you put up there is public.
+
+# Summary elapsed time (seconds): 0.09

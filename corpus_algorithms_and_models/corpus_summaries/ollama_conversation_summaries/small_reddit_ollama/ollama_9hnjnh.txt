@@ -1,0 +1,13 @@
+Here are the selected sentences copied verbatim from the original text:
+
+When you bring two orbitals on separate atoms close together, they mix because the symmetry of the total system is no longer that of a single atom.
+Every orbital (in molecular orbital theory, at least) will have a symmetry that depends on the symmetry of the molecule as a whole.
+That's a consequence of the symmetry requirements of the overall wavefunction, where  **𝚿** (a,b) = -  **𝚿** (b,a).
+Valence-bond theory is to MO theory what Newtonian physics is to relativity: accurate and useful within certain limits, but fundamentally untrue.
+If psi is the wavefunction, then | psi^2 (x,t)| is the probability that the electron exists at x at time t.
+
+That’s from the postulates of quantum mechanics, though, not valence bond theory or MO theory.
+I didn’t understand the question the OP was asking, and I was hoping that my stab in the dark would bring some clarity to that question.
+Naturally, I agree that the theory is incomplete, as all theories are incomplete; some theories are more useful than others, but a scientific philosopher rejects all theories.
+
+Note: The number of selected sentences is 7, which is around 10% of the original text.

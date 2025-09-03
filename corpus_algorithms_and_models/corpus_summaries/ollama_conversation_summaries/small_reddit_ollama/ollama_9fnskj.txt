@@ -1,0 +1,15 @@
+Here is the summary of up to 250 words:
+
+Every nucleus has some number of protons (Z) and some number of neutrons (N). The total number of nucleons is A = Z + N.
+
+An element specifies the Z, but it doesn't specify the N (or by extension, the A).
+
+Different isotopes of an element have different N, but the same Z.
+
+Because the name of the element specifies Z, in order to talk about a specific nuclide, you have to specify the N as well. Or you can just specify the Z and the A, and the N is determined by N = A - Z.
+
+Every element has multiple isotopes. Iron has 30 isotopes listed in the chart I linked above.
+
+You can't have Iron 12. The lightest observed isotope of iron is Iron 45 which has a half life less than 2 milliseconds. Iron 54 is the lightest stable isotope.
+
+To put it simply, the number is the weight. An atom of U-238 weighs about 238 atomic mass units.

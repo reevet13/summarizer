@@ -1,0 +1,4 @@
+I think your idea of time being a grid of discrete bins is not what people typically think of when they talk of quantized spacetime, but something more akin to having a quantum mechanics version of spacetime where things don't commute, obey a funky algebra, etc.
+In mathematical physics quantum spacetime is the proposal that the actual spacetime that we live in is more accurately described not by usual local coordinates x,y,z,t but operator or algebra variables where the order of at least some of the products matters.
+Just as with Heisenberg's uncertainty principle, a quantum spacetime necessarily comes with uncertainty relations in the sense that not all x,y,z,t can simultaneously be ascribed actual numerical values.
+This means that our usual picture of continuum spacetime must itself break down as we approach such Planck scale distances.

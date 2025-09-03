@@ -1,0 +1,16 @@
+Original Response:
+So we've bought a fancy, high-density foam esky, which keeps ice icy for a few days on average. What we've started to wonder is what the best practice for esky management is. We see three basic choices:
+
+A) leave melted ice water in the esky, top up with ice when needed, drain water if too full.
+
+B) drain all water when ice has melted. Replace with new ice.
+
+C) leave the drainage hole open, all melted ice exits the esky leaving no water layer.
+
+The purpose is to keep drinks cold and the ice-box will occasionally be opened.
+I'm just speaking from (personal) anecdotal experience but I used to work for a brewery that had alot of plate cooled mobile draft beer systems (usually called a "miracle box") for client use. The general consensus from the tech guys at the brewery was that to get the lowest temp possible the drainage hole should be left open so the plate at the bottom was in constant contact with melting ice. However some guys suggest adding salt to the ice so you got brine once it melted which has a lower freezing point (I never tried this out though)
+There are a number of ways you could keep it cooler, but they aren't really conducive to a healthy environment inside your chillybin (I refuse to call it an 'esky')... for example, you could replace the water with a cooled antifreeze of some kind, which has a higher specific heat capacity than water. You could remove the cooling elements from a fridge and wire them into it, etc. You could continually dissolve ammonium chloride into the water in the chilly bin, which dissolves endothermically making it colder.
+Kiwi alert.
+
+Summary:
+B) drain all water when ice has melted.

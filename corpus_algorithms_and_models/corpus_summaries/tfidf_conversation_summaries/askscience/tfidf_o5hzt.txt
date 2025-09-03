@@ -1,0 +1,47 @@
+Original Response:
+Pretty much all in the title. When I injure a muscle or tendon the first recommendation I come across is to ice the area / take a non-steroidal anti-inflammatory drug (ibuprofen!). 
+
+Are these simply to reduce the symptoms of pain? or do they actually promote healing?
+Tendons and ligaments tend to have very little blood supply naturally (which is part of why they take so long to heal). Inflammation can create pressure which hampers what blood supply there is and can lead to a further hypoxic injury of the tissue.
+
+As for why we have evolved this way, I could only speculate, so I won't. I hope someone else might be able to explain what benefit the inflammation response to trauma gives us.
+
+Reduction of blood loss? *slaps self* I promised I wouldn't...
+Unless the swelling and pain bothers you. Because the inflammation helps repare damage in different ways:
+
+- Increased bloodflow, this increases the supply of immune cells and enhances the drainage of whatever causes the inflammation. This causes the redness and the warmth.
+- The permeability of the capillaries increases so that white blood cells and fluids which contain nutrition and other immune system components can pass through, this causes the swelling.
+- The increased temperature known as fever is theorized to make bacteria grow slower and to enhance our immune system.
+
+Sometimes our immune system overreacts, dealing more damage than repearing, only then is it usefull to take NSAID's. Really high fevers are an example.
+Sometimes they are also described for cardiovascular diseases, to reduce the risk of thrombosis.
+
+Edit: Deleted first sentence.
+So the first comment (by hematose) says that inflammation restricts bloodflow, the second comment (by thenumber42) says that inflammation increases bloodflow. This is why I love Reddit.
+I had almost the same question, but about colds instead. If producing mucus helps us get better, why does everybody blow they're noses all the time? Shouldn't we try to keep are noses blocked up?
+[This](http://www.reddit.com/r/askscience/comments/i96kk/how_does_a_cold_make_us_produce_more_snot_and_or/) thread might help answer your question.
+I think that inflammation reduces the risk of infection.  That fits with increased temperature and decreased blood flow.  Modern environments are clean enough that it's not a big worry, so it's more important to prevent permanent injury.
+[deleted]
+He said the pressure induced by inflammation can limit blood supply. This is because of the swelling of tissues caused by the extravasation of fluids. When the inflammation persists for a longer time, blood vessels become damaged and this might also limit blood supply.
+
+Edit: So fundamentally, inflammation will most definitely cause dilatation and increased blood flow. But sometimes it derails and causes an unwanted plot in which case it is better to take NSAID's.
+this is exactly what I've wanted to hear for ages, but do you have any sources?
+I think that before you start giving medical advice, you should [read up on it a little bit.](http://bjsm.bmj.com/content/38/3/372.full.pdf+html)
+
+For most significant sports injuries, swelling and pain will bother the you. Inflammation can reduce blood flow to certain kinds of tissues causing secondary hypoxic injury. A quick Google Scholar search will pull up tons on this. For example, [this.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC164347/)
+
+Ice, compression, elevation and (N)SAID use has been the standard joint/muscle sports injury treatment for decades. Is there something new that I haven't seen?
+Neither of the two articles states that there is sufficient evidence that NSAID's treatment will benefit sports-related injuries. So the first sentence of my first post is probably out of my league to say, you're right.
+Here's the thing, if the nose is blocked up and you keep making mucus, what will happen?
+
+Before I found out that I had 39+ allergies, those nose blockages caused much face swelling, massive sinus pressure, headaches that lasts for days and sometimes go into migraines. Not a place in time that I want to return to. *My guess is that it isn't technically a migraine, since all of that mucus going down your throat will eventually upset your stomach.*
+I know, gross, but it is what it is.
+Both statements are correct in a fashion. There is increased recruitment of white blood cells to tissue at the site of inflammation.  Blood flow is restricted through lower pressure and formation of local clots that would help to contain any pathogen rather than having it able to spread freely throughout the blood.
+Disappointing that there is no definitive answer backed by science for this yet.  I think I'll trust evolution in the face of such widespread ambiguity.
+
+Summary:
+I think that inflammation reduces the risk of infection.
+Edit: So fundamentally, inflammation will most definitely cause dilatation and increased blood flow.
+Inflammation can reduce blood flow to certain kinds of tissues causing secondary hypoxic injury.
+This is because of the swelling of tissues caused by the extravasation of fluids.
+Inflammation can create pressure which hampers what blood supply there is and can lead to a further hypoxic injury of the tissue.

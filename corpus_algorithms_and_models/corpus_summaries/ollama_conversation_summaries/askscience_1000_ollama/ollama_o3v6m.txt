@@ -1,0 +1,9 @@
+Here is the summary of about 10% of the original text, up to 250 words:
+
+It's not the detecting itself that's important, it's what the detection allows us to infer about the source. We want to build bigger and better neutrino detectors for the same reason we build huge photon detectors (telescopes) and point them at the sky when we can generate photons at will almost for free: natural sources of neutrinos/photons are *very* interesting!
+
+Neutrinos are what we sometimes call messenger particles. They are created either at, or very close to, sources of high energy particle acceleration (examples are supernova remnants, supermassive black holes, etc). There are three types particles detected from these sources: photons, cosmic rays, neutrinos.
+
+The problem with neutrinos comes from their main benefit, that they have a very low interaction. This means they will come from the source itself, but it also makes them very hard to detect, as it mentions in the article.
+
+So its the fact that the detection of the neutrino in nature tells us something about its source that is important, and something that we could obviously not surmise from controlled experiments in the lab? That would make sense.

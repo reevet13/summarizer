@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+As I mentioned, it's primarily for gaming, VR, and (in the near future) occasional streaming with a side of video editing.
+
+Yeah, you'd need a new motherboard compatible with Ryzens as well as new DDR4 RAM as DDR3 is incompatible.
+
+Ryzen 5 2600 should be sufficient. If you're playing at 1080p or 1440p may be better to choose an overclocking Intel CPU as the higher individual core performance will yield gains in most games.
+
+There is little reason to choose i5-8400 over Ryzen 5 2600 unless maybe you intend to take the best Coffee Lake has to offer later, as the Ryzen 5 has practically identical single core performance with a slight overclock and with simultaneous multithreading is better equipped for streaming and heavier workloads.
+
+Oh yeah I definitely prefer 1440p.

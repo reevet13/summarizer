@@ -1,0 +1,67 @@
+Original Response: 
+Ok so I'm getting the Innokin Proton Plex kit and the coils are between about 80-110 watts ish if I recall, now I did some Googling and found that for high wattage you need a 30 amp battery, is 80-110 considered high wattage?
+Also why do you need a 30 amp battery?
+All the 30 amp battery's that I've seen have low capacity which kinda sucks.
+It takes 18650 batteries btw.
+Edit: Oh and help me choose a colour
+
+Mod - https://imgur.com/a/UPksKjq
+
+http://www.strawpoll.me/16524912
+
+Edit 2: I bought the red one :D.
+Quick rule by Mooch:  Amps times three for safe wattage.
+30 amps (off one battery) x 3 = 90 watts.
+You can exceed this, but you can't really chain-vape it... meaning hit it every few seconds.
+So you can hit 100-110, but try to avoid holding the fire button down for more than a few seconds and then take another vape in a minute or so.
+If you are able, feel the battery with your cheek to see if it's getting pretty warm.
+If so, drop down the wattage.
+Doing this early and regularly will make sure you aren't pushing/stressing the battery too much.
+And yeah, high wattage is why a lot of people want dual-cell mods.
+There are two batteries in this vape so shouldn't that number be doubled?
+Wouldn't it be 180 watts not 90 watts?
+&gt; Multiply the wattage above by the number of batteries in your device to get the total wattage you should stay under using those batteries
+
+60a rating = 180W
+
+Is that how it works?
+Cause of two batteries?
+That is correct.
+Although most dual battery mods are wired in series, which doubles voltage but not amps.
+For 80-120 watts or so, best bet would be two VTC5A'S.
+25 amp battery, very highly regarded.
+No need for 30amp batteries unless you wanna vape at 180-200 watts regularly.
+I do like chain vaping though, typically ill sit down for a bit and have like 15 puffs like I would a cigarette, that fine for the VTC5A?
+Yes.
+For regulated mods, chain vaping isn't much of a problem.
+Vtc5as can handle it.
+You've got it!
+And most of us mere mortals do not really vape at 200+ watts.
+I've never went over 27 personally.
+Alright ill pick up the VTC5A, thanks for the help.
+27 is honestly too low for me, with the two coils I have one is at 22w (This thing gives a burnt taste so easily) and the other I use at 45-50 watts, the higher watt one works mostly fine besides the occasional flooding but the problem is that it only lasts a few days.
+Really want an upgrade, moving up to about 80 watts should be pretty nice.
+You should get some really nice flavor at 45-50 watts.
+:)
+Yeah it's alright, but compared to the newer stuff nowadays it doesn't come close to as good, but flavour is not really the issue, like I said it only lasts a few days, has some flooding problems and it's backed up by a pretty poor mod and tank.
+It sucks when you have to deal with any issues when trying to enjoy your vape.
+I had quit back in 2016 because all I had really was CE4/5 and MT-3 clearos on eGo batteries.
+Used to curse having to take the clearo off to dab the ejuice off the battery contacts because it wouldn't produce any vapor.
+Leaking isn't a thing of the past, but at least it's been greatly minimized PLUS isn't leaking into the contacts of my mods.
+As to my low wattage use, custom coils or coil-heads that support the lower end (like the Kangertech SSOCC 1.2 Ohm coil).
+AS to color options, not really crazy about the white one.
+And the red is really bright, but you may like it.
+:)
+I quite like the white one but it may look a bit too girly, the red is nice but I wish they made it like the blue one where it's more black than it is blue, the blue one is nice but I'm not crazy about blue.
+Odd colour choices/design with these three, they coulda done better, I'm on the fence, was leaning towards blue.
+Though series or parallel doesn't matter for regulated mods.
+You'd either be doubling the input voltage or the amps which leads to the same result for max wattage.
+
+Summary: 
+Also why do you need a 30 amp battery?
+If so, drop down the wattage.
+25 amp battery, very highly regarded.
+30 amps (off one battery) x 3 = 90 watts.
+And the red is really bright, but you may like it.
+You should get some really nice flavor at 45-50 watts.
+It takes 18650 batteries btw.

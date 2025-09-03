@@ -1,0 +1,9 @@
+The big consideration there is the distance at which you're measuring the volume.
+Because the headphones are in your ear instead of at arm's length or farther, they can do the same damage with less power.
+Sound travels in wave forms and decibels are the measure of the intensity of the sound.
+Headphones, however, emit the sound waves directly into your ear canal and directly towards your ear drum which means the waves will hit your ear drum at a higher frequency and faster than they would if they were emitted by speakers.
+Long or repeated exposure to sounds at or above 85 decibels can cause hearing loss.
+The louder the sound, the shorter the time period before NIHL can occur.
+A good rule of thumb is to avoid noises that are “too loud” and “too close” or that last “too long.”
+Every doubling of distance from source to ear reduces the sound by about 6 dB so if you consider the difference in distance between a headphone and eardrum compared to a speaker and headphone, then you can easily make up for the different initial volumes.
+Every 3 dB drop halves the amplitude, so 6 dB is, as you said, one quarter the amplitude.

@@ -1,0 +1,27 @@
+Here is the summary:
+
+That would depend on how big the something is no? The planet mercury is moving pretty darn fast but when I look up at it in the night sky it appears to be standing still.
+
+The F-14 Tomcat you could begin to see at about 7 miles out (really good eyes could see it at 8 miles out).
+
+I would suggest you need not turn your eyes at that distance (kind of like seeing a shooting star where you only see it in your peripheral vision ) and rely on how fast your peripheral vision is.
+
+So if you could detect an 63 foot long object 7 miles out going 7 miles in 0.05 seconds that is:
+
+36,960 feet / 0.05 sec = 504,000 mph or 140 miles per second or 225,308 meters/sec
+
+It would also depend on the weather and the lighting.
+
+So a person within 10 feet of me would need to be moving exponentially faster right?
+
+I was at a friend's land shooting a few guns in the evening. We were facing east and the sun was about to set behind us. The location is in a steep valley running east to west, so ambient light was low even though the sun was still shining behind us.
+
+You're right there. He got that backwards
+
+According to Wikipedia, although the human eye doesn't have a frame-rate, it can't distinguish between flickers at around 60 FPS... so if something comes in and out of your field of vision in &lt; 1/60 of a second, it theoretically shouldn't be detectable.
+
+From my electronics background I can tell you that an LED that blinks on for ~16ms (1/60th a second) is easily visible. Even 100us flashes can be seen.
+
+Yeah, I'm aware that tracer rounds exist.
+
+You'd never be able to see a regular bullet traveling side to side across your peripheral vision, because it's just too small, too fast, and you'd generally be hard pressed to easily see a stationary bullet at a distance as well.

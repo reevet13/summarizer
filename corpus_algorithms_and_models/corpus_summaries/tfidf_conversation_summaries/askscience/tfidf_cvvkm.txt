@@ -1,0 +1,73 @@
+Original Response:
+[An old Wired article](http://www.wired.com/gaming/gamingreviews/magazine/17-04/mf_settlers?currentPage=3) about *Settlers or Catan* contains the following sentence:
+
+&gt;Chess, for example, has 10^120 potential moves, far more than the number of atoms in the universe.
+
+Is this really true? How solid is the figure for the total number of atoms in the universe?
+10^120 seems feasible for number of reasonable games in chess.  For a quick estimate, imagine that at any time in a game you each player has on-average 10 distinct moves you could make, and that each player does 60 moves in a game which would gives 10^120.  Doing the exact calculation would be much more difficult, as you need to factor in the legality of moves based on the changing board and factor in rules like 50 moves without a capture or pawn advance is a stalemate.  Others estimate number of games being as much as 10^10^50 [[1]](http://mathworld.wolfram.com/Chess.html)
+
+The number of atoms in the [observable universe](http://en.wikipedia.org/wiki/Observable_universe) is probably between 10^79 - 10^83.  We have good estimates of the size of the universe and can make reasonable assumptions about the matter density.
+
+And while 10^120 is a huge number, its also just equivalent to the number of distinct 120 digit numbers, or the number of 61 character passwords (allowing 88 characters, counting upper case/lower case as different).
+The most cited number of atoms in the universe is something like 10^83, but it's a number that Arthur Eddington pulled out of his crazy ass. I'll do a quick Fermi-style calculation...
+
+100 billions stars/galaxy x 100 billion galaxies x 10^30 kg/star / 1.67E-27 kg/atom=~10^78 atoms, give or take a few orders. Sounds about right.
+
+I've heard that the game Go has way, way more possible configurations than chess.
+It certainly does.  The board has 361 positions instead of 64.
+But (playing Devil's advocate here) there is only one type of piece, instead of six.
+You can have from 0 to 361 pieces on the board at once, wheras in chess you can only have 0-16 :)
+Actually, Go is pretty easy to enumerate. Each square is either black, white, or blank, so the total number of configurations is, ignoring symmetry, 3^361=~10^172. According to Wikipedia, only 1.2% percent of those are legal, so you're down to ~10^170.
+"down to"
+When you're dealing with exponentiation, its not hard to quickly exceed very large numbers.
+Thank you very much. Just went to wiki to investigate Mr Eddington. A very starched, b&amp;w portrait. Should definitely be captioned 'crazy-arsed Arthur Eddington'.
+Thank you very much. A great help for the addled.
+According to Wikipedia "Go" is solved. Chess isn't (possible can't) be solved by brute-force anytime soon. The 6-pieces endgame tablebases alone is 1.2 TB in size. Forget about 7 pieces.
+&gt; According to Wikipedia "Go" is solved.
+
+Can you give a link for this - I'd be surprised if this was stated without any qualification? As far as I'm aware, the largest board size that has been solved is [5x5](http://erikvanderwerf.tengen.nl/5x5/5x5solved.html), and even that was only in 2002. That's about 14 times smaller than the standard 19x19 board the game is actually played on.
+
+For a full-sized board Go is certainly very far from solved. Go AIs are currently only at the level of intermediate amateurs.
+Different perspective:
+First move has 361 possible positions. Second: 360 etc.
+
+First approximation: 361! positions. 
+
+
+Some adjustments: Not all positions are possible. Some positions may recur: the game tree may loop.
+But in Go pieces are frequently removed from the board, increasing the number of positions.
+[According to Wiki](http://en.wikipedia.org/wiki/Solved_game)
+
+- 4x4 is strongly solved
+
+- 5x5 is weakly solved
+
+For all board sizes (including 19x19) the games is a win or a draw for white player.
+
+Though not in the traditional sense of being solved. But if you can confidently say that white is on advantage, it is as hopeless as being solved (even though its not technically solved).
+
+For instance for chess, white has a slightly higher winning percentage than black (no source available at the moment), but the winning percentage (which was taken from a large pool of games) is well within the error margin. So we cannot say for sure if White has a winning or drawing advantage.
+That kind of solved is not particularly useful as it is completely non-constructive. It offers no insight into how to actually play the game - in particular humans still easily defeat computers.
+
+If this is not convincing, then it is trivial to make the game "unsolved" - indeed this happens in real games. The advantage to black (black goes first, not white) is well-known and thus in real games white gets [compensation](http://en.wikipedia.org/wiki/Komidashi) in the form of points that are added to their score. This makes the game asymmetric and the strategy-stealing argument fails.
+The is more of a feature of mathematics than physics.
+
+The nature of combinatorics makes it easy to find these "all the atoms in the universe" kinds of numbers in seemingly mundane places.
+
+Go, for example, which is a little easier to [analyze](http://en.wikipedia.org/wiki/Go_and_mathematics), has about 10^700 possible positions, and as many as 10^2000 possible games.
+
+Imagine the observable universe were packed solid with protons.  Then imagine each proton was a super computer capable of play a trillion go games every second, and has been running since the big bang.
+
+That gets you to about 10^152 games.
+
+So instead of a supercomputer, imagine each proton is universe, the size of own, packed with go playing proton supercomputers.
+
+Do that 4 layers deep.  You just hit the 10^700 lower bound.
+
+Summary:
+According to Wikipedia "Go" is solved.
+The board has 361 positions instead of 64.
+For a full-sized board Go is certainly very far from solved.
+&gt; According to Wikipedia "Go" is solved.
+But in Go pieces are frequently removed from the board, increasing the number of positions.
+10^120 seems feasible for number of reasonable games in chess.

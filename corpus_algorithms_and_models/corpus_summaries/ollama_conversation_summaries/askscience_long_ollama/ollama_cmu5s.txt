@@ -1,0 +1,30 @@
+Here are the selected sentences:
+
+Imagine the earth is perfectly round except for one very massive mountain, if I stand on the opposite side of the world from the mountain, do i feel heavier, and if I stand right next to the mountain, do I feel lighter?
+
+At the center of the earth, you would feel weightlessness, because the mass surrounding you would be pulling on you equally in all directions.
+
+However, you would also be feeling 362 GigaPascals (362,000,000,000 Pascals= 3,572,662 atmospheres) of pressure, due to the weight of everything crushing in on top of you.
+
+If you compare the radius of the earth to the distance from the bottom of Challenger Deep (Deepest spot) to the summit of Everest, you come up with a ratio of 322:1
+
+Here's a [google search result](http://www.google.com/search?aq=0&oq=gravity+difference&sourceid=chrome&ie=UTF-8&q=gravity+differences+on+earth) with many articles discussing earth's gravity.
+
+You can use Gauss' Law to calculate the strength of gravity at a particular radius *r* from the center of the earth.  You'll find that gravity increases linearly from *r = 0* to *r = r_e*, the surface of the earth, and then decreases quadratically as you move off into space.
+
+The answer to your question is that the ball would accelerate *slower* than 9.8 m/s^2.
+Slower.  (I have not taken the time to calculate by how much, but it would be minuscule, probably below margin of error.)
+
+You would experience less gravitational force, so things would fall slower.
+
+So you're saying that because there is mass above your head pulling you upwards, this cancels out some of the mass below your feet pulling you downwards?
+
+G = 9.8 r/r_earth [m/s^2] for r inside the earth,
+
+g = 9.8 r_earth^2/r^2 [m/s^2] for r outside the earth.
+
+So 1000 mi~ 1600 km inside the earth (earth radius is ~6400 km), the radius would be ~4800 km.  Hence g ~ 7.3 m/s^2.
+
+What you feel are gradients, not the absolute values.
+
+It doesn't even have to go through the centre.

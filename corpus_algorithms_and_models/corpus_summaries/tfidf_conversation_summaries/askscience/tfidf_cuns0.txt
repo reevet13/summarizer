@@ -1,0 +1,183 @@
+Original Response:
+I was watching this Lawrence Krauss lecture (http://www.youtube.com/watch?v=7ImvlS8PLIo, great lecture by the way), and he mentions that at one time in our history we knew the Earth was at least 4 billion years old, but the universe was estimated to be younger.  So, this was embarrassing that the Earth was older than the universe.
+
+My question is: what current big contradictions, if any, exist in Science?  I know there are several "theories of everything" which contradict, but no one is claiming that we can really estimate which is true or false (otherwise there wouldn't be competing theories for the same thing).  An example would be if rock dating techniques disagree on something nontrivially, different ways to measure the mass of a proton disagree wildly, etc.
+
+Thanks!
+The observed mass of the universe vs the measured one. 
+
+Dark matter/energy is a bit embarrassing, but hopefully CERN will find some clues in the next few years.
+The predicted vacuum energy density from quantum field theory is 107 orders of magnitude greater than the observed value. This is the most embarrassing prediction in the history of science.
+What would be different in our everyday world if the vacuum energy density really was 107 orders of magnitude greater than it really is right now?
+The universe would be expanding really, really fast. We probably wouldn't notice because gravity would still hold the galaxy together.
+
+
+We probably wouldn't be able to see any other galaxies because they'd be moving away too fast.
+
+Link: http://en.wikipedia.org/wiki/Vacuum_catastrophe
+We don't know how supernovae actually explode... computer simulations can't make them explode for whatever reason.
+
+Despite many many years of studying the problem, we still don't have a really good grasp of star formation.
+I work in star formation, and the problem with the small-scale modelling seems to be that *no-one* has any idea what to do about the magnetic fields. 
+
+Most conferences I've been to about this always have the magnetic fields folks saying "seriously, you need to include these", then the rest of the time is spend ignoring their advice because it's really hard.
+I disagree. What is embarrassing about Dark Matter/Energy?
+
+It's just a cool mystery which we're hoping to get some insight into soon. Embarrassing would be, say, getting a prediction wrong and not knowing why (see iorgfeflkd's comment).
+Typically when people capitalize Science they mean http://sciencemag.org
+From my first year in grad school, that seems to be a major theme in astrophysics:
+
+"We need to include magnetic fields!"
+
+"But they're hard!"
+
+And my thesis will most likely be putting in magnetic fields into neutron star - black hole simulations... so soon I shall be dealing with that problem as well.
+Can you elaborate on the supernovae bit?  I thought supernovae occurred due to the helium/hydrogen fusing into heavier elements and the gravity from those heavier elements overtaking the outward pressure.
+My understanding is that neutrino physics and rotational instabilities are very important in supernovae, and people have a hard time putting these into simulations.
+Ah.  So we can reasonably infer what's happening with the basic physics of the elements in a star (the fusion into heavier elements), but not necessarily the final processes that set off the supernova?
+I'd say not being able to identify some 80% of the mass of the universe is pretty embarrassing. It's not the same as 107 orders of magnitude off, but still significant. And hopefully close to being solved, I've been reading about the stuff since I was a kid.
+Awesome, thanks!  Could you explain a little more about what we don't understand regarding star formation?  Is it just that the gravity isn't strong enough to pull things together or at what point the "weak nuclear force" becomes overwhelming?  I'm talking a little beyond my knowledge, so please excuse any misnomers.
+Thanks!  This is exactly the sort of thing I was looking for, and I'll run along to study it as much as I can comprehend now.
+Wow, that's pretty hardcore. I stay nice and large-scale, so I don't have to think about them :)
+We can paint a broad-brush picture of what's going on (lighter fuel runs out, star has to burn metals, radiation pressure gives up and star collapses), but actually modelling it - running a full physical simulation - is really, really complex.
+
+For example, before the final 'explosion' (which is actually more of a 'bounce' as the collapsing star stuff hits the solid core), there is a massive neutrino burst, with &gt;99% of the total energy being carried away by neutrinos. We don't really know why, because (as nicksauce mentioned above) the neutrino physics is very difficult to model in a large multi-parameter simulation.
+I'd say it was more of a cool mystery than an embarrassment. There's no failed predictions, no contradictions; just a glimpse of something we don't really understand, which is the fundamental stuff of science.
+
+It's been said that the most exciting phrase to hear in science isn't "Eureka!", but "Hmmm - that's *odd*...". We're at this stage of Dark Matter/Energy research at the moment. If this is an embarrassment, then most of the history of science has consisted of one embarrassment after another. 
+
+EDIT - Plus, it's about 95% :)
+Do we not have the technological means to model it, or do we just not have enough raw information?
+The exact number has been fluctuating since I first saw it so sorry if I missed the mark. It just seems to me that either the currently supported equations describing your universe, while nice and functional approximations, are as wrong as the Newtonian ones where. Or we are missing something very very obvious. 
+
+I'm just hoping they figure it out soon, it might be one of the greatest discoveries in my lifetime.
+[deleted]
+We just don't have a deep enough understanding of the physics, as far as I know.
+I read "group theory" and I was like "wtf? Group theory is one of the most well-established parts of mathematics."
+Embarrassment is not really the right word.  
+
+Apparent contradictions are the lifeblood of science.  These are the area we don't understand, and have the most to gain by figuring them out.
+
+These are the areas scientists flock to, get research grants for, and build careers out of.  
+
+Embarrassment = opportunity.
+I have no clue what I'm talking about, and barely an idea of what I'm asking, but what would wildly fluctuating magnetic fields do to the matter around them in a huge gravitational field?
+
+Erh, tell us more :)
+I'm kind of agreeing with seladore here, because the dark matter and dark energy problem is more like saying "we don't know how consciousness works" instead of something like "we know a proton weighs X and we know an electron weighs Y but a hydrogen atom weighs Z &lt; (X+Y)".  I just made that up, it's totally not true (EDIT: apparently it is true!  ha!), but maybe you can see what I'm driving at.  It's the difference between pure ignorance and apparent contradiction.  That said, thanks for your example because I hadn't been thinking of it that way.  So, it definitely adds to the conversation!
+Most discrepancies in science are cool mysteries, some cooler than other, but the question wasn't what is the biggest embarrassment. Just what the current ones are. I'd say dark matter is something that makes scientists cough nervously and hopefully bust out a long explanatory talk, without having solid proof that what they are talking about is correct. The math might work, or the experiments and measurements might add up, but there's that lack of a working explanation.
+Actually even though your point is valid, the thing you've chosen as an example of an embarrassment is a scientific fact ;)  It's a simple effect of E=mc^2 that the mass of hydrogen ought to be "too light" by the mass equivalent of the binding energy, -13.6 eV (chemistry professors at my undergrad refused to believe that... I don't know why.  Of course, it's an effect that doesn't matter if you already are ignoring the electron mass).  What's really amazing is that this is measurable!
+
+Uncertainties are in parentheses as the uncertainty in the last n digits of the number, with n the number of digits in parenthesis, e.g. 1.00727646677(10) == 1.0072764677+/-.00000000010
+
+* Mass of the proton = 1.00727646677(10)u (source: PDG)
+* Isotopic H1 mass = 1.0078250321(4) (source: webelements)
+* 1 u = 931.494028(23) MeV/c^2 (source: PDG)
+* Electron mass = 0.510998910(13) (source: PDG)
+
+If I subtract the proton mass from the hydrogen mass, and convert to MeV, I get 0.51098533(38)  This is less than the mass of an electron by 13.58(38) eV/c^2!  I carried through the uncertainties in the calculation to demonstrate that it is, in fact, statistically significant.
+
+Sources: 
+
+* http://webelements.com/hydrogen/isotopes.html
+
+* http://pdg.lbl.gov/2009/reviews/rpp2009-rev-phys-constants.pdf
+
+EDIT: formatting
+Wunderbar!  Maybe I had heard that at some point and it just stuck around in my subconscious as an example.  Previous comment edited so no one will accidentally glean false information.
+
+&gt; What's really amazing is that this is measurable!
+
+Pretty sure you're talking about the accuracy of the measurements (vice, capability of measurement e.g. the Higg's), which is amazing indeed!  
+
+Kind of related, my PChem II prof in undergrad once explained to me how accurately we can measure the vibrational energy left in molecules at absolute zero which I found fascinating.  He was trying to make some other point, but I kept stopping him because I wanted to understand how we could measure things that small and seemingly impossible!
+&gt; vice, capability of measurement e.g. the Higg's
+
+not sure what you mean by this.  Yes, I mean that we are at a point where we have the technology to actually measure a mass difference that's such a fantastically small fraction of the masses in question.
+We're on the same page.
+
+What I mean is, we're not really measuring the effect *directly* because we're measuring the mass of a proton, an electron, and a hydrogen atom then taking the difference.  Therefore, at any point in our history of estimating the mass of these three things (however inaccurately), we could have made a "measurement" of the magnitude of the energy-mass effect.  However, because our estimates of these three things is so accurate, we can therefore truly get a measurement of the effect.  So it's not so amazing that we can make a guess at it but it's amazing that we're pretty darn close to the true value.  I understand where you're coming from; essentially saying "we can measure it" meaning that our measurement is meaningful (and pretty darn close).
+
+Edit: and the reason I brought up the Higg's was to try and give an example of something we can't measure at all right now, which in retrospect is a terrible example because if we couldn't at least "guess at it" we wouldn't have named it.
+What about the pioneer anomaly and flyby anomalies? Those are a bit WTF too, no? Although perhaps not a "two orders of magnitude" level error, they're still a major "zah?" no?
+more of a zah than kerbleeeeh for sure
+I believe you've just cracked the code of ICP's lyrics.
+Mein Gott - I was just at an interdisciplinary conference for my fellowship network and ran across a guy who had a poster up about his simulation of magnetic fields inside the Sun. Back then I thought this was just kind of interesting, but now I see it's really fundamental!
+and chemistry.  I thought the same thing.
+Hey now, there are plenty of embarrassing papers published in Science :)
+PNAS doesn't allow the "Track 1" or "communicated by" [papers anymore]( http://www.pnas.org/content/early/2009/09/08/0909515106.full.pdf+html?sid=b8e6becf-082b-4f07-bd96-c28143c850f3).
+I think he means [Group selection](http://en.wikipedia.org/wiki/Group_selection).
+I totally agree with you, but some people like to derive power from their association with science, and these types of "embarrassments" cause problems for such people. This is not a strictly scientific issue but more a problem of people abusing science for their own gain.
+&gt;There's no failed predictions
+
+Astrophysical models failing to predict the presence and behaviour of 80% of the universe is a huge failed prediction. I don't think it's embarrassing but it is certainly a big theoretical problem.
+No.  I'm pretty sure the universe would have expanded far to fast for galaxies (and probably even stars) to form.
+&gt; For example, before the final 'explosion' (which is actually more of a 'bounce' as the collapsing star stuff hits the solid core), there is a massive neutrino burst, with &gt;99% of the total energy being carried away by neutrinos.
+
+99% of the total energy *of the entire star?*
+Yep :)
+My god...
+
+Doesn't that actually explain dark matter as being a bunch of neutrinos? I mean, if 99% of all stars that have ever gone supernova have been converted into neutrinos, then it would not be a stretch to propose that these neutrinos account for the "missing mass", no?
+It's not that the astrophysical models don't predict its presence, they do - or else they wouldn't work (i.e. predict/explain astrophysical occurences to a sufficiently significant degree) There are still questions arising, of course, but that is science. 
+The thing is, they also predict that we can't observe this major part of the universe's properties directly which doesn't make it easy to wrap your head around it.
+It seems to me that almost everything you've said in this post is incorrect. If you'd care to back up some of that with evidence I'd be curious to see it though. In particular, that astrophysical models predicted (and meaningfully modelled) dark matter before its existence was inferred by observation of anomalous galaxy rotation characteristics (among other observations).
+Nice thought, but sadly it doesn't work out.
+
+Because neutrinos are so small they move fast, and are therefore kinematically 'hot'. All of our theories of structure formation tell us that the dark matter that leads to the kind of clumpiness that we see in our own Universe has to be cold. 
+
+If neutrinos were the dark matter, then we'd be able to see their signature in the characteristic 'clustering scale' of objects in the Universe - the fact that this doesn't agree tells us that whatever the Dark Matter is, it has to be cold.
+I suppose I was talking right past your point, then. You meant that false predictions which eventually lead to changing the models and incorporating dark matter/energy was/is the problem? 
+That is certainly true - and isn't that the point of science? I don't see how this is a *current* embarrassement although there definitely are things that don't quite work yet.
+&gt;You meant that false predictions which eventually lead to changing the models and incorporating dark matter/energy was/is the problem?
+
+We have no tested theoretical framework for explaining "dark matter" - yet. "Dark matter" itself is an untested hypothesis, actually. You could call it a working hypothesis but it was far from solved last I looked.
+
+On the wider point, IMO astrophysical models have for some decades been approaching the point where they no longer reflect meaningful theoretical insight but rather arbitrary equations refined after each unpredicted observation to match that observation. That's a red flag that the theoretical paradigm is lacking.
+Oh, okay.
+
+But do we see the effects of neutrinos anywhere in space? I mean, they represent 99% of the exploded stars and likely have some mass. They ought to have some effect on the visible universe, no?
+
+And could we not get around the "neutrinos are too hot" problem with neutrino oscillation? What if they change into different neutrinos (or decay into different particles altogether) which are cold enough to explain dark matter?
+
+P.S: I really appreciate your replies. They're very intellectually stimulating :)
+Well the basic picture is really simple... a cloud of gas becomes so massive that it collapses in on itself, heats up, and eventually becomes a star.
+
+The fine details are were the problems lie - things like magnetic fields, turbulence, accretion, and rotation complicate the picture a lot. Ideally we'd like to be able to answer questions, from a theoretical perspective, like "Given a cloud of gas with such and such physical characteristics, how many stars will form and what will there masses be?", or, "what is the maximum possible mass of a newly-formed star", but we just really aren't at that point yet.
+They generally have very little effect - as much as there are, they don't make up as much mass as the normal 'baryonic' matter (that is, stars, dust, and gas). And they are so weakly interacting - they could pass through a lightyear of lead - that most normal matter is far too insubstantial to feel their effects. So as far as I know, they don't really affect much.
+
+As far as I know, neutrino oscillation just involves a periodic switching of lepton flavour - all three flavours have the same mass/kinematic behaviour (and the fact that they *do* oscillate proves that they have to have mass, incidentally). The only thing that changes while oscillating is their quantum mechanical 'spin'. So I don't think this can get them to be kinematically cold. 
+
+As for decaying, to slow down they would have to gain mass at the expense of kinetic energy, which (as far as I know) isn't any more likely than the other way around, so there is no reason to expect that you'd end up with a population of slow-moving neutrinos. 
+
+This isn't really my area though, as it's straying into particle physics and away from cosmology - feel free to ask someone else, they will probably be able to explain it all better :)
+Thank you for your reply :)
+The fact that quantum mechanics and general relativity are fundamentally incompatible probably counts.  General relativity is really good at describing big things (planets, galaxies, etc) while quantum mechanics is really good at describing small things (atoms, molecules, etc) but they don't mesh at all, which means that both theories are incomplete.
+I have a hard time believing that.. do you mean 99% percent of the energy *freed from atoms*, meaning, that the energy 'in mass' as in mc² is not counted.
+Yeah, apologies for being unclear. It's 99% of the energy outputted from the star during the event.
+
+This is about 10% of the total rest mass of the star (mc^2). 
+
+Also, how do you get that cool superscript?
+I just copy-paste that from [here](http://www.w3schools.com/tags/ref_entities.asp), i get to that page quickly with a keyword.(Well, a copy on my computer)(Like you can rightclick on a form and then select 'add a keyword for this search.') It isn't perfect but it isn't much effort either.
+[deleted]
+
+Summary:
+I thought the same thing.
+What is embarrassing about Dark Matter/Energy?
+What's really amazing is that this is measurable!
+This is the most embarrassing prediction in the history of science.
+So as far as I know, they don't really affect much.
+I don't think it's embarrassing but it is certainly a big theoretical problem.
+&gt; What's really amazing is that this is measurable!
+So I don't think this can get them to be kinematically cold.
+The observed mass of the universe vs the measured one.
+We just don't have a deep enough understanding of the physics, as far as I know.
+I mean, they represent 99% of the exploded stars and likely have some mass.
+Doesn't that actually explain dark matter as being a bunch of neutrinos?
+That is certainly true - and isn't that the point of science?
+Could you explain a little more about what we don't understand regarding star formation?
+Embarrassment is not really the right word.
+I'd say it was more of a cool mystery than an embarrassment.
+Embarrassing would be, say, getting a prediction wrong and not knowing why (see iorgfeflkd's comment).
+I work in star formation, and the problem with the small-scale modelling seems to be that *no-one* has any idea what to do about the magnetic fields.

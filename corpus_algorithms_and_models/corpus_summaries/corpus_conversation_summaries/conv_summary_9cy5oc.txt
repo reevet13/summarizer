@@ -1,0 +1,52 @@
+Original Response: 
+If I jump off a cliff, am I sending out gravitons or exchanging gravitons with anything?
+In most theories predicting gravitons, all massive objects are coupled to all other massive objects through the gravitational field, the quantization of which is a graviton.
+However, it is important to note that gravitons are, at the moment, purely hypothetical, and no experimental evidence for them has been found to date.
+(It would be exceedingly hard to detect one due to their very low interaction cross-section.)
+What about a falling charge?
+Does it radiate photons?
+[removed]
+[removed]
+[removed]
+Not a physicist and I'm curious about this.
+If we assume "falling" to mean "heading to a lower potential energy state", then I would assume it wouldn't radiate photons because then we wouldn't be conserving energy if it was also accelerating towards the charged wall or whatever.
+Am I right?
+Accelerating charges emit photons, right?
+Out of that I figure, that some amount of the potential energy doesnt go into kinetic energy but into electromagnetic radiation.
+Those are only my uneducated thoughts.
+That cannot be right though.
+According to the equivalence principle, all charges should fall at the same rate independently of their charge.
+This is actually a rather subtle question, because we have to consider observers that are not inertial with respect to one another.
+In the rest frame of the charge free falling, there obviously is no radiation emitted.
+On the other hand, we can think of an observer "at rest" with respect to the source of the gravitational field, say for instance an observer standing on the ground on Earth, is recording the charge accelerate as it falls, and therefore should record radiation emitted which objectively carries energy.
+That means that the energy transported by the radiation is actually created by the (non inertial) change of referential.
+And that also implies that energy is not locally conserved when doing referential changes in the presence of a gravitational field, energy in this context is only conserved globally.
+Honestly none of this is easy conceptually, not to mention actually doing the calculation.
+I think the initial answer sort of brushed off a valid question.
+It is irrelevant whether gravitons exists or not, the question still stands, there is a mathematical formalism to perform the calculation, and even worse, the same question applies without invoking gravitons, just about the acceleration of a charged mass.
+This is a shockingly unsettled question in the literature.
+I was looking into it recently and there are 4 cases to consider:
+
+Free falling charge and free falling observer: no radiation, everyone agrees, just due to the EP  
+Supported charge and free falling observer: radiation, everyone agrees, due to EP  
+Supported charge and supported observer: no radiation, everyone agrees, but the technical account is that the charge *is* radiating, but only into an area  behind the observer's Rindler horizon
+
+Free falling charge and supported observer: unclear.
+The classic Rohrlich paper/wikipedia/various SE posts all say yes, it does radiate, see also https://arxiv.org/abs/gr-qc/0006037
+
+but other papers say no, eg:
+
+https://arxiv.org/abs/gr-qc/9405050  
+https://arxiv.org/abs/physics/0506049  
+https://arxiv.org/abs/physics/9910019  
+https://arxiv.org/abs/1509.08757
+
+Personally, I don't understand how it can be yes.
+The EP says free fall is not a state of proper acceleration, so there can't be radiation, and this has to be an observer independent fact.
+[deleted]
+
+Summary: 
+What about a falling charge?
+Accelerating charges emit photons, right?
+In the rest frame of the charge free falling, there obviously is no radiation emitted.
+According to the equivalence principle, all charges should fall at the same rate independently of their charge.

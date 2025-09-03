@@ -1,0 +1,7 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+Ok so I'm gonna have to admit it at first... I'm a dumbass.  I was installing an elgato HD60 Pro and I had that in the PCIe slot under my MSI Aero GTX 1080, had the HDMI plugged in and everything but no output (I had the hdmi cables messed up I realize now) so I unplugged the HDMI cables from the GPU but one of the cables would not be removed from the GPU.  Turns out it was one of those cords that you have to push in the little button to release it, something I didn't notice until after I pulled... a lot...  I realized it had a release and once I pushed it, the cable released normally.
+
+Now, however, the GPU does not work at all.  The mobo is ok since I plugged in my RX 580 and everything runs fine, but I get no output when I plug the 1080 in and the fan does not start.
+
+I'm hoping the problem I created I can fix, as the card is a second hand card from a friend and it has worked fine for months.  Please, if you know a fix like maybe just a capacitor or something to repair, let me know.

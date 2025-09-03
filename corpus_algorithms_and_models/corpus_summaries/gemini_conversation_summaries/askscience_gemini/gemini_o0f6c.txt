@@ -1,0 +1,9 @@
+It's actually just really hard thing to do, technologically.
+Uranium has to be enriched by a factor of approximately 100 (a separation of atoms that differ in mass by about 1% and literally in no other way), and every atom of plutonium we've ever seen has been synthetic.
+And once you have a critical mass, getting it to detonate is exceptionally difficult - it took possibly the greatest collection of scientific ability ever several years in the NM desert to develop a design that worked.
+Whats hard is producing the fuel.
+To make a fission bomb, you need either U-235 or Pu-239.
+Natural uranium is 99.2% U-238, which is not good for bombs, so it has to be enriched to at least 80% U-235.
+The most difficult part is to get enriched Uranium.
+The timing/triggering of it is very difficult.
+I would argue that the entire problem to building 'my country's first bomb' is acquiring the fuel, not design.

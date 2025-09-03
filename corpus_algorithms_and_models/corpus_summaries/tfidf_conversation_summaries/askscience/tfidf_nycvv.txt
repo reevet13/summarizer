@@ -1,0 +1,50 @@
+Original Response:
+Relativistic equations talk about conservation of 4-momentum. A four-vector is formed of the energy and momentum, combined, which is the conserved quantity.
+
+ie: Four Vector p1=(E1,px1,py1,pz1)
+
+p1*p1= p1^mu p1^nu g^mu,nu = E1^2 - px1^2 - py1^2 - pz1^2 = m^2
+
+Here I use the Einstein summation notation and the metric tensor (g^mu,nu ). You can look up the metric tensor to see why the momentum squared terms are subtracted. I have also assumed that the speed of light = 1, as in natural units. In that case, mass = energy = momentum (same units). The m at the end is the rest mass of the object.
+
+So, four-momentum is conserved. Given two vectors, p1 and p2, you could write p1 + p2 = p1' + p2'. If you know enough about the system, you could just treat each component of the vectors independently. Sometimes you know angles between objects and/or rest masses, and so you form Lorentz Invariant quantities.
+
+I don't know if that helps, but it is a good start. From here, if you continue to have questions, I can address them individually.
+ok I was mainly thinking that since when you are traveling very fast time moves slower for you and you are basically a time machine traveling to the future.  So when time is flowing different for one piece of mass, how can energy/mass and momentum be conserved?  So is mass/energy/momentum still conserved for each time step?
+No such thing as a time step.
+
+Lorentz invariant quantities are independent of the frame of reference. For every symmetry, there is a corresponding conserved quantity. Look up Noether's Theorem.
+
+In short, as I said originally, 4-momentum is conserved.
+So i guess in conclusion energy/mass/momentum is not conserved for a given time, but they are conserved for a given space-time?
+With special relativity, the conserved energy is given by
+
+E^2 = (pc)^2 + (mc^2 ) ^2
+
+As you can see, for an object at rest (p=0) this reduces to the famous E=mc^2 , while for a massless object like a photon you get another well-known formula, E=pc (which explains why photons have energy even though they don't have mass). This energy E is conserved in a given reference frame (though it won't have the same value across different reference frames).
+
+However, in full general relativity the situation is changed, and in many cases there is no conserved energy. The reason is that energy as a conserved quantity is linked to time symmetry by *Noether's theorem*, a mathematical result associating every conserved quantity with a symmetry of physics. In special relativity, physics is time symmetric, but in general relativity you can have time asymmetric physics, the most prominent example being the expanding Universe. In an expanding spacetime you can't define a conserved energy because it has a clear time asymmetry.
+Thanks very much for the reply.
+
+Can you recommend somewhere with further explanation or just keep going? Is what you are saying that logic is out the door but in a logical way?  Or is this just a paradox?  Physics being time symmetric i can sorta grasp, just that the physics only consists of the matter at a given time? But not really getting any grasp of general relativity of asymmetry physics.  If i remember right general relativity says that if you have less gravity acting on you, this will act as a time machine into the future.
+
+
+Does this get anywhere into how the laws of physics could be different if we modified our brains to be much more powerful?
+I don't think you took from what I said what I meant...
+
+If we conserve 4-momentum, that means that energy and each component of momentum are conserved. Generally that gives us 4 conservation equations.
+
+Additionally, P^2 = E^2 - px^2 - py^2 - pz^2 = m^2. So we have a relationship between the rest mass and the energy of a relativistically moving object. This is true for any value of m and (px,py,pz).
+
+It is always conserved.
+ok but this is only for special relativity only, like user adamsolomon said?  what about the asymmetric physics of general relativity he was talking about, you know anything about that?
+I am not familiar with general relativity. However, I stand by the symmetry principle of Noether's Theorem.
+When I talk about physics being time symmetric, I just mean that the equations describing how particles behave don't change over time. This is the case in most of classical physics, where things like Newton's law of gravity and Maxwell's equations don't have an explicit time dependence, but can change when spacetime is time-dependent. So in an expanding Universe, the equations that govern how particles behave will be different depending on how long it's been since the Big Bang.
+In GR, local conservation of energy is expressed as the [stress tensor](http://en.wikipedia.org/wiki/Stress-energy_tensor) being divergence free. Furthermore, if your spacetime admits a timelike [Killing vector](http://en.wikipedia.org/wiki/Killing_vector_field) you can construct a globally conserved quantity which can be considered to be the energy (and similarly, translational and rotational Killing vectors give rise to globally conserved momentum and angular momentum).
+
+Summary:
+In that case, mass = energy = momentum (same units).
+I am not familiar with general relativity.
+Relativistic equations talk about conservation of 4-momentum.
+what about the asymmetric physics of general relativity he was talking about, you know anything about that?
+So we have a relationship between the rest mass and the energy of a relativistically moving object.

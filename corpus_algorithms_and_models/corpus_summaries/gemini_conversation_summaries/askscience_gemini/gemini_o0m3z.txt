@@ -1,0 +1,7 @@
+You need a controlled experiment.
+You need to show that it is very unlikely that your explanation is false.
+To isolate a cause-effect relationship, one must provide convincing evidence that other possible causes are not operating to create the effect in question.
+So in lay terms, correlation _does_ imply causation - it _hints_ that one thing might be the cause of another, and of course there can be no causation without correlation.
+You essentially have to ask: what's the probability that this (or something even less likely than this) would happen by chance?
+The short version is that proof belongs to mathematics and logic.
+Very few scientific disciplines actually prove anything.

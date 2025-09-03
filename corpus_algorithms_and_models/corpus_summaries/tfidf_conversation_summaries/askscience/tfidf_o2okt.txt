@@ -1,0 +1,16 @@
+Original Response:
+I am specifically referring to the satellite image [here](http://maps.google.com/maps?q=57.704248,11.959283&amp;ll=56.712044,11.573067&amp;spn=0.129452,0.32135&amp;num=1&amp;t=h&amp;vpsrc=6&amp;z=12&amp;source=gplus-ogsb).
+
+I think the waves are absolutely beautiful, and I'd like to gain further appreciation by understanding how the shape of Anholt and the direction of the tides in the area cause the patterns seen in the image.
+Surfer here (not scientist).  Waves that we see are combination of the swell size (the total energy and potential), the swell direction (what way the energy is going), and what happens to this energy when it is displaced by bathymetric (surface of the ocean floor) conditions.  The direction of the wave can also be affected by the bathymetry, causing it to curve a bit.  This is due to uneven resistance caused by shallow areas on one "side" of the swell or wave.  Think of a car that has positive traction on only the left or right side beginning to take a curved path.
+
+It is tough to know for sure, but it looks like there are a couple of different swell directions causing the "crossed-up" conditions on the southern edge close to shore.  There appears to be a wedge shaped reef adjacent to the west side of the north coast, causing the waves to begin to break as they reach the shallows on the northwestern point and break outward, away from the shore, towards the north.  Also, due to the geographic location I'd say there is a dominant southern swell direction (heading north towards denmark) and "hooking" around that corner due partially to the shallow sections close to the coast curving it around.  And that light light blue bit over to the east is a sandbar caused by ocean currents pushing more and more sand into that jetty.  In fact, most of the color you see is based on how shallow certain areas are, rather than the waves themselves.
+
+The effect of tides as a "pushing" or "pulling" force are pretty minor compared to the larger effects.  The effect of tide is really in how much depth there is near shore for all of that energy and mass in the swell to move unobstructed.  Too shallow and the wave will break.  Too deep and it won't be very steep at all.  So looking at a photo like this is like having the effects of the swell size and direction and bathymetric qualities and trying to guess how they are all interacting.  Without bathymetric maps or further info that's as good as I can tell you.
+
+Hope that helps a bit.  More info: http://www.surfline.com/surf-science
+FYI, the marked color difference just off shore is probably from the stitched-together photos being much higher quality for the land than for the sea.
+
+Summary:
+Too shallow and the wave will break.
+The direction of the wave can also be affected by the bathymetry, causing it to curve a bit.

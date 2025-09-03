@@ -1,0 +1,9 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+I'm trying to get a village going with two cured villagers: a butcher and nitwit. I have two houses, each with double doors... I've also noticed they don't seem to be caring for the carrots I've planted for them.
+
+A farmer will only grow crops. There has to be 10 doors per 3 villagers. You have to trade so they become willing to breed.
+
+Only brown coats grow crops. Any profession with a brown coat and no apron will farm the crops. This means shepherds and fletchers will also farm the crops.
+
+Gotcha. Need a person with a brown coat and no apron. And more doors. 10 doors per 3 villagers is a lot. Is it always that high, the ratio? Cause now I gotta find a way to intergrate a ton more doors

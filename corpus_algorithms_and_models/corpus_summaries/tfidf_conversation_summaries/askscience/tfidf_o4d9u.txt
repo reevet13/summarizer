@@ -1,0 +1,16 @@
+Original Response:
+I've always wondered whether or not I'd find out I have radiation poisoning down the road...
+Microwaves are just long wave EM radiation, not nuclear radiation like Alpha or Beta particles nor low wavelength radiation like gamma rays.
+
+You can take a direct hit from a microwave and you'll only feel a tingle or slight pain on your skin and the only damage is from the heat which is why prolonged exposure is bad... it cooks you.
+
+A stove top that uses a flame (gas) is far more deadly than a microwave. An electric range is far more likely to burn you than a microwave.
+It's not 100% safe, in *some* senses, but these have nothing to do with radiation and are shared across most methods of cooking--there's always the remote possibility of unsafe wiring causing an electrical problem or fire, of overheating something or heating metal to the point of causing smoke or a fire, of burning yourself, etc., and it's also probably worth recommending that you do not microwave foods, especially liquids or fatty foods, in some plastics, as they can leach compounds of dubious identity (companies are not required to disclose what's in their plastics) into the food.
+
+However, microwaves have nothing to do with radiation of the sort that gives radiation poisoning.  Microwaves do not have enough energy to qualify as "ionizing radiation" and are not radioactivity.  There is research that suggests high amounts of *direct* microwave exposure to people is carcinogenic, and it can also cause damage by heating you if you are exposed for a long time, but the microwaves are confined to the oven unless you break it.   Rodent studies using microwave radiation at much higher levels than humans would be expected to get from even a broken microwave oven, for a long period of the rodent's lifespan, did not reveal an increased cancer risk.
+In our undergrad physics labs, we have microwave generators that look kind of like megaphones, except that they shoot microwaves out the front.  There is no protection equipment involved.  If you put your hand in the path of the beam, it feels a little warm, but that's it.
+
+Microwaves are less energetic than visible light.  You'll have to try much harder to get damage to your DNA.
+
+Summary:
+An electric range is far more likely to burn you than a microwave.

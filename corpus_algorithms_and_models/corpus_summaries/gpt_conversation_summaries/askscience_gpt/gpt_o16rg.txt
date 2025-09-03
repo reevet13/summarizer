@@ -1,0 +1,13 @@
+Dark matter and dark energy are not 'negative matter' or 'negative energy'. The energy content of the universe is not necessarily zero. 
+
+If one assumes that the total energy in the universe is zero, then there would have to be a way of having negative energy to balance all of the positive energy we observe (normal matter, dark energy, dark matter). The best theory I have seen is that you can write the expansion of space-time as being due to it having negative energy. All of the 'stuff' has positive energy, expanding space-time has negative energy. 
+
+We do not have enough information to say for sure what happened before a time shortly after the Big Bang. 
+
+You need the total energy to be 0 if you want a flat universe. Observation of the CMB indicates that that is the case. 
+
+I'm operating under the assumption that our best model for the large scale structure of the universe is the Friedmann-Lemaître-Robertson-Walker model. In order to have a flat universe, the [density parameter](http://en.wikipedia.org/wiki/Density_parameter#Density_parameter) of this model needs to be 1, which corresponds to an average (positive) energy density equivalent of roughly 5 atoms of hydrogen per cubic meter. 
+
+The idea that the energy is 0 for a flat universe comes from solving the Friedman's equation. 
+
+These Omega's are the mass-energy densities of the fluxes involved (matter, radiation, etc) but the total energy of the system is not only the sum of those. You also need to take into account the effect of the gravitational energy, given by the left-hand-side of the Einstein equation, and not present in the stress-energy-momentum tensor, i.e. not present in the energy densities.

@@ -1,0 +1,7 @@
+I did a very small amount of research and read that lasers have to be 200-300 mw to be felt on the skin. Is this true? Is there another explanation?
+
+A book answer will depend on a number of variables like the diameter of the laser, how long you shoot for, where you shoot (some skin is more sensitive), how ticklish he is ... etc
+
+First, its not the power that matters. It is intensity. Lots of power over a wide area will have less of an effect than a little power over a very small area.
+
+Second, that 404 nm laser isn't actually lasing at 405 nm. It is an IR laser with a doubling crystal. That is, it takes two 808 nm IR photons and combines them into one 404 nmblue photon. This takes a whole lot of power in the IR to do so and this IR could be leaking through. Chances are this is what is felt.

@@ -1,0 +1,2 @@
+E = mc^2 is only part of the equation; in particular, it's the part that describes the energy of an object in its rest frame, which is something that a photon doesn't meaningfully have.
+Photons travel at the speed of light and therefore don't have a rest frame (a frame of reference in which they are at rest).

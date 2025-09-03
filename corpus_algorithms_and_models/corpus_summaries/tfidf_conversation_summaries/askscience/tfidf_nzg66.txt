@@ -1,0 +1,34 @@
+Original Response:
+I have a very basic understanding of gravity from high-school level physics. I know that things with larger masses have more gravity. I've always wondered however if human beings could ever create an object with enough mass either in space or on Earth that would have a noticeable gravitational pull. Noticeable in the sense of affecting us or the planet in an apparent way. If so, could there ever be any scientific uses for this or any general application?
+**I cannot confirm the math behind this talk**
+
+http://www.ted.com/talks/phil_plait_how_to_defend_earth_from_asteroids.html
+
+... but this might answer your question (  being "yes all things have gravitational pulls" ) and also give you some insight as to how it can be used.  Basically any sufficiently large object ( in the TED talk the mass given is a 1 ton space craft ) can be positioned in close proximity to an asteroid.  Then by utilizing small thrusts and the gravity field of the space craft the asteroid can be pulled from a collision course w earth.
+
+**TL;DR**
+Anything with mass has a gravitational pull. TED talk guy ( Phil Plait ) proposes using a 1 ton object to slightly alter asteroid trajectories to avert earth collisions.
+Sweet! Thank you, I just watched that entire video. I guess I never thought about it on a smaller scale like that, only 1 ton or 2. Thanks again!
+This is indeed one of the methods people are looking at for deflecting asteroids, but it requires us to identify problem asteroids very very far in advance.
+http://en.wikipedia.org/wiki/Cavendish_experiment
+
+We can measure the gravitational pull between small lead balls.  I've actually done this experiment in a lab class with a torsion balance that was only about 8 inches long.
+Or for use after another method has already diverted it to put it into a safe known orbit so it doesn't threaten us again.
+
+Things like kinetic impacts might be too inaccurate to do more than make it miss us and after it does we'd have plenty of time to alter it's orbit gravitationally.
+[deleted]
+It depends on your definition of noticeable. Do you mean noticeable by scientific instruments? Noticeable by ocean tides? Noticeable by human senses? Not even the sun's gravity is noticeable by human senses, but fine instruments can detect minute gravity distortions.
+On a tangent, the answer to this question is probably rather obvious, but I'd thought I'd ask it anyway.
+
+Assuming we only use materials from Earth to create such an object, would it mean that if we somehow succeeded in constructing an object with significant mass (say, as massive as the Moon), we would at the same time be decreasing the mass of the Earth by an equivalent amount (with equally noticeable effects)? 
+
+Apart from the fact that this is a hypothetical scenario, all the material has to come from somewhere after all, no?
+[deleted]
+I guess on a larger scale something noticeable to human senses. How much mass and how close to us must something be to have a noticeable affect on our senses?
+It would also have to change quick enough to break our threshold of noticeable change. You would have to move astronomically large mass impossibly quickly in order for humans to feel it on earth.
+
+Summary:
+I guess on a larger scale something noticeable to human senses.
+I know that things with larger masses have more gravity.
+**TL;DR**
+Anything with mass has a gravitational pull.

@@ -1,0 +1,7 @@
+One eye sees in three dimensions.  You can't *not* see in three dimensions.  Depth perception isn't as good as compared to two eyes, but that by no means makes it two dimensional.  
+Uhh.... don't most birds have monocular vision? IIRC what depth cues they have come from motion parallax; head bobbing.  
+I disagree, I feel having this ability in one eye would be just as useful as two, and there is no reason it needs to be in both then. The effect from a magnetic field is not one that need depth perception, seeing it in 2-D would work fine.  
+My point is not "two is better than one", but rather "asymmetries are rare and need explanation". (More genetic info is needed to produce them.)  
+One explanation that *would* make some sense is that with one unaffected eye they could detect gradients that would otherwise be confusing. That almost certainly requires more experiments, however.  
+Multiple receptors are only useful if each on provides slightly different information based on its location.  Two eyes can increase field of view, or give depth perception.  Two ears or nostrils can give directional information.  
+My guess is that magnetic fields are so weak and span such a large area, having two receptors on your body doesn't get you anything, apart from a little redundancy.  One is cheaper, and that is what evolution selected.

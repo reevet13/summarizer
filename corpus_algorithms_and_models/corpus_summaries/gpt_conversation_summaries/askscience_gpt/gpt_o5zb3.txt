@@ -1,0 +1,17 @@
+There was [a thread a while back](http://www.reddit.com/r/askscience/comments/lp1wn/eyes_changing_color/) (and others, actually, if you do a search) in which people said that their eyes change color. The truth is that eyes *don't* change color - it's just a matter of lighting, somewhat like the white balance on a camera.
+
+for lighter colored eyes this is particularly relevant. eye color is a function of some of the tissue structures in your iris. the way the light scatters among these structures helps determine the color, much the way that light scatters in the atmosphere to display a blue hue.
+
+edit: so, as drwallyhayes said, the color (pigmentation) doesn't actually change, just the light the iris reflects, and thus, the color it's seen as.
+
+because blue eyes are caused by low levels of melanin and [Rayleigh Scattering](http://en.wikipedia.org/wiki/Rayleigh_scattering) so newborn babies haven't produced enough pigment to colour their eyes yet
+
+That's not really how recessive and dominance work. They affect your phenotype -- how you appear -- but not the frequency of the genes themselves or their chance of being passed onto offspring. Some very common alleles are recessive, while the dominant versions are rare. For example, [**polydactyly**](http://en.wikipedia.org/wiki/Polydactyly) (having extra fingers) is **dominant**.
+
+A lot of genetics is not as simple as Mendel's pea experiments might lead you to think. It is more likely that many different genes play a role in determining eye color (which is a spectrum of colors really, not just 'green' or 'blue').
+
+In high-UV areas (e.g. near the equator) dark pigmentations offer more protection against UV radiation, and hence indigenous populations here are predominantly dark skinned. In low-UV areas (e.g. northern Europe) light pigmentations are required to permit UVB-induced synthesis of previtamin D3 (particularly in females, as relatively high amounts of vitamin D3 are required during pregnancy). This has resulted in the distribution of skin colours which we observe in populations today, and (by association) eye colours.
+
+The only way to get rid of any phenotype, recessive or dominant, is to eliminate the allele that causes it from the population.
+
+Melanocyte neural crest migration occurs posteriorly to anteriorly in the iris. As the population of these cells migrates forward

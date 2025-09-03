@@ -1,0 +1,3 @@
+Yes it does, but it should be negligible because the galaxies that recede from each other are not gravitationally bound. They are so far away, they don't feel each others presence.
+
+Regarding the conservation of energy: It does not hold on cosmic scales. And we don't expect it to, since there is no time translation invariance. Due to the expansion, the laws of physics depend on time, so to speak. And time translation invariance is what gives rise to conservation of energy.

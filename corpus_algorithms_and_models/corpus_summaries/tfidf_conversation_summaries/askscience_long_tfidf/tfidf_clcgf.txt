@@ -1,0 +1,100 @@
+Original Response:
+I was reading about the largest organisms in the world on wikipedia and got to thinking. I know that on Earth, an organism's size peaks out because at a point they can't have enough muscle to keep themselves standing. Just making something bigger and bigger doesn't work, so no King Kong is going to happen here on Earth. But on a planet with lower gravity, or a different atmospheric makeup, could larger and larger animals be possible? Is there a point where, regardless of the environment the creature is in, it's not possible to be any bigger? That the creature would collapse under it's own gravity, or biological processes just would not function anymore?
+&gt; collapse under it's own gravity
+
+I guess that won't happen because you stated:
+
+&gt; regardless of the environment
+
+Otherwise you'll have the same muscle problem again.
+
+I have no idea about the biological side.
+Well we only know about life on earth, so it's hard to say how big life on other planets could get.
+
+The biggest blue whale was about 200 tonnes, and the biggest land animal was Argentinosaurus at about 120 feet long.
+
+I imagine the upper limit is greater in water where it doesn't have to support its own weight. A jellyfish could become pretty damn big.
+I'm going to be pedantic - it might depend entirely on the classification system more than anything else.
+
+If we found some living thing which existed between animalia and fungi, for instance, and for some reason it was decided to classify it as animalia anyway (perhaps there was no cell wall nor hyphea structures, but it produced spores), the "animal" could potentially be a miles-wide living mass, rather than a legged mammal or winged bird.
+
+As a slightly less theoretical example, coral is in the kingdom animalia (Phylum Cnidaria), however as a communal organism, each individual doesn't get very big.  Find a coral reef that is actually a single "animal", rather than millions of individual animals living together, and there's your winner.
+
+
+edit:
+As for your actual question, gravity is a major limiting factor in insect/lizard/amphibian/bird/mammal size - the giant ants in the movie Them! would not have been able to live, largely due to structural failure of the exoskeletons.  While it's not impossible for such a creature to exist, the current design of an ant wouldn't work if simply scaled up in size - exoskeleton redesign plus internal organ shifting to account for those changes would be a minimum.
+
+As mentioned by iorgfeflkd, moving the question into an aquatic environment would greatly reduce that issue, likely shifting the limiting factor to food availability vs maintenance energy needs.
+
+Signaling may also  be a problem; the lag in electrical signaling already requires secondary systems to allow for competitive response times in larger mammals (i.e., "ow, hot!" pain signals trigger your spine to retract your hand from a flame before the pain signal itself can reach your brain); an animal that relied more heavily on non-electrical signaling (hormones) would be even slower in its ability to react to external stimuli; unless it had some sort of novel distributed signaling system to better manage delays.
+I always thought it was heavily related to the amount of oxygen in the air.
+I think that is a large part of it.  It's probably driven more by respiratory potential than mass.  Think of how big some of the dinosaurs got.  Beyond that, animals in the water can certainly get very large.
+So, body size is a fundamental organismal property closely related to metabolic rate. Gravity has a part in it, but what happens when you consider marine animals? What's confusing is, larger animals actually require less oxygen consumption (a proxy for metabolic rate) per unit mass than smaller animals... If you're really interested in the metabolic limitations of animal size, I can write up a more detailed response later, but I'm in the lab right now and have got to get something done today.
+I've ready theories that some of the large insects and such from prehistory were possible in part due to the more oxygen-rich atmosphere.  
+
+There would certainly be a tipping point with oxygen concentration, no?  A point where the increased levels would make it easier to diffuse or actively transport O2 to internal tissues, but where the exposed external tissues would be damaged by the high concentrations.   Do you have any idea where that point might be?
+reddit ate my post:  summary: is there a point where the increase oxygen becomes toxic to animal cells, and so the increased ability to transport O2 to inner tissues it counter-acted by the damage done to the outer tissues?
+Your question is too vague.  What if there was a planet where the entire biosphere was a single organism?  
+
+You need to be more specific:  Land-based animal on earth, water based animal on some other planet?
+
+It's going to be highly environment specific.
+that stand of Aspens was many acres big I think - http://en.wikipedia.org/wiki/Pando_%28tree%29 - 
+
+The largest ***animal*** would do better in the sea for support of its frame in water -
+There is a whole (contentious) field of study that kind of asks this question called [allometry](http://en.wikipedia.org/wiki/Allometry).  
+
+Basically, it says that many things scale at very different rates. For example, if you increase the size of a sphere, the surface area increased at a rate of ^2 while volume increases at a rate of ^3. 
+
+These scaling laws, if they're real (the contentious part), strongly affect a whole bunch of animal properties. For the purpose of your question, it limits size for a number of reasons (of which I'll just give a couple):
+
+1. since your mass increases at a much faster rate than your size, your skeletal structure (whatever that may be) reaches a limit where the skeletal integrity won't be able to support the mass. This is the "gravity" issue people are referring to.
+
+2. the rate of diffusion doesn't change as mass gets bigger, which means that oxygen diffusion through your body (which happens in all animals - even mammals at the facet of capillaries) will start to be ineffective as you get bigger. This _MAY_ be why larger animals have slower metabolisms - because they don't have enough oxygen to have fast metabolisms (physiologists, please correct me if I'm wrong - I'm going off memory of a couple of Brown papers I read four or five years ago).
+
+3. this one I'm going out on a limb, so please take it with a grain of salt: the speed of nervous reactions is not instantaneous, so even if you solved the other scaling issues, my guess is that a giant body would be very uncoordinated (literally). I suppose this could be solved with a decentralized nervous system, but I'm not sure.
+
+Fun question!
+I am not a metabolics expert, but I think this question has a basic premise wrong.  As long as something is transporting oxygen in an inert form (hemeglobin for example) you probably don't have to worry about oxygen toxicity.  What you need is more heme.
+
+I dunno though.
+&gt; This MAY be why larger animals have slower metabolisms
+
+Just wanted to clarify, larger animals have slower metabolisms per unit mass. 
+
+I made a post in this thread earlier, but it seems to have disappeared. Jim Brown's work is, indeed, a good place to start if anyone is interested in the metabolic constraints on organismal body size.
+The dinosaurs were [pretty big](http://en.wikipedia.org/wiki/Dinosaur_size). 
+
+King kong was only [originally scaled to be about 24 feet tall, and in later movies made to be about 60 feet](http://en.wikipedia.org/wiki/King_Kong#Appearances_and_abilities). The tallest Sauropods could easily reach this, though they had thin necks and tiny heads. The Therpods with their giant flesh rending heads, such as T-rex, still got above 40 feet.
+Indulge me my friends, for I speak of horrors. A beast beyond imagination. One with a thousand teeth of tetanused nails and knuckles of mountain sinew. From its back a slender, diamond filament extends far past the air of mortal men into the heavens, where a vestibule exists in earth locked orbit absorbing cosmic air, powering the toothed terror below. 
+
+It preys on virgins my friends! Its faceted faces grinning with lust at the golden locks it thrusts from the loins of our blessed few. The only men who stand to it lay weeping, and the only men left wait to be saved by a rusted nail run through.
+Yep, thanks!
+(not at all a biologist i type too much)
+
+Didn't know allometry had that name, essentially they're crude up-to order of magnitude calculations. And it wouldn't at all work if some species has order-of-magnitude stronger inherent improvement on something, like strength of bones. It is just very crude. But should often be effective, if it is properly concerning physical restrictions and graphing stuff like size/mass vs metabolism/speed/energy cost per mile etcetera is interesting, and should validate some of it.
+
+About 2, don't bloodvessels essentially solve that? It makes the diffusion part some typical distance from some vessel, and then the issue becomes the cost of the vessels. The number of small vessels one would suspect to go with volume. The successively larger vessels each are a factor in number less and a factor larger, adding some more cost as there are more 'orders of size'(of vessels) in a larger creature. Probably logarithmic with volume or something.
+
+It could be because larger animals move slower and that way have less access to food. It could also be due to them often being grazers, or that they don't lose heat as fast.(smaller A/V) Eating plankton is grazing of a sort.
+I wish I could give you a good response, but whatever I say is going to be mostly speculation (I've only read a couple of papers on this subject).
+
+But, for some reason, I _think_ that since diffusion is still required, even just at the capillary scale, there are still problems. 
+
+Sorry for that unsatisfying answer - if you research it and figure it out, let me know!
+I read a paper by Van Savage last month that suggested as organisms get larger, they tend to undergo diminishing returns. That is, for certain size ranges, organisms benefit from being larger (assuming lower metabolic requirements per cell is beneficial to the organisms). However, body size is also strongly correlated with trophic position (position on a food web). It is also known that as you move up a food web, the abundance of your prey decreases by orders of magnitude. So it really boils down to metabolic economics. At certain size ranges, there may be an advantage (or at the very least, no disadvantage) to being large-bodied, from a metabolic stand (less available food, but less food needed per unit mass). However, at extremes, some people think the organism may hit a proverbial brick wall where any further increase in size begins to increase metabolic cost to a point that is unsustainable.
+
+Now, large marine herbivores may be an exception, but its good food for thought if nothing else.
+
+Summary:
+I think that is a large part of it.
+It could be because larger animals move slower and that way have less access to food.
+Beyond that, animals in the water can certainly get very large.
+It is just very crude.
+Think of how big some of the dinosaurs got.
+Gravity has a part in it, but what happens when you consider marine animals?
+&gt; This MAY be why larger animals have slower metabolisms
+
+Just wanted to clarify, larger animals have slower metabolisms per unit mass.
+I was reading about the largest organisms in the world on wikipedia and got to thinking.
+I know that on Earth, an organism's size peaks out because at a point they can't have enough muscle to keep themselves standing.

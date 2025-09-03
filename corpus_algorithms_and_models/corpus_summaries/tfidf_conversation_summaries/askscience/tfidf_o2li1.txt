@@ -1,0 +1,234 @@
+Original Response:
+[deleted]
+Okay. So if the body does deplete its glycogen reserves and moves on to burning fat, which fat does it burn first? Old fat? New fat? (Does that question even make sense, or have an easy answer?)
+hmmm . . . i'm not sure. That's a better question. When the body stores fat, does it somehow chronologically order the fat reserves? My guess is no, it burns the fat at the same rate, regardless of when the fat was created.
+The body only [carries 100 to 120 grams of glycogen](http://en.m.wikipedia.org/wiki/Glycogen), and it doesn't burn all of that before beginning to burn fat. It's more like an s-curve, where a lot of glycogen is used initially, then it begins to taper off. 
+
+With fat it's the other way, not much is used initially, but then it begins to taper up. So instead of only having 20 minutes of glycogen, it actually lasts about 2 hours with strenuous activity such as marathon.
+"Burning fat" isn't something that gets turned on or off. It only gets turned up and down. Just sitting here on reddit my body is getting some tiny fraction of its energy from fat. When my blood sugar falls, it will use gluconeogenisis through glycogen catabolism, then will start increasing lipolysis (the breakdown of fat). When glycogen runs out I will start burning fat for everything, but that will take 12-18 hours without food... so in the Western world we rarely get to 100% lipolytic metabolism.
+
+And when fat is broken down, it breaks down everywhere. All adipose cells will release a little bit. This is why efforts to preferentially burn "tummy fat" or "hip fat" are hopeless.
+This is not completely accurate. While glycogen is indeed an easier to access fuel source, it is also less plentiful in the body. The body will utilize glycogen at a higher rate during intense activity because it cannot supply the energy fast enough via fat metabolism. However, at low/sedentary energy requirement levels, the body would prefer to burn fat, saving the glycogen in case of the need for quick flight from danger, or to chase prey.
+
+Additionally, because SOME glycogen is required for fat metabolism, your body will not totally deplete its glycogen stores 100% willingly.
+The answer is, from a span of reserves across all of those dates, but not in the same ratios.
+
+After you burn a good portion of your glycogen off, there are [three types of fat](http://www.americanhealthandbeauty.com/articles/?article=3674) it goes for:
+
+Intramuscular: This fat is the the primary source (up to 50%) of caloric fat burn. It gets replenished the most quickly as well.
+
+Subcutaneous: Skin fat, it has the second highest burn ratio, and is replenished whenever excess calories need a place to go. This is ass, hips, and thighs.
+
+Visceral: Fat surrounding the organs. [The dangerous stuff](http://www.ncbi.nlm.nih.gov/pubmed/17977954). Also tends to be the oldest deposits and the most difficult to burn. This is where your 'old fat' comes from, but it gets burned in the smallest part of the fat burn ratio.
+
+So you'll burn energy that you got minutes, hours, weeks, and years ago all at the same time, but in a descending priority, and the ratio shifting as the quick reserves go down and the older ones become needed. Cool eh?
+Is this the benefit to ketogenic diets? Depleting the glycogen reserves through diet, then burning exclusively fat during exercise and daily activity?
+Don't neglect carbohydrates as a fuel source.  Above lactic threshold you will begin to drop off from fat as a fuel and start using sugars (glycogen etc).  Blood sugars are quickly replenished, and those calories most likely came from breakfast and dinner last night, while glycogen takes longer to synthesize and would have been consumed over 24 hours ago.  It takes about 6 hours to replenish glycogen stores, but longer from consumption to synthesis.  words words words. I'm smart. listen to me. lalalala
+[deleted]
+[deleted]
+That's certainly the benefit claimed by Atkins &amp; South Beach.
+[deleted]
+[deleted]
+So, at the end of a workout I am dog tired either way. Is it better to run/bike/swim/hike for longer and a bit slower, or shorter and a bit faster?
+Can this be related to radioactivity? I mean in the sense that different fats have different probabilities of being burned? So a cell of intramuscular fat has a higher probability of being burned at a given time than a cell of visceral fat? 
+
+Or does the body burn them in a certain order (such as 3 cells of intramuscular, then 2 cells of subcutaneous, then 1 cell of visceral or something like that)?
+&gt; When my blood sugar falls, it will use gluconeogenisis through glycogen catabolism
+
+Wordings a bit strange here. There's gluconeogenesis, where is the conversion of things like amino acids, glycerol, and lactate into glucose. Then there's glycogenolysis, which is the breakdown of glycogen into glucose. They are two distinct things. 
+
+&gt; When glycogen runs out I will start burning fat for everything, but that will take 12-18 hours without food... so in the Western world we rarely get to 100% lipolytic metabolism.
+
+Well, technically you're never going to be running 100% on fat, because your CNS always needs a small bit of glucose, which is why hypoglycemia is such a dangerous state. If you disregard the brain and rest of the CNS, just about every other cell in your body will run almost exclusively on fat if your blood sugar is not elevated (i.e. you're in a normal fasting state). The CNS energy usage is really large though. It's hogs like 20% of total energy.
+Q: So, at the end of a workout I am dog tired either way. Is it better to run/bike/swim/hike for longer and a bit slower, or shorter and a bit faster?
+[deleted]
+So does this mean I could lose fat simply by not eating for 18-20 hours a day and then eating only for 4?
+Your brain can actually run on ketone bodies (specifically acetone, acetoacetic acid, and beta-hydroxybutyric acid) as well as glucose. These are produced as a byproduct of fatty acid metabolism and are what your brain uses for fuel when your blood sugar levels are low.
+When the Intramuscular fat has been burned is it replaced with "new" fat or moved from the other deposits?
+Better how? Weight and fat loss are mostly diet related, but having said that, the best exercise based fat loss method is actually [HIIT](http://en.wikipedia.org/wiki/High-intensity_interval_training) (high intensity interval training), due to a phenomenon called [EPOC](http://en.wikipedia.org/wiki/Excess_post-exercise_oxygen_consumption) (Excessive Post-exercise Oxygen Consumption). So, shorter and faster cycles winds up to be better than steady state.
+So running a mile three times at higher effort, with recovery in between, is better than running three miles?
+I think there are plenty of fitness enthusiasts that will argue both ways. Including some that say switching periods of short high intensity and extended low intensity.
+related tag-on question:  my brother, who is a doctor and runner, told me that "the wall" experienced during marathons, is the point at which the easy sugars have been depleted and you are now solely burning more complex fats (or something like that).  And that you can trick your body into squeezing a little more of the easy fuel with the use of caffeine.  True or false?
+That would be intermittent fasting, and there are people who would agree with your statement. Pracitioners report that this type of fasting results in a leaner body composition. In other words, that it allows for muscle gain/maintenance while at the same time reducing body fat percentage.
+[deleted]
+HIIT isn't done for distance, it's done in timed cycles. The most common cycle used is Tabata method, 20 seconds on, 10 seconds recovery. Here's some [more info](http://www.ncbi.nlm.nih.gov/pubmed/8897392).
+Does science agree with my statement?  This is r/askscience after all.
+[deleted]
+Caffeine is a stimulant, not a sugar (like glucose). It also has no calories so it won't give your body any energy (fuel) at all. It can have the psychoactive effect of making you feel more energetic and alert, but that's it. In that respect, it could help someone finish a race but it would be psychological.
+
+Now, as far as caffeine having an effect on how the body burns existing energy reserves, I have no idea. I'm not sure if that's what you are asking or if you were wondering if caffeine can be used as an energy source.
+[deleted]
+Maybe you should ask a better question, because there are many variables in your question (how many calories do you consume in those 4 hours? What is the composition of the food intake, etc).
+
+If the restriction on eating time means you eat fewer calories than your BMR, you will lose weight (some will be fat).
+
+If you are looking for scientific analysis of your question, perhaps you should search on google, where the science resides. If you do a search on intermittent fasting I bet you will find some sciency articles. 
+
+If you would like me to find them for you let me know.
+Caffeine acts through preventing the de-cyclizing of cAMP. cAMP is a low-energy marker in the body. Having it in artificially high levels in the blood causes catabolism to begin so that energy substrates are more readily available in the blood stream
+
+This means that caffeine ultimately increases the percentage of energy you get from fat since it thinks you are running low on glucose/glycogen and fatty acids have been removed from adipocytes and are ready to be used.
+
+Caffeine also reduces pain perception in the brain so that the painful effects of exercise are felt less acutely.
+[deleted]
+Burning fat along with breaking down muscle protein for energy and to convert to glucose, yes. This is why they're so high protein as well.
+ketogenic diets basically run your metabolic pathway backwards, it tricks the body into reducing first dietary fats into energy and then stored fats into energy. it simulates starvation due to a lack of carbohydrates. I'll post an appropriate diagram when I find it.
+
+--biomed/ medical student.
+[deleted]
+Does taurine in sugarless redbull have this same effect?
+[deleted]
+/r/fitness has plenty of discussions along those lines.  At the end of the day it is about what you want to accomplish.  I am not going to go into details because I am not nearly enough of an expert, especially by /r/askscience standards, but I will point you over the /r/fitness where they have a fairly well written FAQ that includes this subject.
+Look up "High-intensity interval-training". Out of all the aerobic exercises it's the most effective way to burn calories and develop a strong stamina. Bodybuilders use it to get ripped and fighters use it to become able to perform with maximum force for longer periods of time.
+TIL that caffeine would be helpful if tortured.
+So this is how caffeine works in regards to fat loss?
+please do, this sounds interesting
+Ehh... caffeine can give you the extra boost that gets you out the door to work out and it can make working out hurt just a little less. It can also help you preferentially burn fat, but since unused glucose is just turned into fat once you've maxed out glycogen storage, the fact that caffeine mobilizes fat ends up less important than you would think.
+Ok, so I know this is complex. But take a look at glucose which is in the top middle of diagram. Then have a look at fatty acid oxidation in the bottom middle. your body breaks down all carbohydrates into glucose. Thus, in non starvation your body follows the glucose pathway. In starvation it is forced to break down fatty acids and "run the cycle backwards" in order to produce many nutrients the body needs that would normally be produced via glycolysis. A bi-product is ketones which is why you will smell like acetone when your body switches over to running on fat instead of carbohydrates. 
+
+http://home.wxs.nl/~pvsanten/mmp/mmp.html
+Hi! Could you elaborate or source the claim regarding the visceral fat being the most difficult to burn, and therefore the "oldest"? 
+
+I was mostly thinking in the abdominal region (due to the study you linked). If I recall correctly from biochemistry, then the visceral fat is the most metabolic active and has a very high rate of lipolysis thereby contributing significantly to the availability of free fatty acids. Visceral fat also has extremly good blood flow, shouldn't it then be reasonable that it is also easier than to burn off/has a greater turnover in comparison with say, subcutanous fat when looking at it from a longer perspective (meaning beyond the acute phase of exercise)?
+[deleted]
+What do you mean by "running the cycle backwards"? The body uses beta-oxidation to produce acetyl-CoA from fat, which is then sent to the Kreb's Cycle (running in the...'forward'...direction), yielding ATP.
+
+Also a clarification. Ketone bodies are of three types: beta-hydroxybuturate, acetoacetate and acetate, two of these can be used by the body to produce more acetyl-CoA, which is something important to note because the brain can cover a portion of its energy requirements using these ketone bodies, when there is a lack of glucose (such as in a ketogenic diet). Only acetate is a metabolic dead end, and is also the ketone body responsible for the breath.
+just trying to make it more understandable for laymen. when i say it runs backwards in comparison to glycolysis, I simply mean that it runs differently than it normally does.
+[](/celestiamad) You know, I was about to upvote you, then I read the last sentence.
+Fine by me, lol.
+In your opinion, considering what you mentioned,  what is the ideal daily diet for someone who exercises for approx 2 hours a day?
+[deleted]
+If you don't binge after fasting, apparently. Wikipedia has [an article](http://en.wikipedia.org/wiki/Intermittent_fasting) on it.
+Could you explain what lactic threshold is and how I avoid crossing it during a workout?
+What do you mean by binge?  The warrior diet says you are supposed to over eat whereas eat don't eat just makes it where you fast one day out of the week.
+You know, I wasn't going to upvote you, then ponies.
+
+[](/ppshrug "Subtle enough for you?")
+[deleted]
+The lactic threshold is the intensity of which you need to exercise to accumulate lactic acid in the blood. It's when you start using energy anaerobically, ie not using oxygen. 
+
+In other words, when you exercise at close to your maximum intensity, you cross your lactic threshold. Stay at medium high intensity (aerobic exercise), and you won't cross it. What it is exactly for you is hard to say, it has to be measured by a pin prick blood test to be accurate. Though if you keep your pulse at max 140-160 bpm (depending on age), you should be good.
+Depends on your goals. Strength? Endurance? Also, [/r/fitness](/r/fitness) is a better place for this :)
+[deleted]
+[deleted]
+As a laymen, this is what my mind did [when I saw the diagram you posted](http://operatorchan.org/t/arch/src/t239985_m18910_mind%20blown.gif)
+thank you, this is exactly the thing I was referring to.
+[deleted]
+you also get energy from breaking down muscles. A lot usually.
+How do muscles breakdown and give energy during a workout?
+There is no 'ideal daily diet' that anyone can spew out at you. It is completely dependent on your age, height, sex, level of physical activity throughout the day (Office work compared to construction worker) as well as how long and the intensity of how you work out. 
+ 
+Google the Harris-Benedict Equation (on my phone so I can't link it as I don't remember formatting...) and that is a good starting point. But then you also need to worry about how fast your metabolism is, the macronutrient ratios  (carbs/protein/fat) as well as how often you eat (5 meals a day is best). Hope this helps!
+Do you have a viable source for that? I see it get thrown around a lot in the Fitness sub, but it doesn't make any sense to me that our bodies would catabolize our muscles for energy before exhausting fat reserves. Also, I was under the impression that ketogenic diets were high fats, low protein, low carbs.
+Appreciated, thank you.
+How quickly is the food you eat converted to glycogen?
+bs, i just most of it is from blood sugar which is probably just a few days old
+[deleted]
+Ask anyone in med school our minds do the same thing when we see it. Nice thing is that normally you learn the different processes in groups and then assemble them.
+Never seen *any* convincing evidence for muscle breakdown during low-carb diets.
+citation on any of this?
+[Wikipedia](http://en.wikipedia.org/wiki/Anaerobic_exercise), for instance.
+(Layman Speaking)
+
+Fat needn't necessarily being converted to glucose via hepatic gluconeogenesis before it can be used as a fuel source, there exists an (simplified) fatty acids --beta oxidation--&gt; acetyl-coA --mitochondrial krebs cycle--&gt;ATP pathway.
+
+Not even the brain, as many claim needs glucose, instead it is able to metabolize ketone bodies as a fuel source in the absence of dietary carbohydrates. [Guesswork] I guess that in our hunter / gatherer past, at least in some environments, we were often in a ketotic state, when there were times were non-animal sources of food were not available. Do not mix up ketosis, which is harmless, with dietary ketoacidosis, which is not.
+h they actually explain it. You didn't.
+I have 3 semesters of graduate level biochemistry/metabolism plus a graduate level sports nutrition course as a source. Muscle loss during weight loss is a huge issue and resistance training multiple times per week is necessary to prevent it from occurring.
+
+The biochemistry of muscle vs fat breakdown is unfortunately different from how we would like it to be. Excess fat is necessary to hold in heat and protect organs. Muscles serve as an amino acid and gluconeogenesis substrate pool. The farther you go into a calorie deficit, the more muscle you will use for energy and gluconeogenesis. It will never equal the amount of energy you are getting from emptying your adipocytes, but muscle breakdown for energy is very real.
+You can't ever convert fatty acids to glucose because the conversion of pyruvic acid to acetyl coA in glycolysis is nonreversible. You can convert the glycerol backbone of a tri-acyl glyceride into a single glucose molecule, but then you convert the free fatty acids using the pathway that you stated. Some amino acids can be converted to glucose, but only the ones that can be converted to pyruvate or oxaloacetate and you can't preferentially select.
+
+As a dietetics student, I don't think I'm mixing up ketosis with ketoacidosis. It's pretty common/easy to enter ketosis, but it is preferred as a short-term weight loss method and not a sustainable diet for the average person.
+Thanks for the corrections, much appreciated :) Time to fetch the Leninger again..
+
+I meant not you specifically when talking about keto(acid)osis, sorry if I made that impression.
+I just saw many people semi-freakout when mentioning ketosis.
+
+As for ketosis not being sustainable, I am not sure, do you have references for that claim?
+The inuit, for example, would be ketotic pretty much the whole year.
+
+I meant to research how much carbohydrates are needed (not necessarily dietary), when in a ketotic state, with the brain preferably working with a carbohydrate metabolism, any ideas where to look it up?
+Thanks for the corrections, much appreciated :) Time to fetch the Leninger again..
+
+I meant not you specifically when talking about keto(acid)osis, sorry if I made that impression.
+I just saw many people semi-freakout when mentioning ketosis.
+
+As for ketosis not being sustainable, I am not sure, do you have references for that claim?
+The inuit, for example, would be ketotic pretty much the whole year.
+
+I meant to research how much carbohydrates are needed (not necessarily dietary), when in a ketotic state, with the brain preferably working with a carbohydrate metabolism, any ideas where to look it up?
+I completely respect your education level and I'm not doubting just for the sake of doubting, but I'm having a hard time taking that info at face value via a single Reddit comment. Do you have any citable sources on this? I'd love to read more about it, thanks!
+Any decent weight loss study is going to report total weight loss along with what of that was fat loss. The rest is fat-free/lean body mass which is largely skeletal muscle.
+
+[Meckling, 2004](http://www.ncbi.nlm.nih.gov/pubmed/15181047)
+
+[Brehm, 2003](http://www.ncbi.nlm.nih.gov/pubmed/12679447)
+
+[Volek, 2004](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC538279/)
+By sustainable I meant something that a normal person could reasonably sustain as their diet while living in America. The only people I know who have successfully sustained very low carb (&lt;20% of total calories) are extremely disciplined or, like the Inuit (not that I know them personally), don't have any other choice.
+It runs "backwards" during gluconeogenesis, which happens when you have decreased glycogen stores/glucose. You can have proteins entering the pathway at pyruvate or OAA and from there you can run back "up" the pathway to glucose--with a reroute or 2 around non-reversible steps, of course.
+My sources for the physiology of muscle catabolism during hypocaloric diets are text books that I have no way of putting on the internet without great effort. I linked a few studies below AcinonyxJubatus' comment below comparing low carb to low fat weight loss diets and both types result in loss of fat mass AND fat-free (aka muscle) mass. From the meta-analysis my sports nutrition professor put together, it looks like about 75% of weight loss is expected to be from fat mass when obese people (the only ones with enough weight to lose for it to be publishably significant) diet without exercising. I was honesty surprised that the idea that one loses muscle when on a diet was novel.
+Thanks for those studies, I shall read time
+
+I also found some studies that showed no decrease, or actually increase in lean body mass.
+
+http://www.ncbi.nlm.nih.gov/pubmed/9417152 
+
+http://www.ncbi.nlm.nih.gov/pubmed/12077732 
+
+
+Very interesting...
+Those studies don't exactly fir the scenario I was looking at. The first is with adolescents on extremely high protein diets. Their bodies are physiologically programmed to put on muscle at that age and with a sufficient dietary source of amino acids, they use them before they are incorporated into muscle, hence to muscle loss.
+
+Your second study restricted carbs, but not calories. I couldn't access the entire article, but to make up for restricting carbs, they had to increase fat and protein so it's likely the same scenario as above.
+Indeed! It looked like it was fat that was implied to be the substrate for the gluconeogenesis yielding glucose, which it isn't, hence me asking for a clarification!
+Fair enough, I wouldn't want you to go through too much trouble just to satiate my curiosity. I think I (and perhaps others) find it surprising because it's so counter-intuitive. Adipose tissue, in excess, is there as energy storage so it makes sense that the body would go for that first and foremost until it was depleted, then move on to muscle tissue as a last resort to stay alive. Thanks for the responses.
+The only part of fat that can do that is the glycerol backbone of a tryglyceride. Otherwise it does run forward from Acetyl CoA through Krebs/ETC as you pointed out.
+There is a section in Lore of Running by Dr. Noakes on factors that affect the type of fuel used.
+
+Page 120:
+
+"When the intensity of exercise increases, carbohydrates become more important for energy production (Coyle, Jeukendrop, et al. 1993).  This is because as exercise intensifies, more muscle gylcogen and blood glucose are used with reduced rates of oxidation of plasma-free fatty acids at all exercise intensities greater than 60% VO_2 max and of muscle triglycerides at exercise intensities above 80% VO_2 max.  The rate of muscle glycogen use speeds up significantly at exercise intensities above 75% VO_2 max.  At exercise intensities greater than 95% VO_2 max, only carbohydrate is burned (Saltin 1973; G.A. Brooks and Mercier 1994; G.A. Brooks 1998).
+
+This finding led George Brooks and his colleagues from the University of Berkeley (G.A. Brooks and Mercier 1994; G.A. Brooks 1998) to postulate the crossover concept of energy metabolism during exercise.
+
+But our own data suggest that fat, especially intramuscular triglycerides, does contribute to energy metabolism even at exercise intensities of up to 100% VO_2 max (Lambert et al. 1992).  The practical point is that at high exercise intensities, carbohydrate, especially muscle glycogen, is used at very high rates and is probably the principal energy fuel."
+
+On page 160, we see that lactate increases considerably at 85% to 95% VO_2 max.
+
+So the body doesn't default to just breaking down stored glycogen for fuel; fats are metabolized to some degree.  However, you won't hang around that mode of exercise for very long and so consequently, not much energy will be burned up.
+Yes.  This is where the process "gluconeogenesis" becomes very important.  There exist latency in terms of converting stored fat into glucose so consequently your muscles are not contracting at the speed they previously were when relying chiefly on getting glucose from your glycogen stores.
+so u think ur only burning fat during a workout ?
+I asked a question, you gave a non-answer. It doesn't matter what I think, can you provide any evidence to what you just claimed, don't forget "LOT" as that is what got me curious.
+
+Summary:
+you also get energy from breaking down muscles.
+your body breaks down all carbohydrates into glucose.
+Burning fat along with breaking down muscle protein for energy and to convert to glucose, yes.
+It also has no calories so it won't give your body any energy (fuel) at all.
+Depleting the glycogen reserves through diet, then burning exclusively fat during exercise and daily activity?
+"Burning fat" isn't something that gets turned on or off.
+So if the body does deplete its glycogen reserves and moves on to burning fat, which fat does it burn first?
+So this is how caffeine works in regards to fat loss?
+It only gets turned up and down.
+I mean in the sense that different fats have different probabilities of being burned?
+The rate of muscle glycogen use speeds up significantly at exercise intensities above 75% VO_2 max.
+So the body doesn't default to just breaking down stored glycogen for fuel; fats are metabolized to some degree.
+The farther you go into a calorie deficit, the more muscle you will use for energy and gluconeogenesis.
+Caffeine is a stimulant, not a sugar (like glucose).
+When my blood sugar falls, it will use gluconeogenisis through glycogen catabolism, then will start increasing lipolysis (the breakdown of fat).
+Now, as far as caffeine having an effect on how the body burns existing energy reserves, I have no idea.
+It gets replenished the most quickly as well.
+What do you mean by "running the cycle backwards"?
+The body will utilize glycogen at a higher rate during intense activity because it cannot supply the energy fast enough via fat metabolism.
+I'm not sure if that's what you are asking or if you were wondering if caffeine can be used as an energy source.
+These are produced as a byproduct of fatty acid metabolism and are what your brain uses for fuel when your blood sugar levels are low.
+How do muscles breakdown and give energy during a workout?
+thank you, this is exactly the thing I was referring to.
+Don't neglect carbohydrates as a fuel source.
+The biochemistry of muscle vs fat breakdown is unfortunately different from how we would like it to be.
+As for ketosis not being sustainable, I am not sure, do you have references for that claim?
+It's hogs like 20% of total energy.
+you're in a normal fasting state).

@@ -1,0 +1,8 @@
+Here is the summary:
+
+What can i overclock that to? And will a dark rock 4 be okay for cooling also will it bottleneck running at 1080p?
+I got mine to 5.2 ghz with EVGA CLC240 in a h400i case and for max temps of ~60-65c so I took it down to 5.0 ghz and now max is like 55c.
+Edit: just checked my voltage and it’s max is set at 1.20v with a min of 0.60v
+Probably pretty high. That is a solid cooler so you shouldn’t be bottlenecked in that area. The only determinant should be silicon lottery for you
+It’s basically when CPU’s are made in a factory, the small variances in the manufacturing process like what part of the silicon the die is cut from or any dust in the factory can affect the quality of the processor.
+Yeah don’t rush installing the CPU in the motherboard. I thought I bent some pins installing mine lol it’s pretty terrifying. Just watch a lot of YouTube videos and you should be good

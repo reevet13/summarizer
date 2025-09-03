@@ -1,0 +1,88 @@
+Original Response:
+This is the one thing I can't find on descriptions of various gene therapies.  It seems to me that injecting a single altered strand of DNA  would be out-competed by the billions of inherited copies of your DNA.  How can one altered cell dominate over all the others?  What am I missing here?
+[deleted]
+That's because you don't just inject naked DNA. I'll explain :)
+
+First, a virology lesson. Some viruses, when they infect you, insert their DNA into your DNA. They literally become part of your genetic code. When this happens, your cells unintentionally follow the instructions that are coded on that DNA, and make more viruses.
+
+In gene therapy, we take advantage of that. We genetically engineer a virus to carry the DNA of a gene we want to insert into the patient. We also engineer the virus to not kill the patient because death would make measuring the gene therapy outcome difficult and because killing patients is bad.
+
+We then infect the patient with the virus. It inserts itself into the DNA of a cell, replicates, and inserts itself into the DNA of another. This continues until your immune system gets wise and stops it. Hopefully by then the virus has deposited the gene into enough of your cells!
+
+Note: You usually don't need to insert the gene into *every* cell. Just enough to restore whatever function was lost. Sometimes you *don't want* to insert it into every cell, because the gene you are replacing is only meant to be active in, say, the liver or the pancreas; you don't want in the brain!
+
+Also note: Gene therapies are highly experimental and don't work very well. Problems include inserting DNA in the wrong place and causing millions of tumors. And sometimes you get cytokine storms.
+Okay.  So the aim is to reach a critical mass of "infected" cells and then by dint of having a greater prevalence of modified cells, their "different" instructions out-compete then "normal" instructions?
+
+Follow up: if you want to only affect the liver, say, do you then inject the virus into the liver?  I read on wikipedia that somatic gene therapy involves a random injection area.  So, the virus (or delivery method) is selected based on where the desired effect is, well, desired?
+
+Thanks!
+You usually don't need every cell to carry the gene. As long as some of the cells are working correctly, the disease will be cured. Even if only 1% of the cells are corrected that may provide enough function for the person to live comfortably.
+
+Regarding targeting specific organs or cell types, we aren't very good at it. Typically, if we want to insert a gene into the liver we will take a virus that naturally targets the liver, such as the Hepatitis C virus.
+I think I get it.  So there's no competition between different cells with different DNA strands.  As long as the necessary proteins are built, the disease gets cured (as long as the original DNA in all the other cells don't bring forth the conditions for disease again in the future).
+
+Cheers!
+
+EDIT: though I suppose the hope is that the modified cells will continue their lineage and continue producing the proteins to keep the disease at bay.  Hmm.
+Correct me if I'm wrong but I was under the impression that gene therapy is not permanent solution and, as the technology stands now, the best we can do is alter somatic cells to behave differently and then repeat the entire treatment again when those cells die from aging.
+
+Has gene therapy progressed enough in the past few years that the effects have become permanent?
+I'll add to what was said a little. To change something in the whole body using gene therapy is basically impossible since you'd have to insert the new dna into every cell. What can be done, however, is insert the gene at a very early stage of development when the organism is just a few cells. These modified cells will replicate and all their daughter cells will carry the modification. This has never been tried on humans due to low success rate in animals.
+I think a little more clarification is needed.  Gene therapy, as it experimentally exists now, is mostly focused on expressing proteins that are missing or lacking.  We're not really at the point of removing defunct genes and replacing them with better ones.
+
+Viruses are the best way (currently) to insert new DNA, as other vectors don't have the innate ways to bypass the numerous hurdles (entering cells, not being degraded, getting into the nucleus) like viruses do.  They don't always put the DNA right into your genome, sometimes they can put the DNA as an episome...kind of forming something similar to how plasmids work in bacteria.  
+
+The reason your cells care about this new DNA is the same reason they care about any of your genes...promoters.  Most gene therapy involves inserting genes with lots of fancy enhancer sequences and promoters as to really heavily promote expression.  As mentioned, your immune system gets wise to the viral insertion and/or episome and usually inactivates expression after a certain time.  There is a lot of research currently focused on evading the immune system to prolong expression.
+Populations of fully differentiated cells (the mature, usually not dividing cells that make up most of you) are replaced by tissue specific stem cells.  Basically, the stem cells divide and roughly maintain their numbers while turning some of their daughters into more mature cell types.  This lets them do it indefinitely.  You have populations of stem cells making your intestinal lining, blood, and skin, for example.  In each case there is a specific type of stem cell that turns into these kind of tissues, ie skin stem cells make skin, blood ones blood.
+
+ If you incorporate your gene into these stem cells then the gene is incorporated into their progeny, and therefore the population of modified mature cells can be maintained.  So, in this case, it would be permanent.  
+
+[This has been done with hematopoietic (blood) stem cells, for example.](http://www.sciencemag.org/content/326/5954/818.short)
+It might help if you think about the disease state resulting from there not being enough of something.  If you simply don't have enough of a particular protein, for example, making more of it from a small population of cells can fix the problem.  The original DNA in the other cells just can't produce the product, or produces a non-functional product.  These are the types of diseases that can be treated with gene therapy tools we have today.
+Targeting stem cells is the logical choice but the abstract you linked makes no mention if the change was permanent or not.
+
+HoboZoo pointed out that our cells have mechanisms in place for deactivating these insertions down the road. Any news if this has been overcome or not?
+First off in gene therapy we don't infect a single strand. We inject millions of small (25-40 bases) DNA segments. These segments will come in and fill in the missing spot on your DNA. This is why you need to keep getting injections.
+I have never heard of that. Most gene therapy drugs need to be site injected. The one for blindness for example needs to be injected into the eyeball. Which is apparently painless.
+Let's say you wanted every cell, or at least a lot of cells "infected" would one just increases the dosage/injections site? I guess an example would be performance enhance, like making muscle more efficient at using glycogen. 
+
+I guess as a natural continuation, is it forseeable in the near future for gene therapy be used for enhancements?
+Ah, sorry, I forgot that you didn't have the full paper.
+
+It looks like they followed these patients for at least 2 years and it was still working.  Seems pretty good to me.  
+
+I don't really know too much about this, not really directly related to what I do, but it appears that you can do some things with [how you design the insert](http://www.ncbi.nlm.nih.gov/pubmed/19632138).  [Using HIV based vectors, as they did in the paper I cited above, might help](http://www.pnas.org/content/95/20/11939.full.pdf).  And it looks like [infecting fetuses is effective](http://www.nature.com/gt/journal/v10/n15/abs/3301991a.html).  
+
+I guess one difficulty is, if it lasts for at least two years, who's really going to have the time to test variants that last longer?
+Well, if you're talking about viruses, in general more viral particles makes more infected cells.  But you can't inject too many or you could generate a fatally strong immune response.
+
+I'm not sure about using gene therapy on adults as enhancements.  As others have mentioned, it's very difficult to stably change a significant number of cells in adults (contrasting adults with embryos of one or few cells), and I'm not sure of all that many things that could enhance humans with limited expression.  I'd have to think about it.  Probably easier to use chemical inhibitors for a lot of purposes.
+Could this happen naturally or independently without human intervention? 
+
+In other words could I potentially catch a virus that would alter my genetic makeup?
+Yep. This happens all the time. Our DNA is full of old viruses. You have absorbed several in your lifetime.
+http://learn.genetics.utah.edu/content/tech/genetherapy/spacedoctor/sd.swf
+Do you have a source for this? I have never heard of these kinds of treatments, nor can I imagine how they would be effective.
+I manufacture them. They fill in defective gaps in your DNA. Not that hard to imagine.
+Do you have a link to a source for this? I am having trouble imagining a "gap" in your natural DNA. To the best of my knowledge, such defects are not tolerated in vivo.
+I am the source for this. I manufacture and research gene therapy drugs. It's not just gap, there are small defects or gaps in people with genetic diseases. The drug replaces these.
+From here you just look like a guy on the Internet. I can't see your educational history, your employment history, your qualifications and certifications, or even your warm trustworthy smile. What company do you work for? Maybe I can glean some information from their website?
+How about no.
+Well, I've been thinking about it, and I suppose this is possible in some cases where you can't change that many cells.  Though it isn't a good idea, you could express signaling molecules like erythropoietin (more red blood cells) or testosterone (crazy changes everywhere) to "enhance" someone's athletic performance.  Mind you, they would also probably kill you in the long run---- you don't want to mess with stuff like that.  More red blood cells can give you a heart attack, and exogenously produced testosterone will shrink your balls if nothing else.  
+
+TLDR: actually enhancement with current tech isn't so impossible.  Now, is it safe or ethical?  Those are hard questions.
+
+Summary:
+I think I get it.
+I am the source for this.
+Note: You usually don't need to insert the gene into *every* cell.
+You usually don't need every cell to carry the gene.
+I manufacture and research gene therapy drugs.
+We genetically engineer a virus to carry the DNA of a gene we want to insert into the patient.
+First off in gene therapy we don't infect a single strand.
+Hopefully by then the virus has deposited the gene into enough of your cells!
+It inserts itself into the DNA of a cell, replicates, and inserts itself into the DNA of another.
+Most gene therapy drugs need to be site injected.
+What am I missing here?
+This is why you need to keep getting injections.

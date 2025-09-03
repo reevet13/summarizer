@@ -1,0 +1,13 @@
+Here is a summary of up to 250 words extracted from the original text:
+
+A graviton is not necessary for a Theory of Everything and there is no direct evidence that gravitons exist.
+
+I'm not sure why you think having two incompatible equations is "silly"; it's simply a side-effect of our ignorance. Reconciling them is the most important problem in modern theoretical physics.
+
+The higgs and the graviton cannot be combined in the fashion you mention unless you are able to re-write the standard model in a way that makes sense and which is at least as successful as the current one at making predictions.
+
+If the gravitational field is quantized then it's carried by a gauge boson. The relationship between the graviton and gravitational radiation (which we've indirectly observed) is the same as the relationship between the photon and electromagnetic radiation.
+
+No, the simplest reason is that the Higgs is a massive particle, and so it would correspond to a short range interaction (much like the weak interaction). Since gravity is long range, one would expect a massless mediating particle.
+
+Similarly, the photon must couple to the charge/current 4-vector (Jμ) and so must be a vector (spin-1) to produce a Lorentz invariant Lagrangian.

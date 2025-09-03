@@ -1,0 +1,29 @@
+Here are the selected sentences from the original text:
+
+Looking directly up while holding my arm out, I can place my index finger and thumb about one inch apart and roughly cover the visual diameter of the moon.
+
+Shouldn't taking a picture with the camera at arms length result in the image of the moon approximately the same size as what my naked eye could see?
+
+The easy answer is that you did not enlarge the picture enough. If you blow it up, the moon will eventually cover the size you want it to on the picture.
+
+You could always use the camera the first guy used.
+
+For Diagrams : http://en.wikipedia.org/wiki/Lens_(optics)
+
+Notice that as you move your object further and further away, the size of the object (represented by the blue line on the right side) becomes smaller, and would decrease to a point when the object went to infinity (the line going through the center of the lens would be along the middle line / optical axis).
+
+As you move the object closer to the focal length, the image size becomes amazingly large and comes to a focus at an infinite distance.
+
+You can play around with that equation to see that in fact if you want an image of an object at infinite distance, it will appear at the focal point, (1/infinity = 0 => 1/f = 1/i => f = i )
+
+In these cases, your 1/i can't change very much, nor can 1/f, so you have a limited range of focus.
+
+Assume you have a lens with a certain focal length.
+
+1) Parallel rays to the optic axis (that is going directly to the right or left) which hit the lens, will be bent to cross the focal point on the opposite side of the lens.
+
+2) Rays which pass through the center of the lens are not bent at all but continue going.
+
+[Look at this picture for a moment](http://upload.wikimedia.org/wikipedia/en/7/72/Angle_of_view.svg)
+
+I hope it is clear that if you pull that little square backwards, to maintain the entry point, the big box must get smaller and smaller.

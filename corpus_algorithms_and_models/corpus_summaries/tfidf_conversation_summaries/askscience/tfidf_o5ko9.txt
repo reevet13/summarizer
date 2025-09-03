@@ -1,0 +1,50 @@
+Original Response:
+Recently there was a gif of an egg being sucked into a bottle by a candle on the frontpage. The explanation is that the heated air inside the bottle cools down after the flame is snuffed out from lack of oxygen inside the bottle, and as the air cools, it shrinks and the outside pressure pushes the egg in. 
+
+Now my question: I've shown this gif to my family and both my college educated parents insist that part of the suction is from the fire "sucking up all the oxygen in the bottle, and lowering the pressure".  I have tried to explain that the oxygen isn't being condensed nor is it leaving the bottle, so that cannot be the explanation. 
+
+Can anyone demonstrate that fire puts out more gas than it consumes? I don't have the right words to explain that cold air plus fuel equals lots of hot smoke. 
+
+Hypothetically if the smoke was the same temperature as the fresh air beforehand, would it still have more volume?
+Show them the reaction. Candle wax is something like C25H52, some HUGE hydrocarbon.
+
+So:
+
+&gt;C25H52 + O2 ----&gt; CO2 + H20
+
+This is a beautiful teaching moment to teach stoichiometry and the relationships between moles and balancing equations.
+
+Edit: Candle wax, assumedly being paraffin, with a chemical structure of CnH2n+2. http://en.wikipedia.org/wiki/Paraffin
+Assuming C2H6 is wax (or some form of wax) balancing the equation above gives:
+
+1 C2H6 + 3.5 O2 ---&gt; 2 CO2 + 3 H20
+
+because C2H6 is a solid or liquid prior to combustion is does not contribute to the pressure. So you have 3.5mols of gas before, and 5 mols after. Thus combustion turns a solid/liquid into gas! This is true for any combustible material. 
+
+Is this the answer the OP was looking for?
+Shouldn't the gas fill a larger space than the solid it came from raising the pressure and pushing the eggs off the top?
+Most of that H20 won't be gas after the reaction. It should condense out as liquid water, since at room tempature it must be less than 1% or so of the gas in the jar. Since oxygen acounts for 20% of air, and assuming you use most if not all of the oxygen, most of the water will not be a gas. So you are really going from 3.5 mols of gas to 2.0 mols of gas. 
+
+This will mostly occur after the jar cools, since while the candle is burning the air will be hot and the water will be gaseous. I figure most of the affect is really from the rapid condensation of water vapor when the air cools. 
+
+So the hot air explination really isn't the whole story.
+This is a very good point. 
+
+Keep in mind that both the low pressure and the high temperature will cause additional water to remain as a vapor, this will still likely be small. Thus, the reduction in pressure would be a result of the combined effect of thermodynamic cooling of all gasses trapped inside and the condensation of the water vapor.
+Yes, the egg gets sucked in after the flame goes out and it begins to rapidly cool, the cooling is why the egg gets sucked in
+If a different compound was burned, one that gave out much more moles of gas than the starting ingredients, would the egg pop off instead or is it always limited to falling inside from the air contraction.
+C2H6 is ethane, a gas. Carbon chains don't become solid waxes until &gt;C12.
+
+The equation you gave still shows the same overall effect as a longer chain, however.
+e.g. C25H52(s) + 38 O2(g) ---&gt; 25 CO2(g) + 26 H2O(l)
+
+
+Still a reduction in gas particles (and hence pressure) by a factor of ~1.5x.
+Yes. The egg would pop off if the reaction generated more moles of gas than the reaction started with.
+The thing is that when the wax burns it is actually reacting with (i.e. *using up*) oxygen. You end up using up more oxygen molecules in the reaction than the number of carbon dioxide molecules you make.
+
+Summary:
+This will mostly occur after the jar cools, since while the candle is burning the air will be hot and the water will be gaseous.
+I figure most of the affect is really from the rapid condensation of water vapor when the air cools.
+C2H6 is ethane, a gas.
+Most of that H20 won't be gas after the reaction.

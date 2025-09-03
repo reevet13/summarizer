@@ -1,0 +1,19 @@
+Original Response:
+I understand how the molecules are arranged in a solid as opposed to a gas or liquid, so what defining features allow some solids or liquids to be transparent while others are not?
+Light passes through the structure or is absorbed and then re-emitted in the same direction with the same intensity.
+Yes, but why do photons pass through some things and not others?
+Their electron configuration, essentially. I'm not a chemist or a physicist, so I don't know the specifics, other than that it's not very simple.
+Thanks to quantum mechanics being quantised, electron energies are...well, quantised. In any given quantum system of atoms, there are certain allowed states that the electrons may be in, corresponding to certain allowed energies that the electrons have.
+
+When a photon comes in, it has a certain amount of energy of its own, and may interact with the electrons. However, it can only pass on its energy if the electron energy + the photon energy is also an allowed electron energy. If not, there is no way for the electron to exist with the new amount of energy, so the photon doesn't interact with it and the material is transparent to that photon.
+
+This is the basic idea behind one of the main causes of non-interaction, but of course in reality things are much more complicated. For instance, the photon may give the electron some energy but also excite a phonon (a little packet of vibration energy), leading to a wider range of possible interactions. Another phenomenon is that the electrons may have very broadly defined/allowed states, causing a wide range of possible absorptions and a broad range of opacity. Yet another is that electron transitions may only have a significant probability of being excited by certain kinds of photons, such as circularly polarised ones but not linearly polarised ones.
+
+A superb example of electron transitions being important is semiconductors. These have three areas of electron energies. First, all the low energies may be occupied by electrons, as there are allowed electron states with all of them. Second, there is an area of totally forbidden energy, in which electrons just can't exist (the 'bandgap'). After this is another area where all the energies are allowed again. These materials exhibit the property of being mostly transparent to photons up to a certain energy, after which they suddenly become mostly opaque as the photons start being able to push electrons across the bandgap, so they can and do start interacting with the electrons.
+[See here for a discussion about silicon crystals vs diamond crystals.](http://www.reddit.com/r/askscience/comments/jvmnu/is_it_possible_to_make_a_silicon_diamond/c2fhz93) There are two potential answers that are basically the same answer, though mine got downvoted a bit, I think because people thought I was being sarcastic.
+thank you!
+wow, the picture of the silicon in the infrared spectrum is amazing!
+
+Summary:
+When a photon comes in, it has a certain amount of energy of its own, and may interact with the electrons.
+These have three areas of electron energies.

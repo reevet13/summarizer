@@ -1,0 +1,29 @@
+Original Response:
+I took a low-level linguistics course in college, but I've forgotten most of what I learned and I don't think this question was ever answered/even remotely addressed.
+
+When the earliest languages were developed, what might have led to the creation of the first regional accents? I'm guessing it probably had to do with population bottlenecking, but what might have caused these early creatures to develop different pronunciations in the first place? Is this something that "just happens"? Or do we already know the answer? Or can we learn from listening to animals like whales, dolphins, and apes?
+it did "just happen" ... anything else is mythmaking because we don't have the history.
+Not exactly sure if this is what you're looking for, but...
+New Guinea is an interesting case where language underwent a rather extreme divergence. You can encounter a new language every few miles. The explanation is essentially that when two groups live in close proximity to each other and are in direct compitition, there is an advantage for your group to understand eachother while the other group does not know what you're saying. 
+I'm not exactly certain if regional accents are the first stages of language splitting and I don't have a source (heard during a talk).   
+
+EDIT: Remembered it was a TED Talk: http://www.ted.com/talks/lang/en/mark_pagel_how_language_transformed_humanity.html Jump to 13:00 for the part I mentioned if you don't have 20 minutes to spare.
+&gt;but what might have caused these early creatures to develop different pronunciations in the first place?
+
+First ask yourself : is language static? Or does it change over time?
+
+If your answer is that it changes over time, then ask yourself this: if there are two or more fairly separate populations with common origins and language, how reasonable it is to expect that the language will evolve in EXACTLY the same way in ALL of these loosely connected populations? 
+
+Is it at all probable that every single word and every single syllable, while changing organically over time, will somehow manage change in exactly the same way in several different populations?
+
+Of course this is grossly oversimplifying it, but serves to show the concept. In reality there would be some exchange between populations and there are some laws that sometimes govern the changes, but the point is that unless you can guarantee that every single word remains the same - or, even more unlikely, changes in exactly the same way in all of these loosely connected populations - over decades and centuries you end up with several slightly different versions of the same language. I.e. dialects.
+It's probably misleading to posit some prehistoric "Mother Tongue," as your question suggests. We're still not entirely certain whether *H. sapiens* arose in one geographic location, or whether we're the result of many earlier populations of earlier hominid species developing and communicating genes, and incidentally language.
+
+Still, to see how dialects emerge it only takes a simple (and overly simplified) thought experiment: what do you suppose would happen were you to take 200 people who share a common language and split them between either side of a 200 square-mile island bisected by a nearly impassable mountain range, so that communication between populations is difficult and rare? Suppose the eastern half was primarily grassland and had abundant grazing animals, and suppose the western half was forest, with less large animal life, but thriving fish stocks. Odds are good that the westerners would eventually take the common stock of nouns denoting sea-life and ellide them, or otherwise render them easier to pronounce, simply because they are more likely to use those words more often. The verbs related to fishing and boating would likely become irregular given time (commonly used verbs tend to become irregularly conjugated over time--consider the English verb "to be," for example). On the eastern half the nouns regarding grass and grazing animals would undergo a similar simplification, as would nouns and verbs about the hunting and dressing of game. Both sets of commonly used nouns would probably become enriched by new words denoting gradations of experience, and reflecting familiarity. The cliche about Eskimos having 40 words for snow does reflect a reality of linguistics, even if it isn't true.
+
+This isn't the whole story by far, but it gives some idea of why different populations with a common ancestry diverge in language.
+
+Summary:
+Or does it change over time?
+First ask yourself : is language static?
+I'm guessing it probably had to do with population bottlenecking, but what might have caused these early creatures to develop different pronunciations in the first place?

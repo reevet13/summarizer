@@ -1,0 +1,7 @@
+Here is a summary of about 10% of the text (up to 250 words):
+
+Can anybody fill me in on what is going on with the modding? I have been out of touch with this game for some time and would like any info on any news, thanks.
+
+Hey man not to be a dick but if you google “Dayz modding” you’ll probably find what you’re looking for, as you haven’t exactly asked us what you’re looking for.
+
+server files have been released, but there are no modding tools. this means if you have a server and know some basic coding skills you can 'mod' your server in a very basic way without tools. changing variables and such. tools will make modding 1. a lot easier for skilled modders to make large changes and 2. a lot easier for less skilled modders to get involved

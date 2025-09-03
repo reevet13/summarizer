@@ -1,0 +1,13 @@
+Original Response:
+I haven't monitored my glucose levels in a while to be able to verify that it's low EVERY time that I don't eat for hours, but I know that in the past, it's been low when this situation has occured. Why do I feel nauseous and lose my appetite when my sugar is low, rather than more hungry? Thanks!
+[deleted]
+When your blood sugar is low, [glucagon](http://en.wikipedia.org/wiki/Glucagon) is released into your blood stream by your pancreas. (glucagon is a hormone that tries to increase the amount of sugar in your bloodstream) This glucagon can induce hunger but can also [cause a feeling of nausea](http://en.wikipedia.org/wiki/Hypoglycemia#Glucagon_manifestations).
+Ok, so what is it about glucagon that would make one nauseous?  Or give them a headache?  These seem counter productive if blood sugar is low.
+I was trying to find the answer to this while responding initially, but I couldn't get a firm answer.  I have not taken endocrinology yet so I can only speculate.    
+
+I was trying to come up with a mechanism based on acid-base balance where glucagon increased fatty acid metabolism resulting in an increase in [ketone bodies](http://en.wikipedia.org/wiki/Ketone_bodies) and led to a [ketoacidosis](http://en.wikipedia.org/wiki/Ketoacidosis).  Ketoacidosis being a [metabolic acidosis](http://en.wikipedia.org/wiki/Metabolic_acidosis) would result in nausea, vomiting, and headache.  This seems like kind of an extreme mechanism though and is something associated with hyperglycemia...   
+
+Maybe someone else can field this question?
+
+Summary:
+These seem counter productive if blood sugar is low.

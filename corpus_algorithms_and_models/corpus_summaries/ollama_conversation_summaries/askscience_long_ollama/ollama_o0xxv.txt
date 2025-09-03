@@ -1,0 +1,17 @@
+Here is a summary of up to 250 words, consisting of sentences copied verbatim from the original text:
+
+A sidereal month is 27.321661 days (time for the moon to go around earth once) and the moon's orbital period is 27.321582 days.
+
+This means that each lunar month rotation of the moon around the earth we should see the moon rotate (27.321661-27.321582)*360 =0.028 degrees. A very small amount.
+
+The Earth rotates faster than the Moon orbits, so the tidal bulges on Earth lead the Moon by a small amount.
+
+As the Moon drifts away, its orbital period increases.
+
+Early in the Moon's history, it rotated much faster than it does now, but tidal effects slowed it down and brought to the synchronous rotation state it currently is in.
+
+The Moon's rotation may still be slowing down slightly, I'm not sure. Maybe someone else can shed some light on that.
+
+It seems intuitive that the moon's rotation from earth (ie. what side we see) would slow asymptotically due to tidal effects, so the that rotation as seen by an observer on earth will never be zero, just very small and getting smaller.
+
+The rate at which it is drifting away from Earth is also slowing down, so eventually it will stabilize.

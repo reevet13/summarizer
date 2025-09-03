@@ -1,0 +1,13 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+Correlation doesn't imply causation, but doesn't that mean that nothing can be proven causally...even when directly observed?
+
+You need a controlled experiment. If you can add or remove one of the conditions/effects and see how it affects the other one then you can show if there is a causal connection or not.
+
+To isolate a cause-effect relationship, one must provide convincing evidence that other possible causes are not operating to create the effect in question.
+
+Recall that hypotheses are tentatively accepted as fact, and only after solid evidence is provided. This involves many experiments, by investigators reproducing results obtained elsewhere by others.
+
+Correlation _does_ imply causation - it _hints_ that one thing might be the cause of another, and of course there can be no causation without correlation.
+
+You need evidence to back things up. If you have two observations and you want to link them together you need evidence that they are related.

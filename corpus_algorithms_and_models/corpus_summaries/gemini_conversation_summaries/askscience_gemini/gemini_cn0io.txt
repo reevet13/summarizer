@@ -1,0 +1,6 @@
+Well, there exist people without conscience, or do you mean consciousness?
+Well there are three billion base pairs in the human genome, and each could be either of A, G, T or C. The total number of possibilities for a genome that big is about:
+
+10^(1.8*10^9)
+
+That's 1 followed by over a billion zeros.

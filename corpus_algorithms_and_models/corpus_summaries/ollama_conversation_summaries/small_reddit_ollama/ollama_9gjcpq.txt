@@ -1,0 +1,9 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+I have a lot of corrupted file on my ssd and I did a clean install of windows still corrupted what should I do ??
+
+did you do completely wipe the SSD before installing windows or was it a new SSD? also the copy of the operating system it could be that, that copy could be corrupted if the SSD is new.
+
+I would try the simple stuff first connect the SSD to another computer that has windows on it and go to disk managment and try formatting the SSD completely, once that is done i would try installing windows on that SSD again, if that does not work i would get a new SSD due to maybe some bad sectors on the SSD it is rare but i can happen.
+
+I did the installing of windows 4 times and the last time I choose to format the drive and still same

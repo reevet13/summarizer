@@ -1,0 +1,79 @@
+Original Response: 
+Hidden variables may not be impossible, but if they require a field that guides particles deterministically, shouldn't we be able to measure our movement through that field (the same way we should have been able to measure our movement through the luminiferous aether, if it existed)?
+Wouldn't that provide an absolute reference frame?
+I don't see how pilot wave theory can be made compatible with special relativity.
+Am I missing something?
+It does require a preferred frame, which means there is only one foliation into spacelike hypersurfaces over which the particle trajectories are actually classically deterministic (which is the essential promise of the interpretation).
+Working in other frames, the Bohmian trajectories zig and zag in random, unpredictable ways.
+In particular, this can be understood via working out the pilot wave trajectories in EPR experiments.
+If one could observe these trajectories, one could use these random zigs to figure out (by process of elimination) which frame was preferred.
+But it is also a requirement of the interpretation that one can't ever access these trajectories at the level of granularity required to achieve this.
+So strictly speaking it is not consistent with SR, but the problem can be kept under the rug for practical purposes.
+Whether this is philosophically acceptable is up to you.
+And pilot wave adherents tend to be willing to abandon exact Lorentz symmetry as a guiding principle.
+But preferred frame aside, remember that the pilot wave interpretation is also presented in terms of fundamental particle-like entities, while the union of quantum mechanics and special relativity produces quantum field theory, where particles are not really fundamental in this sense.
+To the extent particles exist at all in QFT, they instead are more like structured patterns in the fields.
+There is no broadly accepted or worked out pilot wave interpretation of quantum fields, and the idea is not particularly promising.
+The basic problem is that in QFT there is no analogue of QM's position operator.
+In QM, particle position can make sense as the defining hidden variable in all cases.
+In QFT, there is nothing that can perform this role.
+Additionally, there is no known way to do particle creation and annihilation in a classically deterministic way, even in a pilot wave interpretation.
+So when we demand this other important feature of QFT, the whole endeavor to save classical determinism fails anyway.
+&gt; If one could observe these trajectories, one could use these random zigs to figure out (by process of elimination) which frame was preferred.
+But it is also a requirement of the interpretation that one can't ever access these trajectories at the level of granularity required to achieve this.
+Thanks!
+That is very informative.
+How does pilot wave theory require that we cannot detect the zigs and zags with enough precision to find the preferred frame?
+[removed]
+It is just a generic feature of pilot wave interpretations that the exact position of the hidden variables is experimentally underdetermined, only determined up to the standard decoherence limit.
+The variables are just fundamentally hidden, even in a nonrelativistic version.
+Basically if you use a measurement device that tries to access the fine grained trajectory information, that changes the HV inputs for your subsequent EPR experiment, or undermines it completely.
+Excellent answer.
+[removed]
+A lot is made out of the conflict between pilot-wave theory and special relativity, but shouldn't the existence of a preferred frame even break Galilean relativity?
+I’m still a physics undergraduate and so I still know very little about the topic, but I thought that the theory was incomplete at it’s current state?
+As in it could be completed so it accounts for relativity?
+If you have absolute Newtonian time anyway, absolute simultaneity is ok.
+The issue here is really with violations of relativity of simultaneity, with how nonlocal HVs bring back a secret sort of absolute simultaneity in SR.  With access to the HVs of spacelike EPR pairs, you can figure out *the* hypersurface foliation, the unique definition of simultaneity in which the laws of physics are classically deterministic.
+But maybe you're thinking of an application of Galilean relativity outside the Newtonian context which I'm not considering?
+There are generally accepted relativistic extensions to pilot wave, but they bite the bullet and accept these preferred frames.
+Roderich Tumulka is probably the top expert on this, if you're looking for papers.
+But a full pilot wave theory that can do everything QFT can do is at best a work in progress.
+I think what I'm asking is just whether the laws of physics in a pilot-wave formulation of a QM system depend on the frame of reference even if you have Newtonian time.
+Are these "random zigs" only necessary to mesh with the relativity of simultaneity in a Lorentz-invariant theory, or are they present to introduce a preferred frame even if you're just working with a Galilei-invariant Hamiltonian with definite particle number?
+The zigs are not due to Lorentzian relativity, they are due to how we try to preserve classical determinism in light of entanglement and Bell's theorem.
+So I would say the zigs still occur in Newtownian spacetime, but they don't represent problems there, due to the preexisting absolute simultaneity.
+But let me flesh out the argument in more detail and you can decide for yourself.
+Consider the Bell state |UD&gt; + |DU&gt; where we are being good Bohmians and only thinking about position observables, so U (D) = **exits** the upper (lower) port of the SG device.
+Remember our goal is *classical determinism* for the HVs.
+So knowing the state of our HVs at t1 must be sufficient to predict the HVs at t2.
+This means a real Bohmian Bell state looks like
+
+|xUyD&gt; + |xDyU&gt; where x and y represent the pre-existing HVs (u or d) for each particle.
+Essentially u (d) = **enters** the upper (lower) port of the SG because in BM, this is how spin measurements are actually cashed out.
+If we have the state |uUdD&gt; + |dDuU&gt; there is no issue, and everything is classically deterministic in all frames.
+u always determines U, d always determines D.  But Bell's theorem requires that we cannot always have it like this, or else we would have a local HV theory.
+Sometimes, the preselected state has to be, eg:
+
+ |uUuD&gt; + |uDuU&gt;
+
+In this case, if we can "see" the HVs, we see one particle go through the SG normally, but the other one gets kicked off its trajectory so it exits the unexpected side.
+Again, remember we are after classical determinism, so we have to decide once and for all which particle gets kicked.
+The solution is to say the first one we measure goes through normally, the second gets kicked.
+This is a nonlocal deterministic solution, but also an absolute order of spacelike events.
+Whenever we would locally "see" a kick, we would know that this measurement happened absolutely after the partner's measurement.
+Alternatively, we need to pre-declare a preferred foliation to simulate deterministic Bohmian time evolution of EPR pairs.
+In a Newtonian spacetime though, I think this is fine because there is already supposed to be absolute time, so we just use that foliation.
+I believe this only jeopardizes our expectations of Lorentzian spacetime.
+[removed]
+
+Summary: 
+Remember our goal is *classical determinism* for the HVs.
+Wouldn't that provide an absolute reference frame?
+Working in other frames, the Bohmian trajectories zig and zag in random, unpredictable ways.
+I don't see how pilot wave theory can be made compatible with special relativity.
+Again, remember we are after classical determinism, so we have to decide once and for all which particle gets kicked.
+If we have the state |uUdD&gt; + |dDuU&gt; there is no issue, and everything is classically deterministic in all frames.
+As in it could be completed so it accounts for relativity?
+But a full pilot wave theory that can do everything QFT can do is at best a work in progress.
+In particular, this can be understood via working out the pilot wave trajectories in EPR experiments.

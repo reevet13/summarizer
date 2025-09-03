@@ -1,0 +1,23 @@
+Original Response:
+From what I think I understand so far is that to fuse two nuclei/nucleons you need to first have enough energy to overcome the electrostatic force of the protons so that the two nuclei are close enough for the strong force to take hold?.
+
+Then I kind of get lost, do the two nuclei get a new potential energy from being in each others nuclear potential fields?
+
+If so is that then converted to presumably kinetic energy of the nuclei before they come together and then new nucleus occupys a lower energy state.?
+
+The articles I've read have all said it radiates off light and heat in this process to drop to this lower energy, is that energy from losing the kinetic/potential energy they had or is it from losing some other form of energy/mass because the wiki article said they new nucleus at rest is lighter than its constituent parts at rest.
+
+So some of the protons/neutrons actual rest mass is converted to energy which is then radiated off?
+You're essentially correct. [This](http://upload.wikimedia.org/wikipedia/commons/7/78/FusionintheSun.svg) is the process.
+Thanks but that didnt really answer my questions I had about it, specifically how does the new nucleus have less mass the its constituent parts when they are both at rest
+Mass of the constituent parts - mass of the new nucleus = mass that is transformed into energy during the process. Your loss of mass is a gain of energy because some mass is transformed into energy. 
+Without this happening, the whole process wouldn' have any purpose.
+The photons and the neutrinos carry away energy.
+Yes I understand that but what form is the energy in that is lost before the process happens, is it the potential/kinetic energy of the nuclei due to being in a potential field before it comes to rest
+
+Which if that's the case it doesn't explain difference in "rest" masses.
+
+Or are the individual nucleons actually losing rest mass and if so how is that possible, surely the 3 quarks in each baryon always give a constant rest mass regardless of it being in a nucleus ?
+
+Summary:
+Mass of the constituent parts - mass of the new nucleus = mass that is transformed into energy during the process.

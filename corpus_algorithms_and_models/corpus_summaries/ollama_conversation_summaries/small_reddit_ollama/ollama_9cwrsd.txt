@@ -1,0 +1,15 @@
+Here is the summary of about 10% of the text or up to 250 words:
+
+Although I can only confirm the article based on my own experience, I find it somewhat strange that Android devices, specifically those with dual SIM haven't caught up in popularity.
+
+It's a security issue. At my work, Android devices are banned from the corporate wi-fi because someone's Android device brought in a virus it picked up somewhere and compromised customer information to the outside world. It was a rootkit that would piggyback into the company and phone home.
+
+You can't root an iPhone unless you're Apple.
+
+It sucks for many people, but half the time it isn't even Google's fault. It's the device maker, who leaves huge vulnerabilities to skin their phones to "look different" or add functionality no one really wanted or needed.
+
+We had no choice but to ban any version of Android from running on Corporate Wi-Fi unless it was Android N or higher.
+
+Yeah, there is a problem with the device. But allowing a compromised device on the network is the fault of the mobile administrators/security team.
+
+Is it? Being able to carry a single phone instead of two is perhaps the most common complaint I have from my customers.

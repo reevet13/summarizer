@@ -1,0 +1,12 @@
+Original Response:
+I know such a list would be positively immense, but I'm wondering if one exists.  I am specifically talking about molecules that aren't part of big "complexes" like protein or DNA.  Anyone know if one exists?  I started getting curious when I read that the body synthesizes Hypochlorous acid to neutralize bacteria.
+[deleted]
+Try looking around on [Metacyc](http://metacyc.org/).  They have a whole different website for *E. coli* (Ecocyc) so they might have something similar or at least filterable for humans.
+Are you asking about the molecules produced by the human body itself? Or just the list of molecules which might be likely to be found inside the body at any given time?
+[deleted]
+This isn't likely to exist for some time.  Such a list would be staggeringly immense, and there would be no way to ever know that it was complete.  Humans are fairly homogenous as a species, but even so, there is just too much variation to keep track of at the moment due to the huge array of large molecules produced by our bodies.  Even just considering proteins, you are talking about gigantic molecules, each of which could potentially produce a lot of variants we've never cataloged before.  
+
+Perhaps some day, but I wouldn't bet on this happening in the next (say) 50 years.  It would be nice to be shown wrong, though :)
+
+Summary:
+Are you asking about the molecules produced by the human body itself?

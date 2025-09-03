@@ -1,0 +1,6 @@
+We can detect radio signals from space, for instance from pulsars or from the CMB.
+
+The thinking is that if there are civilizations that are communicating across vast distances, they are using frequencies that are not absorbed by interstellar gas and dust. Thus, it would be wisest to search in those frequency bands.
+I think that the answer might be that we don't necessarily expect to find a signal - but if we did, it would be quite something! So we look.
+Directional signals (aimed at our solar system, for example) have a pretty good chance of reaching us.
+I don't think it's particularly foolish to listen to a band of EM which is known to pass through interstellar gas and dust.

@@ -1,0 +1,51 @@
+Original Response:
+This thread is dedicated to questions that you've never really felt the need to start a thread for, but would still like to see answered/discussed.
+
+Resources:
+
+* [Old Weekly Questions posts](http://www.reddit.com/r/Guildwars2/search?q=title%3Aquestions+thread+author%3AIntigo+OR+author%3AAutoModerator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+
+* [The Official Guild Wars 2 Wiki](http://wiki.guildwars2.com/wiki/Main_Page)
+
+* [Subreddit new players guide](https://www.reddit.com/r/Guildwars2/wiki/newplayers#sidebar2)
+
+* [Subreddit returning players guide](https://www.reddit.com/r/Guildwars2/wiki/returningplayers#sidebar3)
+
+Please also consider sorting the comments in this thread by "new" so that the newest comments are at the top, since those are most likely to still need answers.
+Cheapest way to get light assassin's armor? I'm trying to gear a DPS Chrono but Assassin gear is 5-7 gold a piece and there seems to be no cheap exotic version like Zerk has.
+Why assasin's armor?
+
+The meta build uses 5 pieces of berserker armor.
+
+Anyhow. There is no named exotic armor with asassin's stats unfortunately.
+For fractals you actually use 4 Assassin's and 2 Berserkers.
+I'm trying to make him good enough for solo open world and fractals meanwhile I can afford support chrono.
+
+Metabattle Open world uses 5 assassin pieces and 2 zerk for Open World and 5 Zerk 2 Assassin for Fracs, IDK why.
+The difference might be because they're making certain assumptions about what buffs you'll have in fractals (a druid bringing spotter, 150AR with potions and the fractal mastery).
+Well, this will be very expensive then lol
+Even with potions?
+30g for a full set is not that expensive...
+
+Do your dailies and what Fractal Dailies you can do. Every day you do this you'll make enough gold for 1 or 2 pieces of armor assuming you do nothing else.
+Yes
+Sorry, replying to you twice because I didn't read this clearly enough. You don't need 2 sets. Any build good enough for Fractals is good enough for Open World.
+
+I mean I do the story with my support Chrono with zero issues.
+Honestly the difference between Assassin and Berserker, even in an organized group, is negligible. You'd be just fine using full Berserker to start off with, worry about getting the exact mix of Assassin's when/if you go for Ascended gear.
+No, it's the other way around. Any build for open world is good enough for fractals. In fractals you can make use of pots which will give you extra precision which you would lack in open world if you run a fractal specific build.
+This is objectively not true.
+
+I propose a build:
+
+Core Mesmer. Staff + Scepter Torch. Armor and trinkets are Soldiers, and all Masterwork. Specializations are Domi, Inspiration 2-1-3, and Illusions. Domi and Illusion can be random picks. To pair with 2 1 3, we are going to use no mantras or glamour as our utility Skill. Our Elite will be a racial of your choice.
+
+This build will get you through open world, if you're decent enough at dodging.
+
+This build will not get you through Fractals 10.
+Its probably because, while your crit % caps at 100% total from all sources combined, the actual numerical value on your precision doesn't and that extra "overflow" is still converted into stuff like power from your food and utility consumables.
+
+Summary:
+Any build for open world is good enough for fractals.
+Any build good enough for Fractals is good enough for Open World.
+This build will not get you through Fractals 10.

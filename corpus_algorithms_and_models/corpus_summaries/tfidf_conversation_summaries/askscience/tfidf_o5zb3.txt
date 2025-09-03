@@ -1,0 +1,782 @@
+Original Response:
+My dad is a doctors of 32 years and a question that has always puzzled him is, why are green eyes so rare, and is there anywhere in the world where they are common?
+Also, this questioned managed to stump New scientist magazine, so we turn to Reddit for answers.
+
+(He practices in the united Kingdom, if that matters.)
+[deleted]
+[deleted]
+There was [a thread a while back](http://www.reddit.com/r/askscience/comments/lp1wn/eyes_changing_color/) (and others, actually, if you do a search) in which people said that their eyes change color. The truth is that eyes *don't* change color - it's just a matter of lighting, somewhat like the white balance on a camera.
+for lighter colored eyes this is particularly relevant. eye color is a function of some of the tissue structures in your iris. the way the light scatters among these structures helps determine the color, much the way that light scatters in the atmosphere to display a blue hue. 
+
+unfortunately, i have no name to give you for this. 
+
+edit: so, as drwallyhayes said, the color (pigmentation) doesn't actually change, just the light the iris reflects, and thus, the color it's seen as.
+[deleted]
+&gt; unfortunately, i have no name to give you for this. 
+
+"Lighting."
+
+I read some of the threads DrWallyHayes mentioned and I tell ya, as a person with central heterochromia (three distinct rings, yellow-&gt;green-&gt;blue, runs on my mother's side of the family--it's probably far less rare than the Internet would like you to believe compared to the more recognizable partial, sectoral, or complete varieties), reading people talk about their eyes "changing" color was painful. Yes, my eyes "change" color...when the specific lighting they're exposed to emphasizes a different color.
+
+In fact, in photographic portraits, correct lighting for the eyes is one of the most important aspects, if not *the* most important aspect (and actually, there's a specific term for it: [Catch Light](http://en.wikipedia.org/wiki/Catch_light)) and can directly control the overall quality of the photo, as well as whatever message the photographer is trying to convey.
+[deleted]
+[deleted]
+[deleted]
+On a related note: Why can eyes change colors over time? when i was born, my eyes were predominantly brown, but are now entirely green.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Interested in this too! I think a lot of babies have blue eyes when they're born too.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+because blue eyes are caused by low levels of melanin and [Rayleigh Scattering](http://en.wikipedia.org/wiki/Rayleigh_scattering) so newborn babies haven't produced enough pigment to colour their eyes yet
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Isn't it because green eyes are a recessive gene? Over generations, recessive genes are so overpowered by dominant genes, that lately green eyes have become quite rare.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+That's not really how recessive and dominance work. They affect your phenotype -- how you appear -- but not the frequency of the genes themselves or their chance of being passed onto offspring. Some very common alleles are recessive, while the dominant versions are rare. For example, [**polydactyly**](http://en.wikipedia.org/wiki/Polydactyly) (having extra fingers) is **dominant**.
+
+Whether or not genes are common has more to do with the fitness they provide an organism. If having extra fingers were beneficial and led to individuals having more offspring, then there would be higher instances of polydactyly.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Here is an article that may be of interest: http://discovermagazine.com/2007/mar/eye-color-explained
+
+A lot of genetics is not as simple as Mendel's pea experiments might lead you to think.  It is more likely that many different genes play a role in determining eye color (which is a spectrum of colors really, not just 'green' or 'blue').
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+So even having different colored eyes is related to natural selection, "survival of the fittest." Thanks for clearing that up. I was just wondering though, chimps have brown eyes. Are/were there ever any genetic mutations that changed their eye color, or did that start after we branched off from their common ancestor?
+
+I remember my biology teacher saying that red heads would be completely extinct in a few generations. Would that be because red hair is a recessive gene and will be doomed eventually because of probability, or because people tend to choose partners who AREN'T red haired?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Is that why entirely African (genetically) people generally have dark eyes? Their bodies contain a lot of melanin, hence dark skin?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+This is very true. Mendel figured the basics out mostly because he picked traits that have distinct, qualitative phenotypes that were only controlled by the expression of a single gene. This tends to be the exception rather than the rule, but it's still taught in schools because it provides a clear simplified way of explaining the mechanism of why traits are passed on or not.
+[deleted]
+[deleted]
+[deleted]
+It is probably not eye colour itself which is being selected for/against. There is a significant association between eye, skin and hair colour [(link)](http://blogs.discovermagazine.com/gnxp/2009/02/what-does-eye-color-have-to-do-with-skin-color/) (which makes sense when you consider that all involve pigmentation). 
+
+In high-UV areas (e.g. near the equator) dark pigmentations offer more protection against UV radiation, and hence indigenous populations here are predominantly dark skinned. In low-UV areas (e.g. northern Europe) light pigmentations are required to permit UVB-induced synthesis of previtamin D3 (particularly in females, as relatively high amounts of vitamin D3 are required during pregnancy). This has resulted in the distribution of skin colours which we observe in populations today, and (by association) eye colours.
+
+As for your biology teacher, I would say that they either had a conceptual misunderstanding of their own, or that something got very mixed up in their explanation to you. (And I say that as a science teacher myself)
+[deleted]
+The only way to get rid of any phenotype, recessive or dominant, is to eliminate the allele that causes it from the population.
+
+Remember the formula: p^2 + 2pq + q^2 = 1
+
+where p and q are the ratios of the alleles in a population. If the recessive (q) is very low frequency, the appearance of the corresponding phenotype will be even lower (q^2 ). But it only changes in relation to the rest when its frequency becomes lower in the population. So as long as redheads are reproducing as fast as the rest of the population, the phenotype isn't going anywhere.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+We're removing speculative comments.
+We're removing comments that are rooted in speculation.
+[deleted]
+I also have a question. I wasn't able to find statistics on Google. Are green eyes actually rare *among* the light-colored eyed population? Or is it just that a vast majority of world population (anyone who's not white, really) have dark eyes?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Melanocyte neural crest migration occurs posteriorly to anteriorly in the iris.  As the population of these cells migrates forward, typically babies eyes change from bright blue to green to hazel to brown depending on how diffusely distributed these cells are throughout the parenchyma.  This process occurs during the first few months of life.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[this guy](http://www.reddit.com/r/askscience/comments/o5zb3/why_are_green_eyes_so_rare/c3eo67s) says eyes change color, who's right?
+[deleted]
+The post I responded to asked about color changes from day to day. Eye color only changes with [other major changes in the body](http://en.wikipedia.org/wiki/Eye_color#Changes_in_eye_color) such as puberty, pregnancy or trauma - in which cases the change is permanent, not temporary.
+[deleted]
+[deleted]
+But.. isn't what he said true, strictly pertaining to the question?
+
+The question the OP put was "why are green eyes so rare"?
+
+Therefore one could say that green eyes are rarer because the gene behind them is recessive.
+
+If the question was "why are the genes for green eyes so rare?", then his answer would've been wrong, and yours would've been right. But it wasn't. Like you said, the OP's question was about phenotypes.
+Eye colour is highly polygenic and not entirely understood. While some of the Brown vs. Blue in European populations genes have been worked out (OCA2), the mixtures that make up intermediaries are not entirely clear. What would start off as a binary state becomes very messy when you start adding in 11 other SNPs with incomplete penetrance and variable dominance terms.
+
+In other words, anyone who says they know definitively isn't being completely honest.
+
+http://www.snpedia.com/index.php/Eye_color
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+This thread is like a bad comment holocaust.
+
+So I have green eyes. The current thought behind green eyes is that a thin layer of yellow pigmentation overlays the "blue" color of an iris, and the result is a yellow color. The gene responsible for this yellow pigmentation is completely separate from the brown/blue gene; thus, to have green eyes, one must have a low concentration of melanin in the iris AND produce the yellow pigment. Of course, we're talking about gene networks here so in reality this isn't cut and dry as all that, but it's a good approximation. 
+
+As for the rarity, that's just simple population genetics. The alleles for green eyes, whatever their nature, are simply less common in European and Middle Eastern populations than brown or blue. Hence, they are less likely to be observed. Since eye color is usually not selected for or against when people choose whom they wish to mate with, the frequency of the "green allele" remains more or less the same.
+
+Credentials: I'm a genetics postdoctoral scientist.
+[deleted]
+gotcha, i mistakenly guessed the context of the deleted comment
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+I would like to know this too. I saw the Reddit post months ago about the rarest eye colors in the world population, but I wonder how the predominantly brown-eyed Asian populations are skewing the percentages.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Well, yes and no.
+
+The reason both their eyes and their skin contain melanin is because it has a protective effect against high levels of solar radiation. But the function of melanin in the eye is different than in the skin.
+
+Melanin in the skin protects against UV radiation and consequently skin cancer and sunburns. 
+
+Melanin in the eyes helps absorb light which can allow people to see better in "high-glare" situations, such as those caused by the sun.
+
+So it's not that they "have a lot of melanin" and it somehow ends up in both their eyes and skin; the amount of melanin in the eyes and skin are controlled by different genes and a person can have light eyes and dark skin or vice versa. But as you note, the former is not very common, and the reason for that is because melanin has an important protective effect against high levels of solar radiation in both the eyes and skin, so peoples historically exposed to solar radiation tend to have both dark eyes and dark skin.
+[deleted]
+The two are linked. The gene frequency affects the phenotype frequency.
+
+In terms of the OPs comments...
+
+* Green eyes is not controlled by a single gene like they implied. It is polygenetic
+* Even if it were a simple case of monogenetic inheritance, this would not account for the rarity of green eyes in the population. If the frequency of the dominant and recessive genes were equal, approximately 25% of the population would have green eyes
+* Recessiveness would not cause a change in frequency over different generations, as they implied in their second sentence
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+I have a question, just to clarify. If a baby is born with blue eyes that means it's still able to produce that yellow pigment later on which would make them become green, correct?
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+I had no idea they were rare at all.
+This is a really good tool, I think:
+
+http://museum.thetech.org/ugenetics/eyeCalc/eyecalculator.html
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+bimatoprost. It will make your eyes go from their natural color to brown. Neat side effect. Some patients with unilateral glaucoma will end up with one blue eye and one brown eye that they use the drops in.
+[deleted]
+[deleted]
+[deleted]
+This tool is flawed. It told me I couldn't have green eyes if both my parents have blue eyes. Either that's not true, or it's time for a paternity test.
+[deleted]
+[deleted]
+On the subject of skin - is there a biological/evolutionary 'advantage' or reason for fair skin?
+Not speculation - great moderators!
+[deleted]
+Blue eyes are actually not due to Rayleigh Scattering, but rather the [Tyndall Effect](http://www.itp.uni-hannover.de/~zawischa/ITP/scattering.html#tyndalleffekt).  
+
+The Tyndall Effect involves suspended particles in a colloid about the size of the wavelength of light (~475 nm for blue), while Rayleigh Scattering generally involves particles in tens of nanometers and below.
+
+EDIT: To clarify: In blue eyes there is almost no melanin, so you don't get Rayleigh Scattering.  However, you do see Rayleigh Scattering in Green and Brown eyes because melanin occurs in the .25-.64 nm range in the human iris. [Melanins and Melanosomes: Biosynthesis, Biogenesis, Physiological, and Pathological Functions by Patrick A. Riley and Jan Borovansky 2011](http://books.google.com/books?id=_nrwHujZdeoC&amp;pg=PA193&amp;lpg=PA193&amp;dq=iris+melanin+nanometer&amp;source=bl&amp;ots=qKvBHo5gYS&amp;sig=9i60r2KUFaoT7FJUIxSwmn4e-Qk&amp;hl=en&amp;sa=X&amp;ei=3MoHT8mMBYmciQLB0NCfCQ&amp;ved=0CB8Q6AEwAA#v=onepage&amp;q=iris%20melanin%20nanometer&amp;f=false)
+Is there any way to calculate the probability of an individual with one parent who had green eyes (but not themselves having green eyes) having a child with green eyes?
+[deleted]
+Actually, the advantage of fair skin helps to prevent rickets. I'm no expert on the subject but I remember my Anthropology teacher said that light skin helps in colder climates where there is less sun, in order to help preserve Vitamin D.
+
+http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001384/
+Yup! UV radiation is needed in order to produce vitamin D. In low light conditions, not enough UV radiation penetrates darker skin to produce enough vitamin D.
+
+So too much melanin for solar radiation levels = vitamin D deficiency, and too much = skin cancer, burns, and also folic acid breaks down.
+Maintenance of Vitamin D production in low-insolation environments.
+[deleted]
+[deleted]
+[deleted]
+[This image](http://i.imgur.com/IdIWH.png) explains how melanin in the front and back epithelia of the iris and the structure of the stroma create eye color. Notice the specific combination required for green eyes.
+
+*bioguy741, feel free to post to the panel thread to get a panelist tag!*
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Most of the replies to your comment have said that the advantage has to do with Vitamin D (which is true) but then attribute that to the amount of solar radiation in the environment.
+
+This is actually an incomplete explanation. It turns out solar radiation correlates with skin tone at a strength of about 60-70%. There is another explaining factor that is also very important. 
+
+The answer? Vitamin D in your food. Inuits live very far north (read REALLY far north) and yet they have darker skin than many Europeans. Why is this? It's because the Inuit diet is very high in fish which have substantial amounts of Vitamin D, while most white Europeans and Americans are often Vitamin D deficient due to our diets. Hence we have lighter skin despite having more solar radiation.
+[deleted]
+Is the reverse also true, can people with lighter coloured eyes see better in the dark, or are light eyes completely useless.
+does this also explain why my eyes became lighter (brown to green) at a later point in my life (around 13-14)?
+[deleted]
+[deleted]
+In theory, perhaps. The genetics behind human eye colour is actually pretty complicated and not very well understood. 
+
+See also - http://en.wikipedia.org/wiki/Eye_color
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+This paper seems to indicate that blue eyes have better color vision: http://www.ncbi.nlm.nih.gov/pubmed/15312034
+
+But I'm not sure if there's any advantage in low light conditions; I think for the most part there's so little light that pigmentation doesn't really matter.
+[deleted]
+[deleted]
+I wish to remind commenters that sharing personal anecdote or their eye colour is against our guideline.
+
+The most obvious reason being that we would end up with hundreds of "my eye colour is such and such, and my kids is such". This would drown out well thought out responses to OP's question that have already been posted or those yet to come.
+
+[The wikipedia article](http://en.wikipedia.org/wiki/Eye_color) may interest though who wishes to read further on this fascinating subject. It has a section on the inheretance and genetics of eye colour and the changing of eye colour as a person ages.
+
+Thank you for our constrain and put the upvote/downvote &amp; report button to good use.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Since eye colour depends partially on the light scattering within the cornea and the light reflected from the iris, the perceived eye colour will also change based on the different light condition, your clothing (as light reflects off them), and your subjective interpretation.
+Possibly. Pigmentation changes in almost every animal as it ages, so this is completely possible.
+[deleted]
+Baseless speculation on your part. Downvoted for not being science.
+
+Civilizations that associate light skin with nobility are those in which light skin is predominant, ie Northern European.
+
+There is no debate as to why skin color changes, with the limited sunlight available in northern regions relative to southern areas, light skin is necessary to prevent Vitamin D deficiency.
+
+Also light skin is of course not "rare" in populations where it was originally evolutionarily produced, such as Scandinavia. Go there today and you will find a population of extremely fair skinned people with blond hair and blue eyes. Go to Africa and you will find the opposite. There is no need for baseless speculation when we already have the science in the area.
+I am on my way to being an expert on the subject (currently writing my dissertation on vitamin D!) and you are correct.  
+
+Vitamin D does a whole lot more than prevent rickets, though.  Vitamin D regulates a whole bunch of stuff including blood pressure (it inhibits renin), the immune system, hormonal activity (including insulin), and many other important biological processes.  It is likely that many of the diseases that we consider to be diseases of the developed world are due at least in part to decreasing vitamin D.  These diseases include heart disease, autoimmune diseases, and diabetes.  And it turns out that the levels of vitamin D that you need to prevent those illnesses is much higher than the level you need to prevent rickets, which is why in the vitamin D community we think that there is a widespread vitamin D deficiency, even though we really don't see rickets very often.
+
+In the US, there are several diseases such as high blood pressure and type 2 diabetes that are much more prevalent in black people than in other ethnic groups.  This could very well be due to lower levels of vitamin D, because darker skinned people need to spend much more time in the sun to generate adequate vitamin D. 
+
+[Here is an analysis I did of vitamin D levels in NHANES, stratified by race.  You can see how drastically vitamin D changes according to skin color.  The graphs are even on different scales.](http://i.imgur.com/kzJea.png)
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Green isn't created by a single colour pigmentation of the iris, rather a combination pigments. Apparently they are most common in Northern and Central Europe.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Much appreciated! Thanks!
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+i've wondered about this, especially since my eyes have been slowly changing for the past 25 years or so.  they started out a fairly clear cerulean with a darker ring around the edge, then when i was about 12 i noticed a green section in each eye, in the lower inside corner (toward my nose).  that would go along with the onset of puberty.  however, since then they've slowly been changing from blue to green.  compared to pictures of when i was younger, it's an absolutely noticeable change.
+[deleted]
+[deleted]
+So then would [my weird hazel/green eyes](http://imgur.com/Xm02I) be a result of unevenly distributed melanin in the frontal iris epithelia?
+[deleted]
+No. That's 100% wrong. Green eye color is polygenic, and therefore does not follow Mendelian genetics, and therefore cannot be described by a Punnett square. 
+
+You could theoretically calculate this if you knew all factors influencing eye color, but that information isn't known with certainty sufficient to make the kind of calculation you're asking for.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Does the color of the iris actually affect vision?
+[deleted]
+I find this fascinating, but I don't quite get it. Would you mind explaining it in layman's terms? I had very, very blue eyes as a kid and now they're quite green. What stopped them from being brown?
+[deleted]
+Also, some people think he fudged his data a bit.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+They're doing some research at the university of Minnesota on autism linkages to vitamin d due to the somali population in minneapolis. Apparently there isn't even a word for this condition in the Somali language but it has been appearing in the Somali community there at an alarming rate. Makes sense that its rise has coincided with the advent of indoor entertainment, but of course we all know correlation != causation. I think the somalis could prove to be a very interesting control group though.
+[deleted]
+[deleted]
+Yes because it explains why the concept is not as simple as people believe it is. Though a citation saying where his info is from would be nice.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+That sounds interesting. I'd be interested in maternal vitamin D status as a risk factor for autism in children. There is some thought that autism might be due to maternal antibodies attacking the fetus, causing problems during brain development. If vitamin D helps to regulate those antibodies, then it could play a role. I don't know if there is any data supporting that line of thinking, though.
+[deleted]
+[deleted]
+There's no point in defining eye color with respect to anthropological origins. When the biology isn't even clearly understood, you can't possibly  apply the results to human behavior. You're engaging in guesswork which has no place in [/r/askscience](/r/askscience).
+[deleted]
+[deleted]
+It doesn't explain why the concept isn't simple, though: Mendel following practices that were not statistically sound[1] has nothing to do with the fact that the single-gene dominant/recessive model that Mendel came up with is not followed by all (or even most?) traits.
+
+[1] he may have stopped counting too early - when his data fit the model he expected rather than when he achieved a predetermined sample size - though apparently there is some controversy about this.
+[deleted]
+That was very useful, thanks. Also, I have never met someone with red eyes.
+I'm curious if only purely green eyes count as green when talking about the rarity of green eyes? I have green eyes, with a thin, raised hazel ring near the iris, but when describing that before, I was told they are "not green" because only 90-95% of them are purely green?
+
+If that's the case, are there any stats on partially green eyes, considering how easy it is to find people with this mixture?
+
+(downvote away. It's not like it's important determining what you're talking about in a scientific discussion...)
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+It says right in it that there are other factors at play, are both of your parents eyes completely 100% blue or are there green centers or rings, etc.
+[deleted]
+[deleted]
+think of a complete lack of melanin, like albinism
+There have been several documented regions where the incidence of multiple births deviate quite a bit from the norm, such as [1]( http://www.bbc.co.uk/worldservice/people/highlights/010607_twins.shtml) and [2]( http://www.newscientist.com/article/dn16492-nazi-angel-of-death-not-responsible-for-town-of-twins.html?DCMP=OTC-rss&amp;amp;nsref=online-news). The NIH has also studied the demographics of your question as well [3]( http://www.ncbi.nlm.nih.gov/pubmed/11441679). None of this is definitive however, there are usually other overlapping factors at play. 
+
+Anyway my point was to draw a rough analogy to show how you based your question upon a trait, not to match you with an example which would be directly correlative. I understand what you are getting at, but your question was poorly asked to say the least.
+
+EDIT- That study was not conducted by NIH, they are just making it available.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+If I understand this correctly your eyes were predisposed to be green at birth, but had not yet developed the structures and levels of melanin that would give them a greenish hue.
+a little off topic, but is it possible to have red irises without albinism? i've always wondered that.
+[deleted]
+[deleted]
+[deleted]
+Playing devil's advocate here a bit: I briefly studied this topic last year. One argument I remember against pale skin being selected for because of vitamin D levels was that the main things that are caused by lack of vitamin D do not prevent the person in question reproducing - i.e. they are not fatal, or can be fatal but are unlikely to occur until later in life. Rickets is not in this category, as I imagine it would severely impair survival in a hunter-gatherer environment, but you have said above that rickets is rare *despite* widespread vitamin D deficiency, so it's unlikely this could explain selection. What do you think? Do you think there is enough evidence for selective pressure on skin colour via vitamin D levels?
+I believe that it adds to the discussion, [though it needs a source, really](http://www.stat.ucla.edu/cases/mendel/).
+was actually going to ask the same as nixcamic, and, to be honest, am disappointed with the answer, as far as research or evidence. by which i mean, i myself have light blue eyes, and find that i see a lot better in low-light-to-dark environments than my friends, (EDIT:) and had been hoping there was an explanation at my fingertips.
+
+i found the color vision bit fascinating though.
+[deleted]
+wait, eye color can change due to trauma? like physical trauma or emotional? and also, really? where can i read up on this?
+[deleted]
+http://en.wikipedia.org/wiki/Heterochromia_iridum#Central_heterochromia
+[deleted]
+Image helps a lot. I have a question though. My eyes are normally yellowish, when I'm bored they are mostly greyish and when I'm adrenaline-pumped (angry, excited, ...) they're greenish. Is there any logic to this?
+
+-&gt; Was mentioned by multiple people on multiple occasions; I can't see my own eye color so I have no idea in how far that's true.
+[deleted]
+Does that imply that people with a darker skin color and/or that are pregnant during the local winter months are more likely to have autistic children? That sounds verifiable...
+Is that just normal beter color vision or is it related to the tetrachromato-somethingy that some women have?
+
+-&gt; sorry about not using the right word, couldn't finish it sensibly.
+It probably depends on the lighting conditions and viewing angle. There's probably some correlation between your mood and either room lighting or how you tilt your head :)
+There are really people with violet eyes?! I must see this.
+[deleted]
+It is exceedingly rare. I've never seen it.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+I have a sub question here - I have heard that people with green eyes are also less likely to develop cancer. I don't believe this is true, but I've heard it quite a lot. Is there any actual evidence behind this, or is it just a statistic because green eyes are rarer than the other kind?
+
+If it is true, wahey I have green eyes!
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+Yes green eyes are rare in among Caucasians as well. 
+Though more common than in those with darker skin. 
+
+From Wikipedia : - 
+
+They (Green eyes) are most common in Northern and Central Europe. They can also be found in Southern Europe and North Africa. In fact, Turkey, at 20%, is the country with the largest percentage of green eyes. In Iceland, 89% of women and 87% of men have either blue or green eye color. A study of Icelandic and Dutch adults found green eyes to be much more prevalent in women than in men. Among European Americans, green eyes are most common among those of recent Celtic and Germanic ancestry, about 16%.
+
+http://en.wikipedia.org/wiki/Eye_color#Green
+
+Also this link contains a map of Europe which shows the percentage of people in each country that have light eyes (Green or Blue).
+
+http://cogweb.ucla.edu/ep/Frost_06.html
+
+Thought I'd chuck in that I'm Scottish and have Green eyes, both my parents have Green eyes and both my grandmothers. The only other eye colour in my family is Blue.
+Do you know what the genetics behind having two different colour eyes (heterochromi) are?
+
+I have one blue eye and one green eye- my father has one blue and one brown, which always surprises me; I thought I'd inherit the same eye colours. Also, both my eyes were blue until about ~8 when one started getting gradually greener. Its also not completely green, its like, spreading from one side of the eye to the other so now the eye is about 75% green 25% blue.
+[deleted]
+[deleted]
+[deleted]
+This is basically true. The colors are on a spectrum of gene presence: blue&lt;-&gt;green&lt;-&gt;hazel&lt;-&gt;brown. If you have all of the "normal" pigmentation genes you get brown. Missing a few you end up green, missing a LOT you end up blue. This is why two blue eyed people ALWAYS yield blue eyed progeny, two green eyed people do not yield green eyes with any certainty, and two brown eyes can actually yield blue eyes if they happen to be missing genes that the other partner has, but both end up passing only the "broken" alleles.
+
+All babies start at blue eyes and then as the pigment migrates to the right places you find out which genes you have and which genes you are missing. If you are missing enough, you just stay blue.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+So, you're attempting to form a causal link stating that Vitamin D consumption leads to darker colored skin? That's really shaky, as there's no known biochemical pathway to convert Vitamin D to melanin.
+Plus, I contend that, being of Asian stock, they aren't any more melanized than a brown haired, brown eyed European. They DO, probably, have a higher degree of β-carotene in their skin than an European does, but their melanin content is not super divergent from a European.
+
+TL;DR: Your comment doesn't make sense chemically, and it's just a shade racist.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+&gt;So, you're attempting to form a causal link stating that Vitamin D consumption leads to darker colored skin? 
+
+I believe what (s)he was saying was that dietary vitamin D consumption relieves some of the pressure towards lighter skin which would otherwise exist in at higher latitudes.  Humans can get vitamin D either by eating it or via UV radiation.  If they have the former, they don't need the latter.  If they don't have dietary vitamin D, and solar radiation is weak where they are, pressure will exist towards lighter skin.
+
+It doesn't lead toward darker skin, darker skin is the *default.*
+
+&gt;Plus, I contend that, being of Asian stock, they aren't any more melanized than a brown haired, brown eyed European. They DO, probably, have a higher degree of β-carotene in their skin than an European does, but their melanin content is not super divergent from a European.
+
+He didn't say anything about melanin.  Didn't even mention the word.  However, melanin is just about the only significant pigment in human skin.  It's responsible for virtually all coloration differences amongst humans.
+
+As for beta carotene, I don't believe humans produce it.  Visible quantities of beta carotene in the skin is a benign medical condition called carotenosis, and is the result of diet.
+
+&gt;Your comment doesn't make sense chemically, and it's just a shade racist.
+
+His comment made perfect sense, and I fail to see how it's in any way racist.
+I think we evolved to survive in the world we inhabit. Anytime you start to remove yourself from your natural habitat, you see disease. It's the same argument for fast food, not getting enough exercise, etc. We evolved eating natural, unprocessed foods. We evolved walking/running everywhere, and not staring at the wall (at a TV or a computer screen) for hours every day. 
+
+We also evolved living under the sun. Buildings, indoor living, and sunscreen are modern developments. I think it makes sense that you see an increase in certain chronic diseases when you remove yourself from the sun, which you evolved under. 
+
+Also in nature, we tend to seek things out that are good for us. There's a reason why we think that fresh fruits and vegetables smell and taste good, but rotten milk smells bad. We evolved senses to help us figure out what's good for us and what's bad for us. Again, it's the same thing with sun exposure. We like it. It feels good. Go check out any beach during nice weather. Chances are it will be packed. 
+
+Also, rickets is not the only childhood disease associated with vitamin D deficiency. Vitamin D supplementation has been associated with a significant (80%) decrease in risk for type 1 diabetes (which is an autoimmune disease). It also may protect against other autoimmune diseases that can appear in young people, such as lupus and multiple sclerosis. 
+
+I think vitamin D is like water or oxygen...an important part of the world we evolved in. Therefore it makes sense to me that drastically reducing vitamin D, and making our environment drastically different from the world we evolved in, will lead to disease.
+[deleted]
+This is pure conjecture, but it is possible that the melanocytes underwent some nonselective apoptotic process that reduced the total number of pigment cells in your iris.  What was left was distributed in a way that left your eye with a green hue.
+Because the pigment cells stopped migrating towards the front of your iris at the point where they gave your eyes the green color they have now.  If they had continued to migrate towards the front of your eye, they would eventually top out at brown.
+&gt;I believe what (s)he was saying was that dietary vitamin D consumption relieves some of the pressure towards lighter skin which would otherwise exist in at higher latitudes. Humans can get vitamin D either by eating it or via UV radiation. If they have the former, they don't need the latter. If they don't have dietary vitamin D, and solar radiation is weak where they are, pressure will exist towards lighter skin. It doesn't lead toward darker skin, darker skin is the default.
+
+Ok, THAT makes sense. Note, however, that the poster didn't put ANY of that detail into his/her comment, making the point unclear. Alternative hypothesis: since humans have only been in North America for ~20,000 years, the "native" peoples may not have had a chance to evolve such alleles. Compare them to Europeans who have been selected for fair skin for at least 10 times that length.
+
+&gt;He didn't say anything about melanin. Didn't even mention the word. However, melanin is just about the only significant pigment in human skin. It's responsible for virtually all coloration differences amongst humans.
+
+Now you're nitpicking. You are correct, OP didn't SAY melanin. But we're talking about humans so of course melanin is the compound in question.
+
+&gt;As for beta carotene, I don't believe humans produce it. Visible quantities of beta carotene in the skin is a benign medical condition called carotenosis, and is the result of diet.
+
+Slight mistake on my part; a carotene is responsible for the slight yellow coloration that is seen in parts of Asia, just not BETA-carotene.
+
+&gt;His comment made perfect sense, and I fail to see how it's in any way racist.
+
+Actually, reading the comment and taking at face value doesn't make ANY sense because of how vague it is. Also, I'm only mostly joking about the racist part. However, assuming that ALL Inuits have the same skin tone does betray the diversity of that people and smacks of casual racism.
+[deleted]
+[deleted]
+No not necessarily, because of genetic differences. White people, for example, are more likely to have certain autoimmune diseases than black people, probably because of a genetic susceptibility.  But if you just look at white people, those with higher vitamin D have less risk of some autoimmune disease. 
+
+The study you are proposing could be done, but it needs to be more complex than that. You need to control for many different factors, such as race, age, adiposity, BMI, parity, etc. 
+
+You also don't want to use skin color as your marker of vitamin D. You want to actually measure vitamin D. If you can't do that, then time of year would be ok.
+Pure albinism involves completely colorless irises, so they end up colored pink from the light reflected back from the retina. It's quite rare, though - most "albinos" have a small amount of pigmentation, and have blue or green eyes.
+[deleted]
+&gt;Actually, reading the comment and taking at face value doesn't make ANY sense because of how vague it is. 
+
+Well, you have to take into account that the poster was replying to a thread about the pressure towards lighter skin present at higher latitudes; he wasn't positing a complete explanation, just an addendum—the importance of diet.
+
+In isolation, sure, it's a bit vague.  In context, however, it was sufficiently descriptive.
+
+&gt;Now you're nitpicking.
+
+You said the post made no sense chemically, so it seemed worth mentioning that he hadn't mentioned any chemicals except Vitamin D.
+
+&gt;Alternative hypothesis: since humans have only been in North America for ~20,000 years, the "native" peoples may not have had a chance to evolve such alleles. Compare them to Europeans who have been selected for fair skin for at least 10 times that length.
+
+Virtually all the world's far northern regions have been inhabited for roughly the same amount of time, specifically since the glaciers retreated.  Scandinavians, on the whole, are noticeably less melanized than their neighbors to the south, and Scandinavia's only been settled for ten thousand years.
+
+Sure, your theory is possible, but there really isn't much need for it, since the Vitamin D link is well established, and it's quite reasonable to assume the Inuit traditional diet has remained fairly constant over their history in North America.  I doubt there was ever a time when they didn't eat a great deal of fish.
+
+&gt;However, assuming that ALL Inuits have the same skin tone does betray the diversity of that people and smacks of casual racism.
+
+No one's made that assumption, but you came as close as he did:
+
+&gt;Plus, I contend that, being of Asian stock, they aren't any more melanized than a brown haired, brown eyed European.
+
+He spoke in general terms about Inuit skin tones, and so did you..
+
+EDIT: Also, I don't believe any carotenes, beta or otherwise, are involved in a major way in any human skin pigmentation.  It's a plant pigment, not an animal one.  The only animal I can think of with carotene pigmentation is the flamingo, and they don't produce it, they absorb it from their diet.  Alpha and beta carotene are just isomers of each other, there's no major difference.
+[deleted]
+I can tell you with fact that recessive alleles build up over time in stationary populations.
+
+Which is where a large amount of people with blue eyes would have come from, if the population had enough time to gain a substantial number of them.
+
+The green eye mutation could have just happened much later, but you're right, there's no way to know.
+[deleted]
+[deleted]
+why do the majority of black people have brown eyes?
+I'm sorry...racist? What?
+
+Vitamin D consumption leads to darker colored skin because UV radiation to the skin results in Vitamin D production, more so in people with lighter skin. You CAN overdose on Vitamin D. Hence, if your diet consists of high levels of vitamin D your skin produces more melanin so you don't create as much from sunlight. It has nothing to do with Vitamin D being made INTO melanin (which is not something I ever claimed) but has to do with the body balancing the two methods of intake.
+
+edit: Swuboo already took care of the explaining. Thanks man!
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+I have brown around my pupil then a ring of green, then a ring of blue(their very defined from each other)...is it still central heterochromia? I ask because that article only mentions 2 tones and I have 3...
+I have green eyes, but when I was born I had blue. Is it possible to develop the gene late?  
+Edit: When I was younger, it also seemed like some days my eyes would be blue, some days green. I have no idea why.
+Organisms don't "develop" genes. What happens is that, as you get older your genes' expression patters change. Pigmentation is not an exception to this. As for "changing" day by day, look up Tyndall and Reyleigh scattering; these physical phenomena are the basis for blue eyes. You know how the sky can appear as anywhere from brilliant blue to clear? Same thing with your iris. The bluish portion will change depending on light levels, colors you are wearing, etc.
+[deleted]
+[deleted]
+[deleted]
+since my initial reply was deleted; here is the insanity again::
+
+
+
+yes certainly, but some characteristics are more predominant within certain groups, and more pronounced as to their effects. twins cross all boundaries, no matter if subsets have a higher predominance.
+
+but when you start talking about specific physical differences which demarcate individuals across all strata of what we view as "normal", you are talking about genetic variables which have very far reaching implications.
+
+these are things which are passed by lineage, and multiple births, although in the same sense, is passed, is nothing in comparison to specific characteristics..
+
+specific characteristics can be passed to twins, but twins will "always" be "identical".
+
+
+edit; my initial response was deleted. why? probably racism, but everyone already forgot, so whatever. also; that i am clearly misunderstanding that all races have twins, but not all races have a high statistical likelihood to have green eyes. and that it a problem.
+This doesn't make sense to me.  Husband has hazel (light brown)eyes, I have green (on the teal side) 4 Kids: Dark Brown, very Green, Very Blue, Pale sea green. How can this be?  half of us have green, so I wasn't aware they are rare.  The mystery is the dark brown from two lighter eye colored parents.
+
+Summary:
+So I have green eyes.
+I also have a question.
+If the question was "why are the genes for green eyes so rare?
+Isn't it because green eyes are a recessive gene?
+I have green eyes, but when I was born I had blue.
+I have a question though.
+I would like to know this too.
+It will make your eyes go from their natural color to brown.
+Missing a few you end up green, missing a LOT you end up blue.
+I had very, very blue eyes as a kid and now they're quite green.
+But the function of melanin in the eye is different than in the skin.
+If it is true, wahey I have green eyes!
+The question the OP put was "why are green eyes so rare"?
+Though more common than in those with darker skin.
+Vitamin D in your food.
+The only other eye colour in my family is Blue.
+However, melanin is just about the only significant pigment in human skin.
+why do the majority of black people have brown eyes?
+I think a lot of babies have blue eyes when they're born too.
+This doesn't make sense to me.
+If you have all of the "normal" pigmentation genes you get brown.
+I had no idea they were rare at all.
+There are really people with violet eyes?!
+You can see how drastically vitamin D changes according to skin color.
+I was just wondering though, chimps have brown eyes.
+when i was born, my eyes were predominantly brown, but are now entirely green.
+I have no idea why.
+The reason both their eyes and their skin contain melanin is because it has a protective effect against high levels of solar radiation.
+I have a question, just to clarify.
+It's quite rare, though - most "albinos" have a small amount of pigmentation, and have blue or green eyes.
+The mystery is the dark brown from two lighter eye colored parents.
+It is probably not eye colour itself which is being selected for/against.
+In terms of the OPs comments...
+
+* Green eyes is not controlled by a single gene like they implied.
+As for beta carotene, I don't believe humans produce it.
+Therefore one could say that green eyes are rarer because the gene behind them is recessive.
+If they don't have dietary vitamin D, and solar radiation is weak where they are, pressure will exist towards lighter skin.
+edit; my initial response was deleted.
+Do you think there is enough evidence for selective pressure on skin colour via vitamin D levels?
+It doesn't lead toward darker skin, darker skin is the *default.
+It doesn't lead toward darker skin, darker skin is the default.
+wait, eye color can change due to trauma?
+Vitamin D does a whole lot more than prevent rickets, though.
+Humans can get vitamin D either by eating it or via UV radiation.
+[this guy](http://www.reddit.com/r/askscience/comments/o5zb3/why_are_green_eyes_so_rare/c3eo67s) says eyes change color, who's right?
+The green eye mutation could have just happened much later, but you're right, there's no way to know.
+I believe what (s)he was saying was that dietary vitamin D consumption relieves some of the pressure towards lighter skin which would otherwise exist in at higher latitudes.
+Yes green eyes are rare in among Caucasians as well.
+Like you said, the OP's question was about phenotypes.
+It's responsible for virtually all coloration differences amongst humans.
+There is a significant association between eye, skin and hair colour [(link)](http://blogs.discovermagazine.com/gnxp/2009/02/what-does-eye-color-have-to-do-with-skin-color/) (which makes sense when you consider that all involve pigmentation).
+I think vitamin D is like water or oxygen...an important part of the world we evolved in.
+It told me I couldn't have green eyes if both my parents have blue eyes.
+&gt;As for beta carotene, I don't believe humans produce it.
+Also, rickets is not the only childhood disease associated with vitamin D deficiency.
+however, since then they've slowly been changing from blue to green.
+for lighter colored eyes this is particularly relevant.
+Is that why entirely African (genetically) people generally have dark eyes?
+But if you just look at white people, those with higher vitamin D have less risk of some autoimmune disease.
+eye color is a function of some of the tissue structures in your iris.
+think of a complete lack of melanin, like albinism.
+Hence we have lighter skin despite having more solar radiation.
+The alleles for green eyes, whatever their nature, are simply less common in European and Middle Eastern populations than brown or blue.
+I don't believe this is true, but I've heard it quite a lot.
+It says right in it that there are other factors at play, are both of your parents eyes completely 100% blue or are there green centers or rings, etc.
+On a related note: Why can eyes change colors over time?
+If a baby is born with blue eyes that means it's still able to produce that yellow pigment later on which would make them become green, correct?
+You are correct, OP didn't SAY melanin.
+EDIT: To clarify: In blue eyes there is almost no melanin, so you don't get Rayleigh Scattering.
+The only animal I can think of with carotene pigmentation is the flamingo, and they don't produce it, they absorb it from their diet.
+However, you do see Rayleigh Scattering in Green and Brown eyes because melanin occurs in the .25-.64 nm range in the human iris.
+Go there today and you will find a population of extremely fair skinned people with blond hair and blue eyes.
+I think we evolved to survive in the world we inhabit.
+So even having different colored eyes is related to natural selection, "survival of the fittest."
+Notice the specific combination required for green eyes.
+Vitamin D consumption leads to darker colored skin because UV radiation to the skin results in Vitamin D production, more so in people with lighter skin.
+There was [a thread a while back](http://www.reddit.com/r/askscience/comments/lp1wn/eyes_changing_color/) (and others, actually, if you do a search) in which people said that their eyes change color.
+So, you're attempting to form a causal link stating that Vitamin D consumption leads to darker colored skin?
+Do you know what the genetics behind having two different colour eyes (heterochromi) are?
+Actually, the advantage of fair skin helps to prevent rickets.

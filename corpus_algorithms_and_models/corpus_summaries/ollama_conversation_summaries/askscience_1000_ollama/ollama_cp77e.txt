@@ -1,0 +1,15 @@
+Here is the extracted summary:
+
+The water, when kept anoxic, is clear; however, upon exposure to air (oxygen), the water turns black.
+
+Your precipitate is definitely FeS , but I'd like to know more about the origin of the samples before speculating as to why oxygen speeds up the deal.
+
+On that note, it may not be oxygen that's "speeding up" the process (oxygen will react with Fe(II) to form Fe(III) which will be reddish), but it may be the CO2 being added into the system which begins to buffer it.
+
+Reaction of molecular oxygen (O2) with hydrogen sulfide (H2S) generates sulfur dioxide (SO2), which reacts with iron cations to form iron sulfide (FeS).
+
+Maybe the easiest solution would be to filter the precipitate, redissolve it in water, and then adjust the pH using HCl. If the solution still produces H2S, then you can be pretty sure the black is FeS.
+
+Yup, did this, and detected H2S, hence the conclusion that this is a sulfide compound.
+
+It's possible O2 and H2S can react, but you're talking about oxidizing H2S to SO2 (S(IV)) then reducing it back to FeS (S(-II)).  It seems backward.

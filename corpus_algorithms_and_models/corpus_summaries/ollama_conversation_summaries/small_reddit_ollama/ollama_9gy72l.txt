@@ -1,0 +1,16 @@
+Here are the selected sentences copied verbatim from the original text:
+
+1. Argon is *also* used because the molecules are bigger than air molecules, meaning they have a tougher time escaping. It's why they use it in car tires.
+2. That and water (humidity) is much more dense than air and transfers heat much quicker.
+3. I’d also argue it’s kind of similar to the fact that if you’re cooling your home with air conditioning during the summer and you open the door on a hot day, you’re letting hot air in, not cold air out.
+4. An important reason that many other replies have missed is that moving air has lower pressure than still air.
+5. Evaporation is an endothermic process, it absorbs energy from the environment (your skin/body) to go from liquid to gaseous state and hence you feel cool.
+6. Also, what is an “air” molecule?  Air is a mix of other molecules.
+7. Convection only occurs if the fluid is moving, which is a possibility for the thermos because of buoyancy, but not a given.
+8. In fact, for tall and narrow enclosures, the heat transfer rate with natural convection is considered to be very well approximated by conduction.
+9. As I was looking up convection coefficient curves, the did get squirrelly as the fluid velocity approaches zero.
+10. Without wind to refresh this boundary layers, trees can't be as productive.
+11. By that logic this inverted effect should be noticable when air temperature exceeds body temperature  (~37°C).
+12. Humidity starts high in the morning and drops as the day warms up.  As the day cools, humidity will rise again.
+13. The surface of the grass has to cool down to the "dew point" which is essentially the temperature where humidity reaches 100%.
+14. Even the strongest glass in the world isn't immune to 1 atm pressure flex on a flat plane.

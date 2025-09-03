@@ -1,0 +1,11 @@
+Here is the summary of 10% of the text or up to 250 words:
+
+I've never understood this. Even if gases are exploding, there is no opposing force from space, so the rocket cannot move. The gases should just expand into space without any force acting on the rocket.
+
+If the rocket is "thrusting against itself", then how is this any different to trying to jump by pulling up on one's shoelaces? It makes no sense either.
+
+Ah, I see. F=MA. With the brick, F is high due to high mass and non-zero acceleration. With the gas, mass is low but acceleration is very high, therefore a strong force is generated.
+
+Neutrinos do not interact strongly enough to be useful for this. You cannot use charged particles, for reasons that I hope are clear. You cannot use baryons, since they're heavy enough that you might as well fire hydrogen gas. And you cannot use any of the neutral mesons, because they decay. That leaves photons; use those and you've got yourself a [solar sail](http://en.wikipedia.org/wiki/Solar_sail).
+
+The way I understand space travel is as follows; we cannot control a rocket in space as there is nothing to push on, there is nothing to "thrust" on.

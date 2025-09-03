@@ -1,0 +1,10 @@
+Original Response:
+For example if a human were to live for hundreds of millions of years could said human grow wings or scales?Or would subsequent generations of offspring be needed to develop such things?
+The process of evolution would not act on the individual being. The likelihood of passing its genes on, if it remained in a sexually mature state for a long period of time, however, would increase the presence of its genes in the next generations, meaning, from an evolutionary standpoint, that it was more fit to pass on its genes, increasing the occurrence of its traits in subsequent generations.
+
+TL;DR- No. Evolution acts over generations, not on individuals.
+The Theory Of Evolution is specifically about changes between *offspring* and a parent. The length of time something lives for is not the factor which affects the rate at which something evolves. Rather, it is the rate at which it reproduces which produces change more quickly. Bacteria is mutating all the time because it reproduces every few minutes. Some of these mutations are beneficial and naturally selected, and thus evolution occurs.
+You are using the word "evolve", but I think you mean "mutate". The organism would accumulate mutations, which could lead to an accelerated mutation rate (think of the way a cell receives a carcinogenic mutation, then becomes more at risk for other mutations as a result). It is more likely that rather than mutating in a positive way, the organism will accumulate negative mutations (much easier to screw up one of the millions of cellular proteins, molecules, or functional components than to make one of hundreds of improvements to a cell or organism). Evolution is based on the multiple generations of offspring, and exerts a more positive effect on organisms by favoring those that gain positive attributes and have a higher fitness (reproductive) level
+
+Summary:
+Evolution acts over generations, not on individuals.

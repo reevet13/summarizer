@@ -1,0 +1,291 @@
+Original Response: 
+Question is basically the title plus a little extra.
+So I've learned in school that if we use a telescope to observe something that's 1 lightyear away, then what we observe is not the thing as it is today but rather how it was 1 year ago.
+So the farther away the object of observation is, the older the image we observe of it.
+&amp;nbsp;
+
+If this is true, and please correct me if I'm wrong, then given that the universe is 13.8 billion years old and infinitely wide (because it's constantly expanding right?)
+then what happens if we theoretically try to observe something that's 13.9 billion lightyears away or farther?
+&amp;nbsp;
+
+Since the universe didn't exist before 13.8 billion years ago, there isn't any light that anyone or anything can pick up and observe right?
+Or is it that we can only possibly see as far as the universe is currently wide, in which case is it really infinite or is it sort of asymptotically infinite?
+Is it even theoretically possible to build a telescope that could peer across such astronomical distances?
+&amp;nbsp;
+
+And tangentially related this is something that's been on my mind for a while and I'm hoping someone can answer it.
+Say you teleported to some observatory 200 lightyears away and were able to use a telescope to look back at Earth.
+Say you could also zoom in enough to see cities.
+Would you then see the world as it was in the 1800s?
+Or is this idea itself, barring the obvious outlandish conditions, science fiction?
+You can actually see further than 13.8 billion light years because the universe is expanding.
+Light travels at the speed of light, which is one light year per year.
+So the furthest distance that light can travel in the history of the universe is 13.8 billion light years.
+But in 13.8 billion years, the universe has expanded a lot.
+The object that the light came from can be more than 13.8 billion light years away.
+So we can see objects that are now further than 13.8 billion light years away.
+Taking this into account, the furthest object you can possibly see is about about 50 billion light years away.
+In practice though, the universe was opaque in very early times, so when we look at very large distances we just see a uniform "wall".
+This is the cosmic microwave background.
+Note that you don't need an exceptionally good telescope to see that far - the limiting factor in telescopes is more about brightness than resolution, and this background is fairly bright.
+And yes, if you were sitting at a star 200 light years away, you could see Earth as it was 200 years ago, although you'd need a very very good telescope to get enough resolution.
+[removed]
+[removed]
+[removed]
+You say “the furthest object you can possibly see is about 50 billions light years away”.
+I’m curious because that would mean that it’s travelling faster than the speed of light, which I believe is impossible.
+How I’m understanding it the furthest from us it could be, that’s if it was traveling at the speed of light, is 27,6 light years away.
+Is there something I don’t understand?
+[removed]
+Think of it like this: Hold a ball at arm's length away from you and take a picture of it.
+Hold that picture at the same distance.
+That picture is the light waves coming towards us.
+Now pull the picture to your face and roll the ball away from you.
+You're seeing an image of the ball where it was at first - But we can agree that the ball is now further away from us, right?
+So we're looking at an object "father than the speed of light."
+... or, that's my understanding of it.
+If I'm wrong, feel free to correct me.
+[removed]
+[removed]
+Its kinda like stretching an elastic band..
+Put 2 dots, and have a snail crawl from 1 to the other..
+If you stretch the elastic in the right way, you can make the snail much quicker from point a to point b then what it normally would.
+Yes, light can only go the speed of light in this universe, but if the universe itself is growing, the relative speed of the light will be faster then intuitively possible, much like the snail on the elastic band.
+The space between galaxies expands, which constantly pushes the things that are visible further away from us.
+Not only that but some galaxies are so extremely far away, that the expansion between us and them is in fact greater than the speed of light.
+There are parts of the universe which we will never see because of this.
+The universe appears to be infinite.
+The Big Bang wasn't an explosion where everything started in one place and started moving away from each other at some speed.
+Instead, it was an early state of the universe where everything was very dense and uniform, but the universe was still infinite in size.
+Then everything expanded in all directions at the same time, with everything getting further away from everything else, and the universe got less and less dense over time.
+It may be helpful to think of the expansion of the universe as "everything getting less dense" rather than "the universe getting bigger", because it's hard to imagine an infinite universe "getting bigger".
+But yeah, things can be any distance away at all.
+We just can't see them unless they're close enough for their light to reach us.
+In nutshell:  
+  
+The universe's "expanding" basically means that more and more space appears between any two points, bringing them farther away.
+This "more space" appear slowly, but constantly.
+The longer the distance, there is more space appearing, bringing them farther away, "stretching out" the universe.
+Now imagine a star which was at 1 billion light years away from us (don't forget: a light year is a distance: the distance which a photon cover during one Earth-year).
+The photon left the star and started to travel to us.
+If the universe wouldn't expand then it would arrive at our eyes 1 billion years later.
+However, the universe is expanding: at each time unit, the photon has to travel a little more as more and more space appearing between us and the photon.
+At distance big enough between us and the distant object this effect creates more than 1 light year worth of space between us and the photon trying to reach us: this means that this photon can never reach us.
+This basically creates an event horizon: a "bubble" where no outside information can ever reach us.
+So, nothing travels faster than the speed of light, yet object is getting away from us faster than the speed of light.
+The most distant object what we saw (the light basically emitted not a long after the Big bang itself) is very, very, very far away from us now, as more and more space is appearing between us and this light emitting object.
+This is how possible that the photon was emitted 13.8 billion years ago, yet the object which emitted it is now 50 billion light years away from us.
+You'd need a very good telescope indeed--and a very large one.
+At 200 lightyears, being able to resolve objects spaced even a meter apart would require a resolution of about 1.09&amp;times;10^(-13) arcseconds.
+Using diffraction-limited optics, your superscope will need a primary mirror at least 91.7 million kilometers across.
+Or 9.17 *billion* kilometers across, if you want one-centimeter resolution.
+Ten kilometer resolution, enough to see cities, would only require a 9,170 kilometer mirror.
+Still, you should go ahead and spring for the heavy-duty tripod though.
+The universe is expanding at a constant speed (67km per 1m parsecs), it's the observer who percieves it as faster than light because the farthest objects seem to be moving away faster.
+They are not, but it seems that way to us.
+Imagine firemen holding a blanket and every fireman backing away at the same pace.
+To each fireman it would seem his speed to be relative to his neighbor's speed.
+To someone in the middle, everyone would be moving away at the same speed.
+But if you were to place a small ball on the blanket between the observer and the firemen the ball would appear to be moving away slower than the firemen, even though the blanket ensures that the speed is constant.
+Special relativity tells us that nothing can move faster than light,  but general relativity tells us that since the blanket is stretching it doesn't matter what the speed of light is.
+And I just made a simple concept seem even more complicated.
+Sorry.
+So if say another civilization had a good telescope and they were orbiting a star 200 light years away and they were currently looking at us they would see Earth as it was 200 years ago?
+Imagine if they decided to just come visit after seeing us as we were and getting here to see us as we are.
+Let's say that there was a massive telescope that would let you zoom at a 1800's town and it's people - how is it possible that you would see people walking and doing their chores, considering that a person reflects a limited amount of photons and each goes in a different direction - which at a massive distance means that they are spreading to different regions of the universe?
+In fact, shouldn't that be a factor also when looking  at big objects billions of light-years away?
+Even with a couple of lenses side by side.
+The universe is indeed expanding faster than the speed of light.
+The light from the most distant objects we can see has only been traveling for about 14 billion years (lookback distance) but we figure the most distant objects we can see are actually about 45 billion light years away (comoving distance), because all the space in between has been expanding in the meantime.
+Since the universe is expanding everywhere all at once, a large portion of what we can see is already receding faster than light.
+At some point in time, we will never receive light from those objects ever again.
+It's counter-intuitive, but the definition of "brightness" that matters here does not actually go down with distance.
+The amount of flux you get *per square degree of view* is constant, excluding stuff like dust in the way etc.
+That's way a wall doesn't get hugely bright when you place your eyes against it.
+So yeah, the *total* flux you get from an object decreases as 1/distance^(2).
+But if it's a resolved object, that emission is spread out of some number of square degrees of sky.
+If the object is 2x closer, then you get 4x as much flux, but it's also spread out over 4x as much of the sky, so the actual brightness in terms of flux per square degree of sky is constant.
+And that definition of brightness is actually the natural one that we use to say how bright something is - for the reason I stated above, that using the total flux means that a wall gets "brighter" if you are closer to it, which isn't the case.
+However, this is only for the peak brightness you can get with a telescope.
+The brightness you see through a telescope depends on the magnification, provided you want your image to be in focus.
+There is a peak brightness you can see at a certain level of magnification, and the bigger the telescope, the higher magnification you can get at this peak brightness.
+So you do want to have a big telescope, to make sure you can get enough magnification without making the image really dim, but also to make sure you have enough resolution to actually see anything.
+Of course you can just take a really long image if it's too dim, although you won't see much detail if you're trying to photograph individual people.
+I’m jealous everyone in this thread is vastly more intelligent than I am.
+I no math so gud.
+[removed]
+Is the 91.7mil and the 9.17 bil min max?
+Thanks for the reply, but my question was probably more basic or dumb than you realized.
+I meant that if a surface reflects light - and if  
+ light is particles/waves, and there's say 1 million photons that spread like billiard balls, each to a different direction, so they would spread so thin, that there is no coherent image to see.
+Or is there some physical reason that makes the photons to "stay in shape"?
+[removed]
+Sure, you do get down to a limit where you can count the individual photons you're getting - we actually do that in high-energy astronomy where we can detect each x-ray photon individually and measure them one at a time.
+But if you have a big enough collection area and collect photons for a long enough time, you'll get enough to form an image eventually.
+But yeah, if you're giving off maybe 100 W of light, then by the time you're like 50x the distance to the moon, that's like one photon per square metre per second.
+So you would need a *huge* telescope to really collect enough to make an image.
+[removed]
+Are these calculations based on technology we have today, or is this just a general calculation that no matter how much technology we have, the fact would be we'd need a 9 billion kilometer wide telescope?
+I know you mentioned diffraction-limited optics, not sure if that answers my question and I just don't know enough to know that it does lol
+
+The reason I'm asking is if you think of the televisions from the 90's when I was young, they were big (say, 50" or so and square), but the resolution was terrible (about 480p), now we have smart screens on our phones that are 4-5" and have 2k resolution at nearly 600 ppi.
+If say in 100 years the trend keeps going, could this 9 billion kilometer wide telescope possibly be, say, 30-40 meters wide, or again, is your calculations not limited by technology?
+OK, so there is no physical way to see far-away small objects in real-time, even hypothetically, but it's done with a long exposure image-composing.
+Nope, they're both minimum apertures for achieving the stated resolutions.
+[Angular resolution](https://en.wikipedia.org/wiki/Angular_resolution) is limited by the nature of how electromagnetic waves propagate.
+It varies according to wavelength; my figures are for visible (specifically blue) light, and near-infrared light would require perhaps 25 times the aperture to achieve the same resolution.
+You can enhance the resolution of acquired images with modern image processing techniques such as deconvolution of the point spread function, but *CSI:Miami*-level "enhancement" is still science fiction and probably always will be.
+That being said, a 40-meter telescope might someday be able to *detect* a brightly-illuminated city on the dark side of a planet 200 light years away, but it would not be able to *visually distinguish* two such cities a few kilometers apart.
+[removed]
+I have a degree in advanced math and these people consistently blow me away.
+Neil degrass tyson has a cool bit on that.
+We know we will eventually lose the light from many things bc of expansion, imagine what we might have already lost before we were around to document it?
+[removed]
+objects cant travel through space at faster than the speed of light.
+space itself can move away from another part of space however fast it wants to.
+How is long exposure even possible to resolve something on the surface of a distant planet?
+Surely the speed at which the planet is moving compared to your position would blur the result.
+Or is there solution for this?
+Let's say we did have a telescope that is, 50 light-years out there and can relay back info to us and has mad zoom capabilities.
+Can we see a city as it was 50 years back.
+Like if I zoom into a racetrack.
+Will I be able to see the race that took place 50 years back?
+Sure though you'd see things 100 years back because it'd take 50 years for the signal to get back to you.
+Thanks!
+It’s not about intelligence, it’s about knowing and understanding optics/physics (in this case).
+The above redditor described what is commonly called 'the observable universe.'
+There may be objects that exist beyond that 50 billion light years and if space continues its trend of accelerating expansion, light from those objects will never ever reach earth.
+The Most important skill you learn in physics study to calculate this stuff is just to have a basic grasp so that you know where you have to search for the right equation and how to rearrange the equation to be able to calculate what you want
+
+&amp;#x200B;
+
+its mostly just about having the right google skills and be able to do something with the results.
+[removed]
+Why can we only see back to 50bn light years?
+How can they both be the minimum if they are different numbers?
+[removed]
+Tracking.
+You can get a nice telescope for a grand that moves with its target.
+One provides 1 meter resolution, the other has much greater 1 centimeter resolution.
+Alright - I must have missed that somewhere thanks for clearing up.
+Is the cosmic microwave background often compared to a "wall?"
+Why that comparison?
+At that point we're seeing far enough back in time that the universe is opaque, so we can't see before it.
+It really is like a wall we can't see beyond.
+I dunno if others use that term but it's one I like and I've used for a while.
+Yes, to track a star should be easy.
+But what about something on the surface of a distant planet ?
+The planet rotates on itself and around its star !
+There are a couple of problems:  
+1.
+The sun is way brighter than the earth.
+50 light-years out it will overwhelm the light from earth.
+2.
+The earth spins.
+Your window to see the earth from a telescope would be very limited.
+3.
+The motion of the earth, in both, its orbit and spin would make the picture very blurry if you were tracking a city.
+4.
+The atmosphere would also add distortion.
+This is why we have telescopes on top of mountains and in space for looking further away.
+What do you mean by "opaque," though?
+Microwaves can't physically block other signals, can they?
+With technology advancing the way it does, could that 9,179 KM telescope get any smaller, or is there a factor at play that would make that impossible?
+[removed]
+The microwaves were emitted by gas from the early universe, though they weren't microwaves yet - they were higher energy photons that got redshifted over time.
+But this early gas was so thick and dense that it was opaque, so we can't see further back in the universe than that point.
+The further away things are, the further back in time you're looking.
+So when you look far enough away, the universe turns opaque, and the "surface" of that wall is what emits the cosmic microwave background.
+It's because light gets scattered off of ions [(Thomson scattering)](https://en.wikipedia.org/wiki/Thomson_scattering).
+Before the cosmic microwave background was emitted the Universe was so hot that all the (hydrogen) atoms were ionized, so there were a lot of free electrons so light could only travel a short distance before being scattered.
+As the Universe expanded and cooled the electrons joined with protons to form hydrogen [recombination](https://en.wikipedia.org/wiki/Recombination_(cosmology\)) and light was able to travel freely.
+[After about one billion years the hydrogen was actually largely ionized again by stars and galaxies, but the density is much much lower due to the expansion of space.]
+[deleted]
+[removed]
+I don't think that's quite right.
+With a small telescope, yes.
+But if you make the telescope large enough, you can catch more of those scattered photons.
+It's just that it has to be ridiculously big, and probably precise.
+Like the 90 billion kilometer telescope mentioned above somewhere.
+To add, the telescope would see things that were 50 years old from when it took the picture, but since you can't send the telescope out there in any less than 50 years, you'll never be able to see into the past.
+If you magically send it out at light speed, then it takes a picture and send it to you, the image will be of the time you sent the telescope out, and you'll get to see it 50 years after that.
+Or in other words it will be a digital mirror.
+Upon some reading, the quasar is only active on the order of millions of years.
+That might be enough to get life started, but probably not to get some weird civilization of intelligent beings evolved just in time for their sun to disappear.
+A few years ago I owned a 10 inch reflector telescope.
+I did some looking around to find the most distant object that an amateur astronomer could hope to see, and found [quasar 3C 273](https://en.wikipedia.org/wiki/3C_273) seemed to be it.
+2.4 billion light years out.
+Then I did some math to put it in perspective.
+If you created a model of the universe in which the distance from the Earth to the Sun was 1 inch, then 3C 273, in your model, would be past Neptune in the real world.
+Think for a minute how insanely *bright* that object must be, to be visible at that distance.
+(If you brought the quasar to about 34 light years from Earth, it would be about as bright as the sun in our sky.
+For comparison, our sun is about 8 light *minutes* from us.)
+&gt;Say you teleported to some observatory 200 lightyears away and were able to use a telescope to look back at Earth.
+Say you could also zoom in enough to see cities.
+Someone crunched the numbers on this, I think on Reddit, a little while back.
+Turns out the size of lens you'd need to be able to do this, would be so massive it would collapse itself into a black hole.
+It’s amazing how remarkably unfathomable distances in space really are.
+What did that Quasar look like through your telescope?
+And how were you able to pinpoint it among everything else in the night sky with a 10" telescope?
+Never found it.
+It would have looked just like a dim star.
+For objects you can't see with the naked eye, there are some techniques for finding them in the telescope.
+Usually you use "star-hopping" to find it.
+You first locate some known, visible stars that the object you're looking for is near.
+Look through your telescope and you can see dimmer stars, then keep referencing your star map, matching up the patterns, and slowly make your way from star to star until you land on the object.
+This is made trickier by the fact that everything in your telescope is reversed and upside down, so you have to keep that in mind when moving your scope.
+Also I had a [Telrad finder](https://agenaastro.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/o/f/ofin-te-tel-1s_6.jpg) on my scope that helped.
+It has illuminated bullseye rings, the rings are (IIRC) 1, 2, and 4 degrees diameter.
+So if you know your object is 2 degrees from a star you can see, you set that star on the largest ring and then your object should be in the center.
+It's pretty thrilling to spend some time doing this, and have it pay off when you finally check your eyepiece and BOOM, there it is!
+Takes practice.
+[If the Moon was 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html).
+Great tool to try and wrap your head around distances in space.
+At the bottom right there's a button to enable lightspeed autoscrolling, enjoy the ride.
+[deleted]
+[removed]
+I love everything about this except that he didn't name it "The Scroll-ar System"
+On the plus side, you could then use that black hole as a gravitational lens.
+That gives me an interesting thought.
+With the large number of rogue planets we expect to exist, it seems possible there could be some that happen to be close enough to a quasar to get energy from it to support life.
+I'm not sure what the wavelengths would be like, or if it might be hostile to life.
+But the energy might be there and life might be able to evolve.
+Weird thought.
+No nearby planets, no seasons.
+
+Summary: 
+2.4 billion light years out.
+So we can see objects that are now further than 13.8 billion light years away.
+Why can we only see back to 50bn light years?
+The universe appears to be infinite.
+So we're looking at an object "father than the speed of light."
+Would you then see the world as it was in the 1800s?
+objects cant travel through space at faster than the speed of light.
+The universe is indeed expanding faster than the speed of light.
+The object that the light came from can be more than 13.8 billion light years away.
+You can actually see further than 13.8 billion light years because the universe is expanding.
+Can we see a city as it was 50 years back.
+There are parts of the universe which we will never see because of this.
+50 light-years out it will overwhelm the light from earth.
+But in 13.8 billion years, the universe has expanded a lot.
+However, this is only for the peak brightness you can get with a telescope.
+Your window to see the earth from a telescope would be very limited.
+But yeah, things can be any distance away at all.
+The further away things are, the further back in time you're looking.
+Taking this into account, the furthest object you can possibly see is about about 50 billion light years away.
+It would have looked just like a dim star.
+What did that Quasar look like through your telescope?
+Light travels at the speed of light, which is one light year per year.
+Say you could also zoom in enough to see cities.
+This is why we have telescopes on top of mountains and in space for looking further away.
+So the furthest distance that light can travel in the history of the universe is 13.8 billion light years.
+The photon left the star and started to travel to us.
+Hold that picture at the same distance.
+Like if I zoom into a racetrack.
+With a small telescope, yes.
+They are not, but it seems that way to us.
+You say “the furthest object you can possibly see is about 50 billions light years away”.
+At some point in time, we will never receive light from those objects ever again.
+... or, that's my understanding of it.
+That picture is the light waves coming towards us.
+It really is like a wall we can't see beyond.

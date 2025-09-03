@@ -1,0 +1,19 @@
+If you look at where the Sodium atom is at on the periodic table you can see that it is going to have a configuration of [Ne]3s^1 ...meaning that its valence shell electron in the S orbital only has one electron in it....
+
+So as far as Ionization energies go it is simply the energy that is required to remove 1 electron from the valence shell of the atom.
+
+it is much easier to remove that one electron than it is to have a second electron removed.
+
+When the sodium metal reacts in water they make NaOH and hydrogen gas.. Since sodium is "happy" as a 1+ cation, its electron configuration is that of neon with a full happy s^2 p^6 configuration.
+
+Metalic sodium reacts with water to create Hydrogen gas, Hydroxide anion and Sodium Cation.
+
+Na + H20 -&gt; H^+ + OH^- + Na^+
+
+The sodium ion is indeed very stable because of its full shell, the reaction that drives it's production is a redox reaction.
+
+Sodium + water exist in a high energy state, relative to the reaction products.
+
+Sodium does appear in its normal electron state and alkali metal state, it just isolated by humans and put in niffty little jars with mineral oil for humans.
+
+To make it simple and easy to understand- Sodium metal only reacts with water because it want to loose its only valence electron. Sodium ions already have lost that electron, so it's not reactive.

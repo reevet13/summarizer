@@ -1,0 +1,11 @@
+Here is the summary of approximately 10% of the text (up to 250 words):
+
+Ice is hexagonal in structure.
+TIL
+That's exactly it. The fracture will travel along weak points, which are in an asterisk shape for ice.
+&gt;Ice Ih (pronounced: ice one h, also known as ice-phase-one) is the hexagonal crystal form of ordinary ice, or frozen water.[1] Virtually all ice in the biosphere is ice Ih, with the exception only of a small amount of ice Ic that is occasionally present in the upper atmosphere
+I mean... "Hexagonal crystalline structure" **is** the non-ELI5 explanation...
+Crystalline ice has a planar hexagonal lattice structure,
+it is due to the hexagonal lattice ice forms under normal conditions. fracturing or shearing happens parallel to the crystal formation faces (which are aligned in hexagonal shape)
+&gt;It's his answer that led me to finding out about the different ice structures, something I didn't know before.
+I think the issue is that the number people who would have the more technical explanation are very, very few relative to the number of people who know that ice has a hexagonal lattice and that probably has something to do with how it breaks.

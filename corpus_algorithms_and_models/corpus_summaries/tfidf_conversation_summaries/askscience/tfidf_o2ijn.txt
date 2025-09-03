@@ -1,0 +1,21 @@
+Original Response:
+Since it diminishes and our immune system becomes weaker in old age, would replacing it renew our immune system allowing us to live longer, or would old age simply take it's course and end us anyway?
+
+sorry if any of my info is wrong to begin with, please correct!
+The leading causes of death are heart disease and cancer.  Heart disease is generally linked to genetics and diet, so the immune system isn't really involved.  Cancer happens because of an accumulation of mutations in DNA, again not involving the immune system.
+
+Influenza and pneumonia account for 95% less deaths than heart disease and cancer, so improvements in immune function wouldn't have a marked effect on longevity.  Although there could be some benefit for those individuals that are at low risk for heart disease, cancer, and the other leading causes of death.
+
+[Source](http://proxy.baremetal.com/csdp.org/research/1238.pdf)
+
+Edit: As otok pointed out below, the immune system is in fact involved in cancer prevention.
+Add to this the fact that your telomeres (the repetitive end bits of your chromosomes) get shorter and shorter every time your cells divide, and you have a built-in clock that is not affected by the immune system in any way.
+On that note what would be the net result of telomeres not shortening in cell division?
+That's up for debate.  On one hand, there's research showing that lengthening telomeres [reduces organ degeneration](http://www.nature.com/nature/journal/v469/n7328/full/nature09603.html).
+
+On the other hand, telomere shortening is thought to be one of the mechanisms that prevents the proliferation of mutated cells.  So removing that would make it one step easier for cancer to develop.
+The immune system fights cancer, so there could be a benefit. For example, Wikipedia claims "Involution of the thymus has been linked to loss of immune function in the elderly, susceptibility to infection and to cancer."
+You are 100% correct.  I was thinking at a purely genetic level, which is only part of the picture.  In fact, the immune system [plays a large role in cancer development and control](http://www.nature.com/nrc/journal/v6/n1/full/nrc1782.html).
+
+Summary:
+The leading causes of death are heart disease and cancer.

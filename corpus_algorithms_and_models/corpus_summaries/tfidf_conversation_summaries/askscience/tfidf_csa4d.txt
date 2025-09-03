@@ -1,0 +1,30 @@
+Original Response:
+[deleted]
+Lightning isn't 100% understood yet, but basically the clouds build up an extremely high voltage until the potential difference between the cloud and the earth is so high that electrical current travels through the air (which is not very conductive at all - hence super high voltages are necessary).
+
+It's (sorta) the same thing as when you rub your feet on a carpet. When you rub your feet on the carpet, you actually strip the carpet of some electrons, increasing your electric potential (and your overall negative charge). Your body slowly builds up excess charge, which is released all at once when you get close enough to a doorknob or some other conductor.
+
+What's not completely understood about lightning is the process by which the charge builds up.
+Gotcha. What I was curious about was the mechanism by which the clouds gained such high charges, but it makes me feel better to know that even the experts aren't entirely sure : )
+Why this car is automatic...
+ForkBomb4 explained that its electrons shooting down to earth from a very high voltage buildup. The bolt causes the air around it to superheat and expand which causes a shockwave to propogate outward (thunder).
+[deleted]
+http://www.howstuffworks.com/lightning.htm
+Yeah, I'd be embarrassed too if I was a biology major.
+
+I kid I kid.
+But where does the high voltage come from?
+It has something to do with mechanical charge separation. Lightning happens in at least two common natural phenomena: rain storms and volcanic ash clouds. What do these have in common? Motion of lots of fine particles. The fine materials get moved by some mass acting force...like gravity pulling tons of particles down through the atmosphere...or convection lifting tons of fine particles up into the air. In each case energy get stored until the voltages reach ionization and spark across the gap.  
+
+With one small problem...The distance over which the spark occurs is considerably longer than measured voltages can account for. Voltages are measured ..but not big enough to create mile long sparks. That's missing part of the dynamics currently...but it maybe lots of smaller local voltages all piling up...  
+
+One thing that completely changed my mind on the topic as well as shot down some of my personal pet theories...was seeing [this guy's amazing hi-speed video of lightning strikes. WATCH THE BLACK AND WHITE ONES-THEY ARE THE SUPER HI SPEED FOOTAGE.](http://www.youtube.com/user/ztresearch)
+In electrostatics, you can determine the voltage from the charge distribution and vice versa. They're connected. (Electrodynamics more involved)
+The basic idea that I think most theories work with is that the charged particles in a thundercloud get separated because they've got different physical properties (e.g. weight, size, friction, ...) and a roiling motion will send them in two different directions. This creates the charge separation that eventually yields lightning.  
+
+...but the devil's in the details, apparently.  I hope someone figures it out in my lifetime, it's an interesting subject :)
+
+Summary:
+What's not completely understood about lightning is the process by which the charge builds up.
+What do these have in common?
+It has something to do with mechanical charge separation.

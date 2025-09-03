@@ -1,0 +1,35 @@
+Interesting that the Economist, which usually adheres to excellent standards in data graphics, has put different scales on side-by-side graphs that display the same variable on the vertical axis (i.e., bars in the left and right charts that show equal numbers will not have equal heights: for example, the bar showing 200 Israelis killed in 2001 is taller than the bar showing 200 Palestinians killed in 2005). The result is a slight visual "inflation" of the Israeli deaths. I doubt this is an intentional tweak... but worth noting.
+It doesn't. Under the heading "Palestinians" there are two subheadings: "Killed by Israelis:" which has three subentries (military, civilians, unknown) and then "Killed by:" which has one subentry (internal fighting.)
+It makes that clear if you read the chart properly. The problem is you are making assumptions before reading the chart -- that all Palestinians are killed by Israelis, but that isn't the case.
+If you read the chart legend, under the heading "Palestinians" there are two subheadings: "Killed by Israelis:" which has three subentries (military, civilians, unknown) and then "Killed by:" which has one subentry (internal fighting.)
+Yeah the 1000 mark on one chart is level with the 1200 on the other chart. Tsk Tsk.
+I dunno. I disagree. The scaling on the Israeli graph makes it almost impossible to tell how many Israelis have died in recent years.
+It's important to use the same scaling wherever possible, but not when it makes the data unreadable.
+The problem is that people make assumptions before reading charts...this kind of distortion can be easily mis-read by someone just browsing over this type of data
+The poor scaling may not be a 'simple mistake'. The Palestinian image must be stretched vertically by 120% to get a true comparison. The obscenely horrific imbalance is then evident. Try a simple test with Windows Paint, for example.
+You don't even realize that you agree with cbg's point, do you? If The Economist had provided a graphic of equal scale then it would be EASIER to see how many Israelis have died in recent years.
+It is actually hilariously ironic as the apparent point of the graph is to show the two things side by side to illustrate the reality of the situation.
+Could be a subtle comment on the situation by the person who laid out the graph, but more likely just a formatting mistake.
+The chart shows the types of people who have been killed in the conflict not the types of people who have killed others in the conflict.
+But in the chart all categories are stacked together! In a chart that purports to present "inequality", it's more than a little sneaky to include Palestinians killed by other Palestinians to add weight to the argument.
+Much worse, they stacked Palestinians killed by other Palestinians on top of those killed by Israelis to make the visual disparity more pronounced.
+I agree. It really belongs in the other chart, both for consistency's sake, and to properly assign blame/credit for the deaths.
+People can call it Palestine, but there is no official country by the name of Palestine. I also don't believe that any country in the world recognizes a country by the name of Palestine -- which is one of the ways to judge whether a country should be considered to exist. There is merely the recognition of a [Palestinian National Authority](http://en.wikipedia.org/wiki/Palestinian_National_Authority) which has quasi-governmental status in the occupied territories with regards to the non-Israelis. Israelis in the occupied territories fall under the jurisdiction of Israel and thus are protected by the IDF.
+No? So what are these headings?
+
+Killed by Israel:
+
+Civilians, military, unknown 
+
+Killed by:
+
+Internal fighting
+
+etc etc?
+I just explained that. Those groups (civilians, military, unknown) are the people who have died in the conflict.
+Well, like the US in Iraq, the military often announces that those killed in an airraid or other military attack were insurgents or militants, but this often is disputed by the other side. It can be impossible in some situations to determine objectively as an neutral outsider after he's dead whether a 20-ish year old man was a civilian or whether he was part-timing as a member of an informal militant group. It can be especially difficult since in the Palestinian territories some political groups have militant offshoots, thus if a young member of the political group is killed, it can be claimed that he was part of HAMAS or another political group but that doesn't necessarily mean he was a militant.
+So, why do they specifically fall under the header "Killed by Israel"?
+
+*edit*
+
+Nevermind, I see

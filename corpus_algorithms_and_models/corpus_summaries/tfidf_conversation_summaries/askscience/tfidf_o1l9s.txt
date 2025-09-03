@@ -1,0 +1,19 @@
+Original Response:
+This seems like a rather odd question, but I feel like it belongs in AskScience because I want a less anecdotal answer than what AskReddit would be able to offer.
+
+When going #2 in a public restroom, do courtesy flushes help? I would expect a flush to cause some particles to become airborne, which would hurt the situation, while as it's sitting in the water, the water makes a barrier that the smell has a hard time passing through.
+
+So, AskScience, am I correct or is there really something to this courtesy flush?
+What do you mean by courtesy flush?  This is not a term I'm familiar with.
+
+But to answer part of your question, yes, when you flush, particles do indeed become airborne from the toilet.  This is why we can find fecal associated bacteria in many parts of bathrooms.  Noah Fierer's group had an interesting paper out about this:   
+Flores G. E., S. T. Bates, D. Knights, C. L. Lauber, J. Stombaugh, R. Knight, and N. Fierer. 2011. Microbial Biogeography of Public Restroom Surfaces. PLoS ONE 6:e28132.
+
+Essentially what they found is what you would expect.  Women's bathrooms tend to harbor more bacteria associated with women (things like *Lactobacillus* from the vagina).  Floors tend to have diverse communities that are more like "outside".  And toilet seats tend to have more fecal associated bacteria, from being sprayed out when the toilet is flushed.
+A courtesy flush is when you flush in order to clear out the toilet in an attempt to reduce the smell for when there's other people in the restroom.
+
+Thank you for your response, I think that does answer my question.
+Testing #2
+
+Summary:
+What do you mean by courtesy flush?

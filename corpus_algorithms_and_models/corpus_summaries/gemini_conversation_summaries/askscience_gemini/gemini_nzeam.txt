@@ -1,0 +1,2 @@
+OFDM does not create more bandwidth than there is already; it basically divides up the existing bandwidth (say, 10 MegaHertz) into many (say, 128) independent sub-channels each having low bandwidth.
+There are two important reasons OFDM is used:

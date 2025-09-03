@@ -1,0 +1,30 @@
+Original Response:
+There are many powerful computer systems that can model weather patterns to give predictions.  As time goes on shouldn't those predictions get more accurate?  (ie Here is the 7 day forecast based on current conditions.  We record the weather as each day passes.  7 days later we compare what we predicted vs what actually happened.  Then we update our models to work better in the future).  That's how I picture things working, yet it seems like our predicting ability is still a joke.  Am I wrong?
+That is exactly what [Edward Lorenz](http://en.wikipedia.org/wiki/Edward_Lorenz) thought when he was working with early computational weather models.  He was wrong and ended up working on chaos theory.  From [the chaos theory wiki](http://en.wikipedia.org/wiki/Chaos_theory#History):
+
+&gt;An early pioneer of the theory was Edward Lorenz whose interest in chaos came about accidentally through his work on weather prediction in 1961.[43] Lorenz was using a simple digital computer, a Royal McBee LGP-30, to run his weather simulation. He wanted to see a sequence of data again and to save time he started the simulation in the middle of its course. He was able to do this by entering a printout of the data corresponding to conditions in the middle of his simulation which he had calculated last time.
+To his surprise the weather that the machine began to predict was completely different from the weather calculated before. Lorenz tracked this down to the computer printout. The computer worked with 6-digit precision, but the printout rounded variables off to a 3-digit number, so a value like 0.506127 was printed as 0.506. This difference is tiny and the consensus at the time would have been that it should have had practically no effect. However Lorenz had discovered that small changes in initial conditions produced large changes in the long-term outcome.[44] Lorenz's discovery, which gave its name to Lorenz attractors, showed that even detailed atmospheric modelling cannot in general make long-term weather predictions. Weather is usually predictable only about a week ahead.[26]
+
+Predicting the weather is very, very complex.  If more people decide to carpool or water their lawns on Monday, it affects the weather later.  Good luck modeling those phenomena.
+I am not a meteorologist, perhaps they could provide a more complete answer. However, this is my understanding of the issues in weather prediction. 
+
+The predictions are definitely getting more accurate with time. 
+
+
+
+The problem with accurately predicting long term weather patterns arises from the incredible number of factors that come into play. Although the latest weather models take into consideration many more factors than they have in the past, there are countless (albeit small) variables that are either too numerous or too difficult to predict. All of these inaccuracies in the model compound and we observe weather that doesn't necessarily agree with the report. The further into the future we attempt to predict the weather, the more likely we are to be mistaken.
+
+That is why we can't make an "ultimate" or final weather report. The weather inevitably strays from our predictions and we have to reassess the conditions. Further predictions based off of our inaccurate predictions would be likely be inaccurate.
+Weather is a "chaotic system".
+
+One definition of a chaotic system is that there is no way to accurately model such a system that is simpler than the system itself.
+
+(If a given "amount of weather" was caused by a quadrillion different factors, then you'd need to computer model those quadrillion different factors in order to accurately model/predict that weather.)
+Do you have evidence of how wrong the weather predictions are? I always hear people complain how bad they are but have never seen a comparison of the actual accuracy.
+I know this reply is 6 weeks later, but this guy attempts at showing ["how wrong weather predictions are"](http://www.freakonomics.com/2008/04/21/how-valid-are-tv-weather-forecasts/).  I didn't care for the article because of how biased it was. But I'd love to see an official study done about accuracy is 3+ days out
+
+Summary:
+Weather is a "chaotic system".
+The predictions are definitely getting more accurate with time.
+The further into the future we attempt to predict the weather, the more likely we are to be mistaken.
+Do you have evidence of how wrong the weather predictions are?

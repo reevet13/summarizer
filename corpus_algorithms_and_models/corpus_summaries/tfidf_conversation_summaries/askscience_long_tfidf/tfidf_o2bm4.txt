@@ -1,0 +1,147 @@
+Original Response:
+These are the conditions.
+
+---
+
+Gun: [**.204 Ruger**](http://en.wikipedia.org/wiki/.204_Ruger)
+
+Calibre: **5mm**
+
+Angle of firing: **90 degrees**
+
+Bullet weight/type: **40 gr (2.6 g) BT**
+
+Muzzle Velocity: **1200 m/s**
+
+Energy: **1832 J**
+
+---
+
+I posted [this calculation](http://www.reddit.com/r/explainlikeimfive/comments/o1sy5/when_people_shoot_guns_in_the_air_why_dont_the/c3ds0kv) in a thread today, which does not take air resistance into account, and seems like nonsense to me too. I would like to know what the experts has to say about it.
+It's possible to estimate the friction forces from the data given at the end of the wikipedia article. It's in silly archaic units though.
+
+I don't have time for the calculations right now but I'll look into it if nobody does before me.
+Thank you for offering to help. I don't expect a lot of replies to this one.
+You'd also have to take into account that air becomes less dense the further away from the ground you travel
+[deleted]
+Friction forces are very important in this case. You cannot neglect them. I would try to find actual data and figure out how friction forces change with bullet speed.
+Your best bet for a realistic answer might be to ask in /r/guns or other gun related reddits / forums.   
+   
+Just as there's a bunch of military / ex-military types browsing and commenting throughout reddit who have opinions, there's also a smaller set of trained snipers and sniper wanna bes that have access to factual data tables that relate to long distance shooting in real life conditions.
+[deleted]
+I only deal with ballistic coefficients as a side bar, so I'll allow a rocket scientist to correct me on the details.
+
+What you want to add to your calculation is how smoothly your bullet cuts through the air, or the [ballistic coefficient](http://en.wikipedia.org/wiki/Ballistic_coefficient) of the projectile.
+
+Plug your formula into [Ballistics for Excel](http://www.bfxyz.nl/). If you aren't sure about the BC, the [Remington Ballistics Calculator](http://www.remington.com/pages/news-and-resources/ballistics.aspx) should get it for you. An AccuTip-V Boat Tail, which is a 40 grain 3900 ft/sec load, has a BC of 0.275.
+
+Hope this helps!
+Ok, I did the calculations using the .204 Ruger 45 GR SP 83208
+
+Friction from the air is a fluid friction force, meaning that energy lost during a given displacement is proportional to current kinetic energy and distance.
+From the table, we get that this bullet loses 23% of its kinetic energy when it travels 100 yard (91 meters). Please note that, as the bullet slows down, solid friction (energy lost is independent of current energy) become non-negligeable but I will ignore them anyways.
+
+Initial travel speed is 1104 m/s, and initial energy is 1772 J. This gives us the mass of the bullet : 2.9 g = 2.9 * 10^-3 kg
+
+When the bullet is at height h above the point where it was fired, it has lost energy because of:
+
+- gravity : the bullet is losing energy to gravity. When it travels 91 meters, it loses : m * g * 91 m = 2.6 J
+
+- friction : when the bullet travels 91 meters, it loses 23% of its energy like we saw
+
+I put those value into python to calculate the energy at different heights with the reccurence formula:
+energy(h+91) = energy(h) * (1-0.23) - 2.6
+starting with energy(0) = 1772 J
+
+From these calculations, I get that energy is null at about *1.7 km*.
+
+This is a gross overestimate because I neglected solid friction from the air on the bullet which should become more important at slow speeds.
+
+Also, friction on the bullet could be non-constant (increase due to slow-down in the rotation of the bullet, and decrease because of density) but it's better than nothing
+Thank you! I wouldn't have been able to do the calculations myself. I guess it would be safe to assume that the actual value will be less than 1.7km if we consider solid friction also. Please correct me if I am wrong.
+Yes, solid friction would bring the maximum height down because it would be more energy loss for the bullet
+Phew,, that makes the calculation quite hard suddenly. It would be a lot easier to say (of course on the expense of accuracy) that since the bullet only flies to a hight below 2 km, that the diminished density doesn't play a big part.
+[deleted]
+Another way to approach this is to add a force term for friction proportional to the negative velocity. This is often a decent approximation: for example, it's the easiest way to get a good answer for the terminal velocity.
+
+So you just start with -gm -cv = ma where 'c' is a constant that you'll have to kind of get empirically. Integrate it, find the time when the velocity become zero, integrate again and plug that time in to find the height.
+having a force in -cv is a fluid friction. If you do some equations, you can find out that this is the same thing as extracting energy at a rate that is proportional to current energy.
+
+I you have a constant friction force (F = - c * signOf(v)), you have a solid friction. In energy term, this is equivalent at having a fixed rate of energy being extracted from the system.
+
+Note that, here, when I say rate, this is in term of energy extracted by distance travelled, NOT the energy extracted in a fixed time. I'm not sure if I should really be using "rate" in this context but I can't find another word
+Right, sorry if I wasn't clear. I meant just as a slightly different calculation strategy to accomplish the same task, for those who wouldn't want to approach this by firing up a python script.
+How come all your assumptions are different from what the OP stated?
+What you need here is a bit of a differential equation (some people absolutely hate DEs; I hope you do not). In brief, the problem is rather complex because the aerodynamic drag force is not constant - it is dependent on the square of velocity of the bullet. One way to solve it is to determine the forces acting on the bullet, then write an equation that relates height, velocity and acceleration (this is the differential equation). Then, consider how the bullet's speed and height changes over time by keeping close track of the position, speed and acceleration every 0.1 (or 0.01) second. Obviously, the maximum height occurs when velocity is 0. A spreadsheet makes this tiring task extremely simple.
+
+Another approach would be to solve the differential equation 'properly' by getting it into the form of an equation 
+
+
+For this particular problem, we use the very plain F=ma equation, or a = F/m.
+
+eqn (1)    a =  F/m
+
+a (acceleration) is the unknown. F can be calculated. m is known to be 0.0026 kg.
+
+
+F consists of 2 parts; gravitational force and aerodynamic drag. Both these forces are acting downwards, so the sign we use will be negative
+eqn (2)    F = - mg - F(drag)
+
+m is 0.0026 kg, g is 9.81 m/s2
+eqn (3)    mg = 0.0255 N
+
+
+The force which air resistance acts on an object is as follows:
+eqn (4)    F(drag) = 0.5 x cross section area (m2) x air density (kg/m3) x drag coefficient x velocity^2 (m/s)
+
+
+From your link, it states that the bullet diameter is 5.2 mm, which gives a cross section area of 0.0000212 m2
+Air density at ~sea level at 20 deg. C is 1.204 kg/m3 [http://en.wikipedia.org/wiki/Density#Density_of_air_.28at_1_atm.29]
+
+I'll arbitrarily assume that the bullet's drag coefficient is 0.1.
+
+
+Putting these information into eqn (4):
+eqn (5)    F(drag) = 0.5 x 0.0000212 (m2) x 1.204 (kg/m3) x 0.1 x velocity^2 (m/s)
+eqn (5)    F(drag) = 0.000001276 x v^2 N
+
+Notice that the air resistance depends on the velocity.
+
+
+Replacing equations (3) and (5) into equation (2):
+eqn (6)    F = -0.0255 - 0.000001276 x v^2
+
+
+Replacing equation (6) into equation (1):
+eqn (7)    a =  (-0.0255 - 0.000001276 x v^2)/0.0026
+eqn (7)    a =  -9.81 - 0.0004909 x v^2
+
+
+To solve:
+v is rate of change of z (velocity is the change in elevation for every interval of time), v = dz/dt
+a is rate of change of v (acceleration is the change in velocity for every interval of time), a = dv/dt = d2z/dt2
+
+
+My approach is to do a numerical solution, which is like a simulation. A simple numerical simulation is as follows:
+I start with t=0. At t=0, i know z=0, v=1200, and based on the known v, i can calculate a(at t=0).
+At t=0.1, i can estimate v(t=0.1) by using a(t=0) x 0.1  + v(t=0). This is the initial velocity, the change in velocity.
+Similarly, estimate z(t=0.1) by using v(t=0) x 0.1  + z(t=0); estimate a(t=0.1) by using v(t=0.1) in eqn (7).
+
+etc etc. This is best done in a spread sheet.
+
+
+Using my numerical solution, I calculated the height to be 4.3 km (this is using a drag coefficient of 0.1. A smaller drag coefficient will give a larger max height).
+
+
+You will notice that I did not consider that air density changes with height. If you want to include that, you need to replace the density term with a suitable equation. If you do this, your drag force will depend on velocity and height. This will result in the differential equation having terms for a, v and z. For a numerical solution, the increase in complexity is not a big deal- you program in a different equation and excel churns through the simulation.
+Wow. Thank you for the detailed reply. Really appreciate the effort you have put into this. Definitely more than the level of detail this kind of questions usually get.
+
+Summary:
+If you do this, your drag force will depend on velocity and height.
+You will notice that I did not consider that air density changes with height.
+having a force in -cv is a fluid friction.
+I would try to find actual data and figure out how friction forces change with bullet speed.
+Another way to approach this is to add a force term for friction proportional to the negative velocity.
+I wouldn't have been able to do the calculations myself.
+This is the initial velocity, the change in velocity.
+This is a gross overestimate because I neglected solid friction from the air on the bullet which should become more important at slow speeds.

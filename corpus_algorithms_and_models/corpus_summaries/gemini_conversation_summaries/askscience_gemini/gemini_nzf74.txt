@@ -1,0 +1,7 @@
+This is called [Abiogenesis](http://en.wikipedia.org/wiki/Abiogenesis).
+It's kind of a big subject.
+Well, the whole point of the [Urey-Miller experiment](http://en.wikipedia.org/wiki/Urey-Miller_experiment) was to demonstrate that inorganic molecules known to be present in the early terrestrial environment can spontaneously form amino acids -- the building blocks of proteins.
+The key is the self-replication: once a sufficiently robust general self-replicating system happens by chance (even once) proper evolution can begin and development of complex life is virtually assured.
+Eh, emphasizing self-replication at the origin of life seems a bit outdated.
+However, if the beginning of life depended on the random formation of a complex and robust replicator from simple precursors, life shouldn't have formed on Earth as quickly as it did.
+We don't exactly know.

@@ -1,0 +1,16 @@
+Original Response:
+Is there any documented case about this exploit?
+I don't think this exploit would actually work, as most network nodes would not relay transaction (2) (or 3) as it is a double spend. There have been cases of people doing actually double spends though. Peter Todd demonstrated one at one point.
+Not some, it's happening all the time [https://doublespend.cash/](https://doublespend.cash/)
+XT and BU nodes do relay first double spend, but they also warn you about double spend. That page lists detected attempts. How many times double spend won?
+Only the sender and the recipient can know.
+How many times double spend won, double spend that is detected by XT nodes and listed on that page?
+https://www.coingecko.com/buzz/peter-todd-explains-how-he-double-spent-coinbase
+Again impossible to know, how can you know which of the transaction is the legit one? Ask the recipient.
+The first one that the network sees is the 'legit' one.
+No. The one that makes it to a block is the legit one, or what would be the point of having a blockchain?
+'legit'
+Yes, so look again at the site you linked.
+
+Summary:
+How many times double spend won?

@@ -1,0 +1,5 @@
+Here are the sentences copied verbatim from the original text:
+
+* "One of the best ways to electronically assist in the counting process is to use optically readable ballots that can be used in a traditional paper voting process and then have an OCR sorting machine that will do nothing else but sort the ballots into heaps of identical ballots. The human that would normally count the ballots can then check that all the ballots on a heap are identical (that's a rather fast and safe operation for a human) and then simply count the number of ballots on a heap."
+* "A better idea is to print out a series of multiple codes to look up on the website, and on the screen inform the user that 'Look on the receipt for your access code CAT57.' All the other access codes on your receipt will display a fake ballot that is consistent however many times you view it."
+* "There are quite secure electronic voting schemes. Too bad Dutch decided to ban them as well."

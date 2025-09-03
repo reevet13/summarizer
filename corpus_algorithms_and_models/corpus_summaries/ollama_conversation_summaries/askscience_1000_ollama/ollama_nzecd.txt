@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the original text (up to 250 words):
+
+Ethanol's vapor pressure is only 5.95 kPa at 20 Celsius. No noticeable amount of evaporation is going to occur in a closed container of either size.
+
+I have no clue what you're talking about. Azeotrope refers to the point where composition of the solution and the composition of the vapour in equilibrium with it are equal. I don't see how what we're discussing has to do with azeotrope - let alone an "enormous" one.
+
+Perhaps I'm confused by the call of the question but it seems the OP was asking if the last bit of liquor in the bottle contained less alcohol.
+
+correct me if I'm wrong, but ethanol/water have an azeotropic ratio of approx. 95.5%/4.5%...meaning that distillation (or evaporation) will result in a distillate that has higher EtOH concentration, leaving the leftover solution with less.
+
+The azeotrope of water/ethanol mixture, as justthedeets has mentioned, is near 95% ethanol, which is beyond the usual concentrations of alcoholic beverages. At any concentration below that, evaporation will decrease the concentration of ethanol in solution.

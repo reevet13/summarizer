@@ -1,0 +1,50 @@
+Original Response:
+Speaking from a certain level of layman intuition, I can picture how a single charged particle spiraling around in a cyclotron can emit EM waves [like this](https://imgur.com/3Hc21Lx.gif). What I'm having trouble understanding is the consistency between this wave model, and the discrete nature of photons, specifically in the case of cyclotron radiation. 
+
+As I understand it, you could detect individual discrete photon energy packets arriving at a detector at various times from a spiraling (accelerating) charge in a cyclotron. Does this discrete particle aspect indicate that there are instances in time when the accelerating charge is not producing a photon? Or else it seems like it would have to be emitting an infinite amount of photons (and energy) at every moment in time to mirror the continuous nature of the wave-like behavior in the gif?
+&gt; Does this discrete particle aspect indicate that there are instances in time when the accelerating charge is not producing a photon?
+
+The "emission time" is not well-defined enough for such a statement.
+Just to clarify - are any of the following an accurate way to restate your comment?
+
+- photon emission time is inherently unknowable in this situation (or in any situation?)
+
+- photon emission time may be knowable, but current technology can't determine it in this situation
+
+- the question is nonsensical
+The third.
+So I guess I'm back at square one. In an attempt to rephrase the question better in a way that makes sense... 
+
+Are photons being intermittently emitted from this spiraling charge? They must be if we detect discrete "energy packets" that we call photons?
+Photons are emitted, and you can measure individual photons, but it doesn't make sense to ask for a precise time of their emission. It is similar to asking about a precise position of an electron in an atom: It simply doesn't exist as single value.
+The number of photons being emitted isn't even well-defined, let alone their time of emission.
+I believe the point of confusion is related to the wave and particle nature of the photons and how we choose which interpretation to deal with based on the situation. If you oscillate a bunch of charges at a low frequency you produce a radio wave, which are basically photons with very low frequency. The gif provided by noun_exchanger is similar to what happens when there is a change in current in a wire and an EMP is produced. What I think noun_exchanger wants to know is if it's possible to measure the time interval of this EMP on a quantum scale from a single charge.
+This is much closer to what I'm getting at. Basically, it seems if you translate that mechanism of producing EM radiation as seen in the gif to a single charge going around and around in a circle pattern, it will be continuously oscillating the electromagnetic field (aka emitting waves). And from the little I understand about the discrete nature of photons, this can't be the case because photons are discrete chunks of energy, not continuous waves. 
+
+The follow-up questioning I had with /u/mfb- is basically: if the gif accurately represents how photons are produced, the wave can't be continuously emitted, they must be emitted in chunks and therefore possibly have time intervals between their emissions .. or else it's continuous. I don't really care WHEN the photons are emitted, I'm just looking for someone to confirm or deny that a finite amount of photons must be produced and the gif model is not entirely accurate at presenting how a single charge going around in a cyclotron emits energy. Either that, or I'm going mad trying to understand this stuff.
+I'm not concerned with when or how many photons are being produced by a single electron circling around in a cyclotron, I just want to know if the gif is consistent with the photon nature of EM radiation. If the gif presented a single charge moving around in a circle geometry with this same wave-like EM emitting mechanism, it would be **continuously** emitting waves - which from what I understand about the discrete nature of photons - can't be the case. Photons are discrete energy chunks... and the gif would be presenting continuous oscillations in the EM field if it showed a charged accelerating around in a circle pattern. Is the gif an inaccurate way of viewing **discrete photon** emission, or did I am going mad here?
+I'll just kind of copy paste a bit from my previous comment: I'm not concerned with when or how many photons are being produced by a single electron circling around in a cyclotron, I just want to know if the gif is consistent with the **photon nature** of EM radiation or if the gif is strictly showing some "classical" model of EM radiation that doesn't make sense to apply literally to photons.
+
+If the gif showed an electron circling around in a cyclotron and it showed this same EM wave producing mechanism, it would be showing continuous waves being emitted... which seems to be inconsistent with **discrete photon** behavior.
+The gif (along with any visual representation of QM) does not accurately represent what is going on. It looks like it is accurately modeling the classical emission of EM waves, so it is not going to accurately represent what happens in QED.
+In general you don't even have a well-defined number of photons in radiation. A finite power is emitted and every point in time contributes to the radiation.
+Okay good, I think that's basically all I wanted to know. I had assumed the gif was showing accurately how a single charged particle produces EM energy, but there must be some additional quantum complexity/weirdness in order to discretize the emitted EM waves in what would be called photons. And the gif doesn't attempt this. Thanks for the clarification.
+Okay, I can accept that every moment in time contributes to photon emission, but ultimately I think my question had the most to do with viewing the gif as a complete picture of how photons are formed/emitted. /u/mofo69extreme indicated the gif only shows classical EM wave behavior, and does not attempt to visualize any quantum behavior associated with the discrete nature of photons. Is that an accurate statement in your opinion? 
+
+If the gif showed the charge in constant acceleration on a circular path, it would be creating continuous wave patterns in the surrounding EM field - which, in reality, is not the complete story. There is some discretized nature to the created EM waves that the gif is not showing, correct?
+The gif doesn't show you any photons. It shows the electric field.
+
+These are not things that exclude each other. They are different ways to describe the same thing.
+Yes I understand photons are oscillations in the electric/magnetic field, right? The gif is showing the propagation of a single wave in this field. Could the single wave not be considered a photon to some extent even with an ill-defined frequency?
+
+My concern with the visualization in the gif is if we take the lone charge and make it continuously accelerate in a circular path. It would seem to be emitting continuous waves a la classical EM radiation, but really there is some other aspect to it that is more quantum in nature - and the gif seems to be missing something or is misleading if I'm trying to conceptualize the quantized nature of photons. I understand the electric field and the visualization is the original gif are a piece of the puzzle, but is it not an incomplete picture?
+Unlike what is presented in the gif, I know the photon exists in 3D space and has electric and magnetic component fields which induce one another to allow propagation. Other than that, is it missing anything else?
+The EM wave shown also has an associated "photon number" observable. As usual in QM, this observable is not a single number, but rather there is a probability distribution describing the number of photons with an associated average and standard deviation. In fact, there is also quantum uncertainty associated with other observables (like the amplitude of the electric and magnetic field) which are well-defined classically.
+
+Summary:
+The gif doesn't show you any photons.
+The gif is showing the propagation of a single wave in this field.
+Photons are discrete energy chunks... and the gif would be presenting continuous oscillations in the EM field if it showed a charged accelerating around in a circle pattern.
+It shows the electric field.
+Does this discrete particle aspect indicate that there are instances in time when the accelerating charge is not producing a photon?
+There is some discretized nature to the created EM waves that the gif is not showing, correct?

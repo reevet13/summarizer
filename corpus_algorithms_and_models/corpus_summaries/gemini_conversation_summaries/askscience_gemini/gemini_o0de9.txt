@@ -1,0 +1,16 @@
+The answer so far seems to be that it would depend on the distance away from a person and the size of the object, but that the object would have to be moving pretty goddamn quick regardless.
+The F-14 Tomcat you could begin to see at about 7 miles out (really good eyes could see it at 8 miles out) .
+The F-14 is 63 feet long.
+So using that as kind of a base, that you can see an object 63 feet long at 7 miles with the naked eye.
+I would think you could detect a 1/20 th of a second fairly reliably.
+So if you could detect an 63 foot long object 7 miles out going 7 miles in 0.05 seconds that is:
+
+36,960 feet / 0.05 sec = 504,000 mph or 140 miles per second or 225,308 meters/sec 
+It would also depend on the weather and the lighting.
+So the speed that matters is probably speed across your vision, or angular velocity.
+As stated several times, it's more about size &amp; distance, relative to velocity, than pure velocity.
+This is probably wrong, but let me take a shot.
+According to Wikipedia, although the human eye doesn't have a frame-rate, it can't distinguish between flickers at around 60 FPS... so if something comes in and out of your field of vision in &lt; 1/60 of a second, it theoretically shouldn't be detectable.
+If you assume a distance of ~10 ft. away (obviously distance from the object will matter), then you can see in a circumference of ~31 ft-- so simple r = d/t = (31)/(1/60) = 1860 feet per second, or, ~1300 mph.
+From my electronics background I can tell you that an LED that blinks on for ~16ms (1/60th a second) is easily visible.
+Even 100us flashes can be seen.

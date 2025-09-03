@@ -1,0 +1,11 @@
+Here is the summary:
+
+But what about all of the water sloshing around due to tides?  Wikipedia tells me that there is 1,338,000,000 km^3 of water on this planet, and 97% of it is in oceans.  I realize that only a small percentage of this moves around with the tides, but still that water is waaaaaaay closer than the moon is.
+
+It will have (little to) no effect on your weight, but it will change the vector of your weight ever so slightly. If this seems odd realize weight is simply the force of gravity upon your person and that force is a vector. All that mass is still acting on you just from different directions.
+
+Assuming STP 1 cm^3 is 1 gram of mass for water. So we have 1km^3 is 10^12 kg of water. We have 1.338*10^21 kg of water on earth. The earth has a mass of 5.9736×10^24kg.
+
+If the water were to instead shift so that it was all on one side of the earth it would be at about 45 degrees to you only loose 2^(1/2)/2 or .7 of that mass with respect to "down". So in an extreme state a person of about 70 kg would loose about 1kg or 1.4% of their weight towards the center of the earth.
+
+Great explanation, thanks!

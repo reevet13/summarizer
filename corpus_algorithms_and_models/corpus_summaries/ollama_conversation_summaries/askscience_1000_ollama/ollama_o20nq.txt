@@ -1,0 +1,11 @@
+Here are the selected sentences from the original text:
+
+Caffeine binds to the adenosine receptors specifically (A1 and A2a receptors).
+The A1 and A3 receptors are generally inhibitory receptors of adenylate cyclase while A2a and A2b are excitatory  receptors.
+Important to note is the distribution of the receptors and the interactions with other neurotransmitters.
+It appears that the [Adenosine A2A, but not A1, receptors mediate the arousal effect of caffeine](http://www.ncbi.nlm.nih.gov/pubmed/15965471).
+The A2a is primarily located in the striatum and is believed to have a direct functional relationship (specifically an inhibitory modulation) with the dopamine D2 receptor.
+When caffeine antagonises the A2a, there is a reduced inhibitory modulation of the D2-&gt; leading to increased D2 activation.
+Indeed activation of the D2 receptor activation is associated with an *inhibition* of adenylate cyclase.
+Important to note is that the D2 receptors are not directly linked to ion channels and instead lead to a complex cascade of intracellular events that have an effect.
+The finding that the A2a forms a heteromeric complex with the D2 is just the tip of the iceberg and it is only now being investigated into what the precise mechanisms involved are.

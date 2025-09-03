@@ -1,0 +1,66 @@
+Original Response:
+I don't know if the potential of [sodium phenylsulfamate](http://www.chemspider.com/Chemical-Structure.8411556.html) as a sugar substitute has been investigated so far but  after comparing and contrasting the binding of [sodium cyclamate](http://www.elmhurst.edu/~chm/vchembook/549cyclamate.html), which is a cyclohexane ring containing derivative of sulfamic acid, and [saccharin](http://www.elmhurst.edu/~chm/vchembook/549saccharin.html), which contains a benzene ring, to a simplified model of a sweetness receptor I'm wondering if sodium phenylsulfamate could be used in such a way. Does it taste sweet and if so how does its sweetness index compare to that of other sweetening agents?   
+Of course, besides its potency as a sweetener, other concerns including, but not limited to, solubility, stability, specificity to target receptors, metabolic breakdown and ease of synthesis must be taken into account so have any studies been performed in order to assess these properties?.
+[deleted]
+Apparently it has been tested. The second hit on googling "sodium phenylsulfamate" is [Synthesis and taste properties of sodium monosubstituted phenylsulfamates](http://www.sciencedirect.com/science/article/pii/0308814694901937)
+
+tl;dr- it possesses only a sweet aftertaste. derivative compounds were almost all bitter, and none were only sweet.
+
+I know you were thinking that since we know the sweet receptor structure, and we have some things that bind weakly to it, why can't we just predict the perfect structure to make the perfect sugar substitute? In theory this should be possible, but our current theories just can't make these predictions yet, so all you can do is test everything and hope to get lucky.
+Derivatives are almost always bitter? Interesting and like to read more. Could you give me a reference for it?
+Click the link I posted...
+
+http://www.sciencedirect.com/science/article/pii/0308814694901937
+I don't think phenylsulfamate is a sulfonamide.
+[deleted]
+&gt; The second hit on googling "sodium phenylsulfamate" is [Synthesis and taste properties of sodium monosubstituted phenylsulfamates](http://www.sciencedirect.com/science/article/pii/0308814694901937)   
+
+I can only read the abstract of that paper but they did actually test sodium N-phenylsulfamate or only some of its derivatives?  ~~Anyway, according to [this](http://www.scbt.com/datasheet-253592-sodium-n-cyclohexylsulfamate.html) it does taste sweet but it has been also studied in animal models for its carcinogenic potential.~~ Sorry, that was cyclamate but according to [this](http://pubs.acs.org/doi/abs/10.1021/jo01183a011) you're right, it only has a sweet aftertaste. I'm wondering why the substitution of a cyclohexane ring with a benzene one can cause such dramatic effects.
+
+&gt; I know you were thinking that since we know the sweet receptor structure, and we have some things that bind weakly to it, why can't we just predict the perfect structure to make the perfect sugar substitute?  
+  
+Well, not exactly, I was just curious to find out how would the substitution of the cyclohexane ring in sodium cyclamate with a benzene one  alter taste perception but your question is a better one.   
+   
+Edit:typos.
+&gt; It chemically contains a sulfonamide group.  
+  
+Personally I don't see it.
+
+&gt; Do you know what an -R group is?  
+  
+Well it was a while since I studied chemistry but I hope so. It stands for an ~~alkyl group~~ organic substituent, right? If that's the case, and I think it is, I don't see how phenylsulfamate could be considered a sulfonamide.  
+
+Edit:spelling.
+I don't know what a -R group is and I'm not a chemist.
+
+For my benefit could you tell me if the sulfonamide group is immediately obvious in the chemspider link or if it's something that would be formed by the chemical being broken down and reforming.
+
+If you could explain anything else necessary that would be helpful.
+The way I understand it, and how it was colloquially used in my chemistry courses, an -R group can be pretty much anything unless the possible candidates are restricted somehow (e.g. R = A or B or C). This might be apocryphal but Ive heard that the "R" stands for "Rest" as in "[the] Rest". Technically I believe -R is supposed to specifically mean an alkyl group, but ive seen it used as shorthand for almost everything.
+
+Using the template from the sulfmonamide wikipedia article linked above, sodium phenylsulfamate appears to have the following R groups:
+
+R1 = O^-
+
+R2 = benzene 
+
+R3 = H
+
+I think the question is whether the O^- can be considered a candidate for the "R" group, instead of the typical X/Y/Z that is used for an unspecified halogen. Which is a good question, and given that I'm more of biologist with chemical leanings than a chemist, I hope a chemist can pop in to shed some light on the issue since my preliminary searches havent yielded anything useful.
+&gt; An -R group can be pretty much anything  
+  
+Are you sure about that? I always thought R stands minimally for an organic substituent.  
+  
+&gt; R1 = O-   
+  
+Yes, if R can stand for O-, that would make it a sulfonamide but as I said I have my doubts that is the case or else carboxylic acids would be considered ketones by taking R=OH.
+Yeah, after thinking about it a bit more I had similar concerns and edited my post. I've seen R used colloquially to mean pretty much any organic substituent but technically I think its meant to strictly refer to alkyl groups. If that's the case, which I believe it is, then sodium phenylsulfamate would be a sulfamate (a sulfamic acid derivative,which its name reflects) rather than a sulfonamide. I don't know enough pharmacology to know if that makes a difference in terms of potential side effects, though.
+The oxidation state of sulfur is 4 if R=alkyl (a sulfonamide) or 6 if R=OR (a sulfamate). Same as the difference between an amide and a carbamate. IANA biochemist but I imagine this would be a whole different story biologically. 
+
+And yes, it would be pretty unconventional to abbreviate an alkoxy substituent as R.
+
+Summary:
+I don't think phenylsulfamate is a sulfonamide.
+I don't know what a -R group is and I'm not a chemist.
+&gt; Do you know what an -R group is?
+&gt; It chemically contains a sulfonamide group.

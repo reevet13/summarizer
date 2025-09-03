@@ -1,0 +1,13 @@
+Here is the summary:
+
+The Mars Science Laboratory was a very costly program; and even though there were no people in it, wouldn't it be practical to have an LES just in case things didn't go so well? Or would the added weight be such a hindrance that it wouldn't be practical?
+
+Oh i'm sorry. Launch Escape System and Launch Abort System respectively.
+
+To take your specific example of MSL ... MSL is designed around entry descent and landing on Mars ... a planet with significantly LESS atmosphere and LESS gravity than Earth ...
+
+This is not strictly true. An abort system could be designed that would allow a descent that is less violent than that seen on Mars.
+
+I think the real problem is in where the payload would eventually land. None of what you send to mars is built to handle a seawater environment, so on top of the payload fairing around your capsule for mars reentry, you need to add something in between that keeps seawater out in the event of a launch abort.
+
+I think a bigger problem is that even if you have to abort and you keep the landing and recover under what you expect to see during Mars reentry and landing, the vehicle isn't usually meant to do that *twice*.

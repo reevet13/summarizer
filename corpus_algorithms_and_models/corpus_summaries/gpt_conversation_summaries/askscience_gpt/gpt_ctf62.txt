@@ -1,0 +1,17 @@
+arXiv is a great place to start if they have what you're after:
+
+http://arxiv.org/
+
+Ask at the reference desk about journal subscriptions. It'll be online, not on a shelf. They probably have access to every journal you could want.
+
+Either the arXiv (which you've been linked to elsewhere I see), or just email the author direct - most academics will be happy to share their work :)
+
+What you should do is hunt for blogs in your field that discuss interesting papers, or for notes and slides from reading groups run by professor's working in the field. You get a prefiltered set of papers, cliff notes on why the work is cool, and if you're lucky a discussion about the important points.
+
+If you can find out what the major journals in the field are, then watch their websites. Journals published by the major scientific publishers (elsevier, wiley etc.) often have RSS feeds of the journal available. The abstracts are free, and if you find something that really interests you there are often ways to access the full text of the paper for free.
+
+Get an account at a local university library. That should grant you online access to papers.
+
+Your library should have a subscription to JSTOR or something along those lines.
+
+IEEE has a ton of journals with updates from EE.  Remember basically every professor at a university publishes about 5-20 papers a year with their students and co-workers, so that creates a lot of papers.  You'd have to pay to get access to the articles, but your university library likely has ways to access all/some of them online.

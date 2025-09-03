@@ -1,0 +1,107 @@
+Original Response:
+Just saw a flame flickering in a room and wondered the process behind its movements.
+You can't have still air with a flame, as the flame will heat the air and the air will start circulating.
+And air circulation due to heating requires gravity to work. In microgravity experiments, the lack of air circulation causes flames to burn out, as no new oxygen is brought to the combustion source.
+
+The microgravity flame, prior to it burning out, does not flicker, and is [spherical](http://www.scientificamerican.com/article.cfm?id=how-does-a-flame-behave-i).
+[deleted]
+I understand that gravity would effect the circulation by pulling the high density colder air below the low density warm air, but doesn't a fire also consume oxygen? Therefore, air would have to be moving towards it to keep it alight, but also as the spent-air (now water vapor and carbon dioxide) would have to be moving away from it as it is now hot and expanding. 
+Granted, your article it does mention diffusion, but I suppose I'm typing to ask you why it doesn't happen at a rate that's able to sustain the flame. It seems to me that it should at least be able to generate some air movement and become self sustaining.
+While the flame would cause air to move, in a perfect system, would it not circulate in a uniform manner therefore not affecting the flame itself?
+
+Surely the material being burnt would have a big influence on the flickering of a flame in a perfect air circulating system?
+&gt;spent-air (now water vapor and carbon dioxide) would have to be moving away from it as it is now hot and expanding
+
+It does, in every direction at once, preventing new air (and oxygen) getting to the flame.
+This isn't true.  Flames in zero gravity conditions receive oxygen via diffusion.  This may or may not cause the flame to burn out depending on the details of the fire (ie how fast it burns).
+What if the temperature of the air is equal to that of the flame?
+Good point. 
+
+So then, would it temporarily create something like a vacuum?
+No. just a mass of air around it that has no oxygen. Still has the other ,stuff.
+Ah cool. I thought since it was all expanding, there would have to be a point with very low density, if any, near the center. Thanks for clarifying!
+"Low Velocity" flames will still flicker, even in a windless environment.  The reason being is the combustion reaction yields inherent instabilities causing turbulent flow of the outbound products.  If you take the same reactants and increase their discharge velocities sufficiently (such as from a blow torch) the flame will stabilize because the velocity is sufficient to maintain laminar flow while the product temperatures are still high enough to yield a visible flame.  Eventually the product gas velocities will drop and become turbulent, but after they have cooled to the point that they are no longer visible.
+Lower density, but identical pressure to ambient
+Many times the flicker is due to uneven fuel flow through the wick.  
+*****************************************
+Edit: Apparently stating a true fact that can be easily verified is not enough.  I will expound on my original factual and verifiable information as apparently requisite of those with dubious monikers in this fine subreddit: 
+
+This comes from my own candle-making experiments in which I attempted to optimize the burn duration of a beeswax "tea light" style candle with a hemp twine wick.  As the wick performance for paraffin-based tea lights is the industry standard I attempted to emulate the characteristics of those tea lights.
+
+One issue that is present with bees wax that is not with paraffin is that bees wax contains many more impurities.  The properties of the hemp wick are also different than that of the cotton fibers used in a traditional tea light candle.  The wick in a bees wax candle tends to build up a thick, hard clump of these impurities at the base of the flame floating on top of the wax.  These coalesce into a mass that does not easily absorb or transfer the molten wax to the point of the flame.  This impedes the flow of fuel from the reservoir of molten wax to the point of combustion at the top of the wick.
+
+If this mass is manually removed from the candle's wick periodically, the flickering of the candle's flame is immediately and perceptibly reduced.  
+
+To test the theory that the flow of fuel is the cause of this flickering I constructed multiple test candles with various wick thicknesses and designs with the wick base being constructed as identically as possible in each.  I found that a larger diameter wick was capable of providing more consistent, but also more a more rapid flow of fuel.  A smaller wick would often be so starved of fuel that it would burn the hemp fibers in the absence of wax, and eventually extinguish itself.  Relighting a candle with an insufficient wick is difficult as there is frequently insufficient exposed surface area remaining after it has burnt out to maintain a flame.  
+
+There are other factors that exacerbate the inconsistent flow of fuel and therefore increase the extent of the flickering.  One being that as the flame gets hotter it will melt wax more wax and fill the pool at the base of the wick to a greater extent.  This additional fuel reduces the surface area of the wick and thereby reduces the intensity of the flame.  This reduction in heat output slows the melting of wax and causes a shortage of available fuel to refill the pool of wax at the base of the wick.  This means that as the currently-molten wax is taken up through the wick it is exposing more surface area of the wick.  This additional surface area allows the flame to get more fuel and increases the intensity of the flame.  This increased heat melts more wax causing the pool to fill up and again reduces the surface area of the wick available to the flame.  This repeats in a cycle.
+
+In my experiments I was able to reduce this effect by putting a thin layer of metal with a hole in it over the candle's container with the wick exposed.  This was intended to evenly distribute the heat, and to act as a heat-sink, alleviating rapid changes in temperature of the flame.  This resulted in a significant reduction in flickering behavior.  
+
+Another flame-based lighting device that employs this technique is an oil lamp wherein the fuel is stored in a reservoir separate from the point at which combustion occurs.   This allows the viscosity of the fuel to be separated by some distance and by a significant amount of thermally-insulating material (glass), while having a metallic wick housing which would maintain a consistent temperature aiding in the evaporation of the fuel.  When an oil lamp starts flickering you trim the wick to reduce the carbon buildup and allow a consistent flow of fuel.  
+
+The impurities in the bees wax made the flickering more pronounced, especially when they built up around the base of the wick and impeded the flow, causing an exaggerated flickering effect.  Attempts to adjust the size of the wick were successful in reducing the flickering, but also increased the intensity of the flame greatly and increased consumption of fuel, thereby rendering the operation of the device outside of the designed specifications of traditional tea lights, or conversely prevented the candle from even burning consistently, and often rendering itself unable to be relighted due to extensive wick damage caused by inadequate fuel supply.  
+
+The nature of the above described phenomenon made it possible for me to draw conclusions from direct experimentation which reinforced my initial assumptions that an impeded and inconsistent flow of fuel is the cause of the flickering.  Once the flickering has started it is cyclic in nature creating a feedback-loop that exacerbates the effect until it reaches an equilibrium.  Various aspects dictate the point at which it develops an equilibrium, one of these being the speed at which the fuel can travel through the wick to the point of combustion.
+The answer is because of the oxygen in the air. It's not 100% consistent throughout so the flame is drawn to where the oxygen is most abundant- causing it to flicker around. This is why the Bunsen burner flame is consistent because oxygen is fed through a hole in the base.
+
+**EDIT: I don't know why so many people are down- voting this comment. It's a legit answer.**
+[deleted]
+prove it, "highguy420"
+You would need a very slow burning substance for diffusion to supply enough oxygen, wouldn't you?  If the substance is that slow burning, wouldn't it likely just be smoldering?
+I'm not sure I see your point.
+He was asking about flames specifically.  Smoldering wouldn't normally be considered a flame I don't think.
+Smoldering doesn't normally happen in the total absence of flame.  Normally there will still be very dim flame.
+Are you accusing me of providing inaccurate information based solely on my username?  That's petty.  This is reddit, where you can choose any username you want, even an ironic or intentionally-disarming one.
+Nope.  A candle flame is by definition a diffusion flame.  Fuel and oxidizer sit on oposite sides of the reaction zone, and products are diffused outwards.  This is comparison of a premixed flame, where fuel and oxider are on the same side of the flame, with products on the opposite side.  In fact, every non-premixed flame is at some length scale a diffusion flame.  Diffusion can supply a huge amount of oxygen if the gradients are high, and even more in a turbulent environment (example would be a turbulent shear layer separating fuel and oxidizer).  In this case, turbulence would make the area between the two streams huge, which would dramatically increase diffusion.
+Is there not any flicker from different amounts of surface area being exposed as fuel as an object burns?
+What do you mean by still air?  If you mean that there is no air currents in the room except for the buoyancy-driven flow generated by the flame I'll try to answer your question.
+
+The short answer is yes, because of naturally occuring combustion instabilities and hydrodynamic instabilities.  
+
+First I'll list the relevent hydrodynamic instabilities (a couple good videos/pictures can be found on /r/hydrodynamicstability if you're interested):  
+1. Kelvin Helmholtz instability: This is a result of two fluid streams travelling at different velocities which come in contact with each other.  The result is vortex generation at the interface between the two fluids.  This type of instability is considered to be convectively unstable, which means that small imperfections are amplified as they convect downstream.  
+2. Rayleigh-Taylor instability: This is caused by a denser fluid sitting on top of a less dense fluid.  Naturally occuring imperfections will destabilize the system and cause the less dense fluid to rise, and drive a Kelvin-Helmholtz instability on the interface between the two fluids.  In the candle problem, this is what causes the natural circulation of air which feeds the candle with oxidizer.  These processes will cause any visible smoke, as well as the top of the flame, to be imperfect (flicker, or move around in a manner which seems somewhat random) as disturbances (even immeasurably small) will be convectively amplified.
+
+Second are the combustion instabilities.  Some that pertain to this problem are:  
+1. Darrius-Landau instability.  This is caused by the flame acting as a partial blockage to the flow, so the flow will tend to diverge as it approaches a flame.  The result is that if a flame is wrinkled, the leading points will move forward a bit as they see a lower flow velocity, and the trailing points will get pushed further back.  This is more noticable in premixed systems, but I've sometimes seen candles or match flames with the odd streak sticking out way above the rest of the flame.  
+2. Sensitivities to the above mentioned hydrodynamic instabilities.  The hydrodynamic instabilities cause an increase in surface area, which changes the local burning rate, which could effect the flow blockage and cause Darrius-Landau instability.  
+
+The long story made short is that everything is coupled with everything else in the problem, and that small disturbances have the tendency to be amplified.  There is one stabilizing mechanism, and that is the drop in density of the air as it passes through the flame (caused by increase in temperature).  This causes a drop in the reynolds number (by about a factor of 6-7) which would tend to make the problem more laminar and less turbulent.  This is why you don't see clear Kelvin-Helmholtz rollup on the flame surface.  Even still, any generated or amplified vorticity will remain in the flowfield, and cause instability.  So even in the case of still air (or as still as one can possibly make it), you'd still see some flickering.
+
+Lastly, upwards flow around the candle will cause a small wake reagion around the area with the wick.  Wakes can be notoriously unstable from a hydrodynamic stability standpoint, and are often absolutely unstable (von karman vortex streets are a good example of this, they have a wikipedia page for the interested).  This would mean that the normal upwards air current could generate an oscillation in the flowfield just preceding the wick/flame due to the tiniest imperfections in the flowfield which would grow in time (but not move in space) until a wave-making region is formed.
+
+EDIT: Formatting and talking about bluff body wakes as an instability mechanism (last paragraph.)
+Huh, cool, thanks.  I think I'm going to have to spend a bit more time learning about this.
+And then the flame goes out (or just gets much weaker), it cools, and sucks the air back in, this effect can be used to create a [pulse jet engine](http://en.wikipedia.org/wiki/Pulse_jet_engine) with zero moving parts that sucks in fresh air and blows out hot exaust without requiring hot air to rise.
+Then the flame would get hotter, combustion releases energy, making the flame hotter than the input gas.
+Which can be useful if one wants to bombard London.
+Yeah, I'm a grad student studying combustion, so if you have any questions I'd be glad to help.
+Do you know of any good resources for learning some of the basics?  It doesn't have to be easy, just kind of comprehensive.
+Well, one of the teachers at my school puts all his notes online in PDF format.  His site for the combustion class is [here](http://soliton.ae.gatech.edu/people/jseitzma/classes/ae6766/index.html).  If you go to the course outline, it's a PDF which links to all the other notes for the course.  Diffusion flames would fall under the section IX. Laminar Nonpremixed Combustion.
+[deleted]
+Those are some nice links. I love fluid dynamics.
+Where at?
+
+Aero or mechanical or other?
+Awesome, thank you!
+Georgia Tech.  I'm mechanical, but our lab is a mix of both and I've ended up taking a mix of classes from both departments.  Actually presenting at an AIAA conference next week.
+
+How about you?  Your flair would suggest you're an AE grad student (or recent grad) somewhere.
+Finishing my Aero Phd at UM in Feb. Moving to the combustion side of things in a post-doc in combustion synthesis.  Have fun in Nashville!
+
+Summary:
+The answer is because of the oxygen in the air.
+This impedes the flow of fuel from the reservoir of molten wax to the point of combustion at the top of the wick.
+This increased heat melts more wax causing the pool to fill up and again reduces the surface area of the wick available to the flame.
+just a mass of air around it that has no oxygen.
+Many times the flicker is due to uneven fuel flow through the wick.
+What do you mean by still air?
+There is one stabilizing mechanism, and that is the drop in density of the air as it passes through the flame (caused by increase in temperature).
+Normally there will still be very dim flame.
+"Low Velocity" flames will still flicker, even in a windless environment.
+What if the temperature of the air is equal to that of the flame?
+I'm not sure I see your point.
+The microgravity flame, prior to it burning out, does not flicker, and is [spherical](http://www.scientificamerican.com/article.cfm?id=how-does-a-flame-behave-i).
+Second are the combustion instabilities.
+This additional fuel reduces the surface area of the wick and thereby reduces the intensity of the flame.

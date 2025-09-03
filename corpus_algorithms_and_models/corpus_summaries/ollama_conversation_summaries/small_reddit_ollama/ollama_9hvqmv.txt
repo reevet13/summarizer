@@ -1,0 +1,7 @@
+Here is a summary of the text, selecting up to 250 words or about 10% of the original text:
+
+Both sides of the camp very vehemently disagree with each other and say incredibly unkind things to each other and treat each other very poorly, but I can't even express how happy it makes me that at the end of the day people realize that it is in everyone's best interest to look out for one another.
+
+Cory Fields pointed out in his write up that no matter what he thinks about bitcoin cash it is in his and the project he has an affinity for's best interest to responsibly disclose bugs to them because in the future it may turn out to be the case that someone on the other side will have information about a critical vulnerability that he would like to have responsibly disclosed as well.
+
+I don't think I can even express how important this is for both bitcoin ~~cash~~ abc/sv/etc and bitcoin core.

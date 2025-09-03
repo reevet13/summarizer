@@ -1,0 +1,25 @@
+Here are the selected sentences from the original text:
+
+What you're describing are [tangent circles](https://en.wikipedia.org/wiki/Tangent_circles). The circles touch at exactly one point.
+
+(x - x_1)^(2) + (y - y_1)^(2) = r_1^(2)
+
+and
+
+(x - x_2)^(2) + (y - y_2)^(2) = r_2^(2)
+
+A point is zero-dimensional - it has no length, width, or height. It has a location (like x/y coordinates), but that's about it.
+
+There's no such thing as the value of a point. If you want to know the coordinates of the point, then you have to solve a system of equations.
+
+Two figures are considered literally "the same" in that case. I'm afraid I can't explain it better than this since english is not my native language.
+
+You will not be able to describe them differently, that is to say both will be described by the same mathematical equation, and hence they cannot be different.
+
+When you talk about a point, a point has to have value, either 0, which means there is no point, or 0.0000001(with infinite zeros) being the smallest amount of contact possible...
+
+You're describing a real physical system, not a pair of perfect mathematical circles. They don't obey the same rules.
+
+Two tangent circles meet at a single point. Each circle is a set of points which form the curve of the circle. There is exactly one coordinate that is on the curve of both of them; that's where they meet.
+
+You won't find your answer because you're using mathematical models to describe physics, without taking into consideration the validity of your models.

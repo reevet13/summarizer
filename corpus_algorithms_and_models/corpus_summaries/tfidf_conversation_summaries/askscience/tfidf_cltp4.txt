@@ -1,0 +1,18 @@
+Original Response:
+As I understand it liquid water arrived on earth during the great bombardment. How much additional water would it take (as a percentage of the actual total) to cover the Earth completely? Or at least so much as to render land-based life unlikely?
+IANA-Geologist but I my understanding behind why Earth isn't completely covered in water is that Earth isn't completely smooth. If Earth was really really smooth (i.e. the tallest mountain was just 10ft taller than the deepest trench), then the amount of water we already have in the oceans would be sufficient to completely cover the planet. On the other hand, if Mariana Trench was wider and deeper, more of the ocean water would be used to fill it up, this lowering the sea-level across the planet. Add in a thousand such trenches across the ocean floor and suddenly a lot more land becomes visible.
+I don't really know a great answer to this question, but if I may treat it as a fermi problemOk, so as a first approximation you can ask what volume of water you need to increase the radius of a uniform sphere from R\_earth to R\_earth + r.  The result you get for small r (by which I mean I'm dropping corrections to this which go like r/R_earth) is 
+
+     V~ 500,000,000 km^2 * r
+
+From which you can pick an r and compare the volume to the estimated volume of the oceans, which google tells me is 1,300,000,000 km^3 or so. This doesn't take into account the land very well though, so it's going to overestimate by a lot, so we can try to do a bit better:
+
+Wikipedia claims the average height of the land above sea level is 840m.  For the sake of getting a next order approximation, lets treat the land on Earth as a huge plateau of height 840m.  The oceans cover 361,800,000 km^2, so to bring that sea level up to the 840m average would take about 300,000,000 km^3, which is like 23% of the water we have already.  This probably underestimates compared to a better land model, so we can take it as a soft lower bound on what we'd need.  For an upper bound we can take 1km in the landless model which we know should overestimate things, and get 500 million km^3 which is 38% or so.
+
+So this kind of gives one a feel for the scale, something like another 20%-40% of what we have now would probably render most of the land uninhabitable.  And of course more would work better for that purpose.
+
+Of course, there's probably someone out there that can do much better than this little Fermi problem reasoning, but FWIW there's my back of the envelope estimate ;)
+thanks!
+
+Summary:
+How much additional water would it take (as a percentage of the actual total) to cover the Earth completely?

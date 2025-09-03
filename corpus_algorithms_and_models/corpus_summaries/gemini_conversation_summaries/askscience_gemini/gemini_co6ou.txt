@@ -1,0 +1,36 @@
+I think the most frightening scenario for earth is that we will get blown out of existence by an asteroid/comet and we won't even know what hit us. How good are we at predicting the path of every single large asteroid/comets within our solar system which has a potential of colliding with earth?
+The prospect of having no warning and just get wiped out within minutes is really sad and frightening.
+NASA's already answered the question.
+The answer is very small.
+So there you go, the exact odds of the closest known asteroid to hit earth is 1 in 250,000.
+We currently know around 7-8,000 asteroids that may hit earth.
+The NEO group at NASA is collaborating with agencies all over the world, specifically with the Japanese and the European Space Agency, and are constantly scanning the skies 24/7 for it.
+In all honesty, we're fucked.
+Darthfuzzy estimates uses only one angle to estimate the problem, e.g., of measured orbits of known near earth orbits what is the chances of impact in the near future.
+The alternate approach is to use historical data to estimate the frequency of impacts of various scales.
+I TAed a intro astronomy class (spring 2006) back where one the profs lectures notes went over pretty much this exact question.
+Asteroid impacts follow a nice power-law distribution (shown slide 10), where smaller impacts happen at a rate of ~ 1 every hour, catastrophic mass extinction ones happen every ~ 100 million years.
+A 1994 Nature article did the actuarial calculation gives a range wide- range for chance of being killed by cosmic impact being in the range of 1 in 3 000 - 1 in 250 000, with an average of about 1 in 20 000 (similar to chance dying in an airplane crash).
+We spend very little on tracking orbits of near earth objects.
+So from this angle the chance of a large impact that should occur roughly once every 10 million years should occur in the next 200 years at a rate of roughly ~ 200/(10 million) = 0.02%.
+That's not going to happen, look at a scale model of the solar system (rather than a CGI made by TV producers).
+If the Earth is the size of a typical-sized globe, then Earth is 4.8 km from the Sun.
+The nearest another planet ever gets to us is ~1.3km.
+The moon is only about 12m away, but remember the Earth is only 41cm.
+I meant to say that if the debris from a collision comes within the range of earth's orbital path and earth's gravity takes it from there.
+Yes, that makes sense.
+Its really the same thing as a straight-on collision (in the absence of gravity), except that the impact cross sectional area of the Earth is slightly bigger than its physical cross section.
+We know basically nothing about planets outside our solar system, besides that they exist and what their mass and orbital radius are (and ~20 years ago we weren't even aware of their existence), let alone how frequently they have collisions.
+The very early solar system had more collisions as the planets were forming.
+I also do not think we have any expectations that the local environment around our solar system should change significantly.
+Chances of the actual earth being destroyed?
+Zero.
+I've thought about this for awhile now.
+It takes about 200 million years to orbit once around the center of the Milky Way.
+I read that things don't orbit the Milky Way at the same speed, so is it possible that while going around the galactic center, we go through patches of debris (like a galactic asteroid belt) about every 200 million years?
+Your hypothesis would expect the major extinction events to have an almost precise period of 250 Ma (Ma = million years).
+Your hypothesis also wouldn't expect a power-law type distribution to arise (e.g., a continual variation of impactor size with impactor frequency).
+Power laws arise naturally from systems that possess a certain kind of scale invariance, which your system (where one section of the galaxy is particularly debris filled).
+One could also object that the rest of the galaxy is also rotating with us (same direction at more or less the same speed), so its not like the debris field would stays static while we move through.
+I had looked at the frequency of mass extinction events in the past, but not all of them are the result of a meteor impact.
+It would be more reliable to look at the recorded impact events we're aware of, but even then it would be difficult to determine, since there may be

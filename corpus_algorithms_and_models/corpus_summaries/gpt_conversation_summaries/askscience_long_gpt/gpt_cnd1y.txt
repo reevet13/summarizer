@@ -1,0 +1,17 @@
+Keep in mind there are other kinds of space besides a physical one. There is a Hilbert space, where the dimensions are values of quantum operators, and parameter space, where dimensions are values that different constants or parameters can take, or phase space, which shows all possible states of a system in terms of position and velocty.
+
+There's also the String Theory Landscape which maps all the possible string theories (like 10^500 of them), in the hopes that one of them describes our universe.
+
+When you're referring to different kinds of spaces, you can refer to ours as an Einstein space, or Einstein manifold (which it very aproximately is). It really depends on the context (on which aspect of the observable universe do you wish to comment?).
+
+In reality you never read "in the real universe..." Instead you get statements like "astronomical observations suggest..." or "these constructions have yet to recover 3+1 dimensional solutions..."
+
+There is a lot of literature in philosophy/metaphysics about the plurality of worlds and spaces. May I suggest you take your query to /r/philosophyofscience ?
+
+I think it is probably because theoretical physicists don't really talk about "our" world.  They talk about the closest analog to our universe that we have, which is one in which all the laws of physics we think are true are true, but they can't talk about our world much because they don't know all the rules to our world.
+
+I think the concept of a single reality, one universe in which we live, "the cosmos", as it were, is fundamental enough not to warrant a special name or label. 
+
+Ah. Have you read about the [metric](http://en.wikipedia.org/wiki/Metric_\(mathematics\))? It gives the concept of how distances are measured in space. It may be similar to what you're thinking, though the presence of matter changes the metric. 
+
+edit: Our universe is largely flat, except near black holes and stuff, so we use something called the [Minkowski metric](http://en.wikipedia.org/wiki/Minkowski_space).

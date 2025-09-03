@@ -1,0 +1,11 @@
+Here is the summary:
+
+Depending on the temperature and pressure, you can get different kinds of ice forming, as seen on the [phase diagram](http://en.wikipedia.org/wiki/File:Phase_diagram_of_water.svg).
+
+It stays in the liquid phase, but at high pressure.  [Here is a phase diagram of water](http://upload.wikimedia.org/wikipedia/commons/0/08/Phase_diagram_of_water.svg) showing the relationship between temperature, pressure, and phase.
+
+Pressure has a huge effect on what phase you will find a substance in.
+
+The phase diagram shows you that, although it doesn't make intuitive sense, water can exist as a solid at high temperatures if it is under enough pressure.
+
+Realize it does get the point where electrons can no longer exist in their own orbit because the pressure pushes them too close together.

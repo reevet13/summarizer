@@ -1,0 +1,11 @@
+Here is the summary of about 10% of the text (up to 250 words):
+
+Yeah, it should be possible. I believe the general consensus though is that if you have 7700k, there's not much point in upgrading to 8700k. I personally wouldn't spend $400 for very little improvement.
+
+Sorry, but as far as I know, there's no cross compatibility between 6th/7th gen and 8th gen. Can you source that?
+
+It's true.
+
+Some people and a manufacturer apparently stated that you can mod the BIOS to use 8th on an otherwise 6/7th board.
+
+Anyway,you shouldn't use the 8700K since:

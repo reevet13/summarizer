@@ -1,0 +1,7 @@
+Here is a summary of up to 250 words:
+
+One of the last great projects that Nikola Tesla worked on was his World System for wireless energy, where he used a giant Tesla coil with a massive metal top hat to "pump" charge back and forth into the earth.
+
+According to his patent, this pumping action would set up standing waves over the surface of the earth, that you could tap into by building another Tesla coil resonator tuned to the same frequency.
+
+I'm looking for a paper somewhere that shows the potential existence of these standing waves, as derived from Maxwells equations.

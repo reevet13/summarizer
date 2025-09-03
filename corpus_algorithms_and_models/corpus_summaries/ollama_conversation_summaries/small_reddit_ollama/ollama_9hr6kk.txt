@@ -1,0 +1,41 @@
+Here are the selected sentences copied verbatim from the original text:
+
+**Have you read the sidebar and [rules](http://www.reddit.com/r/buildapc/wiki/rules)? (Please do)**
+
+Read through the starter guide and went through the Toms guides as well as a few others mentioned there
+
+**What is your intended use for this build? The more details the better.**
+
+I mainly intend to use my PC for gaming such as Battlefield, R6, Fortnite, POE, etc.  I also will likely use it for some 3d rendering of various organs as well as data analysis and coding in Matlab/Java related to my job in health care.
+
+**If gaming, what kind of performance are you looking for? (Screen resolution, framerate, game settings)**
+
+I am looking for at least 60 FPS with games on high or ultra settings.  I am tired of playing on my 5 year old laptop and want things to run fast and look pretty
+
+**What is your budget (ballpark is okay)?**
+
+Budget is around 1200, but willing to go up, any suggestions for bringing it down would be appreciated.  I would rather spend money on things like gpu, cpu, etc. Then on things like a cool case or quiet fan.
+
+**In what country are you purchasing your parts?**
+
+U.S.
+
+**Post a draft of your potential build here (specific parts please). [Consider formatting your parts list.](http://www.reddit.com/r/buildapc/wiki/pcpp) Don't ask to be spoonfed a build (read the rules!)**.
+
+https://pcpartpicker.com/list/PPtJNQ
+
+None of this is set in stone if people have better ideas.  Just what i came up with after a couple hours on toms and a few other sites.  
+
+**Provide any additional details you wish below.**
+
+If anyone has any good suggestions for a monitor I would love to hear those as well.  I am leaning towards a dual monitor setup with a main one for gaming and so on and then a crappy one for just browsing the web/discord and so on at the same time.  
+Thanks for your feedback!
+
+Here is a different build.
+
+...
+
+**Type|Item|Price**
+
+CPU | [AMD - Ryzen 5 2600 3.4GHz 6-Core Processor](https://pcpartpicker.com/product/jLF48d/amd-ryzen-5-2600-34ghz-6-core-processor-yd2600bbafbox) | $164.99 @ Amazon 
+...

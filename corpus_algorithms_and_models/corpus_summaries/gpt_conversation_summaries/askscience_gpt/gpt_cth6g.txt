@@ -1,0 +1,7 @@
+I don't quite understand the question, but the energy between two charged objects is k*Q1*Q2/r, where k is 9*10^9 Newton-meters^2/Coulomb^2, Q1 and Q2 are the charges (1.6E-19 coulombs in this case), and r is the radial separation. 
+
+Although in reality, the electron doesn't sit in a continuum, it sits at discrete energy levels. The lowest one has 13.6 electron volts of energy. 
+
+Not sure if I'm interpreting the question properly, but what I think it's asking about is the fact that the proton and electron are not bound in this case (since the electron is in the continuum state). This means that the combined energy of the single proton and the single electron is higher than that of a hydrogen atom, where the electron is in a bound state with the proton. 
+
+Hmm, I thought continuum was outside of the discrete levels eg. The lowest level is -13.6eV and continuum is &gt; 0eV

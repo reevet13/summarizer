@@ -1,0 +1,102 @@
+Original Response:
+When the Universe originated and was very small, quantum uncertainty certainly engulfed it, yet today, in macroscopic objects, we do not notice any residual uncertainty. How is this possible? Why isn't Earth smeared around the Sun in no one position at any time, like say an electron is around an atom?
+&gt;yet today, in macroscopic objects, we do not notice any residual uncertainty
+
+We don't? Most physicists believe that quantum uncertainty lies at the heart of galaxies and the largest structures in the Universe.
+
+The reason is that during inflation - a period of accelerated expansion thought to have taken place in the very earliest moments after the Big Bang - the Universe was expanding so rapidly that quantum fluctuations on microscopic scales were blown up to astronomical proportions - larger than the size of the observable Universe - before they had time to settle back down. Being too far apart to communicate causally, different ends of these fluctuations "froze in," leaving variations in the density of the Universe which we observe in the cosmic microwave background and which, eventually, gave rise to the large-scale structure of the Universe. Without the quantum fluctuations during inflation, there's no other way to produce the cosmic structure we see today while also staying consistent with observation.
+This seems like a very complex subject, but when you say 
+
+&gt;Being too far apart to communicate causally
+
+Wouldn't subatomic particles from the big bang by bound under the rules of quantum entanglement? Where it would not matter if they were at different ends of the universe, they could still communicate. 
+
+Otherwise, in reference to your general point, you're basically saying that Newtonian physics is not actually reality but just a relic of some quantum fluctuation?
+It's best not to think of entangled pairs of particles or anything in this case. They're just density fluctuations which would normally go back to zero in some short period of time, but are blown up to astronomical sizes in an ever shorter period of time. Anyway, quantum entanglement can never communicate any *information* faster than light to begin with.
+
+As to your second question, I mean, Newtonian physics isn't a full description of reality in any case. On small scales, quantum mechanics holds, and on astronomical scales special and general relativity become important. Newtonian physics is a useful approximation only in the régime in between, at speeds much less than the speed of light, lengths the scale of people and planets, and so on.
+
+But no, don't think of these quantum fluctuations as setting your laws of physics. Think of them as setting the stuff that goes into those laws. In this case, the relevant physics is general relativity, our theory of gravity, and the question is, given general relativity, what sort of structures develop in the Universe? In order to answer that question we need to know how the stuff - the matter and so on - in the Universe is laid out, put that into our equations of general relativity, and crank out an answer, because general relativity alone doesn't tell us those initial conditions.
+
+So was the matter in the Universe initially completely smooth, or did it have little bumps in its density? If so, what size are those bumps, and where did they come from? That's where the quantum fluctuations during inflation come in: they explain quite naturally how those bumps arose (because as long as you have a period of inflation, these fluctuations come with it automatically) and they also make predictions for the sizes of the bumps which are in excellent agreement with what we observe looking at the cosmos.
+&gt; Anyway, quantum entanglement can never communicate any information faster than light to begin with.
+
+I have never understood this. Isn't the state of one particle at least one bit of information? For instance, when one particle has an "upspin" the other automatically has a "downspin". How is that not at least a single bit of information?
+From KaneHau:
+
+Not really, because information is not really sent. Entanglement collapses because of measurement (or change) to one of the entangled particles.  
+If Alice has one entangled particle and Bob has the other, and Bob makes a measurement or change, then he now knows information about both his and Alice's particle. However, Alice does not know the measurement has been made and can not know this without making a measurement on her end (which Bob already know the outcome of, but she doesn't), or waiting for that information from Bob via some other means.  
+Thus, in order to get information from Bob to Alice, it would need a second channel.  
+This also doesn't make much sense because you could just use a modulated laser (for example, or microwaves, etc.) to send massive quantities of information at light speed without having to invoke entanglement (e.g., entanglement doesn't buy you anything at light speed in terms of information transmission, much less efficient information transmission).  
+We can easily encode a television signal into a laser and send it at light speed - lots of information.
+
+
+
+Basically, once you measure the particle the entanglement is broken. Even if you measure it, yes you do know the state of her particle, but she doesn't know it unless you send information to tell her what it was(which is bound by the speed of light anyway). 
+
+If she measures it later, before she finds out you already measured, she may believe *she* broke entanglement and knows the state of your particle, but if you had already measured it that isn't necessarily the case.
+I can't understand what you mean by "communicate causally" at all. What other kind of communication is there?
+What if you time it so that bob measures his particle at 10 seconds and alice at 11 seconds to find out what bob's measurement was?
+Actually, M Theory hypothesises that the Earth IS smeared around the Sun in many positions simultaneously, just in additional dimensions that we can't perceive.
+
+On top of this, quantum effects are observable on the microscopic level but tend to cancel each other out on the macroscopic scale.
+You aren't sending the measurement, you're just making two different measurements.
+You would still have to transfer information to tell them when to measure. That information was transmitted at STL speeds, so what is the point? 
+
+But even then, once Bob makes his measurement, the entanglement is broken. Alice makes hers, and assumes Bob's is the opposite. But that isn't necessarily true. And she doesn't know whether or not Bob has made the observation, so unless he tells her when, she doesn't actually know the state of Bob's particle.
+Why would you have to transfer information to tell them when to measure? Just get two clocks and agree upon a measurement time.
+
+Why is it not necessarily true that the measurement isn't the opposite? I was under the impression that this was the point of entanglement - due to conservational laws if the system is measured in state A it must not exist in state B if we prepared the system as only state A or B.
+Right but as soon as we make the second measurement we get information about the first measurement which may have occurred light years away.
+
+I was under the impression that entanglement doesn't allow you to transfer information because you can't alter the entangled state without disentangling it, and therefore even though you can know what a state is 1000 light years away without measuring it, it doesn't matter because because the person 1000 light years away can't actually encode information into the entangled state after separation.
+You still have to communicate at what time you are going to measure at slower than light. Lets say our clocks are synced perfectly (this is very difficult or impossible, but lets ignore that for now). I tell you that I'm measuring at 1:00 PM, and you should measure at 1:30 PM. In order for you to know that, I have to first tell you what time we are measuring at. Yes, the second I measure it, I do know what the state of your particle is. But you don't know what the state of mine or yours is. 
+
+To once again steal from Kanehau:
+
+Well, as one other poster pointed out further - it could be determined with handshaking. In his example - two atomic clocks are used, Alice has one, Bob has the other. Both know Bob is supposed to measure at 1:00 PM. At 1:30 PM Alice expects to receive a message saying the measurement was completed. If she receives that message then she knows she can do her measurement without collapsing entanglement since it is already collapsed. in this example, the 1:30 PM message was a form of a handshake which told Alice that Bob had done the measurement.  
+However - nothing was gained by this at all. The information had to be imparted classically. No advantage is given to Alice or Bob in this example. The only thing that happened was Alice was certain that Bob had done the measurement, thus collapsing entanglement. That tells her nothing about her particle unless she measures it, or Bob told her that in the hand-shake communication.
+I'm sorry, I really know nothing about this but doesn't the act of measuring one particle change the other? Then couldn't this information can be used to create a sort of binary code?
+
+Say both Alice and Bob have a whole array of entangled particles, and Alice measures a few in a specific pattern. That would then send information to Bob who is watching those entangled particles change. Or would Bob measuring them mean that he changed them from whatever state they were in from Alice?
+
+I really have no idea how this works other than a very basic understanding, sorry if I made some wrong basic assumption.
+&gt; today, in macroscopic objects, we do not notice any residual uncertainty.
+
+According to the [Schrödinger equation](http://online.redwoods.cc.ca.us/depts/science/chem/storage/Schrod/), even macroscopic objects have a wavelength.  This means that each of us, in the same sense as a photon or an electron, can be described as a wave as well as in terms of particles.  
+
+However, as the latter link points out, "the wavelength for macroscopic objects, such as baseballs and planets,  is so small as to be virtually undetectable."  This determines our degree of quantum uncertainty, which is correspondingly low.
+
+&gt; Why isn't Earth smeared around the Sun in no one position at any time, like say an electron is around an atom?
+
+The many-worlds interpretation of quantum mechanics argues that this may actually be the case, and that we're just experiencing one possible scenario out of an infinite domain of quantum probability.  
+
+But from a more traditional perspective, the general consensus is that a combination of factors, including the size effect mentioned above, leads to a reduction in uncertainty at larger scales.
+
+One standard approach to modeling this is [quantum decoherence](http://en.wikipedia.org/wiki/Quantum_decoherence): 
+
+&gt; ...decoherence provides an explanation for the transition of the system to a mixture of states that seem to correspond to those states observers perceive. Moreover, our observation tells us that this mixture looks like a proper quantum ensemble in a measurement situation, as we observe that measurements lead to the "realization" of precisely one state in the "ensemble".
+I've thought about that. However, the tricky thing you have to know hear is that when you measure one particle, the entanglement collapses. From how its been explained to me, that means the particles are no longer entangled. They are entangled only when left free to spin how they want. When we restrict their motion to measure, the entanglement is broken.
+None. That's the point; objects separated by too far a distance, in an accelerating universe, will be unable to communicate due to causality restrictions.
+Ok so I suppose any form of measurement then ruins the entanglement? Then how do we even observe entanglement if it can't be measured? Derived from some equations?
+Well, its hard for me to say because I'm not an expert. Maybe a better way to put it is that if we *change* the state of the particle, the entanglement is broken. 
+
+For instance, we had the aforementioned array. We can measure a particle, but we can't force it to change without breaking the entanglement. So even though we may know that the particle at point B is spinning counterclockwise, we can't change that particle to spin clockwise by forcing ours to reverse its spin.
+Hope it's okay to just jump on the end of this. The catch is simply that you cannot *measure* a particle into the state you want. You can apply the measuring apparatus, but the outcome is unpredictable. So if Alice does measure her particle first, the result inexorably determines the outcome of Bob's measurement -- but Alice had no way of controlling the outcome of her own! So to Bob, the effect is the same as if Alice got hit by a bus before the experiment began; he carries out measurements on his particle and obtains random outcomes.
+
+And yes, if Alice forces her particle into a certain state it destroys the entanglement with Bob's particle.
+Thanks for helping me out here. I have only a very limited understanding, so trying to word it correctly has been difficult. What I meant to say that by forcing it, you destroy entanglement. So later when Bob wants to measure he has no way of knowing they are no longer entangled, so he would make an incorrect conclusion about your particle.
+No, I thought you explained that well. The part that maybe was missing was that it is the randomness of the "sender's" measurement outcome that prohibits sending messages.
+
+Summary:
+If Alice has one entangled particle and Bob has the other, and Bob makes a measurement or change, then he now knows information about both his and Alice's particle.
+Basically, once you measure the particle the entanglement is broken.
+But even then, once Bob makes his measurement, the entanglement is broken.
+Entanglement collapses because of measurement (or change) to one of the entangled particles.
+Why would you have to transfer information to tell them when to measure?
+Then how do we even observe entanglement if it can't be measured?
+That would then send information to Bob who is watching those entangled particles change.
+Yes, the second I measure it, I do know what the state of your particle is.
+In order for you to know that, I have to first tell you what time we are measuring at.
+You would still have to transfer information to tell them when to measure.
+We can measure a particle, but we can't force it to change without breaking the entanglement.

@@ -1,0 +1,16 @@
+Original Response:
+Assuming that spacetime is quantized, how can large scale spacetime expansion occur?  Are additional spacetime "bins" (equal in size to the Planck length) being added, or is the size of the bins increasing?  If the bin size is increasing, what are the implications for physical constants?  Is it even meaningful to think of quantized spacetime as consisting of discrete bins?
+I'm no expert in this subject and only have a cursory knowledge from a little free time reading.  I think your idea of time being a grid of discrete bins is not what people typically think of when they talk of quantized spacetime, but something more akin to having a quantum mechanics version of spacetime where things don't commute, obey a funky algebra, etc.  Also there are many different theories that predict various quantum versions of spacetime, all of which are untested, and I'd assume inflation would fit in with all of them differently.
+
+From http://en.wikipedia.org/wiki/Quantum_spacetime :
+
+&gt;In mathematical physics quantum spacetime is the proposal that the actual spacetime that we live in is more accurately described not by usual local coordinates x,y,z,t but operator or algebra variables where the order of at least some of the products matters. The idea is borrowed from the canonical commutation relations in quantum mechanics where position and momentum variables x,p are mutually noncommutative, but is postulated now for relations between one or more of the spacetime variables themselves. Just as with Heisenberg's uncertainty principle, a quantum spacetime necessarily comes with uncertainty relations in the sense that not all x,y,z,t can simultaneously be ascribed actual numerical values.
+
+&gt;There are fundamental physical reasons to believe that spacetime is better modeled in this way. Because of wave particle duality the energy needed to probe smaller and smaller distances would be greater and greater, until the test particles doing the probing would form black holes and destroy the very geometry trying to be measured. This means that our usual picture of continuum spacetime must itself break down as we approach such Planck scale distances. Quantum spacetime is a particular attempt to address this using ideas from quantum mechanics and is plausibly expected on the grounds that the corrections to geometry are being induced by quantum gravity.
+
+&gt; [...]
+
+&gt;Several models were found in the 1990s meeting the above criteria to lesser or greater extents. The most important of these has currently testable predictions making the search for quantum spacetime not only a theoretical fancy but a potentially an actual new discovery about our physical world.
+
+Summary:
+Is it even meaningful to think of quantized spacetime as consisting of discrete bins?

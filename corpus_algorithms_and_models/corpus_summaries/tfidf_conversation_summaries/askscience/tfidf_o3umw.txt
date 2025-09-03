@@ -1,0 +1,27 @@
+Original Response:
+If I were to stick a straw in powder and "drink" it, I'd choke. I think it's because my lungs are opened to the powder. But why don't I with liquid?
+
+Is it something we learn as a child to "close up the tube" when we feel a "vacuum" with liquid through a straw? Is there a certain "pressure" that our bodies automatically "close the tube"?
+
+I thought of this while accidentally breathing in sugar earlier, don't ask.
+[deleted]
+&gt;If I were to stick a straw in powder and "drink" it, I'd choke. I think it's because my lungs are opened to the powder. 
+
+Nope, you can get powders into your mouth through a straw. You choked on the sugar because, as you said, it was an accident. You weren't intentionally sucking it in, so your body was not prepared for it.
+
+As humans, we are somewhat unusual (although not unique) in our ability to create negative pressures inside our mouths for the purposes of eating and drinking. The physiology [is complicated](http://radiology.rsna.org/content/156/2/379.long), but the basics are not. You close the trachea, close the pharynx, seal a portion of the mouth, use the jaw muscles, facial muscles, and tongue to create suction, and stuff is pulled through your lips.
+
+From there, [the physiology of swallowing](http://en.wikipedia.org/wiki/Swallowing#Phases) takes over
+Drinking out of a straw physiologically is two processes. The first is the generation of a vacuum force by lowering the pressure within your thorax- this is the same action as breathing. The difference, however, is that instead of just taking in gas to exchange with your lungs, you're also taking in liquid (or powder, as the case may be). The trick is that when drinking with a straw you've learned to pool the liquid in your mouth as you inhale. The reason why you do this is because your lungs and your gut share a common pathway that is anatomically only separated by a thin flap of tissue called the epiglottis. When in the vacuum phase, the epiglottis is covering the esophagus, such that you're not pulling air into your stomach. When entering the swallowing stage (note that you cannot draw more fluid in your mouth during the direct action of swallowing), the epiglottis flips over and exposes the esophagus while protecting the larynx that leads to the lungs. If the epiglottis were to not flip over, you would inhale whatever was coming through the straw, and you would "choke", or aspirate which is the technical term. 
+
+The difference between a liquid and powder really has to do with how it deals with being moved by a difference in pressure. Liquids will just pool in your mouth, but a light powder (say for example, sugar) would easily become aerosolized such that it's difficult to percevie when to stop inhaling and switch to the swallowing phase.
+I'm actually a bit surprised that some people inhale when using straws, but I saw a similar comment a couple of days ago, so it's clearly the case. 
+
+The safer way to drink from a straw is to evacuate all air from your mouth, close off "the back of your throat" then open your jaw while keeping your lips sealed around the straw. This creates negative pressure in your mouth, which causes liquid to be pulled through the straw, but with zero chance of you inhaling the liquid, because you're not inhaling at all.
+How unusual is this ability? I assumed it was how infants forced milk from their mother's breast. Is this not true for other mammals?
+I don't have any specific numbers for you, but [most adult carnivores](http://www.nytimes.com/2010/11/12/science/12cats.html) cannot. Dogs and cats being familiar examples.
+
+Summary:
+I think it's because my lungs are opened to the powder.
+If I were to stick a straw in powder and "drink" it, I'd choke.
+&gt;If I were to stick a straw in powder and "drink" it, I'd choke.

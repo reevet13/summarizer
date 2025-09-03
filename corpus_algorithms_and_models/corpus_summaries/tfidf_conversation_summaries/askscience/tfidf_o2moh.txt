@@ -1,0 +1,74 @@
+Original Response:
+It's just something I was wondering. If two airplanes are traveling at the same speed, one in the opposite direction of the earth's rotation, the other with the rotation of the earth, will the first airplane (against the rotation) get to a certain equidistant destination faster?
+No, it will actually take longer because the atmosphere moves with the Earth. Example: London to New York takes an hour longer than New York to London.
+It depends on what you mean by speed. Speed relative to what?
+No. The plane's frame of reference is rotating at the same rate as the Earth and the atmosphere, so its ground speed doesn't change if it flies east or west. In order to achieve what you're describing, you need to have a frame of reference independant of the atmosphere's rotation (i.e. in space).
+So if the speed of the planes would be with respect to a point in space this would be possible?
+Isn't after a certain height the atmosphere no longer affected by the rotation of the earth?
+Nope. Above the planetary boundary layer and the lowest-layer of the atmosphere where friction is important, the atmosphere approaches a state of solid-body rotation along with the Earth. In some planetary atmospheres with specific types of overturning circulations, a "superrotation" state sets up where the integrated angular momentum is larger than simple solid body rotation.
+The plane is always influenced by the Earth's rotation. Therefore, the plane's ground speed changes in relation to the surface of the planet, which is always rotating. A rocket ship observing the Earth, without rotating itself, would be able to travel faster relative to the surface by traveling west than east, but planes can never do this.
+This is true, but not for the reason suggested in the OP.  The typically longer westbound flight times (at least in the northern hemisphere) are due to the generally [westerly winds](http://en.wikipedia.org/wiki/Westerlies) at that latitude.  ("Westerly" can be a confusing term, since it means wind blowing *from west to east*.)
+&gt;London to New York takes an hour longer than New York to London
+
+London to New York (*with* the Earth's rotation) takes an hour longer than New York to London (*against* the Earth's rotation).
+
+So your example appears to be a counterpoint...
+I think the example was ment to go the other way. It's faster to fly eastward across the Atlantic because the prevailing winds push planes in that direction.
+Yep. Everything I have read says that transatlantic flight times are dominated by the prevailing winds, not the rotation of the Earth. The Westerlies just happen to ruin this example :)
+I have a bone to throw in for you guys.
+
+Your model seems to be making the assumption that the power output (thrust) of the plane is the same both ways. If that is the case then:
+
+a. Wouldn't flying with the wind (with earth's rotation) dictate that you need to have a greater power output / thrust of the plane to overcome the fact that, relative to the wing, you have a smaller free-stream velocity?
+
+b. How does this compare to the fact that if you fly in the other direction you need to increase the power output of the plane to overcome the wind?
+
+Now I assume that the wind is always going to be less than the stall speed of the plane. Therefore b. takes longer. Right?
+While the earth's rotation is in part responsible for the wind, wind speed is pretty much independent of rotation. Step outside--the wind is not blowing at [1,000 mph](http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/970401c.html). You're talking about a global effect that simply doesn't exist. Routes *are*, however, [plotted](http://en.wikipedia.org/wiki/Jetstream#Aviation) with consideration to smaller-scale effects like jetstreams (although it's a little weird to call jetstreams "local", even though it is compared to what you are proposing).
+Assuming that things like throttle and AoA are kept constant, a plane will fly at a particular speed relative to the air around it, really regardless of the windspeed. Then just add the ground/air speed to the plane/air speed and you have your ground/plane speed. 
+
+If you have a windspeed that's 600 miles an hour, then you could potentially have a jet liner flying in place at 600 mph airspeed, but 0 mph groundspeed. There are some videos on youtube of ultra-lights and gliders taking off in high wind conditions at 0 mph groundspeed just because the wind is so high.
+Think of the Earth as a bus, and think of yourself as a plane.
+
+Regardless of how fast the bus is driving, it will take you the exact same amount of time to run from the front of the bus to the end of the bus, and vice-versa.
+If I'm a plane, how do I fit inside of the bus?
+That makes sense to me.  The question isn't so much earth-speed, but air-speed.  But the two are mostly the same.
+[deleted]
+[deleted]
+[deleted]
+If planes are not affected by the earth's rotation, why does the coriolis effect affect bullets?
+A good example that shows what's happening with the two planes is a helicopter hovering say 30 feet in the air. Earth doesn't rotate away from it because the rotational energy of Earth transferred to the helicopter, keeping them relative even though the airspeed of the helicopter is zero.
+The coriolis effect *does* affect planes just as it affects bullets. The OP was asking if flying with or against the Earth's rotation has any effect on a plane's ground speed, which it does not.
+So does that mean that the travel time while flying east to west isn't shorter than flying west to east, even though the speed is unaffected?
+It means that the travel time flying x miles east is the same as the travel time flying x miles west, assuming that there is no wind.
+because the plane travels in the earth's atmosphere which rotates with the same speed as earth itself, right? but still, if a plane were to fly straight north, its flightpath would curve slightly due to the earth's rotation. why does this happen if the airspace around the plane is equal to the earth's surface?
+You seem to be misinterpreting the most upvoted answer.
+Since we measure flight speed in relation to earth, you would cover the same distance no matter which direction you moved, if you moved at the same speed, that is.
+
+A much better question would be: "Is it easier to archieve high speed traveling west rather than east", in which case I believe the answer is "Yes". Since the coriolis effect does have an impact on acceleration. This effect would be more pronounced near equator, since the earth moves faster in relation to space there.
+Awesome!
+I have no science to answer, but I have noticed that flying back to North America from Japan was approximately two hours faster than flying from North America to Japan, with the same airports. I presume this has a lot to do with the wind, though.
+Which point in space? If that point is moving relative to the ground, then yes, one of them would move farther *relative to the ground* than the other. They both would, by definition, move the same distance relative to that point if they were moving at the same speed relative to that point.
+This is kind of like asking, "If you jump up does the earth spin underneath you?"  
+
+Since you (and the atmosphere) are moving with the earth the answer is no. Of course air is fluid and circulates around the earth, but this doesn't really pertain to your question.
+You must also consider the latitude from where you take off and where you land. Imagine if you fly from the northern rotational axis directly south. As you get closer to the equator the rotational speed effectively increases below you, causing you to drift west. (I don't know how significant this effect is when compared to jet streams).
+should flights from west to east be cheaper then, because of the fuel efficiency being better since the earth's rotation is helping you?  Obviously this might be negligible on realistic commercial flights, but would it show significant difference over unrealistically long flights?
+IIRC the difference in fuel efficiency is completely swamped by differences due to head/tail winds
+Imagine you are a fly instead
+That's probably because of the direction of the winds in the route. Flying from america to europe is typically faster due to the constant air flow in the route going east.
+well what if the cow were a sphere? haha, I figured it'd be negligible when you account for winds and the like.  Thanks for the response
+[Assume a spherical cow of uniform density](http://en.wikipedia.org/wiki/Spherical_cow)
+I believe the difference to be rather miniscule :P
+Though it's fun to ponder about, isn't it?
+
+Summary:
+The OP was asking if flying with or against the Earth's rotation has any effect on a plane's ground speed, which it does not.
+Since you (and the atmosphere) are moving with the earth the answer is no.
+The plane is always influenced by the Earth's rotation.
+because the plane travels in the earth's atmosphere which rotates with the same speed as earth itself, right?
+It means that the travel time flying x miles east is the same as the travel time flying x miles west, assuming that there is no wind.
+Think of the Earth as a bus, and think of yourself as a plane.
+The plane's frame of reference is rotating at the same rate as the Earth and the atmosphere, so its ground speed doesn't change if it flies east or west.
+Isn't after a certain height the atmosphere no longer affected by the rotation of the earth?
+If planes are not affected by the earth's rotation, why does the coriolis effect affect bullets?

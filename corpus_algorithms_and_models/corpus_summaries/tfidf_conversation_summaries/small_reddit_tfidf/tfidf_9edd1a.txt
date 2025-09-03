@@ -1,0 +1,380 @@
+Original Response:
+I assumed that because there's no air in space, and lots in the ISS, it would shoot out incredibly fast. Is my assumption just plain wrong or is there more at play?
+The pressure difference is 1 only atmosphere, which is about 15 psi. Not much less of a difference than your average car tire to the air around it. Coupled with the hole being very small compared to the volume of air in the station, it's going to to take a long time to pull it all out.
+
+Edit: Reminded by another poster that I was being silly about gauges, a 30 psi tire is actually 30 psi difference with the atmosphere, making the pressure difference of the ISS to space about half the difference of a car tire relative to air, even less if you run a higher pressure than 30.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[deleted]
+[removed]
+[removed]
+I don't know what kind of car tires you have but I've never seen an inflation pressure lower than 35. Usually closer to 45.
+Air pressure is 14.7 psi, so a tire at 35 psi is just ~20 psi above (20 differential)
+[removed]
+Old escapes had a recommended pressure of 20
+Alot of small cars that are newer will take 29psi
+
+Source: mechanic for 10 years
+That's not correct, the pressure in a car tire is a differential pressure from atmosphere. A 35 psi tire is actually at ~50 psi absolute.
+Serious question, air tire pressure is really measured against a vacuum and not relative to the atmosphere? I.e. if a tire fully deflated, we'd refer to it as being at 14.7 psi?
+&gt; viton
+
+what's that?
+I don't know what kind of tire pressure guage you have but mine says 0 at 1 atm. Tire pressure is relative to atmospheric pressure.
+Air pressure needed to hold something up reduces as its containment surface increases. 
+
+An average car with smaller tires needs a greater psi because it has limited surface area within the tire, but in contrast 10psi in a larger tire can hold up a greater weight. The big yellow backhoes with huge tires that are used in excavation can have as little as 20psi. So you are correct in that commonly psi for standard cars is in the 30-50psi range but in the same breath many, many tires operate on a much lower psi scale.
+[removed]
+No, it's referenced to atmosphere, so it's called a *gauge* or *gage* pressure.
+No. Tire pressure is measured as "gauge" pressure, which shows the difference between internal and external, not absolute pressure. A tire inflated to "35psi" is 35psi higher than the surrounding environment.
+
+A completely flat tire can still have air in it, but read 0 psi.
+Edit: Ignore this comment, corrections in replies.
+
+~~He's talking about pressure differential between inside and outside the tire, not inside the tire and a vacuum.~~
+
+~~As an example, car tire is 35 PSI. Sea level is 14.7 PSI.~~
+
+ ~~35 PSI - 14.7 PSI = 20.3 PSI * 1 ATM / 14.7 PSI = 1.38 ATM~~
+[removed]
+[removed]
+[removed]
+[deleted]
+~~Stiff, black rubber~~ Polymer used to make most o-rings (in space applications)*. 
+
+*Edit
+[removed]
+So that means that parent poster is wrong, no? I.e. a tire gauged at 35 psi is actually at ~50 psi relative to a vacuum, and actually *two* atmospheres more dense than the air outside?
+[removed]
+Air pressure on a tire gauge is relative to atmosphere, so 30 PSI on he gauge (PSIg) is actually 45 PSI absolute PSIa. Tire pressure gauges read 0 at atmospheric pressure.
+[removed]
+Yes, the parent is incorrect. 
+
+The only time you won't run gauge pressures is when your pressure is high enough that you don't care if you are referencing to atmosphere or vacuum (e.g. there's no material difference between 5000 and 5014.7 psi).
+[removed]
+[removed]
+[removed]
+I suppose that also would also be comparable to a submersible going down to whatever depth would give you ~30 psi and springing a small leak. I wonder how deep that is.
+My tires' maximum pressure is 40, which you shouldn't be hitting unless you know what you're doing and have have a good reason. Recommended tire pressure for my vehicle is 32 psi in the front and 30 in the back which I stick to. Might boost it a touch if I'm taking a long highway trip.
+One of the astronauts did put his thumb over it. Was that the first time a human has come into direct skin contact with space?
+[removed]
+[removed]
+[removed]
+[removed]
+Except tire pressures are measured with differential gauges. The "35 psi" reading on a typical tire pressure gauge is 35 psi above ambient pressure. Your calculation would only be accurate with an absolute gauge, but then your tire would be pretty under-inflated at 35 psi.
+There was a time that a vacuum chamber or similar had an astronaut in there and his suit broke, exposing him briefly to vacuum.
+That's not how it works. The 30 psi is gage pressure not absolute pressure.
+Highly doubtful that it would be due to cold considering the vacuum doesn't really have a temperature. The only cooling would be through radiation (taking a long time) and evaporation due to low pressure which might be faster but probably also insignificant on such a small surface area.
+The cold vacuum is a misconception. Vacuum is an excellent thermal insulator.
+A car tire is 35 psig (pounds per square inch gauge). Sea level is 0 psig. A car tire is actually at over a 2 atm differential to atmosphere in this case. (35 / 14.7 = 2.38 atm).
+We actually used a piece of Kapton Tape until the Russians applied the epoxy. And before thr tape of course Alex used his finger
+[removed]
+I've noticed that a lot of people tend to fill their tires to the number on the tire (maximum PSI), rather than the number on their vehicle information plate/manual (recommended PSI).
+
+For example, with my car, the maximum is 45 and the recommended is 32.
+[deleted]
+[removed]
+I’m surprised people are saying “only 15psi”. I’ve seen aircraft with a differential pressure of 8.0psi or less and small holes have caused sections of fuselage to rip off, cause ears to bleed from the sudden decompression. I’d love to hear some opinions!
+Arguably it would feel very hot after a while. If you could survive it for long enough
+Right, so not the first time someone's come into contact with vacuum, but the first time with space.
+The psi listed on tires is gauge pressure not absolute. Meaning it already takes into account atmospheric pressure.
+[removed]
+[removed]
+I believe there was an astronaut who had a small tear in his glove, but I don't remember the details.
+[removed]
+[removed]
+So you are saying I should decrease my tire pressure prior to driving my car into space?
+Why is it that airplanes are much more pressurized than the ISS? Is it because in the ISS they can manipulate the atmospheric gasses and have a lower working pressure?
+[removed]
+[removed]
+Three Soviet cosmonauts died when their Soyuz depressurized just before reentry, the only people to have ever died *in* space (most accidents are on launch or reentry). I don't know if it got all the way down to a vacuum.
+[removed]
+[removed]
+Evaporation would cool you off pretty quickly. I don't know if that's enough to compete with sunlight if you're on the day side.
+[removed]
+[removed]
+It's used for high temperature o-rings, buna-n is likely more common overall.
+Is that why vacuum sealed bottles and cups are the new trend in thermoses?
+yeah there was a tiny rip in the glove and his skin sealed the hole without him even noticing
+how small do you mean by small? This is a good question... but I think all airplane explosive decompressions were caused by a much bigger initial hole than 2 mm. It's usually a big crack that makes a large section fail at once, a bomb blowing a large chunk out, or a window breaking
+[removed]
+[removed]
+pressure goes up by 14.5 psi for every ~33 feet (1atm/10m) so if the sub was pressurized to sea level you'd only have to be about 10m below the surface to equal the pressure differential between space and sea level.
+[removed]
+You add 1atm about every 10m, so it would only take about 20m, or 60ft, to hit 30psi.
+[removed]
+You don't come into contact with Space. It's literally just a vacuum. So no, the exact same space is in a vacuum chamber here on earth.
+
+What I think you meant is, is that the first time a person has been exposed in a vacuum, at that altitude?
+
+Depends, lots of pilots have been exposed to very-high altitude / near vacuum environments - it really depends, there's no line in the sand for what counts on this one.
+[removed]
+It's a misunderstanding. You definitely would feel colder as the moisture in your skin evaporated. But you don't freeze like you entered a giant walk-in deep freezer.
+Three cosmonauts actually died to the vacuum of space. Their return vehicle had a hole in it, similar to the ISS but bigger, and they lost all their atmosphere. This was before they were required to wear their space suits while inside the vehicle (and the reason they’re now required).
+[removed]
+Not exactly a new trend, but yeah. A vacuum is theoretically the best thermal insulator possible.
+[removed]
+EPDM is used often interchangeably with buna-n, although it has better chemical resistance.
+You do know what a thermos is, right? They have always been vacuum insulated from the very beginning, since the first one was sold in 1904.  That's the whole "point".
+[removed]
+Definitely not enough to compete with the sun's radiation. With no atmosphere or magnetic shield, the sun side of the moon is like 150°c. Spacesuits are almost as much to protect against radiation as they are keep air pressure/supply.
+[removed]
+It is - and it's no new trend. Flasks with a vacuum gap between an inner and outer cylinder have been around commercially for many decades.
+
+Another thing under our noses that uses vacuum insulation is double glazing windows, many havr a vacuum between the panes - in this case it's to insulate against both heat loss and also audio noise too.
+[removed]
+[removed]
+Yes, but vacuum insulated bottles were patented by Thermos in 1904. Not a new trend.
+Right - Space is just vacuum, but by using that definition you are intentionally misunderstanding what is meant by the word "space" in common parlance.
+It pretty much insulates by not being there... as in there is nothing to physically move heat from one side to the other. Pretty cool.
+If it counts, the first soviet spacewalker had to open his valves and let air out of his suit so he could climb back through the airlock hatch.
+Not really, because the mechanics of water leaking through a small hole is quite different from that of air.
+My 38 inch mud tires, load rated ”c” have a Max of 30psi. 
+
+My other pickup with load range E have a pressure of 80psi.
+Not just the sunlight, there’s your own metabolism. Human beings are constantly producing a ton of heat that needs to be transferred to something (the air around us). I feel like if you could survive in space you’d heat up before cooling down.
+[removed]
+Airplanes are pressurised less than the ISS, 10psi [ish]. What makes you think it's higher?
+Oops, thanks for the correction.
+[removed]
+Were they Soviet, or Russian?
+what... no. iss is at 1bar and this pressure difference is reached at 10m depth.
+
+20m would give you 3 bar absolute and 2 bar difference to the surface. 20m would give you double the pressure difference.
+My car is only 5 years old and has tires with a recommended psi of 33, and a max of 38.
+[removed]
+[removed]
+[removed]
+[removed]
+They didn’t ask about the ISS, which has a 15psi difference. They asked about a 30psi difference, which would take 20m of water.
+Wow 80 for truck tires? I've only ever seen pressures that high for those super thin performance tires on the really big rims. Is load rating c more or less than e? Not familiar with that as I've never owned a truck.
+They're not. Generally an airplane is pressurized only a few PSI higher than the pressure outside, for a total of 11-12 PSI (lower than atmospheric pressure at sea level.) The ISS is pressurized to 14.7 PSI (which is also 14.7 over the pressure outside since it's essentially 0.)
+
+Airplane catastrophic failures due to pressure loss just involve much bigger holes.
+[removed]
+[removed]
+Its really the size of the hole more than anything. The pressure could be many times greater, but if the hole isnt big enough, it'll move slowly.
+
+Think of it like a soda can. Shake it up a whole lot to increase pressure inside. If you open it completely, it'll explode. But if you open it a little, the gas will leak out slowly.
+[removed]
+The vacuum (pressure difference) would probably be the most immediate problem, not the temperature if you are exposed to space.
+We're getting off topic here, but unless your running OEM tires you really should be going by what is on the tires. Aftermarket tires can be rated differently than what the car originally came with due to different construction.
+[removed]
+[removed]
+This goes against everything I've been told, including what is listed on several tire manufacturers websites - where are you getting your information from?
+
+https://www.firestonecompleteautocare.com/tires/tire-pressure/
+
+https://www.goodyear.com/en-US/tire-guide/tire-care/tire-air-pressure
+
+http://www.startribune.com/which-tire-pressure-rating-should-motorists-heed/296203951/
+
+https://www.tirerack.com/tires/tiretech/techpage.jsp?techid=196
+
+https://www.discounttiredirect.com/learn/tire-pressure
+[removed]
+I was told by a mechanic years ago. His reasoning was if the aftermarket tires were rated for 45psi and the vehicle's OEM tires were rated for 32psi, then running 32 in a 45 rated tire would wear prematurely.
+
+I just took his word for it, but of course it wouldn't be the first time I received bad information. Thanks for the links.
+I find it baffling that some people almost go out of their way to intentionally misunderstand these things. I have people in my life who do that a lot, and lately I've just started avoiding talking with them about many subjects, simply because they *have* to be technically correct about everything.   
+It's like common parlance doesn't exist, and they need to show their superior knowledge. Even if the information is understood by all, parties. Not to mention it derails a conversation real fast.
+[Well there was this one guy in 1960 that came pretty close.](http://stratocat.com.ar/artics/excelsior-e.htm) Pretty crazy story that was kept secret for a very long time.
+
+&gt; Excelsior III, launched from Tularosa, New Mexico, carried Kittinger to 102,800 feet. During the ascent, the pressurization in his right glove failed and his hand began to swell. It reached nearly twice its normal size and was very painful. Afraid that he would be ordered to jump early because of the malfunction, Kittinger did not report the problem until he was at altitude. Seventy seconds before jumping, he cut away the radio antenna to prevent hitting it. For the first time in the flight, Captain Kittinger was truly alone.
+The thumb was somewhere in the inner layers of the hull. You don't expect any sunlight there, and both sunlight and evaporation on a millimeter scale are negligible anyway.
+When three hole was discovered, one of the astronauts plugged it with his finger. He was b basically touching space. Human skin is tougher then most people give it credit for.
+[removed]
+Quite sure OP asked about 30 psi absolute pressure to get 15 psi difference. Why would you ask about other pressure differences?
+New trend!? Thermoses were made with double wall metalized evacuated glass vessels since the Thermos company was established in Germany in 1904.
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+[removed]
+Ah didn’t see anything about the size of the hole. My head went much bigger!
+E is the heaviest commonly found on pickups. C is much lighter duty.
+
+My understanding, which may be wrong, is that the letter rating is an old school thing and not as applicable to modern day tires. All it represents is the number [layers?] of belts. This might be expressed in the number of ”ply”, 8 ply or 10 ply. 
+
+Today tires will also be rated in carrying capacity of load. You can find D rated tires with the same carrying capacity as an E rated tire, but it will be filled to a lower PSI, experience more sidewall flex, and it will weigh less. 
+
+That's my understanding, there are also speed ratings. Those are another thing.
+[removed]
+[removed]
+Thank you. People talking about how this is a serious danger. You could leave your finger there for hours
+[removed]
+All three were Soviet. One was Russian, one was born in the Ukrainian SSR, and one in Kazakh SSR.
+There's still photons
+[removed]
+[removed]
+If you were spaced from an airlock you'd quickly die, but your internal body heat would take 2-3 days to cool to below zero. 
+
+Even then you'd probably roast if you were in direct sunlight. In fact, you'd sunburn with only milliseconds exposure to direct sun in a vacuum.
+[removed]
+[removed]
+more like double paned windows, vacuum containers have been used in food industry for a long time
+Can't you get "sucked out" of an airplane or is that not true either? I thought that would require a higher pressure.
+So if, for instance, a hole the size of a basketball opened up on the ISS, would that create a "getting sucked out" situation?
+[See this one](https://tiresize.com/tires/BFGoodrich/All-Terrain-TA-KO2-295-75R16.htm) Max load of 3970 lbs and psi of 80
+[removed]
+[removed]
+My mildly sporty hatchback specifies 33 psi. There's naturally a lot of variation between different vehicles, but generally heavier cars run higher pressure.
+One factor may be that the hole, which was actually in the Soyuz orbital module, isn't thought to have been made in orbit but rather was drilled in the metal and improperly sealed (presumably with some kind of rubbery sealant) during the Soyuz spacecraft's construction. So as far as the mechanical behaviour of the Soyuz's hull goes, there's no sudden failure and no chance for a crack to propagate. A round drill hole will spread out any stresses, unlike the sharp edge of a crack that concentrates stress enabling the crack to grow.
+[removed]
+No, what you're not getting is you don't "come into contact with space" - it's like, if I'm in a room with a light on, and someone opens the door I don't come into contact with darkness.
+
+And if I'm in a warm room, and someone opens the door to a cold one, I don't "come into contact with cold" - yes eventually I get cooler, but cooler than what - my original temperature? At what point did I "touch the cold"?
+
+This is why saying someone came into contact with space doesn't make sense.
+The pressure in a tire is what's holding the vehicle up, as well as giving the tire the right "shape" for good traction and even wear. The heavier the vehicle, the higher pressure needed for both of those things. Heavy truck tires are filled to over 100 psi for that reason.
+
+Tires are rated up to a max safe pressure because they can be used on a range of vehicles. But the correct pressure is largely determined by the weight of the vehicle. So go by what the owner's manual says.
+Makes sense, but is it possible to have an aftermarket tire that is rated for less pressure than OEM? For example let's say someone installed 32psi tires on a vehicle rated for 45psi. If you followed owners manual, would it be creating a dangerous situation by over inflating the tire pressure?
+[removed]
+At a 14.7 PSI differential, a 2mm hole has about 0.02 pounds of air pressing on it. A basketball is 9.85" in diameter, which means at a 14.7 PSI differential it would have 1120 pounds of pressure on it - which will create far faster airflow as well as being something you don't want to plug with your body.
+[removed]
+It'd depend on what part of the ship you're in.  Water pressure builds up really quickly, so it's possible that the deck of the sub could be on the surface while the bottom of the sub is at +30 PSI.
+Aircraft also have a ton of extra forces caused on the hole by turbulence.  There's no turbulence in space.
+Odds are that would be a situation of choosing the wrong tire for the vehicle. Just because it fits doesn't mean it's right.
+
+But there are times a certain tire's ideal pressure will vary from the vehicle manufacturer's recommendations -- especially with specialty tires or extensive vehicle modifications. Most times the tire manufacturer will provide the correct pressure for a given vehicle. If you get into really crazy stuff it's an educated guess with some trial and error.
+[removed]
+I’m pretty sure those are filled with a specific gas. It’s escaping me which one but I want to say argon. The windows that is.
+Some are. I don't know which has either. It will probably be something light and inert. I'd guess helium, the lighter/less dense the gas, the better the insulation. It's cheap too so ticks all the boxes.
+Just never heard of any that were vacuum insulated. At least residentially.
+You could even hold your finger against a leak that small it just might start damaging your skin as capillaries burst and water boils and evaporates in the low pressure
+[removed]
+Actually they did a temporary repair with with kapton tape. It is tape that is sticky across a larger temperature range than normal tape.
+How did they find the hole?
+This... isn't true. The vast majority of o-rings are made of various other rubbers. Viton is a fluoroelastomer that is safe for vacuum and other harsh conditions. Very few o-rings are made of Viton, as compared to other rubbers.
+
+Edit: it's also usually not black.
+[removed]
+[removed]
+[removed]
+You're pretty much right on. I don't work for our seals division (which supplies seals for Boeing and NASA) but have worked with them in my BU, which is medical applications. There are tons of rubbers that O-rings are made from, from 14B to chlorobutyl to viton, to ePTFE which is a great temperature resistant sealing material. It's also ridiculously expensive so its only used when temperature swings are at play. Viton/ePTFE would be my materials of choice here due to their fluoropolymer nature which is very temperature stable.
+don't listen to mechanics, listen to the engineers who designed and tested your vehicle.
+[removed]
+Makes sense. I'm familiar with the concepts but I never put them together like this. Thanks.
+It’s a good way to ensure I never have any sort of a complex conversation with you.
+We understand what you’re saying, you’re not special because you thought of that. You are special though, and not in a good way, because you don’t understand what he’s saying.
+&gt; With no atmosphere or magnetic shield
+
+The ISS orbits low enough so that it still gains some protection from the magnetic field against radiation, but that doesn't block the heat of the sunlight.
+[removed]
+It's interesting that it's about the same amount of relative pressure as in a pressure cooker.
+[removed]
+&gt;Arguably it would feel very hot after a while.
+
+Even assuming (This wasnt the case) a 2mm hole was facing directly at the sun, its 2mm. Very, very little energy, even in space would be hitting you in the first place, and it would take hours to heat your finger any appreciable amount. That and you would have not only the rest of your body to act as a heat sink, you have the entire ISS. 
+
+My understanding is that your #1 concern, besides the whole "Leaking air in space" thing, is a tiny chunk of dead skin from the slight pressure limiting blood flow. It would take some serious willpower to prevent moving your finger a fraction of a millimeter for a couple hours.
+[removed]
+[removed]
+[removed]
+[removed]
+That was fascinating, thank you for sharing that link.
+But how did it get there to begin with?
+[essentially it was a manufacturing error during assembly that was patched with some glue or epoxy and it finally gave way.](https://www.upi.com/Hole-responsible-for-space-station-leak-caused-by-drill-not-meteorite-Russia-says/2331536013870/)
+[removed]
+I prefer Kalrez over futon if you've got more money to spend, or even perlast
+[removed]
+Perlast, Kalrez, FFKM, are all very very similar in composition. Sometimes it's by trade name only. I dont know the exact composition of them but they're all in the same family.
+First we began by closing hatches and determining which side of the hatch was still losing pressure - this isolated which module the leak was in. Once you know what module its in, we uses an ultrasonic leak detector to pinpoint its location. Think of it like a metal detector for very high frequency sounds. Also the leak itself was rather loud.
+They have the same 3 compounds but in different concentrations depending on the application if I remember. We use those over viton as they have more resistance to chemical and plasma etching
+[removed]
+[deleted]
+[removed]
+&gt; Viton is a fluoroelastomer that is safe for vacuum
+
+So it's space rubber?
+[removed]
+Not the worst idea, getting a space flat is no fun, AAA takes forever to show up.
+The pressure differential between the ISS and the vacuum of space, as well as the size of the hole are all factors to consider.
+
+What you see in the movies with massive decompression due to a small, even moderately sized hole, are pretty much fiction.
+
+Fill a balloon with water and poke a hole in it with a needle and you'll get a sense for why it took so long for the air to escape from the ISS.
+Heck, take two balloons filled with air, poke one down where the rubber is thick around nozzle and the other in the main body of the balloon. On the one where the rubber is thicker the balloon will slowly deflate, while on the other the escaping air through the stretched balloon will cause the hole to tear itself bigger until it's big enough for the air to all escape quickly. 
+
+The size of the hole is only as important as the strength of the material the hole is in. This hole was drilled through metal so the metal wasn't going anywhere to allow the hole to expand (that said, I doubt there'd be much of the ISS's inner surfaces that'd be thin and flimsy enough to rupture from the air like a balloon skin, even if the pressure was higher inside)
+[deleted]
+The hole was roughly 2x2mm. A portal-type door is roughly 24x48 inches. Iirc, they said it would take a week to evacuate the station of air with the small hole. Given that timeline, the ratio of the surface areas of the two holes,  and the number of seconds in a week, also assuming the two volumes are equal, a door-sized hole would evacuate in about 9 seconds. Does that track with what you saw in the movie?
+[deleted]
+Sometime try placing adhesive tape on a balloon and then poke a hole through it. It's counterintuitive.
+&gt; Fill a balloon with water and poke a hole in it with a needle and you'll get a sense for why it took so long for the air to escape from the ISS.
+
+But how much pressure is in a water balloon? Better fill an old bicycle tire up to 1 bar and poke a needle through it. It takes quite some time for it to leak out. You can even calculate the air volume and compare it to the ISS.
+A piece of scotch tape on by the balloon, you can put a needle through the tape and balloon, the tape keeps the hole from expanding catastrophicly.
+Having a larger ship doesn't mean there is more pressure, it just means that there's more air. The flow rate would be the same regardless of the ship size.
+The decompression knocks the shuttle he took to the station into it and causes a secondary explosion.
+I mean, I'm just trying to give him something easy that he can likely do to demonstrate that just because there's a whole in it, it doesn't mean that there's going to be catastrophic depressurization. Which, I mean, is obvious given that the ISS didn't depressurize instantly due to one small hole.
+Ah, so the bursting of the balloon is essentially caused by a chain reaction? As the hole gets larger, more air can be sucked out, widening the hole, etc.
+it has almost nothing to do with the air.
+
+when the ballon is inflated the rubber is stretched tightly (under tension). when you poke the balloon the tension rips the hole open. if you were to cut a balloon open and then stretch the sheet out the same amount and then poke it, it would also violently rip itself apart.
+[removed]
+[removed]
+[removed]
+The pressure difference between inside and outside the space station is only one atmosphere. That's comparable to the pressure difference for a submarine under 10 meters of water. You wouldn't expect a 2 mm hole in the side of a submarine 10 m under water to cause rapid, catastrophic flooding either.
+
+[Here](https://en.wikipedia.org/wiki/Byford_Dolphin#Diving_bell_accident) is a somewhat famous example of a catastrophic decompression accident involving a 9 atmosphere pressure difference, and also a larger hole.
+Ah.  The same can be observed in the slow-mo videos of popping water balloons.  The water moving through the pinhole doesn't expand the balloon; rather the rubber surface is destroyed as a result of the pinhole damage, accelerated by the tension of the rubber.
+Fun fact: the watches astronauts wore on the moon (Mostly Omega Speedmasters, one experimental Bulova watch) were basically just strapped around the wrist of the space suit with a cushioned Velcro patch over them to prevent damage. This is because the pressure differential between atmospheric pressure and space is smaller than the pressures the watches were built to handle under water. Counterintuitively, a watch is actually under less stress in the vacuum of space than at ordinary SCUBA depths. Interestingly, there were a few instances of the crystals of watches popping out of the case because they are designed to resist pressure inward, rather than outward.
+This is one of the reasons balloons and airships lasted as long as they did into the 20th century (WWII). Shoot a bunch of holes in it, the thing will still stay up for hours. Even hydrogen balloons were surprisingly difficult to kill (hydrogen burns, but not in the absence of oxygen, and hydrogen balloons typically had little oxygen in the bladders).
+[removed]
+[removed]
+[removed]
+
+Summary:
+Tire pressure is relative to atmospheric pressure.
+The psi listed on tires is gauge pressure not absolute.
+how small do you mean by small?
+But how much pressure is in a water balloon?
+The pressure difference is 1 only atmosphere, which is about 15 psi.
+The pressure difference between inside and outside the space station is only one atmosphere.
+Air pressure is 14.7 psi, so a tire at 35 psi is just ~20 psi above (20 differential)
+20m would give you double the pressure difference.
+The pressure differential between the ISS and the vacuum of space, as well as the size of the hole are all factors to consider.
+Why would you ask about other pressure differences?
+I thought that would require a higher pressure.
+That's not correct, the pressure in a car tire is a differential pressure from atmosphere.
+Tires are rated up to a max safe pressure because they can be used on a range of vehicles.
+Not much less of a difference than your average car tire to the air around it.
+Serious question, air tire pressure is really measured against a vacuum and not relative to the atmosphere?
+Not really, because the mechanics of water leaking through a small hole is quite different from that of air.
+You don't come into contact with Space.
+I don't know which has either.
+Why is it that airplanes are much more pressurized than the ISS?
+The "35 psi" reading on a typical tire pressure gauge is 35 psi above ambient pressure.
+I don't know if it got all the way down to a vacuum.
+The vacuum (pressure difference) would probably be the most immediate problem, not the temperature if you are exposed to space.
+The heavier the vehicle, the higher pressure needed for both of those things.
+A car tire is actually at over a 2 atm differential to atmosphere in this case.
+It takes quite some time for it to leak out.
+I don't know what kind of car tires you have but I've never seen an inflation pressure lower than 35.
+Tire pressure gauges read 0 at atmospheric pressure.
+Except tire pressures are measured with differential gauges.
+Its really the size of the hole more than anything.
+Right, so not the first time someone's come into contact with vacuum, but the first time with space.
+The 30 psi is gage pressure not absolute pressure.
+There's no turbulence in space.
+You're pretty much right on.
+Makes sense, but is it possible to have an aftermarket tire that is rated for less pressure than OEM?
+when you poke the balloon the tension rips the hole open.
+So you are saying I should decrease my tire pressure prior to driving my car into space?
+They asked about a 30psi difference, which would take 20m of water.
+It is - and it's no new trend.
+The ISS is pressurized to 14.7 PSI (which is also 14.7 over the pressure outside since it's essentially 0.)
+I assumed that because there's no air in space, and lots in the ISS, it would shoot out incredibly fast.
+You can even calculate the air volume and compare it to the ISS.
+Evaporation would cool you off pretty quickly.
+Recommended tire pressure for my vehicle is 32 psi in the front and 30 in the back which I stick to.
+A completely flat tire can still have air in it, but read 0 psi.

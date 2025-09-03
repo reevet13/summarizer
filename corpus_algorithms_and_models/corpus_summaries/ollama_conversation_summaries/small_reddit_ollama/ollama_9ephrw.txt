@@ -1,0 +1,10 @@
+Here is a summary of about 10% of the text:
+
+Is it Ok if i delete shell32.dll ? Its located in C:\\Windows\\SysWOW64\\shell32.dll.
+I would not recommend it. It provides the GUI for Windows, things like your task bar, desktop, and start button.
+
+&amp;#x200B;
+What launcher? Can you adjust some settings that stop the launcher from blocking it? Because you need the file.
+its the battle eye launcher
+
+I used spyware and malwarebyts both didn’t detect an issue

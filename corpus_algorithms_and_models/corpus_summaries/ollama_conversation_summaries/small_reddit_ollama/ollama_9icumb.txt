@@ -1,0 +1,11 @@
+Here is the summary of up to 250 words by selecting only sentences from the original text exactly as written:
+
+I decided to run a long HDMI cable from my PC to my living room TV. I'm trying to decide whether I should get a 40 feet cable just to be safe (if I decide to move my PC further away later or something), or try to keep it as short as possible (will have to measure, but probably around 20-25 feet)
+
+As I told my mom when she asked about it: you can buy a Monster cable, or you can buy any cheap cable and just wrap the entire length in $5 bills. The effect will be exactly the same, both signal-wise and cost-wise.
+
+It does. Older cables cannot supply enough bandwidth to drive ultra-high res format, 3D content, higher framerates and the like.
+
+HDMI Specification 2.1 is the most recent update of the HDMI specification and supports a range of higher video resolutions and refresh rates including 8K60 and 4K120, and resolutions up to 10K.
+
+Older cables cannot drive 48G. You cannot run 4K at 120 fps, which is required for 3D 4K.

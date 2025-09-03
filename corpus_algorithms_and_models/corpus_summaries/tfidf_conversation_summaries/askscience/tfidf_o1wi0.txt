@@ -1,0 +1,22 @@
+Original Response:
+In air at sea level, the speed of sound is 343 meters/second.
+
+In water under the same conditions, the speed of sound in 1482 meters/second.
+
+So, underwater, the sonic boom propagates much faster and you have to be moving much faster to create one.
+[deleted]
+There would also be a significant amount of [cavitation](http://en.wikipedia.org/wiki/Cavitation). 
+
+Also, using the [drag equation](http://en.wikipedia.org/wiki/Drag_%28physics%29#Power) to estimate the amount of power necessary to push a a 1 meter diameter smooth sphere with a drag coefficient of 0.1 through fresh water at 1482 m/s, I came up with ≈ 511 gigawatts = 511 gigajouls/second. However I doubt the drag equation is still valid at that speed.
+It would be really hard to break the sound barrier with a propeller tip underwater. If you did, it wouldn't damage the propeller itself, but it would slow down the water moving through the propeller causing drag (whether or not the propeller could withstand this depends on the strength of the propeller).
+
+What would happen at a lower tip velocity is that the pressure at the propeller tip would drop (when an object moves quickly through a fluid (air or water) the pressure of the fluid immediately around it drops).  
+
+Because of the pressure decrease of the water in this area, it begins to evaporate in very small bubbles (evaporation can be caused by either a high temperature or a low pressure).
+
+When these bubbles collapse, they usually do so very quickly, creating small shockwaves and forcing highly energetic liquid into small volumes (think water getting into microscopic cracks (all materials have this at some level) and expanding).
+
+This process, over time, causes a lot of damage to propellers.  It is called [cavitation](http://en.wikipedia.org/wiki/Cavitation).
+
+Summary:
+In water under the same conditions, the speed of sound in 1482 meters/second.

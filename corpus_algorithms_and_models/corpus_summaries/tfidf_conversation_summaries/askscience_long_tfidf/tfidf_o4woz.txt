@@ -1,0 +1,90 @@
+Original Response:
+I am under the notion that paralysis is caused by interruptions in the spinal column and anything below them doesn't obey the brain, which tells many organs how to function. Why then do people that are paralyzed from the neck down still have the ability to digest food or regulate their bodies?
+[deleted]
+The brain can modulate the organs but they mostly run on their own thanks to the autonomic nervous system.  
+
+The digestive system will run on its own:
+http://en.wikipedia.org/wiki/Enteric_nervous_system
+
+Organs don't really rely on nerves to tell them what to do.  They monitor levels of stuff in the blood and react accordingly.   The liver sees too much glucose? It starts making glycogen.
+
+If the brain needs to turn on ~~the flight or fight response~~  parasympathetic stuff (opposite of flight or fight) it uses the vagus nerve:
+http://en.wikipedia.org/wiki/Vagus_nerve
+The Vagus nerve isn't a spinal nerve and still works even if the  spinal cord is broken.
+
+Moreover, your brain is also in control of hormones via the pituitary:
+http://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93adrenal_axis
+And it controls your organs that way as well.
+Thanks!
+&gt;The brain can modulate the organs but they mostly run on their own thanks to the autonomic nervous system.
+
+Much of the autonomic nervous system travels in the spinal cord.  The notable exception is the vagus nerve.
+
+&gt;If the brain needs to turn on the flight or fight response it uses the vagus nerve:
+
+The vagus nerve is parasympathetic.  The fight or flight response is sympathetic.
+&gt;Much of the autonomic nervous system travels in the spinal cord. The notable exception is the vagus nerve.
+
+The spinal cord doesn't cease functioning when it's laterally severed.  Signals just don't go up.
+
+&gt;The vagus nerve is parasympathetic. The fight or flight response is sympathetic.
+
+Yeah, my bad.
+How can your sympathetic and parasympathetic plexi receive meaningful input when their connection to your CNS is severed?
+That's not the question here, you said:
+&gt;Much of the autonomic nervous system travels in the spinal cord.
+
+And I said that the spinal cord will continue to function - reflexes, for example, will still work.  
+
+As to sympathetic/parasympathetic plexuses, the parasympathetic ones will be handled by the vagus nerve, which in our neck-broken scenario is still working.
+
+The sympathetic plexuses would still be controlled by the sympathetic trunk:
+http://en.wikipedia.org/wiki/Sympathetic_chain which is outside the spinal column, if it survives the sympathetic responses in the rest of the body should still work (widening of blood vessels in skeletal muscles and stuff; just wouldn't be able to use those skeletal muscles.)
+
+If the sympathetic trunk is broken alongside the spinal cord, and yeah nothing would happen.
+The sympathetic trunk arises from the spinal cord.
+
+The vagus nerve serves a lot of the parasympathetics, but not all of them.
+[deleted]
+We know the sympathetics are active if an above T6 transection occurs because patients are at risk of [autonomic dysreflexia](http://en.wikipedia.org/wiki/Autonomic_hyperreflexia).
+[deleted]
+I'm going to add the most serious complication of high spinal cord injuries: the cardiovascular system.
+
+The heart is under the control of two competing nerve supplies: sympathetic and parasympathetic.  Sympathetic causes the heart to beat faster and harder.  Parasympathetic slows it down.  High spinal cord injuries can disrupt the sympathetic system, but not the parasympathetic (it's the vagus nerve).  The result is an imbalance, like trying to drive with the parking brake on.  The heart, without sympathetic input, usually beats slowly and may not be able to maintain blood pressure.
+
+Just as important, the blood vessels in the body are under the same sympathetic and parasympathetic control.  Sympathetic input causes the blood vessels to constrict, which raises blood pressure.  Losing these sympathetic inputs can cause the blood vessels to dilate, further dropping blood pressure.
+
+Note: these are the things that occur chronically after spinal cord injury.  There are short term problems, like [autonomic dysreflexia](http://en.wikipedia.org/wiki/Autonomic_dysreflexia) or [neurogenic shock](http://en.wikipedia.org/wiki/Neurogenic_shock), that can cause problems in the setting of an acute injury.
+[deleted]
+Are there other internal systems that operate under the same 'split' rule?
+So if you break you spine when young, is your brain rendered useless from sending down hormones to make you go through puberty? Thus you are permanently stuck in the body of a child?
+Huh, no, why would breaking your spine damage your brain's ability to release hormones via the pituitary? Hormones are released into the bloodstream.
+
+
+Breaking your spine wouldn't hurt your pituitary's ability to release GnRH at all.
+Just about all of them.  It's not really a 'split' but more like if the body was a car, it's being driven with one foot on the gas and one foot in the brake at all times (and without the fancy computer systems that not make this analogy not possible in real cars today by disabling the gas pedal when the brake is activated, but I digress).
+
+So both the sympathetic and parasympathetic systems are always active, but the balance can be shifted more towards one direction or the other.
+
+You can read about it more here: http://en.wikipedia.org/wiki/Autonomic_nervous_system
+Could you edit that out of your orignal post or strikethrough it? As a layman if I hadn't read the above comment, I'd still believe that.
+[deleted]
+What are the drawbacks of the vagus nerve? (If none, would it not have made more sense to be selected for during evolution?)
+It can lead to overactive stomach acid production?  Surgeons used to perform [vagotomies](http://en.wikipedia.org/wiki/Vagotomy) in some cases of duodenal ulcers.  I don't understand the question though; the [vagus nerve](http://en.wikipedia.org/wiki/Vagus_nerve#Innervation) performs a lot of needed actions...
+please note that even if the vagus nerve was strictly superior to other types of nerves, that does not mean we would expect to see it replace those nerves through natural selection.
+
+similar to how the Laryngeal Nerve [takes a ridiculous route](http://www.dailymotion.com/video/xdm5he_richard-dawkins-demonstrates-laryng_tech) to get to its destination, organisms might use outdated systems like a worse nervous system.
+
+natural selection and evolution aren't actors, they aren't thinking.  they are just ways that we describe something we observe, like organisms which are better at being alive stay alive better.  that they do it in an inefficient way is not surprising.
+[deleted]
+Oooh this is a good idea. I'm going to use this on my patients experiencing anxiety. Thanks -Dr. lettuce.
+It also happens that the organs do stop functioning due to serious spine injuries, but you don't hear much about those people since they're dead.
+
+Summary:
+&gt;The vagus nerve is parasympathetic.
+The fight or flight response is sympathetic.
+High spinal cord injuries can disrupt the sympathetic system, but not the parasympathetic (it's the vagus nerve).
+Much of the autonomic nervous system travels in the spinal cord.
+The sympathetic trunk arises from the spinal cord.
+&gt;Much of the autonomic nervous system travels in the spinal cord.
+The notable exception is the vagus nerve.

@@ -1,0 +1,7 @@
+Here are the selected sentences up to 250 words:
+
+Yes! And this bias is something that we do have to take into account. Different methods for detecting planets have different biases, so we always have to account for that if we're trying to make statements about the population of planets as a whole.
+
+The transit method works best when the planet is big enough to create a noticeable drop in the star's brightness, and when the planet's orbit is rapid enough that you can see lots of transits happen. You also need the planet's orbit to be lined up with our line of sight - i.e. the orbit is edge-on.
+
+Radial velocity measurements are even worse for this. For these, you look at how the star moves towards and away from you. We can see this with the redshift and blueshift of specific lines of radiation from the star.

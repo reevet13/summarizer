@@ -1,0 +1,23 @@
+Here is the extracted summary:
+
+Bitcoin attacks only make it stronger because weaknesses are found and technology is updated to be more robust.
+
+Like the internet, Bitcoin interprets censorship as damage and routes around it with some help from humans using it.
+
+Could someone create a hash with a virus- or a block with a virus? Do you mean so it'd get flagged by AV and interrupt Bitcoin nodes who use that AV?
+
+You could kill Bitcoin 'with a virus' if you got all the full nodes infected (and tamper with them), but that wouldn't happen even if every government combined forces.
+
+Yes, it does. Every transaction contains executable scripts.
+
+This has already been attempted years ago, Microsoft Security Essentials flagged portions of the blockchain as containing suspicious strings and kept deleting the blockchain data as it was being downloaded.
+
+At this point there is no way to kill Bitcoin. Governments lost the war the moment Satoshi published his whitepaper.
+
+You know more than me about this, but I was thinking along the lines of a syncing header with maybe an rf signal- able to crash a node if that's possible.
+
+Bitcoin SCRIPT is very limited. It can't access anything outside of the transaction it is executing on, and it's total, meaning no looping.
+
+Probably no looping.
+
+Yes, it does. Every transaction contains executable scripts

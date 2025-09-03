@@ -1,0 +1,2 @@
+When a photon comes in, it has a certain amount of energy of its own, and may interact with the electrons.
+However, it can only pass on its energy if the electron energy + the photon energy is also an allowed electron energy.

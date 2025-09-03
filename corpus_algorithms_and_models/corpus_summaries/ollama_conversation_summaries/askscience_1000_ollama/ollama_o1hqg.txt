@@ -1,0 +1,29 @@
+Here is the extracted summary:
+
+Why does an airplane flying at 30,000 feet only go 300MPH when the space station above it is traveling at 25,000MPH in the same direction and circles the globe before the plane reaches its destination? Does wind resistance, thrust to weight ratio, and gravity really make that big of a difference?
+
+Doesn't the space station cover more distance than the plane in the atmosphere?
+
+What would it take to get an airplane to achieve speeds of the space station, only at 30,000 feet?
+
+Actually, the average speed of the ISS is around 17,000 mph.
+
+Yes, and other factors as well. Also remember, an object in motion tends to stay in motion unless acted on by an outside force. There are far fewer outside forces in space than in earth atmosphere.
+
+As far as the speed difference goes, travelling at 25,000 mph would create so much heat from air friction that your airplane would be liquified.
+
+The space station would travel about 80 times faster through the sky.
+
+Here's what you want to look at:
+
+http://en.wikipedia.org/wiki/Space-plane
+http://en.wikipedia.org/wiki/Propulsive_efficiency
+http://en.wikipedia.org/wiki/X-43
+http://en.wikipedia.org/wiki/Scramjet
+http://gltrs.grc.nasa.gov/reports/2001/TM-2001-210953.pdf (Check out page 6)
+
+If produced, the X-43D is hoped to have a top speed about 50% faster than the current record held by the X-43A, if it is ever produced.
+
+Its top speed was somewhere around 2,200 mph and even at that speed and considerable altitude (where the air is thinner) the Blackbird would [reach temperatures of 800F](http://www.nasa.gov/centers/dryden/news/FactSheets/FS-030-DFRC.html) and required very special engineering to deal with it.
+
+The Space Shuttle's re-entry speed was around 17,500 mph and also required some special protection.

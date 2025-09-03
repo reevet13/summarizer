@@ -1,0 +1,11 @@
+Here is the extracted summary:
+
+In Lawrence Krauss's speech "A Universe From Nothing" he states that we know the amount of protons and neutrons in the universe.
+
+It was my understanding that the universe is infinite and no matter where or how far you go it will look relatively the same. Wouldn't that suggest infinite mass as well?
+
+You are absolutely right. Mr. Krauss is being a bit sloppy with the terminology here.
+
+This is due to the finite speed of light and the finite age of the Universe. Light from objects further away than that simply didn't have the time to reach us yet.
+
+We can measure the matter density by observing the expansion rate of the Universe.

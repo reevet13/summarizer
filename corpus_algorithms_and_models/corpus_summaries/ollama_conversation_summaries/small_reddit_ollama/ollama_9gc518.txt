@@ -1,0 +1,10 @@
+Here is a summary of approximately 10% of the original text (up to 250 words):
+
+Didn't ground myself properly before dusting pc and now it wont detect display, and keyboard and mouse wont connect.
+If you've got integrated graphics, try taking out the GPU.
+How do i know if it has integrated graphics?
+Motherboard will have video port like HDMI dvi or vga
+Thanks, ill try it
+It does have integrated graphics
+
+Can this narrow it down to what it might/might not be

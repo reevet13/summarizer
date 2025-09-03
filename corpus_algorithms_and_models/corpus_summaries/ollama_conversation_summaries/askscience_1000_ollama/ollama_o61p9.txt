@@ -1,0 +1,17 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+Looking for the patch that clears this incongruity up is a big part of what is sometimes called the search for the Grand Unification Theory.
+
+No, a working theory of quantum gravity doesn't have to converge at high energies. That would be nice but it isn't necessary.
+
+You can break General Relativity down to a fundamental idea that a system undergoing constant acceleration is indiscernable from a system within a gravitational well.
+
+The curvature of spacetime is described by a matrix called the *metric tensor* which has different values at each point in space and time, telling you exactly how the usual Pythagorean theorem is modified to measure distances. Because it's an object with a certain value at each point in spacetime, it's what we call a field.
+
+Similarly, the metric tensor which describes spacetime curvature is also a field, so in principle it should be able to be quantized as well.
+
+You can break General Relativity down to a fundamental idea that a system undergoing constant acceleration is indiscernable from a system within a gravitational well.
+
+General Relativity never has to deal with things like 'Gravity Fields' because gravity wells can just be treated as properly configured GR Accelerating Reference Frames.
+
+That is all that the above statement is saying.

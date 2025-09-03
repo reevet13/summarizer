@@ -1,0 +1,50 @@
+Original Response:
+I was (not) watching some show about space last night as i was trying to fall asleep and had a thought maybe you all can help me wrap my mind around. 
+
+Let's say somehow tomorrow we find/are given/discover a method of space travel that would allow you to get in a ship and go explore any star in our galaxy (or others). Somehow your ship can move across the vast expanse of space in a timely mannor. 
+
+My question has to do with navigation. When we plan a trip to say Mars, we can figure out what path to take by doing the math for where we are and where Mars is and adjust for where it will be when we get there right? How could we do this with a distant star? One thats light took years just to get to us? Can we track the movements of a distant star well enough to to "jump" to a point near it and on the correct plane or better yet near a planet?
+
+I know it's dumb to bring movies into this, but in films ships always "jump" across space to a just outside of a planets orbit where they can then pilot down into the atmosphere. If we had such a ship, is there anyway we could figure out where to go?
+Astronomers can track star movements across the sky and can estimate distances pretty accurately.  As long as you had those two pieces of information for your destination and knew how long it would take to travel that distance (to adjust the flight path for the illusion of a distant star's location in the sky) you could navigate accurately.  If a star is moving more or less perpendicularly to the way you're traveling to it, and provided you had faster-than-light travel, you would see the star rapidly moving across the sky the closer you got to it.  Look up Red Shift some time.
+One option is to use [pulsars to define cosmic location](http://arxiv.org/abs/0905.4121). Individual pulsars are readily identifiable by their rate of spin (pulsation).
+Could we calculate it so you could put your ship to within a hundred miles of the surface of a planet on the other side of the milky way?
+
+I guess i got overwhelmed (as i often do when confronted with the sheer number of stars in our galaxy) last night thinking about the complexity of navigating a ship between hundreds of billions of stars with such vast space between them. 
+
+Another question: if you fucked up and jumped to a spot thats not in any solar system, could you stand a chance at finding your current location based off of the stars you see?
+Guiding things in space is surprisingly tough. Even to send things to Mars we regularly need to make a variety of course corrections on the way. For example, Curiosity, the new rover on its way to Mars, about a month ago reached one of the points in its trajectory where they had to decide whether or not to make a course correction.([source](http://www.universetoday.com/91501/flawlessly-on-course-curiosity-cruising-to-mars-no-burn-needed-now/)). 
+
+How much this would extend out to your hypothetical jump technology is hard to say without a lot more detail about how the technology works, what it would be capable of, and how accurate a jump you want. Without that we can't do much more than speculate.
+I'll answer those in order.
+
+I don't see why we couldn't do that given the right information.  Interstellar travel should only vary in the distance between you and your destination, and the direction you're heading in.  Everything else is the same (given you're traveling at the same speed all the time).
+
+I'd assume that by the time we had ships capable of accurate interstellar travel we'd have a fully detailed map of our entire galaxy.  Of course, this is getting into speculation and what-ifs but I don't think it's too hard to postulate about it.  We would have to keep a constantly refreshing three-dimensional map of all stars and other objects within our galaxy if we wanted to stand a chance at making safe insterstellar travel feasible.  For instances where you'd be far away from any 'landmarks' (e.g. stars or nebulae) you would have to rely on triangulation to pinpoint where precisely you are and what *exact* direction you should head in to get where you want to go.
+
+Ooh, this topic has my brain in a mixed state of awe and anger because I most likely won't ever live to see anything like this.
+Well, once we knew the planet was there, sure; orbital mechanics are predictable and well-known, so once we've observed a body's orbital velocity, it would be fairly easy to do these calculations.
+
+As for finding your location based off of the stars you see, that would depend entirely on the equipment you have on board, but probably.  The easiest way, as rocksinmyhead already mentioned, would be to look for pulsars, since they're so easy to identify, but how quickly and accurately you could determine your exact location would depend mostly on how complete and accurate your maps are, and how good your astronomical equipment is.  (IE, a computer with a fully filled in chart of nearby space and a high res 360 degree shot of the area could probably put your location to within a kilometer or two of exact distance to a given body in a few seconds or minutes, whereas a guy doing it by hand from a chart of known pulsars would probably take hours, and would most likely only be able to reliably put your range to a target body within a few hundred AU)
+[deleted]
+Thanks for the reply. 
+
+So what you and XtortionBear are saying is that if we had such a drive system dropped in our lap tomorrow, we would still be years off from building a way to safely navigate it because we do not have a 3D star chart that updates in realtime yet?
+
+How far out are we from having that kind of computing power? To be able to display hundreds of billions of stars all moving in 3D and be calculating their exact location?
+The most "realistic" way to get around that problem is to make a series of short trips, re-checking the position at each stop.  A tiny error from across the galaxy could mean a few light years, but if you are yourself within a few light years, the error becomes much smaller.
+Well, if we just had the drive system dropped in our lap tomorrow, we would be years off from it just from the time needed to design and build an appropriate ship for it; navigation would actually be fairly easy to design, as we went along.
+
+As for how far we are from having the necessary computing power to safely navigate, we could probably do it right now, at least to the level needed to not hit any known bodies, and to get in the right general vicinity with superluminal travel.  After all, the defining characteristics of space are that it's big and it's mostly empty; if your superluminal trip were being planned out in advance, as would most likely be the case in real life, rather than a space opera seat of your pants trip, then you wouldn't even be saddled by only being able to use what computing power your ship had available, because you'd probably have a mission control, or some space-based equivalent of the FAA, figuring out safe routes.
+
+Now, as for generating and displaying a full 3D map of the galaxy, I can't really speak for whether we have all the data we would need to do so, but with some creative programming, it would be possible to do on a modern PC, using some of the same tricks that we've learned over the years from development of games and other software in order to simplify the parts of the simulation which aren't currently in use, and thus not devote as much (or any) processing power to them.
+
+Finally, if you're looking to do a proper, completely shortcut-free simulation, that's probably a ways off; in 2009, IBM announced that they had designed a neuron simulator which ran in real time, simulating one billion neurons interacting by way of ten trillion synapses; although it's a different application, and thus would require different types of math, the Milky Way has 200-400 billion stars in it, and if you were going for a fully accurate simulation, that would result in a minimum of 4*10^22 interactions (albeit a majority of them nearly inappreciable)
+Thank you! This is why i love reddit.
+
+Summary:
+How could we do this with a distant star?
+If we had such a ship, is there anyway we could figure out where to go?
+As for finding your location based off of the stars you see, that would depend entirely on the equipment you have on board, but probably.
+To be able to display hundreds of billions of stars all moving in 3D and be calculating their exact location?
+Somehow your ship can move across the vast expanse of space in a timely mannor.

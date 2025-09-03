@@ -1,0 +1,35 @@
+Original Response:
+Think of a water bottle. When you spin it real fast, the water stays in one spot. The earth moves pretty damn fast. (can't think of the number). If this is true, then if the earth stopped spinning would there be no gravity?
+No. Gravity is independent of velocity.
+http://en.wikipedia.org/wiki/Gravity
+&gt;What is gravity?
+
+Gravity is the curvature of spacetime.
+
+&gt;if the earth stopped spinning would there be no gravity? 
+
+Actually, the fact that Earth is spinning acts against Earth's gravitation; if Earth stopped spinning, things would get heavier by a small amount (with the magnitude of the increase depending on your latitude).
+Interesting! Thank you!
+Gravity has nothing to do with the Earth spinning. 
+
+Gravity is the effect of the existence of mass. Mass tends to curve space and that curvature is what we experience as gravity. That's why the higher the mass, the higher the curvature and the more gravity. 
+
+Anything with any mass will generate its own gravity, even our bodies and everyday objects, though for objects that are much smaller than most celestial bodies, the magnitude of the gravity generated is so small it cannot be detected.
+What Nachodog said is pretty much spot on. If you spin a water bottle and the water stays in one spot, thats centrifugal forces keeping it there, not gravity. Actually, think of a wet basketball; if you spun it quickly, the water would 'spray' off of it. If the Earth spun fast enough, we'd all shoot off into space!
+
+But gravity, in essence, is an effect masses have that causes it to attract other masses by curving spacetime. We don't really understand how it works, but its just kindof a fact of physics. Its one of the four fundamental forces in physics. Masses have gravity, and The larger the mass, the bigger the gravity. The Higgs Boson is thought to be the 'particle which gives things mass'. But that still doesn't explain how gravity works. 
+
+
+Its kinda funny, how one of the first forces of physics we experience as a child, falling and scraping our knee, is one of the toughest to explain.
+Well, only in a Newtonian approximation. In full-on general relativity velocity does factor in.
+Upvote. The phenomena of spinning a water bottle around actually makes the water inside want to push outwards, not inwards - that's called Centrifugal force - and it's the same for Earth spinning. The Centrifugal force wants to throw us away from the Earth, but Gravity is what keeps us grounded.  
+  
+Everything with mass has gravity - not just the planet. The influence of the objects gravity, is called a gravity well. When you jump up, and then accelerate back to the Earth - there are 2 things happening there. The Earths Gravity is attracting you, and pulling you towards it - but also your gravity is attacting the Earth, and pulling it towards you. However due to the huge mass of the planet compared to yourself, the most noticeable effect is you moving.
+Oh man I've been looking everywhere for someone to confirm this for me. Can you explain why?
+In general relativity, you can't just use mass, because it's tied in with things like energy and momentum much the way time and space are related. The Universe distinguishes between these things much less than we do, since all inertial reference frames are equivalent. So it follows naturally that energy and momentum will also source gravitational fields just as mass does.
+
+Summary:
+Gravity has nothing to do with the Earth spinning.
+&gt;if the earth stopped spinning would there be no gravity?
+Gravity is the effect of the existence of mass.
+Gravity is the curvature of spacetime.

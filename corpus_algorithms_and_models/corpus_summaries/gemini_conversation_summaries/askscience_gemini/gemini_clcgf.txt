@@ -1,0 +1,50 @@
+Well we only know about life on earth, so it's hard to say how big life on other planets could get.
+
+The biggest blue whale was about 200 tonnes, and the biggest land animal was Argentinosaurus at about 120 feet long.
+
+I imagine the upper limit is greater in water where it doesn't have to support its own weight.
+As a slightly less theoretical example, coral is in the kingdom animalia (Phylum Cnidaria), however as a communal organism, each individual doesn't get very big.
+As mentioned by iorgfeflkd, moving the question into an aquatic environment would greatly reduce that issue, likely shifting the limiting factor to food availability vs maintenance energy needs.
+
+Signaling may also be a problem; the lag in electrical signaling already requires secondary systems to allow for competitive response times in larger mammals (i.e., "ow, hot!" pain signals trigger your spine to retract your hand from a flame before the pain signal itself can reach your brain); an animal that relied more heavily on non-electrical signaling (hormones) would be even slower in its ability to react to external stimuli; unless it had some sort of novel distributed signaling system to better manage delays.
+I always thought it was heavily related to the amount of oxygen in the air.
+I think that is a large part of it.
+So, body size is a fundamental organismal property closely related to metabolic rate.
+I've ready theories that some of the large insects and such from prehistory were possible in part due to the more oxygen-rich atmosphere.
+
+There would certainly be a tipping point with oxygen concentration, no?
+Your question is too vague.
+The largest ***animal*** would do better in the sea for support of its frame in water -
+There is a whole (contentious) field of study that kind of asks this question called [allometry](http://en.wikipedia.org/wiki/Allometry).
+
+Basically, it says that many things scale at very different rates.
+For example, if you increase the size of a sphere, the surface area increased at a rate of ^2 while volume increases at a rate of ^3.
+
+These scaling laws, if they're real (the contentious part), strongly affect a whole bunch of animal properties.
+For the purpose of your question, it limits size for a number of reasons (of which I'll just give a couple):
+
+1. since your mass increases at a much faster rate than your size, your skeletal structure (whatever that may be) reaches a limit where the skeletal integrity won't be able to support the mass.
+This is the "gravity" issue people are referring to.
+
+2. the rate of diffusion doesn't change as mass gets bigger, which means that oxygen diffusion through your body (which happens in all animals - even mammals at the facet of capillaries) will start to be ineffective as you get bigger.
+This _MAY_ be why larger animals have slower metabolisms - because they don't have enough oxygen to have fast metabolisms (physiologists, please correct me if I'm wrong - I'm going off memory of a couple of Brown papers I read four or five years ago).
+
+3. this one I'm going out on a limb, so please take it with a grain of salt: the speed of nervous reactions is not instantaneous, so even if you solved the other scaling issues, my guess is that a giant body would be very uncoordinated (literally).
+I suppose this could be solved with a decentralized nervous system, but I'm not sure.
+
+Fun question!
+I am not a metabolics expert, but I think this question has a basic premise wrong.
+Just wanted to clarify, larger animals have slower metabolisms per unit mass.
+
+I made a post in this thread earlier, but it seems to have disappeared.
+Jim Brown's work is, indeed, a good place to start if anyone is interested in the metabolic constraints on organismal body size.
+The dinosaurs were [pretty big](http://en.wikipedia.org/wiki/Dinosaur_size).
+
+King kong was only [originally scaled to be about 24 feet tall, and in later movies made to be about 60 feet](http://en.wikipedia.org/wiki/King_Kong#Appearances_and_abilities).
+The tallest Sauropods could easily reach this, though they had thin necks and tiny heads.
+The Therpods with their giant flesh rending heads, such as T-rex, still got above 40 feet.
+Yep, thanks!
+About 2, don't bloodvessels essentially solve that?
+It makes the diffusion part some typical distance from some vessel, and then the issue becomes the cost of the vessels.
+The number of small vessels one would suspect to go with volume.
+The successively larger vessels each are a factor in number less and

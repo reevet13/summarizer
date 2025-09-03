@@ -1,0 +1,26 @@
+Here is the extracted summary:
+
+All the miners have upgraded already, so there's no more threat of a chain split.
+
+I'm curious as to how you know this ?
+
+Afaik, recent count is 21% of nodes have upgraded. So I'm wondering how you seem to know more than others.
+
+
+We are at 46% for full BTC Core nodes. I did mine once the new version was posted on [bitcoin.org](https://bitcoin.org) You can see the stats [here](https://coin.dance/nodes) (quite a bit down the page).
+
+As of Sept 20th (4 days ago at time of writing), over 50% of the hashrate has upgraded. See the notice published by Bitcoin Core:
+
+[https://bitcoincore.org/en/2018/09/20/notice/](https://bitcoincore.org/en/2018/09/20/notice/)
+
+
+At this time we believe over half of the Bitcoin hashrate has upgraded to patched nodes. We are unaware of any attempts to exploit this vulnerability.
+
+
+My apologies for not including my source in the original comment. See the notice published by Bitcoin Core on Sept 20th, in which they've confirmed that over 50% of mining nodes have upgraded: [https://bitcoincore.org/en/2018/09/20/notice/](https://bitcoincore.org/en/2018/09/20/notice/)
+
+
+Well, if someone wanted to attack they could still do some minor chain reorgs for unupgraded nodes
+
+
+Lol

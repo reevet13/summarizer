@@ -1,0 +1,18 @@
+[Wikipedia](http://en.wikipedia.org/wiki/Scientific_opinion_on_climate_change)
+
+[Primary source](http://www.ipcc.ch/publications_and_data/ar4/syr/en/mains2-2.html) (IPCC)
+I don't know how you could have _never seen_ the evidence suggesting climate change was partly caused by human activity, unless you've just been ignoring all scientific articles about it for the past 20 years.
+
+Currently people are consuming about [3 cubic miles of oil equivalent per year](http://en.wikipedia.org/wiki/Cubic_mile_of_oil), which adds about 36 billion metric tons of CO2 into the atmosphere that wasn't there before. In 2011, CO2 concentration was up to [390 ppm](http://co2now.org/), compared to around [270 ppm in preindustrial times](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/grnhse.html#c3).
+
+Fortunately [CO2 has a pretty small effect on the temperature](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/humimp.html). If the Earth had no atmosphere at all, the average temperature would be about 60F (33C) lower than it is now, and of that CO2 contributes maybe 4F or 5F (2C or 3C). The revised IPCC climate sensitivity for CO2 is about [2.3C for doubling CO2 concentration to about 540 ppm](http://www.worldclimatereport.com/index.php/2011/11/08/a-new-lower-estimate-of-climate-sensitivity/). We're currently up by about .8C with a 44% increase.
+
+So it's only 0.8C, or around 1.4F increase so far, doesn't sound like a big deal. But [the poles heat up the most](http://data.giss.nasa.gov/cgi-bin/gistemp/do_nmap_test3.py?year_last=2011&amp;month_last=11&amp;sat=4&amp;sst=1&amp;type=anoms&amp;mean_gen=11&amp;year1=2011&amp;year2=2011&amp;base1=1951&amp;base2=1980&amp;radius=1200&amp;pol=reg), and they have a big effect on global weather. That's why scientists prefer to call it _climate change_ rather than _warming_, because it may not be that much warmer, but the weather effect can be significant.
+Here's a [summary of the science and the historic landmarks](http://www.reddit.com/r/askscience/comments/msekm/when_this_post_is_12_hours_old_i_will_be_at_a/c33h0cv) of anthropogenic climate change I wrote a while ago.
+
+We have tons of evidence that the currently observed warming is largely caused by human activity. The warming cannot be explained by natural factors (for example, the solar output has been stable or even declining in the past 3 decades while temperature has gone up) and it correlates very well with the increased CO2 in the atmosphere. Maybe most compelling is that we also see other fingerprints which indicate that the warming is due to a greenhouse effect: the upper atmosphere is cooling while the lower atmosphere is warming, and nighttime temperatures are rising faster than daytime temperatures.
+
+The next ice age will have to wait, btw. We expect that even a new [grand solar minimum will have only a very small cooling effect](http://www.realclimate.org/index.php/archives/2011/06/what-if-the-sun-went-into-a-new-grand-minimum/) which will be far outpaced by further anthropogenic warming.
+
+What "people" say about the climate of other planets is a bit of a distraction. Some of them may be warming but bear in mind that we know virtually nothing about them. This is one of my favorite climate denialist contradiction: Earth's climate is allegedly far too complicated for us to make any predictions but the "climate" on another planet about which we know next to nothing can be directly compared to ours. Laughable.
+There are facts that support both the AGW and non-AGW side, with the more key aspects still being heavily debated. There, however, is no conclusive proof to support the AGW theory

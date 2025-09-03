@@ -1,0 +1,9 @@
+Yes. Evolving has nothing to do with the fact of hunting.
+
+The evolutionary pressures are changing, so we are evolving *differently* than before...for many of us, typing is probably more important to survival than hunting. But we are still evolving nonetheless.
+
+Yes, but *very* slowly. As long as there is any association between a genetic trait and relative reproductive fitness there will be selection pressure and evolution. Selection pressure is proportional to the covariance between an allele and the relative fitness of that allele vs other alleles of the same gene. Modern society reduces relative fitness differences between alleles in many ways; relative fitness changes dramatically only if the allele kills you or causes you to have many more children. Lots of things that would have killed you don't anymore, and people tend not to have huge numbers of kids. So, the selection pressures are probably a bit weaker now, although things like sexual selection are still probably going strong.
+
+However, none of that actually matters because evolution is *slow*. It operates on time scales of hundreds of generations for strong selection pressures. Even a 1% increase in relative fitness is considered strong by historical standards, with most selection pressures though to be more like 0.1% or less. That translates to a fixation time of a brand new allele of 2000 generations for the current human population size. Even if we assume an absolutely ridiculously strong selection pressure of 100% (doubles your odds of reproducing or your number of kids), it takes 32 generations for a novel allele to go to fixation, or about 600 years.
+
+In all, evolution will always play a role wherever there is life (just maybe not as big of a role in human lives soon) and selective pressures/forces that drive it (life, that is).

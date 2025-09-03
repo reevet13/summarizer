@@ -1,0 +1,11 @@
+Here is the summary:
+
+Consider two identical events in space. If these 2 events are separated by some space, that is, a difference in placement, you can call that distance, or displacement. Now, what separates 2 events in the exact same spot (displacement = 0)? Time. Time separates 2 events in space.
+
+The main culprit behind all the weirdness of special relativity (which you are trying to explain) is this: the speed of light is constant in all reference frames.
+
+If the speed of light is an absolute constant, and *everyone* sees the same speed of light no matter how fast their own cars are going, it's pretty clear that *something's* gotta give.
+
+One of those things is time dilation: the faster you move, relative to everyone around you, the slower time seems to pass for you.
+
+Let's say you're now an observer standing on the sidewalk, you've got a stopwatch, and all cars around you are either totally still or travelling at a constant speed.

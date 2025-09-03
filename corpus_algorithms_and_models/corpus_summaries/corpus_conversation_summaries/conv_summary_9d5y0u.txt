@@ -1,0 +1,37 @@
+Original Response: 
+Hello quick question, I like thematically having dual pistols for my character, but I'm not sure which class can use it efficiently.
+I know it's not meta but I just want to use in pve for fun :)
+Any advice helps, ty!
+none, until they give us aoe unload on thief, like daggerstorm.
+We had that, but they removed it, when they reworked the Trait System.
+https://wiki.guildwars2.com/wiki/Ricochet_(trait)
+In open world staff on mirage is basically that.
+Chaos Vortex pierces in a wide AoE and stacks might+fury for pretty good damage.
+It relies on sigil of stamina (or energy+endurance food) though and being condi is a major downside for most open world content to begin with.
+Like P/P thief it also falls off in organised groups and gets royally screwed by enemy projectile denial.
+Mechanically staff ele, GS chrono and scourge are the best ranged AoE nukers with scourge again being suboptimal for most open world content.
+None of these play anything like a gunslinger though.
+Superior sigil of fire can help with it a bit, but still not very good.
+Deadeye's [Collateral Damage](https://wiki.guildwars2.com/wiki/Collateral_Damage) trait helps pistols pick up some AOE damage.
+Pocket Raptor packs explode pretty quick with this equipped.
+I never really liked that trait.
+Had someone in my guild use it when TA Aether first came out, and she kept on killing the ooze that you needed to clear up the tar in that one duo boss fight.
+Though I'm sure it was fun to use outside of that one specific senario.
+Can you explain how GS Chrono is good at ranged nuking?
+I'm just not seeing it.
+Mostly burst.
+Cast GS2/charge Mantra of Pain, cast iZerker, CS, spam as much as you can, when CS ends iZerker(+iDisenchanter/iDefender)-&gt;SotE-&gt;iZerker-&gt;Well of Calamity, GS3 and anything else you still have ready.
+Hit F1 the instant you have 3 clones.
+For a fully ranged build you would then spam MoP instead of autos as much as possible.
+Ideally and since many encounters do not actually force you away 100% of the time you would have sw+sw on your second weapon set and open with spamming iSwordsman in melee for extra might stacks.
+In these situations you should swap to sword ASAP and generally avoid GS auto as much as possible.
+For tagging you can also go power mirage with sigil of fire+stamina and spam GS ambush, this deals terrible dps but with the ambush, GS2-4, MoP and the sigil you can basically insta-tag anything within 1200 range of yourself continuously.
+Ricochet would be an interesting thing to implement back into thief pistols somewhere...
+Well Thief AoE is and always was some kind of random.
+I'd like getting it back.
+
+Summary: 
+I'd like getting it back.
+I'm just not seeing it.
+I never really liked that trait.
+In open world staff on mirage is basically that.

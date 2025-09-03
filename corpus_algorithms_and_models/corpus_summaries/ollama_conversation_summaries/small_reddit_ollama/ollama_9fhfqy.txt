@@ -1,0 +1,13 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+As for cable management I would think this pic was taken pre final version I hope. The MOBO cable should be routed through that grommet right next to it for a cleaner look. as for the other cables, pull it from the unseen side as much as you can and leave just a bit of slack so its not tugging on the connection.
+
+The 570X is a monster only when you put in a monster amount of cables. 7 rgb fans plugged into the rgb hub plugged into the fan controller adds a bunch of work, but if you go slow and plan carefully its really not too bad.
+
+Oh I see.  I was considering this case for my recent build and from the tutorials on youtube...it looks reasonable to manage cables back there, especially if you are just using M.2 drives...is there just not enough room to manage the slack from the cables?
+
+I think it came out clean as fuck; however, i did start at around 10:30 pm and didn't finish till roughly 1:00 AM.
+
+The rest is very similar to how i have mine; i guess there's really only 1 way of managing cables on this case.
+
+Seems a little different as they added a couple pieces to the back to help hide more cables.

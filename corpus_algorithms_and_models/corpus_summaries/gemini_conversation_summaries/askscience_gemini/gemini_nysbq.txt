@@ -1,0 +1,8 @@
+My question is, what would happen if you rotated a rigid disc large enough that even slight acceleration near the hub would imply higher-than-lightspeed velocities at the rim using Newtonian physics?
+Ignoring engineering challenges like the disk ripping apart, the thing would just get closer and closer to the speed of light at the edges without ever reaching it.
+It's not a useful case, because in the physical world you can't even *approach* infinite rigidity.
+Infinitely rigid objects are impossible in special relativity.
+True.
+The dot isn't exactly a tangible thing... think about a beam of light being more like a stream of water coming out of a super soaker.
+Moment of inertia is the rotational version of mass: things with a lot of mass are hard to move, things with a high moment of inertia are hard to spin.
+This makes sense.

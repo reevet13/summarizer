@@ -1,0 +1,14 @@
+Or to put it another way: are we sure there is such a thing as dark energy, and not some additional low-level force which is only making itself seen at the scales where people start needing to add the idea of dark matter in order for gravitational forces to produce the right calculations.
+The possibility of more interactions than the current four described by the Standard Model and General Relativity exist, however, there is no evidence right not to suggest it.
+Congratulations!
+You've just discovered [scalar-tensor theories](http://en.wikipedia.org/wiki/Scalar-tensor_theory) of gravity.
+These are quite a popular way of solving the dark energy problem, as it turns out.
+The idea is to modify Einstein's theory of general relativity by adding a new type of field, called a scalar field, which interacts in some way with the gravitational field.
+This scalar would add a "fifth force" which could manifest itself primarily on the largest scales, and it's surprisingly easy to get an accelerated expansion out of these types of models.
+This fifth force would be experimentally constrained by the sort of experiments that iorgelschmidt linked to.
+Usual question for any beyond-standard theory: any predictions that aren't found in GR+lCDM?
+Plenty.
+It depends on the scalar-tensor theory, obviously - you can always tune your potentials and things to look arbitrarily close to ΛCDM, but realistic models don't always have these properties, and plenty of proposed theories have either been constrained or ruled out by, for example, fifth force experiments (like eotwash), solar system PPN constraints (measurements from the Cassini probe, for example, put severe constraints on the coupling constant in Brans-Dicke theory, the oldest scalar-tensor model), etc.
+Also, since these tend to be basically equivalent to dark energy with a time-dependent equation of state, and one that isn't necessarily equal to -1 today, there are plenty of ways to probe these cosmologically, in theory.
+Of course, in practice the theories that get the most attention are the ones that do what we want them to do (like give accelerated expansion) while staying consistent with the data to date!
+So they end up looking quite similar to ΛCDM at the present.

@@ -1,0 +1,10 @@
+I get that light is additive while pigments absorb light, but wouldn't a wave of blue light reflected off a pigment in the end be the same thing as a blue light source?
+To your eye it's the same, but a green wavelength of light can be very, very different than a mixture of blue and yellow light sources.
+The primary colors really have no basis in fundamental science, but rather how our brains/eyes interpret colors.
+Right, but after the pigments absorb colors, not-absorbed ones are still reflected.
+Why don't those reflected wavelengths compound/average like additive colors do?
+If the light was bright enough, you'd get yellow.
+I understand that a mixture of wavelengths reflect from the brown surface, but why don't those different wavelengths combine like they do when you have two red/green lights?
+They do - the only problem is, I'll bet there's a lot of cross-absorption.
+But brightness has nothing do with it.
+In that last image I just demonstrated how reducing luminosity makes yellow turn brown.

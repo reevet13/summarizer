@@ -1,0 +1,111 @@
+Original Response:
+Hi guys! After a few years of vaping and purchasing a DNA75 squonker a few weeks ago I've decided to give TC another go.
+
+&amp;#x200B;
+
+Im using a vtinbox v3 and an mtl rda, the speed revolution. Currently using 28ga SS about 8/9 wraps (contact) to achieve +/- 1 ohm. Using a fairly thick eliquid tough... Charlie Noble RY4 pistachio (80/20).
+
+&amp;#x200B;
+
+I've set my device on SS316 and the screen currently shows 55WATT, the Temp is set to 515F (i like my throathit), the device is using around 14W to get me to 515F.
+
+I do think TC is giving me a little less satisfaction than plain old VW Kanthal/ni80 around 17W..
+
+&amp;#x200B;
+
+My questions are :-What build and settings do you reccomend? what gauge, spaced or contact?
+
+\-Should I fiddle with the eScribe software?
+
+\-Is 515F still considered safe?-I don't have the feeling I have longer battery life compared to VW, is this normal?
+
+\- Coil gunks very fast, I assume it's the type of juice... I won't give up on pistachio tho..  (using cotton bacon wicks)
+
+&amp;#x200B;
+
+Thanks in advance! I'm going on vacation tomorow for a week and want to have the perfect setup so I don't have to mess around much anymore.
+
+&amp;#x200B;
+
+Kind regards,
+
+&amp;#x200B;
+
+Wim
+With a DNA75C and stainless steel, there's no reason not to use the Replay feature - it'll be the best TC vape you'll get. You will probably need to find and download a Replay-compatible theme. After that, it's just a matter of getting one good power-mode hit and telling the mod to keep doing that - no fiddling around with temperature or materials settings, etc., it just maps power and resistance to repeat your good vape. It is still TC with all of the protections and so on; it's just a much simpler and more effective way to achieve it, especially with lower-TCR materials and complex coils.
+
+And for the record, yes, at 515°F, you're well into "producing nasty byproducts" territory, provided that the 515°F you have set is actually the temperature you're reaching (that ain't necessarily so).
+515.0 °F ≈ 268.3 °C
+
+
+
+^(I'm a bot. Downvote to remove.) 
+
+_____
+
+  ^| ^[Info](https://www.reddit.com/user/Bot_Metric/comments/8lt7af/i_am_a_bot/) ^| ^[PM](https://www.reddit.com/message/compose?to=Ttime5) ^| ^[Stats](https://www.reddit.com/message/compose?to=Bot_Metric&amp;subject=stats&amp;message=Send%20this%20message%20to%20get%20some%20stats!) ^| ^[Opt-out](https://www.reddit.com/message/compose?to=Bot_Metric&amp;subject=Don't%20reply%20to%20me&amp;message=If%20you%20send%20this%20message,%20I%20will%20no%20longer%20reply%20to%20your%20comments%20and%20posts.) ^| ^[Patreon](https://www.patreon.com/MetricBot) ^| ^[v.4.4.4](https://www.reddit.com/user/Bot_Metric/comments/8o9vgz/updates/) ^|
+vt inbox its just dna75
+I’m using the djlsb profile and getting a good vape at 355F now, what is this sorcery? About the vw replay to tc mode...? Where can I find this?
+you dont have replay.  thats for the 75c you have the 75.  the sorcery is proper profile.  djlsb is fine too as are others.
+Okay mate, sorry about sounding abit helpless here, just abit lost at the moment.. : ) So to sum things up, I got a DNA75 and not a DNA75C and by just importing the djlsb ss preset I've done all the apropriate things to optimise TC with SS-experience, there are no further themes and things I should get?
+nope just get your power/temp where you want it and when time allows learn escribe
+
+Edit: we were all helpless with our first dna device.
+Yeah will do, just one last silly question if you allow me? right now the wattage is set to 55, 355F, the wattage stabilises around 10 to get to the right temprature, isnt the 55W overkill then? should I lower it to increase battery life? can i change the wattage of my TC on the device (yes RTFM I know... can't find the correct button combo) or do I need to hook it up with the PC?
+should be 5 clicks on fire button then hold up and downs assuming you didn't change any of that in escribe.
+The 55 is just the upper limit for wattage. It’s going to hold at whatever it hits first. Since it’s hitting 355 before 55 it will hold at whatever wattage it needs to hit 355
+okay, what i do find strange is... when i turn on the device, i'm getting a nice fix at even 200F, after a while it gets weaker and weaker and have to up it to even 400F to get my throathit and warm vape... if I remove battery and reboot device, 200F is the sweetspot again, how can this be possible?
+and now at 200F its firing at 25W when normally it fires at 8ish wats to maintain temprature... even the lowest setting is hot as hell to vape.. I really dont understand what I'm doing wrong
+that worked, cheers, do see my comments bellow to diagrammatiks :p sorry mate
+Because when you remove the battery and reboot, the DNA75 sees the hot coil as the new cold resistance. Now you have to set the temperature to like 200°F. If you let the coil to return to room temperature again, now it will work as before and update the new cold resistance.
+
+Locking the resistance will keep the DNA from forgetting what the cold resistance was before swapping out the battery. At least it works this way on the DNA200 boards. You can't lock it and then change the battery. You have to do it like 30 minutes or something before you do it.
+200.0 °F ≈ 93.3 °C
+
+
+
+^(I'm a bot. Downvote to remove.) 
+
+_____
+
+  ^| ^[Info](https://www.reddit.com/user/Bot_Metric/comments/8lt7af/i_am_a_bot/) ^| ^[PM](https://www.reddit.com/message/compose?to=Ttime5) ^| ^[Stats](https://www.reddit.com/message/compose?to=Bot_Metric&amp;subject=stats&amp;message=Send%20this%20message%20to%20get%20some%20stats!) ^| ^[Opt-out](https://www.reddit.com/message/compose?to=Bot_Metric&amp;subject=Don't%20reply%20to%20me&amp;message=If%20you%20send%20this%20message,%20I%20will%20no%20longer%20reply%20to%20your%20comments%20and%20posts.) ^| ^[Patreon](https://www.patreon.com/MetricBot) ^| ^[v.4.4.4](https://www.reddit.com/user/Bot_Metric/comments/8o9vgz/updates/) ^|
+If you watch what happens when you vape with the EScribe software in the Device Manager, you will see the graph showing you that it starts out at 55 watts briefly and then throttling down. This isn't necessarily a bad thing, as this quickly warms up the coil very fast. But if you lower the wattage, battery life will improve, but your instant warm up time will take longer. The closer your coil is to room temp, the longer the wait will be. If chain vaping, the coil is already hot and it will be pretty instant with high wattage or not.
+Hey Bill,
+
+&amp;#x200B;
+
+You mean like this yes? :
+
+&amp;#x200B;
+
+[https://ibb.co/drkiS9](https://ibb.co/drkiS9)
+Yes, but you can lock and unlock from the mod too. I made this function list for the DNA200, but it should be the same for the DNA75 too.
+
+MAIN
+
+* Up/Down (5 sec) lock wattage or temp (Temp-Dominant dependent)
+* Up/Down (5 sec) then twice Up (or Down) to change Profile
+
+LOCK (5 clicks)
+
+* Up/Down (5 sec) adjusts temp or wattage (Temp-Dominant dependent)
+* Fire/Up (5 sec) lock ohms
+* Fire/Dn (5 sec) Stealth/Normal
+* Fire/UD (5 sec) Change Material
+maybe this will help?
+
+&amp;#x200B;
+
+[https://ibb.co/bHxV79](https://ibb.co/bHxV79) device monitor
+
+&amp;#x200B;
+
+so basicly, as a chain vaper, stay away from TC cuz u'll be upping the temp all the time, searching for your sweet spot ?
+
+Summary:
+You can't lock it and then change the battery.
+Where can I find this?
+should I lower it to increase battery life?
+Because when you remove the battery and reboot, the DNA75 sees the hot coil as the new cold resistance.
+I’m using the djlsb profile and getting a good vape at 355F now, what is this sorcery?
+\-Should I fiddle with the eScribe software?

@@ -1,0 +1,7 @@
+Here is the extracted summary:
+
+Imagine a 10Kg mass going 20m/s and smashing into a very large stationary object.
+I calculate the Kinetic energy as (.5)(10)(20)^2 = 2000 Joules.
+Now imagine (2) 10 Kg masses, each moving 10m/s, on a direct collision course with each other.
+I calculate the Kinetic energy of each as (.5)(10)(10)^2 = 500 Joules.
+Because they are equal in mass, they stop at collision and the Total energy of both masses when they collide will be 1000 Joules.

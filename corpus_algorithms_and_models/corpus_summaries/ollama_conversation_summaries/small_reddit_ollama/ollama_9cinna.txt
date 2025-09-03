@@ -1,0 +1,13 @@
+Here is the summary:
+
+My audio seems to be coming out from my speakers and my headset, the only way to stop this issue is by moving my headset audio connector into this really awkward spot, in which it wont stay in.
+
+If it works when moving the cable, it’s a hardware issue, have you tried another headset? If yes, and the problem is still persisting, it’s the port that’s gone bad
+
+Yeah, its in the same port. My headset is fine, but my speakers are going off at the same time. It could be a bad port I guess, any recommendations on what to do with a bad port?
+
+Uhh I think thats where my speakers are plugged in. Im not that tech savvy, but my mobo is an msi b150 gaming m3 if that helps.
+
+Not yet, but it should be? They were fine before
+
+Things can come loose over time. If that fails, you be looking at replacing the font of the case because I’m unsure of how modular that case is. If that’s not possible, maybe time to treat yourself to a new one

@@ -1,0 +1,8 @@
+Here is a summary of about 10% of the text, up to 250 words:
+
+* How do you build a meter stick? Find a straight stick, cut it to about the length from the ground to a man's crotch, and that's your new standard meter.
+* How do you approximate a kilogram? Like a liter of water, take a cube with sides 1/10th of a meter long, fill it with water, and use that as the standard artifact. Then find a clean rock that weighs the same to keep as the standard artifact.
+* How do you build a multimeter for voltage and current? Standardize voltage against electrochemical reactions between metals, and measure current by measuring the amount of reaction that occurs in a given time.
+* How do you measure temperature? Use a thermometer with mercury or alcohol, marked with 0 degrees C (water ice bath) and 100 degrees C (boiling water).
+* How do you measure luminous intensity or amount of substance? The value for intensity is the foot-candle, which is based on the irradience of light from a standard candle. The amount of something is the mole, which is based on the kilogram.
+* ...

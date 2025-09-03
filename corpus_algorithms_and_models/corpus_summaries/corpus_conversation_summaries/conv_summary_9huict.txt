@@ -1,0 +1,89 @@
+Original Response: 
+Talk about your day.
+Anything goes, but subreddit rules still apply.
+Please be polite to each other!
+What do y’all think of this letter to straits times forum.
+Don’t know why I got downvoted.
+And dk why they never publish.
+Backstory: I applied for a summer internship at Uber in San Francisco with an idea to help them save on driver incentive costs.
+However, I was not given the opportunity to work there and yet my idea had been adopted and implemented in Singapore.
+On hindsight, I realized how my idea infringed on the foundation of meritocracy (work hard and be rewarded)
+
+Here's my opinion:
+With ride-hailing apps such as Tada, Filo, Ryde and GoJek emerging to compete for a slice of the pie after Uber's exit, consumers would once again enjoy discounts and promotions when these ride-hailing apps start to compete with each other to gain ground on market share.
+However, we must not overlook the role drivers play in capturing market share for these companies in the "taxi" industry, therefore we can conclude that these ride-hailing companies would eventually roll out driver incentives to attract drivers to join their ranks.
+Example: Uber used to dish out incentives weekly for a certain number of trips clocked.
+Imagine this scenario: 49 trips are required to be clocked in a week for a $200 incentive.
+Let's assume an area say "Tampines" with a 10 minutes radius which coincides with Uber's narrative of waiting less than 10 minutes for a ride.
+There is one consumer waiting for a ride in Tampines to take her to Clarke Quay.
+There are only two drivers in Tampines.
+Driver A is closer to the consumer.
+There is one hour left on the clock to the end of the week.
+Driver A needs 1 more ride to make 49 trips to collect his incentive.
+Driver B needs 20 more rides to make 49 trips to collect his incentive.
+Who do you think should be assigned the trip?
+The ride should be assigned to the driver closest to the consumer.
+However, the algorithm can be designed in such a way that the ride goes to the driver with the least number of rides clocked that week, and since it fits into their 10 minutes narrative, driver incentive costs can be saved by spreading out the total number of rides to all existing drivers in the area, systemically allocating them.
+This goes against the foundation of meritocracy because Driver A has been working hard (putting in hours) yet the ride went to driver B.
+With this opinion, I hope that the government would start an initiative to prevent these companies from designing their codes in a way that will infringe on the foundation of meritocracy, or even limit the use of such algorithms before drivers hit their incentives.
+sadly meritocracy has no place in the world of money.
+I thought about why they wouldn’t wanna publish.
+It would be a self fulfilling prophecy.
+But it begs the question if the government has the power (or a strong labour union) to actually uphold meritocracy.
+This cannot save a lot of money given that it would only work in that very specific "1 hour left on the clock" scenario.
+In any other case it would just delay the incentives until an accumulated number of drivers manage to get them all at once.
+This has nothing to do with meritocracy.
+And meritocracy is not "work hard and be rewarded".
+And your letter is oddly specific about one thing which you can't even be sure is practiced by Uber/Grab.
+And it's just not that interesting an idea or opinion to publish in the Forum section.
+Those are probably why it didn't get published.
+There's no deep conspiracy involved.
+It doesn’t just work in the one hour.
+It’s working every minute to artificially suppress the number of rides clocked by every driver.
+What is meritocracy then?
+I don’t have proof but I did ask many Drivers if they were affected during the time frame when I experienced longer wait times.
+It only works when the week is going to end soon and you can reasonably delay Driver A from getting his ride long enough for him not to hit the target.
+If he had 48 trips with 5 hours left on the clock, no reasonable algorithm can stop him from getting his incentive without severely affecting driver supply in a way that hurts profits.
+Meritocracy is not about effort, it's about one's ability to bring value to his organization.
+But how long did it take for him to get 48 rides?
+Much longer now right?
+And much longer for everyone else too.
+And it’s always going to the driver with the lowest number of rides clocked.
+I guess being there idling, waiting for customer is bringing value to grab/Uber, if the waiting time is supposed to be lesser than 10 minutes.
+If you know anything about Uber’s algorithms and the way they run the company, you would know they wouldn’t care about something like this.
+In fact, if you gave them an idea that is borderline  illegal and undermines meritocracy, they would probably love it.
+Read about Uber Greyball, Susan Fowler’s article and Kalanick’s exit.
+That should give you an idea of what kind of company they are.
+The thing is, after my job application, wait time became longer (not just once), and I asked around, and Drivers confirmed there was a period that it was hard to get rides.
+You mentioned that "my idea had been adopted and implemented" and followed by "I don't have proof".
+It awfully seems like you're jumping to conclusions too early.
+Also, with your last suggestion about the government initiative, do you suggest that governing bodies begin doing code reviews on corporations' apps and software?
+If so, how would you implement it.
+If not, then are they going to trust the company - based on them signing an agreement?
+Disassemble their app?
+Yeah well, I admit I’m jumping to conclusions but it’s very highly likely that they did.
+And yeah in hindsight, I thought I wasn’t published because it is either a self fulfilling prophecy or the government doesn’t actually have a strong labour union to uphold meritocracy.
+Mathematically it is impossible for it to be longer for everyone.
+If there are X number of rides and the system allocates them based on the algorithm instead of proximity, wouldn’t you wait longer if you’re top of the rank?
+Mathematically it cannot be longer for everyone at once.
+When one person waits longer because of the algorithm, another person out there waits for a shorter time.
+Who has the least number of rides clocked and that translates into having worked less that week which doesn’t fit into the meritocracy narrative.
+Which means I am correct that it cannot be longer for everyone at once.
+This has nothing to do with meritocracy.
+There is no obligation for the rides to go to whoever has worked the most.
+And in any case it's a moot point because I have shown and you have agreed that such a move would not be very profitable.
+Sure.
+[deleted]
+You're welcome.
+
+Summary: 
+If so, how would you implement it.
+This has nothing to do with meritocracy.
+And meritocracy is not "work hard and be rewarded".
+Driver A is closer to the consumer.
+There are only two drivers in Tampines.
+It doesn’t just work in the one hour.
+The ride should be assigned to the driver closest to the consumer.
+There is no obligation for the rides to go to whoever has worked the most.
+Mathematically it cannot be longer for everyone at once.
+I thought about why they wouldn’t wanna publish.

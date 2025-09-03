@@ -1,0 +1,21 @@
+Original Response:
+My mom got me a small Salt Crystal lamp for christmas, and I am wondering if the claims on the box about the Salt rock being heated by the light bulb and releasing negative Ions (similar to after a rainstorm they claim...)
+I can't find any information about salt lamps in particular, but it looks like they're just made of salt.
+
+While it's true that salt *is* made of positive and negative ions bonded by an (wait for it) ionic bond, it's not easy to disassociate them. The bond is fairly strong.
+
+Even if it *does* release "negative ions," it would be ionized chlorine gas. I don't think you want to breathe too much of that. In the amounts it would produce, there'd be no significant effect on anything.
+Any time you hear "negative ion" as some sort of health benefit (or any benefit), think "utter garbage." Get a refund if you can and try to educate your mother.
+
+The only context that phrase should be used should be in some sort of chemistry or biochemistry. There is nothing specific about all "negative ions" that are good for you. It's an umbrella term for ions that have a negative charge.
+[Here's our last thread on salt lamps.](http://www.reddit.com/r/askscience/comments/kz10o/what_if_any_are_the_health_benefits_of_salt_lamps/)
+Experiment beats theory: it's very easy to test this on your own.  Parts from Radio Shack for a [negative ion detector](http://amasci.com/emotor/chargdet.html) run about $3.
+
+Try it first on a commercial ion generator.  Enormous response.  Salt lamps ...not so much.  If you want negative ions I guess you'll have to buy the usual plug-in appliance.
+Negative ion generators do produce a "smoke precipitator" effect as the diffusing small ions attach to suspended particles.  The charged aerosols then will stick to surfaces they approach.  In a polluted city this can cause black filth to settle on walls and tabletops adjacent to the device.  I wouldn't be surprised if it had negative health effects, since uncharged pollutants would normally pass through your home.  Better to just buy an electrostatic air cleaner designed for that task.
+thanks, i searched before i posted the question but reddits search functions seem to be lacking....
+I found it using Google search and including the term askscience.
+
+Summary:
+Salt lamps ...not so much.
+It's an umbrella term for ions that have a negative charge.

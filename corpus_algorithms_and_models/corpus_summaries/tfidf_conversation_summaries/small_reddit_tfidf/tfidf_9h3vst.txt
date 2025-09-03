@@ -1,0 +1,65 @@
+Original Response:
+#If you have questions about juice, vendors, mods or anything vaping related, please feel free to ask them below.#
+
+
+Here are some helpful links
+---------------------------------------        
+
+[Starter Guide](http://www.reddit.com/r/electronic_cigarette/wiki/index)
+
+Everything I wish I knew about [rebuildables](http://www.reddit.com/r/electronic_cigarette/comments/2dy5ev)
+
+[Infographic](http://i.imgur.com/Va3WcLO.jpg) that every new user should see courtesy of /u/emergenl
+
+[Wiki](https://www.reddit.com/r/electronic_cigarette/wiki/)        
+
+[/u/Jimmith's beginners guide to vaping](http://imgur.com/a/THpUQ)
+
+[/u/DailyKnowledgeBomb's guide to coil compatibility part 1](https://www.reddit.com/r/electronic_cigarette/comments/6r4luj/interchangeable_coils_and_tank_list/)
+
+[/u/DailyKnowledgeBomb's guide to coil compatibility part 2](https://www.reddit.com/r/electronic_cigarette/comments/8445yf/interchangeable_prebuilt_coil_list_part_deux/)
+
+[Contests and Giveaways](https://www.reddit.com/r/electronic_cigarette/search?q=flair:%22contest%22%20self:yes&amp;restrict_sr=1&amp;sort=new)
+**New Alert:** In order to better service users, we have added the same link as above so you all can find and search most recent giveaways and contests. Due to restrictions on how these results are found 
+some giveaways listed will have already been over.
+Hey I'm a smoker and I'm trying to get into vaping. What mod would you guys recommend for me? I really am eyeing for the Pulse X once it comes available online but I'm scared of getting the leaking issue like the Pulse 80W. I also like the Geekvape Nova and the VooPoo Drag tho it has its own issues.
+
+
+Note : I'm open to other mods. I dont think I really need a lot of watts but I really want a mod that would last me a day. Building coils is no issue. I wouldn't want tanks as it has prebuilt coils and I wouldn't want to spend a whole lot just to vape. Thank you!!!
+The pulse, the only thing to keep in mind is it is a squonk mod. Because of this, you will want to make sure you get a compatible RDA for that aspect. At that point, it just depends on what you are running on it as far as how long it will last, and with what battery. For instance, I have a drag I use with a berserker mini that I only need to charge every 3-4 days because I only run it at 14 watts. If you know what build you are going to be using, I would suggest using a calculator and finding what power consumption you are looking at, there are a few out there that should help make that simple. You will probably want to carry around one spare battery just to be sure though. Just make sure you have secure and not loose in your pocket and you will be fine.
+Just to piggy back on to this reply, keep in mind that if you do go for the Pulse-X it is a pre-order right now and typically speaking the first run of mods tend to have minor issues that will be fixed in later versions so it's always a gamble.  
+
+Also, because it's a squonk mod you will be using an RTA and installing your own coils.  While this isn't impossible for a brand new vaper it does require a but more research and learning.  Make sure you learn ohms law and watch a lot of videos on making your own coils.  
+
+In addition make sure you read up on battery safety and only order high rated batteries from a trusted vendor, there is a link in the side bar to all of mooch's battery info.  And please, invest in a good external charger and battery cases.  While some mods do have ok on board charging most do not and it's much safer to charge them outside of the mod.  
+
+And get an extra set or 2.  That way you can use a set while the other is charging.  We have saying here, 2 is 1 and 1 is none.  Nothing sucks more than trying to transition from smoking to e-cigs and your batteries die half way through the day and you don't back-ups.  
+
+On to the mods, the Revenger X is also rated pretty highly these days and /u/Anthony_Vapes has a breakdown of his reviews and recommended mods, this is also in the side bar.
+
+&amp;#x200B;
+The Revenger X is definitely a good option. less to go wrong as well, and has a solid history from my experience.
+I'd always refrain from pre-ordering. Wait a minimum of 30 days after release so that it can get in the hands of everyone interested. Though it looks like a solid option on the surface. If you want a 21700 regulated squonk mod now, take a look at the Hcigar Aurora as it has proved to be a great option. Though the VT Inbox v3 is always a good choice due to the DNA chip if you don't mind spending a little more. 
+
+For getting into building your own coils (and assuming you'll be sticking to simple round wire builds), I'd recommend the Entheon (SXK Clone) to start with. If you decide to get into bigger and beefier exotic builds, the wasp nano and nudge 22 are my go-to's.
+pulse x is kinda vaperware right now. I wouldn't expect it to meet the release date. they barely have enough review samples made currently. I had to decline a review sample because they said they only had so many and were going to send them to people who rush out the review for now and since i don't do that, they said they'd send me one in the next batch of review samples when more are made
+Exactly what I mean ;-).  I reeeeallllllyyyyyy want the Dovpo Top Side, and it's supposed to release in September but ugh man, I am terrified to get a first run, especially a mod with a brand new squonk system.... but man it looks like exactly what I want out of a single battery squonk.
+The revenger X is great. Solid board too.
+yeah and dovpo doens't have the best track record either which makes me cautious.
+yeah I know.  I just watched a long vid on it and they disassembled the entire mod.  Overall it's a pretty simple system and really smart, but, if the board is bad or the 510 is leaky, etc, it could still be a no-go.  I'm crossing my fingers though haha.
+Hey, thanks everyone for your suggestions!! Seems like I'd be waiting more for the Pulse X. The VT Inbox V3 and the Dovpo Topside seems promising too!
+lol we'll find out eventually but yeah i'd never recommend pre-ordering anything vape related. it's a waste of time and money
+Yup for sure.  The RDTA Box I got wasn't pre-order but it was first run.  I learned my lesson.
+yeha i learned it quite a while ago. most pre-order is vaporware. If they don't get enough pre-orders they cancel the product and it never gets released. had that happen to me before with an ijoy 4 battery mod. kept getting pushed back then discontinued
+Oh that's a bummer man!
+yeah shit happens. lesson learned. will never pre-order again lol Id say at least half my pre-orders went sideways
+FYI the Topside is also a pre-order and Dovpo doesn't have a great track record so I would would avoid that for now.  The inbox though is a great choice though!  It's been around for a long time and V3 is a good one.
+
+Summary:
+Building coils is no issue.
+The revenger X is great.
+Seems like I'd be waiting more for the Pulse X.
+The pulse, the only thing to keep in mind is it is a squonk mod.
+The Revenger X is definitely a good option.
+Also, because it's a squonk mod you will be using an RTA and installing your own coils.
+I'd always refrain from pre-ordering.

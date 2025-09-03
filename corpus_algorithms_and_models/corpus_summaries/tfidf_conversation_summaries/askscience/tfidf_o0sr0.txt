@@ -1,0 +1,90 @@
+Original Response:
+I don't mean to sound like an ass - I'm genuinely curious though. What do meteorologists do? Is there any skill to their profession anymore? How does one know a good meteorologist from a poor one? Is there really any differentiation between them?
+
+An AMA may be interesting too...
+[deleted]
+Who do you think makes, improves, and interprets those models?
+Meteorologists get a bad rap because many people don't realize that there are a dozen TYPES of them out there! Other than the [four types pointed out in this NASA definition](http://science-edu.larc.nasa.gov/EDDOCS/meteorol.html), there are the more rare breeds, such as Forensic Meteorologists that apply weather to court cases, and Historical (or Archival) Meteorologists that attempt to determine the weather's likely conditions and [impact in the context of specific past events](http://www.accuweather.com/adc2004/pub/products_services/forensics.asp).
+
+So depending on what their role is, they need different qualifications, and you better believe that the bad ones will stick out like a sore thumb in certain sub professions! In some cases the impact is minor, such as the sales figures for a candy company being down by 0.1 percent or a history book getting the rainfall wrong for a battlefield.
+
+In other cases, it's life and death... you know those Storm Chasers? Not the rash of YouTube / TV reality ones, but the pros that work for the [National Severe Storms Laboratory](http://www.nssl.noaa.gov/)? If you're a poor one, you're a dead one.
+Here's a video that might clear it up for you on a basic level.
+
+http://www.youtube.com/watch?feature=player_embedded&amp;v=oLQH4w4FkJg
+A close friend of mine works as a meteorologist in Australia.  If I recall correctly, there are 6 separate computer models that predict Australia's weather.  Part of the human's job is to compare the different computer models to see which is the most likely outcome - they can be very different.  
+
+They also take into consideration 'local rules' that represent a database of almost anecdotal observations that they use to modify/interpret the model predictions.
+
+Having said that, he worked as a meteorologist for an air-force base.  That involved drinking cappuccinos and reading the official forecast to pilots.
+[deleted]
+[deleted]
+Statisticians and computer scientists?
+This question is like saying, "Why are there [insert type of scientist] anymore?  Don't computers do everything for us?
+Then those people also need to be trained in meteorology. Which also makes them meteorologists.
+Genuine question is genuine.
+Nope, meteorologists.  We use many of the same tools as statisticians and CS folks, though.
+Meteorologists still do quite a lot.  The field of meteorology is very broad and covers everything from forecasting to tropical storm research to space weather research.  For instance, some parts of my job include: utilizing satellite data in new ways to extract information about atmospheric constituents such as volcanic ash, smoke, cloud particle phase, etc; building statistics that describe the different ways that clouds overlap below the scale of our weather models to help provide more statistically accurate radiative transfer profiles; improving models that forecast and now-cast aircraft icing so that pilots can avoid aircraft icing but minimize the area that must be avoided.
+
+I think, though, that you are really asking what forecast meteorologists do, so I'll focus on that.  There are many different weather models used for forecasting.  Each one is different, and each one has its strengths and weaknesses.  A forecaster must be familiar with those strengths and weaknesses and how they apply to their region.  In some areas of the globe, one model may get rainfall correct in specific conditions, but fail miserably in other conditions.  It is the forecaster's job to assess the current conditions based on ground station observations, satellite products, etc. and build a forecast based partially on the models, but also partially on their knowledge of local meteorology and their intuition.
+
+A good forecast meteorologist will show more [forecast skill](http://en.wikipedia.org/wiki/Forecast_skill) than a poor one.  A very poor one will rely on a single model to produce their forecasts.
+
+Beyond this, though, there are many atmospheric phenomena that our models are poor at or even incapable of forecasting.  Volcanic ash plumes would be a good example of this.  They are incredibly dangerous for aviation, but our models are not good at handling injected matter, especially since it is very very difficult to come up with a particle size distribution and thus a fall speed for a volcanic plume. 
+
+Also, have you noticed that our forecasts for where a hurricane will make landfall typically give a warning zone?  That's because we don't really know where it will hit, how strong it will be, etc.  The models are able to make good guesses, but they still require quite a bit of improvement.
+
+Anyway, if you have any questions, feel free to ask.
+As a doctor, I concur.
+While it is approximately true that *television* meteorologists often rely solely on computer-generated forecasts -- research meteorologists (atmospheric scientists) are constantly striving to improve the accuracy (spatial and temporal) of forecast models for a variety of phenomena.  
+
+For example, snowfall forecasts are notoriously bad because snowfall can be very heavy in one small location and light a few miles away -- not to mention that most forecast models do a terrible job at predicting snowfall amounts.   My research is explicitly involved with improving our knowledge of snowfall processes which will, eventually, feedback into forecast models.    Of course there are other reasons why atmospheric scientists study the weather: climate change, global water cycle, energy cycle, hydrological considerations, flooding/landslide forecasting, soil moisture, etc.
+The meteorologists that you are talking about are the operational side of Atmospheric Science. They don't just atmospheric models that give you the daily weather outlook-- there is so much more to it than that. Operational meteorologists are responsible for issuing severe weather warnings. They interpret satellite and radar images to determine where/how quickly storms are moving to issue watches and warnings in the correct time fame. They also work with emergency management crews ahead of big weather events to prepare them for what they should expect before, during, and after a major event like a tornado, hurricane, or flood.
+
+Then there is research that is constantly improving the methods they use to accomplish this and looking into other aspects of the atmosphere we live in. Here is a quick breakdown of each field inside Atmospheric Science. 
+
+Bioclimatology - This field examines how a changing climate affects the ecosystem and vice versa. One of the current research projects is analyzing how beetle populations in the western US are killing pine trees due to a warming climate. The beetles would normally die off during the winter, but with milder winters the beetles continue to spread and become too much for the pine tree population.
+
+Atmospheric Dynamics - The hard physics behind the atmospheric models that operational meteorologists use everyday. Using fluid dynamics to understand flow in the atmosphere and thermodynamics to help with heat exchange, they are constantly finding new equations that explain how our atmosphere interacts with itself. This can is also coupled with oceanography to see air-sea interactions.
+
+Cloud Microphysics - My field of research, looking at physics that revolve around particles inside of clouds. This ranges from how clouds develop with the help of aerosols to how hail formation can affect a thunderstorm. Ever wonder why snow forecasts have such a huge range? Modeling the flow around a snowflake (or dendritic ice particle) is computationally difficult and modeling how they collide and create snow aggregate is even more challenging. Right now forecasters use a rough approximation formula to determine how much snow is going to come from a blizzard.
+
+Atmospheric Modeling - Even though each of the other fields does some kind of modeling in one form or another, atmospheric modeling is looking at which types of mathematical/statistical schemes create the best results. It is torn into two camps right now, numerical and physical. The numerical modeling camp makes compromises in the physical formulas to help the simulation run faster and smoother, whereas the physical camp makes sacrifices in computational speed to create the most accurate results.
+
+Remote Sensing - Uses RADAR and satellites, plus other techniques, to obtain data on the atmosphere. This field is constantly developing more sophisticated equipment and improving accuracy of measurements to get the most realistic picture of the atmosphere at any given time. Satellite meteorologists work on developing products to gain useful information from the raw measurements the satellites collect, among other things. One example of current work in this field is developing ways to use satellites to create vertical profiles of the temperature/water vapor structure of the atmosphere with high temporal and spacial resolution. Typically, these types of measurements only come from widespread locations a few times per day from weather balloon launches, which are quite expensive. 
+  
+Oceanography - Looks specifically at the ocean currents to see how they alter with climate and biological systems. They study ENSO (El Nino Southern Oscillation, which explains the shift between El Nino and La Nina climates) and are the ones responsible for naming the new ocean last year that encircles Antarctica, the Southern Ocean.
+
+Climatology - Studies current, future, and past climates and what processes define them. Not just looking at global warming. Their climate models contain millions of lines of code and they are adding and changing them constantly.
+
+Synoptic Research - This is as close to operational meteorology as you can get. This group looks at specific weather events, tries to understand what mechanisms were at play, and figures out how to apply that knowledge to future weather events. An example of this is seeing how thunderstorms off the coast of Hawaii result in blizzards in the midwest. There is a emerging breakthrough in this field with something called super-jets. These jets are the result of upper and lower level jets sitting on top of each other, creating a huge potential for tornado outbreaks and other severe weather.
+
+Atmospheric Chemistry - Looks at natural and anthropogenic chemicals and aerosols in the atmosphere and what role each of them plays. This is where a large amount of pollution policy comes from since they are the ones that understand how much of X affects an area.
+
+These fields of research can also be used in consulting for energy companies, power traders, insurance agencies, etc. So to answer your question on what makes a good meteorologist from a bad one, it is someone who is able to look at all of these fields and apply the research to produce accurate forecasts that we use everyday.
+This is a fantastic answer. 
+
+To augment it slightly, it is worth noting that the role of operational meteorologists at the National Weather Service goes beyond just forecasting. By far, the most important role these meteorologist play is in now-casting, especially for severe weather events. For instance, software is only so good at reading Level II doppler radar returns; while there are sophisticated algorithms used to detect large hail, strong downdrafts, and rotation, a formally-trained radar operator is necessary to assimilate the data and coordinate with other meteorologists and observers to ascertain ground truth and issue severe weather warnings if necessary.
+
+Models are not capable of resolving micro-scale time/space forecasts, the sort of which are absolutely quintessential for saving lives during severe weather events. A human is necessary to rapidly interpret real-time weather data when the public's safety is at hand.
+For anyone considering what to do at university, this is why people are saying that combing other disciplines with computer science and/or statistics is now a very powerful combination. 
+
+~~A lot of~~, nay, most applied research these days involves statistical and/or numerical techniques which rely heavily on being able to perform sufficiently rigorous statistical analysis, understand things algorithmically and implement all this by writing programs etc.
+Sure, but the answer is the same across the board, computers are still but a tool that do *exactly* what we tell them to do. We still need people trained in these subjects and working on improving the existing models.
+
+Furthermore these models are built around existing theory, without theorists continuing to work in each discipline you will be stuck with models that would otherwise be outdated.
+A bit too much Fortran for my tastes though :)
+Agreed.  Thankfully I've been able to avoid fortran for the most part since I don't normally work directly on models.  Yay python.
+
+Summary:
+There are many different weather models used for forecasting.
+Operational meteorologists are responsible for issuing severe weather warnings.
+A very poor one will rely on a single model to produce their forecasts.
+Which also makes them meteorologists.
+Beyond this, though, there are many atmospheric phenomena that our models are poor at or even incapable of forecasting.
+They don't just atmospheric models that give you the daily weather outlook-- there is so much more to it than that.
+Meteorologists still do quite a lot.
+Who do you think makes, improves, and interprets those models?
+The meteorologists that you are talking about are the operational side of Atmospheric Science.
+Synoptic Research - This is as close to operational meteorology as you can get.
+The models are able to make good guesses, but they still require quite a bit of improvement.

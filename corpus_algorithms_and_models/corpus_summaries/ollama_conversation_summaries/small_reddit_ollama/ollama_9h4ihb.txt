@@ -1,0 +1,27 @@
+Here is the summary:
+
+This issue has been happening for around a month now, whenever I play a GPU intensive game I loose video signal until the PC is rebooted.
+
+Temps are pretty warm, but not hot enough to be the issue (80-84c under full load).
+
+I was told today to increase the core voltage on the card by +15mV which I have done and it hasn't lost signal yet, however its too early to tell if its fixed or not.
+
+Just want some opinions on what you all think the issue could be, and if the +15mV increase does fix the problem why has it suddenly required this voltage increase when the card has been fine for years beforehand?
+
+I'm thinking maybe your PSU doesn't have enough watts. I could be wrong, so wait a little bit.
+
+Yeah. I'm sure with all those goodies, you're pulling about 900w, and the PSU is wated for 850w.
+
+Okay, I'll monitor it tonight with this +15mV increase and see what happens. If this fixes the issue could the PSU still be the cause?
+
+I would think so. I'd plug in some phone chargers and stuff into the USB ports on the computer, plug the phones in, and play games that aren't so intensive on the GPU, see if it still does that.
+
+Been playing FIFA 19 all yesterday and today with no issues.
+
+Touch wood, don't want to say it's fixed because it will probably break again. But the past two days have been a 100% improvement.
+
+Alright!
+
+Still no black screen yet, things are looking up.
+
+Did it again today :(

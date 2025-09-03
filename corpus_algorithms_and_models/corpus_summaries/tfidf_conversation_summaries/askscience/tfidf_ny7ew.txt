@@ -1,0 +1,118 @@
+Original Response:
+Some computer science courses seem to incorrectly imply that entropy represents the theoretical limit of compression, but that's simply wrong.
+
+If I give a stream of pseudorandom numbers to an entropic coding algorithm, no compression is achieved. However if you found the generating function of the pseudorandom sequence more or less equal to its Kolmogorov complexity, you have ideal compression.
+
+Now of course, Kolmogorov complexity isn't computable, but that doesn't mean we can't approach it, and achieve better compression algorithmically than entropically. It seems to me a lot of real world "algorithmic" compression algorithms do in fact approach Kolmogorov complexity much more so than Shannon entropy.
+
+Also the efficiency of an entropic coding seems to vary vastly with the choice of alphabet, since it's assuming each element from the data stream is independent from the others. However this seems a very odd assumption to make for data compression, since real information practically never forms nice little self-independent pieces -- it seems to me.
+
+I'm sure this topic has been covered, but I'm getting most of my info from wikipedia because I can overview new areas of math very fast that way reading the formal definitions. Any recommended reading on this that covers this particular Kolmogorov vs Shannon entropy?
+Consider an image file. Now, if you were starting from scratch with a new image format, you might decide to make your format just contain instructions to display the picture. Then if you ran some entropy compression algorithm on it, by your argument the compressed size *would* be significantly longer than it needs to be. And you might then decide that you need a new compression algorithm taking that into account, in order to approach the Kolmogorov complexity more closely.
+
+But there's a simpler way to accomplish your goal. You can just take out all the "display this in pixel 1, display this in pixel 2, ..." instructions, and write a separate program that takes image files as input and executes those instructions you removed. Then there's no extra structure for you to work with in compressing the file. This is what all common image formats (and almost all file formats in general) do.
+
+So that's why we don't try to get better than entropy compression. Well-designed file formats won't *have* extra structure to work with, since any such structure would be abstracted out to an interpreting program.
+[deleted]
+So it turns out that I left out a key phase there: "for general algorithms". If you know something about the data you're compressing, you can often find some trick that lets you write a better compression algorithm, sure. But if you don't, there's no general algorithm to *find* useful structure; you can search for a finite number of possible structures, but in almost all cases you'll just be wasting your time. And from a theoretical standpoint, it's not really useful to analyze algorithms that work only if the source file is an image or sound recording or power of 2.
+[deleted]
+You *can't* approach it with a generalized algorithm. If you're given some specific case, yes, you can usually find some way to take advantage of the structure to shorten compression. But there's no algorithm that compresses an *arbitrary* file better than the entropic limit.
+[deleted]
+They are different ideas.
+
+Kolmogorov complexity is defined for numbers, sequences etc.; Shannon entropy is defined for random variables.
+
+Entropy does not change if you apply an injective function to the variable, it cares only about *distribution* not about values. Kolmogorov complexity is defined for constants and it cares only about *values* not about distribution.
+
+So in this part:
+
+"If I give a stream of pseudorandom numbers to an entropic coding algorithm, no compression is achieved. However if you found the generating function of the pseudorandom sequence more or less equal to its Kolmogorov complexity, you have ideal compression."
+
+you're bit comparing apples and oranges. And if you regard the whole sequence as a single random value, then its entropy depends only on the seed, so Kolmogorov complexity and entropy are very close in this case.
+
+"However this seems a very odd assumption to make for data compression"
+
+Yes this is a bit odd assumption and I don't think it corresponds to Shannon entropy in theory, only to some practical scheme. If data is correlated it should not correspond to independent pieces.
+[deleted]
+Again, I left out assumptions that I made but didn't tell you about. You can write an algorithm that will give you better than entropic compression in *some* cases. But they're useless for practical use (in general compression), because unless you know what structure to look for you're almost never going to find one. And they're useless for theoretical use, because from an abstract standpoint they don't actually *do* anything important. So yes, they exist, but it doesn't really matter.
+
+And yes, choosing your alphabet is an assumptoin of the underlying structure. Encoding the file in a different alphabet might change the structure. But entropy is representation-independent, so an ideal entropic encoding won't care.
+[deleted]
+Why is that clear? The simplest examples I can think of don't follow it; the entropy of an integer doesn't depend on what base you write it in.
+[deleted]
+Using different alphabets can get you different *numerical values* for entropy, but that's just because the units are different. If your alphabet has two characters, your entropy is in bits; if it has three, your entropy is in trits, and so on and so forth. But that's no different than twelve inches being the same as 1 foot.
+[deleted]
+[deleted]
+[deleted]
+[deleted]
+&gt; I came here to get answers from experts who know what they're talking about and have an intelligent civil discussion.
+
+Maybe you shouldn't take the arrogant attitude that if you don't understand something it's probably wrong, then?
+Please look again at the Wikipedia article on entropy, you're confusing entropy and entropy rate:
+&gt; There are a number of entropy-related concepts that mathematically quantify information content in some way:
+&gt;
+&gt; - the self-information of an individual message or symbol taken from a given probability distribution,
+&gt;
+&gt; - the entropy of a given probability distribution of messages or symbols, and
+&gt;
+&gt; - the entropy rate of a stochastic process.
+
+and
+&gt; It is important not to confuse the above concepts. Oftentimes it is only clear from context which one is meant. For example, when someone says that the "entropy" of the English language is about 1.5 bits per character, they are actually modeling the English language as a stochastic process and talking about its entropy rate.
+
+You seem to be under impression that Kolmogorov complexity is "better" than Shannon entropy, therefore entropy is not "optimal". This is not the case, it's apples and oranges. Shannon entropy tells you, given a random variable X, how much bits on average you need to tell value of X - how much _randomness_ the string has. If X is a constant, it has entropy 0 even if it is extremally long. If X can only be one of two values, its entropy is at most 1.
+
+Kolmogorov complexity tells you, given a fixed value x, how much bits you need for a computer program to output x. If x is a constant, the complexity can be arbitrarily large. Since x is a constant, there is no "randomness" involved as in previous sense. It is about "randomness" in different sense, it is about how value of x is "internally" random, in Turing machine model. (For example, x could be specified very shortly by some non-computable rule.)
+
+Since a computer program describing value is a proper way to encode data, if X has some distribution, then H(X) &lt;= EK(X), i.e. expected value of Kolmogorov complexity is at least as large as Shannon entropy. I do NOT say "Kolmogorov complexity is at least as large as Shannon entropy" since this does not make sense.
+
+If you break X into correlated values X_1 and X_2, surely it is possible that H(X_1) + H(X_2) &gt; EK(X) but this is unfair comparison. What always holds is H(X_1) + H(X_2) &lt;= EK(X_1) + EK(X_2).
+
+PS. I did not downvote you. I am a grad student in complexity theory.
+&gt;But we do, all the time. The pixel prediction algorithms for image compression, and more advanced fractal compression techniques are by definition "algorithmic" compressions approaching the Kolmogorov complexity
+
+Actually they probably beat the Kolmogorov bounds as well. Image compression algorithms are typically lossy which is why you think they perform better than Shannon predicts.
+
+&gt;Or you could convert X to base 2 (210000 - 1 obviously is just all 1's in base 2), and entropy-code that string, and get literally 1:10000 compression.
+
+Your intuition is misleading you here. This is a special case. If you want to send someone a number uniformly sampled from 1 to 2^n, the best complexity you can achieve on average is n bits. Most numbers are boring and incompressible.
+
+Here are ten numbers randomly sampled from 1-10,000, try to compress them:
+
+    4326
+    9196
+    7508
+    9969
+    5394
+    1200
+    8938
+    6906
+    5489
+    6614
+It would appear that by "entropy coding algorithm" you mean something like Huffman coding, which doesn't take in to account any structure beyond symbol frequency. An important point is that *no one* uses Huffman coding for exactly this reason.
+
+Data is structured, and so we have developed algorithms which can identify and compress that structure.
+
+First, a detour to discuss how, in general, Shannon and Kolmogorov perform identically on ensembles of data sequences. Take, for example, the golden mean shift from symbolic dynamics: the set of all arbitrarily long binary (0 and 1) sequences in which a 0 is never followed by another 0, e.g.: ...1101110101111101... . If we wished to compress this ensemble using constructive, Shannon entropy based techniques, one way of doing this is to construct a Markov chain. This Markov chain would have two states and three transitions: 1 -&gt; 1, 1 -&gt; 0, and 0 -&gt; 1.  Now, the average Kolmogorov complexity of the ensemble, it turns out, is equal to the "size" of that Markov chain (for some reasonable definition of size -- google "statistical complexity") plus the Shannon entropy rate times the length of the sequence:
+
+    K(x) ~ C + x*h
+
+So, if you are not compressing a single fixed document, but say attempting to compress any arbitrary Word document, or pdf file, etc, asymptotically the Kolmogorov complexity buys you nothing over Shannon entropy.
+
+Zip and other standard compression algorithms are based on similar ideas to the before-mentioned Markov chain technique.
+
+If you would like a real introduction to all these ideas and more, I would recommend reading a recent [Nature review article](http://www.nature.com/nphys/journal/v8/n1/full/nphys2190.html) and finding a copy of [Cover and Thomas](http://www.nature.com/nphys/journal/v8/n1/full/nphys2190.html)
+Thank you for linking to the excellent review article by Crutchfield.  However, you are not quite right when you say "no one uses Huffman coding": the ubiquitous gzip does in fact use it as its final stage.
+i meant no one uses huffman coding alone because real-world data is so rarely independent.  the intermediate steps in gzip result in a dictionary with independent elements, so huffman can then be applied.
+
+Summary:
+If X can only be one of two values, its entropy is at most 1.
+If I give a stream of pseudorandom numbers to an entropic coding algorithm, no compression is achieved.
+You can write an algorithm that will give you better than entropic compression in *some* cases.
+So that's why we don't try to get better than entropy compression.
+Kolmogorov complexity is defined for numbers, sequences etc.
+expected value of Kolmogorov complexity is at least as large as Shannon entropy.
+But there's no algorithm that compresses an *arbitrary* file better than the entropic limit.
+; Shannon entropy is defined for random variables.
+Kolmogorov complexity is defined for constants and it cares only about *values* not about distribution.
+If x is a constant, the complexity can be arbitrarily large.

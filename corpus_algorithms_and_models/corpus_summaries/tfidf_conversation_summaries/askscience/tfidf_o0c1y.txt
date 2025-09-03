@@ -1,0 +1,34 @@
+Original Response:
+I've read a bit about the domestication of dogs, and I understand that certain characteristics can be chosen for: size, color, strength, friendliness, etc.
+
+However, take the Border Collie for example. Their herding instinct is so strong that they have to be trained not to nip the heels of running children. How was this "instinct" ever bred into them? I would have assumed this behavior must be trained in them, so how could it be passed down genetically?
+Herding wasn't bred into them. Part of their natural predatory behavior was bred out of them.
+
+All canines have in their genetic background hunting behavior that amounts to
+
+ - orient
+ - eye stalk
+ - chase
+ - grab bite
+ - kill bite
+ - dissect
+ - eat
+
+You can see this sequence on just about any documentary about wolves. 
+
+In border collies, selective breeding has modified this ancestral behavior.
+
+ - orient
+ - EYE stalk
+ - CHASE
+ - (ancestral behavior is broken here)
+ - dissect
+ - consume
+
+"EYE" and "CHASE" are strongly selected for, and biting strongly selected against.  You can't easily train ["EYE"](http://www.risingsunfarm.com/images/frankintenselg.jpg) or "CHASE". And border collies without "EYE" simply can't move sheep. (Looking like they're about to eat a sheep is what makes the sheep get up and move.) Border collies without "CHASE" lose interest in the sheep before work is done. 
+
+Raymond and Lorna Coppinger's book *Dogs: A new understanding of canine origin, behavior, and evolution* takes off from the observation that dogs are selectively bred for two distinct ways of interacting with sheep: herding and guarding. See especially the preface and the chapter "Behavioral Conformation".
+You don´t breed a trait into the animal, you take what´s already there and select for it. A dog can´t be bred to have wings, you can´t breed what is not already in the gene pool. (you´d have to do some genetic engineering for that, we do for example make GM crops by putting things into them that they didn´t have before).
+
+Summary:
+In border collies, selective breeding has modified this ancestral behavior.

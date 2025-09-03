@@ -1,0 +1,32 @@
+Here is the extracted summary of about 10% of the text:
+
+Intel i486 processor  
+\- Some network card  
+\- Some motherboard with the tag 'PheonixBIOS A486SX'  
+\- A 270 mb hard drive  
+\- 640 kb of RAM
+
+It turns on to the boot screen does a memory check beeps screen flashes Phoenix logo is gone and it says missing OS
+
+Re-formatted and installed Dos 6.22 on the hard drive  
+Cleaned the read write heads of the floppy drives  
+Shut off the floppy drives entirely and try again  
+Removing the networking card
+
+
+Here are the specs:  
+\- Intel i486 processor  
+\- Some network card  
+\- Some motherboard with the tag 'PheonixBIOS A486SX'  
+\- A 270 mb hard drive  
+\- 640 kb of RAM
+
+Make sure these all make sense for the hardware you have. Consider setting some of these to low-end defaults or bare-minimum settings before you try to 'go big'.
+
+Does the system have a battery backup for the CMOS RAM?
+
+The drive was formatted in the FAT format. I used Virtual Box to install DOS onto a virtual hard disk, and then copied that onto the physical disk.
+
+Make sure it's FAT16.  I don't think DOS 6.22 can read FAT32
+
+Go to page 12 in the manual and you will see: Exit Menu-&gt; Select: "Load Setup Defaults"-&gt; Press "Enter"

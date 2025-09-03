@@ -1,0 +1,11 @@
+Here is the summary:
+
+Most ligands (like dopamine) don't irreversibly bind to receptors (some do...but those are special cases). It's a constant popping on/off that is dependent on concentration.
+
+You constantly switch from RL &lt;--&gt; R + L at a constant equilibrium. As you push more L into the system, you get more and more RL being formed until equilibrium is reestablished.
+
+When the signal goes away, you pull away the L. As a result, the amount of RL diminishes as it dissociates to reestablish equilibrium to the new concentration of L.
+
+This is what happens as ligands are enzymatically broken down or reabsorbed.
+
+As the DA is reabsorbed, the concentration in the cleft drops and the time spent "on" the receptor by DA is diminished.

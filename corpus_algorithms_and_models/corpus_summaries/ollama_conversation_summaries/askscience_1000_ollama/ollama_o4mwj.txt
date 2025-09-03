@@ -1,0 +1,7 @@
+Here is the summary of up to 250 words:
+
+Im thinking it has to do with Ionization energy...If you look at where the Sodium atom is at on the periodic table you can see that it is going to have a configuration of [Ne]3s^1 ...meaning that its valence shell electron in the S orbital only has one electron in it....
+
+So as far as Ionization energies go it is simply the energy that is required to remove 1 electron from the valence shell of the atom. you can have multiple ionization energies but each ionization energy increases greatly because the protons/ charge on the nucleus wants to hold onto the negatively charged electrons so less negative with the same positive pull = stronger hold on electrons thus more energy to remove it.
+
+When the sodium metal reacts in water they make NaOH and hydrogen gas.. Since sodium is "happy" as a 1+ cation, its electron configuration is that of neon with a full happy s^2 p^6 configuration.

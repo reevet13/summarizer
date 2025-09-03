@@ -1,0 +1,106 @@
+Original Response:
+Many people misuse language, usually through ignorance of the proper meaning of a word, or because of ignoring certain rules of grammar and sentence structure. For example, many people misuse the word "literally", usually by attaching it to something that is never said figuratively anyway, so qualifying it as literal makes no sense. Another good example is "I could care less", which should need no explanation.
+
+My question is, do we know whether misuse of language occurs in isolated tribes or indeed in every language we know of? If we discovered a tribe today and tried to decode their language, is there any way to "detect" language misuse other than someone from that tribe/society/species telling us that it is occuring? Could there be something along the lines of a vocabulary size threshold, below which misuse just doesn't occur? Or some sort of correlation such as the more people speak a language, the more common is misuse within it?
+
+
+NOTE^1: I do not want this to turn into a discussion as to whether language misuse exists, linguistic relativism and all that. **I do realize that the english language is ridden with "misuse" that has been used for so long that it has become mainstream and accepted**, I am referring to misuse like the examples I gave, which can be clearly and easily identified as misuse, whether they will eventually become accepted or not. **Let's try to stick to the question I asked.**
+
+NOTE^2: If you don't want to call it "misuse due to ignorance" and would rather call it "optimal use given available information", **I am absolutely fine with that**. They are synonymous. Please try to stick to the question at hand.
+Wait, so if we find some isolated tribe in the Amazon, learn their language how do we tell if they're using their language properly?  If it's not a language isolate, compare it to their nearest relatives and try to construct a proto-language, I suppose.   Seems like a lot of effort.  If the entire tribe is using the word wumbo to mean green, but in our hypothetical proto-language vumjo meant big (and somewhere along the line it got used to describe trees and then some sort of semantic shift happened along with a sound-shift) it wouldn't really be misuse, since everyone does it.
+
+Language is mutable and its meanings are not objective.  Ascribing something correctness/incorrectness isn't objectively possible.  If you agree to some sort of axiomatic standard then, yeah, you can apply labels of correct/incorrect (and in English, we have that). 
+
+But some jungle tribe isn't going to have that.
+I'm not talking about the entire tribe misusing a language at all. I am talking about an individual (or a number of individuals) within the tribe misusing a word of that tribe's language.
+
+Example:
+
+An uncontacted Amazonian tribe (known as "Tribe") starts spotting aircraft flying overhead. They typically see one of two kinds of aircraft: propeller planes, and helicopters. They can clearly tell the difference between them, and invent a word for each of them. Let's assume that by incredible coincidence they choose the words "plane" and "helicopter". The new words spread through the tribe and now are part of the vocabulary.
+
+One day, two Tribespeople (Jack and William) are out collecting fruit as a plane flies overhead. Jack points to the plane and says "look, helicopter!". William is anal about language, and is quick to point out "No, Jack, that's a plane".
+
+
+I could draw this scenario out further, whereby Jack is a bit stubborn and insists it's a helicopter, or admits that he had been confused about the terms and learns the effectively "correct", or consensus use of the words.
+
+Does that make more sense?
+I work in close contact with North American Natives. They are extremely self-concious about proper language use, and have established "linguistis orthodoxy" channels, for want of a better term. The Inuit have a comittee of elders linked to a cultural institute (Avatak) whose purpose is to preserve and teach proper Inuktitut. Any Inuk with a linguistik dilemma will refer to this group of elders, and they are kept very busy. As an example, some kid lately asked them how a robin should be called in Inuktitut, and whether or not it has already been named. This was after robins were spotted in Kuujjuaq for the first time (good ole climate change to thank there...). 
+
+The Innu have something similar as well (Tshakapesh). I'm not sure about the Cree but i would be stunned to learn they don't. In these cases, I would believe the importance given to safegards against linguistic misuse speaks of itself about its occurence in society. I know these are particular examples, but this is not the kind of question to which a general answer can easily be constructed.
+There is no such thing as misuse. Languages by their very nature are supposed to change and evolve. Your example of "literally", for example, is not a misuse, it is precise correct once you understand how language works. In this case, there is this word, "literally", which historically (and for many people alive today) means something more like "in the strictest, least metaphorical sense". But people who have that meaning of the word use it for more reasons than just its literal meaning -- they use it more often when they want to stress the severity of something. All sentences are understood literally, modulo extra pragmatic manipulations, and so "literally" adds nothing of actual content except as emphasis. But emphasis is precisely the pragmatic effect one might want when signifying that the metaphorical usage of words is not desired because they're not severe enough. So people use *more often* when not only the literal usage is desired, but when that is an emphasized thing.
+
+Ok, so thats for people who have the "correct" meaning of "literally". But what about people who have the "wrong" meaning? Well, they're not wrong! For them, when they were learning English, they heard these other people use "literally" more frequently when the literal usage was also an emphasized situation, and these people interpreted "literally" to be nothing more or less than an emphasizer -- after all, the sentence *already had* a literal meaning that they could latch on to, "literally" didn't add anything to that literal meaning. So it's a completely rational thing to conclude that "literally" means nothing more and nothing less than emphasis.
+
+This does not make their usage wrong. In fact, given the available evidence, it is perhaps the *most correct usage*. In order for them to know the so-called "correct" usage they would have to be telepathic!
+
+The same is true for a great deal of other language change. Many examples of so-called "misuse" are not misuse at all, rather, they are optimal or near-optimal usages given the available data from which to discover usages.
+
+So, to get to your core question: of course! This is how language works! Language is inherently full of so-called "misuse" because language is inherently an evolving thing, and each speaker learns to use the language only as the evidence suggests. And evidence is always partial, skewed, and ambiguous. The optimal result of learning is cannot be a perfect reflection of what other people know, it can only be a reflection of what other people do, filtered through learning techniques that do not produce unique answers. And this is language independent, and hence, universal across all languages.
+This is precisely the kind of answer I was looking for, thank you. That's fascinating.
+You're not really contradicting anything I said. You're saying that for people who misuse the word "literally", in their mind they think it's correct. That's pretty obvious, why would you intentionally misuse a word, knowing that it's misuse? As I said, people misuse language through ignorance, which is what you said in so many words. You call it "optimal usage given the available data", I call it "misuse due to lack of all the data". Glass half full/half empty.
+
+Setting that aside, you say "of course" and that's what my presumption has been for a while, but do we actually know that? Has there been any research done on this and do we know it as a matter of fact, or is this just a presumption because we use a language that is so widely used by people of completely different backgrounds, that "misuse"/whatever you want to call it is inevitable?
+
+Does my question make sense? I am not contradicting you, I am merely saying "is this really the case or is it just a theoretical presumption?"
+&gt;Let's try to stick to the question I asked.
+
+Your question addresses a phenomenon that occurs in languages with some defined standard variety. These privileged varieties are not actually used natively or naturally by anyone. I would expect that for "misuse" in the sense you have adumbrated to exist, one would have to have a language community with multiple varieties and an effort at producing a "standard variety" that is not just the privileged dialect, but a synthesis of features.
+
+Which is not so interesting as the fact phenomenon of assuming the existence of misuses and the privileging of certain dialectal features. That may be why you got the answers you did.
+
+**EDITED TO REMOVE IMPROPER BLOCKQUOTE**
+That wasn't really what my question was addressing. Your comment is also extremely difficult to read, I'm not sure I understand what you're saying at all.
+Sorry if I wasn't clear.
+
+The only reason you can talk about language misuse is because there is a standard form of English which is taught in schools and has fairly clear syntactic rules and lots of comprehensive dictionaries. You need these standards to compare against if you're saying someone is misusing language. So lots of languages and lots of groups don't have all this stuff.
+
+If you use constructions, words, or other items of language which are not part of the recognized standard, but are nevertheless easily understood, this is not misuse of language. It's a normal part of diversity within a language. So your question really becomes, "Is diversity and innovation a part of all languages?" Which, the answer seems to be yes.
+No, this is well tread ground in linguistics. And again, it's not misuse, because *there is no correct meaning of "literally"*. There is only how people use it.
+So (in reference to the plane/helicopter example I gave in a [comment below](http://www.reddit.com/r/askscience/comments/nylbo/is_the_misuse_of_language_found_in_all_languages/c3cyni5)), you're saying that the concept of a member of Tribe thinking a plane is called "helicopter" is completely unremarkable or just "diversity"?
+Are you implying that someone saying "I could care less" is not misuse?
+It is only as much of a misused as "understand" is a misuse. The fact that the literal meaning of "I could care less" does not match up with what you know it means when the person says it is no more indicative of misuse than the fact that people do not say "understand X" to mean "stand under X". The primary difference being that you're consciously aware of the literal meaning of "I could care less". The truth of the matter is that "I could care less" is idiomatic, but it *happens* to look a lot like a non-idiom because it's a new idiom that originated from that non-idiom.
+I think it really takes advanced mental gymnastics to convince yourself that "I could care less" is just a new idiom and "I couldn't care less" is just an older idiom. People who say "I could care less" **intend** to say "I couldn't care less". They just aren't thinking about what they're saying. When you point it out to people who say it, they will often admit that they had misheard it, and will just start using the one that does make sense.
+
+Anyway, I really did not want to get into this, I even specifically requested right in my original post that we don't get bogged down in this discussion (which, just FYI, I have had numerous times and nothing you've said is in any way new to me).
+
+As I've also said, nothing in your definition of the phenomenon I'm talking about ("optimal use given the available data") contradicts my definition ("misuse due to ignorance"). We are talking about the exact same thing. I am fully willing to never use the word "misuse" again if it bothers you that much, because we are talking about the same thing. You accept my premise but refuse to treat it as a valid question nevertheless. I hope you can see the disconnect in that.
+It contradicts it entirely, you're just steeped in this prescriptive mindset.
+
+And you can't not get into this when you're asking about this, because the answer to your question depends entirely on this issue, unless all you want is "yes" or "no", in which case you got your answer repeatedly.
+I'll rephrase my question in completely inoffensive terms, then:
+
+Words can have multiple uses within a population. There is, in many cases, a particular use that is most prevalent, and one or a few uses which are less prevalent. These uses are also sometimes exclusive, meaning that an individual will only employ a certain use and not the others (or will employ one use the vast majority of the time).
+
+Does this occur in every language, or are there languages, especially ones found in very small and concentrated populations, where this phenomenon breaks down and is no longer observed? To frame this in terms of an extreme hypothetical situation, if a language is only spoken by a family of 10 people who all live in close proximity and converse daily, do we still expect to see multiple (and perhaps mutually exclusive) uses of a particular word in different individuals? If not, what is the rough population threshold at which the phenomenon starts becoming observable? Furthermore, is there an existing way to quantify this phenomenon?
+again, you've already gotten your answer: Yes, it occurs in every language, because people are not telepathic.
+I think you've answered the question without actually having any data on it whatsoever. You simply presume that the answer is yes because you can't imagine any other possibility.
+
+There is a HUGE difference between the following two scenarios:
+
+- 10% of the population call planes "helicopters", but after a conversation with anyone from the other 90%, start calling them "planes" instead.
+- 10% of the population call planes "helicopters" and always call them helicopters despite the 90% calling them "planes".
+
+
+10% in the context of speakers of the English language means about 180 million people. In the context of my hypothetical 10-member tribe, it means 1 person.
+
+I propose that, while we can of course expect the first scenario (that addresses the lack of telepathy you mention) to take place in both kinds of populations, it would be **very surprising** to find the second scenario in the small tribe.
+The examples in your original question are of a different kind than the example in your comment.
+
+In light of the example your question is effectively: "Do people make mistakes of perception or lexicon usage in all language groups?"
+
+Honestly I don't know what it is you're asking.
+
+Summary:
+There is only how people use it.
+And again, it's not misuse, because *there is no correct meaning of "literally"*.
+I'm not talking about the entire tribe misusing a language at all.
+People who say "I could care less" **intend** to say "I couldn't care less".
+You're saying that for people who misuse the word "literally", in their mind they think it's correct.
+There is no such thing as misuse.
+But what about people who have the "wrong" meaning?
+As I said, people misuse language through ignorance, which is what you said in so many words.
+Ok, so thats for people who have the "correct" meaning of "literally".
+I am talking about an individual (or a number of individuals) within the tribe misusing a word of that tribe's language.
+This is how language works!
+You need these standards to compare against if you're saying someone is misusing language.
+You're not really contradicting anything I said.

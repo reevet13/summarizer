@@ -1,0 +1,83 @@
+Original Response:
+Hey fellow Belgian citizens! 
+
+Yesterday I wanted to buy the [new Raptor Skin (Dreadnought)](http://dulfy.net/2018/09/18/gw2-gemstore-update-dreadnought-raptor-upcoming-items/#Dreadnought_Raptor_Skin_2000_gems) but quickly discovered I couldn't buy any more gems, so I had to improvise and went the [GameMania](https://www.gamemania.be/). They sell 2000 gems cards [(click for evidence)](https://imgur.com/AghbgAc). Please don't mind the bite marks on top. [My](https://imgur.com/8aLUnIj) [pet](https://imgur.com/yGuUnBH) [Drogon](https://imgur.com/NFiOQpG) [likes](https://imgur.com/2GpLaMl) [to destroy everything I hold dear.](https://imgur.com/1t0xNhd) (Although sometimes [she](https://imgur.com/a/v7a7eZl) can be sweet as well).
+
+I agree with the changes our country have made, but I don't think we should get punished ArenaNet for simply living in Belgium. There are still non-loot box items to be bought on the Gem Store and I'd like to buy them. This change was VERY half-arsed and I don't get why you're punishing people like me, who sometimes likes to support the game (since I also play WoW, and I think GW2 deserves the monthly "sub money" more than they do TBH.
+
+So I hope I can help other Belgian players to find gems on other ways. It's possible, just hard atm!
+That's a hearty assumption, though. I'm specifically talking about A-Net "punishing" Belgium players.  Who knows what else is going on in the background.
+It's either incompetence (anet somehow being unable to disable the offending lootbox items and leave everything else alone), spite against Belgium for introducing the law, or some attempt to galvanise players against the law. 
+
+No matter how you look at it, ArenaNet is at fault in some way or another.
+Wow
+&gt; incompetence
+
+This is 100% the answer. They just don't care to make changes so they left it as is.
+Or the most likely answer, It takes time to change the system to serve different gem store offerings on a regional basis and outright disabling the whole thing till such as system can be built prevents them from running afoul of the law right now.
+
+It's obvious to spot the companies that are underhandedly opposing the rules because they make their  point publicly, Anet can't galvanise players against it if they don't bring attention to it.
+
+&amp;#x200B;
+
+There is a reason why countries usually have a grace period before new, amended or clarified laws that affect existing services are enforced, To allow time for affected parties to implement compliance.
+This law has been in the works for a long time (and not just in Belgium, a lot of countries are investigating lootboxes). They could have started to prepare their infrastructure months ago, because there was no doubt a law like this would come - one way or another.
+No, it hasn’t. It was a regulation body that ‘clarified’ the law to assert it applied to lootboxes. There wasn’t the grace period that comes with such decisions such as the GDPR 2 year period. 
+
+The cause of the potential regulation only happened a few months ago and implementation of regulations as well as what those regulations will be are still uncertain.
+Okay, maybe I missunderstood it then. But still, for months the gaming-news have been full of this lootbox stuff. It's high time to prepare for it becoming a problem in other countries aswell ... not matter how these law are implemented.
+[deleted]
+or maybe you just don't have enough IQ to realize that a us company has no idea how a specific law made in a country halfway around the world works by day 1 and they're just playing it safe until a viable solution comes up. just maybe
+
+&amp;#x200B;
+ANET is not intentionally punishing players in Belgium, Belgian law has made ANET's gemstore non-compliant. Thus ANET cannot operate it there, until changes are made. If the company decides not to invest in changing their gemstore to be compliant, that is too bad.
+
+While I also agree with the lootbox limitations Belgium has put into law, I cannot blame a company for not complying, Belgium just isn't a big enough market to force a change like that... However their laws may set a precedent for the rest of the EU, at which point companies will have to comply to conduct their business *anywhere within the EU*
+Belgian law affects microtransactions like lootboxes, not all of them.
+Yes, and a chunk of the gemstore (mount contracts, Black Lion Keys, dye sets) fall under that.
+
+Removing the from the gemstore for only 1 country requires maintaining 2 gemstorefronts, and sets precedent for maintaining localized markets... Which ups their workload.
+
+
+If/when all of Europe adopts similar laws, it might be worth the monetary investment for ANET to maintain 2 gemstore 'lists'.
+Until then, "Fuck Belgium. With love, Arena Net".
+I'm pretty opposed to loot boxes, but how on Earth is this anets fault? A small country throws out a new law without a grace period for enforcement, even if they're actively working on a solution for you, it's not gonna be ready for several weeks at the earliest most likely. And of they aren't working on a solution, in what world are they obligated to keep providing you with business after you change the rules they have to operate under? Like if I was at your house, and all of a sudden you made a rule that you aren't sharing drinks and I need to bring my own, of be perfectly entitled to just up and leave cause I'm frustrated with your rule.
+Because rather than finding a way to merely remove these RNG items, they simply cut out Belgium entirely.
+
+Even Blizzard found a way around a similar law in China so they could continue selling there with Overwatch.
+Or, at the very least, Anet decided to take it down in Belgium until their lawyers give their okay.
+[deleted]
+Yes. Blizzard did do that with China. Because China is *orders of magnitude larger than Belgium and brings in orders of magnitude more money than Belgium does.*
+
+You cannot reasonably compare the two countries. In this context, Belgium is insignificant and forgettable. China **very much is not.**
+
+Moreover, Blizzard has *significantly* more people to work on the situation than ANet does. Every single word in your post is flawed and wrong.
+Also, afaik, Blizzard disabled real money purchases of lootboxes in Belgium...
+&gt; Removing the from the gemstore for only 1 country requires maintaining 2 gemstorefronts.
+
+I think we have a thing called programming that can adjust something based on conditional inputs.
+
+The real difficulty is navigating the new law. It's just safer (legally) for them to block it completely.
+~~Wow, such revelation, programming you say. How novel.~~
+
+
+Serious note though, since i am unfamiliar with the gemstore's backend I didn't want to go into any blanket statement about the solution.
+
+ I'm sure there are solutions for this, conditional availability being one of them, however that still requires investment of time (to add the backend checks to it) as well as maintenance (shit always breaks™)
+Oh boy do I wish programming were that easy...
+Any programming that is in any way tied to real money is a pain in the ass to do. You have to triple check everything because consequences are more severe than some person quiting the game because of bugged story instance.
+
+Also AFAIK they did it already, they just had to disable everything for a while before actual implementation
+Also China has a different law that was easier to bypass than the absolute ban that Belgium just thrown at lootboxes.
+Evidently it was. They did exactly that.
+
+Most likely they were just waiting on advice from lawyers.
+
+Summary:
+Blizzard did do that with China.
+Belgian law affects microtransactions like lootboxes, not all of them.
+I'm specifically talking about A-Net "punishing" Belgium players.
+This law has been in the works for a long time (and not just in Belgium, a lot of countries are investigating lootboxes).
+Also, afaik, Blizzard disabled real money purchases of lootboxes in Belgium...
+Thus ANET cannot operate it there, until changes are made.
+&gt; Removing the from the gemstore for only 1 country requires maintaining 2 gemstorefronts.

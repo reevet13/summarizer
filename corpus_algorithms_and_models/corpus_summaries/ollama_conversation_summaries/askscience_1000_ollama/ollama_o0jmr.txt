@@ -1,0 +1,11 @@
+Here is a summary of about 10% of the text:
+
+There are probably several answers, depending on if you use physics, or color theory to explain it.
+
+I would say it's because there is so little contrast between the two colors. You have to balance contrast and brightness since one does not necessarily imply ease of view.
+
+Black and yellow has quite a lot of contrast, but looking at that would strain your eyes just as much as yellow and white.
+
+Yellow in normal light is more luminous to the eyes, whereas green is more luminous in low light, due to the [Purkinje effect](http://en.wikipedia.org/wiki/Purkinje_effect), which is a shift in luminous sensitivity.
+
+That's why black text on a neutral background is much easier to view. It has sufficient contrast but both colors aren't very luminous, like white and yellow are.

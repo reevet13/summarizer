@@ -1,0 +1,12 @@
+Original Response:
+Sorry if this is already answered somewhere, I'm just wondering if this property applies to light as well, or if it is simply absolute. This is assuming we are in a vacuum, I suppose.
+[deleted]
+The speed of light in a vacuum is always the speed of light in a vacuum.
+&gt;I'm just wondering if this property applies to light as well
+
+This property doesn't *really* apply to anything. Pretend we're on a perfectly flat deck in a very large space station with artificial gravity in deep space (so that we can ignore pesky details like Earth being round or variations in gravitational field which might swamp the effect I'm about to mention). If you're in a car traveling away from me in one direction, your friend is in a car traveling away from me in the opposite direction, and I measure you both to be moving at *exactly* 100 kph, then you would not measure each-other to be moving at 200 kph, but rather at a very, very small amount slower than that (about two-trillionths of a kph slower, in fact). Now, if our instruments aren't sensitive enough to detect that difference, you might be fooled into thinking that you measured 200 kph and conclude that you could just add velocities, and that's quite good enough of an approximation for what you might need in your day to day life, but it really isn't true at *any* velocity; the effect just becomes much more pronounced as the speeds involved start getting close to the speed of light. What you discover if one of the objects you're measuring actually gets to the speed of light (or, rather, starts out at the speed of light, since nothing slower than light can ever get to that speed) is that it doesn't matter how fast the other object is traveling (as long as it too is not moving at the speed of light, because then the equations break down), it will *always* see the first object traveling at the speed of light.
+Part of the reason the speed is always the same is that the faster you go, the shorter your yardstick is.
+The color of light changes towards the red.
+
+Summary:
+The speed of light in a vacuum is always the speed of light in a vacuum.
