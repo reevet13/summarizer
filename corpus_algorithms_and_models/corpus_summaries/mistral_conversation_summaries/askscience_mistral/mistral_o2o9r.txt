@@ -1,0 +1,22 @@
+Gas cars use a comparatively small battery to start the car and operate some electrical devices during operation.
+
+Electric cars use a huge set of batteries to power the car.
+
+Since the battery is the main source of power, it can't run the car while at the same time run a generator that keeps itself powered, due to conservation of energy and thermodynamics.
+
+If you have a source of mechanical motion, such as a gasoline engine, you can use an alternator to turn it into electricity.
+
+Actually electric vehicles do have an alternator, or rather they just run the electric motor in reverse, for the rare times when they do have a source of mechanical motion that they want to turn into electricity.
+
+*Conservation of Energy:*
+*Energy cannot be created or destroyed, only converted from one form to another.*
+
+You lose some energy due to friction, heat, etc, so what is the point?
+
+The gasoline engine powers the alternator.
+
+You're proposing a perpetual motion machine, in which chemical energy in an electric car's batteries is converted into kinetic energy and then back into chemical energy at not only no cost, but in fact a profit.
+
+This is not possible.
+
+The battery powers the electric motor, which moves the wheels.

@@ -1,0 +1,14 @@
+Pretty much all [renderings](http://www.google.com/search?q=Enterobacteria+Phage+T4&amp;hl=en&amp;safe=off&amp;client=firefox-a&amp;hs=YPt&amp;rls=org.mozilla:en-US:official&amp;prmd=imvns&amp;source=lnms&amp;tbm=isch&amp;ei=G_AFT-f2JKGCsgL_9p2RCg&amp;sa=X&amp;oi=mode_link&amp;ct=mode&amp;cd=2&amp;ved=0CAkQ_AUoAQ&amp;biw=1280&amp;bih=677#hl=en&amp;safe=off&amp;client=firefox-a&amp;hs=RlY&amp;rls=org.mozilla:en-US%3Aofficial&amp;tbm=isch&amp;sa=1&amp;q=Enterobacteria+Phage+T4+&amp;pbx=1&amp;oq=Enterobacteria+Phage+T4+&amp;aq=f&amp;aqi=g-S1&amp;aql=&amp;gs_sm=e&amp;gs_upl=722l722l1l1020l1l1l0l0l0l0l168l168l0.1l1l0&amp;bav=on.2,or.r_gc.r_pw.r_cp.,cf.osb&amp;fp=79a47197f85687e9&amp;biw=1280&amp;bih=677) of [Enterobacteria Phage T4](http://en.wikipedia.org/wiki/Enterobacteria_phage_t4) seem to make it look more like a space probe then a life form.
+Do they actually look like this?
+Could someone elaborate on the purpose of these features?
+Here's one as seen on an electron microscope: http://pathmicro.med.sc.edu/mayer/bactphage-bw.jpg
+The head is called a capsid, composed of "capsomers".
+These are proteins that create a shell to surround the viral genetic material.
+The long neck of the T4 virus is so that when it reaches the cell its going to infect, those "leg" like things bind to what are called polysaccharides on the outer edge of the bacterial cell.
+A lysozyme (an enzyme) then forms a pore in the peptidoglycan of the bacteria cell (essentially the bacteria's walls).
+Using that neck, they penetrate inside (think of a hypodermic needle going through skin), and release their genetic material to infect the cell.
+In the T4's case, the entire virus never enters the cell, it simply injects its viral material.
+There's a certain type of virus that lacks genes that produce cysteine, one of the sulfur containing amino acids.
+By adding in cysteine at random parts of the genome, they can basically program where on the shell sulfur atoms are located.
+Because there's a very strong intermolecular bond between sulfur and gold, so you can selectively stud gold nanoparticles along the surface with excellent resolution.
+They're looking into using these things as optical metamaterials.

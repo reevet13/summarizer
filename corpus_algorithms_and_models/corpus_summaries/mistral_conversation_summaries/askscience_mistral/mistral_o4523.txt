@@ -1,0 +1,9 @@
+Relative to any chosen frame of reference; the speed of light is constant and is the same for any reference frame.
+
+The LHC works because the protons are never moving faster than the speed of light; velocity addition does not work the same way for relativistic speeds as it does for small, everyday speeds.
+
+Let's say you are moving west at a speed c/2 relative to me, and Albert is moving west at a speed of c/2 relative to you. In the land of Galilean/Newtonian theory, we expect that I would observe Albert to be moving west at speed c relative to me.
+
+However, in relativity the transformation equations wind up saying that in my reference frame Albert is moving west at (4/5)c, and is therefore not meeting or exceeding the speed of light.
+
+If body A is moving at speed less than c in reference frame S, and reference frame S' is moving at speed less than c relative to S, then body A will always be moving at less than speed c in reference frame S'. Therefore, if a body is moving at speed less than c in any inertial frame, then it's moving at speed less than c in *all* inertial frames.

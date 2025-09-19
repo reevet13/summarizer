@@ -1,0 +1,20 @@
+The bulk modulus (how much something compresses when it's squished) of water is 2.2 gigapascals, while the ocean depths are about 0.1 gigapascals.
+
+That means it compresses by about 5%.
+
+How much water would be in the container then, 1 gallon plus 5% of a gallon?
+Basically.
+
+The neat thing about this is that lots of other substances compress more that water.
+
+Practically speaking, the amount of force needed to compress water is so large that we tend to think of it as not being compressible at all.
+
+Same as anything, the molecules move closer together and it becomes more dense.
+
+Yes. If we compress it isothermally from room-temperature, at about 1 GPa of pressure (145,000 psi) it will turn from liquid to Ice VI.
+
+Further compression would result in conversion to Ice VII, then Ice X, then Ice XI.
+
+The 5% gain is at .1 gigapascals. At 2.2, it would be twice as compressed.
+
+Still a gallon, just denser.

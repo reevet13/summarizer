@@ -1,0 +1,15 @@
+Am I the only one who thinks BBC is doing a public service with this article?
+Regardless of what you do with your security settings, there is one party who always has access to all of your data: Facebook itself.
+I've had just had a very unpleasant incident which borders on stalking.
+They present it being a worry that third-parties can get your info through applications.
+I'd say Facebook having your data is the biggest risk.
+You can specify a single application and restrict it but you would need to do it for every single application that your friends use.
+That's the issue here, the applications get access to your friends details as well as your own when they are added.
+> When you add an application, unless you say otherwise, it is given access to most of the information in your profile.
+That includes information you have on your friends even if they think they have tight security settings.
+Thus an application has gained access to my info despite me trying to restrict it and without my permission.
+The article is true, this information is PRIVATE.
+It's actually illegal under EU and UK law.
+Having a friend add an application is not consent.
+The information that you put up on a public web page is not private.
+Under EU law it has to be an opt-in process.

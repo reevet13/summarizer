@@ -1,0 +1,22 @@
+It's a [common misconception](http://www.smbc-comics.com/index.php?db=comics&amp;id=2475#comic) that gravity is an unexplained phenomenon.
+
+our current theory, the general theory of relativity, describes all relevant phenomena very well.
+
+gravity (as it's commonly experienced i.e. heavy things moving towards each other) is a consequence of the fact that things with energy (including massive objects) induce curvature in the...let's call them paths of least resistance...through spacetime (the technical term is geodesics).
+
+The next question you might ask is "well WHY does energy curve geodesics" to which I reply that any explanation for that could itself be met with "well WHY does blablabla"  in which case it's turtles all the way down.
+
+We don't know why gravity works and your answer is leading to 'energy curves geodesics' which is not an answer.
+
+Why do things fall?
+Because massive objects attract each other?
+
+Why do massive objects attract each other?
+Because massive objects have an energy density which induces curvature in geodesic paths
+
+Why does energy curve spacetime?
+Because (let's say; physics hasn't gotten here yet) doing so minimizes the area of the worldsheet of a spin-2 massless string excitation.
+
+So perhaps you could say that's the final answer, but generally the more we find out the more questions are revealed.
+
+It really *is* turtles all the way down.

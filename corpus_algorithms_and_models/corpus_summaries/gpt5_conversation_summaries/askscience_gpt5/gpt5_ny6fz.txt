@@ -1,0 +1,4 @@
+As far as I'm aware though there's no clear cut numbers.
+Sodium doesn't really make you retain water; the body regulates water by regulating sodium, using the [osmolarity](http://en.wikipedia.org/wiki/Osmolarity) of the plasma.
+This increase in your plasma osmolarity will stimulate osmoreceptors in your brain which will cause your pituitary to secrete antidiuretic hormone, leading your kidneys to reabsorb water and stimulate your thirst receptors leading you to drink more.
+Further regulatory mechanisms will then cause you to pee out the excess sodium and water until you blood volume is also normal.

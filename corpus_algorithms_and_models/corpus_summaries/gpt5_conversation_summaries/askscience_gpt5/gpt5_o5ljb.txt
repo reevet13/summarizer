@@ -1,0 +1,10 @@
+For a LONG time nanotech has supposedly promised grand things that will change our life drastically.
+That hasn't seemed to have arrived, and as a layman I don't really see it around me yet.
+This isn't really what the average person thinks of when they think of nanotech, and in fact nanotechnology already has enhanced your life greatly, look at your cell phone, computer, any electronic device out there really.
+As I understand it, several labs around the world regularly make nanomachines that can do potentially useful things.
+The problem is that there is no commercially viable way to mass produce them in quantities that would have an impact on a regular person's daily life.
+As for the OP's question, strictly speaking nanotechnology is anything that is done at the nano-scale and there are a [tonne of applications](http://en.wikipedia.org/wiki/List_of_nanotechnology_applications) that already exist today even outside electronics.
+For example, one of the more well-known (and controversial) applications is the use of titanium dioxide nanoparticles in sunscreens.
+As DiamondAge said, at the nanoscale, materials act differently than at the macroscopic scale, and we can exploit this for various purposes; the thing is, there are so many applications it would be quite a task to name them all!
+There are many applications, and the field grows every day!
+We're basically trying to keep up with Moore's law, which states that the transistor count in a processor doubles every 2 years.

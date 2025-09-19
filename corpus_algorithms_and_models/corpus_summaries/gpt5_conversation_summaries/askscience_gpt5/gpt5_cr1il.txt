@@ -1,0 +1,14 @@
+A decent telescope (6-8 inches) can be a lot of fun.
+You can see neat stuff like Saturn's rings and Jupiter's moons, and also multicoloured double stars, globular clusters, galaxies, etc.
+You could probably measure the spectrum of a star by focusing it through a pair of binoculars (or a telescope) onto a prism, then shining the diffracted light from the prism into a digital camera, and writing some code to analyse the strength of each colour.
+Start with the sun (no telescope needed, just a prism), or Venus.
+You can measure the speed of light if you have an oscilloscope.
+Another easy experiment: Young's double slit.
+Go see some fireworks.
+Watch for a flash, and time how long it takes for you to hear the sound.
+Now you know how far away they are.
+Knowing the peak altitude and the distance to the launch point, it's now a matter of pretty simple arithmetic to find the average speed that it travelled at.
+You can measure the speed of light with a [microwave and some chocolate](http://www.null-hypothesis.co.uk/science/item/measure_speed_light_microwave_chocolate)!
+If you spectrized* the light with a prism and lead it into a digital camera the analysis would be pretty easy to do with matlab.
+If your digital camera was suitably cheap (and thus lacking an IR filter) you would be able to measure the spectrum well beyond the visible.
+I used a similar data analysis technique for measuring line splitting from the Zeeman effect.

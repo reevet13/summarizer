@@ -1,0 +1,15 @@
+Computers don't produce CO2.
+I assume that they are referring to the CO2 produced by power plants that are providing electricity to the computer, but that's going to vary a lot based on your energy sources.
+If carbon-neutral sources like wind, solar, biomatter, and nuclear are used, the computer won't contribute any CO2.
+My laptop uses about [30 Watts](http://www.upenn.edu/computing/provider/docs/hardware/powerusage.html).
+Over a year that is 30 Watts x 24 hours/day x 365.24 days/year = 262.9728 kiloWatt hours per year.
+The Carbon Dioxide Information Analysis Center (a government group) estimated in 1990 that [1 kWh of energy resulted in 2.3 lb of CO2](http://cdiac.ornl.gov/pns/faq.html).
+262.9728 kWh * 2.3 lb/kWh = 274 kg of CO2
+[The density of CO2 at room temp and pressure is 1.977g/L](http://en.wikipedia.org/wiki/Carbon_dioxide)
+274 kg/1.977g/L = 138.59 cubic meters of CO2 per laptop per year of use.
+That's a little more than a [102 cubic meter double-decker bus](http://www.carbontrust.co.uk/cut-carbon-reduce-costs/products-services/technology-advice/employee-awareness/pages/poster-fact-calculations.aspx).
+This means from your estimate for bus volume, that it will fill 2.88 buses.
+I think that the saying is actually conservative! if you halve that (because we are just talking nights) then you would get about 1.5 buses.
+If I read that statement I would automatically assume the author was referring to one and a half double decker buses full of CO2 at atmospheric pressure at sea level.
+This statement is reliant on a huge number of factors.
+It boils down to the type of energy, energy company, specifications of equipment, room temperature, etc.

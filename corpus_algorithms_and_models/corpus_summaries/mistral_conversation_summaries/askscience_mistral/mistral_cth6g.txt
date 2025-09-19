@@ -1,0 +1,7 @@
+I don't quite understand the question, but the energy between two charged objects is k*Q1*Q2/r, where k is 9*10^9 Newton-meters^2/Coulomb^2, Q1 and Q2 are the charges (1.6E-19 coulombs in this case), and r is the radial separation.
+
+The lowest one has 13.6 electron volts of energy.
+
+This means that the combined energy of the single proton and the single electron is higher than that of a hydrogen atom, where the electron is in a bound state with the proton.
+
+The lowest level is -13.6eV and continuum is > 0eV.

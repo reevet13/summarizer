@@ -1,0 +1,17 @@
+Science is based, at it's most basic, in measurement.
+
+If it cannot be measured in some way, there is no way we can know for certain what properties something has.
+
+When scientists say that a wave function collapses when we observe it, it isn't that our conscious observation changes reality, it's that it changes what we know about that particle.
+
+Quantum mechanics operates in the domain where position and momentum are basically Fourier transforms of each other.
+
+There is no unmeasured position and unmeasured momentum that it really has before the measurements were done.
+
+There are experiments like Aspect's tests of [Bell's Inequality](http://en.wikipedia.org/wiki/Bell%27s_theorem) that showed that there can be no (local) hidden variables.
+
+The double slit experiment shows how wavefunctions of particles really behave like waves even when its just single particles going through the slit every time.
+
+A superposition doesn't mean that a particle has a specific state but we don't know what the state is.
+
+It means the particle is literally in more than one state at once.

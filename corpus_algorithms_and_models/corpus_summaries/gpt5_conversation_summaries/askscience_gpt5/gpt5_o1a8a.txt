@@ -1,0 +1,11 @@
+I'm thinking not higher than on Earth on trampolines of similar dimensions, since the force propelling you upwards will be diminished by your lower weight on the moon effectively countering the effect of lower gravity.
+As the most likely limiting factor is the amount of energy your trampoline can handle, let's assume that a regular trampoline at maximum deformation on earth can push you up to 5 meters.
+As height grows linearly with potential energy, you can get the maximum height multiplying 5 meters by the ratio of the about  gravitational acceleration, which is about 4.
+Thus, with a commercial trampoline you can reach 20 meters.
+Could he jump off the moon without the trampoline?
+The escape velocity of the moon is roughly [2.4km/s](http://en.m.wikipedia.org/wiki/Escape_velocity).
+Lower weight, but not lower mass and not lower jumping power from your legs.
+Since there is no appreciable atmosphere to cause a terminal velocity, and assuming at every jump you add more energy with your legs than is taken from friction in the trampoline, and assuming your trampoline is strong and elastic enough, and assuming your body doesn't get crushed from the forces, you should be able to achieve escape velocity eventually.
+Edit: To answer the question: As high as your trampoline and body/leg strength will allow.
+This is an interesting question, because the tension in the trampoline is somewhat caused by your relative weight, and weighing less on the moon would result in less tension.
+Six times higher than Earth.

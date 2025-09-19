@@ -1,0 +1,7 @@
+I'm not sure how to properly phrase this, but I was wondering where the center of the land-area of the world is.
+The idea would be to take a map, assume connection between Eurasia and Africa, Eurasia and North America, and North and South America, make it into "points" (say, 200km x 200km squares?) and then find the point which is the least distant (by land-travel) from all other points.
+I have looked for an analysis of this, but have not found any beyond the nation-level.
+Population is not a factor in what I have in mind, but my guess is that they would be fairly close, as I suspect the result would be near Ulan Bator.
+Another point to find, should the first be found, would be the geographic center without the Americas.
+I would guess it to be near the Aral Sea.
+It's mostly a matter of idle curiosity, but it could also have some impact on resource allocation if we ever got past the politics that divide us.

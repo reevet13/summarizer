@@ -1,0 +1,26 @@
+A decent telescope (6-8 inches) can be a lot of fun.
+
+You can see neat stuff like Saturn's rings and Jupiter's moons, and also multicoloured double stars, globular clusters, galaxies, etc.
+
+You can measure the speed of light if you have an oscilloscope.
+
+Another easy experiment: Young's double slit.
+
+Go see some fireworks.
+
+You can compare this with charts of spectrum given off by different elements.
+
+You can now use basic trig to figure out the peak altitude.
+
+With some more data you can estimate how big of a charge was used to launch the firework.
+
+There you go, with maybe $30 in equipment, your own senses and a pocket calculator, you have determined:
+
+* The distance to the launch point
+* Peak altitude
+* Launch speed
+* Composition
+
+You can measure the speed of light with a [microwave and some chocolate](http://www.null-hypothesis.co.uk/science/item/measure_speed_light_microwave_chocolate)!
+
+If your digital camera was suitably cheap (and thus lacking an IR filter) you would be able to measure the spectrum well beyond the visible.

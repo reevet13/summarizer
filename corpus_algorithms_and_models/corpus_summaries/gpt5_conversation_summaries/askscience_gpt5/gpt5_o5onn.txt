@@ -1,0 +1,11 @@
+Dearest reddit, the photo linked below was taken around 7pm on Nov 12, 2010 in Eureka Valley, CA.
+It's a 16 minute exposure.
+There's a straight line starting in the bottom left corner, and I have no idea what it is.
+Based on the brightness relative to the stars, I'd rule out meteor.
+An airplane is also not terribly likely, as they tend to leave multiple trails, and usually red/green for the left/right side of the plane.
+The picture is the perfect time for a satellite to appear; it's just getting to be either dawn or dusk and therefore the satellite will be in the light.
+Although I'm having difficulty identifying which constellation the object in the picture is moving through, OAO 2 Rocket looks like a fairly close match.
+The search period in the page you linked ended at 01:00 on Friday the 12, and this shot was around 19:00.
+The OAO 2 rocket is the next best candidate for that section of the sky, but it's listed at 17:49, and that's not matching my exif data.
+I checked for dimmer satellites too (search) and didn't find any matches there, so I would guess it probably wasn't a satellite (or at least a known one).
+The only other thing I would guess it might be is some sort of reflection within your camera from the nearby bright moon.

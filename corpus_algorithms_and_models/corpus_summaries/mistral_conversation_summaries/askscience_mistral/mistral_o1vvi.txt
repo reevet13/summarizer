@@ -1,0 +1,15 @@
+We no longer calculate IQ in the way that you mention.
+
+We use a *normative sample* to compare an individual's score against.
+
+We would expect that scores in the normative sample will fit the "bell curve" with most scoring within +/- 1 standard deviation of the mean, less being +/- 2sd from the mean, and even less +/- 3sd from the mean.
+
+Yes, your IQ is *relatively* stable over time.
+
+In younger years, it is possible that knowledge of capitals may be able to give an indication of general intellectual functioning, and very likely to be associated with an IQ score.
+
+IQ is a score on an intelligence test and is meant to reflect an individual's intellectual ability.
+
+IQ scores are associated with a range of outcomes that make it a good variable for use in clinical work.
+
+IQ tests tell us a heap about the individual's functioning in different aspects of cognition.

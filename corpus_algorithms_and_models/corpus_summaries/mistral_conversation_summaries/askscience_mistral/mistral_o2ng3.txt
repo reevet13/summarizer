@@ -1,0 +1,42 @@
+There are more efficient ways to produce power, mostly by using a working fluid/reactor material combination that can sustain higher temperatures.
+
+Typically the limiting component for the upper temperature bound in a steam plant is the blades of the steam turbines.
+
+The highest temperature systems use ceramic or monocrystaline turbine blades to resist that erosion.
+
+However, electric companies don't get paid based on how much energy they save or what their efficiency is.
+
+They get paid for how much electricity they make.
+
+Steam cycles are cheap, easy to make, and easy to manage, and they remain the most *cost-effective* way to generate large-scale electricity.
+
+Wind, photovoltaic, and hydro power are the only main sources of electricity I can think of that aren't heat engines.
+
+This is a very good explanation as to why steam is the most effective.
+
+It’s hard to beat the 90%+ efficiency of running a river through hydraulic turbines…
+
+The big problem we have is cost.
+
+Fossil fuels and conventional fission reaction fuel is very cheap and the technology is very well developed.
+
+What would be great, is if someone could devlop a method for converting the chemical potential energy of hydrocarbons, for example, directly into mechanical or electrical energy.
+
+The current chain takes that chemical potential energy, releases it as heat in combustion, then transfers that heat into a working fluid, which then turns a turbine to generate electricity.
+
+All of those steps have effeciency losses.
+
+Finding a way to skip some of those steps would be huge, especially the heat transfer effeciency loss, and the Carnot effeciency loss.
+
+In other words, efficiency is not the primary goal.
+
+Since we already have turbine technology infrastructure, supply chain, design engineers, etc., it would be way more expensive to backtrack and replace it with some other tech.
+
+Where it might be done is in high-funding projects where cost is no object: military portable power, NASA aerospace, etc.
+
+Increasing the energy conversion efficiency is interesting from an engineering perspective, and may result in better methods, but it is only loosely related to the two important metrics of power generation:
+
+* total cost of delivering a kWh of energy to consumers over the lifetime of the infrastructure
+* total pollution caused by delivering a kWh of energy to consumers over the lifetime of the infrastructure
+
+A simple, cheap power conversion process with 40% efficiency may be far better than a complex one that needs hazardous materials with 50% efficiency.

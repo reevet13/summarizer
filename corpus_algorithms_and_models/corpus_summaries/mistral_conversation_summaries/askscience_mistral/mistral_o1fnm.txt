@@ -1,0 +1,13 @@
+"Visible" Is what people call the light they can see.
+
+Our eyes only respond to wavelengths of light between [390 to 750nm](http://en.wikipedia.org/wiki/1_E-7_m).
+
+Our eyes (and others) evolved to see these wavelengths because they're the ones that penetrate our atmosphere.
+
+The resolution of our eye is dictated by the wavelength of light.
+
+The wavelength of light is about 500nm, which means we can make out the micrometer grooves within the gullies of our finger prints, but we can't make out the structure of the atoms in our finger.
+
+The smallest radio waves that penetrate the atmosphere are about 5cm.
+
+The visible spectrum is roughly the region of the EM spectrum where the sun emits most of its light.

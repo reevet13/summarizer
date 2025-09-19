@@ -1,0 +1,5 @@
+There seem to be at least three or four organisms which are able to withstand very high levels of radiation, none particularly closely related to each other (one is a bacteria - Deinococcus radiodurans, one is an archaea - Thermococcus gammatolerans, and one is an animal - Tardigrade).
+Is it known _why_ these organisms evolved this particular ability?
+Maybe asking "why" isn't the right approach - but "how"?
+If there's no direct selection for radiation-resistance, then the gene must be associated with something else that is selected for, or entirely happenstance (which is probably unlikely).
+Perhaps the same process that gives extreme radiation resistance is related to thermal resilience, resistance to dehydration, or something similar?

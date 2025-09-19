@@ -1,0 +1,2 @@
+Now the question comes in when we try to identify what lines are spurs.
+The better option (IMO) is to try and use the phase information from the ft since the mixing sidebands should be 180degrees out of phase with the real spectrum.

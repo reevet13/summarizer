@@ -1,0 +1,13 @@
+If you look though the side of a glass of water you can see the water is not flat across but actually curves up the side a bit.
+
+What you're talking about is capillarity.
+
+It comes from the difference in attraction of liquid molecules to each other vs. to the container.
+
+In the case of water and glass, the glass tends to be charged, so water molecules are more attracted to it and thus "climb up" the walls (opposed by gravity).
+
+To address the OP's question, there's a balance of forces: capillarity (the tendency of the water to stick to glass), surface tension (the tendency of the water to stick to itself), and gravity.
+
+When you pour slowly, not a lot of liquid comes out of the glass, so the first two tend to win out.
+
+If you pour more quickly, gravity will win out and your feet will stay dry.

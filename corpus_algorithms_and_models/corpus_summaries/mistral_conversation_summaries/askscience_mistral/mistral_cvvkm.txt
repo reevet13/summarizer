@@ -1,0 +1,7 @@
+Chess, for example, has 10^120 potential moves, far more than the number of atoms in the universe.
+
+The number of atoms in the [observable universe](http://en.wikipedia.org/wiki/Observable_universe) is probably between 10^79 - 10^83.
+
+The most cited number of atoms in the universe is something like 10^83, but it's a number that Arthur Eddington pulled out of his crazy ass.
+
+Go, for example, which is a little easier to [analyze](http://en.wikipedia.org/wiki/Go_and_mathematics), has about 10^700 possible positions, and as many as 10^2000 possible games.

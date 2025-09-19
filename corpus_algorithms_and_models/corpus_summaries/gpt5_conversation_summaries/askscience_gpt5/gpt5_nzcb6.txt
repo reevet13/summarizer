@@ -1,0 +1,12 @@
+Since the photons are travelling at c, and therefore no time passes for them, does it seem to the photon that the earth and sun are essentially in exactly the same place and it hasn't moved at all?
+There's no such thing as "what it seems to a photon."
+Photons don't have perspective.
+There's no way of describing the Universe as seen by a photon, and for one very simple reason: any object's frame of reference is the frame in which it's at rest, but the speed of light is constant in all reference frames.
+So it's impossible to construct a photon's rest frame.
+This notion that photons don't experience time is sort of true but is fundamentally misleading.
+However, if you were going to try to define a quantity which is analogous to time as experienced by a photon - and there are a couple of ways of going about this - you would find that this quantity turns out to be zero.
+But I'd stress, again, it's not actually the time that passes by for light, but rather some other quantity which is mathematically similar.
+Length contraction is physically real, ie. something that can be measured with precision instruments.
+It does not account for time dilation.
+Nope, I wasn't talking about any sort of limit, I was talking about the fact that it is literally impossible to construct a photon rest frame (even as a limit!) because the speed of light is constant (and non-zero) in all reference frames.
+So it's actually, literally impossible to construct a coordinate system describing the world as a photon would see it.

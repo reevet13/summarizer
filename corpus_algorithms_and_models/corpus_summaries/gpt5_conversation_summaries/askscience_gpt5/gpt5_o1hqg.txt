@@ -1,0 +1,13 @@
+Actually, the average speed of the ISS is around 17,000 mph.
+There are far fewer outside forces in space, than in earth atmosphere.
+You are fighting a lot of friction - so heat dispersal would be a problem, etc, etc, etc.
+As far as the speed difference goes, travelling at 25,000 mph would create so much heat from air friction that your airplane would be liquified.
+The main issue for planes flying at that speed is they heat up due to friction.
+Its top speed was somewhere around 2,200 mph and even at that speed and considerable altitude (where the air is thinner) the Blackbird would [reach temperatures of 800F](http://www.nasa.gov/centers/dryden/news/FactSheets/FS-030-DFRC.html) and required very special engineering to deal with it.
+The Space Shuttle's re-entry speed was around 17,500 mph and also required some special protection.
+A plane flying at double that speed would either melt or cook the occupants.
+The only real way to achieve anything like those speeds is to get out of the atmosphere.
+This is one of the reasons why high speed aircraft operation only occurs at high altitudes.
+The air density (and therefore friction) at 30,000 feet is much higher than at 100,000.
+The SR71 was certainly limited by its engine tech, but air resistance is a much bigger issue than you are assuming.
+Then it's impossible, as explained in [this link](http://en.wikipedia.org/wiki/Propulsive_efficiency) which I already provided.

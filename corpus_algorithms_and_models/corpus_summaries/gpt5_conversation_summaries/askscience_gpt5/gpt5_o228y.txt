@@ -1,0 +1,13 @@
+I know this sounds like a simple/unnecessary question, but other than "just because" I can't think of any way to verbally convey an explanation for this.
+The mirror above is what's known as a "plane mirror", or more simply, a flat mirror, like the ones you find in bathrooms, the mirrors on your car, etc.
+Plane mirrors create virtual images, behind the mirror.
+Essentially, your eyes think they are seeing light that comes from an object the same distance from the mirror as the original, just behind it.
+A mirror doesn't reverse left and right.
+It reverses front and back.
+Here's a thought experiment for you: imagine standing in front of your mirror wearing a T-shirt with [the Dutch flag](http://en.wikipedia.org/wiki/File:Flag_of_the_Netherlands.svg) on it.
+When you look at your reflection, it has a red stripe on top and a blue stripe on the bottom.
+Now bend your head down (assuming you have a sufficiently flexible neck) and look at the real t-shirt: the blue stripe is higher up in your field of view.
+This apparent reversal of top and bottom is exactly the same phenomenon as the "expected" reversal of left and right.
+The text isn't reversed because it's being viewed through the mirror.
+It's reversed because you put the shirt on with the text facing away from you instead of toward you, which is 180 degrees away from the normal state of affairs.
+The text reads right-to-left in the mirror because it reads right-to-left in real life.

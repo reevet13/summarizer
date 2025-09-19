@@ -1,0 +1,4 @@
+Since the ac unit is not 100% efficient (and the fact that by drawing a current it is increasing the amount of energy in the room) the temperature will increase.
+A 100 watt AC unit will heat a closed room just the same as a 100 watt heating unit would.
+An air conditioner is a heat pump.
+Leave a refrigerator with the door open in a closed room and the net effect will be to warm the room.

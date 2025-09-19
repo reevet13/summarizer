@@ -1,0 +1,13 @@
+Starting with the general 2000 calories per day rule, we can get an estimate, although this certainly depends on the person, as you suggested.
+2000 calories is 8,368,000 Joules.
+Power is the amount of energy per time, so we divide this number by the number of seconds in a day: 24 hours x 60 min/hr x 60 s/min = 86400, resulting in a power of 96.9 Watts.
+Thus, the average human uses about as much energy over the course of a day as a 100 W lightbulb.
+Back-of-the-envelope: Assume 2500 calories per day in (male, 30 yo, active lifestyle), nothing out ("maximum case", basically), equals roughly 10.5 MJ.
+If we spread that out constantly over a day, that's about 120 Watts, or a bit more than a modern laptop computer.
+I believe the power assist bicycle guys consider normal human power to be about 138 watts over the course of a bicycle ride.
+Call his effort 343 watts in "race mode."
+There is also the difference between the energy we "consume" and how much "work" we put out.
+Initial calorie estimates come from actually burning the food and measuring how much heat it produces.
+Bond-for-bond it's the same reaction releasing the same amount of energy.
+There are materials that burn that can't be digested by all animals.
+Apparently, the so-called Atwater system corrects for that precisely by subtracting insoluble fibers.

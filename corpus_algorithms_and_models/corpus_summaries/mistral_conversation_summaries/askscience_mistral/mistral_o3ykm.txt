@@ -1,0 +1,6 @@
+As a general rule, *any* contaminant in a pure compound will lower the boiling/melting points.
+
+That is only half true.
+any contaminant will lower the melting point (see: [freezing point depression](http://en.wikipedia.org/wiki/Freezing-point_depression)), but will *raise* the boiling point (see: [boiling point elevation](http://en.wikipedia.org/wiki/Boiling-point_elevation)).
+
+I stand corrected.

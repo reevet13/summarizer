@@ -1,0 +1,10 @@
+What about if said AI launches a Zeroth Law Rebellion, ala I, Robot.
+Has at least one lab, university or government sat down and thought of a plan for this, if only as a joke?
+There's no real need for a plan or a system, since a single entity, or even a million entities, don't really change anything.
+The first "true AI" would still be far stupider than the average human.
+There are a variety of different notions of a technological singularity.
+There are [three different broad suggested types of Singularities](http://yudkowsky.net/singularity/schools).
+What you are talking about is the third type, the  I.J. Good/ Eliezer Yudkowsky sort of Singularity, where an AI bootstraps itself by self-modification to become successively more intelligent. 
+This is in many respects the most plausible type of Singularity.
+However, there's very little to do about it.
+So while one could potentially take preventative steps (For example, giving a potential general AI internet access would be a bad idea.) there's nothing much to do once it happens.

@@ -1,0 +1,12 @@
+An "observation" is just an interaction with some macroscopic object.
+Observation, is not "observation by a conscious observer".
+It is any interaction with an external system, where we ignore the evolution of that external system after the interaction.
+So the particles are effectively "observed" when they impact the helmet.
+Schrodinger's cat was never in a quantum state because it is too large a system to maintain quantum coherence for any meaningful amount of time.
+A superposition of "decayed" and "not-decayed" will have to be thought of as a physical state.
+These systems are kept **extremely** well isolated from the environment.
+Every interaction is possible of causing wavefunction "collapse", or perhaps more poignantly, there is no interaction that must cause wavefunction collapse.
+If you have the full quantum description of two interacting systems, and you care about both those systems, then there will **never** be wavefunction collapse.
+All interactions will be unitary, which preserve coherence.
+Collapse only occurs when you stop caring about one of those systems, and concern yourself only with the dynamical evolution of one system.
+So yes, in a way, collapse is dependent on the "observer" (i.e. the experimenter), in that it depends on whether or not she is interested in the full system, but it is not caused by the observer.

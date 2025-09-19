@@ -1,0 +1,2 @@
+Hello, I was wondering if Metatrons Cube a fractal.
+it seems like it could probably be generated as an IFS ([Iterated function system](http://en.wikipedia.org/wiki/Iterated_function_system) ) type fractal, like sierpinskis or fractal ferns.

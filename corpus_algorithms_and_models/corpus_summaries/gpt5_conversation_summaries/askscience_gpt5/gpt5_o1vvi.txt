@@ -1,0 +1,10 @@
+I'm also curious as to what an IQ actually means (I am pretty sure my knowledge/age formula is probably incorrect).
+We no longer calculate IQ in the way that you mention.
+Instead we use a *normative sample* to compare an individual's score against.
+That is, when a person who is 20 years old completes the IQ test, we look at that person's score and compare it to the scores in the 20 year old normative sample.
+So we are always comparing their score against what we would expect from a normal population of 20 year olds.
+Yes, your IQ is *relatively* stable over time.
+There can be some variability in the younger years but is pretty stable over adulthood.
+Although capitals may be less relevant for older individuals.
+IQ is a score on an intelligence test and is meant to reflect an individual's intellectual ability.
+Important to note is that there is much controversy about what "intelligence" is, however IQ scores are associated with a range of [outcomes- (Fixed the link. Goto the first result called The Predictive Value of IQ)](http://www.google.com.au/search?q=The+Predictive+Value+of+IQ&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-GB:official&amp;client=firefox-a) that make it a good variable for use in clinical work, and IQ tests tell us a heap about the individual's functioning in different aspects of cognition.

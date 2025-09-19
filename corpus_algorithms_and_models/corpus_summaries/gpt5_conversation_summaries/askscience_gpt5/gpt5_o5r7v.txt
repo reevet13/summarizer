@@ -1,0 +1,11 @@
+If I take a container and apply vacuum to it, what am I left with inside?
+Is there any matter or energy left within this vacuum?
+You're just taking a container and removing the air from it, and it's impossible to achieve a perfect vacuum.
+In a complete vacuum, literally all that's left is background energy, which is estimated at 10^-9 J/m^3
+Even if you remove all matter from space, there is still "energy" in a vacuum.
+Experimental evidence for this can be found by looking into the [Casimir Effect](http://en.wikipedia.org/wiki/Casimir_effect).
+However, a force is observed.
+We tend to keep it at 1E-10 Torr, which is something like 0.0000000000001 atmospheres of pressure.
+All we're left with is a few atoms zinging around.
+There are still atoms floating around in space, but they're very far apart.
+There's also radiation, which does not need to use matter as a vehicle to transport itself.

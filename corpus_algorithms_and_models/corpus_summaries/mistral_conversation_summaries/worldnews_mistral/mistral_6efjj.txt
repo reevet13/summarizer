@@ -1,0 +1,13 @@
+Oh, it's pretty effective alright.
+
+How? Simple: Don't read it. But archive everything. Storage space is cheap, and the NSA has a BIG budget.
+
+Then if anyone ever seriously challenges you, just grep your archives. You're bound to find something that can be used to at least make them look bad -- *or worse*.
+
+There is an unlisted Port in Windows server and Windows XP that is address at the Kernal level. The NSA can burrow into your computer and keylog without you knowing.
+
+If you have a webcam and mic on you PC you offer them video access of who is at your computer...
+
+They are getting closer and closer as technology makes it easier and easier to catch and monitor the statistically significant outlier.
+
+Not only does it allow them to NOT process the information in real-time, but it allows them to save things that are encrypted or obfuscated for later when their computers are faster and more intelligent.

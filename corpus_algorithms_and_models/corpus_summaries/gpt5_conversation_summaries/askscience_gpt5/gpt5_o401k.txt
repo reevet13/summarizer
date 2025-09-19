@@ -1,0 +1,10 @@
+So imagine two car sized "super" magnets of the same pole hanging from two different cables spaced a few meters apart.
+Well if they had a pacemaker, metal prosthetic devices or embedded metal particles ( as can happen to welders who can get tiny slivers of metal in their eye without realising it ) they could be in big trouble as the pacemaker leads whip around and the metal fragments shred the inner eye.
+A rapidly changing magnetic field can cause biological effects - not from any mechanical force felt by the person, but from the current induced.
+Stronger magnetic field can lead to observable [diamagnetism](http://en.wikipedia.org/wiki/Diamagnetism), where the water in your body can repel the external magnetic field.
+If they have a pace maker, the changing magnetic field could also induce a current into the wires, which could send a nasty shock to the heart.
+At a conference I went to, the speaker suggested that the upper limit of MRIs will be around 11T since after that point, the flow of blood in the coronary arteries can induce currents leading to cardiac arrhythmias.
+Ions are current carriers, electrolytes are conductors, so they certainly are a "conductor in a magnetic field."
+The energy/force that pushes two magnets is not "created" by having them near eachother.
+There's no difference between having them repel or attract one another in this example (well, other than the observer being squished if you flipped it around and didn't change the mechanism).
+The large radius of the swing (assuming 100m) and the opposed-pole orientation of the fields means that the magnetic fields approaching the person in question will be moving so as to minimize the cutting of field lines.

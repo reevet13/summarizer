@@ -1,0 +1,8 @@
+There's a section on this topic in Daniel Levitin's book "This Is Your Brain On Music".
+The answer is not definitely known, but we know a few things about music perception that can help us understand this phenomenon.
+Let's start with two facts about music: it is enjoyable and it is repetitive (although avant garde music can throw one (or both) of these features out the window).
+One feature of enjoyable music (as LinaeveWorkman pointed out below) is that it stimulates the release of **dopamine** in the brain (see [here](http://www.zlab.mcgill.ca/emotion/) for a description of the research and PDF link for the paper LW mentioned).
+This signal seems to mean "whatever you did was awesome, do it again."
+For whatever reason (still unknown) we [love it](http://jrm.sagepub.com/content/32/1/35.short) when we can almost guess exactly what something will be, but then it violates our guess.
+There is a circuit somewhere in your brain that is responding to the melody of the music, and the connections underlying this circuit are being reinforced over and over again by bursts of dopamine.
+So now when that circuit is randomly triggered (perhaps some neurons in the circuit are involved in other things, or perhaps it's just random firing) it will repeatedly loop through the stored melody, each time playing out the song in your head.

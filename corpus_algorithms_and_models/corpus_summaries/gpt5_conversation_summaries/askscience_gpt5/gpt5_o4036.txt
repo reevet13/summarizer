@@ -1,0 +1,14 @@
+Because leeches are simpler organisms, I expect that they would be able to tolerate toxins a little better than us with our delicate inter-working parts.
+I can't find any evidence that leeches have alcohol dehydrogenase (the enzyme we use to metabolize alcohol), but that doesn't mean they don't have it.
+Given how simple and common ethanol is I would be very surprised if they didn't have a mechanism for using it.
+I even tried a BLAST search, but apparently Hirudo medicinalis hasn't been sequenced.
+Personally, I also would be shocked if they didn't have alcohol dehydrogenase seeing a can be found in single celled organisms (yeast).
+The other important question is does the leech have the targets for ethanol?
+Most (if not all) of the effects of standard human ethanol intoxication are mediated through the GABA-A receptor.
+Which the leach does not have.
+(though it may use GABA as neurotransmitter).
+And whatever it accepting GABA in the leach shares some pharmacology with mammalian GABA-A receptors
+Also, leechs do have relatively mammalian like calcium channels, and they should be effected by ethanol.
+But at only at higher concentrations (like maybe if someone was about to die from alcohol poisoning).
+Thus, it seems likely that the leach would be mildly effected.
+And then it would more slowly metabolise the ethanol than a mammal.

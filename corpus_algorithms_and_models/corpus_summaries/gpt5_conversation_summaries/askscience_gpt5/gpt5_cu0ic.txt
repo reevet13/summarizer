@@ -1,0 +1,14 @@
+Well, there's no evidence to suggest that cell phones *do* cause cancer, and there's no plausible mechanism (that I'm aware of) by which they could.
+Both cell phones and cordless phones transmit radio frequency (RF) signals, which is a form of non-ionizing radiation.
+Frequencies higher than the ultraviolet region (UV, x-ray, gamma, etc.) have enough energy that they can screw up molecules in your body.
+And RF signals are way, way below this energy.
+Cellular phone frequencies vary widely, but range from about 0.8 GHz to 2 GHz, and typical output power is under a Watt.
+The only way to be harmed by RF signals is by sheer power output.
+Cell phone powers are so low they do not measurably heat the human body.
+I fully agree that neither cell phone nor wireless phone radiation is ionizing.
+I also agree that the epidemiological evidence does not support the conclusion that phones cause cancer.
+Without invoking novel physics, it's pretty safe to say that phones do not release ionizing radiation that can directly (or through water) break DNA.
+If something is emitting non-ionizing radiation, it is difficult to imagine biological consequences.
+This is why physicists and biologists generally reject the notion that we should be worried about non-ionizing radiation.
+You'd have to postulate some sort of enzyme that gets activated by this non-ionizing radiation and then  goes to work doing the things that we normally associate with ionizing radiation.
+I'm not saying it's not possible, but it's not likely.

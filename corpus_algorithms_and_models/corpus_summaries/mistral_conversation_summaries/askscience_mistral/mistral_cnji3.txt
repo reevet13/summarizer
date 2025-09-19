@@ -1,0 +1,5 @@
+Information theory is largely about encoding and decoding complex data across different domains.
+
+I don't know much about insect biology, but my understanding is there isn't much complex data being transmitted...mostly 1 bit signals like "food present" or "come have sex with me".
+
+I'm interested in how information is transmitted, how info is perceived and transmutates into behavior, the filtering of noise to extract "relevant" information from one's environment, shit like that.

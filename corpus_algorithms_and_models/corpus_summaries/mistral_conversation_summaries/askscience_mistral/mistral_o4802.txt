@@ -1,0 +1,9 @@
+In physics, when an object is moved further from another, it is said to gain potential gravitational energy (E = mgh) and the universes expansion increases the distance between objects, doesn't this give them energy?
+
+Regarding the conservation of energy: It does not hold on cosmic scales.
+
+And we don't expect it to, since there is no time translation invariance.
+
+Due to the expansion, the laws of physics depend on time, so to speak.
+
+And time translation invariance is what gives rise to conservation of energy.

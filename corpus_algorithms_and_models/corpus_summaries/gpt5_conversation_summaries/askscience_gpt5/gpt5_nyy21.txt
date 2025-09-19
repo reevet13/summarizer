@@ -1,0 +1,6 @@
+according to newtonian mechanics, the instant the object starts moving the friction switches from being the static coefficient to the kinetic coefficient.
+How long is an instant though?
+Is it possible to only apply n force for that instant?
+An instant, in this case, is the limit of time T as T approaches zero.
+So, basically an infinitesimally small amount of time.
+Theoretically not necessarily, practically yes.

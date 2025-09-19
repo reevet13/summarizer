@@ -1,0 +1,11 @@
+As far as I know there's no real way to demonstrate entanglement in a garage.
+
+Entanglement is the norm, rather than an exception. As in, every particle is entangled with every other particle to *some* extent.
+
+The hard part is producing entangled pairs in coherent states, and having the finesse to observe them.
+
+Homemade entanglement doesn't look like its around the corner.
+
+The double slit experiment is different from entanglement.
+
+Entanglement would be much harder; you'd need some serious optics (for photons) or a special magnet (for electrons).

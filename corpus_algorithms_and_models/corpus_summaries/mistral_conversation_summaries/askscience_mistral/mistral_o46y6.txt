@@ -1,0 +1,13 @@
+The idea was that the water would be elevated against gravity by capillary action and then gravity would win once the fluid tension caused the united strands at the top to form a bead large enough.
+
+So the question I have is: where does the energy come from for capillary action?
+
+My current hypothesis is that it comes from the heat of the water, and that as water goes through capillaries it cools down as it rises.
+
+The energy that would turn the pinwheel is from the gravitational potential energy of the vat of water.
+
+The energy for this effect comes from the wetting of the fibers of the strings, which can be described in terms of [surface energy](http://en.wikipedia.org/wiki/Surface_energy) or surface tension.
+
+Capillary action isn't totally free energy either: it can only pull water a limited height up the string.
+
+So your machine will spin as long as your string rises less than a certain height above the dropping surface, and until the water level falls to the length of the dangling end.

@@ -1,0 +1,12 @@
+The plane's frame of reference is rotating at the same rate as the Earth and the atmosphere, so its ground speed doesn't change if it flies east or west.
+In order to achieve what you're describing, you need to have a frame of reference independant of the atmosphere's rotation (i.e. in space).
+Above the planetary boundary layer and the lowest-layer of the atmosphere where friction is important, the atmosphere approaches a state of solid-body rotation along with the Earth.
+The typically longer westbound flight times (at least in the northern hemisphere) are due to the generally westerly winds at that latitude.
+("Westerly" can be a confusing term, since it means wind blowing from west to east.)
+It's faster to fly eastward across the Atlantic because the prevailing winds push planes in that direction.
+Everything I have read says that transatlantic flight times are dominated by the prevailing winds, not the rotation of the Earth.
+While the earth's rotation is in part responsible for the wind, wind speed is pretty much independent of rotation.
+Assuming that things like throttle and AoA are kept constant, a plane will fly at a particular speed relative to the air around it, really regardless of the windspeed.
+It means that the travel time flying x miles east is the same as the travel time flying x miles west, assuming that there is no wind.
+This is kind of like asking, "If you jump up does the earth spin underneath you?"
+Since you (and the atmosphere) are moving with the earth the answer is no.

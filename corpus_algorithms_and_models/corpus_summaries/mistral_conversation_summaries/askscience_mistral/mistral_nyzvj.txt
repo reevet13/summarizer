@@ -1,0 +1,19 @@
+Behavior of [this simple circuit](http://youtu.be/RkTvDjhImwo) is a little unusual.
+
+I think its a hoax.
+
+I don't think there's anything done in post.
+
+Everything was pre-cut and carefully measured out ahead of time, and it looks like the work surface is thin enough to be printed on... perhaps a clever use of induction?
+
+Well, clearly he is hiding something.
+
+My guess is he modified the 9v to hide an DC to AC circuit in the battery.
+
+You could use diodes in parallel with the switches to select the direction of current, and diodes in parallel with the LEDs to make sure current can always flow in both directions.
+
+I notice that when he turns off the three leds the first time that he starts with the middle LED.
+
+He says it's simpler than the frequency thing that you're all talking about.
+
+I'm guessing it's a smaller battery and an oscillator circuit stuffed into the case of a 9 volt battery.

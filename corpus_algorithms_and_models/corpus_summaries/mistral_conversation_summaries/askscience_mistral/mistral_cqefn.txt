@@ -1,0 +1,11 @@
+The only important flaw is a complete lack of statistics.
+
+They talk about 'randomness', and the various times each artist has occurred in the final result, with no thought given to how much variance there would be for true randomness.
+
+My conclusion is that the data showed only the expected variance of actually having a truly random playlist, but that the author was too incompetent to properly interpret his data.
+
+The claims about labels can also be dismissed as expected deviations.
+
+No it isn't.
+
+It's quite easy to run the following [python](http://www.python.org) simulations and you can see that the results aren't the least bit abnormal.

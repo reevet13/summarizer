@@ -1,0 +1,9 @@
+I was looking up what actually causes boiling to occur, and read that it's when the pressure from the water vapor in a bubble exceeds the ambient pressure + surface tension of the water.
+I also remember reading how soap helps lower the surface tension of water.
+This makes me think that all of the surface tension of water would be lowered, but would it also be lowered on the "surface" of a water vapor bubble, causing it to boil faster?
+It would sit on the surface of the water, thus lowering the surfaces surface tension.
+Does it mix fully with the water, or will it all attempt to puddle near the surface, which happens to be away from the source of heat?
+That is only half true.
+As a general rule, any contaminant will lower the melting point (see: [freezing point depression](http://en.wikipedia.org/wiki/Freezing-point_depression)), but will *raise* the boiling point (see: [boiling point elevation](http://en.wikipedia.org/wiki/Boiling-point_elevation)).
+These Wikipedia links explain the phenomena pretty well.
+I stand corrected.

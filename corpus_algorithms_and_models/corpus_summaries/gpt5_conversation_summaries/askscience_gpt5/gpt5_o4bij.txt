@@ -1,0 +1,3 @@
+From what I know, most organisms nowadays that have yet to be cultured are found using metagenomics where you take an environmental sample and determine the multiple different microbial genomes present in the environment.
+But considering ~99% of bacteria are not yet culturable, odds are it won't work.
+It is hypothesised that the organism uses the methyltransferase to methylate heavy metals to cope with the high content in the soil.

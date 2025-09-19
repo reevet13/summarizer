@@ -1,0 +1,13 @@
+yes, amps are what kill you. BUT... you need a high voltage for the current to overcome the resistance of your skin.
+you can touch both terminals of a car battery and not get shocked because its only 12 volts.
+It is current that hurts you.
+But you have to remember that most power circuits are *voltage sources* with some sort of internal resistance.
+And your skin is a pretty good resistor (tens of thousands of ohms when it is intact).
+So even though the car battery has a very low internal resistance (it can push more current if needbe), it's NOT going to be able to push much current through your skin.
+Static shocks are very high voltage, often around 40,000 volts.
+However, their amperage is very low.
+Human skin can vary in resistance from 500Ohm to over 100k Ohm (whether its wet, dry, etc).
+It also changes with voltage so not one figure applies in every case.
+"As the current approaches 100 milliamps, ventricular fibrillation of the heart occurs - an uncoordinated twitching of the walls of the heart's ventricles which results in death."
+Also important, the path electricity takes is what determines what kind of damage to expect.
+Technically it's the amps across the heart that kills you (something like 0.1A is lethal) but how many amps can pass across your heart is directly related to the voltage, so both matter.

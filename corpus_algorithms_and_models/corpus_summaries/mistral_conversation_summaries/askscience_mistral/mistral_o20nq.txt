@@ -1,0 +1,13 @@
+Caffeine binds to the adenosine receptors specifically (A1 and A2a receptors).
+
+It appears that the [Adenosine A2A, but not A1, receptors mediate the arousal effect of caffeine](http://www.ncbi.nlm.nih.gov/pubmed/15965471).
+
+The A2a is primarily located in the striatum and is believed to have a direct functional relationship (specifically an inhibitory modulation) with the dopamine D2 receptor.
+
+So when caffeine antagonises the A2a, there is a reduced inhibitory modulation of the D2-> leading to increased D2 activation.
+
+I think it is important to emphasise that terms used in describing the neurophysiology of action potentials and neural signalling such as "excitatory" and "inhibitory" have very specific definitions.
+
+Indeed activation of the D2 receptor activation is associated with an *inhibition* of adenylate cyclase.
+
+The finding that the A2a forms a heteromeric complex with the D2 is just the tip of the iceberg and it is only now being investigated into what the precise mechanisms involved are.

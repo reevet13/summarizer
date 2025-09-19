@@ -1,0 +1,13 @@
+It explained that the energy from a fusion reaction is when the two atoms slam together a tiny amount of the mass is turned into energy, ala E=MC^2.
+But where does that tiny mass come from?
+Which brings on another question, where does a helium atom's neutrons come from?
+You actually start with 4 protons.
+When two protons fuse, one of them almost immediately undergoes beta+ decay, which converts a proton to a neutron.
+If you compare the mass of 4 protons to the mass of a helium nucleus, you will find that the 4 protons weigh more.
+The full reaction that powers the sun is shown here - [p-p chain](http://en.wikipedia.org/wiki/Proton%E2%80%93proton_chain_reaction)
+1). the nuclei of atoms have to be smashed together with a large amount of energy, ie in a high temperature and pressure environment, because the are both positively charged and without a sufficient amount of energy the will not actually collide.
+If it was so easy for atoms to fuse almost everything would be iron by now. 
+[nuclear binding graph](http://en.wikipedia.org/wiki/File:Binding_energy_curve_-_common_isotopes.svg) this shows that iron is the most energetically stable because the binding energy is the highest.
+3). when stars start to fuse iron energy is absorbed instead of released causing the supernova, because the engergy produced from fusion was used to conteract gravity
+the stability of a nucleus has nothing to do with the stability of a atom in bonding, ie radioactive carbon 14 versus carbon 12
+stable nuclei don't decay ever.

@@ -1,0 +1,7 @@
+You have to balance contrast and brightness since one does not necessarily imply ease of view.
+
+Yellow in normal light is more luminous to the eyes, whereas green is more luminous in low light, due to the [Purkinje effect](http://en.wikipedia.org/wiki/Purkinje_effect), which is a shift in luminous sensitivity.
+
+That's why black text on a neutral background is much easier to view.
+
+Since the red and green receptors in our eyes are much more sensitive than the blue receptors, and yellow light activates the red and green receptors, wouldn't this explain why yellow seems close to white?

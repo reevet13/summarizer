@@ -1,0 +1,11 @@
+Video 1: On a flight between Warsaw, Poland and Montreal, Quebec(Canada), I recorded a glass of wine vibrating/resonating in such a way that the fluid appears to be spinning counter clockwise, or at least the pattern appears to be.
+It's the vibrations from the plane setting up standing waves in the glass.
+What you're seeing are [Faraday waves](http://en.wikipedia.org/wiki/Faraday_wave).
+Stripes, squares, hexagons, concentric circles, and competitions and superpositions of all of those are possible.
+Do Faraday waves also explain why the water appears to be spinning in the one video?
+And no it has nothing to do with the Coriolis effect.
+Strange things can happen on video when the frame rate of the camera and the frequency of the oscillations interact.
+The shape of the container at the surface (is in a round glass or a square glass) will change the pattern you see, most prominently near the boundary between fluid and container.
+But the bottom of the container likely won't make an impact.
+Faraday waves are a surface effect.
+In the video I linked to, the swirling isn't due to the bulk liquid rotation, but rather the surface pattern moving.

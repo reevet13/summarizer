@@ -1,0 +1,13 @@
+The 13th CGPM changed the name to simply "kelvin" (symbol K).
+
+**The omission of "degree" indicates that it is not relative to an arbitrary reference point like the Celsius and Fahrenheit scales.**
+
+The only differences between Kelvin and Celsius are the point that is designated as being zero temperature (0 Kelvin = -273.15 degrees Celsius) and the fact that the word "degree" isn't used with kelvin.
+
+Until the 13th General Conference on Weights and Measures (CGPM) in 1967–1968, the unit kelvin was called a "degree," the same as with the other temperature scales at the time.
+
+The 13th CGPM changed the name to simply "kelvin" (symbol K).
+
+Because it is an absolute unit, the plural "kelvins" should be used for any quantity of temperature other than 1 kelvin (e.g. water freezes at 273.15 kelvins).
+
+No, it's an absolute unit of measure of temperature, like a meter or a gram is for length or mass. There's nothing less than 0 meters or 0 grams or 0 Kelvin.

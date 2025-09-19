@@ -1,0 +1,12 @@
+So as far as Ionization energies go it is simply the energy that is required to remove 1 electron from the valence shell of the atom.
+ it is much easier to remove that one electron than it is to have a second electron removed.
+Metalic sodium reacts with water to create Hydrogen gas, Hydroxide anion and Sodium Cation.
+This is because the electron in sodium is at a very high energy level and will lower it's energy by reducing water.
+Edit: and Na^+ (sodium ion) doesn't have an electron at a high energy level like metallic sodium.
+To complete: The sodium ion is indeed very stable because of its full shell, the reaction that drives it's production is a redox reaction.
+All alkali (lithium, sodium, potassium, ...) metals have very negative redox potentials which results in a hefty reaction when combined with water.
+Sodium ions don't come on their own - they are balanced by something else, like chlorine.
+When combined, the sodium reacts with the water to produce a lower energy state.
+Sodium ions, since they are combined with something else (like chlorine) already exist in a lower energy state.
+To make it simple and easy to understand- Sodium metal only reacts with water because it want to loose its only valence electron.
+Sodium ions already have lost that electron, so it's not reactive.

@@ -1,0 +1,10 @@
+The marching cubes algorithm is for when you have a three-dimensional data set and you want to find the "boundaries" between regions of this set.
+Each one of these small cubes is called a voxel (volumetric pixel) and has a single density value associated with it.
+Really, computers can only draw triangles.
+What the marching cubes algorithm does is give us a mesh representing the surface that divides the inside of an object from the outside.
+To do this, we again break down the volume into a number of cubes, where each of the eight corners of the cube is at the center of a voxel.
+We are going to draw a certain arrangement of triangles based on what combination of corner types we have.
+Since there are 8 corners and each one can be either empty or filled, there are 2^8 = 256 types of cubes we need to account for.
+It turns out that if you account for symmetries (geometric ones like rotations and reflections, as well as inversion between inside and outside) the remaining 254 can be reduced to just 15 distinct cases.
+If we make triangles [like this](http://upload.wikimedia.org/wikipedia/commons/a/a7/MarchingCubes.svg) for each of these types of cubes, then they will all fit together into a nice continuous mesh with no holes or gaps that can be drawn by a computer.
+That's it really, it just resolves the surface by breaking it down into combinations of a small number of known cases.

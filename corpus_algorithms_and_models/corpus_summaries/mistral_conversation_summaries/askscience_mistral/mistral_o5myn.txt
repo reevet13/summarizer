@@ -1,0 +1,19 @@
+I'm interested in figuring out the relative strength.
+
+I was kind of hoping (assuming) that solubility rates would be linear and consistent across the board, so all I'd need to do is dilute down a few samples and take some quick measurements.
+
+According to [this paper](http://pubs.acs.org/doi/pdf/10.1021/jf011702q), they tested absorbance of 280 nm light and it decreases as the roast darkens.
+
+[Here's a website](http://web2.slc.qc.qc.ca/jmc/w04/caffeine/the%20caffeine%20on%20the%20web.htm) that performed a similar measurement.
+
+They did calibration measurements for various caffeine concentrations to establish a baseline, and it looks like they were seeing caffeine absorption in the 225nm - 350 nm range.
+
+Unfortunately we don't have the equipment to do any extractions.
+
+I'm content making the assumption that caffeine is linearly related to the absorbance.
+
+I don't have the equipment to extract the caffeine though, so I'm pretty much limited to using just a spec.
+
+By strength, do you mean taste or caffeine?
+
+I suppose both.

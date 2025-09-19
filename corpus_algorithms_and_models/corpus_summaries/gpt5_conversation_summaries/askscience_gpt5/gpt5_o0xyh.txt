@@ -1,0 +1,5 @@
+Time separates 2 events in space.
+The main culprit behind all the weirdness of special relativity (which you are trying to explain) is this: the speed of light is constant in all reference frames.
+One of those things is time dilation: the faster you move, relative to everyone around you, the slower time seems to pass for you.
+If a car moves a lot through space (i.e. is travelling fast), then it can't move a lot through time (i.e. time passes slowly for it).
+They are usually too short-lived to make it down to the ground, but due to time dilation, they do.

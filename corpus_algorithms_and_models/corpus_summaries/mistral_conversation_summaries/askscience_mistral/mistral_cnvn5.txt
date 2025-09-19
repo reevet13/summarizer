@@ -1,0 +1,19 @@
+In nuclear fusion, two hydrogen atoms fuse to form one of helium.
+
+This releases energy.
+
+From the mass energy equivalence we know that the mass of an object is not just the mass of its constituent particles, but also the energy that binds them together.
+
+the final helium has less mass than the initial deuterium.
+
+Quick guide to the curve: you release useful energy by maximizing binding energy.
+
+Iron (Fe) is at the top of the curve.
+
+For elements to the left of Fe, you do fusion (towards higher atomic number).
+
+For elements to the right, you do fission (towards lower atomic number).
+
+It isn't just fusion, this applies to all energy releasing reactions.
+
+What you have lost is the potential to do additional work.

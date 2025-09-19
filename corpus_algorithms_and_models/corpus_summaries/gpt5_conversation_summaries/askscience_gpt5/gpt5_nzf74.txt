@@ -1,0 +1,12 @@
+This is called [Abiogenesis](http://en.wikipedia.org/wiki/Abiogenesis).
+Well, the whole point of the [Urey-Miller experiment](http://en.wikipedia.org/wiki/Urey-Miller_experiment) was to demonstrate that inorganic molecules known to be present in the early terrestrial environment can spontaneously form amino acids -- the building blocks of proteins.  
+The fundamental operation of life as we know it is synthesis of proteins, mediated by patterned nucleic acids.
+It is not likely that both protein synthesis and nucleic acid replication developed at the same time -- what we might call the first life probably developed from protolife systems consisting of one of those systems (proteins that happened to self-replicate, or short nucleic acid chains that happened to self-replicate).
+Eh, emphasizing self-replication at the origin of life seems a bit outdated.
+To make it a bit clearer, the relative rapidity with which life formed as soon as the Earth cooled to suitable temperatures implies a gradual process that led to replicating life.
+A global self-sustaining (rather than self-replicating) system of organic molecules, proteins, and/or genes built up independently of replicating life.
+Lab work has demonstrated that organic molecules can form spontenously under the right conditions.
+Phospholipids, the molecules forming cell membrane, will form bilayers spontaneously when placed in water.  
+So although the exact pathway leading to the formation of life hasn't been determined, it seems feasible to imagine the formation of organic molecules of increasing complexity over time, and the development of primordial versions of the systems that are central to today's living organisms.
+We don't exactly know.
+But basically, life *is* just simple atoms and molecules.

@@ -1,0 +1,11 @@
+During creation of a black hole a lot of mass gets converted to radiation.
+
+No light can come from the within the event horizon itself, however, once it has formed.
+
+Hawking radiation (which has itself never been observed directly, so we don't know whether it actually does exist, and has the property of perfect blackbody emission as postulated -- some alternative theories do not have event horizons at all, and some imply information of objects dropped into the event horizon is not destroyed -- but leaves the hole, encoded in the emitted radiation) emerges in the space just above, and has the effect of the hole absorbing negative mass.
+
+So it evaporates, in a runaway, as the temperature of the hole increases with decreased size of the event horizon, which makes the hole become brighter, emitting more radiation, and thus becoming hotter, etc.
+
+The result is the shift of the emission of the blackbody maximum to the shorter and shorter wavelength (a spectral chirp), and a runaway increase into luminosity.
+
+Overall, black holes are catalysts for conversion of matter to energy.

@@ -1,0 +1,2 @@
+Big cells are diffusion limited.
+As you get bigger, volume increases at a far higher rate than surface area.

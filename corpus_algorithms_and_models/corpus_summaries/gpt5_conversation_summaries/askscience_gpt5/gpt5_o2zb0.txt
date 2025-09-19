@@ -1,0 +1,14 @@
+Oh yes, there is plenty of math in the biological sciences.
+First, there is a lot of statistics especially in the analysis of experiments.
+Also biologists use math in conservation.
+These can be simple and very complicated, requiring computer programs to solve problems.
+Some ecological statistical packages include: PRIMER, SPSS, MINITAB...
+While these are also used for statistical needs in other fields they are definitely used in biology.
+In biochemistry, pharmacology, medicine, and genetics... - math is used all the time to make dilutions, mix the proper amounts of chemicals, experiment with DNA and so on.
+Without math, biology in all its facets would be boring.
+Analysis of Variance is commonly used in environmental sciences, such as ecology, limnology and i'm sure in other areas as well.
+Also, in my first year of general bio, one of my exam questions for a programming course was to write a simple program that could model population growth of bacteria in a sample.
+Knot theory in protein folding, one of the more obscure areas of math, but interesting all the same.
+Lots of math and programming are involved as I've recently found out.
+Is your question "do scientists use math to describe biology" or is it "is math inherrently present in biolgical systems"?
+I think there's a slight but important difference between the two.

@@ -1,0 +1,11 @@
+The IQ test was developed as a standardized test for placement in public education.
+There's a fair bit of evidence that a variety of different intelligence tests all correlated with each other.
+This is all part of a massive amount of evident that there's really a general intelligence, often labeled [g](http://en.wikipedia.org/wiki/G_factor_(psychometrics).
+Now, let's move on to the claim that the Flynn effect is due to increased familiarity with modern technology and education.
+This is an interesting hypothesis at a naive level, and is almost certainly wrong.
+More likely, increased childhood nutrition, less disease, and less stress at young ages has allowed greater brain development.
+See for example [this paper by Eppig et. al.](http://www.sciencedirect.com/science/article/pii/S0160289611000286) which found that in the US higher disease levels correlated with lower IQ and that this result stayed even when one controlled for education and income levels.
+The evidence for the nutrition effect is similarly strong since most of the Flynn effect has occurred on the lower end of the IQ (that is the left end of the bell curve has moved towards the center) which is more consistent with the nutrition hypothesis.
+But the Flynn effect, the apparent increase in intelligence by a variety of tests in the last 70 years, has occurred over much too fast a time period for this to be due to natural selection.
+The author argues that the phenomenon heterosis represents the most likely cause.
+The possibility of heterosis increasing IQ scores is not controversial.

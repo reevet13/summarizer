@@ -1,0 +1,7 @@
+Has anybody seen a report comparing the track record of Weather Channel forecasting (www.weather.com) vs. National Weather Service forecasting (www.weather.gov)?
+However, when I check WC and NWS for tomorrows high, they were simply different.
+Forecasts don't come from the same source, but a lot of raw atmospheric data does.
+For starters, private organizations don't usually run their own numerical weather prediction models or post-processing; that's almost entirely done by the National Center for Environmental Prediction.
+Model output from NCEP and post-processed output is available freely and is the basis for forecasts.
+Oh yes, that is a wonderful question which is the basis of the field of statistical meteorology.
+You'll find many articles in the peer-reviewed literature analyzing if TWC, Accuweather, or other third parties add any value to the NWS forecasts.

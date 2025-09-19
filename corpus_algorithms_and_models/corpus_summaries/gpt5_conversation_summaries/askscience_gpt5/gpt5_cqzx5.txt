@@ -1,0 +1,11 @@
+Now at a particle level, say we have two electrons or identical ions traveling parralel to each other in a vacuum.
+However, my knowledge of relativity also tells me that since all frames of reference share the same physical laws and properties, if we take a frame of reference moving at the same velocity as the particles, the particles are relatively stationary and the magnetic force disapears leaving only the electrostatic force.
+A wire is overall electrically neutral, so you have to model both the positive and negative ions.
+If you switch to the leftward moving frame (moving with the electrons), all of a sudden it appears that all the positive charge in the wires are moving rightward, even though the electrons are now stationary (as the positive ions previously were).
+A magnetic field is created by all moving charged particles.
+It won't eliminate the magnetic effect, but the force of magnetic attraction would be overwhelmed by the electrostatic repulsion of the wire.
+The force per unit length between two wires is F/l = mu0 I^2 / 2pi d.
+The Lorentz transformations for electric and magnetic fields are such that if you change to a frame with no magnetic forces, the electric field will increase proportionately.
+The net effect will be that the physical force, and thus the acceleration, will be identical in both frames.
+Electromagnetism is one phenomenon that appears as an e-field or b-field depending on the frame of reference.
+Parallel currents attract.

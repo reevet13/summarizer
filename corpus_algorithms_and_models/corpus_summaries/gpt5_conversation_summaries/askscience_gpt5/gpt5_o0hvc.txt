@@ -1,0 +1,3 @@
+I know such a list would be positively immense, but I'm wondering if one exists.
+Try looking around on [Metacyc](http://metacyc.org/).
+This isn't likely to exist for some time.

@@ -1,0 +1,13 @@
+The way I understand space travel is as follows; we cannot control a rocket in space as there is nothing to push on, there is nothing to "thrust" on.
+
+Better way of visualizing rocketry, is by net momentum.
+
+You can get a rocket moving as the when the (low mass) gases are propelled downwards with high momentum, the rocket moves upward to keep the net momentum constant.
+
+If you want to think in terms of things pushing on other things rather than in terms of momentum conversation, you can think about it this way: if you were to have a rapidly expanding gas in a closed container, the gas would push on all the walls of the container equally.
+
+Now suppose that one wall of the container is missing.
+
+Now the gas is pushing on the wall opposite the missing wall, but is not pushing on the other side, so you have an unbalanced force.
+
+Same with a rocket, the gas is expanding inside very rapidly, but escaping out the back, so the gas pushing forward is not balanced by gas pushing backward.

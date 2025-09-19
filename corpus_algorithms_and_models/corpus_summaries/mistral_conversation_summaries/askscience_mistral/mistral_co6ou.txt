@@ -1,0 +1,25 @@
+The chances of it hitting earth was 1:233. Now it's 1 in 250,000.
+
+**So there you go, the exact odds of the closest known asteroid to hit earth is 1 in 250,000.**
+
+We currently know around 7-8,000 asteroids that may hit earth.
+
+NASA uses pretty accurate orbit simulations to track the asteroid's path.
+
+we're incredibly limited in our abilities to track the thousands of asteroids that can exist out there that would hit earth.
+
+The NEO group at NASA is collaborating with agencies all over the world, specifically with the Japanese and the European Space Agency, and are constantly scanning the skies 24/7 for it.
+
+Our warning system is as good as it can be, and is constantly getting better.
+
+In all honesty, we're fucked.
+
+Asteroid impacts follow a nice power-law distribution (shown slide 10), where smaller impacts happen at a rate of ~ 1 every hour, catastrophic mass extinction ones happen every ~ 100 million years.
+
+A Tunguska type event (that occurred in the early 20th century) should occur once every 300 years or so.
+
+The annual event should be equivalent to ~20 kilotons (of TNT), and the 1000 year event is equivalent to 60 megatons, and global catastrophe event should occur on the scale of 1-100 million years or so and be equivalent to 50 000 - 100 million megatons.
+
+A 1994 Nature article did the actuarial calculation gives a range wide- range for chance of being killed by cosmic impact being in the range of 1 in 3 000 - 1 in 250 000, with an average of about 1 in 20 000 (similar to chance dying in an airplane crash).
+
+We have tracked most of the mass extinction type collisions, but a lot slips under the radar (e.g., very distant comets, smaller objects where the impact would only be equivalent to small/medium nuclear bombs).

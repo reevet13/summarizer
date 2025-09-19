@@ -1,0 +1,12 @@
+You're hinting at Levinthal's paradox, which basically states that the amount of possible confirmations of a protein are so large, that even a 100 residue amino acid chain would need more time than the universe has existed to fold into all possible confirmations.
+However, we know this isn't the case, as our bodies aren't flooded with denatured proteins in massive proportion.
+Each native confirmation of a protein is the one in the lowest energy state, making it the most stable confirmation.
+Proteins do sometimes misfold.
+There are proteins,  [chaperone proteins](https://en.wikipedia.org/wiki/Chaperone_%28protein%29), that assist the folding process and help correct misfoldings.
+There are local structures, such as the [alpha helix](http://en.wikipedia.org/wiki/Alpha_helix), that form first.
+In terms of thermodynamics, some local structures have a very low energy conformation, so those parts of the protein fall into place very quickly.
+Peter Wolynes describes the process through a folding funnel which is a folding energy landscape.
+There are intrinsically disordered proteins that do not have a conserved fold.
+The first "step" of protein folding is known as "hydrophobic collapse"  where all of the hydrophobic side-chains are forced together by the aqueous environment.
+Fun fact - de novo protein folding predictions are as-yet impossible because the interactions between potentially thousands of atoms in a single molecule is unmanageable.
+I think we understand much of the rationale of why proteins must fold correctly (evolutionary pressure, thermodynamics etc) but we still do not have a complete grasp of it.

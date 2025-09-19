@@ -1,0 +1,14 @@
+I belive it states in the article that alcohol blocks the formation of long term memories, effectively making you reliant on the roughly 30 second span of your short term memory (unless repetition is applied).
+Either way, you won't remember short term memories when you wake up in the morning.
+As far specific activity is concerned, this review mentioned that alcohol affects activity of certain neurotransmitter receptors.
+As far as memory inhibition is concerned, I think one of its most relevant activities is as an agonist of the GABA(A) receptor [1].
+Nothing to do with blood flow.
+In this case, we (generally) are talking about the neurotransmitter GABA, and an ion channel that allows the flow of chloride ions.
+What ethanol does (as well as benzodiazepines, many anaesthetics, barbiturates and a few other things) is increase the affinity that GABA has for its ion channel (i.e. it binds more strongly, think of it like turning up the magnetic strength).
+This means that more ion channels open, and more chloride flows into the cell.
+This means that less cells fire action potentials.
+Brief, high frequency bursts of action potential generation are what (probably) form memories (cells that fire together, wire together).
+By increasing the action of GABA with ethanol, you decrease the frequency of action potentials.
+Which decreases the strength of memory formation.
+TLDR: Ethanol enhances the action of a brain chemical that stops neurons from firing.
+Anything working on molecular cascades is downstream of that.

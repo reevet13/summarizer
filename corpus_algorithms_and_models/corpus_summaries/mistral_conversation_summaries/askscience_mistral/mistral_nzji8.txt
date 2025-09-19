@@ -1,0 +1,13 @@
+Dimples on a surface can lower the effective air resistance of an object through boundary layer effects (for example around a golf ball).
+
+Golf balls are dimples and not holes, the dimples in the ball are more like dips in the surface.
+
+"The air coming out would cause turbulence and not the smooth layer you'd need."
+
+In some situations, a turbulent boundary layer reduces drag.
+
+Aircraft wings have been created with holes and plumbing to suck off the turbulent boundary layer of air near the skin and promote laminar flow.
+
+"the frictional force between the fluid and the surface, known as viscous drag, is much larger in a turbulent boundary layer than in a laminar one because of the momentum losses associated with the mixing action."
+
+Your own linked article says that the dimples cause turbulence, and turbulence is a good thing in this case, decreasing the drag.

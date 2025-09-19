@@ -1,0 +1,21 @@
+Atoms have electrons in shells which interact with the electrons in the shells of other atoms in highly specific ways.
+
+Combining the rules of these interactions with random motions can produce complex structures, like snowflakes and other crystals, or it can produce more fluid, sustained reactions, like those in living creatures.
+
+The whole point of the [Urey-Miller experiment](http://en.wikipedia.org/wiki/Urey-Miller_experiment) was to demonstrate that inorganic molecules known to be present in the early terrestrial environment can spontaneously form amino acids -- the building blocks of proteins.
+
+The fundamental operation of life as we know it is synthesis of proteins, mediated by patterned nucleic acids.
+
+The key is the self-replication: once a sufficiently robust general self-replicating system happens by chance (even once) proper evolution can begin and development of complex life is virtually assured.
+
+The relative rapidity with which life formed as soon as the Earth cooled to suitable temperatures implies a gradual process that led to replicating life.
+
+Conditions on earth allowed for the spontaneous formation of organic molecules.
+
+Lab work has demonstrated that organic molecules can form spontaneously under the right conditions.
+
+Once amino acids are stitched together, they can fold up to form a protein on their own based on their chemical properties.
+
+Phospholipids, the molecules forming cell membrane, will form bilayers spontaneously when placed in water.
+
+So although the exact pathway leading to the formation of life hasn't been determined, it seems feasible to imagine the formation of organic molecules of increasing complexity over time.

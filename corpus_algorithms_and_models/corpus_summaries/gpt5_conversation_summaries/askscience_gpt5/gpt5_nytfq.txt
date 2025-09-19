@@ -1,0 +1,13 @@
+It just seems that if time is a dimension like length and width, we should be able to freely move through it.
+What you're saying would be true if the geometry of spacetime were Euclidean, but it's not.
+It's hyperbolic in the time dimension.
+And one of the quirky things about hyperbolic geometry is that, if you can travel in both directions in the "normal" dimensions, there's nothing you can do to get yourself moving the other way in the hyperbolic dimension.
+If we were able to move backwards through time, we'd be able to violate causality, thermodynamics, and a slew of other laws.
+We can, however, move forward through time at different rates.
+Also, it's very bad to think of time as a dimension like length and width.
+We have no other dimension like the temporal one, we deal with no other theoretical dimensions like the temporal one (see [the privileged character of 3+1 spacetime](http://en.wikipedia.org/wiki/Spacetime#Privileged_character_of_3.2B1_spacetime) for good arguments why there is only 1 temporal dimension).
+We're all time traveling at a pace of 1 second/second.
+It's the temporal dimension.
+"Higher" dimension doesn't really make sense.
+It's a dimension orthogonal to the three familiar spatial dimensions that happens to be related to them in a different way than they are related to one another.
+Height, length and width are 3 distinct spacial dimensions, but we have no other distinct temporal dimension - we just have one, which means it's nearly impossible to compare it to another dimension.

@@ -1,0 +1,17 @@
+How does a machine capture the existence of something smaller than an atom, that barely exists in time, and not just detect it but tells you something of its nature?
+
+You do not directly capture this information.
+
+Instead, you look for some sort of a signature that it was there - specifically what it decays into.
+
+The muon is special as it is very penetrating and can pass through very thick layers of metal.
+
+If you put detectors outside of thick materials, you can stop everything but the muons.
+
+This allows you to identify that a particle is most likely a muon.
+
+You also need to know the energy and momentum of the particle.
+
+The field will bend the trajectory of the particle and by measuring the curvature you can determine its momentum.
+
+Then since you know it is a muon, you know its mass, and you can use Einstein's relationship to determine the energy.

@@ -1,0 +1,11 @@
+Or more broadly, can gravity be used to accelerate something to a speed greater than the speed of light?
+Nope, the lorentz factor will continue to increase as the velocity of the object approaches the speed of light allowing the momentum to tend towards infinity but the velocity itself will never exceed (or reach) c assuming the object has mass.
+Nope; nothing can be made to go from a speed less than light to one greater than light (or vice versa).
+I'd note, though, that in such highly curved spacetimes, how you define velocity is a bit ambiguous in the first place, since distance and time are just coordinates which can be changed as you please.
+There are different answers to what the speed of an infalling object is depending on how you propose to measure it.
+"Black holes are regions of spacetime from which nothing, not even light, can escape.
+A typical black hole is the result of the gravitational force becoming so strong that one would have to travel faster than light to escape its pull.
+Nope. Nothing that has mass can reach the speed of light.
+If I am very far away from a black hole, and I drop an object into it, I will never observe it to cross the event horizon.
+Objects do fall into event horizons in their own reference frames.
+It's the observers outside the black hole who never see this happening.

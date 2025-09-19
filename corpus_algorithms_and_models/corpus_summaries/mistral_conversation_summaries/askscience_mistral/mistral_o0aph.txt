@@ -1,0 +1,15 @@
+Light passes through the structure or is absorbed and then re-emitted in the same direction with the same intensity.
+
+Thanks to quantum mechanics being quantised, electron energies are...well, quantised.
+
+When a photon comes in, it has a certain amount of energy of its own, and may interact with the electrons.
+However, it can only pass on its energy if the electron energy + the photon energy is also an allowed electron energy.
+If not, there is no way for the electron to exist with the new amount of energy, so the photon doesn't interact with it and the material is transparent to that photon.
+
+This is the basic idea behind one of the main causes of non-interaction, but of course in reality things are much more complicated.
+
+A superb example of electron transitions being important is semiconductors.
+These have three areas of electron energies: First, all the low energies may be occupied by electrons, as there are allowed electron states with all of them.
+Second, there is an area of totally forbidden energy, in which electrons just can't exist (the 'bandgap').
+After this is another area where all the energies are allowed again.
+These materials exhibit the property of being mostly transparent to photons up to a certain energy, after which they suddenly become mostly opaque as the photons start being able to push electrons across the bandgap, so they can and do start interacting with the electrons.

@@ -1,0 +1,15 @@
+Well, in QM, it comes as a natural consequence of the QM wavefunction, as far as I know.
+From a physical perspective, it could be due to the necessity to interact with the object in order to measure its properties.
+The uncertainty principle is a consequence of quantum mechanics.
+So by saying that its an inherent property of nature you're saying that nature follows the laws of quantum mechanics and not some other set of laws.
+however, the uncertainty principle is loosely open to different interpretations.
+My explanation is that it describes a fundamental invasiveness of the act of measurement.
+It says that you just can not measure something at a quantum level without leaving it changed in some way.
+Pretty sure it's exactly the same in Many Worlds.
+It's not that measuring is invasive and changes the property being measured, it's just that the probability of the particle actually being where you are looking decreases as you look at smaller and smaller regions of space.
+The uncertainty principle follows as a consequence between the commutation relation between the momentum and position operators [x,p]=i (in fact any non-commutating operators have an associated uncertainty principle).
+The most ''famous'' of the uncertainty relations is the one involving position and momentum.
+But when ever you have ''non-commuting'' observables there is an uncertainty relationship.
+It has to do with the wave nature of particles.
+So the uncertainty principle is really just a consequence of the wave nature of particles.
+Something highly localized in space will be spread out in momentum and something highly localized in momentum will be spread out in space.

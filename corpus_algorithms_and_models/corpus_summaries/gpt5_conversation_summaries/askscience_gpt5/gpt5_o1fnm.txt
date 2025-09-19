@@ -1,0 +1,14 @@
+Because thats all our Eyes evolved to see..
+Bees see into the UV and Cats can see into the Near IR.
+This is correct... by *visual spectrum* we mean the frequencies of light that human eyes detect.
+Our eyes only respond to wavelengths of light between [390 to 750nm](http://en.wikipedia.org/wiki/1_E-7_m).
+Higher and lower wavelengths do not stimulate the rod and cone cells in the eye to transmit signals to the brain.
+Our eyes (and others) evolved to see these wavelengths because they're the ones that penetrate our atmosphere.
+The atmosphere filters out much of the EM spectrum.
+You'll notice that radio waves also travel well through the atmosphere.
+The resolution of our eye is dictated by the wavelength of light.
+From the little picture I linked, the smallest radio waves that penetrate the atmosphere are about 5cm.
+The smallest distance that your eye could resolve is about 5cm.
+We can see them.
+By using specially made machines designed to detect such wavelengths.
+Alternative answer: The visible spectrum is roughly the region of the EM spectrum where the sun emits most of its light.

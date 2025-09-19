@@ -1,0 +1,17 @@
+It's the vibrations from the plane setting up standing waves in the glass.
+
+A ha! This is my specialty exactly. What you're seeing are [Faraday waves](http://en.wikipedia.org/wiki/Faraday_wave).
+
+The vibrations are what's driving them.
+
+And no it has nothing to do with the Coriolis effect.
+
+Strange things can happen on video when the frame rate of the camera and the frequency of the oscillations interact.
+
+The shape of the container at the surface will change the pattern you see, most prominently near the boundary between fluid and container.
+
+In the video I linked to, the swirling isn't due to the bulk liquid rotation, but rather the surface pattern moving.
+
+I can tell you that it is definitely not the Coriolis effect.
+
+The inertia of the water balances with the gravity.

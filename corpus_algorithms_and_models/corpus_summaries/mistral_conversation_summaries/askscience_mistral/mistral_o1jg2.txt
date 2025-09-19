@@ -1,0 +1,7 @@
+If we're talking about a classical gas, the particles will behave according to a [Maxwell-Boltzmann distribution](http://en.wikipedia.org/wiki/Maxwell-boltzmann_distribution).
+
+Temperature is really only defined in equilibrium, and is technically measured by comparing the equilibrium energy distribution to what the distribution would be at a given temperature.
+
+So you'd say something is at 300K if it's energy distribution matches what the distribution should be for that substance at 300K.
+
+When something is in equilibrium, all temperatures should be the same, although each will have its own distribution.

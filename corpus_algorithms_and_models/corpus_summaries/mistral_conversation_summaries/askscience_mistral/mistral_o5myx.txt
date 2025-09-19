@@ -1,0 +1,11 @@
+Yes. Gasses are much more compressible than liquids.
+
+To make a gallon of water, you would need to start with the same number of oxygen/hydrogen atoms as are in the final product.
+
+Compressing something doesn't change its weight, just its volume.
+
+A typical K-size gas cylinder contains maybe 6 or 7 cubic meters of gas, if I remember correctly, once expanded to standard temperature and pressure.
+
+This would then generate 500 moles of water, which works out at about 10 litres.
+
+Gas cylinders though are enormous, heavy, and dangerous, so it's not remotely practical unless you could compress them to a much much higher pressure.

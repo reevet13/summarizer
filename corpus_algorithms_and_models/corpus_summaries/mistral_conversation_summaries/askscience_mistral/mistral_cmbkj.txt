@@ -1,0 +1,17 @@
+The vacuum of space isn't the ultimate exploding force that some movies make it out to be.
+
+At explosive decompression the egg will explode (it has an air chamber, and contents will first degass, then boil), and the result lose water until completely dry.
+
+At slow decompression the egg will crack, and leak its contents, which will lose water until completely dry.
+
+At very slow decompression the egg will remain whole, but will be desiccated.
+
+If we assume an egg's internal pressure to be the atmospheric pressure at sea level, about 14psi, and also assume the egg to be spherical with a radius of one inch to make the math easier we can use the following:
+
+Total outward force = surface area x pressure
+
+total outward force = (4)(3.14)(1in.)^2 x 14psi = ~176 lbs
+
+So for a spherical egg with a 2 inch diameter the total outward force from internal pressure is roughly 176 lbs.
+
+Without the atmospheric pressure to balance things out I doubt the egg could remain intact.

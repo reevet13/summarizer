@@ -1,0 +1,9 @@
+The total energy of the universe is not necessarily zero.
+
+If one assumes that the total energy in the universe is zero, then there would have to be a way of having negative energy to balance all of the positive energy we observe (normal matter, dark energy, dark matter).
+
+We do not have enough information to say for sure what happened before a time shortly after the Big Bang.
+
+The idea that the energy is 0 for a flat universe comes from solving the Friedman's equation.
+
+You also need to take into account the effect of the gravitational energy, given by the left-hand-side of the Einstein equation, and not present in the stress-energy-momentum tensor, i.e. not present in the energy densities.

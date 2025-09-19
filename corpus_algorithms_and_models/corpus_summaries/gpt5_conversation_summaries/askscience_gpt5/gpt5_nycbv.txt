@@ -1,0 +1,5 @@
+One mechanism is that some viruses can establish a [latent infection](http://en.wikipedia.org/wiki/Virus_latency) in some cells.
+A latent infection is one where the infection becomes essentially inactive in all ways, but can reactivate at a later time and start producing viruses again.
+Our immune system can fight some viruses really well.
+These viruses (like a cold) still survive very well by spreading quickly from person to person and by mutating.
+Therefore, HIV is particularly good at mutating and having one of its offspring capable of evading therapy.

@@ -1,0 +1,13 @@
+I posted this calculation in a thread today, which does not take air resistance into account, and seems like nonsense to me too.
+I would like to know what the experts has to say about it.
+You'd also have to take into account that air becomes less dense the further away from the ground you travel
+Friction forces are very important in this case.
+You cannot neglect them.
+What you want to add to your calculation is how smoothly your bullet cuts through the air, or the ballistic coefficient of the projectile.
+From the table, we get that this bullet loses 23% of its kinetic energy when it travels 100 yard (91 meters).
+From these calculations, I get that energy is null at about 1.7 km.
+This is a gross overestimate because I neglected solid friction from the air on the bullet which should become more important at slow speeds.
+In brief, the problem is rather complex because the aerodynamic drag force is not constant - it is dependent on the square of velocity of the bullet.
+Using my numerical solution, I calculated the height to be 4.3 km (this is using a drag coefficient of 0.1.
+A smaller drag coefficient will give a larger max height).
+You will notice that I did not consider that air density changes with height.

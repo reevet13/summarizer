@@ -1,0 +1,3 @@
+Light can escape via frustrated total internal reflection.
+This is not quantum tunneling, although the two are similar.
+One primary difference, the evanescent wave is directly measurable, while it is impossible to directly measure a quantum object in the midst of tunneling (you can only measure it on the other side).

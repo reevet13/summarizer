@@ -1,0 +1,19 @@
+You need a controlled experiment.
+
+You need to show that it is very unlikely that your explanation is false.
+
+To isolate a cause-effect relationship, one must provide convincing evidence that other possible causes are not operating to create the effect in question.
+
+Recall that hypotheses are tentatively accepted as fact, and only after solid evidence is provided.
+
+"Correlation does not imply causation" is a phrase used in science and statistics to emphasize that correlation between two variables does not automatically imply that one causes the other.
+
+So in lay terms, correlation *does* imply causation - it *hints* that one thing might be the cause of another.
+
+What establishes causality is the mechanism of the phenomenon, can you with facts and observation apply mechanics of the process that are self consistent?
+
+There is always some possibility that the result you are seeing is pure chance.
+
+The short version is that proof belongs to mathematics and logic.
+
+Very few scientific disciplines actually prove anything. Most scientific results show evidence for a hypothesis.

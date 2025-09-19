@@ -1,0 +1,9 @@
+How could I control the power?
+
+The spring would want to unwind as fast as possible, but I want to unwind it as necessary according to the speed I like the car to go at.
+
+So can I somehow restrict the unwinding so it slowly unwinds (and then add a gearbox)?
+
+Is there some existing gearbox tech/theories for this kind of problem?
+
+I don't want to put anything like a friction brake on it, as that would be wasting energy.

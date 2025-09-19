@@ -1,0 +1,17 @@
+Gravity affects water the same way it affects solid matter.
+
+Or are you asking about [buoyancy](http://en.wikipedia.org/wiki/Buoyancy)?
+
+When an object is in water the gravitational force on it is *exactly* the same.
+
+This results in a net upward force.
+
+If the object is less dense than water itself then the buoyancy force is greater than the gravitational force and the object will rise.
+
+Note that all this applies to air as well.
+
+Gravity is the mutual attraction of matter.
+
+What changes is your buoyancy.
+
+This causes you to experience weightlessnes underwater depending on how much gear you have on you.

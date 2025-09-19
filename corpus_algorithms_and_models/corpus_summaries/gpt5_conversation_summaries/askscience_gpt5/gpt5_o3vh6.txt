@@ -1,0 +1,10 @@
+I get that light is additive while pigments absorb light, but wouldn't a wave of blue light reflected off a pigment in the end be the same thing as a blue light source?
+From a science point of view, one is a single pure frequency while the other is a combination of several frequencies which *average* to the one you see.
+Adding lights together is [additive](http://en.wikipedia.org/wiki/Additive_color) - that is, the baseline is black and as you add lights, the colors approach white.
+Mixing paints together is [subtractive](http://en.wikipedia.org/wiki/Subtractive_color) - that is, the baseline is white and as you add ink, the colors approach black.
+Pigments work by absorbing light except the frequencies for whatever color they represent.
+They do - the only problem is, I'll bet there's a lot of cross-absorption.
+Instead of thinking of the red and green pigments as tiny, separate pieces, think of them as tiny filters.
+A light beam has a good chance of striking not one, but several filters before emerging to our eye.
+This causes the overall absorption to go down (because each filter is absorbing a lot of the other's reflected rays) and causing brown to be seen instead of yellow.
+In terms of the visible spectrum, "brown" refers to high wavelength (low frequency) hues, yellow, orange, or red, in combination with low luminance or saturation.

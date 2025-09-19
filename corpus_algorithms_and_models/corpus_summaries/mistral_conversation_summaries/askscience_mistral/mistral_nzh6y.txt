@@ -1,0 +1,11 @@
+I imagine precise calculations of planet orbits use center of mass of solar system as the coordinate origin.
+
+The centre of mass is not the centre of the solar system.
+
+you are actually farther than 100,000 miles relative to your same position this time last year.
+
+You'd be 0.256363 times the circumference of the Earth away from where you were last year.
+
+To simplify, you are approximately 7 billion kilometres (4.381b miles) from where you were last year.
+
+The absolutely wonder [HORIZONS](http://ssd.jpl.nasa.gov/horizons.cgi) web interface tells me that the center of the Earth will have drifted close to 1.8 million kilometers, in reference to the Solar System Barycenter.

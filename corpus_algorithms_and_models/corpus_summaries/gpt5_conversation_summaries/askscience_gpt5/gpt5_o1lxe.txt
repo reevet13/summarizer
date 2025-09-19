@@ -1,0 +1,4 @@
+When you heat something, you're giving it (thermal) energy.
+If you double the amount of stuff you want to heat, you have to double the amount of energy spent.
+In fact, if you have a good microwave, it should take 2x as long.
+Energy in = Energy Out.

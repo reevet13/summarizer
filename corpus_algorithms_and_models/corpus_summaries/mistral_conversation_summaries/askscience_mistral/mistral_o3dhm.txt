@@ -1,0 +1,9 @@
+Is this true?
+
+Experimentation might help, but I was wondering if there might be a science-based answer.
+
+First, its not the power that matters. It is intensity.
+
+Second, that 404 nm laser isn't actually lasing at 405 nm. It is an IR laser with a doubling crystal.
+
+This takes a whole lot of power in the IR to do so and this IR could be leaking through. Chances are this is what is felt.

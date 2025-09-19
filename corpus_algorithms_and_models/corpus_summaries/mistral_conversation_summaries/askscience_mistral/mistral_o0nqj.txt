@@ -1,0 +1,15 @@
+There a plenty of other factors you would need to give for anyone to be able to calculate that.
+
+This could be a nasty calculation because it's not obvious to me that the curvature needed to end up with a straight bar would simply be the reflection of how a straight bar is curved by gravity.
+
+This actually comes up a lot in structural engineering.
+
+For long span beams, there will always be a deflection caused by either the self weight of the beam, the dead loads, or a combination of both.
+
+Typically in building codes, there is an allowable deflection limit.
+
+If it is exceeded, one either redesigns the beam or adds a camber (its easier to do this in a steel or wood beam than it is in concrete, but its doable).
+
+A camber is just a slight bend added in the opposite direction of the applied load so it appears straight.
+
+They also do this for airplane wings.

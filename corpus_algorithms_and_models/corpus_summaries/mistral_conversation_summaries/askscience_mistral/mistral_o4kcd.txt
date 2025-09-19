@@ -1,0 +1,7 @@
+I know that galvanic cells have an overall positive reduction potential.
+
+Their Gibbs equation is negative, spontaneous.
+
+I understand Oxidation occurs at the anode and Reduction occurs at the Cathode.
+
+my confusion is over the difference between electrolytic cells and galvanic cells.

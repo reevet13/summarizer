@@ -1,0 +1,12 @@
+I think it is rather simple, B=E/c holds *for waves*, but not in other cases.
+Generally speaking, yes.
+The assumption is that the charges and currents that are the source of the wave are oscillating regularly and that you are observing the fields very far away from the source of the radiation.
+By far away, I mean several hundred wavelengths or so.
+If you are really close to the source, there is the 'near field' zone and 'intermediate field' zone where the E and B fields can take on more complicated forms than outgoing waves of a given frequency.
+You will notice that the only place on your diagram that there is a real difference between the shape of the curve for E and B fields is for *very* low frequency.
+If you have a wave with a frequency of 10 Hz, the wavelength is 30,000 km!
+When the frequency hits 100 MHz on the diagram, the E and B field limits are the same up to some proportionality constant.
+At 100 MHz, the wavelength is just 3 meters, so at that point you are probably far enough from the transmitter to be in the radiation zone and the relationship B = E/c should hold.
+Like Jasper says, this data is for E-Fields and B-Fields, not EM waves.
+Time-varying EM fields are not the same thing as EM waves.
+An EM wave is a combination of oscillating electric and magnetic fields, wheres a time-varying EM field usually refers to -either- an electric -or- a magnetic field that varies in time.

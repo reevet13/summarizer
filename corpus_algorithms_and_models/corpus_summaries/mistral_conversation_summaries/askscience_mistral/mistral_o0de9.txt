@@ -1,0 +1,16 @@
+The answer so far seems to be that it would depend on the distance away from a person and the size of the object, but that the object would have to be moving pretty goddamn quick regardless.
+
+The F-14 Tomcat you could begin to see at about 7 miles out (really good eyes could see it at 8 miles out) . The F-14 is 63 feet long.
+
+So if you could detect an 63 foot long object 7 miles out going 7 miles in 0.05 seconds that is:
+36,960 feet / 0.05 sec = 504,000 mph or 140 miles per second or 225,308 meters/sec
+
+It would also depend on the weather and the lighting.
+
+So a person within 10 feet of me would need to be moving exponentially faster right?
+
+As stated several times, it's more about size & distance, relative to velocity, than pure velocity.
+
+Under normal circumstances, the human eye would never be able to pick up an object so small and close moving at that speed.
+
+According to Wikipedia, although the human eye doesn't have a frame-rate, it can't distinguish between flickers at around 60 FPS... so if something comes in and out of your field of vision in < 1/60 of a second, it theoretically shouldn't be detectable.

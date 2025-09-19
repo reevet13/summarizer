@@ -1,0 +1,1 @@
+tl;dr - OFDM lets a bunch of people use the same piece of bandwidth at the same time without interference from each other or the environment.

@@ -1,0 +1,15 @@
+You are asking about a topic called sensory integration.
+Unfortunately, this is a complicated area.
+Unfortunately, the answer is we don't really know where it happens.
+One way the brain resolves this is through special areas of the brain called "association cortices".
+This helps in the *binding problem*.
+One possibility is through the phenomenon of *synchrony*.
+First off, it takes time for your brain to process incoming information.
+If there is a point at which incoming information is "fully" processed, it is greater than 100 ms for both the visual and the auditory modalities.
+To put some numbers to sensory stimulation, it takes maybe 20-40 ms for auditory information to reach the neocortex (the "thinking, processing" part of the brain), and maybe 80-120 ms for visual information.
+We are always living "in the past" in all of our senses, and our brain is built so that we can automatically compensate for this, and thus, never notice it.
+An interesting series of experiments were performed by Benjamin Libet.
+He found that his subject's brain waves differed up to a full half-second before they felt the first impetus to flick their wrists, meaning that subjectively, the decision was made to flick the wrist well before a person was aware that they were going to do such a thing.
+In retrospect, both of these illusions make sense: the auditory system is better for estimating timing, and the visual for estimating location.
+This is actually a huge problem for tennis referees.
+Their brain compensates for the latency by "seeing" the ball further along its flight path than it is, often resulting in bad calls.

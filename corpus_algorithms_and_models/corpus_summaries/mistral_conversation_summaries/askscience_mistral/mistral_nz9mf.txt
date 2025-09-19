@@ -1,0 +1,13 @@
+Magnetism is a strong force, detectable from even a very low-mass magnet, which is able to overcome the force of gravity here on Earth.
+
+Gravity is a weaker force, which although not strong enough to overcome magnetism even with something as high in mass as the Earth, but on cosmic scales dictates orbits and star formation and so many other things we see.
+
+Is it possible that there is an even weaker force, normally overcome by gravity, and showing so little effect that we don't currently recognize it, but that on the scale of galaxies or other superstructures in the universe, *is* acting to effect their movements in a way not predicted by gravity alone?
+
+The possibility of more interactions than the current four described by the Standard Model and General Relativity exist, however, there is no evidence right now to suggest it.
+
+Congratulations! You've just discovered [scalar-tensor theories](http://en.wikipedia.org/wiki/Scalar-tensor_theory) of gravity.
+
+The idea is to modify Einstein's theory of general relativity by adding a new type of field, called a scalar field, which interacts in some way with the gravitational field.
+
+This scalar would add a "fifth force" which could manifest itself primarily on the largest scales.

@@ -1,0 +1,9 @@
+For what would be a constant acceleration in a Newtonian system, a, the velocity as a function of time is v/c=tanh(a*T/c).
+As speed increases, so does mass, and with force being constant, you'd expect acceleration to decrease.
+As velocity tends to c, mass tends to infinity and acceleration tends to zero.
+So the velocity vs time graph starts off with a positive slope, but slope decreases asymptotically to zero, and velocity asymptotically approaches c.
+In the accelerating object's frame of reference, it would feel a constant force (indistinguishable from a gravitational field) opposite the direction of travel.
+An object doesn't have speed in its own frame of reference.
+The distance would be length contracted by the Lorentz factor where v is the hyperbolic function I described earlier.
+In the accelerating frame, the acceleration still feels constant.
+An object undergoing constant acceleration is [described by a hyperbola on a space-time diagram](http://www.absoluteastronomy.com/topics/Hyperbolic_motion_\(relativity\)).

@@ -1,0 +1,7 @@
+The quantum world operates in probabilities.
+
+Scientific answer: we don't know.
+
+Whilst this is the normal interpretation, it is more scientifically accurate to say **'we don't know whether quantum mechanics is nondeterministic, but if it doesn't, it seems to do so in such a way that we can't tell the difference'**.
+
+Addendum: But we can estimate the probability.

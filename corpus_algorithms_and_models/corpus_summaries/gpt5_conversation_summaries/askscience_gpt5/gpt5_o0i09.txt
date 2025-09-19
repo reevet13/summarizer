@@ -1,0 +1,10 @@
+The big consideration there is the distance at which you're measuring the volume.
+NIHL can be caused by a one-time exposure to an intense “impulse” sound, such as an explosion, or by continuous exposure to loud sounds over an extended period of time, such as noise generated in a woodworking shop.
+On the decibel scale, an increase of 10 means that a sound is 10 times more intense, or powerful.
+The humming of a refrigerator is 45 decibels, normal conversation is approximately 60 decibels, and the noise from heavy city traffic can reach 85 decibels.
+Long or repeated exposure to sounds at or above 85 decibels can cause hearing loss.
+The louder the sound, the shorter the time period before NIHL can occur.
+Sounds of less than 75 decibels, even after long exposure, are unlikely to cause hearing loss.
+Every doubling of distance from source to ear reduces the sound by about 6 dB so if you consider the difference in distance between a headphone and eardrum compared to a speaker and headphone, then you can easily make up for the different initial volumes.
+From the inverse-square law, doubling the distance gives you a quarter the amplitude.
+Every 3 dB drop halves the amplitude, so 6 dB is, as you said, one quarter the amplitude.

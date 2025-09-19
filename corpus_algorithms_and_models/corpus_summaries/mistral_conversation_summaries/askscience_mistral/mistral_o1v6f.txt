@@ -1,0 +1,15 @@
+That is exactly what [Edward Lorenz](http://en.wikipedia.org/wiki/Edward_Lorenz) thought when he was working with early computational weather models.
+
+Lorenz was using a simple digital computer, a Royal McBee LGP-30, to run his weather simulation.
+
+Lorenz had discovered that small changes in initial conditions produced large changes in the long-term outcome.[44]
+
+Lorenz's discovery, which gave its name to Lorenz attractors, showed that even detailed atmospheric modelling cannot in general make long-term weather predictions.
+
+Weather is usually predictable only about a week ahead.[26]
+
+The predictions are definitely getting more accurate with time.
+
+The problem with accurately predicting long term weather patterns arises from the incredible number of factors that come into play.
+
+The further into the future we attempt to predict the weather, the more likely we are to be mistaken.

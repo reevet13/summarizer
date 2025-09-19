@@ -1,0 +1,3 @@
+Asymmetries like this need a better explanation than "it's good enough to be on one side."
+One explanation that *would* make some sense is that with one unaffected eye they could detect gradients that would otherwise be confusing.
+That almost certainly requires more experiments, however.

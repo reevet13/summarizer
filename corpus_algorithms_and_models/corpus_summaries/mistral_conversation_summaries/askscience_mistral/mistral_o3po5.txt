@@ -1,0 +1,13 @@
+We should be talking weight, not mass.
+
+The air, in turn, pushes down on the tupperware and that will have the same effect on the measurement from the scale.
+
+If you have a system that isn't closed, and if you've got a different way for how something's hovering, then this gets more complex.
+
+Indeed, like the scale being right beneath you, but you're freely hovering with two jets 45 degrees down sideways, "missing" the scale.
+
+It depends on how the object is supported in its "hover".
+
+For the example of the flying wasp, it is pushing off of the air contained in the tupperware, so the total mass of the system is unchanged.
+
+If the tupperware is air-tight, then it doesn't matter if the wasp is flying or landed.

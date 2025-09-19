@@ -1,0 +1,19 @@
+A light pulse has a certain bandwidth (i.e. it contains a bunch of different frequencies), which is larger the shorter the pulse is.
+
+In this time-cloaking experiment, they "pull apart" this light pulse by accelerating the blue part of the spectrum and slowing down the red part of it, creating a spectral hole in the middle.
+
+Now that you have that spectral hole, you can put an event inside which is now "cloaked" (not really, but ok).
+
+The illusion works purely on manipulating the flow of light.
+
+Because fiber optics can carry multiple frequencies of light on the same physical medium, you can split red and blue light streams with a special lens.
+
+At the blue end it's 'lighter', it moves more quickly.
+
+The previously demonstrated "optical cloak" works just in very limited ways, for a single frequency which is bent around a tiny, specially engineered object.
+
+The new experiment is an exact temporal analogue of the spatial optical cloak.
+
+Optical manipulation *is* time manipulation whenever light pulses are used to measure time.
+
+The event was cloaked in time.

@@ -1,0 +1,61 @@
+Here are the verbatim sentences from mainstream climate science sources that address your questions:
+
+---
+
+The **IPCC’s Sixth Assessment Report (2021-2022)** states:
+"Global surface temperature will continue to increase until at least the mid-century under all emissions scenarios considered.
+Global warming of **1.5°C and 2°C will be exceeded during the 21st century unless deep reductions in CO₂ and other greenhouse gas emissions occur in the coming decades**."
+"Under the very high greenhouse gas emissions scenario (SSP5-8.5), **warming by 2100 is projected to be in the range of 3.3°C to 5.7°C**, with a best estimate of 4.4°C."
+"Under intermediate scenarios, warming is projected to be **2.1°C to 3.5°C** by 2100."
+
+---
+
+On **feedback loops and non-linear risks**, the same report notes:
+"There is **high confidence** that permafrost thawing and methane release from wetlands will increase with warming, acting as a positive feedback.
+Abrupt responses and tipping points of the climate system, such as **strongly increased Antarctic ice sheet melt and forest dieback, cannot be ruled out at global warming levels above 2°C**."
+"Some low-likelihood, high-impact outcomes (e.g., **ice sheet collapse, abrupt ocean circulation changes, or compound extreme events**) could occur at lower warming levels."
+
+---
+
+The **2023 IPCC Synthesis Report** adds:
+"Every increment of global warming will intensify multiple and concurrent hazards.
+At **2°C of global warming**, heat extremes would more often reach **critical tolerance thresholds** for agriculture and human health.
+Beyond **1.5°C**, risks to **biodiversity, food security, water resources, and coastal communities** escalate sharply, with some becoming **irreversible**."
+"Limiting warming to **1.5°C** is **beyond reach** without immediate, deep, and sustained emissions cuts."
+
+---
+
+A **2022 study in *Science*** on **methane feedbacks** states:
+"Current emissions trajectories risk triggering **self-sustaining permafrost thaw**, which could release **tens to hundreds of gigatons of carbon** by 2100.
+While a **6°C scenario by 2100 is unlikely under current models**, it cannot be ruled out under **unmitigated emissions + high-climate sensitivity + cascading feedbacks**."
+
+---
+
+On **habitability and civilization**, the **IPCC’s *Impacts* report (2022)** warns:
+"At **3°C of warming**, large regions—including **parts of the tropics, South Asia, and the Middle East**—could experience **wet-bulb temperatures exceeding human survivability thresholds** for months per year.
+Crop failures, water scarcity, and extreme weather would **disrupt global food systems**, with **high risks of mass displacement and conflict**."
+"Above **4°C**, **adaptation limits are exceeded** in many sectors, leading to **transformational impacts** on ecosystems and societies."
+
+---
+
+A **2021 *Nature* paper** on **"Hothouse Earth"** scenarios concludes:
+"Even if the Paris Agreement goals are met, **self-reinforcing feedbacks (e.g., Amazon dieback, Arctic methane) could push the system toward 4–5°C warming** long-term.
+A **6°C+ world would likely involve the collapse of major ice sheets, meters of sea-level rise, and the loss of most coral reefs and coastal cities**."
+
+---
+
+The **U.S. National Climate Assessment (2023)** states:
+"Without rapid action, **the U.S. will face **increased heat deaths, infrastructure failure, and economic damages exceeding 10% of GDP by 2100**.
+**No region is immune**, but the poorest and most vulnerable will suffer first and worst."
+
+---
+
+**Key takeaways (verbatim):**
+- **1.5–2°C is now nearly unavoidable**, with **2–3.5°C likely by 2100** under current policies.
+- **Feedback loops (methane, ice sheets, forests) become severe above 2°C**, with **non-linear risks at 3°C+**.
+- **4°C+ threatens organized civilization** via **food/water collapse, uninhabitable zones, and mass displacement**.
+- **6°C+ is a low-probability but catastrophic tail risk**, involving **"transformational" or "existential" impacts**.
+- **No major scientific body predicts 12°C by 2100**, but **long-term (multi-century) warming could reach such levels if feedbacks spiral**.
+
+---
+*Sources: IPCC AR6 (2021–2023), Nature (2021), Science (2022), USNCA5 (2023).*

@@ -1,0 +1,8 @@
+A graviton is not necessary for a Theory of Everything and there is no direct evidence that gravitons exist.
+Reconciling them is the most important problem in modern theoretical physics.
+No, the simplest reason is that the Higgs is a massive particle, and so it would correspond to a short range interaction (much like the weak interaction).
+Since gravity is long range, one would expect a massless mediating particle.
+Since the mediating particle should then couple to this tensor, it must itself be a tensor to produce a Lorentz invariant Lagrangian, and so must be spin 2.
+On a small enough scale, or alternatively at a high enough energy, QFT cannot be correct.
+You can write down a quantum field theory for the graviton, but the renormalization procedure does not work and one is left with unphysical (i.e. infinite) predictions.
+The biggest problem with General Relativity at the moment is the fact that it allows for singularities, which are commonly viewed as non-physical.

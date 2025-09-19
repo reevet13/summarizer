@@ -1,0 +1,29 @@
+It's actually just really hard thing to do, technologically.
+
+Uranium has to be enriched by a factor of approximately 100 (a separation of atoms that differ in mass by about 1% and literally in no other way), and every atom of plutonium we've ever seen has been synthetic.
+
+once you have a critical mass, getting it to detonate is exceptionally difficult - it took possibly the greatest collection of scientific ability ever several years in the NM desert to develop a design that worked.
+
+Criticality is an unstable condition, because the heat and energy generated is always working to disassemble the reactor.
+
+In a bomb, you need to hold the materials together for long enough to release all the energy within milliseconds.
+
+To make a fission bomb, you need either U-235 or Pu-239. Both of these are really hard to get.
+
+Natural uranium is 99.2% U-238, which is not good for bombs, so it has to be enriched to at least 80% U-235.
+
+There are [various enrichment methods](http://en.wikipedia.org/wiki/Uranium_enrichment#Enrichment_methods), all very expensive, time consuming, and requiring large facilities.
+
+If you could get enough U-235, that would be the easiest bomb to make, because all you need to do is make a gun bomb like [Little Boy](http://en.wikipedia.org/wiki/Little_Boy#Assembly_details).
+
+It's easier to get Pu-239, but then it's harder to make a bomb because you have to make a [really accurate spherical implosion bomb](http://en.wikipedia.org/wiki/Fat_Man#Physics_package).
+
+Weapons-grade uranium, or isotope U-235, is a highly unstable form that makes up less than 1 percent (.7 percent) of the concentration of the crude uranium.
+
+Uranium needs to be refined to a concentration of at least 80 percent U-235 to be weapons grade.
+
+Apart from this, another challenging step is to sustain the type of chain reaction necessary for a bomb explosion, the atoms need to be held in a modified state known as “supercritical mass” so that more than one of the free neutrons from each split hits another atom and causes it to split.
+
+The timing/triggering of it is very difficult.
+
+I would argue that the entire problem to building 'my country's first bomb' is acquiring the fuel, not design.

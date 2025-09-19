@@ -1,0 +1,7 @@
+Purely in theory, if actin & myosin were circular rather than linear, they would behave in a rotary fashion.
+
+The blue lines are actin, the red is myosin with the heads sticking off.
+
+At both ends, myosin repeatedly grabs actin & pulls it towards the middle in a ratchet-like motion.
+
+Relaxation is a completely passive state, while in contraction, the action is always to 'shorten' the muscle.

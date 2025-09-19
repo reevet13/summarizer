@@ -1,0 +1,19 @@
+How much do we actually know about how the brain’s signals work?
+
+The brain communicates using a mix of electrical and chemical signals.
+
+Neurons—brain cells—send rapid electrical spikes (action potentials) down their axons, then release neurotransmitters to pass messages to neighboring cells.
+
+The brain doesn’t have a single "code" like a computer; instead, meaning seems to emerge from complex patterns of activity across large networks of neurons.
+
+We can map some brain regions to specific functions—like the visual cortex processing sight—but how the brain *interprets* those signals as a coherent experience (like seeing an image or feeling pain) is still poorly understood.
+
+For your example: yes, researchers have made progress in *decoding* brain activity to reconstruct simple images or even short video clips from fMRI or electrode data—but only in very controlled settings.
+
+These reconstructions are crude, statistical approximations, not exact "readouts" of what someone sees or imagines.
+
+We can’t yet translate raw neural signals into a first-person experience—what it *feels like* to see red, taste chocolate, or recall a memory.
+
+That’s partly because the same neural patterns can represent different things depending on context, and partly because we lack a complete theory of how subjective experience (qualia) arises from physical processes.
+
+In short: we’re getting better at *correlating* brain activity with thoughts and perceptions, but *understanding* the code—or replicating the experience—is still far off.

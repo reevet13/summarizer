@@ -1,0 +1,7 @@
+Stroboscope for high-speed microscopy.
+
+Yes. For example, in my old lab we would look at the oscillations of small bubbles, which were in the MHz range.
+
+We didn't have a camera that could record that fast (I think only one exists, it's in the Netherlands and called Brandaris), so the plan was to pulse a high power laser through the system into the microscope (connected to a highspeed camera), pulsing at a frequency that was just slightly out of phase with the bubble oscillations, so that every cycle you'd see a slightly different phase of the bubble's motion, and could reconstruct it from that.
+
+it's not that it's not powerful enough to not be useful, it's that, at least in AMO physics, you need your lasers to be much more controllable than that.

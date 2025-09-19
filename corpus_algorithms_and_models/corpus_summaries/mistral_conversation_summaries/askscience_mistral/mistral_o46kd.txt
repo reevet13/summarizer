@@ -1,0 +1,7 @@
+About 12 nanoseconds.
+
+Time is slowed by about a factor of about 7000.
+
+That's how long it takes something moving that fast to move 27 km, in its own reference frame.
+
+90 microseconds.

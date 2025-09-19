@@ -1,0 +1,2 @@
+If you have a smartphone, check out Google sky or something similar, it's an easy to use tool that uses GPS to find your position (for accuracy) and the accelerometer to track your movement so that what is displayed on the screen should more or less match up with what stars/planets are around even when you are waving your phone about.
+Download [stellarium](http://www.stellarium.org/), input your location and it will show you what's in the sky at the time and you can search for objects.

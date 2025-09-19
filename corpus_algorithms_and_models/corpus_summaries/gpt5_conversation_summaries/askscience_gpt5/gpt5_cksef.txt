@@ -1,0 +1,8 @@
+I've researched this topic slightly, and I have found [this carbon phase diagram](http://dao.mit.edu/8.231/carbon_phase_diagram.jpg), and with a little research about the temperature and pressure of parts of the earth, I concluded that it might be possible, but I don't know if my data is 100% valid.
+If the "element" is a single atom, then "melting" can't exist (the hardness of an element is dictated by its inter-atomic and mostly inter-moleculary bonds).
+Iron already melts at 1811K(looked it up) already, but i am not sure how that goes up with pressures.
+Anyway, to send it there, you have to weigh it down too, for instance make it hollow and fill it with lead, and then the question arises if this might compress differently, and make the whole thing crack.
+I don't see any way to make it send back a signal, the whole apparatus of measuring generating energy and sending signals would have operate at the whole pressure range, and then send a message through thousands of kilometers of rock.
+Still, even though it operating at the whole range of pressures and temperatures is probably a huge constraint, with nanotech it is very hard to see what it possible, maybe you could make it 'swim' towards a beacon or something..
+I don't think sending a signal from the center of the earth would be very possible, a better system (though, probably much more costly) would be to have a line of certain elements all the way up from the core to the crust that could be used for electricity transfer.
+All of this would only be possible with a good enough insulator, and with an element that both conductive and solid at most or all parts of the decent.

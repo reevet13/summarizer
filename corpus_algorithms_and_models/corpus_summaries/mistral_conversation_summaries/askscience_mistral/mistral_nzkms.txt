@@ -1,0 +1,7 @@
+You fundamentally misunderstand relativity and the [relativistic doppler effect](http://en.wikipedia.org/wiki/Relativistic_Doppler_effect).
+
+The light isn't just being shifted in space (ie you're 'seeing' more/less crests of a wave because you're moving towards/away from the source), it's also being shifted in time via time dilation.
+
+This isn't merely an academic distinction, it makes a world of difference because blindly applying the thought processes used to imagine non-relativistic doppler shifts leads you to the wrong conclusion.
+
+Predictions of relativistic doppler shifts have been experimentally verified to extremely high precision, high enough to discredit any theory that posits more than a one-part-per-billion shift in speed.

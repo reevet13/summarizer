@@ -1,0 +1,13 @@
+No, you've also got nickel, cobalt and gadolinium.
+
+That is generally true, but there are many exceptions, particularly among transition metals and rare earths.
+
+The outermost shell has the most influence on chemistry.
+
+Towards the middle of the table, things get a little messy, and inner shells don't fill all the way before electrons go to the outer shells.
+
+Now, this doesn't explain magnetism directly.
+
+First, each vertical row of the period table corresponds to a shell, so by the time you get to the transition metals, you are starting work on the fourth shell.
+
+Second, shells are divided into subshells...and some of the inner subshells don't come into play until the outer shell starts filling...and even that is not completely regular.

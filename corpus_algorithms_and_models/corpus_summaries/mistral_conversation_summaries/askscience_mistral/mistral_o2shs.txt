@@ -1,0 +1,11 @@
+We do chirped pulse rotational spectroscopy of "small" molecules and their clusters and record their spectra by direct digitization of the molecular emission on a 50GS scope.
+
+some component on the detection end has some small non-linear frequency response and strong lines (and their beat frequencies) can mix with one another to create spurious "Ghost signals" 70dB or so down from the carrier lines.
+
+The better option (IMO) is to try and use the phase information from the ft since the mixing sidebands should be 180degrees out of phase with the real spectrum.
+
+This is a 20us (@50GS) time domain signal from the spectrometer.
+
+The molecules are excited with a linear chirp of 1us and their emission is then collected and digitized.
+
+I am curious if anyone here can actually find the actual pattern to unwrapping the phase so that I can reliably produce a "real" and "spurious" spectrum.

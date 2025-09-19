@@ -1,0 +1,15 @@
+Light can escape via frustrated total internal reflection.
+
+Total internal reflection leaves an evanescent field, which can be coupled to another medium if placed close enough to the reflecting surface.
+
+This is not quantum tunneling, although the two are similar.
+
+One primary difference, the evanescent wave is directly measurable, while it is impossible to directly measure a quantum object in the midst of tunneling (you can only measure it on the other side).
+
+Quantum tunneling has been observed for photons.
+
+The best example that I can think of for observing quantum tunneling would be the scanning tunneling microscope.
+
+Effectively, a circuit is created with a tiny gap.
+
+Quantum tunneling allows electrons to tunnel the gap, and the voltage ensures that the electrons are biased to move in one direction.

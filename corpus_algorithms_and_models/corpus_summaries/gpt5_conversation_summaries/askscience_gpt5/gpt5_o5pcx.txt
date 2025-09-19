@@ -1,0 +1,11 @@
+Say you were transported back in time, or you were a survivor in a post-apocalyptic world, how do you establish a way of measuring things using the SI units?
+Ultimately, it doesn't matter how you define a metre, kilogram, amp etc.
+In that case, the most accurate unit you could calculate would probably be the second as it is defined in terms of the Earth's orbit of the Sun and so could be used as a reference point.
+You could create a very large pendulum, time the number of swings per day and adjust the length of the pendulum until each swing represents a useful number of seconds (e.g. 100 seconds).
+If you can nail down time, you could also use a pendulum to measure distance, since the period of oscillation is approximately related to the length of the arm and gravity.
+Take a string with a mass at the bottom and vary the length of the string until it swings back and forth (returns to the point you pulled it up at) 3600 times in one hour.
+That string defines your second now.
+So let's call 4 times the length of the string of a pendulum with a period of 1 second 1 meter.
+Now you have time and distance, all you need fundamentally is mass, and exactly as others mention, divide your meter into tenths and fill a cubic deciliter with water, and there's your kilogram.
+You can certainly develop a new system of units, and the fundamental equations will still be valid in the new unit system, but to avoid reinventing the wheel, you would need some way to convert between your new unit system and the old SI unit system.
+This conversion isn't possible without very advanced technology or some simple way of approximating the old units.

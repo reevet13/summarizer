@@ -1,0 +1,21 @@
+The total amount of energy is based on only one thing: the height difference between where the water falls initially (say, a mountaintop) and where it ends up (the sea).
+
+Whether you use that height difference in one big dam or many smaller dams, there is a limited amount of possible drop.
+
+Thus a given river can only support so many dams.
+
+Add to that the need for the surrounding geography to be useful, and nearly all the viable hydroelectric sites in the US are already occupied.
+
+There are many problems with hydro that are not widely known or thought about in the public eye.
+
+For example, the most straight forward one is the flood area.
+
+This can cause significant damage to ecosystems and will lose significant amounts of carbon-uptake from vegetation.
+
+Another huge issue (and my area of research) is the discontinuity in allowing fish to migrate freely through the rivers.
+
+Fish passes (such as fish ladders) are currently very ineffective.
+
+There are many cases where a significant amount of people must be relocated where the landscape is more flat as the flooded area will most likely encompass many smaller communities, such as the case with the hydro projects in Quebec.
+
+Just keep in mind that you cannot find a 100% 'green' energy source with the current state of technological innovation.

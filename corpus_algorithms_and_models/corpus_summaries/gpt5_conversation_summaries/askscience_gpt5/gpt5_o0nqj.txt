@@ -1,0 +1,2 @@
+Typically in building codes, there is an allowable deflection limit.
+A camber is just a slight bend added in the opposite direction of the applied load so it appears straight.

@@ -1,0 +1,9 @@
+So lets say you set up the experiment and have a device monitoring which slit the electron went through that would flash an LED Blue if it went through Slit #1 and flash the same LED Red if it went through Slit #2.
+
+Q1. What would happen if you had the LED Monitoring System in place but turned off, would the electrons still pile up like particles or would interference occur?
+
+Q2. What if you turned on the Monitoring System but you covered the LED with black electrical tape so you had no way of knowing which color flashed.
+
+Q3. What if you have the LED turned on and are looking at the LED but you were totally colorblind, and had no way of differentiating red from blue so you personally had no idea what slit it went through.
+
+I guess the real question is; where is the line is drawn and when does superposition becomes a reality.

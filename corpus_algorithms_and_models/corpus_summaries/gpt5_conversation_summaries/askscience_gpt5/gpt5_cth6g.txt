@@ -1,0 +1,2 @@
+Not sure if I'm interpreting the question properly, but what I think it's asking about is the fact that the proton and electron are not bound in this case (since the electron is in the continuum state).
+This means that the combined energy of the single proton and the single electron is higher than that of a hydrogen atom, where the electron is in a bound state with the proton.

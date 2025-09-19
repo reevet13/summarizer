@@ -1,0 +1,5 @@
+Primarily the cause is usually poor quality RCA cables with inadequate shielding.
+Another cause is a ground-loop created when some components of your system are improperly grounded.
+Placing a ferrite bead on the ends of the long cable may also remedy the problem.
+All wires act as pickups for radio stations.
+Ferrite bead on your power line might work.....

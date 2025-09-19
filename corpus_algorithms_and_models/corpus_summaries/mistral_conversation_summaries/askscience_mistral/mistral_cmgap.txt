@@ -1,0 +1,23 @@
+In the scientific computing community, there's an increasing focus on making programming more efficient.
+
+This is due to increasing complexity in three regions: *model complexity, hardware complexity, and algorithm complexity*.
+
+We need better tools in scientific computing.
+
+Here, extremely complex algorithms have been developed to optimize various aspects of this computation and map it effectively to various hardware architectures.
+
+In computational sociology, I'd say there are three main problems.
+
+It has suffered from being subjected to lots of excited dabblers who make up new and untested measures instead of using proven and standard measures.
+
+The phenomena are highly complex and may not lend themselves to modelling at all.
+
+Here, I'd say that scientific complexity and scientific culture clashing are big problems.
+
+The limiting factor here is definitely that the programming models we use today aren't very suitable for hardware that doesn't pretend it's a single-threaded processor from the 1980's...
+
+Right now the big slowdown is input, more over scientifically calibrated input with enough events to test hypotheses.
+
+your computer will do whatever you can tell it to do, but may not halt within a time frame desirable by you.
+
+Things like *best*, *optimal*, *lowest*, and similar qualifiers are red-flags.

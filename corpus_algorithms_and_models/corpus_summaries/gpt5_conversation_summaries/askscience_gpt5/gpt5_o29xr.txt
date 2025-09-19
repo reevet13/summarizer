@@ -1,0 +1,11 @@
+Gravity is independent of velocity.
+Gravity is the curvature of spacetime.
+Actually, the fact that Earth is spinning acts against Earth's gravitation; if Earth stopped spinning, things would get heavier by a small amount (with the magnitude of the increase depending on your latitude).
+Gravity is the effect of the existence of mass.
+Mass tends to curve space and that curvature is what we experience as gravity.
+If you spin a water bottle and the water stays in one spot, thats centrifugal forces keeping it there, not gravity.
+Well, only in a Newtonian approximation.
+In full-on general relativity velocity does factor in.
+The Centrifugal force wants to throw us away from the Earth, but Gravity is what keeps us grounded.
+In general relativity, you can't just use mass, because it's tied in with things like energy and momentum much the way time and space are related.
+So it follows naturally that energy and momentum will also source gravitational fields just as mass does.

@@ -1,0 +1,9 @@
+When a jet flies over, the amplitude of the sound varies drastically--loud quiet loud quiet loud.
+
+I thought initially it has to do with portions of different air pressures transferring sound at different speed, but I think I read that air pressure doesn't affect the speed of sound, but temperature does (I may be wrong).
+
+Air is like a prism for sound.
+
+A jet should be loudest when overhead, but as it moves away, the loudness drops to zero.
+
+The sound waves that were initially aimed at your location are curving upwards, missing the ground, and going back into the sky.

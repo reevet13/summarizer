@@ -1,0 +1,4 @@
+One thing to keep in mind is that within a sarcomere, there are myosin filaments facing both directions.
+In reality, they're **both** sliding across one another, and the only motion that really matters is the shortening of the muscle.
+At both ends, myosin repeatedly grabs actin & pulls it towards the middle in a ratchet-like motion.
+Hmm, that being the case, I don't see an easy way to convert this type of structure to a continuous rotary motion.

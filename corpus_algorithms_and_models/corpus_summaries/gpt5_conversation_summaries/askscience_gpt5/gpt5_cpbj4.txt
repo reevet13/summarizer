@@ -1,0 +1,6 @@
+In a still room, stationary air around your skin warms up closer to your body temperature.
+This creates a thin boundary layer of warm air, so your skin actually "sees" a room temperature that is higher than the ambient temperature.
+Air blown from a fan ensures that fresh, turbulent, room-temperature air is constantly flowing past your skin, providing the greatest temperature differential between your skin and the air immediately next to it.
+Heat transfer rate is proportional to the temperature difference between your skin and the air, so having fresh air flowing past your skin allows for the maximum rate of heat transfer.
+Water evaporates from your skin even when you're not sweating.
+Heat transfer from your skin to the surroundings is more effective (thus making you feel cooler) when there is turbulent airflow in contact with your skin than when there is stagnant, motionless air in contact with your skin.

@@ -1,0 +1,23 @@
+Temperature (heat) is a huge problem because the circuits on CPUs are so small that they are easily burned out.
+
+In general smaller circuits are more efficient because the same signal is transmitted over a smaller distance.
+
+They would be able to support higher temperatures, but they would be much slower.
+
+Size is very important.
+
+CPUs really don't do very much.
+
+It depends on the frequency of the chip.
+
+Small wires are better for speed, big wires are better for heat.
+
+At the end of all of this... it's always a tradeoff, and a smaller chip means you can run it at a higher speed for the same power consumption.
+
+The [Larrabee](http://en.wikipedia.org/wiki/Larrabee_(microarchitecture\)) cpu was a *very* large processor (it had 32 cores of with 4 hardware threads, giving an effective core count of 128 using 16-wide SIMD units), and was something like a [square inch](http://www.pcgameshardware.com/aid,681498/Intel-presents-Larrabee-Wafer-at-the-IDF-Sample-chips-ready/News/).
+
+Interconnect length is the bottleneck.
+
+Wire delay does provide the theoretical lower limit to CPU size, but as other posts in this thread have pointed out, current CPU's are more closely limited by the speed of light.
+
+Right now increasing the power and efficiency of concurrent and distributed systems is probably more important than ramping up CPU power.

@@ -1,0 +1,11 @@
+No, you've also got nickel, cobalt and gadolinium.
+The element neodymium at normal temperatures is not magnetic.
+Nd2Fe14B is the compound that goes into the very strong neodymium magnets.
+That is generally true, but there are many exceptions, particularly among transition metals and rare earths.
+Electrons around an atom are organized into shells, which, very roughly, indicate how far away the electron is from the atom.
+The outermost shell has the most influence on chemistry...that is the reason elements in the same columns have similar properties.
+This holds true so long as the inner shells fill up completely before electrons are added to the outer shells, as happens in the outer 2 columns of the periodic table.
+Towards the middle of the table, things get a little messy, and inner shells don't fill all the way before electrons go to the outer shells.
+Metals tend to get 2 electrons in their outermost shell quickly, then fill inner shells as atomic number increases.
+But that outer shell still dictates a lot of the chemistry, so transition metals and rare earths often show more similarity left to right than top to bottom.
+But it does explain why the Fe-Co-Ni group is more similar to each other than they are to the platinum group metals below them.

@@ -1,0 +1,8 @@
+Is this still a field dominated by $8000 software and GPL CLI PDE &amp; CFD solvers?
+Yeah, most computational fluid dynamics (CFD) programs are ridiculously expensive.
+A Linux distro specialised on modeling.
+OpenFOAM is the CFD unit.
+You can create custom planes using simple shapes.
+I just checked:  $29 for the full retail package.
+The FAA certified version is an extra $500.
+Build 1.7 yourself? Havn't tried it, though

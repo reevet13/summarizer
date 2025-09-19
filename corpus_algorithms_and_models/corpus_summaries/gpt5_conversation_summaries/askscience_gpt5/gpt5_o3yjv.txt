@@ -1,0 +1,7 @@
+As part of a Media Art collective, I am currently looking into ways to get a stable and reliable live 3D model of (human) **movements above / along a large water surface / pool**.
+We're talking about a professional application here, with low-maintenance and long-lifespan requirements.
+But.. I am very unsure about their stability and endurance on the long run.
+So I guess I am looking for an industrial quality Kinect-like range imaging camera.
+Though I am not sure which technique would be best to use (structured light such as Kinect uses, or Time-Of-Flight such as the [SoftKinetic DepthSense](http://www.softkinetic.com/Solutions/DepthSensecameras.aspx), or maybe even something else?).
+- The water surface has a minimum size of 9m * 4.5m, camera range should be somewhere around 6-7m.
+**TL/DR:** Looking for professional alternatives to MS Kinect sensors.

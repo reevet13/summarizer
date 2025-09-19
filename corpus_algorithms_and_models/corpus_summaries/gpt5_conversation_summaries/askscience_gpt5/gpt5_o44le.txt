@@ -1,0 +1,3 @@
+No, it is not possible to predict the outcome of stochastic processes given current conditions.
+You can sometimes estimate within an interval where the value should lie.
+Kalman filtering may be helpful here.

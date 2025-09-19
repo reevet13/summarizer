@@ -1,0 +1,51 @@
+It is current that hurts you.
+
+you need a high voltage for the current to overcome the resistance of your skin.
+
+also be aware that even current less than one amp is enough to kill you if it pass through your heart
+
+It is current that hurts you.
+
+But you have to remember that most power circuits are *voltage sources* with some sort of internal resistance.
+
+So even though the car battery has a very low internal resistance (it can push more current if needbe), it's NOT going to be able to push much current through your skin.
+
+Your 120 volt outlet will send approximately 10x as many amps through you, since the voltage is higher.
+
+The outlet doesn't provide 10 A constantly. It can provide up to 10 A.
+
+The human body has a pretty high resistance, on the order of megaohms(depending on the distance between contact points on the skin).
+
+The thing to add to this discussion is that the human body is not a simple resistor.
+
+Human skin can vary in resistance from 500Ohm to over 100k Ohm (whether its wet, dry, etc).
+
+Voltage doesn't kill, current kills, you just said so yourself.
+
+you can have 100,000 volts but the source generates .0000001A so you are fine.
+
+you have to have enough flow of electrons, aka current.
+
+Voltage without current is not enough.
+
+Current in the absence of voltage (however it gets there) can kill.
+
+As the current approaches 100 milliamps, ventricular fibrillation of the heart occurs - an uncoordinated twitching of the walls of the heart's ventricles which results in death.
+
+The cyclical nature of AC has a tendency to cause muscle contractions that make it harder to let go.
+
+High-voltage DC often causes a large single muscle contraction that throws the victim away from the source.
+
+AC of the same voltage is considered to be approximately 3 times more dangerous than DC, because the cyclic flow of electrons causes muscle tetany that tends to prolong victims' exposure to the source.
+
+The lethality of an electric shock is dependent on several variables:
+
+1. Current (the higher the current, the more likely it is lethal)
+
+2. Duration (the longer the duration, the more likely it is lethal — safety switches may limit time of current flow)
+
+3. Pathway (if current flows through the heart muscle, it is more likely to be lethal)
+
+4. Voltage (the higher the voltage, the lower the resistance and the more likely dielectric breakdown occurs)
+
+The human body is not a simple resistor.

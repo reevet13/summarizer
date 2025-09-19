@@ -1,0 +1,10 @@
+Black holes are a prediction of general relativity.
+As a theory, general relativity starts from the premise that the speed of light is the same in all reference frames, and goes from there.
+A natural result is that space and time are related to one another, and interact in interesting ways.
+We have verified general relativity in many many different ways, finding that it is completely correct in its description of how time is affected by relative velocity, and in how massive objects should show effects such as gravitational lensing.
+Since general relativity works in every situation we've managed to test, and it predicts and describes the observed phenomenon of black holes, we have no reason to doubt that its description is correct.
+To put it roughly, the math says that as we cross the event horizon events cease being separated by time, but start being separated by distance.
+We also lose the idea of causality.
+This happens because the object we use to measure the distance (in both time and space) between two events changes from being time-like to being space-like.
+In our world two separate events must always be separated by a time interval, but they may happen at the same position.
+In world with space-like interval, separate events can happen at the same time, but never at the same position.

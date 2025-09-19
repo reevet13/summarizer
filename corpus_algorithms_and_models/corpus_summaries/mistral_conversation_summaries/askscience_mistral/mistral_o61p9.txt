@@ -1,0 +1,15 @@
+The curvature of spacetime is described by a matrix called the *metric tensor* which has different values at each point in space and time, telling you exactly how the usual Pythagorean theorem is modified to measure distances.
+
+In quantum theory, particles arise as energetic excitations in fields.
+
+Similarly, the metric tensor which describes spacetime curvature is also a field, so in principle it should be able to be quantized as well, and its excitations are particles called gravitons.
+
+You can break General Relativity down to a fundamental idea that a system undergoing constant acceleration is indiscernable from a system within a gravitational well.
+
+General Relativity is saying that Person A and Person B don't just *feel* like they are experiencing the same thing, but that fundamentally (as long as Person B's acceleration is perfectly constant at the correct rate), they ARE experiencing exactly the same thing, in every way.
+
+If it wasn't excitable, that means it would be static and unchanging forever, and nothing would ever happen.
+
+When we quantize fields, we find that these excitations travel across the space of the "QHOs" that make up the field.
+
+A free particle is an oscillation that propagates.

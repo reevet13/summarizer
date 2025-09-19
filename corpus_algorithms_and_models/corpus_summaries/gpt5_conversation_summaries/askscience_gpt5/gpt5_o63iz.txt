@@ -1,0 +1,10 @@
+the CMB is just about at the very limit of what can constitute our observable universe.
+There are some theories some are trying to test that some of the patterns in the CMB could possibly be correlated with out-of-universe things, but I personally don't give it much stock.
+There is a claim that nobody takes seriously that certain patterns in the CMB are evidence of previous universes.
+I don't know about all of this past-universe stuff -- but what I can say is that CMB is absolutely without a doubt the best tool we have to ~~see~~ observe things at the extreme limits of the observable universe.
+CMB observations can take advantage of something called the Sunyaev–Zel'dovich effect in order to survey galaxy clusters in a way that is completely Z-independent.
+I believe this is the only observational technique to do so, and is a big part in being able to determine things like cosmological constants for baryon density of the Universe.
+Simply, the way this works is that hot gases in galaxy clusters with inverse-compton scatter incoming CMB radiation, leaving either bright spots or holes in the CMB that stand out pretty harshly to it's ordinarily obscenely homogeneity.
+I don't know about "another universe" but one thing you might be describing is what are known as "E-modes" and "B-modes."
+These are anisotropies in the polarization of the CMB light.
+Maybe this is the 'ripples' you are talking about.

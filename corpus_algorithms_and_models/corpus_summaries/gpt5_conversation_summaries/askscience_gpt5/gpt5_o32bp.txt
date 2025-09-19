@@ -1,0 +1,10 @@
+Selection is simply the preferential copying of genetic elements that are better at making copies of themselves.
+There are a few different ways it's done, but primarily what you are looking for are stretches of DNA that "look" unusual.
+Strong natural selection has the effect of wiping out most of the genetic diversity in the region surrounding the gene it is acting on^1 so we look for regions that have much lower diversity than would be expected if it was evolving neutrally according to the processes that govern the genome at large.
+These sorts of approaches have proven pretty effective at identifying genes that have faced really strong natural selection, and which exist in one gene/one trait relationships.
+The thing is that most phenotypes that we care about are not likely to be that simple in their genetic architecture, and they are unlikely to have been under selection even close to as strong as the lactase gene has been in the last 10,000 years.
+How can we determine whether or not there are differences in the strength of selection between populations for a given trait, say human height, when there are over 200 genes underwriting that trait?
+This is one of the issues I'm interested in.
+When people ask what the "evolutionary purpose" of something is, what they mean is, "what was the selection pressure that shaped that particular trait to be the way it is today?"
+Proving that a particular trait is adaptive is pretty difficult.
+STATISTICS AND PROBABILITY!

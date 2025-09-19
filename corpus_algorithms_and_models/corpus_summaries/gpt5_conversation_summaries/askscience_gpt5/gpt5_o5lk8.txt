@@ -1,0 +1,9 @@
+[This](http://circres.ahajournals.org/content/109/4/353.full) article highlights the fact that our circadian rhythms are programmed centrally by light - and that it involves [epigenetic](http://en.wikipedia.org/wiki/Epigenetics) changes.
+The feeling of jet lag is a disruption in the light cycle, and returning to a normal light-dark cycle is needed to "fix" our internal clocks/relieve jet lag.
+If the circadian clocks of animals are regulated in the same way, then it would be reasonable to assume that they can experience similar feelings of jet lag.
+So which animals are similar(where on the evolutionary tree did this start and who is on it)?, and for the ones that are not, how do they experience jetlag?
+All mammals are highly dependent on their circadian rhythm and jet lag is much more biological then cultural.
+When you screw with their rhythm which is highly dependent on the most predictable and understandable time measuring device(the sun) combined with a lack of understanding on why their circadian rhythm isn't matching the world around them they will get jet lagged.
+We actually actively suppress our circadian rhythm because of artificial light extending what we consider to be day time.
+I'm not sure of the exact origin (not my particular specialty), but the circadian clock genes and light entrainment of the clock predates the protostome/deuterostome split because we share homologous clock proteins with fruit flies.
+It also seems that fungi and even prokaryotes have light entrained circadian cycles.

@@ -1,0 +1,12 @@
+When I hit the bottle into something then ice begins to form at the collision point until it fills the whole bottle.
+I was just wondering why the two bottles that were poured out didn't freeze.
+If the water in those bottles was legitimately supercooled, I'm surprised they didn't crystallize on pouring into a glass.
+Usually pouring is enough of a shock to promote crystal growth.
+Crystallization is a randomized process, maybe you got the funny end of the distribution.
+We found that the impurities from it being tap water were enough to make supercooling next to impossible.
+Deionized water worked pretty well though.
+If I had to guess about the not freezing, I'd say that the water is barely supercooled and warming up by the time it hits the cups, or the cups are warming it up enough to prevent freezing.
+You need a nucleation point.
+That's what striking the bottle, or adding a seed crystal does.
+If OP is using a thick warm glass with smaller amounts of water, the water may end up not being supercooled.
+For best effect, try freezing the glasses before you pour the water.

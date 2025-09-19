@@ -1,0 +1,4 @@
+Would it be safe to assume that voices have a certain 'vocal signature'?
+If my assumption is true, would it be possible to determine and isolate the 'base frequency'?
+Then on top of that, isolate out the possible 'vocal signatures' and recreate a persons voice.
+I'd love to know if this is possible, or even in the works.

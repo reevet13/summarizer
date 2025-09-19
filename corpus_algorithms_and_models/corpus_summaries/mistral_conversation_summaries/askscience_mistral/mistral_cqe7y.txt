@@ -1,0 +1,11 @@
+Look up some of these, do some reading, then come back if you have specific questions.
+
+They break the DNA to be sequenced into strands and amplify it (as they used to in the shotgun method), but now attach them all to a solid surface and sequence them all together at once.
+
+To do this, they flood the testing area with a mix of nucleotides that have a dyed group attached, which can then be excited with a laser and read.
+
+This dyed group can then be chopped off, leaving a regular-old nucleotide, allowing the process to be repeated for the next base in the sequence, without having to move or mess with the original strands.
+
+The term you're looking for is [Pyrosequencing](http://en.wikipedia.org/wiki/Pyrosequencing).
+
+It's actually the natural state of a polymer when you remove one of its degrees of freedom.

@@ -1,0 +1,15 @@
+Photons are light.
+
+Quantum mechanics says everything exists in discrete, individual levels, and photons are the discrete, individual energy packets that light exists as.
+
+To see at small scales, you need light of a smaller wavelength than what you want to image.
+
+To view atoms, you need a really small wavelength, but also a good camera for the rays.
+
+physics doesn't distinguish qualitatively between visible light and other wavelengths.
+
+Electromagnetic radiation photons differ in energy/wavelength (intrinsically related) and our definitions of 'visible light' and the various colors only human made - and somewhat arbitrary - words representing what the average individual experiences.
+
+We already do that now.
+
+We use x-rays to measure the structure of crystals, because the typical distance between two atoms in a crystal lattice is lower than the wavelength of visible light.

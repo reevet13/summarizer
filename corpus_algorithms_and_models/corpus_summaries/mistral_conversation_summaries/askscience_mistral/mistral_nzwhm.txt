@@ -1,0 +1,9 @@
+Solid. Sand is made up of small crystalline fragments of quartz.
+
+Each particle is itself solid, but collectively all the sand forms something called a [granular material](http://en.wikipedia.org/wiki/Granular_material) that has its own phase-like properties.
+
+Granular materials don't fit neatly into the classic solid/liquid/gas behaviours, but there are quite a few materials which don't.
+
+Arguing over whether sand is a solid or a liquid is akin to asking whether dinosaurs are chickens or lizards - it might make an amusing conversation, but the truth is more complicated, and does not fit the simple categories presented.
+
+Sand is crystalline, therefore it is solid.

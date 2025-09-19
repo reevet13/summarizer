@@ -1,0 +1,10 @@
+I am just curious based on Newton's law of cooling and other science how long it should theoretically take to cook a steak to variable doneness temperatures at various oven temps.
+EDIT: Beef steaks only and temps changed to C per rrauwl's comment.
+When you say 'to cook any given piece of meat', you have to give dimensions.
+Surface area is a factor.
+This is one of those things that is much easier to measure experimentally than it is to calculate.
+To calculate this, you need to know the heat conduction and convection coefficients from the oven air to the steak, and the conduction coefficients through the steak.
+Or you could just take successive measurements of the steak center temperature as a function of time.
+You'd also have to consider the type of cut, since the ratio of fat/muscle could have an impact on cooking time as well.
+Like others have said, it's more complicated than using 3 variables.
+[This paper](http://www.springerlink.com/content/l74318784570634n/fulltext.pdf?page=1) concisely outlines a set of equations that can be used to model meat cooking times.

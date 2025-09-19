@@ -1,0 +1,9 @@
+Why do ACE inhibitors cause an increase in cardiac output?
+
+You are decreasing the peripheral resistance of your circulatory system when you vasodialate (passively) by decreasing AT.
+
+Because your heart is not pumping against as much resistance, the end ventricular systolic volume will be lower.
+
+The end diastolic volume is the same, but you are decreasing the end systolic volume, so the stroke volume increases (which, assuming no compensatory response to HR, will increase cardiac output).
+
+You are also venodialating, so you are not really increasing your central venous pressure (preload).

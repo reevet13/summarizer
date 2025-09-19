@@ -1,0 +1,9 @@
+We assume that the sun and earth formed around the same time, then measure the age of the earth.
+We can measure the sun's mass, energy output, and chemical composition.
+On earth, we can measure the mass of various atomic nuclei, the energy output of various fusion processes, and the age of the oldest rocks.
+Put this all together, and we can start making some reasonable guesses and set upper and lower bounds.
+For example, we know if a star with the sun's mass and energy output were more than about 10 billion years old, it would have burned up its nuclear fuel by now.
+Similar, if the sun were less than a billion years, it wouldn't have had time to create the helium, carbon, and oxygen we can see in its chemical makeup.
+So with a few facts and solid assumptions, we built theories that say the sun is between 1 and 10 billion years.
+With more observations, we can built better theories, tighten those upper and lower bounds until we have a really good estimate: 4.5 billion years.
+There is no easy, one sentence, "the sun is 4.5 billion years old because..." answer you can give your mother.

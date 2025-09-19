@@ -1,0 +1,14 @@
+Does this experiment prove multiple realities/dimensions/existences/universes....?
+Edit: Second question: Does the first question make sense?
+I'm not a physicist, but I'm pretty sure your coworker is wrong.
+Each photon then interferes only with itself.
+Interference between two different photons never occurs
+So basically, if the size of a barrier is about the same size as the electron wave packet, there will be an opportunity for a single electron to interfere with itself.
+To me, this doesn't prove the existence of parallel worlds and realities.
+It's one of the so-called interpretations of quantum mechanics, which is a subject of some controversy, although I happen to think it's the correct one.
+Although really the phrase "parallel realities" is somewhat misleading; there's only one reality, it's just that you, as a portion of the universal wavefunction, can span a space on that wavefunction that includes different outcomes for the same event.
+The most straightforward bridge to me is just that there is an interference pattern, which implies there is interference.
+We have a mathematical model called the Schrödinger equation which reproduces the observed interference effects perfectly, as well as a number of other experimental observations.
+Now, the Schrödinger equation is a partial differential equation, which operates on a function called the wavefunction.
+The important thing to realize about the wavefunction is that it is associated with the state of the entire system.
+So, you see that the concept of the universal wavefunction seems to fall naturally out of the Schrödinger equation.

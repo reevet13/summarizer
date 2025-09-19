@@ -1,0 +1,21 @@
+DNA sequencing is the process of determining the exact sequence of nucleotides in an organism's DNA.
+
+The first human genome sequence, completed in 2003, took 15 years and roughly $3 billion. Now we can do it in 3-4 days for $5000.
+
+A genetic map is made when we determine the order of genes on a piece of DNA.
+
+The closer together the genes are on a chromosome, the less likely it is that they will get scrambled like this.
+
+Essentially, they have been looking at what individual pieces do inside bacteria genomes.
+
+They take a bunch of chemicals, put them in a given sequence that they use a computer to determine, then they inject that into an "empty" cell, and a few hours later the new genome has taken over the cell and rebuilds it to do whatever they want.
+
+For many of the genes, we have had a good explanation of how they affect let's say hair color.
+
+So in short, we have some idea of how many genes influence a complex phenotype like hair color, but we're still far short from modeling how the system might interact and predicting a person's hair color from a set of genes.
+
+Generally when they announce that the genome of a species has been sequenced they mean that the genome of one individual has been "de novo" sequenced.
+
+The human genome project is an example of this and the dna comes from one individual who was chosen randomly from a group that donated samples.
+
+To put it simply, genetic mapping is the process of finding which gene, located where on the chromosome, does what.

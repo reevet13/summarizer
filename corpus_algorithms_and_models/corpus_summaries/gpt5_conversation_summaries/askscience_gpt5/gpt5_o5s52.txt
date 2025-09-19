@@ -1,0 +1,9 @@
+I am a high school physics teacher and in my class I run a speed of sound lab that I found online.
+Students fill a graduated cylinder with water.
+Using a tuning fork, they can create a wave inside the pipe and adjust the height until they hear a maximum at the first harmonic.
+Knowing that the first harmonic is Length of pipe = 1/4 wavelength for a closed pipe, they can find the total wavelength.
+According to the lab L=1/4lambda is not exactly correct, you have add a correction, L = 1/4*lambda + 2/5*diameter of the pipe.
+I have run this experiment before, and correcting for the diameter DOES provide better results, the problem is I don't know WHERE the correction comes from.
+What are the theories/math behind the 2/5*diameter correction?
+The 2/5*Diameter seems to be the height above the end of the tube that you are required to place the fork.
+The sound travels that little extra bit of distance from the tuning fork to the top of the tube.

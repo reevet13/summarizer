@@ -1,0 +1,3 @@
+I'm going to replace universe with observable universe, since there's no reason to believe the universe as a whole is finite.
+A regulation basketball has a radius of about 12 cm, so if the observable universe were the size of a basketball, then Earth would have a radius of about [1/500000 that of a proton](http://www.wolframalpha.com/input/?i=proton+radius+%2F+%28%28radius+of+earth+%2F+radius+of+observable+universe%29+*+12+cm%29).
+If the radius of the Milky Way were 12 cm, then the radius of Earth would be about [1.8 times that of a proton](http://www.wolframalpha.com/input/?i=%28%28radius+of+earth+%2F+radius+of+milky+way%29+*+12+cm%29+%2F+proton+radius).

@@ -1,0 +1,9 @@
+For an incandescent or halogen bulb, the electricity causes the bulb to heat up and glow.
+The off periods cause the bulb to cool slightly, and the on periods cause it to heat up.
+It is dimming and getting brighter, and the average brightness is what you see.
+But even though the electricity is turning all the way off and then back on, the residual heat in the lightbulb will not let it go completely dark that quickly.
+No, the room would not be pitch black.
+Although the power source is rapidly switched off and back on, the light bulb (particularly an incandescent light bulb) keeps emitting light for about a quarter second after the power is out.
+If  you hooked up a photodetector to a scope,  you would see that the light intensity in the room is cyclical, but never falls all the way to zero.
+If the lights are LED, it will be essentially pitch black during the "off" periods.
+If the period of the flickering oscillation is shorter than the thermal time constant of the incandescent filament, the light bulb won't even "know" the difference.

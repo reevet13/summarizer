@@ -1,0 +1,5 @@
+So my question is, what exactly is going on with that?
+
+Yes. The Lorentz transformations for electric and magnetic fields are such that if you change to a frame with no magnetic forces, the electric field will increase proportionately.
+
+Yup. Electromagnetism is one phenomenon that appears as an e-field or b-field depending on the frame of reference.

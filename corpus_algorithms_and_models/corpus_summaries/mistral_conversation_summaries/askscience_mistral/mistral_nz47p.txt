@@ -1,0 +1,9 @@
+In this case, the substitution of the hydroxyl group with the chlorine makes it bind to the receptors more strongly.
+
+It depends mostly on the active site of the receptor you're targeting.
+
+If the -OH group is involved in dipole-dipole interactions, then naturally altering the nature of one of those dipoles will change it.
+
+As explained, the presence of chlorine alters the hydrophobicity of the fructose ring.
+
+Since that's the case, one can make the argument that making the ring *more* hydrophobic would indeed increase the binding affinity.

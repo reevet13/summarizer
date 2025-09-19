@@ -6,7 +6,7 @@ from rouge_score import rouge_scorer
 import sys
 
 if len(sys.argv) < 2:
-    print("Usage: python summarize_ollama.py <subreddit>")
+    print("Usage: python ollama_summarizer.py <subreddit>")
     sys.exit(1)
 
 subreddit = sys.argv[1]
@@ -29,11 +29,9 @@ ollama_scores_csv = os.path.join(
     f"{subreddit}_rouge_scores_ollama_vs_original.csv"
 )
 
-# ✅ Ensure directories exist before doing anything else
 os.makedirs(summary_output_dir, exist_ok=True)
 os.makedirs(os.path.dirname(ollama_scores_csv), exist_ok=True)
 
-print("✅ Directories ready:")
 print(f"  Summaries -> {summary_output_dir}")
 print(f"  ROUGE scores -> {os.path.dirname(ollama_scores_csv)}")
 

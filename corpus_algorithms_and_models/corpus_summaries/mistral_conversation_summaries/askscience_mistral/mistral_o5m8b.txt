@@ -1,0 +1,17 @@
+The worker bees don't mate in general - only the queen does with her male drones.
+
+The bees that the dead bee saves are genetically very closely related to the dead bee.
+
+It's called [Kin Selection](http://en.wikipedia.org/wiki/Kin_selection).
+
+It may not affect an individual bee, but if there were two hives of bees, chances are the hive that was warned off by the smell of their dead would have a higher chance of surviving than ones without.
+
+The queen carries all genetic information.
+
+So all the other bees are her daughters, essentially.
+
+Evolution in some parts of the insect world works pretty differently than it does with the kinds of sexual reproduction we humans are more familiar with.
+
+In this model, it is appropriate to say that the hive as a whole operates as a distinct "evolutionary unit".
+
+The genetic code which causes these individual bees to emit dying warning pheromones is something which provides advantage to this "hive organism" as a whole.

@@ -1,0 +1,11 @@
+The boring part is that Maxwell's equations and the Lorentz force would be slightly modified so that the magnetic field would act sort of like an electric field does around an electron.
+The biggest difference is normal magnets only generate [magnetic field](http://en.wikipedia.org/wiki/Magnetic_field) lines that are loops, that is have no start or end.
+A monopole would have magnetic field lines start or end at the monopole, depending on whether it is a positive/negative monopole (possibly they could be equivalently labeled north or south monopoles).
+One design could in principle use a magnetic monopole to create a magnetic field, have a wire loop rotate in that magnetic field in such a way that the magnetic flux changes with time (the loop shouldn't contain the monopole, but the loop should be rotating above the monopole).
+Then via Faraday's law a electric field is induced in the wire producing an AC current.
+It would induce a magnetic field in a ferromagnet, and depending on its sign be attracted/repeled to other magnetic materials.
+A magnetic monopole has a simpler movement; it is just experiences an acceleration along the direction of the magnetic field lines created by the other magnets.
+The magnetic field around a monopole is the same as an electric field around an electron.
+Because angular momentum is quantized, it implies that electric charge is also quantized.
+At distances larger than the separation of the monopoles, both will work identically.
+No I'm saying that the magnetic field would point radially away or towards the pole.

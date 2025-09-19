@@ -1,0 +1,4 @@
+The shocking answer is yes!
+Case 1: You're wearing your earphones out in the rain, and are doing any activity that builds static electricity.
+Case 2: You're wearing your ear buds in the rain, and you get an electric shock from a lightning strike.
+It would have to be a perfect storm (damp skin that reduces resistance from the normal 100K to 200K Ohms to around 1K Ohms, exposed wiring, a faulty device, etc) to do real damage to a human being.

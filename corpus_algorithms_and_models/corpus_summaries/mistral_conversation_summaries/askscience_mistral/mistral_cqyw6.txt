@@ -1,0 +1,5 @@
+If I understand it correctly, if we only send 1 photon through at a time(using the bottom apparatus), we still get constructive/destructive interference at the 2 exits.
+
+this can be viewed as the photon going along "both" paths.
+
+But what happens if we make 1 of the paths longer(say by bouncing the south path south, then east, then north again so it arrives the same way at the end), do we still get interference if we send only 1 photon at a time?

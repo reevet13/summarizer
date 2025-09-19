@@ -1,0 +1,15 @@
+You have two pipes of water - one on the left side coming from the lake, and one on the right side.
+
+In order for the device to work, the pressure from the left tube raises the weight, and this weight then is able to exert a force on the water in the right pipe.
+
+The problem is that the pressure is the same at valve 1 as it is at valve 2.
+
+Both pipes of water have the same depth.
+
+The pressure in the pipes is proportional to the mass of the water column above the pipes -- that is, above the cross sectional area of the pipes, not merely "above" in terms of flow.
+
+Pressure is force over area.
+
+A thicker pipe has more water in a column above it, for more force, but it also has more area, so the pressure is exactly the same.
+
+The thing still wouldn't work.

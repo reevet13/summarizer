@@ -1,0 +1,11 @@
+A bright laser pointer capable of damaging your eye has an output of > 10mW.
+
+With an average focal area point of about 2 mm^2, so 5 mW/mm^2 or 500 mW/cm^2... (and that is actually focused on the retina to a point about 100 um^2)
+
+And it's quite possible to perfectly ordinary, run of the mill laser pointers with outputs of 50 mW, so that brings out peak light density to 2500 mW/cm^2.
+
+Visible light causes a delayed death of retinal cells, though not actually the photoreceptor cells, but the layers of neurons above them.
+
+With higher intensity light, everything gets cooked.
+
+You get water boiling, which destroys things.

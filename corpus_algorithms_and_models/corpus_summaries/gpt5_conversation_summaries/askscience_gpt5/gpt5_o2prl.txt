@@ -1,0 +1,11 @@
+Astronomers can track star movements across the sky and can estimate distances pretty accurately.
+As long as you had those two pieces of information for your destination and knew how long it would take to travel that distance (to adjust the flight path for the illusion of a distant star's location in the sky) you could navigate accurately.
+One option is to use [pulsars to define cosmic location](http://arxiv.org/abs/0905.4121).
+Individual pulsars are readily identifiable by their rate of spin (pulsation).
+Guiding things in space is surprisingly tough.
+Even to send things to Mars we regularly need to make a variety of course corrections on the way.
+I'd assume that by the time we had ships capable of accurate interstellar travel we'd have a fully detailed map of our entire galaxy.
+We would have to keep a constantly refreshing three-dimensional map of all stars and other objects within our galaxy if we wanted to stand a chance at making safe insterstellar travel feasible.
+For instances where you'd be far away from any 'landmarks' (e.g. stars or nebulae) you would have to rely on triangulation to pinpoint where precisely you are and what exact direction you should head in to get where you want to go.
+The most "realistic" way to get around that problem is to make a series of short trips, re-checking the position at each stop.
+A tiny error from across the galaxy could mean a few light years, but if you are yourself within a few light years, the error becomes much smaller.

@@ -1,0 +1,11 @@
+But on a planet with lower gravity, or a different atmospheric makeup, could larger and larger animals be possible?
+Well we only know about life on earth, so it's hard to say how big life on other planets could get.
+As for your actual question, gravity is a major limiting factor in insect/lizard/amphibian/bird/mammal size - the giant ants in the movie Them! would not have been able to live, largely due to structural failure of the exoskeletons.
+So, body size is a fundamental organismal property closely related to metabolic rate.
+It's going to be highly environment specific.
+There is a whole (contentious) field of study that kind of asks this question called allometry.
+Basically, it says that many things scale at very different rates.
+since your mass increases at a much faster rate than your size, your skeletal structure (whatever that may be) reaches a limit where the skeletal integrity won't be able to support the mass.
+the rate of diffusion doesn't change as mass gets bigger, which means that oxygen diffusion through your body (which happens in all animals - even mammals at the facet of capillaries) will start to be ineffective as you get bigger.
+I read a paper by Van Savage last month that suggested as organisms get larger, they tend to undergo diminishing returns.
+However, at extremes, some people think the organism may hit a proverbial brick wall where any further increase in size begins to increase metabolic cost to a point that is unsustainable.

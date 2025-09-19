@@ -1,0 +1,45 @@
+Building a battery from fruit may be easy, but will require enormous amount of fruit to power your laptop.
+
+A dynamo is unlikely.
+
+A voltaic pile is easier to build, but would not last long under the demands of a laptop.
+
+Lead, copper and sulphuric acid are all ancient tech - that's enough to build a rough lead acid cell which will give you 2V per cell.
+
+10 of those in series and you've got 20V DC which is close enough to the 19V DC most laptops take for it not to matter.
+
+I'd say AC is easier because you have a much wider range of acceptable input voltages.
+
+A dynamo is unlikely.
+
+The quality of magnets at that time was not good enough.
+
+A voltaic pile is easier to build, but would not last long under the demands of a laptop.
+
+You could use the lead acid batteries to power the field coil of a generator(dynamo).
+
+You essentially make a 20V car battery, it has two terminals, and you hook up a wire to each and stuff it into the power port of the laptop.
+
+I think your best bet would be a Baghdad battery set up.
+
+The laptop's mic input can be used as an oscilloscope for low range of frequencies and voltage.
+
+I feel like a multimeter would be really essential to the OP.
+
+The laptop's mic input can be used as an oscilloscope with the a very simple circuit.
+
+You could probably build a generator from a windmill or water wheel.
+
+Building an electric AC generator is basically as simple as spinning a magnet inside a coil of wire (or the opposite, a coil of wire spinning in a magnetic field).
+
+You could use speaker as a pretty simple voltmeter.
+
+You could always try with a whole lot of potatoes.
+
+You could use the lead acid batteries to power the field coil of a generator(dynamo).
+
+You could use the lead acid batteries to power the field coil of a generator(dynamo).
+
+You could use the lead acid batteries to power the field coil of a generator(dynamo).
+
+You could use the lead acid batteries to power the field coil of a generator(dynamo).

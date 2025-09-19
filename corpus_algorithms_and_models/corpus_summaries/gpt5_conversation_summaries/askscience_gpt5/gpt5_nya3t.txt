@@ -1,0 +1,14 @@
+Gravity is not energy.
+Gravity does not supply never-ending energy.
+It is simply a battery of sorts - it can be used to store potential energy.
+You're confusing the terms energy and power.
+Energy is a constant thing, much like mass - power is the flow of energy.
+The earth is a gravity well.
+As things move up out of the gravity well, this requires energy.
+You could extract power from this exchange - for example by putting the weight on a string to a dynamo and letting it fall, you'd turn the dynamo and produce power in the form of electricity.
+**But to produce that power, the weight would have to fall.**
+TL;DR you can move energy into and out of "gravity" in the form of altitude, but you can't produce free power.
+Power comes from energy moving, and without something moving there will be no power produced.
+It is not free because you can't reuse it without putting back the energy you took.
+This is why almost all our energy sources are solar energy if you look back at what stores the energy in the first place.
+From what I know from Classical Mechanics, gravity is a conservative force, and conservative forces have a potential energy field associated with them.

@@ -1,0 +1,16 @@
+I understand that it's an X-linked gene, and that this means that females are more likely to have a functional allele on one sex chromosome.
+I was just reading, however, about how one X chromosome is deactivated early in development.
+If that's the case, it seems like the chance of ending up with the non-functional allele should be the same within both sexes.
+That isn't true, so what's going on here?
+Females are mosaics.
+At the 64 cell stage one X in each cell is randomly inactivated.
+So half the cells express one X and one half express the other.
+The gene that causes this is attached to the X chromosome.
+Men only have one X chromosome, so if they have this gene, they will be colorblind.
+However, women have two X chromosomes, so as long as the other X chromosome is normal, they will be fine.
+For a woman to have red-green colorblindness, both of her X chromosomes would have to have this gene.
+Chimerism usually means one or more tissues is derived from one individual and others are derived from another.
+This is why all calico/tortoiseshell cats are female.
+It's also a good representation of how X chromosomes work.
+The black on [this cat](http://images.mooseyscountrygarden.com/gardening-journals/garden-journal-03/tortoiseshell-cat-photo.jpg) is from one X chromosome, the brown is from the other.
+The unused X chromosome gets rolled up and becomes the barr body.

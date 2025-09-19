@@ -1,0 +1,10 @@
+Say that a space station could be spun to incredible speeds like at least half the speed of light.
+Would time slow down the same for the inhabitants as if they were traveling in a straight line at that speed?
+If a highly advanced civilization could create artificial planets and live on them and send out ships that go near the speed of light but compensate for the slowed time on the ships by having the artificial planets match the time dilation.
+Rotation does in fact produce time dilation.
+For the purposes that you are looking for though, it would not have the effect you want.
+Any time you have a time dilation it is in regards to a specific reference frame.
+Since an object is at rest in its own reference frame, P's non-zero time dilation as measured by S or O could do nothing to offset the time dilation of S as measured from P.
+Rotation is translation everywhere except the axis itself.
+Others have pointed out that this is incorrect, but I'll add that we have actual evidence of time dilation due to rotation: GPS satellites rotate around the center of the Earth, and they experience time dilation, which their software has to correct.
+The rotation of satellites around the Earth is what gives them speed relative to a point on the surface, and that results in time dilation relative to those points.

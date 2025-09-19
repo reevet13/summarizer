@@ -1,0 +1,13 @@
+Was skiing today, and a friend and I were wondering how they make the steel cable into a complete loop.
+Unwrap the strands that make up the ends of the rope, for a couple of meters on each end.
+Wrap the remaining strands together to form one same-thickness rope again.
+Weld the ends.
+The strength is mainly in the friction of the strands being wrapped around one another.
+If the splice is long enough, the frictional forces can be stronger than the regular strength of the wire rope.
+If you notice a painted spot on the ski lift cable, that's the join.
+I shared a lift with a ski lift cable engineer who told me ski lift cable splices run almost the entire length of the cable.
+For one, lift cable strands are twisted.
+Because the length of each strand oscillates between minimum and maximum radius on the bullwheel, each strand is NOT stretched or compressed as the bundle is made to wrap the bullwheel.
+Secondly, the twisting increases the friction between strands.
+This is extremely important as each strand has enough friction to it's neighboring strands that they can support each other in case a strand breaks or is otherwise compromise.
+One technician told to me that they twist the individual strands into each other over a length of about 50m.

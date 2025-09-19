@@ -1,0 +1,4 @@
+The scientific topic responsible for the effects seen here is called superconductivity (discovered in 1911!).
+Superconductors are materials that have zero electrical resistance (not just very low, but zero) and generally expel all magnetic fields.
+This pinning effect means that the instability you would get with ordinary magnetic levitation no longer occurs, hence stable magnetic levitation.
+These types of cooled superconductors are used fairly commonly around the world, for instance in MRI machines.

@@ -1,0 +1,4 @@
+Is it possible to build a filter, like in a gas mask, that filters out carbon dioxide?
+You cannot filter it out in the traditional sense.
+Wikipedia has an article on these machines, which are called [carbon dioxide scrubbers](http://en.wikipedia.org/wiki/Carbon_dioxide_scrubber).
+But that's not filtration.

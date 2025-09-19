@@ -1,0 +1,14 @@
+A [null hypothesis](http://en.wikipedia.org/wiki/Null_hypothesis) is really useful when you are using statistical tests to determine significance.
+The null hypothesis (H_0) is that the initial blood sugar - blood sugar after giving the drug = 0.
+You can also have an alternative hypothesis (H_a) which states that the after drug blood sugar is lower and/or higher than the initial.
+The p-value and t-test tell you with a certain confidence level whether there is a difference.
+When you perform your t-test you reject the null hypothesis with 95% confidence (or whatever yours is), statistically you are looking at one mean and saying that you are pretty sure the location of a second mean is not the same as the first.
+1) There is always a null hypothesis.
+You have a null and an alternative.
+No, you don't get to create the null or the alternative.
+The null hypothesis (H0) is that _there is no reason to suspect that brown-eyed people are any different from other-color-eyed people_.
+It simply says that _these two groups aren't different enough to call them different_.
+The alternative hypothesis (H1) is that _brown-eyed people have a faster reaction time than other-color-eyed-people_.
+You can only reject H0.
+You can't accept it.
+You also can't reject or accept the alternative.

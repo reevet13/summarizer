@@ -1,0 +1,3 @@
+The photons are not stored anywhere, they are created.
+When an electron drops from a higher energy state to a lower energy state, that energy has to go somewhere.
+A photon is spontaneously created that has the exact energy lost by the electron.

@@ -1,0 +1,3 @@
+(pilot here) Theoretically any given airplane could "hover" in the sense that it is maintaining altitude with a groundspeed of 0, however the airspeed would have to be above the aircraft's minimum stall threshold (Vs).
+The only environment where you would find such conditions is in an extremely high headwind.
+The catch is that 150mph winds aren't common.

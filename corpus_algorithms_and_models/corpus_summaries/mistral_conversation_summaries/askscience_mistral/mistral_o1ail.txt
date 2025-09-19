@@ -1,0 +1,13 @@
+Think of the virtual particle more of a mathematical tool and less as a particle.
+
+It's not real, we never see them, and they don't actually fly through space.
+
+I call the virtual particle a mathematical tool because it never manifests itself in reality.
+
+We use them to do calculations, in fact we need them or else stuff doesn't make sense, but we never measure imaginary quantities.
+
+We call the tool a particle because they are solutions to the equations of motion that govern real particles.
+
+What this tool lets us do is calculate forces and interaction between particles.
+
+It's really just sloppiness on our part.

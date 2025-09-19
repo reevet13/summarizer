@@ -1,0 +1,27 @@
+The post about charging your laptop battery in the Middle Ages got me wondering.
+
+There is no good reason why there are 86,400 seconds in a day: it would be just as valid to define a second as the time it takes for Mars to orbit the Sun (but much more awkward).
+
+SI units are great because they're constant across the entire universe (hopefully, and ignoring the kg).
+
+Pick a few standard artifacts that your newly build society will use and work from there.
+
+Find a straight, rigid stick of wood, metal, or whatever, cut it to about the length from the ground to a man's crotch, and ta-da.
+
+A liter is a cubic decimeter, so take that ballheight stick, divide it in tenths, and make a cube that big on a side.
+
+You can standardize voltage against electrochemical reactions between metals.
+
+Take a narrow tube of glass and fill it with mercury or alcohol.
+
+The value for intensity is the foot-candle.
+
+The amount of something is the mole, which is based on the kilogram for macroscopic things.
+
+So now you've got your hours.
+
+So start with making a pendulum.
+
+Now you have time and distance, all you need fundamentally is mass.
+
+Meters Kilograms Seconds.

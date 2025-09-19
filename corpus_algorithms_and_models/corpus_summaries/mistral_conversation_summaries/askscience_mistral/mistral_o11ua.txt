@@ -1,0 +1,14 @@
+Lets say you have 100ml of 'hot' water and add 10ml of 'cold water, the resulting water is 110ml of X heat.
+You also have 100ml of 'cold' water and add 10ml of 'hot' water, the result of this is 110ml of Y heat.
+
+Would X and Y either; be the same temperature? the same difference in temperature from their 'original 100ml'?
+
+The formula is T = (m1⋅T1 + m2⋅T2) ÷ (m1 + m2)
+
+If Hot is 100° and Cold is 10°, X = 91.(81)° and Y = 18.(18)°, so "same difference from original."
+
+If you add 100mL of 90c water and 10mL of 10c water, your final temperatire is (0.1 * 90 + 0.01 * 10) / (0.1 + 0.01), which is 82.7c.
+
+If you flip the quantities, your final temperature is (0.01 * 90 + 0.1 * 10) / (0.01 + 0.10), which is 17.3c.
+
+So, yes, the differences in temperature are the same.

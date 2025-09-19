@@ -1,0 +1,13 @@
+I read on wikipedia that the Big Bang started with an extremely hot and dense state.
+Given the new understandings of dark matter and dark energy that seems to give the universe a total energy of zero, does this require that the initial state was still extremely hot and dense or could the initial state be an unstable, cold nothing, that exploded to create matter, heat and leave negative energy?
+Dark matter and dark energy are not 'negative matter' or 'negative energy'.
+The energy content of the universe is not necessarily zero.
+at 32:45 he says that gravity has negative energy and that the total energy in the universe is zero.
+Krauss is describing one possible interpretation of current evidence.
+We do not have enough information to say for sure what happened before a time shortly after the Big Bang.
+You need the total energy to be 0 if you want a flat universe.
+The total energy density is Omega_tot = Omega_m + Omega_Lambda + Omega_r (but radiation can be neglected).
+The Omega_k term comes up in the Friedmann equation, but is not an energy density, it is simply 1 - Omega_tot.
+And the total energy density does not become zero if Omega_k vanishes.
+These Omega's are the mass-energy densities of the fluxes involved (matter, radiation, etc) but the total energy of the system is not only the sum of those.
+That is why the total energy is zero.

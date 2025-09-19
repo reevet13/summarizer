@@ -1,0 +1,9 @@
+The velocity needed to remain in orbit is equal to the square root of Newton's constant times the mass of earth divided by the distance from the center of the earth.
+
+That means he's going 7-8 km/s.
+
+In space there are no other forces acting on either the shuttle or the guy, so they stay in the same position relative to each other.
+
+If he were to become unable to return to the ship, he would presumably run out of oxygen, or slowly fall into the atmosphere and burn up.
+
+The light from the earth makes the picture very bright.

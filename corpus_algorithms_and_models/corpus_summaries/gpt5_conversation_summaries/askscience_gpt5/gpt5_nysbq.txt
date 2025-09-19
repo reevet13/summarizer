@@ -1,0 +1,14 @@
+There is an upper limit to speed - we all know this.
+My question is, what would happen if you rotated a rigid disc large enough that even slight acceleration near the hub would imply higher-than-lightspeed velocities at the rim using Newtonian physics?
+The disc could not maintain structural integrity.
+Ignoring engineering challenges like the disk ripping apart, the thing would just get closer and closer to the speed of light at the edges without ever reaching it.
+It's the same thing that prevents something from continuously accelerating to the speed of light.
+To use an outdated analogy, the "relativistic mass" that increases with speed is manifested as a "relativistic moment of inertia" that gets bigger and bigger.
+It's not a useful case, because in the physical world you can't even approach infinite rigidity.
+Infinitely rigid objects are impossible in special relativity.
+Because if you had an infinitely rigid object you could swing it and make the ends move FTL.
+In an infinitely rigid object, the elastic modulus is infinite.
+The speed of sound is directly related to the elastic modulus, so it would also have to be infinite.
+Thus, you could send sound waves faster than the speed of light, which is clearly in violation of relativity, so an infinitely rigid object is therefore not a useful case to consider.
+It would require and infinite amount of energy to supply the torque necessary to accelerate the disk.
+At the speed of light the energy required approaches infinity.

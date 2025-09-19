@@ -1,0 +1,14 @@
+IS it possible for an amateur to build a planar array detector for a radio telescope to show positions of sources without scanning?(plans? Links?)
+Basicly I want to see strong sources of radio waves in the sky without scanning the antenna.
+One big issue is wavelength and its influence on antenna size.
+Lower frequencies (longer wavelengths) require larger elements in order to radiate effeciently.
+At ~1.4 GHz ([21 cm](http://en.wikipedia.org/wiki/Hydrogen_line)), your array will get very unweildy very quickly.
+A 30 dB gain array needs about 1000 elements and a 20 dB gain array needs about 100.
+So you can get by with a very simple, reasonably sized dish in this instance where you'd need hundreds to thousands of array elements to build a comparable phased array.
+This is basically not possible because radio waves are too big.
+The way radio images are made is by sampling one pixel at a time.
+Aricebo (the telescope Janus fell into in Goldeneye) had only one pixel for a really long time.
+A few years back they added 6 more receivers and they now have 7 pixels.
+Most radio telescopes are many small dishes that use interferometry to image the sky.
+Each individual telescope still only does one pixel at a time.
+Your pixel size can't be bigger than the actual wavelength of the light, so you would need really big pixels...

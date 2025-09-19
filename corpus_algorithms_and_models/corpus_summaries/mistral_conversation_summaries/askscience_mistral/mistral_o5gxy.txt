@@ -1,0 +1,21 @@
+There's a problem with your dataset.
+
+When you say 'to cook any given piece of meat', you have to give dimensions.
+
+Surface area is a factor.
+
+The second factor to consider is that you say 'meat' and then give the specific example of steak.
+
+Would you like to ONLY consider steak, and not other meats?
+
+This is one of those things that is much easier to measure experimentally than it is to calculate.
+
+To calculate this, you need to know the heat conduction and convection coefficients from the oven air to the steak, and the conduction coefficients through the steak.
+
+I would imagine the density or composition of the meat would affect the heat transfer.
+
+It would be nice to place multiple small sensors throughout the meat and oven and record the temperature changes over time.
+
+You'd also have to consider the type of cut, since the ratio of fat/muscle could have an impact on cooking time as well.
+
+But some work has been done on the matter, and equations have been developed.

@@ -1,0 +1,11 @@
+The uncertainty principle is a consequence of quantum mechanics.
+
+My explanation is that it describes a fundamental invasiveness of the act of measurement.
+
+It says that you just can not measure something at a quantum level without leaving it changed in some way.
+
+The uncertainty principle follows as a consequence between the commutation relation between the momentum and position operators [x,p]=i.
+
+The most ''famous'' of the uncertainty relations is the one involving position and momentum.
+
+So the uncertainty principle is really just a consequence of the wave nature of particles.

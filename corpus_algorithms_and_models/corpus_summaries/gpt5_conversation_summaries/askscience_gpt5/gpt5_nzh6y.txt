@@ -1,0 +1,10 @@
+I imagine precise calculations of planet orbits use center of mass of solar system as the coordinate origin.
+yes, relative to the center of mass of solar system.
+It's worth keeping in mind that the distance from the Earth CM to the Earth-Moon CM is [4,700 km](http://en.wikipedia.org/wiki/Orbit_of_the_Moon), which is comparable to the distance from your house to the Earth's spin axis ([6,400 km](http://en.wikipedia.org/wiki/Earth_radius) if you live at the equator, or less elsewhere).
+You should use NASA's HORIZONs service to get the answer to this.
+As you suggested, the earth goes around the sun in 365.256363 days.
+However you would be  .256363 of an earth rotation away.
+You'd be 0.256363 times the circumference of the Earth away from where you were last year.
+Depending on your latitude, this could be up to 10,000 km.
+Every body in the solar system is moving in response to forces exerted by every other body.
+The absolutely wonder [HORIZONS](http://ssd.jpl.nasa.gov/horizons.cgi) web interface tells me that the center of the Earth will have drifted close to 1.8 million kilometers, in reference to the Solar System Barycenter.

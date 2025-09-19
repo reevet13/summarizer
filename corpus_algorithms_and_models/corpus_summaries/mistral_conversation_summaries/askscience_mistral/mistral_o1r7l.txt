@@ -1,0 +1,19 @@
+the temperature actually [goes down and up quite a bit](http://en.wikipedia.org/wiki/Comparison_US_standard_atmosphere_1962.svg).
+
+In the lowest layer, the air is heated by the ground, which absorbs light from the sun.
+
+Pretty sure it's mostly the lower pressure which result in lower frictions.
+
+The heat in the troposphere mostly comes from sunlight getting absorbed by the ground.
+
+If you take a piece of air at one altitude and move it to a higher altitude, that piece of air will have a lower temperature because of [adiabatic cooling](http://en.wikipedia.org/wiki/Adiabatic_process#Ideal_gas_.28reversible_process.29).
+
+This is correct. In layman's terms, when the hot air rises, it encounters air of much lower pressure, so the hot air expands.
+
+As you increase in altitude, the temperature drops significantly.
+
+once you enter the stratosphere (which harbors the ozone layer) the temperature begins to rise again, eventually reaching surface temperature levels.
+
+if you keep increasing your altitude you will pass into the Mesosphere where the temperature drops significantly.
+
+if you CONTINUE to climb you will enter the Thermosphere, where, as the name suggests, the temperatures soar, sometimes above 300 degrees Celsius!

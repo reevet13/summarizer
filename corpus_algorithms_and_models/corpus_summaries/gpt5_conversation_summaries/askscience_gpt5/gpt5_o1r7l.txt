@@ -1,0 +1,15 @@
+hot air at roughly the same pressure as surrounding air goes up, yes.
+but with height, you also decrease pressure (exponentially) and decreasing pressure causes temperature to drop (that's one part of how the fridge works).
+however, it is slightly more complicated, since the thermodynamical state also depends on composition (i.e. weight of individual particles that constitute the gas).
+also, the initial statement is not necessarily true.
+Pretty sure it's mostly the lower pressure which result in lower frictions.
+The heat in the troposphere mostly comes from sunlight getting absorbed by the ground.
+If you take a piece of air at one altitude and move it to a higher altitude, that piece of air will have a lower temperature because of adiabatic cooling.
+Therefore, the actual rate of temperature change will depend on the adiabatic lapse rate, which the calculated rate that a piece of air will drop in temperature as it rises (about -9.8°C/km for dry air and -5°C/km for wet air).
+the temperature actually goes down and up quite a bit.
+In the lowest layer, the air is heated by the ground, which absorbs light from the sun.
+This expansion causes the air to cool.
+As you increase in altitude, the temperature drops significantly.
+However, once you enter the stratosphere (which harbors the ozone layer) the temperature begins to rise again, eventually reaching surface temperature levels.
+However, if you keep increasing your altitude you will pass into the Mesosphere where the temperature drops significantly.
+If you CONTINUE to climb you will enter the Thermosphere, where, as the name suggests, the temperatures soar, sometimes above 300 degrees Celsius!

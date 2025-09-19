@@ -1,0 +1,19 @@
+Relatively close stars are measured with paralax.
+
+Things that are farther away are measured with what are called standard candles, where we compare how bright something looks with how bright that type of thing actually is.
+
+Because of the expansion of the universe, stars that are more distant get away from us at a faster speed that are closer to us.
+
+The doppler effect tells us that objects that go away from us emit light that is shifted toward lower wavelengths.
+
+Now, if we combine this with the fact that all elements can be characterized by the light they emit or absorb, we can look at the specter of a star, look at how much shift it exhibits from known elements, calculate from this how fast it is going, then from this calculate how far it is.
+
+Our most reliable standard candle for extragalactic distances is a supernova 1a.
+
+Hubble's constant is about 70+/-2 km/s/Mpc so an error of about 3%.
+
+The relative motion of galaxies is high, andromeda has a speed of 300 km/sec and is only one Mpc away.
+
+This makes any measurement of stuff nearer than a 100 or so Mpc pretty inaccurate.
+
+You should also note that nearby stuff isn't actually moving apart with the expansion of the universe since there is strong enough gravity between us and our nearest galaxies to hold us together.

@@ -1,0 +1,7 @@
+Would it be safe to assume that voices have a certain 'vocal signature'?
+
+Which would be why we are able to determine Morgan Freeman's voice from Stephen Fry's.
+
+If my assumption is true, would it be possible to determine and isolate the 'base frequency'?
+
+Then on top of that, isolate out the possible 'vocal signatures' and recreate a person's voice.

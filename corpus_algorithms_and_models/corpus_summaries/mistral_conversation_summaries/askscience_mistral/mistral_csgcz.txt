@@ -1,0 +1,5 @@
+The temperature will not cool down with a fan, in fact it will slightly increase due to the power consumption of the fan generating heat.
+
+With the fan it will feel cooler to the skin as (a) your body generates heat around you more than the area in the rest of the room, and (b) if you are sweating the air the air around you will be more humid.
+
+So don't leave on fans in a room when you aren't in them if you are trying to cool the room down.

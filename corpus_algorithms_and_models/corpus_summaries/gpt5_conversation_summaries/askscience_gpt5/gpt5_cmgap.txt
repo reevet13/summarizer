@@ -1,0 +1,13 @@
+In the scientific computing community, there's an increasing focus on making programming more efficient.
+It's a recognition that the time spent programming is often a bottleneck in the production of science.
+This is due to increasing complexity in three regions: model complexity, hardware complexity, and algorithm complexity.
+Using double precision complex floating point, that's 16 * 100^12 bytes (or 16 * 10^4 GB) of memory just to store the solution.
+So while the model complexity remains pretty much constant, algorithm and hardware complexity makes programming a challenge and there's a very high demand for hardware.
+Here, I'd say that scientific complexity and scientific culture clashing are big problems.
+It varies; but none of these are really bottlenecks as the constraints are known ahead of time and the design of the experiment works around them, so they don't bottleneck it.
+Right now the big slowdown is input, more over scientifically calibrated input with enough events to test hypotheses.
+You're forgetting one: lack of expertise.
+There are a lot of scientists in various fields that just don't have the programming knowledge to take advantage of potential computational models.
+I'm going to hazard a guess that computational complexity is a big hurdle for people unfamiliar with the theory of computation.
+This is a property of the problem you are trying to solve, not the computer you are using to solve it.
+Things like best, optimal, lowest, and similar qualifiers are red-flags.

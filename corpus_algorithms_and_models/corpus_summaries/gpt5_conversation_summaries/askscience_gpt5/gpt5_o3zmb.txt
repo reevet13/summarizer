@@ -1,0 +1,10 @@
+If I take a very strong 1 gallon container to the bottom of the Marianas Trench (35800 ft) fill and seal it and return to the surface, how much water will I have?
+The bulk modulus (how much something compresses when it's squished) of water is 2.2 gigapascals, while the ocean depths are about 0.1 gigapascals. That means it compresses by about 5%.
+How much water would be in the container then, 1 gallon plus 5% of a gallon? Basically.
+But the deep ocean is [about 2 C](http://en.wikipedia.org/wiki/Deep_ocean_water). Moving water up to 20 C will [decrease its density by about 0.25%](http://www.engineeringtoolbox.com/water-density-specific-weight-d_595.html).
+In practical terms, it's essentially uncompressable, but like most things you were taught about physics in High School (or many intro college courses for that matter), there are caveats and simplifications they don't tell you about.
+Practically speaking, the amount of force needed to compress water is so large that we tend to think of it as not being compressible at all.
+This is not literally true though and under extreme pressures (like at the bottom of the Marianas Trench) water will be compressed slightly.
+If we compress it isothermally from room-temperature, at about 1 GPa of pressure (145,000 psi) it will turn from liquid to Ice VI.
+For a measly 5 percent gain you would introduce all the complexity required of compression. Not worth it.
+Still a gallon, just denser.

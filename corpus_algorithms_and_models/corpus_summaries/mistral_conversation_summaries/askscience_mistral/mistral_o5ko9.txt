@@ -1,0 +1,15 @@
+The explanation is that the heated air inside the bottle cools down after the flame is snuffed out from lack of oxygen inside the bottle, and as the air cools, it shrinks and the outside pressure pushes the egg in.
+
+Candle wax is something like C25H52, some HUGE hydrocarbon.
+
+1 C2H6 + 3.5 O2 ---> 2 CO2 + 3 H20
+
+because C2H6 is a solid or liquid prior to combustion is does not contribute to the pressure.
+
+So you have 3.5 mols of gas before, and 5 mols after.
+
+This will mostly occur after the jar cools, since while the candle is burning the air will be hot and the water will be gaseous.
+
+Thus, the reduction in pressure would be a result of the combined effect of thermodynamic cooling of all gasses trapped inside and the condensation of the water vapor.
+
+Yes, the egg gets sucked in after the flame goes out and it begins to rapidly cool, the cooling is why the egg gets sucked in.

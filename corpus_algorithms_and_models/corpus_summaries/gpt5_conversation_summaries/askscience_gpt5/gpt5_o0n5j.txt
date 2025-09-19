@@ -1,0 +1,13 @@
+If you're in a plane that loses pressure at altitude, you have somewhere around ten seconds to get an oxygen mask on before you lose consciousness.
+The ten second figure is given as a safe guideline to get your oxygen mask donned before you start experiencing the effects of hypoxia, which might cause you to not realize anything is wrong and then forgetting about why that mask is dangling in front of your face in the first place.
+Agreed that hypoxia requires quick action, but NASA also had an accident where someone exposed to vacuum lost consciousness in a measured 14 seconds.
+It's not just like holding your breath, the oxygen will literally get sucked out of your bloodstream.
+Gasses (oxygen) dissolve in water (blood).
+Hemoglobin just acts as a reservoir for replenishing dissolved oxygen; it's the dissolved oxygen that our cells use.
+Hemoglobin will liberate oxygen *very* rapidly as needed; it's what it has evolved to do.
+So we can treat it as a simple reservoir, instantly replenishing dissolved oxygen until the reservoir is depleted.
+Suddenly, loss of pressure...outside is ~1/6 atm so we're talking 2.5psi.
+You have ~14psi of air still in your lungs from when you had cabin pressure, but now there's only 2.5 psi keeping it in.
+You exhale, you don't have much choice.
+Once you get below ~30% of your carrying capacity, you most likely die because your cells can't pull enough oxygen out of your blood fast enough to keep themselves going.
+So your lungs are just dumping oxygen out of your bloodstream because the partial pressure of oxygen from the air isn't there any more, and the time to unconsciousness is basically when the deoxygenated blood from your lungs hits your brain.

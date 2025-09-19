@@ -1,0 +1,11 @@
+Relativistic equations talk about conservation of 4-momentum.
+A four-vector is formed of the energy and momentum, combined, which is the conserved quantity.
+So, four-momentum is conserved.
+Lorentz invariant quantities are independent of the frame of reference.
+For every symmetry, there is a corresponding conserved quantity.
+This energy E is conserved in a given reference frame (though it won't have the same value across different reference frames).
+However, in full general relativity the situation is changed, and in many cases there is no conserved energy.
+In special relativity, physics is time symmetric, but in general relativity you can have time asymmetric physics, the most prominent example being the expanding Universe.
+When I talk about physics being time symmetric, I just mean that the equations describing how particles behave don't change over time.
+In GR, local conservation of energy is expressed as the [stress tensor](http://en.wikipedia.org/wiki/Stress-energy_tensor) being divergence free.
+Furthermore, if your spacetime admits a timelike [Killing vector](http://en.wikipedia.org/wiki/Killing_vector_field) you can construct a globally conserved quantity which can be considered to be the energy (and similarly, translational and rotational Killing vectors give rise to globally conserved momentum and angular momentum).

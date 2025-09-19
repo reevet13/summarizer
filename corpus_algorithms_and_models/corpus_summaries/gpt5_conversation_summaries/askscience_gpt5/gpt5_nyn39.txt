@@ -1,0 +1,11 @@
+The hypothalamus gland, located at the base of the brain, controls internal body temperature.
+This gland responds to sensory signals from temperature receptors in the skin and deep inside the body.
+The hypothalamus establishes a "set point" for the internal body temperature, then constantly compares this with its own actual temperature.
+If the two temperatures do not match, the hypothalamus activates temperature-decreasing or temperature-increasing procedures until the temperatures are equalized.
+The body uses a negative feedback loop to then regulate the temperature if need be.
+It basically says that vasodilation at the skin surface and sweating cool a mammal down, while shivering and/or vasoconstriction and increasing basal metabolic rate via hormones (like from the thyroid) warm an animal up.
+One thing to note is that "precise temperature control" is relative, not absolute.
+You may be born/programmed/whatever to have an initial temperature range of X to Y, but if your internal temperature was made to be at Y to Z for long enough, you would "reset," assuming that Y to Z doesn't kill you.
+Your anterior hypothalamus detects *differences* from a set point and changes behavior to return to that set point.
+Through a mechanism similar to having a watch on your wrist for so long that you eventually stop feeling it (conditioning) the hypothalamus stops detecting differences from the old set point and resets to the new, current point.
+Actually, if you were to take your own temperature throughout the day, you would observe it fluctuating, part of your natural circadian rhythm (colder when you sleep, warmer right after you eat)

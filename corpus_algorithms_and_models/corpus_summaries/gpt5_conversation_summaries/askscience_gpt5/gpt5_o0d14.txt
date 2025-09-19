@@ -1,0 +1,7 @@
+Kelvins are part of the [Système International](http://en.wikipedia.org/wiki/International_System_of_Units), and were intentionally named _Kelvins_ and not _Kelvin degrees_ as part of that system.
+The 13th CGPM changed the name to simply "kelvin" (symbol K).
+The omission of "degree" indicates that it is not relative to an arbitrary reference point like the Celsius and Fahrenheit scales.
+It's worth noting that a temperature difference of 1 Kelvin is equal to a temperature difference of 1 degree Celsius.
+The only differences between Kelvin and Celsius are the point that is designated as being zero temperature (0 Kelvin = -273.15 degrees Celsius) and the fact that the word "degree" isn't used with kelvin.
+Until the 13th General Conference on Weights and Measures (CGPM) in 1967–1968, the unit kelvin was called a "degree", the same as with the other temperature scales at the time.
+Rankine is also an absolute temperature scale, but R still represents "degrees Rankine", even though the degree symbol isn't used.

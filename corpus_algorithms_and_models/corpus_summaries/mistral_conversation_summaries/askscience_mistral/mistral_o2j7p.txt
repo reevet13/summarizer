@@ -1,0 +1,11 @@
+In dolphins, the sense of smell seems to have been lost.
+
+[A]quatic mammals such as dolphin, [have] a reduced olfactory apparatus [and only] olfactory receptor pseudogenes.
+
+I assume that it is the same for whales.
+
+Smelling doesn't work well underwater because diffusion coefficients are typically 10,000 times less than in air.
+
+Yes.
+
+They seem to have evolved so that each nostril perceives scent slightly differently than the other so they can detect small differences in gradients, and thus ascertain the direction the smell is coming from.

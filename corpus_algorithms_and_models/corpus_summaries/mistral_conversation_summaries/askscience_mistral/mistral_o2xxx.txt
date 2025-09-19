@@ -1,0 +1,23 @@
+If you have something with mass, then it goes closer to the bigger mass (in this case the sun), right?
+
+Basically, your question is "how do things stay in orbit," right?
+
+The short answer is because the things are moving really fast.
+
+Another way to say that, is the the centrifical force of the Earth in orbit around the Sun is the same as the gravitational pull of the Sun
+
+the basic rule of physics is, that nothing happens unless it has some reason to.
+
+Perhaps this way you can more intuitively see that the apple/planet keeps going because at each position it's already moving in a direction that's *not* towards your hand/the sun.
+
+It turns out that this is stable for lots of different orbiting shapes, not just a circle, though other ones can't really be done with your piece of string.
+
+Orbit is one of the properties of gravity, as I guess you could say.
+
+"An object in motion (being pulled by the sun) will remain in motion unless acted upon by another force" - Newtons 1st law
+
+The average distance from the Earth to the Moon is 220000 miles.
+
+the force of gravity due to the Sun only changes by 0.002%, barely anything!
+
+the forces on the Moon are the same. It is orbiting where it wants, but if it gets pushed away from the Earth a little bit, there is a restoring force to place it back where it goes.

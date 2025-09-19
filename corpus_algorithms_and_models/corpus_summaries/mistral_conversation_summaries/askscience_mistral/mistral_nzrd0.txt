@@ -1,0 +1,17 @@
+You can't use entanglement to transmit actual data.
+
+You send one box to your friend on another planet (slower than lightspeed; the boxes are just boxes, after all).
+
+Once it arrives there, you could open the boxes and instantly determine which box contains the red sock.
+
+Since your friend can determine whether the sock boxes were interfered with before he received them, this allows you to transmit your orders with mathematically perfect security.
+
+This has actually been done (with pairs of entangled photons), but the equipment is expensive and prone to interference.
+
+It is possible for quantum events to influence each other in a way that would require faster-than-light travel, but no useful information can be transmitted by such means.
+
+It is possible to extend the sock box experiment with a machine that, at the press of a button, makes it so that both socks are the same colour (instead of different colours).
+
+Still, when we both meet up and compare notes, we will have to conclude that some sort of FTL signal was transmitted.
+
+It's just that you can't carry information that way.

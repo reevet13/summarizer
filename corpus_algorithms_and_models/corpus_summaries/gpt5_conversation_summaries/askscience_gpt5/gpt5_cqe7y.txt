@@ -1,0 +1,9 @@
+Instead of using radioactive markers and using chain termination to create copies of DNA that can then be sequenced, how close are we to taking a cell, pulling out the nucleus, sticking it under a scanning tunneling electron microscope, and getting a ticker-tape output: AAGCTTCGAGAA...
+- so called "second-generation" sequencing, with platforms by 454, Illumina, life technologies (AB SoLiD), and Complete Genomics.
+- third-generation or single molecule sequencing platforms by Helicos and Pacific Biosciences.  These are closest to what you describe above, where you're reading from single molecules of DNA.
+The above are all either in use or in early previews.
+There are also technologies that are farther away, based on using nanopores.
+To summarize, they break the DNA to be sequenced into strands and amplify it (as they used to in the shotgun method), but now attach them all to a solid surface and sequence them all together at once.
+To do this, they flood the testing area with a mix of nucleotides that have a dyed group attached, which can then be excited with a laser and read.
+Here, the term you're looking for is [Pyrosequencing](http://en.wikipedia.org/wiki/Pyrosequencing). 
+I actually work on a project where we stretch DNA out in a nano-sized channel, and then melt it slightly so that the AT bonds melt but the CG ones don't, and you get a 'barcode' of melted and unmelted bases.

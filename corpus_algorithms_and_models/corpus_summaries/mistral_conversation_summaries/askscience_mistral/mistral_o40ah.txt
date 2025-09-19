@@ -1,0 +1,17 @@
+You cannot filter it out in the traditional sense.
+
+Molecules of carbon dioxide are about 3.3 angstroms long.
+
+This is very small.
+
+Nitrogen, the most common gas in our atmosphere, is about 3.6 angstroms long.
+
+So even if you could build a filter with pores that size, it would be hard to differentially pull out certain gases and not others.
+
+The central issue here is energy.
+
+Carbon fixation is very energetically costly, and although it's completely possible to build a system of some sort that would do it (it would be a little more complicated than just using a filter, though), you would need tons of energy in order to power it.
+
+There are other ways to withdraw carbon dioxide from the atmosphere.
+
+Most of them involve absorbing in into other materials or consuming it in chemical reactions.

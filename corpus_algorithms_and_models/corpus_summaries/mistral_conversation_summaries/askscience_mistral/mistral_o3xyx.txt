@@ -1,0 +1,11 @@
+Yes.
+
+Conduction through the satellite itself to the cold side where it then radiates away.
+
+Yes, recall that there are three methods of heat transfer: conduction, convection and radiation.
+
+Heating and cooling satellites is actually a fairly complicated problem.
+
+The heat that does get into the main body is distributed through ammonia filled heat pipes to keep the panels holding the electronics warm.
+
+What was really impressive in the documentary was how perfectly everything was engineered and how thoroughly it was tested.

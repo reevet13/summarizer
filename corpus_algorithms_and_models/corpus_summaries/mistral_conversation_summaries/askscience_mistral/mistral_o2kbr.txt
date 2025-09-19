@@ -1,0 +1,7 @@
+make no mistake the planer array would be at the focus of a parabolic dish just as a light detecting array (camera) is placed at the focus of a parabolic mirror
+
+I am looking for a pixel array image of the sky.
+
+Oh, you are asking for a CCD equivalent of for radio waves to get multiple pixels of the sky?
+
+Your pixel size can't be bigger than the actual wavelength of the light, so you would need really big pixels... which is basically the effect of having many dishes.

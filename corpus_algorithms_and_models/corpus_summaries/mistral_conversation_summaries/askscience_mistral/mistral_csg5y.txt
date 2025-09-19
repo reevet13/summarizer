@@ -1,0 +1,13 @@
+The boring part is that Maxwell's equations and the Lorentz force would be slightly modified so that the magnetic field would act sort of like an electric field does around an electron.
+
+The interesting part is that the existence of a single magnetic monopole in the universe implies that the [electromagnetic interaction is quantized](http://en.wikipedia.org/wiki/Magnetic_monopole#Dirac.27s_quantization).
+
+They be sources/sinks of magnetic field lines, just as electric charge is sources/sinks of electric field lines.
+
+A monopole would have magnetic field lines start or end at the monopole, depending on whether it is a positive/negative monopole.
+
+Yes. One design could in principle use a magnetic monopole to create a magnetic field, have a wire loop rotate in that magnetic field in such a way that the magnetic flux changes with time (the loop shouldn't contain the monopole, but the loop should be rotating above the monopole). Then via Faraday's law an electric field is induced in the wire producing an AC current.
+
+The magnetic field around a monopole is the same as an electric field around an electron.
+
+At distances larger than the separation of the monopoles, both will work identically.

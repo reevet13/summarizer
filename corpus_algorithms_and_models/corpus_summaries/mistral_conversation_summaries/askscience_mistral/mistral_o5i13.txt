@@ -1,0 +1,15 @@
+This has bothered me since I was a little kid.
+
+Even now when I go to the deli, hot sandwiches are wrapped in foil to "keep them hot" (while cold sandwiches just get wax paper).
+
+Wrapping food in a heat sink shouldn't make it retain its temperature longer.
+
+I would speculate that since the bond between the hot food item and the foil is loose at best, the heat transfer isn't happening on the level that you think it is.
+
+Also if there is more than one layer of foil, as is common, the air between the layers may add some insulating effect.
+
+Additionally, metal is a very good conductor of heat, but does not store it well.
+
+But I suspect that the biggest insulating factor is that it does not allow air circulation over the food.
+
+Circulation is really important to heat transfer when the materials involved aren't known as good conductors (water and air).

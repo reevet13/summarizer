@@ -1,0 +1,21 @@
+Entanglement doesn't work that way.
+
+Entanglement is basically a way to remove some of those possibilities, so that instead it becomes, for example, a superposition of HH and TT.
+
+now if you separate the coins, you can't control the other coin by twiddling the first one.
+
+From the Many Worlds perspective, the entanglement in this example leads to only two sorts of worlds, HH worlds and TT worlds, rather than all four possibilities.
+
+Correct. Entanglement effects are generally observed by, after the fact, bringing the entangled objects (or data about them) together.
+
+Neither particle has been measured yet. You look at one particle and the result you get back is 1/2. This means the other particle must be -1/2 no matter how far away it is.
+
+But there is no way to send a message through entanglement like this because you can't choose which state the particle ends up in when you measure it.
+
+You don't alter spin, you determine the spin.
+
+The idea behind entanglement is that certain properties of a system have to be conserved.
+
+This is the information that travels faster than the speed of light.
+
+Einstein is safe because you can't transfer information via entangled particles.

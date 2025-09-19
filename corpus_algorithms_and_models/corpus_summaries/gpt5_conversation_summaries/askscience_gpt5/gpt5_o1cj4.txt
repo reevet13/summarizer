@@ -1,0 +1,4 @@
+I have a simplistic idea that orbit is achieved when the velocity of the object is such that it's still falling, but it's velocity and height above the earth is such that it keeps falling perpetually.
+So orbit requires a pretty zippy pace (with some altitude), but what about if you're just trying to leave our gravity well?
+Is the gravity well so "deep" that you need to climb it fast enough before you run out of the fuel you're using?
+So ultimately are there different fuel requirements?

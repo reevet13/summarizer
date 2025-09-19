@@ -1,0 +1,15 @@
+There are many powerful computer systems that can model weather patterns to give predictions.
+As time goes on shouldn't those predictions get more accurate?
+That is exactly what Edward Lorenz thought when he was working with early computational weather models.
+He was wrong and ended up working on chaos theory.
+To his surprise the weather that the machine began to predict was completely different from the weather calculated before.
+However Lorenz had discovered that small changes in initial conditions produced large changes in the long-term outcome.[44]
+Lorenz's discovery, which gave its name to Lorenz attractors, showed that even detailed atmospheric modelling cannot in general make long-term weather predictions.
+Weather is usually predictable only about a week ahead.[26]
+Predicting the weather is very, very complex.
+The predictions are definitely getting more accurate with time.
+The problem with accurately predicting long term weather patterns arises from the incredible number of factors that come into play.
+All of these inaccuracies in the model compound and we observe weather that doesn't necessarily agree with the report.
+The further into the future we attempt to predict the weather, the more likely we are to be mistaken.
+Weather is a "chaotic system".
+One definition of a chaotic system is that there is no way to accurately model such a system that is simpler than the system itself.

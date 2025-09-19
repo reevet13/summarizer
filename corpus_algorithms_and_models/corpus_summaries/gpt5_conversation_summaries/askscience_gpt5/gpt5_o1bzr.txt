@@ -1,0 +1,18 @@
+Let's take human-habitable to mean that people can walk around without space suits.
+It needs to have lots of water on it, the air has to have around 0.2 atm partial pressure of oxygen gas, its diurnal temperature range has to be something like -50C to 50C, or -58 to 122 F.
+Now Mars has a tiny pressure of 0.007 atm, even when its atmosphere is 95% CO2.
+So the challenge in terraforming Mars, would be to find a way to make its atmosphere about 140 times denser.
+So now let's look at Venus.
+The air pressure in its depths combined with the greenhouse effects give us a surface temperature of around 460 C/840 F.
+This means that if something started churning out a bunch of oxygen gas into an atmosphere that had never had it before, that planet would freeze.
+Then could we seed Venus with plants that would convert a lot of that CO2 into oxygen?
+To do this, then, you'd be planning to end with a dynamic system that was under careful feedback controls.
+And that seems like the best and most likely candidate to me- perturbing the climate of a planet that's already much like our own, to be more like our own.
+His answer there is surprisingly disappointing.
+It conflates weather with climate.
+The latter is a boundary value problem.
+More or less, we know what we need to do and there are proposed ways of [terraforming Mars](http://en.wikipedia.org/wiki/Terraforming_of_Mars) and [terraforming Venus](http://en.wikipedia.org/wiki/Terraforming_of_Venus) 
+In terms of establishing an atmosphere, carbon dioxide would not be a strong enough greenhouse gas to heat up Mars until the concentration would become too toxic for humans to tolerate.
+As for establishing a water cycle, there is almost certainly not enough water left on Mars for this to be achieved just by melting all the native ice.
+it has been suggested that role of "plants" in this plan would instead be fulfilled by specialized bacteria that can be seeded into the upper atmosphere, survive within the thick cloud layer, and produce more useful gases (such as oxygen) as a by-product.
+However, while I am aware that thermophiles exist in all sorts of crazy places on the earth, 150C is a far cry from 460C and I challenge you to find an extremophile that can survive that temperature AS WELL as being able to tolerate extreme pressure, oxidative, and osmotic stress.

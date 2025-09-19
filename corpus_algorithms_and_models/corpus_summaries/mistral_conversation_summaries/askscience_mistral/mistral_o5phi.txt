@@ -1,0 +1,19 @@
+If one is negative and one is positive, then there's a boundary between the negative and positive somewhere between A and B.
+
+Those cubes that DO have differences are broken down into 8 smaller cubes that repeat the process.
+
+When it's small enough, you add triangles to the boundary cubes.
+
+The marching cubes algorithm is for when you have a three-dimensional data set and you want to find the "boundaries" between regions of this set.
+
+Each one of these small cubes is called a voxel (volumetric pixel) and has a single density value associated with it.
+
+You can do this by only visualizing pixels whose values fall within a certain range.
+
+What the marching cubes algorithm does is give us a mesh representing the surface that divides the inside of an object from the outside.
+
+We are going to draw a certain arrangement of triangles based on what combination of corner types we have.
+
+If we make triangles [like this](http://upload.wikimedia.org/wikipedia/commons/a/a7/MarchingCubes.svg) for each of these types of cubes, then they will all fit together into a nice continuous mesh with no holes or gaps that can be drawn by a computer.
+
+That's it really, it just resolves the surface by breaking it down into combinations of a small number of known cases.

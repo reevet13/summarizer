@@ -1,0 +1,15 @@
+The Earth is a super magnet.
+
+If the Earth were surrounded by water in the atmosphere, would the water repel the magnetism of the Earth?
+
+The effect on the Earth's magnetic field would be pretty minimal.
+
+I don't see why there'd be any measurable effect on the atmospheric pressure, at least due to the magnetic properties of the shell.
+
+The atmospheric pressure is created by the weight of the atmosphere, not by the Earth's magnetic field.
+
+The Meissner effect doesn't apply here since neither the Earth, nor the atmosphere, nor the hypothetical water shell is a superconductor.
+
+the diamagnetic effect is *tiny* in most materials.
+
+If you wanted sufficient repulsive force to double the atmospheric pressure, you'd need a magnetic field billions of times stronger than the earth's magnetic field.

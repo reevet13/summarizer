@@ -1,0 +1,13 @@
+If you take time out of all the equations, do they just stop working?
+Hmm, for starters I definitely think it'd be hard to talk about time-dependent phenomena if you take time out of the equation.
+For one, a lot of those equations describe steady-state conditions that are only reached after a sufficient amount of *time*, so the very system that the equations describe only exists because something's been going on for some time.
+TL;DR: One of the most basic equations we have is Newton's 2nd Law: f=ma.
+We see this in action because acceleration is the second *time* derivative of position.
+Ergo, we can't have grade-school physics without time.
+Time is a fourth dimension.
+Photons travel only in spatial dimensions and have zero velocity in time.
+As you hit the speed of light, the equations all fall over, and time stops existing.
+So, from a photon's point of view, time doesn't exist.
+I wouldn't say the equations fall over because you can take the limit as v-&gt;c from both sides and get infinite time dilation... and 1/∞=0 time velocity.
+But if you look at the Lorentz equations, then from the photon's point of view the outside Universe is infinitely length-contracted too.
+It's not just the time dimension that vanishes, space does too.

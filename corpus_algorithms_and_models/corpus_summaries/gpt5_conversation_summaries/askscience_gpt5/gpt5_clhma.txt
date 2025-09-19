@@ -1,0 +1,13 @@
+Neutrinos do not interact strongly enough to be useful for this.
+That leaves photons; use those and you've got yourself a [solar sail](http://en.wikipedia.org/wiki/Solar_sail).
+Better way of visualizing rocketry, is by net momentum.
+In the absence of gravity, net momentum is constant.
+You can get a rocket moving as the when the (low mass) gases are propelled downwards with high momentum, the rocket moves upward to keep the net momentum constant.
+All the gravity does, is cause the net momentum to constantly decrease (its an external force).
+Take the LHC; it has about 2800 bunches of protons circulating in the beam; and each bunch has about 10^5 J of energy.
+10^5 J is roughly the energy of [anti-tank shell](http://blogs.uslhc.us/what-does-7-tev-mean), but that will not be enough energy to really get a rocket out of orbit.
+Look into microwave or laser-pushed probes.
+Most advanced propulsion concepts supply energy remotely, or do direct momentum transfer.
+You can provide about 3 g worth of acceleration to a carbon truss sail via microwave flux.
+Rockets don't do better/worse in atmosphere than they do in space.(well in principle it might make a small difference, but neglible for any real rockets.)
+Same with a rocket, the gas is expanding inside very rapidly, but escaping out the back, so the gas pushing forward is not balanced by gas pushing backward.

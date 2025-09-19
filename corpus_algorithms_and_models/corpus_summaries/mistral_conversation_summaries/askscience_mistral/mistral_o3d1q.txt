@@ -1,0 +1,9 @@
+Rotation does in fact produce time dilation.
+
+That has no bearing on the time dilation of S as measured from P or the time dilation of P as measured from S.
+
+You actually cannot have any kind of time dilation due to rotation, but you do from translation (as you actually have a certain speed seen from Earth for example).
+
+Rotation is translation everywhere except the axis itself.
+
+The rotation of satellites around the Earth is what gives them speed relative to a point on the surface, and that results in time dilation relative to those points.

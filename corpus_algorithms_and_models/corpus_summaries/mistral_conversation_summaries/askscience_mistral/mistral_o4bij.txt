@@ -1,0 +1,15 @@
+If a new genome belonging to a previously uncultured organism is present and you would like to grow this organism, one either orders or makes culture plates with a similar nutrient and chemical composition as this environmental sample (including air temp. and humidity).
+
+You can try to remove undesired organisms with dilution or selective conditions such as antibiotics.
+
+You can sequence a single cell genome, and then try to get hints from the enzymes it encodes to what that specific bug may need in culture media.
+
+You can take a guess from the organisms you do know, if they are culturable, and make a guess as to what kind of media to use to grow your unknown.
+
+It was basically that you had identified DNA of a novel organism in a soil sample from a heavymetals plant.
+
+It contains a gene with sequence homology to a methyltransferase (bacterial / eukaryotic etc not specified).
+
+It is hypothesised that the organism uses the methyltransferase to methylate heavy metals to cope with the high content in the soil.
+
+The task was to plan a research project to isolate/identify and culture the organism and come up with a way of testing the methyltransferase hypothesis.

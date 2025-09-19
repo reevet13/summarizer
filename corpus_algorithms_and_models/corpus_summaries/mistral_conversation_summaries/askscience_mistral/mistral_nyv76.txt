@@ -1,0 +1,7 @@
+"This sinusoidally varying electric field can be thought of as a length of rope held by two children at opposite ends."
+
+"The children begin to displace the ends in such a way that the rope moves in a plane, either up and down, left and right, or at any angle in between."
+
+"I'd like to think of polarized light as coming in two orthogonal basis and then all others combinations of the two."
+
+"are all polarized light vectors the sum of basis components like force vectors?"

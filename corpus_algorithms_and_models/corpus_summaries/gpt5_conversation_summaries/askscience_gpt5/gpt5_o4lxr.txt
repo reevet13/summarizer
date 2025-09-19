@@ -1,0 +1,10 @@
+You need a definition of efficiency that takes into account how "lossy" you allow your signal to be.
+Every non-trivial statement you make is a lossy compression of your idea -- the compression is where the efficiency comes from.
+To take your example, the word "democracy" is a very high compression rate applied to a huge idea, and when I think of "democracy", I almost certainly don't think exactly the same things you do.
+From a strictly computational standpoint, this actually leads to some deep questions such as "what is the minimal amount of information I need to send to you to covey something".
+If you are curious about how you might figure out how to actually pick a good set of words (or an encoding if you will) you can check out Huffman Coding.
+What is the minimum information I can say to you so that you can figure out unambiguously the information I am trying to convey?
+This is related to the idea of the Kolmogorov complexity, and interestingly, if I change the words "figure out" to the word "compute" in the sentence above then the answer is that we don't know.
+In fact, not only do we not know, we know that in the general case such a thing is impossible to answer with a computer!
+Natural languages have a pretty high degree of redundancy.
+It's hard (maybe impossible) to imagine a "lossless" language.

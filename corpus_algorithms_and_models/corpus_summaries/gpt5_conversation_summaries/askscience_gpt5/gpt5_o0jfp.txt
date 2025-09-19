@@ -1,0 +1,12 @@
+Well, there are two kinds of charge.
+Things with like charges repel, and things different kinds attract.
+Charge is a fundamental property of subatomic particles, like spin and mass.
+Fundamentally, what charge is is the property that reacts to other things with charge in a specific way.
+The important feature is that they are equal and opposite of each other.
+The experimental answer (which is the always the one ww turn to if there's any doubt) is that we observe charge to be a fundamental property of matter that appears in discrete units.
+The interesting this about this quantum number is that like charges repel, and opposing charge attract.
+It's then just arbitrary to choose if the charge the electron has is positive or negative.
+The simplest is to look at the potential energy of two particles with like charges vs. two particles with opposite charges.
+In the system with two particles with like charges, the potential energy is positive, which means that the potential energy of the system is lowered as the charges move away from each other.
+In the system with particles of oppositie charges the potential energy is negative, which means that the energy of the system is decreased if the two particles moves closer together.
+The crux of this argument is that systems always want to be in a lowest energy configuration.

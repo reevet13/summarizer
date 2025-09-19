@@ -1,0 +1,11 @@
+Genetic mapping is different from DNA sequencing.
+DNA sequencing is the process of determining the exact sequence of nucleotides in an organism's DNA.
+The first human genome sequence, completed in 2003, took 15 years and roughly $3 billion.
+Now we can do it in 3-4 days for $5000.
+A genetic map is made when we determine the order of genes on a piece of DNA.
+So if we make you have lots of kids (this is easier and more ethical with fruit flies...) we can see how often chromosomal crossovers occur and can estimate how far apart two genes are.
+So in short, we have some idea of how many genes influence a complex phenotype like hair color, but we're still far short from modeling how the system might interact and predicting a person's hair color from a set of genes.
+Once one individual from a species has been sequenced (or half an individual for diploids since we have two copies of most chromosomes) you can do a simplified/cheaper process where you use less dna and then align the reads to the existing sequence.
+Well, no, they mean it's been assembled.
+Sequencing it just gives you millions or billions of short fragments, in the low hundreds of bases long, and these have to be assembled (computationally) into much larger chromosomes.
+That can be very tricky because genomes are often full of duplications that will give false positives.

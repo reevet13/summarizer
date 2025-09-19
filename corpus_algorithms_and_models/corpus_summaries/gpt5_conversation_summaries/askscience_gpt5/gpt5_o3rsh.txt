@@ -1,0 +1,13 @@
+I think [something like this](http://www.quantumbalancing.com/news/lemon_battery.htm) might be the easiest way to get some power.
+You might be able to use some other fruit than lemon, but you'd probably have to chain lot of those to make it work and it would not last too long... getting proper wires might be another problem that you would face.
+Generating electricity is one thing, but is there concern about the getting the amps and volts right?
+Building a battery from fruit may be easy, but will require enormous amount of fruit to power your laptop.
+If you come around a magnet, powerful enough, building a dynamo might be better idea.
+I'd say AC is easier because you have a much wider range of acceptable input voltages.
+A dynamo is unlikely.
+The quality of magnets at that time was not good enough.
+A voltaic pile is easier to build, but would not last long under the demands of a laptop.
+Lead, copper and sulphuric acid are all ancient tech - that's enough to build a rough lead acid cell which will give you 2V per cell.
+10 of those in series and you've got 20V DC which is close enough to the 19V DC most laptops take for it not to matter.
+A lot of electronics these days accept anything from 120AC to 240AC at 50-60Hz.
+AC voltages can be easily changed with simple transformers, and the power adapter will be expecting it anyway, so that's definitely the way to go.

@@ -1,0 +1,12 @@
+I have not watched the video you linked, but you provided the correct answer: The "thinking" noise from your HDD comes from the arm moving rapidly across the disk platters to seek different tracks.
+Of course, the actual reading/writing of data produces no sound.
+In modern drives, the arm is moved around using an electromagnetic arrangement known as a "voice coil" or galvanometer.
+In more ancient drive designs, a stepper motor was used to move the arm around.
+The voice coil method is superior to the stepper motor design, as the voice coil uses a "feedback loop" to navigate the platter geometry.
+Note also that there is never any contact between the arm/head and the platters.
+If it is, then the drive is about to fail: Such a condition is known as a "head crash", and is considered devastating.
+The heads actually "float" at a distance above the platter which is measured in **nanometers**.
+The noise comes from the fact that the theory of operation of the arm/galvo is actually pretty similar to that of a typical loudspeaker setup!
+Electrical fluctuations cause the coil to move.
+The vibrations induced in the arm by these rapid movements are analogous to the sound-causing vibrations of the loudspeaker.
+So basically, the arm moves around so rapidly that it experiences small vibrations and functions as a little speaker :)

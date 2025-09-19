@@ -1,0 +1,9 @@
+Metatrons Cube is self similar, infinite and diverse.
+
+it's a fractal like pattern but it's not a complex-plane type fractal like mandelbrot/julias and variants.
+
+it seems like it could probably be generated as an IFS (Iterated function system) type fractal, like sierpinskis or fractal ferns.
+
+definitely you could model most of its features as IFS fractals.
+
+Although from that first circle you keep creating bigger circles so if you started at a large magnification and used smaller and smaller/fractional circles then it would zoom in infinitely.

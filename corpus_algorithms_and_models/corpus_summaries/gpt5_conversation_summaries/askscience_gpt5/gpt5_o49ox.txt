@@ -1,0 +1,3 @@
+Depending on the temperature and pressure, you can get different kinds of ice forming, as seen on the [phase diagram](http://en.wikipedia.org/wiki/File:Phase_diagram_of_water.svg).
+Pressure has a huge effect on what phase you will find a substance in.
+The phase diagram shows you that, although it doesn't make intuitive sense, water can exist as a solid at high temperatures if it is under enough pressure.

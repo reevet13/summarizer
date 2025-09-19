@@ -1,0 +1,7 @@
+A couple of cool things that are approachable but still allow you to explore a good deal into the physics of a problem are Neutron Stars, The single photon double-slit experiment, foucalt pendulums as was mentioned by tikael, or if you want an extension of that, double pendulums (these are a very simple chaotic system, but the math could get a bit intense), the electromagnetic spectrum - looking at the different kinds of light that exist.
+
+Atomic emission or absorption could be good, that is the spectral lines that different atoms give out based on their electron configuration.
+
+You could also pick a class of astronomy, like radio astronomy or x-ray astronomy, or optical astronomy and describe the different things that are found there.
+
+One last one I thought of is adaptive optics used by optical telescopes.

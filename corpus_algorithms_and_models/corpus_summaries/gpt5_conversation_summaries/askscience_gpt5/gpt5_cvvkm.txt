@@ -1,0 +1,11 @@
+10^120 seems feasible for number of reasonable games in chess.
+For a quick estimate, imagine that at any time in a game you each player has on-average 10 distinct moves you could make, and that each player does 60 moves in a game which would gives 10^120.
+The number of atoms in the [observable universe](http://en.wikipedia.org/wiki/Observable_universe) is probably between 10^79 - 10^83.
+100 billions stars/galaxy x 100 billion galaxies x 10^30 kg/star / 1.67E-27 kg/atom=~10^78 atoms, give or take a few orders.
+Actually, Go is pretty easy to enumerate.
+Each square is either black, white, or blank, so the total number of configurations is, ignoring symmetry, 3^361=~10^172.
+According to Wikipedia, only 1.2% percent of those are legal, so you're down to ~10^170.
+As far as I'm aware, the largest board size that has been solved is [5x5](http://erikvanderwerf.tengen.nl/5x5/5x5solved.html), and even that was only in 2002.
+For a full-sized board Go is certainly very far from solved.
+The nature of combinatorics makes it easy to find these "all the atoms in the universe" kinds of numbers in seemingly mundane places.
+Go, for example, which is a little easier to [analyze](http://en.wikipedia.org/wiki/Go_and_mathematics), has about 10^700 possible positions, and as many as 10^2000 possible games.

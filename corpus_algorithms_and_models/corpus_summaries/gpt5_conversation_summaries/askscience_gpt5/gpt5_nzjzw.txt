@@ -1,0 +1,2 @@
+[Thermal radiation.](http://en.wikipedia.org/wiki/Thermal_radiation)
+Conduction and convection require a medium (as heat energy is "carried off" by particles interacting with the object), but heat is also radiated away through electromagnetic emissions.

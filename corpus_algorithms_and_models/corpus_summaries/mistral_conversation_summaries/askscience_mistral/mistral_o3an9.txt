@@ -1,0 +1,9 @@
+You can make a perfectly sharp knife out of mild steel, it just won't stay sharp.
+
+Glass is incredibly sharp, but it isn't very hard.
+
+The sharpness of an edge is defined by the radius of its curvature - the smaller the average radius, the sharper the edge.
+
+This has nothing to do with how hard the material is.
+
+Hardness affects how easily the edge is dulled by wear, but it has no bearing on the *shape* of the initial edge.

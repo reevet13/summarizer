@@ -1,0 +1,15 @@
+The way I've understood it is that our brains work more like Google.
+
+If you think of cars, you will probably pull up the specific bit you're looking for but you'll also get a lot of things that only relate tangentially.
+
+You may get memories of a girl that you drove home once and some tidbit you read once about a Ferrari.
+
+I suppose you could say it's more like distributed storage searchable by keywords (where the word might be a smell or an emotion).
+
+Human memory is biological.
+
+The others are based on doped silicon.
+
+The computer model is modeled on the human memory system.
+
+The most used representation of how the long term memory stores is as a semantic network.

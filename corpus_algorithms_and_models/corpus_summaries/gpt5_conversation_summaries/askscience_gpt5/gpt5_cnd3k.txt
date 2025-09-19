@@ -1,0 +1,12 @@
+My phone runs a much lighter OS than my laptop did, yet it is at least three times slower than my old laptop at loading/rendering webpages.
+TL;DR: there's a whole lot to CPU technology than cranking up the clock rate.
+Even with a comparable clock rate things like branch prediction and better caching give a more complex CPU a huge boost over a less complex CPU.
+Also, as PalermoJohn was getting at, you'd probably be surprised at a comparison of the work your laptop was doing years ago to run a desktop OS and the work your phone is doing now to run a mobile OS.
+ARM is a reduced instruction set architecture, whereas the modern x86 architecture has a huge number of instructions.
+Accessing cached data might take 5-10 clock cycles, accessing main memory can take hundreds of clock cycles.
+A processor with more cache will typically waste less time waiting for memory reads.
+My guess is that branch prediction and caching are the two biggest.
+Desktop processors can easily hit the 100-150W range in power consumption.
+Modern websites are more complex than the web pages of several years ago.
+One of the biggest constraints on mobile devices is battery life, many trade-offs have been made to conserve power.
+So while the processors may have the same raw clock speed, they are doing very different things in each cycle.

@@ -1,0 +1,11 @@
+Would X and Y either; be the same temperature?  the same difference in temperature from their 'original 100ml'?
+For your first scenario - adding 100mL of hot water and 10mL of cold water will give a different temperature than adding 100mL of cold water and 10mL of hot water (edit - defining 'hot' and 'cold' as fixed temperatures greater than 273K and below 373K, with hot being a higher temperature than cold so some pedantic physicist doesn't call me out).
+For your second scenario - If you add X amount of hot water to Y amount of cold water to reach temperature T, then you must add Y amount of cold water to X amount of hot water to reach the same temperature.
+You get a weighted average of the temperatures.
+So, yes, the differences in temperature are the same.
+This is correct, but I need to caution you against the use of the freezing and boiling terminology.
+In addition to the specific heat of water, there's also energy transfers involved in phase changes.
+Combining 60c liquid water and 110c steam is a different beast from combining 70c liquid water and 100c liquid water.
+In layman terms, Tequilibirum is the mean of the respective temperatures, pondered by the capacities.
+Now, coming back at your question, the heat capacity of liquid water is almost constant.
+It's kind of been said before, but it's rather interesting to keep in mind that this whole "weighted average" thing only works out because (as long as no phase change is involved), **temperature is proportional to energy**.

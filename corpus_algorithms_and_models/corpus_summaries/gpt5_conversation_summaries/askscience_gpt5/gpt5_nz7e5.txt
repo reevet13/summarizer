@@ -1,0 +1,12 @@
+Given that the universe is expanding, and creating space, is it possible to destroy space?
+Nothing is being "created," space itself is expanding.
+"A black hole is simply a region of spacetime separated from infinity by an event horizon." -Carroll, *Spacetime and Geometry: An Introduction to General Relativity*, page 222
+It means, as is clarified in the text, that a black hole is a bounded (i.e., finite) region surrounded by an event horizon, which is a null surface.
+Another text, (Visser, *Lorentzian Wormholes: From Einstein to Hawking*, 16) says "A black hole may be defined as whatever is inside an event horizon/absolute horizon."
+The point is, if you look in any reference text, you will find the term black hole being defined as the finite region bounded by an event horizon.
+At the very least, the area of a black hole's event horizon is non-zero.
+I haven't heard of space being outright destroyed.
+The expansion of the universe does not create space.
+I suppose the core of the matter is this: what's outside the universe?
+These is no outside the universe.
+The universe is everything that exists.

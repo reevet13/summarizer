@@ -1,0 +1,13 @@
+Carbonated water is CO₂ dissolved into water.
+
+When the CO₂ nucleates, it forms a bubble, which grows in size until its buoyancy is enough to lift it off the surface and 'fizz'.
+
+Nucleation is dependent on the surface (the wiki mentions high surface area and sharp corners).
+
+This is actually used to design fancy champagne glasses that have specific etched patterns so the bubbles stream off the glass in specific spots.
+
+Keep in mind that the nucleation sites are really small, and not something you would be able to tell with your fingers (or your eyes, most of the time).
+
+I'm thinking nano- or micron-sized defects is about the range of nucleation sites.
+
+There are materials called '[zeolites](http://en.wikipedia.org/wiki/Zeolite)' which are basically super-high surface area 'sponges'.

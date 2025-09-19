@@ -1,0 +1,18 @@
+I know that speed affects time.
+The faster you go the slower time goes.
+I also know that mass affects time.
+The more mass the slower time goes.
+Now for speed the limit seems to be the speed of light, where time stands still.
+Is there then also such a limit on mass?
+Or will time stand still at infinite mass?
+Well the heaviest an object can be without collapsing into a black hole is the mass which brings the object below its  Schwarzschild radius.
+Inside that radius, going towards the centre is mathematically equivalent to going forward in time.
+Basically it means that if you're inside a black hole, and you try to go away from the centre, you'd have to go back in time.
+Does that mean that if an object's radius is the same as it's Schwarzschild radius time would stand still at it's edge?
+From an external reference frame.
+Of course.
+Infinite mass doesn't really make sense.
+An infinite mass would exert an infinite force on everything in the universe.
+To answer your question, there is no inherent, derivable limit to mass analogous to the speed of light.
+You could come up with some practical limits, like "This experiment would detect any mass in the universe greater than mass X" or "If an object of mass Y ever existed, we'd all be in its black hole by now".
+The Schwarzschild radius answered my question pretty good.

@@ -1,0 +1,15 @@
+Some computer science courses seem to incorrectly imply that entropy represents the theoretical limit of compression, but that's simply wrong.
+
+If I give a stream of pseudorandom numbers to an entropic coding algorithm, no compression is achieved.
+
+Kolmogorov complexity is defined for numbers, sequences etc.; Shannon entropy is defined for random variables.
+
+Entropy does not change if you apply an injective function to the variable, it cares only about *distribution* not about values.
+
+Kolmogorov complexity is defined for constants and it cares only about *values* not about distribution.
+
+Shannon entropy tells you, given a random variable X, how much bits on average you need to tell value of X - how much *randomness* the string has.
+
+Kolmogorov complexity tells you, given a fixed value x, how much bits you need for a computer program to output x.
+
+Since a computer program describing value is a proper way to encode data, if X has some distribution, then H(X) <= EK(X), i.e. expected value of Kolmogorov complexity is at least as large as Shannon entropy.

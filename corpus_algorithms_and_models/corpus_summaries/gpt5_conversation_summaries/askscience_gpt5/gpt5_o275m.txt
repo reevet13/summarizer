@@ -1,0 +1,2 @@
+Basically each animal watches other animals around it and makes a decision based on what they do.
+So they work as a collective organism.

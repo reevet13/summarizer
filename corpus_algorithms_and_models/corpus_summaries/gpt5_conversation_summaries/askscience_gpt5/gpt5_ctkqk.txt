@@ -1,0 +1,13 @@
+Am I right about all this?
+Does a lot of the confusion about quantum physics really come from a simple misunderstanding of how science has to operate at that level?
+What you explain is one way to rationalize the unintuitive quantum world as something more intuitive.
+But QM is more complex than this.
+Quantum mechanics operates in the domain where position and momentum are basically Fourier transforms of each other.
+Due to this construction, a particle cannot have a ultra-precise momentum and ultra-precise position  at the same time, due to the Fourier relationship between the two.
+There is no unmeasured position and unmeasured momentum that it really has before the measurements were done.
+There are experiments like Aspect's tests of [Bell's Inequality](http://en.wikipedia.org/wiki/Bell%27s_theorem) that showed that there can be no (local) hidden variables.
+So QM is something fundamentally different.
+E.g., the double slit experiment shows how wavefunctions of particles really behave like waves even when its just single particles going through the slit every time.
+The [uncertainty principle](http://en.wikipedia.org/wiki/Fourier_transform#Uncertainty_principle) thus arises as a simple consequence of being position and momentum being a Fourier pair.
+A superposition doesn't mean that a particle has a specific state but we don't know what the state is.
+It means the particle is literally in more than one state at once.

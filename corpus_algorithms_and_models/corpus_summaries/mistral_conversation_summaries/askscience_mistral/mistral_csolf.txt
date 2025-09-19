@@ -1,0 +1,13 @@
+What you perceive as steam is not really steam, its tiny droplets of water, i.e. water vapor, in the air.
+
+When you heat something up to a temperature near the boiling point of water, bubbles of water vapor will form at nucleation sites and expand if the vapor pressure is greater than the outside pressure (~1 atm).
+
+So by moving the water off the stovetop, you do two things: First you give bubbles in the water easier access to nucleation sites to overcome the surface tension, and second through convection more bubbles get to the surface and can boil off more easily.
+
+A layer of hot water at the surface causes more steam.
+
+The water-holding capacity of air is very temperature dependent.
+
+It's possible that without the heat source, the air above the pan cools quickly, reducing the moisture-holding capacity of the air, and causing visible condensation—while the total amount of water evaporating from the pan might be the same as with the heat source, more of it might condensing into visible steam.
+
+as you remove the heat source the steam can more readily cool down and form droplets of water in the air, leading to more visible water vapor.

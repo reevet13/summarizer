@@ -1,0 +1,9 @@
+No but Ni-MH batteries lose their charge more slowly if kept cold.
+Freezer cold helps them retain a charge longer while not in use.
+You are supposed to thaw them to room temp (70 F) before using them though.
+From personal use of such batteries in my off-grid home, I know that charging doesn't time alter based on temperature given the same batteries with same charge potential.
+The difference is in the self-discharge rate.
+Non-rechargeable batteries are much less affected by temp.
+This website actually does a fantastic job of explaining some of the things you were asking about:
+http://www.mpoweruk.com/performance.htm
+In a nutshell though, number of charge/discharge cycles has more to do with percentage of drain than temperature, at least for Li-Ion batteries.

@@ -1,0 +1,11 @@
+My main question question is, if you did have a lot of flashlights would you be able to get a cart to at least accelerate to realatavistic speeds?
+Would it work if you had some surface for the photons to transfer momentum too like a sail?
+Despite having no mass photons have momentum so they impart radiation pressure on an object they impact.
+In practice this means this kind of propulsion only works with very large, light, highly reflective reflective mirrored surfaces with near zero resistance (in space), over long distances.
+So to answer your question, if you put a bunch of flashlights on a cart will it go fast?
+No.
+the friction created between the ground and tires would be astronomical compared to the forces exerted by the photons, in addition there is no practical way to power a flashlight that would produce enough photons to overcome this.
+No object which has mass can go at the speed of light.
+Solar sails can work, however, although you can't do it with standard flashlights (their bulk and dispersion means that there's a practical limit to how many you can use, even if you have an infinite supply).
+To get one pound of force, which is 4.44 kg m/s per second, you then need 1.31 GW of power.
+In terms of your question though, photon assisted travel is definitely possible, just not practical for any use other than ultra long distance space travel because of the very slow acceleration (and therefore force as F=ma) it gives you.

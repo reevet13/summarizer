@@ -1,0 +1,5 @@
+Unless you control the osmolarity VERY precisely, the cells will explode once the cell walls becomes too soft.
+
+The cell wall is all that keeps plant cells from filling with water until they burst (because the solute concentration inside the cells is so high).
+
+I think one of the methods of genetically engineering Arabidopsis removes the cell walls (process called spheroplasting or protoplasting).

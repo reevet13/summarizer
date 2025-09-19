@@ -1,0 +1,27 @@
+On Earth, an organism's size peaks out because at a point they can't have enough muscle to keep themselves standing.
+
+The biggest blue whale was about 200 tonnes, and the biggest land animal was Argentinosaurus at about 120 feet long.
+
+I imagine the upper limit is greater in water where it doesn't have to support its own weight.
+
+As a slightly less theoretical example, coral is in the kingdom animalia (Phylum Cnidaria), however as a communal organism, each individual doesn't get very big.
+
+Gravity is a major limiting factor in insect/lizard/amphibian/bird/mammal size.
+
+Moving the question into an aquatic environment would greatly reduce that issue, likely shifting the limiting factor to food availability vs maintenance energy needs.
+
+Signaling may also be a problem; the lag in electrical signaling already requires secondary systems to allow for competitive response times in larger mammals.
+
+I've read theories that some of the large insects and such from prehistory were possible in part due to the more oxygen-rich atmosphere.
+
+There would certainly be a tipping point with oxygen concentration, no?
+
+These scaling laws, if they're real, strongly affect a whole bunch of animal properties.
+
+1. since your mass increases at a much faster rate than your size, your skeletal structure (whatever that may be) reaches a limit where the skeletal integrity won't be able to support the mass.
+
+2. the rate of diffusion doesn't change as mass gets bigger, which means that oxygen diffusion through your body will start to be ineffective as you get bigger.
+
+3. the speed of nervous reactions is not instantaneous, so even if you solved the other scaling issues, my guess is that a giant body would be very uncoordinated (literally).
+
+King kong was only originally scaled to be about 24 feet tall, and in later movies made to be about 60 feet. The tallest Sauropods could easily reach this.

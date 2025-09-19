@@ -1,0 +1,15 @@
+You can picture a two dimensional axis: the x axis represents the real numbers and the y axis represents imaginary numbers.
+
+Oh, most definitely. Even better: rotations in the complex plane correspond to algebraic multiplication.
+
+The number i is defined as the square root of -1.
+
+So let's say I draw some number Z in this way. Now I multiply this number by i: i*Z = i*a - b.
+
+In general, you can multiply any complex number with a number of the form Cos[phi] + i * Sin[phi] and rotate it phi degrees counter clockwise.
+
+No, you can also scale them, by multiplying them with a real number (imagine this as making the arrow longer or shorter) or translate them by adding complex numbers.
+
+Complex numbers are quite awesome.
+
+There is a theorem that says you can always find n roots of a polynomial of order n using nothing more than complex numbers.

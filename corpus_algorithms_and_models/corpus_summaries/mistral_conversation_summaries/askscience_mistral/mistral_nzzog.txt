@@ -1,0 +1,7 @@
+This is a better question for /r/math.
+
+It's based on something a poet said one time, and there are a bunch of numbers to calculate number of words (per day) and number of snowflakes (per typical blizzard).
+
+I agree it isn't an ideal /r/askscience question, but I still assert that it is an even worse /r/math question.
+
+Questions that require modern mathematics or mathematical problem solving are welcome in /r/math; questions that only require computing values most likely are not.

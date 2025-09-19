@@ -1,0 +1,9 @@
+The heat of the match used to light the candle melts and vaporizes a small amount of fuel.
+
+Once vaporized, the fuel combines with oxygen in the atmosphere to form a flame.
+
+This flame provides sufficient heat to keep the candle burning via a self-sustaining chain of events: the heat of the flame melts the top of the mass of solid fuel.
+
+The liquefied fuel then moves upward through the wick via capillary action.
+
+The liquefied fuel is then vaporized to burn within the candle's flame.

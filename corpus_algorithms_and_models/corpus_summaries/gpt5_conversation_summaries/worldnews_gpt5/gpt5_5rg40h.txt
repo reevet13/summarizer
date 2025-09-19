@@ -1,0 +1,11 @@
+Wanting to avoid an outright ban, moderators asked me to test an idea: what is the effect of encouraging skepticism and fact-checking on frequently-unreliable news sources?
+For this test, we A/B tested two different sticky comments–messages that we pinned to the top of a discussion.
+In a negative binomial model ([details](https://cdn.rawgit.com/mitmedialab/CivilServant-Analysis/1fc969e5/reports/sticky_comment_experiment_results_worldnews.01.31.2017.html#the-effect-of-sticky-comments-on-fact-checking-behavior)), the note encouraging fact-checking increases the incidence rate of link-bearing comments by 2.01x on average, and the note encouraging skepticism and downvotes increases the incidence rate by 2.03x on average, among tabloid links on r/worldnews.
+Both results are statistically significant.
+While we were confident that r/worldnews readers would help out if moderators asked, we also worried that increasing commenting activity around tabloid news might accidentally cause reddit's algorithms to notice and promote those tabloid links.
+To test the effects on reddit's algorithms, I collected data on the score of posts every four minutes.
+As reddit's algorithms currently stand, encouraging fact-checking caused tabloid submissions to receive 49.1% (2.04x less) the score of submissions with no sticky comment, after 24 hours, on average in r/worldnews.
+The effect is statistically-significant.
+In this negative binomial model, I failed to find an effect from the sticky comments that encouraged readers to consider downvoting.
+Of 930 non-bot comments with links that moderators allowed to remain, there were 737 unique commenters.
+In fact, this study might be the first "AI Nudge" to systematically test the effect of pro-social community efforts to influence a algorithmic system out in the world.

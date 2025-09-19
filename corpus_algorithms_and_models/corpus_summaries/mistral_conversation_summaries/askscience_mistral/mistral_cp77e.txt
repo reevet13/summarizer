@@ -1,0 +1,11 @@
+The water samples come from oil reservoirs.
+
+Mn++ levels were below the detection limit of our atomic absorption photometer.
+
+Yup, did this, and detected H2S, hence the conclusion that this is a sulfide compound.
+
+Another alternative is that O2 is oxidizing dissolved manganese to MnO2 which is also black and the H2S production is just because the acid dropped the pH below the pKa1.
+
+If you add a strong acid, it lowers the pH, which speciates S2- to H2S, which is able to exit the solution (HS- and S2- are not able).
+
+Maybe the easiest solution would be to filter the precipitate, redissolve it in water, and then adjust the pH using HCl. If the solution still produces H2S, then you can be pretty sure the black is FeS.

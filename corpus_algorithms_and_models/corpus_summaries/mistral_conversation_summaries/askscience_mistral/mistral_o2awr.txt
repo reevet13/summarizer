@@ -1,0 +1,9 @@
+Yes, it is possible.
+
+Interestingly you can have solid water (ie... ice) at 300 C if you compress it to 300 GPa.
+
+No, lower pressure results in a lower boiling point for liquids.
+
+This is actually fairly unusual amongst chemicals, where the solid volume is lower than the liquid volume (for a given mass).
+
+Coincidentally, this loss of ionic Van der Waals effects will actually lead to an increase in pressure in a closed container, as you surmised.

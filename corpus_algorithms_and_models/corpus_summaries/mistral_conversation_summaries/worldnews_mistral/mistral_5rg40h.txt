@@ -1,0 +1,11 @@
+Within discussions of tabloid submissions on r/worldnews, **encouraging fact-checking increases the incidence rate of comments with links by 2x on average**, and encouraging fact-checking + voting has a similar effect.
+
+On average, **sticky comments encouraging fact-checking caused a 2x reduction in the reddit score of tabloid submissions after 24 hours**, a statistically-significant effect that likely influenced rankings in the subreddit.
+
+Moderators created a list of tabloid news sources, and from Nov 27 to Jan 20, we randomly assigned each new tabloid link to one of three conditions: (1) no sticky comment, (1) a sticky comment encouraging skepticism, (2) a sticky comment encouraging skepticism + voting.
+
+In a negative binomial model, the note encouraging fact-checking increases the incidence rate of link-bearing comments by 2.01x on average, and the note encouraging skepticism and downvotes increases the incidence rate by 2.03x on average, among tabloid links on r/worldnews.
+
+As reddit's algorithms currently stand, encouraging fact-checking caused tabloid submissions to receive 49.1% (2.04x less) the score of submissions with no sticky comment, after 24 hours, on average in r/worldnews.
+
+This study is limited to a specific community and list of sites.

@@ -1,0 +1,15 @@
+Where in the water is the energy coming from in order to speed the light back up to the speed of light in air?
+No energy forces it to change speed.
+The photon doesn't lose energy due to refraction.
+Additionally, a photon doesn't change speed, the wave propagation speed does.
+EDIT: It's the phase velocity that varies with the medium.
+Yes. The speed of propagation of electromagnetic waves is dependent on the electric permitivity and the magnetic permeability of the medium in which the light is travelling, though, again, the photon always travels at the same speed
+Light only has one speed, regardless of energy.
+The energy of a photon is in its frequency: the higher the frequency, the greater the energy.
+When the velocity changes, the wavelength changes as well, leaving the frequency the same.
+Since the photon's energy depends on its frequency, the energy remains unchanged.
+Just want to point out: *c* is always the speed of light in a vacuum, about 3*10^8 m/s.
+There is no such thing as "c in water" [source](http://en.wikipedia.org/wiki/Speed_of_light)
+The truth is that the phase velocity varies with the electric permitivity and magnetic permeability of the medium.
+Massless particles don't accelerate.
+They always travel at c.

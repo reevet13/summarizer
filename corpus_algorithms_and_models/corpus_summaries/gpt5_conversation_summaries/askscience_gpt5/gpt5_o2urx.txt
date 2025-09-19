@@ -1,0 +1,11 @@
+Let's say I want to build a solar sail, traveling at a constant, but slow acceleration toward either Alpha Centauri or even Gleise.
+How long would such a journey take, given the acceleration and distance?
+Acceleration would decrease over time as you moved away from the Sun.
+Your acceleration would also depend on the area of the sail; it would have to be huge to provide any decent acceleration.
+Specifically, it seems to me in my ignorance, that it would be a function of the method of generating force against the solar sail, whether Solar radiation, or laser from earth...etm; the area of the sail; and the total mass of the ship.
+I do not think this question can be realistically answered with current technology.
+If you went as fast as Pioneer or Voyager you'd be something like 40K to 80K years to the next star.
+The wikipedia article someone else linked had some magic (i.e. invented) numbers giving a speed of 30 AU per year.
+There being about 63,000 AU in a light year and about 4.3 light years to the nearest star, that's about 9500 years.
+This assumes you don't slow down in interstellar space.
+Magic numbers are really all you can expect until advances in technology.

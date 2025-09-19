@@ -1,0 +1,24 @@
+Voltage is slang for electric potential, or electric potential difference (e.g., the difference in electric potential), since both are measured in units of Volts.
+
+Voltage represents the **energy by unit of charge**.
+
+So when you ask what makes a point 10V more than other point, it is pretty much a false problem.
+
+That's the subtle difference between energy and potential.
+
+What a voltmeter measures is not the absolute energy of the electrons at one point but rather the *difference* of energy between two points which is potential.
+
+You would never say height of a hill is energy per unit weight, though it does make sense when its the energy that would be given to a particle of unit weight if it rolls down the full height of the hill.
+
+Imagine you have a ball rolling down a hill.
+
+The energy of the ball rolling down the hill will depend on both the height of the hill as well as the weight of the ball.
+
+So to answer your questions:
+**V = I R (Voltage = Current x Resistance).**
+
+Current in essence is how fast the charge moves through the circuit.
+
+Not exactly. Remember that it is not the energy of the electrons alone that makes potential but the difference in energy.
+
+I never understood it until I realized this: There is no such thing as a voltage of a single wire or point. Voltage is always in reference to something else.

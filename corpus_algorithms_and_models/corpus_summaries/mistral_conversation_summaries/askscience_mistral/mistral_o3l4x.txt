@@ -1,0 +1,3 @@
+What we want to know is how to figure out where a planet will be in the future so a ship can aim there.
+
+The ship doesn't go to where mars is, it aims towards where mars WILL be.

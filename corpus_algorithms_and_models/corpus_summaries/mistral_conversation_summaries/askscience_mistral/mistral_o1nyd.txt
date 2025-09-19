@@ -1,0 +1,9 @@
+Forecasts don't come from the same source, but a lot of raw atmospheric data does.
+
+Weather forecasters (NWS, TWC, AccuWeather, etc) base their forecasts on those data along with their own models and methods.
+
+This isn't quite accurate.
+
+Model output from NCEP and post-processed output is available freely and is the basis for forecasts.
+
+You'll find many articles in the peer-reviewed literature analyzing if TWC, Accuweather, or other third parties add any value to the NWS forecasts.

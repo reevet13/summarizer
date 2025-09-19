@@ -1,0 +1,18 @@
+Neutrinos are what we sometimes call messenger particles.
+
+They are created either at, or very close to, sources of high energy particle acceleration (examples are supernova remnants, supermassive black holes, etc).
+
+Neutrinos:
+No charge, so not bend by magnetic fields.
+Very low interaction or attenuation along flight path.
+Will point back directly to source.
+
+The problem with neutrinos comes from their main benefit, that they have a very low interaction.
+
+So its the fact that the detection of the neutrino in nature tells us something about its source that is important, and something that we could obviously not surmise from controlled experiments in the lab?
+
+The reason we're building these telescopes is that we specifically want to measure the flux and properties of neutrinos coming from astrophysical sources.
+
+we can measure this flux more accurately with a very large neutrino detector - and IceCube is larger than any detector before it.
+
+Accurately measuring the neutrino flux and composition of other astrophysical events such as supernovas also gives us another piece that helps us figure out exactly what happened so many thousands of light years away.

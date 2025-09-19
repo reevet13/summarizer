@@ -1,0 +1,10 @@
+Ideally, you would want to put your body (or foot) as far away from the hinge as possible in order to minimize the leverage that could be used against you.
+That technique may not work for carpeted or slippery floors, or a variety of other situations.
+Considering that any force your upper body puts on the door has to come from the static friction of your feet anyway, the only thing you gain by using your upper body is two feet worth of friction at the expense of bringing your muscles in to the equation.
+As far as the statics calculation goes, you can never exert more horizontal force than you have static friction.
+However, when you press against the door, you are adding multiple other ways to open the door, and adding another point of friction.
+So the answer is dependent on many factors, but it comes down to this:  you are adding additional "minimums" to the force required to open the door.
+Personally, I can hold better (and with less fatigue) if I use the shoe on the bottom of the door in almost all cases.
+However, if you can grip the door handle and exert a direct upward force on it, you would then be able to increase the normal force on your feet without incurring this penalty.
+So toes (in shoe) against door, grab handle and lift as hard as you can.
+Hence the foot method is better.

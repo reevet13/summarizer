@@ -1,0 +1,13 @@
+A molecule can absorb light of a particular wavelength if the energy increase from the absorption can induce a change from one allowed energy state of the molecule to another.
+The possible transitions allowed for the molecules are governed by what are known as selection rules.
+For instance this can be a change in the rotational or vibrational energy level (when the frequency of the vibration or rotation changes) or changes in the electronic configuration of the molecule.
+As electrons orbit the nucleus of an atom, they move so fast/their position is so uncertain that it is best to think of them as an electron shell, or an electron cloud.
+As this shell moves away from the nucleus, it is pulled back to the center, just like a spring.
+And just like a spring, there is a spring constant and a fundamental frequency.
+If the frequency of the light matches the fundamental frequency, the light is absorbed.
+It is this principle of resonance which causes some frequencies of light to be absorbed and others to not.
+But wouldn't your explanation mean that only one frequency of light is absorbed?
+When you're looking at pure elements, that's almost exactly what you get.
+Take a look at absorption and emission spectra and you see very discrete lines.
+When you look at objects in the everyday world, you're looking at many elements and don't get that pure spectrum.
+http://en.wikipedia.org/wiki/Absorption_spectroscopy

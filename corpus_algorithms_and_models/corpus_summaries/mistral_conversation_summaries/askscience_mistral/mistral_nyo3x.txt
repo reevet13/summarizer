@@ -1,0 +1,19 @@
+Sound waves, like all forms of energy, can do one of three things when confronted with an object (a wall): Either reflect off the surface, be absorbed by the object, or pass right through it.
+
+With bass frequencies, they are literally longer than higher frequencies.
+This means they are not easily reflected or absorbed by a wall.
+
+Sound Transmission Loss (STL,the amount of sound level lost from one side of a wall to the other) is dominated by the frequency of the sound and the mass of the wall.
+
+So the thickness of the wall is not as important as the mass.
+
+Things get more complicated, because the STL of a wall is reduced at the resonant frequency of the wall.
+
+Traditionally, the frequencies that warranted the most attention were those in the vocal range to prevent voices from being heard on the other side of the wall.
+
+For your infinite wall:
+
+Reduction = 20log(mf ) - 47
+where m=mass and f=frequency
+
+So if you double the mass you get 6dB more reduction at all frequencies.

@@ -1,0 +1,21 @@
+And the NSA pretty much owns Google, so yeah.
+"In your computerz, spying on u"
+You gotta think, how effective can this be?
+Whats the good of reading 300 million people's email?
+Not only is it a breach of civil liberties but its a pointless breach.
+Use [PF](http://www.openbsd.org/faq/pf/index.html) as your firewall and [GPG](http://gnupg.org/) to secure email.
+So use [a safe OS](http://www.openbsd.org/).
+Oh, it's pretty effective alright.
+How? Simple: Don't read it.
+But archive everything.
+Storage space is cheap, and the NSA has a BIG budget.
+Then if anyone ever seriously challenges you, just grep your archives.
+You're bound to find something that can be used to at least make them look bad -- *or worse*.
+Suffice to say that this entire concept is nonsense.
+The NSA isn't having live people read it.
+They archive them and  then use a search engine to find keywords, then they read the emails that get flagged by their search engine.
+According to the information available on ECHELON, that's pretty much what they do... cast a wide net with keyword searches, and follow up with actual responses to messages with a high score.
+So again, no.  GPG, OpenSSH, OpenSSL, and so on are just fine.
+My point here is that covert channel comminucations are NOT going to be stopped by looking at what ports your PC might be communicating on.
+So if the NSA has rooted your boxes...packet inspection is not really going to help you if they really want you.
+Here's an update in which the services deny it:

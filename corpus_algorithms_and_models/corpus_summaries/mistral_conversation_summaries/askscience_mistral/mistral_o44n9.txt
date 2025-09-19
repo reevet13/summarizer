@@ -1,0 +1,21 @@
+I thought this was an interesting factoid but I don't think it gives much real information.
+
+Maybe they were referring to the relation between how much CO2 is produced from creating enough electricity to keep the computer running for that period of time.
+
+A modern PC draws 50 - 100 Watts in idle mode, lets assume 75 watts.
+
+At a 8 hour night this makes about 365*8*75 Watthours ~= 24kWh every year.
+
+Computers don't produce CO2.
+
+I assume that they are referring to the CO2 produced by power plants that are providing electricity to the computer, but that's going to vary a lot based on your energy sources.
+
+The Carbon Dioxide Information Analysis Center (a government group) estimated in 1990 that [1 kWh of energy resulted in 2.3 lb of CO2](http://cdiac.ornl.gov/pns/faq.html).
+
+262.9728 kWh * 2.3 lb/kWh = 274 kg of CO2.
+
+274 kg/1.977g/L = 138.59 cubic meters of CO2 per laptop per year of use.
+
+That's a little more than a [102 cubic meter double-decker bus](http://www.carbontrust.co.uk/cut-carbon-reduce-costs/products-services/technology-advice/employee-awareness/pages/poster-fact-calculations.aspx).
+
+For reference, humans produce about [1 kg per day](http://cdiac.ornl.gov/pns/faq.html) just breathing, so this laptop is responsible for 33% less CO2 than any windbag who criticizes you.

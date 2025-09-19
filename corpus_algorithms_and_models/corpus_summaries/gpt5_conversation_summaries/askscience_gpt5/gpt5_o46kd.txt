@@ -1,0 +1,8 @@
+Since time slows down as velocity approaches the speed of light, and particles within the Large Hadron Collider are traveling at approximately 99.999999% of the speed of light, how much time passes *for the particle* on a single, 27 kilometer trip around the LHC?
+How much time passes *for the particle* during its entire trip through the LHC, from release to collision? (Accounting for its acceleration.)
+How does the time differential between our perspective and the particle's perspective change the results of the experiments (if at all)?
+About 12 nanoseconds.
+Time is slowed by about a factor of about 7000.
+Is that the time it takes for the entire trip, from release to collision, or just its last trip around at its highest speed?
+That's how long it takes something moving that fast to move 27 km, in its own reference frame.
+90 microseconds

@@ -1,0 +1,17 @@
+We can induce diseases in mice.
+We can genetically alter them to have deletions in their genes to gain or lose important regulatory proteins.
+Some drugs probably can work for animals and not humans only because we would not subject humans to the concentrations that they subject animals to.
+We have different gene expression.
+But since we do have different gene expressions, that means we have different protein/enzyme -producing capabilities.
+There is no need to go up the evolutionary chain.
+Drug discovery mostly chooses a set of models that most closely resemble the disease most easily and cheaply.
+The problem starts because we don't actually understand what causes the disease.
+The next problem is because the animals don't HAVE the disease we're trying to cure.
+There are almost no diseases that we share with experimental animals.
+Hence we induce models.
+And the models aren't perfect.
+There are also plenty of examples of bad application of models.
+However, that's not what happens in real life.
+Because it is hard to publish a study that says "my drug does nothing", so they tilt the initial conditions to make it more likely to see something.
+Drugs fail because we don't understand what cause the disease to begin with.
+We have bad animal models for the disease we are trying to treat and we apply those models poorly.

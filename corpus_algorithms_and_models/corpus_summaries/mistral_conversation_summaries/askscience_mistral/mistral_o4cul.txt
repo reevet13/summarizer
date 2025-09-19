@@ -1,0 +1,17 @@
+Genetic drift has a clear effect on small populations, by random chance certain alleles beneficial or not may get fixed or eliminated.
+
+In larger populations, there is a larger gene pool, meaning that it would take more time for natural selection to show its affect and cause fixation of alleles than in a smaller population.
+
+The "light-feathered allele" has been removed from the population.
+
+TL;DR: Population size dictates the time it takes for natural selection to become evident in a population.
+
+More individuals means that the distribution of genes becomes less random; even though each individuals has roughly the same chance of being born with a given genotype as any other individuals, more individuals means a more complete picture of what is there.
+
+While a greater number of individuals would die in the larger population, more individuals would likely have black wings which makes them more likely to survive and produce offspring that exhibit the same trait.
+
+A larger sample size means a greater probability that the sample is representative of the population; while it means more individuals with the dominant phenotype, it should also mean more individuals with the recessive phenotype.
+
+Aside from genetics, population size affects a number of different things such as intraspecific competition.
+
+In this sense, population size doesn’t really dictate any one thing alone, so much as it inter-relates with a number of other different factors in various different ways.

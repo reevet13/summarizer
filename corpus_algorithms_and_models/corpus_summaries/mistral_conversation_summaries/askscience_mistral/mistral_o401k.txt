@@ -1,0 +1,13 @@
+If they have a pacemaker, metal prosthetic devices or embedded metal particles (as can happen to welders who can get tiny slivers of metal in their eye without realizing it) they could be in big trouble as the pacemaker leads whip around and the metal fragments shred the inner eye.
+
+A rapidly changing magnetic field can cause biological effects—not from any mechanical force felt by the person, but from the current induced.
+
+Stronger magnetic field can lead to observable diamagnetism, where the water in your body can repel the external magnetic field.
+
+If they have a pace maker, the changing magnetic field could also induce a current into the wires, which could send a nasty shock to the heart.
+
+Ions are current carriers, electrolytes are conductors, so they certainly are a "conductor in a magnetic field."
+
+Certainly horrendous accidents have occurred from large neodymium magnets coming together from magnetic attraction to crush fingers etc.
+
+The energy/force that pushes two magnets is not "created" by having them near each other. The magnetic fields are always there (assuming permanent magnets) and simply act on each other when they are nearby.

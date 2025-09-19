@@ -1,0 +1,13 @@
+The shocking answer is yes!
+
+sadly, in one case it has nothing to do with the rain, and in the other it has nothing to do with the earbuds.
+
+Could the shock be damaging? [Yeah](http://emedicine.medscape.com/article/770642-overview).
+
+It would have to be a perfect storm (damp skin that reduces resistance from the normal 100K to 200K Ohms to around 1K Ohms, exposed wiring, a faulty device, etc) to do real damage to a human being.
+
+Earphones usually operate in mV ranges.
+
+If you get water into your earphones, the only thing that would probably happen is that you won't hear the music anymore.
+
+So in *theory* there could be a danger, but in real-world normal circumstances there's little to no risk?

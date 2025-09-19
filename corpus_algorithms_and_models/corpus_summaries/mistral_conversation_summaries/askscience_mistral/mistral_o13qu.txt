@@ -1,0 +1,11 @@
+does something like this exist ? or is it just me inventing things
+
+The rate of transfer depends on a few things, one is the **thermal conductivity** of the material, another is the surface area of the two materials in contact with each other.
+
+So placing a thick sheet of rubber between two metal blocks of different temperature would vastly slow the rate of energy exchange via conduction between the two bodies.
+
+Accelerating the rate of exchange is not quite as easy because the rate of energy flow from the warmer block to anything colder is also determined by the thermal gradient inside the block itself.
+
+The best (only?) way to passively accelerate this process is to increase the surface area with a material with a higher thermal conductivity than the two blocks.
+
+**Thermal conductivity** is a characteristic of the material itself.

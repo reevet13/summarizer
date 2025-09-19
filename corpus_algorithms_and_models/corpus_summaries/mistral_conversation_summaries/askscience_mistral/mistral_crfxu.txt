@@ -1,0 +1,11 @@
+Solar formation is dated in two ways: the Sun's current main sequence age, determined using computer models of stellar evolution and nucleocosmochronology, is thought to be about 4.57 billion years.
+
+We can measure the sun's mass, energy output, and chemical composition.
+
+On earth, we can measure the mass of various atomic nuclei, the energy output of various fusion processes, and the age of the oldest rocks.
+
+For example, we know if a star with the sun's mass and energy output were more than about 10 billion years old, it would have burned up its nuclear fuel by now.
+
+Similar, if the sun were less than a billion years, it wouldn't have had time to create the helium, carbon, and oxygen we can see in its chemical makeup.
+
+With more observations, we can built better theories, tighten those upper and lower bounds until we have a really good estimate: 4.5 billion years.

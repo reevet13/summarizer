@@ -1,0 +1,11 @@
+Friction forces are very important in this case. You cannot neglect them.
+
+From the table, we get that this bullet loses 23% of its kinetic energy when it travels 100 yard (91 meters).
+
+Initial travel speed is 1104 m/s, and initial energy is 1772 J.
+
+From these calculations, I get that energy is null at about *1.7 km*.
+
+This is a gross overestimate because I neglected solid friction from the air on the bullet which should become more important at slow speeds.
+
+Using my numerical solution, I calculated the height to be 4.3 km (this is using a drag coefficient of 0.1. A smaller drag coefficient will give a larger max height).

@@ -1,0 +1,12 @@
+[This website](http://library.thinkquest.org/C006011/english/sites/dampfturbine.php3?v=2) puts the efficiency of steam turbines at 40%.
+That is very efficient from an engineering perspective, but you are still losing 60% of the energy.
+Until we find a better way, steam turbines are a necessary evil.
+Carnot says that the maximum allowable efficiency increases if either the hot temperature is raised, or the cold temperature is lower.
+(Note that power plants don't run at full Carnot efficiency, but they are pretty close - most nuclear/coal power plants operate around 40% absolute efficiency compared to ~50% theoretical max).
+However, electric companies don't get paid based on how much energy they save or what their efficiency is.
+Steam cycles are cheap, easy to make, and easy to manage, and they remain the most cost-effective way to generate large-scale electricity.
+A simple, cheap power conversion process with 40% efficiency may be far better than a complex one that needs hazardous materials with 50% efficiency.
+But the highest-efficiency heat engines in use today are not (solely) steam plants, and certainly not nuclear.
+Siemens claim an efficiency of 60% for their newest gas turbine when run in a combined cycle.
+Power is not stored on the grid, the supply must match the demand nearly exactly, at all times.
+In short, it's good enough the way it is. "Better" is defined by more cost effective, not more efficient.

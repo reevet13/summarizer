@@ -1,0 +1,14 @@
+Yeah, making the circuits bigger would make it much worse.
+In general smaller circuits are more efficient because the same signal is transmitted over a smaller distance.
+They would be able to support higher temperatures, but they would be much slower.
+Size is very important.
+The old CPUs had much larger circuits, but you couldn't get very high frequencies through them without a large amount of power (which would generate ungodly heat).
+Small wires are better for speed, big wires are better for heat.
+You can increase voltages to improve switching times, but you end up with increased power consumption, which is basically what the problem was to begin with.
+Fast becomes a problem when you scale up because of the fundamental limits of the universe.
+It sounds crazy, but light only travels 10cm in the time it takes a modern CPU to take one cycle.
+This means that as you scale up you lose the capability of running a synchronous system if you want to maintain (or increase) the clock frequency.
+Wire delay is a function of the product of capacitance and resistance.
+Interconnect length is the bottleneck.
+Wire delay does provide the theoretical lower limit to CPU size, but as other posts in this thread have pointed out, current CPU's are more closely limited by the speed of light.
+The maximum speed of a processor will never be higher than 3e8 / (length of longest connection).

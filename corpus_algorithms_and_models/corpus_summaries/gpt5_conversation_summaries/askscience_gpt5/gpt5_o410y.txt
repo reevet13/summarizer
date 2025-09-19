@@ -1,0 +1,6 @@
+There is 9 ^ 1021 stars and about 160 million websites (including blogs and such).
+So, these two are incomparable.
+Depends what you consider a page.
+If these count as pages, then you'll get a combinatorial explosion that exceeds the number of objects in the universe?
+In that case, the number of web pages is infinite.
+I can google every number from 1 to a billion billion billion, and each search will give me a "unique" page, even if that page is "93063740748244860215970382950 did not match any documents".

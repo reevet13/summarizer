@@ -1,0 +1,12 @@
+Basically, your question is "how do things stay in orbit," right?
+The short answer is because the things are moving really fast.
+Gravity pulls inward, but by the time the thing has been pulled towards the source, it's speed has moved it out of the way.
+your string is only pulling the apple straight inwards, there's no outward force, and yet it doesn't immediately come in and hit your hand.
+Perhaps this way you can more intuitively see that the apple/planet keeps going because at each position it's already moving in a direction that's not towards your hand/the sun.
+We think of gravity as "things fall towards masses," but that's not really correct.
+The correct interpretation is "a force is exerted on objects towards masses."
+In the case of the Earth, that force is basically exactly what it takes to stay in orbit.
+For this force to move it any closer, the Earth's velocity would need to decrease.
+Basically, it is because the orbiting body is in a state of constant free fall, but it is also moving in a perpendicular direction.
+First, because the Sun's pull on the Moon is very nearly constant in its entire orbit around the Earth.
+However, the Moon's orbit around the Earth is a stable equilibrium.

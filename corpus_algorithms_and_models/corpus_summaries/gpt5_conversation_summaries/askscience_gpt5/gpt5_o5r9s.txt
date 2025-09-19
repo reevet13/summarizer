@@ -1,0 +1,15 @@
+So I understand that we consider gravity to be the force holding us (and everything else) against the Earth.
+But how do we know that gravity is the force keeping the Moon in orbit and keeping the Earth in orbit around the Sun?
+There is not zero gravity between the Earth and the Moon.
+The Earth's gravity still has a fairly strong influence there.
+Orbiting vehicles are in freefall, so that's why astronauts experience "weightlessness".
+Gravity actually spreads out everywhere, just like light, - but at some point is so small as to not be measurable (or detectable).
+At local distances gravity keeps things bound.
+This is why our solar system is bound (is stronger than the force of expansion in that region), our galaxy is bound, and why it moves with a local group of galaxies.
+There is an L1 point in the Earth-Moon system where their gravity cancel out.
+But you are correct in that this is only a single spot between them.
+Everywhere else, gravity will  matter.
+Gravity does not stop.
+If you're asking why astronauts experience weightlessness in earth's orbit, it's because they're... well, orbiting around the earth.
+They experience 'weightlessness' for the same reason we don't feel a gravitational pull towards the sun: we're in orbit around it.
+All objects exert a force of gravity on each other that is directly proportional to the mass of the objects and inversely proportional to the square of the distance.

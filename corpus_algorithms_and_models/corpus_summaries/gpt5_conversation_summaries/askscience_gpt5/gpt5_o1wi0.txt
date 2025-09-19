@@ -1,0 +1,5 @@
+In air at sea level, the speed of sound is 343 meters/second.
+In water under the same conditions, the speed of sound in 1482 meters/second.
+It would be really hard to break the sound barrier with a propeller tip underwater.
+This process, over time, causes a lot of damage to propellers.
+It is called [cavitation](http://en.wikipedia.org/wiki/Cavitation).

@@ -1,0 +1,15 @@
+My understanding is that dimples on a surface can lower the effective air resistance of an object through boundary layer effects (for example around a golf ball).
+Could a ball (or other object) cut more easily through the air if it was emitting many tiny jets of air across the entirety of its surface?
+You mean a board with tiny holes in it? That would case more drag.
+In order to do this, it would have to be sucking in an equal amount of air to that which it is emitting.
+The air coming out would cause turbulence and not the smooth layer you'd need.
+Golf balls are dimples and not holes, the dimples in the ball are more like dips in the surface.
+You'd be better off surrounding an object with dimples if you wanted to reduce drag.
+The holes that the jets would be emitting from would cause a bigger disruption in the layer you're after.
+Add in the air coming out and it gets worse.
+Yes, in fact the US navy uses a similar idea to make it's torpedos go faster.
+Aircraft wings have been created with holes and plumbing to suck off the turbulent boundary layer of air near the skin  and promote laminar flow.
+This increased the wing efficiency.
+It was also impossible to keep clean.
+[This ] says it's because while the dimples do add to drag the spinning causes lift which lengthens the balls trajectory.
+Keep in mind that on an air hockey table, the cushion of air prevents friction between the puck and the table.

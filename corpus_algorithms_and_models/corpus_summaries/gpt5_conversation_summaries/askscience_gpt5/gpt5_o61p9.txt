@@ -1,0 +1,10 @@
+The problem is, when you're talking about spacetime curvature, you're talking about the relativistic theory of gravity.
+When you're talking about force-mediating particles, you're talking about a quantum description of gravity.
+You may have heard that quantum mechanics and relativity don't agree with one another.
+No, a working theory of quantum gravity doesn't have to converge at high energies.
+In fact, the entire quantum gravity program isn't even aimed at doing that, it's just trying to find a theory which gives a description of quantum space-time and how it interacts with mass and energy.
+The curvature of spacetime is described by a matrix called the *metric tensor* which has different values at each point in space and time, telling you exactly how the usual Pythagorean theorem is modified to measure distances.
+Because it's an object with a certain value at each point in spacetime, it's what we call a field.
+In quantum theory, particles arise as energetic excitations in fields.
+Similarly, the metric tensor which describes spacetime curvature is also a field, so in principle it should be able to be quantized as well, and its excitations are particles called gravitons.
+As far as quantization is concerned, there isn't a quantization of gravity that we have been able to experimentally determine, but the quantization of other fields (electromagnetic, quark, lepton, etc...) leads us to expect that maybe this one can be quantized too.

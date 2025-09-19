@@ -1,0 +1,11 @@
+Yes, blue light in the hours prior to sleep onset seems to suppress melatonin production, delay sleep onset, and subsequently alters patterns of sleep during the night.
+
+As far as I'm aware and have read, regardless of frequency, light will suppress the production of melatonin.
+
+Past research has suggested that the melanopsin system (which is hypothesized to be related to melatonin production) is most sensitive to blue light frequencies.
+
+If red LEDs were used instead, there would be virtually no blue light.
+
+The proteins that sense this light arose first as a photolyase that mediated DNA repair in non placental mammals and was copied in a whole genome duplication event.
+
+You are correct that the RGC's in the melanopsin system are *most sensitive* to color frequencies near the blue spectrum (peak sensitivities have been estimated between 420-480 nm).

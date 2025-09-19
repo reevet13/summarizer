@@ -1,0 +1,17 @@
+At the center of the earth, you would feel weightlessness, because the mass surrounding you would be pulling on you equally in all directions.
+
+Ok, this is a little different.  The simple answer is: Not that you would notice.
+
+You can use Gauss' Law to calculate the strength of gravity at a particular radius *r* from the center of the earth.
+
+The answer to your question is that the ball would accelerate *slower* than 9.8 m/s^2.
+
+You would experience less gravitational force, so things would fall slower.
+
+[Gauss Law](http://en.wikipedia.org/wiki/Gauss%27s_law_for_gravity) basically says that you are only affected by mass radially inward of your current location, if the mass is distributed with a spherical symmetry.
+
+g = 9.8 r/r_earth [m/s^2]  for r inside the earth.
+
+So 1000 mi~ 1600 km inside the earth (earth radius is ~6400 km), the radius would be ~4800 km.  Hence g ~ 7.3 m/s^2.
+
+This assumes the earth is uniformly dense - which it is not.

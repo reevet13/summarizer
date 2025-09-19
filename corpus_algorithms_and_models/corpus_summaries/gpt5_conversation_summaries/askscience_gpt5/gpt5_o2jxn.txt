@@ -1,0 +1,13 @@
+So as far as I understand, inflation is a very, very, VERY fast expansion of the universe in a very short period of time after the big bang.
+It solves the problem of the smooth distribution of matter and energy in visible space.
+The important features of the Cosmic Microwave Background are not random, though.
+The CMB is remarkably relatively uniform, without strong large-scale features in it.
+You're right that inflation is constructed around the phenomenon.
+It's the easiest way we know of for explaining the phenomena, but maybe it's not right.
+Many theorists, both string and not string, are working on models where inflation is explained by some processes in quantum field theory and general relativity, and they are trying to generate predictions from these models.
+Astrophysicists are also working on collecting more data on the CMB from the Planck telescope.
+When we say, that "the theory predicts CMB fluctuations accurately", we don't mean, that we can reproduce the eact shape of the CMB fluctuations.
+It is just the statistical distribution of various quantities that you can calculate from it.
+And yes, the inflation model is just workaround, in a way.
+The basic problem is, that if we look in two opposite directions as far as we can see, the universe, or more precisely temperature of the CMB (and hence of the universe) seams to be the same.
+The easy answer is, that they used to be very close in the beginning, and then the inflation happened.

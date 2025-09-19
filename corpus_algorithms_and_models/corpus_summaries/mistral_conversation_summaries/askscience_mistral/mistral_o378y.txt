@@ -1,0 +1,33 @@
+Unwrap the strands that make up the ends of the rope, for a couple of meters on each end.
+
+Cut off half of the strands from each end.
+
+Wrap the remaining strands together to form one same-thickness rope again.
+
+Weld the ends.
+
+The strength is mainly in the friction of the strands being wrapped around one another.
+
+If the splice is long enough, the frictional forces can be stronger than the regular strength of the wire rope.
+
+If you notice a painted spot on the ski lift cable, that's the join.
+
+There are only a handful of people in the world that know how to do this.
+
+Think of something similar to [this](http://constructionmanuals.tpub.com/14251/img/14251_130_1.jpg), but with wire and many many more strands.
+
+I've assisted with a cable splicing not long ago.
+
+There are a handful of specialists in North America who perform the task.
+
+[Here](http://en.wikipedia.org/wiki/Chairlift#Rope) is a brief on the cables materials.
+
+Firstly, when the cable is wrapped around the bullwheels the twisted configuration places each strand sometimes closest to the center of the bullwheel and sometimes at the furthest radius to the center of the bullwheel.
+
+This twist period must be shorter than half the circumference of the bullwheel.
+
+Secondly, the twisting increases the friction between strands.
+
+This is extremely important as each strand has enough friction to it's neighboring strands that they can support each other in case a strand breaks or is otherwise compromise.
+
+One technician told to me that they twist the individual strands into each other over a length of about 50m.

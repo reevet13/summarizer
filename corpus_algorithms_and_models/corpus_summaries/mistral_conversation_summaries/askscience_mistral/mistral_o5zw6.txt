@@ -1,0 +1,11 @@
+"To conduct their time-stopping experiment, described this week in the journal Nature, Gaeta and colleagues aimed a laser beam at a probe and passed the beam through a device called a time lens."
+
+"While a conventional optical lens bends a beam of light in space, the time lens modifies the light's temporal—not spatial—distribution."
+
+"It's a way of being able to really control the properties of a light beam in the time domain, and shape and distort and do funny things like this to light in the time domain," Gaeta said.
+
+"This changed the frequency and wavelength of the beam so it moved at a different velocity, and this is why a [time] gap was created," he explained.
+
+"A second pulse laser on the other side of the time hole reversed the changes, restoring the beam to its original properties."
+
+"In the experiment, an event that happened inside the time hole wasn't detected by the probe."

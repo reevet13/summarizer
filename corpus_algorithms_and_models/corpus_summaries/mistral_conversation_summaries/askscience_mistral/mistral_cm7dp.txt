@@ -1,0 +1,11 @@
+The compounds that make lemon smell and orange smell are different by one atom being in a different configuration.
+
+Most [stereoisomers](http://en.wikipedia.org/wiki/Stereoisomer) will do different things in a biological system.
+
+The example in the opening paragraph of stereochemistry in my book is: fumaric acid (a metabolic intermediate) and maleic acid (toxic) are the same except that fumaric acid is a trans isomer and maleic acid is cis.
+
+Sometimes (maybe most of the time) one enantiomer has biological activity and its mirror image does not.
+
+An example of atom substitution affecting biological activity is acetic acid (in vinegar) and [fluoroacetic acid](http://en.wikipedia.org/wiki/Fluoroacetic_acid) (poison).
+
+methyl anthranilate is grape flavor and methly salicylate is wintergreen, a NH2 vs and OH is the only change.

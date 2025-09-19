@@ -1,0 +1,10 @@
+As rrauwl pointed out, it does exist, but is just rare.
+Cancer is the result of many accumulated mutations over time, usually a result of small errors building up as a cell divides over its lifespan.
+Every time a cell divides, there are a couple of errors in replicating the 3 billion base pairs in the human genome.
+However, as can be seen [here](http://en.wikipedia.org/wiki/Cardiac_muscle), "researchers estimated that a 20-year-old renews about 1% of heart muscle cells per year".
+Since cardiac muscle (heart cells) divide so slowly, there is not much risk for accumulated mutations, and thus even the few rare cases of heart cancer arise from other cancers spreading to the heart rather than originating in the heart.
+That's also why you see cancer frequently in places like the lung, where cells are damaged by smoke or other irritants, or the skin, both places where cells must be replenished daily (lots of dividing = more mutations).
+The most common cancers in the brain are not cancers of neurons, but of the cells that support the neurons-- [glia](http://en.wikipedia.org/wiki/Neuroglia)
+In addition, the brain is [immune privileged area](http://en.wikipedia.org/wiki/Immune_privilege) with limited access of many types of immune cells, including cells that fight cancer.
+This limited accessibility may contribute to the increased frequency of brain cancer.
+If we were to slow the division of those cells we would die.

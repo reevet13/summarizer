@@ -1,0 +1,2 @@
+If it's a constant sound (like after an explosion) then that's called Tinnitus and is actually not a sound at all.
+The high pitched noise you hear from electronic devices is usually the switching that happens inside, like a switched mode power supply ([smps](http://en.wikipedia.org/wiki/Smps)) or a transistor inside switching at an audible frequency.

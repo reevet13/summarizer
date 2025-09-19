@@ -1,0 +1,5 @@
+When it's raining or snowing it's also quite often windy, and it's the wind that causes the power lines to hum.
+The phenomenon involved is called vortex shedding and is explained in textbooks on flow-structure interaction, such as that by Blevins, or [Wikipedia has quite a helpful animation](http://en.wikipedia.org/wiki/Vortex_shedding).
+Some Googling suggests that a [corona discharge](http://en.wikipedia.org/wiki/Corona_discharge) might cause audible noise near high voltage noise and that it may be exacerbated by humidity (hence why you notice it in rain or snow?).
+The way to tell whether the noise is fluid dynamic or electrical is that if it's electrical it will be at a constant, well-defined frequency related to the mains frequency of 50 or 60 Hz.
+If it's fluid dynamic related, the frequency is very often directly proportional to the wind speed (they are linked by a parameter called the Strouhal number) so the frequency you hear would tend to fluctuate rather than remain constant as the wind speed will tend to vary.

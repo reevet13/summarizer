@@ -1,0 +1,11 @@
+Well, first of all, you can't use entanglement to transmit actual data.
+But you can't control which one is which, so you can't really use that for communication.
+Since your friend can determine whether the sock boxes were interfered with before he received them, this allows you to transmit your orders with mathematically perfect security.
+This has actually been done (with pairs of entangled photons), but the equipment is expensive and prone to interference.
+So far, I think we've managed to send the photons over distances of several kilometres without breaking the entanglement.
+It is possible for quantum events to influence each other in a way that would require faster-than-light travel, but no useful information can be transmitted by such means.
+This machine can operate faster than light, and we can both have one (for two-way communication), but it cannot be used for useful communication because you do not know what colour my sock was.
+And there is no way for you to find out except by waiting for me to tell you at slower-than-light speeds.
+Still, when we both meet up and compare notes, we will have to conclude that some sort of FTL signal was transmitted.
+It's just that you can't carry information that way.
+No, because you'd need to entangle it with the other photon of the pair, which is sitting in my lab and sealed from outside interference.

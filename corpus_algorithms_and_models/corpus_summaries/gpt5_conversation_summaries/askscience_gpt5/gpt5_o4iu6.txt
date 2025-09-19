@@ -1,0 +1,4 @@
+Is it possible to construct an amateur radio observatory?
+If that isn't enough for you, it is possible to build receivers to listen but in a city I doubt you will be able to cut through the clutter.
+Try [this](http://www.radio-astronomy.org/node/142) to get started in radio astronomy.
+They collect more data than they can analyze, hence the SETI at home project.

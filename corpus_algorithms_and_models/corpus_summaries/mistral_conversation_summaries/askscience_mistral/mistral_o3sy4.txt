@@ -1,0 +1,11 @@
+At this speed, the factor of change I'm feeling is roughly 12, meaning 1 hour to me is about 12 hours to the observer.
+
+This means that although I'll still feel as if I'm accelerating at 1000 m/s^2, the observer will observe that I am accelerating at twelfth of that (~83 m/s^2).
+
+I keep on accelerating until my speed is 1 km/s away from the speed of light, my factor of change is now just under 400.
+
+To me, I am still accelerating at 1000 m/s^2.
+
+To the observer, I am only accelerating at ~2.5 m/s^2.
+
+Repeat until my acceleration to the observer approaches 0.

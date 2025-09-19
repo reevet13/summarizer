@@ -1,0 +1,19 @@
+Relativistic equations talk about conservation of 4-momentum.
+
+4-momentum is conserved.
+
+Lorentz invariant quantities are independent of the frame of reference.
+
+E^2 = (pc)^2 + (mc^2 ) ^2
+
+This energy E is conserved in a given reference frame (though it won't have the same value across different reference frames).
+
+In special relativity, physics is time symmetric, but in general relativity you can have time asymmetric physics.
+
+In an expanding spacetime you can't define a conserved energy because it has a clear time asymmetry.
+
+If we conserve 4-momentum, that means that energy and each component of momentum are conserved.
+
+P^2 = E^2 - px^2 - py^2 - pz^2 = m^2.
+
+I stand by the symmetry principle of Noether's Theorem.

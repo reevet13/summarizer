@@ -1,0 +1,11 @@
+Acceleration would decrease over time as you moved away from the Sun.
+
+It would depend on the surface area of the sail and the mass of the ship.
+
+Probably you would accelerate within the heliosphere, drift across interstellar space, and decelerate in the target star's heliosphere.
+
+The wikipedia article someone else linked had some magic (i.e. invented) numbers giving a speed of 30 AU per year.
+
+There being about 63,000 AU in a light year and about 4.3 light years to the nearest star, that's about 9500 years.
+
+*Theoretically* since a sailboat can (proven) sail faster than the wind speed, you could probably get up to almost light speed, given a few thousand (tens of thousand?) or so years to accelerate.

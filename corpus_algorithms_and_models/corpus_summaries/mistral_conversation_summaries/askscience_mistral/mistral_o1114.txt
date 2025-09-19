@@ -1,0 +1,15 @@
+You can't have still air with a flame, as the flame will heat the air and the air will start circulating.
+
+The microgravity flame, prior to it burning out, does not flicker, and is [spherical](http://www.scientificamerican.com/article.cfm?id=how-does-a-flame-behave-i).
+
+It does, in every direction at once, preventing new air (and oxygen) getting to the flame.
+
+"Low Velocity" flames will still flicker, even in a windless environment.
+
+The reason being is the combustion reaction yields inherent instabilities causing turbulent flow of the outbound products.
+
+Many times the flicker is due to uneven fuel flow through the wick.
+
+The answer is because of the oxygen in the air. It's not 100% consistent throughout so the flame is drawn to where the oxygen is most abundant- causing it to flicker around.
+
+The short answer is yes, because of naturally occuring combustion instabilities and hydrodynamic instabilities.

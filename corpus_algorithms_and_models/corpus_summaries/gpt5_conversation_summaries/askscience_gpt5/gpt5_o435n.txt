@@ -1,0 +1,9 @@
+Since the shuttle is almost always launching in the same direction (north-east), wouldn't it have been easier to simply build the launch pad in closer alignment to the intended inclination?
+Your assumption about older launchpads is correct... they were basically leftovers from the Apollo days.
+Interestingly enough, the Saturn rockets also had to perform roll programs, but this is because they had to fly varying inclinations in order to accommodate the correct trans-lunar trajectory for different landing sites on the Moon.
+If my memory serves right the reason for the roll manoeuvrings is to get that the orbiter reaches orbit "upside down" as the "upside" of the space craft (cockpit and hanger doors) needs to face the surface of the earth instead of facing space.
+The shuttle actually rolls upright a couple of minutes before main engine cutoff and orbit insertion.
+The Shuttle straddles two flame trenches -- one for the Solid Rocket Motor exhaust, one for the Space Shuttle Main Engine exhaust.
+The access tower and other support and service structure are all oriented basically the same way they were for the Saturn V's.
+So my original assumption about the towers being leftovers was right.
+But I hadn't thought about the flame trenches which, I imagine, would be far more difficult to change (it would be far easier to build a new launch pad than to tear up the old one, and even easier to just do a small roll after launch than tear up or build anything new)

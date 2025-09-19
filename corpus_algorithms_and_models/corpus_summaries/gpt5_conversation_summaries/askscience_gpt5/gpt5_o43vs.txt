@@ -1,0 +1,15 @@
+There are kind of two interpretations of this phenomena based on whether you are taking the "light is a particle" or "light is a wave" approach.
+Eventually, the excited electron drops back down to a lower (usually the original) energy level and emits a photon of equal energy as the one that just went in.
+Now, the photon is emitted in a random direction, so sometimes it just gets shot further into the surface and the same process repeats.
+If, however, the photon gets emitted out of the surface, it can travel back to your eye, which you see as a reflection.
+For smooth surfaces, the chances that a photon can travel, unimpeded back to your eye is increased.
+"Light as a wave" - As we know, however, light can be thought of as a planar electromagnetic wave.
+When these waves strike a surface, different boundary conditions exists depending on the properties of the material.
+There are two types of reflection that go on, diffuse and specular (see the bottom section of this http://www.newworldencyclopedia.org/entry/Reflection_(physics)).
+Diffuse reflection is what I described in my "light as a particle" section.
+There is another type of reflection called specular reflection.
+The ball hits the wall and bounces off at the same angle of incidence.
+Specular reflection is very difficult to describe using the "light as a particle" interpretation, so its generally taught using the wave terminology.
+In short, however, both theories are correct.
+Light displays properties of particles and waves.
+Different properties manifest themselves depending on the situation.

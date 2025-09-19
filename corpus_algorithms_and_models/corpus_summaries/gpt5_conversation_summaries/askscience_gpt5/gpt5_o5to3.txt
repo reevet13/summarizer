@@ -1,0 +1,13 @@
+So my question is then, **if a group of astronauts landed on the moon in our times, in what ways could they verify that they were actually on the surface of the moon?**
+So I'll clarify and say that for a satisfactory answer, the machine that could replicate the actions would have to be so impractical, large, expensive, or difficult to actually construct that it couldn't be feasibly built in these times.
+In 1969, the Apollo 11 team dropped some retro-reflectors on the moon.
+Anyone with the know-how and a few bucks could easily send a laser signal to the moon and measure the response, verifying for themselves that man landed on the moon.
+Send a laser from the Moon to Earth.
+Place new reflectors on the Moon in unique locations.
+The surface of the moon is covered with dust and a bit of basalt - nothing else.
+Neither of these are reflective materials, so if your laser light shines back at you, you know that you're shining it at something man-made.
+If you dropped new reflectors in a different enough location, you could distinguish them.
+The reflectors on the moon are still used by the Lunar Laser Ranging Experiment.
+That link points out that "at the Moon's surface, the beam is only about 6.5 kilometers (four miles) wide."
+Hubble can't, but LRO could.
+And did.

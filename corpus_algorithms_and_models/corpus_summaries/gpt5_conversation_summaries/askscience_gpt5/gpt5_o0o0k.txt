@@ -1,0 +1,12 @@
+They tested this on MythBusters.
+Two identical trucks driven the same identical distance at the same speed.
+They found that a truck gets better mileage with the gate up!
+They further found that while that was true, fuel economy was best with a net in place of the tail gate.
+Mythbusters is not science.
+They are great promoters of the scientific method, but their work is not nearly thorough enough to be real science.
+It's minimally better gas mileage if the tailgate is up. [Check it.](http://papers.sae.org/2004-01-1146)
+This is (primarily) due to pressure drag on the truck.
+With the gate up, a turbulent air cushion forms in the bed, much like what happens in the dimples in a golf ball.
+This cushion effectively makes a more gradual drop-off from the back of the truck cab, and creates a shape more like the second image in the first link in this comment.
+The flow separates from the truck later and the wake region behind it is smaller.
+Repeatability is necessary for science.

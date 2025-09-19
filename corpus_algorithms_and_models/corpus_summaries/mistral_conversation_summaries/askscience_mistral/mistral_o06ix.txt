@@ -1,0 +1,18 @@
+That's not really how light works though.
+
+Black skin does absorb more light in itself.
+
+The question remains, however, Which skin color lets more light pass through it.
+
+I believe that dark skin is more opaque, and light skin more translucent.
+
+When light hits a surface, it can be:
+
+* Reflected
+* Absorbed
+* Transmitted
+
+The amount of light transmitted is what would affect the darkness when you close your eyes.
+
+Absorbed: Material absorbs light energy and converts to heat or another form of energy.
+Tranmitted: Light energy travels through material relatively unimpeded.

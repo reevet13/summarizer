@@ -1,0 +1,10 @@
+It doesn't get exponentially weaker, it goes as 1/r^2 until you start looking at absorption from gas and dust.
+We can detect radio signals from space, for instance from pulsars or from the CMB.
+The thinking is that if there are civilizations that are communicating across vast distances, they are using frequencies that are not absorbed by interstellar gas and dust.
+Thus, it would be wisest to search in those frequency bands.
+I think that the answer might be that we don't necessarily expect to find a signal - but if we did, it would be quite something!
+To me the bigger question is "what are the chances of another civilization actually brodcasting a signal?".
+If we moved on to other forms of communication and completely get rid of broadcasting signals there would only be a 10,000 light year thick "bubble" of signals that once past another planet with their own SETI program would be completely missed.
+However I do still think it is a worthwhile program given its relatively low cost and incredible return if it does actually work.
+Directional signals (aimed at our solar system, for example) have a pretty good chance of reaching us.
+I don't think it's particularly foolish to listen to a band of EM which is known to pass through interstellar gas and dust.

@@ -1,0 +1,5 @@
+How much additional water would it take (as a percentage of the actual total) to cover the Earth completely?
+Wikipedia claims the average height of the land above sea level is 840m.
+The oceans cover 361,800,000 km^2, so to bring that sea level up to the 840m average would take about 300,000,000 km^3, which is like 23% of the water we have already.
+For an upper bound we can take 1km in the landless model which we know should overestimate things, and get 500 million km^3 which is 38% or so.
+So this kind of gives one a feel for the scale, something like another 20%-40% of what we have now would probably render most of the land uninhabitable.

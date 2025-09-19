@@ -1,0 +1,9 @@
+The unsatisfactory state of affairs in quantum general relativity is that the only computational tool we currently possess offers the choice between two hopelessly incorrect predictions:
+> * Either quantum gravitational effects are infinitely strong;
+> * Or else the universe blows up instantly.
+
+It's because particle-antiparticle pairs can spontaneously appear and annihilate so long as they obey the uncertainty principle.
+
+What's interesting is that the experimental vacuum energy and the theoretical one differ by a factor of 10^120.
+
+A less formal explanation is that Quantum Theory and Relativity have conflicting descriptions of space-time. Its flat in Relativity but foamy in the quantum description.

@@ -1,0 +1,7 @@
+No, this is not possible at any large scale (at extremely small scales photons have been delayed by having their wave-front reversed, or by being passed through novel metamaterials, but this does not accomplish what you are asking).
+
+If a surface is 100% reflective to the frequency of light - then it would be possible to trap the light.
+
+But don't waste time trying to think about this because there is no such *physical* material.
+
+The mirrors bounce the photons back and forth as more and more get added to those going exactly parallel.

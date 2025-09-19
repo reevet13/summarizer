@@ -1,0 +1,10 @@
+It's a fascinatingly simple idea.
+A light pulse has a certain bandwidth (i.e. it contains a bunch of different frequencies), which is larger the shorter the pulse is.
+In this time-cloaking experiment, they "pull apart" this light pulse by accelerating the blue part of the spectrum and slowing down the red part of it, creating a spectral hole in the middle.
+This can be achieved by cleverly engineering an optical material's dispersion curve, i.e. the frequency-dependent refractive index experienced by the light pulse.
+Now that you have that spectral hole, you can put an event inside which is now "cloaked" (not really, but ok).
+Put the pulse together afterwards by reversing the initial dispersion and it will now look like that event in the middle never happened, the light pulse comes out exactly like it went in.
+The previously demonstrated "optical cloak" works just in very limited ways, for a single frequency which is bent around a tiny, specially engineered object.
+The new experiment is an exact temporal analogue of the spatial optical cloak.
+Optical manipulation is time manipulation whenever light pulses are used to measure time.
+You wouldn't be able to use this to cloak any sort of stationary object, just an event happening during a very well defined (and currently extremely short) time period.

@@ -1,0 +1,13 @@
+The picture is the perfect time for a satellite to appear; it's just getting to be either dawn or dusk and therefore the satellite will be in the light.
+
+Based on the brightness relative to the stars, I'd rule out meteor.
+
+An airplane is also not terribly likely, as they tend to leave multiple trails, and usually red/green for the left/right side of the plane.
+
+[OAO 2 Rocket](http://www.heavens-above.com/PassDetails.asp?Size=600&amp;SatID=3598&amp;lat=37.775&amp;lng=-122.418&amp;alt=60&amp;loc=San+Francisco&amp;TZ=PST&amp;Date=40494.1178353789) looks like a fairly close match.
+
+Satellites that you can see usually appear to be about the same size as stars, the obvious distinction is that you can easily see them moving across the sky.
+
+I would guess it probably wasn't a satellite (or at least a known one).
+
+The only other thing I would guess it might be is some sort of reflection within your camera from the nearby bright moon.

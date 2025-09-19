@@ -1,0 +1,27 @@
+There's a lot more water in the corn and turkey than there is in the mashed potatoes.
+
+Microwaves heat food by exciting water molecules.
+
+Microwaves are [standing waves](http://en.wikipedia.org/wiki/Standing_waves), which mean that their peaks and valleys do not move.
+
+A good way to heat food more evenly is to turn the power level down and increase the cook time.
+
+Additionally, the entire inside of the microwave is not bathed in a constant field.
+
+This is why most microwaves rotate the food - so that it passes through the various zones.
+
+Microwaves do not just affect water.
+
+They also affect sugars and fats as well.
+
+Microwave heating is more efficient on liquid water than on frozen water, where the movement of molecules is more restricted.
+
+**Microwave heating is sometimes explained as a resonance of water molecules, but this is incorrect: such resonance only occurs in water vapor at much higher frequencies, at about 20 GHz.**
+
+While it is *technically* true that other polar molecules may absorb microwave radiation at 2.4 GHz, it is really irrelevant because *water* is much more effective at absorbing microwaves than anything else in your food.
+
+(1) is the penetration depth (the depth of maximum heating), which depends on the amount of water in the object.
+
+(2) The thermal conductivity of different foods is different -- it takes time for the region being effectively heated to spread into the non-heated regions.
+
+(3) The distribution of microwave radiation is not even throughout the volume of the microwave.

@@ -1,0 +1,11 @@
+I can tell you it shows very generalized data which is fun for trivial tasks and biofeedback, but it isnt as versatile as something like the Emotiv headset.
+
+The Neurosky only measures the scalp in general and cannot differentiate any specific areas and to be quite honest it is amazingly uncomfortable.
+
+When it is hooked up to a person it does really well at cancelling noise.
+
+With any electro-something-ography, you must be careful not to over-interpret.
+
+With only one electrode pair & a huge space between them, this is exceptionally non-specific.
+
+I would be hesitant to tell someone that a single electrode recording actually says anything about "how hard they're concentrating"

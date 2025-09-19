@@ -1,0 +1,11 @@
+The answer so far seems to be that it would depend on the distance away from a person and the size of the object, but that the object would have to be moving pretty goddamn quick regardless.
+The F-14 Tomcat you could begin to see at about 7 miles out (really good eyes could see it at 8 miles out) .
+The F-14 is 63 feet long.
+I would think you could detect a 1/20 th of a second fairly reliably.
+36,960 feet / 0.05 sec = 504,000 mph or 140 miles per second or 225,308 meters/sec 
+It would also depend on the weather and the lighting.
+So the speed that matters is probably speed across your vision, or angular velocity.
+As stated several times, it's more about size &amp; distance, relative to velocity, than pure velocity.
+For an ever-so-brief period of time, we could actually see .40 caliber bullets flying downrange from our pistols as the sun reflected off the copper bases.
+From my electronics background I can tell you that an LED that blinks on for ~16ms (1/60th a second) is easily visible.
+You'd never be able to see a regular bullet traveling side to side across your peripheral vision, because it's just too small, too fast, and you'd generally be hard pressed to easily see a stationary bullet at a distance as well.

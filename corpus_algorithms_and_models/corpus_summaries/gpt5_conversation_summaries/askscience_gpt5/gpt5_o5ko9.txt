@@ -1,0 +1,13 @@
+Recently there was a gif of an egg being sucked into a bottle by a candle on the frontpage.
+The explanation is that the heated air inside the bottle cools down after the flame is snuffed out from lack of oxygen inside the bottle, and as the air cools, it shrinks and the outside pressure pushes the egg in.
+Can anyone demonstrate that fire puts out more gas than it consumes?
+Candle wax is something like C25H52, some HUGE hydrocarbon.
+because C2H6 is a solid or liquid prior to combustion is does not contribute to the pressure.
+So you have 3.5mols of gas before, and 5 mols after.
+Most of that H20 won't be gas after the reaction.
+It should condense out as liquid water, since at room tempature it must be less than 1% or so of the gas in the jar.
+So you are really going from 3.5 mols of gas to 2.0 mols of gas.
+Thus, the reduction in pressure would be a result of the combined effect of thermodynamic cooling of all gasses trapped inside and the condensation of the water vapor.
+Yes. The egg would pop off if the reaction generated more moles of gas than the reaction started with.
+The thing is that when the wax burns it is actually reacting with (i.e. using up*) oxygen.
+You end up using up more oxygen molecules in the reaction than the number of carbon dioxide molecules you make.

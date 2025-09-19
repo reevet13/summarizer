@@ -1,0 +1,10 @@
+Looking directly up while holding my arm out, I can place my index finger and thumb about one inch apart and roughly cover the visual diameter of the moon.
+Shouldn't taking a picture with the camera at arms length result in the image of the moon approximately the same size as what my naked eye could see?
+Basically, most point and shoot (P&S) cameras are incapable of zooming in far enough to resolve any meaningful detail in the moon.
+Different camera lenses have different fields of view; when you "zoom in" you are narrowing the field of view, allowing you to fill more of the camera frame with the object.
+But for all practical purposes you can't get closer to the moon.
+So when you turn that same lens up to the moon, you find that it's woefully inadequate -- the angle of view is just too wide.
+I would guess that in order to get such a large moon from earth, the lens would need to be around 500mm.
+Now if you want the moon to cover the whole sensor vertically, you need a lense/camera comination with a vertical FoV of ~0.5°.
+So even with normal tele lenses, the moon will only take up about 1/10th of the height of the picture.
+The camera you use probably has different FoV, sensor size and focal length than your eye so it's natural tha the moon will have different sizes.

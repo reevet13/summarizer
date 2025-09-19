@@ -1,0 +1,4 @@
+The problem is that the pressure is the same at valve 1 as it is at valve 2.
+Both pipes of water have the same depth.
+Since the pressure at valve 1 was able to raise the weight, the weight cannot force any water out of valve 2.
+The thing still wouldn't work.

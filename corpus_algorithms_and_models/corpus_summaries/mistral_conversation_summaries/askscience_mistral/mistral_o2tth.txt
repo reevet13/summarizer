@@ -1,0 +1,13 @@
+Not really. At the point where an object has enough mass to become a planet, gravity tries to pull all of the mass into the centre.
+
+The only shape it can reach hydrostatic equilibrium is as a sphere.
+
+One of the definitions of a planet is that it has to be big enough to be spherical (meaning it's in hydrostatic equilibrium with gravity).
+
+However, planets that spin on an axis can be oblate spheroids.
+
+By definition, [They are spheres or ellipsoids](http://en.wikipedia.org/wiki/IAU_definition_of_planet)
+
+In practice, massive objects can't really be anything other than spheres or ellipsoids.
+
+No, since IAU had defined planets to be only those that are round.

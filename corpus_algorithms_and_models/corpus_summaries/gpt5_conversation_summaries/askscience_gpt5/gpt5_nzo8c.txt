@@ -1,0 +1,4 @@
+Gravity affects water the same way it affects solid matter.
+When an object is in water the gravitational force on it is *exactly* the same.
+However, the water provides an extra upward force called buoyancy.
+This results in a net upward force.

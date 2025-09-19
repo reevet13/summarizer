@@ -1,0 +1,11 @@
+We're talking about a professional application here, with low-maintenance and long-lifespan requirements.
+
+With 3D I mean we want to know, besides the X/Y information also the height of a person, and being able to detect when someone's Z-position changes (ie. person jumping etc.)
+
+The water surface has a minimum size of 9m * 4.5m, camera range should be somewhere around 6-7m.
+
+So I guess I am looking for an industrial quality Kinect-like range imaging camera.
+
+Does anybody know more about these systems? Any go-to's, do's, and don'ts?
+
+Looking for professional alternatives to MS Kinect sensors.

@@ -1,0 +1,2 @@
+When the CO2 [nucleates](http://en.wikipedia.org/wiki/Nucleation) it forms a bubble, which grows in size until its bouyancy is enough to lift it off the surface and 'fizz'.
+Nucleation is dependent on the surface (the wiki mentions high surface area and sharp corners).

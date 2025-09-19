@@ -1,0 +1,7 @@
+The only way I can see this occur is if the jetliner were operating its engines at the minimum speed in an extremely high wind.
+
+Theoretically any given airplane could "hover" in the sense that it is maintaining altitude with a groundspeed of 0, however the airspeed would have to be above the aircraft's minimum stall threshold (Vs).
+
+"Hovering" wouldn't be realistic for airliners because they typically have very high stall speeds, but it is very possible (and even occasionally demonstrated) in light aircraft designed with very low stall speeds.
+
+If a 737 needs 150mph airspeed to keep flying, and you've got a 150mph headwind, then it can fly while remaining directly over the same spot on Earth.

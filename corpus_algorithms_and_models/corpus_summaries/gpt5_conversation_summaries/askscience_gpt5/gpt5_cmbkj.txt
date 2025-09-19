@@ -1,0 +1,3 @@
+At explosive decompression the egg will explode (it has an air chamber, and contents will first degass, then boil), and the result lose water until completely dry.
+At slow decompression the egg will crack, and leak its contents, which will lose water until completely dry.
+At very slow decompression the egg will remain whole, but will be desiccated.

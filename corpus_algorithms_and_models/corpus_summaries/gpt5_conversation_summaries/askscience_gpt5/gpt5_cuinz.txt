@@ -1,0 +1,12 @@
+If you are leaning right on a bicycle, the main reason you don't fall down is not gyroscopic forces, but the fact that you're (hopefully) turning right at the same time.
+Turning right produces centripetal forces on you, towards the left - enabled by the friction between the ground and the bike tires, the same "fulcrum" so to speak.
+Because the centre of mass is above the wheel centres on a bike, gyroscopic forces actually make it easier to fall.
+As a motorcycle rider, I can tell you that steering is what puts you into a lean and gets you out of it.
+Bikes are surprisingly complicated and still being actively researched.
+No one is arguing that gyroscopic forces aren't present when someone rides a normal bike and that they contribute towards stability.
+But people do argue that they aren't the main source of stability, or a requirement for stability.
+That said you can't put all the blame for stability on the rider either, at the right range of speeds riderless and even riderless perturbed bikes become stable [video].
+>> i. A controlling rider can balance a forward-moving bicycle by turning the front wheel in the direction of an undesired lean.
+>> ii. Some uncontrolled bicycles can balance themselves.
+For example, we hope to dispel some bicycle mythology about the need for mechanical trail or **gyroscopic wheels** for bicycle self-stability.
+The spinning tires definitely aid in balancing the bike through conservation of angular momentum.

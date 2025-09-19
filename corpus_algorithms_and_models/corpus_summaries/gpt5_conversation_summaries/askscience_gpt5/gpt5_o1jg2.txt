@@ -1,0 +1,4 @@
+If we're talking about a classical gas, the particles will behave according to a [Maxwell-Boltzmann distribution](http://en.wikipedia.org/wiki/Maxwell-boltzmann_distribution).
+Bulk velocity does not contribute to temperature.
+There are also multiple "temperatures" you can measure.
+When something is in equilibrium, all temperatures should be the same, although each will have its own distribution.

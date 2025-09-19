@@ -1,0 +1,4 @@
+Light carries energy.
+Just like the sun can warm your skin, a laser can warm your eye.
+Well the sun on a bright day runs at about 140 mW/cm^2
+With higher intensity light, everything gets cooked.

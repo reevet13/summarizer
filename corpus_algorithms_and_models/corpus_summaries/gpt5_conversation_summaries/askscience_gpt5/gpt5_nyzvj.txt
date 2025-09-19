@@ -1,0 +1,13 @@
+Behavior of [this simple circuit](http://youtu.be/RkTvDjhImwo) is a little unusual.
+Or maybe it is an AC/DC trick as mentioned in the youtube comments.
+Maybe an SMD capacitor under the LED, and coil inside the corresponding switch?
+The same guy has another video, with two LEDs and two switches in parallel, which can be explained by just extra diodes and AC.
+In the comments, he also mentions that they're 5mm LEDs with some "modifications."
+If everything is "what it appears to be", this would not work.
+My guess is he modified the 9v to hide an DC to AC circuit in the battery.
+Going off what [proba60](http://www.youtube.com/user/proba60) has posted, the source is defiantly an AC one, he has posted a couple of schematics as video's.
+Basically the battery is not just a battery but a frequency generator.
+He says it's simpler than the frequency thing that you're all talking about.
+I'm guessing it's a smaller battery and an oscillator circuit stuffed into the case of a 9 volt battery.
+Apparently the author of the videos states in the comments(in polish) that the battery is a regular 9V.
+The consensus between our discussion and the one over on Hack-a-day seems to be that he used after effects.

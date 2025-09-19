@@ -1,0 +1,10 @@
+No, light always moves at *c*.
+But, as a photon escapes a star, it loses energy.
+This is known as [gravitational redshift](http://en.wikipedia.org/wiki/Gravitational_redshift).
+In fact, an observer at a distance (i.e., far enough away that the difference between the gravitational potential at their position and the field near the source is measurable) "watching" the light come toward them would find that it took the light longer to reach them than it would have had there been no massive body present, and how much longer it takes will increase as the potential at the surface of the star increases.
+While the other answers are correct that a local measurement of the speed of light will always yield a value of c (so that if you were sitting near the star measuring the speed of light as it went past, you would always get the same answer) it is *not* true that a distant observer will measure light as taking the same time to reach them from stars with different masses.
+In fact, as predicted and confirmed by Shapiro in the 60s, if you bounce a radar signal off Venus while the Sun is positioned so that the gravitational effect is the strongest, you find that it takes the light around 200 microseconds longer to complete the trip than it would if the Sun weren't there.
+This effect is known as the [Shapiro delay](https://en.wikipedia.org/wiki/Shapiro_delay).
+It's essentially just a combination of gravitational time-dilation and lensing, and the effect these have on the speed of light as measured using coördinates far from the gravitational source.
+You will see the light from the friend in the weaker potential before that from the friend in the stronger potential, which means that the light coming out of the weaker potential has had a higher average speed as measured in your coördinates.
+Photons always travel at c regardless of their environment, but the aggregate phenomenon we call "light" propagates at different speeds in different media.

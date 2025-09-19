@@ -1,0 +1,17 @@
+Can RCA cables act as a FM radio antenna?
+
+All wires act as pickups for radio stations.
+
+Since this occurs when you TV is off, I suspect that the its coming from the power lines, and that your TV doesn't have adequate line filtering.
+
+As for the "perfectly catching a station", you might live close enough to one station that the signal received is much stronger than all the others.
+
+This is pretty common actually, but figuring out how to make it go away will sometimes make you pull your hair out.
+
+Primarily the cause is usually poor quality RCA cables with inadequate shielding.
+
+Sometimes the easiest remedy is to simply move the nest of cables around until the ingress signal goes away.
+
+Placing a ferrite bead on the ends of the long cable may also remedy the problem.
+
+Ferrite bead on your power line might work.

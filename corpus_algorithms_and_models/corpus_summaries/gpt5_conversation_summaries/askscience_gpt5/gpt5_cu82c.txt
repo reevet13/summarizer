@@ -1,0 +1,13 @@
+This week we hit two milestones: 100 panelists, and 1000 readers!
+Are there any ideas out there for improving the subreddit, getting the word out, or promoting scientific inquiry in general?
+I've only found askscience very recently, so perhaps I'm not getting the whole picture yet, but what struck me as odd is that people are downvoting questions they dislike or perceive as silly, offtopic, and so forth.
+I would therefore at least consider disabling downvotes in askscience.
+However, there's really not a problem with spam or trolls, and certainly not too much for us to moderate manually.
+I'm liking your suggestion more as I keep thinking about it.
+That being said I wish there was some way of highlighting responses that have references in them rather than just an answer.
+my one hesitation with disabling downvotes is what if a person is actually incorrect, or is using invalid sources.
+Highlighting references would be nice.
+Maybe we can define some special markup people can use, which we can highlight using CSS.
+Maybe we should have an easy to find link to already-answered threads dealing with those topics.
+Would it be possible to turn off downvotes for posts, but leave it on for comments?
+Maybe we need community nominated panelists as well and credentialed ones.

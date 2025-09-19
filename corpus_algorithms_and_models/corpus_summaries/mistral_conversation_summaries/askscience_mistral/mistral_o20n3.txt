@@ -1,0 +1,21 @@
+The scientific topic responsible for the effects seen here is called superconductivity (discovered in 1911!).
+
+Superconductors are materials that have zero electrical resistance (not just very low, but zero) and generally expel all magnetic fields.
+
+It turns out that when you bring these superconductors near to magnets you set up a current in the superconductor that creates a magnetic field that exactly opposes the applied field.
+
+These materials are particular types of superconductors called Type II superconductors, that do allow magnetic fields to penetrate at certain defects in their structure.
+
+This pinning effect means that the instability you would get with ordinary magnetic levitation no longer occurs, hence stable magnetic levitation.
+
+Superconductivity usually only occurs at very low temperatures, which is why in the video you see the disc being removed from a bath of very cold liquid.
+
+If we could make a large enough quantity of high temperature (room temperature or above) superconductor then we could use the same principle to create almost frictionless maglev train systems, and zero loss power distribution networks, etc.
+
+It's a very real phenomena, and an *amazing* demonstration to people who have never seen it.
+
+One such property is that they expel magnetic fields from within themselves (named the [Meissner effect](http://en.wikipedia.org/wiki/Meissner_effect)).
+
+I do know that the Meissner effect was first discovered in the early 1930's (1933 according to wikipedia).
+
+Superconductive materials find applications in many place, most notably in extremely powerful electromagnetic devices.

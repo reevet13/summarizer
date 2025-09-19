@@ -1,0 +1,11 @@
+OFDM does not create more bandwidth than there is already; it basically divides up the existing bandwidth (say, 10 MegaHertz) into many (say, 128) independent sub-channels each having low bandwidth.
+
+Without going into the details, the OFDM signal processing enables us to decode data from each sub-channel independently without worrying whether signal from one sub-channel is leaking into another.
+
+There are two important reasons OFDM is used:
+
+1. As macdude said, it allows many low-symbol-rate channels within a bandwidth (important because there are many, many users and in most countries, telecomms companies must bid for small bandwidth blocks).
+
+2. The properties of OFDM make it relatively resistant in a 'busy' RF environment - it copes well with multi-path propagation / echoes, timing errors, interference and so on.
+
+tl;dr - OFDM lets a bunch of people use the same piece of bandwidth at the same time without interference from each other or the environment.

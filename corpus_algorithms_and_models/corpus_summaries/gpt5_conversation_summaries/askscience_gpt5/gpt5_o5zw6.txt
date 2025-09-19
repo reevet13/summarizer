@@ -1,0 +1,4 @@
+While a conventional optical lens bends a beam of light in space, the time lens modifies the light's temporal—not spatial—distribution.
+A second pulse laser on the other side of the time hole reversed the changes, restoring the beam to its original properties.
+In the experiment, an event that happened inside the time hole wasn't detected by the probe.
+The experiment constitutes a temporal optical cloak, albeit a limited one.

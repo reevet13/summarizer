@@ -1,0 +1,13 @@
+I know that voltage is the 'potential difference across two points', but what does that actually mean?
+What's the difference between electrons moving at 1v, 10amps, and 10v, 10 amps?
+Voltage represents the energy by unit of charge.
+In other words it is a measurement of the energy carried by individual electrons.
+Why P=VI?
+Since voltage is energy by electrons and intensity the electrons that pass through by unit of time, we can say that VI is energy by unit of time which is the definition of power.
+That still helps explain the electrical concept, but I think what the OP is asking, and what I am stumped on is what is the mechanism behind voltage.
+That's the subtle difference between energy and potential.
+What a voltmeter measures is not the absolute energy of the electrons at one point but rather the difference of energy between two points which is potential.
+It takes work to move electrons closer together.
+Since electrons repel, there is a force pushing them apart.
+The problem with this explanation is that voltage is not just energy per unit charge, you have to specify that its potential energy per unit charge, like the height of a hill is potential energy per unit weight (mass times g).
+Voltage is slang for electric potential, or electric potential difference (e.g., the difference in electric potential), since both are measured in units of Volts (and a volt is a Joule per Coulomb, or equivalently energy per unit charge).

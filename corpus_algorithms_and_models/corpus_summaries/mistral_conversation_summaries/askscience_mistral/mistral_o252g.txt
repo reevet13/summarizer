@@ -1,0 +1,9 @@
+We've all seen the demonstration where someone plops a bowling ball into the center of a stretched rubber sheet and compares it to our sun and its gravity well.
+
+That just shows one plane, what would the gravity well look like in 3 dimensions?
+
+It would be difficult to represent a gravity well in three dimensions.
+
+The best way to represent it would be to draw a bunch of force vectors pointing toward the center of mass.
+
+Space doesn't *look* like anything; it's space.

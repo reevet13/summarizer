@@ -1,0 +1,19 @@
+This is still an open question as far as I know.
+
+One idea that's been floating around is CP violation: you would think that a process would occur at the same rate as its matter-antimatter-flipped counterpart, but we've discovered that this isn't the case for some processes involving the weak force.
+
+The theory you're referring to is one where there's equal amounts of matter and antimatter at the beginning of the universe, and this CP violation asymmetrically changes some of the antimatter over to matter before everything recombines.
+
+This leaves us with a small excess of matter that we see today.
+
+Big Bang theory doesn't even take us that far back in time.
+
+We don't really have any idea. Yet.
+
+Antimatter is also being created through natural processes, by the way.
+
+[This](http://en.wikipedia.org/wiki/CP_violation#CP_violation_and_the_matter.E2.80.93antimatter_imbalance) is what I'm referring to, and parity is the term for right or left orientation.
+
+Basically, we expected the laws to be the same if we both exchanged matter for antimatter, and if we flipped left and right.
+
+This turns out to be true for every force except for the weak force, the one that has to do with atomic decay.

@@ -1,0 +1,13 @@
+Came here to say this, however its molten salt, not petroleum.
+They work 24/7 because when the sun goes down, the salt drains into a vessel and is pumped back out when the sun comes back on.
+The salt retains its heat and continues to provide power.
+Lenses are very expensive.
+You can never get past the fundamental limits of lens design - the bigger the lens, the thicker it needs to be.
+It is also much harder to move a big lens to track the sun than it is to move small mirrors.
+One of the main reasons you don't evaporate water directly is that that gives you an immediate burst of energy.
+The problem is that a power plant must supply energy when it is *needed*, not when it is *available*.
+So then you have to store the electricity in a battery.
+Which is fine, as far as it goes, but batteries are not very efficient.
+So a more efficient solution is not to heat the water directly, but to heat up something that can hold all of that thermal energy.
+So you take, say, a salt, and you use solar energy to heat it up to the point that it's molten.
+Even at night, the salt will still be very hot, and so your electricity production is determined by consumption rather than availability, and you don't have to mess around with wasteful batteries.

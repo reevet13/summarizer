@@ -1,0 +1,11 @@
+Gas cars use a comparatively small battery to start the car and operate some electrical devices during operation.
+A small amount of power is diverted from the combustion of gasoline to spin the alternator and charge the battery.
+Electric cars use a huge set of batteries to power the car.
+Since the battery is the main source of power, it can't run the car while at the same time run a generator that keeps itself powered, due to conservation of energy and thermodynamics.
+If you have a source of mechanical motion, such as a gasoline engine, you can use an alternator to turn it into electricity.
+But there's no point in doing that if the mechanical motion came from that same electricity in the first place...
+You're proposing a perpetual motion machine, in which chemical energy in an electric car's batteries is converted into kinetic energy and then back into chemical energy at not only no cost, but in fact a profit.
+This is not possible.
+You'd be putting an extra load on the motor to drive the alternator, so it would draw more power than it normally would.
+Add in the losses due to friction, etc, and you will reduce the range.
+Regenerative braking works because it's only activated when the motors are not drawing power from the battery.

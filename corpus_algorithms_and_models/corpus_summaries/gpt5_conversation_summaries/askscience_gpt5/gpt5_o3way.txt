@@ -1,0 +1,12 @@
+Because when you rely on solar power, surface area is important.
+The "coke cans" are living quarters and laboratories, and the "waffer biscuits" (sic) are solar panels.
+meplusone, "flattering form" won't really be a consideration for spacecraft and -installations until the cost comes down by several orders of magnitude.
+Rocket science is both really difficult and very expensive.
+Because the ISS modules were launched on rockets.
+The "Coke Can" modules are for storage and living space and so you want the greatest interior volume you can get.
+To accomplish that, you need a cylinder because the rockets you can launch modules on are all cylinders (because long, thin cylinders have a high "fineness ratio" and thus a low drag).
+By all means you may launch oddly shaped parts, but you're going to need more launches because you're not efficiently using your possible payload volume on a rocket.
+Lastly, referring to your point elsewhere about a "space factory" -- it is actually more efficient to start making things in space if the materials are to be used in space.
+But you need a large, operational, and reliable lunar base to do that.
+Until you can manufacture parts in the light gravity well of the moon, you can't get much benefit from it because you just have to haul all the materials up there anyway.
+So bottom line: No moon base, no fancy spacedocks.

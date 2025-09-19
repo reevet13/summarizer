@@ -1,0 +1,14 @@
+Some of the confusion about this may be that "dominant" in the genetic sense, does not mean the same thing as "selected for".
+Dominant just means that the trait produced by that allele only needs one copy of the allele so that it will be expressed.
+Correct, and when you have only one, the allele becomes hidden by the dominant allele.
+The recessive allele **reappears** when the heterozygote mates.
+No, allele frequency is not a function of whether they're dominant or recessive.
+It should stay the same if we assume no selection of any kind, and purely random mating.
+With no selection on either allele, the ratio of D to d - 7:3 is going to stay the same.
+The recessive allele will not disappear.
+Dominance doesn't work to *destroy* recessive alleles; people with a recessive allele are still carriers.
+Dominant genes don't get passed on more, they just get expressed more.
+We have to distinguish between genotype (the genes you get from your parents) and phenotype (the traits that those genes result in).
+What is passed on more often are *advantageous* alleles.
+An interesting side point is that while alleles conferring low fitness will become less and less common in a population over time, they will only "go extinct" if they are dominant.
+The recessive, disadvantageous allele will be masked in heterozygotes and consequently not selected against.

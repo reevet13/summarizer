@@ -1,0 +1,15 @@
+To your eye it's the same, but a green wavelength of light can be very, very different than a mixture of blue and yellow light sources.
+
+Adding lights together is [additive](http://en.wikipedia.org/wiki/Additive_color) - that is, the baseline is black and as you add lights, the colors approach white.
+
+Mixing paints together is [subtractive](http://en.wikipedia.org/wiki/Subtractive_color) - that is, the baseline is white and as you add ink, the colors approach black.
+
+It sounds like you are on the right track. As all the frequencies of visible light are added together, we see this as white.
+
+Because of the additive and subtractive factors you have mentioned. Cyan, magenta and yellow are the respective complements of red, green and blue.
+
+The primary colors really have no basis in fundamental science, but rather how our brains/eyes interpret colors.
+
+Instead of thinking of the red and green pigments as tiny, separate pieces, think of them as tiny filters.
+
+In that last image I just demonstrated how reducing luminosity makes yellow turn brown. Notice how brown does not exist in the rainbow? That's because it's actually a yellow-orange hue with low luminosity.

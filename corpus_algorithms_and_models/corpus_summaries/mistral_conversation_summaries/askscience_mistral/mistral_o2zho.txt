@@ -1,0 +1,11 @@
+Get a magnet, a battery, and some wire.
+
+Put the magnet near the wire, then connect both ends of the wire to the ends of the battery.
+
+The wire should jump or move.
+
+This is because a current generates a magnetic field.
+
+If you coil the wire up, you multiply the magnetic field from the wire.
+
+You can put this coiled up wire (called a solenoid) next to a second wire connected to a battery and volla, you have some kind of engine.

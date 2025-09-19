@@ -1,0 +1,17 @@
+The only solidly established theory that deals with gravity is general relativity, which is a theory *of* gravity, more so than a theory that leads to gravity from more fundamental principles.
+
+The best theory we have regarding gravity is Einstein's general theory of relativity, which says that gravity is the curvature of space-time induced by the presence of energy, momentum, mass, et cetera.
+
+"why" is always a tricky question with fundamental physics. We can say with high precision *how* gravity works (in that it's an effect of the curvature of spacetime), but answering *why* gravity follows those rules instead of some other rules is a crapshoot.
+
+A *theory* in Physics has to do two things to be better than a competing theory:
+* predict the results of experiments to a degree of accuracy better than competing theory.
+* be compatible with other theories.
+
+Gravitational Waves are one of the many many predictions made by General Relativity, which is the current mathematical framework for understanding gravity.
+
+Mass is a form of energy, and General Relativity states that concentrations of energy determine the curvature of space-time.
+
+Relativity explains gravity between large (macro) sized objects. The standard model and quantum physics explain the weak, strong and electromagnetic forces that act between atoms - but not gravity.
+
+String Theory is one of the quantum gravity theories.

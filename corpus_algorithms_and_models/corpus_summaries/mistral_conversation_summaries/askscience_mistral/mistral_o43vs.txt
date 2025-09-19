@@ -1,0 +1,17 @@
+There are kind of two interpretations of this phenomena based on whether you are taking the "light is a particle" or "light is a wave" approach.
+
+"Light is a particle" - Photons comes in and "impact" the surface.
+
+For smooth surfaces, the chances that a photon can travel, unimpeded back to your eye is increased.
+
+"Light as a wave" - As we know, however, light can be thought of as a planar electromagnetic wave.
+
+The actual directions and magnitudes of the reflected electromagnet wave depends on vector calculus and Maxwell's equations.
+
+There are two types of reflection that go on, diffuse and specular.
+
+Diffuse reflection is what I described in my "light as a particle" section.
+
+Specular reflection is very difficult to describe using the "light as a particle" interpretation, so its generally taught using the wave terminology.
+
+In short, however, both theories are correct.  Light displays properties of particles and waves.

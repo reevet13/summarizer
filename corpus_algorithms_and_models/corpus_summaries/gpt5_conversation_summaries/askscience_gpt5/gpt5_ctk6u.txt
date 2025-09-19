@@ -1,0 +1,14 @@
+Entanglement doesn't work that way.
+It's more like cosmic bookkeeping.
+Entanglement is basically a way to remove some of those possibilities, so that instead it becomes, for example, a superposition of HH and TT.
+now if you separate the coins, you can't control the other coin by twiddling the first one.
+There're some interesting tricks you can do, but no superluminal communication.
+But you're not actually controlling the other coin by magic FTL remote control or anything like that.
+Entanglement effects are generally observed by, after the fact, bringing the entangled objects (or data about them) together.
+Its more that you can't choose which state a particle ends up and still have it been entangled.
+But there is no way to send a message through entanglement like this because you can't choose which state the particle ends up in when you measure it.
+You don't alter spin, you determine the spin.
+The idea behind entanglement is that certain properties of a system have to be conserved.
+If you separate the e- and e+ and measure the angular momentum of one of them, you instantly know the angular momentum of the other.
+Einstein is safe because you can't transfer information via entangled particles.
+That being said, it is exceedingly weird that entanglement appears to be a non-local phenomena, but sometimes the universe hands you weirdness so what are you gonna do.

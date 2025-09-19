@@ -1,0 +1,13 @@
+No, it will actually take longer because the atmosphere moves with the Earth.
+
+The plane's frame of reference is rotating at the same rate as the Earth and the atmosphere, so its ground speed doesn't change if it flies east or west.
+
+The typically longer westbound flight times (at least in the northern hemisphere) are due to the generally [westerly winds](http://en.wikipedia.org/wiki/Westerlies) at that latitude.
+
+London to New York (*with* the Earth's rotation) takes an hour longer than New York to London (*against* the Earth's rotation).
+
+Everything I have read says that transatlantic flight times are dominated by the prevailing winds, not the rotation of the Earth.
+
+The coriolis effect *does* affect planes just as it affects bullets.
+
+It means that the travel time flying x miles east is the same as the travel time flying x miles west, assuming that there is no wind.

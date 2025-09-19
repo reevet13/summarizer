@@ -1,0 +1,9 @@
+I want to make ferrofluid and I have looked up tutorials online but they all involve the use of a dark, staining liquid, often ink or something of the sort and this causes a trail wherever the fluid is dragged.
+
+Basically I need it to be clear in a way so when I put it in a plastic, clear ball, the fluid won't be dark so it won't stain the plastic and I will be able to see into it easily.
+
+Ferrofluids are dark at least partially because they contain what is effectively powdered magnets.
+
+Transparent ferrofluids will probably require transparent magnetic material.
+
+Don't think those currently exist.

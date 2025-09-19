@@ -1,0 +1,11 @@
+It's called the equatorial bulge, and is the result of the spinning of the earth on its axis.
+
+Essentially, to keep something moving in circular motion (that is, spinning along with the surface of the earth), a force needs to act on that object that causes a change in direction of its velocity.
+
+The centripetal force is proportional to the square of the velocity of the object moving in circular motion, and inversely proportional to the radius.
+
+Since it takes the same time for both circular paths to be traveled through, the velocity is significantly higher for the equatorial lady than it will for the arctic dude since he has to travel through more distance.
+
+Since more acceleration is observed by Mr. Yukon, there is also more force exerted on the mass, and the result is that the Earth is pinched from a sphere to an oblate spheroid - the bulge you refer to.
+
+There is a similar bulge perpendicular to the axis of rotation on other astronomical bodies as well.

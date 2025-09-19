@@ -1,0 +1,15 @@
+Interesting that the Economist, which usually adheres to excellent standards in data graphics, has put different scales on side-by-side graphs that display the same variable on the vertical axis (i.e., bars in the left and right charts that show equal numbers will not have equal heights: for example, the bar showing 200 Israelis killed in 2001 is taller than the bar showing 200 Palestinians killed in 2005).
+The result is a slight visual "inflation" of the Israeli deaths.
+I doubt this is an intentional tweak... but worth noting.
+looks like a mistake - caused by the multiple options in the first graph wraping to the second line.
+The rest of the Economist article from which this chart was excerpted is here:
+http://www.economist.com/opinion/displaystory.cfm?story_id=10909883
+Why does internal fighting fall under palestinians killed by Israel?
+It should fall under Palestinians killed by Palestinians
+Under the heading "Palestinians" there are two subheadings: "Killed by Israelis:" which has three subentries (military, civilians, unknown) and then "Killed by:" which has one subentry (internal fighting.)
+The poor scaling may not be a 'simple mistake'.
+The Palestinian image must be stretched vertically by 120% to get a true comparison.
+Yeah the 1000 mark on one chart is level with the 1200 on the other chart.
+The scaling on the Israeli graph makes it almost impossible to tell how many Israelis have died in recent years.
+and the source of the statistics is here:
+http://www.btselem.org/English/Statistics/Casualties.asp

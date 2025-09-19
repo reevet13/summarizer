@@ -1,0 +1,12 @@
+The worker bees don't mate in general - only the queen does with her male drones.
+The bees that the dead bee saves are genetically very closely related to the dead bee.
+Helping your close relations helps your own genes.
+It's called [Kin Selection](http://en.wikipedia.org/wiki/Kin_selection).
+People should be prepared to die to save more than two siblings, more than four nephews, or more than 8 cousins.
+The bee reproductive model involves [haploid sex determination](http://en.wikipedia.org/wiki/Haplodiploid_sex-determination_system) in which different 'genders' within the colony have different numbers of chromosomes.
+Each egg contains half of her genetic material, and when unfertilized will hatch into a "male" drone (with 16 chromosomes).
+Thus every individual bee is some form of a 'partial clone' of the queen.
+In this model, it is appropriate to say that the hive as a whole operates as a distinct "evolutionary unit", since it collectively shares one set of DNA and reproduces, survives and evolves as a cohesive unit.
+The genetic code which causes these individual bees to emit dying warning pheromones is something which provides advantage to this "hive organism" as a whole.
+This means that the genetic code of the new queen (and thus, the new hive) will descend from the code of the old queen, though in different proportions and potentially with different alleles being expressed.
+This shuffling is important because it promotes faster bee evolution, both through swarming and splitting a hive, or by replacing queens of a current hive.

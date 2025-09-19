@@ -1,0 +1,15 @@
+You need a controlled experiment.
+If you can add or remove one of the conditions/effects (not just counteract it) and see how it affects the other one then you can show if there is a causal connection or not.
+You need to show that it is very unlikely that your explanation is false.
+Since you cant, by definition, "prove" anything, you have to pick a degree of likelihood that you will be satisfied with which would be provided in any scientific texts/papers you would release (such as saying 0.1>p>0.05).
+To isolate a cause-effect relationship, one must provide convincing evidence that other possible causes are not operating to create the effect in question.
+Recall that hypotheses are tentatively accepted as fact, and only after solid evidence is provided.
+This involves many experiments, by investigators reproducing results obtained elsewhere by others.
+Eventually the evidence collected by multiple teams accretes to a finding of likely fact.
+So in lay terms, correlation does imply causation - it hints that one thing might be the cause of another, and of course there can be no causation without correlation.
+You need evidence to back things up.
+There is always some possibility that the result you are seeing is pure chance.
+You essentially have to ask: what's the probability that this (or something even less likely than this) would happen by chance?
+If it's small, then you can be more confident you're seeing "causation."
+Though never sure.
+In the real world (ie, science), proof can't exist.

@@ -1,0 +1,14 @@
+I was wondering if anyone had some examples of common molecules that, when slightly altered (either by ionization or the substitution of one atom/functional group for another or some similar mechanism) have dramatically different effects when metabolized or when in biological/biophysical systems?
+Most [stereoisomers](http://en.wikipedia.org/wiki/Stereoisomer) will do different things in a biological system.
+This is because the enzyme or whatever will have an active site/receptor that can only fit with a specific shape.
+The example in the opening paragraph of stereochemistry in my book is: fumaric acid (a metabolic intermediate) and maleic acid (toxic) are the same except that fumaric acid is a trans isomer and maleic acid is cis.
+Some molecules cannot be superimposed on their mirror images (kind of like your hands), they are known as enantiomers.
+Sometimes (maybe most of the time) one enantiomer has biological activity and its mirror image does not.
+A famous example is [Ibuprophen](http://en.wikipedia.org/wiki/Ibuprophen#Stereochemistry) another one with an interesting story was a drug called [Thalidomide](http://en.wikipedia.org/wiki/Thalidomide#Mechanism)
+An example of atom substitution affecting biological activity is acetic acid (in vinegar) and [fluoroacetic acid](http://en.wikipedia.org/wiki/Fluoroacetic_acid) (poison).
+Well there's carbon monoxide vs carbon dioxide.
+I found another answer for your question though, methyl anthranilate is grape flavor and methly salicylate is wintergreen, a NH2 vs and OH is the only change
+The chemical effects aren't all that different.
+Carbon Monoxide just binds to hemoglobin more efficiently.
+Of course that does make it much harder to get oxygen...
+That makes a big, big difference.

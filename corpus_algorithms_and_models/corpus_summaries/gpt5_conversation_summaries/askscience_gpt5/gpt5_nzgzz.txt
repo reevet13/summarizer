@@ -1,0 +1,2 @@
+And say you start spinning this disk fast enough so that midpoint of the disk's radius is moving at light speed.
+what you describe is the classic [Ehrenfest paradox](http://en.wikipedia.org/wiki/Ehrenfest_paradox).

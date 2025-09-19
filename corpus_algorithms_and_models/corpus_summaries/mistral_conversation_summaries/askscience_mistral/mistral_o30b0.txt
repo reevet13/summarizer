@@ -1,0 +1,11 @@
+The humming usually comes from the transformer, not the wires.
+
+The phenomenon involved is called vortex shedding and is explained in textbooks on flow-structure interaction.
+
+Essentially, the flow around a circular cylinder (like the cross-section of a power line wire) is unstable and vortices are shed alternately from either side of the cylinder.
+
+If ice forms on the power lines, a different situation can develop whereby the vibration is much stronger due to a positive feedback mechanism and the power lines can visibly bounce up and down.
+
+This is called galloping and the fluid dynamics are quite different.
+
+The audible noise emitted from high-voltage lines is caused by the discharge of energy that occurs when the electrical field strength on the conductor surface is greater than the 'breakdown strength' of the air surrounding the conductor.

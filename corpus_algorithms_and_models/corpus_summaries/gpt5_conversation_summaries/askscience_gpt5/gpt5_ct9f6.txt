@@ -1,0 +1,12 @@
+I extract genomic DNA and quantify it using a nanodrop spectrophotometer.
+The manual says accepted 260/230 readings for "pure" DNA should be between 1.8 and 2.2.
+The thing is that sometimes I'll get readings of 2.3 and higher (no more than about 2.8).
+What should I consider to be too high?
+Could these high readings relate to problems with the DNA itself?
+Its just that after I re-purify the sample the 230nm reading is much lower but the 260nm reading is about the same.
+My 260/280 readings are always between 1.8 and 1.9 so I'm not concerned about protein contamination.
+I'm very careful to allow all EtOH to evaporate before I rehydrate the sample at the end.
+Since the 260/230 is above 2.3 in all 3 cases, is this something to be concerned about?
+Gel electrophoresis images of all 3 samples showed no DNA degradation.
+After purification we do some PCR on it, fluorescently label the product, and put it on a microarray.
+That's why I'm so picky about the quality of the sample.

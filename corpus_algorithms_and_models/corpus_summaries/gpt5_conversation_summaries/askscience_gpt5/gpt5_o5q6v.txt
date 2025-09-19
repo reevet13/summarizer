@@ -1,0 +1,7 @@
+To take your specific example of MSL ... MSL is designed around entry descent and landing on Mars ... a planet with significantly LESS atmosphere and LESS gravity than Earth ... all of its infrastructure is designed to withstand the rigors of launch on Earth and landing on Mars ... an abort on launch and a recovery landing on Earth would destroy the rover anyway ... or making sure that it could survive an Earth Recovery event would push its already astronomical cost much much higher.
+I think the real problem is in where the payload would eventually land.
+None of what you send to mars is built to handle a seawater environment, so on top of the payload fairing around your capsule for mars reentry, you need to add something in between that keeps seawater out in the event of a launch abort.
+I think a bigger problem is that even if you have to abort and you keep the landing and recover under what you expect to see during Mars reentry and landing, the vehicle isn't usually meant to do that *twice*.
+It could be done, but in reality it's easier just to lose the spacecraft altogether than to accept the level of risk involved in so many systems having so many possibly undiagnosed problems after an abort.
+It's just easier and less risky to build two spacecraft and not fly the aborted one.
+TL;DR: I think it's a complexity and risk aversion problem not a cost one.

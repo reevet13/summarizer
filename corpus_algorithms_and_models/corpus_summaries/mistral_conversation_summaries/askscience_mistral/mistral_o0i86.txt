@@ -1,0 +1,7 @@
+Kinetic Energy is defined as --> E=.5MV^2
+
+Now imagine (2) 10 Kg masses, each moving 10m/s, on a direct collision course with each other.
+
+Because they are equal in mass, they stop at collision and the Total energy of both masses when they collide will be 1000 Joules.
+
+In both scenarios, you have a relative velocity of 20m/s coming to a complete stop yet in the second scenario you only have half the Kinetic Energy.

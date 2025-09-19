@@ -1,0 +1,3 @@
+Think of the virtual particle more of a mathematical tool and less as a particle.
+It's not real, we never see them, and they don't actually fly through space.
+What this tool lets us do is calculate forces and interaction between particles.

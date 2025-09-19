@@ -1,0 +1,18 @@
+At a linear increase of 3.8e-2 m per year, it would take roughly on the order of ~100 million years for the moon's satellite orbit to achieve escape velocity from Earth.
+
+>Could the influences of other bodies eventually pull the moon elsewhere?
+Yes, gravity will see to it that any object that has mass and is not in the same position as the Earth will pull the moon away.
+
+The distance it is moving away is so small that any deviation could probably be chocked up to error.
+
+The Moon is slowly accelerating due to tidal locking.
+
+The outward migration of the moon is driven by the transfer of angular momentum in the Earth's spin to the angular momentum in the Moon's orbit.
+
+The moon would be lost if its orbital period (a month), exceed the orbital period of the Earth-Moon system around the sun (a year).
+
+A day and a month will be the same length at that point (at around 30 days).
+
+The year to year change in the rate the moon moves away from the Earth is generally negative, but it goes up and down a lot.
+
+The farther away it gets, the slower it goes away.

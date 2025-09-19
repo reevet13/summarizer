@@ -1,0 +1,5 @@
+Brains are massively parallel....
+The way I've understood it is that our brains work more like Google.
+Human memory is biological.
+The computer model is modeled on the human memory system.
+The most used representation of how the long term memory stores is as a semantic network.

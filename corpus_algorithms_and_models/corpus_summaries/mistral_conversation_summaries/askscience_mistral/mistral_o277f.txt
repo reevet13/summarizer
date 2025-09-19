@@ -1,0 +1,11 @@
+The source of its interaction is its metabolic pathway.
+
+Alcohol is oxidized in the liver, primarily by the enzyme Alcohol Dehydrogenase.
+Alcohol consumption upregulates CYP2E1.
+
+Metabolizing drugs more quickly does three things.
+it means that the drug is consumed and therefore less effective.
+the drug's metabolic by-products build up more quickly.
+alcohol will quickly (and sometimes catastrophically) increase the amount of active drug in your body.
+
+It all has to do with metabolism - alcohol and certain drugs (ex. acetaminophen) are metabolized by CYP2E1 in the liver.

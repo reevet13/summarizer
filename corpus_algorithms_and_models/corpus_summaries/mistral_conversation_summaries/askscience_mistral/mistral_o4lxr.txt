@@ -1,0 +1,15 @@
+Aren't we directly limited by "transfer rate" (for lack of a better term)?
+
+You need a definition of efficiency that takes into account how "lossy" you allow your signal to be.
+
+To take your example, the word "democracy" is a very high compression rate applied to a huge idea, and when I think of "democracy", I almost certainly don't think *exactly* the same things you do.
+
+Is that loss of precision OK in your theoretical highly-efficient language?
+
+From a strictly computational standpoint, this actually leads to some deep questions such as "what is the minimal amount of information I need to send to you to convey something."
+
+Interestingly, even this is not the *best* you can do.
+
+What is the minimum information I can say to you so that you can figure out unambiguously the information I am trying to convey?
+
+Natural languages have a pretty high degree of redundancy.

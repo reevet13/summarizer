@@ -1,0 +1,8 @@
+Why are they not running off electric motors instead of ICEs?
+Trains are pulled by electric locomotives.
+The problem is one of storing enough energy in a battery that the vehicle won't have to be recharged every few minutes.
+Ships also use electric engines for propulsion.
+It is a [diesel-electric system](http://www.professionalmariner.com/ME2/dirmod.asp?sid=420C4D38DC9C4E3A903315CDDC65AD72&amp;nm=Archives&amp;type=Publishing&amp;mod=Publications%3A%3AArticle&amp;mid=8F3A7027421841978F18BE895F87F791&amp;tier=4&amp;id=1ECD4C16B79B4588B74F044BF6DFD20F):
+>Because of its versatility and redundancy, diesel-electric is adaptable to vessels of almost all sizes.
+Depending on electrical demand, not all diesel generators have to be operating at all times.
+So essentially it's still impractical to build large mobile equipment with electric motors because battery technology is not sufficient.

@@ -1,0 +1,19 @@
+Some viruses, like the influenza virus or the rhinovirus, infect you for a few days (if not a few weeks).
+
+Then there are other viruses that cause a persistent infection, like HIV, Herpes and Hep.
+
+One mechanism is that some viruses can establish a [latent infection](http://en.wikipedia.org/wiki/Virus_latency) in some cells.
+
+A latent infection is one where the infection becomes essentially inactive in all ways, but can reactivate at a later time and start producing viruses again.
+
+The latent virus produces proteins that make the infected cell invisible to our immune system.
+
+Our immune system can fight some viruses really well.
+
+Other viruses are smarter at evading our immune system.
+
+For a virus, it can also be a smart way if you don't make your host ill.
+
+HIV - is rather unique in that it uses reverse enzymes to do the job that is typically done by a "forward" enzyme.
+
+The interesting part is that this process is much more prone to mutation.

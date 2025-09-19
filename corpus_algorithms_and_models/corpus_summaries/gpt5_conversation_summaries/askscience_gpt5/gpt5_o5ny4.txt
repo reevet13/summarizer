@@ -1,0 +1,10 @@
+If  I took off from point "A" traveled the circumference of the earth at the speed of light and landed at point "A", would I have landed before I took off.
+Basic answer: No
+It is impossible to have anything with rest mass (such as your vehicle and yourself) to travel at *c*.
+That said... from the perspective of a photon (if there is such a thing as a photons perspective) - it does not experience time at all - so regardless of how long a photon took to travel in our framework - as far as the photon is concerned it died the moment it was created (but never *before*).
+Also, *c* can not be exceeded, so it doesn't mater how fast you were going when you 'launched at *c*' (whatever that means :).
+No.
+Any particle without a rest mass can travel at *c*.
+We just term it the *speed of light* because light is the most common thing we experience that travels at *c*.
+Cue obligatory diatribe on the outdated idea of relativistic mass that increases with speed, and how the _rest mass_ never changes.
+Ignoring the physics preventing you from going faster than c, you would still spend time below c accelerating and decellerating, so you would still be farther forward in time when you finished.

@@ -1,0 +1,5 @@
+I loved learning newtonian mechanics from Kleppner and Kolenkow.
+
+The problems are creative and interesting, which is something that a lot of mechanics books seem to lack.
+
+*The* best problems on Newtonian Mechanics I have seen were from [Problems in General Physics, by I.E Irodov]. It doesn't require you any knowledge of Hamiltonians or Lagrangians and such, it mostly the simple Newton's laws applied to wacky and sometimes counterintuitive systems.

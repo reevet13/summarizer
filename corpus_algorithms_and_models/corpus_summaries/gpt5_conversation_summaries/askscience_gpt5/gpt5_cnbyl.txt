@@ -1,0 +1,12 @@
+The double slit experiment is different from entanglement.
+You can do that with a laser and two very close slits.
+Entanglement would be much harder; you'd need some serious optics (for photons) or a special magnet (for electrons).
+You can show the particle like properties using the photoelectric effect, which you can demonstrate using a solar panel or photodiode.
+As far as I know there's no real way to demonstrate entanglement in a garage.
+It's quite difficult to do in a well funded laboratory.
+Also, $500 for a decent nonlinear crystal or a quantum dot would be incredible.
+The hard part is producing entangled pairs in coherent states, and having the finesse to observe them.
+If you went the optics route, you'd need a (probably argon) laser and some single photon detectors along with the crystal, and that's pretty expensive.
+Homemade entanglement doesn't look like its around the corner, stick with the tesla coils i guess...
+The Millikan oil drop experiment is probably the easiest "Quantum" experiment to do.
+It's significant in that it lead to the knowledge of charge being quantized, which was the first quantity known to be so.

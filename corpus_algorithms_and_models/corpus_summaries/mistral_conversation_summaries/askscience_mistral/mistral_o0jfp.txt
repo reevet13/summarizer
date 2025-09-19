@@ -1,0 +1,15 @@
+Things with like charges repel, and things different kinds attract.
+
+Charge is a fundamental property of subatomic particles, like spin and mass.
+
+Fundamentally, what charge *is* is the property that reacts to other things with charge in a specific way.
+
+That one is positive and the other is negative is not what's important.
+
+The experimental answer is that we observe charge to be a fundamental property of matter that appears in discrete units.
+
+The interesting this about this quantum number is that like charges repel, and opposing charge attract.
+
+The potential energy is inversely proportional to the distance between the two particles.
+
+Systems always want to be in a lowest energy configuration.

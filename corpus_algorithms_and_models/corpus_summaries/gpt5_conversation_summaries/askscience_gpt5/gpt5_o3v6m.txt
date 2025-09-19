@@ -1,0 +1,10 @@
+It's not the detecting itself that's important, it's what the detection allows us to infer about the source.
+We want to build bigger and better neutrino detectors for the same reason we build huge photon detectors (telescopes) and point them at the sky when we can generate photons at will almost for free: natural sources of neutrinos/photons are very interesting!
+Neutrinos are what we sometimes call messenger particles.
+They are created either at, or very close to, sources of high energy particle acceleration (examples are supernova remnants, supermassive black holes, etc).
+The problem with neutrinos comes from their main benefit, that they have a very low interaction.
+This means they will come from the source itself, but it also makes them very hard to detect, as it mentions in the article.
+Hence why these detectors need to be huge to have the collecting area to detect these particles.
+The reason we're building these telescopes is that we specifically want to measure the flux and properties of neutrinos coming from astrophysical sources.
+For example, one of the science goals of the IceCube detector (similar to the KM3NeT detector in the article, except encased in Antarctic ice) is to accurately measure the neutrino flux from the sun in order to detect dark matter.
+Accurately measuring the neutrino flux and composition of other astrophysical events such as supernovas also gives us another piece that helps us figure out exactly what happened so many thousands of light years away.

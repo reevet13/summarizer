@@ -1,0 +1,15 @@
+Most ligands (like dopamine) don't irreversibly bind to receptors.
+
+It's a constant popping on/off that is dependent on concentration.
+
+When the signal goes away, you pull away the L.
+
+As the DA is reabsorbed, the concentration in the cleft drops and the time spent "on" the receptor by DA is diminished.
+
+Ach is treated the same way; acetylcholinesterase doesn't cut Ach from the receptor, it breaks it down once it's come off the receptor.
+
+DA receptors are GPCRs (G-protein coupled receptors), and are not ion channels.
+
+IN the nervous system, GPCRs are generally involved in modulation of signals.
+
+DA receptor actions can have effects on a seconds to milliseconds scale, and some  effects can be long lasting in terms of lasting a few minutes to lasting weeks or even months (potentially).

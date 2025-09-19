@@ -1,0 +1,26 @@
+What do meteorologists do?
+
+Meteorologists get a bad rap because many people don't realize that there are a dozen TYPES of them out there!
+
+So depending on what their role is, they need different qualifications, and you better believe that the bad ones will stick out like a sore thumb in certain sub professions!
+
+In other cases, it's life and death... you know those Storm Chasers?
+
+A close friend of mine works as a meteorologist in Australia.
+Part of the human's job is to compare the different computer models to see which is the most likely outcome - they can be very different.
+
+They also take into consideration 'local rules' that represent a database of almost anecdotal observations that they use to modify/interpret the model predictions.
+
+Meteorologists still do quite a lot.
+
+A good forecast meteorologist will show more [forecast skill](http://en.wikipedia.org/wiki/Forecast_skill) than a poor one.
+
+Beyond this, though, there are many atmospheric phenomena that our models are poor at or even incapable of forecasting.
+
+Anyway, if you have any questions, feel free to ask.
+
+While it is approximately true that *television* meteorologists often rely solely on computer-generated forecasts -- research meteorologists (atmospheric scientists) are constantly striving to improve the accuracy (spatial and temporal) of forecast models for a variety of phenomena.
+
+Operational meteorologists are responsible for issuing severe weather warnings.
+
+Models are not capable of resolving micro-scale time/space forecasts, the sort of which are absolutely quintessential for saving lives during severe weather events.

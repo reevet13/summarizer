@@ -1,0 +1,10 @@
+I don't know if the potential of [sodium phenylsulfamate](http://www.chemspider.com/Chemical-Structure.8411556.html) as a sugar substitute has been investigated so far but  after comparing and contrasting the binding of [sodium cyclamate](http://www.elmhurst.edu/~chm/vchembook/549cyclamate.html), which is a cyclohexane ring containing derivative of sulfamic acid, and [saccharin](http://www.elmhurst.edu/~chm/vchembook/549saccharin.html), which contains a benzene ring, to a simplified model of a sweetness receptor I'm wondering if sodium phenylsulfamate could be used in such a way.
+Does it taste sweet and if so how does its sweetness index compare to that of other sweetening agents?
+Of course, besides its potency as a sweetener, other concerns including, but not limited to, solubility, stability, specificity to target receptors, metabolic breakdown and ease of synthesis must be taken into account so have any studies been performed in order to assess these properties?.
+Apparently it has been tested.
+The second hit on googling "sodium phenylsulfamate" is [Synthesis and taste properties of sodium monosubstituted phenylsulfamates](http://www.sciencedirect.com/science/article/pii/0308814694901937)
+tl;dr- it possesses only a sweet aftertaste.
+derivative compounds were almost all bitter, and none were only sweet.
+In theory this should be possible, but our current theories just can't make these predictions yet, so all you can do is test everything and hope to get lucky.
+If that's the case, which I believe it is, then sodium phenylsulfamate would be a sulfamate (a sulfamic acid derivative,which its name reflects) rather than a sulfonamide.
+The oxidation state of sulfur is 4 if R=alkyl (a sulfonamide) or 6 if R=OR (a sulfamate).

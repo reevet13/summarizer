@@ -1,0 +1,2 @@
+I would say it's because there is so little contrast between the two colors.
+Yellow in normal light is more luminous to the eyes, whereas green is more luminous in low light, due to the [Purkinje effect](http://en.wikipedia.org/wiki/Purkinje_effect), which is a shift in luminous sensitivity.

@@ -1,0 +1,27 @@
+The significant correlation between protein folding rates and the sequence-predicted secondary structure suggests that folding rates are largely determined by the amino acid sequence.
+
+Folded proteins usually have a side chain packing stabilizes the folded state, and charged or side chains occupy the solvent-exposed surface where they interact with surrounding water.
+
+Minimizing the number of hydrophobic side-chains exposed to water is an important driving force behind the folding process.
+
+Formation of intramolecular hydrogen bonds provides another important contribution to protein stability.
+
+Anfinsen postulated that the native confirmation must have three characteristics: 1) It must be unique, there can't be another state with an equally low energy state. 2) It must be stable. 3) The path to the native state must be easily accessible.
+
+Proteins always refold correctly.
+
+This is further evidence that proteins do not fold according to random chance, but some sort of order.
+
+Proteins do sometimes misfold.
+
+Prion diseases and proteopathy diseases are the result of protein misfoldings.
+
+It goes in stages.
+
+There are local structures, such as the alpha helix, that form first.
+
+These can be short, ten or twenty amino acids long, that are strongly disposed to form a particular shape.
+
+The final lowest energy conformation of the whole protein has some parts that aren't as 'deep', so that settling process takes longer.
+
+Proteins fold because of thermodynamics.

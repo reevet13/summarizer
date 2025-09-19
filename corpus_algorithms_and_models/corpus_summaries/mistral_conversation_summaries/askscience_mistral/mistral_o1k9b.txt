@@ -1,0 +1,13 @@
+I read 6 Easy Pieces and have a couple questions re: the Dual Slit experiment:
+
+As I understand it when you try to view/monitor/measure which slit an electron goes through the electron acts as a particle and piles up like sand in an hourglass.
+
+When you aren’t trying to view/monitor/measure which slit it goes through you get an interference pattern;
+
+Q1. What would happen if you had the TDSW in place but turned off, would you get the electrons still pile up like particles or would interference occur?
+
+Q2. What if you turned on the TDSW but disconnected the LED (so the monitoring device knows which slit the electron went through but you had no way of knowing) would you get interference?
+
+Q3. What if you turned on the TDSW left the LED connected but you covered them with black electrical tape so you had no way of knowing which slit the electron went through.
+
+I guess my REAL question is where is the line is drawn and when does superposition becomes a reality.

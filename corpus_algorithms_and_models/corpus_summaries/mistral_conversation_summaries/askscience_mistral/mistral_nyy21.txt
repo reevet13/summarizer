@@ -1,0 +1,9 @@
+according to newtonian mechanics, the instant the object starts moving the friction switches from being the static coefficient to the kinetic coefficient.
+
+An instant, in this case, is the limit of time T as T approaches zero.
+
+It suddenly dawned on me (while I was trying to sleep no less), that I think it is possible to only apply that force for a single instant.
+
+Then you throw a ball hard enough at the crate so that it caused a 4n/5 force on the crate.
+
+Theoretically not necessarily, practically yes.

@@ -1,0 +1,17 @@
+No, light always moves at *c*.
+
+However, a sufficiently massive star (or better yet, galaxy) distorts the geometry of space-time enough that lights path is changed (light always travels at *c* but also always follows the geometry of space-time).
+
+Light moves at the same speed (c) no matter how much energy it has.
+
+The light is always moving at c in a locally inertial reference frame, but that isn't what was asked.
+
+you will observe that it takes longer for light coming from a more massive star to reach than light coming from a less massive star at the same distance.
+
+it is *not* true that a distant observer will measure light as taking the same time to reach them from stars with different masses.
+
+if you bounce a radar signal off Venus while the Sun is positioned so that the gravitational effect is the strongest, you find that it takes the light around 200 microseconds longer to complete the trip than it would if the Sun weren't there.
+
+You will see the light from the friend in the weaker potential before that from the friend in the stronger potential, which means that the light coming out of the weaker potential has had a higher average speed as measured in your coördinates.
+
+Light always moves at *c* in a vacuum - that is true.

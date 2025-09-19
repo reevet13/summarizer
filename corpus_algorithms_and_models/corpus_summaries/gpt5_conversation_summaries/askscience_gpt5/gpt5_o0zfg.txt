@@ -1,0 +1,7 @@
+I am wondering, regarding this quote from Philip K. Dick's Exegesis, whether his portrayal of tachyons are scientifically accurate in any way:
+>..the concept of tachyons, which are supposed to be particles of cosmic origin (I am quoting Arthur Koestler) which fly faster than light and consequently in a reversed time direction.
+i.e., it being possible for one to send information into the past?
+I've attempted to [look into it](http://en.wikipedia.org/wiki/Tachyonic_antitelephone) myself but am baffled by wikipedia's treatment of the subject.
+The main article on tachyons states that "As noted by Gregory Benford, among others, special relativity implies that tachyons, if they existed, could be used to communicate backwards in time", however, the tachyonic antitelephone article notes that "superluminal particles such as Tachyons are therefore not allowed to convey signals."
+How does modern physics view the concept of tachyons?
+Are tachyons falsifiable?

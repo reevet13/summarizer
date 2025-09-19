@@ -1,0 +1,19 @@
+We humans are aware of 3 dimensions which means the universe is either 3D or greater than 3D.
+
+A 2-D universe is a massless universe.
+
+In a 2-D world, gravity and energy wouldn't exist.
+
+In a 4-D world, traditional atoms wouldn't exist.
+
+Unfortunately, the answer to your question is that nobody knows (yet).
+
+There are various theories people are working on - especially string theories - where a 3D universe results from other things in the theory.
+
+Life requires stability to evolve and the article concentrates on the stability of the two-body problem (which is required for planetary orbits and electron orbits).
+
+Universes with n<3 are discounted because they do not sufficient complexity for highly evolved organism.
+
+Time is one-dimensional because fundamental laws (Laplace equation or Poisson equation) are ultrahyperbolic solutions to partial differential equations for n_t>1 and are very sensitive to small variations of the initial conditions.
+
+We, however, most definitely live in a universe with 3 spatial dimensions.

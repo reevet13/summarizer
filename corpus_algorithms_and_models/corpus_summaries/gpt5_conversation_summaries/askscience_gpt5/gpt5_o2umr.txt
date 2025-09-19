@@ -1,0 +1,10 @@
+There are several string theories/variants out there that attempt to explain both GR and the Standard model, but they are far from being accepted and verified.
+The best theory we have regarding gravity is Einstein's general theory of relativity, which says that gravity is the curvature of space-time induced by the presence of energy, momentum, mass, et cetera.
+We can say with high precision *how* gravity works (in that it's an effect of the curvature of spacetime), but answering *why* gravity follows those rules instead of some other rules is a crapshoot.
+Case in point : GR doesnt fit well with quantum field theories and the Standard model of particle physics, but we use it anyway, because it works.
+If a good String theory is found, it will mean that we would then have a single set of postulates that can be used to derive both GR and the Standard model, as opposed to the two mutually incompatible sets of postulates we have now.
+Mass is a form of energy, and General Relativity states that concentrations of energy determine the curvature of space-time.
+Things moving through space-time will follow this curvature, giving the effect we perceive as gravity.
+The standard model and quantum physics explain the weak, strong and electromagnetic forces that act between atoms - but not gravity.
+When dealing with things like black holes we need to combine both relativity and quantum physics, and then it breaks because we lack an accepted theory of quantum scale gravity.
+It has also yet to make any testable predictions.

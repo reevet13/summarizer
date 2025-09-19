@@ -1,0 +1,7 @@
+The speed of light in a vacuum is always the speed of light in a vacuum.
+
+This property doesn't *really* apply to anything.
+
+What you discover if one of the objects you're measuring actually gets to the speed of light (or, rather, starts out at the speed of light, since nothing slower than light can ever get to that speed) is that it doesn't matter how fast the other object is traveling (as long as it too is not moving at the speed of light, because then the equations break down), it will *always* see the first object traveling at the speed of light.
+
+Part of the reason the speed is always the same is that the faster you go, the shorter your yardstick is.

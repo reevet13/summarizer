@@ -1,0 +1,12 @@
+Look up cosmic distance ladder on youtube for a complete description, but yes, relatively close stars are measured with paralax.
+Measure the position of a star, then measure it again six months later when the Earth has moved 300 million km, and use the change in angle to calculate distance.
+Things that are farther away are measured with what are called standard candles, where we compare how bright something looks with how bright that type of thing actually is.
+The expansion of the universe only works for scales larger than our local supercluster, which doesn't include stars in our galaxy.
+In reality though, Hubble's law is only used for the absolute most distant galaxies.
+This is because there are much better techniques for measuring nearby galaxies such as using supernova 1a standard candles.
+Our most reliable standard candle for extragalactic distances is a supernova 1a.
+This supernova occurs when a white dwarf accretes mass up to the Chandrasekhar Limit.
+The differences in brightness we observe must come from the fact the explosion happens further away.
+More generally there are relationships that have been discovered between things like the period of pulsations and the luminosity of a certain type of variable star.
+This means we can measure the period (since it doesn't depend on distance) and work out its absolute brightness, giving us the distance when we compare with our observed brightness.
+This makes Hubble's law inherently useless for anything in our local supercluster.

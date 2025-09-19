@@ -1,0 +1,13 @@
+Yes, for sure. Not only the heater, but everything you turn on ultimately coverts electricity to heat.
+
+The issue isn't energy, it's entropy.
+
+The heater increases the entropy of a system faster when turned on than off, so yes.
+
+What you should be looking at, rather, is the second law of thermodynamics which heavily paraphrased basically states that energy becomes less useful over time.
+
+'heat death' really refers to entropy approaching a maximum such that the universe's temperature can't be exploited to perform work, so stuff like life is impossible.
+
+The main effect is that there will be radiated energy that leaves the solar system.
+
+The Earths future is uncertain in that aspect. The orbit is slowly moving out, as the Sun radiates its mass away, but the Moon is also acting as a brake on the Earth.

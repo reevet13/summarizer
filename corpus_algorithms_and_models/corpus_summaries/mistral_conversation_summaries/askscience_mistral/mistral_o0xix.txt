@@ -1,0 +1,13 @@
+If you assume a digit to be a byte, you have 10^googol bytes, or 10^10^88 terabytes of data.
+
+As I understand it, a googolplex is a 1 with a googol number of zeros behind it.
+
+Since the number of these particles in the observable universe is well below a googol, we don't have enough particles to write out that number.
+
+No, there's not enough stuff in the universe to do that.
+
+There are about 10^11 galaxies in the visible universe, typically with 10^11 stars.
+
+There are thus ~ 10^80 atoms in the visible universe.
+
+You couldn't even write out a regular google.

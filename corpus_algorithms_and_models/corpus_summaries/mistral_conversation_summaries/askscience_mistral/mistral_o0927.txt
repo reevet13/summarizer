@@ -1,0 +1,17 @@
+1 in 8,388,608.
+
+(Not accounting for variables other people mentioned).
+
+The number of permutations of sperm that you would have will vary based on your genome.
+
+Everyone who reads this should remember that an egg will have as many possibilities, and the combination will produce even more variation.
+
+There are trillions of possibilities when you include both your and your partner's genetic code - billions with your code alone.
+
+Each sperm cell contains about half of your DNA and each individual sperm cell will include a slightly different half.
+
+The easiest place to notice this is in the sex chromosomes: You as a male have both an X- and a Y-chromosome, and each sperm will have either an X-chromosome or a Y-chromosome.
+
+Additionally the other chromosomes will swap large sections of DNA via [crossover](http://en.wikipedia.org/wiki/Chromosomal_crossover).
+
+Dominant genes are no more likely to be in sperm/eggs than recessive, it's basically a coin flip.

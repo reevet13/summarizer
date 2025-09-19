@@ -1,0 +1,9 @@
+We all have the same genes, but different versions of those genes.
+
+Dominant just means that the trait produced by that allele only needs one copy of the allele so that it will be expressed.
+
+Unless society selects for one of the alleles, meaning people will be more likely to mate with a person with a certain phenotype thus decreasing the total frequency of an allele, then the relative concentrations of dominant and recessive alleles will remain the same.
+
+It should stay the same if we assume no selection of any kind, and purely random mating.
+
+No, allele frequency is not a function of whether they're dominant or recessive.

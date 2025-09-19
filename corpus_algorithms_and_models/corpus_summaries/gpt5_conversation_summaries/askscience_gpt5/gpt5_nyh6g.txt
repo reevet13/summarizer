@@ -1,0 +1,11 @@
+It makes very little sense to refer to light's frame of reference.
+The photon has to travel from point A to point B, and that takes time according to every relevant inertial frame.
+Light is the limit of this as that 10 goes to 0 -- which really leads to a lot of non-useful extrapolations that don't actually mean anything.
+And it's impossible to meaningfully talk about what photons can do if they're slowed down, because they can't be.
+His(/her) statement was a bit loose.
+It should have read it makes no sense to talk about light's frame of reference.
+However, half the point of relativity is that the speed of light is constant in all reference frames, so there's no such thing as a frame in which a photon is at rest.
+This is why it doesn't really make sense to say things like "light doesn't experience the passage of time." There's a way in which this is sort of true - either as a limit of time dilation, or in terms of a thing called proper time - but since there's no such thing as a photon's frame of reference, there isn't even any consistent way of describing physics as seen by light.
+Proper time is a geometric quantity.
+You can't interpret it similarly for light, since light doesn't have a rest frame, but the proper time along a photon's path is zero.
+There are timelike paths, which are the ones massive objects like you and I move along.

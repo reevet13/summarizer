@@ -1,0 +1,5 @@
+The level will stay the same.
+
+Reason: The ice, when floating in the water, is displacing its weight, pushing exactly that much water away from itself.
+
+After melting, the same weight of water is present, thus displacing the same amount of water.

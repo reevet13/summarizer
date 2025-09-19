@@ -1,0 +1,13 @@
+A molecule can absorb light of a particular wavelength if the energy increase from the absorption can induce a change from one allowed energy state of the molecule to another.
+
+The possible transitions allowed for the molecules are governed by what are known as selection rules.
+
+For instance this can be a change in the rotational or vibrational energy level (when the frequency of the vibration or rotation changes) or changes in the electronic configuration of the molecule.
+
+If the frequency of the light matches the fundamental frequency, the light is absorbed.
+
+It is this principle of resonance which causes some frequencies of light to be absorbed and others to not.
+
+When you're looking at pure elements, that's almost exactly what you get.
+
+When you look at objects in the everyday world, you're looking at many elements and don't get that pure spectrum.

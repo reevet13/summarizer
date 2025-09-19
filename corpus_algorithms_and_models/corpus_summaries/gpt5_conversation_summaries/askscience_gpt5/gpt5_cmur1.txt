@@ -1,0 +1,3 @@
+Stroboscope for high-speed microscopy.
+For a diode laser to have narrow linewidth it's feedback and current need to be very carefully controlled, constantly, at high speeds.
+This laser certainly does not meet those requirements.

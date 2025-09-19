@@ -1,0 +1,15 @@
+The Nile flows upwards at an average speed of 4 knots, 7.4 km/h.
+Use the Pythagorean Theorem and solve for your resultant vector.
+Well if you're opposing the flow of 7.5km/h then you'd have to use the energy to go higher than 7.5km/h.
+I saw a fairly clever set-up once that allowed boats to go upstream with no extra force applied.
+As the water flows, it turns the wheel and winds in the rope, pulling the boat upstream.
+Sailboats can sail at a decent clip in any direction at least ~ 25 degrees from the direction wind is coming from.
+The Nile is a fairly slow river but you'd still need a decent breeze to sail it.
+25 degrees?  Most racing boats are proud to maintain 40 in decent winds.
+Very well.  Not to nitpick, but if the goal is to make progress upstream, angle to apparent is not as important as angle to true.
+To stand still in a 2 knot current, you will have to be sailing forward at 2.82 knots.
+I guess this more or less answers OP's question - it's certainly possible, if not terribly fast.
+As long as it isn't blowing from upstream you could make considerably better time.
+At a nice tight reach, you could just point upstream and make hull speed minus river speed like any other ship.
+For the Nile, here you go -
+- http://en.wikipedia.org/wiki/Felucca -

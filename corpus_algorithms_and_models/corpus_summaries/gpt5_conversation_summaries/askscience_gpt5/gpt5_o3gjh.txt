@@ -1,0 +1,13 @@
+Unfortunately, the answer to your question is that nobody knows (yet).
+We can construct fully functional quantum field theories and spacetimes in lower- and higher-dimensional spaces.
+But we haven't yet found the reason why we should have a universe with three spatial dimensions, just as we don't yet know why the electron should have the mass it has, etc.
+There are various theories people are working on - especially string theories - where a 3D universe results from other things in the theory.
+And here I thought we did live in at least a 4D world...time is the fourth dimension in many applicable problems.
+Additionally, according to string theory we likely live in an 11 dimensional world.
+It first invokes the antropic principle to answer the question "why" the universe is the way we observe it (if it were unfit for us, we wouldn't observe it).
+Life requires stability to evolve and the article concentrates on the stability of the two-body problem (which is required for planetary orbits and electron orbits).
+Stable orbits are only possible for n<4.
+Universes with n<3 are discounted because they do not sufficient complexity for highly evolved organism.
+Time is one-dimensional because fundamental laws (Laplace equation or Poisson equation) are ultrahyperbolic solutions to partial differential equations for n_t>1 and are very sensitive to small variations of the initial conditions.
+Intelligence cannot evolve because predictions are not possible.
+Technically, also, time can be considered a fourth dimension.

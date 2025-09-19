@@ -1,0 +1,14 @@
+So this all started when I watched this video: http://www.tenthdimension.com/medialinks.php
+Through that video I began developing my own idea of how dimensions are set up and would like to get some insight to fine tune my idea or shoot it down for the crackpot theory that it is.
+I would really appreciate some constructive criticism or a different perspective on this idea that I've been mulling over in my head.
+It's a bit hard to say anything other than neither your ideas and the video's have much to do with the concept of dimension in either science or maths :S
+care to link me to some informational materials regarding dimension in science or math?
+how do both of those subjects view dimensions as?
+One way to think about it is that dimensions relate to how much information is required to specify the state of something.
+We say that space is 3-dimensional because 3 numbers are required to specify the location of a point.
+[Here's a nice introduction](http://goodmath.blogspot.com/2006/04/dimensions.html) that specifically aims at dispelling some myths.
+For actually understanding the concept of dimension (rather than just reading descriptions) I would recommend studying linear algebra or topology.
+I'm very surprised that the concept of dimension didn't come up.
+Linear algebra is the study of [vector spaces](http://en.wikipedia.org/wiki/Vector_space).
+A [basis](http://en.wikipedia.org/wiki/Basis_%28linear_algebra%29) of a vector space is a set of linearly independent vectors which span the vector space.
+Finally, the size of the basis is the [dimension](http://en.wikipedia.org/wiki/Dimension_%28linear_algebra%29) of the vector space.

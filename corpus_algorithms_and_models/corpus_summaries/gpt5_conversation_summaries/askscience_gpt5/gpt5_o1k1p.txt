@@ -1,0 +1,15 @@
+We all know the experiment that Michelson did to determine the speed of light.
+Rotating octagonal mirror, distant fixed mirror, etc.
+Due to finite speed of light, the pulse comes back from the remote mirror only after the rotating octagon is presenting the next reflective facet to it.
+I did some math and the experiment is very hard to reproduce at home.
+So, I'm thinking to make some changes.
+First off, just replace the octagon with a reflective cube.
+Why not use the same facet, and just measure the changed reflection angle?
+The rotating cube and the remote mirror act like a very sharp collimation device.
+Basically, what I'm saying is that the beam of light coming out of the whole device will start leaning slightly forward when the cube is spinning rapidly.
+By measuring the deviation angle, one could calculate the speed of light.
+Using about 100m distance between cube and remote mirror (which is totally doable on a football field; also, cheap lasers easily cover twice that distance), and a cube spinning at 21,000 RPM (doable with small DC motors), I calculated that the beam coming out of the device is deviated 10 arcmin forward - the tangent of that angle is 3 * 10^-3.
+Totally measurable by an amateur.
+Anyway, some constructive criticism, please?
+EDIT: Instead of a rotating cube, I could shoot the laser through a 50/50 beamsplitter towards a rotating flat mirror.
+It sounds completely reasonable.

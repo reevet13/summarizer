@@ -1,0 +1,17 @@
+Well, there's no evidence to suggest that cell phones *do* cause cancer, and there's no plausible mechanism (that I'm aware of) by which they could.
+
+Both cell phones and cordless phones transmit radio frequency (RF) signals, which is a form of non-ionizing radiation.
+
+The only way to be harmed by RF signals is by sheer power output.
+
+Cell phone powers are so low they do not measurably heat the human body.
+
+I fully agree that neither cell phone nor wireless phone radiation is ionizing. Therefore, the radiation itself will not directly excite DNA in a fashion capable of causing strand breakage.
+
+Without invoking novel physics, it's pretty safe to say that phones do not release ionizing radiation that can directly (or through water) break DNA.
+
+Ionization of DNA can lead to mutation: for example, C->T by OH- replacement of C's amino group, or T-T crosslinks.
+
+Ionization of the DNA deoxyribose backbone can cause strand breakage; this is either repaired or can lead to disastrous consequences for the cell.
+
+If something is emitting non-ionizing radiation, it is difficult to imagine biological consequences.

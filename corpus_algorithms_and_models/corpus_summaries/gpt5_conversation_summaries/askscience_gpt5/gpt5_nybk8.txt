@@ -1,0 +1,10 @@
+During the Apollo missions to land on the Moon, the Lunar Modules would land as a whole.
+There are no Earth weather-like events on the Moon.
+You can't see them from earth.
+Though they have been seen from Luna orbit by a satellite a few years ago.
+As to your original question...  things like solar wind and hard radiation may affect the chemical composition of any artifact left unprotected (embrittlement of both metal and plastic components might result), and micrometeorite bombardment would basically "sandblast" the descent stage of the lander, just as the rest of the lunar surface has been sandblasted by micrometeorite bombardment for eons.
+Very wide temperature variations can occur, since there is effectively no atmosphere to redistribute heat between objects sitting in direct sunlight, and those in shadow (although during lunar night, it's safe to say everything gets very cold).
+It's conceivable that thermal stress cycles might damage anything left on the moon long enough, but since a "cycle" is 28 days (one lunar day), it would take a very long time for any structural components to succumb to fatigue.
+Assuming some later group of people don't come along and decide to move or otherwise disturb it, it's safe to assume the lander descent stage would probably remain intact for a very, very long time.
+Moon has no weather and almost no atmosphere.
+It will remain there for aeons, unless somebody takes them from the surface in the future, which is probable.

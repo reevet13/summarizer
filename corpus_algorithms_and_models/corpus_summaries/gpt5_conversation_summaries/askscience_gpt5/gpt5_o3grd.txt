@@ -1,0 +1,3 @@
+What we've started to wonder is what the best practice for esky management is.
+C) leave the drainage hole open, all melted ice exits the esky leaving no water layer.
+The general consensus from the tech guys at the brewery was that to get the lowest temp possible the drainage hole should be left open so the plate at the bottom was in constant contact with melting ice.

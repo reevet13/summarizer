@@ -1,0 +1,17 @@
+There's no such thing as "what it seems to a photon."
+
+Photons don't have perspective.
+
+There's no way of describing the Universe as seen by a photon, and for one very simple reason: any object's frame of reference is the frame in which it's at rest, but the speed of light is constant in *all* reference frames.
+
+So it's impossible to construct a photon's rest frame.
+
+This notion that photons don't experience time is sort of true but is fundamentally misleading.
+
+I'd stress, again, it's not actually the time that passes by for light, but rather some other quantity which is mathematically similar.
+
+Length contraction is physically real, ie. something that can be measured with precision instruments.
+
+I wouldn't call the math impossible to do either, as long as you are perfectly willing to accept *infinity* as an answer at face value, the simple algebra of special relativity work just fine.
+
+Nope, I wasn't talking about any sort of limit, I was talking about the fact that it is literally impossible to construct a photon rest frame (even as a limit!) because the speed of light is constant (and non-zero) in all reference frames.

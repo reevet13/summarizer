@@ -1,0 +1,21 @@
+Regardless of what you do with your security settings, there is one party who always has access to all of your data: Facebook itself.
+
+The only difference is that they can get it in machine readable format.
+
+I've had just had a very unpleasant incident which borders on stalking.
+
+Facebook should have never opened their garden up to non-college people, they really fucked up there.
+
+You can control the amount of access a Facebook app has to your data, and you don't have to put all this data on Facebook in the first place.
+
+No you can't. You can specify a single application and restrict it but you would need to do it for every single application that your friends use.
+
+When you add an application, unless you say otherwise, it is given access to most of the information in your profile. That includes information you have on your friends even if they think they have tight security settings.
+
+The only information the app can obtain is information that is already public and on your profile.
+
+The app cannot access data outside of my profile - such as email, notifications, posts, and so on.
+
+The article is true, this information is PRIVATE.
+
+It's actually illegal under EU and UK law. They are not allowed to collect this info without my IMPLIED consent. Having a friend add an application is not consent.

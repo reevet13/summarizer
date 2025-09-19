@@ -1,0 +1,9 @@
+Light (and gravity) take 8.2 minutes to reach the earth from the sun.
+
+After those ~8 minutes we would fly off into space along the tangent to our previous orbit of the Sun.
+
+It has to - no information can travel faster than the speed of light.
+
+The Earth is moving at a tangent to its orbit and the orbit is the result of an acceleration towards the sun and a tangential velocity sufficient that the Earth does not fall directly towards the Sun but orbits instead.
+
+If the Sun were to suddenly disappear, the acceleration towards the Sun would not be there any more and only the Earth's tangential velocity would remain.

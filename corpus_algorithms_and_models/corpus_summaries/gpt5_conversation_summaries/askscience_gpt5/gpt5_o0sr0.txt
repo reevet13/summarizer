@@ -1,0 +1,13 @@
+Who do you think makes, improves, and interprets those models?
+Meteorologists get a bad rap because many people don't realize that there are a dozen TYPES of them out there!
+If you're a poor one, you're a dead one.
+Part of the human's job is to compare the different computer models to see which is the most likely outcome - they can be very different.
+They also take into consideration 'local rules' that represent a database of almost anecdotal observations that they use to modify/interpret the model predictions.
+The field of meteorology is very broad and covers everything from forecasting to tropical storm research to space weather research.
+There are many different weather models used for forecasting.
+Each one is different, and each one has its strengths and weaknesses.
+A forecaster must be familiar with those strengths and weaknesses and how they apply to their region.
+It is the forecaster's job to assess the current conditions based on ground station observations, satellite products, etc. and build a forecast based partially on the models, but also partially on their knowledge of local meteorology and their intuition.
+A good forecast meteorologist will show more forecast skill than a poor one.
+Beyond this, though, there are many atmospheric phenomena that our models are poor at or even incapable of forecasting.
+Models are not capable of resolving micro-scale time/space forecasts, the sort of which are absolutely quintessential for saving lives during severe weather events.

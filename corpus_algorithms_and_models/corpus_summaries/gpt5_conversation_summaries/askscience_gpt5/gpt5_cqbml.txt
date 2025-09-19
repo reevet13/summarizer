@@ -1,0 +1,12 @@
+I got this idea while exploring the 3 rules of thermodynamics, specially the second one, came up with a device, i know it can't work but i can't but my finger on the reason why.
+[OK so here is the machine](http://imgur.com/p5gQX), a set of piping and 2 chambers thermally isolated from exterior, and a mirror to focus thermal radiation from the big tank of liquid to the small.
+I'm not thinking of a perpetual motion machine of the first kind but one of the second and i know that can't be right.
+Spherical shell with hot liquid having at the center a small ball with the same liquid connected through pipes, would the small sphere tend to be hotter due to concentrated thermal radiation if conduction / convection through pipes is minimized ?
+As i said for this to work i must be missing something with radiation heat transfer or similar.
+The mirror will reflect thermal radiation both ways.
+Every point on the inner surface of the sphere radiates energy in every possible direction.
+So, there are no more photons which travel through the center of the interior of the sphere than any other point within the sphere.
+So, no point will receive more radiant energy than any other.
+Therefore, there is no reason why the core would be any warmer than the shell.
+There is a higher density of radiant energy (ie, photons).
+But that does not translate to a higher temperature, because there are just as many photons outbound as inbound.

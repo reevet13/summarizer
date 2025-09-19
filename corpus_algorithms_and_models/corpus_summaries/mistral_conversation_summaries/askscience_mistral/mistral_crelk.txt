@@ -1,0 +1,16 @@
+Yeah, most computational fluid dynamics (CFD) programs are ridiculously expensive.
+
+I found [this](http://www.freefem.org/ff++/index.htm) free Finite Element Method (FEM) software; I'm not sure how well it will suit your needs.
+
+[Here](http://www.freecfd.com/) is a free CFD software.
+
+http://www.caelinux.com/CMS/
+A Linux distro specialised on modeling. OpenFOAM is the CFD unit.
+
+It's not free, but it is really cheap, comparatively.
+http://www.x-plane.com/index_desktop.html
+You can create custom planes using simple shapes.
+
+Last time I checked it was like $80.
+
+The FAA certified version is an extra $500.

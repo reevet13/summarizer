@@ -1,0 +1,9 @@
+No, surface tension would result in a minimal surface.
+
+Surface tension always attempts to pull a liquid into a shape with the smallest possible surface area.
+
+In the absence of gravity, this would be a perfect sphere.
+
+In gravity, on the other hand, small amounts of liquid will pool into droplets like you see on your car after a light rain.
+
+There is no situation where the video you link to could work.

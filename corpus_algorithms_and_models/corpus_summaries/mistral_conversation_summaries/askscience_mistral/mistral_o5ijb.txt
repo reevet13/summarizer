@@ -1,0 +1,15 @@
+The "thinking" noise from your HDD comes from the arm moving rapidly across the disk platters to seek different tracks.
+
+In modern drives, the arm is moved around using an electromagnetic arrangement known as a "voice coil" or galvanometer.
+
+The voice coil method is superior to the stepper motor design, as the voice coil uses a "feedback loop" to navigate the platter geometry.
+
+The heads actually "float" at a distance above the platter which is measured in **nanometers**.
+
+It's the very fast movement of the arm back and forth.
+
+The noise comes from the fact that the theory of operation of the arm/galvo is actually pretty similar to that of a typical loudspeaker setup!
+
+In the case of the hard drive, for any typical operation the drive may need to seek to **many** different tracks, causing the arm to move around **a lot**.
+
+The vibrations induced in the arm by these rapid movements are analogous to the sound-causing vibrations of the loudspeaker.

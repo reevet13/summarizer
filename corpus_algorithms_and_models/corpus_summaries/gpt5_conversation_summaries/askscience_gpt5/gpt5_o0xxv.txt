@@ -1,0 +1,13 @@
+A sidereal month is 27.321661 days (time for the moon to go around earth once) and the moon's orbital period is 27.321582 days.
+This means that each ~~lunar month~~ rotation of the moon around the earth we should see the moon rotate (27.321661-27.321582)*360 =0.028 degrees.
+A very small amount.
+The orbital and rotation periods of the Moon aren't constant over a long period of time.
+The Earth rotates faster than the Moon orbits, so the tidal bulges on Earth [lead the Moon by a small amount.](http://i.imgur.com/0248W.gif)
+This transfers some of the rotational energy of the Earth to the orbit of the Moon, which slows the Earth's rotation down and causes the Moon to drift slowly away from the Earth (at a rate of roughly 4 cm per year).
+As the Moon drifts away, its orbital period increases.
+Early in the Moon's history, it rotated much faster than it does now, but tidal effects slowed it down and brought to the synchronous rotation state it currently is in.
+From a conversation we had, I remember him mentioning that the Moon will not drift off to infinity; the rate at which it is drifting away from Earth is also slowing down, so eventually it will stabilize.
+That's been projected to happen once the day and month both equal about 47 (current) days, billions of years in the future.
+If the Earth and Moon still exist, the Moon's distance will have increased to about 135% of its current value.
+What the authors say is that asteroid impacts can cause the moon to rotate, but tidal locking is restored in a short (~10^3 to 10^4 year) period.
+The moons tidal locking is complete after this period, it is not asymptotically approached.

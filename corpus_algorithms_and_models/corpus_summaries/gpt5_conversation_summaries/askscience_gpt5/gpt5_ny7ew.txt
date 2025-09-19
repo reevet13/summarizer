@@ -1,0 +1,11 @@
+So it turns out that I left out a key phase there: "for general algorithms".
+You *can't* approach it with a generalized algorithm.
+But there's no algorithm that compresses an *arbitrary* file better than the entropic limit.
+They are different ideas.
+Kolmogorov complexity is defined for numbers, sequences etc.; Shannon entropy is defined for random variables.
+Entropy does not change if you apply an injective function to the variable, it cares only about distribution not about values.
+Using different alphabets can get you different *numerical values* for entropy, but that's just because the units are different.
+Since a computer program describing value is a proper way to encode data, if X has some distribution, then H(X) <= EK(X), i.e. expected value of Kolmogorov complexity is at least as large as Shannon entropy.
+It would appear that by "entropy coding algorithm" you mean something like Huffman coding, which doesn't take in to account any structure beyond symbol frequency.
+Data is structured, and so we have developed algorithms which can identify and compress that structure.
+So, if you are not compressing a single fixed document, but say attempting to compress any arbitrary Word document, or pdf file, etc, asymptotically the Kolmogorov complexity buys you nothing over Shannon entropy.

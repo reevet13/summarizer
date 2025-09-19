@@ -1,0 +1,10 @@
+Agree, the experiment what they did it was complete crap.
+The only important flaw is a complete lack of statistics.
+It is well known that you get statistical clumping in random samples, as pure homogeneity is actually rather unlikely.
+I severely doubt that iTunes is coming across 'deficiencies' in random number generators.
+Essentially, the author has no idea what he is talking about.
+My conclusion is that the data showed only the expected variance of actually having a truly random playlist, but that the author was too incompetent to properly interpret his data (which was unnecessarily convoluted).
+Ok, I did one more MC simulation that shows that the observed results, are exactly what you would expect from purely random results if there was absolutely no bias towards any particular artist.
+I used the [Mersenne-Twister](http://en.wikipedia.org/wiki/Mersenne_twister) in these simulations which has a period of 2^19937 − 1 ~ 4 x 10^6001 and has been shown to be a very good random number generator passing all the [diehard tests](http://en.wikipedia.org/wiki/Diehard_tests).
+It is not difficult at all, you just run a [Chi-Squared Test](http://en.wikipedia.org/wiki/Pearson%27s_chi-square_test) with a uniform distribution as your null hypothesis.
+I didn't do them for his experiment, as his experiment was needlessly complicated and would make for annoying to calculate statistics.

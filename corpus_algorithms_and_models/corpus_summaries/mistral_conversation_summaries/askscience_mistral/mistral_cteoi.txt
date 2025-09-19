@@ -1,0 +1,14 @@
+Well you would eventually hit the earth, but barring that you would continue to accelerate, approaching but never reaching the speed of light.
+
+Terminal velocity is just when the force of friction from your drag equals the force of gravity, so you have no acceleration.
+
+If you dug a tunnel through the centre of the earth to the other side, it would take 42 minutes to fall through.
+
+The acceleration would decrease until it reached zero at the centre.
+
+Falling through the earth is equivalent to simple harmonic motion with a period of 84 minutes and an amplitude of 6380 km.
+
+In the spirit of pedantry...:)
+In an actual free fall situation, you will have small variation in terminal velocity due to changes in object orientation and local air density.
+
+Here's another fun fact - if you dig any straight tunnel through the earth, no matter whether it passes through the center or not, it will always take 42 minutes to fall through to the other side. (assuming a frictionless vacuum, of course)

@@ -1,0 +1,3 @@
+Thanks to quantum mechanics being quantised, electron energies are...well, quantised.
+However, it can only pass on its energy if the electron energy + the photon energy is also an allowed electron energy.
+If not, there is no way for the electron to exist with the new amount of energy, so the photon doesn't interact with it and the material is transparent to that photon.

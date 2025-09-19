@@ -1,0 +1,16 @@
+It doesn't get exponentially weaker, it goes as 1/r^2 until you start looking at absorption from gas and dust.
+
+We can detect radio signals from space, for instance from pulsars or from the CMB.
+
+The thinking is that if there are civilizations that are communicating across vast distances, they are using frequencies that are not absorbed by interstellar gas and dust.
+
+To me the bigger question is "what are the chances of another civilization actually brodcasting a signal?".
+We've only been doing it for just about a century now...
+Would it be safe to say that 5,000 years from now we would have moved on to other forms of communication which do not rely on broadcasts as we do now?
+
+If we moved on to other forms of communication and completely get rid of broadcasting signals there would only be a 10,000 light year thick "bubble" of signals that once past another planet with their own SETI program would be completely missed.
+
+To me this is the main reason why SETI is a bit foolish.
+It is based on hoping that other civilizations out there are making use of technology in a similar way to us, and do so for a reasonable amount of time.
+
+However I do still think it is a worthwhile program given its relatively low cost and incredible return if it does actually work.

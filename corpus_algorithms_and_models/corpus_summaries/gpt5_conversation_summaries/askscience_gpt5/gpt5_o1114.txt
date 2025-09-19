@@ -1,0 +1,11 @@
+You can't have still air with a flame, as the flame will heat the air and the air will start circulating.
+In microgravity experiments, the lack of air circulation causes flames to burn out, as no new oxygen is brought to the combustion source.
+Flames in zero gravity conditions receive oxygen via diffusion.
+"Low Velocity" flames will still flicker, even in a windless environment.
+The reason being is the combustion reaction yields inherent instabilities causing turbulent flow of the outbound products.
+Many times the flicker is due to uneven fuel flow through the wick.
+A candle flame is by definition a diffusion flame.
+The short answer is yes, because of naturally occuring combustion instabilities and hydrodynamic instabilities.
+These processes will cause any visible smoke, as well as the top of the flame, to be imperfect (flicker, or move around in a manner which seems somewhat random) as disturbances (even immeasurably small) will be convectively amplified.
+There is one stabilizing mechanism, and that is the drop in density of the air as it passes through the flame (caused by increase in temperature).
+So even in the case of still air (or as still as one can possibly make it), you'd still see some flickering.
